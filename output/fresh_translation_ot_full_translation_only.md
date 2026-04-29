@@ -75096,37 +75096,37 @@ Be glad, heavens, because God showed mercy to Israel. Trumpet, foundations of th
 
 **Isaiah 44:24**
 
-Thus says the Lord, one redeeming you and shaping you from womb: I, the Lord, completing all, stretched out heaven alone and founded earth. Who else?
+Thus says the Lord, the one redeeming you and the one forming you from the womb: I am the Lord, the one completing all things. I stretched out heaven alone and founded the earth. Who else?
 
 **Isaiah 44:25**
 
-He scatters signs of ventriloquists and divinations from heart, turning wise men backward and making their counsel foolish,
+He will scatter signs of ventriloquists and divinations from the heart, turning wise men backward and making their counsel foolish,
 
 **Isaiah 44:26**
 
-confirming words of his servant and making true counsel of his messengers, saying, Jerusalem, You will be inhabited, and to the cities of Judah, You will be built, and her desolate places will spring up.
+He establishes the words of his servant and makes true the counsel of his messengers, the one saying, Jerusalem, You will be inhabited, and to the cities of Judah, You will be built, and her desolate places will spring up.
 
 **Isaiah 44:27**
 
-saying to abyss, Be made desolate, and I will dry up your rivers.
+the one saying to the deep, Be made desolate, and I will dry up your rivers.
 
 **Isaiah 44:28**
 
-saying Cyrus will think rightly and do all my will, saying, Jerusalem, You will be built, and my holy house, I will lay foundation.
+the one saying to Cyrus, Think rightly, and he will do all my will, the one saying, Jerusalem, You will be built, and I will lay the foundation of my holy house.
 
 ### Chapter 45
 
 **Isaiah 45:1**
 
-Thus says the Lord God to my anointed Cyrus, whose right hand I grasped, to make nations submit before him. I will tear apart the strength of kings, open doors before him, and cities will not be shut.
+Thus says the Lord God to Cyrus, my anointed, whose right hand I grasped, to make nations obey before him. I will tear apart the strength of kings, open doors before him, and cities will not be shut.
 
 **Isaiah 45:2**
 
-I will go before you and level mountains; bronze doors I will crush and iron bars I will break.
+I will go before you and level mountains; I will crush bronze doors and break iron bars.
 
 **Isaiah 45:3**
 
-And I will give you dark treasures, hidden unseen ones I will open for you, so you may know that I, the Lord God, one calling your name, am God of Israel.
+And I will give you treasures of darkness; hidden unseen treasures I will open for you, so you may know that I am the Lord God, the one calling your name, the God of Israel.
 
 **Isaiah 45:4**
 
@@ -75134,51 +75134,51 @@ For the sake of Jacob my servant and Israel my chosen, I will call you by your n
 
 **Isaiah 45:5**
 
-Because I am the Lord God, and there is no other; besides me no god, and you did not know me.
+Because I am the Lord God, and there is no other; there is no god besides me, and you did not know me.
 
 **Isaiah 45:6**
 
-So those from sunrise and those from west may know that none exists besides me. I am the Lord God, and there is no other.
+so that those from the rising of the sun and those from the west may know that none exists besides me. I am the Lord God, and there is no other.
 
 **Isaiah 45:7**
 
-I one preparing light and making darkness, making peace and creating evils; I am the Lord God, doing all these things.
+I am the one preparing light and making darkness, making peace and creating evils; I am the Lord God, the one doing all these things.
 
 **Isaiah 45:8**
 
-Let heaven above rejoice, and clouds rain righteousness. Let earth bring forth mercy, and let righteousness spring up together. I am the Lord who created you.
+Let the heaven above rejoice, and let the clouds rain righteousness. Let the earth sprout mercy, and let righteousness spring up together. I am the Lord who created you.
 
 **Isaiah 45:9**
 
-What better thing did I make than clay of potter? Will a plowman plow the whole earth all day? Will clay say to potter, What are you doing, since you do not work, nor have hands?
+What better thing did I make than clay of a potter? Will the plowman plow the whole earth all day? Will the clay say to the potter, What are you doing, since you do not work, nor do you have hands?
 
 **Isaiah 45:10**
 
-Woe to one saying to father, What will you father? and to mother, What are you laboring to bear?
+The one saying to the father, What will you beget? and to the mother, What are you laboring to bear?
 
 **Isaiah 45:11**
 
-Because thus says the Lord God, the Holy One of Israel, one making things coming: Ask me concerning my sons and daughters, and command me concerning works of my hands.
+Because thus says the Lord God, the Holy One of Israel, the one making the things coming: Ask me concerning my sons and my daughters, and command me concerning the works of my hands.
 
 **Isaiah 45:12**
 
-I made earth and humankind on it. I with my hand fixed heaven; I commanded all stars.
+I made the earth and humankind on it. I fixed heaven with my hand; I commanded all the stars.
 
 **Isaiah 45:13**
 
-I raised him up with righteousness as king, and all his ways straight. He will build my city and turn back captivity of my people, not with ransom nor with gifts, says the Lord of hosts.
+I raised him up with righteousness as king, and all his ways are straight. He will build my city and turn back the captivity of my people, not with ransoms nor with gifts, says the Lord of hosts.
 
 **Isaiah 45:14**
 
-Thus says the Lord of hosts: Egypt labored, and trade of Ethiopians, and Sabeans, tall men, will pass over to you and be your slaves, and behind you they will follow, bound with handcuffs, and they will worship you and pray in you, because God is in you; and they will say, No god exists besides you.
+Thus says the Lord of hosts: Egypt labored, and the trade of Ethiopians, and the Sabeans, tall men, will pass over to you and be your slaves, and behind you they will follow, bound with fetters, and they will worship you and make supplication to you, because God is in you; and they will say, No god exists besides you.
 
 **Isaiah 45:15**
 
-For you are God, and we did not know it, God of Israel, savior.
+For you are God, and we did not know it, the God of Israel, Savior.
 
 **Isaiah 45:16**
 
-All opposing him will be shamed and disgraced, and go in shame. Renew yourselves to me, islands.
+All those opposing him will be shamed and disgraced, and they will go in shame. Renew yourselves toward me, islands.
 
 **Isaiah 45:17**
 
@@ -75186,197 +75186,197 @@ Israel is saved by the Lord with everlasting salvation; they will not be ashamed
 
 **Isaiah 45:18**
 
-Thus says the Lord, one making heaven, this God showing earth and making it, he marked it out; not in vain he made it, but to be inhabited. I am, and there is no other.
+Thus says the Lord, the one making heaven: this God, the one bringing the earth to view and making it, he himself marked it out. He did not make it empty, but to be inhabited. I am, and there is no other.
 
 **Isaiah 45:19**
 
-Not in secret I have spoken, nor in the dark place of earth. I did not say to the seed of Jacob, Seek me in vain. I am, I am the Lord, speaking righteousness and declaring truth.
+Not in secret have I spoken, nor in a dark place of the earth. I did not say to the seed of Jacob, Seek me in vain. I am, I am the Lord, speaking righteousness and declaring truth.
 
 **Isaiah 45:20**
 
-Gather and come; take counsel together, you being saved from nations. They did not know, those carrying wood of their carved image and praying as to gods who do not save.
+Gather yourselves and come; take counsel together, those being saved from the nations. They did not know, those carrying the wood of their carved image and praying as to gods who do not save.
 
 **Isaiah 45:21**
 
-If they declare, let them come near so they may know together. Who made these things heard from the beginning? Then I declared them to you. I am God, and no other besides me; righteous and savior, none besides me.
+If they declare, let them come near, so they may know together. Who made these things heard from the beginning? Then it was declared to you. I am God, and there is no other besides me; righteous and Savior, there is none apart from me.
 
 **Isaiah 45:22**
 
-Turn to me and be saved, those from the end of the earth. I am God and there is no other.
+Turn to me and be saved, those from the end of the earth. I am God, and there is no other.
 
 **Isaiah 45:23**
 
-By myself I swear: surely righteousness will go out from my mouth; my words will not turn back, because to me every knee will bend and every tongue confess to God.
+By myself I swear: surely righteousness will go out from my mouth; my words will not turn back, because to me every knee will bend and every tongue will confess to God.
 
 **Isaiah 45:24**
 
-saying, Righteousness and glory will come to him, and all separating themselves will be shamed.
+saying, Righteousness and glory will come to him, and all those separating themselves will be shamed.
 
 **Isaiah 45:25**
 
-From the Lord all seed of sons of Israel will be justified, and in God be glorified.
+From the Lord all the seed of the sons of Israel will be justified, and in God they will be glorified.
 
 ### Chapter 46
 
 **Isaiah 46:1**
 
-Bel fell, Dagon shattered. Their carved images became for animals and cattle. Carry them tied up as burden for weary one.
+Bel fell; Dagon was shattered. Their carved images came to belong to wild animals and cattle. Carry them, bound, like a burden for a weary one.
 
 **Isaiah 46:2**
 
-And for hungry and weakened one, not strong together, they will not be able to save themselves from war, but they themselves were led away captive.
+and for a hungry and exhausted one, one without strength. Together they will not be able to be saved from war, but they themselves were led away captive.
 
 **Isaiah 46:3**
 
-Hear me, house of Jacob, and all remnant of Israel, carried from womb and instructed from childhood.
+Hear me, house of Jacob, and all the remnant of Israel, the ones being carried from the womb and being instructed from childhood.
 
 **Isaiah 46:4**
 
-Until old age I am, and until you grow old I am. I bear you; I made, and I will release; I will take up and save you.
+Until old age I am, and until you grow old I am. I bear with you; I made, and I will sustain; I will take up and save you.
 
 **Isaiah 46:5**
 
-To whom did you compare me? See. Scheme it out, you wanderers.
+To whom have you compared me? Look. Devise it, you who wander.
 
 **Isaiah 46:6**
 
-Those pouring gold from purse and silver in balance will set it by weight, and hiring goldsmith made handmade things, and bowing down they worship them.
+Those pouring out gold from a purse and silver in a balance, they set it by weight, and hiring a goldsmith, they made things made by hands, and bending down they worship them.
 
 **Isaiah 46:7**
 
-They lift it on shoulders and go. If they set it in its place, it stays; it will not move. Whoever cries to it, it will not hear; from evils it will not save him.
+They lift it on their shoulders and go. But if they set it in its place, it remains; it will certainly not move, and whoever cries out to it, it will certainly not hear; it will certainly not save him from evils.
 
 **Isaiah 46:8**
 
-Remember these things and groan. Repent, you who have wandered; turn back in heart.
+Remember these things and groan. Repent, you who have been led astray; turn back in the heart.
 
 **Isaiah 46:9**
 
-And remember former things from age, because I am God and there is no other besides me.
+And remember the former things from the age, because I am God, and there is no other besides me.
 
 **Isaiah 46:10**
 
-Declaring last things beforehand before they happen, and together they were accomplished. And I said, All my counsel will stand, and all I have planned I will do.
+Declaring beforehand the last things before they come to be, and at once they were completed. And I said, All my counsel will stand, and all the things I have planned I will do.
 
 **Isaiah 46:11**
 
-Calling bird from east and from far land man of my purposes. I spoke and brought it; I created and did it; I brought him and prospered his way.
+Calling a bird from the east and from a far land the things concerning which I have planned. I spoke and brought it; I created and made it; I brought him and prospered his way.
 
 **Isaiah 46:12**
 
-Hear me, you ruined in heart, you far from righteousness.
+Hear me, you who have lost the heart, you who are far from righteousness.
 
 **Isaiah 46:13**
 
-I brought near my righteousness and salvation from me. I do not delay. I gave salvation in Zion to Israel for glory.
+I brought near my righteousness and the salvation that is from me. I will not delay. I have given salvation in Zion to Israel for glory.
 
 ### Chapter 47
 
 **Isaiah 47:1**
 
-Come down. Sit on ground, virgin daughter of Babylon. Enter darkness, daughter of Chaldeans, because no longer will you be called tender and delicate.
+Come down. Sit upon the ground, virgin daughter of Babylon. Enter into darkness, daughter of the Chaldeans, because no longer will you be called tender and delicate.
 
 **Isaiah 47:2**
 
-Take millstone. Grind flour. Uncover your veil, uncover your hair, pull up your skirts, bare your legs, cross rivers.
+Take a millstone. Grind flour. Uncover your veil; uncover your gray hairs; draw up your legs; cross rivers.
 
 **Isaiah 47:3**
 
-Your shame will be uncovered, your reproaches seen. From you I will take justice; I will no longer give you to people.
+Your shame will be uncovered; your reproaches will be seen. From you I will take justice; I will no longer hand you over to people.
 
 **Isaiah 47:4**
 
-Your rescuer said, the Lord of hosts, the Holy One of Israel is his name.
+The one who rescued you said: the Lord of hosts is his name, the Holy One of Israel.
 
 **Isaiah 47:5**
 
-Sit pierced through. Enter darkness, daughter of Chaldeans, because no longer will you be called strength of kingdom.
+Sit pierced through. Enter into darkness, daughter of the Chaldeans, because no longer will you be called strength of a kingdom.
 
 **Isaiah 47:6**
 
-I was provoked against my people. I defiled my inheritance. I gave them into your hand, but you gave them no mercy; on old man you made yoke very heavy.
+I was provoked against my people. You defiled my inheritance. I gave them into your hand, but you gave them no mercy; upon the elder you made the yoke very heavy.
 
 **Isaiah 47:7**
 
-And you said, For age I will be ruler. You did not consider these things in your heart, nor remember end things.
+And you said, Forever I will be ruler. You did not consider these things in your heart, nor remember the last things.
 
 **Isaiah 47:8**
 
-Now hear these things, delicate one, sitting secure, saying in her heart, I am, and there is no other. I will not sit widow, nor know childlessness.
+Now hear these things, delicate one, the one sitting secure, the one saying in her heart, I am, and there is no other. I will not sit as a widow, nor know childlessness.
 
 **Isaiah 47:9**
 
-But now these two things will come on you suddenly in one day: widowhood and childlessness. Suddenly they will come on you, in your sorcery, in great strength of your spells.
+But now these two things will come upon you suddenly in one day: widowhood and childlessness. They will come upon you suddenly in your sorcery, in the great strength of your spells, exceedingly.
 
 **Isaiah 47:10**
 
-In hope of your evil, for you said, I am, and there is no other. Know that understanding of these things and your prostitution will be shame to you, and you said in your heart, I am, and there is no other.
+In the hope of your evil, for you said, I am, and there is no other. Know that the understanding of these things and your prostitution will be shame to you, and you said in your heart, I am, and there is no other.
 
 **Isaiah 47:11**
 
-And ruin will come on you, and you will not know pit, and you will fall into it. Misery will come on you, and you will not be able to become clean. Sudden ruin will come on you, and you will not know it.
+And ruin will come upon you, and you will certainly not know the pit, and you will fall into it. Misery will come upon you, and you will not be able to become clean. Sudden ruin will come upon you, and you will certainly not know it.
 
 **Isaiah 47:12**
 
-Stand now with your spells and your much sorcery, which you learned from youth, if perhaps you can be helped.
+Stand now in your spells and in your much sorcery, which you learned from your youth, if you will be able to be helped.
 
 **Isaiah 47:13**
 
-You are wearied in your counsels. Let astrologers of heaven stand and save you, those looking at stars; let them announce to you what is coming on you.
+You have grown weary in your counsels. Let the astrologers of heaven stand and save you, those seeing the stars; let them announce to you what is about to come upon you.
 
 **Isaiah 47:14**
 
-See, all as brushwood in fire will be burned, and they will not rescue their soul from flame, because you have coals of fire to sit on them.
+See, all will be burned like brushwood in fire, and they will certainly not rescue their soul from flame, because you have coals of fire; sit upon them.
 
 **Isaiah 47:15**
 
-Such will be your help. You labored in your trafficking from youth. Each man wandered by himself. For you there will be no salvation.
+These will be your help. You labored in your trafficking from youth. Each man wandered by himself, but for you there will be no salvation.
 
 ### Chapter 48
 
 **Isaiah 48:1**
 
-Hear these things, house of Jacob, those called by the name of Israel and come out of Judah, swearing by the name of the Lord God of Israel, remembering not with truth nor with righteousness.
+Hear these things, house of Jacob, those called by the name Israel and those who came out from Judah, those swearing by the name of the Lord God of Israel, making mention not with truth nor with righteousness.
 
 **Isaiah 48:2**
 
-And holding fast to name of holy city and leaning on God of Israel; the Lord of hosts is his name.
+and those holding fast to the name of the holy city and leaning on the God of Israel; the Lord of hosts is his name.
 
 **Isaiah 48:3**
 
-Former things I declared long ago, and from my mouth they went out and became heard. Suddenly I did them, and they came.
+The former things I declared even then, and from my mouth they went out and became heard. Suddenly I did them, and they came.
 
 **Isaiah 48:4**
 
-I know that you are hard, your neck iron sinew, and your forehead bronze.
+I know that you are hard, and your neck is an iron sinew, and your forehead is bronze.
 
 **Isaiah 48:5**
 
-And I declared to you of old, before it came on you I made it heard to you, lest you say, My idols did them, and my carved and cast things commanded me.
+And I declared to you of old; before it came upon you, I made it heard to you, lest you say, My idols did them, and lest you say, My carved and cast things commanded me.
 
 **Isaiah 48:6**
 
-You heard all, and you did not know. But I also made new things heard to you from now, things about to happen, and you did not say it.
+You heard all things, and you did not know. But I also made new things heard to you from now on, the things that are about to come to be, and you did not say.
 
 **Isaiah 48:7**
 
-Now they come to be and not long ago, and before today you did not hear them, lest you say, Yes, I know them.
+Now they come to be and not long ago, and in former days you did not hear them, lest you say, Yes, I know them.
 
 **Isaiah 48:8**
 
-You neither knew nor understood, nor from the beginning did I open your ears, for I knew that in rejecting you would reject, and lawless from womb you would be called.
+You neither knew nor understood, nor from the beginning did I open your ears, for I knew that in rejecting you would reject, and lawless from the womb you would be called.
 
 **Isaiah 48:9**
 
-For the sake of my name I will show you my wrath, and I will bring my glorious acts on you, so I do not destroy you.
+For the sake of my name I will show you my wrath, and my glorious things I will bring upon you, so that I do not destroy you.
 
 **Isaiah 48:10**
 
-See, I sold you, not for silver, but chose you out of furnace of poverty.
+See, I have sold you, not for silver, but I rescued you from a furnace of poverty.
 
 **Isaiah 48:11**
 
-For my own sake I will do for you, because my name is profaned, and my glory I will not give to another.
+For my own sake I will do this for you, because my name is being profaned, and my glory I will not give to another.
 
 **Isaiah 48:12**
 
@@ -75384,11 +75384,11 @@ Hear me, Jacob, and Israel whom I call. I am first, and I am forever.
 
 **Isaiah 48:13**
 
-My hand founded earth and my right hand fixed heaven. I will call them, and they will stand together.
+My hand founded the earth, and my right hand fixed heaven. I will call them, and they will stand together.
 
 **Isaiah 48:14**
 
-And all will gather and hear. Who among them declared these things? Because I loved you, I did your will against Babylon, to remove seed of Chaldeans.
+And all will be gathered and will hear. Who declared these things to them? Loving you, I did your will against Babylon, to remove the seed of the Chaldeans.
 
 **Isaiah 48:15**
 
@@ -75396,41 +75396,41 @@ I spoke, I called, I brought him, and I prospered his way.
 
 **Isaiah 48:16**
 
-Come near to me and hear these things. Not from the beginning did I speak in secret, nor in the dark place of earth. When it happened, I was there. And now the Lord sent me and his Spirit.
+Come near to me and hear these things. Not from the beginning did I speak in secret, nor in a dark place of the earth. When it came to be, I was there. And now the Lord has sent me, and his Spirit.
 
 **Isaiah 48:17**
 
-Thus says the Lord, the one rescuing you, the Holy One of Israel: I am your God. I showed you to find the way in which you should walk.
+Thus says the Lord, the one rescuing you, the Holy One of Israel: I am your God. I have shown you to find the way in which you will walk.
 
 **Isaiah 48:18**
 
-If you had heard my commandments, then your peace would have become like a river and your righteousness like a wave of sea.
+And if you had heard my commandments, your peace would have become like a river and your righteousness like a wave of the sea.
 
 **Isaiah 48:19**
 
-And your seed would have become like sand, and offspring of your womb like dust of the earth; nor now would you be destroyed, nor your name perish before me.
+And your seed would have become like the sand, and the offspring of your womb like the dust of the earth. Even now you would certainly not be destroyed, nor would your name perish before me.
 
 **Isaiah 48:20**
 
-Go out from Babylon, fleeing from Chaldeans. Declare with the voice of gladness and let this be heard. Proclaim it to the end of the earth. Say, the Lord rescued his servant Jacob.
+Go out from Babylon, fleeing from the Chaldeans. Declare a voice of gladness, and let this be heard. Proclaim it to the end of the earth. Say, The Lord rescued his servant Jacob.
 
 **Isaiah 48:21**
 
-And if they thirst, through wilderness he will lead them; he will bring out water for them from rock. Rock will be split, water will flow, and my people will drink.
+And if they thirst, through a wilderness he will lead them; he will bring out water for them from a rock. A rock will be split, and water will flow, and my people will drink.
 
 **Isaiah 48:22**
 
-No rejoicing for ungodly, says the Lord.
+There is no rejoicing for the ungodly, says the Lord.
 
 ### Chapter 49
 
 **Isaiah 49:1**
 
-Hear me, islands, and pay attention, nations, after long time. The Lord says, From my mother's womb he called my name.
+Hear me, islands, and pay attention, nations. Through much time it will stand, says the Lord. From my mother's womb he called my name.
 
 **Isaiah 49:2**
 
-And he made my mouth like sharp sword and hid me under shelter of his hand. He made me as chosen arrow and covered me in his quiver.
+And he made my mouth like a sharp sword and hid me under the shelter of his hand. He made me like a chosen arrow and covered me in his quiver.
 
 **Isaiah 49:3**
 
@@ -75438,43 +75438,43 @@ And he said to me, You are my servant, Israel, and in you I will be glorified.
 
 **Isaiah 49:4**
 
-But I said, In vain I labored, and for emptiness and nothing I gave my strength. Therefore my judgment from the Lord and my toil before my God.
+But I said, In vain I labored, and for emptiness and for nothing I gave my strength. Therefore my judgment is with the Lord, and my toil is before my God.
 
 **Isaiah 49:5**
 
-And now thus says the Lord, one shaping me from womb as servant to himself, to gather Jacob and Israel to him. I will be gathered and glorified before the Lord, and my God will be my strength.
+And now thus says the Lord, the one forming me from the womb as servant to himself, to gather Jacob and Israel to him. I will be gathered and glorified before the Lord, and my God will be my strength.
 
 **Isaiah 49:6**
 
-And he said to me, Great thing for you it is to be called my servant, to set up tribes of Jacob and turn back dispersion of Israel. See, I made you covenant of race, light of nations, that you may be for salvation to the end of the earth.
+And he said to me, It is a great thing for you to be called my servant, to establish the tribes of Jacob and turn back the dispersion of Israel. See, I have set you as a covenant of a race, as a light of nations, for you to be for salvation as far as the end of the earth.
 
 **Isaiah 49:7**
 
-Thus says the Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to the servant of rulers: Kings will see and rise, rulers also, and will worship, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
+Thus says the Lord, the one rescuing you, the God of Israel: Sanctify the one despising his soul, the one abhorred by the nations, the servant of rulers. Kings will see him and rise; rulers also will worship him, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
 
 **Isaiah 49:8**
 
-Thus says the Lord: In acceptable time I heard you, and in the day of salvation I helped you, and I gave you covenant of nations, to establish earth and inherit deserted inheritances.
+Thus says the Lord: In an acceptable time I heard you, and in a day of salvation I helped you, and I gave you as a covenant of nations, to establish the earth and inherit a deserted inheritance.
 
 **Isaiah 49:9**
 
-saying to those in bonds, Come out, and to those in darkness, Be revealed. On all their ways they will be pastured, and on all their paths their grazing.
+saying to those in bonds, Come out, and to those in the darkness, Be revealed. On all their ways they will be pastured, and on all their paths will be their grazing.
 
 **Isaiah 49:10**
 
-They will not hunger nor thirst, nor will heat strike them, nor sun, but one having mercy on them will comfort them and lead them by springs of waters.
+They will not hunger nor thirst, nor will burning heat strike them, nor the sun, but the one having mercy on them will comfort them and lead them by springs of waters.
 
 **Isaiah 49:11**
 
-And I will make every mountain into road and every path into pasture for them.
+And I will make every mountain into a road and every path into pasture for them.
 
 **Isaiah 49:12**
 
-See, these come from far away; these from north, and these from sea; and others from the land of Persians.
+See, these come from far away; these from the north, and these from the sea; and others from the land of the Persians.
 
 **Isaiah 49:13**
 
-Rejoice, heavens, and let earth exult. Let mountains break out in gladness, and hills in righteousness, because God had mercy on his people and comforted humble ones of his people.
+Rejoice, heavens, and let the earth exult. Let the mountains break out in gladness, and the hills in righteousness, because God had mercy on his people and comforted the humble ones of his people.
 
 **Isaiah 49:14**
 
@@ -75482,11 +75482,11 @@ But Zion said, The Lord abandoned me, and the Lord forgot me.
 
 **Isaiah 49:15**
 
-Will woman forget her child, so as not to have mercy on offspring of her womb? But even if woman forgets these, I will not forget you, said the Lord.
+Will a woman forget her child, so as not to have mercy on the offspring of her womb? But even if a woman forgets these, I will not forget you, said the Lord.
 
 **Isaiah 49:16**
 
-See, on my hands I have painted your walls, and you are always before me.
+See, on my hands I have drawn your walls, and you are always before me.
 
 **Isaiah 49:17**
 
@@ -75494,167 +75494,167 @@ And quickly you will be built by those by whom you were torn down, and those mak
 
 **Isaiah 49:18**
 
-Lift your eyes around and see. See, all were gathered and came to you. As I live, says the Lord, you will clothe yourself with them all and put them on as ornament of bride.
+Lift your eyes around and see. See, all have been gathered and have come to you. As I live, says the Lord, you will clothe yourself with them all and put them on as an ornament of a bride.
 
 **Isaiah 49:19**
 
-Because your desolate places and ruined and fallen ones will now be made too narrow from inhabitants, and those swallowing you will be far from you.
+Because your desolate places and ruined and fallen places will now be made too narrow because of those dwelling there, and those swallowing you will be far from you.
 
 **Isaiah 49:20**
 
-For your sons whom you lost will say in your ears, Place too narrow for me; make room for me that I may dwell.
+For your sons whom you lost will say in your ears, The place is too narrow for me; make room for me so that I may dwell.
 
 **Isaiah 49:21**
 
-And you will say in your heart, Who bore these for me? I was childless and widow; who raised these for me? I was left alone; where were these for me?
+And you will say in your heart, Who bore these for me? But I was childless and a widow; who raised these for me? But I was left alone; where were these for me?
 
 **Isaiah 49:22**
 
-Thus says the Lord: See, I lift my hand to nations and raise my signal to islands, and they will bring your sons in bosom, and your daughters they will carry on shoulders.
+Thus says the Lord: See, I lift my hand to the nations and raise my signal to the islands, and they will bring your sons in the bosom, and your daughters they will carry upon shoulders.
 
 **Isaiah 49:23**
 
-And kings will be your foster fathers and rulers your nurses. They will worship you with his face to the ground and lick dust of your feet, and you will know that I am the Lord, and you will not be ashamed.
+And kings will be your foster fathers and rulers your nurses. With their faces to the ground they will worship you and lick the dust of your feet, and you will know that I am the Lord, and you will not be ashamed.
 
 **Isaiah 49:24**
 
-Will anyone take spoils from giant? And if someone takes captive unjustly, will he be saved?
+Will anyone take spoils from a giant? And if someone takes captive unjustly, will he be saved?
 
 **Isaiah 49:25**
 
-Thus says the Lord: If anyone takes captive giant, he will take spoils; but one taking from strong man will be saved. I will judge your judgment, and I will rescue your sons.
+Thus says the Lord: If anyone takes captive a giant, he will take spoils; but one taking from a strong one will be saved. I will judge your judgment, and I will rescue your sons.
 
 **Isaiah 49:26**
 
-And those afflicting you will eat their own flesh and drink their own blood like new wine and be drunk. And all flesh will know that I am the Lord, the one rescuing you and upholding the strength of Jacob.
+And those afflicting you will eat their own flesh and drink their blood like new wine and be drunk. And all flesh will know that I am the Lord, the one rescuing you and upholding the strength of Jacob.
 
 ### Chapter 50
 
 **Isaiah 50:1**
 
-Thus says the Lord: What book of divorce of your mother, with which I sent her away? Or to which creditor did I sell you? See, by your sins you were sold, and by your lawless deeds I sent away your mother.
+Thus says the Lord: What is the book of divorce of your mother, with which I sent her away? Or to which creditor have I sold you? See, by your sins you were sold, and by your lawless deeds I sent away your mother.
 
 **Isaiah 50:2**
 
-Why, because I came and no man was there? I called and no one obeyed. Is my hand not strong to rescue, or am I not strong to deliver? See, by my threat I will desolate sea and make rivers dry; their fish will dry up from lack of water and die in thirst.
+Why was there no man when I came? I called, and there was no one obeying. Is my hand not strong enough to rescue, or am I not strong enough to deliver? See, by my threat I will desolate the sea and make rivers deserts; their fish will dry up because there is no water and will die in thirst.
 
 **Isaiah 50:3**
 
-And I will clothe heaven with darkness and make sackcloth its covering.
+And I will clothe heaven with darkness and make its covering like sackcloth.
 
 **Isaiah 50:4**
 
-The Lord gives me tongue of instruction, to know when it is necessary to speak word. He set it in morning; he added to me ear to hear.
+The Lord gives me a tongue of instruction, to know in season when it is necessary to speak a word. He set it for me in the morning; he added an ear for me to hear.
 
 **Isaiah 50:5**
 
-And discipline of the Lord opens my ears, and I do not disobey nor speak against.
+And the instruction of the Lord opens my ears, and I do not disobey nor speak against.
 
 **Isaiah 50:6**
 
-I gave my back to whips and my cheeks to slaps. My face I did not turn away from shame of spit.
+I have given my back to whips and my cheeks to slaps. My face I did not turn away from the shame of spit.
 
 **Isaiah 50:7**
 
-And the Lord became my helper. Therefore I was not ashamed, but set my face as solid rock and knew I will not be shamed.
+And the Lord became my helper. Therefore I was not ashamed, but I set my face like a solid rock and knew that I certainly would not be shamed.
 
 **Isaiah 50:8**
 
-Because one justifying me comes near. Who is judging with me? Let him stand against me together. And who is my accuser? Let him come near me.
+Because the one justifying me comes near. Who is contending with me? Let him stand against me together. And who is contending with me? Let him come near me.
 
 **Isaiah 50:9**
 
-See, the Lord helps me. Who will harm me? See, all you will grow old like a garment, and moth will eat you.
+See, the Lord helps me. Who will harm me? See, all of you will grow old like a garment, and a moth will devour you.
 
 **Isaiah 50:10**
 
-Who among you fears the Lord? Let him hear the voice of his servant. Those going in darkness have no light; trust in the name of the Lord and lean on God.
+Who among you fears the Lord? Let him hear the voice of his servant. You who walk in darkness and have no light, trust in the name of the Lord and lean on God.
 
 **Isaiah 50:11**
 
-See, all you kindle fire and strengthen flame. Walk by light of your fire and by flame you kindled. Because of me these things came to you; in grief you will lie down.
+See, all of you kindle fire and strengthen a flame. Walk by the light of your fire and by the flame that you kindled. Because of me these things came to you; in grief you will lie down.
 
 ### Chapter 51
 
 **Isaiah 51:1**
 
-Hear me, you pursuing righteousness and seeking the Lord. Look to solid rock which you cut and to pit of well which you dug.
+Hear me, you who pursue righteousness and seek the Lord. Look to the solid rock that you cut and to the pit of the cistern that you dug.
 
 **Isaiah 51:2**
 
-Look to Abraham your father and to Sarah who labored to bear you, because he was one, and I called him and blessed him and loved him and multiplied him.
+Look to Abraham your father and to Sarah who labored with you, because he was one, and I called him and blessed him and loved him and multiplied him.
 
 **Isaiah 51:3**
 
-And now I will comfort Zion and have comforted all her desolate places, and I will make her desolations as paradise of the Lord. Gladness and exultation they will find in her, thanksgiving and the sound of praise.
+And now I will comfort you, Zion, and have comforted all her desolate places, and I will make her desolate places like the paradise of the Lord. They will find gladness and exultation in her, thanksgiving and a sound of praise.
 
 **Isaiah 51:4**
 
-Hear me, hear me, my people, and kings give ear to me, because law will go out from me and my judgment as light of nations.
+Hear me, hear me, my people, and you kings, give ear to me, because law will go out from me and my judgment as a light of nations.
 
 **Isaiah 51:5**
 
-My righteousness draws near quickly, my salvation will go out as light, and nations will hope in my arm. Islands wait for me and hope in my arm.
+My righteousness draws near quickly, my salvation will go out like light, and nations will hope in my arm. Islands wait for me and hope in my arm.
 
 **Isaiah 51:6**
 
-Lift your eyes to heaven and look at earth below, because heaven was fixed like smoke and earth will grow old like a garment, and those dwelling earth will die like these. But my salvation will be forever and my righteousness will not fail.
+Lift your eyes to heaven and look at the earth below, because heaven was fixed like smoke and the earth will grow old like a garment, and those dwelling on the earth will die like these things. But my salvation will be forever and my righteousness will certainly not fail.
 
 **Isaiah 51:7**
 
-Hear me, you knowing judgment, my people whose law is in your heart. Do not fear reproach of men and do not be defeated by their contempt.
+Hear me, you who know judgment, my people, in whose heart is my law. Do not fear the reproach of men and do not be defeated by their contempt.
 
 **Isaiah 51:8**
 
-For as garment it will be eaten by time and as wool it will be eaten by moth. But my righteousness will be forever and my salvation to the generations of generations.
+For like a garment it will be eaten by time, and like wool it will be eaten by a moth. But my righteousness will be forever and my salvation will be to the generations of generations.
 
 **Isaiah 51:9**
 
-Awake, awake, Jerusalem, and put on strength of your arm. Awake as in beginning of days, as generation of age. Are you not
+Awake, awake, Jerusalem, and put on the strength of your arm. Awake as in the beginning of days, as a generation of old. Are you not
 
 **Isaiah 51:10**
 
-one laying waste sea, water of abyss, making abundance, one making depths of sea way of passage for delivered ones?
+the one desolating the sea, the water, the abundance of the abyss, the one making the depths of the sea a way of passage for the rescued?
 
 **Isaiah 51:11**
 
-For redeemed by the Lord will return and come to Zion with gladness, and everlasting exultation on their head. Praise and gladness and joy will seize them. Pain and grief and groaning fled.
+For those redeemed by the Lord will return and come to Zion with gladness, and everlasting exultation will be upon their head. Exultation and praise and gladness will overtake them. Pain and grief and groaning have fled.
 
 **Isaiah 51:12**
 
-I am, I am one comforting you. Know whom you feared, dreading mortal man and son of man who dried up like grass.
+I am, I am the one comforting you. Know whom you dreaded, whom you feared: mortal man and a son of man, who dried up like grass.
 
 **Isaiah 51:13**
 
-And you forgot God who made you, who made heaven and founded earth, and you feared always all days face of wrath of one afflicting you, because he planned to remove you. And now where is the wrath of one afflicting you?
+And you forgot the God who made you, who made heaven and founded the earth, and you feared always, all the days, the face of the wrath of the one afflicting you, because he planned to remove you. And now where is the wrath of the one afflicting you?
 
 **Isaiah 51:14**
 
-For in being saved you will not stand still nor delay.
+For when you are being saved you will not stand still nor delay.
 
 **Isaiah 51:15**
 
-Because I am your God, stirring sea and sounding its waves. the Lord of hosts is my name.
+Because I am your God, the one stirring the sea and making its waves roar. The Lord of hosts is my name.
 
 **Isaiah 51:16**
 
-I will put my words into your mouth, and under shadow of my hand I will shelter you, by which I set heaven and founded earth and will say to Zion, You are my people.
+I will put my words into your mouth, and under the shadow of my hand I will shelter you, by which I set heaven and founded the earth, and will say to Zion, You are my people.
 
 **Isaiah 51:17**
 
-Awake, awake. Rise, Jerusalem, you who drank cup of wrath from the hand of the Lord, because cup of falling, bowl of wrath, you drank and drained it.
+Awake, awake. Rise, Jerusalem, you who drank the cup of wrath from the hand of the Lord, because the cup of falling, the bowl of wrath, you drank and drained.
 
 **Isaiah 51:18**
 
-And there was no one comforting you from all your children whom you bore, and no one taking your hand from all your sons whom you raised.
+And there was no one to comfort you from among all your children whom you bore, and no one to take your hand from among all your sons whom you raised.
 
 **Isaiah 51:19**
 
-These two things stand against you. Who will grieve with you? Ruin and crushing, famine and sword. Who will comfort you?
+These two things are set against you. Who will grieve with you? Ruin and crushing, famine and sword. Who will comfort you?
 
 **Isaiah 51:20**
 
-Your sons in distress, sleeping at edge of every street, like half-cooked beet, full of the wrath of the Lord, weakened by the Lord God.
+Your sons are in distress, sleeping at the edge of every street, like a half-boiled beet, full of the wrath of the Lord, weakened by the Lord God.
 
 **Isaiah 51:21**
 
@@ -75662,69 +75662,69 @@ Therefore hear this, humbled one and drunken one, not from wine.
 
 **Isaiah 51:22**
 
-Thus says the Lord God, one judging his people: See, I have taken from your hand cup of falling, bowl of wrath, and you will no longer drink it.
+Thus says the Lord God, the one judging his people: See, I have taken from your hand the cup of falling, the bowl of wrath, and you will no longer drink it.
 
 **Isaiah 51:23**
 
-And I will put it into the hands of those wronging you and humbling you, who said to your soul, Bend down so we may pass by. And you made your back level with earth outside for those passing by.
+And I will put it into the hands of those who wronged you and humbled you, who said to your soul, Bend down so we may pass by. And you made your back level with the ground for those passing by outside.
 
 ### Chapter 52
 
 **Isaiah 52:1**
 
-Awake, awake, Zion. Put on your strength, Zion, and put on your glory, Jerusalem, holy city, because uncircumcised and unclean will no longer pass through you.
+Awake, awake, Zion. Put on your strength, Zion, and put on your glory, Jerusalem, the holy city, because the uncircumcised and unclean will no longer pass through you.
 
 **Isaiah 52:2**
 
-Shake off dust and rise. Sit, Jerusalem. Strip off bond of your neck, captive daughter of Zion.
+Shake off the dust and rise. Sit, Jerusalem. Strip off the bond of your neck, captive daughter of Zion.
 
 **Isaiah 52:3**
 
-Because thus says the Lord: For nothing you were sold, and not with silver will you be redeemed.
+Because thus says the Lord: You were sold for nothing, and not with silver will you be redeemed.
 
 **Isaiah 52:4**
 
-Thus says the Lord: My people first went down to Egypt to dwell there, and to Assyrians they were led by force.
+Thus says the Lord: My people first went down to Egypt to dwell there, and to the Assyrians they were led by force.
 
 **Isaiah 52:5**
 
-And now why are you here? says the Lord, because my people was taken for nothing. Be amazed and howl, says the Lord. Because of you continually my name is blasphemed among nations.
+And now why are you here? says the Lord, because my people were taken for nothing. Be amazed and howl, says the Lord. Because of you continually my name is blasphemed among the nations.
 
 **Isaiah 52:6**
 
-Therefore my people will know my name in that day, because I am one speaking; I am present.
+Therefore my people will know my name in that day, because I am he, the one speaking; I am present.
 
 **Isaiah 52:7**
 
-How beautiful upon mountains are feet of one bringing good news, report of peace, one bringing good things as good news, because I will make your salvation heard, saying to Zion, Your God will reign.
+How beautiful upon the mountains are the feet of one bringing good news, a report of peace, of one bringing good things as good news, because I will make your salvation heard, saying to Zion, Your God will reign.
 
 **Isaiah 52:8**
 
-Because the voice of your watchmen was lifted up, and with voice together they will rejoice, because eye to eye they will see when the Lord shows mercy to Zion.
+Because the voice of your watchmen was lifted up, and with one voice together they will rejoice, because eye to eye they will see when the Lord shows mercy to Zion.
 
 **Isaiah 52:9**
 
-Let desolations of Jerusalem break out together in gladness, because the Lord had mercy on her and rescued Jerusalem.
+Let the desolate places of Jerusalem break out together in gladness, because the Lord had mercy on her and rescued Jerusalem.
 
 **Isaiah 52:10**
 
-The Lord will uncover his holy arm before all nations, and all ends of the earth will see salvation from God.
+The Lord will uncover his holy arm before all the nations, and all the ends of the earth will see the salvation from God.
 
 **Isaiah 52:11**
 
-Depart, depart. Go out from there, and touch nothing unclean. Go out from the midst of her. Be set apart, you carrying vessels of the Lord.
+Depart, depart. Go out from there, and touch nothing unclean. Go out from the midst of her. Be set apart, you who carry the vessels of the Lord.
 
 **Isaiah 52:12**
 
-Because not with turmoil will you go out, nor will you go as fleeing, for the Lord will go before you, and the Lord God of Israel will gather you.
+Because not with turmoil will you go out, nor will you go in flight, for the Lord will go before you, and the Lord God of Israel will gather you.
 
 **Isaiah 52:13**
 
-See, my servant will understand and be exalted and glorified greatly.
+See, my servant will understand and be exalted and glorified very greatly.
 
 **Isaiah 52:14**
 
-As many will be astonished at you, so your appearance will be without glory from men and your glory from people.
+Just as many will be astonished at you, so your appearance will be without glory before men, and your glory will be without honor before people.
 
 **Isaiah 52:15**
 
@@ -75734,15 +75734,15 @@ So many nations will marvel at him, and kings will shut their mouth, because tho
 
 **Isaiah 53:1**
 
-Lord, who believed our report? And to whom was arm of the Lord revealed?
+O Lord, who believed our report? And to whom was the arm of the Lord revealed?
 
 **Isaiah 53:2**
 
-We announced before him as child, as root in thirsty land. He has no form nor glory, and we saw him, and he had no form nor beauty.
+We announced before him like a child, like a root in a thirsty land. There is no form to him nor glory, and we saw him, and he had no form nor beauty.
 
 **Isaiah 53:3**
 
-But his form dishonored, failing beyond all men, man in wound and knowing how to bear sickness, because his face is turned away; he was dishonored and not counted.
+But his form was dishonored, failing beyond all men: a man in a wound and knowing how to bear sickness, because his face has turned away; he was dishonored and not counted.
 
 **Isaiah 53:4**
 
@@ -75750,19 +75750,19 @@ This one bears our sins and suffers pain for us, and we counted him to be in pai
 
 **Isaiah 53:5**
 
-But he was wounded because of our lawless deeds and weakened because of our sins. Discipline of our peace on him; by his bruise we were healed.
+But he was wounded because of our lawless deeds and weakened because of our sins. The discipline of our peace was upon him; by his bruise we were healed.
 
 **Isaiah 53:6**
 
-All we as sheep wandered. Man wandered in his own way, and the Lord gave him over for our sins.
+All we like sheep wandered. Each man wandered in his own way, and the Lord gave him over for our sins.
 
 **Isaiah 53:7**
 
-And he, because he was afflicted, does not open his mouth. As sheep led to slaughter and as lamb silent before one shearing it, so he does not open his mouth.
+And he, because he was afflicted, does not open his mouth. As a sheep was led to slaughter and as a lamb is silent before the one shearing it, so he does not open his mouth.
 
 **Isaiah 53:8**
 
-In his humiliation his judgment was taken away. Who will tell his generation? Because his life is taken from earth; because of lawless deeds of my people he was led to death.
+In his humiliation his judgment was taken away. Who will tell his generation? Because his life is taken from the earth; because of the lawless deeds of my people he was led to death.
 
 **Isaiah 53:9**
 
@@ -75770,53 +75770,53 @@ And I will give wicked ones for his burial and rich ones for his death, because 
 
 **Isaiah 53:10**
 
-And the Lord desires to cleanse him from wound. If you give your soul concerning sin, he will see long-lived seed, and the Lord desires to remove pain.
+And the Lord desires to cleanse him from the wound. If you give concerning sin, your soul will see long-lived seed, and the Lord desires to take away
 
 **Isaiah 53:11**
 
-From pain of his soul, to show him light and form with understanding, to justify righteous one serving many well, and he will bear their sins.
+from the pain of his soul, to show him light and form with understanding, to justify a righteous one serving many well, and he himself will bear their sins.
 
 **Isaiah 53:12**
 
-Therefore he will inherit many and divide spoils of strong, because his soul was given over to death and he was counted among lawless ones, and he bore sins of many and was given over because of their sins.
+Therefore he will inherit many and divide spoils of the strong, because his soul was given over to death and he was counted among lawless ones, and he bore sins of many and was given over because of their sins.
 
 ### Chapter 54
 
 **Isaiah 54:1**
 
-Rejoice, barren one who does not bear. Break out and cry, you not laboring, because children of desolate one more than of her having husband, said the Lord.
+Rejoice, barren one who does not bear. Break out and cry, you who are not in labor, because the children of the desolate one are more than those of the one having a husband, for the Lord has said.
 
 **Isaiah 54:2**
 
-Enlarge place of your tent, and fix your curtains. Do not spare. Lengthen your cords and strengthen your pegs.
+Enlarge the place of your tent, and fix your curtains. Do not spare. Lengthen your cords and strengthen your pegs.
 
 **Isaiah 54:3**
 
-Still to right and to left spread out, and your seed will inherit nations and inhabit desolated cities.
+Still to the right and to the left spread out, and your seed will inherit nations and inhabit desolate cities.
 
 **Isaiah 54:4**
 
-Do not fear, because you were put to shame; do not be disgraced, because you were reproached, because you will forget everlasting shame and no longer remember reproach of your widowhood.
+Do not fear, because you were put to shame; do not be disgraced, because you were reproached, because you will forget everlasting shame and no longer remember the reproach of your widowhood.
 
 **Isaiah 54:5**
 
-Because the Lord making you, the Lord of hosts is his name, and the one rescuing you, the God of Israel, will be called the God of all the earth.
+Because the Lord is the one making you; the Lord of hosts is his name, and the one rescuing you, the God of Israel, will be called the God of all the earth.
 
 **Isaiah 54:6**
 
-Not as a woman forsaken and fainthearted has the Lord called you, nor as a woman hated from youth, said your God.
+The Lord has not called you as a woman forsaken and fainthearted, nor as a woman hated from youth, said your God.
 
 **Isaiah 54:7**
 
-For small time I left you, and with great mercy I will have mercy on you.
+For a small time I left you, and with great mercy I will have mercy on you.
 
 **Isaiah 54:8**
 
-In little wrath I turned my face from you, and with everlasting mercy I will have mercy on you, said the Lord, the one rescuing you.
+In a little wrath I turned my face from you, and with everlasting mercy I will have mercy on you, said the Lord, the one rescuing you.
 
 **Isaiah 54:9**
 
-This to me from water of Noah, just as I swore to him in that time not to be angry with earth. So neither will I be angry with you anymore nor threaten you.
+This is to me like the water in Noah's time, just as I swore to him at that time not to be angry with the earth. So neither will I be angry with you anymore nor threaten you.
 
 **Isaiah 54:10**
 
@@ -75824,15 +75824,15 @@ Mountains may be moved and your hills shaken, but my mercy for you will not fail
 
 **Isaiah 54:11**
 
-Afflicted and unstable one, you were not comforted. See, I prepare your stone with charcoal and your foundations with sapphire.
+Afflicted and unstable one, you were not comforted. See, I prepare your stone as carbuncle and your foundations with sapphire.
 
 **Isaiah 54:12**
 
-And I will make your battlements jasper and your gates stones of crystal and your wall chosen stones.
+And I will make your battlements jasper and your gates stones of crystal and your enclosure chosen stones.
 
 **Isaiah 54:13**
 
-And all your sons taught of God, and your children in much peace.
+And all your sons will be taught by God, and your children will be in much peace.
 
 **Isaiah 54:14**
 
@@ -75844,37 +75844,37 @@ See, strangers will come to you through me and will flee for refuge to you.
 
 **Isaiah 54:16**
 
-See, I created you not as smith blowing coals and bringing out vessel for work; I created you not for destruction to ruin.
+See, I create you, not as a smith blowing coals and bringing out a vessel for work; but I created you, not for destruction to ruin.
 
 **Isaiah 54:17**
 
-Every harmful weapon against you I will not prosper, and every voice rising against you in judgment you will defeat them all. But your accusers will be guilty in it. This inheritance for those serving Lord, and you will be righteous to me, says the Lord.
+Every harmful weapon against you I will not prosper, and every voice that rises against you in judgment you will defeat them all. But those guilty against you will be in it. This is the inheritance for those serving the Lord, and you will be righteous to me, says the Lord.
 
 ### Chapter 55
 
 **Isaiah 55:1**
 
-You thirsty ones, go to water. And those not having silver, go, buy, and drink. Without silver and price, wine and fat.
+You who thirst, go to water. And as many as do not have silver, go, buy, and drink wine and fat without silver and price.
 
 **Isaiah 55:2**
 
-Why are you valued with silver and your labor not for fullness? Hear me and eat good things, and your soul will delight in good things.
+Why do you spend silver and your labor for what does not satisfy? Hear me and eat good things, and your soul will delight in good things.
 
 **Isaiah 55:3**
 
-Pay attention with your ears and follow my ways. Hear me, and your soul will live in good things, and I will make everlasting covenant with you, faithful holy things of David.
+Pay attention with your ears and follow my ways. Hear me, and your soul will live in good things, and I will make an everlasting covenant with you, the faithful holy things of David.
 
 **Isaiah 55:4**
 
-See, I have given him as witness among nations, ruler and commander to nations.
+See, I have given him as a witness among nations, a ruler and commander to nations.
 
 **Isaiah 55:5**
 
-Nations that did not know you will call you, and peoples that do not understand you will flee for refuge to you, because of your God, the Holy One of Israel, because he glorified you.
+Nations that did not know you will call upon you, and peoples that do not understand you will flee for refuge to you, because of your God, the Holy One of Israel, because he glorified you.
 
 **Isaiah 55:6**
 
-Seek God, and when you find him call on him when he draws near you.
+Seek God, and when you find him, call upon him when he draws near to you.
 
 **Isaiah 55:7**
 
@@ -75886,49 +75886,49 @@ For my counsels are not like your counsels, nor are my ways like your ways, says
 
 **Isaiah 55:9**
 
-But as heaven far from earth, so my way far from your ways and your thoughts from my mind.
+But as heaven is far from the earth, so my way is far from your ways and your thoughts from my mind.
 
 **Isaiah 55:10**
 
-For as rain and snow comes down from heaven and will not return until it drenches earth and it brings forth and sprouts and gives seed to sower and bread for food,
+For as rain or snow comes down from heaven and will not return until it drenches the earth and brings forth and sprouts and gives seed to the sower and bread for food,
 
 **Isaiah 55:11**
 
-so my word that goes out from my mouth will not return until all I desired is accomplished, and I will prosper your ways and my commandments.
+so will my word be, whatever goes out from my mouth: it will not return until all I desired is accomplished, and I will prosper your ways and my commandments.
 
 **Isaiah 55:12**
 
-For in gladness you will go out and in joy be taught. Mountains and hills will leap, awaiting you with joy, and all trees of field will clap with branches.
+For in gladness you will go out and in joy you will be taught. For the mountains and hills will leap, awaiting you with joy, and all the trees of the field will clap with branches.
 
 **Isaiah 55:13**
 
-And instead of stubble cypress will come up, and instead of nettle myrtle will come up, and the Lord will be for name and everlasting sign and will not fail.
+And instead of stubble a cypress will come up, and instead of nettle a myrtle will come up, and the Lord will be for a name and for an everlasting sign and will not fail.
 
 ### Chapter 56
 
 **Isaiah 56:1**
 
-Thus says the Lord: Keep judgment. Do righteousness, because my salvation draws near to come and my mercy to be revealed.
+Thus says the Lord: Keep judgment. Do righteousness, because my salvation has drawn near to come and my mercy to be revealed.
 
 **Isaiah 56:2**
 
-Blessed is the man doing these things and person holding them fast, keeping Sabbaths not profaning them and keeping his hands from doing wrongdoing.
+Blessed is the man doing these things and the person holding them fast, keeping the Sabbaths and not profaning them, and keeping his hands from doing wrongdoing.
 
 **Isaiah 56:3**
 
-Let not foreigner joined to the Lord say, the Lord will surely separate me from his people. And let not eunuch say, I am dry tree.
+Let not the foreigner joined to the Lord say, The Lord will surely separate me from his people. And let not the eunuch say, I am a dry tree.
 
 **Isaiah 56:4**
 
-Thus says the Lord to eunuchs: As many as keep my Sabbaths and choose what I want and hold fast my covenant,
+Thus says the Lord to the eunuchs: As many as keep my Sabbaths and choose what I want and hold fast my covenant,
 
 **Isaiah 56:5**
 
-I will give them in my house and within my wall notable place, better than sons and daughters. I will give them everlasting name and it will not fail.
+I will give them in my house and within my wall a notable place, better than sons and daughters. I will give them an everlasting name and it will not fail.
 
 **Isaiah 56:6**
 
-And to foreigners joined to the Lord to serve him and love the name of the Lord, so as to be his male and female servants, and all keeping my Sabbaths not profaning them and holding fast my covenant,
+And to the foreigners joined to the Lord to serve him and to love the name of the Lord, so as to be his male and female servants, and all those keeping my Sabbaths and not profaning them and holding fast my covenant,
 
 **Isaiah 56:7**
 
@@ -75936,19 +75936,19 @@ I will bring them to my holy mountain and gladden them in the house of my prayer
 
 **Isaiah 56:8**
 
-The Lord who gathers scattered Israel says, I will gather to him assembly.
+The Lord who gathers the scattered ones of Israel says, I will gather an assembly to him.
 
 **Isaiah 56:9**
 
-All wild beasts, come eat, all beasts of the forest.
+All the wild beasts, come, eat; all the beasts of the forest.
 
 **Isaiah 56:10**
 
-See, all are blinded; they did not know how to understand. All dogs mute, unable to bark, dreaming, loving sleepiness.
+See that all have been blinded; they did not know how to understand. All are mute dogs, unable to bark, dreaming of a bed, loving to sleep.
 
 **Isaiah 56:11**
 
-And dogs shameless in soul, not knowing fullness, and evil, not knowing understanding. All followed their own ways, each according to himself.
+And the dogs are shameless in soul, not knowing fullness, and they are evil, not knowing understanding. All have followed their own ways, each according to his own.
 
 ### Chapter 57
 
@@ -75958,11 +75958,11 @@ See how a righteous man perished and no one takes it to heart, and righteous men
 
 **Isaiah 57:2**
 
-His burial will be in peace; he is taken from midst.
+His burial will be in peace; he has been taken from the midst.
 
 **Isaiah 57:3**
 
-But you, come here, sons of lawless one, seed of adulterers and prostitute.
+But you, come here, lawless sons, seed of adulterers and a prostitute.
 
 **Isaiah 57:4**
 
@@ -75970,7 +75970,7 @@ In whom did you delight yourselves? Against whom did you open your mouth and let
 
 **Isaiah 57:5**
 
-inflamed over idols under leafy trees, slaughtering your children in ravines between rocks?
+calling upon idols under leafy trees, slaughtering your children in ravines between rocks?
 
 **Isaiah 57:6**
 
@@ -75978,23 +75978,23 @@ That is your portion. This is your lot. To them you poured drink offerings; to t
 
 **Isaiah 57:7**
 
-On high and lofty mountain, there your bed; there you brought up sacrifices.
+On a high and lofty mountain, there is your bed; there you brought up sacrifices.
 
 **Isaiah 57:8**
 
-And behind doorposts of your door you set your memorials. You thought that if you depart from me you will have something more. You loved those sleeping with you.
+And behind the doorposts of your door you set your memorials. You thought that if you departed from me you would have something more. You loved those sleeping with you.
 
 **Isaiah 57:9**
 
-And you multiplied your prostitution with them and made many far from you, and sent messengers beyond your borders and turned away and were humbled unto Hades.
+And you multiplied your prostitution with them and made many far from you, and sent messengers beyond your borders and turned away and were humbled as far as Hades.
 
 **Isaiah 57:10**
 
-In your many ways you labored and did not say, I will stop. Because you kept strengthening yourself, therefore you did not ask of me.
+In your many ways you labored and did not say, I will stop. Because you kept strengthening yourself, therefore you did not plead with me.
 
 **Isaiah 57:11**
 
-Whom did you respect and fear and lie against me, and not remember me, nor take me into your mind or heart? And I, seeing you, overlooked it, and you did not fear me.
+Whom did you respect and fear and lie to me, and not remember me, nor take me into your mind or heart? And I, seeing you, overlooked it, and you did not fear me.
 
 **Isaiah 57:12**
 
@@ -76002,27 +76002,27 @@ But I will declare my righteousness and your evils, which will not profit you.
 
 **Isaiah 57:13**
 
-When you cry out, let them deliver you in your distress; for wind will take them all and storm carry them away. But those holding to me will possess land and inherit my holy mountain.
+When you cry out, let them deliver you in your distress; for wind will take all these and storm will carry them away. But those holding fast to me will possess land and inherit my holy mountain.
 
 **Isaiah 57:14**
 
-And they will say, Clear roads before him and lift obstacles from the way of my people.
+And they will say, Clear the roads before him and remove obstacles from the way of my people.
 
 **Isaiah 57:15**
 
-Thus says the Lord Most High, dwelling in heights forever, Holy among holy ones his name, Lord Most High, resting among holy ones and giving patience to fainthearted ones and giving life to crushed in heart.
+Thus says the Lord Most High, the one dwelling in the heights forever: Holy among holy ones is his name, the Lord Most High, resting among holy ones and giving patience to the fainthearted and giving life to those crushed in heart.
 
 **Isaiah 57:16**
 
-Not forever will I avenge you, nor be angry with you always, for spirit from me will go out, and I made every breath.
+Not forever will I avenge you, nor will I be angry with you always, for spirit from me will go out, and I made every breath.
 
 **Isaiah 57:17**
 
-Because of sin I grieved him a little and struck him and turned my face away from him, and he was grieved and went gloomy in his ways.
+Because of sin I grieved him for a little while and struck him and turned my face away from him, and he was grieved and went gloomy in his ways.
 
 **Isaiah 57:18**
 
-His ways I saw and healed him and comforted him and gave him true comfort.
+I have seen his ways and healed him and comforted him and gave him true comfort.
 
 **Isaiah 57:19**
 
@@ -76030,41 +76030,41 @@ Peace upon peace to those far and to those near, and the Lord said, I will heal 
 
 **Isaiah 57:20**
 
-But unrighteous ones will be shaken like sea and cannot rest.
+But unrighteous ones will thus be shaken and will not be able to rest.
 
 **Isaiah 57:21**
 
-No rejoicing for ungodly, said the Lord God.
+There is no rejoicing for the ungodly, said the Lord God.
 
 ### Chapter 58
 
 **Isaiah 58:1**
 
-Cry out with strength and do not spare. Lift your voice like trumpet and announce to my people their sins and to the house of Jacob their lawless deeds.
+Cry out with strength and do not spare. Lift your voice like a trumpet and announce to my people their sins and to the house of Jacob their lawless deeds.
 
 **Isaiah 58:2**
 
-They seek me day after day and want to know my ways, as people doing righteousness and not forsaking judgment of their God. They ask me now for righteous judgment and desire to draw near to God.
+They seek me day after day and want to know my ways, as a people that has done righteousness and not forsaken the judgment of their God. They ask me now for righteous judgment and desire to draw near to God.
 
 **Isaiah 58:3**
 
-saying, Why did we fast and you did not see? We humbled our souls and you did not know. For in the days of your fasts you find your own desires and prick all under your hand.
+saying, Why did we fast and you did not see? We humbled our souls and you did not know. For in the days of your fasts you find your own desires and goad all those under your hands.
 
 **Isaiah 58:4**
 
-If you fast for judgments and fights and strike humble one with fists, why fast to me as today, so your voice may be heard in cry?
+If you fast for judgments and fights and strike the humble one with fists, why do you fast to me as today, so that your voice may be heard in a cry?
 
 **Isaiah 58:5**
 
-I did not choose such fast, nor day for man to humble his soul, nor if you bend your neck like ring and spread sackcloth and ashes. You will not call this acceptable fast.
+I did not choose such a fast, nor a day for a man to humble his soul, nor if you bend your neck like a ring and spread sackcloth and ashes. You will not call such a fast acceptable.
 
 **Isaiah 58:6**
 
-Is not this the fast I chose, says the Lord? Loose every bond of injustice, untie knots of violent agreements, send broken ones away in release, and tear up every unjust writing.
+Is this not the fast I chose, says the Lord? Loose every bond of injustice, untie knots of violent agreements, send broken ones away in release, and tear up every unjust writing.
 
 **Isaiah 58:7**
 
-Break your bread to hungry and bring poor homeless into your house. If you see naked one, clothe him. And from your own seed do not turn away.
+Break your bread for the hungry one and bring the poor homeless into your house. If you see a naked one, clothe him. And do not overlook those from your own seed.
 
 **Isaiah 58:8**
 
@@ -76072,41 +76072,41 @@ Then your light will burst forth early and your healings quickly rise, and your 
 
 **Isaiah 58:9**
 
-Then you will cry, and God will hear you. While you are still speaking he will say, See, I am here. If you remove from you bond and pointing of hand and word of grumbling,
+Then you will cry, and God will hear you. While you are still speaking he will say, See, I am here. If you remove from yourself a bond and pointing of the hand and word of grumbling,
 
 **Isaiah 58:10**
 
-and give bread from your soul to hungry one and fill humbled soul, then your light will rise in darkness and your darkness as midday.
+and give bread from your soul to the hungry one and fill the humbled soul, then your light will rise in darkness and your darkness as midday.
 
 **Isaiah 58:11**
 
-And your God will be with you always, and you will be filled as your soul desires, and your bones will grow fat, and you will be like well-watered garden and like spring whose water did not fail, and your bones like grass will spring up and grow fat, and they will inherit generations of generations.
+And your God will be with you always, and you will be filled as your soul desires, and your bones will grow fat, and you will be like a well-watered garden and like a spring whose water does not fail, and your bones like grass will spring up and grow fat, and they will inherit generations of generations.
 
 **Isaiah 58:12**
 
-And your everlasting desolations will be built, and your foundations everlasting to the generations of generations. And you will be called builder of fences, and you will stop the paths between.
+And your everlasting desolations will be built, and your foundations will be everlasting to the generations of generations. And you will be called builder of fences, and you will stop the paths between.
 
 **Isaiah 58:13**
 
-If you turn your foot from Sabbaths, not doing your wishes on holy day, and call Sabbaths delightful, holy to your God, you will not lift your foot for work nor speak word in anger from your mouth.
+If you turn your foot from the Sabbaths, not doing your wishes on the holy day, and call the Sabbaths delightful, holy to your God, you will not lift your foot for work nor speak a word in anger from your mouth.
 
 **Isaiah 58:14**
 
-And you will be confident in the Lord, and he will bring you up on good things of earth and feed you inheritance of Jacob your father, for the mouth of the Lord spoke these things.
+And you will be confident in the Lord, and he will bring you up on the good things of the earth and feed you with the inheritance of Jacob your father, for the mouth of the Lord spoke these things.
 
 ### Chapter 59
 
 **Isaiah 59:1**
 
-Surely the hand of the Lord not too weak to save, nor his ear made heavy so as not to hear.
+Surely the hand of the Lord is not too weak to save, nor his ear made heavy so as not to hear.
 
 **Isaiah 59:2**
 
-But your sins separate between you and God, and because of your sins he turned his face away from you so as not to have mercy.
+But your sins stand between you and God, and because of your sins he turned his face away from you so as not to have mercy.
 
 **Isaiah 59:3**
 
-For your hands polluted with blood and your fingers with sins. Your lips spoke lawlessness and your tongue studies injustice.
+For your hands are polluted with blood and your fingers with sins. Your lips spoke lawlessness and your tongue studies injustice.
 
 **Isaiah 59:4**
 
@@ -76122,19 +76122,19 @@ Their web will not become a garment, nor will they clothe themselves from their 
 
 **Isaiah 59:7**
 
-Their feet run to evil, quick to pour out blood, and their thoughts are thoughts of fools. Crushing and misery in their ways.
+Their feet run to evil, quick to pour out blood, and their thoughts are thoughts of fools. Crushing and misery are in their ways.
 
 **Isaiah 59:8**
 
-They do not know a way of peace, and there is no judgment in their ways, for their paths are twisted, which they travel, and they do not know peace.
+They do not know the way of peace, and there is no judgment in their ways, for their paths are twisted, which they travel, and they do not know peace.
 
 **Isaiah 59:9**
 
-Therefore judgment withdrew from them, and righteousness will not overtake them. Though they waited for light, darkness came to them. Remaining for brightness, they walked in gloom.
+Therefore judgment withdrew from them, and righteousness will not overtake them. Though they waited for light, darkness came to them. While waiting for dawn, they walked in gloom.
 
 **Isaiah 59:10**
 
-They will grope wall like blind men and as having no eyes they will grope, and fall at noon as at midnight. As dying men they will groan.
+They will grope for a wall like blind men and as having no eyes they will grope, and they will fall at noon as at midnight. As dying men they will groan.
 
 **Isaiah 59:11**
 
@@ -76142,7 +76142,7 @@ Like a bear and like a dove together they will go. We waited for judgment, and t
 
 **Isaiah 59:12**
 
-For our lawlessness great before you, and our sins stood against us. Our lawless deeds in us, and our injustices we know:
+For our lawlessness is great before you, and our sins stood against us. Our lawless deeds are in us, and our injustices we know:
 
 **Isaiah 59:13**
 
@@ -76154,7 +76154,7 @@ And we turned judgment backward and righteousness stood far off, because truth w
 
 **Isaiah 59:15**
 
-And truth was taken away and they removed understanding from mind. And the Lord saw, and it did not please him, because there was no judgment.
+And truth was taken away and they moved the mind away from understanding. And the Lord saw, and it did not please him, because there was no judgment.
 
 **Isaiah 59:16**
 
@@ -76162,19 +76162,19 @@ And he saw, and there was no man, and he understood, and there was no one to hel
 
 **Isaiah 59:17**
 
-And he put on righteousness as breastplate and placed helmet of salvation on head and put on garment of vengeance as clothing.
+And he put on righteousness as a breastplate and placed a helmet of salvation on his head and put on a garment of vengeance as a cloak.
 
 **Isaiah 59:18**
 
-As one giving repayment, reproach to opponents.
+as one who will give repayment: reproach to the opponents.
 
 **Isaiah 59:19**
 
-And those from the west will fear the name of the Lord, and those from the sunrise his glorious name. For wrath from the Lord will come like violent river, coming with fury.
+And those from the west will fear the name of the Lord, and those from the sunrise the glorious name. For wrath from the Lord will come like a violent river, coming with fury.
 
 **Isaiah 59:20**
 
-And rescuer will come for the sake of Zion and turn away ungodliness from Jacob.
+And the rescuer will come for the sake of Zion and turn away ungodliness from Jacob.
 
 **Isaiah 59:21**
 
@@ -76188,7 +76188,7 @@ Shine, shine, Jerusalem, for your light has come and the glory of the Lord has r
 
 **Isaiah 60:2**
 
-See, darkness and gloom will cover earth over nations; but on you the Lord will appear and his glory will be seen on you.
+See, darkness and gloom will cover the earth over nations; but on you the Lord will appear and his glory will be seen on you.
 
 **Isaiah 60:3**
 
@@ -76196,19 +76196,19 @@ And kings will walk by your light and nations by your brightness.
 
 **Isaiah 60:4**
 
-Lift your eyes around and see. Your children gathered; see, all your sons came from far away and your daughters will be carried on shoulders.
+Lift your eyes around and see. Your children have been gathered; see, all your sons have come from far away and your daughters will be carried on shoulders.
 
 **Isaiah 60:5**
 
-Then you will see and fear and your heart will be amazed, because wealth of sea and of nations and peoples will turn to you and come to you.
+Then you will see and fear and your heart will be amazed, because the wealth of the sea and of nations and peoples will turn to you and come to you.
 
 **Isaiah 60:6**
 
-Herds of camels will cover you, camels of Midian and Ephah. All from Sheba will come, carrying gold and incense, and proclaiming salvation of the Lord.
+Herds of camels will cover you, camels of Midian and Ephah. All from Sheba will come, carrying gold and frankincense, and proclaiming the salvation of the Lord.
 
 **Isaiah 60:7**
 
-And all sheep of Kedar will be gathered to you and rams of Nebaioth will come to you and be brought up acceptable on my altar, and my house of prayer will be glorified.
+And all the sheep of Kedar will be gathered to you and rams of Nebaioth will come to you and be brought up acceptable on my altar, and my house of prayer will be glorified.
 
 **Isaiah 60:8**
 
@@ -76216,11 +76216,11 @@ Who are these flying like clouds and like doves with young?
 
 **Isaiah 60:9**
 
-Islands waited for me and ships of Tarshish first, to bring your children from far away, and their silver and gold with them, because of holy name of the Lord and because the Holy One of Israel is glorified.
+Islands waited for me and ships of Tarshish first, to bring your children from far away, and their silver and gold with them, because of the holy name of the Lord and because the Holy One of Israel is glorified.
 
 **Isaiah 60:10**
 
-Foreigners will build your walls and their kings stand beside you, because in my wrath I struck you and in mercy I loved you.
+Foreigners will build your walls and their kings will stand beside you, because in my wrath I struck you and in mercy I loved you.
 
 **Isaiah 60:11**
 
@@ -76232,11 +76232,11 @@ For nations and kings that will not serve you will perish, and nations will be m
 
 **Isaiah 60:13**
 
-The glory of Lebanon will come to you with cypress and pine and cedar together, to glorify place of my holy one.
+The glory of Lebanon will come to you with cypress and pine and cedar together, to glorify my holy place.
 
 **Isaiah 60:14**
 
-Sons of those humbling you and provoking you will come to you in fear, and you will be called the city of the Lord, Zion of the Holy One of Israel.
+Sons of those who humbled you and provoked you will come to you in fear, and you will be called the city of the Lord, Zion of the Holy One of Israel.
 
 **Isaiah 60:15**
 
@@ -76244,7 +76244,7 @@ Because you became forsaken and hated and there was none to help, I will make yo
 
 **Isaiah 60:16**
 
-You will suck milk of nations and eat wealth of kings, and you will know that I, the Lord, am one saving you and delivering you, God of Israel.
+You will suck milk of nations and eat wealth of kings, and you will know that I, the Lord, am the one saving you and delivering you, the God of Israel.
 
 **Isaiah 60:17**
 
@@ -76252,37 +76252,37 @@ Instead of bronze I will bring you gold, and instead of iron I will bring you si
 
 **Isaiah 60:18**
 
-Injustice will no longer be heard in your land, nor crushing nor misery in your borders, but your walls will be called Salvation and your gates Praise.
+Injustice will no longer be heard in your land, nor crushing nor misery in your borders, but your walls will be called Salvation and your gates Carved Work.
 
 **Isaiah 60:19**
 
-Sun will not be for you light by day, nor rising of moon light your night, but the Lord will be everlasting light for you and God your glory.
+The sun will not be for you light by day, nor will the rising of the moon light your night, but the Lord will be everlasting light for you and God your glory.
 
 **Isaiah 60:20**
 
-Your sun will not set and your moon will not fail, for the Lord will be everlasting light for you and days of your mourning will be fulfilled.
+Your sun will not set and your moon will not fail, for the Lord will be everlasting light for you and the days of your mourning will be fulfilled.
 
 **Isaiah 60:21**
 
-All your people righteous, and forever they will inherit land, keeping the plant, work of his hands, for glory.
+All your people will be righteous, and forever they will inherit the land, keeping the plant, the work of his hands, for glory.
 
 **Isaiah 60:22**
 
-Least one will become into thousands and smallest into great nation. I
+The least one will become thousands and the smallest a great nation. I, the Lord, in due time will gather them.
 
 ### Chapter 61
 
 **Isaiah 61:1**
 
-The Spirit of the Lord on me, because he anointed me to bring good news to poor. He sent me to heal crushed in heart, proclaim release to captives and sight to blind.
+The Spirit of the Lord is on me, because he anointed me to bring good news to the poor. He sent me to heal those crushed in heart, proclaim release to captives and recovery of sight to the blind.
 
 **Isaiah 61:2**
 
-Call year of the Lord acceptable and day of repayment, to comfort all mourning ones.
+to call the acceptable year of the Lord and the day of repayment, to comfort all those mourning.
 
 **Isaiah 61:3**
 
-Give to mourning ones of Zion glory instead of ashes, oil of gladness to mourning ones, garment of glory instead of spirit of weariness, and they will be called generations of righteousness, planting of the Lord for glory.
+to give to those mourning Zion glory instead of ashes, oil of gladness to those mourning, a garment of glory instead of a spirit of weariness, and they will be called generations of righteousness, planting of the Lord for glory.
 
 **Isaiah 61:4**
 
@@ -76298,11 +76298,11 @@ But you will be called priests of the Lord, ministers of God. You will eat the s
 
 **Isaiah 61:7**
 
-So they will inherit land second time and everlasting joy above their head.
+So they will inherit the land for a second time and everlasting joy will be above their head.
 
 **Isaiah 61:8**
 
-For I am the Lord loving righteousness and hating robberies from injustice, and I will give their toil to righteous ones and make everlasting covenant with them.
+For I am the Lord loving righteousness and hating robberies from injustice, and I will give their toil to righteous ones and make an everlasting covenant with them.
 
 **Isaiah 61:9**
 
@@ -76310,99 +76310,99 @@ Their seed will be known among nations and their offspring in the midst of peopl
 
 **Isaiah 61:10**
 
-They will rejoice with joy in the Lord; let my soul exult in the Lord, for he clothed me with garment of salvation and tunic of gladness. As bridegroom he put turban on me, and as bride adorned me with ornament.
+They will rejoice with joy in the Lord; let my soul exult in the Lord, for he clothed me with a garment of salvation and a tunic of gladness. As a bridegroom he put a turban on me, and as a bride he adorned me with ornament.
 
 **Isaiah 61:11**
 
-As earth increases its flower and as garden its seeds, so the Lord will make righteousness and exultation spring up before all nations.
+And as earth increases its flower and as a garden its seeds, so the Lord will make righteousness and exultation spring up before all nations.
 
 ### Chapter 62
 
 **Isaiah 62:1**
 
-For Zion I will not be silent, and for Jerusalem I will not relent until my righteousness goes out as light and my salvation burns as torch.
+For Zion I will not be silent, and for Jerusalem I will not relent until my righteousness goes out like light and my salvation burns like a torch.
 
 **Isaiah 62:2**
 
-Nations will see your righteousness and kings your glory, and your new name the Lord will call it.
+Nations will see your righteousness and kings your glory, and you will be called by your new name, which the Lord will name.
 
 **Isaiah 62:3**
 
-You will be a crown of beauty in the hand of the Lord and diadem of kingdom in the hand of your God.
+You will be a crown of beauty in the hand of the Lord and a diadem of kingship in the hand of your God.
 
 **Isaiah 62:4**
 
-No longer will you be called Forsaken, and your land will no longer be called Desert, for you will be called My Will, and your land Inhabited.
+No longer will you be called Forsaken, and your land will no longer be called Desolate, for you will be called My Desire, and your land Inhabited.
 
 **Isaiah 62:5**
 
-And as a young man dwelling with a virgin, so your sons will dwell with you, and as a bridegroom rejoices over a bride, so the Lord will rejoice over you.
+And as a young man lives with a virgin, so your sons will dwell with you, and as a bridegroom rejoices over a bride, so the Lord will rejoice over you.
 
 **Isaiah 62:6**
 
-On your walls, Jerusalem, I appointed watchmen all day and all night; through all end they will not be silent, remembering Lord.
+On your walls, Jerusalem, I appointed watchmen all day and all night; continually they will not be silent, remembering the Lord.
 
 **Isaiah 62:7**
 
-For no one like you when he restores and makes Jerusalem boast upon earth.
+For there is no one like you when he restores and makes Jerusalem a boast upon the earth.
 
 **Isaiah 62:8**
 
-The Lord swore by his right hand and by the strength of his arm: If I again give your grain and your foods to your enemies, and if sons of foreigners again drink your wine for which you labored—
+The Lord swore by his right hand and by the strength of his arm: Surely I will no longer give your grain and your foods to your enemies, and sons of foreigners will no longer drink your wine for which you labored—
 
 **Isaiah 62:9**
 
-rather those gathering will eat them and praise the Lord, and those gathering will drink them in my holy courts.
+rather those who gather them will eat them and praise the Lord, and those who gather them will drink them in my holy courts.
 
 **Isaiah 62:10**
 
-Go through my gates and make way for my people, and scatter stones from road. Lift standard to nations.
+Go through my gates and make a road for my people, and scatter the stones from the road. Lift a standard for the nations.
 
 **Isaiah 62:11**
 
-For see, the Lord made it heard to the end of the earth: Say to the daughter of Zion, See, your savior comes, holding his wage and his work before his face.
+For behold, the Lord made this heard to the end of the earth: Say to the daughter of Zion, Behold, your Savior comes, holding his wage and his work before his face.
 
 **Isaiah 62:12**
 
-And he will call him Holy People, Redeemed by the Lord. But you will be called Sought Out City and Not Forsaken.
+And he will call them Holy People, Redeemed by the Lord. But you will be called Sought Out, a City Not Forsaken.
 
 ### Chapter 63
 
 **Isaiah 63:1**
 
-Who is this coming from Edom, redness of garments from Besor, so beautiful in robe, force with strength? I speak righteousness and judgment of salvation.
+Who is this coming from Edom, with redness of garments from Bozrah, so beautiful in his robe, with force and strength? I speak righteousness and a judgment of salvation.
 
 **Isaiah 63:2**
 
-Why are your garments red and your clothes like from trodden winepress?
+Why are your garments red and your clothes like those from a trodden winepress?
 
 **Isaiah 63:3**
 
-Full of trampled grapes, and from nations no man with me; I trampled them in wrath and crushed them like earth and brought their blood down to earth.
+I am full of what was trampled, and from the nations no man was with me; I trampled them in wrath and crushed them like earth and brought their blood down to the earth.
 
 **Isaiah 63:4**
 
-For the day of repayment came on them, and year of redemption is present.
+For the day of repayment came upon them, and the year of redemption is present.
 
 **Isaiah 63:5**
 
-I looked and none was helper; I considered and no one was taking hold. So my arm rescued them and my wrath came upon them.
+I looked and there was no helper; I considered and no one was taking hold. So my arm rescued them and my wrath came upon them.
 
 **Isaiah 63:6**
 
-And I trampled them in my anger and brought their blood down to earth.
+And I trampled them in my anger and brought their blood down to the earth.
 
 **Isaiah 63:7**
 
-I remembered mercy of the Lord, virtues of the Lord in all things the Lord repays us—the Lord is a good judge to the house of Israel. He brings upon us according to his mercy and according to the abundance of his righteousness.
+I remembered the mercy of the Lord, the virtues of the Lord in all things by which the Lord repays us—the Lord is a good judge to the house of Israel. He brings upon us according to his mercy and according to the abundance of his righteousness.
 
 **Isaiah 63:8**
 
-And he said, Are they not my people, children who will not reject? And he became salvation to them.
+And he said, Are they not my people, children who will certainly not reject? And he became salvation to them.
 
 **Isaiah 63:9**
 
-In all their affliction not elder nor angel, but the Lord himself saved them. Because he loved them and spared them, he redeemed them and took them up and lifted them all days of age.
+In all their affliction, no elder nor angel, but the Lord himself saved them. Because he loved them and spared them, he redeemed them and took them up and lifted them all the days of old.
 
 **Isaiah 63:10**
 
@@ -76410,179 +76410,179 @@ But they disobeyed and provoked his Holy Spirit, and he turned to them as an ene
 
 **Isaiah 63:11**
 
-And he remembered the days of old, one bringing up from the land shepherd of sheep. Where is one placing Holy Spirit in them,
+And he remembered the days of old, the one who brought up from the land the shepherd of the sheep. Where is the one who placed the Holy Spirit in them,
 
 **Isaiah 63:12**
 
-one leading Moses at right hand? Arm of his glory strengthened water before him, to make everlasting name for himself.
+the one who led Moses by the right hand? The arm of his glory strengthened the water before him, to make an everlasting name for himself.
 
 **Isaiah 63:13**
 
-He led them through abyss like a horse through wilderness, and they did not tire.
+He led them through the abyss like a horse through a wilderness, and they did not tire.
 
 **Isaiah 63:14**
 
-And as cattle through plain Spirit from the Lord came down and guided them. So you led your people to make for yourself name of glory.
+And like cattle through a plain, the Spirit from the Lord came down and guided them. So you led your people to make for yourself a name of glory.
 
 **Isaiah 63:15**
 
-Turn from heaven and look from the house of your holiness and glory. Where is your zeal and strength? Where is the multitude of your mercy and compassions, because you held back from us?
+Turn back from heaven and look from your holy and glorious house. Where is your zeal and strength? Where is the multitude of your mercy and compassions, because you held back from us?
 
 **Isaiah 63:16**
 
-For you are our father, because Abraham did not know us and Israel did not acknowledge us; but you, Lord, our father, rescue us. From beginning your name is upon us.
+For you are our father, because Abraham did not know us and Israel did not acknowledge us; but you, Lord, our father, rescue us. From the beginning your name is upon us.
 
 **Isaiah 63:17**
 
-Why did you make us wander, Lord, from your way? You hardened our hearts so as not to fear you. Turn back for the sake of your servants, tribes of your inheritance.
+Why did you make us wander, Lord, from your way? You hardened our hearts so as not to fear you. Turn back for the sake of your servants, the tribes of your inheritance.
 
 **Isaiah 63:18**
 
-So we may inherit little of your holy mountain. Our opponents trampled your sanctuary.
+So we may inherit a little of your holy mountain. Our opponents trampled your sanctuary.
 
 **Isaiah 63:19**
 
-We became as from the beginning when you did not rule us nor your name was called on us. If you open heaven, mountains will take trembling from you and melt.
+We became as from the beginning when you did not rule us nor was your name called on us. If you open heaven, trembling will seize the mountains from you, and they will melt.
 
 ### Chapter 64
 
 **Isaiah 64:1**
 
-As wax melts from fire, and fire will burn opponents, and the name of the Lord will be evident among opponents; from your face nations will be shaken.
+As wax melts from fire, and fire will burn the opponents, and the name of the Lord will be evident among the opponents; from your face nations will be shaken.
 
 **Isaiah 64:2**
 
-When you do glorious things, mountains will take trembling from you.
+When you do glorious things, trembling will seize the mountains from you.
 
 **Isaiah 64:3**
 
-From age we did not hear, nor did our eyes see god besides you and your works which you will do for those waiting mercy.
+From the age we have not heard, nor have our eyes seen God besides you and your works which you will do for those waiting for mercy.
 
 **Isaiah 64:4**
 
-For he will meet those doing righteousness, and they will remember your ways. See, you were angry and we sinned; because of this we wandered.
+For he will meet those who do righteousness, and they will remember your ways. Behold, you were angry and we sinned; because of this we wandered.
 
 **Isaiah 64:5**
 
-And we all became as unclean, and all our righteousness as cloth of menstruation, and we fell away as leaves. Because of our lawless deeds thus wind will carry us away.
+And all of us became as unclean, and all our righteousness as a cloth of menstruation, and we fell away as leaves. Because of our lawless deeds, thus a wind will carry us away.
 
 **Isaiah 64:6**
 
-And there is no one calling on your name and remembering to take hold of you, because you turned your face from us and gave us over because of our sins.
+And there is no one calling on your name and no one remembering to take hold of you, because you turned your face away from us and gave us over because of our sins.
 
 **Isaiah 64:7**
 
-And now, Lord, our father, you; but we clay, all work of your hands.
+And now, Lord, you are our father; but we are clay, all of us the work of your hands.
 
 **Isaiah 64:8**
 
-Do not be very angry with us and do not remember our sins in season. And now look, because we all your people.
+Do not be very angry with us, and do not remember our sins in season. And now look, because we are all your people.
 
 **Isaiah 64:9**
 
-The city of your holy one became desolate. Zion became like a desert; Jerusalem into curse.
+Your holy city became desolate. Zion became like a desert; Jerusalem became a curse.
 
 **Isaiah 64:10**
 
-Our holy house and glory, which our fathers blessed, became burned with fire, and all glorious things fell.
+Our holy house and our glory, which our fathers blessed, was burned with fire, and all glorious things fell.
 
 **Isaiah 64:11**
 
-And over all these you held back, Lord, and kept silent and humbled us greatly.
+And over all these things you held back, Lord, and kept silent and humbled us greatly.
 
 ### Chapter 65
 
 **Isaiah 65:1**
 
-I became manifest to those not seeking me; I was found by those not asking after me. I said, Here I am, to nation not calling my name.
+I became manifest to those not seeking me; I was found by those not asking after me. I said, Behold, I am here, to a nation not calling my name.
 
 **Isaiah 65:2**
 
-I stretched out my hands all day to disobedient and contradicting people, who did not walk true way but after their sins.
+I stretched out my hands all day to a disobedient and contradicting people, who did not walk in a true way but after their sins.
 
 **Isaiah 65:3**
 
-This people provoking me continually to my face, sacrificing in gardens and burning incense on bricks to demons that do not exist.
+This is the people who provoke me continually to my face, sacrificing in the gardens and burning incense on the bricks to demons that do not exist.
 
 **Isaiah 65:4**
 
-And in tombs and caves they sleep because of dreams, eating pig flesh and broth of polluted sacrifices, all their vessels polluted.
+And among the tombs and in the caves they sleep because of dreams, eating pig flesh and broth of polluted sacrifices; all their vessels are polluted.
 
 **Isaiah 65:5**
 
-saying, Keep far from me; do not come near me, because I am clean. This smoke of my wrath, fire burning in it all days.
+saying, Keep far from me; do not come near me, because I am clean. This is smoke of my wrath; a fire burns in it all the days.
 
 **Isaiah 65:6**
 
-See, it is written before me. I will not keep silent until I repay into their bosom
+Behold, it is written before me. I will not keep silent until I repay into their bosom
 
 **Isaiah 65:7**
 
-their sins and sins of their fathers, says the Lord, who burned incense on mountains and reproached me on hills. I will repay their works into their bosom.
+their sins and the sins of their fathers, says the Lord, who burned incense on the mountains and reproached me on the hills. I will repay their works into their bosom.
 
 **Isaiah 65:8**
 
-Thus says the Lord: As juice is found in cluster and they say, Do not destroy it, because the blessing of the Lord is in it, so I will do for the sake of one serving me. For his sake I will not destroy them all.
+Thus says the Lord: As a grape is found in the cluster and they say, Do not destroy it, because the blessing of the Lord is in it, so I will do for the sake of the one serving me. For his sake I will not destroy them all.
 
 **Isaiah 65:9**
 
-And I will bring out from Jacob seed and from Judah, and it will inherit my holy mountain, and my chosen will inherit it and my servants dwell there.
+And I will bring out the seed from Jacob and from Judah, and it will inherit my holy mountain, and my chosen will inherit it and my servants will dwell there.
 
 **Isaiah 65:10**
 
-And in the forest there will be folds for flocks and the valley of Achor for the rest of herds, for my people who sought me.
+And in the forest there will be folds for flocks and the valley of Achor as a resting place for herds, for my people who sought me.
 
 **Isaiah 65:11**
 
-But you who abandon me and forget my holy mountain and prepare table for demon and fill mixed drink for Fortune,
+But you who abandon me and forget my holy mountain and prepare a table for the demon and fill mixed drink for Fortune,
 
 **Isaiah 65:12**
 
-I will hand you over to sword. All you will fall in slaughter, because I called you and you did not obey; I spoke and you refused, and you did evil before me and chose what I did not want.
+I will hand you over to the sword. All of you will fall by slaughter, because I called you and you did not obey; I spoke and you refused, and you did evil before me and chose what I did not desire.
 
 **Isaiah 65:13**
 
-Therefore thus says the Lord: See, those serving me will eat, but you will hunger. See, those serving me will drink, but you will thirst. See, those serving me will rejoice, but you will be shamed.
+Therefore thus says the Lord: Behold, those who serve me will eat, but you will hunger. Behold, those who serve me will drink, but you will thirst. Behold, those who serve me will rejoice, but you will be shamed.
 
 **Isaiah 65:14**
 
-See, those serving me will exult in gladness, but you will cry out from pain of your heart and howl from crushing of spirit.
+Behold, those who serve me will exult in gladness, but you will cry out from the pain of your heart and howl from crushing of spirit.
 
 **Isaiah 65:15**
 
-For you will leave your name for fullness to my chosen; The Lord will kill you, but to those serving him new name will be called,
+For you will leave your name for fullness to my chosen; the Lord will kill you, but to those who serve him a new name will be called,
 
 **Isaiah 65:16**
 
-by which one blessed on earth will bless true God, and those swearing on earth will swear by true God, because they will forget their former affliction and it will not come up on their heart.
+by which one blessed on the earth will bless the true God, and those swearing on the earth will swear by the true God, because they will forget their former affliction and it will not come up on their heart.
 
 **Isaiah 65:17**
 
-For there will be new heaven and new earth, and former things will not be remembered nor come upon heart.
+For there will be a new heaven and a new earth, and former things will not be remembered nor come up upon their heart.
 
 **Isaiah 65:18**
 
-But they will find gladness and exultation in it, because see, I make Jerusalem exultation and my people gladness.
+But they will find gladness and exultation in it, because behold, I make Jerusalem an exultation and my people gladness.
 
 **Isaiah 65:19**
 
-And I will exult over Jerusalem and be glad over my people, and the voice of weeping and the voice of cry will no longer be heard in her.
+And I will exult over Jerusalem and be glad over my people, and a voice of weeping and a voice of crying will no longer be heard in her.
 
 **Isaiah 65:20**
 
-And there will no longer be there untimely child nor old man who does not fill his time, for young one will be hundred years old, but sinner dying at hundred years will be accursed.
+And there will no longer be an untimely child there nor an old man who does not fill his time, for the young one will be one hundred years old, but the sinner dying at one hundred years will be accursed.
 
 **Isaiah 65:21**
 
-They will build houses and themselves dwell, and plant vineyards and themselves eat their produce.
+They will build houses and dwell in them, and plant vineyards and eat their produce.
 
 **Isaiah 65:22**
 
-They will not build and others dwell, nor plant and others eat, for the days of my people will be as days of the tree of life, and works of their labors will grow old.
+They will not build and others dwell, nor plant and others eat, for the days of my people will be like the days of the tree of life, and the works of their labors will grow old.
 
 **Isaiah 65:23**
 
-My chosen will not labor in vain nor bear children for curse, because seed blessed by God is with them and their offspring with them.
+My chosen will not labor in vain nor bear children for a curse, because seed blessed by God is with them and their offspring with them.
 
 **Isaiah 65:24**
 
@@ -76590,81 +76590,81 @@ And before they cry out, I will hear them. While they are still speaking, I will
 
 **Isaiah 65:25**
 
-Then wolves and lambs will graze together, and lion like ox will eat straw, and serpent earth as bread. They will not do injustice nor destroy on my holy mountain, says the Lord.
+Then wolves and lambs will graze together, and a lion like an ox will eat straw, and a serpent will eat earth like bread. They will not do injustice nor destroy on my holy mountain, says the Lord.
 
 ### Chapter 66
 
 **Isaiah 66:1**
 
-Thus says the Lord: Heaven my throne, and earth footstool of my feet. What house will you build for me, or what place of my rest?
+Thus says the Lord: Heaven is my throne, and the earth is the footstool of my feet. What house will you build for me, or what is the place of my rest?
 
 **Isaiah 66:2**
 
-For all these my hand made, and all these are mine, says the Lord. And to whom will I look, except to humble and quiet one and one trembling at my words?
+For all these things my hand made, and all these things are mine, says the Lord. And upon whom will I look, except upon the humble and quiet one and the one trembling at my words?
 
 **Isaiah 66:3**
 
-But lawless one sacrificing calf to me as one killing dog; one offering fine flour as blood of pig; one giving incense for memorial as blasphemer. These chose their own ways, and their soul desired their abominations.
+But the lawless one sacrificing a calf to me is like one killing a dog; the one offering fine flour is like pig's blood; the one giving frankincense for a memorial is like a blasphemer. These also chose their own ways, and their soul desired their abominations.
 
 **Isaiah 66:4**
 
-So I will choose their mockeries and repay their sins to them, because I called them and they did not obey me. I spoke and they did not hear, and they did evil before me and chose what I did not want.
+So I will choose their mockeries and repay their sins to them, because I called them and they did not obey me. I spoke and they did not hear, and they did evil before me and chose what I did not desire.
 
 **Isaiah 66:5**
 
-Hear the word of the Lord, you trembling at his word: Your brothers hating you and abhorring you said, Let the name of the Lord be glorified so we may see your gladness; but they will be shamed.
+Hear the word of the Lord, you who tremble at his word: Say, Our brothers, to those who hate us and abhor us, Let the name of the Lord be glorified and be seen in their gladness; but they will be shamed.
 
 **Isaiah 66:6**
 
-The voice of a cry from the city, a voice from the temple, the voice of the Lord repaying repayment to opponents.
+The voice of a cry from the city, a voice from the temple, the voice of the Lord repaying recompense to those opposing him.
 
 **Isaiah 66:7**
 
-Before one in labor gave birth, before pain of birth-pangs came, she escaped and bore male.
+Before the one in labor gave birth, before the pain of birth-pangs came, she escaped and bore a male.
 
 **Isaiah 66:8**
 
-Who heard such thing and who saw thus? Did earth labor in one day, or nation bear at once? Because Zion labored and bore her children.
+Who heard such a thing, and who saw thus? Did the earth labor in one day, or was a nation born at once? Because Zion labored and bore her children.
 
 **Isaiah 66:9**
 
-But I gave this expectation and you did not remember me, said the Lord. See, did I make one bearing and then make her barren? said God.
+But I gave this expectation and you did not remember me, said the Lord. See, did I make the one bearing and then make her barren? said God.
 
 **Isaiah 66:10**
 
-Be glad, Jerusalem, and celebrate in her, all loving her. Rejoice with joy, all mourning over her,
+Be glad, Jerusalem, and celebrate in her, all who love her. Rejoice with joy, all who mourn over her,
 
 **Isaiah 66:11**
 
-so you may nurse and be filled from the breast of her comfort, so that having sucked you may delight from the entrance of her glory.
+so that you may nurse and be filled from the breast of her comfort, so that after nursing you may delight from the entrance of her glory.
 
 **Isaiah 66:12**
 
-Because thus says the Lord: See, I turn to them like a river of peace and like a torrent flooding glory of nations. Their children will be carried on shoulders and comforted on knees.
+Because thus says the Lord: Behold, I turn to them like a river of peace and like a torrent flooding the glory of nations. Their children will be carried on shoulders and comforted on knees.
 
 **Isaiah 66:13**
 
-As if mother will comfort someone, so I will comfort you, and in Jerusalem you will be comforted.
+As when a mother comforts someone, so I also will comfort you, and in Jerusalem you will be comforted.
 
 **Isaiah 66:14**
 
-And you will see and your heart will rejoice and your bones spring up like grass, and the hand of the Lord will be known to those revering him and he will threaten disobedient ones.
+And you will see and your heart will rejoice and your bones will spring up like grass, and the hand of the Lord will be known to those revering him, and he will threaten the disobedient ones.
 
 **Isaiah 66:15**
 
-For see, the Lord will come as fire and his chariots as storm, to render vengeance in wrath and rebuke in flame of fire.
+For behold, the Lord will come as fire and his chariots like a storm, to render vengeance in wrath and rebuke in a flame of fire.
 
 **Isaiah 66:16**
 
-For by fire of the Lord all the earth will be judged and by his sword all flesh; many wounded will be by the Lord.
+For by the fire of the Lord all the earth will be judged, and by his sword all flesh; many will be wounded by the Lord.
 
 **Isaiah 66:17**
 
-Those purifying and cleansing themselves in gardens and in porches, eating pig flesh and abominations and the mouse, together they will be consumed, said the Lord.
+Those purifying and cleansing themselves in the gardens and in the porches, eating pig flesh and abominations and the mouse, together they will be consumed, said the Lord.
 
 **Isaiah 66:18**
 
-I know their works and their thought. I am coming to gather all nations and tongues, and they will come and see my glory.
+And I know their works and their thought. I am coming to gather all nations and tongues, and they will come and see my glory.
 
 **Isaiah 66:19**
 
@@ -76672,7 +76672,7 @@ And I will leave signs on them and send from them saved ones to nations—to Tar
 
 **Isaiah 66:20**
 
-And they will bring your brothers from all nations as gift to the Lord, with horses and chariots, in litters, mules, and with parasols, into holy city Jerusalem, says the Lord, as sons of Israel bring me their sacrifices with psalms into the house of the Lord.
+And they will bring your brothers from all nations as a gift to the Lord, with horses and chariots, in litters, mules, and with parasols, into the holy city Jerusalem, says the Lord, as the sons of Israel bring me their sacrifices with psalms into the house of the Lord.
 
 **Isaiah 66:21**
 
@@ -76680,7 +76680,7 @@ And from them I will take for myself priests and Levites, said the Lord.
 
 **Isaiah 66:22**
 
-For as new heaven and new earth which I make remain before me, says the Lord, so your seed and your name will stand.
+For as the new heaven and the new earth which I make remain before me, says the Lord, so your seed and your name will stand.
 
 **Isaiah 66:23**
 
@@ -76696,15 +76696,15 @@ And they will go out and see the limbs of the men who transgressed against me, f
 
 **Jeremiah 1:1**
 
-The word of God that came upon Jeremiah son of Hilkiah, from the priests dwelling in Anathoth in the land of Benjamin,
+The word of God that came upon Jeremiah son of Hilkiah, from the priests, who dwelt in Anathoth in the land of Benjamin,
 
 **Jeremiah 1:2**
 
-to whom the word of God came in the days of Josiah son of Amon, king of Judah, in thirteenth year of his reign,
+to whom the word of God came in the days of Josiah son of Amon, king of Judah, in the thirteenth year of his reign,
 
 **Jeremiah 1:3**
 
-and it came in the days of Jehoiakim son of Josiah, king of Judah, until eleventh year of Zedekiah son of Josiah, king of Judah, until captivity of Jerusalem in the fifth month.
+and it came in the days of Jehoiakim son of Josiah, king of Judah, until the eleventh year of Zedekiah son of Josiah, king of Judah, until the captivity of Jerusalem in the fifth month.
 
 **Jeremiah 1:4**
 
@@ -76712,15 +76712,15 @@ And the word of the Lord came to me, saying,
 
 **Jeremiah 1:5**
 
-Before I formed you in womb I knew you, and before you came out from womb I sanctified you; I set you as a prophet to nations.
+Before I formed you in the womb I knew you, and before you came out from the womb I sanctified you; I set you as a prophet to nations.
 
 **Jeremiah 1:6**
 
-And I said, O Master Lord, see, I do not know how to speak, because I am younger one.
+And I said, O Master Lord, behold, I do not know how to speak, because I am too young.
 
 **Jeremiah 1:7**
 
-And the Lord said to me, Do not say, I am younger one, because to all to whom I send you, you will go, and all whatever I command you, you will speak.
+And the Lord said to me, Do not say, I am too young, because to all to whom I send you, you will go, and all whatever I command you, you will speak.
 
 **Jeremiah 1:8**
 
@@ -76728,57 +76728,57 @@ Do not fear before their face, because I am with you to deliver you, says the Lo
 
 **Jeremiah 1:9**
 
-And the Lord stretched out his hand toward me and touched my mouth, and the Lord said to me, See, I have given my words into your mouth.
+And the Lord stretched out his hand toward me and touched my mouth, and the Lord said to me, Behold, I have given my words into your mouth.
 
 **Jeremiah 1:10**
 
-See, I have set you today over nations and kingdoms, to root up and dig down and destroy and build and plant.
+Behold, I have set you today over nations and kingdoms, to root up and dig down and destroy and rebuild and plant.
 
 **Jeremiah 1:11**
 
-And the word of the Lord came to me, saying, What do you see, Jeremiah? And I said, Staff of almond tree.
+And the word of the Lord came to me, saying, What do you see, Jeremiah? And I said, A staff of almond wood.
 
 **Jeremiah 1:12**
 
-And the Lord said to me, You saw well, because I keep watch over my words to do them.
+And the Lord said to me, You have seen well, because I have watched over my words to perform them.
 
 **Jeremiah 1:13**
 
-And the word of the Lord came to me a second time, saying, What do you see? And I said, Boiling cauldron, and its face from the face of north.
+And the word of the Lord came to me a second time, saying, What do you see? And I said, A boiling cauldron, and its face from the face of the north.
 
 **Jeremiah 1:14**
 
-And the Lord said to me, From the face of north evils will burn out upon all dwelling in the land.
+And the Lord said to me, From the face of the north evils will be kindled against all those dwelling in the land.
 
 **Jeremiah 1:15**
 
-Because see, I call all kingdoms from north of earth, says the Lord, and they will come and each place his throne at entrances of the gates of Jerusalem and against all her surrounding walls and against all cities of Judah.
+Because behold, I call all the kingdoms from the north of the earth, says the Lord, and they will come, and each will place his throne at the entrances of the gates of Jerusalem and against all her surrounding walls and against all the cities of Judah.
 
 **Jeremiah 1:16**
 
-And I will speak judgment with them concerning all their wickedness, because they abandoned me and sacrificed to foreign gods and worshiped works of their hands.
+And I will speak judgment with them concerning all their wickedness, because they abandoned me and sacrificed to foreign gods and worshiped the works of their hands.
 
 **Jeremiah 1:17**
 
-And you, gird your waist and rise and say to them all whatever I command you. Do not fear before them nor be broken before them, because I am with you to deliver you, says the Lord.
+And you, gird your waist and rise and say to them all whatever I command you. Do not fear before them nor be terrified before them, because I am with you to deliver you, says the Lord.
 
 **Jeremiah 1:18**
 
-See, I have made you this day as fortified city and as strong bronze wall against all kings of Judah and its rulers and people of the land.
+Behold, I have made you this day as a fortified city and as a strong bronze wall against all the kings of Judah and its rulers and the people of the land.
 
 **Jeremiah 1:19**
 
-And they will fight you and will not prevail against you, because I am with you to deliver you, said the Lord.
+And they will fight against you and will certainly not prevail against you, because I am with you to deliver you, said the Lord.
 
 ### Chapter 2
 
 **Jeremiah 2:2**
 
-And he said, Thus says the Lord: I remembered mercy of your youth and love of your completion, your following the Holy One of Israel, says the Lord.
+And he said, Thus says the Lord: I remembered the mercy of your youth and the love of your completion, when you followed the Holy One of Israel, says the Lord.
 
 **Jeremiah 2:3**
 
-Israel holy to the Lord, firstfruits of his produce. All eating him will offend; evils will come on them, says the Lord.
+Israel was holy to the Lord, the firstfruits of his produce. All who eat him will be guilty; evils will come upon them, says the Lord.
 
 **Jeremiah 2:4**
 
@@ -76786,19 +76786,19 @@ Hear the word of the Lord, house of Jacob and every family of the house of Israe
 
 **Jeremiah 2:5**
 
-Thus says the Lord: What fault did your fathers find in me, that they stood far from me and went after vanities and became vain?
+Thus says the Lord: What fault did your fathers find in me, that they withdrew far from me and went after worthless things and became worthless?
 
 **Jeremiah 2:6**
 
-And they did not say, Where is the Lord who brought us up from the land of Egypt, who guided us in the wilderness, in boundless and untrodden land, in waterless and fruitless land, in the land through which no one traveled and no son of man dwelt there?
+And they did not say, Where is the Lord who brought us up from the land of Egypt, who guided us in the wilderness, in an unbounded and untrodden land, in a waterless and fruitless land, in a land through which no one traveled and no son of man dwelt there?
 
 **Jeremiah 2:7**
 
-And I brought you into Carmel, for you to eat its fruits and its good things. And you entered and defiled my land and made my inheritance abomination.
+And I brought you into Carmel, for you to eat its fruits and its good things. And you entered and defiled my land and made my inheritance an abomination.
 
 **Jeremiah 2:8**
 
-Priests did not say, Where is the Lord? Those holding law did not know me, shepherds acted ungodly toward me, and prophets prophesied by Baal and went after useless things.
+The priests did not say, Where is the Lord? Those holding the law did not know me, the shepherds acted ungodly toward me, and the prophets prophesied by Baal and went after useless things.
 
 **Jeremiah 2:9**
 
@@ -76806,27 +76806,27 @@ Therefore I will still enter judgment with you, says the Lord, and with the sons
 
 **Jeremiah 2:10**
 
-For pass to islands of Kittim and see, and send to Kedar and understand greatly and see whether such things happened.
+For pass over to the islands of Kittim and see, and send to Kedar, and consider carefully, and see whether such things have happened.
 
 **Jeremiah 2:11**
 
-If nations will change their gods, though those are not gods, yet my people changed its glory for what will not profit.
+Will nations change their gods, though those are not gods? Yet my people exchanged its glory for that from which they will not profit.
 
 **Jeremiah 2:12**
 
-Heaven was amazed at this and shuddered exceedingly greatly, says the Lord.
+The heaven was astonished at this and shuddered very greatly, says the Lord.
 
 **Jeremiah 2:13**
 
-Because my people did two evils: they abandoned me, fountain of living water, and dug for themselves broken cisterns that cannot hold water.
+Because my people did two evils: they abandoned me, a fountain of living water, and dug for themselves broken cisterns that cannot hold water.
 
 **Jeremiah 2:14**
 
-Is Israel slave or household-born? Why has he become plunder?
+Is Israel a slave, or is he homeborn? Why has he become plunder?
 
 **Jeremiah 2:15**
 
-Lions roared over him and gave their voice, those who made his land a desert, and his cities were torn down so that none dwell.
+Lions roared against him and gave their voice, those who made his land a desert, and his cities were torn down so that they are not inhabited.
 
 **Jeremiah 2:16**
 
@@ -76834,31 +76834,31 @@ And sons of Memphis and Tahpanhes knew you and mocked you.
 
 **Jeremiah 2:17**
 
-Did not these things do this to you, your abandoning me? says the Lord your God.
+Did not your abandoning me do these things to you? says the Lord your God.
 
 **Jeremiah 2:18**
 
-And now what to you and way of Egypt, to drink the water of Gihon? And what to you and way of Assyrians, to drink the water of rivers?
+And now what have you to do with the way of Egypt, to drink the water of Gihon? And what have you to do with the way of the Assyrians, to drink the water of rivers?
 
 **Jeremiah 2:19**
 
-Your apostasy will discipline you and your evil will expose you. Know and see that bitter to you your abandoning me, says the Lord your God, and I took no pleasure in you, says the Lord your God.
+Your apostasy will discipline you and your evil will expose you. Know and see that your abandoning me is bitter to you, says the Lord your God, and I did not take pleasure in you, says the Lord your God.
 
 **Jeremiah 2:20**
 
-Because from age you broke your yoke and tore your bonds and said, I will not serve. Rather on every high hill and under every shady tree there I will sprawl in my prostitution.
+Because from of old you broke your yoke and tore your bonds and said, I will not serve. Rather, on every high hill and under every shady tree, there I will spread myself out in my prostitution.
 
 **Jeremiah 2:21**
 
-But I planted you fruitful vine, wholly true. How did you turn into bitterness, foreign vine?
+But I planted you as a fruitful vine, wholly true. How did you turn into bitterness, the foreign vine?
 
 **Jeremiah 2:22**
 
-If you wash with niter and multiply soap for yourself, you are stained in your injustices before me, says the Lord.
+If you wash with niter and multiply soap for yourself, you are stained by your injustices before me, says the Lord.
 
 **Jeremiah 2:23**
 
-How will you say, I was not defiled and I did not go after Baal? See your ways in burial valley and know what you did. Last evening her voice wailed in her ways.
+How will you say, I was not defiled and I did not go after Baal? See your ways in the burial ground and know what you did. At evening her voice wailed in her ways.
 
 **Jeremiah 2:24**
 
@@ -76866,39 +76866,39 @@ She spread out over waters of the wilderness; in the desires of her soul she was
 
 **Jeremiah 2:25**
 
-Turn your foot from rough way and your throat from thirst. But she said, I will be strong, because she loved foreigners and went after them.
+Turn your foot from a rough way and your throat from thirst. But she said, I will be strong, because she loved foreigners and went after them.
 
 **Jeremiah 2:26**
 
-As shame of thief when caught, so sons of Israel will be shamed, they and their kings and their rulers and their priests and their prophets.
+As the shame of a thief when caught, so the sons of Israel will be shamed, they and their kings and their rulers and their priests and their prophets.
 
 **Jeremiah 2:27**
 
-To tree they said, You are my father, and to stone, You birthed me. And they turned to me backs and not faces, and at the time of their evils they will say, Rise and save us.
+To a tree they said, You are my father, and to a stone, You birthed me. And they turned their backs to me and not their faces, and at the time of their evils they will say, Rise and save us.
 
 **Jeremiah 2:28**
 
-And where are your gods which you made for yourself? Let them rise if they will save you at the time of your affliction, because according to the number of your cities were your gods, Judah, and according to the number of streets of Jerusalem they sacrificed to Baal.
+And where are your gods that you made for yourself? Let them rise, if they will save you at the time of your affliction, because according to the number of your cities were your gods, Judah, and according to the number of the streets of Jerusalem they sacrificed to Baal.
 
 **Jeremiah 2:29**
 
-Why do you all speak against me? You all acted ungodly and lawlessly against me, says the Lord.
+Why do you all speak against me? You all acted ungodly and lawlessly toward me, says the Lord.
 
 **Jeremiah 2:30**
 
-In vain I struck your children; they did not accept correction. Sword devoured your prophets like destroying lion, and you did not fear.
+In vain I struck your children; they did not accept correction. A sword devoured your prophets like a destroying lion, and you did not fear.
 
 **Jeremiah 2:31**
 
-Hear the word of the Lord. Thus says the Lord: Did I become wilderness to Israel or land laid waste? Why did my people say, We will not be ruled and will not come to you anymore?
+Hear the word of the Lord. Thus says the Lord: Did I become a wilderness to Israel or a land laid waste? Why did my people say, We will not be ruled and will not come to you any longer?
 
 **Jeremiah 2:32**
 
-Will bride forget her ornament and virgin her breast-band? But my people forgot me days without number.
+Will a bride forget her ornament, or a virgin her breast-band? But my people forgot me for days without number.
 
 **Jeremiah 2:33**
 
-Why still do you make your ways look good to seek love? Not so, but you also did evil to defile your ways.
+Why do you still make your ways beautiful to seek love? Not so; but you also did evil, defiling your ways.
 
 **Jeremiah 2:34**
 
@@ -76906,53 +76906,53 @@ And in your hands were found bloods of innocent souls. I did not find them in tu
 
 **Jeremiah 2:35**
 
-And you said, I am innocent; let his wrath turn from me. See, I enter judgment with you in your saying, I did not sin.
+And you said, I am innocent; let his wrath be turned from me. Behold, I enter judgment with you in your saying, I did not sin.
 
 **Jeremiah 2:36**
 
-Why did you despise greatly, repeating your ways? From Egypt you will be put to shame just as you were put to shame by Assyria.
+Why did you greatly despise repeating your ways? From Egypt you will be put to shame just as you were put to shame by Assyria.
 
 **Jeremiah 2:37**
 
-Because also from there you will go out and your hands upon your head, because the Lord rejected your hope and you will not prosper by it.
+Because also from there you will go out with your hands upon your head, because the Lord rejected your hope and you will not prosper by it.
 
 ### Chapter 3
 
 **Jeremiah 3:1**
 
-If husband sends away his wife and she departs from him and becomes another man's, by returning will she return to him again? Will not that woman be utterly defiled? Yet you prostituted yourself with many shepherds and kept returning to me, says the Lord.
+If a husband sends away his wife, and she departs from him and becomes another man's, will she by returning return to him again? Will not that woman be utterly defiled? Yet you prostituted yourself with many shepherds and kept returning to me, says the Lord.
 
 **Jeremiah 3:2**
 
-Lift your eyes to straight places and see where you were not defiled. By roads you sat for them like crow in desolation, and you defiled land with your prostitutions and your evils.
+Lift your eyes straight ahead and see where you were not defiled. By the roads you sat for them like a crow in desolation, and you defiled the land with your prostitutions and your evils.
 
 **Jeremiah 3:3**
 
-And you had many shepherds for stumbling to yourself. The face of a prostitute became yours; you became shameless toward all.
+And you had many shepherds as a stumbling-block for yourself. The face of a prostitute became yours; you became shameless toward all.
 
 **Jeremiah 3:4**
 
-Did you not call me as house and father and leader of your virginity?
+Did you not call me house and father and leader of your virginity?
 
 **Jeremiah 3:5**
 
-Will he remain forever or be kept into hostility? See, you spoke and did these evil things and prevailed.
+Will he remain forever or be kept for hostility? Behold, you spoke and did these evil things and prevailed.
 
 **Jeremiah 3:6**
 
-And the Lord said to me in the days of King Josiah, Did you see what dwelling of Israel did to me? They went on every high mountain and under every leafy tree and prostituted themselves there.
+And the Lord said to me in the days of King Josiah, Did you see what the dwelling of Israel did to me? They went on every high mountain and under every leafy tree and prostituted themselves there.
 
 **Jeremiah 3:7**
 
-And I said after her doing all these prostitutions, Return to me. And she did not return. And faithless Judah saw her faithlessness.
+And I said after she did all these prostitutions, Return to me. And she did not return. And faithless Judah saw her faithlessness.
 
 **Jeremiah 3:8**
 
-And I saw that concerning all things in which dwelling of Israel was caught, with which she committed adultery, I sent her away and gave her bill of divorce into her hands. Yet faithless Judah did not fear, but she also went and prostituted herself.
+And I saw that concerning all the things in which the dwelling of Israel was caught, with which she committed adultery, I sent her away and gave her a bill of divorce into her hands. Yet faithless Judah did not fear, but she also went and prostituted herself.
 
 **Jeremiah 3:9**
 
-And her prostitution became as nothing, and she committed adultery with wood and stone.
+And her prostitution became as nothing, and she committed adultery with the wood and the stone.
 
 **Jeremiah 3:10**
 
@@ -76964,15 +76964,15 @@ And the Lord said to me, Israel justified her own soul more than faithless Judah
 
 **Jeremiah 3:12**
 
-Go and read these words toward north and say, Return to me, dwelling of Israel, says the Lord, and I will not set my face against you, because I am merciful, says the Lord, and I will not be angry with you forever.
+Go and read these words toward the north and say, Return to me, dwelling of Israel, says the Lord, and I will not set my face against you, because I am merciful, says the Lord, and I will not be angry with you forever.
 
 **Jeremiah 3:13**
 
-Only know your injustice, that against the Lord your God you acted ungodly and poured out your ways to foreigners under every leafy tree, and you did not obey my voice, says the Lord.
+Only know your injustice, that you acted ungodly against the Lord your God and poured out your ways to foreigners under every leafy tree, and you did not obey my voice, says the Lord.
 
 **Jeremiah 3:14**
 
-Return, turning-away sons, says the Lord, because I will rule over you and take you, one from the city and two from family, and bring you into Zion.
+Return, sons who have turned away, says the Lord, because I will rule over you and take you, one from a city and two from a family, and bring you into Zion.
 
 **Jeremiah 3:15**
 
@@ -76980,49 +76980,49 @@ And I will give you shepherds according to my heart, and they will shepherd you 
 
 **Jeremiah 3:16**
 
-And it will be, if you multiply and increase on earth in those days, says the Lord, they will no longer say, Ark of covenant of the Holy One of Israel. It will not come up on heart, nor be named nor visited, nor be made again.
+And it will be, if you multiply and increase on the earth in those days, says the Lord, they will no longer say, the ark of the covenant of the Holy One of Israel. It will not come up in the heart, nor be named nor visited, nor be made again.
 
 **Jeremiah 3:17**
 
-In those days and at that time they will call Jerusalem throne of the Lord, and all nations will gather into it, and they will no longer walk after the thoughts of their evil heart.
+In those days and at that time they will call Jerusalem the throne of the Lord, and all nations will gather to it, and they will no longer walk after the thoughts of their evil heart.
 
 **Jeremiah 3:18**
 
-In those days the house of Judah will come together upon the house of Israel, and they will come together from the land of the north and from all regions upon the land which I caused their fathers to inherit.
+In those days the house of Judah will come together with the house of Israel, and they will come together from the land of the north and from all regions to the land that I caused their fathers to inherit.
 
 **Jeremiah 3:19**
 
-And I said, So be it, Lord, that I will place you among children and give you chosen land, inheritance of God Almighty of nations. And I said, You will call me Father, and from me you will not turn away.
+And I said, So be it, Lord, that I will appoint you among children and give you a chosen land, an inheritance of God Almighty of nations. And I said, You will call me Father, and from me you will not turn away.
 
 **Jeremiah 3:20**
 
-But as a woman proves faithless to one living with her, so the house of Israel proved faithless to me, says the Lord.
+But as a woman acts faithlessly toward the one living with her, so the house of Israel acted faithlessly toward me, says the Lord.
 
 **Jeremiah 3:21**
 
-A voice from lips was heard, weeping and supplication of sons of Israel, because they did wrong in their ways and forgot their Holy God.
+A voice was heard from lips: weeping and supplication of sons of Israel, because they did wrong in their ways and forgot their Holy God.
 
 **Jeremiah 3:22**
 
-Return, returning sons, and I will heal your crushings. Behold, we will be your servants, because you are the Lord our God.
+Return, returning sons, and I will heal your fractures. Behold, we will be your servants, because you are the Lord our God.
 
 **Jeremiah 3:23**
 
-Truly hills and might of mountains were for falsehood, but through the Lord our God is the salvation of Israel.
+Truly the hills and the might of the mountains were for falsehood, but through the Lord our God is the salvation of Israel.
 
 **Jeremiah 3:24**
 
-And shame consumed labors of our fathers from our youth, their sheep and their calves and their sons and their daughters.
+And shame consumed the labors of our fathers from our youth, their sheep and their calves and their sons and their daughters.
 
 **Jeremiah 3:25**
 
-We lay down in our shame, and our dishonor covered us, because before our God we sinned, we and our fathers, from our youth until this day, and did not obey the voice of the Lord our God.
+We lay down in our shame, and our dishonor covered us, because we sinned before our God, we and our fathers, from our youth until this day, and did not obey the voice of the Lord our God.
 
 ### Chapter 4
 
 **Jeremiah 4:1**
 
-If Israel returns, says the Lord, he will return to me. If he removes his abominations from his mouth and fears from before my face,
+If Israel returns, says the Lord, he will return to me. If he removes his abominations from his mouth and is reverent before my face,
 
 **Jeremiah 4:2**
 
@@ -77034,95 +77034,95 @@ Because thus says the Lord to the men of Judah and the inhabitants of Jerusalem:
 
 **Jeremiah 4:4**
 
-Be circumcised to your God and circumcise your hardheartedness, men of Judah and the inhabitants of Jerusalem, lest my wrath go out like fire and burn and none quench it because of evil of your practices.
+Be circumcised to your God and circumcise your hardness of heart, men of Judah and the inhabitants of Jerusalem, lest my wrath go out like fire and burn, and there be no one to quench it because of the evil of your practices.
 
 **Jeremiah 4:5**
 
-Declare in Judah and let it be heard in Jerusalem. Say, Sound trumpet upon the land, and cry greatly, saying, Gather together and let us enter fortified cities.
+Declare in Judah and let it be heard in Jerusalem. Say, Sound a trumpet upon the land, and cry out greatly, saying, Gather together and let us enter fortified cities.
 
 **Jeremiah 4:6**
 
-Take up fleeing to Zion. Hurry, do not stand, because I bring evils from north and great crushing.
+Take flight to Zion. Hurry, do not stand, because I am bringing evils from the north and a great crushing.
 
 **Jeremiah 4:7**
 
-Lion came up from his lair, destroyer of nations rose and went out from his place to make land desolation, and cities will be demolished so as not to be inhabited.
+A lion came up from his lair; a destroyer of nations rose and went out from his place to make the land a desolation, and cities will be demolished so as not to be inhabited.
 
 **Jeremiah 4:8**
 
-For these things gird yourselves with sackcloth and beat yourselves and howl, because anger of the Lord has not turned away from you.
+For these things gird yourselves with sackcloth and beat yourselves and howl, because the anger of the Lord has not turned away from you.
 
 **Jeremiah 4:9**
 
-And it will be in that day, says the Lord, the heart of the king will perish and the heart of the rulers, and priests will be amazed and prophets will wonder.
+And it will be in that day, says the Lord, the heart of the king will perish and the heart of the rulers, and the priests will be amazed and the prophets will wonder.
 
 **Jeremiah 4:10**
 
-And I said, Ah, Master Lord, surely by deception you deceived this people and Jerusalem, saying, Peace will be to you. And see, the sword touched even to their soul.
+And I said, Ah, Master Lord, surely you deceived this people and Jerusalem by deception, saying, Peace will be to you. And behold, the sword touched even to their soul.
 
 **Jeremiah 4:11**
 
-At that time they will say to this people and to Jerusalem: Spirit of wandering in the wilderness, way of the daughter of my people, not for cleansing nor for holy thing.
+At that time they will say to this people and to Jerusalem: A spirit of wandering in the wilderness is the way of the daughter of my people, not for cleansing nor for holiness.
 
 **Jeremiah 4:12**
 
-The spirit of fullness will come to me. Now I myself speak judgments to them.
+A spirit of fullness will come to me. But now I myself speak judgments to them.
 
 **Jeremiah 4:13**
 
-See, like a cloud he will come up, and his chariots like a storm, his horses lighter than eagles. Woe to us, because we are made miserable.
+Behold, like a cloud he will come up, and his chariots like a storm; his horses are lighter than eagles. Woe to us, because we are made miserable.
 
 **Jeremiah 4:14**
 
-Wash your heart from wickedness, Jerusalem, so that you may be saved. How long will thoughts of your labors remain in you?
+Wash your heart from wickedness, Jerusalem, so that you may be saved. How long will the thoughts of your labors remain in you?
 
 **Jeremiah 4:15**
 
-Because the voice of one declaring will come from Dan, and pain will be heard from the mountain of Ephraim.
+Because a voice of one declaring will come from Dan, and pain will be heard from the mountain of Ephraim.
 
 **Jeremiah 4:16**
 
-Remind nations. See, they have come. Declare in Jerusalem: Crowds come from far land, and they gave their voice against the cities of Judah.
+Remind the nations. Behold, they have come. Declare in Jerusalem: Crowds are coming from a far land, and they gave their voice against the cities of Judah.
 
 **Jeremiah 4:17**
 
-Like keepers of field they became against her all around, because you neglected me, says the Lord.
+Like keepers of a field they became against her all around, because you neglected me, says the Lord.
 
 **Jeremiah 4:18**
 
-Your ways and your practices made these things for you. This your evil, because bitter, because it touched to your heart.
+Your ways and your practices did these things to you. This is your evil, because it is bitter, because it touched your heart.
 
 **Jeremiah 4:19**
 
-My belly, my belly, I am in pain, and feelings of my heart rage. My soul writhes. My heart torn. I will not be silent, because my soul heard the voice of a trumpet, cry of war.
+My belly, my belly, I am in pain, and the feelings of my heart rage. My soul writhes. My heart is torn. I will not be silent, because my soul heard the voice of a trumpet, a cry of war.
 
 **Jeremiah 4:20**
 
-Affliction calls crushing, because the whole land has been afflicted. Suddenly my tent was afflicted, my skins torn apart.
+Affliction calls crushing, because the whole land has been afflicted. Suddenly my tent was afflicted; my skins were torn apart.
 
 **Jeremiah 4:21**
 
-How long will I see fugitives, hearing the sound of trumpets?
+How long will I see fugitives and hear the sound of trumpets?
 
 **Jeremiah 4:22**
 
-Because leaders of my people did not know me. They are foolish sons and not understanding, wise to do evil, but to do good they did not know.
+Because the leaders of my people did not know me. They are foolish sons and without understanding, wise to do evil, but they did not know how to do good.
 
 **Jeremiah 4:23**
 
-I looked upon earth, and behold, nothing, and to heaven, and its lights were not.
+I looked upon the earth, and behold, nothing, and to heaven, and its lights were not.
 
 **Jeremiah 4:24**
 
-I saw mountains, and they were trembling, and all hills shaken.
+I saw the mountains, and they were trembling, and all the hills were shaken.
 
 **Jeremiah 4:25**
 
-I looked, and behold, there was no man, and all birds of heaven were terrified.
+I looked, and behold, there was no human, and all the birds of heaven were terrified.
 
 **Jeremiah 4:26**
 
-I looked, and behold, Carmel a desert, and all cities burned with fire. From the face of the Lord and from the face of anger of his wrath they vanished.
+I looked, and behold, Carmel was a desert, and all the cities were burned with fire. From the face of the Lord and from the face of the anger of his wrath they vanished.
 
 **Jeremiah 4:27**
 
@@ -77130,69 +77130,69 @@ Thus says the Lord: The whole land will be a desolation, yet I will not make a f
 
 **Jeremiah 4:28**
 
-For these things let earth mourn and heaven above be dark, because I spoke and will not change my mind, I rushed in and will not turn back from it.
+For these things let the earth mourn and heaven above be dark, because I spoke and will not change my mind; I set it in motion and will not turn back from it.
 
 **Jeremiah 4:29**
 
-From the sound of horseman and bent bow every region withdrew. They entered caves and hid in groves and climbed rocks. Every city abandoned; man does not dwell in them.
+From the sound of a horseman and a bent bow every region withdrew. They entered the caves and hid in the groves and climbed the rocks. Every city was abandoned; no human dwells in them.
 
 **Jeremiah 4:30**
 
-And you, what will you do if you dress in scarlet and adorn yourself with gold ornaments and paint your eyes with antimony? In vain your beautifying. Lovers rejected you; they seek your soul.
+And you, what will you do? If you dress in scarlet and adorn yourself with gold ornaments and paint your eyes with antimony, your beautifying is in vain. Lovers rejected you; they seek your soul.
 
 **Jeremiah 4:31**
 
-Because voice as of a woman in labor I heard, your groaning as of one giving birth first time. The voice of daughter of Zion will grow weak and let down her hands: Woe to me, because my soul fails because of slain ones.
+Because I heard a voice as of a woman in labor, your groaning as of one giving birth for the first time. The voice of the daughter of Zion will grow weak and let down her hands: Woe to me, because my soul fails because of slain ones.
 
 ### Chapter 5
 
 **Jeremiah 5:1**
 
-Run about in the streets of Jerusalem and see and know and seek in her broad places whether you find man doing judgment and seeking faithfulness, and I will be gracious to them, says the Lord.
+Run about in the streets of Jerusalem and see and know and seek in her broad places whether you find a man doing judgment and seeking faithfulness, and I will be gracious to them, says the Lord.
 
 **Jeremiah 5:2**
 
-They say, As the Lord lives, yet because of this they swear by lies.
+They say, As the Lord lives. Because of this, do they not swear by lies?
 
 **Jeremiah 5:3**
 
-Lord, are not your eyes for faithfulness? You struck them and they did not hurt. You finished them and they did not want to receive discipline. They made their faces harder than rock and did not want to turn back.
+Lord, are not your eyes for faithfulness? You struck them, and they were not pained. You finished them, and they did not want to receive discipline. They made their faces harder than rock and did not want to turn back.
 
 **Jeremiah 5:4**
 
-And I said, Perhaps they are poor, because they were not able, because they did not know the way of the Lord and judgment of God.
+And I said, Perhaps they are poor, because they were not able, because they did not know the way of the Lord and the judgment of God.
 
 **Jeremiah 5:5**
 
-I will go to great men and speak with them, because they knew the way of the Lord and judgment of God. And behold, together they broke yoke and tore bonds.
+I will go to the great men and speak with them, because they knew the way of the Lord and the judgment of God. And behold, together they broke a yoke and tore bonds.
 
 **Jeremiah 5:6**
 
-Therefore lion from the forest struck them, and wolf up to houses destroyed them, and leopard kept watch over their cities. All going out from them will be hunted, because they multiplied their ungodliness and grew strong in their turnings away.
+Therefore a lion from the forest struck them, and a wolf up to houses destroyed them, and a leopard kept watch over their cities. All those going out from them will be hunted, because they multiplied their ungodliness and grew strong in their turnings away.
 
 **Jeremiah 5:7**
 
-For which of these shall I be gracious to you? Your sons abandoned me and swore by those that are not gods. And I fed them, and they committed adultery, and in the houses of prostitutes they lodged.
+For which of these shall I be gracious to you? Your sons abandoned me and swore by the things that are not gods. And I fed them, and they committed adultery, and they lodged in prostitutes' houses.
 
 **Jeremiah 5:8**
 
-They became lustful horses, each neighing after the wife of his neighbor.
+They became lustful horses; each one neighed after the wife of his neighbor.
 
 **Jeremiah 5:9**
 
-Shall I not visit for these things? says the Lord. Shall not my soul avenge on such nation?
+Shall I not visit for these things? says the Lord. Shall not my soul avenge on such a nation?
 
 **Jeremiah 5:10**
 
-Go up on her battlements and tear down, but do not make a full end. Leave her supports, because they are Lord's.
+Go up on her battlements and tear down, but do not make a full end. Leave her supports, because they are the Lord's.
 
 **Jeremiah 5:11**
 
-Because in faithlessness the house of Israel and the house of Judah acted faithlessly toward me, says the Lord.
+Because the house of Israel and the house of Judah acted faithlessly toward me with faithlessness, says the Lord.
 
 **Jeremiah 5:12**
 
-They lied to their Lord and said, He is not, and evils will not come upon us, and sword and famine we will not see.
+They lied to their Lord and said, These things are not; evils will not come upon us, and sword and famine we will not see.
 
 **Jeremiah 5:13**
 
@@ -77200,11 +77200,11 @@ Our prophets were wind, and the word of the Lord was not in them. So it will be 
 
 **Jeremiah 5:14**
 
-Therefore thus says the Lord Almighty: Because you spoke this word, behold, I have made my words in your mouth fire and this people wood, and it will devour them.
+Therefore thus says the Lord Almighty: Because you spoke this word, behold, I have made my words in your mouth fire and this people as wood, and it will devour them.
 
 **Jeremiah 5:15**
 
-Behold, I bring on you nation from far away, house of Israel, says the Lord, nation whose language voice you will not hear.
+Behold, I bring on you a nation from far away, house of Israel, says the Lord, a nation whose language's voice you will not hear.
 
 **Jeremiah 5:16**
 
@@ -77212,7 +77212,7 @@ All are mighty men.
 
 **Jeremiah 5:17**
 
-And they will eat your harvest and your breads, and they will eat your sons and your daughters, and they will eat your sheep and your calves, and they will eat your vineyards and your fig trees and your olive groves, and thresh your fortified cities in which you trust with sword.
+And they will eat your harvest and your breads, and they will eat your sons and your daughters, and they will eat your sheep and your calves, and they will eat your vineyards and your fig trees and your olive groves, and thresh your fortified cities in which you trust by sword.
 
 **Jeremiah 5:18**
 
@@ -77228,19 +77228,19 @@ Declare these things to the house of Jacob and let it be heard in Judah.
 
 **Jeremiah 5:21**
 
-Hear now these things, foolish and heartless people: eyes to them and they do not see, ears to them and they do not hear.
+Hear now these things, foolish and heartless people: they have eyes and do not see, ears and do not hear.
 
 **Jeremiah 5:22**
 
-Will you not fear me? says the Lord. Will you not tremble before my face? I set sand as boundary to sea, everlasting command, and it will not pass it. It will be disturbed and not be able, and its waves will roar and not pass it.
+Will you not fear me? says the Lord. Will you not tremble before my face? I set sand as a boundary for the sea, an everlasting command, and it will not pass it. It will be disturbed and not be able, and its waves will roar and not pass it.
 
 **Jeremiah 5:23**
 
-But for this people there came disobedient and rebellious heart, and they turned aside and went away.
+But for this people there came a disobedient and rebellious heart, and they turned aside and went away.
 
 **Jeremiah 5:24**
 
-And they did not say in their heart, Let us now fear the Lord our God, one giving us early and late rain in due season, fullness of harvest command, and he kept it for us.
+And they did not say in their heart, Let us now fear the Lord our God, the one giving us early and late rain in due season, the fullness of the appointed harvest, and he kept it for us.
 
 **Jeremiah 5:25**
 
@@ -77248,81 +77248,81 @@ Your lawless deeds turned these things away, and your sins removed good things f
 
 **Jeremiah 5:26**
 
-Because among my people ungodly men were found, and they set traps to destroy men and captured them.
+Because among my people ungodly men were found, and they set traps to destroy men, and they captured them.
 
 **Jeremiah 5:27**
 
-As snare set up full of birds, so their houses full of deceit. Because of this they grew great and rich.
+As a snare set up full of birds, so their houses are full of deceit. Because of this they grew great and rich.
 
 **Jeremiah 5:28**
 
-And they passed over judgment. They did not judge cause of orphan, and cause of widow they did not judge.
+And they passed over judgment. They did not judge the cause of an orphan, and the cause of a widow they did not judge.
 
 **Jeremiah 5:29**
 
-Shall I not visit for these things? says the Lord. Shall not my soul avenge on such nation?
+Shall I not visit for these things? says the Lord. Shall not my soul avenge on such a nation?
 
 **Jeremiah 5:30**
 
-Astonishment and horrors came on earth:
+Astonishment and horrors came upon the earth:
 
 **Jeremiah 5:31**
 
-Prophets prophesy unjust things, and priests clapped with their hands, and my people loved it so. And what will you do afterward?
+Prophets prophesy unjust things, and priests clapped their hands, and my people loved it so. And what will you do afterward?
 
 ### Chapter 6
 
 **Jeremiah 6:1**
 
-Strengthen yourselves, sons of Benjamin, from the midst of Jerusalem, and in Tekoa sound trumpet, and over Bethhaccerem lift signal, because evils have leaned out from north and great crushing is coming.
+Strengthen yourselves, sons of Benjamin, from the midst of Jerusalem, and in Tekoa sound a trumpet, and over Beth-haccherem lift a signal, because evils have leaned out from the north and great crushing is coming.
 
 **Jeremiah 6:2**
 
-Your height will be taken away, daughter of Zion.
+Your height will be taken away, O daughter of Zion.
 
 **Jeremiah 6:3**
 
-To her shepherds and their flocks will come, and they will pitch tents against her all around, and each will shepherd by his own hand.
+Shepherds and their flocks will come to her, and they will pitch tents against her all around, and each will shepherd by his own hand.
 
 **Jeremiah 6:4**
 
-Prepare against her for war. Rise, and let us go up against her at noon. Woe to us, because day has declined, because shadows of evening fail.
+Prepare against her for war. Rise, and let us go up against her at noon. Woe to us, because the day has declined, because the shadows of evening fail.
 
 **Jeremiah 6:5**
 
-Rise, and let us go up in night and destroy her foundations.
+Rise, and let us go up in the night and destroy her foundations.
 
 **Jeremiah 6:6**
 
-Because thus says the Lord: Cut down her trees, pour out strength against Jerusalem. O false city, all oppression in her.
+Because thus says the Lord: Cut down her trees, pour out strength against Jerusalem. O false city, all oppression is in her.
 
 **Jeremiah 6:7**
 
-As cistern cools its water, so her evil cools. Ungodliness and misery will be heard in her; before her face continually pain and scourge.
+As a cistern cools its water, so her evil cools. Ungodliness and misery will be heard in her; before her face continually are pain and scourge.
 
 **Jeremiah 6:8**
 
-Be disciplined, Jerusalem, lest my soul depart from you, lest I make you pathless land not inhabited.
+Be disciplined, Jerusalem, lest my soul depart from you, lest I make you a pathless land that will not be inhabited.
 
 **Jeremiah 6:9**
 
-Because thus says the Lord: Glean, glean as vine the remnant of Israel. Return as grape-gatherer to his basket.
+Because thus says the Lord: Glean, glean as a vine the remnants of Israel. Return like a grape-gatherer to his basket.
 
 **Jeremiah 6:10**
 
-To whom shall I speak and testify, and he will hear? Behold, their ears uncircumcised and they cannot hear. Behold, the word of the Lord became a reproach to them. They will not want to hear it.
+To whom shall I speak and testify, and he will hear? Behold, their ears are uncircumcised and they cannot hear. Behold, the word of the Lord became a reproach to them. They will not want to hear it.
 
 **Jeremiah 6:11**
 
-And I was filled with my wrath and held back and did not finish them. I will pour it on infants outside and on gathering of young men together, because man and woman will be taken, elder with the fullness of days.
+And I was filled with my wrath and held it back, and I did not finish them. I will pour it on infants outside and on a gathering of young men together, because a man and a woman will be taken, an elder together with one full of days.
 
 **Jeremiah 6:12**
 
-And their houses will be turned to others, fields and their wives together, because I will stretch out my hand upon those inhabiting this land, says the Lord.
+And their houses will be turned over to others, their fields and their wives together, because I will stretch out my hand upon those inhabiting this land, says the Lord.
 
 **Jeremiah 6:13**
 
-Because from their small one even to great one all together complete lawlessness; from priest even to false prophet all practiced lies.
+Because from their small one even to their great one, all together completed lawless things; from priest even to false prophet, all practiced lies.
 
 **Jeremiah 6:14**
 
@@ -77334,7 +77334,7 @@ They were ashamed because they failed, yet not even as ashamed were they ashamed
 
 **Jeremiah 6:16**
 
-Thus says the Lord: Stand on roads and see and ask for everlasting paths of the Lord, and see what good way is, and walk in it, and you will find cleansing for your souls. And they said, We will not walk.
+Thus says the Lord: Stand on the roads and see and ask for the everlasting paths of the Lord, and see what the good way is, and walk in it, and you will find cleansing for your souls. And they said, We will not walk.
 
 **Jeremiah 6:17**
 
@@ -77342,27 +77342,27 @@ I set watchmen over you: Hear the sound of a trumpet. And they said, We will not
 
 **Jeremiah 6:18**
 
-Therefore nations heard, and those shepherding their flocks.
+Therefore the nations heard, and those shepherding their flocks.
 
 **Jeremiah 6:19**
 
-Hear, earth. Behold, I bring on this people evils, fruit of their turning away, because they paid no attention to my words and rejected my law.
+Hear, O earth. Behold, I bring on this people evils, the fruit of their turning away, because they paid no attention to my words and rejected my law.
 
 **Jeremiah 6:20**
 
-Why do you bring me frankincense from Sheba and cinnamon from far land? Your whole burnt offerings not acceptable and your sacrifices did not please me.
+Why do you bring me frankincense from Sheba and cinnamon from a far land? Your whole burnt offerings are not acceptable and your sacrifices did not please me.
 
 **Jeremiah 6:21**
 
-Therefore thus says the Lord: Behold, I give this people weakness, and fathers and sons together will be weakened by it; neighbor and his near one will perish.
+Therefore thus says the Lord: Behold, I give this people weakness, and fathers and sons together will be weakened by it; a neighbor and his near one will perish.
 
 **Jeremiah 6:22**
 
-Thus says the Lord: Behold, people comes from north, and nation will be stirred from the ends of the earth.
+Thus says the Lord: Behold, a people comes from the north, and a nation will be stirred from the end of the earth.
 
 **Jeremiah 6:23**
 
-They will grasp bow and javelin. He is harsh and will not show mercy. His voice as sea waving. On horses and chariots he will line up like fire for war against you, daughter of Zion.
+They will grasp bow and javelin. He is harsh and will not show mercy. His voice is like a waving sea. On horses and chariots he will line up like fire for war against you, O daughter of Zion.
 
 **Jeremiah 6:24**
 
@@ -77370,23 +77370,23 @@ We heard their report; our hands were paralyzed. Affliction seized us, birth-pan
 
 **Jeremiah 6:25**
 
-Do not go out into field, and in roads do not walk, because sword of enemies lives all around.
+Do not go out into the field, and on the roads do not walk, because the sword of enemies lives all around.
 
 **Jeremiah 6:26**
 
-The daughter of my people, gird sackcloth, roll in ashes, make for yourself mourning of beloved one, bitter lament, because suddenly misery will come upon you.
+O daughter of my people, gird sackcloth, roll in ashes, make for yourself mourning for a beloved one, bitter lament, because suddenly misery will come upon you.
 
 **Jeremiah 6:27**
 
-I have given you tester among tested peoples, and you will know me when I test their way.
+I have given you as a tester among tested peoples, and you will know me when I test their way.
 
 **Jeremiah 6:28**
 
-All disobedient, walking crookedly, bronze and iron, all are corrupted.
+All are disobedient, walking crookedly; bronze and iron, all are corrupted.
 
 **Jeremiah 6:29**
 
-Bellows failed from fire, lead failed; in vain silversmith works silver, their evil was not melted.
+Bellows failed from fire, lead failed; the silversmith works silver in vain, their evil was not melted.
 
 **Jeremiah 6:30**
 
@@ -77404,19 +77404,19 @@ Thus says the Lord God of Israel: Correct your ways and your practices, and I wi
 
 **Jeremiah 7:4**
 
-Do not trust in yourselves upon false words that will surely not profit you, saying, Temple of the Lord, temple of the Lord it is.
+Do not trust in yourselves on false words that will surely not profit you, saying, Temple of the Lord, temple of the Lord it is.
 
 **Jeremiah 7:5**
 
-Because if in correcting you truly correct your ways and your practices, and in doing you do judgment between man and his neighbor,
+Because if by correcting you truly correct your ways and your practices, and by doing you do judgment between a man and his neighbor,
 
 **Jeremiah 7:6**
 
-and do not oppress sojourner and orphan and widow, and do not pour out innocent blood in this place, and do not walk after foreign gods for your harm,
+and do not oppress a sojourner and an orphan and a widow, and do not pour out innocent blood in this place, and do not walk after foreign gods to your harm,
 
 **Jeremiah 7:7**
 
-then I will settle you in this place, in the land I gave to your fathers from age and to age.
+then I will settle you in this place, in the land I gave to your fathers from age to age.
 
 **Jeremiah 7:8**
 
@@ -77436,7 +77436,7 @@ Has my house over which my name has been called become a den of robbers there be
 
 **Jeremiah 7:12**
 
-Because go to my place in Shiloh, where I caused my name to dwell before, and see what I did to it because of evil of my people Israel.
+For go to my place in Shiloh, where I caused my name to dwell before, and see what I did to it because of the evil of my people Israel.
 
 **Jeremiah 7:13**
 
@@ -77444,11 +77444,11 @@ And now because you did all these works and I spoke to you and you did not hear 
 
 **Jeremiah 7:14**
 
-I will do to this house over which my name has been called, on which you trust, and to place I gave to you and to your fathers, just as I did to Shiloh.
+I will do to this house over which my name has been called, on which you trust, and to the place I gave to you and to your fathers, just as I did to Shiloh.
 
 **Jeremiah 7:15**
 
-And I will cast you out from my face, just as I cast out your brothers, all seed of Ephraim.
+And I will cast you out from my face, just as I cast out your brothers, all the seed of Ephraim.
 
 **Jeremiah 7:16**
 
@@ -77460,15 +77460,15 @@ Do you not see what they do in the cities of Judah and in the streets of Jerusal
 
 **Jeremiah 7:18**
 
-Their sons gather wood, and their fathers kindle fire, and their women knead dough to make cakes for the army of heaven, and they poured drink offerings to foreign gods so as to provoke me.
+Their sons gather wood, and their fathers kindle fire, and their women knead dough to make cakes for the host of heaven, and they poured drink offerings to foreign gods so as to provoke me.
 
 **Jeremiah 7:19**
 
-Do they provoke me? says the Lord. Is it not themselves, so that their faces be ashamed?
+Do they provoke me? says the Lord. Is it not themselves, so that their faces may be ashamed?
 
 **Jeremiah 7:20**
 
-Therefore thus says the Lord: Behold, my anger and wrath pours out on this place and on men and on cattle and on every tree of their field and on all produce of earth, and it will burn and not be quenched.
+Therefore thus says the Lord: Behold, my anger and wrath are poured out on this place and on men and on cattle and on every tree of their field and on all the produce of the earth, and it will burn and not be quenched.
 
 **Jeremiah 7:21**
 
@@ -77484,11 +77484,11 @@ But this word I commanded them, saying, Hear my voice and I will be to you as Go
 
 **Jeremiah 7:24**
 
-And they did not hear me and did not incline their ear, but walked in thoughts of their evil heart and became backward and not forward.
+And they did not hear me and did not incline their ear, but walked in the thoughts of their evil heart and became backward and not forward.
 
 **Jeremiah 7:25**
 
-From day their fathers came out from the land of Egypt until this day, I sent to you all my servants the prophets, day and early morning I sent.
+From the day their fathers came out from the land of Egypt until this day, I sent to you all my servants the prophets; day by day and early morning I sent.
 
 **Jeremiah 7:26**
 
@@ -77496,7 +77496,7 @@ And they did not hear me and did not incline their ear and hardened their neck m
 
 **Jeremiah 7:27**
 
-And you will say to them this word: This is nation that did not hear the voice of the Lord and did not receive discipline. Faithfulness perished from their mouth.
+And you will say to them this word: This is the nation that did not hear the voice of the Lord and did not receive discipline. Faithfulness perished from their mouth.
 
 **Jeremiah 7:28**
 
@@ -77504,41 +77504,41 @@ Faithfulness perished from their mouth.
 
 **Jeremiah 7:29**
 
-Shear your head and cast away, and raise lament on lips, because the Lord rejected and thrust away generation doing these things.
+Shear your head and cast it away, and raise lament upon lips, because the Lord rejected and thrust away the generation doing these things.
 
 **Jeremiah 7:30**
 
-Because sons of Judah did evil before me, says the Lord. They set their abominations in the house over which my name has been called, to defile it.
+Because the sons of Judah did evil before me, says the Lord. They set their abominations in the house over which my name has been called, to defile it.
 
 **Jeremiah 7:31**
 
-And they built altar of Topheth, which is in the valley of son of Hinnom, to burn their sons and their daughters in fire, which I did not command them, nor did I conceive in my heart.
+And they built the altar of Topheth, which is in the valley of the son of Hinnom, to burn their sons and their daughters in the fire, which I did not command them, nor did I conceive it in my heart.
 
 **Jeremiah 7:32**
 
-Therefore behold, days come, says the Lord, and they will no longer say altar of Topheth and valley of son of Hinnom, but valley of slaughtered, and they will bury in Topheth because no place remains.
+Therefore behold, days come, says the Lord, and they will no longer say the altar of Topheth and the valley of the son of Hinnom, but the valley of the slaughtered, and they will bury in Topheth because no place remains.
 
 **Jeremiah 7:33**
 
-And the dead bodies of this people will be for food to the birds of heaven and beasts of the earth, and none will frighten them away.
+And the dead bodies of this people will be for food to the birds of heaven and the beasts of the earth, and none will frighten them away.
 
 **Jeremiah 7:34**
 
-And I will destroy from the cities of Judah and from the streets of Jerusalem the voice of rejoicing and the voice of gladness, the voice of bridegroom and the voice of bride, because the whole land will become desolation.
+And I will make cease from the cities of Judah and from the streets of Jerusalem the voice of rejoicing and the voice of gladness, the voice of the bridegroom and the voice of the bride, because the whole land will become desolation.
 
 ### Chapter 8
 
 **Jeremiah 8:1**
 
-At that time, says the Lord, they will bring out bones of kings of Judah and bones of their rulers and bones of priests and bones of prophets and bones of the inhabitants of Jerusalem from their tombs.
+At that time, says the Lord, they will bring out the bones of the kings of Judah and the bones of their rulers and the bones of priests and the bones of prophets and the bones of the inhabitants of Jerusalem from their tombs.
 
 **Jeremiah 8:2**
 
-And they will spread them out to sun and moon and all stars and all the army of heaven, which they loved and served and went after and held fast and worshiped. They will not be mourned nor buried, and they will be an example upon the face of the earth.
+And they will spread them out toward the sun and the moon and all the stars and all the host of heaven, which they loved and served and went after and held fast and worshiped. They will not be mourned nor buried, and they will be an example upon the face of the earth.
 
 **Jeremiah 8:3**
 
-Because they chose death rather than life, for all remnant left from that generation in every place where I drive them out there.
+Because they chose death rather than life, for all the remnant left from that generation in every place where I drive them out.
 
 **Jeremiah 8:4**
 
@@ -77546,19 +77546,19 @@ Because thus says the Lord: Will one falling not rise? Or one turning away not t
 
 **Jeremiah 8:5**
 
-Why did this people turn away with shameless turning away? They held fast in their own choice and did not want to return.
+Why did this people of mine turn away with a shameless turning away? They held fast in their own choice and did not want to return.
 
 **Jeremiah 8:6**
 
-Give ear now and hear: They will not speak thus. There is no man repenting from his evil, saying, What have I done? One running from his course ceased, like sweating horse in its neighing.
+Give ear now and hear: They will not speak thus. There is no one repenting from his evil, saying, What have I done? The one running from his course ceased, like a sweating horse in its neighing.
 
 **Jeremiah 8:7**
 
-And stork in heaven knew its season; turtledove and swallow of field and sparrows kept times of their comings. But my people did not know judgments of the Lord.
+And the stork in heaven knew its season; the turtledove and swallow of the field and sparrows kept the times of their comings. But my people did not know the judgments of the Lord.
 
 **Jeremiah 8:8**
 
-How will you say, We are wise, and the law of the Lord is with us? In vain false reed of scribes came to be.
+How will you say, We are wise, and the law of the Lord is with us? In vain the false reed of scribes came to be.
 
 **Jeremiah 8:9**
 
@@ -77570,7 +77570,7 @@ Therefore I will give their wives to others and their fields to heirs.
 
 **Jeremiah 8:13**
 
-And they will gather their produce, says the Lord. There is no grape on vines, and no figs on fig trees, and leaves have fallen.
+And they will gather their produce, says the Lord. There is no grape on the vines, and no figs on the fig trees, and leaves have fallen.
 
 **Jeremiah 8:14**
 
@@ -77578,23 +77578,23 @@ Why do we sit? Gather and let us enter fortified cities and be cast away, becaus
 
 **Jeremiah 8:15**
 
-We gathered for peace and there were no good things, for the time of healing and behold, hurry.
+We gathered for peace and there were no good things, for the time of healing and behold, haste.
 
 **Jeremiah 8:16**
 
-From Dan we will hear the sound of sharpness of his horses. From the sound of neighing of his cavalry all the land shook, and he will come and devour land and its fullness, city and those dwelling in it.
+From Dan we will hear the sound of the swiftness of his horses. From the sound of neighing of his cavalry all the land shook, and he will come and devour the land and its fullness, the city and those dwelling in it.
 
 **Jeremiah 8:17**
 
-Because behold, I send to you deadly serpents for which there is no charming, and they will bite you.
+Because behold, I send against you deadly serpents for which there is no charming, and they will bite you.
 
 **Jeremiah 8:18**
 
-Incurable with pain, your heart in distress.
+Incurable things with pain; your heart is in distress.
 
 **Jeremiah 8:19**
 
-Behold, the voice of the cry of the daughter of my people from far land: Is the Lord not in Zion? Is her king not there? Why did they provoke me with their carved images and foreign vanities?
+Behold, the voice of the cry of the daughter of my people from a far land: Is the Lord not in Zion? Is her king not there? Why did they provoke me with their carved images and foreign vanities?
 
 **Jeremiah 8:20**
 
@@ -77610,25 +77610,25 @@ Is there no resin in Gilead? Is there no physician there? Why did healing of the
 
 **Jeremiah 8:23**
 
-Who will give my head water and my eyes spring of tears? And I will weep for this people day and night, for wounded ones of the daughter of my people.
+Who will give my head water and my eyes a spring of tears? And I will weep for this people day and night, for the wounded ones of the daughter of my people.
 
 ### Chapter 9
 
 **Jeremiah 9:1**
 
-Who will give me in the wilderness last lodging-place, that I may leave my people and go away from them? Because all commit adultery, company of faithless ones.
+Who will give me a last lodging-place in the wilderness, that I may leave my people and go away from them? Because all commit adultery, a company of faithless ones.
 
 **Jeremiah 9:2**
 
-And they bent their tongue like bow: falsehood, and not faithfulness, grew strong on the land, because from evils to evils they went out, and me they did not know.
+And they bent their tongue like a bow: falsehood, and not faithfulness, grew strong on the land, because from evils to evils they went out, and me they did not know.
 
 **Jeremiah 9:3**
 
-Each guard yourselves from your neighbor, and do not trust in your brothers, because every brother will utterly trip by heel and every friend will walk deceitfully.
+Each guard yourselves from your neighbor, and do not trust in your brothers, because every brother will trip by the heel, and every friend will walk deceitfully.
 
 **Jeremiah 9:4**
 
-Each will mock his friend; truth they will not speak. Their tongue learned to speak lies. They did wrong and did not cease from turning back.
+Each will mock his friend; they will certainly not speak truth. Their tongue has learned to speak lies. They did wrong and did not cease from turning back.
 
 **Jeremiah 9:5**
 
@@ -77636,27 +77636,27 @@ Usury upon usury, deceit upon deceit; they did not want to know me.
 
 **Jeremiah 9:6**
 
-Therefore thus says the Lord: Behold, I will refine them and test them, because what shall I do because of evil of the daughter of my people?
+Therefore thus says the Lord: Behold, I will refine them and test them, because what shall I do before the evil of the daughter of my people?
 
 **Jeremiah 9:7**
 
-Their tongue is wounding arrow; words of their mouth deceitful. To his neighbor he speaks peaceful things, but in himself he holds enmity.
+Their tongue is a wounding arrow; words of their mouth are deceitful. To his neighbor he speaks peaceful things, but within himself he holds enmity.
 
 **Jeremiah 9:8**
 
-Shall I not visit for these things? says the Lord. Shall not my soul avenge on such people?
+Shall I not visit for these things? says the Lord. Shall not my soul take vengeance on such a people?
 
 **Jeremiah 9:9**
 
-Take up mourning over mountains and lament over paths of the wilderness, because they failed so that there are no men, and they did not hear the sound of existence; from the birds of heaven even to cattle they were astonished and went away.
+Take up mourning over the mountains and lament over the paths of the wilderness, because they failed so that there are no men, and they did not hear the sound of life; from the birds of heaven even to cattle, they were startled and went away.
 
 **Jeremiah 9:10**
 
-And I will give Jerusalem into migration and dwelling-place of dragons, and the cities of Judah I will make to vanish, so as not to be inhabited.
+And I will give Jerusalem into exile and a dwelling-place of dragons, and I will make the cities of Judah a desolation, so as not to be inhabited.
 
 **Jeremiah 9:11**
 
-Who is wise man and let him understand this, and to whom the word of mouth of the Lord came, let him declare to you: Why did land perish, burned like wilderness, so as not to be passed through?
+Who is the wise man? Let him understand this. And to whom the word from the mouth of the Lord came, let him declare to you: Why did the land perish, burned like a wilderness, so as not to be passed through?
 
 **Jeremiah 9:12**
 
@@ -77664,11 +77664,11 @@ And the Lord said to me: Because they abandoned my law which I gave before them 
 
 **Jeremiah 9:13**
 
-but went after the pleasures of their evil heart and after idols which their fathers taught them,
+but went after the things pleasing to their evil heart and after idols which their fathers taught them,
 
 **Jeremiah 9:14**
 
-therefore thus says the Lord God of Israel: Behold, I will feed them with hardships and give them water of gall to drink.
+Therefore thus says the Lord God of Israel: Behold, I will feed them with hardships and give them water of gall to drink.
 
 **Jeremiah 9:15**
 
@@ -77676,31 +77676,31 @@ And I will scatter them among nations which neither they nor their fathers knew,
 
 **Jeremiah 9:16**
 
-Thus says the Lord: Call mourning women and let them come, and send to wise women and let them speak,
+Thus says the Lord: Call the mourning women and let them come, and send to the wise women and let them speak,
 
 **Jeremiah 9:17**
 
-and let them take up lament over you, and let your eyes bring down tears and your eyelids run water.
+and let them take up lament over you, and let your eyes bring down tears and your eyelids flow with water.
 
 **Jeremiah 9:18**
 
-Because the voice of pity was heard in Zion: How we were made miserable! We were greatly ashamed, because we abandoned land and threw away our tents.
+Because the voice of lament was heard in Zion: How we were made miserable! We were greatly ashamed, because we abandoned the land and threw away our tents.
 
 **Jeremiah 9:19**
 
-Hear now, women, word of God, and let your ears receive words of his mouth. Teach your daughters lament and each woman her neighbor mourning.
+Hear now, women, the word of God, and let your ears receive words from his mouth. Teach your daughters lament and each woman her neighbor mourning.
 
 **Jeremiah 9:20**
 
-Because death came up through your windows, entered your land, to destroy infants outside and young men from broad places.
+Because death came up through your windows, entered your land, to destroy infants outside and young men from the broad places.
 
 **Jeremiah 9:21**
 
-And the dead bodies of men will be an example upon the face of the field of your land, and like grass behind reaper, and none will gather.
+And the dead bodies of men will be an example upon the face of the field of your land, and like grass behind the reaper, and none will gather.
 
 **Jeremiah 9:22**
 
-Thus says the Lord: Let not wise man boast in his wisdom, and let not strong man boast in his strength, and let not rich man boast in his riches,
+Thus says the Lord: Let not the wise man boast in his wisdom, and let not the strong man boast in his strength, and let not the rich man boast in his riches,
 
 **Jeremiah 9:23**
 
@@ -77712,21 +77712,21 @@ Behold, days come, says the Lord, and I will visit all circumcised in their fore
 
 **Jeremiah 9:25**
 
-upon Egypt and upon Judah and upon Edom and upon the sons of Ammon and upon the sons of Moab and upon all clipping what is before his face, those dwelling in the wilderness, because all nations uncircumcised in flesh and all house of Israel uncircumcised in their hearts.
+upon Egypt and upon Judah and upon Edom and upon the sons of Ammon and upon the sons of Moab and upon all those who clip the hair around the face, those dwelling in the wilderness, because all nations are uncircumcised in flesh and all the house of Israel are uncircumcised in their hearts.
 
 ### Chapter 10
 
 **Jeremiah 10:1**
 
-Hear the word of the Lord which he spoke upon you, house of Israel.
+Hear the word of the Lord which he spoke concerning you, house of Israel.
 
 **Jeremiah 10:2**
 
-Thus says the Lord: Do not learn according to the ways of nations, and do not fear signs of heaven, because they fear them before their faces.
+Thus says the Lord: Do not learn according to the ways of the nations, and do not fear the signs of heaven, because they fear them before their faces.
 
 **Jeremiah 10:3**
 
-Because the customs of nations are vain. It is tree cut out of the forest, work of carpenter and casting.
+Because the customs of nations are vain. It is a tree cut out of the forest, work of a carpenter and a casting.
 
 **Jeremiah 10:4**
 
@@ -77734,19 +77734,19 @@ They are adorned with silver and gold. With hammers and nails they fastened them
 
 **Jeremiah 10:5**
 
-Being carried they will be carried, because they will not step. Do not fear them, because they surely will not do evil, and no good is in them.
+Carried, they will be carried, because they will not step. Do not fear them, because they surely will not do evil, and there is no good in them.
 
 **Jeremiah 10:9**
 
-Beaten silver is there; they will not walk. Refined silver will come from Tarshish, gold from Uphaz, handwork of goldsmiths, works of craftsmen. They will clothe them in blue and purple.
+There is beaten silver; they will not walk. Refined silver will come from Tarshish, gold from Uphaz, handwork of goldsmiths, works of craftsmen. They will clothe them in blue and purple.
 
 **Jeremiah 10:11**
 
-Thus you will say to them: The gods who did not make heaven and earth, let them perish from earth and from under this heaven.
+Thus you will say to them: The gods who did not make heaven and earth, let them perish from the earth and from under this heaven.
 
 **Jeremiah 10:12**
 
-The Lord, one making earth by his strength, one setting upright inhabited world by his wisdom, by his understanding stretched out heaven.
+The Lord is the one making the earth by his strength, the one setting upright the inhabited world by his wisdom, and by his understanding stretched out heaven.
 
 **Jeremiah 10:13**
 
@@ -77754,77 +77754,77 @@ And there is abundance of water in heaven, and he brought up clouds from the end
 
 **Jeremiah 10:14**
 
-Every man was made foolish from knowledge. Every goldsmith was ashamed over his carved things, because what they cast were lies; no breath in them.
+Every man was made foolish apart from knowledge. Every goldsmith was ashamed over his carved things, because they cast lies; there is no breath in them.
 
 **Jeremiah 10:15**
 
-They are vanities, mocked works. In the time of their visitation they will perish.
+They are vanities, works made a mockery. In the time of their visitation they will perish.
 
 **Jeremiah 10:16**
 
-Not like these is the portion of Jacob, because one shaping all things is his inheritance. The Lord is his name.
+Not like these is the portion of Jacob, because the one shaping all things, he is his inheritance. The Lord is his name.
 
 **Jeremiah 10:17**
 
-Gather from outside your substance, you dwelling among chosen things.
+Gather your substance from outside, you dwelling among chosen places.
 
 **Jeremiah 10:18**
 
-Because thus says the Lord: Behold, I sling out inhabitants of this land in affliction, so that your wound may be found.
+Because thus says the Lord: Behold, I sling out the inhabitants of this land in affliction, so that your wound may be found.
 
 **Jeremiah 10:19**
 
-Woe over your crushing; your wound painful. And I said, Truly this my blow, and it seized me.
+Woe over your crushing; your wound is painful. And I said, Truly this is my blow, and it seized me.
 
 **Jeremiah 10:20**
 
-My tent was made miserable, perished, and all my skins were torn apart. My sons and my sheep are not. There is no more place of my tent, place of my skins.
+My tent was made miserable and perished, and all my skins were torn apart. My sons and my sheep are not. There is no longer a place for my tent, a place for my skins.
 
 **Jeremiah 10:21**
 
-Because shepherds acted foolishly and did not seek the Lord. Therefore all pasture did not understand, and they were scattered.
+Because the shepherds acted foolishly and did not seek the Lord. Therefore the whole pasture did not understand, and they were scattered.
 
 **Jeremiah 10:22**
 
-The voice of report, behold, comes, and great shaking from the land of the north, to make the cities of Judah vanish and lodging-place of sparrows.
+The voice of report, behold, comes, and great shaking from the land of the north, to make the cities of Judah a desolation and a lodging-place of sparrows.
 
 **Jeremiah 10:23**
 
-I know, Lord, that way of man not his own, nor will man walk and direct his path.
+I know, Lord, that the way of man is not his own, nor will a man walk and direct his path.
 
 **Jeremiah 10:24**
 
-Discipline us, Lord, yet in judgment and not in wrath, lest you make us few.
+Discipline us, Lord, but in judgment and not in wrath, lest you make us few.
 
 **Jeremiah 10:25**
 
-Pour out your wrath on nations not knowing you and on families who did not call your name, because they devoured Jacob and consumed him and made his pasture desolate.
+Pour out your wrath on the nations not knowing you and on families who did not call upon your name, because they devoured Jacob and consumed him and made his pasture desolate.
 
 ### Chapter 11
 
 **Jeremiah 11:1**
 
-Word that came from the Lord to Jeremiah, saying,
+The word that came from the Lord to Jeremiah, saying,
 
 **Jeremiah 11:2**
 
-Hear words of this covenant and speak to the men of Judah and the inhabitants of Jerusalem,
+Hear the words of this covenant and speak to the men of Judah and to the inhabitants of Jerusalem,
 
 **Jeremiah 11:3**
 
-and you will say to them, Thus says the Lord God of Israel: Cursed man who will not hear words of this covenant,
+and you will say to them, Thus says the Lord God of Israel: Cursed is the man who will not hear the words of this covenant,
 
 **Jeremiah 11:4**
 
-which I commanded your fathers on the day I brought them up from the land of Egypt, from iron furnace, saying, Hear my voice and do all whatever I command you, and you will be my people and I will be your God,
+which I commanded your fathers on the day I brought them up from the land of Egypt, from an iron furnace, saying, Hear my voice and do all whatever I command you, and you will be my people and I will be your God,
 
 **Jeremiah 11:5**
 
-so that I may establish my oath which I swore to your fathers, to give them land flowing with milk and honey, as this day. And I answered and said, So be it, Lord.
+so that I may establish my oath which I swore to your fathers, to give them a land flowing with milk and honey, as it is this day. And I answered and said, So be it, Lord.
 
 **Jeremiah 11:6**
 
-And the Lord said to me, Read these words in the cities of Judah and outside Jerusalem, saying, Hear words of this covenant and do them.
+And the Lord said to me, Read these words in the cities of Judah and outside Jerusalem, saying, Hear the words of this covenant and do them.
 
 **Jeremiah 11:8**
 
@@ -77832,11 +77832,11 @@ And they did not do them.
 
 **Jeremiah 11:9**
 
-And the Lord said to me, A conspiracy was found among men of Judah and among the inhabitants of Jerusalem.
+And the Lord said to me, A conspiracy was found among the men of Judah and among the inhabitants of Jerusalem.
 
 **Jeremiah 11:10**
 
-They turned back to injustices of their former fathers, who did not want to hear my words, and behold, they walk after foreign gods to serve them. The house of Israel and the house of Judah broke my covenant which I made with their fathers.
+They turned back to the injustices of their former fathers, who did not want to hear my words, and behold, they walk after foreign gods to serve them. The house of Israel and the house of Judah broke my covenant which I made with their fathers.
 
 **Jeremiah 11:11**
 
@@ -77844,7 +77844,7 @@ Therefore thus says the Lord: Behold, I bring on this people evils from which th
 
 **Jeremiah 11:12**
 
-And the cities of Judah and the inhabitants of Jerusalem will go and cry to gods to whom they burn incense; they surely will not save them in the time of their evils.
+And the cities of Judah and the inhabitants of Jerusalem will go and cry to the gods to whom they burn incense; they surely will not save them in the time of their evils.
 
 **Jeremiah 11:13**
 
@@ -77852,19 +77852,19 @@ Because according to the number of your cities were your gods, Judah, and accord
 
 **Jeremiah 11:14**
 
-And you, do not pray concerning this people and do not ask concerning them in supplication and prayer, because I will not hear when they call on me in the time of their affliction.
+And you, do not pray concerning this people and do not ask concerning them in supplication and prayer, because I will not hear when they call upon me in the time of their affliction.
 
 **Jeremiah 11:15**
 
-What did my beloved do in my house? She did abomination. Will vows and holy flesh remove your evils from you, or by these will you escape?
+Why has my beloved done abomination in my house? Will vows and holy flesh remove your evils from you, or will you escape by these?
 
 **Jeremiah 11:16**
 
-The Lord called your name Beautiful olive tree, fair in appearance. At the sound of its pruning fire was kindled on it. Great affliction came on you; its branches were made useless.
+A beautiful olive tree, fair in appearance, the Lord called your name. At the sound of its pruning, fire was kindled on it. Great affliction came on you; its branches were made useless.
 
 **Jeremiah 11:17**
 
-And the Lord who planted you spoke evils against you because of evil of the house of Israel and the house of Judah, because they did for themselves things to provoke me by their burning incense to Baal.
+And the Lord who planted you spoke evils against you because of the evil of the house of Israel and the house of Judah, because they did for themselves things to provoke me by their burning incense to Baal.
 
 **Jeremiah 11:18**
 
@@ -77872,7 +77872,7 @@ Lord, make it known to me and I will know; then I saw their practices.
 
 **Jeremiah 11:19**
 
-And I was like innocent lamb led to be sacrificed. I did not know they reasoned evil thought against me, saying, Come and let us cast wood into his bread and wipe him out from the land of living, and his name shall no longer be remembered.
+And I was like an innocent lamb led to be sacrificed. I did not know they reasoned an evil thought against me, saying, Come and let us cast wood into his bread and wipe him out from the land of the living, and his name shall no longer be remembered.
 
 **Jeremiah 11:20**
 
@@ -77880,45 +77880,45 @@ Lord, judging righteous things, testing kidneys and heart, let me see your venge
 
 **Jeremiah 11:21**
 
-Therefore thus says the Lord against men of Anathoth seeking my life, saying, You shall not prophesy in the name of the Lord, and if not, you will die in our hands.
+Therefore thus says the Lord against the men of Anathoth who seek my life, saying, You shall not prophesy in the name of the Lord, or else you will die in our hands.
 
 **Jeremiah 11:22**
 
-Behold, I will visit upon them. Their young men will die by sword, and their sons and daughters will die by famine.
+Behold, I will visit upon them. Their young men will die by the sword, and their sons and daughters will die by famine.
 
 **Jeremiah 11:23**
 
-And the remnant of them will not exist, because I will bring evils upon the inhabitants of Anathoth in the year of their visitation.
+And no remnant of them will exist, because I will bring evils upon the inhabitants of Anathoth in the year of their visitation.
 
 ### Chapter 12
 
 **Jeremiah 12:1**
 
-You are righteous, Lord, because I will speak in defense to you; yet I will speak judgments to you: Why does the way of the ungodly prosper? All who deal faithlessly in the acts of faithlessness flourished.
+You are righteous, Lord, because I will make my defense to you; yet I will speak judgments to you: Why does the way of the ungodly prosper? All who act faithlessly with faithless acts flourished.
 
 **Jeremiah 12:2**
 
-You planted them and they took root. They bore children and made fruit. Near are you in their mouth and far from their kidneys.
+You planted them and they took root. They bore children and made fruit. You are near in their mouth and far from their kidneys.
 
 **Jeremiah 12:3**
 
-And you, Lord, know me. You tested my heart before you. Purify them for the day of their slaughter.
+And you, Lord, know me. You tested my heart before you. Set them apart for the day of their slaughter.
 
 **Jeremiah 12:4**
 
-How long will land mourn and every grass of field dry up? Because of evil of those dwelling in it, cattle and birds vanished, because they said, God will not see our ways.
+How long will the land mourn and every grass of the field dry up? Because of the evil of those dwelling in it, cattle and birds vanished, because they said, God will not see our ways.
 
 **Jeremiah 12:5**
 
-Your feet run and wear you out; how will you prepare to mount horses? And in the land of peace you trusted; how will you do in thicket of Jordan?
+Your feet run and wear you out; how will you prepare to mount horses? And in the land of peace you trusted; how will you do in the thicket of the Jordan?
 
 **Jeremiah 12:6**
 
-Because even your brothers and house of your father, they also dealt faithlessly with you, and they cried out after you from behind. Do not believe them when they speak good things to you.
+Because even your brothers and the house of your father, they also dealt faithlessly with you, and they cried out after you from behind. Do not believe them when they speak good things to you.
 
 **Jeremiah 12:7**
 
-I have abandoned my house, left my inheritance, given beloved of my soul into the hands of her enemies.
+I have abandoned my house, left my inheritance, given the beloved of my soul into the hands of her enemies.
 
 **Jeremiah 12:8**
 
@@ -77926,11 +77926,11 @@ My inheritance became to me like a lion in the forest; it gave its voice against
 
 **Jeremiah 12:9**
 
-Is my inheritance cave of hyena to me, a cave around her? Go, gather all the beasts of the field, and let them come to devour her.
+Is my inheritance a hyena's cave to me, a cave around her? Go, gather all the beasts of the field, and let them come to devour her.
 
 **Jeremiah 12:10**
 
-Many shepherds ruined my vineyard, defiled my portion, gave my desirable portion into pathless desert.
+Many shepherds ruined my vineyard, defiled my portion, gave my desirable portion into a pathless desert.
 
 **Jeremiah 12:11**
 
@@ -77938,7 +77938,7 @@ It was made into destruction; for me in destruction the whole land was made deso
 
 **Jeremiah 12:12**
 
-Over every opening in the wilderness came destroyers, because sword of the Lord will devour from one end of the earth to other end; there is no peace for any flesh.
+Over every opening in the wilderness came destroyers, because the sword of the Lord will devour from one end of the earth to the other end; there is no peace for any flesh.
 
 **Jeremiah 12:13**
 
@@ -77954,7 +77954,7 @@ And it will be after I cast them out, I will return and have mercy on them and s
 
 **Jeremiah 12:16**
 
-And it will be if in learning they learn way of my people, to swear by my name, As the Lord lives, just as they taught my people to swear by Baal, then they will be built in the midst of my people.
+And it will be if in learning they learn the way of my people, to swear by my name, As the Lord lives, just as they taught my people to swear by Baal, then they will be built in the midst of my people.
 
 **Jeremiah 12:17**
 
@@ -77964,11 +77964,11 @@ But if they do not return, then I will uproot that nation with uprooting and des
 
 **Jeremiah 13:1**
 
-Thus says the Lord: Go and buy for yourself linen belt and put it around your waist, and it will not pass through water.
+Thus says the Lord: Go and buy for yourself a linen belt and put it around your waist, and it shall not pass through water.
 
 **Jeremiah 13:2**
 
-And I bought belt according to the word of the Lord and put it around my waist.
+And I bought the belt according to the word of the Lord and put it around my waist.
 
 **Jeremiah 13:3**
 
@@ -77976,19 +77976,19 @@ And the word of the Lord came to me, saying,
 
 **Jeremiah 13:4**
 
-Take belt around your waist and rise and go to Euphrates and hide it there in hole of rock.
+Take the belt around your waist and rise and go to the Euphrates and hide it there in the hole of the rock.
 
 **Jeremiah 13:5**
 
-And I went and hid it by Euphrates, just as the Lord commanded me.
+And I went and hid it by the Euphrates, just as the Lord commanded me.
 
 **Jeremiah 13:6**
 
-And it happened after many days, and the Lord said to me, Rise, go to Euphrates and take from there belt which I commanded you to hide there.
+And it happened after many days, and the Lord said to me, Rise, go to the Euphrates and take from there the belt which I commanded you to hide there.
 
 **Jeremiah 13:7**
 
-And I went to Euphrates river and dug and took belt from place where I buried it there, and behold, it was ruined, fit for nothing.
+And I went to the Euphrates River and dug and took the belt from the place where I buried it there, and behold, it was ruined, fit for nothing.
 
 **Jeremiah 13:8**
 
@@ -77996,7 +77996,7 @@ And the word of the Lord came to me, saying,
 
 **Jeremiah 13:9**
 
-Thus says the Lord: So I ruin pride of Judah and pride of Jerusalem,
+Thus says the Lord: So I ruin the pride of Judah and the pride of Jerusalem,
 
 **Jeremiah 13:10**
 
@@ -78004,19 +78004,19 @@ this great pride of those not wanting to hear my words and going after foreign g
 
 **Jeremiah 13:11**
 
-Because just as belt clings to waist of man, so I made the whole house of Israel and the whole house of Judah cling to me, to become to me notable people and praise and glory, and they did not hear me.
+Because just as the belt clings to the waist of a man, so I made the whole house of Israel and the whole house of Judah cling to me, to become to me a notable people and praise and glory, and they did not hear me.
 
 **Jeremiah 13:12**
 
-And you will say to this people, Every wineskin will be filled with wine. And it will be if they say to you, Not knowing shall we not know that every wineskin will be filled with wine?
+And you will say to this people, Every wineskin will be filled with wine. And it will be if they say to you, Do we not know that every wineskin will be filled with wine?
 
 **Jeremiah 13:13**
 
-And you will say to them, Thus says the Lord: Behold, I fill inhabitants of this land and their kings seated, sons of David, upon his throne, and priests and prophets and all Judah and all the inhabitants of Jerusalem, with drunkenness.
+And you will say to them, Thus says the Lord: Behold, I fill the inhabitants of this land and their kings, the sons of David seated upon his throne, and the priests and the prophets and Judah and all the inhabitants of Jerusalem with drunkenness.
 
 **Jeremiah 13:14**
 
-And I will scatter them, man and his brother and their fathers and their sons together. I will not pity, says the Lord, and I will not spare and I will not show mercy from their destruction.
+And I will scatter them, a man and his brother and their fathers and their sons together. I will not pity, says the Lord, and I will not spare and I will not show mercy from their destruction.
 
 **Jeremiah 13:15**
 
@@ -78024,93 +78024,93 @@ Hear and give ear and do not exalt yourselves, because the Lord spoke.
 
 **Jeremiah 13:16**
 
-Give to the Lord your God glory before he brings darkness, and before your feet stumble on dark mountains, and you wait for light and there the shadow of death and they be set into darkness.
+Give glory to the Lord your God before he brings darkness, and before your feet stumble on dark mountains, and you wait for light and there is the shadow of death, and they will be set into darkness.
 
 **Jeremiah 13:17**
 
-And if you do not hear, your soul will weep secretly because of pride, and your eyes will bring down tears because flock of the Lord was crushed.
+And if you do not hear, your soul will weep secretly because of pride, and your eyes will bring down tears because the flock of the Lord was crushed.
 
 **Jeremiah 13:18**
 
-Say to the king and to rulers, Be humbled and sit down, because from your head fell crown of your glory.
+Say to the king and to the rulers, Be humbled and sit down, because the crown of your glory fell from your head.
 
 **Jeremiah 13:19**
 
-Cities toward south were shut, and there was no one opening. Judah was carried away, a complete exile.
+The cities toward the south were shut, and there was no one opening. Judah was carried away, a complete exile.
 
 **Jeremiah 13:20**
 
-Lift up your eyes, Jerusalem, and see those coming from north. Where is flock given to you, sheep of your glory?
+Lift up your eyes, Jerusalem, and see those coming from the north. Where is the flock given to you, the sheep of your glory?
 
 **Jeremiah 13:21**
 
-What will you say when they visit you, and you taught them lessons against yourself for rule? Will not birth-pangs seize you like a woman giving birth?
+What will you say when they visit you, and you taught them lessons against yourself for rule? Will birth-pangs not seize you like a woman giving birth?
 
 **Jeremiah 13:22**
 
-And if you say in your heart, Why did these things meet me? Because of the multitude of your injustice your hind parts were uncovered, your heels exposed as example.
+And if you say in your heart, Why did these things meet me? Because of the multitude of your injustice your hind parts were uncovered, your heels exposed as an example.
 
 **Jeremiah 13:23**
 
-If Ethiopian will change his skin and leopard her spots, then you also will be able to do good, being taught evil things.
+If an Ethiopian can change his skin and a leopard her spots, then you also will be able to do good, having learned evil things.
 
 **Jeremiah 13:24**
 
-And I scattered them like brushwood carried by wind into the wilderness.
+And I scattered them like brushwood carried by the wind into the wilderness.
 
 **Jeremiah 13:25**
 
-This your lot and portion of your disobeying me, says the Lord, because you forgot me and hoped in lies.
+This is your lot and the portion of your disobeying me, says the Lord, because you forgot me and hoped in lies.
 
 **Jeremiah 13:26**
 
-And I also will uncover your back parts upon your face, and your dishonor will be seen.
+And I also will uncover your back parts over your face, and your dishonor will be seen.
 
 **Jeremiah 13:27**
 
-Your adultery and your neighing and alienation of your prostitution on hills and in fields—I saw your abominations. Woe to you, Jerusalem, because you were not cleansed after me. How long yet?
+Your adultery and your neighing and alienation of your prostitution on the hills and in the fields--I saw your abominations. Woe to you, Jerusalem, because you were not cleansed after me. How much longer?
 
 ### Chapter 14
 
 **Jeremiah 14:1**
 
-And the word of the Lord came to Jeremiah concerning drought.
+And the word of the Lord came to Jeremiah concerning the drought.
 
 **Jeremiah 14:2**
 
-Judah mourned, and her gates were emptied and darkened upon earth, and cry of Jerusalem went up.
+Judah mourned, and her gates were emptied and darkened upon the earth, and the cry of Jerusalem went up.
 
 **Jeremiah 14:3**
 
-And her nobles sent their younger ones for water. They came to wells and found no water and returned their vessels empty.
+And her nobles sent their younger ones for water. They came to the wells and found no water and returned their vessels empty.
 
 **Jeremiah 14:4**
 
-And works of earth failed because there was no rain. Farmers were ashamed; they covered their heads.
+And the works of the earth failed because there was no rain. Farmers were ashamed; they covered their heads.
 
 **Jeremiah 14:5**
 
-And does in the field gave birth and abandoned because there was no grass.
+And does in the field gave birth and abandoned them because there was no grass.
 
 **Jeremiah 14:6**
 
-Wild donkeys stood on hilltops and drew in wind. Their eyes failed because there was no grass because of injustice of the people.
+Wild donkeys stood on hilltops and drew in wind. Their eyes failed because there was no grass because of the injustice of the people.
 
 **Jeremiah 14:7**
 
-If our sins stood against us, Lord, do for us for your sake, because many our sins before you, because against you we sinned.
+If our sins stood against us, Lord, do for us for your sake, because many are our sins before you, because against you we sinned.
 
 **Jeremiah 14:8**
 
-Hope of Israel, Lord, and saving in the time of evils, why did you become like resident alien upon the land and like native one turning aside into lodging?
+Hope of Israel, Lord, you save in the time of evils; why did you become like a resident alien upon the land and like a native one turning aside into lodging?
 
 **Jeremiah 14:9**
 
-Do not be like a sleeping man or like a man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
+Do not be like a sleeping man or like a man unable to save. And you are among us, Lord, and your name is called upon us; do not forget us.
 
 **Jeremiah 14:10**
 
-Thus says the Lord to this people: They loved moving their feet and did not spare, and God took no pleasure in them. Now he will remember their injustices.
+Thus says the Lord to this people: They loved to move their feet and did not spare, and God took no pleasure in them. Now he will remember their injustices.
 
 **Jeremiah 14:11**
 
@@ -78118,31 +78118,31 @@ And the Lord said to me, Do not pray concerning this people for good things.
 
 **Jeremiah 14:12**
 
-Because if they fast, I will not hear their supplication, and if they offer whole burnt offerings and sacrifices, I will not take pleasure in them, because by sword and by famine and by death I will consume them.
+Because if they fast, I will not hear their supplication, and if they offer whole burnt offerings and sacrifices, I will not take pleasure in them, because by the sword and by famine and by death I will consume them.
 
 **Jeremiah 14:13**
 
-And I said, O Lord, behold, their prophets prophesy and say, You will not see sword nor will there be famine among you, because I will give truth and peace on earth and in this place.
+And I said, O Lord, behold, their prophets prophesy and say, You will not see the sword nor will there be famine among you, because I will give truth and peace on the land and in this place.
 
 **Jeremiah 14:14**
 
-And the Lord said to me, Lies are what prophets prophesy in my name. I did not send them and did not command them and did not speak to them. False visions and divinations and omens and choices of their own hearts they prophesy to you.
+And the Lord said to me, The prophets prophesy lies in my name. I did not send them and did not command them and did not speak to them. False visions and divinations and omens and choices of their own hearts they prophesy to you.
 
 **Jeremiah 14:15**
 
-Therefore thus says the Lord concerning prophets prophesying lies in my name whom I did not send, those saying, Sword and famine will not be on this land: By diseased death they will die and by famine prophets will be finished.
+Therefore thus says the Lord concerning the prophets prophesying lies in my name whom I did not send, those saying, The sword and famine will not be on this land: By diseased death they will die and by famine the prophets will be finished.
 
 **Jeremiah 14:16**
 
-And the people to whom they prophesy will lie thrown in the streets of Jerusalem from the face of the sword and famine, and there will be none burying them and their wives and their sons and their daughters, and I will pour out on them their evils.
+And the people to whom they prophesy will lie thrown in the streets of Jerusalem from the face of the sword and the famine, and there will be no one burying them and their wives and their sons and their daughters, and I will pour out on them their evils.
 
 **Jeremiah 14:17**
 
-And you will say to them this word: Let your eyes bring down tears day and night and let them not cease, because the daughter of my people was crushed with crushing, very grievous wound.
+And you will say to them this word: Let your eyes bring down tears day and night and let them not cease, because the daughter of my people was crushed with crushing, a very grievous wound.
 
 **Jeremiah 14:18**
 
-If I go out into field, behold, wounded of sword, and if I enter city, behold, pain of famine, because priest and prophet went into the land which they did not know.
+If I go out into the field, behold, wounded by the sword, and if I enter the city, behold, pain from famine, because priest and prophet went into the land which they did not know.
 
 **Jeremiah 14:19**
 
@@ -78150,33 +78150,33 @@ Did you utterly reject Judah, and did your soul depart from Zion? Why did you st
 
 **Jeremiah 14:20**
 
-We knew, Lord, our sins and injustices of our fathers, because we sinned against you.
+We know, Lord, our sins and the injustices of our fathers, because we sinned against you.
 
 **Jeremiah 14:21**
 
-Stop for your name's sake; do not destroy throne of your glory. Remember; do not break your covenant with us.
+Cease for your name's sake; do not destroy the throne of your glory. Remember; do not break your covenant with us.
 
 **Jeremiah 14:22**
 
-Is there among idols of nations one raining? Or will heaven give its fullness? Are not you yourself? And we will wait for you, because you made all these things.
+Is there among the idols of the nations one who gives rain? Or will heaven give its fullness? Are you not he? And we will wait for you, because you made all these things.
 
 ### Chapter 15
 
 **Jeremiah 15:1**
 
-And the Lord said to me, If Moses and Samuel stand before my face, my soul is not toward them. Send out this people and let them go out.
+And the Lord said to me, If Moses and Samuel should stand before my face, my soul would not be toward them. Send out this people and let them go out.
 
 **Jeremiah 15:2**
 
-And it will be if they say to you, Where will we go out? Then you will say to them, Thus says the Lord: Those for death, to death; and those for sword, to sword; and those for famine, to famine; and those for captivity, to captivity.
+And it will be if they say to you, Where will we go out? Then you will say to them, Thus says the Lord: Those for death, to death; and those for the sword, to the sword; and those for famine, to famine; and those for captivity, to captivity.
 
 **Jeremiah 15:3**
 
-And I will avenge on them with four kinds, says the Lord: sword for slaughter and dogs for tearing and beasts of the earth and birds of heaven for food and ruin.
+And I will avenge on them with four kinds, says the Lord: the sword for slaughter and the dogs for tearing and the beasts of the earth and the birds of heaven for food and ruin.
 
 **Jeremiah 15:4**
 
-And I will hand them over to troubles for all kingdoms of the earth, because of Manasseh son of Hezekiah king of Judah, because of all he did in Jerusalem.
+And I will hand them over to troubles for all the kingdoms of the earth, because of Manasseh son of Hezekiah king of Judah, because of all he did in Jerusalem.
 
 **Jeremiah 15:5**
 
@@ -78184,7 +78184,7 @@ Who will spare you, Jerusalem? And who will be timid over you? Or who will turn 
 
 **Jeremiah 15:6**
 
-You turned me away, says the Lord; backward you will go. And I will stretch out my hand and destroy you, and I will no longer let them rest.
+You turned away from me, says the Lord; backward you will go. And I will stretch out my hand and destroy you, and I will no longer let them rest.
 
 **Jeremiah 15:7**
 
@@ -78196,7 +78196,7 @@ Their widows multiplied beyond the sand of the sea. I brought against the mother
 
 **Jeremiah 15:9**
 
-She who bore seven was emptied; her soul grew faint. Her sun set while still middle of day. She was ashamed and reproached. Their remnant I will give to sword before their enemies.
+She who bore seven was emptied; her soul grew faint. Her sun set while it was still the middle of the day. She was ashamed and reproached. Their remnant I will give to the sword before their enemies.
 
 **Jeremiah 15:10**
 
@@ -78204,7 +78204,7 @@ Woe to me, mother, that you bore me, a man being judged and contending with the 
 
 **Jeremiah 15:11**
 
-Let it be, Master, as you straighten their way. Did I not stand before you in the time of their evils and in the time of their affliction for good things toward enemy?
+Let it be, Master, as you straighten their way. Did I not stand before you in the time of their evils and in the time of their affliction for good things toward the enemy?
 
 **Jeremiah 15:12**
 
@@ -78212,15 +78212,15 @@ Will iron and bronze armor be known?
 
 **Jeremiah 15:13**
 
-Your strength and your treasures I will give for plunder, as payment for all your sins and in all your borders.
+Your strength and your treasures I will give for plunder, as payment for all your sins and throughout all your borders.
 
 **Jeremiah 15:14**
 
-And I will enslave you round about to your enemies in a land you did not know, because fire has been kindled from my wrath; upon you it will burn.
+And I will enslave you to your enemies round about in a land you did not know, because fire has been kindled from my wrath; upon you it will burn.
 
 **Jeremiah 15:15**
 
-Lord, remember me and visit me and vindicate me from those persecuting me. In your long-suffering know that I took reproach for your sake.
+Lord, remember me and visit me and vindicate me from those who persecute me. In your long-suffering know that I took reproach for your sake.
 
 **Jeremiah 15:16**
 
@@ -78232,11 +78232,11 @@ I did not sit in their gathering as they played, but I feared before your hand. 
 
 **Jeremiah 15:18**
 
-Why do those grieving me prevail over me? My wound severe—from where will I be healed? It became to me like false water, having no faithfulness.
+Why do those grieving me prevail over me? My wound is severe; from where will I be healed? It became to me like false water, having no faithfulness.
 
 **Jeremiah 15:19**
 
-Therefore thus says the Lord: If you return, I will restore you and you will stand before my face. And if you bring out precious from worthless, you will be as my mouth. They will return to you, but you will not return to them.
+Therefore thus says the Lord: If you return, I will restore you and you will stand before my face. And if you bring out precious from the worthless, you will be as my mouth. They will return to you, but you will not return to them.
 
 **Jeremiah 15:20**
 
@@ -78250,23 +78250,23 @@ and to deliver you from the hand of evil ones, and I will redeem you from the ha
 
 **Jeremiah 16:1**
 
-And you, do not take wife, says the Lord God of Israel.
+And you, do not take a wife, says the Lord God of Israel.
 
 **Jeremiah 16:2**
 
-And son or daughter will not be born to you in this place.
+And no son or daughter will be born to you in this place.
 
 **Jeremiah 16:3**
 
-Because thus says the Lord concerning sons and daughters born in this place, and concerning their mothers who bore them and their fathers who fathered them in this land:
+Because thus says the Lord concerning the sons and concerning the daughters born in this place, and concerning their mothers who bore them and their fathers who fathered them in this land:
 
 **Jeremiah 16:4**
 
-By diseased death they will die. They will not be mourned and not buried. For example upon the face of the earth they will be. By sword they will fall and by famine be finished, and to the beasts of the earth and birds of heaven.
+By diseased death they will die. They will not be mourned and not buried. They will be as an example upon the face of the earth. By the sword they will fall and by famine be finished, and they will be food for the beasts of the earth and birds of heaven.
 
 **Jeremiah 16:5**
 
-Thus says the Lord: Do not enter into their drinking feast, and do not go to cut yourself and do not mourn them, because I removed my peace from this people.
+Thus says the Lord: Do not enter into their drinking feast, and do not go to cut yourself and do not mourn them, because I have removed my peace from this people.
 
 **Jeremiah 16:6**
 
@@ -78274,7 +78274,7 @@ They will not cut themselves for them, nor make gashes, nor shave themselves.
 
 **Jeremiah 16:7**
 
-And bread will surely not be broken in their mourning for comfort over dead one, and he will not be given cup for comfort over his father and mother.
+And bread will surely not be broken in their mourning for comfort over a dead one, and he will not be given a cup for comfort over his father and mother.
 
 **Jeremiah 16:8**
 
@@ -78282,15 +78282,15 @@ Into the house of drinking you will not enter to sit with them to eat and drink.
 
 **Jeremiah 16:9**
 
-Because thus says the Lord God of Israel: Behold, I destroy from this place before your eyes and in your days the voice of joy and the voice of gladness, the voice of bridegroom and the voice of bride.
+Because thus says the Lord God of Israel: Behold, I destroy from this place before your eyes and in your days the voice of joy and the voice of gladness, the voice of a bridegroom and the voice of a bride.
 
 **Jeremiah 16:10**
 
-And it will be when you announce to this people all these words and they say to you, Why did the Lord speak on us all these evils? What our injustice and what our sin which we sinned against the Lord our God?
+And it will be when you announce to this people all these words and they say to you, Why did the Lord speak on us all these evils? What is our injustice, and what is our sin which we sinned against the Lord our God?
 
 **Jeremiah 16:11**
 
-Then you will say to them, Because your fathers abandoned me, says the Lord, and went after foreign gods and served them and worshiped them, and me they abandoned, and my law they did not keep.
+Then you will say to them, Because your fathers abandoned me, says the Lord, and went after foreign gods and served them and worshiped them, and me they abandoned, and they did not keep my law.
 
 **Jeremiah 16:12**
 
@@ -78298,11 +78298,11 @@ And you acted more evilly than your fathers, and behold, you each walk after the
 
 **Jeremiah 16:13**
 
-And I will cast you away from this land into the land which you and your fathers did not know, and there you will serve other gods who will not give you mercy.
+And I will cast you away from this land into a land which you and your fathers did not know, and there you will serve other gods who will not give you mercy.
 
 **Jeremiah 16:14**
 
-Therefore behold, days come, says the Lord, and they will no longer say, As the Lord lives who brought up sons of Israel from the land of Egypt,
+Therefore behold, days are coming, says the Lord, and they will no longer say, As the Lord lives who brought up the sons of Israel from the land of Egypt,
 
 **Jeremiah 16:15**
 
@@ -78310,7 +78310,7 @@ but, As the Lord lives who brought up the house of Israel from the land of the n
 
 **Jeremiah 16:16**
 
-Behold, I send many fishers, says the Lord, and they will fish them, and after these I will send many hunters, and they will hunt them on every mountain and hill and from clefts of rocks.
+Behold, I send many fishers, says the Lord, and they will fish them, and after these I will send many hunters, and they will hunt them on every mountain and hill and from clefts of the rocks.
 
 **Jeremiah 16:17**
 
@@ -78318,57 +78318,57 @@ Because my eyes are on all their ways, and their injustices were not hidden from
 
 **Jeremiah 16:18**
 
-And I will repay double their injustices and their sins, by which they profaned my land with corpses of their abominations and by their lawless deeds in which they offended my inheritance.
+And I will repay their injustices and their sins double, by which they profaned my land with corpses of their abominations and by their lawless deeds in which they offended my inheritance.
 
 **Jeremiah 16:19**
 
-Lord, my strength and my help and my refuge in the day of evils, to you nations will come from the end of the earth and say, Our fathers truly possessed lies, idols, and there is no profit in them.
+Lord, my strength and my help and my refuge in the day of evils, to you the nations will come from the end of the earth and say, Our fathers truly possessed lies, idols, and there is no profit in them.
 
 **Jeremiah 16:20**
 
-Will man make gods for himself, and these are not gods?
+Will a man make gods for himself, and these are not gods?
 
 **Jeremiah 16:21**
 
-Therefore behold, I will show them in this time my hand and make my power known to them, and they will know that my name is the Lord.
+Therefore behold, I will show them my hand at this time and make my power known to them, and they will know that my name is the Lord.
 
 ### Chapter 17
 
 **Jeremiah 17:5**
 
-Cursed man who has hope on man and will make flesh of his arm his support upon him, and his heart departs from the Lord.
+Cursed is the man who has hope in man and will make flesh the support of his arm upon him, and whose heart departs from the Lord.
 
 **Jeremiah 17:6**
 
-And he will be like tamarisk in the wilderness and will not see when good things come, and will dwell in barren places and in the wilderness, in salty land not inhabited.
+And he will be like the tamarisk in the wilderness and will not see when good things come, and he will dwell in barren places and in the wilderness, in a salty land which is not inhabited.
 
 **Jeremiah 17:7**
 
-And blessed man who trusts in the Lord, and the Lord will be his hope.
+And blessed is the man who trusts in the Lord, and the Lord will be his hope.
 
 **Jeremiah 17:8**
 
-And he will be like flourishing tree by waters and upon moisture it will cast its roots, and will not fear when heat comes, and on it will be woodland shoots. In the year of drought it will not fear and will not cease making fruit.
+And he will be like a flourishing tree by waters and will cast its roots toward moisture, and it will not fear when heat comes, and on it will be woodland shoots. In the year of drought it will not fear and will not cease making fruit.
 
 **Jeremiah 17:9**
 
-Deep is heart beyond all things, and it is man, and who will know him?
+Deep is the heart beyond all things, and it is man; and who will know him?
 
 **Jeremiah 17:10**
 
-I, the Lord, search hearts and test kidneys, to give to each according to his ways and according to fruits of his practices.
+I, the Lord, search hearts and test kidneys, to give to each according to his ways and according to the fruits of his practices.
 
 **Jeremiah 17:11**
 
-Partridge cried out, gathering what she did not bear. One making his wealth not with judgment, in the middle of his days they will leave him, and at his end he will be fool.
+A partridge cried out, gathering what she did not bear. One making his wealth not with judgment, in the middle of his days they will leave him, and at his end he will be a fool.
 
 **Jeremiah 17:12**
 
-Throne of glory exalted, our sanctuary.
+An exalted throne of glory is our sanctuary.
 
 **Jeremiah 17:13**
 
-Hope of Israel, Lord, let all abandoning you be ashamed. Those departing be written upon earth, because they abandoned fountain of life, Lord.
+Hope of Israel, Lord, let all who abandon you be ashamed. Let those departing be written upon the earth, because they abandoned the fountain of life, the Lord.
 
 **Jeremiah 17:14**
 
@@ -78380,19 +78380,19 @@ Behold, they say to me, Where is the word of the Lord? Let it come.
 
 **Jeremiah 17:16**
 
-But I did not grow weary following after you, and day of man I did not desire. You know what goes out through my lips; it is before your face.
+But I did not grow weary following after you, and a day of man I did not desire. You know what goes out through my lips; it is before your face.
 
 **Jeremiah 17:17**
 
-Do not become alienation to me, sparing me in evil day.
+Do not become alienation to me, sparing me in an evil day.
 
 **Jeremiah 17:18**
 
-Let those persecuting me be ashamed, and let me not be ashamed. Let them be terrified, and let me not be terrified. Bring on them evil day; crush them with double crushing.
+Let those persecuting me be ashamed, and let me not be ashamed. Let them be terrified, and let me not be terrified. Bring on them an evil day; crush them with double crushing.
 
 **Jeremiah 17:19**
 
-Thus says the Lord: Go and stand in the gates of sons of your people, in which kings of Judah enter and go out, and in all the gates of Jerusalem,
+Thus says the Lord: Go and stand in the gates of the sons of your people, in which the kings of Judah enter and go out, and in all the gates of Jerusalem,
 
 **Jeremiah 17:20**
 
@@ -78408,7 +78408,7 @@ And do not bring burdens out of your houses on the day of Sabbaths, and do no wo
 
 **Jeremiah 17:23**
 
-And they hardened their neck beyond their fathers, not to hear me and not to receive discipline.
+And they hardened their neck more than their fathers, not to hear me and not to receive discipline.
 
 **Jeremiah 17:24**
 
@@ -78416,33 +78416,33 @@ And it will be if in hearing you hear me, says the Lord, not bringing burdens th
 
 **Jeremiah 17:25**
 
-then kings and rulers seated on the throne of David will enter through the gates of this city and mounted on their chariots and horses, they and their rulers, men of Judah and the inhabitants of Jerusalem, and this city will be inhabited forever.
+then kings and rulers seated on the throne of David will enter through the gates of this city and mounted on their chariots and on their horses, they and their rulers, men of Judah and the inhabitants of Jerusalem, and this city will be inhabited forever.
 
 **Jeremiah 17:26**
 
-And they will come from the cities of Judah and from around Jerusalem and from the land of Benjamin and from lowland and from mountain and from south, bringing whole burnt offerings and sacrifice and incense and manna and frankincense, bringing praise into the house of the Lord.
+And they will come from the cities of Judah and from around Jerusalem and from the land of Benjamin and from the lowland and from the mountain and from the south, bringing whole burnt offerings and sacrifice and incense and grain offering and frankincense, bringing praise into the house of the Lord.
 
 **Jeremiah 17:27**
 
-And it will be if you do not hear me, to sanctify the day of Sabbaths, not to carry burdens and not to enter by the gates of Jerusalem on the day of Sabbaths, then I will kindle fire in her gates and it will devour streets of Jerusalem and will not be quenched.
+And it will be if you do not hear me, to sanctify the day of Sabbaths, not to carry burdens and not to enter by the gates of Jerusalem on the day of Sabbaths, then I will kindle fire in her gates and it will devour the streets of Jerusalem and will not be quenched.
 
 ### Chapter 18
 
 **Jeremiah 18:1**
 
-Word that came from the Lord to Jeremiah, saying,
+The word that came from the Lord to Jeremiah, saying,
 
 **Jeremiah 18:2**
 
-Rise and go down into the house of potter, and there you will hear my words.
+Rise and go down into the house of the potter, and there you will hear my words.
 
 **Jeremiah 18:3**
 
-And I went down into the house of potter, and behold, he was doing work upon the stones.
+And I went down into the house of the potter, and behold, he was doing work upon the stones.
 
 **Jeremiah 18:4**
 
-And vessel which he was making fell apart in his hands, and again he made it another vessel, just as it pleased him to make.
+And the vessel which he was making fell apart in his hands, and again he made it another vessel, just as it pleased him to make.
 
 **Jeremiah 18:5**
 
@@ -78450,35 +78450,35 @@ And the word of the Lord came to me, saying,
 
 **Jeremiah 18:6**
 
-If as this potter I will not be able to make you, house of Israel? Behold, as clay of potter, you are in my hands.
+Will I not be able to make you as this potter does, house of Israel? Behold, as the clay of the potter, you are in my hands.
 
 **Jeremiah 18:7**
 
-At one moment I will speak concerning nation or kingdom, to root them up and destroy.
+At one moment I will speak concerning a nation or concerning a kingdom, to root them up and destroy.
 
 **Jeremiah 18:8**
 
-And if that nation turns from all its evils, then I will repent concerning evils which I planned to do to them.
+And if that nation turns from all its evils, then I will repent concerning the evils which I planned to do to them.
 
 **Jeremiah 18:9**
 
-And at another moment I will speak concerning nation and kingdom, that it be built and planted.
+And at another moment I will speak concerning a nation and concerning a kingdom, that it be built and planted.
 
 **Jeremiah 18:10**
 
-And if they do evil before me, not hearing my voice, then I will repent concerning good things which I spoke to do for them.
+And if they do evil before me, not hearing my voice, then I will repent concerning the good things which I spoke to do for them.
 
 **Jeremiah 18:11**
 
-And now speak to the men of Judah and the inhabitants of Jerusalem: Behold, I form evils against you and think thought against you. Let each turn from his evil way, and you will make your practices better.
+And now speak to the men of Judah and to the inhabitants of Jerusalem: Behold, I am forming evils against you and planning a plan against you. Let each turn from his evil way, and you will make your practices better.
 
 **Jeremiah 18:12**
 
-And they said, We will be strong, because after our turnings away we will go, and each will do pleasures of his own evil heart.
+And they said, We will be strong, because after our turnings away we will go, and each will do the pleasures of his own evil heart.
 
 **Jeremiah 18:13**
 
-Therefore thus says the Lord: Ask now among nations who heard such fearful things as virgin Israel did greatly.
+Therefore thus says the Lord: Ask now among the nations: who heard such fearful things which virgin Israel did exceedingly?
 
 **Jeremiah 18:14**
 
@@ -78486,19 +78486,19 @@ Will breasts fail from rock, or snow from Lebanon? Will water carried violently 
 
 **Jeremiah 18:15**
 
-Because my people forgot me. In vain they burned incense and will be weakened in their ways, eternal paths, to step on paths having no road for walking,
+Because my people forgot me. In vain they burned incense, and they will be weakened in their ways, everlasting tracks, to step on paths having no road for walking,
 
 **Jeremiah 18:16**
 
-to set their land into destruction and everlasting hissing. All passing through it will be astonished and shake their heads.
+to set their land for destruction and everlasting hissing. All who pass through it will be astonished and shake their heads.
 
 **Jeremiah 18:17**
 
-As wind of heat I will scatter them before the face of their enemies. I will show them day of their destruction.
+Like a burning wind I will scatter them before the face of their enemies. I will show them the day of their destruction.
 
 **Jeremiah 18:18**
 
-And they said, Come, let us think thought against Jeremiah, because law will not perish from priest and counsel from wise man and word from prophet. Come, let us strike him with tongue and hear all his words.
+And they said, Come, let us think a thought against Jeremiah, because law will not perish from a priest, and counsel from a wise man, and word from a prophet. Come, let us strike him with the tongue and hear all his words.
 
 **Jeremiah 18:19**
 
@@ -78506,33 +78506,33 @@ Hear me, Lord, and hear the voice of my plea.
 
 **Jeremiah 18:20**
 
-Is evil repaid in place of good? Because they spoke words against my soul, and hid their punishment for me. Remember my standing before your face to speak good things for them, to turn your wrath away from them.
+Is evil repaid in place of good? Because they spoke words against my soul and hid their punishment for me. Remember my standing before your face to speak good things for them, to turn your wrath away from them.
 
 **Jeremiah 18:21**
 
-Therefore give their sons to famine and gather them into the hands of sword. Let their wives become childless and widows, and their men become killed by death, and their young men fallen by sword in war.
+Therefore give their sons to famine and gather them into the hands of a sword. Let their wives become childless and widows, and let their men become killed by death, and their young men fallen by sword in war.
 
 **Jeremiah 18:22**
 
-Let cry come in their houses, because you will bring robbers on them suddenly, because they laid word for my capture and hid snares against me.
+Let a cry come in their houses, because you will bring robbers on them suddenly, because they laid a word for my capture and hid snares against me.
 
 **Jeremiah 18:23**
 
-And you, Lord, knew all their counsel against me for death. Do not acquit their injustices, and do not wipe away their sins from before your face. Let their weakness be before you; in the time of your wrath do in them.
+And you, Lord, knew all their counsel against me for death. Do not acquit their injustices, and do not wipe away their sins from before your face. Let their weakness be before you; in the time of your wrath, do in them.
 
 ### Chapter 19
 
 **Jeremiah 19:1**
 
-Then the Lord said to me, Go and buy shaped earthen jar and bring from the elders of the people and from the elders of priests,
+Then the Lord said to me, Go and buy a shaped earthen jar and bring some of the elders of the people and some of the elders of the priests,
 
 **Jeremiah 19:2**
 
-and you will go out to burial place of sons of their children, which is by entrances of gate of potsherd, and there read all words which I speak to you,
+and you will go out to the burial place of the sons of their children, which is by the entrances of the Gate of Potsherd, and there read all the words which I speak to you,
 
 **Jeremiah 19:3**
 
-and say to them, Hear the word of the Lord, kings of Judah and men of Judah and the inhabitants of Jerusalem and those entering these gates. Thus says the Lord God of Israel: Behold, I bring on this place evils so that ears of everyone hearing them will ring.
+and say to them, Hear the word of the Lord, kings of Judah and men of Judah and the inhabitants of Jerusalem and those entering these gates. Thus says the Lord God of Israel: Behold, I bring evils on this place so that both ears of everyone hearing them will ring.
 
 **Jeremiah 19:4**
 
@@ -78540,61 +78540,61 @@ Because they abandoned me and estranged this place and burned incense in it to f
 
 **Jeremiah 19:5**
 
-and built high places to Baal to burn their sons in fire, which I did not command nor speak nor conceive in my heart.
+and built high places to Baal to burn their sons in fire, which I did not command, nor speak, nor conceive in my heart.
 
 **Jeremiah 19:6**
 
-Therefore behold, days come, says the Lord, and this place will no longer be called Falling Away and burial place of son of Hinnom, but burial place of slaughter.
+Therefore behold, days are coming, says the Lord, and this place will no longer be called Falling Away and burial place of the son of Hinnom, but burial place of slaughter.
 
 **Jeremiah 19:7**
 
-And I will slaughter counsel of Judah and counsel of Jerusalem in this place, and I will cast them down by sword before their enemies and in the hands of those seeking their souls, and I will give their dead bodies for food to the birds of heaven and beasts of the earth.
+And I will slaughter the counsel of Judah and the counsel of Jerusalem in this place, and I will cast them down by the sword before their enemies and in the hands of those seeking their souls, and I will give their dead bodies for food to the birds of heaven and the beasts of the earth.
 
 **Jeremiah 19:8**
 
-And I will set this city into destruction and hissing. Everyone passing by upon it will look gloomy and hiss over every plague of it.
+And I will set this city for destruction and hissing. Everyone passing by it will look gloomy and hiss over every plague of it.
 
 **Jeremiah 19:9**
 
-And they will eat flesh of their sons and flesh of their daughters, and each will eat flesh of his neighbor in siege and straitness with which their enemies will besiege them.
+And they will eat the flesh of their sons and the flesh of their daughters, and each will eat the flesh of his neighbor in the siege and in the straitness with which their enemies will besiege them.
 
 **Jeremiah 19:10**
 
-And you will crush the jar before the eyes of men going out with you,
+And you will crush the jar before the eyes of the men going out with you,
 
 **Jeremiah 19:11**
 
-and say, Thus says the Lord: So I will crush this people and this city just as earthen vessel is crushed which cannot still be healed.
+and say, Thus says the Lord: So I will crush this people and this city just as an earthen vessel is crushed which can no longer be healed.
 
 **Jeremiah 19:12**
 
-Thus I will do, says the Lord, to this place and those dwelling in it, to make this city like the fallen place.
+Thus I will do, says the Lord, to this place and to those dwelling in it, to make this city like the fallen place.
 
 **Jeremiah 19:13**
 
-And houses of Jerusalem and houses of kings of Judah will be as place of falling away of uncleannesses, in all houses in which they burned incense on their roofs to all the army of heaven and poured drink offerings to foreign gods.
+And the houses of Jerusalem and the houses of the kings of Judah will be as the place of falling away of uncleannesses, in all the houses in which they burned incense on their roofs to all the army of heaven and poured drink offerings to foreign gods.
 
 **Jeremiah 19:14**
 
-And Jeremiah came from the place of falling away where the Lord sent him there to prophesy, and he stood in the court of the house of the Lord and said to all the people,
+And Jeremiah came from the place of falling away where the Lord sent him to prophesy, and he stood in the court of the house of the Lord and said to all the people,
 
 **Jeremiah 19:15**
 
-Thus says the Lord: Behold, I bring on this city and on all her cities and on her villages all evils which I spoke against her, because they hardened their neck so as not to hear my words.
+Thus says the Lord: Behold, I bring on this city and on all her cities and on her villages all the evils which I spoke against her, because they hardened their neck so as not to hear my words.
 
 ### Chapter 20
 
 **Jeremiah 20:1**
 
-And Pashhur son of Immer the priest, and he was appointed ruler of the house of the Lord, heard Jeremiah prophesying these words.
+And Pashhur son of Immer, the priest, who was appointed ruler of the house of the Lord, heard Jeremiah prophesying these words.
 
 **Jeremiah 20:2**
 
-And he struck him and threw him into stocks, which were at the gate of the house appointed of upper place, which was in the house of the Lord.
+And he struck him and threw him into the stocks, which were at the gate of the appointed upper house, which was in the house of the Lord.
 
 **Jeremiah 20:3**
 
-And Pashhur brought Jeremiah out from the stocks, and Jeremiah said to him, the Lord did not call your name Pashhur, but Exile.
+And Pashhur brought Jeremiah out from the stocks, and Jeremiah said to him, The Lord did not call your name Pashhur, but Exile.
 
 **Jeremiah 20:4**
 
@@ -78602,69 +78602,69 @@ Because thus says the Lord: Behold, I give you into exile with all your friends,
 
 **Jeremiah 20:5**
 
-And I will give all strength of this city and all its toils and all treasures of the king of Judah into the hands of his enemies, and they will carry them into Babylon.
+And I will give all the strength of this city and all its toils and all the treasures of the king of Judah into the hands of his enemies, and they will carry them into Babylon.
 
 **Jeremiah 20:6**
 
-And you and all dwelling in your house will go into captivity, and in Babylon you will die, and there you will be buried, you and all your friends to whom you prophesied lies.
+And you and all who dwell in your house will go into captivity, and in Babylon you will die, and there you will be buried, you and all your friends to whom you prophesied lies.
 
 **Jeremiah 20:7**
 
-You deceived me, Lord, and I was deceived. You overpowered me and prevailed. I became for laughter all day. I was spent being mocked.
+You deceived me, Lord, and I was deceived. You overpowered me and prevailed. I became a laughingstock all day. I was continually mocked.
 
 **Jeremiah 20:8**
 
-Because with bitter word I will laugh. Lawlessness and misery I will call out, because the word of the Lord became to me for reproach and for mockery all my days.
+Because with my bitter word I will laugh. Lawlessness and misery I will call out, because the word of the Lord became to me for reproach and for mockery all my days.
 
 **Jeremiah 20:9**
 
-And I said, I will not name the name of the Lord and I will not speak any longer in his name. And it became like burning fire flaming in my bones, and I am weakened from every side and cannot bear it.
+And I said, I will not name the name of the Lord and I will not speak any longer in his name. And it became like a burning fire flaming in my bones, and I am weakened from every side and cannot bear it.
 
 **Jeremiah 20:10**
 
-Because I heard blame of many gathering around: Assemble, and let us assemble against him. All men his friends, watch his thought, if he will be deceived and we will prevail against him and take our vengeance from him.
+Because I heard the blame of many gathering around: Assemble, and let us assemble against him. All men who are his friends, watch his thought, if he will be deceived, and we will prevail against him and take our vengeance from him.
 
 **Jeremiah 20:11**
 
-And the Lord with me as mighty warrior. Because of this they persecuted me and could not prevail. They were greatly ashamed, because they did not understand. Their eternal dishonors will not be forgotten.
+And the Lord is with me like a mighty warrior. Because of this they persecuted me and could not prevail. They were greatly ashamed, because they did not understand. Their eternal dishonors will not be forgotten.
 
 **Jeremiah 20:12**
 
-Lord, testing righteous and understanding kidneys and heart, let me see from you vengeance on them, because to you I revealed my defense.
+Lord, testing righteous things and understanding kidneys and hearts, let me see from you vengeance on them, because to you I revealed my defense.
 
 **Jeremiah 20:13**
 
-Sing to the Lord. Praise him, because he rescued soul of a poor man from the hand of evildoers.
+Sing to the Lord. Praise him, because he rescued the soul of a poor man from the hand of evildoers.
 
 **Jeremiah 20:14**
 
-Cursed day in which I was born. Let not day in which my mother bore me be blessed.
+Cursed be the day in which I was born. Let not the day in which my mother bore me be blessed.
 
 **Jeremiah 20:15**
 
-Cursed man who brought good news to my father, saying, A male was born to you, rejoicing with joy.
+Cursed be the man who brought good news to my father, saying, A male was born to you, rejoicing with joy.
 
 **Jeremiah 20:16**
 
-Let that man be like cities which the Lord overthrew in anger and did not relent. Let him hear cry in morning and battle-shout at midday,
+Let that man be like the cities which the Lord overthrew in anger and did not relent. Let him hear a cry in the morning and a battle-shout at midday,
 
 **Jeremiah 20:17**
 
-because he did not kill me in the womb of mother, and my mother became my tomb and womb of eternal conception.
+because he did not kill me in the womb of my mother, and my mother became my tomb and her womb a womb of eternal conception.
 
 **Jeremiah 20:18**
 
-Why was this? I came out from womb to see toils and pains, and my days passed in shame.
+Why was this? I came out from the womb to see toils and pains, and my days passed in shame.
 
 ### Chapter 21
 
 **Jeremiah 21:1**
 
-Word coming from the Lord to Jeremiah when King Zedekiah sent to him Pashhur son of Melchiah and Zephaniah son of Maaseiah the priest, saying,
+The word that came from the Lord to Jeremiah when King Zedekiah sent to him Pashhur son of Melchiah and Zephaniah son of Maaseiah the priest, saying,
 
 **Jeremiah 21:2**
 
-Ask the Lord concerning us, because the king of Babylon has risen against us, if the Lord will act according to all his wonders and go away from us.
+Ask the Lord concerning us, because the king of Babylon has risen against us, if the Lord will act according to all his wonders and depart from us.
 
 **Jeremiah 21:3**
 
@@ -78672,27 +78672,27 @@ And Jeremiah said to them, Thus you will say to Zedekiah king of Judah,
 
 **Jeremiah 21:4**
 
-Thus says the Lord: Behold, I turn back war-weapons with which you fight against Chaldeans besieging you outside wall, into the midst of this city.
+Thus says the Lord: Behold, I turn back the weapons of war with which you fight against the Chaldeans who besiege you outside the wall, into the midst of this city.
 
 **Jeremiah 21:5**
 
-And I myself will fight you with outstretched hand and strong arm, with wrath and anger and great provocation.
+And I myself will fight you with an outstretched hand and with a strong arm, with wrath and anger and great provocation.
 
 **Jeremiah 21:6**
 
-And I will strike all dwelling in this city, men and cattle, with great death, and they will die.
+And I will strike all who dwell in this city, men and cattle, with great death, and they will die.
 
 **Jeremiah 21:7**
 
-And after these things, thus says the Lord, I will give Zedekiah king of Judah and his servants and people left in this city from death and from famine and from sword into the hands of their enemies seeking their lives, and they will cut them down with edge of sword. I will not spare them and I will not pity them.
+And after these things, thus says the Lord, I will give Zedekiah king of Judah and his servants and the people left in this city from death and from famine and from sword into the hands of their enemies seeking their lives, and they will cut them down with the edge of a sword. I will not spare them and I will not pity them.
 
 **Jeremiah 21:8**
 
-And to this people you will say, Thus says the Lord: Behold, I have given before your face way of life and way of death.
+And to this people you will say, Thus says the Lord: Behold, I have given before your face the way of life and the way of death.
 
 **Jeremiah 21:9**
 
-One dwelling in this city will die by sword and by famine, but one going out to join the Chaldeans besieging you will live, and his soul will be for spoil and he will live.
+The one dwelling in this city will die by sword and by famine, but the one going out to join the Chaldeans besieging you will live, and his soul will be for spoil and he will live.
 
 **Jeremiah 21:10**
 
@@ -78704,11 +78704,11 @@ House of the king of Judah, hear the word of the Lord.
 
 **Jeremiah 21:12**
 
-House of David, thus says the Lord: Judge judgment in morning, and set right, and rescue plundered one from the hand of one wronging him, so that my wrath not blaze like fire and burn, and there not be one quenching it.
+House of David, thus says the Lord: Judge judgment in the morning, and set right, and rescue the plundered one from the hand of one wronging him, so that my wrath not blaze like fire and burn, and there not be one quenching it.
 
 **Jeremiah 21:13**
 
-Behold, I am against you, one dwelling in the valley of Sor, the plain one, those saying, Who will terrify us, and who will enter into our dwelling?
+Behold, I am against you, the one dwelling in the valley of Sor, the plain one, those saying, Who will terrify us, and who will enter into our dwelling?
 
 **Jeremiah 21:14**
 
@@ -78726,7 +78726,7 @@ and say, Hear the word of the Lord, king of Judah seated on the throne of David,
 
 **Jeremiah 22:3**
 
-Thus says the Lord: Practice judgment and righteousness, and rescue the plundered one from the hand of the one wronging him; do not oppress resident alien, orphan, or widow; do not act impiously, and do not pour out innocent blood in this place.
+Thus says the Lord: Practice judgment and righteousness, and rescue the plundered one from the hand of the one wronging him; do not oppress the resident alien, orphan, or widow; do not act impiously, and do not pour out innocent blood in this place.
 
 **Jeremiah 22:4**
 
@@ -78734,15 +78734,15 @@ Because if in doing you do this word, kings seated on the throne of David will e
 
 **Jeremiah 22:5**
 
-But if you will not do these words, by myself I swore, says the Lord, that this house will become for desolation.
+But if you will not do these words, by myself I swore, says the Lord, that this house will become a desolation.
 
 **Jeremiah 22:6**
 
-Because thus says the Lord against the house of the king of Judah: Gilead, you are to me, head of Lebanon. If I do not set you into the wilderness, cities not to be inhabited.
+Because thus says the Lord against the house of the king of Judah: Gilead, you are to me, the head of Lebanon. I will surely set you as a wilderness, cities not to be inhabited.
 
 **Jeremiah 22:7**
 
-And I will bring against you man destroying, and his axe, and they will cut down your choice cedars and throw them into fire.
+And I will bring against you a destroying man and his axe, and they will cut down your choice cedars and throw them into the fire.
 
 **Jeremiah 22:8**
 
@@ -78750,11 +78750,11 @@ And nations will pass through this city, and each will say to his neighbor, Why 
 
 **Jeremiah 22:9**
 
-And they will say, Because they abandoned covenant of the Lord their God and bowed to foreign gods and served them.
+And they will say, Because they abandoned the covenant of the Lord their God and bowed to foreign gods and served them.
 
 **Jeremiah 22:10**
 
-Do not weep dead one and do not lament him. Weep with weeping for one going out, because he will not return again and will not see land of his homeland.
+Do not weep for the dead one and do not lament him. Weep with weeping for the one going out, because he will not return again and will not see the land of his homeland.
 
 **Jeremiah 22:11**
 
@@ -78762,23 +78762,23 @@ Because thus says the Lord concerning Shallum son of Josiah, reigning instead of
 
 **Jeremiah 22:12**
 
-But in place where I carried him away, there he will die, and this land he will not see again.
+But in the place where I carried him away, there he will die, and this land he will not see again.
 
 **Jeremiah 22:13**
 
-Woe one building his house not with righteousness and his upper rooms not in judgment, with his neighbor working for nothing, and he will never pay him his wages.
+Woe to the one building his house not with righteousness and his upper rooms not in judgment, with his neighbor working for nothing, and he will never pay him his wages.
 
 **Jeremiah 22:14**
 
-You built for yourself well-proportioned house, airy upper rooms opened with windows and paneled with cedar and painted with red pigment.
+You built for yourself a well-proportioned house, airy upper rooms opened with windows and paneled with cedar and painted with red pigment.
 
 **Jeremiah 22:15**
 
-Will you reign because you are inflamed against Ahaz your father? They will not eat and will not drink. Better it was for you to do judgment and good righteousness.
+Will you reign because you are inflamed against Ahaz your father? Will they not eat and will they not drink? It was better for you to do judgment and good righteousness.
 
 **Jeremiah 22:16**
 
-They did not know, they did not judge case of lowly nor case of poor. Is not this the same as not knowing me? says the Lord.
+They did not know; they did not judge the case of the lowly nor the case of the poor. Is not this the same as not knowing me? says the Lord.
 
 **Jeremiah 22:17**
 
@@ -78786,15 +78786,15 @@ Behold, your eyes and your heart are not good, but only for your greed and for p
 
 **Jeremiah 22:18**
 
-Therefore thus says the Lord concerning Jehoiakim son of Josiah king of Judah: Woe for this man. They will not lament him, saying, Ah brother, and they will not weep him, saying, Alas Lord.
+Therefore thus says the Lord concerning Jehoiakim son of Josiah king of Judah: Woe for this man. They will not lament him, saying, Ah brother, and they will not weep for him, saying, Alas, Lord.
 
 **Jeremiah 22:19**
 
-With burial of donkey he will be buried, dragged away and thrown beyond gate of Jerusalem.
+With the burial of a donkey he will be buried, dragged away and thrown beyond the gate of Jerusalem.
 
 **Jeremiah 22:20**
 
-Go up to Lebanon and cry out, and in Bashan give your voice, and cry from across sea, because all your lovers were shattered.
+Go up to Lebanon and cry out, and in Bashan give your voice, and cry beyond the sea, because all your lovers were shattered.
 
 **Jeremiah 22:21**
 
@@ -78802,23 +78802,23 @@ I spoke to you in your falling away, and you said, I will not hear. This was you
 
 **Jeremiah 22:22**
 
-Wind will shepherd all your shepherds, and your lovers will go out into captivity, because then you will be ashamed and dishonored from all loving you.
+Wind will shepherd all your shepherds, and your lovers will go out into captivity, because then you will be ashamed and dishonored by all those loving you.
 
 **Jeremiah 22:23**
 
-You dwelling in Lebanon, nesting in cedars, you will groan when birth-pains come on you, like a woman giving birth.
+You who dwell in Lebanon, nesting in the cedars, you will groan when birth-pains come on you, like one giving birth.
 
 **Jeremiah 22:24**
 
-As I live, says the Lord, if Jeconiah son of Jehoiakim king of Judah becomes signet on my right hand, even from there I will pull you away.
+As I live, says the Lord, if Jeconiah son of Jehoiakim king of Judah should become a signet on my right hand, from there I will tear you away.
 
 **Jeremiah 22:25**
 
-And I will hand you over into the hands of those seeking your life, whom you fear before their face, into the hands of Chaldeans.
+And I will hand you over into the hands of those seeking your life, before whose face you are afraid, into the hands of the Chaldeans.
 
 **Jeremiah 22:26**
 
-And I will throw you and your mother who bore you into the land where you were not born, and there you will die.
+And I will throw you and your mother who bore you into a land where you were not born, and there you will die.
 
 **Jeremiah 22:27**
 
@@ -78826,29 +78826,29 @@ But to the land which they long for with their souls, they will never return.
 
 **Jeremiah 22:28**
 
-Jeconiah was dishonored like a vessel of no use, because he was thrown out and cast into the land which he did not know.
+Was Jeconiah dishonored like a vessel of no use? Because he was thrown out and cast into a land which he did not know.
 
 **Jeremiah 22:29**
 
-Land, land, hear the word of the Lord.
+Earth, earth, hear the word of the Lord.
 
 **Jeremiah 22:30**
 
-Write this man as rejected, because no man from his seed will grow up to sit on the throne of David and ruling any longer in Judah.
+Write this man as rejected, because no man from his seed will grow up to sit on the throne of David and rule any longer in Judah.
 
 ### Chapter 23
 
 **Jeremiah 23:1**
 
-Woe, shepherds scattering and destroying sheep of my pasture.
+Woe to the shepherds who scatter and destroy the sheep of my pasture.
 
 **Jeremiah 23:2**
 
-Therefore thus says the Lord against ones shepherding my people: You scattered my sheep and drove them out and did not visit them. Behold, I punish you according to your evil practices.
+Therefore thus says the Lord against those shepherding my people: You scattered my sheep and drove them out and did not attend to them. Behold, I punish you according to your evil practices.
 
 **Jeremiah 23:3**
 
-And I will gather remnant of my people from every land where I drove them there and restore them to their pasture, and they will increase and multiply.
+And I will gather the remnant of my people from every land where I drove them, and I will restore them to their pasture, and they will increase and multiply.
 
 **Jeremiah 23:4**
 
@@ -78856,35 +78856,35 @@ And I will raise up for them shepherds who will shepherd them, and they will not
 
 **Jeremiah 23:5**
 
-Behold, days come, says the Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
+Behold, days are coming, says the Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon the earth.
 
 **Jeremiah 23:6**
 
-In his days Judah will be saved and Israel will camp in confidence, and this is his name which the Lord will call him: The Lord Is Righteous.
+In his days Judah will be saved and Israel will dwell in confidence, and this is his name which the Lord will call him: The Lord Is Righteous.
 
 **Jeremiah 23:7**
 
-Therefore behold, days come, says the Lord, and they will no longer say, As the Lord lives, who brought up the house of Israel from the land of Egypt,
+Therefore behold, days are coming, says the Lord, and they will no longer say, As the Lord lives, who brought up the house of Israel from the land of Egypt,
 
 **Jeremiah 23:8**
 
-but, As the Lord lives, who gathered all seed of Israel from the land of the north and from all lands where he drove them there and restored them to their land.
+but, As the Lord lives, who gathered all the seed of Israel from the land of the north and from all the lands where he drove them and restored them to their land.
 
 **Jeremiah 23:9**
 
-In prophets my heart was crushed within me. All my bones were shaken. I became like a broken man and like a man overcome by wine, before the face of the Lord and before the face of glory of his splendor.
+Concerning the prophets, my heart was crushed within me. All my bones were shaken. I became like a broken man and like a man overcome by wine, before the face of the Lord and before the face of the splendor of his glory.
 
 **Jeremiah 23:10**
 
-Because from these things land mourned. Pastures of the wilderness dried up, and their way became evil, and their strength not so.
+Because of these things the land mourned. The pastures of the wilderness dried up, and their way became evil, and their strength was not right.
 
 **Jeremiah 23:11**
 
-Because priest and prophet were polluted, and in my house I saw their evils.
+Because priest and prophet were defiled, and in my house I saw their evils.
 
 **Jeremiah 23:12**
 
-Therefore let their way become for them slipping-place in gloom, and they will stumble and fall in it, because I will bring evils on them in the year of their visitation, says the Lord.
+Therefore let their way become for them a slippery place in gloom, and they will stumble and fall in it, because I will bring evils on them in the year of their visitation, says the Lord.
 
 **Jeremiah 23:13**
 
@@ -78892,19 +78892,19 @@ And in the prophets of Samaria I saw lawless things. They prophesied by Baal and
 
 **Jeremiah 23:14**
 
-And in the prophets of Jerusalem I saw horrible things: committing adultery and walking in lies and strengthening hands of evildoers, so that each not turn back from his evil way. They all became to me like Sodom, and those dwelling in it like Gomorrah.
+And in the prophets of Jerusalem I saw horrible things: committing adultery and walking in lies and strengthening the hands of evildoers, so that each one would not turn back from his evil way. They all became to me like Sodom, and those dwelling in it like Gomorrah.
 
 **Jeremiah 23:15**
 
-Therefore thus says the Lord: Behold, I feed them pain and give them bitter water to drink, because from prophets of Jerusalem pollution went out into all the land.
+Therefore thus says the Lord: Behold, I feed them pain and give them bitter water to drink, because from the prophets of Jerusalem pollution went out into all the land.
 
 **Jeremiah 23:16**
 
-Thus says the Lord Almighty: Do not hear the words of prophets. They make vain things for themselves. They speak vision from their own heart and not from the mouth of the Lord.
+Thus says the Lord Almighty: Do not hear the words of prophets, because they make vain things for themselves. They speak a vision from their own heart and not from the mouth of the Lord.
 
 **Jeremiah 23:17**
 
-They say to ones rejecting the word of the Lord, Peace will be to you, and to all walking after their own desires, to everyone walking in the wandering of his heart, they said, Evils will not come on you.
+They say to those rejecting the word of the Lord, Peace will be to you, and to all those walking after their own desires, to everyone walking in the wandering of his heart, they said, Evils will not come upon you.
 
 **Jeremiah 23:18**
 
@@ -78912,7 +78912,7 @@ Because who stood in the Lord's standing-place and saw his word? Who gave ear an
 
 **Jeremiah 23:19**
 
-Behold, shaking from the Lord, and wrath goes out into turmoil twisting itself. It will come upon ungodly.
+Behold, a shaking from the Lord, and wrath goes out into a whirling turmoil. It will come upon the ungodly.
 
 **Jeremiah 23:20**
 
@@ -78920,7 +78920,7 @@ And the anger of the Lord will not turn back until he does it and until he raise
 
 **Jeremiah 23:21**
 
-I did not send prophets, and they ran. I did not speak to them, and they prophesied.
+I did not send the prophets, and they ran. I did not speak to them, and they prophesied.
 
 **Jeremiah 23:22**
 
@@ -78928,27 +78928,27 @@ And if they had stood in my standing-place and heard my words, they would have t
 
 **Jeremiah 23:23**
 
-Am I God near at hand, says the Lord, and not God from far away?
+Am I a God near at hand, says the Lord, and not a God from far away?
 
 **Jeremiah 23:24**
 
-If man hides himself in hidden places, will I not see him? Do I not fill heaven and earth? says the Lord.
+If a man hides himself in hidden places, will I not see him? Do I not fill heaven and earth? says the Lord.
 
 **Jeremiah 23:25**
 
-I heard what prophets say, those prophesying lies in my name, saying, I dreamed dream.
+I heard what the prophets say, those prophesying lies in my name, saying, I dreamed a dream.
 
 **Jeremiah 23:26**
 
-How long will this be in the heart of prophets prophesying lies and prophesying desires of their own heart?
+How long will this be in the heart of the prophets prophesying lies and prophesying the desires of their own heart?
 
 **Jeremiah 23:27**
 
-They plan to make my law forgotten in their dreams which each recounts to his neighbor, just as their fathers forgot my name in Baal.
+They plan to make my law forgotten by their dreams which each recounts to his neighbor, just as their fathers forgot my name in Baal.
 
 **Jeremiah 23:28**
 
-Prophet in whom dream is, let him recount his dream, and one with whom my word is, let him recount my word in truth. What has straw toward wheat? So are my words, says the Lord.
+The prophet in whom the dream is, let him recount his dream, and the one with whom my word is, let him recount my word in truth. What is straw compared to wheat? So are my words, says the Lord.
 
 **Jeremiah 23:29**
 
@@ -78956,23 +78956,23 @@ Are not my words like flaming fire, says the Lord, and like a hammer breaking ro
 
 **Jeremiah 23:30**
 
-Therefore behold, I am against prophets, says the Lord God, those stealing my words, each from his neighbor.
+Therefore behold, I am against the prophets, says the Lord God, those stealing my words, each from his neighbor.
 
 **Jeremiah 23:31**
 
-Behold, I am against prophets throwing out prophecies of tongue and dozing their own drowsiness.
+Behold, I am against the prophets throwing out prophecies of the tongue and dozing their own drowsiness.
 
 **Jeremiah 23:32**
 
-Behold, I am against prophets prophesying lying dreams, and they recounted them and led my people astray in their lies and in their wanderings. And I did not send them and did not command them, and they will not benefit this people with benefit.
+Behold, I am against the prophets prophesying lying dreams, and they recounted them and led my people astray in their lies and in their wanderings. And I did not send them and did not command them, and they will not benefit this people with any benefit.
 
 **Jeremiah 23:33**
 
-And if this people or priest or prophet asks you, saying, What burden of the Lord? then you will say to them, You are burden, and I will dash you down, says the Lord.
+And if this people or priest or prophet asks you, saying, What is the burden of the Lord? then you will say to them, You are the burden, and I will dash you down, says the Lord.
 
 **Jeremiah 23:34**
 
-And prophet and priest and people, whoever says, Burden of the Lord, I will punish that man and his house.
+And the prophet and the priest and the people, whoever says, Burden of the Lord, I will punish that man and his house.
 
 **Jeremiah 23:35**
 
@@ -78980,7 +78980,7 @@ Because thus each will say to his neighbor and each to his brother, What did the
 
 **Jeremiah 23:36**
 
-And burden of the Lord do not name any longer, because burden will be each man's own word.
+And do not name Burden of the Lord any longer, because the burden will be each man's own word.
 
 **Jeremiah 23:37**
 
@@ -78992,25 +78992,25 @@ Therefore thus says the Lord God: Because you said this word, Burden of the Lord
 
 **Jeremiah 23:39**
 
-therefore behold, I will take and dash you and city which I gave to you and to your fathers.
+therefore behold, I will take and dash you and the city which I gave to you and to your fathers.
 
 **Jeremiah 23:40**
 
-And I will give on you eternal reproach and eternal dishonor which will not be forgotten.
+And I will put upon you eternal reproach and eternal dishonor which will not be forgotten.
 
 ### Chapter 24
 
 **Jeremiah 24:1**
 
-The Lord showed me two baskets of figs set before the face of the temple of the Lord, after Nebuchadnezzar king of Babylon carried away Jeconiah son of Jehoiakim king of Judah and rulers and craftsmen and prisoners and rich men from Jerusalem and brought them into Babylon.
+The Lord showed me two baskets of figs set before the face of the temple of the Lord, after Nebuchadnezzar king of Babylon carried away Jeconiah son of Jehoiakim king of Judah and the rulers and the craftsmen and the prisoners and the rich men from Jerusalem and brought them to Babylon.
 
 **Jeremiah 24:2**
 
-One basket held very good figs, like first-ripe figs, and other basket held very bad figs, which will not be eaten because of their badness.
+One basket held very good figs, like the first-ripe figs, and the other basket held very bad figs, which will not be eaten because of their badness.
 
 **Jeremiah 24:3**
 
-And the Lord said to me, What do you see, Jeremiah? And I said, Figs, very good ones very good, and very bad ones very bad, which will not be eaten because of their badness.
+And the Lord said to me, What do you see, Jeremiah? And I said, Figs: the good ones are very good, and the bad ones are very bad, which will not be eaten because of their badness.
 
 **Jeremiah 24:4**
 
@@ -79018,41 +79018,41 @@ And the word of the Lord came to me, saying,
 
 **Jeremiah 24:5**
 
-Thus says the Lord God of Israel: As these good figs, so I will recognize exiles of Judah whom I sent away from this place into the land of Chaldeans for good.
+Thus says the Lord God of Israel: As these good figs, so I will recognize the exiles of Judah whom I sent away from this place into the land of the Chaldeans for good.
 
 **Jeremiah 24:6**
 
-And I will set my eyes on them for good and restore them into this land for good, and I will rebuild them and not tear down, and I will plant them and not pull up.
+And I will set my eyes on them for good and restore them to this land for good, and I will rebuild them and certainly not tear them down, and I will plant them and certainly not pull them up.
 
 **Jeremiah 24:7**
 
-And I will give them heart to know me, that I am the Lord, and they will be to me for people and I will be to them for God, because they will turn back to me with all their heart.
+And I will give them a heart to know me, that I am the Lord, and they will be to me for a people and I will be to them for God, because they will turn back to me with all their heart.
 
 **Jeremiah 24:8**
 
-And like bad figs, which will not be eaten because of their badness, thus says the Lord, so I will hand over Zedekiah king of Judah and his nobles and remnant of Jerusalem left in this land and those dwelling in Egypt.
+And like the bad figs, which will not be eaten because of their badness, thus says the Lord, so I will hand over Zedekiah king of Judah and his nobles and the remnant of Jerusalem left in this land and those dwelling in Egypt.
 
 **Jeremiah 24:9**
 
-And I will give them for dispersion into all kingdoms of the earth, and they will be for reproach and for proverb and for hatred and for curse in every place where I drove them there.
+And I will give them for dispersion into all the kingdoms of the earth, and they will be for a reproach and for a proverb and for hatred and for a curse in every place where I drove them.
 
 **Jeremiah 24:10**
 
-And I will send on them famine and death and sword until they fail from the land which I gave them.
+And I will send upon them famine and death and sword until they are gone from the land which I gave them.
 
 ### Chapter 25
 
 **Jeremiah 25:1**
 
-Word coming to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim son of Josiah king of Judah,
+The word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim son of Josiah king of Judah,
 
 **Jeremiah 25:2**
 
-which he spoke to all the people of Judah and to ones dwelling in Jerusalem, saying,
+which he spoke to all the people of Judah and to those dwelling in Jerusalem, saying,
 
 **Jeremiah 25:3**
 
-In thirteenth year of Josiah son of Amos king of Judah and until this day, twenty-three years, I spoke to you, rising early and speaking.
+In the thirteenth year of Josiah son of Amon king of Judah and until this day, twenty-three years, I spoke to you, rising early and speaking.
 
 **Jeremiah 25:4**
 
@@ -79060,11 +79060,11 @@ And I sent to you my servants the prophets, rising early and sending, and you di
 
 **Jeremiah 25:5**
 
-saying, Let each turn back from his evil way and from your evil practices, and you will dwell upon the land which I gave to you and to your fathers from age to age.
+saying, Let each one turn back from his evil way and from your evil practices, and you will dwell upon the land which I gave to you and to your fathers from age to age.
 
 **Jeremiah 25:6**
 
-Do not go after foreign gods, to serve them and bow to them, so that you not provoke me by the works of your hands, to harm you.
+Do not go after foreign gods, to serve them and bow down to them, so that you do not provoke me by the works of your hands, to harm you.
 
 **Jeremiah 25:7**
 
@@ -79076,73 +79076,73 @@ Therefore thus says the Lord: Because you did not believe my words,
 
 **Jeremiah 25:9**
 
-behold, I send and will take family from north and bring them upon this land and upon those dwelling in it and upon all nations around it, and I will make them desolate and give them for disappearance and for hissing and for eternal reproach.
+behold, I send and will take the family from the north and bring them upon this land and upon those dwelling in it and upon all the nations around it, and I will make them desolate and give them for disappearance and for hissing and for eternal reproach.
 
 **Jeremiah 25:10**
 
-And I will destroy from them the voice of joy and the voice of gladness, the voice of bridegroom and the voice of bride, the smell of perfume and the light of a lamp.
+And I will destroy from them the voice of joy and the voice of gladness, the voice of a bridegroom and the voice of a bride, the smell of perfume and the light of a lamp.
 
 **Jeremiah 25:11**
 
-And all the land will be for disappearance, and they will serve among nations seventy years.
+And all the land will be for disappearance, and they will serve among the nations seventy years.
 
 **Jeremiah 25:12**
 
-And when seventy years are fulfilled, I will punish that nation, says the Lord, and I will set them for eternal disappearance.
+And when the seventy years are fulfilled, I will punish that nation, says the Lord, and I will set them for eternal disappearance.
 
 **Jeremiah 25:13**
 
-And I will bring upon that land all my words which I spoke against it, all things written in this book.
+And I will bring upon that land all my words which I spoke against it, all the things written in this book.
 
 **Jeremiah 25:14**
 
-What Jeremiah prophesied against nations, against Elam.
+The things which Jeremiah prophesied against the nations, against Elam.
 
 **Jeremiah 25:15**
 
-Thus says the Lord: Let bow of Elam be shattered, beginning of their power.
+Thus says the Lord: Let the bow of Elam be shattered, the beginning of their power.
 
 **Jeremiah 25:16**
 
-And I will bring upon Elam four winds from four ends of heaven and will scatter them in all these winds, and there will not be nation where outcasts of Elam will not come.
+And I will bring upon Elam four winds from the four ends of heaven and will scatter them in all these winds, and there will not be a nation where the outcasts of Elam will not come.
 
 **Jeremiah 25:17**
 
-And I will terrify them before their enemies seeking their lives, and I will bring on them evils according to the anger of my wrath, and I will send my sword after them until I consume them.
+And I will terrify them before their enemies seeking their lives, and I will bring evils upon them according to the anger of my wrath, and I will send my sword after them until I consume them.
 
 **Jeremiah 25:18**
 
-And I will set my throne in Elam and send away from there king and nobles.
+And I will set my throne in Elam and send away from there the king and nobles.
 
 **Jeremiah 25:19**
 
-And it will be at the last of days, I will turn captivity of Elam, says the Lord.
+And it will be at the last of days: I will turn back the captivity of Elam, says the Lord.
 
 **Jeremiah 25:20**
 
-At the beginning of Zedekiah king reigning, this word came concerning Elam.
+At the beginning of the reign of King Zedekiah, this word came concerning Elam.
 
 ### Chapter 26
 
 **Jeremiah 26:2**
 
-Concerning Egypt, against force of Pharaoh Neco king of Egypt, which was by the river Euphrates at Carchemish, whom Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim king of Judah.
+Concerning Egypt, against the army of Pharaoh Neco king of Egypt, which was by the river Euphrates at Carchemish, whom Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim king of Judah.
 
 **Jeremiah 26:3**
 
-Take up weapons and shields and come near for war.
+Take up weapons and shields, and draw near for war.
 
 **Jeremiah 26:4**
 
-Harness horses, mount up, riders, and stand in your helmets. Advance spears and put on your breastplates.
+Harness the horses; mount up, riders, and stand in your helmets. Advance the spears and put on your breastplates.
 
 **Jeremiah 26:5**
 
-Why? Because they are terrified and withdraw backward, because their mighty ones are cut down. In flight they fled and did not turn back, hemmed in all around, says the Lord.
+Why are they terrified and withdrawing backward? Because their mighty ones will be cut down. They fled in flight and did not turn back, hemmed in all around, says the Lord.
 
 **Jeremiah 26:6**
 
-Let not swift one flee, and let not mighty one be saved. In north, by Euphrates, they weakened and fell.
+Let the swift one not flee, and let the mighty one not save himself. Toward the north, by the Euphrates, they weakened and fell.
 
 **Jeremiah 26:7**
 
@@ -79150,39 +79150,39 @@ Who is this who will rise like a river, and whose waters surge like rivers?
 
 **Jeremiah 26:8**
 
-Waters of Egypt will rise like a river, and he said, I will go up and cover earth and destroy those dwelling in it.
+The waters of Egypt will rise like a river, and he said, I will go up and cover the earth and destroy those dwelling in it.
 
 **Jeremiah 26:9**
 
-Mount the horses. Prepare chariots. Go out, warriors, Ethiopians and Libyans armed with weapons, and Lydians, go up, bend bow.
+Mount the horses. Prepare the chariots. Go out, warriors, Ethiopians and Libyans armed with weapons, and Lydians, go up, bend the bow.
 
 **Jeremiah 26:10**
 
-And that day belongs to the Lord our God, day of vengeance to avenge his enemies, and sword of the Lord will devour and be filled and become drunk with their blood, because sacrifice belongs to the Lord of hosts from the land of the north by the river Euphrates.
+And that day belongs to the Lord our God, a day of vengeance to avenge his enemies, and the sword of the Lord will devour and be filled and become drunk with their blood, because a sacrifice belongs to the Lord of hosts from the land of the north by the river Euphrates.
 
 **Jeremiah 26:11**
 
-Go up to Gilead and take resin, virgin daughter of Egypt. In vain you multiplied your healings. No benefit is for you.
+Go up to Gilead and take resin, virgin daughter of Egypt. In vain you multiplied your healings. There is no benefit for you.
 
 **Jeremiah 26:12**
 
-Nations heard your voice, and earth was filled with your cry, because warrior weakened against warrior. Together both fell.
+The nations heard your voice, and the earth was filled with your cry, because warrior weakened against warrior. Together both fell.
 
 **Jeremiah 26:13**
 
-What the Lord spoke by the hand of Jeremiah, for Nebuchadnezzar king of Babylon to come to strike the land of Egypt.
+The things which the Lord spoke by the hand of Jeremiah, for Nebuchadnezzar king of Babylon to come to strike the land of Egypt.
 
 **Jeremiah 26:14**
 
-Announce in Migdol and proclaim in Memphis. Say, Stand ready and prepare, because sword devoured your smilax.
+Announce in Migdol and proclaim in Memphis. Say, Stand ready and prepare, because the sword devoured your smilax.
 
 **Jeremiah 26:15**
 
-Why did Apis, your chosen calf, flee? He did not stand, because the Lord weakened him.
+Why did Apis, your chosen calf, flee? He did not remain, because the Lord weakened him.
 
 **Jeremiah 26:16**
 
-And your multitude weakened and fell, and each said to his neighbor, Let us rise and return to our people and to our homeland from the face of Greek sword.
+And your multitude weakened and fell, and each said to his neighbor, Let us rise and return to our people and to our homeland from the face of a Greek sword.
 
 **Jeremiah 26:17**
 
@@ -79190,35 +79190,35 @@ Call the name of Pharaoh Neco king of Egypt: Saon-esbi-emoed.
 
 **Jeremiah 26:18**
 
-As I live, says the Lord God, as Tabor among mountains and as Carmel in sea, so he will come.
+As I live, says the Lord God, as Tabor among the mountains and as Carmel by the sea, so he will come.
 
 **Jeremiah 26:19**
 
-Make for yourself gear of exile, dwelling daughter of Egypt, because Memphis will become for disappearance and will be called Woe, because none dwell in her.
+Make for yourself gear for exile, you dwelling daughter of Egypt, because Memphis will become a disappearance and will be called Woe, because there are no inhabitants in her.
 
 **Jeremiah 26:20**
 
-Egypt, beautified heifer. From north cutting-off came upon her.
+Egypt is a beautified heifer; a cutting off from the north has come upon her.
 
 **Jeremiah 26:21**
 
-And her hired men in her are like fattened calves raised in her, because they too turned back and fled together. They did not stand, because day of their destruction came upon them and time of their vengeance.
+And her hired men in her are like fattened calves raised in her, because they too turned back and fled together. They did not stand, because the day of their destruction came upon them and the time of their vengeance.
 
 **Jeremiah 26:22**
 
-Her voice will hiss like serpent's, because they will go in sand, and with axes they will come upon her like woodcutters.
+Her voice will hiss like a serpent's, because they will go in sand, and with axes they will come upon her like woodcutters.
 
 **Jeremiah 26:23**
 
-They will cut down her forest, says the Lord God, because it will never be searched out. They multiplied beyond locusts, and there is no number for them.
+They will cut down her forest, says the Lord God, because it certainly will not be estimated. They are more numerous than locusts, and there is no number for them.
 
 **Jeremiah 26:24**
 
-The daughter of Egypt was put to shame. She was handed into the hands of the people from north.
+The daughter of Egypt was put to shame. She was handed into the hands of the people from the north.
 
 **Jeremiah 26:25**
 
-Behold, I punish Amon her son, upon Pharaoh and upon ones trusting in him.
+Behold, I punish Amon her son, upon Pharaoh and upon those trusting in him.
 
 **Jeremiah 26:27**
 
@@ -79226,7 +79226,7 @@ But do not fear, my servant Jacob, and do not be terrified, Israel, because beho
 
 **Jeremiah 26:28**
 
-Do not fear, my child Jacob, says the Lord, because I am with you. Because I will make end in every nation where I drove you there, but you I will not make fail, and I will discipline you in judgment, and by acquitting I will not acquit you.
+Do not fear, my servant Jacob, says the Lord, because I am with you. Because I will make an end in every nation where I drove you, but you I will certainly not make fail, and I will discipline you in judgment, and by acquitting I will not acquit you.
 
 ### Chapter 27
 
@@ -79236,31 +79236,31 @@ The word of the Lord which he spoke concerning Babylon.
 
 **Jeremiah 27:2**
 
-Announce among nations and make heard, and do not hide. Say, Babylon was taken. Bel was put to shame. Merodach was handed over, fearless one and delicate one.
+Announce among the nations and make it heard, and do not hide it. Say, Babylon was taken. Bel was put to shame. Merodach was handed over, the fearless and delicate one.
 
 **Jeremiah 27:3**
 
-Because nation came up upon her from north. This one will make her land for disappearance, and there will be none dwelling in her, from man even to cattle.
+Because a nation came up upon her from the north. This one will make her land a disappearance, and there will be none dwelling in her, from man even to cattle.
 
 **Jeremiah 27:4**
 
-In those days and in that time, sons of Israel will come, they and sons of Judah together. Walking and weeping, they will go seeking the Lord their God.
+In those days and in that time, the sons of Israel will come, they and the sons of Judah together. Walking and weeping, they will go seeking the Lord their God.
 
 **Jeremiah 27:5**
 
-They will ask way to Zion, because there they will set their faces, and they will come and flee for refuge to the Lord their God, because everlasting covenant will not be forgotten.
+They will ask the way to Zion, because there they will set their faces, and they will come and flee for refuge to the Lord their God, because the everlasting covenant will not be forgotten.
 
 **Jeremiah 27:6**
 
-My people became lost sheep. Their shepherds drove them away upon mountains. They led them astray from mountain onto hill. They went away and forgot their resting-place.
+My people became lost sheep. Their shepherds drove them away upon the mountains. They led them astray from mountain to hill. They went away and forgot their resting-place.
 
 **Jeremiah 27:7**
 
-All finding them consumed them, and their enemies said, Let us not leave them guiltless, because they sinned against the Lord, pasture of righteousness, the one gathering their fathers.
+All finding them consumed them, and their enemies said, Let us not leave them guiltless, because they sinned against the Lord, the pasture of righteousness, the one who gathered their fathers.
 
 **Jeremiah 27:8**
 
-Become estranged from the midst of Babylon, and go out from the land of Chaldeans, and become like dragons before flocks.
+Separate yourselves from the midst of Babylon, and go out from the land of the Chaldeans, and become like dragons before flocks.
 
 **Jeremiah 27:9**
 
@@ -79268,7 +79268,7 @@ Because behold, I raise up against Babylon gatherings of nations from the land o
 
 **Jeremiah 27:10**
 
-And Chaldea will become for plunder. All plundering her will be filled.
+And Chaldea will become plunder. All plundering her will be filled.
 
 **Jeremiah 27:11**
 
@@ -79276,107 +79276,107 @@ Because you rejoiced and boasted while plundering my inheritance, because you le
 
 **Jeremiah 27:12**
 
-Your mother was greatly ashamed, mother of your good things, last of nations, wilderness.
+Your mother was greatly ashamed, mother of your good things, last of nations, a wilderness.
 
 **Jeremiah 27:13**
 
-From anger of the Lord she will not be inhabited, and all will become for disappearance. Everyone passing through Babylon will darken and hiss over all her plague.
+From the anger of the Lord she will not be inhabited, and all will become a disappearance. Everyone passing through Babylon will darken and hiss over all her plague.
 
 **Jeremiah 27:14**
 
-Array yourselves against Babylon all around, all stretching bow. Shoot at her. Do not spare your arrows.
+Array yourselves against Babylon all around, all stretching the bow. Shoot at her. Do not spare your arrows.
 
 **Jeremiah 27:15**
 
-Raise shout against her. Her hands were weakened. Her battlements fell, and her wall was torn down, because vengeance from God it is. Avenge against her. As she did, do to her.
+Raise a shout against her. Her hands were weakened. Her battlements fell, and her wall was torn down, because it is vengeance from God. Avenge against her. As she did, do to her.
 
 **Jeremiah 27:16**
 
-Destroy seed from Babylon and one holding sickle in the time of harvest. From the face of Greek sword each will turn to his people, and each will flee into his land.
+Destroy seed from Babylon and one holding the sickle in the time of harvest. From the face of a Greek sword each will turn to his people, and each will flee into his land.
 
 **Jeremiah 27:17**
 
-Israel, wandering sheep. Lions drove him out. First king of Assyria devoured him, and later king of Babylon broke his bones.
+Israel is a wandering sheep. Lions drove him out. First the king of Assyria devoured him, and later the king of Babylon broke his bones.
 
 **Jeremiah 27:18**
 
-Therefore thus says the Lord: Behold, I punish king of Babylon and his land just as I punished king of Assyria.
+Therefore thus says the Lord: Behold, I punish the king of Babylon and his land just as I punished the king of Assyria.
 
 **Jeremiah 27:19**
 
-And I will restore Israel to his pasture, and he will graze on Carmel and on hill-country of Ephraim and on Gilead, and his soul will be filled.
+And I will restore Israel to his pasture, and he will graze on Carmel and on the hill-country of Ephraim and on Gilead, and his soul will be filled.
 
 **Jeremiah 27:20**
 
-In those days and in that time they will seek injustice of Israel and it will not exist, and sins of Judah and they will never be found, because I will be merciful to remnant upon the land, says the Lord.
+In those days and in that time they will seek the injustice of Israel and it will not exist, and the sins of Judah and they will certainly not be found, because I will be merciful to the remnant upon the land, says the Lord.
 
 **Jeremiah 27:21**
 
-Bitterly go up against her and against ones dwelling on her. Avenge with sword and destroy, says the Lord, and do according to all I command you.
+Go up bitterly against her and against those dwelling on her. Avenge with the sword and make her disappear, says the Lord, and do according to all I command you.
 
 **Jeremiah 27:22**
 
-The sound of war and great crushing in the land of Chaldeans.
+The sound of war and great crushing in the land of the Chaldeans.
 
 **Jeremiah 27:23**
 
-How hammer of all the earth was broken and shattered. How Babylon became for disappearance among nations.
+How the hammer of all the earth was broken and shattered. How Babylon became a disappearance among the nations.
 
 **Jeremiah 27:24**
 
-They will set trap for you and you will be taken, Babylon, and you will not know. You were found and taken, because you stood against the Lord.
+They will set a trap for you, and you will be taken, O Babylon, and you will not know. You were found and taken, because you stood against the Lord.
 
 **Jeremiah 27:25**
 
-The Lord opened his treasury and brought out vessels of his wrath, because work belongs to the Lord God in the land of Chaldeans.
+The Lord opened his treasury and brought out the vessels of his wrath, because work belongs to the Lord God in the land of the Chaldeans.
 
 **Jeremiah 27:26**
 
-Because her times have come. Open her storehouses. Search her as cave and utterly destroy her. Let no remnant come to be from her.
+Because her times have come. Open her storehouses. Search her like a cave and utterly destroy her. Let no remnant of her come to be.
 
 **Jeremiah 27:27**
 
-Dry up all her fruits and let them go down to slaughter. Woe to them, because their day came and time of their vengeance.
+Dry up all her fruits and let them go down to slaughter. Woe to them, because their day has come and the time of their vengeance.
 
 **Jeremiah 27:28**
 
-The voice of ones fleeing and escaping from the land of Babylon, to announce in Zion vengeance from the Lord our God.
+The voice of those fleeing and escaping from the land of Babylon, to announce in Zion vengeance from the Lord our God.
 
 **Jeremiah 27:29**
 
-Command many against Babylon, every one stretching bow. Encamp against her all around. Let there not be one escaping from her. Pay back to her according to her works. According to all she did, do to her, because against the Lord, Holy God of Israel, she stood.
+Command many against Babylon, everyone stretching the bow. Encamp against her all around. Let there not be one escaping from her. Pay back to her according to her works. According to all she did, do to her, because she stood against the Lord, the Holy God of Israel.
 
 **Jeremiah 27:30**
 
-Therefore her young men will fall in her squares, and all her war-men will be cast down, says the Lord.
+Therefore her young men will fall in her squares, and all her men of war will be cast down, says the Lord.
 
 **Jeremiah 27:31**
 
-Behold, I am against you, arrogant one, says the Lord, because your day came and time of your vengeance.
+Behold, I am against you, the arrogant one, says the Lord, because your day has come and the time of your vengeance.
 
 **Jeremiah 27:32**
 
-And your arrogance will weaken and fall, and there will not be one raising her up. And I will kindle fire in her forest, and it will devour all around her.
+And your arrogance will weaken and fall, and there will not be one raising her up. And I will kindle a fire in her forest, and it will devour all around her.
 
 **Jeremiah 27:33**
 
-Thus says the Lord: Sons of Israel and sons of Judah together are oppressed, and all taking them captive oppressed them, because they were not willing to send them away.
+Thus says the Lord: The sons of Israel and the sons of Judah together are oppressed, and all taking them captive oppressed them, because they were not willing to send them away.
 
 **Jeremiah 27:34**
 
-But the one redeeming them is strong. The Lord Almighty his name. He will judge judgment against his adversaries so that he may lift up the land and provoke those dwelling in Babylon.
+But the one redeeming them is strong. The Lord Almighty is his name. He will judge judgment against his adversaries so that he may lift up the land and provoke those dwelling in Babylon.
 
 **Jeremiah 27:35**
 
-Sword upon Chaldeans and upon those dwelling in Babylon and upon her nobles and upon her wise men.
+A sword upon the Chaldeans and upon those dwelling in Babylon and upon her nobles and upon her wise men.
 
 **Jeremiah 27:36**
 
-Sword upon her warriors, and they will be paralyzed.
+A sword upon her warriors, and they will be paralyzed.
 
 **Jeremiah 27:37**
 
-Sword upon their horses and upon their chariots, sword upon mixed people in her midst, and they will become like women. Sword upon her treasures, and they will be scattered.
+A sword upon their horses and upon their chariots, a sword upon her mixed people in her midst, and they will become like women. A sword upon her treasures, and they will be scattered.
 
 **Jeremiah 27:38**
 
@@ -79384,19 +79384,19 @@ Upon her water they trusted, and they will be put to shame, because it is a land
 
 **Jeremiah 27:39**
 
-Therefore phantoms will dwell in the islands, and daughters of sirens will dwell in her. She will no longer be inhabited forever.
+Therefore phantoms will dwell in the islands, and daughters of sirens will dwell in her. She will certainly no longer be inhabited forever.
 
 **Jeremiah 27:40**
 
-As God overthrew Sodom and Gomorrah and those neighboring them, says the Lord, so man will not dwell there, and son of man will not sojourn there.
+As God overthrew Sodom and Gomorrah and those neighboring them, says the Lord, no man will dwell there and no son of man will sojourn there.
 
 **Jeremiah 27:41**
 
-Behold, people comes from north, and great nation and many kings will be roused from the end of the earth.
+Behold, a people comes from the north, and a great nation and many kings will be roused from the end of the earth.
 
 **Jeremiah 27:42**
 
-Holding bow and short-sword, cruel he is and he will not pity. Their voice will sound like sea. Upon horses they will ride, prepared like fire for war against you, daughter of Babylon.
+Holding bow and short-sword, he is cruel and certainly will not show mercy. Their voice will sound like the sea. Upon horses they will ride, prepared like fire for war against you, daughter of Babylon.
 
 **Jeremiah 27:43**
 
@@ -79404,21 +79404,21 @@ The king of Babylon heard their report, and his hands were weakened. Distress se
 
 **Jeremiah 27:44**
 
-Behold, like a lion he will go up from Jordan into Ethan place, because quickly I will drive them from her, and every young man I will appoint over her. Because who is like me, and who will oppose me, and who is this shepherd who will stand before my face?
+Behold, like a lion he will go up from the Jordan into Ethan place, because quickly I will drive them from her, and every young man I will appoint over her. Because who is like me, and who will oppose me, and who is this shepherd who will stand before my face?
 
 **Jeremiah 27:45**
 
-Therefore hear counsel of the Lord which he counseled against Babylon and his thoughts which he thought against those dwelling in Chaldea: Unless lambs of their sheep are destroyed, unless pasture is destroyed from them.
+Therefore hear the counsel of the Lord which he counseled against Babylon and his thoughts which he thought against those dwelling in Chaldea: Unless the lambs of their sheep are destroyed, unless pasture is made a disappearance from them.
 
 **Jeremiah 27:46**
 
-Because from the voice of Babylon's capture earth will be shaken and cry will be heard among nations.
+Because from the sound of Babylon's capture the earth will be shaken and a cry will be heard among the nations.
 
 ### Chapter 28
 
 **Jeremiah 28:1**
 
-Thus says the Lord: Behold, I raise against Babylon and against those dwelling in Chaldea hot destroying wind.
+Thus says the Lord: Behold, I raise against Babylon and against those dwelling in Chaldea a hot destroying wind.
 
 **Jeremiah 28:2**
 
@@ -79426,11 +79426,11 @@ And I will send revilers into Babylon, and they will revile her and ruin her lan
 
 **Jeremiah 28:3**
 
-Against her let one stretching his bow stretch it, and let one with armor gird himself, and do not spare her young men, and destroy all her power.
+Against her let the one stretching his bow stretch it, and let the one who has armor gird himself, and do not spare her young men, and destroy all her power.
 
 **Jeremiah 28:4**
 
-And slain ones will fall in the land of Chaldeans, and stabbed ones outside her.
+And slain ones will fall in the land of the Chaldeans, and stabbed ones outside her.
 
 **Jeremiah 28:5**
 
@@ -79438,11 +79438,11 @@ Because Israel and Judah were not widowed from their God, from the Lord Almighty
 
 **Jeremiah 28:6**
 
-Flee from the midst of Babylon and save each his soul, and do not be cast away in her injustice, because time of her vengeance is from the Lord. He repays repayment to her.
+Flee from the midst of Babylon and let each save his soul, and do not be cast away in her injustice, because the time of her vengeance is from the Lord. He repays repayment to her.
 
 **Jeremiah 28:7**
 
-Babylon, golden cup in the hand of the Lord, making all the earth drunk. Nations drank from her wine. Because of this they were shaken.
+Babylon was a golden cup in the hand of the Lord, making all the earth drunk. Nations drank from her wine. Because of this they were shaken.
 
 **Jeremiah 28:8**
 
@@ -79450,31 +79450,31 @@ And suddenly Babylon fell and was shattered. Lament her. Take resin for her ruin
 
 **Jeremiah 28:9**
 
-We healed Babylon and she was not healed. Let us abandon her, and let each go away into his own land, because her judgment drew near to heaven and rose as far as stars.
+We healed Babylon and she was not healed. Let us abandon her, and let each go away into his own land, because her judgment drew near to heaven and rose as far as the stars.
 
 **Jeremiah 28:10**
 
-The Lord brought out his judgment. Come, and let us announce in Zion works of the Lord our God.
+The Lord brought out his judgment. Come, and let us announce in Zion the works of the Lord our God.
 
 **Jeremiah 28:11**
 
-Prepare arrows. Fill quivers. The Lord stirred the spirit of the king of Medes, because his wrath is against Babylon, to destroy her, because vengeance of the Lord it is, vengeance of his people it is.
+Prepare arrows. Fill quivers. The Lord stirred the spirit of the king of Medes, because his wrath is against Babylon, to destroy her, because it is vengeance of the Lord, it is vengeance of his people.
 
 **Jeremiah 28:12**
 
-Upon the walls of Babylon raise signal. Set quivers. Stir up guards. Prepare weapons, because the Lord undertook and will do what he spoke against those dwelling in Babylon.
+Upon the walls of Babylon raise a signal. Set quivers. Stir up guards. Prepare weapons, because the Lord undertook and will do what he spoke against those dwelling in Babylon.
 
 **Jeremiah 28:13**
 
-You dwelling upon many waters and abundance of treasures, your end came, truly into your inward parts.
+O you dwelling upon many waters and upon an abundance of treasures, your end has come, truly into your inward parts.
 
 **Jeremiah 28:14**
 
-Because the Lord swore by his arm that I will fill you with men like locusts, and those coming down will shout over you.
+Because the Lord swore by his arm: I will fill you with men like locusts, and those coming down will shout over you.
 
 **Jeremiah 28:15**
 
-He made earth in his strength, preparing world in his wisdom. In his understanding he stretched out heaven.
+He made the earth in his strength, preparing the world in his wisdom. In his understanding he stretched out heaven.
 
 **Jeremiah 28:16**
 
@@ -79490,51 +79490,51 @@ They are vain works, mocked things. In the time of their visitation they will pe
 
 **Jeremiah 28:19**
 
-Not such is portion for Jacob, because one forming all things, he is his inheritance. The Lord is his name.
+Not such is the portion for Jacob, because the one forming all things, he is his inheritance. The Lord is his name.
 
 **Jeremiah 28:20**
 
-You are to me war-vessels, and I will scatter nations in you, and I will remove kings from you.
+You are my war-vessels, and with you I will scatter nations, and from you I will remove kings.
 
 **Jeremiah 28:21**
 
-And I will scatter in you horse and its rider, and I will scatter in you chariots and their riders.
+And with you I will scatter horse and its rider, and with you I will scatter chariots and their riders.
 
 **Jeremiah 28:22**
 
-And I will scatter in you young man and virgin, and I will scatter in you man and woman.
+And with you I will scatter young man and virgin, and with you I will scatter man and woman.
 
 **Jeremiah 28:23**
 
-And I will scatter in you shepherd and his flock, and I will scatter in you farmer and his farm, and I will scatter in you your rulers and generals.
+And with you I will scatter shepherd and his flock, and with you I will scatter farmer and his farm, and with you I will scatter your rulers and generals.
 
 **Jeremiah 28:24**
 
-And I will repay Babylon and all dwelling in Chaldea all their evils which they did against Zion before your eyes, says the Lord.
+And I will repay Babylon and all the Chaldeans dwelling there for all their evils which they did against Zion before your eyes, says the Lord.
 
 **Jeremiah 28:25**
 
-Behold, I am against you, corrupt mountain destroying all the earth, and I will stretch out my hand upon you and roll you down from rocks and give you as mountain set on fire.
+Behold, I am against you, corrupt mountain, the one destroying all the earth, and I will stretch out my hand upon you and roll you down from the rocks and give you as a mountain set on fire.
 
 **Jeremiah 28:26**
 
-And they will never take from you stone for corner nor stone for foundation, because for disappearance forever you will be, says the Lord.
+And they will certainly not take from you a stone for a corner or a stone for a foundation, because you will be a disappearance forever, says the Lord.
 
 **Jeremiah 28:27**
 
-Raise signal upon earth. Trumpet with trumpet among nations. Sanctify nations against her. Command against her kingdoms of Ararat and Ashkenaz. Set missile-stations against her. Bring up horse against her like swarm of locusts.
+Raise a signal upon the earth. Sound a trumpet among the nations. Sanctify nations against her. Command against her the kingdoms of Ararat and Ashkenaz. Set missile-stations against her. Bring up a horse against her like a swarm of locusts.
 
 **Jeremiah 28:28**
 
-Sanctify nations against her, king of Medes and leaders of all his land and all his generals.
+Sanctify nations against her, the king of Medes and the leaders of all his land and all his generals.
 
 **Jeremiah 28:29**
 
-Earth shook and was in pain, because plan of the Lord rose against Babylon, to make the land of Babylon for disappearance and not inhabited.
+The earth shook and was in pain, because the plan of the Lord rose against Babylon, to make the land of Babylon a disappearance and not inhabited.
 
 **Jeremiah 28:30**
 
-Warrior of Babylon failed from fighting. They will sit there in enclosure. Their power was broken. They became like women. Her dwellings were burned with fire. Her bars were shattered.
+The warrior of Babylon failed from fighting. They will sit there in enclosure. Their power was broken. They became like women. Her dwellings were burned with fire. Her bars were shattered.
 
 **Jeremiah 28:31**
 
@@ -79542,19 +79542,19 @@ Runner will run to meet runner, and announcer to meet announcer, to announce to 
 
 **Jeremiah 28:32**
 
-From the end of its crossings they were seized, and their gathering-places were burned with fire, and their war-men go out.
+From the end of its crossings they were seized, and their gathering-places were burned with fire, and their men of war go out.
 
 **Jeremiah 28:33**
 
-Because thus says the Lord, house of the king of Babylon is like a ripe threshing-floor. Yet little, and her harvest will come.
+Because thus says the Lord, the house of the king of Babylon is like a ripe threshing-floor. Yet a little while, and her harvest will come.
 
 **Jeremiah 28:34**
 
-Nebuchadnezzar king of Babylon devoured me, portioned me, took me as delicate vessel, swallowed me like a dragon, filled his belly from my luxury, and drove me out.
+Nebuchadnezzar king of Babylon devoured me, portioned me, took me as a delicate vessel, swallowed me like a dragon, filled his belly from my luxury, and drove me out.
 
 **Jeremiah 28:35**
 
-My labors and my hardships are upon Babylon, says one dwelling in Zion, and my blood upon those dwelling in Chaldea, says Jerusalem.
+My labors and my hardships are upon Babylon, says the one dwelling in Zion, and my blood upon those dwelling in Chaldea, says Jerusalem.
 
 **Jeremiah 28:36**
 
@@ -79562,15 +79562,15 @@ Therefore thus says the Lord: Behold, I judge your case and will avenge your ven
 
 **Jeremiah 28:37**
 
-And Babylon will become for disappearance and will not be inhabited.
+And Babylon will become a disappearance and will not be inhabited.
 
 **Jeremiah 28:38**
 
-Together they were roused like lions and like a lion-cubs.
+Together they were roused like lions and like lion cubs.
 
 **Jeremiah 28:39**
 
-In their heat I will give them drink and make them drunk so that they become numb and sleep eternal sleep and not wake up, says the Lord.
+In their heat I will give them drink and make them drunk so that they become numb and sleep an eternal sleep and certainly not wake up, says the Lord.
 
 **Jeremiah 28:40**
 
@@ -79578,27 +79578,27 @@ I will bring them down like lambs to slaughter and like rams with goats.
 
 **Jeremiah 28:41**
 
-How praise of all the earth was taken and trapped. How Babylon became for disappearance among nations.
+How the praise of all the earth was taken and hunted down. How Babylon became a disappearance among the nations.
 
 **Jeremiah 28:42**
 
-Sea rose over Babylon. With the sound of its waves she was covered.
+The sea rose over Babylon. With the sound of its waves she was covered.
 
 **Jeremiah 28:43**
 
-Her cities became waterless and impassable land. No one will dwell in her, and son of man will certainly not lodge in her.
+Her cities became a waterless and impassable land. No one will dwell in her, and no son of man will lodge in her.
 
 **Jeremiah 28:44**
 
-And I will punish upon Babylon and bring out what she swallowed from her mouth, and nations will no longer be gathered to her.
+And I will punish Babylon and bring out from her mouth what she swallowed, and nations will certainly no longer be gathered to her.
 
 **Jeremiah 28:49**
 
-And in Babylon slain ones of all the earth will fall.
+And in Babylon the slain ones of all the earth will fall.
 
 **Jeremiah 28:50**
 
-You saved ones from the land, go and do not stand still. You far-off ones, remember Lord, and let Jerusalem rise upon your heart.
+You who are being saved from the land, go and do not stand still. You far-off ones, remember the Lord, and let Jerusalem rise upon your heart.
 
 **Jeremiah 28:51**
 
@@ -79606,19 +79606,19 @@ We were ashamed because we heard our reproach. Dishonor covered our face. Foreig
 
 **Jeremiah 28:52**
 
-Therefore behold, days come, says the Lord, and I will punish her carved images, and in all her land slain ones will fall.
+Therefore behold, days are coming, says the Lord, and I will punish her carved images, and in all her land slain ones will fall.
 
 **Jeremiah 28:53**
 
-Because if Babylon goes up like heaven, and if she fortifies height of her strength, destroyers of her will come from me, says the Lord.
+Because if Babylon goes up like heaven, and if she fortifies the height of her strength, destroyers of her will come from me, says the Lord.
 
 **Jeremiah 28:54**
 
-The voice of cry in Babylon and great crushing in the land of Chaldeans.
+The voice of a cry in Babylon and great crushing in the land of the Chaldeans.
 
 **Jeremiah 28:55**
 
-Because the Lord destroyed Babylon and destroyed from her great voice sounding like many waters. He gave her voice for destruction.
+Because the Lord destroyed Babylon and destroyed from her the great voice sounding like many waters. He gave her voice for destruction.
 
 **Jeremiah 28:56**
 
@@ -79626,19 +79626,19 @@ Because affliction came upon Babylon. Her warriors were taken. Their bow was ter
 
 **Jeremiah 28:57**
 
-And he will make her rulers drunk with drunkenness and her wise men and her generals, says the King, the Lord Almighty his name.
+And he will make her rulers drunk with drunkenness and her wise men and her generals, says the King, the Lord Almighty is his name.
 
 **Jeremiah 28:58**
 
-Thus says the Lord: Wall of Babylon, broadened out, being dug down, will be torn down, and her high gates were burned with fire, and peoples will not labor for emptiness, and nations at their beginning will fail.
+Thus says the Lord: The wall of Babylon, broadened out, being dug down, will be torn down, and her high gates will be burned with fire, and peoples will not labor for emptiness, and nations at their beginning will fail.
 
 **Jeremiah 28:59**
 
-Word which the Lord commanded Jeremiah the prophet to tell Seraiah son of Neriah son of Maaseiah, when he went with Zedekiah king of Judah into Babylon in the fourth year of his reign, and Seraiah ruler of gifts.
+The word which the Lord commanded Jeremiah the prophet to tell Seraiah son of Neriah son of Maaseiah, when he went with Zedekiah king of Judah into Babylon in the fourth year of his reign, and Seraiah was ruler of gifts.
 
 **Jeremiah 28:60**
 
-And Jeremiah wrote in one scroll all evils which will come upon Babylon, all these words written against Babylon.
+And Jeremiah wrote in one scroll all the evils which will come upon Babylon, all these words written against Babylon.
 
 **Jeremiah 28:61**
 
@@ -79646,15 +79646,15 @@ And Jeremiah said to Seraiah, When you come into Babylon and see and read all th
 
 **Jeremiah 28:62**
 
-then you will say, Lord, Lord, you spoke against this place, to destroy it and for there not to be in it one dwelling, from man to cattle, because it will be disappearance forever.
+then you will say, Lord, Lord, you spoke against this place, to destroy it and for there not to be in it one dwelling, from man to cattle, because it will be a disappearance forever.
 
 **Jeremiah 28:63**
 
-And it will be when you finish reading this scroll, you will tie stone upon it and throw it into the midst of Euphrates,
+And it will be when you finish reading this scroll, you will tie a stone upon it and throw it into the midst of the Euphrates,
 
 **Jeremiah 28:64**
 
-and you will say, Thus Babylon will sink and will never rise from the face of evils which I bring upon her.
+and you will say, Thus Babylon will sink and will certainly not rise from the face of evils which I bring upon her.
 
 ### Chapter 29
 
@@ -79664,19 +79664,19 @@ Against the foreigners.
 
 **Jeremiah 29:2**
 
-Thus says the Lord: Behold, waters rise from north, and they will become flooding torrent and cover the land and its fullness, city and those dwelling in it, and men will cry out and all dwelling in the land will howl.
+Thus says the Lord: Behold, waters rise from the north, and they will become a flooding torrent and cover the land and its fullness, the city and those dwelling in it, and men will cry out and all those dwelling in the land will howl.
 
 **Jeremiah 29:3**
 
-From the sound of his rush, from weapons of his feet and from shaking of his chariots, the sound of his wheels, fathers did not turn back toward their sons from slackening of their hands.
+At the sound of his rush, at the hooves of his feet and at the shaking of his chariots, the sound of his wheels, fathers did not turn back toward their sons because of the slackening of their hands.
 
 **Jeremiah 29:4**
 
-In day coming to destroy all foreigners and to wipe out Tyre and Sidon and all remnant of their help, because the Lord will destroy remnant of the islands.
+In the day that is coming to destroy all the foreigners, and I will wipe out Tyre and Sidon and all the remnant of their help, because the Lord will destroy the remnant of the islands.
 
 **Jeremiah 29:5**
 
-Baldness came upon Gaza. Ashkelon was cast away, and remnant of Enakim. How long will you keep cutting yourself?
+Baldness has come upon Gaza. Ashkelon was cast away, and the remnant of Enakim. How long will you keep cutting yourself?
 
 **Jeremiah 29:6**
 
@@ -79690,15 +79690,15 @@ How will it rest? The Lord commanded it against Ashkelon and against the seacoas
 
 **Jeremiah 30:1**
 
-To Edom thus says the Lord: Is there no wisdom any longer in Teman? Counsel perished from prudent ones. Their wisdom went away.
+To Edom thus says the Lord: Is there no wisdom any longer in Teman? Counsel has perished from the prudent. Their wisdom went away.
 
 **Jeremiah 30:2**
 
-Their place was deceived. Go deep into sitting, you dwelling in Dedan, because I made hard things against him. I brought them on him in time when I visited him.
+Their place was deceived. Go deep into dwelling, you dwelling in Dedan, because I made hard things against him. I brought them on him in the time when I visited him.
 
 **Jeremiah 30:3**
 
-Because grape-gatherers came to you, they will not leave gleanings to you. Like thieves in night they will lay hand on them.
+Because grape-gatherers came to you, they will not leave gleanings to you. Like thieves in the night, they will lay their hand on them.
 
 **Jeremiah 30:4**
 
@@ -79710,15 +79710,15 @@ Leave your orphan behind so that he may live, and I will keep him alive, and wid
 
 **Jeremiah 30:6**
 
-Because thus said the Lord: Those for whom it was not law to drink cup drank, and you by acquitting will not be acquitted, because drinking you will drink.
+Because thus said the Lord: Those for whom it was not law to drink the cup drank, and you, by acquitting, will certainly not be acquitted, because drinking you will drink.
 
 **Jeremiah 30:7**
 
-Because by myself I swore, says the Lord, that you will become for trackless waste and for reproach and for curse in the midst of her, and all her cities will become deserts forever.
+Because by myself I swore, says the Lord, that you will become trackless waste and reproach and curse in the midst of her, and all her cities will become deserts forever.
 
 **Jeremiah 30:8**
 
-I heard report from the Lord, and he sent messengers to nations: Gather yourselves and come against her. Rise for war.
+I heard a report from the Lord, and he sent messengers to nations: Gather yourselves and come against her. Rise for war.
 
 **Jeremiah 30:9**
 
@@ -79726,23 +79726,23 @@ I made you small among nations, despised among men.
 
 **Jeremiah 30:10**
 
-Your plaything deceived you, insolence of your heart, destroying holes of rocks, seizing strength of high hill. Because he raised his nest like an eagle, from there I will bring you down.
+Your plaything deceived you, the insolence of your heart, dwelling in holes of rocks, holding strength of high hill. Because he raised his nest like an eagle, from there I will bring you down.
 
 **Jeremiah 30:11**
 
-And Edom will become for trackless waste. Everyone passing by her will hiss.
+And Edom will become trackless waste. Everyone passing by her will hiss.
 
 **Jeremiah 30:12**
 
-As Sodom and Gomorrah and their neighboring places were overthrown, says the Lord Almighty, so man will never sit there, and son of man will not dwell there.
+As Sodom and Gomorrah and their neighboring places were overthrown, says the Lord Almighty, so no man will sit there and no son of man will dwell there.
 
 **Jeremiah 30:13**
 
-Behold, like a lion he will go up from the midst of Jordan into Ethan place, because quickly I will drive them from her, and appoint young men over her. Because who is like me, and who will oppose me, and who is this shepherd who will stand before my face?
+Behold, like a lion he will go up from the midst of the Jordan into Ethan place, because quickly I will drive them from her, and appoint young men over her. Because who is like me, and who will oppose me, and who is this shepherd who will stand before my face?
 
 **Jeremiah 30:14**
 
-Therefore hear counsel of the Lord which he counseled against Edom and his thought which he thought against those dwelling in Teman: Unless least ones of flock are consumed, unless their resting-place is made desolate upon her.
+Therefore hear the counsel of the Lord which he counseled against Edom and his thought which he thought against those dwelling in Teman: Unless the least ones of the flock are consumed, unless their resting-place is made desolate upon her.
 
 **Jeremiah 30:15**
 
@@ -79750,23 +79750,23 @@ Because from the sound of their fall, earth was shaken, and your cry was heard i
 
 **Jeremiah 30:16**
 
-Behold, like an eagle he will appear and stretch his wings over her strongholds, and heart of mighty men of Edom in that day will be like heart of woman in labor.
+Behold, like an eagle he will appear and stretch his wings over her strongholds, and the heart of the mighty men of Edom in that day will be like the heart of a woman in labor.
 
 **Jeremiah 30:17**
 
-To the sons of Ammon thus said the Lord: Are there no sons in Israel, or is there no heir for them? Why did Melchom inherit Gad, and his people dwell in his cities?
+To the sons of Ammon thus said the Lord: Are there no sons in Israel, or is there no heir for them? Why did Milcom inherit Gad, and his people dwell in his cities?
 
 **Jeremiah 30:18**
 
-Therefore behold, days come, says the Lord, and I will sound in Rabbah tumults of wars, and they will become trackless waste and destruction, and her altars will be burned in fire, and Israel will inherit his beginning.
+Therefore behold, days are coming, says the Lord, and I will sound in Rabbah tumults of wars, and they will become trackless waste and destruction, and her altars will be burned with fire, and Israel will inherit his dominion.
 
 **Jeremiah 30:19**
 
-Howl, Heshbon, because Gai was destroyed. Cry out, daughters of Rabbah. Gird on sackcloth and mourn and cut yourselves for Melchom, because he will go in exile, his priests and his rulers together.
+Howl, Heshbon, because Ai was destroyed. Cry out, daughters of Rabbah. Gird on sackcloth and mourn and cut yourselves for Milcom, because he will go in exile, his priests and his rulers together.
 
 **Jeremiah 30:20**
 
-Why do you rejoice in plains, daughter of insolence, trusting in her treasures, saying, Who will enter against me?
+Why do you rejoice in the plains of Enakim, daughter of insolence, trusting in her treasures, saying, Who will enter against me?
 
 **Jeremiah 30:21**
 
@@ -79778,27 +79778,27 @@ To Kedar, royal court, which Nebuchadnezzar king of Babylon struck, thus said th
 
 **Jeremiah 30:24**
 
-They will take their tents and their sheep, their garments and all their vessels, and their camels they will take for themselves, and call destruction around upon them.
+They will take their tents and their sheep, their garments and all their vessels, and their camels they will take for themselves, and call destruction all around upon them.
 
 **Jeremiah 30:25**
 
-Flee greatly. Go deep into sitting, you sitting in court, because the king of Babylon planned a plan against you and devised a thought against you.
+Flee greatly. Go deep into dwelling, you dwelling in the court, because the king of Babylon planned a plan against you and devised a thought against you.
 
 **Jeremiah 30:26**
 
-Rise and go up against nation at ease, dwelling in refreshment, for whom there are no doors, no bars, no bolts. They dwell alone.
+Rise and go up against a nation at ease, dwelling in refreshment, for whom there are no doors, no bars, no bolts. They dwell alone.
 
 **Jeremiah 30:27**
 
-And their camels will become for plunder and multitude of their cattle for destruction, and I will winnow them to every wind, clipped around the face, and from every side I will bring their downfall, says the Lord.
+And their camels will become plunder and the multitude of their cattle destruction, and I will winnow them to every wind, those clipped around the face, and from every side I will bring their downfall, says the Lord.
 
 **Jeremiah 30:28**
 
-And the court will become dwelling-place of sparrows and trackless waste forever. Man will not sit there, and son of man will not dwell there.
+And the court will become a dwelling-place of sparrows and trackless waste forever. No man will sit there, and no son of man will dwell there.
 
 **Jeremiah 30:29**
 
-To Damascus: Hamath and Arpad were put to shame, because they heard evil report. They were confounded and troubled, and are not able to rest.
+To Damascus: Hamath and Arpad were put to shame, because they heard an evil report. They were confounded and troubled, and they certainly are not able to rest.
 
 **Jeremiah 30:30**
 
@@ -79806,29 +79806,29 @@ Damascus melted away. She turned to flight. Terror seized her.
 
 **Jeremiah 30:31**
 
-How was my city not abandoned, town they loved?
+How was my city not abandoned, the town they loved?
 
 **Jeremiah 30:32**
 
-Therefore your young men will fall in your squares, and all your war-men will fall, says the Lord.
+Therefore your young men will fall in your squares, and all your men of war will fall, says the Lord.
 
 **Jeremiah 30:33**
 
-And I will kindle fire in the wall of Damascus, and it will devour streets of son of Hader.
+And I will kindle fire in the wall of Damascus, and it will devour streets of Ben-Hadad.
 
 ### Chapter 31
 
 **Jeremiah 31:1**
 
-To Moab thus said the Lord: Woe to Nebo, because it was destroyed. Kirjathaim was taken. Amath was put to shame and defeated.
+To Moab thus said the Lord: Woe to Nebo, because it was destroyed. Kiriathaim was taken. Amath was put to shame and defeated.
 
 **Jeremiah 31:2**
 
-There is no longer healing for Moab, boasting in Heshbon. They planned evils against her: We cut her off from nation. Stop, a stopping-place. Behind you sword will go.
+There is no longer healing for Moab, nor boasting in Heshbon. They planned evils against her: We cut her off from a nation. Stop, a stopping-place. Behind you the sword will go.
 
 **Jeremiah 31:3**
 
-Because the voice of criers from Horonaim, destruction and great crushing.
+Because the voice of criers from Horonaim: destruction and great crushing.
 
 **Jeremiah 31:4**
 
@@ -79836,11 +79836,11 @@ Moab was crushed. Announce it in Zoar.
 
 **Jeremiah 31:5**
 
-Because on the ascent of Alauth one will go up with weeping, weeping. On the road of Horonaim they heard cry of crushing.
+Because on the ascent of Aloth one will go up with weeping, weeping. On the road of Horonaim they heard a cry of crushing.
 
 **Jeremiah 31:6**
 
-Flee and save your souls, and you will be like wild donkey in desert.
+Flee and save your souls, and you will be like a wild donkey in the desert.
 
 **Jeremiah 31:7**
 
@@ -79848,23 +79848,23 @@ Because you trusted in your strongholds, you too will be taken, and Chemosh will
 
 **Jeremiah 31:8**
 
-And destroyer will come upon every city, and city will not be saved, and valley will perish and plain will be destroyed, just as the Lord said.
+And destruction will come upon every city, and no city will be saved, and the valley will perish and the plain will be destroyed, just as the Lord said.
 
 **Jeremiah 31:9**
 
-Give signs to Moab, because in flight she will fly out, and all her cities will become for trackless waste. From where will there be one dwelling in her?
+Give signs to Moab, because in flight she will fly out, and all her cities will become trackless waste. From where will there be one dwelling in her?
 
 **Jeremiah 31:10**
 
-Cursed one doing works of the Lord negligently, withholding his sword from blood.
+Cursed is the one doing the works of the Lord negligently, withholding his sword from blood.
 
 **Jeremiah 31:11**
 
-Moab was at rest from childhood and was confident on his glory. He was not poured from vessel into vessel, and into exile he did not go. Because of this his taste stood in him and his smell did not leave.
+Moab was at rest from childhood and was confident in his glory. He was not poured from vessel to vessel, and into exile he did not go. Because of this his taste stood in him and his smell did not leave.
 
 **Jeremiah 31:12**
 
-Therefore behold, days come, says the Lord, and I will send him tippers, and they will tip him, and they will thin his vessels and break his horns.
+Therefore behold, days are coming, says the Lord, and I will send him tippers, and they will tip him, and they will thin his vessels and break his horns.
 
 **Jeremiah 31:13**
 
@@ -79872,7 +79872,7 @@ And Moab will be ashamed of Chemosh, just as the house of Israel was ashamed of 
 
 **Jeremiah 31:14**
 
-How will you say, We are strong and mighty man for wars?
+How will you say, We are strong and mighty men for wars?
 
 **Jeremiah 31:15**
 
@@ -79880,19 +79880,19 @@ Moab was destroyed, his city, and his chosen young men went down to slaughter.
 
 **Jeremiah 31:16**
 
-Near is the day of Moab to come, and his evil very swift.
+Near is the day of Moab to come, and his evil is very swift.
 
 **Jeremiah 31:17**
 
-Shake for him, all around him, all knowing his name. Say, How glorious staff was broken, rod of greatness.
+Shake for him, all around him, all knowing his name. Say, How the glorious staff was broken, the rod of greatness.
 
 **Jeremiah 31:18**
 
-Come down from glory and sit in dampness, you dwelling in Dibon, worn out, because destroyer of Moab came up against you. He destroyed your stronghold.
+Come down from glory and sit in dampness, you dwelling in Dibon, worn out, because the destroyer of Moab came up against you. He destroyed your stronghold.
 
 **Jeremiah 31:19**
 
-Stand by road and watch, you dwelling in Aroer, and ask one fleeing and being saved, and say, What happened?
+Stand by the road and watch, you dwelling in Aroer, and ask the one fleeing and being saved, and say, What happened?
 
 **Jeremiah 31:20**
 
@@ -79900,7 +79900,7 @@ Moab was put to shame because he was broken. Howl and cry. Announce in Arnon tha
 
 **Jeremiah 31:21**
 
-And judgment comes upon the land of Mishor, upon Helon and upon Iassa and upon Mephaath,
+And judgment comes upon the land of Mishor, upon Holon and upon Jahazah and upon Mephaath,
 
 **Jeremiah 31:22**
 
@@ -79908,23 +79908,23 @@ and upon Dibon and Nebo and upon Beth-diblathaim,
 
 **Jeremiah 31:23**
 
-and upon Kirjathaim and upon the house of Beth-gamul and upon the house of Maon,
+and upon Kiriathaim and upon Beth-gamul and upon Beth-meon,
 
 **Jeremiah 31:24**
 
-and upon Kerioth and upon Besor and upon all cities of Moab, far and near.
+and upon Kerioth and upon Bozrah and upon all cities of Moab, far and near.
 
 **Jeremiah 31:25**
 
-Horn of Moab was broken, and his arm was shattered.
+The horn of Moab was broken, and his arm was shattered.
 
 **Jeremiah 31:26**
 
-Make him drunk, because he magnified himself against the Lord, and Moab will clap with his hand, and he too will become for laughter.
+Make him drunk, because he magnified himself against the Lord, and Moab will clap with his hand, and he too will become a laughingstock.
 
 **Jeremiah 31:27**
 
-And if Israel was not for mockery to you, was he found in your thefts, because you were fighting against him?
+And if Israel was not for mockery to you, was he found among your thefts, because you were fighting against him?
 
 **Jeremiah 31:28**
 
@@ -79932,11 +79932,11 @@ They left the cities and dwelt in rocks, those dwelling in Moab. They became lik
 
 **Jeremiah 31:29**
 
-I heard pride of Moab. He was very proud, his insult and his arrogance, and his heart was raised high.
+I heard the pride of Moab. He was very proud, his insult and his arrogance, and his heart was raised high.
 
 **Jeremiah 31:30**
 
-But I knew his works, not enough for him. Not so he did.
+But I knew his works. Was it not enough for him? Did he not do thus?
 
 **Jeremiah 31:31**
 
@@ -79944,7 +79944,7 @@ Therefore over Moab howl everywhere. Cry over the men of Kir-heres of drought.
 
 **Jeremiah 31:32**
 
-Like weeping of Jaazer I will weep for you, vine of Sebema. Your branches passed through sea. They touched Jaazer. Destroyer fell upon your fruit and upon your vintage.
+Like the weeping of Jazer I will weep for you, vine of Sibmah. Your branches passed through the sea. They touched Jazer. Destruction fell upon your fruit and upon your vintage.
 
 **Jeremiah 31:33**
 
@@ -79952,19 +79952,19 @@ Joy and gladness were utterly swept from the land of Moab, and though wine was i
 
 **Jeremiah 31:34**
 
-From cry of Heshbon as far as Elealeh their cities gave their voice, from Zoar as far as Horonaim and Aglath-salisia, because waters of Nimrim will become for burning.
+From the cry of Heshbon as far as Elealeh their cities gave their voice, from Zoar as far as Horonaim and Aglath-salisia, because the waters of Nimrim will become a burning.
 
 **Jeremiah 31:35**
 
-And I will destroy from Moab, says the Lord, one going up upon the altar and burning incense to his gods.
+And I will destroy from Moab, says the Lord, the one going up upon the altar and burning incense to his gods.
 
 **Jeremiah 31:36**
 
-Therefore my heart for Moab will sound like flutes, and my heart over the men of Kir-heres will sound like flute, because what he prepared perished from man.
+Therefore my heart for Moab will sound like flutes, and my heart over the men of Kir-heres will sound like a flute, because what he prepared perished from man.
 
 **Jeremiah 31:37**
 
-Every head in every place will be shaved, and every beard will be shaved, and all hands will be cut, and upon every waist sackcloth.
+Every head in every place will be shaved, and every beard will be shaved, and all hands will beat, and upon every waist will be sackcloth.
 
 **Jeremiah 31:38**
 
@@ -79972,27 +79972,27 @@ And upon all roofs of Moab and in her squares, because I shattered Moab, says th
 
 **Jeremiah 31:39**
 
-How it changed. How Moab turned back. He was ashamed and became for laughter and vexation to all around him.
+How he changed! How Moab turned his back! He was ashamed and became a laughingstock and a vexation to all around him.
 
 **Jeremiah 31:40**
 
-Because thus said the Lord,
+Because thus said the Lord:
 
 **Jeremiah 31:41**
 
-Akkarioth was taken and strongholds were seized.
+Kerioth was taken and strongholds were seized.
 
 **Jeremiah 31:42**
 
-And Moab will perish from multitude, because against the Lord he magnified himself.
+And Moab will perish from being a multitude, because against the Lord he magnified himself.
 
 **Jeremiah 31:43**
 
-Snare and fear and pit are upon you, one dwelling in Moab.
+A snare and fear and pit are upon you, one dwelling in Moab.
 
 **Jeremiah 31:44**
 
-One fleeing from the face of fear will fall into pit, and one coming up from pit will be caught in snare, because I will bring these things upon Moab in the year of her visitation.
+One fleeing from the face of fear will fall into the pit, and one coming up from the pit will be caught in the snare, because I will bring these things upon Moab in the year of her visitation.
 
 ### Chapter 32
 
@@ -80002,7 +80002,7 @@ What Jeremiah prophesied against all nations.
 
 **Jeremiah 32:15**
 
-Thus said the Lord God of Israel: Take this cup of unmixed wine from my hand, and you will make all nations drink, to whom I send you to them.
+Thus said the Lord God of Israel: Take this cup of unmixed wine from my hand, and you will make all nations drink, to whom I send you.
 
 **Jeremiah 32:16**
 
@@ -80010,11 +80010,11 @@ And they will drink and vomit and go mad from the face of the sword which I send
 
 **Jeremiah 32:17**
 
-And I took cup from the hand of the Lord and made nations drink, to whom the Lord sent me against them:
+And I took the cup from the hand of the Lord and made the nations drink, to whom the Lord sent me against them:
 
 **Jeremiah 32:18**
 
-Jerusalem and cities of Judah and kings of Judah and his rulers, to set them for desolation and for trackless waste and for hissing,
+Jerusalem and the cities of Judah and kings of Judah and its rulers, to set them for desolation and for trackless waste and for hissing,
 
 **Jeremiah 32:19**
 
@@ -80022,15 +80022,15 @@ and Pharaoh king of Egypt and his servants and his nobles and all his people,
 
 **Jeremiah 32:20**
 
-and all his mixed peoples and all kings of foreigners, Ashkelon and Gaza and Ekron and remnant of Ashdod,
+and all his mixed peoples and all kings of the Philistines: Ashkelon and Gaza and Ekron and the remnant of Ashdod,
 
 **Jeremiah 32:21**
 
-and Edom and Moab and sons of Ammon,
+and Edom and Moab and the sons of Ammon,
 
 **Jeremiah 32:22**
 
-and all kings of Tyre and kings of Sidon and kings beyond sea,
+and all kings of Tyre and kings of Sidon and kings beyond the sea,
 
 **Jeremiah 32:23**
 
@@ -80042,11 +80042,11 @@ and all mixed peoples dwelling in the wilderness,
 
 **Jeremiah 32:25**
 
-and all kings of Elam and all kings of Persians,
+and all kings of Elam and all kings of the Persians,
 
 **Jeremiah 32:26**
 
-and all kings from east, far and near, each toward his brother, and all kingdoms upon the face of the earth.
+and all kings from the east, far and near, each toward his brother, and all kingdoms upon the face of the earth.
 
 **Jeremiah 32:27**
 
@@ -80054,19 +80054,19 @@ And you will say to them, Thus said the Lord Almighty: Drink and get drunk and v
 
 **Jeremiah 32:28**
 
-And it will be, when they do not want to receive cup from your hand to drink, then you will say, Thus said the Lord: Drinking you will drink.
+And it will be, when they do not want to receive the cup from your hand to drink, then you will say, Thus said the Lord: Drinking you will drink.
 
 **Jeremiah 32:29**
 
-Because in the city upon which my name was called, I begin to do evil, and by cleansing you will not be cleansed, because I call sword upon those dwelling on earth.
+Because in the city upon which my name was called, I begin to do evil, and you will certainly not be cleansed, because I call a sword upon those dwelling on the earth.
 
 **Jeremiah 32:30**
 
-And you will prophesy against them these words and say: The Lord from on high will answer, and from his holy place will give his voice. Word he will answer against his place, and shouting like grape-treaders they will answer against those dwelling on earth.
+And you will prophesy against them these words and say: The Lord from on high will utter, and from his holy place he will give his voice. He will utter a word against his place, and shouting like grape-treaders, they will answer against those dwelling on the earth.
 
 **Jeremiah 32:31**
 
-Destruction comes upon part of earth, because judgment belongs to the Lord among nations. He himself is judged toward all flesh, but ungodly were given to sword, says the Lord.
+Destruction comes upon a part of the earth, because judgment belongs to the Lord among the nations. He himself enters judgment with all flesh, but the ungodly were given to the sword, says the Lord.
 
 **Jeremiah 32:32**
 
@@ -80074,19 +80074,19 @@ Thus said the Lord: Behold, evils come from nation upon nation, and great storm 
 
 **Jeremiah 32:33**
 
-And slain by the Lord in the day of the Lord will be from one end of the earth even to other end of the earth. They will never be buried. They will be like dung upon the face of the earth.
+And slain by the Lord in the day of the Lord will be from one end of the earth even to the other end of the earth. They will never be buried. They will be like dung upon the face of the earth.
 
 **Jeremiah 32:34**
 
-Howl, shepherds, and cry out, and cut yourselves, rams of sheep, because your days were filled up for slaughter, and you will fall like choice rams.
+Howl, shepherds, and cry out, and beat yourselves, rams of the sheep, because your days were filled up for slaughter, and you will fall like choice rams.
 
 **Jeremiah 32:35**
 
-And flight will perish from shepherds and salvation from rams of sheep.
+And flight will perish from shepherds and salvation from rams of the sheep.
 
 **Jeremiah 32:36**
 
-The voice of cry of shepherds and howl of sheep and rams, because the Lord destroyed their pastures.
+A voice of the cry of shepherds and a howl of sheep and rams, because the Lord destroyed their pastures.
 
 **Jeremiah 32:37**
 
@@ -80104,35 +80104,35 @@ At the beginning of King Jehoiakim son of Josiah this word came from the Lord.
 
 **Jeremiah 33:2**
 
-Thus said the Lord: Stand in the court of the house of the Lord and answer all Judeans and all coming to worship in the house of the Lord all words which I ordered you to answer them. Do not leave out word.
+Thus said the Lord: Stand in the court of the house of the Lord and declare to all Judeans and to all those coming to worship in the house of the Lord all the words which I ordered you to declare to them. Do not leave out a word.
 
 **Jeremiah 33:3**
 
-Perhaps they will hear and each turn from his evil way, and I will stop from evils which I plan to do to them because of their evil practices.
+Perhaps they will hear and each turn from his evil way, and I will relent from the evils which I plan to do to them because of their evil practices.
 
 **Jeremiah 33:4**
 
-And you will say, Thus said the Lord: If you do not hear me, to walk in my statutes which I gave before your face,
+And you will say, Thus said the Lord: If you do not listen to me, to walk in my statutes which I gave before your face,
 
 **Jeremiah 33:5**
 
-to listen to the words of my servants the prophets whom I send to you early, and I sent, and you did not hear me,
+to listen to the words of my servants the prophets whom I send to you early, and I sent, and you did not listen to me,
 
 **Jeremiah 33:6**
 
-then I will give this house like Shiloh, and this city I will give for curse to all nations of all the earth.
+then I will make this house like Shiloh, and this city I will give for a curse to all nations of all the earth.
 
 **Jeremiah 33:7**
 
-And priests and false prophets and all the people heard Jeremiah speaking these words in the house of the Lord.
+And the priests and the false prophets and all the people heard Jeremiah speaking these words in the house of the Lord.
 
 **Jeremiah 33:8**
 
-And it happened when Jeremiah ceased speaking all that the Lord ordered him to speak to all the people, priests and false prophets and all the people seized him, saying, Death you will die.
+And it happened when Jeremiah ceased speaking all that the Lord ordered him to speak to all the people, the priests and the false prophets and all the people seized him, saying, You will surely die.
 
 **Jeremiah 33:9**
 
-Because you prophesied in the name of the Lord, saying, Like Shiloh this house will be, and this city will be made desolate from dwellers. And all the people were gathered against Jeremiah in the house of the Lord.
+Because you prophesied in the name of the Lord, saying, Like Shiloh this house will be, and this city will be made desolate, without dwellers. And all the people were gathered against Jeremiah in the house of the Lord.
 
 **Jeremiah 33:10**
 
@@ -80140,27 +80140,27 @@ And the rulers of Judah heard this word and went up from the house of the king i
 
 **Jeremiah 33:11**
 
-And priests and false prophets said to rulers and to all the people, Judgment of death to this man, because he prophesied against this city as you heard in your ears.
+And the priests and the false prophets said to the rulers and to all the people, A judgment of death for this man, because he prophesied against this city as you heard in your ears.
 
 **Jeremiah 33:12**
 
-And Jeremiah said to rulers and to all the people, saying, the Lord sent me to prophesy against this house and against this city all these words which you heard.
+And Jeremiah said to the rulers and to all the people, saying, The Lord sent me to prophesy against this house and against this city all these words which you heard.
 
 **Jeremiah 33:13**
 
-And now make your ways and your works better and hear the voice of the Lord, and the Lord will stop from evils which he spoke against you.
+And now make your ways and your works better and hear the voice of the Lord, and the Lord will relent from the evils which he spoke against you.
 
 **Jeremiah 33:14**
 
-And behold, I am in your hands. Do to me as helps and as seems better to you.
+And behold, I am in your hands. Do to me as is beneficial and as seems better to you.
 
 **Jeremiah 33:15**
 
-Only knowing you will know that if you kill me, you place innocent blood upon yourselves and upon this city and upon those dwelling in it, because in truth the Lord sent me to you to speak all these words into your ears.
+Only know for certain that if you kill me, you place innocent blood upon yourselves and upon this city and upon those dwelling in it, because in truth the Lord sent me to you to speak all these words in your ears.
 
 **Jeremiah 33:16**
 
-And rulers and all the people said to priests and to false prophets, There is no judgment of death for this man, because in the name of the Lord our God he spoke to us.
+And the rulers and all the people said to the priests and to the false prophets, There is no judgment of death for this man, because in the name of the Lord our God he spoke to us.
 
 **Jeremiah 33:17**
 
@@ -80168,19 +80168,19 @@ And men from the elders of the land stood up and said to all the assembly of the
 
 **Jeremiah 33:18**
 
-Micah the Morasthite was in the days of Hezekiah king of Judah and said to all the people of Judah, Thus said the Lord: Zion will be plowed like a field and Jerusalem will be for trackless waste and mountain of the house for grove of the forest.
+Micah the Morasthite was in the days of Hezekiah king of Judah and said to all the people of Judah, Thus said the Lord: Zion will be plowed like a field, and Jerusalem will become trackless waste, and the mountain of the house will become a grove of the forest.
 
 **Jeremiah 33:19**
 
-Did Hezekiah and all Judah kill him by killing? Was it not because they feared Lord and sought the face of the Lord, and the Lord stopped from evils which he spoke against them? And we have done great evils against our souls.
+Did Hezekiah and all Judah truly kill him? Was it not because they feared the Lord and sought the face of the Lord, and the Lord relented from the evils which he spoke against them? And we have done great evils against our souls.
 
 **Jeremiah 33:20**
 
-And there was man prophesying in the name of the Lord, Uriah son of Shemaiah from Kirjathjearim, and he prophesied concerning this land according to all words of Jeremiah.
+And there was a man prophesying in the name of the Lord, Uriah son of Shemaiah from Kiriath-jearim, and he prophesied concerning this land according to all the words of Jeremiah.
 
 **Jeremiah 33:21**
 
-And King Jehoiakim and all rulers heard all his words, and they sought to kill him, and Uriah heard and entered Egypt.
+And King Jehoiakim and all the rulers heard all his words, and they sought to kill him, and Uriah heard and entered Egypt.
 
 **Jeremiah 33:22**
 
@@ -80188,11 +80188,11 @@ And the king sent men into Egypt,
 
 **Jeremiah 33:23**
 
-and they brought him out from there and led him to the king, and he struck him with sword and threw him into tomb of sons of his people.
+and they brought him out from there and led him to the king, and he struck him with the sword and threw him into the tomb of the sons of his people.
 
 **Jeremiah 33:24**
 
-But the hand of Ahikam son of Shaphan was with Jeremiah, so as not to hand him into the hands of the people, so that they not kill him.
+But the hand of Ahikam son of Shaphan was with Jeremiah, so as not to hand him into the hands of the people, so they would not kill him.
 
 ### Chapter 34
 
@@ -80202,27 +80202,27 @@ Thus said the Lord: Make bonds and yokes and put them around your neck.
 
 **Jeremiah 34:3**
 
-And you will send them to the king of Edom and to the king of Moab and to the king of sons of Ammon and to the king of Tyre and to the king of Sidon by the hand of their messengers coming to meet them in Jerusalem to Zedekiah king of Judah.
+And you will send them to the king of Edom and to the king of Moab and to the king of the sons of Ammon and to the king of Tyre and to the king of Sidon by the hand of their messengers who come to meet Zedekiah king of Judah in Jerusalem.
 
 **Jeremiah 34:4**
 
-And you will command them for their lords, saying, Thus said the Lord God of Israel. Thus you will say to your lords:
+And you will command them to say to their lords, Thus said the Lord God of Israel. Thus you will say to your lords:
 
 **Jeremiah 34:5**
 
-I made earth in my great strength and in my high arm, and I will give it to whomever seems right in my eyes.
+I made the earth in my great strength and in my high arm, and I will give it to whomever seems right in my eyes.
 
 **Jeremiah 34:6**
 
-I gave land to Nebuchadnezzar king of Babylon, to serve him, and beasts of the field to work for him.
+I gave the land to Nebuchadnezzar king of Babylon, to serve him, and the beasts of the field to work for him.
 
 **Jeremiah 34:8**
 
-And nation and kingdom, as many as do not put their neck under the yoke of the king of Babylon, with sword and famine I will visit them, said the Lord, until they fail by his hand.
+And the nation and the kingdom, as many as do not put their neck under the yoke of the king of Babylon, with sword and famine I will visit them, said the Lord, until they fail by his hand.
 
 **Jeremiah 34:9**
 
-And do not hear your false prophets and those divining to you and those dreaming to you and your omen-readings and your sorceries, those saying, You will not serve king of Babylon.
+And do not listen to your false prophets and those divining to you and those dreaming to you and your omens and your sorceries, those saying, You will not serve the king of Babylon.
 
 **Jeremiah 34:10**
 
@@ -80230,65 +80230,65 @@ Because they prophesy lies to you, to remove you far from your land.
 
 **Jeremiah 34:11**
 
-And nation which puts its neck under the yoke of the king of Babylon and serves him, I will leave upon its land, and it will work it and dwell in it.
+And the nation that puts its neck under the yoke of the king of Babylon and serves him, I will leave upon its land, and it will work for him and dwell in it.
 
 **Jeremiah 34:12**
 
-And to Zedekiah king of Judah I spoke according to all these words, saying, Bring in your neck,
+And to Zedekiah king of Judah I spoke according to all these words, saying, Submit your neck,
 
 **Jeremiah 34:14**
 
-and serve king of Babylon, because they prophesy unjust things to you.
+and serve the king of Babylon, because they prophesy unjust things to you.
 
 **Jeremiah 34:15**
 
-Because I did not send them, says the Lord, and they prophesy in my name for injustice, to destroy you, and you will perish, you and your prophets prophesying lies to you for injustice.
+Because I did not send them, says the Lord, and they prophesy in my name unjustly, to destroy you, and you will perish, you and your prophets who prophesy lies to you unjustly.
 
 **Jeremiah 34:16**
 
-To you and to all this people and to priests I spoke, saying, Thus said the Lord: Do not hear the words of prophets prophesying to you, saying, Behold, vessels of the house of the Lord will return from Babylon, because they prophesy unjust things to you. I did not send them.
+To you and to all this people and to the priests I spoke, saying, Thus said the Lord: Do not listen to the words of the prophets prophesying to you, saying, Behold, the vessels of the house of the Lord will return from Babylon, because they prophesy unjust things to you. I did not send them.
 
 **Jeremiah 34:18**
 
-If they are prophets and if the word of the Lord is in them, let them answer me.
+If they are prophets and if the word of the Lord is in them, let them meet me.
 
 **Jeremiah 34:19**
 
-Because thus said the Lord, even concerning remaining vessels
+Because thus said the Lord, even concerning the remaining vessels
 
 **Jeremiah 34:20**
 
-which king of Babylon did not take when he carried away Jeconiah from Jerusalem,
+which the king of Babylon did not take when he carried away Jeconiah from Jerusalem,
 
 **Jeremiah 34:22**
 
-into Babylon it will enter, says the Lord.
+into Babylon they will enter, says the Lord.
 
 ### Chapter 35
 
 **Jeremiah 35:1**
 
-And it happened in the fourth year of Zedekiah king of Judah, in the fifth month, Hananiah son of Azor, the false prophet from Gibeon, said to me in the house of the Lord before the eyes of priests and all the people, saying,
+And it happened in the fourth year of Zedekiah king of Judah, in the fifth month, Hananiah son of Azor, the false prophet from Gibeon, said to me in the house of the Lord before the eyes of the priests and all the people, saying,
 
 **Jeremiah 35:2**
 
-Thus said the Lord: I have broken yoke of the king of Babylon.
+Thus said the Lord: I have broken the yoke of the king of Babylon.
 
 **Jeremiah 35:3**
 
-Still two years of days, and I will restore into this place vessels of the house of the Lord,
+Still two full years, and I will restore into this place the vessels of the house of the Lord,
 
 **Jeremiah 35:4**
 
-and Jeconiah and exile of Judah, because I will break yoke of the king of Babylon.
+and Jeconiah and the exile of Judah, because I will break the yoke of the king of Babylon.
 
 **Jeremiah 35:5**
 
-And Jeremiah said to Hananiah before the eyes of all the people and before the eyes of priests standing in the house of the Lord,
+And Jeremiah said to Hananiah before the eyes of all the people and before the eyes of the priests standing in the house of the Lord,
 
 **Jeremiah 35:6**
 
-and Jeremiah said, Truly, may the Lord do so. May the Lord establish your word which you prophesy, to return vessels of the house of the Lord and all exile from Babylon into this place.
+and Jeremiah said, Truly, may the Lord do so. May the Lord establish your word which you prophesy, to return the vessels of the house of the Lord and all the exile from Babylon into this place.
 
 **Jeremiah 35:7**
 
@@ -80296,23 +80296,23 @@ Only hear the word of the Lord which I speak into your ears and into the ears of
 
 **Jeremiah 35:8**
 
-Prophets who were before me and before you from ancient time prophesied against much land and against great kingdoms for war.
+The prophets who were before me and before you from ancient time prophesied against much land and against great kingdoms concerning war.
 
 **Jeremiah 35:9**
 
-Prophet prophesying for peace, when his word comes, they will know prophet whom the Lord sent in faithfulness.
+The prophet prophesying for peace, when his word comes, they will know the prophet whom the Lord sent in faithfulness.
 
 **Jeremiah 35:10**
 
-And Hananiah took before the eyes of all the people the yokes from Jeremiah’s neck and broke them.
+And Hananiah took before the eyes of all the people the yokes from Jeremiah's neck and broke them.
 
 **Jeremiah 35:11**
 
-And Hananiah said before the eyes of all the people, saying, Thus said the Lord: Thus I will break yoke of the king of Babylon from necks of all nations. And Jeremiah went on his way.
+And Hananiah said before the eyes of all the people, saying, Thus said the Lord: Thus I will break the yoke of the king of Babylon from the necks of all nations. And Jeremiah went on his way.
 
 **Jeremiah 35:12**
 
-And the word of the Lord came to Jeremiah after Hananiah broke yokes from his neck, saying,
+And the word of the Lord came to Jeremiah after Hananiah broke the yokes from his neck, saying,
 
 **Jeremiah 35:13**
 
@@ -80320,11 +80320,11 @@ Go and say to Hananiah, Thus said the Lord: You broke wooden yokes, and I will m
 
 **Jeremiah 35:14**
 
-Because thus said the Lord: I have set iron yoke upon neck of all nations, to serve king of Babylon.
+Because thus said the Lord: I have set an iron yoke upon the neck of all nations, to serve the king of Babylon.
 
 **Jeremiah 35:15**
 
-And Jeremiah said to Hananiah, the Lord did not send you, and you made this people trust upon unjust thing.
+And Jeremiah said to Hananiah, The Lord did not send you, and you made this people trust in an unjust thing.
 
 **Jeremiah 35:16**
 
@@ -80332,17 +80332,17 @@ Therefore thus said the Lord: Behold, I send you away from the face of the earth
 
 **Jeremiah 35:17**
 
-And he died in seventh month.
+And he died in the seventh month.
 
 ### Chapter 36
 
 **Jeremiah 36:1**
 
-And these are words of scroll which Jeremiah sent from Jerusalem to the elders of exile and to priests and to false prophets, letter into Babylon to exile and to all the people,
+And these are the words of the scroll which Jeremiah sent from Jerusalem to the elders of exile and to the priests and to the false prophets, a letter into Babylon to the exile and to all the people,
 
 **Jeremiah 36:2**
 
-after Jeconiah the king and queen and eunuchs and every freeman and prisoner and craftsman went out from Jerusalem,
+after Jeconiah the king and the queen and the eunuchs and every freeman and prisoner and craftsman went out from Jerusalem,
 
 **Jeremiah 36:3**
 
@@ -80350,7 +80350,7 @@ by the hand of Eleasah son of Shaphan and Gemariah son of Hilkiah, whom Zedekiah
 
 **Jeremiah 36:4**
 
-Thus said the Lord God of Israel concerning exile which I exiled from Jerusalem:
+Thus said the Lord God of Israel concerning the exile which I exiled from Jerusalem:
 
 **Jeremiah 36:5**
 
@@ -80362,23 +80362,23 @@ And take wives and beget sons and daughters, and take wives for your sons and gi
 
 **Jeremiah 36:7**
 
-And seek peace of land into which I exiled you there, and pray concerning them to the Lord, because in its peace there will be peace for you.
+And seek the peace of the land into which I exiled you there, and pray concerning it to the Lord, because in its peace there will be peace for you.
 
 **Jeremiah 36:8**
 
-Because thus said the Lord: Let not false prophets among you persuade you, and let not your diviners persuade you, and do not listen to your dreams which you yourselves dream,
+Because thus said the Lord: Do not let the false prophets among you persuade you, and do not let your diviners persuade you, and do not listen to your dreams which you yourselves dream,
 
 **Jeremiah 36:9**
 
-because they prophesy unjust things to you in my name, and I did not send them.
+because they prophesy unjustly to you in my name, and I did not send them.
 
 **Jeremiah 36:10**
 
-Because thus said the Lord: When Babylon is about to complete seventy years, I will visit you and establish my words upon you, to restore this people into this place.
+Because thus said the Lord: When seventy years are about to be completed for Babylon, I will visit you and establish my words upon you, to restore your people into this place.
 
 **Jeremiah 36:11**
 
-And I think upon you thought of peace and not evils, to give you these things.
+And I plan for you a plan of peace and not evils, to give you these things.
 
 **Jeremiah 36:12**
 
@@ -80394,7 +80394,7 @@ And I will appear to you.
 
 **Jeremiah 36:15**
 
-Because you said, the Lord appointed prophets for us in Babylon.
+Because you said, The Lord appointed prophets for us in Babylon.
 
 **Jeremiah 36:21**
 
@@ -80402,11 +80402,11 @@ Thus said the Lord concerning Ahab and concerning Zedekiah: Behold, I give them 
 
 **Jeremiah 36:22**
 
-And from them they will take curse in all exile of Judah in Babylon, saying, May Lord make you like Zedekiah and like Ahab, whom king of Babylon roasted in fire,
+And from them they will take a curse in all the exile of Judah in Babylon, saying, May the Lord make you like Zedekiah and like Ahab, whom the king of Babylon roasted in fire,
 
 **Jeremiah 36:23**
 
-because they did lawlessness in Israel and committed adultery with wives of their fellow citizens and spoke word in my name which I did not command them, and I am witness, says the Lord.
+because they did lawlessness in Israel and committed adultery with the wives of their fellow citizens and spoke a word in my name which I did not command them, and I am witness, says the Lord.
 
 **Jeremiah 36:24**
 
@@ -80414,11 +80414,11 @@ And to Shemaiah the Nehelamite you will say,
 
 **Jeremiah 36:25**
 
-I did not send you in my name, and to Zephaniah son of Maaseiah the priest he said,
+I did not send you in my name. And to Zephaniah son of Maaseiah the priest he said,
 
 **Jeremiah 36:26**
 
-The Lord gave you priest in place of Joiada the priest, to become overseer in the house of the Lord over every man prophesying and every madman, and you will put him into confinement and into stocks.
+The Lord made you priest in place of Joiada the priest, to become overseer in the house of the Lord over every man prophesying and every madman, and you will put him into confinement and into stocks.
 
 **Jeremiah 36:27**
 
@@ -80426,7 +80426,7 @@ And now why did you revile Jeremiah from Anathoth, the one prophesying to you?
 
 **Jeremiah 36:28**
 
-Was it not for this he sent to you into Babylon, saying, It is long. Build houses and dwell, and plant gardens and eat their fruit?
+Was it not because of this that he sent to you into Babylon, saying, It is long. Build houses and dwell, and plant gardens and eat their fruit?
 
 **Jeremiah 36:29**
 
@@ -80438,77 +80438,77 @@ And the word of the Lord came to Jeremiah, saying,
 
 **Jeremiah 36:31**
 
-Send to exile, saying, Thus said the Lord concerning Shemaiah the Nehelamite: Because Shemaiah prophesied to you and I did not send him, and he made you trust upon unjust things,
+Send to the exile, saying, Thus said the Lord concerning Shemaiah the Nehelamite: Because Shemaiah prophesied to you and I did not send him, and he made you trust in unjust things,
 
 **Jeremiah 36:32**
 
-therefore thus said the Lord: Behold, I will visit Shemaiah and his seed, and there will not be from them a man in your midst to see good things which I will do for you. They will not see.
+therefore thus said the Lord: Behold, I will visit Shemaiah and his seed, and there will not be a man from them in your midst to see the good things which I will do for you. They will not see.
 
 ### Chapter 37
 
 **Jeremiah 37:1**
 
-Word coming to Jeremiah from the Lord, saying,
+The word that came to Jeremiah from the Lord, saying,
 
 **Jeremiah 37:2**
 
-Thus said the Lord God of Israel, saying, Write all words which I answered to you in scroll,
+Thus said the Lord God of Israel, saying, Write in a scroll all the words which I declared to you,
 
 **Jeremiah 37:3**
 
-because behold, days come, says the Lord, and I will restore exile of my people Israel and Judah, says the Lord, and I will restore them into the land which I gave to their fathers, and they will rule it.
+because behold, days are coming, says the Lord, and I will restore the exile of my people Israel and Judah, says the Lord, and I will restore them into the land which I gave to their fathers, and they will take possession of it.
 
 **Jeremiah 37:4**
 
-And these are words which the Lord spoke concerning Israel and Judah.
+And these are the words which the Lord spoke concerning Israel and Judah.
 
 **Jeremiah 37:5**
 
-Thus said the Lord: The voice of fear you will hear, fear and there is no peace.
+Thus said the Lord: A voice of fear you will hear: fear, and there is no peace.
 
 **Jeremiah 37:6**
 
-Ask and see whether male gives birth, and from fear every man will hold his loin and salvation. Because I saw every man and his hands upon his loins. Faces were turned into jaundice.
+Ask and see whether a male gives birth. Why, from fear, does every man hold his loins? Because I saw every man with his hands upon his loins; faces were turned to jaundice.
 
 **Jeremiah 37:7**
 
-It happened because that day is great, and there is none like it, and it is narrow time for Jacob, and from this he will be saved.
+For that day became great, and there is none like it, and it is a narrow time for Jacob, and from this he will be saved.
 
 **Jeremiah 37:8**
 
-In that day, said the Lord, I will break yoke from their neck and tear apart their bonds, and they will no longer serve foreigners.
+In that day, said the Lord, I will break the yoke from their neck and tear apart their bonds, and they will no longer serve foreigners.
 
 **Jeremiah 37:9**
 
-And they will serve the Lord their God, and David their king I will raise up for them.
+And they will serve the Lord their God, and I will raise up David their king for them.
 
 **Jeremiah 37:12**
 
-Thus said the Lord: Painful your fracture rose up, your wound.
+Thus said the Lord: Your fracture rose up painfully; your wound is painful.
 
 **Jeremiah 37:13**
 
-There is none judging your judgment for painful thing. You were healed. No benefit for you.
+There is none judging your case for the painful thing. You were treated, but there is no benefit for you.
 
 **Jeremiah 37:14**
 
-All your friends forgot you. They will never ask for you, because with wound of enemy I struck you, stern discipline. Upon all your injustice your sins were multiplied.
+All your friends forgot you. They will never ask for you, because with the wound of an enemy I struck you, a stern discipline. Because of all your injustice, your sins were multiplied.
 
 **Jeremiah 37:16**
 
-Therefore all eating you will be eaten, and all your enemies, their flesh all will eat. Because your injustices multiplied, your sins multiplied, they did these things to you, and those carrying you off will be for carrying off, and all plundering you I will give for plunder.
+Therefore all those eating you will be eaten, and all your enemies will eat their own flesh. Because your injustices multiplied, your sins multiplied, they did these things to you, and those carrying you off will become a carrying off, and all those plundering you I will give for plunder.
 
 **Jeremiah 37:17**
 
-Because I will bring up your healing. From painful wound I will heal you, says the Lord, because scattered one they called you: It is your prey, because no seeker for her exists.
+Because I will bring up your healing. From a painful wound I will heal you, says the Lord, because they called you Scattered: It is your prey, because there is no seeker for her.
 
 **Jeremiah 37:18**
 
-Thus said the Lord: Behold, I will restore exile of Jacob and his captivity I will pity, and city will be built on its height, and temple will sit according to its judgment.
+Thus said the Lord: Behold, I will restore the exile of Jacob, and his captivity I will pity, and the city will be built on its height, and the temple will sit according to its judgment.
 
 **Jeremiah 37:19**
 
-And from them singers and voice of ones playing will come out, and I will multiply them and they will not be diminished.
+And from them singers and a voice of those playing will come out, and I will multiply them and they will not be diminished.
 
 **Jeremiah 37:20**
 
@@ -80516,25 +80516,25 @@ And their sons will enter as before, and their testimonies before my face will b
 
 **Jeremiah 37:21**
 
-And their strong ones will be over them, and their ruler will come out from them, and I will gather them and they will return to me. Because who is this who gave his heart to return to me? says the Lord.
+And their mighty ones will be over them, and their ruler will come out from them, and I will gather them and they will return to me. Because who is this who gave his heart to return to me? says the Lord.
 
 **Jeremiah 37:23**
 
-Because the wrath of the Lord went out furious. Wrath twisting itself will come upon ungodly.
+Because the wrath of the Lord went out furious. Turning wrath will come upon the ungodly.
 
 **Jeremiah 37:24**
 
-Wrath of anger of the Lord will not turn back until he does and until he establishes the undertaking of his heart. At the last of days you will know these things.
+The wrath of the anger of the Lord will not turn back until he does and until he establishes the undertaking of his heart. At the last of days you will know these things.
 
 ### Chapter 38
 
 **Jeremiah 38:1**
 
-In that time the Lord said, I will be God to the family of Israel, and they will be people to me.
+In that time the Lord said, I will be God to the family of Israel, and they will be a people to me.
 
 **Jeremiah 38:2**
 
-Thus said the Lord: I found warmth in the wilderness with ones destroyed by sword. Go, and do not destroy Israel.
+Thus said the Lord: I found warmth in the wilderness with those destroyed by the sword. Go, and do not destroy Israel.
 
 **Jeremiah 38:3**
 
@@ -80542,39 +80542,39 @@ The Lord appeared to him from far away: With eternal love I loved you, therefore
 
 **Jeremiah 38:4**
 
-Still I will build you and you will be built, virgin Israel. Still you will take your tambourine and go out with the assembly of ones playing.
+Still I will build you and you will be built, virgin Israel. Still you will take your tambourine and go out with the assembly of those playing.
 
 **Jeremiah 38:5**
 
-Still plant vineyards in mountains of Samaria. Plant and praise.
+Still plant vineyards in the mountains of Samaria. Plant and praise.
 
 **Jeremiah 38:6**
 
-Because there is a day of calling of defenders in the mountain of Ephraim: Rise and go up to Zion, to the Lord our God.
+Because there is a day of calling of defenders in the mountains of Ephraim: Rise and go up to Zion, to the Lord our God.
 
 **Jeremiah 38:7**
 
-Because thus said the Lord to Jacob: Rejoice and neigh over the head of nations. Make it heard and praise. Say, the Lord saved his people, the remnant of Israel.
+Because thus said the Lord to Jacob: Rejoice and neigh over the head of nations. Make it heard and praise. Say, The Lord saved his people, the remnant of Israel.
 
 **Jeremiah 38:8**
 
-Behold, I bring them from north and gather them from the ends of the earth in the feast of Phasce, and they will beget great crowd and return here.
+Behold, I bring them from the north and gather them from the ends of the earth at the feast of Passover, and they will beget a great crowd and return here.
 
 **Jeremiah 38:9**
 
-With weeping they went out, and with comfort I will lead them, causing them to camp by channels of waters, in straight way, and they will not wander in it, because I became father to Israel, and Ephraim is my firstborn.
+With weeping they went out, and with comfort I will lead them, lodging them by channels of waters, in a straight way, and they will not wander in it, because I became a father to Israel, and Ephraim is my firstborn.
 
 **Jeremiah 38:10**
 
-Hear the word of the Lord, nations, and announce to islands far away. Say, One winnowing Israel will gather him and guard him like shepherd his flock.
+Hear the word of the Lord, nations, and announce to islands far away. Say, The one who winnowed Israel will gather him and guard him like a shepherd his flock.
 
 **Jeremiah 38:11**
 
-Because the Lord ransomed Jacob, delivered him from the hand of ones stronger than he.
+Because the Lord ransomed Jacob, delivered him from the hand of those stronger than he.
 
 **Jeremiah 38:12**
 
-And they will come and rejoice in mountain Zion, and come upon good things of the Lord, upon the land of grain and wine and fruits and cattle and sheep. And their soul will be like a fruitful tree, and they will hunger no longer.
+And they will come and rejoice on Mount Zion, and come upon the good things of the Lord, upon the land of grain and wine and fruits and cattle and sheep. And their soul will be like a fruitful tree, and they will hunger no longer.
 
 **Jeremiah 38:13**
 
@@ -80582,47 +80582,47 @@ Then virgins will rejoice in the gathering of young men, and elders will rejoice
 
 **Jeremiah 38:14**
 
-I magnify and make drunk soul of priests, sons of Levi, and my people will be filled with my good things.
+I will magnify and make drunk the soul of the priests, sons of Levi, and my people will be filled with my good things.
 
 **Jeremiah 38:15**
 
-Thus said the Lord: Voice was heard in Ramah, lament and weeping and mourning, Rachel weeping for her sons. She was not willing to stop because they are not.
+Thus said the Lord: A voice was heard in Ramah, lament and weeping and mourning, Rachel weeping for her sons. She was not willing to stop, because they are not.
 
 **Jeremiah 38:16**
 
-Thus said the Lord: Let your voice cease from weeping and your eyes from your tears, because there is wage for your works, and they will return from the land of enemies.
+Thus said the Lord: Let your voice cease from weeping and your eyes from your tears, because there is a wage for your works, and they will return from the land of enemies.
 
 **Jeremiah 38:17**
 
-Permanence for your children.
+There is permanence for your children.
 
 **Jeremiah 38:18**
 
-Hearing I heard Ephraim lamenting: You disciplined me and I was disciplined, like a calf not taught. Turn me back and I will return, because you are the Lord my God.
+Hearing, I heard Ephraim lamenting: You disciplined me and I was disciplined, like a calf not taught. Turn me back and I will return, because you are the Lord my God.
 
 **Jeremiah 38:19**
 
-Because after my captivity I repented, and after my knowing I groaned in the day of shame and showed you that I received reproach from my youth.
+Because after my captivity I repented, and after I came to know, I groaned in the day of shame and showed you that I received reproach from my youth.
 
 **Jeremiah 38:20**
 
-Ephraim beloved son to me, cherished child, because in return for my words in him I will surely remember him. Therefore I hurried over him. In mercy I will have mercy on him, says the Lord.
+Ephraim is a beloved son to me, a cherished child, because in return for my words in him I will surely remember him. Therefore I hastened over him; with mercy I will have mercy on him, says the Lord.
 
 **Jeremiah 38:21**
 
-Set up for yourself, Zion. Make chastisement. Give your heart to shoulders, to road on which you went. Turn back, virgin Israel. Turn back to your cities, mourning.
+Set up for yourself, Zion. Make correction. Give your heart to the shoulders, to the road on which you went. Turn back, virgin Israel. Turn back to your cities, mourning.
 
 **Jeremiah 38:22**
 
-How long will you turn back, dishonored daughter? Because the Lord created salvation for new planting. Men will go about in salvation.
+How long will you turn back, dishonored daughter? Because the Lord created salvation for a new planting. Men will go about in salvation.
 
 **Jeremiah 38:23**
 
-Thus said the Lord: Still they will speak this word in the land of Judah and in its cities when I restore its captivity: Blessed is the Lord upon righteous mountain, his holy one.
+Thus said the Lord: Still they will speak this word in the land of Judah and in its cities when I restore its captivity: Blessed is the Lord upon the righteous mountain, his holy one.
 
 **Jeremiah 38:24**
 
-And dwellers in the cities of Judah and in all its land together with farmer and one lifted in flock.
+And dwellers in the cities of Judah and in all its land together with the farmer, and one will be lifted in a flock.
 
 **Jeremiah 38:25**
 
@@ -80634,7 +80634,7 @@ Therefore I woke up and saw, and my sleep became sweet to me.
 
 **Jeremiah 38:27**
 
-Therefore behold, days come, says the Lord, and I will sow Israel and Judah with seed of man and seed of cattle.
+Therefore behold, days are coming, says the Lord, and I will sow Israel and Judah with seed of man and seed of cattle.
 
 **Jeremiah 38:28**
 
@@ -80642,57 +80642,57 @@ And it will be, just as I watched over them to tear down and to do evil, so I wi
 
 **Jeremiah 38:29**
 
-In those days they will no longer say, Fathers ate sour grape and teeth of children were set on edge.
+In those days they will no longer say, The fathers ate a sour grape, and the teeth of the children were set on edge.
 
 **Jeremiah 38:30**
 
-But each will die in his own sin, and teeth of one eating sour grape will be set on edge.
+But each will die in his own sin, and the teeth of the one eating the sour grape will be set on edge.
 
 **Jeremiah 38:31**
 
-Behold, days come, says the Lord, and I will make with the house of Israel and the house of Judah new covenant,
+Behold, days are coming, says the Lord, and I will make with the house of Israel and the house of Judah a new covenant,
 
 **Jeremiah 38:32**
 
-not according to covenant which I made with their fathers on the day when I took their hand to bring them out from the land of Egypt, because they did not remain in my covenant and I neglected them, says the Lord.
+not according to the covenant which I made with their fathers on the day when I took their hand to bring them out from the land of Egypt, because they did not remain in my covenant and I neglected them, says the Lord.
 
 **Jeremiah 38:33**
 
-Because this is covenant which I will make with the house of Israel after those days, says the Lord: Giving, I will give my laws into their mind, and upon their hearts I will write them, and I will be God to them, and they will be people to me.
+Because this is the covenant which I will make with the house of Israel after those days, says the Lord: Giving, I will give my laws into their mind, and upon their hearts I will write them, and I will be God to them, and they will be a people to me.
 
 **Jeremiah 38:34**
 
-And they will certainly not teach each his fellow citizen and each his brother, saying, Know Lord, because all will know me from their little one to their great one, because I will be merciful to their injustices and I will no longer remember their sins.
+And they will certainly not teach each his fellow citizen and each his brother, saying, Know the Lord, because all will know me from their little one to their great one, because I will be merciful to their injustices and I will no longer remember their sins.
 
 **Jeremiah 38:35**
 
-If heaven is lifted up high, says the Lord, and if the foundation of the earth is humbled below, I also will not reject seed of Israel, says the Lord, concerning all they did.
+If heaven is lifted up high, says the Lord, and if the foundation of the earth is humbled below, I also will not reject the seed of Israel, says the Lord, concerning all they did.
 
 **Jeremiah 38:36**
 
-Thus said the Lord, who gave sun for the light of day, moon and stars for the light of night, and cry in sea, and its waves roared, the Lord Almighty his name.
+Thus said the Lord, who gave the sun for the light of day, the moon and stars for the light of night, and a roar in the sea, and its waves roared, the Lord Almighty is his name.
 
 **Jeremiah 38:37**
 
-If these laws cease from before my face, says the Lord, then seed of Israel will cease from being nation before my face all days.
+If these laws cease from before my face, says the Lord, then the seed of Israel will cease from being a nation before my face all the days.
 
 **Jeremiah 38:38**
 
-Behold, days come, says the Lord, and city will be built to the Lord from the tower of Hanameel to corner gate.
+Behold, days are coming, says the Lord, and the city will be built to the Lord from the tower of Hanameel to the corner gate.
 
 **Jeremiah 38:39**
 
-And its measuring-line will go out opposite them as far as hills of Gareb and will be encircled round about with chosen stones.
+And its measuring-line will go out opposite them as far as the hills of Gareb and will be encircled round about with chosen stones.
 
 **Jeremiah 38:40**
 
-And all Asaeremoth as far as valley of Kidron, as far as corner of horse gate eastward, holy thing to the Lord, and it will never fail or be torn down forever.
+And all Asaeremoth as far as the valley of Kidron, as far as the corner of the horse gate toward the east, will be a holy thing to the Lord, and it will never fail or be torn down forever.
 
 ### Chapter 39
 
 **Jeremiah 39:1**
 
-Word that came from the Lord to Jeremiah in the tenth year of the reign of Zedekiah, this was the eighteenth year of the reign of Nebuchadnezzar king of Babylon.
+The word that came from the Lord to Jeremiah in the tenth year of the reign of Zedekiah; this was the eighteenth year of the reign of Nebuchadnezzar king of Babylon.
 
 **Jeremiah 39:2**
 
@@ -80704,7 +80704,7 @@ In which King Zedekiah shut him up, saying, Why do you prophesy, saying, Thus sa
 
 **Jeremiah 39:4**
 
-And Zedekiah will certainly not be saved from the hand of Chaldeans, because in handing over he will be handed into the hands of the king of Babylon, and his mouth will speak to his mouth, and his eyes will see his eyes.
+And Zedekiah will certainly not be saved from the hand of the Chaldeans, because in handing over he will be handed into the hands of the king of Babylon, and his mouth will speak to his mouth, and his eyes will see his eyes.
 
 **Jeremiah 39:5**
 
@@ -80716,27 +80716,27 @@ And the word of the Lord came to Jeremiah, saying,
 
 **Jeremiah 39:7**
 
-Behold, Hanameel son of Shallum your father’s brother comes to you, saying, Buy for yourself my field in Anathoth, because judgment belongs to you to receive it for possession.
+Behold, Hanameel son of Shallum, your father's brother, comes to you, saying, Buy for yourself my field in Anathoth, because the right belongs to you to receive it for possession.
 
 **Jeremiah 39:8**
 
-And Hanameel son of Shallum my father’s brother came to me into the court of the prison and said to me, Buy my field in the land of Benjamin, in Anathoth, because judgment belongs to you to buy, and you are elder. And I knew that it is the word of the Lord.
+And Hanameel son of Shallum, my father's brother, came to me into the court of the prison and said to me, Buy my field in the land of Benjamin, in Anathoth, because the right belongs to you to buy, and you are elder. And I knew that it is the word of the Lord.
 
 **Jeremiah 39:9**
 
-And I bought field of Hanameel, son of my father’s brother, and weighed out to him seven shekels and ten of silver.
+And I bought the field of Hanameel, son of my father's brother, and weighed out to him seventeen shekels of silver.
 
 **Jeremiah 39:10**
 
-And I wrote in scroll and sealed and called witnesses and weighed silver in balance.
+And I wrote in a scroll and sealed it and called witnesses and weighed the silver in a balance.
 
 **Jeremiah 39:11**
 
-And I took scroll of purchase, sealed and read.
+And I took the scroll of purchase, sealed and read.
 
 **Jeremiah 39:12**
 
-And I gave it to Baruch son of Neriah son of Maaseiah before the eyes of Hanameel son of my father’s brother and before the eyes of those standing and writing in scroll of purchase and before the eyes of Judeans in the court of the prison.
+And I gave it to Baruch son of Neriah son of Maaseiah before the eyes of Hanameel son of my father's brother and before the eyes of those standing and writing in the scroll of purchase and before the eyes of the Judeans in the court of the prison.
 
 **Jeremiah 39:13**
 
@@ -80744,7 +80744,7 @@ And I commanded Baruch before their eyes, saying,
 
 **Jeremiah 39:14**
 
-Thus said the Lord Almighty: Take this scroll of purchase and scroll that was read and put it into earthen vessel, so that it may remain many days.
+Thus said the Lord Almighty: Take this scroll of purchase and the scroll that was read and put it into an earthen vessel, so that it may remain many days.
 
 **Jeremiah 39:15**
 
@@ -80752,7 +80752,7 @@ Because thus said the Lord: Still fields and houses and vineyards will be bought
 
 **Jeremiah 39:16**
 
-And I prayed to the Lord after my giving scroll of purchase to Baruch son of Neriah, saying,
+And I prayed to the Lord after my giving the scroll of purchase to Baruch son of Neriah, saying,
 
 **Jeremiah 39:17**
 
@@ -80760,23 +80760,23 @@ Ah Lord, you made heaven and earth with your great strength and your high and li
 
 **Jeremiah 39:18**
 
-doing mercy to thousands and repaying sins of fathers into the bosom of their children after them, God great and mighty,
+doing mercy to thousands and repaying the sins of fathers into the bosom of their children after them, the great and mighty God,
 
 **Jeremiah 39:19**
 
-Lord of great counsel and mighty in works, God great, Almighty, and great in name, Lord. Your eyes are upon the ways of sons of men, to give to each according to his way,
+the Lord of great counsel and mighty in works, the great God, the Almighty and great in name, the Lord. Your eyes are upon the ways of the sons of men, to give to each according to his way,
 
 **Jeremiah 39:20**
 
-who made signs and wonders in the land of Egypt until this day, and in Israel and among natives, and made name for yourself as this day.
+who made signs and wonders in the land of Egypt until this day, and in Israel and among earth-born people, and made a name for yourself as this day.
 
 **Jeremiah 39:21**
 
-And you brought your people Israel out from the land of Egypt with signs and with wonders and with strong hand and with high arm and with great visions.
+And you brought your people Israel out from the land of Egypt with signs and with wonders and with a strong hand and with a high arm and with great visions.
 
 **Jeremiah 39:22**
 
-And you gave them this land which you swore to their fathers, land flowing milk and honey.
+And you gave them this land which you swore to their fathers, a land flowing with milk and honey.
 
 **Jeremiah 39:23**
 
@@ -80784,11 +80784,11 @@ And they entered and took it, and they did not hear your voice, and in your ordi
 
 **Jeremiah 39:24**
 
-Behold, crowd comes to this city to seize it, and city was given into the hands of Chaldeans fighting against it from the face of the sword and famine. As you spoke, so it happened.
+Behold, a crowd comes to this city to seize it, and the city was given into the hands of the Chaldeans fighting against it, from the face of the sword and famine. As you spoke, so it happened.
 
 **Jeremiah 39:25**
 
-And you say to me, Buy field for yourself with silver, and I wrote scroll and sealed and brought witnesses, and city was given into the hands of Chaldeans.
+And you say to me, Buy a field for yourself with silver, and I wrote a scroll and sealed it and brought witnesses, and the city was given into the hands of the Chaldeans.
 
 **Jeremiah 39:26**
 
@@ -80804,11 +80804,11 @@ Therefore thus said the Lord God of Israel: This city in being given over will b
 
 **Jeremiah 39:29**
 
-And Chaldeans fighting against this city will come and burn this city with fire and burn houses in which they burned incense on their roofs to Baal and poured libations to other gods to provoke me.
+And the Chaldeans fighting against this city will come and burn this city with fire and burn the houses in which they burned incense on their roofs to Baal and poured libations to other gods to provoke me.
 
 **Jeremiah 39:30**
 
-Because sons of Israel and sons of Judah alone were doing evil before my eyes from their youth.
+Because the sons of Israel and the sons of Judah alone were doing evil before my eyes from their youth.
 
 **Jeremiah 39:31**
 
@@ -80816,7 +80816,7 @@ Because this city has been for my anger and for my wrath from the day they built
 
 **Jeremiah 39:32**
 
-because of all evils of sons of Israel and Judah which they did to provoke me, they and their kings and their rulers and their priests and their prophets, men of Judah and dwellers of Jerusalem.
+because of all the evils of the sons of Israel and Judah which they did to provoke me, they and their kings and their rulers and their priests and their prophets, men of Judah and dwellers of Jerusalem.
 
 **Jeremiah 39:33**
 
@@ -80828,7 +80828,7 @@ And they set their defilements in the house on which my name was called, by thei
 
 **Jeremiah 39:35**
 
-And they built altars to Baal in the valley of son of Hinnom, to offer up their sons and daughters to King Moloch, which I did not command them and it did not rise on my heart, to do this abomination, to make Judah sin.
+And they built altars to Baal in the valley of the son of Hinnom, to offer up their sons and daughters to King Moloch, which I did not command them and it did not rise on my heart, to do this abomination, to make Judah sin.
 
 **Jeremiah 39:36**
 
@@ -80836,77 +80836,77 @@ And now thus said the Lord God of Israel concerning this city which you say will
 
 **Jeremiah 39:37**
 
-Behold, I gather them from all lands where I scattered them there in my anger and in my wrath and in great provocation, and I will restore them to this place and settle them in confidence.
+Behold, I gather them from all lands where I scattered them in my anger and in my wrath and in great provocation, and I will restore them to this place and settle them in confidence.
 
 **Jeremiah 39:38**
 
-And they will be people to me, and I will be God to them.
+And they will be a people to me, and I will be God to them.
 
 **Jeremiah 39:39**
 
-And I will give them another way and another heart, to fear me all days, for good to them and to their children after them.
+And I will give them another way and another heart, to fear me all the days, for good to them and to their children after them.
 
 **Jeremiah 39:40**
 
-And I will make with them everlasting covenant, which I will certainly not turn away from behind them, and my fear I will give into their heart, so that they not depart from me.
+And I will make with them an everlasting covenant, which I will certainly not turn away from behind them, and my fear I will give into their heart, so that they will not depart from me.
 
 **Jeremiah 39:41**
 
-And I will visit to do them good and plant them in this land in faithfulness and in all heart and in all soul.
+And I will visit them to do good to them and plant them in this land in faithfulness and with all heart and with all soul.
 
 **Jeremiah 39:42**
 
-Because thus said the Lord: As I brought upon this people all these great evils, so I will bring upon them all good things which I spoke upon them.
+Because thus said the Lord: As I brought upon this people all these great evils, so I will bring upon them all the good things which I spoke upon them.
 
 **Jeremiah 39:43**
 
-And fields will still be bought in the land which you say is trackless waste, from men and cattle, and they were handed into the hands of Chaldeans.
+And fields will still be bought in the land which you say is trackless waste, without men and cattle, and they were handed into the hands of the Chaldeans.
 
 **Jeremiah 39:44**
 
-And they will buy fields with silver and write scroll and seal and bring witnesses in the land of Benjamin and around Jerusalem and in the cities of Judah and in the cities of hill country and in the cities of lowland and in the cities of Negeb, because I will restore their exiles.
+And they will buy fields with silver and write a scroll and seal it and bring witnesses in the land of Benjamin and around Jerusalem and in the cities of Judah and in the cities of the hill country and in the cities of the lowland and in the cities of Negeb, because I will restore their exiles.
 
 ### Chapter 40
 
 **Jeremiah 40:1**
 
-And the word of the Lord came to Jeremiah second time, and he was still bound in the court of the prison, saying,
+And the word of the Lord came to Jeremiah a second time, while he was still bound in the court of the prison, saying,
 
 **Jeremiah 40:2**
 
-Thus said the Lord, making earth and forming it to set it upright, The Lord is his name,
+Thus said the Lord, who makes earth and forms it to set it upright; the Lord is his name:
 
 **Jeremiah 40:3**
 
-Cry to me and I will answer you and announce to you great and mighty things which you did not know.
+Cry to me, and I will answer you and announce to you great and mighty things which you did not know.
 
 **Jeremiah 40:4**
 
-Because thus said the Lord God of Israel concerning the houses of this city and concerning houses of the king of Judah, torn down into trenches and defenses,
+Because thus said the Lord God of Israel concerning the houses of this city and concerning the houses of the king of Judah, which were torn down into trenches and defenses,
 
 **Jeremiah 40:5**
 
-to fight against Chaldeans and to fill it with dead men whom I struck in my anger and wrath, and I turned away my face from them because of all their evils.
+to fight against the Chaldeans and to fill it with dead men whom I struck in my anger and wrath, and I turned away my face from them because of all their evils.
 
 **Jeremiah 40:6**
 
-Behold, I bring up healing and remedy to her and reveal to them hearing, and I will heal her and make for them peace and faithfulness.
+Behold, I bring up healing and remedy for her, and I will reveal to them a hearing; and I will heal her and make peace and faithfulness for them.
 
 **Jeremiah 40:7**
 
-And I will restore exile of Judah and exile of Israel and build them as before.
+And I will restore the exile of Judah and the exile of Israel and build them as before.
 
 **Jeremiah 40:8**
 
-And I will cleanse them from all their injustices with which they sinned against me, and I will no longer remember sins with which they sinned against me and departed from me.
+And I will cleanse them from all their injustices with which they sinned against me, and I will no longer remember the sins with which they sinned against me and departed from me.
 
 **Jeremiah 40:9**
 
-And it will be for joy and for praise and for greatness to every people of earth who hear all good things which I will do. And they will fear and be embittered concerning all good things and all peace which I will make for them.
+And it will be for joy and for praise and for greatness to every people of the earth who hear all the good things which I will do. And they will fear and be embittered concerning all the good things and concerning all the peace which I will make for them.
 
 **Jeremiah 40:10**
 
-Thus said the Lord: Still in this place, which you say is desolate from men and cattle, in the cities of Judah and outside Jerusalem, laid waste because there is no man and no cattle, it will be heard
+Thus said the Lord: Still it will be heard in this place, which you say is desolate from men and cattle, in the cities of Judah and outside Jerusalem, laid waste because there is no man and no cattle,
 
 **Jeremiah 40:11**
 
@@ -80914,11 +80914,11 @@ The voice of gladness and the voice of joy, the voice of bridegroom and the voic
 
 **Jeremiah 40:12**
 
-Thus said the Lord of hosts: Still there will be in this place, this desolate one because there is no man and cattle, and in all its cities, dwellings of shepherds laying sheep down.
+Thus said the Lord of hosts: There will still be in this place, this desolate one because there is no man and cattle, and in all its cities, dwellings of shepherds laying sheep down.
 
 **Jeremiah 40:13**
 
-In the cities of hill country and in the cities of lowland and in the cities of Negeb and in the land of Benjamin and around Jerusalem and in the cities of Judah, sheep will still pass under the hand of one counting, said the Lord.
+In the cities of the hill country and in the cities of the lowland and in the cities of Negeb and in the land of Benjamin and around Jerusalem and in the cities of Judah, sheep will still pass under the hand of one counting, said the Lord.
 
 **Jeremiah 40:14**
 
@@ -80976,15 +80976,15 @@ In the cities of hill country and in the cities of lowland and in the cities of 
 
 **Jeremiah 41:1**
 
-Word that came to Jeremiah from the Lord, while Nebuchadnezzar king of Babylon and all his camp and all the land of his rule fought against Jerusalem and against all cities of Judah, saying,
+The word that came to Jeremiah from the Lord, when Nebuchadnezzar king of Babylon and all his camp and all the land under his rule were fighting against Jerusalem and against all the cities of Judah, saying,
 
 **Jeremiah 41:2**
 
-Thus said the Lord: Go to Zedekiah king of Judah and say to him, Thus said the Lord: This city in being handed over will be handed into the hands of the king of Babylon, and he will seize it and burn it with fire.
+Thus said the Lord: Go to Zedekiah king of Judah and say to him, Thus said the Lord: This city, in being handed over, will be handed into the hands of the king of Babylon, and he will seize it and burn it with fire.
 
 **Jeremiah 41:3**
 
-And you will certainly not be saved from his hand, because in seizing you will be seized and into his hands you will be given, and your eyes will see his eyes, and his mouth will speak with your mouth, and you will enter Babylon.
+And you will certainly not be saved from his hand, because in being seized you will be seized and into his hands you will be given; your eyes will see his eyes, and his mouth will speak with your mouth, and you will enter Babylon.
 
 **Jeremiah 41:4**
 
@@ -80992,7 +80992,7 @@ But hear the word of the Lord, Zedekiah king of Judah. Thus says the Lord:
 
 **Jeremiah 41:5**
 
-In peace you will die, and as they lamented your fathers, kings ruling before you, they will lament you also, and saying, Oh lord, they will beat themselves for you, because I spoke word, says the Lord.
+In peace you will die, and as they lamented your fathers, the kings who ruled before you, they will lament you also, and saying, Ah, lord, they will beat themselves for you, because I have spoken a word, says the Lord.
 
 **Jeremiah 41:6**
 
@@ -81000,23 +81000,23 @@ And Jeremiah spoke all these words to King Zedekiah in Jerusalem.
 
 **Jeremiah 41:7**
 
-And the force of the king of Babylon fought against Jerusalem and against the cities of Judah, against Lachish and against Azekah, because these were left among cities of Judah, fortified cities.
+And the force of the king of Babylon was fighting against Jerusalem and against the cities of Judah, against Lachish and against Azekah, because these fortified cities were left among the cities of Judah.
 
 **Jeremiah 41:8**
 
-Word came to Jeremiah from the Lord after King Zedekiah finished covenant with people, to proclaim release,
+The word that came to Jeremiah from the Lord after King Zedekiah completed a covenant with the people to proclaim release,
 
 **Jeremiah 41:9**
 
-to send out each his male servant and each his female servant, the Hebrew and the Hebrew woman, free, so that no man from Judah should enslave them.
+to send out each one his male servant and each one his female servant, the Hebrew man and the Hebrew woman, free, so that no man from Judah would be enslaved.
 
 **Jeremiah 41:10**
 
-And all nobles and all the people who entered covenant turned, to send out each his male servant and each his female servant.
+And all the nobles and all the people who entered the covenant to send out each one his male servant and each one his female servant turned back,
 
 **Jeremiah 41:11**
 
-And they drove them away into male servants and female servants.
+and they forced them into male servants and female servants.
 
 **Jeremiah 41:12**
 
@@ -81024,19 +81024,19 @@ And the word of the Lord came to Jeremiah, saying,
 
 **Jeremiah 41:13**
 
-Thus said the Lord God of Israel: I made covenant with your fathers on the day when I brought them out from the land of Egypt, out of the house of slavery, saying,
+Thus said the Lord God of Israel: I made a covenant with your fathers on the day when I brought them out from the land of Egypt, out of the house of slavery, saying,
 
 **Jeremiah 41:14**
 
-When six years are completed, you will send out your Hebrew brother who was sold to you, and he will work for you six years, and you will send him out free. And they did not hear me and did not incline their ear.
+When six years are fulfilled, you shall send out your Hebrew brother who is sold to you, and he shall work for you six years, and you shall send him out free. But they did not hear me and did not incline their ear.
 
 **Jeremiah 41:15**
 
-And today you turned to do what is right before my eyes, to proclaim release each to his neighbor, and completed covenant before my face in the house on which my name was called.
+And today you turned to do what is right before my eyes, to proclaim release each to his neighbor, and you completed a covenant before my face in the house on which my name has been called.
 
 **Jeremiah 41:16**
 
-And you turned back and profaned my name, by turning back each his male servant and each his female servant whom you sent out free according to their soul, and you took them for yourselves as male servants and female servants.
+And you turned back and profaned my name by bringing back each one his male servant and each one his female servant whom you had sent out free according to their own desire, to be for you male servants and female servants.
 
 **Jeremiah 41:17**
 
@@ -81044,53 +81044,53 @@ Therefore thus said the Lord: You did not hear me to proclaim release, each to h
 
 **Jeremiah 41:18**
 
-And I will give the men who passed over my covenant, those not keeping my covenant which they made before my face, like a calf which they made to work for him,
+And I will give the men who passed over my covenant, those who did not uphold my covenant which they made before my face, the calf which they prepared to perform it with,
 
 **Jeremiah 41:19**
 
-the rulers of Judah and the mighty men and the priests and the people,
+namely the rulers of Judah and the mighty men and the priests and the people,
 
 **Jeremiah 41:20**
 
-and I will give them to their enemies, and their dead bodies will be food to the birds of heaven and beasts of the earth.
+and I will give them to their enemies, and their dead bodies will be food for the birds of heaven and for the beasts of the earth.
 
 **Jeremiah 41:21**
 
-And Zedekiah king of Judah and their rulers I will give into the hands of their enemies and force of the king of Babylon to those fleeing away from them.
+And Zedekiah king of Judah and their rulers I will give into the hands of their enemies, and the force of the king of Babylon will come upon those fleeing from them.
 
 **Jeremiah 41:22**
 
-Behold, I command, says the Lord, and I will return them to this land, and they will fight against it and take it and burn it with fire, and the cities of Judah I will give desolate, with no dwellers.
+Behold, I command, says the Lord, and I will return them to this land. They will fight against it and take it and burn it with fire, and the cities of Judah I will give as desolate, without dwellers.
 
 ### Chapter 42
 
 **Jeremiah 42:1**
 
-Word that came to Jeremiah from the Lord in the days of Jehoiakim king of Judah, saying,
+The word that came to Jeremiah from the Lord in the days of Jehoiakim king of Judah, saying,
 
 **Jeremiah 42:2**
 
-Go into the house of Rechab and bring them into the house of the Lord, into one of courts, and make them drink wine.
+Go to the house of the Rechabites and bring them into the house of the Lord, into one of the courts, and give them wine to drink.
 
 **Jeremiah 42:3**
 
-And I brought out Jaazaniah son of Jeremiah son of Habaziniah and his brothers and his sons and all house of Rechab,
+And I brought out Jaazaniah son of Jeremiah son of Habaziniah and his brothers and his sons and all the house of the Rechabites,
 
 **Jeremiah 42:4**
 
-and I brought them into the house of the Lord, into the chamber of sons of Hanan son of Gedaliah, man of God, which is near house of rulers, above house of Maaseiah son of Shallum, keeper of court.
+and I brought them into the house of the Lord, into the chamber of the sons of Hanan son of Gedaliah, a man of God, which is near the house of the rulers, above the house of Maaseiah son of Shallum, keeper of the court.
 
 **Jeremiah 42:5**
 
-And I set before their face jar of wine and cups and said, Drink wine.
+And I set before them a jar of wine and cups and said, Drink wine.
 
 **Jeremiah 42:6**
 
-And they said, We will certainly not drink wine, because Jonadab son of Rechab our father commanded us, saying, You and your sons will certainly not drink wine forever.
+And they said, We will certainly not drink wine, because Jonadab son of Rechab our father commanded us, saying, You and your sons shall certainly not drink wine forever.
 
 **Jeremiah 42:7**
 
-And you will not build a house, and seed you will not sow, and vineyard will not be yours, because in tents you will dwell all your days, so that you may live many days upon the land on which you sojourn.
+And you shall not build a house, and you shall not sow seed, and no vineyard shall be yours, because you shall dwell in tents all your days, so that you may live many days upon the land on which you sojourn.
 
 **Jeremiah 42:8**
 
@@ -81098,7 +81098,7 @@ And we listened to the voice of Jonadab our father, so as not to drink wine all 
 
 **Jeremiah 42:9**
 
-and so as not to build houses to dwell there, and vineyard and field and seed did not come to be for us.
+and so as not to build houses to dwell in, and there has not come to be for us vineyard or field or seed.
 
 **Jeremiah 42:10**
 
@@ -81106,7 +81106,7 @@ And we dwelt in tents and listened and did according to all that Jonadab our fat
 
 **Jeremiah 42:11**
 
-And it happened when Nebuchadnezzar came up against the land, we said, Enter, and let us enter Jerusalem from the face of force of Chaldeans and from the face of force of Assyrians, and we dwelt there.
+And it happened when Nebuchadnezzar came up against the land, we said, Come, and let us enter Jerusalem from before the force of the Chaldeans and from before the force of the Assyrians, and we dwelt there.
 
 **Jeremiah 42:12**
 
@@ -81114,31 +81114,31 @@ And the word of the Lord came to me, saying,
 
 **Jeremiah 42:13**
 
-Thus says the Lord: Go and say to man of Judah and to those dwelling in Jerusalem, Will you not receive discipline by hearing my words?
+Thus says the Lord: Go and say to the men of Judah and to those dwelling in Jerusalem, Will you not receive discipline, to listen to my words?
 
 **Jeremiah 42:14**
 
-The words of sons of Jonadab son of Rechab stand, who commanded his children not to drink wine, and they did not drink, and I spoke to you early and spoke, and you did not hear.
+The sons of Jonadab son of Rechab upheld the word which he commanded his children, not to drink wine, and they did not drink. But I spoke to you, rising early and speaking, and you did not hear.
 
 **Jeremiah 42:15**
 
-And I sent to you my servants the prophets, saying, Each turn back from his evil way and make your practices better, and do not go after other gods to serve them, and you will dwell upon the land which I gave to you and to your fathers, and you did not incline your ears and did not hear.
+And I sent to you my servants the prophets, saying, Let each one turn back from his evil way and amend your practices, and do not go after other gods to serve them, and you will dwell upon the land which I gave to you and to your fathers. But you did not incline your ears and did not hear.
 
 **Jeremiah 42:16**
 
-And sons of Jonadab son of Rechab kept command of their father, but this people did not hear me.
+And the sons of Jonadab son of Rechab kept the command of their father, but this people did not hear me.
 
 **Jeremiah 42:17**
 
-Therefore thus said the Lord: Behold, I bring upon Judah and upon those dwelling in Jerusalem all evils which I spoke against them.
+Therefore thus said the Lord: Behold, I bring upon Judah and upon those dwelling in Jerusalem all the evils which I spoke against them.
 
 **Jeremiah 42:18**
 
-Therefore thus said the Lord: Because sons of Jonadab son of Rechab heard command of their father, doing exactly as their father commanded them,
+Therefore thus said the Lord: Because the sons of Jonadab son of Rechab listened to the command of their father, doing just as their father commanded them,
 
 **Jeremiah 42:19**
 
-man from the sons of Jonadab son of Rechab will certainly not fail, standing before my face all days of earth.
+a man from the sons of Jonadab son of Rechab will certainly not fail to stand before my face all the days of the earth.
 
 ### Chapter 43
 
@@ -81148,27 +81148,27 @@ And in the fourth year of Jehoiakim son of Josiah king of Judah, the word of the
 
 **Jeremiah 43:2**
 
-Take for yourself scroll-sheet and write on it all words which I answered to you concerning Jerusalem and Judah and all nations, from the day when I spoke to you, from the days of Josiah king of Judah until this day.
+Take for yourself a scroll-sheet and write on it all the words which I declared to you concerning Jerusalem and Judah and all the nations, from the day when I spoke to you, from the days of Josiah king of Judah, even until this day.
 
 **Jeremiah 43:3**
 
-Perhaps the house of Judah will hear all evils which I plan to do to them, so that they may turn back from their evil way, and I will be merciful to their injustices and their sins.
+Perhaps the house of Judah will hear all the evils which I plan to do to them, so that they may turn back from their evil way, and I will be merciful concerning their injustices and their sins.
 
 **Jeremiah 43:4**
 
-And Jeremiah called Baruch son of Neriah, and Baruch wrote from the mouth of Jeremiah all the words of the Lord which he answered to him into scroll-sheet.
+And Jeremiah called Baruch son of Neriah, and Baruch wrote from the mouth of Jeremiah all the words of the Lord which he had declared to him, into a scroll-sheet.
 
 **Jeremiah 43:5**
 
-And Jeremiah commanded Baruch, saying, I am guarded. I cannot enter house of the Lord.
+And Jeremiah commanded Baruch, saying, I am kept under guard. I cannot enter the house of the Lord.
 
 **Jeremiah 43:6**
 
-And you will read from this sheet into the ears of the people in the house of the Lord in the day of fasting, and in the ears of all Judah coming from their cities you will read to them.
+And you will read from this sheet into the ears of the people in the house of the Lord on the day of fasting, and in the ears of all Judah coming from their cities you will read to them.
 
 **Jeremiah 43:7**
 
-Perhaps their mercy will fall before the face of the Lord and they will turn back from their evil way, because great is anger and the wrath of the Lord which he spoke against this people.
+Perhaps their plea for mercy will fall before the face of the Lord, and they will turn back from their evil way, because great is the anger and the wrath of the Lord which he spoke against this people.
 
 **Jeremiah 43:8**
 
@@ -81176,35 +81176,35 @@ And Baruch did according to all that Jeremiah commanded him, to read in the scro
 
 **Jeremiah 43:9**
 
-And it happened in the eighth year of the reign of Jehoiakim, in the ninth month, all the people in Jerusalem and the house of Judah proclaimed fast before the Lord.
+And it happened in the eighth year of King Jehoiakim, in the ninth month, all the people in Jerusalem and the house of Judah proclaimed fast before the Lord.
 
 **Jeremiah 43:10**
 
-And Baruch read in the scroll words of Jeremiah in the house of the Lord, in the house of Gemariah son of Shaphan the scribe, in the upper court, in the entrance of the new gate of the house of the Lord, in the ears of all the people.
+And Baruch read in the scroll the words of Jeremiah in the house of the Lord, in the house of Gemariah son of Shaphan the scribe, in the upper court, in the entrance of the new gate of the house of the Lord, in the ears of all the people.
 
 **Jeremiah 43:11**
 
-And Micaiah son of Gemariah son of Shaphan heard all the words of the Lord from scroll,
+And Micaiah son of Gemariah son of Shaphan heard all the words of the Lord from the scroll,
 
 **Jeremiah 43:12**
 
-and went down to the house of the king, to the house of scribe, and behold there all rulers sat: Elishama the scribe and Delaiah son of Shelemiah and Elnathan son of Achbor and Gemariah son of Shaphan and Zedekiah son of Hananiah and all rulers.
+and he went down to the house of the king, to the house of the scribe, and behold, all the rulers were sitting there: Elishama the scribe and Delaiah son of Shelemiah and Elnathan son of Achbor and Gemariah son of Shaphan and Zedekiah son of Hananiah and all the rulers.
 
 **Jeremiah 43:13**
 
-And Micaiah announced to them all words which he heard while Baruch read into the ears of the people.
+And Micaiah announced to them all the words which he heard while Baruch read into the ears of the people.
 
 **Jeremiah 43:14**
 
-And all rulers sent to Baruch son of Neriah Jehudi son of Nethaniah son of Shelemiah son of Chusi, saying, Scroll in which you read in the ears of the people, take it in your hand and come. And Baruch took scroll and went down to them.
+And all the rulers sent Jehudi son of Nethaniah son of Shelemiah son of Chusi to Baruch son of Neriah, saying, The sheet in which you are reading in the ears of the people, take it in your hand and come. And Baruch took the sheet and went down to them.
 
 **Jeremiah 43:15**
 
-And they said to him, Read again into our ears. And Baruch read.
+And they said to him, Read it again into our ears. And Baruch read.
 
 **Jeremiah 43:16**
 
-And it happened when they heard all words, each took counsel with his neighbor and said, Announcing, let us announce to the king all these words.
+And it happened when they heard all the words, each took counsel with his neighbor and said, We must surely announce to the king all these words.
 
 **Jeremiah 43:17**
 
@@ -81212,7 +81212,7 @@ And they asked Baruch, saying, From where did you write all these words?
 
 **Jeremiah 43:18**
 
-And Baruch said, From his mouth Jeremiah announced to me all these words, and I wrote in scroll.
+And Baruch said, Jeremiah announced all these words to me from his mouth, and I wrote them in a scroll.
 
 **Jeremiah 43:19**
 
@@ -81220,65 +81220,65 @@ And they said to Baruch, Go hide, you and Jeremiah. Let no man know where you ar
 
 **Jeremiah 43:20**
 
-And they entered to the king into court, and scroll they gave to keep in the house of Elishama, and they announced to the king all the words.
+And they entered to the king, into the court, and they gave the sheet for safekeeping in the house of Elishama, and they announced to the king all the words.
 
 **Jeremiah 43:21**
 
-And the king sent Jehudi to take the scroll, and he took it from the house of Elishama and read it into the ears of the king and into the ears of all rulers standing around the king.
+And the king sent Jehudi to take the scroll-sheet, and he took it from the house of Elishama and read it into the ears of the king and into the ears of all the rulers standing around the king.
 
 **Jeremiah 43:22**
 
-And the king sat in winter house, and hearth of fire before his face.
+And the king sat in the winter house, and a fire-hearth was before his face.
 
 **Jeremiah 43:23**
 
-And it happened while Jehudi read three pages and four, he cut them off with scribe’s knife and threw into fire on hearth until whole sheet was gone into fire on hearth.
+And it happened while Jehudi read three columns or four, he cut them off with the scribe's knife and threw them into the fire on the hearth until the whole sheet was consumed in the fire on the hearth.
 
 **Jeremiah 43:24**
 
-And the king and his servants hearing all these words did not seek and did not tear their garments.
+And the king and his servants, hearing all these words, did not seek and did not tear their garments.
 
 **Jeremiah 43:25**
 
-And Elnathan and Gedaliah and Gemariah urged king not to burn scroll.
+And Elnathan and Gedaliah and Gemariah urged the king not to burn the sheet.
 
 **Jeremiah 43:26**
 
-And the king commanded Jeremeeel son of the king and Seraiah son of Azriel to seize Baruch and Jeremiah, and they hid themselves.
+And the king commanded Jerahmeel son of the king and Seraiah son of Esriel to seize Baruch and Jeremiah, but they were hidden.
 
 **Jeremiah 43:27**
 
-And the word of the Lord came to Jeremiah after king burned scroll, all words which Baruch wrote from the mouth of Jeremiah, saying,
+And the word of the Lord came to Jeremiah after the king burned the sheet with all the words which Baruch wrote from the mouth of Jeremiah, saying,
 
 **Jeremiah 43:28**
 
-Again take for yourself another sheet and write all words that were on former sheet which King Jehoiakim burned.
+Take for yourself again another sheet and write all the words that were on the former sheet which King Jehoiakim burned.
 
 **Jeremiah 43:29**
 
-And you will say, Thus said the Lord: You burned this sheet, saying, Why did you write on it, saying, In entering king of Babylon will enter and destroy this land and man and cattle will fail from it?
+And you will say, Thus said the Lord: You burned this sheet, saying, Why did you write on it, saying, In entering, the king of Babylon will enter and destroy this land, and man and cattle will fail from it?
 
 **Jeremiah 43:30**
 
-Therefore thus said the Lord concerning Jehoiakim king of Judah: There will not be for him one sitting on the throne of David, and his corpse will be thrown out in the heat of day and frost of night.
+Therefore thus said the Lord concerning Jehoiakim king of Judah: There will not be for him one sitting on the throne of David, and his corpse will be thrown out in the heat of the day and in the frost of the night.
 
 **Jeremiah 43:31**
 
-And I will visit upon him and upon his seed and upon his servants, and I will bring upon them and upon those dwelling in Jerusalem and upon the land of Judah all evils which I spoke to them and they did not hear.
+And I will visit upon him and upon his seed and upon his servants, and I will bring upon them and upon those dwelling in Jerusalem and upon the land of Judah all the evils which I spoke to them, and they did not hear.
 
 **Jeremiah 43:32**
 
-And Baruch took another sheet and wrote on it from the mouth of Jeremiah all words of scroll which Jehoiakim burned, and still more words like these were added to it.
+And Baruch took another sheet and wrote on it from the mouth of Jeremiah all the words of the scroll which Jehoiakim burned, and still more words like these were added to it.
 
 ### Chapter 44
 
 **Jeremiah 44:1**
 
-And Zedekiah son of Josiah reigned instead of Jehoiakim, whom Nebuchadnezzar king of Babylon made reign over Judah.
+And Zedekiah son of Josiah reigned instead of Jehoiakim, whom Nebuchadnezzar king of Babylon made king over Judah.
 
 **Jeremiah 44:2**
 
-And he and his servants and people of the land did not hear the words of the Lord which he spoke by the hand of Jeremiah.
+And he and his servants and the people of the land did not hear the words of the Lord which he spoke by the hand of Jeremiah.
 
 **Jeremiah 44:3**
 
@@ -81286,11 +81286,11 @@ And King Zedekiah sent Jucal son of Shelemiah and Zephaniah son of Maaseiah the 
 
 **Jeremiah 44:4**
 
-And Jeremiah came and passed through the midst of the city, and they had not given him into the house of prison.
+And Jeremiah came and went through the midst of the city, and they had not put him into the house of the prison.
 
 **Jeremiah 44:5**
 
-And the force of Pharaoh went out from Egypt, and Chaldeans heard their report and went up from Jerusalem.
+And the force of Pharaoh went out from Egypt, and the Chaldeans heard their report and went up from Jerusalem.
 
 **Jeremiah 44:6**
 
@@ -81298,7 +81298,7 @@ And the word of the Lord came to Jeremiah, saying,
 
 **Jeremiah 44:7**
 
-Thus said the Lord: Thus you will say to the king of Judah who sent to you to seek me: Behold, force of Pharaoh which came out to help you will return into the land of Egypt.
+Thus said the Lord: Thus you will say to the king of Judah who sent to you to seek me: Behold, the force of Pharaoh which came out to help you will return into the land of Egypt.
 
 **Jeremiah 44:8**
 
@@ -81306,43 +81306,43 @@ And these Chaldeans will return and fight against this city and seize it and bur
 
 **Jeremiah 44:9**
 
-Because thus said the Lord: Do not assume in your souls, saying, In fleeing away Chaldeans will go away from us, because they will certainly not go away.
+Because thus said the Lord: Do not suppose in your souls, saying, In running away, the Chaldeans will depart from us, because they will certainly not go away.
 
 **Jeremiah 44:10**
 
-And if you strike all force of Chaldeans fighting you and some remain pierced, each in his place, these will rise up and burn this city with fire.
+And if you strike every force of the Chaldeans fighting you and some wounded men remain, each in his place, these will rise up and burn this city with fire.
 
 **Jeremiah 44:11**
 
-And it happened when force of Chaldeans went up from Jerusalem from the face of force of Pharaoh,
+And it happened when the force of the Chaldeans went up from Jerusalem from before the force of Pharaoh,
 
 **Jeremiah 44:12**
 
-Jeremiah went out from Jerusalem to go into the land of Benjamin to buy from there in the midst of the people.
+Jeremiah went out from Jerusalem to go into the land of Benjamin to buy there in the midst of the people.
 
 **Jeremiah 44:13**
 
-And it happened he was at the gate of Benjamin, and there man with whom Seraiah son of Shelemiah son of Hananiah lodged, and he seized Jeremiah, saying, You flee to Chaldeans.
+And it happened that he was at the gate of Benjamin, and there was a man there with whom Seraiah son of Shelemiah son of Hananiah lodged, and he seized Jeremiah, saying, You are fleeing to the Chaldeans.
 
 **Jeremiah 44:14**
 
-And he said, False. I do not flee to Chaldeans. And he did not hear him, and Seraiah seized Jeremiah and brought him to rulers.
+And he said, False. I am not fleeing to the Chaldeans. But he did not hear him, and Seraiah seized Jeremiah and brought him to the rulers.
 
 **Jeremiah 44:15**
 
-And rulers were embittered against Jeremiah and struck him and sent him into the house of Jonathan the scribe, because they made this into the house of prison.
+And the rulers were embittered against Jeremiah and struck him and sent him into the house of Jonathan the scribe, because they had made this into a house of prison.
 
 **Jeremiah 44:16**
 
-And Jeremiah came into the house of pit and into cells and sat there many days.
+And Jeremiah came into the house of the pit and into the cells and sat there many days.
 
 **Jeremiah 44:17**
 
-And Zedekiah sent and called him, and the king asked him secretly, to say whether there is word from the Lord. And he said, There is. Into the hands of the king of Babylon you will be handed over.
+And Zedekiah sent and called him, and the king asked him secretly whether there was a word from the Lord. And he said, There is. Into the hands of the king of Babylon you will be handed over.
 
 **Jeremiah 44:18**
 
-And Jeremiah said to the king, What wrong did I do to you and your servants and this people, that you give me into the house of prison?
+And Jeremiah said to the king, What wrong did I do to you and to your servants and to this people, that you give me into the house of prison?
 
 **Jeremiah 44:19**
 
@@ -81350,29 +81350,29 @@ And where are your prophets who prophesied to you, saying that the king of Babyl
 
 **Jeremiah 44:20**
 
-And now, lord king, let my mercy fall before your face, and why do you turn me back into the house of Jonathan the scribe, so that I not die there?
+And now, lord king, let my plea for mercy fall before your face, and why do you turn me back into the house of Jonathan the scribe, so that I not die there?
 
 **Jeremiah 44:21**
 
-And the king commanded, and they put him into the house of prison, and gave him one loaf of bread each day from outside where loaves fall, until breads failed from the city. And Jeremiah sat in the court of the prison.
+And the king commanded, and they put him into the house of the prison, and they gave him one loaf of bread each day from outside where they baked, until the bread failed from the city. And Jeremiah sat in the court of the prison.
 
 ### Chapter 45
 
 **Jeremiah 45:1**
 
-And Shephatiah son of Mattan and Gedaliah son of Pashhur and Jucal son of Shelemiah heard words which Jeremiah spoke to people, saying,
+And Shephatiah son of Mattan and Gedaliah son of Pashhur and Jucal son of Shelemiah heard the words which Jeremiah spoke to the people, saying,
 
 **Jeremiah 45:2**
 
-Thus said the Lord: One dwelling in this city will die by sword and by famine, and one going out to Chaldeans will live, and his soul will be for gain and he will live.
+Thus said the Lord: The one dwelling in this city will die by sword and by famine, and the one going out to the Chaldeans will live, and his soul will be for gain, and he will live.
 
 **Jeremiah 45:3**
 
-Because thus said the Lord: This city in being handed over will be handed into the hands of force of the king of Babylon, and he will seize it.
+Because thus said the Lord: This city, in being handed over, will be handed into the hands of the force of the king of Babylon, and he will seize it.
 
 **Jeremiah 45:4**
 
-And they said to the king, Let that man be killed, because he weakens the hands of men fighting, remaining in the city, and hands of all the people, speaking to them according to these words, because this man does not seek peace for this people but evil.
+And they said to the king, Let that man be killed, because he weakens the hands of the fighting men remaining in the city and the hands of all the people, speaking to them according to these words, because this man does not prophesy peace for this people but evil things.
 
 **Jeremiah 45:5**
 
@@ -81380,11 +81380,11 @@ And the king said, Behold, he is in your hands, because the king could not oppos
 
 **Jeremiah 45:6**
 
-And they threw him into the pit of Malchiah son of the king, which was in the court of the prison, and lowered him into pit, and in pit there was no water but mire, and he was in mire.
+And they threw him into the pit of Malchiah son of the king, which was in the court of the prison, and lowered him into the pit, and in the pit there was no water but mire, and he was in the mire.
 
 **Jeremiah 45:7**
 
-And Ebed-melech the Ethiopian heard, and he was in the house of the king, that they put Jeremiah into pit, and the king was in the gate of Benjamin.
+And Ebed-melech the Ethiopian heard, while he was in the house of the king, that they put Jeremiah into the pit, and the king was in the gate of Benjamin.
 
 **Jeremiah 45:8**
 
@@ -81392,27 +81392,27 @@ And he went out to him and spoke to the king and said,
 
 **Jeremiah 45:9**
 
-You did evil, what you did, to kill this man from the face of famine, because there are no longer breads in the city.
+You did evil in what you did, to kill this man because of famine, because there are no longer loaves in the city.
 
 **Jeremiah 45:10**
 
-And the king commanded Ebed-melech, saying, Take thirty men in your hands from here and bring him up out of pit so that he not die.
+And the king commanded Ebed-melech, saying, Take thirty men in your hands from here and bring him up out of the pit so that he not die.
 
 **Jeremiah 45:11**
 
-And Ebed-melech took the men and entered into lower chamber of the house of the king and took from there old rags and old ropes and threw them to Jeremiah into pit.
+And Ebed-melech took the men and entered into the lower chamber of the house of the king and took from there old rags and old ropes and threw them to Jeremiah into the pit.
 
 **Jeremiah 45:12**
 
-And he said, Put these under ropes. And Jeremiah did so.
+And he said, Put these under the ropes. And Jeremiah did so.
 
 **Jeremiah 45:13**
 
-And they pulled him with ropes and brought him up from pit, and Jeremiah sat in the court of the prison.
+And they pulled him with the ropes and brought him up from the pit, and Jeremiah sat in the court of the prison.
 
 **Jeremiah 45:14**
 
-And the king sent and called him to himself into third house in the house of the Lord, and the king said to him, I will ask you word, and do not hide thing from me.
+And the king sent and called him to himself into the house of Aselisi, which is in the house of the Lord, and the king said to him, I will ask you a word, and do not hide a thing from me.
 
 **Jeremiah 45:15**
 
@@ -81420,7 +81420,7 @@ And Jeremiah said to the king, If I tell you, will you not surely kill me? And i
 
 **Jeremiah 45:16**
 
-And the king swore to him, saying, As the Lord lives, who made this soul for us, if I kill you and if I give you into the hands of these men.
+And the king swore to him, saying, As the Lord lives, who made this soul for us, I will not kill you, and I will not give you into the hands of these men.
 
 **Jeremiah 45:17**
 
@@ -81428,27 +81428,27 @@ And Jeremiah said to him, Thus said the Lord: If in going out you go out to the 
 
 **Jeremiah 45:18**
 
-And if you do not go out, this city will be given into the hands of Chaldeans, and they will burn it with fire, and you will certainly not be saved.
+And if you do not go out, this city will be given into the hands of the Chaldeans, and they will burn it with fire, and you will certainly not be saved.
 
 **Jeremiah 45:19**
 
-And the king said to Jeremiah, I have concern because of Judeans who fled to Chaldeans, lest they give me into their hands and they mock me.
+And the king said to Jeremiah, I have concern because of the Judeans who have fled to the Chaldeans, lest they give me into their hands and mock me.
 
 **Jeremiah 45:20**
 
-And Jeremiah said, They will certainly not hand you over. Hear the word of the Lord which I speak to you, and it will be better for you and your soul will live.
+And Jeremiah said, They will certainly not hand you over. Hear the word of the Lord which I speak to you, and it will be better for you, and your soul will live.
 
 **Jeremiah 45:21**
 
-And if you do not want to go out, this is word which the Lord showed me:
+And if you do not want to go out, this is the word which the Lord showed me:
 
 **Jeremiah 45:22**
 
-Behold, all women left in the house of the king of Judah were being brought out to the rulers of the king of Babylon, and they said, Your peace-men deceived you and will prevail against you. They lodged your feet in slipping-places and turned away from you.
+And behold, all the women left in the house of the king of Judah were being brought out to the rulers of the king of Babylon, and they said, Your men of peace deceived you and will prevail against you; they will set your feet in slippery places; they turned away from you.
 
 **Jeremiah 45:23**
 
-And your wives and your children they will bring out to Chaldeans, and you will certainly not be saved, because by the hand of the king of Babylon you will be seized, and this city will be burned.
+And your wives and your children they will bring out to the Chaldeans, and you will certainly not be saved, because by the hand of the king of Babylon you will be seized, and this city will be burned.
 
 **Jeremiah 45:24**
 
@@ -81456,63 +81456,63 @@ And the king said to him, Let no man know of these words, and you will certainly
 
 **Jeremiah 45:25**
 
-And if rulers hear that I spoke to you and come to you and say, Announce to us what king spoke to you, do not hide from us and we will certainly not kill you, and what king spoke to you,
+And if the rulers hear that I spoke to you and come to you and say, Tell us what the king spoke to you. Do not hide it from us, and we will certainly not kill you. What did the king speak to you?
 
 **Jeremiah 45:26**
 
-then you will say to them, I cast my mercy before the eyes of the king, so as not to turn me back to the house of Jonathan to die there.
+then you will say to them, I cast my plea for mercy before the eyes of the king, so as not to turn me back to the house of Jonathan to die there.
 
 **Jeremiah 45:27**
 
-And all rulers came to Jeremiah and questioned him, and he announced to them according to all these words which king commanded him, and they were silent, because the word of the Lord was not heard.
+And all the rulers came to Jeremiah and questioned him, and he announced to them according to all these words which the king commanded him, and they were silent, because the lord's word was not heard.
 
 **Jeremiah 45:28**
 
-And Jeremiah sat in the court of the prison until time when Jerusalem was taken.
+And Jeremiah sat in the court of the prison until the time when Jerusalem was taken.
 
 ### Chapter 46
 
 **Jeremiah 46:1**
 
-And it happened in the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon came and all his force against Jerusalem and besieged it.
+And it happened in the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon came, he and all his force, against Jerusalem and besieged it.
 
 **Jeremiah 46:2**
 
-And in eleventh year of Zedekiah, in the fourth month, ninth of the month, city was breached.
+And in the eleventh year of Zedekiah, in the fourth month, on the ninth of the month, the city was breached.
 
 **Jeremiah 46:3**
 
-And all rulers of the king of Babylon entered and sat in middle gate: Nergal-sareser and Samagoth and Nebusachar and Nebusaris and Nagargasnaser, Rabmag, and rest of rulers of the king of Babylon.
+And all the rulers of the king of Babylon entered and sat in the middle gate: Nergal-sareser and Samagoth and Nebusachar and Nebusaris and Nagargasnaser, Rabmag, and the rest of the rulers of the king of Babylon.
 
 **Jeremiah 46:14**
 
-And they sent and took Jeremiah from the court of the prison and gave him to Gedaliah son of Ahikam son of Shaphan, and they brought him out and he sat in the midst of the people.
+And they sent and took Jeremiah from the court of the prison and gave him to Gedaliah son of Ahikam son of Shaphan, and they brought him out, and he sat in the midst of the people.
 
 **Jeremiah 46:15**
 
-And to Jeremiah the word of the Lord came in the court of the prison, saying,
+And the word of the Lord came to Jeremiah in the court of the prison, saying,
 
 **Jeremiah 46:16**
 
-Go and say to Ebed-melech the Ethiopian, Thus said the Lord God of Israel: Behold, I bring my words upon this city for evils and not for good.
+Go and say to Ebed-melech the Ethiopian, Thus said the Lord God of Israel: Behold, I bring my words upon this city for evil things and not for good things.
 
 **Jeremiah 46:17**
 
-And I will save you in that day, and I will certainly not give you into the hands of men whose face you fear from before them.
+And I will save you in that day, and I will certainly not give you into the hands of the men whose face you fear.
 
 **Jeremiah 46:18**
 
-Because saving I will save you, and by sword you will certainly not fall, and your soul will be for gain, because you trusted on me, says the Lord.
+Because in saving, I will save you, and by sword you will certainly not fall, and your soul will be for gain, because you trusted in me, says the Lord.
 
 ### Chapter 47
 
 **Jeremiah 47:1**
 
-Word that came from the Lord to Jeremiah later, after Nebuzaradan chief cook sent him away from Ramah, when he took him in handcuffs in the midst of exile of Judah being led to Babylon.
+The word that came from the Lord to Jeremiah later, after Nebuzaradan the chief cook sent him away from Ramah, when he took him in handcuffs in the midst of the exile of Judah being led to Babylon.
 
 **Jeremiah 47:2**
 
-And chief cook took him and said to him, The Lord your God spoke these evils against this place.
+And the chief cook took him and said to him, The Lord your God spoke these evils against this place.
 
 **Jeremiah 47:3**
 
@@ -81520,11 +81520,11 @@ And the Lord did it because you sinned against him and did not hear his voice.
 
 **Jeremiah 47:4**
 
-Behold, I loosed you from handcuffs on your hands. If it is good before you to come with me into Babylon, come, and I will set my eyes on you.
+Behold, I released you from the handcuffs on your hands. If it is good before you to come with me into Babylon, come, and I will set my eyes on you.
 
 **Jeremiah 47:5**
 
-And if not, run back and return to Gedaliah son of Ahikam son of Shaphan, whom the king of Babylon appointed in the land of Judah, and dwell with him in the midst of the people in the land of Judah. Go wherever it is good in your eyes to go. And chief cook gave him provisions and gifts and sent him away.
+And if not, run back and return to Gedaliah son of Ahikam son of Shaphan, whom the king of Babylon appointed in the land of Judah, and dwell with him in the midst of the people in the land of Judah. Go wherever it is good in your eyes to go. And the chief cook gave him provisions and gifts and sent him away.
 
 **Jeremiah 47:6**
 
@@ -81532,7 +81532,7 @@ And he came to Gedaliah at Mizpah and sat in the midst of the people left in the
 
 **Jeremiah 47:7**
 
-And all the leaders of the force in the field, they and their men, heard that the king of Babylon appointed Gedaliah in the land and entrusted to him men and women, those not exiled to Babylon.
+And all the leaders of the force in the field, they and their men, heard that the king of Babylon appointed Gedaliah in the land and entrusted to him men and their women, those not exiled to Babylon.
 
 **Jeremiah 47:8**
 
@@ -81540,27 +81540,27 @@ And Ishmael son of Nethaniah and Johanan son of Kareah and Seraiah son of Tanhum
 
 **Jeremiah 47:9**
 
-And Gedaliah swore to them and to their men, saying, Do not fear from the face of servants of Chaldeans. Dwell in the land and serve king of Babylon, and it will be better for you.
+And Gedaliah swore to them and to their men, saying, Do not fear from the face of the servants of the Chaldeans. Dwell in the land and serve the king of Babylon, and it will be better for you.
 
 **Jeremiah 47:10**
 
-And behold, I sit before you in Mizpah to stand before the face of Chaldeans who may come upon you. And you gather wine and fruit and oil and put into your vessels and dwell in cities which you seized.
+And behold, I sit before you in Mizpah, to stand before the face of the Chaldeans who may come upon you. And you gather wine and summer fruit and oil and put them into your vessels and dwell in the cities which you seized.
 
 **Jeremiah 47:11**
 
-And all Judeans in the land of Moab and among sons of Ammon and in Edom and in all the land heard that the king of Babylon gave remnant to Judah and appointed over them Gedaliah son of Ahikam.
+And all the Judeans in the land of Moab and among the sons of Ammon and in Edom and in all the land heard that the king of Babylon gave a remnant to Judah and appointed over them Gedaliah son of Ahikam.
 
 **Jeremiah 47:12**
 
-And they came to Gedaliah into the land of Judah, to Mizpah, and gathered wine and very much fruit and oil.
+And they came to Gedaliah into the land of Judah, to Mizpah, and gathered wine and very much summer fruit and oil.
 
 **Jeremiah 47:13**
 
-And Johanan son of Kareah and all leaders of force in fields came to Gedaliah at Mizpah
+And Johanan son of Kareah and all the leaders of the force in the fields came to Gedaliah at Mizpah
 
 **Jeremiah 47:14**
 
-and said to him, In knowing do you know that Baalis king of sons of Ammon sent Ishmael to strike your soul? And Gedaliah did not believe them.
+and said to him, In knowledge do you know that Baalis king of the sons of Ammon sent Ishmael to strike your soul? And Gedaliah did not believe them.
 
 **Jeremiah 47:15**
 
@@ -81568,61 +81568,61 @@ And Johanan said to Gedaliah secretly in Mizpah, I will go now and strike Ishmae
 
 **Jeremiah 47:16**
 
-And Gedaliah said to Johanan, Do not do this thing, because you speak lies concerning Ishmael.
+And Gedaliah said to Johanan, Do not do this thing, because you are speaking lies concerning Ishmael.
 
 ### Chapter 48
 
 **Jeremiah 48:1**
 
-And it happened in seventh month Ishmael son of Nethaniah son of Eleasah, from the seed of the king, and ten men with him came to Gedaliah at Mizpah, and they ate bread there together.
+And it happened in the seventh month, Ishmael son of Nethaniah son of Elasa, from the seed of the king, and ten men with him came to Gedaliah at Mizpah, and they ate bread there together.
 
 **Jeremiah 48:2**
 
-And Ishmael rose up, and the ten men with him, and struck Gedaliah whom king of Babylon had appointed over the land.
+And Ishmael rose up, and the ten men who were with him, and struck Gedaliah whom the king of Babylon had appointed over the land.
 
 **Jeremiah 48:3**
 
-And all Judeans who were with him in Mizpah, and all Chaldeans found there.
+and all the Judeans who were with him in Mizpah, and all the Chaldeans found there.
 
 **Jeremiah 48:4**
 
-And it happened on second day after he struck Gedaliah, and no man knew,
+And it happened on the second day after he struck Gedaliah, and no man knew,
 
 **Jeremiah 48:5**
 
-that men came from Shechem and from Shalem and from Samaria, eighty men with beards shaved and garments torn and cutting themselves, and manna and frankincense in their hands to bring into the house of the Lord.
+that men came from Shechem and from Shalem and from Samaria, eighty men with beards shaved, garments torn, and cutting themselves, with manna and frankincense in their hands to bring into the house of the Lord.
 
 **Jeremiah 48:6**
 
-And Ishmael went out to meet them. They went and wept, and he said to them, Enter to Gedaliah.
+And Ishmael went out to meet them. They were going and weeping, and he said to them, Enter to Gedaliah.
 
 **Jeremiah 48:7**
 
-And it happened when they entered into the midst of the city, he slaughtered them into pit.
+And it happened when they entered into the midst of the city, he slaughtered them into the pit.
 
 **Jeremiah 48:8**
 
-And ten men were found there, and they said to Ishmael, Do not kill us, because treasures are ours in the field: wheat and barley, honey and oil. And he passed by and did not kill them in the midst of their brothers.
+And ten men were found there, and they said to Ishmael, Do not kill us, because we have treasures in the field: wheat and barley, honey and oil. And he passed by and did not kill them in the midst of their brothers.
 
 **Jeremiah 48:9**
 
-And pit into which Ishmael threw all whom he struck, this great pit is that which King Asa made against Baasha king of Israel. Ishmael filled it with wounded men.
+And the pit into which Ishmael threw all whom he struck was the great pit which King Asa made because of Baasha king of Israel. Ishmael filled it with wounded men.
 
 **Jeremiah 48:10**
 
-And Ishmael carried off all the people left in Mizpah, and daughters of the king whom chief cook entrusted to Gedaliah son of Ahikam, and he went to beyond sons of Ammon.
+And Ishmael carried off all the people left in Mizpah, and the daughters of the king whom the chief cook entrusted to Gedaliah son of Ahikam, and he went away beyond the sons of Ammon.
 
 **Jeremiah 48:11**
 
-And Johanan son of Kareah and all leaders of force with him heard all evils which Ishmael did.
+And Johanan son of Kareah and all the leaders of the force with him heard all the evils which Ishmael had done.
 
 **Jeremiah 48:12**
 
-And they took all their army and went to fight him and found him by much water in Gibeon.
+And they brought all their camp and went to fight him and found him by the great water in Gibeon.
 
 **Jeremiah 48:13**
 
-And it happened when all the people with Ishmael saw Johanan and leaders of force with him,
+And it happened when all the people with Ishmael saw Johanan and the leaders of the force with him,
 
 **Jeremiah 48:14**
 
@@ -81634,49 +81634,49 @@ And Ishmael escaped with eight men and went to the sons of Ammon.
 
 **Jeremiah 48:16**
 
-And Johanan and all leaders of force with him took all remnant of the people whom he turned back from Ishmael, mighty men in war and women and rest and eunuchs whom he turned back from Gibeon.
+And Johanan and all the leaders of the force with him took all the remnant of the people whom he turned back from Ishmael: mighty men in war, the women, the rest, and the eunuchs whom he turned back from Gibeon.
 
 **Jeremiah 48:17**
 
-And they went and sat in Gaberoth-chamaam near Bethlehem, to go and enter Egypt
+And they went and sat in Gaberoth-chamaam near Bethlehem, to go enter Egypt
 
 **Jeremiah 48:18**
 
-from the face of Chaldeans, because they feared from the face of them, because Ishmael struck Gedaliah whom the king of Babylon appointed in the land.
+from before the Chaldeans, because they feared before their face, because Ishmael struck Gedaliah whom the king of Babylon appointed in the land.
 
 ### Chapter 49
 
 **Jeremiah 49:1**
 
-And all the leaders of the force approached, and Johanan and Azariah son of Maaseiah and all the people from small to great,
+And all the leaders of the force came near, and Johanan and Azariah son of Maaseiah and all the people from small to great,
 
 **Jeremiah 49:2**
 
-to Jeremiah the prophet, and said to him, Let now our mercy fall before your face, and pray to the Lord your God concerning these remnants, because we were left few from many, as your eyes see us.
+to Jeremiah the prophet and said to him, Let our plea for mercy now fall before your face, and pray to the Lord your God concerning these remnants, because we have been left few from many, as your eyes see.
 
 **Jeremiah 49:3**
 
-And let the Lord your God announce to us the way in which we will go and word which we will do.
+And let the Lord your God announce to us the way in which we should go and the word which we should do.
 
 **Jeremiah 49:4**
 
-And Jeremiah said to them, I heard. Behold, I will pray to the Lord our God according to your words, and word which the Lord answers I will announce to you. I will not hide word from you.
+And Jeremiah said to them, I have heard. Behold, I will pray to the Lord our God according to your words, and whatever word the Lord answers, I will announce to you. I will certainly not hide a word from you.
 
 **Jeremiah 49:5**
 
-And they said to Jeremiah, Let the Lord be in us as righteous and faithful witness if according to all word which the Lord sends you to us we do not do so.
+And they said to Jeremiah, Let the Lord be among us as a righteous and faithful witness if we do not do so according to every word which the Lord sends you to us.
 
 **Jeremiah 49:6**
 
-Whether good or evil, the voice of the Lord our God, whom we send you to him, we will hear, so that it may be better for us because we will hear the voice of the Lord our God.
+Whether good or evil, the voice of the Lord our God, to whom we are sending you, we will hear, so that it may be better for us, because we will hear the voice of the Lord our God.
 
 **Jeremiah 49:7**
 
-And it happened after ten days, the word of the Lord came to Jeremiah.
+And it happened after ten days, that the word of the Lord came to Jeremiah.
 
 **Jeremiah 49:8**
 
-And he called Johanan and leaders of force and all the people from small to great,
+And he called Johanan and the leaders of the force and all the people from small to great,
 
 **Jeremiah 49:9**
 
@@ -81684,11 +81684,11 @@ and said to them, Thus said the Lord:
 
 **Jeremiah 49:10**
 
-If in settling you settle in this land, I will build you and never tear down, and plant you and never pull up, because I have rested from evils which I did to you.
+If in settling you settle in this land, I will build you and certainly not tear down, and I will plant you and certainly not pull up, because I have ceased from the evils which I did to you.
 
 **Jeremiah 49:11**
 
-Do not fear from the face of the king of Babylon, whom you fear from the face of him. Do not fear, says the Lord, because I am with you to rescue you and save you from his hand.
+Do not fear before the face of the king of Babylon, whom you fear before his face. Do not fear, says the Lord, because I am with you to rescue you and save you from his hand.
 
 **Jeremiah 49:12**
 
@@ -81708,57 +81708,57 @@ therefore hear the word of the Lord. Thus said the Lord: If you set your face to
 
 **Jeremiah 49:16**
 
-then sword which you fear from the face of it will find you in the land of Egypt, and famine about which you have concern will overtake you behind you in Egypt, and there you will die.
+then the sword which you fear before its face will find you in the land of Egypt, and the famine about which you have concern will overtake you behind you in Egypt, and there you will die.
 
 **Jeremiah 49:17**
 
-And all men and all foreigners who set their face toward the land of Egypt to dwell there will fail by sword and by famine. There will not be among them one saved from evils which I bring on them.
+And all the men and all the foreigners who set their face toward the land of Egypt to dwell there will fail by the sword and by the famine. There will not be one of them saved from the evils which I bring on them.
 
 **Jeremiah 49:18**
 
-Because thus said the Lord: As my wrath dripped upon dwellers of Jerusalem, so my wrath will drip on you when you enter Egypt, and you will be for trackless waste and underhand and for curse and for reproach, and you will not see this place again.
+Because thus said the Lord: As my wrath dripped upon the dwellers of Jerusalem, so my wrath will drip on you when you enter Egypt, and you will become trackless waste and subject people, and for a curse and for reproach, and you will not see this place again.
 
 **Jeremiah 49:19**
 
-What the Lord spoke against you, remnants of Judah: Do not enter Egypt, and now in knowing you will know,
+The Lord has spoken these things against you, remnants of Judah: Do not enter Egypt. And now in knowing, you will know,
 
 **Jeremiah 49:20**
 
-because you did evil in your souls, sending me, saying, Pray concerning us to the Lord, and according to all the Lord says to you we will do.
+because you acted wickedly in your souls when you sent me, saying, Pray concerning us to the Lord, and according to everything the Lord speaks to you, we will do.
 
 **Jeremiah 49:21**
 
-And you did not hear the voice of the Lord, by which he sent me to you.
+And you did not hear the voice of the Lord, with which he sent me to you.
 
 **Jeremiah 49:22**
 
-And now by sword and by famine you will fail in place where you want to enter to dwell there.
+And now by sword and by famine you will fail in the place where you want to enter and dwell there.
 
 ### Chapter 50
 
 **Jeremiah 50:1**
 
-And it happened as Jeremiah ceased speaking to people all the words of the Lord, which the Lord sent him to them, all these words,
+And it happened when Jeremiah ceased speaking to the people all the words of the Lord, all these words with which the Lord had sent him to them,
 
 **Jeremiah 50:2**
 
-Azariah son of Maaseiah and Johanan son of Kareah and all men said to Jeremiah, saying, Lies. The Lord did not send you to us, saying, Do not enter Egypt to dwell there.
+Azariah son of Maaseiah and Johanan son of Kareah and all the men said to Jeremiah, You are speaking lies. The Lord did not send you to us, saying, Do not enter Egypt to dwell there.
 
 **Jeremiah 50:3**
 
-But Baruch son of Neriah conspires against us, so as to give us into the hands of Chaldeans, to kill us and exile us to Babylon.
+But Baruch son of Neriah is setting you against us, so as to give us into the hands of the Chaldeans, to put us to death and deport us to Babylon.
 
 **Jeremiah 50:4**
 
-And Johanan and all leaders of force and all the people did not hear the voice of the Lord, to dwell in the land of Judah.
+And Johanan and all the leaders of the force and all the people did not hear the voice of the Lord, to dwell in the land of Judah.
 
 **Jeremiah 50:5**
 
-And Johanan and all leaders of force took all remnants of Judah who returned to dwell in the land,
+And Johanan and all the leaders of the force took all the remnant of Judah who had returned to dwell in the land,
 
 **Jeremiah 50:6**
 
-mighty men and women and infants and daughters of the king and souls whom Nebuzaradan left with Gedaliah son of Ahikam, and Jeremiah the prophet and Baruch son of Neriah,
+the mighty men, the women, the infants, the daughters of the king, and the souls whom Nebuzaradan had left with Gedaliah son of Ahikam, and Jeremiah the prophet and Baruch son of Neriah,
 
 **Jeremiah 50:7**
 
@@ -81770,65 +81770,65 @@ And the word of the Lord came to Jeremiah in Tahpanhes, saying,
 
 **Jeremiah 50:9**
 
-Take for yourself great stones and hide them in entrance by the gate of the house of Pharaoh in Tahpanhes, before the eyes of men of Judah.
+Take great stones for yourself and hide them in the forecourt at the gate of the house of Pharaoh in Tahpanhes, before the eyes of the men of Judah.
 
 **Jeremiah 50:10**
 
-And you will say, Thus said the Lord: Behold, I send and will bring Nebuchadnezzar king of Babylon and he will set his throne upon these stones which you hid, and will lift his weapons over them.
+And you will say, Thus said the Lord: Behold, I send and will bring Nebuchadnezzar king of Babylon, and he will set his throne above these stones which you hid and will raise his weapons over them.
 
 **Jeremiah 50:11**
 
-And he will enter and strike the land of Egypt: those for death to death, and those for exile to exile, and those for sword to sword.
+And he will enter and strike the land of Egypt: those for death, to death; those for exile, to exile; and those for sword, to sword.
 
 **Jeremiah 50:12**
 
-And he will burn fire in the houses of their gods and burn them and carry them away, and destroy the land of Egypt as a shepherd destroys his garment, and he will go out in peace.
+And he will burn a fire in the houses of their gods, burn them, and carry them away, and he will delouse the land of Egypt as a shepherd delouses his garment, and he will go out in peace.
 
 **Jeremiah 50:13**
 
-And he will shatter pillars of Heliopolis which are in On, and their houses he will burn with fire.
+And he will shatter the pillars of Sun-city, those in On, and their houses he will burn with fire.
 
 ### Chapter 51
 
 **Jeremiah 51:1**
 
-Word that came to Jeremiah to all Judeans dwelling in the land of Egypt and to those sitting in Migdol and in Tahpanhes and in the land of Pathros, saying,
+The word that came to Jeremiah for all the Judeans dwelling in the land of Egypt, and for those sitting in Migdol and in Tahpanhes and in the land of Pathros, saying,
 
 **Jeremiah 51:2**
 
-Thus said the Lord God of Israel: You saw all evils which I brought upon Jerusalem and upon the cities of Judah, and behold, they are desolate from dwellers,
+Thus said the Lord God of Israel: You have seen all the evils which I brought upon Jerusalem and upon the cities of Judah, and behold, they are desolate, without dwellers,
 
 **Jeremiah 51:3**
 
-because of their evils which they did to provoke me, going to burn incense to other gods whom you did not know.
+because of their evil things which they did to provoke me by going to burn incense to other gods whom you did not know.
 
 **Jeremiah 51:4**
 
-And I sent to you my servants the prophets early and sent, saying, Do not do deed of this pollution which I hated.
+And I sent to you my servants the prophets, rising early and sending, saying, Do not do the deed of this pollution which I hated.
 
 **Jeremiah 51:5**
 
-And they did not hear me and did not incline ear to turn back from their evils, so as not to burn incense to other gods.
+And they did not hear me and did not incline their ear to turn back from their evils, so as not to burn incense to other gods.
 
 **Jeremiah 51:6**
 
-And my wrath and my anger dripped and burned in the cities of Judah and outside Jerusalem, and they became for desolation and for trackless waste as this day.
+And my wrath and my anger dripped and burned in the cities of Judah and outside Jerusalem, and they became desolation and trackless waste, as on this day.
 
 **Jeremiah 51:7**
 
-And now thus said the Lord Almighty: Why do you do great evils against your souls, to cut off from you man and woman, infant and nursing child from the midst of Judah, so that none be left to you,
+And now thus said the Lord Almighty: Why are you doing great evils against your souls, to cut off from you man and woman, infant and nursing child from the midst of Judah, so that no one be left to you,
 
 **Jeremiah 51:8**
 
-provoking me by the works of your hands, burning incense to other gods in the land of Egypt into which you entered to dwell there, so that you may be cut off and become for curse and reproach among all nations of the earth?
+provoking me by the works of your hands, burning incense to other gods in the land of Egypt into which you entered to dwell there, so that you may be cut off and become a curse and a reproach among all the nations of the earth?
 
 **Jeremiah 51:9**
 
-Have you not forgotten evils of your fathers and evils of kings of Judah and evils of your rulers and evils of your women, which they did in the land of Judah and outside Jerusalem?
+Have you forgotten the evils of your fathers and the evils of the kings of Judah and the evils of your rulers and the evils of your women, which they did in the land of Judah and outside Jerusalem?
 
 **Jeremiah 51:10**
 
-And they did not cease until this day and did not endure my ordinances which I gave before the face of their fathers.
+And they did not cease until this day and did not hold fast to my ordinances which I gave before the face of their fathers.
 
 **Jeremiah 51:11**
 
@@ -81836,7 +81836,7 @@ Therefore thus said the Lord: Behold, I set my face
 
 **Jeremiah 51:12**
 
-to destroy all remnants in Egypt, and they will fall by sword and by famine. They will fail from small to great, and they will be for reproach and destruction and curse.
+to destroy all the remnant in Egypt, and they will fall by sword and by famine. They will fail from small to great, and they will be for reproach and destruction and curse.
 
 **Jeremiah 51:13**
 
@@ -81844,39 +81844,39 @@ And I will visit upon those dwelling in the land of Egypt as I visited upon Jeru
 
 **Jeremiah 51:14**
 
-And there will not be anyone saved of remnants of Judah sojourning in the land of Egypt to return into the land of Judah, upon which they hope in their souls to return there. They will certainly not return, except rescued ones.
+And there will not be anyone saved among the remnant of Judah sojourning in the land of Egypt, to return to the land of Judah on which they hope in their souls to return there. They will certainly not return, except escaped ones.
 
 **Jeremiah 51:15**
 
-And all men knowing that their wives burn incense to other gods answered Jeremiah, and all women, great assembly, and all the people dwelling in the land of Egypt in Pathros, saying,
+And all the men who knew that their wives were burning incense to other gods answered Jeremiah, and all the women, a great assembly, and all the people dwelling in the land of Egypt in Pathros, saying,
 
 **Jeremiah 51:16**
 
-Word which you spoke to us in the name of the Lord, we will not hear from you.
+The word which you spoke to us in the name of the Lord, we will not listen to you.
 
 **Jeremiah 51:17**
 
-Because in doing we will do every word which goes out from our mouth, to burn incense to the queen of heaven and pour libations to her, just as we and our fathers and our kings and our rulers did in the cities of Judah and outside Jerusalem, and we were filled with bread and became good and saw no evils.
+Because in doing, we will do every word which goes out from our mouth: to burn incense to the queen of heaven and pour libations to her, just as we and our fathers and our kings and our rulers did in the cities of Judah and outside Jerusalem, and we were filled with bread and were well off and saw no evils.
 
 **Jeremiah 51:18**
 
-And when we stopped burning incense to the queen of heaven, we were all diminished and failed by sword and famine.
+And when we stopped burning incense to the queen of heaven, we were all diminished and failed by sword and by famine.
 
 **Jeremiah 51:19**
 
-And because we burn incense to the queen of heaven and pour libations to her, did we make cakes for her and pour libations to her without our husbands?
+And when we burn incense to the queen of heaven and pour libations to her, was it without our husbands that we made cakes for her and poured libations to her?
 
 **Jeremiah 51:20**
 
-And Jeremiah said to all the people and to men and to women and to all the people answering him words, saying,
+And Jeremiah said to all the people, to the mighty men and to the women and to all the people who answered him words, saying,
 
 **Jeremiah 51:21**
 
-Was it not incense which you burned in the cities of Judah and outside Jerusalem, you and your fathers and your kings and your rulers and people of the land, that the Lord remembered and it rose upon his heart?
+Was it not the incense which you burned in the cities of Judah and outside Jerusalem, you and your fathers and your kings and your rulers and the people of the land, that the Lord remembered, and did it not rise upon his heart?
 
 **Jeremiah 51:22**
 
-And the Lord was no longer able to bear from the face of evil of your deeds, from abominations which you did, and your land became for desolation and for trackless waste and for curse as in this day,
+And the Lord was no longer able to bear because of the evil of your deeds, because of the abominations which you did, and your land became desolation and trackless waste and a curse, as on this day,
 
 **Jeremiah 51:23**
 
@@ -81884,35 +81884,35 @@ because you burned incense and sinned against the Lord and did not hear the voic
 
 **Jeremiah 51:24**
 
-And Jeremiah said to people and to women, Hear the word of the Lord.
+And Jeremiah said to the people and to the women, Hear the word of the Lord.
 
 **Jeremiah 51:25**
 
-Thus said the Lord God of Israel: You women spoke with your mouth and fulfilled with your hands, saying, In doing we will do our vows which we vowed, to burn incense to the queen of heaven and pour libations to her. In abiding you abided in your vows and in doing you did them.
+Thus said the Lord God of Israel: You women spoke with your mouth and fulfilled with your hands, saying, In doing we will do our vows which we vowed, to burn incense to the queen of heaven and pour libations to her. In abiding, you abided in your vows, and in doing, you did them.
 
 **Jeremiah 51:26**
 
-Therefore hear the word of the Lord, all Judah dwelling in the land of Egypt. Behold, I swore by my great name, said the Lord, if my name still becomes in the mouth of any Judah to say, As the Lord lives, Lord, in all the land of Egypt.
+Therefore hear the word of the Lord, all Judah dwelling in the land of Egypt. Behold, I swore by my great name, said the Lord, that my name shall certainly no longer be in the mouth of any Judah in all the land of Egypt, to say, As the Lord lives, Lord.
 
 **Jeremiah 51:27**
 
-Because behold, I watched over them to do them evil and not good, and all Judah dwelling in the land of Egypt will fail by sword and famine until they disappear.
+Because behold, I watched over them for evil and not for good, and all Judah dwelling in the land of Egypt will fail by sword and by famine until they disappear.
 
 **Jeremiah 51:28**
 
-And those saved from swords will return to the land of Judah, few in number, and remnants of Judah who went into the land of Egypt to dwell there will know whose word stands.
+And those saved from the sword will return to the land of Judah, few in number, and the remnant of Judah who settled in the land of Egypt to dwell there will know whose word stands.
 
 **Jeremiah 51:29**
 
-And this to you is sign that I will visit you for evils.
+And this will be the sign to you that I will visit upon you for evil things.
 
 **Jeremiah 51:30**
 
-Thus said the Lord: Behold, I give Hophra king of Egypt into the hands of his enemy and into the hands of ones seeking his soul, just as I gave Zedekiah king of Judah into the hands of Nebuchadnezzar king of Babylon, his enemy and one seeking his soul.
+Thus said the Lord: Behold, I give Hophra king of Egypt into the hands of his enemy and into the hands of those seeking his soul, just as I gave Zedekiah king of Judah into the hands of Nebuchadnezzar king of Babylon, his enemy and one seeking his soul.
 
 **Jeremiah 51:31**
 
-Word which Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words in scroll from the mouth of Jeremiah, in the fourth year of Jehoiakim son of Josiah king of Judah.
+The word which Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words in the scroll from the mouth of Jeremiah, in the fourth year of Jehoiakim son of Josiah king of Judah.
 
 **Jeremiah 51:32**
 
@@ -81920,57 +81920,57 @@ Thus said the Lord concerning you, Baruch,
 
 **Jeremiah 51:33**
 
-Because you said, Woe, woe, because the Lord added toil upon toil to me. I slept in groanings and found no rest.
+Because you said, Alas, alas, because the Lord added toil upon pain to me. I slept in groanings and found no rest.
 
 **Jeremiah 51:34**
 
-Say to him, Thus said the Lord: Behold, what I built I tear down, and what I planted I pull up.
+Say to him, Thus said the Lord: Behold, what I built, I tear down, and what I planted, I pull up.
 
 **Jeremiah 51:35**
 
-And do you seek great things for yourself? Do not seek, because behold, I bring evils upon all flesh, says the Lord, and I will give your soul for gain in every place where you go.
+And do you seek great things for yourself? Do not seek, because behold, I bring evil things upon all flesh, says the Lord, and I will give your soul for gain in every place where you go there.
 
 ### Chapter 52
 
 **Jeremiah 52:1**
 
-Zedekiah was twenty-one years old when he reigned, and he reigned eleven years in Jerusalem, and the name of his mother was Hamutal daughter of Jeremiah from Libnah.
+Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem, and the name of his mother was Hamutal daughter of Jeremiah from Libnah.
 
 **Jeremiah 52:4**
 
-And it happened in the ninth year of his reign, in the tenth month, tenth of the month, Nebuchadnezzar king of Babylon came and all his force against Jerusalem, and they fenced it around and built four-cornered stones around it.
+And it happened in the ninth year of his reign, in the tenth month, on the tenth of the month, Nebuchadnezzar king of Babylon came, and all his force, against Jerusalem, and they fenced it around and built around it with four-cornered stones.
 
 **Jeremiah 52:5**
 
-And the city came into siege until eleventh year of King Zedekiah.
+And the city came into siege until the eleventh year of King Zedekiah.
 
 **Jeremiah 52:6**
 
-In ninth of the month famine was strengthened in the city, and there were no breads for the people of the land.
+On the ninth of the month, the famine became strong in the city, and there were no loaves for the people of the land.
 
 **Jeremiah 52:7**
 
-And the city was broken through, and all men of war went out by night by way of the gate between wall and outer-wall which was by king’s garden, and Chaldeans were around city, and they went way toward Arabah.
+And the city was broken through, and all the men of war went out by night by way of the gate between the wall and the outer wall which was by the king's garden, while the Chaldeans were around the city, and they went the way toward Arabah.
 
 **Jeremiah 52:8**
 
-And the force of Chaldeans pursued after king and caught him beyond Jericho, and all his servants were scattered from him.
+And the force of Chaldeans pursued after the king and overtook him beyond Jericho, and all his servants were scattered from him.
 
 **Jeremiah 52:9**
 
-And they seized king and led him to the king of Babylon at Riblah, and he spoke with him with judgment.
+And they seized the king and led him to the king of Babylon at Riblah, and he spoke judgment with him.
 
 **Jeremiah 52:10**
 
-And the king of Babylon slaughtered sons of Zedekiah before his eyes, and all rulers of Judah he slaughtered in Riblah.
+And the king of Babylon slaughtered the sons of Zedekiah before his eyes, and all the rulers of Judah he slaughtered in Riblah.
 
 **Jeremiah 52:11**
 
-And the eyes of Zedekiah he blinded, and bound him in shackles, and the king of Babylon led him to Babylon and put him into the house of mill until the day he died.
+And the eyes of Zedekiah he blinded, and he bound him in shackles, and the king of Babylon led him to Babylon and put him into the mill-house until the day he died.
 
 **Jeremiah 52:12**
 
-And in the fifth month, tenth of the month, Nebuzaradan chief cook, who stood before the face of the king of Babylon, came into Jerusalem.
+And in the fifth month, on the tenth of the month, Nebuzaradan the chief cook, who stood before the face of the king of Babylon, came into Jerusalem.
 
 **Jeremiah 52:13**
 
@@ -81978,67 +81978,67 @@ And he burned the house of the Lord and the house of the king and all the houses
 
 **Jeremiah 52:14**
 
-And all wall of Jerusalem around, force of Chaldeans with chief cook, tore down.
+And the whole wall around Jerusalem the force of the Chaldeans with the chief cook tore down.
 
 **Jeremiah 52:16**
 
-And chief cook left remnants of the people as vine-dressers and farmers.
+And the chief cook left some of the remnant of the people as vine-dressers and farmers.
 
 **Jeremiah 52:17**
 
-And bronze pillars in the house of the Lord and bases and bronze sea in the house of the Lord Chaldeans shattered, and took their bronze and carried it into Babylon.
+And the bronze pillars in the house of the Lord, and the bases, and the bronze sea in the house of the Lord, the Chaldeans shattered, and they took their bronze and carried it to Babylon.
 
 **Jeremiah 52:18**
 
-And crown and bowls and meat-hooks and all bronze vessels with which they ministered in them,
+And the crown and the bowls and the meat-hooks and all the bronze vessels with which they ministered,
 
 **Jeremiah 52:19**
 
-and censers and bowls and pouring-vessels and lampstands and fire-pans and cups, whatever was gold and whatever was silver, chief cook took.
+and the censers and the bowls and the pouring-vessels and the lampstands and the fire-pans and the cups, whatever was gold, gold, and whatever was silver, silver, the chief cook took.
 
 **Jeremiah 52:20**
 
-And two pillars and one sea and twelve bronze oxen under sea, which King Solomon made for the house of the Lord. There was no weighing of their bronze.
+And the two pillars and the one sea and the twelve bronze oxen under the sea, which King Solomon made for the house of the Lord: there was no weighing of their bronze.
 
 **Jeremiah 52:21**
 
-And pillars, thirty-five cubits height of one pillar, and cord of twelve cubits encircled it, and its thickness four fingers around.
+And the pillars: thirty-five cubits was the height of one pillar, and a cord of twelve cubits encircled it, and its thickness was four fingers around.
 
 **Jeremiah 52:22**
 
-And bronze capital upon them, and five cubits length of one capital’s projection, and net and pomegranates upon capital around, all bronze, and according to these for second pillar, eight pomegranates to cubit in twelve cubits.
+And a bronze capital was upon them, and the projection of the one capital was five cubits in length, and netting and pomegranates were upon the capital around, all bronze, and likewise for the second pillar: eight pomegranates to the cubit in twelve cubits.
 
 **Jeremiah 52:23**
 
-And pomegranates were ninety-six on one side, and all pomegranates upon net around were one hundred.
+And the pomegranates were ninety-six on one side, and all the pomegranates upon the netting around were one hundred.
 
 **Jeremiah 52:24**
 
-And chief cook took first priest and second priest and three keeping way.
+And the chief cook took the first priest and the second priest and the three who kept the way.
 
 **Jeremiah 52:25**
 
-And one eunuch who was overseer over the men of war, and seven named men in face of the king found in the city, and secretary of forces writing for the people of the land, and sixty men from the people of the land found in the midst of the city.
+And one eunuch who was overseer over the men of war, and seven named men before the face of the king who were found in the city, and the secretary of the forces who wrote for the people of the land, and sixty men from the people of the land who were found in the midst of the city.
 
 **Jeremiah 52:26**
 
-And Nebuzaradan chief cook took them and led them to the king of Babylon at Riblah.
+And Nebuzaradan the chief cook took them and led them to the king of Babylon at Riblah.
 
 **Jeremiah 52:27**
 
-And the king of Babylon struck them in Riblah in the land of Hamath.
+And the king of Babylon struck them at Riblah in the land of Hamath.
 
 **Jeremiah 52:31**
 
-And it happened in thirty-seventh year after Jehoiakim king of Judah was exiled, in the twelfth month, on twenty-fourth of the month, Evilmerodach king of Babylon in year when he reigned lifted up head of Jehoiakim king of Judah and brought him out from the house where he was kept.
+And it happened in the thirty-seventh year after Jehoiakim king of Judah was exiled, in the twelfth month, on the twenty-fourth of the month, Evil-merodach king of Babylon, in the year when he reigned, lifted up the head of Jehoiakim king of Judah and brought him out from the house in which he was kept.
 
 **Jeremiah 52:32**
 
-And he spoke good things to him and gave his throne above thrones of kings with him in Babylon.
+And he spoke good things to him and gave his throne above the thrones of the kings with him in Babylon.
 
 **Jeremiah 52:33**
 
-And he changed his prison garment, and he ate bread continually before his face all days which he lived.
+And he changed his prison garment, and he ate bread continually before his face all the days that he lived.
 
 **Jeremiah 52:34**
 
@@ -82054,75 +82054,75 @@ And it happened after Israel was taken captive and Jerusalem was made desolate, 
 
 **Lamentations 1:1**
 
-How city sat alone, filled with peoples. She became like widow, once great among nations, ruler among regions became for tribute.
+How the city sat alone, she who had been filled with peoples. She became like a widow, she who had been great among the nations; ruler among regions, she became subject to tribute.
 
 **Lamentations 1:2**
 
-Weeping she wept in night, and her tears on her cheeks, and there is no one comforting her from all loving her. All her friends acted faithlessly in her. They became enemies to her.
+Weeping, she wept in the night, and her tears are on her cheeks; there is no one comforting her among all who love her. All her friends acted faithlessly toward her; they became enemies to her.
 
 **Lamentations 1:3**
 
-Judah was exiled from her affliction and from the multitude of her slavery. She sat among nations and found no rest. All persecuting her overtook her between oppressors.
+Judah was exiled because of her affliction and because of the multitude of her slavery. She sat among nations and found no rest. All who pursued her overtook her in the midst of those afflicting her.
 
 **Lamentations 1:4**
 
-Roads of Zion mourn because none come to feast. All her gates ruined. Her priests groan. Her virgins led away. She is embittered in herself.
+The roads of Zion mourn because none come to the feast. All her gates are ruined. Her priests groan. Her virgins are led away, and she is embittered within herself.
 
 **Lamentations 1:5**
 
-Those afflicting her became head, and her enemies prospered, because the Lord humbled her for multitude of her ungodlinesses. Her little ones went into captivity before the face of afflicter.
+Those afflicting her became the head, and her enemies prospered, because the Lord humbled her for the multitude of her ungodlinesses. Her little ones went into captivity before the face of the afflicter.
 
 **Lamentations 1:6**
 
-And from daughter Zion all her beauty went out. Her rulers became like rams finding no pasture, and they went in no strength before pursuer.
+And all her beauty went out from daughter Zion. Her rulers became like rams finding no pasture, and they went in no strength before the face of the pursuer.
 
 **Lamentations 1:7**
 
-Jerusalem remembered days of her humiliation and her rejections, all her desires from ancient days, when her people fell into the hand of afflicter and there was no helper for her. Seeing her, her enemies laughed at her deportation.
+Jerusalem remembered the days of her humiliation and her rejections, all her desirable things that were from ancient days, when her people fell into the hand of the afflicter and there was no helper for her. Her enemies saw her and laughed at her deportation.
 
 **Lamentations 1:8**
 
-Jerusalem sinned sin. Therefore she became for shaking. All glorifying her humbled her, for they saw her shame, and she herself groaning turned backward.
+Jerusalem sinned a sin; therefore she became a shaking. All who glorified her humbled her, for they saw her shame, and she herself, groaning, turned backward.
 
 **Lamentations 1:9**
 
-Her uncleanness at her feet. She did not remember her end, and he brought her down exceedingly. There is no one comforting her. See, Lord, my humiliation, because enemy magnified himself.
+Her uncleanness is before her feet. She did not remember her end, and she lowered her boastful words. There is no one comforting her. See, Lord, my humiliation, because the enemy magnified himself.
 
 **Lamentations 1:10**
 
-Afflicter spread out his hand upon all her desirable things, for she saw nations entering her sanctuary, whom you commanded not to enter your assembly.
+The afflicter spread out his hand upon all her desirable things, for she saw nations entering her sanctuary, whom you commanded not to enter into your assembly.
 
 **Lamentations 1:11**
 
-All her people groaning seek bread. They gave their desirable things for food, to restore life. See, Lord, and look, because I became dishonored.
+All her people groan, seeking bread. They gave their desirable things for food, to restore life. See, Lord, and look, because I became dishonored.
 
 **Lamentations 1:12**
 
-Not to you, all passing by road? Turn and see if there is pain like my pain which happened, word spoken in me. The Lord humbled me in the day of anger of his wrath.
+Is it nothing to you, all who pass along the road? Turn and see if there is pain like my pain, which happened to me. The Lord, who spoke in me, humbled me in the day of the anger of his wrath.
 
 **Lamentations 1:13**
 
-From on high he sent fire into my bones and brought it down. He spread net for my feet. He turned me back. He gave me ruined, pained all day.
+From his height he sent fire into my bones and brought it down. He spread a net for my feet. He turned me back. He made me desolate, pained all day.
 
 **Lamentations 1:14**
 
-He kept watch over my ungodlinesses in my hands. They were woven together and went up upon my neck. My strength weakened, because the Lord gave pains into my hands. I cannot stand.
+He kept watch over my ungodlinesses; they were woven together in my hands and went up upon my neck. My strength weakened, because the Lord gave pains into my hands. I cannot stand.
 
 **Lamentations 1:15**
 
-The Lord took away all my mighty ones from the midst of me. He called time against me to crush my chosen ones. The Lord trod winepress for virgin daughter Judah. Over these things I weep.
+The Lord removed all my mighty ones from the midst of me. He called a time against me to crush my chosen ones. The Lord trod a winepress for virgin daughter Judah. Over these things I weep.
 
 **Lamentations 1:16**
 
-My eye brought down water, because comforter restoring my soul was far from me. My sons became ruined, because enemy prevailed.
+My eye brought down water, because the comforter restoring my soul was far from me. My sons became desolate, because the enemy prevailed.
 
 **Lamentations 1:17**
 
-Zion spread out her hands. There is no one comforting her. The Lord commanded around Jacob those afflicting him. Jerusalem became one sitting apart among them.
+Zion spread out her hands; there is no one comforting her. The Lord commanded those afflicting Jacob around him. Jerusalem became like one sitting apart among them.
 
 **Lamentations 1:18**
 
-The Lord is righteous, because I embittered his mouth. Hear now, all peoples, and see my pain. My virgins and my young men went into captivity.
+The Lord is righteous, because I provoked his mouth. Hear now, all peoples, and see my pain. My virgins and my young men went into captivity.
 
 **Lamentations 1:19**
 
@@ -82130,49 +82130,49 @@ I called my lovers, but they deceived me. My priests and my elders failed in the
 
 **Lamentations 1:20**
 
-See, Lord, because I am afflicted. My inward parts were disturbed, and my heart turned in me, because in embittering I embittered. Outside sword bereaved me, inside the house like death.
+See, Lord, because I am afflicted. My inward parts were disturbed, and my heart turned within me, because in embittering I embittered. Outside, a sword bereaved me; inside the house like death.
 
 **Lamentations 1:21**
 
-Hear now that I groan. There is no one comforting me. All my enemies heard my evils and rejoiced that you did it. You brought day. You called time. They became like me.
+Hear now, because I groan. There is no one comforting me. All my enemies heard my evils and rejoiced because you did it. You brought a day; you called a time, and they became like me.
 
 **Lamentations 1:22**
 
-Let all their evil enter before your face, and glean against them just as they did gleaning against me for all my sins, because many are my groans and my heart is grieved.
+Let all their evil enter before your face, and glean them as they made a gleaning for all my sins, because my groans are many and my heart is grieved.
 
 ### Chapter 2
 
 **Lamentations 2:1**
 
-How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth the glory of Israel and did not remember footstool of his feet in the day of his anger.
+How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth the glory of Israel and did not remember the footstool of his feet in the day of his anger.
 
 **Lamentations 2:2**
 
-The Lord sank all beauties of Jacob, not sparing. He pulled down in wrath strongholds of daughter Judah. He stuck them to ground. He profaned her king and her rulers.
+The Lord submerged all the beautiful things of Jacob without sparing. He pulled down in his wrath the strongholds of daughter Judah. He stuck them to the ground. He profaned her king and her rulers.
 
 **Lamentations 2:3**
 
-He broke in the anger of his wrath every horn of Israel. He turned back his right hand from the face of enemy and kindled in Jacob like fire-flame and devoured all around.
+He broke, in the anger of his wrath, every horn of Israel. He turned back his right hand from the face of the enemy, and he kindled in Jacob like a flame of fire that devoured all around.
 
 **Lamentations 2:4**
 
-He bent his bow like an enemy, fixed his right hand like an adversary, and killed all desirable things of my eyes. In the tent of daughter Zion he poured out his wrath like fire.
+He bent his bow like an enemy; he fixed his right hand like an adversary and killed all the desirable things of my eyes. In the tent of daughter Zion he poured out his wrath like fire.
 
 **Lamentations 2:5**
 
-The Lord became like an enemy. He sank Israel. He sank all her palaces. He destroyed his strongholds and multiplied humiliation for daughter Judah, bringing her low.
+The Lord became like an enemy. He submerged Israel. He submerged all her palaces. He destroyed his strongholds and multiplied humiliation and humbling for daughter Judah.
 
 **Lamentations 2:6**
 
-He scattered his tent like a vine. He destroyed his feast. The Lord forgot feast and sabbath in Zion and provoked in crash of his anger king and priest and ruler.
+He scattered his tent like a vine. He destroyed his feast. The Lord forgot feast and sabbath which he made in Zion, and in the outburst of his anger he provoked king and priest and ruler.
 
 **Lamentations 2:7**
 
-The Lord cast off his altar, shook off his sanctuary, broke into the hand of enemy wall of her palaces. They gave voice in the house of the Lord as on feast day.
+The Lord cast off his altar, shook off his sanctuary, and broke the wall of her palaces by the hand of the enemy. They gave voice in the house of the Lord as on a feast day.
 
 **Lamentations 2:8**
 
-And the Lord turned to destroy wall of daughter Zion. He stretched measuring-line and did not turn back his hand from trampling. Rampart and wall mourned together, weakened as one.
+And the Lord turned to destroy the wall of daughter Zion. He stretched out a measuring line and did not turn back his hand from trampling. Rampart and wall mourned together; they weakened as one.
 
 **Lamentations 2:9**
 
@@ -82180,65 +82180,65 @@ Her gates sank into the ground. He destroyed and broke her bars. Her king and he
 
 **Lamentations 2:10**
 
-They sat on ground, kept silent, elders of daughter Zion. They raised dust on their heads, girded sackcloth. Leaders of virgins in Jerusalem brought themselves down to ground.
+The elders of daughter Zion sat on the ground and kept silent. They raised dust on their heads and girded themselves with sackcloth. The chief virgins in Jerusalem brought themselves down to the ground.
 
 **Lamentations 2:11**
 
-My eyes failed in tears. My heart was troubled. My glory poured out on earth over the crushing of the daughter of my people, when infant and suckling failed in the streets of the city.
+My eyes failed with tears. My heart was troubled. My glory poured out on the earth over the crushing of the daughter of my people, when infant and suckling failed in the streets of the city.
 
 **Lamentations 2:12**
 
-To their mothers they said, Where grain and wine? as they failed like wounded in the streets of the city, as their souls poured out into the bosom of their mothers.
+To their mothers they said, Where are grain and wine? as they failed like wounded ones in the streets of the city, as their souls poured out into the bosom of their mothers.
 
 **Lamentations 2:13**
 
-What will I testify to you? What will I compare to you, daughter Jerusalem? Who will save you and comfort you, virgin daughter Zion? Because cup of your crushing became great. Who will heal you?
+What shall I testify to you, or what shall I compare to you, daughter Jerusalem? Who will save and comfort you, virgin daughter Zion? For the cup of your crushing became great; who will heal you?
 
 **Lamentations 2:14**
 
-Your prophets saw for you vain and foolish things and did not uncover your injustice to restore your captivity, but saw for you vain burdens and expulsions.
+Your prophets saw for you vain and foolish things, and they did not uncover your injustice to turn back your captivity, but they saw for you vain burdens and expulsions.
 
 **Lamentations 2:15**
 
-All passing along road clapped hands over you. They hissed and shook their heads over daughter Jerusalem. Is this the city they called crown of glory, joy of all the earth?
+All who pass along the road clapped hands over you. They hissed and shook their heads over daughter Jerusalem: Is this the city they called the crown of glory, joy of all the earth?
 
 **Lamentations 2:16**
 
-All your enemies opened their mouth over you, hissed and gnashed teeth. They said, We swallowed her up. Yet this is the day we expected. We found it. We saw it.
+All your enemies opened their mouth over you. They hissed and gnashed teeth. They said, We swallowed her up. Yet this is the day we expected; we found it; we saw it.
 
 **Lamentations 2:17**
 
-The Lord did what he intended. He fulfilled his words which he commanded from ancient days. He pulled down and did not spare. He made enemy rejoice over you. He raised horn of one afflicting you.
+The Lord did what he intended. He fulfilled his words which he commanded from ancient days. He pulled down and did not spare. He made the enemy rejoice over you. He raised the horn of the one afflicting you.
 
 **Lamentations 2:18**
 
-Their heart cried to the Lord. Walls of Zion, bring down tears like a torrent day and night. Give yourself no numbness. Let your eye not be silent.
+Their heart cried to the Lord. Walls of Zion, bring down tears like torrents day and night. Give yourself no relief. Let your eye not be silent.
 
 **Lamentations 2:19**
 
-Rise, shout out in night, at beginnings of your watch. Pour out your heart like water before the face of the Lord. Lift your hands to him concerning life of your little ones, those failing in famine at the head of all exits.
+Rise, cry out in the night, at the beginnings of your watch. Pour out your heart like water before the face of the Lord. Lift your hands to him for the life of your little ones, those failing from famine at the head of every street.
 
 **Lamentations 2:20**
 
-See, Lord, and look, against whom did you glean thus? Will women eat fruit of their womb? Cook made gleaning. Will sucklings be killed? Will you kill priest and prophet in sanctuary of the Lord?
+See, Lord, and look: against whom have you gleaned thus? Will women eat the fruit of their womb? The cook made a gleaning. Will nursing infants be killed? Will you kill priest and prophet in the sanctuary of the Lord?
 
 **Lamentations 2:21**
 
-Young boy and elder slept in street. My virgins and my young men went in captivity. In sword and famine you killed. In the day of your anger you cooked. You did not spare.
+Young boy and elder lay down in the street. My virgins and my young men went into captivity. By sword and famine you killed. In the day of your anger you butchered; you did not spare.
 
 **Lamentations 2:22**
 
-You called my sojourners around like feast day, and there were not in the day of anger of the Lord one saved and left. As I held and multiplied, all my enemies.
+You called my sojourners around as on a feast day, and in the day of the Lord's anger there was no one saved and left, though I had strengthened and multiplied all my enemies.
 
 ### Chapter 3
 
 **Lamentations 3:1**
 
-I am man seeing poverty by rod of his wrath upon me.
+I am the man seeing poverty by the rod of his wrath upon me.
 
 **Lamentations 3:2**
 
-He took me and led me into darkness and not light.
+He took me and led me into darkness, and not light.
 
 **Lamentations 3:3**
 
@@ -82246,11 +82246,11 @@ Only against me he turned his hand all day.
 
 **Lamentations 3:4**
 
-He made my flesh and my skin old. He shattered my bones.
+He made my flesh and my skin old; he shattered my bones.
 
 **Lamentations 3:5**
 
-He built against me and surrounded my head and wearied me.
+He built against me and surrounded my head, and he brought toil upon me.
 
 **Lamentations 3:6**
 
@@ -82258,83 +82258,83 @@ In dark places he seated me like the dead of long ago.
 
 **Lamentations 3:7**
 
-He built against me and I will not go out. He made my bronze heavy.
+He built against me, and I will not go out. He made my bronze chain heavy.
 
 **Lamentations 3:8**
 
-And though I cry out and shout, he fenced off my prayer.
+Even when I cry out and shout, he fenced off my prayer.
 
 **Lamentations 3:9**
 
-He built up my ways, blocked my paths, troubled me.
+He built up my ways, blocked my paths, and troubled me.
 
 **Lamentations 3:10**
 
-He is bear lying in wait for me, lion in hidden places.
+He was a bear lying in wait for me, a lion in hidden places.
 
 **Lamentations 3:11**
 
-He pursued me, dragged me away, made me ruined.
+He pursued me when I had turned aside and stopped me; he made me desolate.
 
 **Lamentations 3:12**
 
-He bent his bow and set me as target for arrow.
+He bent his bow and set me as a target for an arrow.
 
 **Lamentations 3:13**
 
-He brought into my kidneys arrows of his quiver.
+He brought into my kidneys the arrows of his quiver.
 
 **Lamentations 3:14**
 
-I became laugh to all my people, their song all day.
+I became a laughingstock to all my people, their song all day.
 
 **Lamentations 3:15**
 
-He filled me with bitterness, made me drunk with gall.
+He filled me with bitterness; he made me drunk with gall.
 
 **Lamentations 3:16**
 
-And he cast out my teeth with pebble. He fed me ashes.
+And he dashed out my teeth with gravel. He fed me ashes.
 
 **Lamentations 3:17**
 
-And he thrust my soul away from peace. I forgot good things.
+And he thrust my soul away from peace; I forgot good things.
 
 **Lamentations 3:18**
 
-And I said, My victory perished, and my hope from the Lord.
+And I said, My victory and my hope from the Lord have perished.
 
 **Lamentations 3:19**
 
-I remembered from my poverty and from my persecution my bitterness and my gall.
+I remembered, because of my poverty and because of my persecution, my bitterness and my gall.
 
 **Lamentations 3:20**
 
-My soul will remember and talk over me.
+My soul will remember and meditate within me.
 
 **Lamentations 3:21**
 
-This I will set in my heart. Therefore I endure.
+This I will set in my heart; therefore I endure.
 
 **Lamentations 3:25**
 
-The Lord is good to those waiting for him, soul that seeks him, good.
+The Lord is good to those waiting for him, good to the soul that seeks him.
 
 **Lamentations 3:26**
 
-And he waits and is quiet for the salvation of the Lord.
+And one waits and keeps quiet for the salvation of the Lord.
 
 **Lamentations 3:27**
 
-Good for man when he bears yoke in his youth.
+It is good for a man when he bears a yoke in his youth.
 
 **Lamentations 3:28**
 
-He will sit alone and be silent, because he took it on himself.
+He will sit alone and be silent, because he took it upon himself.
 
 **Lamentations 3:30**
 
-He will give cheek to one striking him. He will be filled with reproaches.
+He will give his cheek to one striking him. He will be filled with reproaches.
 
 **Lamentations 3:31**
 
@@ -82342,15 +82342,15 @@ Because the Lord will not cast off forever.
 
 **Lamentations 3:32**
 
-Because one who humbled will have compassion according to the multitude of his mercy.
+Because the one who humbled will have compassion according to the multitude of his mercy.
 
 **Lamentations 3:33**
 
-Because he did not answer from his heart and humbled sons of man.
+Because he did not answer from his heart when he humbled sons of man.
 
 **Lamentations 3:34**
 
-To humble under his feet all prisoners of earth,
+To humble under his feet all prisoners of the earth,
 
 **Lamentations 3:35**
 
@@ -82358,39 +82358,39 @@ to turn aside the judgment of a man before the face of the Most High,
 
 **Lamentations 3:36**
 
-to condemn man in his judging, the Lord did not say.
+to condemn a man in his judging, the Lord did not say.
 
 **Lamentations 3:37**
 
-Who thus spoke and it happened, when the Lord did not command?
+Who thus spoke and it happened, if the Lord did not command?
 
 **Lamentations 3:38**
 
-From the mouth of Most High will not evils and good come out?
+Will not evils and good come out from the mouth of the Most High?
 
 **Lamentations 3:39**
 
-Why will living man complain, man about his sin?
+Why will a living man complain, a man about his sin?
 
 **Lamentations 3:40**
 
-Our way was searched out and examined, and let us turn back to the Lord.
+Our way was searched out and examined; let us turn back to the Lord.
 
 **Lamentations 3:41**
 
-Let us lift our hearts with hands to Most High in heaven.
+Let us lift our hearts with our hands to the Most High in heaven.
 
 **Lamentations 3:42**
 
-We sinned, we acted ungodly, and you were not propitiated.
+We sinned; we acted ungodly, and you were not propitiated.
 
 **Lamentations 3:43**
 
-You covered in wrath and drove us away. You killed. You did not spare.
+You covered us in wrath and drove us away. You killed; you did not spare.
 
 **Lamentations 3:44**
 
-You covered yourself with cloud because of prayer.
+You covered yourself with a cloud because of prayer.
 
 **Lamentations 3:45**
 
@@ -82398,19 +82398,19 @@ To close my eyes and be thrust away, you placed us in the midst of the peoples.
 
 **Lamentations 3:46**
 
-All our enemies opened their mouth over us.
+All our enemies opened their mouth against us.
 
 **Lamentations 3:47**
 
-Fear and anger came upon us, exaltation and crushing.
+Fear and anger came upon us, upheaval and crushing.
 
 **Lamentations 3:48**
 
-The streams of waters my eye will bring down over the crushing of the daughter of my people.
+My eye will bring down streams of waters over the crushing of the daughter of my people.
 
 **Lamentations 3:49**
 
-My eye was consumed and I will not be silent, so that there be no numbness,
+My eye was consumed, and I will not be silent, so that there be no relief,
 
 **Lamentations 3:50**
 
@@ -82418,15 +82418,15 @@ until the Lord looks down and sees from heaven.
 
 **Lamentations 3:51**
 
-My eye gleans against my soul beyond all daughters of the city.
+My eye preys upon my soul because of all the daughters of the city.
 
 **Lamentations 3:52**
 
-Hunting they hunted me like a sparrow, my enemies for nothing.
+Hunting, they hunted me like a sparrow, my enemies without cause.
 
 **Lamentations 3:53**
 
-They killed my life in pit and put stone upon me.
+They killed my life in a pit and put a stone upon me.
 
 **Lamentations 3:54**
 
@@ -82434,7 +82434,7 @@ Water overflowed over my head. I said, I am thrust away.
 
 **Lamentations 3:55**
 
-I called on your name, Lord, from lowest pit.
+I called on your name, Lord, from the lowest pit.
 
 **Lamentations 3:56**
 
@@ -82442,15 +82442,15 @@ You heard my voice. Do not hide your ears from my petition.
 
 **Lamentations 3:57**
 
-You came near to my help on the day when I called you. You said to me, Do not fear.
+You came near for my help on the day when I called you. You said to me, Do not fear.
 
 **Lamentations 3:58**
 
-You judged, Lord, judgments of my soul. You redeemed my life.
+You pleaded, Lord, the cases of my soul. You redeemed my life.
 
 **Lamentations 3:59**
 
-You saw, Lord, my tumults. You judged my case.
+You saw, Lord, my troubles. You judged my case.
 
 **Lamentations 3:60**
 
@@ -82462,7 +82462,7 @@ You heard their reproach, all their reasonings against me.
 
 **Lamentations 3:62**
 
-The lips of those rising against me and their meditations against me all day.
+The lips of those rising against me and their meditations are against me all day.
 
 **Lamentations 3:63**
 
@@ -82470,105 +82470,105 @@ Their sitting and their rising, look upon their eyes.
 
 **Lamentations 3:64**
 
-You will repay them repayment, Lord, according to the works of their hands.
+You will repay them recompense, Lord, according to the works of their hands.
 
 **Lamentations 3:65**
 
-You will give them shield of heart, your toil to them.
+You will give them a shield of heart, your toil to them.
 
 **Lamentations 3:66**
 
-You will pursue in anger and consume them from under heaven, Lord.
+You will pursue them in anger and consume them from under heaven, Lord.
 
 ### Chapter 4
 
 **Lamentations 4:1**
 
-How gold was dimmed, good silver changed. Holy stones were poured out at the head of all exits.
+How gold was dimmed; good silver changed. Holy stones were poured out at the head of every street.
 
 **Lamentations 4:2**
 
-Sons of Zion, precious ones raised up in gold, how they were reckoned as earthen vessels, works of potter’s hands.
+The sons of Zion, the precious ones raised up in gold, how they were reckoned as earthen vessels, works of a potter's hands.
 
 **Lamentations 4:3**
 
-Even dragons drew out breasts and suckled their cubs. Daughters of my people became incurable like a sparrow in the wilderness.
+Even dragons drew out breasts and suckled their cubs. The daughters of my people became incurable like a sparrow in the wilderness.
 
 **Lamentations 4:4**
 
-The tongue of a nursing child clung to his throat in thirst. Little ones asked bread. There is no one breaking to them.
+The tongue of a nursing child clung to his throat from thirst. Little ones asked for bread. There is no one breaking it for them.
 
 **Lamentations 4:5**
 
-Those eating delicacies were ruined in streets. Those nourished on scarlet embraced dung-heaps.
+Those eating delicacies were made desolate in the streets. Those nourished on scarlet embraced dung-heaps.
 
 **Lamentations 4:6**
 
-And lawlessness of the daughter of my people grew beyond lawlessness of Sodom, the overthrown one, as if suddenly and no hands pained in her.
+And the lawlessness of the daughter of my people grew beyond the lawlessness of Sodom, the overthrown one, as if suddenly, and no hands labored in her.
 
 **Lamentations 4:7**
 
-Her Nazirites were purer than snow, brighter than milk, redder than sapphire stones, their shape.
+Her Nazirites were purer than snow, brighter than milk; their appearance was redder than sapphire stones.
 
 **Lamentations 4:8**
 
-Their appearance darkened more than soot. They were not recognized in streets. Their skin stuck to their bones. They dried up, became like wood.
+Their appearance darkened more than soot. They were not recognized in the streets. Their skin stuck to their bones; they dried up and became like wood.
 
 **Lamentations 4:9**
 
-Better were wounded of sword than wounded of famine. They went pierced from the produce of fields.
+Better were those wounded by the sword than those wounded by famine. They went pierced from lack of the produce of fields.
 
 **Lamentations 4:10**
 
-The hands of compassionate women cooked their children. They became food to them in crushing of the daughter of my people.
+The hands of compassionate women cooked their children. They became food for them in the crushing of the daughter of my people.
 
 **Lamentations 4:11**
 
-The Lord completed his wrath, poured out anger of his wrath, and kindled fire in Zion, and it devoured her foundations.
+The Lord completed his wrath, poured out the anger of his wrath, and kindled a fire in Zion, and it devoured her foundations.
 
 **Lamentations 4:12**
 
-The kings of the earth did not believe, all dwellers of world, that enemy and oppressor would enter through the gates of Jerusalem,
+The kings of the earth did not believe, all dwellers of the world, that an enemy and oppressor would enter through the gates of Jerusalem,
 
 **Lamentations 4:13**
 
-because of the sins of her prophets, injustices of her priests, those pouring out righteous blood in her midst.
+because of the sins of her prophets, the injustices of her priests, those pouring out righteous blood in her midst.
 
 **Lamentations 4:14**
 
-Her watchmen staggered in streets, were polluted in blood, so that they could not touch their garments.
+Her watchmen staggered in the streets; they were polluted with blood. In their inability, they touched their garments.
 
 **Lamentations 4:15**
 
-Depart, unclean ones, call to them. Depart, depart, do not touch, because they were kindled. And indeed they staggered. They said among nations, They will no longer remain to sojourn.
+Depart from the unclean ones; call to them, Depart, depart, do not touch, because they were kindled. And indeed they staggered. They said among the nations, They will no longer sojourn.
 
 **Lamentations 4:16**
 
-The face of the Lord is their portion. He will no longer look on them. Faces of priests they did not receive, elders they did not pity.
+The face of the Lord is their portion. He will no longer look on them. They did not receive the faces of priests; elders they did not pity.
 
 **Lamentations 4:17**
 
-While we still were, our eyes failed for our help in vain. While watching we watched for nation not saving.
+While we were still alive, our eyes failed for our vain help. While watching, we watched for a nation not saving.
 
 **Lamentations 4:18**
 
-They hunted our little ones from going in our streets. Our time drew near. Our days were filled up. Our time is present.
+We hunted our little ones so they would not walk in our streets. Our time drew near; our days were fulfilled; our time is present.
 
 **Lamentations 4:19**
 
-Our pursuers became swifter than eagles of heaven. On mountains they blazed. In the wilderness they lay in wait for us.
+Our pursuers became swifter than eagles of heaven. On the mountains they blazed. In the wilderness they lay in wait for us.
 
 **Lamentations 4:20**
 
-Breath of our face, anointed of the Lord, was seized in their corruptions, of whom we said, In his shadow we will live among nations.
+The breath of our face, the anointed of the Lord, was seized in their destructions, of whom we said, In his shadow we will live among the nations.
 
 **Lamentations 4:21**
 
-Rejoice and be glad, daughter Edom dwelling on the land. Yet on you also will pass cup of the Lord, and you will be drunk and pour out.
+Rejoice and be glad, daughter Edom dwelling on the land. Yet the cup of the Lord will also pass to you, and you will be drunk and pour out.
 
 **Lamentations 4:22**
 
-Your lawlessness failed, daughter Zion. He will no longer exile you. He visited your lawlessnesses, daughter Edom, he uncovered your ungodlinesses.
+Your lawlessness came to an end, daughter Zion. He will no longer exile you. He visited your lawlessnesses, daughter Edom; he uncovered your ungodlinesses.
 
 ### Chapter 5
 
@@ -82578,39 +82578,39 @@ Remember, Lord, what happened to us. Look and see our reproach.
 
 **Lamentations 5:2**
 
-Our inheritance turned over to strangers, our houses to foreigners.
+Our inheritance was turned over to strangers, our houses to foreigners.
 
 **Lamentations 5:3**
 
-We became orphans. There is no father. Our mothers are like widows.
+We became orphans; there is no father. Our mothers are like widows.
 
 **Lamentations 5:4**
 
-From our days our wood came by exchange.
+From our days, our wood came by exchange.
 
 **Lamentations 5:5**
 
-Upon our neck we were pursued. We labored. We did not rest.
+Upon our neck we were pursued. We labored; we did not rest.
 
 **Lamentations 5:6**
 
-Egypt gave hand to Assyria for their fullness.
+Egypt gave a hand to Assyria for their fullness.
 
 **Lamentations 5:7**
 
-Our fathers sinned and are not. We bore their lawless deeds.
+Our fathers sinned and are not; we bore their lawless deeds.
 
 **Lamentations 5:8**
 
-Slaves ruled us. There is no one redeeming from their hand.
+Slaves ruled over us. There is no one redeeming us from their hand.
 
 **Lamentations 5:9**
 
-With our souls we bring our bread from the face of the sword of the wilderness.
+With our lives we bring our bread from the face of the sword of the wilderness.
 
 **Lamentations 5:10**
 
-Our skin was shriveled like an oven, contracted from the face of storms of famine.
+Our skin was shriveled like an oven, contracted before the storms of famine.
 
 **Lamentations 5:11**
 
@@ -82622,11 +82622,11 @@ Rulers were hung by their hands. Elders were not honored.
 
 **Lamentations 5:13**
 
-Chosen ones took up weeping, and young men weakened at wood.
+Chosen ones took up weeping, and young men weakened under wood.
 
 **Lamentations 5:14**
 
-Elders ceased from gate. Chosen ones ceased from their songs.
+Elders ceased from the gate. Chosen ones ceased from their songs.
 
 **Lamentations 5:15**
 
@@ -82634,31 +82634,31 @@ The joy of our heart ceased. Our dance turned into mourning.
 
 **Lamentations 5:16**
 
-Crown of our head fell. Woe to us, because we sinned.
+The crown of our head fell. Woe now to us, because we sinned.
 
 **Lamentations 5:17**
 
-Because of this our heart became pained. Because of this our eyes darkened,
+Because of this our heart became pained; because of this our eyes darkened,
 
 **Lamentations 5:18**
 
-over mountain Zion, because it was ruined. Foxes passed through it.
+over Mount Zion, because it was ruined. Foxes passed through it.
 
 **Lamentations 5:19**
 
-But you, Lord, will dwell forever, your throne to generation and generation.
+But you, Lord, will dwell forever; your throne is to generation and generation.
 
 **Lamentations 5:20**
 
-Why will you forget us for victory and leave us for the length of days?
+Why will you forget us utterly and leave us for the length of days?
 
 **Lamentations 5:21**
 
-Turn us back, Lord, to you, and we will return, and renew our days as before,
+Turn us back, Lord, to you, and we will return; renew our days as before,
 
 **Lamentations 5:22**
 
-because in thrusting away you thrust us away. You were very angry over us.
+because in thrusting away you thrust us away. You were very angry against us.
 
 ## Ezekiel
 

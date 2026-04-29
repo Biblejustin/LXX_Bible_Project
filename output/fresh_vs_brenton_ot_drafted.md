@@ -165669,73 +165669,73 @@ Note:
 ### Isaiah 44:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord, one redeeming you and shaping you from womb: I, the Lord, completing all, stretched out heaven alone and founded earth. Who else?
+- fresh: Thus says the Lord, the one redeeming you and the one forming you from the womb: I am the Lord, the one completing all things. I stretched out heaven alone and founded the earth. Who else?
 - brenton: Thus saith the Lord that redeems thee, and who formed thee from the womb, I am the Lord that performs all things: I stretched out the heaven alone, and established the earth.
 
 ### Isaiah 44:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He scatters signs of ventriloquists and divinations from heart, turning wise men backward and making their counsel foolish,
+- fresh: He will scatter signs of ventriloquists and divinations from the heart, turning wise men backward and making their counsel foolish,
 - brenton: Who else will frustrate the tokens of those that have divining spirits, and prophecies from the heart of man? turning the wise back, and making their counsel foolishness;
 
 ### Isaiah 44:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: confirming words of his servant and making true counsel of his messengers, saying, Jerusalem, You will be inhabited, and to the cities of Judah, You will be built, and her desolate places will spring up.
+- fresh: He establishes the words of his servant and makes true the counsel of his messengers, the one saying, Jerusalem, You will be inhabited, and to the cities of Judah, You will be built, and her desolate places will spring up.
 - brenton: and confirming the word of his servant, and verifying the counsel of his messengers: who says to Jerusalem, Thou shalt be inhabited; and to the cities of Idumea, Ye shall be built, and her desert places shall spring forth.
 
 ### Isaiah 44:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: saying to abyss, Be made desolate, and I will dry up your rivers.
+- fresh: the one saying to the deep, Be made desolate, and I will dry up your rivers.
 - brenton: Who says to the deep, Thou shalt be dried up, and I will dry up the rivers.
 
 ### Isaiah 44:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: saying Cyrus will think rightly and do all my will, saying, Jerusalem, You will be built, and my holy house, I will lay foundation.
+- fresh: the one saying to Cyrus, Think rightly, and he will do all my will, the one saying, Jerusalem, You will be built, and I will lay the foundation of my holy house.
 - brenton: Who bids Cyrus be wise, and he shall perform all my will: who says to Jerusalem, Thou shalt be built, and I will lay the foundation of my holy house.
 
 ### Isaiah 45:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God to my anointed Cyrus, whose right hand I grasped, to make nations submit before him. I will tear apart the strength of kings, open doors before him, and cities will not be shut.
+- fresh: Thus says the Lord God to Cyrus, my anointed, whose right hand I grasped, to make nations obey before him. I will tear apart the strength of kings, open doors before him, and cities will not be shut.
 - brenton: Thus saith the Lord God to my anointed Cyrus, whose right hand I have held, that nations might be obedient before him; and I will break through the strength of kings; I will open doors before him, and cities shall not be closed.
 
 ### Isaiah 45:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will go before you and level mountains; bronze doors I will crush and iron bars I will break.
+- fresh: I will go before you and level mountains; I will crush bronze doors and break iron bars.
 - brenton: I will go before thee, and will level mountains: I will break to pieces brazen doors, and will burst iron bars.
 
 ### Isaiah 45:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will give you dark treasures, hidden unseen ones I will open for you, so you may know that I, the Lord God, one calling your name, am God of Israel.
+- fresh: And I will give you treasures of darkness; hidden unseen treasures I will open for you, so you may know that I am the Lord God, the one calling your name, the God of Israel.
 - brenton: And I will give thee the treasures of darkness, I will open to thee hidden, unseen treasures, that thou mayest know that I, the Lord thy God, that call thee by name, am the God of Israel.
 
 ### Isaiah 45:4
@@ -165750,109 +165750,109 @@ Note:
 ### Isaiah 45:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I am the Lord God, and there is no other; besides me no god, and you did not know me.
+- fresh: Because I am the Lord God, and there is no other; there is no god besides me, and you did not know me.
 - brenton: For I am the Lord God, and there is no other God beside me; I strengthened thee, and thou hast not known me.
 
 ### Isaiah 45:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: So those from sunrise and those from west may know that none exists besides me. I am the Lord God, and there is no other.
+- fresh: so that those from the rising of the sun and those from the west may know that none exists besides me. I am the Lord God, and there is no other.
 - brenton: That they that come from the east and they that come from the west may know that there is no God but me. I am the Lord God, and there is none beside.
 
 ### Isaiah 45:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I one preparing light and making darkness, making peace and creating evils; I am the Lord God, doing all these things.
+- fresh: I am the one preparing light and making darkness, making peace and creating evils; I am the Lord God, the one doing all these things.
 - brenton: I am he that prepared light, and formed darkness; who make peace, and create evil; I am the Lord God, that does all these things.
 
 ### Isaiah 45:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let heaven above rejoice, and clouds rain righteousness. Let earth bring forth mercy, and let righteousness spring up together. I am the Lord who created you.
+- fresh: Let the heaven above rejoice, and let the clouds rain righteousness. Let the earth sprout mercy, and let righteousness spring up together. I am the Lord who created you.
 - brenton: Let the heaven rejoice from above, and let the clouds rain righteousness: let the earth bring forth, and blossom with mercy, and bring forth righteousness likewise: I am the Lord that created thee.
 
 ### Isaiah 45:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: What better thing did I make than clay of potter? Will a plowman plow the whole earth all day? Will clay say to potter, What are you doing, since you do not work, nor have hands?
+- fresh: What better thing did I make than clay of a potter? Will the plowman plow the whole earth all day? Will the clay say to the potter, What are you doing, since you do not work, nor do you have hands?
 - brenton: What excellent thing have I prepared as clay of the potter? Will the ploughman plough the earth all day? shall the clay say to the potter, What art thou doing that thou dost not work, nor hast hands? shall the thing formed answer him that formed it?
 
 ### Isaiah 45:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to one saying to father, What will you father? and to mother, What are you laboring to bear?
+- fresh: The one saying to the father, What will you beget? and to the mother, What are you laboring to bear?
 - brenton: As though one should say to his father, What wilt thou beget me? and to his mother, What art thou bringing forth?
 
 ### Isaiah 45:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord God, the Holy One of Israel, one making things coming: Ask me concerning my sons and daughters, and command me concerning works of my hands.
+- fresh: Because thus says the Lord God, the Holy One of Israel, the one making the things coming: Ask me concerning my sons and my daughters, and command me concerning the works of my hands.
 - brenton: For thus saith the Lord God, the Holy One of Israel, who has formed the things that are to come, Enquire of me concerning my sons, and concerning the works of my hands command me.
 
 ### Isaiah 45:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I made earth and humankind on it. I with my hand fixed heaven; I commanded all stars.
+- fresh: I made the earth and humankind on it. I fixed heaven with my hand; I commanded all the stars.
 - brenton: I have made the earth, and man upon it: I with my hand have established the heaven; I have given commandment to all the stars.
 
 ### Isaiah 45:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I raised him up with righteousness as king, and all his ways straight. He will build my city and turn back captivity of my people, not with ransom nor with gifts, says the Lord of hosts.
+- fresh: I raised him up with righteousness as king, and all his ways are straight. He will build my city and turn back the captivity of my people, not with ransoms nor with gifts, says the Lord of hosts.
 - brenton: I have raised him up to be a king with righteousness, and all his ways are right: he shall build my city, and shall turn the captivity of my people, not for ransoms, nor for rewards, saith the Lord of hosts.
 
 ### Isaiah 45:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord of hosts: Egypt labored, and trade of Ethiopians, and Sabeans, tall men, will pass over to you and be your slaves, and behind you they will follow, bound with handcuffs, and they will worship you and pray in you, because God is in you; and they will say, No god exists besides you.
+- fresh: Thus says the Lord of hosts: Egypt labored, and the trade of Ethiopians, and the Sabeans, tall men, will pass over to you and be your slaves, and behind you they will follow, bound with fetters, and they will worship you and make supplication to you, because God is in you; and they will say, No god exists besides you.
 - brenton: Thus saith the Lord of hosts, Egypt has laboured for thee; and the merchandise of the Ethiopians, and the Sabeans, men of stature, shall pass over to thee, and shall be thy servants; and they shall follow after thee bound in fetters, and shall pass over to thee, and shall do obeisance to thee, and make supplication to thee: because God is in thee; and there is no God beside thee, O Lord.
 
 ### Isaiah 45:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For you are God, and we did not know it, God of Israel, savior.
+- fresh: For you are God, and we did not know it, the God of Israel, Savior.
 - brenton: For thou art God, yet we knew it not, the God of Israel, the Saviour.
 
 ### Isaiah 45:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All opposing him will be shamed and disgraced, and go in shame. Renew yourselves to me, islands.
+- fresh: All those opposing him will be shamed and disgraced, and they will go in shame. Renew yourselves toward me, islands.
 - brenton: All that are opposed to him shall be ashamed and confounded, and shall walk in shame: ye isles, keep a feast to me.
 
 ### Isaiah 45:17
@@ -165867,430 +165867,430 @@ Note:
 ### Isaiah 45:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord, one making heaven, this God showing earth and making it, he marked it out; not in vain he made it, but to be inhabited. I am, and there is no other.
+- fresh: Thus says the Lord, the one making heaven: this God, the one bringing the earth to view and making it, he himself marked it out. He did not make it empty, but to be inhabited. I am, and there is no other.
 - brenton: Thus saith the Lord that made the heaven, this God that created the earth, and made it; he marked it out, he made it not in vain, but formed it to be inhabited: I am the Lord, and there is none beside.
 
 ### Isaiah 45:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Not in secret I have spoken, nor in the dark place of earth. I did not say to the seed of Jacob, Seek me in vain. I am, I am the Lord, speaking righteousness and declaring truth.
+- fresh: Not in secret have I spoken, nor in a dark place of the earth. I did not say to the seed of Jacob, Seek me in vain. I am, I am the Lord, speaking righteousness and declaring truth.
 - brenton: I have not spoken in secret, nor in a dark place of the earth: I said not to the seed of Jacob, Seek vanity: I, even I, am the Lord, speaking righteousness, and proclaiming truth.
 
 ### Isaiah 45:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Gather and come; take counsel together, you being saved from nations. They did not know, those carrying wood of their carved image and praying as to gods who do not save.
+- fresh: Gather yourselves and come; take counsel together, those being saved from the nations. They did not know, those carrying the wood of their carved image and praying as to gods who do not save.
 - brenton: Assemble yourselves and come; take counsel together, ye that escape of the nations: they that set up wood, even their graven image, have no knowledge, nor they who pray to gods that do not save.
 
 ### Isaiah 45:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If they declare, let them come near so they may know together. Who made these things heard from the beginning? Then I declared them to you. I am God, and no other besides me; righteous and savior, none besides me.
+- fresh: If they declare, let them come near, so they may know together. Who made these things heard from the beginning? Then it was declared to you. I am God, and there is no other besides me; righteous and Savior, there is none apart from me.
 - brenton: If they will declare, let them draw nigh, that they may know together, who has caused these things to be heard from the beginning: then was it told you. I am God, and there is not another beside me; a just God and a Saviour; there is none but me.
 
 ### Isaiah 45:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Turn to me and be saved, those from the end of the earth. I am God and there is no other.
+- fresh: Turn to me and be saved, those from the end of the earth. I am God, and there is no other.
 - brenton: Turn ye to me, and ye shall be saved, ye that come from the end of the earth: I am God, and there is none other.
 
 ### Isaiah 45:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: By myself I swear: surely righteousness will go out from my mouth; my words will not turn back, because to me every knee will bend and every tongue confess to God.
+- fresh: By myself I swear: surely righteousness will go out from my mouth; my words will not turn back, because to me every knee will bend and every tongue will confess to God.
 - brenton: By myself I swear, righteousness shall surely proceed out of my mouth; my words shall not be frustrated; that to me every knee shall bend, and every tongue shall swear by God,
 
 ### Isaiah 45:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: saying, Righteousness and glory will come to him, and all separating themselves will be shamed.
+- fresh: saying, Righteousness and glory will come to him, and all those separating themselves will be shamed.
 - brenton: saying, Righteousness and glory shall come to him: and all that remove them from their borders shall be ashamed.
 
 ### Isaiah 45:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From the Lord all seed of sons of Israel will be justified, and in God be glorified.
+- fresh: From the Lord all the seed of the sons of Israel will be justified, and in God they will be glorified.
 - brenton: By the Lord shall they be justified, and in God shall all the seed of the children of Israel be glorified.
 
 ### Isaiah 46:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Bel fell, Dagon shattered. Their carved images became for animals and cattle. Carry them tied up as burden for weary one.
+- fresh: Bel fell; Dagon was shattered. Their carved images came to belong to wild animals and cattle. Carry them, bound, like a burden for a weary one.
 - brenton: Bel has fallen, Nabo is broken to pieces, their graven images are gone to the wild beasts and the cattle: ye take them packed up as a burden to the weary, exhausted, hungry, and at the same time helpless man;
 
 ### Isaiah 46:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And for hungry and weakened one, not strong together, they will not be able to save themselves from war, but they themselves were led away captive.
+- fresh: and for a hungry and exhausted one, one without strength. Together they will not be able to be saved from war, but they themselves were led away captive.
 - brenton: who will not be able to save themselves from war, but they themselves are led away captive.
 
 ### Isaiah 46:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear me, house of Jacob, and all remnant of Israel, carried from womb and instructed from childhood.
+- fresh: Hear me, house of Jacob, and all the remnant of Israel, the ones being carried from the womb and being instructed from childhood.
 - brenton: Hear me, O house of Jacob, and all the remnant of Israel, who are borne by me from the womb, and taught by me from infancy, even to old age:
 
 ### Isaiah 46:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Until old age I am, and until you grow old I am. I bear you; I made, and I will release; I will take up and save you.
+- fresh: Until old age I am, and until you grow old I am. I bear with you; I made, and I will sustain; I will take up and save you.
 - brenton: I am he; and until ye shall have grown old, I am he: I bear you, I have made, and I will relieve, I will take up and save you.
 
 ### Isaiah 46:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: To whom did you compare me? See. Scheme it out, you wanderers.
+- fresh: To whom have you compared me? Look. Devise it, you who wander.
 - brenton: To whom have ye compared me? see, consider, ye that go astray.
 
 ### Isaiah 46:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Those pouring gold from purse and silver in balance will set it by weight, and hiring goldsmith made handmade things, and bowing down they worship them.
+- fresh: Those pouring out gold from a purse and silver in a balance, they set it by weight, and hiring a goldsmith, they made things made by hands, and bending down they worship them.
 - brenton: They that furnish gold out of a purse, and silver by weight, will weigh it in a scale, and they hire a goldsmith and make idols, and bow down, and worship them.
 
 ### Isaiah 46:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They lift it on shoulders and go. If they set it in its place, it stays; it will not move. Whoever cries to it, it will not hear; from evils it will not save him.
+- fresh: They lift it on their shoulders and go. But if they set it in its place, it remains; it will certainly not move, and whoever cries out to it, it will certainly not hear; it will certainly not save him from evils.
 - brenton: They bear it upon the shoulder, and go; and if they put it upon its place, it remains, it cannot move: and whosoever shall cry to it, it cannot hear; it cannot save him from trouble.
 
 ### Isaiah 46:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Remember these things and groan. Repent, you who have wandered; turn back in heart.
+- fresh: Remember these things and groan. Repent, you who have been led astray; turn back in the heart.
 - brenton: Remember ye these things, and groan: repent, ye that have gone astray, return in your heart;
 
 ### Isaiah 46:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And remember former things from age, because I am God and there is no other besides me.
+- fresh: And remember the former things from the age, because I am God, and there is no other besides me.
 - brenton: and remember the former things that were of old: for I am God, and there is none other beside me,
 
 ### Isaiah 46:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Declaring last things beforehand before they happen, and together they were accomplished. And I said, All my counsel will stand, and all I have planned I will do.
+- fresh: Declaring beforehand the last things before they come to be, and at once they were completed. And I said, All my counsel will stand, and all the things I have planned I will do.
 - brenton: telling beforehand the latter events before they come to pass, and they are accomplished together: and I said, All my counsel shall stand, and I will do all things that I have planned:
 
 ### Isaiah 46:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Calling bird from east and from far land man of my purposes. I spoke and brought it; I created and did it; I brought him and prospered his way.
+- fresh: Calling a bird from the east and from a far land the things concerning which I have planned. I spoke and brought it; I created and made it; I brought him and prospered his way.
 - brenton: calling a bird from the east, and from a land afar off, for the things which I have planned: I have spoken, and brought him; I have created and made him; I have brought him, and prospered his way.
 
 ### Isaiah 46:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear me, you ruined in heart, you far from righteousness.
+- fresh: Hear me, you who have lost the heart, you who are far from righteousness.
 - brenton: Hearken to me, ye senseless ones, that are far from righteousness:
 
 ### Isaiah 46:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I brought near my righteousness and salvation from me. I do not delay. I gave salvation in Zion to Israel for glory.
+- fresh: I brought near my righteousness and the salvation that is from me. I will not delay. I have given salvation in Zion to Israel for glory.
 - brenton: I have brought near my righteousness, and I will not be slow with the salvation that is from me: I have given salvation in Sion to Israel for glory.
 
 ### Isaiah 47:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Come down. Sit on ground, virgin daughter of Babylon. Enter darkness, daughter of Chaldeans, because no longer will you be called tender and delicate.
+- fresh: Come down. Sit upon the ground, virgin daughter of Babylon. Enter into darkness, daughter of the Chaldeans, because no longer will you be called tender and delicate.
 - brenton: Come down, sit on the ground, O virgin daughter of Babylon: sit on the ground, O daughter of the Chaldeans: for thou shalt no more be called tender and luxurious.
 
 ### Isaiah 47:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Take millstone. Grind flour. Uncover your veil, uncover your hair, pull up your skirts, bare your legs, cross rivers.
+- fresh: Take a millstone. Grind flour. Uncover your veil; uncover your gray hairs; draw up your legs; cross rivers.
 - brenton: Take a millstone, grind meal: remove thy veil, uncover thy white hairs, make bare the leg, pass through the rivers.
 
 ### Isaiah 47:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your shame will be uncovered, your reproaches seen. From you I will take justice; I will no longer give you to people.
+- fresh: Your shame will be uncovered; your reproaches will be seen. From you I will take justice; I will no longer hand you over to people.
 - brenton: Thy shame shall be uncovered, thy reproaches shall be brought to light: I will exact of thee due vengeance, I will no longer deliver thee to men.
 
 ### Isaiah 47:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your rescuer said, the Lord of hosts, the Holy One of Israel is his name.
+- fresh: The one who rescued you said: the Lord of hosts is his name, the Holy One of Israel.
 - brenton: Thy deliverer is the Lord of hosts, the Holy One of Israel is his name.
 
 ### Isaiah 47:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sit pierced through. Enter darkness, daughter of Chaldeans, because no longer will you be called strength of kingdom.
+- fresh: Sit pierced through. Enter into darkness, daughter of the Chaldeans, because no longer will you be called strength of a kingdom.
 - brenton: Sit thou down pierced with woe, go into darkness, O daughter of the Chaldeans: thou shalt no more be called the strength of a kingdom.
 
 ### Isaiah 47:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I was provoked against my people. I defiled my inheritance. I gave them into your hand, but you gave them no mercy; on old man you made yoke very heavy.
+- fresh: I was provoked against my people. You defiled my inheritance. I gave them into your hand, but you gave them no mercy; upon the elder you made the yoke very heavy.
 - brenton: I have been provoked with my people; thou hast defiled mine inheritance: I gave them into thy hand, but thou didst not extend mercy to them: thou madest the yoke of the aged man very heavy,
 
 ### Isaiah 47:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you said, For age I will be ruler. You did not consider these things in your heart, nor remember end things.
+- fresh: And you said, Forever I will be ruler. You did not consider these things in your heart, nor remember the last things.
 - brenton: and saidst, I shall be a princess for ever: thou didst not perceive these things in thine heart, nor didst thou remember the latter end.
 
 ### Isaiah 47:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Now hear these things, delicate one, sitting secure, saying in her heart, I am, and there is no other. I will not sit widow, nor know childlessness.
+- fresh: Now hear these things, delicate one, the one sitting secure, the one saying in her heart, I am, and there is no other. I will not sit as a widow, nor know childlessness.
 - brenton: But now hear these words, thou luxurious one, who art the one that sits at ease, that is secure, that says in her heart, I am, and there is not another; I shall not sit a widow, neither shall I know bereavement.
 
 ### Isaiah 47:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But now these two things will come on you suddenly in one day: widowhood and childlessness. Suddenly they will come on you, in your sorcery, in great strength of your spells.
+- fresh: But now these two things will come upon you suddenly in one day: widowhood and childlessness. They will come upon you suddenly in your sorcery, in the great strength of your spells, exceedingly.
 - brenton: But now these two things shall come upon thee suddenly in one day, the loss of children and widowhood shall come suddenly upon thee, for thy sorcery, for the strength of thine enchantments,
 
 ### Isaiah 47:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In hope of your evil, for you said, I am, and there is no other. Know that understanding of these things and your prostitution will be shame to you, and you said in your heart, I am, and there is no other.
+- fresh: In the hope of your evil, for you said, I am, and there is no other. Know that the understanding of these things and your prostitution will be shame to you, and you said in your heart, I am, and there is no other.
 - brenton: for thy trusting in wickedness: for thou saidst, I am, and there is not another: know thou, the understanding of these things and thy harlotry shall be thy shame; for thou saidst in thy heart, I am, and there is not another.
 
 ### Isaiah 47:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And ruin will come on you, and you will not know pit, and you will fall into it. Misery will come on you, and you will not be able to become clean. Sudden ruin will come on you, and you will not know it.
+- fresh: And ruin will come upon you, and you will certainly not know the pit, and you will fall into it. Misery will come upon you, and you will not be able to become clean. Sudden ruin will come upon you, and you will certainly not know it.
 - brenton: And destruction shall come upon thee, and thou shalt not be aware; there shall be a pit, and thou shalt fall into it: and grief shall come upon thee, and thou shalt not be able to be clear; and destruction shall come suddenly upon thee, and thou shalt not know.
 
 ### Isaiah 47:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Stand now with your spells and your much sorcery, which you learned from youth, if perhaps you can be helped.
+- fresh: Stand now in your spells and in your much sorcery, which you learned from your youth, if you will be able to be helped.
 - brenton: Stand now with thine enchantments, and with the abundance of thy sorcery, which thou hast learned from thy youth; if thou canst be profited.
 
 ### Isaiah 47:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You are wearied in your counsels. Let astrologers of heaven stand and save you, those looking at stars; let them announce to you what is coming on you.
+- fresh: You have grown weary in your counsels. Let the astrologers of heaven stand and save you, those seeing the stars; let them announce to you what is about to come upon you.
 - brenton: Thou art wearied in thy counsels. Let now the astrologers of the heaven stand and deliver thee, let them that see the stars tell thee what is about to come upon thee.
 
 ### Isaiah 47:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, all as brushwood in fire will be burned, and they will not rescue their soul from flame, because you have coals of fire to sit on them.
+- fresh: See, all will be burned like brushwood in fire, and they will certainly not rescue their soul from flame, because you have coals of fire; sit upon them.
 - brenton: Behold, they all shall be burnt up as sticks in the fire; neither shall they at all deliver their life from the flame. Because thou hast coals of fire, sit thou upon them;
 
 ### Isaiah 47:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Such will be your help. You labored in your trafficking from youth. Each man wandered by himself. For you there will be no salvation.
+- fresh: These will be your help. You labored in your trafficking from youth. Each man wandered by himself, but for you there will be no salvation.
 - brenton: these shall be thy help. Thou hast wearied thyself with traffic from thy youth: every man has wandered to his own home, but thou shalt have no deliverance.
 
 ### Isaiah 48:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear these things, house of Jacob, those called by the name of Israel and come out of Judah, swearing by the name of the Lord God of Israel, remembering not with truth nor with righteousness.
+- fresh: Hear these things, house of Jacob, those called by the name Israel and those who came out from Judah, those swearing by the name of the Lord God of Israel, making mention not with truth nor with righteousness.
 - brenton: Hear these words, ye house of Jacob, who are called by the name of Israel, and have come forth out of Juda, who swear by the name of the Lord God of Israel, making mention of it, but not with truth, nor with righteousness;
 
 ### Isaiah 48:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And holding fast to name of holy city and leaning on God of Israel; the Lord of hosts is his name.
+- fresh: and those holding fast to the name of the holy city and leaning on the God of Israel; the Lord of hosts is his name.
 - brenton: maintaining also the name of the holy city, and staying themselves on the God of Israel: the Lord of hosts is his name. The former things I have already declared;
 
 ### Isaiah 48:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Former things I declared long ago, and from my mouth they went out and became heard. Suddenly I did them, and they came.
+- fresh: The former things I declared even then, and from my mouth they went out and became heard. Suddenly I did them, and they came.
 - brenton: and they have proceeded out of my mouth, and it became well known; I wrought suddenly, and the events came to pass.
 
 ### Isaiah 48:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I know that you are hard, your neck iron sinew, and your forehead bronze.
+- fresh: I know that you are hard, and your neck is an iron sinew, and your forehead is bronze.
 - brenton: I know that thou art stubborn, and thy neck is an iron sinew, and thy forehead brazen.
 
 ### Isaiah 48:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I declared to you of old, before it came on you I made it heard to you, lest you say, My idols did them, and my carved and cast things commanded me.
+- fresh: And I declared to you of old; before it came upon you, I made it heard to you, lest you say, My idols did them, and lest you say, My carved and cast things commanded me.
 - brenton: And I told thee of old what should be before it came upon thee; I made it known to thee, lest thou shouldest say, My idols have done it for me; and shouldest say, My graven and molten images have commanded me.
 
 ### Isaiah 48:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You heard all, and you did not know. But I also made new things heard to you from now, things about to happen, and you did not say it.
+- fresh: You heard all things, and you did not know. But I also made new things heard to you from now on, the things that are about to come to be, and you did not say.
 - brenton: Ye have heard all this, but ye have not known: yet I have made known to thee the new things from henceforth, which are coming to pass, and thou saidst not,
 
 ### Isaiah 48:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Now they come to be and not long ago, and before today you did not hear them, lest you say, Yes, I know them.
+- fresh: Now they come to be and not long ago, and in former days you did not hear them, lest you say, Yes, I know them.
 - brenton: Now they come to pass, and not formerly: and thou heardest not of them in former days: say not thou, Yea, I know them.
 
 ### Isaiah 48:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You neither knew nor understood, nor from the beginning did I open your ears, for I knew that in rejecting you would reject, and lawless from womb you would be called.
+- fresh: You neither knew nor understood, nor from the beginning did I open your ears, for I knew that in rejecting you would reject, and lawless from the womb you would be called.
 - brenton: Thou hast neither known, nor understood, neither from the beginning have I opened thine ears: for I knew that thou wouldest surely deal treacherously, and wouldest be called a transgressor even from the womb.
 
 ### Isaiah 48:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For the sake of my name I will show you my wrath, and I will bring my glorious acts on you, so I do not destroy you.
+- fresh: For the sake of my name I will show you my wrath, and my glorious things I will bring upon you, so that I do not destroy you.
 - brenton: For mine own sake will I shew thee my wrath, and will bring before thee my glorious acts, that I may not utterly destroy thee.
 
 ### Isaiah 48:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, I sold you, not for silver, but chose you out of furnace of poverty.
+- fresh: See, I have sold you, not for silver, but I rescued you from a furnace of poverty.
 - brenton: Behold, I have sold thee, but not for silver; but I have rescued thee from the furnace of affliction.
 
 ### Isaiah 48:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For my own sake I will do for you, because my name is profaned, and my glory I will not give to another.
+- fresh: For my own sake I will do this for you, because my name is being profaned, and my glory I will not give to another.
 - brenton: For mine own sake I will do this for thee, because my name is profaned; and I will not give my glory to another.
 
 ### Isaiah 48:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Hear me, Jacob, and Israel whom I call. I am first, and I am forever.
@@ -166299,25 +166299,25 @@ Note:
 ### Isaiah 48:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My hand founded earth and my right hand fixed heaven. I will call them, and they will stand together.
+- fresh: My hand founded the earth, and my right hand fixed heaven. I will call them, and they will stand together.
 - brenton: My hand also has founded the earth, and my right hand has fixed the sky: I will call them, and they shall stand together.
 
 ### Isaiah 48:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all will gather and hear. Who among them declared these things? Because I loved you, I did your will against Babylon, to remove seed of Chaldeans.
+- fresh: And all will be gathered and will hear. Who declared these things to them? Loving you, I did your will against Babylon, to remove the seed of the Chaldeans.
 - brenton: And all shall be gathered, and shall hear: who has told them these things? Out of love to thee I have fulfilled thy desire on Babylon, to abolish the seed of the Chaldeans.
 
 ### Isaiah 48:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: I spoke, I called, I brought him, and I prospered his way.
@@ -166326,82 +166326,82 @@ Note:
 ### Isaiah 48:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Come near to me and hear these things. Not from the beginning did I speak in secret, nor in the dark place of earth. When it happened, I was there. And now the Lord sent me and his Spirit.
+- fresh: Come near to me and hear these things. Not from the beginning did I speak in secret, nor in a dark place of the earth. When it came to be, I was there. And now the Lord has sent me, and his Spirit.
 - brenton: Draw nigh to me, and hear ye these words; I have not spoken in secret from the beginning: when it took place, there was I, and now the Lord, even the Lord, and his Spirit, hath sent me.
 
 ### Isaiah 48:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord, the one rescuing you, the Holy One of Israel: I am your God. I showed you to find the way in which you should walk.
+- fresh: Thus says the Lord, the one rescuing you, the Holy One of Israel: I am your God. I have shown you to find the way in which you will walk.
 - brenton: Thus saith the Lord that delivered thee, the Holy One of Israel; I am thy God, I have shewn thee how thou shouldest find the way wherein thou shouldest walk.
 
 ### Isaiah 48:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If you had heard my commandments, then your peace would have become like a river and your righteousness like a wave of sea.
+- fresh: And if you had heard my commandments, your peace would have become like a river and your righteousness like a wave of the sea.
 - brenton: And if thou hadst hearkened to my commandments, then would thy peace have been like a river, and thy righteousness as a wave of the sea.
 
 ### Isaiah 48:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your seed would have become like sand, and offspring of your womb like dust of the earth; nor now would you be destroyed, nor your name perish before me.
+- fresh: And your seed would have become like the sand, and the offspring of your womb like the dust of the earth. Even now you would certainly not be destroyed, nor would your name perish before me.
 - brenton: Thy seed also would have been as the sand, and the offspring of thy belly as the dust of the ground: neither now shalt thou by any means be utterly destroyed, neither shall thy name perish before me.
 
 ### Isaiah 48:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Go out from Babylon, fleeing from Chaldeans. Declare with the voice of gladness and let this be heard. Proclaim it to the end of the earth. Say, the Lord rescued his servant Jacob.
+- fresh: Go out from Babylon, fleeing from the Chaldeans. Declare a voice of gladness, and let this be heard. Proclaim it to the end of the earth. Say, The Lord rescued his servant Jacob.
 - brenton: Go forth of Babylon, thou that fleest from the Chaldeans: utter aloud a voice of joy, and let this be made known, proclaim it to the end of the earth; say ye, The Lord hath delivered his servant Jacob.
 
 ### Isaiah 48:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And if they thirst, through wilderness he will lead them; he will bring out water for them from rock. Rock will be split, water will flow, and my people will drink.
+- fresh: And if they thirst, through a wilderness he will lead them; he will bring out water for them from a rock. A rock will be split, and water will flow, and my people will drink.
 - brenton: And if they shall thirst, he shall lead them through the desert; he shall bring forth water to them out of the rock: the rock shall be cloven, and the water shall flow forth, and my people shall drink.
 
 ### Isaiah 48:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: No rejoicing for ungodly, says the Lord.
+- fresh: There is no rejoicing for the ungodly, says the Lord.
 - brenton: There is no joy, saith the Lord, to the ungodly.
 
 ### Isaiah 49:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear me, islands, and pay attention, nations, after long time. The Lord says, From my mother's womb he called my name.
+- fresh: Hear me, islands, and pay attention, nations. Through much time it will stand, says the Lord. From my mother's womb he called my name.
 - brenton: Hearken to me, ye islands; and attend, ye Gentiles; after a long time it shall come to pass, saith the Lord: from my mother's womb he has called my name:
 
 ### Isaiah 49:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he made my mouth like sharp sword and hid me under shelter of his hand. He made me as chosen arrow and covered me in his quiver.
+- fresh: And he made my mouth like a sharp sword and hid me under the shelter of his hand. He made me like a chosen arrow and covered me in his quiver.
 - brenton: and he has made my mouth as a sharp sword, and he has hid me under the shadow of his hand; he has made me as a choice shaft, and he has hid me in his quiver;
 
 ### Isaiah 49:3
@@ -166416,91 +166416,91 @@ Note:
 ### Isaiah 49:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But I said, In vain I labored, and for emptiness and nothing I gave my strength. Therefore my judgment from the Lord and my toil before my God.
+- fresh: But I said, In vain I labored, and for emptiness and for nothing I gave my strength. Therefore my judgment is with the Lord, and my toil is before my God.
 - brenton: Then I said, I have laboured in vain, I have given my strength for vanity and for nothing: therefore is my judgment with the Lord, and my labour before my God.
 
 ### Isaiah 49:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now thus says the Lord, one shaping me from womb as servant to himself, to gather Jacob and Israel to him. I will be gathered and glorified before the Lord, and my God will be my strength.
+- fresh: And now thus says the Lord, the one forming me from the womb as servant to himself, to gather Jacob and Israel to him. I will be gathered and glorified before the Lord, and my God will be my strength.
 - brenton: And now, thus saith the Lord that formed me from the womb to be his own servant, to gather Jacob to him and Israel. I shall be gathered and glorified before the Lord, and my God shall be my strength.
 
 ### Isaiah 49:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Great thing for you it is to be called my servant, to set up tribes of Jacob and turn back dispersion of Israel. See, I made you covenant of race, light of nations, that you may be for salvation to the end of the earth.
+- fresh: And he said to me, It is a great thing for you to be called my servant, to establish the tribes of Jacob and turn back the dispersion of Israel. See, I have set you as a covenant of a race, as a light of nations, for you to be for salvation as far as the end of the earth.
 - brenton: And he said to me, It is a great thing for thee to be called my servant, to establish the tribes of Jacob, and to recover the dispersion of Israel: behold, I have given thee for the covenant of a race, for a light of the Gentiles, that thou shouldest be for salvation to the end of the earth.
 
 ### Isaiah 49:7
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to the servant of rulers: Kings will see and rise, rulers also, and will worship, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
+- fresh: Thus says the Lord, the one rescuing you, the God of Israel: Sanctify the one despising his soul, the one abhorred by the nations, the servant of rulers. Kings will see him and rise; rulers also will worship him, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
 - brenton: Thus saith the Lord that delivered thee, the God of Israel, Sanctify him that despises his life, him that is abhorred by the nations that are the servants of princes: kings shall behold him, and princes shall arise, and shall worship him, for the Lord's sake: for the Holy One of Israel is faithful, and I have chosen thee.
 
 ### Isaiah 49:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: In acceptable time I heard you, and in the day of salvation I helped you, and I gave you covenant of nations, to establish earth and inherit deserted inheritances.
+- fresh: Thus says the Lord: In an acceptable time I heard you, and in a day of salvation I helped you, and I gave you as a covenant of nations, to establish the earth and inherit a deserted inheritance.
 - brenton: Thus saith the Lord, In an acceptable time have I heard thee, and in a day of salvation have I succoured thee: and I have formed thee, and given thee for a covenant of the nations, to establish the earth, and to cause to inherit the desert heritages:
 
 ### Isaiah 49:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: saying to those in bonds, Come out, and to those in darkness, Be revealed. On all their ways they will be pastured, and on all their paths their grazing.
+- fresh: saying to those in bonds, Come out, and to those in the darkness, Be revealed. On all their ways they will be pastured, and on all their paths will be their grazing.
 - brenton: saying to them that are in bonds, Go forth; and bidding them that are in darkness shew themselves. They shall be fed in all the ways, and in all the paths shall be their pasture.
 
 ### Isaiah 49:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will not hunger nor thirst, nor will heat strike them, nor sun, but one having mercy on them will comfort them and lead them by springs of waters.
+- fresh: They will not hunger nor thirst, nor will burning heat strike them, nor the sun, but the one having mercy on them will comfort them and lead them by springs of waters.
 - brenton: They shall not hunger, neither shall they thirst; neither shall the heat nor the sun smite them; but he that has mercy on them shall comfort them, and by fountains of waters shall he lead them.
 
 ### Isaiah 49:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make every mountain into road and every path into pasture for them.
+- fresh: And I will make every mountain into a road and every path into pasture for them.
 - brenton: And I will make every mountain a way, and every path a pasture to them.
 
 ### Isaiah 49:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, these come from far away; these from north, and these from sea; and others from the land of Persians.
+- fresh: See, these come from far away; these from the north, and these from the sea; and others from the land of the Persians.
 - brenton: Behold, these shall come from far: and these from the north and the west, and others from the land of the Persians.
 
 ### Isaiah 49:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Rejoice, heavens, and let earth exult. Let mountains break out in gladness, and hills in righteousness, because God had mercy on his people and comforted humble ones of his people.
+- fresh: Rejoice, heavens, and let the earth exult. Let the mountains break out in gladness, and the hills in righteousness, because God had mercy on his people and comforted the humble ones of his people.
 - brenton: Rejoice, ye heavens; and let the earth be glad: let the mountains break forth with joy; for the Lord has had mercy on his people, and has comforted the lowly ones of his people.
 
 ### Isaiah 49:14
@@ -166515,25 +166515,25 @@ Note:
 ### Isaiah 49:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Will woman forget her child, so as not to have mercy on offspring of her womb? But even if woman forgets these, I will not forget you, said the Lord.
+- fresh: Will a woman forget her child, so as not to have mercy on the offspring of her womb? But even if a woman forgets these, I will not forget you, said the Lord.
 - brenton: Will a woman forget her child, so as not to have compassion upon the offspring of her womb? but if a woman should even forget these, yet I will not forget thee, saith the Lord.
 
 ### Isaiah 49:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, on my hands I have painted your walls, and you are always before me.
+- fresh: See, on my hands I have drawn your walls, and you are always before me.
 - brenton: Behold, I have painted thy walls on my hands, and thou art continually before me.
 
 ### Isaiah 49:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And quickly you will be built by those by whom you were torn down, and those making you desolate will go out from you.
@@ -166542,367 +166542,367 @@ Note:
 ### Isaiah 49:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lift your eyes around and see. See, all were gathered and came to you. As I live, says the Lord, you will clothe yourself with them all and put them on as ornament of bride.
+- fresh: Lift your eyes around and see. See, all have been gathered and have come to you. As I live, says the Lord, you will clothe yourself with them all and put them on as an ornament of a bride.
 - brenton: Lift up thine eyes round about, and look on them all; behold, they are gathered together, and are come to thee. As I live, saith the Lord, thou shalt clothe thyself with them all as with an ornament, and put them on as a bride her attire.
 
 ### Isaiah 49:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because your desolate places and ruined and fallen ones will now be made too narrow from inhabitants, and those swallowing you will be far from you.
+- fresh: Because your desolate places and ruined and fallen places will now be made too narrow because of those dwelling there, and those swallowing you will be far from you.
 - brenton: For thy desert and marred and ruined places shall now be too narrow by reason of the inhabitants, and they that devoured thee shall be removed far from thee.
 
 ### Isaiah 49:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For your sons whom you lost will say in your ears, Place too narrow for me; make room for me that I may dwell.
+- fresh: For your sons whom you lost will say in your ears, The place is too narrow for me; make room for me so that I may dwell.
 - brenton: For thy sons whom thou hast lost shall say in thine ears, The place is too narrow for me: make room for me that I may dwell.
 
 ### Isaiah 49:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will say in your heart, Who bore these for me? I was childless and widow; who raised these for me? I was left alone; where were these for me?
+- fresh: And you will say in your heart, Who bore these for me? But I was childless and a widow; who raised these for me? But I was left alone; where were these for me?
 - brenton: And thou shalt say in thine heart, Who has begotten me these? whereas I was childless, and a widow; but who has brought up these for me? and I was left alone; but whence came these to me?
 
 ### Isaiah 49:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: See, I lift my hand to nations and raise my signal to islands, and they will bring your sons in bosom, and your daughters they will carry on shoulders.
+- fresh: Thus says the Lord: See, I lift my hand to the nations and raise my signal to the islands, and they will bring your sons in the bosom, and your daughters they will carry upon shoulders.
 - brenton: Thus saith the Lord, even the Lord, Behold, I lift up mine hand to the nations, and I will lift up my signal to the islands: and they shall bring thy sons in their bosom, and shall bear thy daughters on their shoulders.
 
 ### Isaiah 49:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And kings will be your foster fathers and rulers your nurses. They will worship you with his face to the ground and lick dust of your feet, and you will know that I am the Lord, and you will not be ashamed.
+- fresh: And kings will be your foster fathers and rulers your nurses. With their faces to the ground they will worship you and lick the dust of your feet, and you will know that I am the Lord, and you will not be ashamed.
 - brenton: And kings shall be thy nursing-fathers, and their princesses thy nurses, they shall bow down to thee on the face of the earth, and shall lick the dust of thy feet; and thou shalt know that I am the Lord, and they that wait on me shall not be ashamed.
 
 ### Isaiah 49:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Will anyone take spoils from giant? And if someone takes captive unjustly, will he be saved?
+- fresh: Will anyone take spoils from a giant? And if someone takes captive unjustly, will he be saved?
 - brenton: Will any one take spoils from a giant? and if one should take a man captive unjustly, shall he be delivered?
 
 ### Isaiah 49:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: If anyone takes captive giant, he will take spoils; but one taking from strong man will be saved. I will judge your judgment, and I will rescue your sons.
+- fresh: Thus says the Lord: If anyone takes captive a giant, he will take spoils; but one taking from a strong one will be saved. I will judge your judgment, and I will rescue your sons.
 - brenton: For thus saith the Lord, If one should take a giant captive, he shall take spoils, and he who takes them from a mighty man shall be delivered: for I will plead thy cause, and I will deliver thy children.
 
 ### Isaiah 49:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And those afflicting you will eat their own flesh and drink their own blood like new wine and be drunk. And all flesh will know that I am the Lord, the one rescuing you and upholding the strength of Jacob.
+- fresh: And those afflicting you will eat their own flesh and drink their blood like new wine and be drunk. And all flesh will know that I am the Lord, the one rescuing you and upholding the strength of Jacob.
 - brenton: And they that afflicted thee shall eat their own flesh; and they shall drink their own blood as new wine, and shall be drunken: and all flesh shall perceive that I am the Lord that delivers thee, and that upholds the strength of Jacob.
 
 ### Isaiah 50:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: What book of divorce of your mother, with which I sent her away? Or to which creditor did I sell you? See, by your sins you were sold, and by your lawless deeds I sent away your mother.
+- fresh: Thus says the Lord: What is the book of divorce of your mother, with which I sent her away? Or to which creditor have I sold you? See, by your sins you were sold, and by your lawless deeds I sent away your mother.
 - brenton: Thus saith the Lord, Of what kind is your mother's bill of divorcement, by which I put her away? or to which debtor have I sold you? Behold, ye are sold for your sins, and for your iniquities have I put your mother away.
 
 ### Isaiah 50:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Why, because I came and no man was there? I called and no one obeyed. Is my hand not strong to rescue, or am I not strong to deliver? See, by my threat I will desolate sea and make rivers dry; their fish will dry up from lack of water and die in thirst.
+- fresh: Why was there no man when I came? I called, and there was no one obeying. Is my hand not strong enough to rescue, or am I not strong enough to deliver? See, by my threat I will desolate the sea and make rivers deserts; their fish will dry up because there is no water and will die in thirst.
 - brenton: Why did I come, and there was no man? why did I call, and there was none to hearken? Is not my hand strong to redeem? or can I not deliver? behold, by my rebuke I will dry up the sea, and make rivers a wilderness; and their fish shall be dried up because there is no water, and shall die for thirst.
 
 ### Isaiah 50:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will clothe heaven with darkness and make sackcloth its covering.
+- fresh: And I will clothe heaven with darkness and make its covering like sackcloth.
 - brenton: I will clothe the sky with darkness, and will make its covering as sackcloth.
 
 ### Isaiah 50:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord gives me tongue of instruction, to know when it is necessary to speak word. He set it in morning; he added to me ear to hear.
+- fresh: The Lord gives me a tongue of instruction, to know in season when it is necessary to speak a word. He set it for me in the morning; he added an ear for me to hear.
 - brenton: The Lord even God gives me the tongue of instruction, to know when it is fit to speak a word: he has appointed for me early, he has given me an ear to hear:
 
 ### Isaiah 50:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And discipline of the Lord opens my ears, and I do not disobey nor speak against.
+- fresh: And the instruction of the Lord opens my ears, and I do not disobey nor speak against.
 - brenton: and the instruction of the Lord, even the Lord, opens mine ears, and I do not disobey, nor dispute.
 
 ### Isaiah 50:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I gave my back to whips and my cheeks to slaps. My face I did not turn away from shame of spit.
+- fresh: I have given my back to whips and my cheeks to slaps. My face I did not turn away from the shame of spit.
 - brenton: I gave my back to scourges, and my cheeks to blows; and I turned not away my face from the shame of spitting:
 
 ### Isaiah 50:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord became my helper. Therefore I was not ashamed, but set my face as solid rock and knew I will not be shamed.
+- fresh: And the Lord became my helper. Therefore I was not ashamed, but I set my face like a solid rock and knew that I certainly would not be shamed.
 - brenton: but the Lord God became my helper; therefore I was not ashamed, but I set my face as a solid rock; and I know that I shall never be ashamed,
 
 ### Isaiah 50:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because one justifying me comes near. Who is judging with me? Let him stand against me together. And who is my accuser? Let him come near me.
+- fresh: Because the one justifying me comes near. Who is contending with me? Let him stand against me together. And who is contending with me? Let him come near me.
 - brenton: for he that has justified me draws near; who is he that pleads with me? let him stand up against me at the same time: yea, who is he that pleads with me? let him draw nigh to me.
 
 ### Isaiah 50:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, the Lord helps me. Who will harm me? See, all you will grow old like a garment, and moth will eat you.
+- fresh: See, the Lord helps me. Who will harm me? See, all of you will grow old like a garment, and a moth will devour you.
 - brenton: Behold, the Lord, the Lord, will help me; who will hurt me? behold, all ye shall wax old as a garment, and a moth shall devour you.
 
 ### Isaiah 50:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who among you fears the Lord? Let him hear the voice of his servant. Those going in darkness have no light; trust in the name of the Lord and lean on God.
+- fresh: Who among you fears the Lord? Let him hear the voice of his servant. You who walk in darkness and have no light, trust in the name of the Lord and lean on God.
 - brenton: Who is among you that fears the Lord? let him hearken to the voice of his servant: ye that walk in darkness, and have no light, trust in the name of the Lord, and stay upon God.
 
 ### Isaiah 50:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, all you kindle fire and strengthen flame. Walk by light of your fire and by flame you kindled. Because of me these things came to you; in grief you will lie down.
+- fresh: See, all of you kindle fire and strengthen a flame. Walk by the light of your fire and by the flame that you kindled. Because of me these things came to you; in grief you will lie down.
 - brenton: Behold, ye all kindle a fire, and feed a flame: walk in the light of your fire, and in the flame which ye have kindled. This has happened to you for my sake; ye shall lie down in sorrow.
 
 ### Isaiah 51:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear me, you pursuing righteousness and seeking the Lord. Look to solid rock which you cut and to pit of well which you dug.
+- fresh: Hear me, you who pursue righteousness and seek the Lord. Look to the solid rock that you cut and to the pit of the cistern that you dug.
 - brenton: Hearken to me, ye that follow after righteousness, and seek the Lord: look to the solid rock, which ye have hewn, and to the hole of the pit which ye have dug.
 
 ### Isaiah 51:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Look to Abraham your father and to Sarah who labored to bear you, because he was one, and I called him and blessed him and loved him and multiplied him.
+- fresh: Look to Abraham your father and to Sarah who labored with you, because he was one, and I called him and blessed him and loved him and multiplied him.
 - brenton: Look to Abraam your father, and to Sarrha that bore you: for he was alone when I called him, and blessed him, and loved him, and multiplied him.
 
 ### Isaiah 51:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now I will comfort Zion and have comforted all her desolate places, and I will make her desolations as paradise of the Lord. Gladness and exultation they will find in her, thanksgiving and the sound of praise.
+- fresh: And now I will comfort you, Zion, and have comforted all her desolate places, and I will make her desolate places like the paradise of the Lord. They will find gladness and exultation in her, thanksgiving and a sound of praise.
 - brenton: And now I will comfort thee, O Sion: and I have comforted all her desert places; and I will make her desert places as a garden, and her western places as the garden of the Lord; they shall find in her gladness and exultation, thanksgiving and the voice of praise.
 
 ### Isaiah 51:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear me, hear me, my people, and kings give ear to me, because law will go out from me and my judgment as light of nations.
+- fresh: Hear me, hear me, my people, and you kings, give ear to me, because law will go out from me and my judgment as a light of nations.
 - brenton: Hear me, hear me, my people; and ye kings, hearken to me: for a law shall proceed from me, and my judgment shall be for a light of the nations.
 
 ### Isaiah 51:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My righteousness draws near quickly, my salvation will go out as light, and nations will hope in my arm. Islands wait for me and hope in my arm.
+- fresh: My righteousness draws near quickly, my salvation will go out like light, and nations will hope in my arm. Islands wait for me and hope in my arm.
 - brenton: My righteousness speedily draws nigh, and my salvation shall go forth as light, and on mine arm shall the Gentiles trust: the isles shall wait for me, and on mine arm shall they trust.
 
 ### Isaiah 51:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lift your eyes to heaven and look at earth below, because heaven was fixed like smoke and earth will grow old like a garment, and those dwelling earth will die like these. But my salvation will be forever and my righteousness will not fail.
+- fresh: Lift your eyes to heaven and look at the earth below, because heaven was fixed like smoke and the earth will grow old like a garment, and those dwelling on the earth will die like these things. But my salvation will be forever and my righteousness will certainly not fail.
 - brenton: Lift up your eyes to the sky, and look on the earth beneath: for the sky was darkened like smoke, and the earth shall wax old like a garment, and the inhabitants shall die in like manner: but my righteousness shall not fail.
 
 ### Isaiah 51:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear me, you knowing judgment, my people whose law is in your heart. Do not fear reproach of men and do not be defeated by their contempt.
+- fresh: Hear me, you who know judgment, my people, in whose heart is my law. Do not fear the reproach of men and do not be defeated by their contempt.
 - brenton: Hear me, ye that know judgment, the people in whose heart is my law: fear not the reproach of men, and be not overcome by their contempt.
 
 ### Isaiah 51:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For as garment it will be eaten by time and as wool it will be eaten by moth. But my righteousness will be forever and my salvation to the generations of generations.
+- fresh: For like a garment it will be eaten by time, and like wool it will be eaten by a moth. But my righteousness will be forever and my salvation will be to the generations of generations.
 - brenton: For as a garment will be devoured by time, and as wool will be devoured by a moth, so shall they be consumed; but my righteousness shall be for ever, and my salvation for all generations.
 
 ### Isaiah 51:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Awake, awake, Jerusalem, and put on strength of your arm. Awake as in beginning of days, as generation of age. Are you not
+- fresh: Awake, awake, Jerusalem, and put on the strength of your arm. Awake as in the beginning of days, as a generation of old. Are you not
 - brenton: Awake, awake, O Jerusalem, and put on the strength of thine arm; awake as in the early time, as the ancient generation.
 
 ### Isaiah 51:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: one laying waste sea, water of abyss, making abundance, one making depths of sea way of passage for delivered ones?
+- fresh: the one desolating the sea, the water, the abundance of the abyss, the one making the depths of the sea a way of passage for the rescued?
 - brenton: Art thou not it that dried the sea, the water, even the abundance of the deep; that made the depths of the sea a way of passage for the delivered and redeemed?
 
 ### Isaiah 51:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For redeemed by the Lord will return and come to Zion with gladness, and everlasting exultation on their head. Praise and gladness and joy will seize them. Pain and grief and groaning fled.
+- fresh: For those redeemed by the Lord will return and come to Zion with gladness, and everlasting exultation will be upon their head. Exultation and praise and gladness will overtake them. Pain and grief and groaning have fled.
 - brenton: for by the help of the Lord they shall return, and come to Sion with joy and everlasting exultation, for praise and joy shall come upon their head: pain, and grief, and groaning, have fled away.
 
 ### Isaiah 51:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I am, I am one comforting you. Know whom you feared, dreading mortal man and son of man who dried up like grass.
+- fresh: I am, I am the one comforting you. Know whom you dreaded, whom you feared: mortal man and a son of man, who dried up like grass.
 - brenton: I, even I, am he that comforts thee: consider who thou art, that thou wast afraid of mortal man, and of the son of man, who are withered as grass.
 
 ### Isaiah 51:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you forgot God who made you, who made heaven and founded earth, and you feared always all days face of wrath of one afflicting you, because he planned to remove you. And now where is the wrath of one afflicting you?
+- fresh: And you forgot the God who made you, who made heaven and founded the earth, and you feared always, all the days, the face of the wrath of the one afflicting you, because he planned to remove you. And now where is the wrath of the one afflicting you?
 - brenton: And thou hast forgotten God who made thee, who made the sky and founded the earth; and thou wert continually afraid because of the wrath of him that afflicted thee: for whereas he counselled to take thee away, yet now where is the wrath of him that afflicted thee?
 
 ### Isaiah 51:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For in being saved you will not stand still nor delay.
+- fresh: For when you are being saved you will not stand still nor delay.
 - brenton: For in thy deliverance he shall not halt, nor tarry;
 
 ### Isaiah 51:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I am your God, stirring sea and sounding its waves. the Lord of hosts is my name.
+- fresh: Because I am your God, the one stirring the sea and making its waves roar. The Lord of hosts is my name.
 - brenton: for I am thy God, that troubles the sea, and causes the waves thereof to roar: the Lord of hosts is my name.
 
 ### Isaiah 51:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will put my words into your mouth, and under shadow of my hand I will shelter you, by which I set heaven and founded earth and will say to Zion, You are my people.
+- fresh: I will put my words into your mouth, and under the shadow of my hand I will shelter you, by which I set heaven and founded the earth, and will say to Zion, You are my people.
 - brenton: I will put my words into thy mouth, and I will shelter thee under the shadow of mine hand, with which I fixed the sky, and founded the earth: and the Lord shall say to Sion, Thou art my people.
 
 ### Isaiah 51:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Awake, awake. Rise, Jerusalem, you who drank cup of wrath from the hand of the Lord, because cup of falling, bowl of wrath, you drank and drained it.
+- fresh: Awake, awake. Rise, Jerusalem, you who drank the cup of wrath from the hand of the Lord, because the cup of falling, the bowl of wrath, you drank and drained.
 - brenton: Awake, awake, stand up, O Jerusalem, that hast drunk at the hand of the Lord the cup of his fury: for thou hast drunk out and drained the cup of calamity, the cup of wrath:
 
 ### Isaiah 51:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And there was no one comforting you from all your children whom you bore, and no one taking your hand from all your sons whom you raised.
+- fresh: And there was no one to comfort you from among all your children whom you bore, and no one to take your hand from among all your sons whom you raised.
 - brenton: and there was none to comfort thee of all the children whom thou borest; and there was none to take hold of thine hand, not even of all the children whom thou hast reared.
 
 ### Isaiah 51:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: These two things stand against you. Who will grieve with you? Ruin and crushing, famine and sword. Who will comfort you?
+- fresh: These two things are set against you. Who will grieve with you? Ruin and crushing, famine and sword. Who will comfort you?
 - brenton: Wherefore these things are against thee; who shall sympathise with thee in thy grief? downfall, and destruction, famine, and sword: who shall comfort thee?
 
 ### Isaiah 51:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your sons in distress, sleeping at edge of every street, like half-cooked beet, full of the wrath of the Lord, weakened by the Lord God.
+- fresh: Your sons are in distress, sleeping at the edge of every street, like a half-boiled beet, full of the wrath of the Lord, weakened by the Lord God.
 - brenton: Thy sons are the perplexed ones, that sleep at the top of every street as a half-boiled beet; they that are full of the anger of the Lord, caused to faint by the Lord God.
 
 ### Isaiah 51:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Therefore hear this, humbled one and drunken one, not from wine.
@@ -166911,151 +166911,151 @@ Note:
 ### Isaiah 51:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God, one judging his people: See, I have taken from your hand cup of falling, bowl of wrath, and you will no longer drink it.
+- fresh: Thus says the Lord God, the one judging his people: See, I have taken from your hand the cup of falling, the bowl of wrath, and you will no longer drink it.
 - brenton: thus saith the Lord God that judges his people, Behold, I have taken out of thine hand the cup of calamity, the cup of my wrath; and thou shalt not drink it any more.
 
 ### Isaiah 51:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will put it into the hands of those wronging you and humbling you, who said to your soul, Bend down so we may pass by. And you made your back level with earth outside for those passing by.
+- fresh: And I will put it into the hands of those who wronged you and humbled you, who said to your soul, Bend down so we may pass by. And you made your back level with the ground for those passing by outside.
 - brenton: And I will give it into the hands of them that injured thee, and them that afflicted thee; who said to thy soul, Bow down, that we may pass over: and thou didst level thy body with the ground to them passing by without.
 
 ### Isaiah 52:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Awake, awake, Zion. Put on your strength, Zion, and put on your glory, Jerusalem, holy city, because uncircumcised and unclean will no longer pass through you.
+- fresh: Awake, awake, Zion. Put on your strength, Zion, and put on your glory, Jerusalem, the holy city, because the uncircumcised and unclean will no longer pass through you.
 - brenton: Awake, awake, Sion; put on thy strength, O Sion; and do thou put on thy glory, Jerusalem the holy city: there shall no more pass through thee the uncircumcised and unclean.
 
 ### Isaiah 52:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Shake off dust and rise. Sit, Jerusalem. Strip off bond of your neck, captive daughter of Zion.
+- fresh: Shake off the dust and rise. Sit, Jerusalem. Strip off the bond of your neck, captive daughter of Zion.
 - brenton: Shake off the dust and arise; sit down, Jerusalem: put off the band of thy neck, captive daughter of Sion.
 
 ### Isaiah 52:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord: For nothing you were sold, and not with silver will you be redeemed.
+- fresh: Because thus says the Lord: You were sold for nothing, and not with silver will you be redeemed.
 - brenton: For thus saith the Lord, Ye have been sold for nought; and ye shall not be ransomed with silver.
 
 ### Isaiah 52:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: My people first went down to Egypt to dwell there, and to Assyrians they were led by force.
+- fresh: Thus says the Lord: My people first went down to Egypt to dwell there, and to the Assyrians they were led by force.
 - brenton: Thus saith the Lord, My people went down before to Egypt to sojourn there; and were carried away forcibly to the Assyrians.
 
 ### Isaiah 52:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now why are you here? says the Lord, because my people was taken for nothing. Be amazed and howl, says the Lord. Because of you continually my name is blasphemed among nations.
+- fresh: And now why are you here? says the Lord, because my people were taken for nothing. Be amazed and howl, says the Lord. Because of you continually my name is blasphemed among the nations.
 - brenton: And now why are ye here? Thus saith the Lord, Because my people was taken for nothing, wonder ye and howl. Thus saith the Lord, On account of you my name is continually blasphemed among the Gentiles.
 
 ### Isaiah 52:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore my people will know my name in that day, because I am one speaking; I am present.
+- fresh: Therefore my people will know my name in that day, because I am he, the one speaking; I am present.
 - brenton: Therefore shall my people know my name in that day, for I am he that speaks: I am present,
 
 ### Isaiah 52:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: How beautiful upon mountains are feet of one bringing good news, report of peace, one bringing good things as good news, because I will make your salvation heard, saying to Zion, Your God will reign.
+- fresh: How beautiful upon the mountains are the feet of one bringing good news, a report of peace, of one bringing good things as good news, because I will make your salvation heard, saying to Zion, Your God will reign.
 - brenton: as a season of beauty upon the mountains, as the feet of one preaching glad tidings of peace, as one preaching good news: for I will publish thy salvation, saying, O Sion, thy God shall reign.
 
 ### Isaiah 52:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the voice of your watchmen was lifted up, and with voice together they will rejoice, because eye to eye they will see when the Lord shows mercy to Zion.
+- fresh: Because the voice of your watchmen was lifted up, and with one voice together they will rejoice, because eye to eye they will see when the Lord shows mercy to Zion.
 - brenton: For the voice of them that guard thee is exalted, and with the voice together they shall rejoice: for eyes shall look to eyes, when the Lord shall have mercy upon Sion.
 
 ### Isaiah 52:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let desolations of Jerusalem break out together in gladness, because the Lord had mercy on her and rescued Jerusalem.
+- fresh: Let the desolate places of Jerusalem break out together in gladness, because the Lord had mercy on her and rescued Jerusalem.
 - brenton: Let the waste places of Jerusalem break forth in joy together, because the Lord has had mercy upon her, and has delivered Jerusalem.
 
 ### Isaiah 52:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord will uncover his holy arm before all nations, and all ends of the earth will see salvation from God.
+- fresh: The Lord will uncover his holy arm before all the nations, and all the ends of the earth will see the salvation from God.
 - brenton: And the Lord shall reveal his holy arm in the sight of all the nations; and all the ends of the earth shall see the salvation that comes from our God.
 
 ### Isaiah 52:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Depart, depart. Go out from there, and touch nothing unclean. Go out from the midst of her. Be set apart, you carrying vessels of the Lord.
+- fresh: Depart, depart. Go out from there, and touch nothing unclean. Go out from the midst of her. Be set apart, you who carry the vessels of the Lord.
 - brenton: Depart ye, depart, go out from thence, and touch not the unclean thing; go ye out from the midst of her; separate yourselves, ye that bear the vessels of the Lord.
 
 ### Isaiah 52:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because not with turmoil will you go out, nor will you go as fleeing, for the Lord will go before you, and the Lord God of Israel will gather you.
+- fresh: Because not with turmoil will you go out, nor will you go in flight, for the Lord will go before you, and the Lord God of Israel will gather you.
 - brenton: For ye shall not go forth with tumult, neither go by flight: for the Lord shall go first in advance of you; and the God of Israel shall be he that brings up your rear.
 
 ### Isaiah 52:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, my servant will understand and be exalted and glorified greatly.
+- fresh: See, my servant will understand and be exalted and glorified very greatly.
 - brenton: Behold, my servant shall understand, and be exalted, and glorified exceedingly.
 
 ### Isaiah 52:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: As many will be astonished at you, so your appearance will be without glory from men and your glory from people.
+- fresh: Just as many will be astonished at you, so your appearance will be without glory before men, and your glory will be without honor before people.
 - brenton: As many shall be amazed at thee, so shall thy face be without glory from men, and thy glory shall not be honoured by the sons of men.
 
 ### Isaiah 52:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: So many nations will marvel at him, and kings will shut their mouth, because those to whom nothing was told concerning him will see, and those who did not hear will understand.
@@ -167064,35 +167064,35 @@ Note:
 ### Isaiah 53:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord, who believed our report? And to whom was arm of the Lord revealed?
+- fresh: O Lord, who believed our report? And to whom was the arm of the Lord revealed?
 - brenton: O Lord, who has believed our report? and to whom has the arm of the Lord been revealed?
 
 ### Isaiah 53:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: We announced before him as child, as root in thirsty land. He has no form nor glory, and we saw him, and he had no form nor beauty.
+- fresh: We announced before him like a child, like a root in a thirsty land. There is no form to him nor glory, and we saw him, and he had no form nor beauty.
 - brenton: We brought a report as of a child before him; he is as a root in a thirsty land: he has no form nor comeliness; and we saw him, but he had no form nor beauty.
 
 ### Isaiah 53:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But his form dishonored, failing beyond all men, man in wound and knowing how to bear sickness, because his face is turned away; he was dishonored and not counted.
+- fresh: But his form was dishonored, failing beyond all men: a man in a wound and knowing how to bear sickness, because his face has turned away; he was dishonored and not counted.
 - brenton: But his form was ignoble, and inferior to that of the children of men; he was a man in suffering, and acquainted with the bearing of sickness, for his face is turned from us: he was dishonoured, and not esteemed.
 
 ### Isaiah 53:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: This one bears our sins and suffers pain for us, and we counted him to be in pain and in wound and in affliction.
 - brenton: He bears our sins, and is pained for us: yet we accounted him to be in trouble, and in suffering, and in affliction.
@@ -167100,43 +167100,43 @@ Note:
 ### Isaiah 53:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But he was wounded because of our lawless deeds and weakened because of our sins. Discipline of our peace on him; by his bruise we were healed.
+- fresh: But he was wounded because of our lawless deeds and weakened because of our sins. The discipline of our peace was upon him; by his bruise we were healed.
 - brenton: But he was wounded on account of our sins, and was bruised because of our iniquities: the chastisement of our peace was upon him; and by his bruises we were healed.
 
 ### Isaiah 53:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: All we as sheep wandered. Man wandered in his own way, and the Lord gave him over for our sins.
+- fresh: All we like sheep wandered. Each man wandered in his own way, and the Lord gave him over for our sins.
 - brenton: All we as sheep have gone astray; every one has gone astray in his way; and the Lord gave him up for our sins.
 
 ### Isaiah 53:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he, because he was afflicted, does not open his mouth. As sheep led to slaughter and as lamb silent before one shearing it, so he does not open his mouth.
+- fresh: And he, because he was afflicted, does not open his mouth. As a sheep was led to slaughter and as a lamb is silent before the one shearing it, so he does not open his mouth.
 - brenton: And he, because of his affliction, opens not his mouth: he was led as a sheep to the slaughter, and as a lamb before the shearer is dumb, so he opens not his mouth.
 
 ### Isaiah 53:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: In his humiliation his judgment was taken away. Who will tell his generation? Because his life is taken from earth; because of lawless deeds of my people he was led to death.
+- fresh: In his humiliation his judgment was taken away. Who will tell his generation? Because his life is taken from the earth; because of the lawless deeds of my people he was led to death.
 - brenton: In his humiliation his judgment was taken away: who shall declare his generation? for his life is taken away from the earth: because of the iniquities of my people he was led to death.
 
 ### Isaiah 53:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will give wicked ones for his burial and rich ones for his death, because he did no lawlessness, nor was deceit found in his mouth.
@@ -167145,109 +167145,109 @@ Note:
 ### Isaiah 53:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord desires to cleanse him from wound. If you give your soul concerning sin, he will see long-lived seed, and the Lord desires to remove pain.
+- fresh: And the Lord desires to cleanse him from the wound. If you give concerning sin, your soul will see long-lived seed, and the Lord desires to take away
 - brenton: The Lord also is pleased to purge him from his stroke. If ye can give an offering for sin, your soul shall see a long-lived seed:
 
 ### Isaiah 53:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: From pain of his soul, to show him light and form with understanding, to justify righteous one serving many well, and he will bear their sins.
+- fresh: from the pain of his soul, to show him light and form with understanding, to justify a righteous one serving many well, and he himself will bear their sins.
 - brenton: the Lord also is pleased to take away from the travail of his soul, to shew him light, and to form him with understanding; to justify the just one who serves many well; and he shall bear their sins.
 
 ### Isaiah 53:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore he will inherit many and divide spoils of strong, because his soul was given over to death and he was counted among lawless ones, and he bore sins of many and was given over because of their sins.
+- fresh: Therefore he will inherit many and divide spoils of the strong, because his soul was given over to death and he was counted among lawless ones, and he bore sins of many and was given over because of their sins.
 - brenton: Therefore he shall inherit many, and he shall divide the spoils of the mighty; because his soul was delivered to death: and he was numbered among the transgressors; and he bore the sins of many, and was delivered because of their iniquities.
 
 ### Isaiah 54:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Rejoice, barren one who does not bear. Break out and cry, you not laboring, because children of desolate one more than of her having husband, said the Lord.
+- fresh: Rejoice, barren one who does not bear. Break out and cry, you who are not in labor, because the children of the desolate one are more than those of the one having a husband, for the Lord has said.
 - brenton: Rejoice, thou barren that bearest not; break forth and cry, thou that dost not travail: for more are the children of the desolate than of her that has a husband: for the Lord has said,
 
 ### Isaiah 54:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Enlarge place of your tent, and fix your curtains. Do not spare. Lengthen your cords and strengthen your pegs.
+- fresh: Enlarge the place of your tent, and fix your curtains. Do not spare. Lengthen your cords and strengthen your pegs.
 - brenton: Enlarge the place of thy tent, and of thy curtains: fix the pins, spare not, lengthen thy cords, and strengthen thy pins;
 
 ### Isaiah 54:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Still to right and to left spread out, and your seed will inherit nations and inhabit desolated cities.
+- fresh: Still to the right and to the left spread out, and your seed will inherit nations and inhabit desolate cities.
 - brenton: spread forth thy tent yet to the right and the left: for thy seed shall inherit the Gentiles, and thou shalt make the desolate cities to be inhabited.
 
 ### Isaiah 54:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not fear, because you were put to shame; do not be disgraced, because you were reproached, because you will forget everlasting shame and no longer remember reproach of your widowhood.
+- fresh: Do not fear, because you were put to shame; do not be disgraced, because you were reproached, because you will forget everlasting shame and no longer remember the reproach of your widowhood.
 - brenton: Fear not, because thou hast been put to shame, neither be confounded, because thou wast reproached: for thou shalt forget thy former shame, and shalt no more at all remember the reproach of thy widowhood.
 
 ### Isaiah 54:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord making you, the Lord of hosts is his name, and the one rescuing you, the God of Israel, will be called the God of all the earth.
+- fresh: Because the Lord is the one making you; the Lord of hosts is his name, and the one rescuing you, the God of Israel, will be called the God of all the earth.
 - brenton: For it is the Lord that made thee; the Lord of hosts is his name: and he that delivered thee, he is the God of Israel, and shall be called so by the whole earth.
 
 ### Isaiah 54:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Not as a woman forsaken and fainthearted has the Lord called you, nor as a woman hated from youth, said your God.
+- fresh: The Lord has not called you as a woman forsaken and fainthearted, nor as a woman hated from youth, said your God.
 - brenton: The Lord has not called thee as a deserted and faint-hearted woman, nor as a woman hated from her youth, saith thy God.
 
 ### Isaiah 54:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For small time I left you, and with great mercy I will have mercy on you.
+- fresh: For a small time I left you, and with great mercy I will have mercy on you.
 - brenton: For a little while I left thee: but with great mercy will I have compassion upon thee.
 
 ### Isaiah 54:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In little wrath I turned my face from you, and with everlasting mercy I will have mercy on you, said the Lord, the one rescuing you.
+- fresh: In a little wrath I turned my face from you, and with everlasting mercy I will have mercy on you, said the Lord, the one rescuing you.
 - brenton: In a little wrath I turned away my face from thee; but with everlasting mercy will I have compassion upon thee, saith the Lord that delivers thee.
 
 ### Isaiah 54:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: This to me from water of Noah, just as I swore to him in that time not to be angry with earth. So neither will I be angry with you anymore nor threaten you.
+- fresh: This is to me like the water in Noah's time, just as I swore to him at that time not to be angry with the earth. So neither will I be angry with you anymore nor threaten you.
 - brenton: From the time of the water of Noe this is my purpose: as I sware to him at that time, saying of the earth, I will no more be wroth with thee, neither when thou art threatened,
 
 ### Isaiah 54:10
@@ -167262,34 +167262,34 @@ Note:
 ### Isaiah 54:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Afflicted and unstable one, you were not comforted. See, I prepare your stone with charcoal and your foundations with sapphire.
+- fresh: Afflicted and unstable one, you were not comforted. See, I prepare your stone as carbuncle and your foundations with sapphire.
 - brenton: Afflicted and outcast thou hast not been comforted: behold, I will prepare carbuncle for thy stones, and sapphire for thy foundations;
 
 ### Isaiah 54:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make your battlements jasper and your gates stones of crystal and your wall chosen stones.
+- fresh: And I will make your battlements jasper and your gates stones of crystal and your enclosure chosen stones.
 - brenton: and I will make thy buttresses jasper, and thy gates crystal, and thy border precious stones.
 
 ### Isaiah 54:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And all your sons taught of God, and your children in much peace.
+- fresh: And all your sons will be taught by God, and your children will be in much peace.
 - brenton: And I will cause all thy sons to be taught of God, and thy children to be in great peace.
 
 ### Isaiah 54:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And in righteousness you will be built. Keep far from injustice and you will not fear, and terror will not come near you.
@@ -167298,7 +167298,7 @@ Note:
 ### Isaiah 54:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: See, strangers will come to you through me and will flee for refuge to you.
@@ -167307,73 +167307,73 @@ Note:
 ### Isaiah 54:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, I created you not as smith blowing coals and bringing out vessel for work; I created you not for destruction to ruin.
+- fresh: See, I create you, not as a smith blowing coals and bringing out a vessel for work; but I created you, not for destruction to ruin.
 - brenton: Behold, I have created thee, not as the coppersmith blowing coals, and bringing out a vessel fit for work; but I have created thee, not for ruin, that I should destroy thee.
 
 ### Isaiah 54:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Every harmful weapon against you I will not prosper, and every voice rising against you in judgment you will defeat them all. But your accusers will be guilty in it. This inheritance for those serving Lord, and you will be righteous to me, says the Lord.
+- fresh: Every harmful weapon against you I will not prosper, and every voice that rises against you in judgment you will defeat them all. But those guilty against you will be in it. This is the inheritance for those serving the Lord, and you will be righteous to me, says the Lord.
 - brenton: I will not suffer any weapon formed against thee to prosper; and every voice that shall rise up against thee for judgment, thou shalt vanquish them all; and thine adversaries shall be condemned thereby. There is an inheritance to them that serve the Lord, and ye shall be righteous before me, saith the Lord.
 
 ### Isaiah 55:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You thirsty ones, go to water. And those not having silver, go, buy, and drink. Without silver and price, wine and fat.
+- fresh: You who thirst, go to water. And as many as do not have silver, go, buy, and drink wine and fat without silver and price.
 - brenton: Ye that thirst, go to the water, and all that have no money, go and buy; and eat and drink wine and fat without money or price.
 
 ### Isaiah 55:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Why are you valued with silver and your labor not for fullness? Hear me and eat good things, and your soul will delight in good things.
+- fresh: Why do you spend silver and your labor for what does not satisfy? Hear me and eat good things, and your soul will delight in good things.
 - brenton: Wherefore do ye value at the price of money, and give your labour for that which will not satisfy? hearken to me, and ye shall eat that which is good, and your soul shall feast itself on good things.
 
 ### Isaiah 55:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Pay attention with your ears and follow my ways. Hear me, and your soul will live in good things, and I will make everlasting covenant with you, faithful holy things of David.
+- fresh: Pay attention with your ears and follow my ways. Hear me, and your soul will live in good things, and I will make an everlasting covenant with you, the faithful holy things of David.
 - brenton: Give heed with your ears, and follow my ways: hearken to me, and your soul shall live in prosperity; and I will make with you an everlasting covenant, the sure mercies of David.
 
 ### Isaiah 55:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, I have given him as witness among nations, ruler and commander to nations.
+- fresh: See, I have given him as a witness among nations, a ruler and commander to nations.
 - brenton: Behold, I have made him a testimony among the Gentiles, a prince and commander to the Gentiles.
 
 ### Isaiah 55:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Nations that did not know you will call you, and peoples that do not understand you will flee for refuge to you, because of your God, the Holy One of Israel, because he glorified you.
+- fresh: Nations that did not know you will call upon you, and peoples that do not understand you will flee for refuge to you, because of your God, the Holy One of Israel, because he glorified you.
 - brenton: Nations which know thee not, shall call upon thee, and peoples which are not acquainted with thee, shall flee to thee for refuge, for the sake of the Lord thy God, the Holy One of Israel; for he has glorified thee.
 
 ### Isaiah 55:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Seek God, and when you find him call on him when he draws near you.
+- fresh: Seek God, and when you find him, call upon him when he draws near to you.
 - brenton: Seek ye the Lord, and when ye find him, call upon him; and when he shall draw nigh to you,
 
 ### Isaiah 55:7
@@ -167397,107 +167397,107 @@ Note:
 ### Isaiah 55:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But as heaven far from earth, so my way far from your ways and your thoughts from my mind.
+- fresh: But as heaven is far from the earth, so my way is far from your ways and your thoughts from my mind.
 - brenton: But as the heaven is distant from the earth, so is my way distant from your ways, and your thoughts from my mind.
 
 ### Isaiah 55:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For as rain and snow comes down from heaven and will not return until it drenches earth and it brings forth and sprouts and gives seed to sower and bread for food,
+- fresh: For as rain or snow comes down from heaven and will not return until it drenches the earth and brings forth and sprouts and gives seed to the sower and bread for food,
 - brenton: For as rain shall come down, or snow, from heaven, and shall not return until it have saturated the earth, and it bring forth, and bud, and give seed to the sower, and bread for food:
 
 ### Isaiah 55:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: so my word that goes out from my mouth will not return until all I desired is accomplished, and I will prosper your ways and my commandments.
+- fresh: so will my word be, whatever goes out from my mouth: it will not return until all I desired is accomplished, and I will prosper your ways and my commandments.
 - brenton: so shall my word be, whatever shall proceed out of my mouth, it shall by no means turn back, until all the things which I willed shall have been accomplished; and I will make thy ways prosperous, and will effect my commands.
 
 ### Isaiah 55:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: For in gladness you will go out and in joy be taught. Mountains and hills will leap, awaiting you with joy, and all trees of field will clap with branches.
+- fresh: For in gladness you will go out and in joy you will be taught. For the mountains and hills will leap, awaiting you with joy, and all the trees of the field will clap with branches.
 - brenton: For ye shall go forth with joy, and shall be taught with gladness: for the mountains and the hills shall exult to welcome you with joy, and all the trees of the field shall applaud with their branches.
 
 ### Isaiah 55:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And instead of stubble cypress will come up, and instead of nettle myrtle will come up, and the Lord will be for name and everlasting sign and will not fail.
+- fresh: And instead of stubble a cypress will come up, and instead of nettle a myrtle will come up, and the Lord will be for a name and for an everlasting sign and will not fail.
 - brenton: And instead of the bramble shall come up the cypress, and instead of the nettle shall come up the myrtle: and the Lord shall be for a name, and for an everlasting sign, and shall not fail.
 
 ### Isaiah 56:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Keep judgment. Do righteousness, because my salvation draws near to come and my mercy to be revealed.
+- fresh: Thus says the Lord: Keep judgment. Do righteousness, because my salvation has drawn near to come and my mercy to be revealed.
 - brenton: Thus saith the Lord, Keep ye judgment, and do justice: for my salvation is near to come, and my mercy to be revealed.
 
 ### Isaiah 56:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Blessed is the man doing these things and person holding them fast, keeping Sabbaths not profaning them and keeping his hands from doing wrongdoing.
+- fresh: Blessed is the man doing these things and the person holding them fast, keeping the Sabbaths and not profaning them, and keeping his hands from doing wrongdoing.
 - brenton: Blessed is the man that does these things, and the man that holds by them, and keeps the sabbaths from profaning them, and keeps his hands from doing unrighteousness.
 
 ### Isaiah 56:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let not foreigner joined to the Lord say, the Lord will surely separate me from his people. And let not eunuch say, I am dry tree.
+- fresh: Let not the foreigner joined to the Lord say, The Lord will surely separate me from his people. And let not the eunuch say, I am a dry tree.
 - brenton: Let not the stranger who attaches himself to the Lord, say, Surely the Lord will separate me from his people: and let not the eunuch say, I am a dry tree.
 
 ### Isaiah 56:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord to eunuchs: As many as keep my Sabbaths and choose what I want and hold fast my covenant,
+- fresh: Thus says the Lord to the eunuchs: As many as keep my Sabbaths and choose what I want and hold fast my covenant,
 - brenton: Thus saith the Lord to the eunuchs, as many as shall keep my sabbaths, and choose the things which I take pleasure in, and take hold of my covenant;
 
 ### Isaiah 56:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will give them in my house and within my wall notable place, better than sons and daughters. I will give them everlasting name and it will not fail.
+- fresh: I will give them in my house and within my wall a notable place, better than sons and daughters. I will give them an everlasting name and it will not fail.
 - brenton: I will give to them in my house and within my walls an honourable place, better than sons and daughters: I will give them an everlasting name, and it shall not fail.
 
 ### Isaiah 56:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And to foreigners joined to the Lord to serve him and love the name of the Lord, so as to be his male and female servants, and all keeping my Sabbaths not profaning them and holding fast my covenant,
+- fresh: And to the foreigners joined to the Lord to serve him and to love the name of the Lord, so as to be his male and female servants, and all those keeping my Sabbaths and not profaning them and holding fast my covenant,
 - brenton: And I will give it to the strangers that attach themselves to the Lord, to serve him, and to love the name of the Lord, to be to him servants and handmaids; and as for all that keep my sabbaths from profaning them, and that take hold of my covenant;
 
 ### Isaiah 56:7
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: I will bring them to my holy mountain and gladden them in the house of my prayer. Their whole burnt offerings and sacrifices will be acceptable on my altar, for my house will be called a house of prayer for all nations.
 - brenton: I will bring them to my holy mountain, and gladden them in my house of prayer: their whole-burnt-offerings and their sacrifices shall be acceptable upon mine altar; for my house shall be called a house of prayer for all nations,
@@ -167505,37 +167505,37 @@ Note:
 ### Isaiah 56:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord who gathers scattered Israel says, I will gather to him assembly.
+- fresh: The Lord who gathers the scattered ones of Israel says, I will gather an assembly to him.
 - brenton: saith the Lord that gathers the dispersed of Israel; for I will gather to him a congregation.
 
 ### Isaiah 56:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All wild beasts, come eat, all beasts of the forest.
+- fresh: All the wild beasts, come, eat; all the beasts of the forest.
 - brenton: All ye beasts of the field, come, devour, all ye beasts of the forest.
 
 ### Isaiah 56:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, all are blinded; they did not know how to understand. All dogs mute, unable to bark, dreaming, loving sleepiness.
+- fresh: See that all have been blinded; they did not know how to understand. All are mute dogs, unable to bark, dreaming of a bed, loving to sleep.
 - brenton: See how they are all blinded: they have not known; they are dumb dogs that will not bark; dreaming of rest, loving to slumber.
 
 ### Isaiah 56:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And dogs shameless in soul, not knowing fullness, and evil, not knowing understanding. All followed their own ways, each according to himself.
+- fresh: And the dogs are shameless in soul, not knowing fullness, and they are evil, not knowing understanding. All have followed their own ways, each according to his own.
 - brenton: Yea, they are insatiable dogs, that know not what it is to be filled, and they are wicked, having no understanding: all have followed their own ways, each according to his own will.
 
 ### Isaiah 57:1
@@ -167550,19 +167550,19 @@ Note:
 ### Isaiah 57:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: His burial will be in peace; he is taken from midst.
+- fresh: His burial will be in peace; he has been taken from the midst.
 - brenton: His burial shall be in peace: he has been removed out of the way.
 
 ### Isaiah 57:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But you, come here, sons of lawless one, seed of adulterers and prostitute.
+- fresh: But you, come here, lawless sons, seed of adulterers and a prostitute.
 - brenton: But draw ye near hither, ye lawless children, the seed of adulterers and the harlot.
 
 ### Isaiah 57:4
@@ -167577,10 +167577,10 @@ Note:
 ### Isaiah 57:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: inflamed over idols under leafy trees, slaughtering your children in ravines between rocks?
+- fresh: calling upon idols under leafy trees, slaughtering your children in ravines between rocks?
 - brenton: who call upon idols under the leafy trees, slaying your children in the valleys among the rocks?
 
 ### Isaiah 57:6
@@ -167595,46 +167595,46 @@ Note:
 ### Isaiah 57:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: On high and lofty mountain, there your bed; there you brought up sacrifices.
+- fresh: On a high and lofty mountain, there is your bed; there you brought up sacrifices.
 - brenton: On a lofty and high mountain, there is thy bed, and thither thou carriedst up thy meat-offerings:
 
 ### Isaiah 57:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And behind doorposts of your door you set your memorials. You thought that if you depart from me you will have something more. You loved those sleeping with you.
+- fresh: And behind the doorposts of your door you set your memorials. You thought that if you departed from me you would have something more. You loved those sleeping with you.
 - brenton: and behind the posts of thy door thou didst place thy memorials. Didst thou think that if thou shouldest depart from me, thou wouldest gain? thou hast loved those that lay with thee;
 
 ### Isaiah 57:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you multiplied your prostitution with them and made many far from you, and sent messengers beyond your borders and turned away and were humbled unto Hades.
+- fresh: And you multiplied your prostitution with them and made many far from you, and sent messengers beyond your borders and turned away and were humbled as far as Hades.
 - brenton: and thou hast multiplied thy whoredom with them, and thou hast increased the number of them that are far from thee, and hast sent ambassadors beyond thy borders, and hast been debased even to hell.
 
 ### Isaiah 57:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In your many ways you labored and did not say, I will stop. Because you kept strengthening yourself, therefore you did not ask of me.
+- fresh: In your many ways you labored and did not say, I will stop. Because you kept strengthening yourself, therefore you did not plead with me.
 - brenton: Thou hast wearied thyself with thy many ways; yet thou saidst not, I will cease to strengthen myself: for thou hast done these things; therefore thou hast not supplicated me.
 
 ### Isaiah 57:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Whom did you respect and fear and lie against me, and not remember me, nor take me into your mind or heart? And I, seeing you, overlooked it, and you did not fear me.
+- fresh: Whom did you respect and fear and lie to me, and not remember me, nor take me into your mind or heart? And I, seeing you, overlooked it, and you did not fear me.
 - brenton: Through dread of whom hast thou feared, and lied against me, and hast not remembered, nor considered me, nor regarded me, yea, though when I see thee I pass thee by, yet thou hast not feared me.
 
 ### Isaiah 57:12
@@ -167649,62 +167649,62 @@ Note:
 ### Isaiah 57:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: When you cry out, let them deliver you in your distress; for wind will take them all and storm carry them away. But those holding to me will possess land and inherit my holy mountain.
+- fresh: When you cry out, let them deliver you in your distress; for wind will take all these and storm will carry them away. But those holding fast to me will possess land and inherit my holy mountain.
 - brenton: When thou criest out, let them deliver thee in thine affliction: for all these the wind shall take, and the tempest shall carry them away: but they that cleave to me shall possess the land, and shall inherit my holy mountain.
 
 ### Isaiah 57:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will say, Clear roads before him and lift obstacles from the way of my people.
+- fresh: And they will say, Clear the roads before him and remove obstacles from the way of my people.
 - brenton: And they shall say, Clear the ways before him, and take up the stumbling-blocks out of the way of my people.
 
 ### Isaiah 57:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord Most High, dwelling in heights forever, Holy among holy ones his name, Lord Most High, resting among holy ones and giving patience to fainthearted ones and giving life to crushed in heart.
+- fresh: Thus says the Lord Most High, the one dwelling in the heights forever: Holy among holy ones is his name, the Lord Most High, resting among holy ones and giving patience to the fainthearted and giving life to those crushed in heart.
 - brenton: Thus saith the Most High, who dwells on high for ever, Holy in the holies, is his name, the Most High resting in the holies, and giving patience to the faint-hearted, and giving life to the broken-hearted:
 
 ### Isaiah 57:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Not forever will I avenge you, nor be angry with you always, for spirit from me will go out, and I made every breath.
+- fresh: Not forever will I avenge you, nor will I be angry with you always, for spirit from me will go out, and I made every breath.
 - brenton: I will not take vengeance on you for ever, neither will I be always angry with you: for my Spirit shall go forth from me, and I have created all breath.
 
 ### Isaiah 57:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of sin I grieved him a little and struck him and turned my face away from him, and he was grieved and went gloomy in his ways.
+- fresh: Because of sin I grieved him for a little while and struck him and turned my face away from him, and he was grieved and went gloomy in his ways.
 - brenton: On account of sin for a little while I grieved him, and smote him, and turned away my face from him; and he was grieved, and he went on sorrowful in his ways.
 
 ### Isaiah 57:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: His ways I saw and healed him and comforted him and gave him true comfort.
+- fresh: I have seen his ways and healed him and comforted him and gave him true comfort.
 - brenton: I have seen his ways, and healed him, and comforted him, and given him true comfort;
 
 ### Isaiah 57:19
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Peace upon peace to those far and to those near, and the Lord said, I will heal them.
 - brenton: peace upon peace to them that are far off, and to them that are nigh: and the Lord has said, I will heal them.
@@ -167712,82 +167712,82 @@ Note:
 ### Isaiah 57:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But unrighteous ones will be shaken like sea and cannot rest.
+- fresh: But unrighteous ones will thus be shaken and will not be able to rest.
 - brenton: But the unrighteous shall be tossed as troubled waves, and shall not be able to rest.
 
 ### Isaiah 57:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: No rejoicing for ungodly, said the Lord God.
+- fresh: There is no rejoicing for the ungodly, said the Lord God.
 - brenton: There is no joy to the ungodly, said God.
 
 ### Isaiah 58:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Cry out with strength and do not spare. Lift your voice like trumpet and announce to my people their sins and to the house of Jacob their lawless deeds.
+- fresh: Cry out with strength and do not spare. Lift your voice like a trumpet and announce to my people their sins and to the house of Jacob their lawless deeds.
 - brenton: Cry aloud, and spare not; lift up thy voice as with a trumpet, and declare to my people their sins, and to the house of Jacob their iniquities.
 
 ### Isaiah 58:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They seek me day after day and want to know my ways, as people doing righteousness and not forsaking judgment of their God. They ask me now for righteous judgment and desire to draw near to God.
+- fresh: They seek me day after day and want to know my ways, as a people that has done righteousness and not forsaken the judgment of their God. They ask me now for righteous judgment and desire to draw near to God.
 - brenton: They seek me day by day, and desire to know my ways, as a people that had done righteousness, and had not forsaken the judgment of their God: they now ask of me righteous judgment, and desire to draw nigh to God,
 
 ### Isaiah 58:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: saying, Why did we fast and you did not see? We humbled our souls and you did not know. For in the days of your fasts you find your own desires and prick all under your hand.
+- fresh: saying, Why did we fast and you did not see? We humbled our souls and you did not know. For in the days of your fasts you find your own desires and goad all those under your hands.
 - brenton: saying, Why have we fasted, and thou regardest not? why have we afflicted our souls, and thou didst not know it?
 
 ### Isaiah 58:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If you fast for judgments and fights and strike humble one with fists, why fast to me as today, so your voice may be heard in cry?
+- fresh: If you fast for judgments and fights and strike the humble one with fists, why do you fast to me as today, so that your voice may be heard in a cry?
 - brenton: If ye fast for quarrels and strifes, and smite the lowly with your fists, wherefore do ye fast to me as ye do this day, so that your voice may be heard in crying?
 
 ### Isaiah 58:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I did not choose such fast, nor day for man to humble his soul, nor if you bend your neck like ring and spread sackcloth and ashes. You will not call this acceptable fast.
+- fresh: I did not choose such a fast, nor a day for a man to humble his soul, nor if you bend your neck like a ring and spread sackcloth and ashes. You will not call such a fast acceptable.
 - brenton: I have not chosen this fast, nor such a day for a man to afflict his soul; neither though thou shouldest bend down thy neck as a ring, and spread under thee sackcloth and ashes, neither thus shall ye call a fast acceptable.
 
 ### Isaiah 58:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Is not this the fast I chose, says the Lord? Loose every bond of injustice, untie knots of violent agreements, send broken ones away in release, and tear up every unjust writing.
+- fresh: Is this not the fast I chose, says the Lord? Loose every bond of injustice, untie knots of violent agreements, send broken ones away in release, and tear up every unjust writing.
 - brenton: I have not chosen such a fast, saith the Lord; but do thou loose every burden of iniquity, do thou untie the knots of hard bargains, set the bruised free, and cancel every unjust account.
 
 ### Isaiah 58:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Break your bread to hungry and bring poor homeless into your house. If you see naked one, clothe him. And from your own seed do not turn away.
+- fresh: Break your bread for the hungry one and bring the poor homeless into your house. If you see a naked one, clothe him. And do not overlook those from your own seed.
 - brenton: Break thy bread to the hungry, and lead the unsheltered poor to thy house: if thou seest one naked, clothe him, and thou shalt not disregard the relations of thine own seed.
 
 ### Isaiah 58:8
@@ -167802,82 +167802,82 @@ Note:
 ### Isaiah 58:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then you will cry, and God will hear you. While you are still speaking he will say, See, I am here. If you remove from you bond and pointing of hand and word of grumbling,
+- fresh: Then you will cry, and God will hear you. While you are still speaking he will say, See, I am here. If you remove from yourself a bond and pointing of the hand and word of grumbling,
 - brenton: Then shalt thou cry, and God shall hearken to thee; while thou art yet speaking he will say, Behold, I am here. If thou remove from thee the band, and the stretching forth of the hands, and murmuring speech;
 
 ### Isaiah 58:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and give bread from your soul to hungry one and fill humbled soul, then your light will rise in darkness and your darkness as midday.
+- fresh: and give bread from your soul to the hungry one and fill the humbled soul, then your light will rise in darkness and your darkness as midday.
 - brenton: and if thou give bread to the hungry from thy heart, and satisfy the afflicted soul; then shall thy light spring up in darkness, and thy darkness shall be as noon-day:
 
 ### Isaiah 58:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your God will be with you always, and you will be filled as your soul desires, and your bones will grow fat, and you will be like well-watered garden and like spring whose water did not fail, and your bones like grass will spring up and grow fat, and they will inherit generations of generations.
+- fresh: And your God will be with you always, and you will be filled as your soul desires, and your bones will grow fat, and you will be like a well-watered garden and like a spring whose water does not fail, and your bones like grass will spring up and grow fat, and they will inherit generations of generations.
 - brenton: and thy God shall be with thee continually, and thou shalt be satisfied according as thy soul desires; and thy bones shall be made fat, and shall be as a well-watered garden, and as a fountain from which the water has not failed.
 
 ### Isaiah 58:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And your everlasting desolations will be built, and your foundations everlasting to the generations of generations. And you will be called builder of fences, and you will stop the paths between.
+- fresh: And your everlasting desolations will be built, and your foundations will be everlasting to the generations of generations. And you will be called builder of fences, and you will stop the paths between.
 - brenton: And thy old waste desert places shall be built up, and thy foundations shall last through all generations; and thou shalt be called a repairer of breaches, and thou shalt cause thy paths between to be in peace.
 
 ### Isaiah 58:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If you turn your foot from Sabbaths, not doing your wishes on holy day, and call Sabbaths delightful, holy to your God, you will not lift your foot for work nor speak word in anger from your mouth.
+- fresh: If you turn your foot from the Sabbaths, not doing your wishes on the holy day, and call the Sabbaths delightful, holy to your God, you will not lift your foot for work nor speak a word in anger from your mouth.
 - brenton: If thou turn away thy foot from the sabbath, so as not to do thy pleasure on the holy days, and shalt call the sabbaths delightful, holy to God; if thou shalt not lift up thy foot to work, nor speak a word in anger out of thy mouth,
 
 ### Isaiah 58:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will be confident in the Lord, and he will bring you up on good things of earth and feed you inheritance of Jacob your father, for the mouth of the Lord spoke these things.
+- fresh: And you will be confident in the Lord, and he will bring you up on the good things of the earth and feed you with the inheritance of Jacob your father, for the mouth of the Lord spoke these things.
 - brenton: then shalt thou trust on the Lord; and he shall bring thee up to the good places of the land, and feed thee with the heritage of Jacob thy father: for the mouth of the Lord has spoken this.
 
 ### Isaiah 59:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Surely the hand of the Lord not too weak to save, nor his ear made heavy so as not to hear.
+- fresh: Surely the hand of the Lord is not too weak to save, nor his ear made heavy so as not to hear.
 - brenton: Has the hand of the Lord no power to save? or has he made his ear heavy, so that he should not hear?
 
 ### Isaiah 59:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But your sins separate between you and God, and because of your sins he turned his face away from you so as not to have mercy.
+- fresh: But your sins stand between you and God, and because of your sins he turned his face away from you so as not to have mercy.
 - brenton: Nay, your iniquities separate between you and God, and because of your sins has he turned away his face from you, so as not to have mercy upon you.
 
 ### Isaiah 59:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For your hands polluted with blood and your fingers with sins. Your lips spoke lawlessness and your tongue studies injustice.
+- fresh: For your hands are polluted with blood and your fingers with sins. Your lips spoke lawlessness and your tongue studies injustice.
 - brenton: For your hands are defiled with blood, and your fingers with sins; your lips also have spoken iniquity, and your tongue meditates unrighteousness.
 
 ### Isaiah 59:4
@@ -167910,44 +167910,44 @@ Note:
 ### Isaiah 59:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Their feet run to evil, quick to pour out blood, and their thoughts are thoughts of fools. Crushing and misery in their ways.
+- fresh: Their feet run to evil, quick to pour out blood, and their thoughts are thoughts of fools. Crushing and misery are in their ways.
 - brenton: And their feet run to wickedness, swift to shed blood; their thoughts also are thoughts of murder; destruction and misery are in their ways;
 
 ### Isaiah 59:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: They do not know a way of peace, and there is no judgment in their ways, for their paths are twisted, which they travel, and they do not know peace.
+- fresh: They do not know the way of peace, and there is no judgment in their ways, for their paths are twisted, which they travel, and they do not know peace.
 - brenton: and the way of peace they know not, neither is there judgment in their ways; for their paths by which they go are crooked, and they know not peace.
 
 ### Isaiah 59:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore judgment withdrew from them, and righteousness will not overtake them. Though they waited for light, darkness came to them. Remaining for brightness, they walked in gloom.
+- fresh: Therefore judgment withdrew from them, and righteousness will not overtake them. Though they waited for light, darkness came to them. While waiting for dawn, they walked in gloom.
 - brenton: Therefore has judgment departed from them, and righteousness shall not overtake them: while they waited for light, darkness came upon them; while they waited for brightness, they walked in perplexity.
 
 ### Isaiah 59:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will grope wall like blind men and as having no eyes they will grope, and fall at noon as at midnight. As dying men they will groan.
+- fresh: They will grope for a wall like blind men and as having no eyes they will grope, and they will fall at noon as at midnight. As dying men they will groan.
 - brenton: They shall feel for the wall as blind men, and shall feel for it as if they had no eyes: and they shall feel at noon-day as at midnight; they shall groan as dying men.
 
 ### Isaiah 59:11
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Like a bear and like a dove together they will go. We waited for judgment, and there is none; salvation stood far from us.
 - brenton: They shall proceed together as a bear and as a dove: we have waited for judgment, and there is no salvation, it is gone far from us.
@@ -167955,10 +167955,10 @@ Note:
 ### Isaiah 59:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For our lawlessness great before you, and our sins stood against us. Our lawless deeds in us, and our injustices we know:
+- fresh: For our lawlessness is great before you, and our sins stood against us. Our lawless deeds are in us, and our injustices we know:
 - brenton: For our iniquity is great before thee, and our sins have risen up against us: for our iniquities are in us, and we know our unrighteous deeds.
 
 ### Isaiah 59:13
@@ -167982,10 +167982,10 @@ Note:
 ### Isaiah 59:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And truth was taken away and they removed understanding from mind. And the Lord saw, and it did not please him, because there was no judgment.
+- fresh: And truth was taken away and they moved the mind away from understanding. And the Lord saw, and it did not please him, because there was no judgment.
 - brenton: And truth has been taken away, and they have turned aside their mind from understanding.
 
 ### Isaiah 59:16
@@ -168000,37 +168000,37 @@ Note:
 ### Isaiah 59:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he put on righteousness as breastplate and placed helmet of salvation on head and put on garment of vengeance as clothing.
+- fresh: And he put on righteousness as a breastplate and placed a helmet of salvation on his head and put on a garment of vengeance as a cloak.
 - brenton: And he put on righteousness as a breast-plate, and placed the helmet of salvation on his head; and he clothed himself with the garment of vengeance, and with his cloak,
 
 ### Isaiah 59:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As one giving repayment, reproach to opponents.
+- fresh: as one who will give repayment: reproach to the opponents.
 - brenton: as one about to render a recompence, even reproach to his adversaries.
 
 ### Isaiah 59:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And those from the west will fear the name of the Lord, and those from the sunrise his glorious name. For wrath from the Lord will come like violent river, coming with fury.
+- fresh: And those from the west will fear the name of the Lord, and those from the sunrise the glorious name. For wrath from the Lord will come like a violent river, coming with fury.
 - brenton: So shall they of the west fear the name of the Lord, and they that come from the rising of the sun his glorious name: for the wrath of the Lord shall come as a mighty river, it shall come with fury.
 
 ### Isaiah 59:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And rescuer will come for the sake of Zion and turn away ungodliness from Jacob.
+- fresh: And the rescuer will come for the sake of Zion and turn away ungodliness from Jacob.
 - brenton: And the deliverer shall come for Sion's sake, and shall turn away ungodliness from Jacob.
 
 ### Isaiah 59:21
@@ -168054,10 +168054,10 @@ Note:
 ### Isaiah 60:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, darkness and gloom will cover earth over nations; but on you the Lord will appear and his glory will be seen on you.
+- fresh: See, darkness and gloom will cover the earth over nations; but on you the Lord will appear and his glory will be seen on you.
 - brenton: Behold, darkness shall cover the earth, and there shall be gross darkness on the nations: but the Lord shall appear upon thee, and his glory shall be seen upon thee.
 
 ### Isaiah 60:3
@@ -168072,37 +168072,37 @@ Note:
 ### Isaiah 60:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lift your eyes around and see. Your children gathered; see, all your sons came from far away and your daughters will be carried on shoulders.
+- fresh: Lift your eyes around and see. Your children have been gathered; see, all your sons have come from far away and your daughters will be carried on shoulders.
 - brenton: Lift up thine eyes round about, and behold thy children gathered: all thy sons have come from far, and thy daughters shall be borne on men's shoulders.
 
 ### Isaiah 60:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then you will see and fear and your heart will be amazed, because wealth of sea and of nations and peoples will turn to you and come to you.
+- fresh: Then you will see and fear and your heart will be amazed, because the wealth of the sea and of nations and peoples will turn to you and come to you.
 - brenton: Then shalt thou see, and fear, and be amazed in thine heart; for the wealth of the sea shall come round to thee, and of nations and peoples; and herds of camels shall come to thee,
 
 ### Isaiah 60:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Herds of camels will cover you, camels of Midian and Ephah. All from Sheba will come, carrying gold and incense, and proclaiming salvation of the Lord.
+- fresh: Herds of camels will cover you, camels of Midian and Ephah. All from Sheba will come, carrying gold and frankincense, and proclaiming the salvation of the Lord.
 - brenton: and the camels of Madiam and Gæpha shall cover thee: all from Saba shall come bearing gold, and shall bring frankincense, and they shall publish the salvation of the Lord.
 
 ### Isaiah 60:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all sheep of Kedar will be gathered to you and rams of Nebaioth will come to you and be brought up acceptable on my altar, and my house of prayer will be glorified.
+- fresh: And all the sheep of Kedar will be gathered to you and rams of Nebaioth will come to you and be brought up acceptable on my altar, and my house of prayer will be glorified.
 - brenton: And all the flocks of Kedar shall be gathered, and the rams of Nabæoth shall come; and acceptable sacrifices shall be offered on my altar, and my house of prayer shall be glorified.
 
 ### Isaiah 60:8
@@ -168117,19 +168117,19 @@ Note:
 ### Isaiah 60:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Islands waited for me and ships of Tarshish first, to bring your children from far away, and their silver and gold with them, because of holy name of the Lord and because the Holy One of Israel is glorified.
+- fresh: Islands waited for me and ships of Tarshish first, to bring your children from far away, and their silver and gold with them, because of the holy name of the Lord and because the Holy One of Israel is glorified.
 - brenton: The isles have waited for me, and the ships of Tharsis among the first, to bring thy children from afar, and their silver and their gold with them, and that for the sake of the holy name of the Lord, and because the Holy One of Israel is glorified.
 
 ### Isaiah 60:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Foreigners will build your walls and their kings stand beside you, because in my wrath I struck you and in mercy I loved you.
+- fresh: Foreigners will build your walls and their kings will stand beside you, because in my wrath I struck you and in mercy I loved you.
 - brenton: And strangers shall build thy walls, and their kings shall wait upon thee: for by reason of my wrath I smote thee, and by reason of mercy I loved thee.
 
 ### Isaiah 60:11
@@ -168153,19 +168153,19 @@ Note:
 ### Isaiah 60:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The glory of Lebanon will come to you with cypress and pine and cedar together, to glorify place of my holy one.
+- fresh: The glory of Lebanon will come to you with cypress and pine and cedar together, to glorify my holy place.
 - brenton: And the glory of Libanus shall come to thee, with the cypress, and pine, and cedar together, to glorify my holy place.
 
 ### Isaiah 60:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sons of those humbling you and provoking you will come to you in fear, and you will be called the city of the Lord, Zion of the Holy One of Israel.
+- fresh: Sons of those who humbled you and provoked you will come to you in fear, and you will be called the city of the Lord, Zion of the Holy One of Israel.
 - brenton: And the sons of them that afflicted thee, and of them that provoked thee, shall come to thee in fear; and thou shalt be called Sion, the city of the Holy One of Israel.
 
 ### Isaiah 60:15
@@ -168180,10 +168180,10 @@ Note:
 ### Isaiah 60:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You will suck milk of nations and eat wealth of kings, and you will know that I, the Lord, am one saving you and delivering you, God of Israel.
+- fresh: You will suck milk of nations and eat wealth of kings, and you will know that I, the Lord, am the one saving you and delivering you, the God of Israel.
 - brenton: And thou shalt suck the milk of the Gentiles, and shalt eat the wealth of kings: and shalt know that I am the Lord that saves thee and delivers thee, the Holy One of Israel.
 
 ### Isaiah 60:17
@@ -168198,73 +168198,73 @@ Note:
 ### Isaiah 60:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Injustice will no longer be heard in your land, nor crushing nor misery in your borders, but your walls will be called Salvation and your gates Praise.
+- fresh: Injustice will no longer be heard in your land, nor crushing nor misery in your borders, but your walls will be called Salvation and your gates Carved Work.
 - brenton: And injustice shall no more be heard in thy land, nor destruction nor misery in thy coasts; but thy walls shall be called Salvation, and thy gates Sculptured Work.
 
 ### Isaiah 60:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Sun will not be for you light by day, nor rising of moon light your night, but the Lord will be everlasting light for you and God your glory.
+- fresh: The sun will not be for you light by day, nor will the rising of the moon light your night, but the Lord will be everlasting light for you and God your glory.
 - brenton: And thou shalt no more have the sun for a light by day, nor shall the rising of the moon lighten thy night; but the Lord shall be thine everlasting light, and God thy glory.
 
 ### Isaiah 60:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your sun will not set and your moon will not fail, for the Lord will be everlasting light for you and days of your mourning will be fulfilled.
+- fresh: Your sun will not set and your moon will not fail, for the Lord will be everlasting light for you and the days of your mourning will be fulfilled.
 - brenton: For the sun shall no more set, nor shall the moon be eclipsed; for the Lord shall be thine everlasting light, and the days of thy mourning shall be completed.
 
 ### Isaiah 60:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: All your people righteous, and forever they will inherit land, keeping the plant, work of his hands, for glory.
+- fresh: All your people will be righteous, and forever they will inherit the land, keeping the plant, the work of his hands, for glory.
 - brenton: Thy people also shall be all righteous; they shall inherit the land for ever, preserving that which they have planted, even the works of their hands, for glory.
 
 ### Isaiah 60:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Least one will become into thousands and smallest into great nation. I
+- fresh: The least one will become thousands and the smallest a great nation. I, the Lord, in due time will gather them.
 - brenton: The little one shall become thousands, and the least a great nation; I the Lord will gather them in due time.
 
 ### Isaiah 61:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The Spirit of the Lord on me, because he anointed me to bring good news to poor. He sent me to heal crushed in heart, proclaim release to captives and sight to blind.
+- fresh: The Spirit of the Lord is on me, because he anointed me to bring good news to the poor. He sent me to heal those crushed in heart, proclaim release to captives and recovery of sight to the blind.
 - brenton: The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;
 
 ### Isaiah 61:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Call year of the Lord acceptable and day of repayment, to comfort all mourning ones.
+- fresh: to call the acceptable year of the Lord and the day of repayment, to comfort all those mourning.
 - brenton: to declare the acceptable year of the Lord, and the day of recompence; to comfort all that mourn;
 
 ### Isaiah 61:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Give to mourning ones of Zion glory instead of ashes, oil of gladness to mourning ones, garment of glory instead of spirit of weariness, and they will be called generations of righteousness, planting of the Lord for glory.
+- fresh: to give to those mourning Zion glory instead of ashes, oil of gladness to those mourning, a garment of glory instead of a spirit of weariness, and they will be called generations of righteousness, planting of the Lord for glory.
 - brenton: that there should be given to them that mourn in Sion glory instead of ashes, the oil of joy to the mourners, the garment of glory for the spirit of heaviness: and they shall be called generations of righteousness, the planting of the Lord for glory.
 
 ### Isaiah 61:4
@@ -168297,19 +168297,19 @@ Note:
 ### Isaiah 61:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: So they will inherit land second time and everlasting joy above their head.
+- fresh: So they will inherit the land for a second time and everlasting joy will be above their head.
 - brenton: Thus shall they inherit the land a second time, and everlasting joy shall be upon their head.
 
 ### Isaiah 61:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For I am the Lord loving righteousness and hating robberies from injustice, and I will give their toil to righteous ones and make everlasting covenant with them.
+- fresh: For I am the Lord loving righteousness and hating robberies from injustice, and I will give their toil to righteous ones and make an everlasting covenant with them.
 - brenton: For I am the Lord who love righteousness, and hate robberies of injustice; and I will give their labour to the just, and will make an everlasting covenant with them.
 
 ### Isaiah 61:9
@@ -168324,208 +168324,208 @@ Note:
 ### Isaiah 61:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will rejoice with joy in the Lord; let my soul exult in the Lord, for he clothed me with garment of salvation and tunic of gladness. As bridegroom he put turban on me, and as bride adorned me with ornament.
+- fresh: They will rejoice with joy in the Lord; let my soul exult in the Lord, for he clothed me with a garment of salvation and a tunic of gladness. As a bridegroom he put a turban on me, and as a bride he adorned me with ornament.
 - brenton: and they shall greatly rejoice in the Lord.
 
 ### Isaiah 61:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As earth increases its flower and as garden its seeds, so the Lord will make righteousness and exultation spring up before all nations.
+- fresh: And as earth increases its flower and as a garden its seeds, so the Lord will make righteousness and exultation spring up before all nations.
 - brenton: And as the earth putting forth her flowers, and as a garden its seed; so shall the Lord, even the Lord, cause righteousness to spring forth, and exultation before all nations.
 
 ### Isaiah 62:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For Zion I will not be silent, and for Jerusalem I will not relent until my righteousness goes out as light and my salvation burns as torch.
+- fresh: For Zion I will not be silent, and for Jerusalem I will not relent until my righteousness goes out like light and my salvation burns like a torch.
 - brenton: For Sion's sake I will not hold my peace, and for Jerusalem's sake I will not rest, until her righteousness go forth as light, and my salvation burn as a torch.
 
 ### Isaiah 62:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Nations will see your righteousness and kings your glory, and your new name the Lord will call it.
+- fresh: Nations will see your righteousness and kings your glory, and you will be called by your new name, which the Lord will name.
 - brenton: And the Gentiles shall see thy righteousness, and kings thy glory: and one shall call thee by a new name, which the Lord shall name.
 
 ### Isaiah 62:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You will be a crown of beauty in the hand of the Lord and diadem of kingdom in the hand of your God.
+- fresh: You will be a crown of beauty in the hand of the Lord and a diadem of kingship in the hand of your God.
 - brenton: And thou shalt be a crown of beauty in the hand of the Lord, and a royal diadem in the hand of thy God.
 
 ### Isaiah 62:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: No longer will you be called Forsaken, and your land will no longer be called Desert, for you will be called My Will, and your land Inhabited.
+- fresh: No longer will you be called Forsaken, and your land will no longer be called Desolate, for you will be called My Desire, and your land Inhabited.
 - brenton: And thou shalt no more be called Forsaken; and thy land shall no more be called Desert: for thou shalt be called My Pleasure, and thy land Inhabited: for the Lord has taken pleasure in thee, and thy land shall be inhabited.
 
 ### Isaiah 62:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And as a young man dwelling with a virgin, so your sons will dwell with you, and as a bridegroom rejoices over a bride, so the Lord will rejoice over you.
+- fresh: And as a young man lives with a virgin, so your sons will dwell with you, and as a bridegroom rejoices over a bride, so the Lord will rejoice over you.
 - brenton: And as a young man lives with a virgin, so shall thy sons dwell in thee: and it shall come to pass that as a bridegroom will rejoice over a bride, so will the Lord rejoice over thee.
 
 ### Isaiah 62:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: On your walls, Jerusalem, I appointed watchmen all day and all night; through all end they will not be silent, remembering Lord.
+- fresh: On your walls, Jerusalem, I appointed watchmen all day and all night; continually they will not be silent, remembering the Lord.
 - brenton: And on thy walls, O Jerusalem, have I set watchmen all day and all night, who shall never cease making mention of the Lord.
 
 ### Isaiah 62:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For no one like you when he restores and makes Jerusalem boast upon earth.
+- fresh: For there is no one like you when he restores and makes Jerusalem a boast upon the earth.
 - brenton: For there is none like you, when he shall have established, and made Jerusalem a praise on the earth.
 
 ### Isaiah 62:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The Lord swore by his right hand and by the strength of his arm: If I again give your grain and your foods to your enemies, and if sons of foreigners again drink your wine for which you labored—
+- fresh: The Lord swore by his right hand and by the strength of his arm: Surely I will no longer give your grain and your foods to your enemies, and sons of foreigners will no longer drink your wine for which you labored—
 - brenton: For the Lord has sworn by his glory, and by the might of his arm, I will no more give thy corn and thy provisions to thine enemies; nor shall strangers any more drink thy wine, for which thou hast laboured.
 
 ### Isaiah 62:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: rather those gathering will eat them and praise the Lord, and those gathering will drink them in my holy courts.
+- fresh: rather those who gather them will eat them and praise the Lord, and those who gather them will drink them in my holy courts.
 - brenton: But they that have gathered them shall eat them, and they shall praise the Lord; and they that have gathered the grapes shall drink thereof in my holy courts.
 
 ### Isaiah 62:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Go through my gates and make way for my people, and scatter stones from road. Lift standard to nations.
+- fresh: Go through my gates and make a road for my people, and scatter the stones from the road. Lift a standard for the nations.
 - brenton: Go through my gates, and make a way for my people; and cast the stones out of the way; lift up a standard for the Gentiles.
 
 ### Isaiah 62:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: For see, the Lord made it heard to the end of the earth: Say to the daughter of Zion, See, your savior comes, holding his wage and his work before his face.
+- fresh: For behold, the Lord made this heard to the end of the earth: Say to the daughter of Zion, Behold, your Savior comes, holding his wage and his work before his face.
 - brenton: For behold, the Lord has proclaimed to the end of the earth, say ye to the daughter of Sion, Behold, thy Saviour has come to thee, having his reward and his work before his face.
 
 ### Isaiah 62:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will call him Holy People, Redeemed by the Lord. But you will be called Sought Out City and Not Forsaken.
+- fresh: And he will call them Holy People, Redeemed by the Lord. But you will be called Sought Out, a City Not Forsaken.
 - brenton: And one shall call them the holy people, the redeemed of the Lord: and thou shalt be called a city sought out, and not forsaken.
 
 ### Isaiah 63:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Who is this coming from Edom, redness of garments from Besor, so beautiful in robe, force with strength? I speak righteousness and judgment of salvation.
+- fresh: Who is this coming from Edom, with redness of garments from Bozrah, so beautiful in his robe, with force and strength? I speak righteousness and a judgment of salvation.
 - brenton: Who is this that is come from Edom, with red garments from Bosor? thus fair in his apparel, with mighty strength? I speak of righteousness and saving judgment.
 
 ### Isaiah 63:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Why are your garments red and your clothes like from trodden winepress?
+- fresh: Why are your garments red and your clothes like those from a trodden winepress?
 - brenton: Wherefore are thy garments red, and thy raiment as if fresh from a trodden wine-press?
 
 ### Isaiah 63:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Full of trampled grapes, and from nations no man with me; I trampled them in wrath and crushed them like earth and brought their blood down to earth.
+- fresh: I am full of what was trampled, and from the nations no man was with me; I trampled them in wrath and crushed them like earth and brought their blood down to the earth.
 - brenton: I am full of trodden grape, and of the nations there is not a man with me; and I trampled them in my fury, and dashed them to pieces as earth, and brought down their blood to the earth.
 
 ### Isaiah 63:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For the day of repayment came on them, and year of redemption is present.
+- fresh: For the day of repayment came upon them, and the year of redemption is present.
 - brenton: For the day of recompence has come upon them, and the year of redemption is at hand.
 
 ### Isaiah 63:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I looked and none was helper; I considered and no one was taking hold. So my arm rescued them and my wrath came upon them.
+- fresh: I looked and there was no helper; I considered and no one was taking hold. So my arm rescued them and my wrath came upon them.
 - brenton: And I looked, and there was no helper; and I observed, and none upheld: therefore my arm delivered them, and mine anger drew nigh.
 
 ### Isaiah 63:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I trampled them in my anger and brought their blood down to earth.
+- fresh: And I trampled them in my anger and brought their blood down to the earth.
 - brenton: And I trampled them in mine anger, and brought down their blood to the earth.
 
 ### Isaiah 63:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I remembered mercy of the Lord, virtues of the Lord in all things the Lord repays us—the Lord is a good judge to the house of Israel. He brings upon us according to his mercy and according to the abundance of his righteousness.
+- fresh: I remembered the mercy of the Lord, the virtues of the Lord in all things by which the Lord repays us—the Lord is a good judge to the house of Israel. He brings upon us according to his mercy and according to the abundance of his righteousness.
 - brenton: I remembered the mercy of the Lord, the praises of the Lord in all things wherein he recompenses us. The Lord is a good judge to the house of Israel; he deals with us according to his mercy, and according to the abundance of his righteousness.
 
 ### Isaiah 63:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, Are they not my people, children who will not reject? And he became salvation to them.
+- fresh: And he said, Are they not my people, children who will certainly not reject? And he became salvation to them.
 - brenton: And he said, Is it not my people? the children surely will not be rebellious: and he became to them deliverance
 
 ### Isaiah 63:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: In all their affliction not elder nor angel, but the Lord himself saved them. Because he loved them and spared them, he redeemed them and took them up and lifted them all days of age.
+- fresh: In all their affliction, no elder nor angel, but the Lord himself saved them. Because he loved them and spared them, he redeemed them and took them up and lifted them all the days of old.
 - brenton: out of all their affliction: not an ambassador, nor a messenger, but himself saved them, because he loved them and spared them: he himself redeemed them, and took them up, and lifted them up all the days of old.
 
 ### Isaiah 63:10
@@ -168540,394 +168540,394 @@ Note:
 ### Isaiah 63:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he remembered the days of old, one bringing up from the land shepherd of sheep. Where is one placing Holy Spirit in them,
+- fresh: And he remembered the days of old, the one who brought up from the land the shepherd of the sheep. Where is the one who placed the Holy Spirit in them,
 - brenton: Then he remembered the ancient days, saying, Where is he that brought up from the sea the shepherd of the sheep? where is he that put his Holy Spirit in them?
 
 ### Isaiah 63:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: one leading Moses at right hand? Arm of his glory strengthened water before him, to make everlasting name for himself.
+- fresh: the one who led Moses by the right hand? The arm of his glory strengthened the water before him, to make an everlasting name for himself.
 - brenton: who led Moses with his right hand, the arm of his glory? he forced the water to separate from before him, to make himself an everlasting name.
 
 ### Isaiah 63:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He led them through abyss like a horse through wilderness, and they did not tire.
+- fresh: He led them through the abyss like a horse through a wilderness, and they did not tire.
 - brenton: He led them through the deep, as a horse through the wilderness, and they fainted not,
 
 ### Isaiah 63:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And as cattle through plain Spirit from the Lord came down and guided them. So you led your people to make for yourself name of glory.
+- fresh: And like cattle through a plain, the Spirit from the Lord came down and guided them. So you led your people to make for yourself a name of glory.
 - brenton: and as cattle through a plain: the Spirit came down from the Lord, and guided them: thus thou leddest thy people, to make thyself a glorious name.
 
 ### Isaiah 63:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Turn from heaven and look from the house of your holiness and glory. Where is your zeal and strength? Where is the multitude of your mercy and compassions, because you held back from us?
+- fresh: Turn back from heaven and look from your holy and glorious house. Where is your zeal and strength? Where is the multitude of your mercy and compassions, because you held back from us?
 - brenton: Turn from heaven, and look from thy holy habitation and from thy glory: where is thy zeal and thy strength? where is the abundance of thy mercy and of thy compassions, that thou hast withholden thyself from us?
 
 ### Isaiah 63:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For you are our father, because Abraham did not know us and Israel did not acknowledge us; but you, Lord, our father, rescue us. From beginning your name is upon us.
+- fresh: For you are our father, because Abraham did not know us and Israel did not acknowledge us; but you, Lord, our father, rescue us. From the beginning your name is upon us.
 - brenton: For thou art our Father; for though Abraham knew us not, and Israel did not acknowledge us, yet do thou, O Lord, our Father, deliver us: thy name has been upon us from the beginning.
 
 ### Isaiah 63:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Why did you make us wander, Lord, from your way? You hardened our hearts so as not to fear you. Turn back for the sake of your servants, tribes of your inheritance.
+- fresh: Why did you make us wander, Lord, from your way? You hardened our hearts so as not to fear you. Turn back for the sake of your servants, the tribes of your inheritance.
 - brenton: Why hast thou caused us to err, O Lord, from thy way? and hast hardened our hearts, that we should not fear thee? Return for thy servants' sake, for the sake of the tribes of thine inheritance,
 
 ### Isaiah 63:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: So we may inherit little of your holy mountain. Our opponents trampled your sanctuary.
+- fresh: So we may inherit a little of your holy mountain. Our opponents trampled your sanctuary.
 - brenton: that we may inherit a small part of thy holy mountain.
 
 ### Isaiah 63:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: We became as from the beginning when you did not rule us nor your name was called on us. If you open heaven, mountains will take trembling from you and melt.
+- fresh: We became as from the beginning when you did not rule us nor was your name called on us. If you open heaven, trembling will seize the mountains from you, and they will melt.
 - brenton: We are become as at the beginning, when thou didst not rule over us, and thy name was not called upon us.
 
 ### Isaiah 64:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As wax melts from fire, and fire will burn opponents, and the name of the Lord will be evident among opponents; from your face nations will be shaken.
+- fresh: As wax melts from fire, and fire will burn the opponents, and the name of the Lord will be evident among the opponents; from your face nations will be shaken.
 - brenton: as wax melts before the fire; and fire shall burn up the enemies, and thy name shall be manifest among the adversaries: at thy presence the nations shall be troubled,
 
 ### Isaiah 64:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: When you do glorious things, mountains will take trembling from you.
+- fresh: When you do glorious things, trembling will seize the mountains from you.
 - brenton: whenever thou shalt work gloriously; trembling from thee shall take hold upon the mountains.
 
 ### Isaiah 64:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: From age we did not hear, nor did our eyes see god besides you and your works which you will do for those waiting mercy.
+- fresh: From the age we have not heard, nor have our eyes seen God besides you and your works which you will do for those waiting for mercy.
 - brenton: From of old we have not heard, neither have our eyes seen a God beside thee, and thy works which thou wilt perform to them that wait for mercy.
 
 ### Isaiah 64:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For he will meet those doing righteousness, and they will remember your ways. See, you were angry and we sinned; because of this we wandered.
+- fresh: For he will meet those who do righteousness, and they will remember your ways. Behold, you were angry and we sinned; because of this we wandered.
 - brenton: For these blessings shall happen to them that work righteousness, and they shall remember thy ways: behold, thou wast angry and we have sinned; therefore we have erred,
 
 ### Isaiah 64:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And we all became as unclean, and all our righteousness as cloth of menstruation, and we fell away as leaves. Because of our lawless deeds thus wind will carry us away.
+- fresh: And all of us became as unclean, and all our righteousness as a cloth of menstruation, and we fell away as leaves. Because of our lawless deeds, thus a wind will carry us away.
 - brenton: and we are all become as unclean, and all our righteousness as a filthy rag: and we have fallen as leaves because of our iniquities; thus the wind shall carry us away.
 
 ### Isaiah 64:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And there is no one calling on your name and remembering to take hold of you, because you turned your face from us and gave us over because of our sins.
+- fresh: And there is no one calling on your name and no one remembering to take hold of you, because you turned your face away from us and gave us over because of our sins.
 - brenton: And there is none that calls upon thy name, or that remembers to take hold on thee: for thou hast turned thy face away from us, and hast delivered us up because of our sins.
 
 ### Isaiah 64:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now, Lord, our father, you; but we clay, all work of your hands.
+- fresh: And now, Lord, you are our father; but we are clay, all of us the work of your hands.
 - brenton: And now, O Lord, thou art our Father, and we are clay, all of us the work of thine hands.
 
 ### Isaiah 64:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not be very angry with us and do not remember our sins in season. And now look, because we all your people.
+- fresh: Do not be very angry with us, and do not remember our sins in season. And now look, because we are all your people.
 - brenton: Be not very wroth with us, and remember not our sins for ever; but now look on us, for we are all thy people.
 
 ### Isaiah 64:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The city of your holy one became desolate. Zion became like a desert; Jerusalem into curse.
+- fresh: Your holy city became desolate. Zion became like a desert; Jerusalem became a curse.
 - brenton: The city of thy holiness has become desolate, Sion has become as a wilderness, Jerusalem a curse.
 
 ### Isaiah 64:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Our holy house and glory, which our fathers blessed, became burned with fire, and all glorious things fell.
+- fresh: Our holy house and our glory, which our fathers blessed, was burned with fire, and all glorious things fell.
 - brenton: The house, our sanctuary, and the glory which our fathers blessed, has been burnt with fire: and all our glorious things have gone to ruin.
 
 ### Isaiah 64:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And over all these you held back, Lord, and kept silent and humbled us greatly.
+- fresh: And over all these things you held back, Lord, and kept silent and humbled us greatly.
 - brenton: And for all these things thou, O Lord, hast withholden thyself, and been silent, and hast brought us very low.
 
 ### Isaiah 65:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I became manifest to those not seeking me; I was found by those not asking after me. I said, Here I am, to nation not calling my name.
+- fresh: I became manifest to those not seeking me; I was found by those not asking after me. I said, Behold, I am here, to a nation not calling my name.
 - brenton: I became manifest to them that asked not for me; I was found of them that sought me not: I said, Behold, I am here, to a nation, who called not on my name.
 
 ### Isaiah 65:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I stretched out my hands all day to disobedient and contradicting people, who did not walk true way but after their sins.
+- fresh: I stretched out my hands all day to a disobedient and contradicting people, who did not walk in a true way but after their sins.
 - brenton: I have stretched forth my hands all day to a disobedient and gainsaying people, to them that walked in a way that was not good, but after their sins.
 
 ### Isaiah 65:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: This people provoking me continually to my face, sacrificing in gardens and burning incense on bricks to demons that do not exist.
+- fresh: This is the people who provoke me continually to my face, sacrificing in the gardens and burning incense on the bricks to demons that do not exist.
 - brenton: This is the people that provokes me continually in my presence; they offer sacrifices in gardens, and burn incense on bricks to devils, which exist not.
 
 ### Isaiah 65:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in tombs and caves they sleep because of dreams, eating pig flesh and broth of polluted sacrifices, all their vessels polluted.
+- fresh: And among the tombs and in the caves they sleep because of dreams, eating pig flesh and broth of polluted sacrifices; all their vessels are polluted.
 - brenton: They lie down to sleep in the tombs and in the caves for the sake of dreams, even they that eat swine's flesh, and the broth of their sacrifices: all their vessels are defiled:
 
 ### Isaiah 65:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: saying, Keep far from me; do not come near me, because I am clean. This smoke of my wrath, fire burning in it all days.
+- fresh: saying, Keep far from me; do not come near me, because I am clean. This is smoke of my wrath; a fire burns in it all the days.
 - brenton: who say, Depart from me, draw not nigh to me, for I am pure.
 
 ### Isaiah 65:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, it is written before me. I will not keep silent until I repay into their bosom
+- fresh: Behold, it is written before me. I will not keep silent until I repay into their bosom
 - brenton: Behold, it is written before me: I will not be silent until I have recompensed into their bosom,
 
 ### Isaiah 65:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: their sins and sins of their fathers, says the Lord, who burned incense on mountains and reproached me on hills. I will repay their works into their bosom.
+- fresh: their sins and the sins of their fathers, says the Lord, who burned incense on the mountains and reproached me on the hills. I will repay their works into their bosom.
 - brenton: their sins and the sins of their fathers, saith the Lord, who have burnt incense on the mountains, and reproached me on the hills: I will recompense their works into their bosom.
 
 ### Isaiah 65:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: As juice is found in cluster and they say, Do not destroy it, because the blessing of the Lord is in it, so I will do for the sake of one serving me. For his sake I will not destroy them all.
+- fresh: Thus says the Lord: As a grape is found in the cluster and they say, Do not destroy it, because the blessing of the Lord is in it, so I will do for the sake of the one serving me. For his sake I will not destroy them all.
 - brenton: Thus saith the Lord, As a grape-stone shall be found in the cluster, and they shall say, Destroy it not; for a blessing is in it: so will I do for the sake of him that serves me, for his sake I will not destroy them all.
 
 ### Isaiah 65:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will bring out from Jacob seed and from Judah, and it will inherit my holy mountain, and my chosen will inherit it and my servants dwell there.
+- fresh: And I will bring out the seed from Jacob and from Judah, and it will inherit my holy mountain, and my chosen will inherit it and my servants will dwell there.
 - brenton: And I will lead forth the seed that came of Jacob and of Juda, and they shall inherit my holy mountain: and mine elect and my servants shall inherit it, and shall dwell there.
 
 ### Isaiah 65:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in the forest there will be folds for flocks and the valley of Achor for the rest of herds, for my people who sought me.
+- fresh: And in the forest there will be folds for flocks and the valley of Achor as a resting place for herds, for my people who sought me.
 - brenton: And there shall be in the forest folds of flocks, and the valley of Achor shall be for a resting-place of herds for my people, who have sought me.
 
 ### Isaiah 65:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But you who abandon me and forget my holy mountain and prepare table for demon and fill mixed drink for Fortune,
+- fresh: But you who abandon me and forget my holy mountain and prepare a table for the demon and fill mixed drink for Fortune,
 - brenton: But ye are they that have left me, and forget my holy mountain, and prepare a table for the devil, and fill up the drink-offering to Fortune.
 
 ### Isaiah 65:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will hand you over to sword. All you will fall in slaughter, because I called you and you did not obey; I spoke and you refused, and you did evil before me and chose what I did not want.
+- fresh: I will hand you over to the sword. All of you will fall by slaughter, because I called you and you did not obey; I spoke and you refused, and you did evil before me and chose what I did not desire.
 - brenton: I will deliver you up to the sword, ye shall all fall by slaughter: for I called you, and ye hearkened not; I spoke, and ye refused to hear; and ye did evil in my sight, and chose the things wherein I delighted not.
 
 ### Isaiah 65:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: See, those serving me will eat, but you will hunger. See, those serving me will drink, but you will thirst. See, those serving me will rejoice, but you will be shamed.
+- fresh: Therefore thus says the Lord: Behold, those who serve me will eat, but you will hunger. Behold, those who serve me will drink, but you will thirst. Behold, those who serve me will rejoice, but you will be shamed.
 - brenton: Therefore thus saith the Lord, Behold, my servants shall eat, but ye shall hunger: behold, my servants shall drink, but ye shall thirst: behold, my servants shall rejoice, but ye shall be ashamed:
 
 ### Isaiah 65:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, those serving me will exult in gladness, but you will cry out from pain of your heart and howl from crushing of spirit.
+- fresh: Behold, those who serve me will exult in gladness, but you will cry out from the pain of your heart and howl from crushing of spirit.
 - brenton: behold, my servants shall exult with joy, but ye shall cry for the sorrow of your heart, and shall howl for the vexation of your spirit.
 
 ### Isaiah 65:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: For you will leave your name for fullness to my chosen; The Lord will kill you, but to those serving him new name will be called,
+- fresh: For you will leave your name for fullness to my chosen; the Lord will kill you, but to those who serve him a new name will be called,
 - brenton: For ye shall leave your name for a loathing to my chosen, and the Lord shall destroy you: but my servants shall be called by a new name,
 
 ### Isaiah 65:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: by which one blessed on earth will bless true God, and those swearing on earth will swear by true God, because they will forget their former affliction and it will not come up on their heart.
+- fresh: by which one blessed on the earth will bless the true God, and those swearing on the earth will swear by the true God, because they will forget their former affliction and it will not come up on their heart.
 - brenton: which shall be blessed on the earth; for they shall bless the true God: and they that swear upon the earth shall swear by the true God; for they shall forget the former affliction, and it shall not come into their mind.
 
 ### Isaiah 65:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For there will be new heaven and new earth, and former things will not be remembered nor come upon heart.
+- fresh: For there will be a new heaven and a new earth, and former things will not be remembered nor come up upon their heart.
 - brenton: For there shall be a new heaven and a new earth: and they shall not at all remember the former, neither shall they at all come into their mind.
 
 ### Isaiah 65:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But they will find gladness and exultation in it, because see, I make Jerusalem exultation and my people gladness.
+- fresh: But they will find gladness and exultation in it, because behold, I make Jerusalem an exultation and my people gladness.
 - brenton: But they shall find in her joy and exultation; for, behold, I make Jerusalem a rejoicing, and my people a joy.
 
 ### Isaiah 65:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will exult over Jerusalem and be glad over my people, and the voice of weeping and the voice of cry will no longer be heard in her.
+- fresh: And I will exult over Jerusalem and be glad over my people, and a voice of weeping and a voice of crying will no longer be heard in her.
 - brenton: And I will rejoice in Jerusalem, and will be glad in my people: and there shall no more be heard in her the voice of weeping, or the voice of crying.
 
 ### Isaiah 65:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And there will no longer be there untimely child nor old man who does not fill his time, for young one will be hundred years old, but sinner dying at hundred years will be accursed.
+- fresh: And there will no longer be an untimely child there nor an old man who does not fill his time, for the young one will be one hundred years old, but the sinner dying at one hundred years will be accursed.
 - brenton: Neither shall there be there any more a child that dies untimely, or an old man who shall not complete his time: for the youth shall be a hundred years old, and the sinner who dies at a hundred years shall also be accursed:
 
 ### Isaiah 65:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will build houses and themselves dwell, and plant vineyards and themselves eat their produce.
+- fresh: They will build houses and dwell in them, and plant vineyards and eat their produce.
 - brenton: and they shall build houses, and themselves shall dwell in them; and they shall plant vineyards, and themselves shall eat the fruit thereof.
 
 ### Isaiah 65:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will not build and others dwell, nor plant and others eat, for the days of my people will be as days of the tree of life, and works of their labors will grow old.
+- fresh: They will not build and others dwell, nor plant and others eat, for the days of my people will be like the days of the tree of life, and the works of their labors will grow old.
 - brenton: They shall by no means build, and others inhabit; and they shall by no means plant, and others eat: for as the days of the tree of life shall be the days of my people, they shall long enjoy the fruits of their labours.
 
 ### Isaiah 65:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My chosen will not labor in vain nor bear children for curse, because seed blessed by God is with them and their offspring with them.
+- fresh: My chosen will not labor in vain nor bear children for a curse, because seed blessed by God is with them and their offspring with them.
 - brenton: My chosen shall not toil in vain, neither shall they beget children to be cursed; for they are a seed blessed of God, and their offspring with them.
 
 ### Isaiah 65:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And before they cry out, I will hear them. While they are still speaking, I will say, What is it?
@@ -168936,178 +168936,178 @@ Note:
 ### Isaiah 65:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Then wolves and lambs will graze together, and lion like ox will eat straw, and serpent earth as bread. They will not do injustice nor destroy on my holy mountain, says the Lord.
+- fresh: Then wolves and lambs will graze together, and a lion like an ox will eat straw, and a serpent will eat earth like bread. They will not do injustice nor destroy on my holy mountain, says the Lord.
 - brenton: Then wolves and lambs shall feed together, and the lion shall eat chaff like the ox, and the serpent earth as bread. They shall not injure nor destroy in my holy mountain, saith the Lord.
 
 ### Isaiah 66:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Heaven my throne, and earth footstool of my feet. What house will you build for me, or what place of my rest?
+- fresh: Thus says the Lord: Heaven is my throne, and the earth is the footstool of my feet. What house will you build for me, or what is the place of my rest?
 - brenton: Thus saith the Lord, Heaven is my throne, and the earth is my footstool: what kind of a house will ye build me? and of what kind is to be the place of my rest?
 
 ### Isaiah 66:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For all these my hand made, and all these are mine, says the Lord. And to whom will I look, except to humble and quiet one and one trembling at my words?
+- fresh: For all these things my hand made, and all these things are mine, says the Lord. And upon whom will I look, except upon the humble and quiet one and the one trembling at my words?
 - brenton: For all these things are mine, saith the Lord: and to whom will I have respect, but to the humble and meek, and the man that trembles at my words?
 
 ### Isaiah 66:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But lawless one sacrificing calf to me as one killing dog; one offering fine flour as blood of pig; one giving incense for memorial as blasphemer. These chose their own ways, and their soul desired their abominations.
+- fresh: But the lawless one sacrificing a calf to me is like one killing a dog; the one offering fine flour is like pig's blood; the one giving frankincense for a memorial is like a blasphemer. These also chose their own ways, and their soul desired their abominations.
 - brenton: But the transgressor that sacrifices a calf to me, is as he that kills a dog; and he that offers fine flour, as one that offers swine's blood; he that gives frankincense for a memorial, is as a blasphemer.
 
 ### Isaiah 66:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: So I will choose their mockeries and repay their sins to them, because I called them and they did not obey me. I spoke and they did not hear, and they did evil before me and chose what I did not want.
+- fresh: So I will choose their mockeries and repay their sins to them, because I called them and they did not obey me. I spoke and they did not hear, and they did evil before me and chose what I did not desire.
 - brenton: I also will choose their mockeries, and will recompense their sins upon them; because I called them, and they did not hearken to me; I spoke, and they heard not: and they did evil before me, and chose the things wherein I delighted not.
 
 ### Isaiah 66:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Hear the word of the Lord, you trembling at his word: Your brothers hating you and abhorring you said, Let the name of the Lord be glorified so we may see your gladness; but they will be shamed.
+- fresh: Hear the word of the Lord, you who tremble at his word: Say, Our brothers, to those who hate us and abhor us, Let the name of the Lord be glorified and be seen in their gladness; but they will be shamed.
 - brenton: Hear the words of the Lord, ye that tremble at his word; speak ye, our brethren, to them that hate you and abominate you, that the name of the Lord may be glorified, and may appear their joy; but they shall be ashamed.
 
 ### Isaiah 66:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The voice of a cry from the city, a voice from the temple, the voice of the Lord repaying repayment to opponents.
+- fresh: The voice of a cry from the city, a voice from the temple, the voice of the Lord repaying recompense to those opposing him.
 - brenton: A voice of a cry from the city, a voice from the temple, a voice of the Lord rendering recompence to his adversaries.
 
 ### Isaiah 66:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Before one in labor gave birth, before pain of birth-pangs came, she escaped and bore male.
+- fresh: Before the one in labor gave birth, before the pain of birth-pangs came, she escaped and bore a male.
 - brenton: Before she that travailed brought forth, before the travail-pain came on, she escaped it and brought forth a male.
 
 ### Isaiah 66:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who heard such thing and who saw thus? Did earth labor in one day, or nation bear at once? Because Zion labored and bore her children.
+- fresh: Who heard such a thing, and who saw thus? Did the earth labor in one day, or was a nation born at once? Because Zion labored and bore her children.
 - brenton: Who has heard such a thing? and who has seen after this manner? Has the earth travailed in one day? or has even a nation been born at once, that Sion has travailed, and brought forth her children?
 
 ### Isaiah 66:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But I gave this expectation and you did not remember me, said the Lord. See, did I make one bearing and then make her barren? said God.
+- fresh: But I gave this expectation and you did not remember me, said the Lord. See, did I make the one bearing and then make her barren? said God.
 - brenton: But I have raised this expectation, yet thou hast not remembered me, saith the Lord: behold, have not I made the bearing and barren woman? saith thy God.
 
 ### Isaiah 66:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Be glad, Jerusalem, and celebrate in her, all loving her. Rejoice with joy, all mourning over her,
+- fresh: Be glad, Jerusalem, and celebrate in her, all who love her. Rejoice with joy, all who mourn over her,
 - brenton: Rejoice, O Jerusalem, and all ye that love her hold in her a general assembly: rejoice greatly with her, all that now mourn over her:
 
 ### Isaiah 66:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: so you may nurse and be filled from the breast of her comfort, so that having sucked you may delight from the entrance of her glory.
+- fresh: so that you may nurse and be filled from the breast of her comfort, so that after nursing you may delight from the entrance of her glory.
 - brenton: that ye may suck, and be satisfied with the breast of her consolation; that ye may milk out, and delight yourselves with the influx of her glory.
 
 ### Isaiah 66:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord: See, I turn to them like a river of peace and like a torrent flooding glory of nations. Their children will be carried on shoulders and comforted on knees.
+- fresh: Because thus says the Lord: Behold, I turn to them like a river of peace and like a torrent flooding the glory of nations. Their children will be carried on shoulders and comforted on knees.
 - brenton: For thus saith the Lord, Behold, I turn toward them as a river of peace, and as a torrent bringing upon them in a flood the glory of the Gentiles: their children shall be borne upon the shoulders, and comforted on the knees.
 
 ### Isaiah 66:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As if mother will comfort someone, so I will comfort you, and in Jerusalem you will be comforted.
+- fresh: As when a mother comforts someone, so I also will comfort you, and in Jerusalem you will be comforted.
 - brenton: As if his mother should comfort one, so will I also comfort you; and ye shall be comforted in Jerusalem.
 
 ### Isaiah 66:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will see and your heart will rejoice and your bones spring up like grass, and the hand of the Lord will be known to those revering him and he will threaten disobedient ones.
+- fresh: And you will see and your heart will rejoice and your bones will spring up like grass, and the hand of the Lord will be known to those revering him, and he will threaten the disobedient ones.
 - brenton: And ye shall see, and your heart shall rejoice, and your bones shall thrive like grass: and the hand of the Lord shall be known to them that fear him, and he shall threaten the disobedient.
 
 ### Isaiah 66:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For see, the Lord will come as fire and his chariots as storm, to render vengeance in wrath and rebuke in flame of fire.
+- fresh: For behold, the Lord will come as fire and his chariots like a storm, to render vengeance in wrath and rebuke in a flame of fire.
 - brenton: For, behold, the Lord will come as fire, and his chariots as a storm, to render his vengeance with wrath, and his rebuke with a flame of fire.
 
 ### Isaiah 66:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For by fire of the Lord all the earth will be judged and by his sword all flesh; many wounded will be by the Lord.
+- fresh: For by the fire of the Lord all the earth will be judged, and by his sword all flesh; many will be wounded by the Lord.
 - brenton: For with the fire of the Lord all the earth shall be judged, and all flesh with his sword: many shall be slain by the Lord.
 
 ### Isaiah 66:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Those purifying and cleansing themselves in gardens and in porches, eating pig flesh and abominations and the mouse, together they will be consumed, said the Lord.
+- fresh: Those purifying and cleansing themselves in the gardens and in the porches, eating pig flesh and abominations and the mouse, together they will be consumed, said the Lord.
 - brenton: They that sanctify themselves and purify themselves in the gardens, and eat swine's flesh in the porches, and the abominations, and the mouse, shall be consumed together, saith the Lord.
 
 ### Isaiah 66:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I know their works and their thought. I am coming to gather all nations and tongues, and they will come and see my glory.
+- fresh: And I know their works and their thought. I am coming to gather all nations and tongues, and they will come and see my glory.
 - brenton: And I know their works and their imagination. I am going to gather all nations and tongues; and they shall come, and see my glory.
 
 ### Isaiah 66:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will leave signs on them and send from them saved ones to nations—to Tarshish and Pul and Lud and Meshech and Tubal and to Greece and to distant islands, who have not heard my name nor seen my glory—and they will declare my glory among nations.
@@ -169116,16 +169116,16 @@ Note:
 ### Isaiah 66:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will bring your brothers from all nations as gift to the Lord, with horses and chariots, in litters, mules, and with parasols, into holy city Jerusalem, says the Lord, as sons of Israel bring me their sacrifices with psalms into the house of the Lord.
+- fresh: And they will bring your brothers from all nations as a gift to the Lord, with horses and chariots, in litters, mules, and with parasols, into the holy city Jerusalem, says the Lord, as the sons of Israel bring me their sacrifices with psalms into the house of the Lord.
 - brenton: And they shall bring your brethren out of all nations for a gift to the Lord with horses, and chariots, in litters drawn by mules with awnings, to the holy city Jerusalem, said the Lord, as though the children of Israel should bring their sacrifices to me with psalms into the house of the Lord.
 
 ### Isaiah 66:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And from them I will take for myself priests and Levites, said the Lord.
@@ -169134,16 +169134,16 @@ Note:
 ### Isaiah 66:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: For as new heaven and new earth which I make remain before me, says the Lord, so your seed and your name will stand.
+- fresh: For as the new heaven and the new earth which I make remain before me, says the Lord, so your seed and your name will stand.
 - brenton: For as the new heaven and the new earth, which I make, remain before me, saith the Lord, so shall your seed and your name continue.
 
 ### Isaiah 66:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And it will be from month to month and Sabbath to Sabbath; all flesh will come before me to worship in Jerusalem, says the Lord.
@@ -169152,8 +169152,8 @@ Note:
 ### Isaiah 66:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And they will go out and see the limbs of the men who transgressed against me, for their worm will not end and their fire will not be quenched, and they will be a spectacle to all flesh.
 - brenton: And they shall go forth, and see the carcases of the men that have transgressed against me: for their worm shall not die, and their fire shall not be quenched; and they shall be a spectacle to all flesh.
@@ -169163,28 +169163,28 @@ Note:
 ### Jeremiah 1:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The word of God that came upon Jeremiah son of Hilkiah, from the priests dwelling in Anathoth in the land of Benjamin,
+- fresh: The word of God that came upon Jeremiah son of Hilkiah, from the priests, who dwelt in Anathoth in the land of Benjamin,
 - brenton: The word of God which came to Jeremias the son of Chelcias, of the priests, who dwelt in Anathoth in the land of Benjamin:
 
 ### Jeremiah 1:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: to whom the word of God came in the days of Josiah son of Amon, king of Judah, in thirteenth year of his reign,
+- fresh: to whom the word of God came in the days of Josiah son of Amon, king of Judah, in the thirteenth year of his reign,
 - brenton: accordingly as the word of God came to him in the days of Josias son of Amos king of Juda, in the thirteenth year of his reign.
 
 ### Jeremiah 1:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and it came in the days of Jehoiakim son of Josiah, king of Judah, until eleventh year of Zedekiah son of Josiah, king of Judah, until captivity of Jerusalem in the fifth month.
+- fresh: and it came in the days of Jehoiakim son of Josiah, king of Judah, until the eleventh year of Zedekiah son of Josiah, king of Judah, until the captivity of Jerusalem in the fifth month.
 - brenton: And it was in the days of Joakim son of Josias king of Juda, until the eleventh year of Sedekias king of Juda, even until the captivity of Jerusalem in the fifth month.
 
 ### Jeremiah 1:4
@@ -169199,34 +169199,34 @@ Note:
 ### Jeremiah 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Before I formed you in womb I knew you, and before you came out from womb I sanctified you; I set you as a prophet to nations.
+- fresh: Before I formed you in the womb I knew you, and before you came out from the womb I sanctified you; I set you as a prophet to nations.
 - brenton: Before I formed thee in the belly, I knew thee; and before thou camest forth from the womb, I sanctified thee; I appointed thee a prophet to the nations.
 
 ### Jeremiah 1:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I said, O Master Lord, see, I do not know how to speak, because I am younger one.
+- fresh: And I said, O Master Lord, behold, I do not know how to speak, because I am too young.
 - brenton: And I said, O Lord, thou that art supreme Lord, behold, I know not how to speak, for I am a child.
 
 ### Jeremiah 1:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me, Do not say, I am younger one, because to all to whom I send you, you will go, and all whatever I command you, you will speak.
+- fresh: And the Lord said to me, Do not say, I am too young, because to all to whom I send you, you will go, and all whatever I command you, you will speak.
 - brenton: And the Lord said to me, Say not, I am a child: for thou shalt go to all to whomsoever I shall send thee, and according to all the words that I shall command thee, thou shalt speak.
 
 ### Jeremiah 1:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Do not fear before their face, because I am with you to deliver you, says the Lord.
@@ -169235,124 +169235,124 @@ Note:
 ### Jeremiah 1:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord stretched out his hand toward me and touched my mouth, and the Lord said to me, See, I have given my words into your mouth.
+- fresh: And the Lord stretched out his hand toward me and touched my mouth, and the Lord said to me, Behold, I have given my words into your mouth.
 - brenton: And the Lord stretched forth his hand to me, and touched my mouth: and the Lord said to me, Behold, I have put my words into thy mouth.
 
 ### Jeremiah 1:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: See, I have set you today over nations and kingdoms, to root up and dig down and destroy and build and plant.
+- fresh: Behold, I have set you today over nations and kingdoms, to root up and dig down and destroy and rebuild and plant.
 - brenton: Behold, I have appointed thee this day over nations and over kingdoms, to root out, and to pull down, and to destroy, and to rebuild, and to plant.
 
 ### Jeremiah 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the word of the Lord came to me, saying, What do you see, Jeremiah? And I said, Staff of almond tree.
+- fresh: And the word of the Lord came to me, saying, What do you see, Jeremiah? And I said, A staff of almond wood.
 - brenton: And the word of the Lord came to me, saying, What seest thou? And I said, A rod of an almond tree.
 
 ### Jeremiah 1:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me, You saw well, because I keep watch over my words to do them.
+- fresh: And the Lord said to me, You have seen well, because I have watched over my words to perform them.
 - brenton: And the Lord said to me, Thou hast well seen: for I have watched over my words to perform them.
 
 ### Jeremiah 1:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the word of the Lord came to me a second time, saying, What do you see? And I said, Boiling cauldron, and its face from the face of north.
+- fresh: And the word of the Lord came to me a second time, saying, What do you see? And I said, A boiling cauldron, and its face from the face of the north.
 - brenton: And the word of the Lord came to me a second time, saying, What seest thou? And I said, A caldron on the fire; and the face of it is toward the north.
 
 ### Jeremiah 1:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me, From the face of north evils will burn out upon all dwelling in the land.
+- fresh: And the Lord said to me, From the face of the north evils will be kindled against all those dwelling in the land.
 - brenton: And the Lord said to me, From the north shall flame forth evils upon all the inhabitants of the land.
 
 ### Jeremiah 1:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because see, I call all kingdoms from north of earth, says the Lord, and they will come and each place his throne at entrances of the gates of Jerusalem and against all her surrounding walls and against all cities of Judah.
+- fresh: Because behold, I call all the kingdoms from the north of the earth, says the Lord, and they will come, and each will place his throne at the entrances of the gates of Jerusalem and against all her surrounding walls and against all the cities of Judah.
 - brenton: For, behold, I call together all the kingdoms of the earth from the north, saith the Lord; and they shall come, and shall set each one his throne at the entrance of the gates of Jerusalem, and against all the walls round about her, and against all the cities of Juda.
 
 ### Jeremiah 1:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will speak judgment with them concerning all their wickedness, because they abandoned me and sacrificed to foreign gods and worshiped works of their hands.
+- fresh: And I will speak judgment with them concerning all their wickedness, because they abandoned me and sacrificed to foreign gods and worshiped the works of their hands.
 - brenton: And I will speak to them in judgment, concerning all their iniquity, forasmuch as they have forsaken me, and sacrificed to strange gods, and worshipped the works of their own hands.
 
 ### Jeremiah 1:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, gird your waist and rise and say to them all whatever I command you. Do not fear before them nor be broken before them, because I am with you to deliver you, says the Lord.
+- fresh: And you, gird your waist and rise and say to them all whatever I command you. Do not fear before them nor be terrified before them, because I am with you to deliver you, says the Lord.
 - brenton: And do thou gird up thy loins, and stand up, and speak all the words that I shall command thee: be not afraid of their face, neither be thou alarmed before them; for I am with thee to deliver thee, saith the Lord.
 
 ### Jeremiah 1:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: See, I have made you this day as fortified city and as strong bronze wall against all kings of Judah and its rulers and people of the land.
+- fresh: Behold, I have made you this day as a fortified city and as a strong bronze wall against all the kings of Judah and its rulers and the people of the land.
 - brenton: Behold, I have made thee this day as a strong city, and as a brazen wall, strong against all the kings of Juda, and the princes thereof, and the people of the land.
 
 ### Jeremiah 1:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will fight you and will not prevail against you, because I am with you to deliver you, said the Lord.
+- fresh: And they will fight against you and will certainly not prevail against you, because I am with you to deliver you, said the Lord.
 - brenton: And they shall fight against thee; but they shall by no means prevail against thee; because I am with thee, to deliver thee, saith the Lord.
 
 ### Jeremiah 2:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he said, Thus says the Lord: I remembered mercy of your youth and love of your completion, your following the Holy One of Israel, says the Lord.
+- fresh: And he said, Thus says the Lord: I remembered the mercy of your youth and the love of your completion, when you followed the Holy One of Israel, says the Lord.
 - brenton: And he said, Thus saith the Lord, I remember the kindness of thy youth, and the love of thine espousals, in following the Holy One of Israel, saith the Lord.
 
 ### Jeremiah 2:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Israel holy to the Lord, firstfruits of his produce. All eating him will offend; evils will come on them, says the Lord.
+- fresh: Israel was holy to the Lord, the firstfruits of his produce. All who eat him will be guilty; evils will come upon them, says the Lord.
 - brenton: Israel was the holy people to the Lord, and the first-fruits of his increase: all that devoured him shall offend; evils shall come upon them, saith the Lord.
 
 ### Jeremiah 2:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Hear the word of the Lord, house of Jacob and every family of the house of Israel.
@@ -169361,43 +169361,43 @@ Note:
 ### Jeremiah 2:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord: What fault did your fathers find in me, that they stood far from me and went after vanities and became vain?
+- fresh: Thus says the Lord: What fault did your fathers find in me, that they withdrew far from me and went after worthless things and became worthless?
 - brenton: Thus saith the Lord, What trespass have your fathers found in me, that they have revolted far from me, and gone after vanities, and become vain?
 
 ### Jeremiah 2:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they did not say, Where is the Lord who brought us up from the land of Egypt, who guided us in the wilderness, in boundless and untrodden land, in waterless and fruitless land, in the land through which no one traveled and no son of man dwelt there?
+- fresh: And they did not say, Where is the Lord who brought us up from the land of Egypt, who guided us in the wilderness, in an unbounded and untrodden land, in a waterless and fruitless land, in a land through which no one traveled and no son of man dwelt there?
 - brenton: And they said not, Where is the Lord, who brought us up out of the land of Egypt, who guided us in the wilderness, in an untried and trackless land, in a land which no man at all went through, and no man dwelt there?
 
 ### Jeremiah 2:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I brought you into Carmel, for you to eat its fruits and its good things. And you entered and defiled my land and made my inheritance abomination.
+- fresh: And I brought you into Carmel, for you to eat its fruits and its good things. And you entered and defiled my land and made my inheritance an abomination.
 - brenton: And I brought you to Carmel, that ye should eat the fruits thereof, and the good thereof; and ye went in, and defiled my land, and made mine heritage an abomination.
 
 ### Jeremiah 2:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Priests did not say, Where is the Lord? Those holding law did not know me, shepherds acted ungodly toward me, and prophets prophesied by Baal and went after useless things.
+- fresh: The priests did not say, Where is the Lord? Those holding the law did not know me, the shepherds acted ungodly toward me, and the prophets prophesied by Baal and went after useless things.
 - brenton: The priests said not, Where is the Lord? and they that held by the law knew me not: the shepherds also sinned against me, and the prophets prophesied by Baal, and went after that which profited not.
 
 ### Jeremiah 2:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Therefore I will still enter judgment with you, says the Lord, and with the sons of your sons I will enter judgment.
@@ -169406,62 +169406,62 @@ Note:
 ### Jeremiah 2:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: For pass to islands of Kittim and see, and send to Kedar and understand greatly and see whether such things happened.
+- fresh: For pass over to the islands of Kittim and see, and send to Kedar, and consider carefully, and see whether such things have happened.
 - brenton: For go to the isles of the Chettians, and see; and send to Kedar, and observe accurately, and see if such things have been done;
 
 ### Jeremiah 2:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If nations will change their gods, though those are not gods, yet my people changed its glory for what will not profit.
+- fresh: Will nations change their gods, though those are not gods? Yet my people exchanged its glory for that from which they will not profit.
 - brenton: if the nations will change their gods, though they are not gods: but my people have changed their glory, for that from which they shall not be profited.
 
 ### Jeremiah 2:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Heaven was amazed at this and shuddered exceedingly greatly, says the Lord.
+- fresh: The heaven was astonished at this and shuddered very greatly, says the Lord.
 - brenton: The heaven is amazed at this, and is very exceedingly horror-struck, saith the Lord.
 
 ### Jeremiah 2:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because my people did two evils: they abandoned me, fountain of living water, and dug for themselves broken cisterns that cannot hold water.
+- fresh: Because my people did two evils: they abandoned me, a fountain of living water, and dug for themselves broken cisterns that cannot hold water.
 - brenton: For my people has committed two faults, and evil ones: they have forsaken me, the fountain of water of life, and hewn out for themselves broken cisterns, which will not be able to hold water.
 
 ### Jeremiah 2:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Is Israel slave or household-born? Why has he become plunder?
+- fresh: Is Israel a slave, or is he homeborn? Why has he become plunder?
 - brenton: Is Israel a servant, or a home-born slave? why has he become a spoil?
 
 ### Jeremiah 2:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lions roared over him and gave their voice, those who made his land a desert, and his cities were torn down so that none dwell.
+- fresh: Lions roared against him and gave their voice, those who made his land a desert, and his cities were torn down so that they are not inhabited.
 - brenton: The lions roared upon him, and uttered their voice, which have made his land a wilderness: and his cities are broken down, that they should not be inhabited.
 
 ### Jeremiah 2:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And sons of Memphis and Tahpanhes knew you and mocked you.
 - brenton: Also the children of Memphis and Taphnas have known thee, and mocked thee.
@@ -169469,71 +169469,71 @@ Note:
 ### Jeremiah 2:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Did not these things do this to you, your abandoning me? says the Lord your God.
+- fresh: Did not your abandoning me do these things to you? says the Lord your God.
 - brenton: Has not thy forsaking me brought these things upon thee? saith the Lord thy God.
 
 ### Jeremiah 2:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And now what to you and way of Egypt, to drink the water of Gihon? And what to you and way of Assyrians, to drink the water of rivers?
+- fresh: And now what have you to do with the way of Egypt, to drink the water of Gihon? And what have you to do with the way of the Assyrians, to drink the water of rivers?
 - brenton: And now what hast thou to do with the way of Egypt, to drink the water of Geon? and what hast thou to do with the way of the Assyrians, to drink the water of rivers?
 
 ### Jeremiah 2:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your apostasy will discipline you and your evil will expose you. Know and see that bitter to you your abandoning me, says the Lord your God, and I took no pleasure in you, says the Lord your God.
+- fresh: Your apostasy will discipline you and your evil will expose you. Know and see that your abandoning me is bitter to you, says the Lord your God, and I did not take pleasure in you, says the Lord your God.
 - brenton: Thine apostasy shall correct thee, and thy wickedness shall reprove thee: know then, and see, that thy forsaking me has been bitter to thee, saith the Lord thy God; and I have taken no pleasure in thee, saith the Lord thy God.
 
 ### Jeremiah 2:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because from age you broke your yoke and tore your bonds and said, I will not serve. Rather on every high hill and under every shady tree there I will sprawl in my prostitution.
+- fresh: Because from of old you broke your yoke and tore your bonds and said, I will not serve. Rather, on every high hill and under every shady tree, there I will spread myself out in my prostitution.
 - brenton: For of old thou hast broken thy yoke, and plucked asunder thy bands; and thou hast said, I will not serve thee, but will go upon every high hill, and under every shady tree, there will I indulge in my fornication.
 
 ### Jeremiah 2:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But I planted you fruitful vine, wholly true. How did you turn into bitterness, foreign vine?
+- fresh: But I planted you as a fruitful vine, wholly true. How did you turn into bitterness, the foreign vine?
 - brenton: Yet I planted thee a fruitful vine, entirely of the right sort: how art thou a strange vine turned to bitterness!
 
 ### Jeremiah 2:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: If you wash with niter and multiply soap for yourself, you are stained in your injustices before me, says the Lord.
+- fresh: If you wash with niter and multiply soap for yourself, you are stained by your injustices before me, says the Lord.
 - brenton: Though thou shouldest wash thyself with nitre, and multiply to thyself soap, still thou art stained by thine iniquities before me, saith the Lord.
 
 ### Jeremiah 2:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: How will you say, I was not defiled and I did not go after Baal? See your ways in burial valley and know what you did. Last evening her voice wailed in her ways.
+- fresh: How will you say, I was not defiled and I did not go after Baal? See your ways in the burial ground and know what you did. At evening her voice wailed in her ways.
 - brenton: How wilt thou say, I am not polluted, and have not gone after Baal? behold thy ways in the burial-ground, and know what thou hast done: her voice has howled in the evening:
 
 ### Jeremiah 2:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: She spread out over waters of the wilderness; in the desires of her soul she was wind-borne, given over. Who will turn her back? All seeking her will not grow weary; in her humiliation they will find her.
 - brenton: she has extended her ways over the waters of the desert; she was hurried along by the lusts of her soul; she is given up to them, who will turn her back? none that seek her shall be weary; at the time of her humiliation they shall find her.
@@ -169541,89 +169541,89 @@ Note:
 ### Jeremiah 2:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Turn your foot from rough way and your throat from thirst. But she said, I will be strong, because she loved foreigners and went after them.
+- fresh: Turn your foot from a rough way and your throat from thirst. But she said, I will be strong, because she loved foreigners and went after them.
 - brenton: Withdraw thy foot from a rough way, and thy throat from thirst: but she said, I will strengthen myself: for she loved strangers, and went after them.
 
 ### Jeremiah 2:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As shame of thief when caught, so sons of Israel will be shamed, they and their kings and their rulers and their priests and their prophets.
+- fresh: As the shame of a thief when caught, so the sons of Israel will be shamed, they and their kings and their rulers and their priests and their prophets.
 - brenton: As is the shame of a thief when he is caught, so shall the children of Israel be ashamed; they, and their kings, and their princes, and their priests, and their prophets.
 
 ### Jeremiah 2:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: To tree they said, You are my father, and to stone, You birthed me. And they turned to me backs and not faces, and at the time of their evils they will say, Rise and save us.
+- fresh: To a tree they said, You are my father, and to a stone, You birthed me. And they turned their backs to me and not their faces, and at the time of their evils they will say, Rise and save us.
 - brenton: They said to a stock, Thou art my father; and to a stone, Thou hast begotten me: and they have turned their backs to me, and not their faces: yet in the time of their afflictions they will say, Arise, and save us.
 
 ### Jeremiah 2:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And where are your gods which you made for yourself? Let them rise if they will save you at the time of your affliction, because according to the number of your cities were your gods, Judah, and according to the number of streets of Jerusalem they sacrificed to Baal.
+- fresh: And where are your gods that you made for yourself? Let them rise, if they will save you at the time of your affliction, because according to the number of your cities were your gods, Judah, and according to the number of the streets of Jerusalem they sacrificed to Baal.
 - brenton: And where are thy gods, which thou madest for thyself? will they arise and save in the time of thine affliction? for according to the number of thy cities were thy gods, O Juda; and according to the number of the streets of Jerusalem they sacrificed to Baal.
 
 ### Jeremiah 2:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Why do you all speak against me? You all acted ungodly and lawlessly against me, says the Lord.
+- fresh: Why do you all speak against me? You all acted ungodly and lawlessly toward me, says the Lord.
 - brenton: Wherefore do ye speak unto me? ye all have been ungodly, and ye all have transgressed against me, saith the Lord.
 
 ### Jeremiah 2:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In vain I struck your children; they did not accept correction. Sword devoured your prophets like destroying lion, and you did not fear.
+- fresh: In vain I struck your children; they did not accept correction. A sword devoured your prophets like a destroying lion, and you did not fear.
 - brenton: In vain have I smitten your children; ye have not received correction: a sword has devoured your prophets as a destroying lion; yet ye feared not.
 
 ### Jeremiah 2:31
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear the word of the Lord. Thus says the Lord: Did I become wilderness to Israel or land laid waste? Why did my people say, We will not be ruled and will not come to you anymore?
+- fresh: Hear the word of the Lord. Thus says the Lord: Did I become a wilderness to Israel or a land laid waste? Why did my people say, We will not be ruled and will not come to you any longer?
 - brenton: Hear ye the word of the Lord: thus saith the Lord, Have I been a wilderness or a dry land to Israel? wherefore has my people said, We will not be ruled over, and will not come to thee any more?
 
 ### Jeremiah 2:32
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Will bride forget her ornament and virgin her breast-band? But my people forgot me days without number.
+- fresh: Will a bride forget her ornament, or a virgin her breast-band? But my people forgot me for days without number.
 - brenton: Will a bride forget her ornaments, or a virgin her girdle? but my people has forgotten me days without number.
 
 ### Jeremiah 2:33
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Why still do you make your ways look good to seek love? Not so, but you also did evil to defile your ways.
+- fresh: Why do you still make your ways beautiful to seek love? Not so; but you also did evil, defiling your ways.
 - brenton: What fair device wilt thou yet employ in thy ways, so as to seek love? it shall not be so; moreover thou hast done wickedly in corrupting thy ways;
 
 ### Jeremiah 2:34
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And in your hands were found bloods of innocent souls. I did not find them in tunnels, but under every oak.
 - brenton: and in thine hands has been found the blood of innocent souls; I have not found them in holes, but on every oak.
@@ -169631,109 +169631,109 @@ Note:
 ### Jeremiah 2:35
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you said, I am innocent; let his wrath turn from me. See, I enter judgment with you in your saying, I did not sin.
+- fresh: And you said, I am innocent; let his wrath be turned from me. Behold, I enter judgment with you in your saying, I did not sin.
 - brenton: Yet thou saidst, I am innocent: only let his wrath be turned away from me.
 
 ### Jeremiah 2:36
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Why did you despise greatly, repeating your ways? From Egypt you will be put to shame just as you were put to shame by Assyria.
+- fresh: Why did you greatly despise repeating your ways? From Egypt you will be put to shame just as you were put to shame by Assyria.
 - brenton: For thou hast been so exceedingly contemptuous as to repeat thy ways; but thou shalt be ashamed of Egypt, as thou wast ashamed of Assur.
 
 ### Jeremiah 2:37
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because also from there you will go out and your hands upon your head, because the Lord rejected your hope and you will not prosper by it.
+- fresh: Because also from there you will go out with your hands upon your head, because the Lord rejected your hope and you will not prosper by it.
 - brenton: For thou shalt go forth thence also with thine hands upon thine head; for the Lord has rejected thine hope, and thou shalt not prosper in it.
 
 ### Jeremiah 3:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: If husband sends away his wife and she departs from him and becomes another man's, by returning will she return to him again? Will not that woman be utterly defiled? Yet you prostituted yourself with many shepherds and kept returning to me, says the Lord.
+- fresh: If a husband sends away his wife, and she departs from him and becomes another man's, will she by returning return to him again? Will not that woman be utterly defiled? Yet you prostituted yourself with many shepherds and kept returning to me, says the Lord.
 - brenton: If a man put away his wife, and she depart from him, and become another man's, shall she return to him any more at all? shall not that woman be utterly defiled? yet thou hast gone a-whoring with many shepherds, and hast returned to me, saith the Lord.
 
 ### Jeremiah 3:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Lift your eyes to straight places and see where you were not defiled. By roads you sat for them like crow in desolation, and you defiled land with your prostitutions and your evils.
+- fresh: Lift your eyes straight ahead and see where you were not defiled. By the roads you sat for them like a crow in desolation, and you defiled the land with your prostitutions and your evils.
 - brenton: Lift up thine eyes to look straight forward, and see where thou hast not been utterly defiled. Thou hast sat for them by the wayside as a deserted crow, and hast defiled the land with thy fornications and thy wickedness.
 
 ### Jeremiah 3:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you had many shepherds for stumbling to yourself. The face of a prostitute became yours; you became shameless toward all.
+- fresh: And you had many shepherds as a stumbling-block for yourself. The face of a prostitute became yours; you became shameless toward all.
 - brenton: And thou didst retain many shepherds for a stumbling-block to thyself: thou hadst a whore's face, thou didst become shameless toward all.
 
 ### Jeremiah 3:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Did you not call me as house and father and leader of your virginity?
+- fresh: Did you not call me house and father and leader of your virginity?
 - brenton: Hast thou not called me as it were a home, and the father and guide of thy virgin-time?
 
 ### Jeremiah 3:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Will he remain forever or be kept into hostility? See, you spoke and did these evil things and prevailed.
+- fresh: Will he remain forever or be kept for hostility? Behold, you spoke and did these evil things and prevailed.
 - brenton: Will God's anger continue for ever, or be preserved to the end? Behold, thou hast spoken and done these bad things, and hadst power to do them.
 
 ### Jeremiah 3:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me in the days of King Josiah, Did you see what dwelling of Israel did to me? They went on every high mountain and under every leafy tree and prostituted themselves there.
+- fresh: And the Lord said to me in the days of King Josiah, Did you see what the dwelling of Israel did to me? They went on every high mountain and under every leafy tree and prostituted themselves there.
 - brenton: And the Lord said to me in the days of Josias the king, Hast thou seen what things the house of Israel has done to me? they have gone on every high mountain, and under every shady tree, and have committed fornication there.
 
 ### Jeremiah 3:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said after her doing all these prostitutions, Return to me. And she did not return. And faithless Judah saw her faithlessness.
+- fresh: And I said after she did all these prostitutions, Return to me. And she did not return. And faithless Judah saw her faithlessness.
 - brenton: And I said after she had committed all these acts of fornication, Turn again to me. Yet she returned not. And faithless Juda saw her faithlessness.
 
 ### Jeremiah 3:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I saw that concerning all things in which dwelling of Israel was caught, with which she committed adultery, I sent her away and gave her bill of divorce into her hands. Yet faithless Judah did not fear, but she also went and prostituted herself.
+- fresh: And I saw that concerning all the things in which the dwelling of Israel was caught, with which she committed adultery, I sent her away and gave her a bill of divorce into her hands. Yet faithless Judah did not fear, but she also went and prostituted herself.
 - brenton: And I saw that (for all the sins of which she was convicted, wherein the house of Israel committed adultery, and I put her away, and gave into her hands a bill of divorcement,) yet faithless Juda feared not, but went and herself also committed fornication.
 
 ### Jeremiah 3:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And her prostitution became as nothing, and she committed adultery with wood and stone.
+- fresh: And her prostitution became as nothing, and she committed adultery with the wood and the stone.
 - brenton: And her fornication was nothing accounted of; and she committed adultery with wood and stone.
 
 ### Jeremiah 3:10
@@ -169748,7 +169748,7 @@ Note:
 ### Jeremiah 3:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And the Lord said to me, Israel justified her own soul more than faithless Judah.
@@ -169757,35 +169757,35 @@ Note:
 ### Jeremiah 3:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Go and read these words toward north and say, Return to me, dwelling of Israel, says the Lord, and I will not set my face against you, because I am merciful, says the Lord, and I will not be angry with you forever.
+- fresh: Go and read these words toward the north and say, Return to me, dwelling of Israel, says the Lord, and I will not set my face against you, because I am merciful, says the Lord, and I will not be angry with you forever.
 - brenton: Go and read these words toward the north, and thou shalt say, Return to me, O house of Israel, saith the Lord; and I will not set my face against you: for I am merciful, saith the Lord, and I will not be angry with you for ever.
 
 ### Jeremiah 3:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Only know your injustice, that against the Lord your God you acted ungodly and poured out your ways to foreigners under every leafy tree, and you did not obey my voice, says the Lord.
+- fresh: Only know your injustice, that you acted ungodly against the Lord your God and poured out your ways to foreigners under every leafy tree, and you did not obey my voice, says the Lord.
 - brenton: Nevertheless, know thine iniquity, that thou hast sinned against the Lord thy God, and hast scattered thy ways to strangers under every shady tree, but thou didst not hearken to my voice, saith the Lord.
 
 ### Jeremiah 3:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Return, turning-away sons, says the Lord, because I will rule over you and take you, one from the city and two from family, and bring you into Zion.
+- fresh: Return, sons who have turned away, says the Lord, because I will rule over you and take you, one from a city and two from a family, and bring you into Zion.
 - brenton: Turn, ye children that have revolted, saith the Lord; for I will rule over you: and I will take you one of a city, and two of a family, and I will bring you in to Sion:
 
 ### Jeremiah 3:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And I will give you shepherds according to my heart, and they will shepherd you with knowledge.
 - brenton: and I will give you shepherds after my heart, and they shall certainly tend you with knowledge.
@@ -169793,100 +169793,100 @@ Note:
 ### Jeremiah 3:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be, if you multiply and increase on earth in those days, says the Lord, they will no longer say, Ark of covenant of the Holy One of Israel. It will not come up on heart, nor be named nor visited, nor be made again.
+- fresh: And it will be, if you multiply and increase on the earth in those days, says the Lord, they will no longer say, the ark of the covenant of the Holy One of Israel. It will not come up in the heart, nor be named nor visited, nor be made again.
 - brenton: And it shall come to pass that when ye are multiplied and increased upon the land, saith the Lord, in those days they shall say no more, The ark of the covenant of the Holy One of Israel: it shall not come to mind; it shall not be named; neither shall it be visited; nor shall this be done any more.
 
 ### Jeremiah 3:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: In those days and at that time they will call Jerusalem throne of the Lord, and all nations will gather into it, and they will no longer walk after the thoughts of their evil heart.
+- fresh: In those days and at that time they will call Jerusalem the throne of the Lord, and all nations will gather to it, and they will no longer walk after the thoughts of their evil heart.
 - brenton: In those days and at that time they shall call Jerusalem the throne of the Lord; and all the nations shall be gathered to it: and they shall not walk any more after the imaginations of their evil heart.
 
 ### Jeremiah 3:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: In those days the house of Judah will come together upon the house of Israel, and they will come together from the land of the north and from all regions upon the land which I caused their fathers to inherit.
+- fresh: In those days the house of Judah will come together with the house of Israel, and they will come together from the land of the north and from all regions to the land that I caused their fathers to inherit.
 - brenton: In those days the house of Juda shall come together to the house of Israel, and they shall come, together, from the land of the north, and from all the countries, to the land, which I caused their fathers to inherit.
 
 ### Jeremiah 3:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I said, So be it, Lord, that I will place you among children and give you chosen land, inheritance of God Almighty of nations. And I said, You will call me Father, and from me you will not turn away.
+- fresh: And I said, So be it, Lord, that I will appoint you among children and give you a chosen land, an inheritance of God Almighty of nations. And I said, You will call me Father, and from me you will not turn away.
 - brenton: And I said, So be it, Lord, for thou saidst, I will set thee among children, and will give thee a choice land, the inheritance of the Almighty God of the Gentiles: and I said, Ye shall call me Father; and ye shall not turn away from me.
 
 ### Jeremiah 3:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But as a woman proves faithless to one living with her, so the house of Israel proved faithless to me, says the Lord.
+- fresh: But as a woman acts faithlessly toward the one living with her, so the house of Israel acted faithlessly toward me, says the Lord.
 - brenton: But as a wife acts treacherously against her husband, so has the house of Israel dealt treacherously against me, saith the Lord.
 
 ### Jeremiah 3:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: A voice from lips was heard, weeping and supplication of sons of Israel, because they did wrong in their ways and forgot their Holy God.
+- fresh: A voice was heard from lips: weeping and supplication of sons of Israel, because they did wrong in their ways and forgot their Holy God.
 - brenton: A voice from the lips was heard, even of weeping and supplication of the children of Israel: for they have dealt unrighteously in their ways, they have forgotten God their Holy One.
 
 ### Jeremiah 3:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 3
 - same_normalized: no
-- fresh: Return, returning sons, and I will heal your crushings. Behold, we will be your servants, because you are the Lord our God.
+- fresh: Return, returning sons, and I will heal your fractures. Behold, we will be your servants, because you are the Lord our God.
 - brenton: Turn, ye children that are given to turning, and I will heal your bruises.
 
 ### Jeremiah 3:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Truly hills and might of mountains were for falsehood, but through the Lord our God is the salvation of Israel.
+- fresh: Truly the hills and the might of the mountains were for falsehood, but through the Lord our God is the salvation of Israel.
 - brenton: Truly the hills and the strength of the mountains were a lying refuge: but by the Lord our God is the salvation of Israel.
 
 ### Jeremiah 3:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And shame consumed labors of our fathers from our youth, their sheep and their calves and their sons and their daughters.
+- fresh: And shame consumed the labors of our fathers from our youth, their sheep and their calves and their sons and their daughters.
 - brenton: But shame has consumed the labours of our fathers from our youth; their sheep and their calves, and their sons and their daughters.
 
 ### Jeremiah 3:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: We lay down in our shame, and our dishonor covered us, because before our God we sinned, we and our fathers, from our youth until this day, and did not obey the voice of the Lord our God.
+- fresh: We lay down in our shame, and our dishonor covered us, because we sinned before our God, we and our fathers, from our youth until this day, and did not obey the voice of the Lord our God.
 - brenton: We have lain down in our shame, and our disgrace has covered us: because we and our fathers have sinned before our God, from our youth until this day; and we have not hearkened to the voice of the Lord our God.
 
 ### Jeremiah 4:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: If Israel returns, says the Lord, he will return to me. If he removes his abominations from his mouth and fears from before my face,
+- fresh: If Israel returns, says the Lord, he will return to me. If he removes his abominations from his mouth and is reverent before my face,
 - brenton: If Israel will return to me, saith the Lord, he shall return: and if he will remove his abominations out of his mouth, and fear before me, and swear,
 
 ### Jeremiah 4:2
@@ -169901,8 +169901,8 @@ Note:
 ### Jeremiah 4:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Because thus says the Lord to the men of Judah and the inhabitants of Jerusalem: Break up fresh ground for yourselves and do not sow among thorns.
 - brenton: For thus saith the Lord to the men of Juda, and to the inhabitants of Jerusalem, Break up fresh ground for yourselves, and sow not among thorns.
@@ -169910,215 +169910,215 @@ Note:
 ### Jeremiah 4:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Be circumcised to your God and circumcise your hardheartedness, men of Judah and the inhabitants of Jerusalem, lest my wrath go out like fire and burn and none quench it because of evil of your practices.
+- fresh: Be circumcised to your God and circumcise your hardness of heart, men of Judah and the inhabitants of Jerusalem, lest my wrath go out like fire and burn, and there be no one to quench it because of the evil of your practices.
 - brenton: Circumcise yourselves to your God, and circumcise your hardness of heart, ye men of Juda, and inhabitants of Jerusalem: lest my wrath go forth as fire, and burn, and there be none to quench it, because of the evil of your devices.
 
 ### Jeremiah 4:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Declare in Judah and let it be heard in Jerusalem. Say, Sound trumpet upon the land, and cry greatly, saying, Gather together and let us enter fortified cities.
+- fresh: Declare in Judah and let it be heard in Jerusalem. Say, Sound a trumpet upon the land, and cry out greatly, saying, Gather together and let us enter fortified cities.
 - brenton: Declare ye in Juda, and let it be heard in Jerusalem: say ye, Sound the trumpet in the land; cry ye aloud: say ye, Gather yourselves together, and let us enter into the fortified cities.
 
 ### Jeremiah 4:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Take up fleeing to Zion. Hurry, do not stand, because I bring evils from north and great crushing.
+- fresh: Take flight to Zion. Hurry, do not stand, because I am bringing evils from the north and a great crushing.
 - brenton: Gather up your wares and flee to Sion: hasten, stay not: for I will bring evils from the north, and great destruction.
 
 ### Jeremiah 4:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Lion came up from his lair, destroyer of nations rose and went out from his place to make land desolation, and cities will be demolished so as not to be inhabited.
+- fresh: A lion came up from his lair; a destroyer of nations rose and went out from his place to make the land a desolation, and cities will be demolished so as not to be inhabited.
 - brenton: The lion is gone up from his lair, he has roused himself to the destruction of the nations, and has gone forth out of his place, to make the land desolate; and the cities shall be destroyed, so as to be without inhabitant.
 
 ### Jeremiah 4:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For these things gird yourselves with sackcloth and beat yourselves and howl, because anger of the Lord has not turned away from you.
+- fresh: For these things gird yourselves with sackcloth and beat yourselves and howl, because the anger of the Lord has not turned away from you.
 - brenton: For these things gird yourselves with sackclothes, and lament, and howl: for the anger of the Lord is not turned away from you.
 
 ### Jeremiah 4:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be in that day, says the Lord, the heart of the king will perish and the heart of the rulers, and priests will be amazed and prophets will wonder.
+- fresh: And it will be in that day, says the Lord, the heart of the king will perish and the heart of the rulers, and the priests will be amazed and the prophets will wonder.
 - brenton: And it shall come to pass in that day, saith the Lord, that the heart of the king shall perish, and the heart of the princes; and the priests shall be amazed, and the prophets shall wonder.
 
 ### Jeremiah 4:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I said, Ah, Master Lord, surely by deception you deceived this people and Jerusalem, saying, Peace will be to you. And see, the sword touched even to their soul.
+- fresh: And I said, Ah, Master Lord, surely you deceived this people and Jerusalem by deception, saying, Peace will be to you. And behold, the sword touched even to their soul.
 - brenton: And I said, O sovereign Lord, verily thou hast greatly deceived this people and Jerusalem, saying, There shall be peace; whereas behold, the sword has reached even to their soul.
 
 ### Jeremiah 4:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: At that time they will say to this people and to Jerusalem: Spirit of wandering in the wilderness, way of the daughter of my people, not for cleansing nor for holy thing.
+- fresh: At that time they will say to this people and to Jerusalem: A spirit of wandering in the wilderness is the way of the daughter of my people, not for cleansing nor for holiness.
 - brenton: At that time they shall say to this people and to Jerusalem, There is a spirit of error in the wilderness: the way of the daughter of my people is not to purity, nor to holiness.
 
 ### Jeremiah 4:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The spirit of fullness will come to me. Now I myself speak judgments to them.
+- fresh: A spirit of fullness will come to me. But now I myself speak judgments to them.
 - brenton: But a spirit of full vengeance shall come upon me; and now I declare my judgments against them.
 
 ### Jeremiah 4:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: See, like a cloud he will come up, and his chariots like a storm, his horses lighter than eagles. Woe to us, because we are made miserable.
+- fresh: Behold, like a cloud he will come up, and his chariots like a storm; his horses are lighter than eagles. Woe to us, because we are made miserable.
 - brenton: Behold, he shall come up as a cloud, and his chariots as a tempest: his horses are swifter than eagles. Woe unto us! for we are in misery.
 
 ### Jeremiah 4:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Wash your heart from wickedness, Jerusalem, so that you may be saved. How long will thoughts of your labors remain in you?
+- fresh: Wash your heart from wickedness, Jerusalem, so that you may be saved. How long will the thoughts of your labors remain in you?
 - brenton: Cleanse thine heart from wickedness, O Jerusalem, that thou mayest be saved: how long will thy grievous thoughts be within thee?
 
 ### Jeremiah 4:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because the voice of one declaring will come from Dan, and pain will be heard from the mountain of Ephraim.
+- fresh: Because a voice of one declaring will come from Dan, and pain will be heard from the mountain of Ephraim.
 - brenton: For a voice of one publishing from Dan shall come, and trouble out of mount Ephraim shall be heard of.
 
 ### Jeremiah 4:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Remind nations. See, they have come. Declare in Jerusalem: Crowds come from far land, and they gave their voice against the cities of Judah.
+- fresh: Remind the nations. Behold, they have come. Declare in Jerusalem: Crowds are coming from a far land, and they gave their voice against the cities of Judah.
 - brenton: Remind ye the nations; behold, they are come: proclaim it in Jerusalem, that bands are approaching from a land afar off, and have uttered their voice against the cities of Juda.
 
 ### Jeremiah 4:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Like keepers of field they became against her all around, because you neglected me, says the Lord.
+- fresh: Like keepers of a field they became against her all around, because you neglected me, says the Lord.
 - brenton: As keepers of a field, they have surrounded her; because thou, saith the Lord, hast neglected me.
 
 ### Jeremiah 4:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Your ways and your practices made these things for you. This your evil, because bitter, because it touched to your heart.
+- fresh: Your ways and your practices did these things to you. This is your evil, because it is bitter, because it touched your heart.
 - brenton: Thy ways and thy devices have brought these things upon thee; this is thy wickedness, for it is bitter, for it has reached to thy heart.
 
 ### Jeremiah 4:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: My belly, my belly, I am in pain, and feelings of my heart rage. My soul writhes. My heart torn. I will not be silent, because my soul heard the voice of a trumpet, cry of war.
+- fresh: My belly, my belly, I am in pain, and the feelings of my heart rage. My soul writhes. My heart is torn. I will not be silent, because my soul heard the voice of a trumpet, a cry of war.
 - brenton: I am pained in my bowels, my bowels, and the sensitive powers of my heart; my soul is in great commotion, my heart is torn: I will not be silent, for my soul has heard the sound of a trumpet, the cry of war, and of distress: it calls on destruction;
 
 ### Jeremiah 4:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Affliction calls crushing, because the whole land has been afflicted. Suddenly my tent was afflicted, my skins torn apart.
+- fresh: Affliction calls crushing, because the whole land has been afflicted. Suddenly my tent was afflicted; my skins were torn apart.
 - brenton: for all the land is distressed: suddenly my tabernacle is distressed, my curtains have been rent asunder.
 
 ### Jeremiah 4:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: How long will I see fugitives, hearing the sound of trumpets?
+- fresh: How long will I see fugitives and hear the sound of trumpets?
 - brenton: How long shall I see fugitives, and hear the sound of the trumpet?
 
 ### Jeremiah 4:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because leaders of my people did not know me. They are foolish sons and not understanding, wise to do evil, but to do good they did not know.
+- fresh: Because the leaders of my people did not know me. They are foolish sons and without understanding, wise to do evil, but they did not know how to do good.
 - brenton: For the princes of my people have not known me, they are foolish and unwise children: they are wise to do evil, but how to do good they have not known.
 
 ### Jeremiah 4:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I looked upon earth, and behold, nothing, and to heaven, and its lights were not.
+- fresh: I looked upon the earth, and behold, nothing, and to heaven, and its lights were not.
 - brenton: I looked upon the earth, and, behold, it was not; and to the sky, and there was no light in it.
 
 ### Jeremiah 4:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I saw mountains, and they were trembling, and all hills shaken.
+- fresh: I saw the mountains, and they were trembling, and all the hills were shaken.
 - brenton: I beheld the mountains, and they trembled, and I saw all the hills in commotion.
 
 ### Jeremiah 4:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I looked, and behold, there was no man, and all birds of heaven were terrified.
+- fresh: I looked, and behold, there was no human, and all the birds of heaven were terrified.
 - brenton: I looked, and, behold, there was no man, and all the birds of the sky were scared.
 
 ### Jeremiah 4:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I looked, and behold, Carmel a desert, and all cities burned with fire. From the face of the Lord and from the face of anger of his wrath they vanished.
+- fresh: I looked, and behold, Carmel was a desert, and all the cities were burned with fire. From the face of the Lord and from the face of the anger of his wrath they vanished.
 - brenton: I saw, and, behold, Carmel was desert, and all the cities were burnt with fire at the presence of the Lord, and at the presence of his fierce anger they were utterly destroyed.
 
 ### Jeremiah 4:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Thus says the Lord: The whole land will be a desolation, yet I will not make a full end.
 - brenton: Thus saith the Lord, The whole land shall be desolate; but I will not make a full end.
@@ -170126,152 +170126,152 @@ Note:
 ### Jeremiah 4:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: For these things let earth mourn and heaven above be dark, because I spoke and will not change my mind, I rushed in and will not turn back from it.
+- fresh: For these things let the earth mourn and heaven above be dark, because I spoke and will not change my mind; I set it in motion and will not turn back from it.
 - brenton: For these things let the earth mourn, and let the sky be dark above: for I have spoken, and I will not repent; I have purposed, and I will not turn back from it.
 
 ### Jeremiah 4:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From the sound of horseman and bent bow every region withdrew. They entered caves and hid in groves and climbed rocks. Every city abandoned; man does not dwell in them.
+- fresh: From the sound of a horseman and a bent bow every region withdrew. They entered the caves and hid in the groves and climbed the rocks. Every city was abandoned; no human dwells in them.
 - brenton: The whole land has recoiled from the noise of the horseman and the bent bow; they have gone into the caves, and have hidden themselves in the groves, and have gone up upon the rocks: every city was abandoned, no man dwelt in them.
 
 ### Jeremiah 4:30
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you, what will you do if you dress in scarlet and adorn yourself with gold ornaments and paint your eyes with antimony? In vain your beautifying. Lovers rejected you; they seek your soul.
+- fresh: And you, what will you do? If you dress in scarlet and adorn yourself with gold ornaments and paint your eyes with antimony, your beautifying is in vain. Lovers rejected you; they seek your soul.
 - brenton: And what wilt thou do? Though thou clothe thyself with scarlet, and adorn thyself with golden ornaments; though thou adorn thine eyes with stibium, thy beauty will be in vain: thy lovers have rejected thee, they seek thy life.
 
 ### Jeremiah 4:31
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because voice as of a woman in labor I heard, your groaning as of one giving birth first time. The voice of daughter of Zion will grow weak and let down her hands: Woe to me, because my soul fails because of slain ones.
+- fresh: Because I heard a voice as of a woman in labor, your groaning as of one giving birth for the first time. The voice of the daughter of Zion will grow weak and let down her hands: Woe to me, because my soul fails because of slain ones.
 - brenton: For I have heard thy groaning as the voice of a woman in travail, as of her that brings forth her first child; the voice of the daughter of Zion shall fail through weakness, and she shall lose the strength of her hands, saying, Woe is me! for my soul faints because of the slain.
 
 ### Jeremiah 5:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Run about in the streets of Jerusalem and see and know and seek in her broad places whether you find man doing judgment and seeking faithfulness, and I will be gracious to them, says the Lord.
+- fresh: Run about in the streets of Jerusalem and see and know and seek in her broad places whether you find a man doing judgment and seeking faithfulness, and I will be gracious to them, says the Lord.
 - brenton: Run ye about in the streets of Jerusalem, and see, and know, and seek in her broad places, if ye can find one, if there is any one that does judgment, and seeks faithfulness; and I will pardon them, saith the Lord.
 
 ### Jeremiah 5:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: They say, As the Lord lives, yet because of this they swear by lies.
+- fresh: They say, As the Lord lives. Because of this, do they not swear by lies?
 - brenton: The Lord lives, they say; do they not therefore swear falsely?
 
 ### Jeremiah 5:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Lord, are not your eyes for faithfulness? You struck them and they did not hurt. You finished them and they did not want to receive discipline. They made their faces harder than rock and did not want to turn back.
+- fresh: Lord, are not your eyes for faithfulness? You struck them, and they were not pained. You finished them, and they did not want to receive discipline. They made their faces harder than rock and did not want to turn back.
 - brenton: O Lord, thine eyes are upon faithfulness: thou hast scourged them, but they have not grieved; thou hast consumed them; but they would not receive correction: they have made their faces harder than a rock; and they would not return.
 
 ### Jeremiah 5:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I said, Perhaps they are poor, because they were not able, because they did not know the way of the Lord and judgment of God.
+- fresh: And I said, Perhaps they are poor, because they were not able, because they did not know the way of the Lord and the judgment of God.
 - brenton: Then I said, It may be they are poor; for they are weak, for they know not the way of the Lord, or the judgment of God.
 
 ### Jeremiah 5:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I will go to great men and speak with them, because they knew the way of the Lord and judgment of God. And behold, together they broke yoke and tore bonds.
+- fresh: I will go to the great men and speak with them, because they knew the way of the Lord and the judgment of God. And behold, together they broke a yoke and tore bonds.
 - brenton: I will go to the rich men, and will speak to them; for they have known the way of the Lord, and the judgment of God: but, behold, with one consent they have broken the yoke, they have burst the bonds.
 
 ### Jeremiah 5:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore lion from the forest struck them, and wolf up to houses destroyed them, and leopard kept watch over their cities. All going out from them will be hunted, because they multiplied their ungodliness and grew strong in their turnings away.
+- fresh: Therefore a lion from the forest struck them, and a wolf up to houses destroyed them, and a leopard kept watch over their cities. All those going out from them will be hunted, because they multiplied their ungodliness and grew strong in their turnings away.
 - brenton: Therefore has a lion out of the forest smitten them, and a wolf has destroyed them even to their houses, and a leopard has watched against their cities: all that go forth from them shall be hunted: for they have multiplied their ungodliness, they have strengthened themselves in their revoltings.
 
 ### Jeremiah 5:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: For which of these shall I be gracious to you? Your sons abandoned me and swore by those that are not gods. And I fed them, and they committed adultery, and in the houses of prostitutes they lodged.
+- fresh: For which of these shall I be gracious to you? Your sons abandoned me and swore by the things that are not gods. And I fed them, and they committed adultery, and they lodged in prostitutes' houses.
 - brenton: In what way shall I forgive thee for these things? Thy sons have forsaken me, and sworn by them that are no gods: and I fed them to the full, and they committed adultery, and lodged in harlots' houses.
 
 ### Jeremiah 5:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: They became lustful horses, each neighing after the wife of his neighbor.
+- fresh: They became lustful horses; each one neighed after the wife of his neighbor.
 - brenton: They became as wanton horses: they neighed each one after his neighbour's wife.
 
 ### Jeremiah 5:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Shall I not visit for these things? says the Lord. Shall not my soul avenge on such nation?
+- fresh: Shall I not visit for these things? says the Lord. Shall not my soul avenge on such a nation?
 - brenton: Shall I not visit for these things? saith the Lord: and shall not my soul be avenged on such a nation as this.
 
 ### Jeremiah 5:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Go up on her battlements and tear down, but do not make a full end. Leave her supports, because they are Lord's.
+- fresh: Go up on her battlements and tear down, but do not make a full end. Leave her supports, because they are the Lord's.
 - brenton: Go up upon her battlements, and break them down; but make not a full end: leave her buttresses; for they are the Lord's.
 
 ### Jeremiah 5:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because in faithlessness the house of Israel and the house of Judah acted faithlessly toward me, says the Lord.
+- fresh: Because the house of Israel and the house of Judah acted faithlessly toward me with faithlessness, says the Lord.
 - brenton: For the house of Israel have indeed dealt treacherously against me, saith the Lord: the house of Juda also
 
 ### Jeremiah 5:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: They lied to their Lord and said, He is not, and evils will not come upon us, and sword and famine we will not see.
+- fresh: They lied to their Lord and said, These things are not; evils will not come upon us, and sword and famine we will not see.
 - brenton: have lied to their Lord, and they have said, These things are not so; no evils shall come upon us; and we shall not see sword or famine.
 
 ### Jeremiah 5:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Our prophets were wind, and the word of the Lord was not in them. So it will be to them.
 - brenton: Our prophets became wind, and the word of the Lord was not in them.
@@ -170279,26 +170279,26 @@ Note:
 ### Jeremiah 5:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore thus says the Lord Almighty: Because you spoke this word, behold, I have made my words in your mouth fire and this people wood, and it will devour them.
+- fresh: Therefore thus says the Lord Almighty: Because you spoke this word, behold, I have made my words in your mouth fire and this people as wood, and it will devour them.
 - brenton: Therefore thus saith the Lord Almighty, Because ye have spoken this word, behold, I have made my words in thy mouth fire, and this people wood, and it shall devour them.
 
 ### Jeremiah 5:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, I bring on you nation from far away, house of Israel, says the Lord, nation whose language voice you will not hear.
+- fresh: Behold, I bring on you a nation from far away, house of Israel, says the Lord, a nation whose language's voice you will not hear.
 - brenton: Behold, I will bring upon you a nation from far, O house of Israel, saith the Lord; a nation the sound of whose language one shall not understand.
 
 ### Jeremiah 5:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: All are mighty men.
 - brenton: They are all mighty men:
@@ -170306,17 +170306,17 @@ Note:
 ### Jeremiah 5:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they will eat your harvest and your breads, and they will eat your sons and your daughters, and they will eat your sheep and your calves, and they will eat your vineyards and your fig trees and your olive groves, and thresh your fortified cities in which you trust with sword.
+- fresh: And they will eat your harvest and your breads, and they will eat your sons and your daughters, and they will eat your sheep and your calves, and they will eat your vineyards and your fig trees and your olive groves, and thresh your fortified cities in which you trust by sword.
 - brenton: and they shall devour your harvest, and your bread; and shall devour your sons, and your daughters; and they shall devour your sheep, and your calves, and devour your vineyards, and your fig-plantations, and your olive yards: and they shall utterly destroy your strong cities, wherein ye trusted, with the sword.
 
 ### Jeremiah 5:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And it will be in those days, says the Lord your God, I will not make a full end of you.
 - brenton: And it shall come to pass in those days, saith the Lord thy God, that I will not utterly destroy you.
@@ -170324,8 +170324,8 @@ Note:
 ### Jeremiah 5:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And it will be when you say, For what reason did the Lord our God do all these things to us? you will say to them, Because you served foreign gods in your land, so you will serve foreigners in a land not yours.
 - brenton: And it shall come to pass, when ye shall say, Wherefore has the Lord our God done all these things to us? that thou shalt say to them, Because ye served strange gods in your land, so shall ye serve strangers in a land that is not yours.
@@ -170342,44 +170342,44 @@ Note:
 ### Jeremiah 5:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Hear now these things, foolish and heartless people: eyes to them and they do not see, ears to them and they do not hear.
+- fresh: Hear now these things, foolish and heartless people: they have eyes and do not see, ears and do not hear.
 - brenton: Hear ye now these things, O foolish and senseless people; who have eyes, and see not; and have ears, and hear not:
 
 ### Jeremiah 5:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Will you not fear me? says the Lord. Will you not tremble before my face? I set sand as boundary to sea, everlasting command, and it will not pass it. It will be disturbed and not be able, and its waves will roar and not pass it.
+- fresh: Will you not fear me? says the Lord. Will you not tremble before my face? I set sand as a boundary for the sea, an everlasting command, and it will not pass it. It will be disturbed and not be able, and its waves will roar and not pass it.
 - brenton: will ye not be afraid of me? saith the Lord; and will ye not fear before me, who have set the sand for a bound to the sea, as a perpetual ordinance, and it shall not pass it: yea, it shall rage, but not prevail; and its waves shall roar, but not pass over it.
 
 ### Jeremiah 5:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But for this people there came disobedient and rebellious heart, and they turned aside and went away.
+- fresh: But for this people there came a disobedient and rebellious heart, and they turned aside and went away.
 - brenton: But this people has a disobedient and rebellious heart; and they have turned aside and gone back:
 
 ### Jeremiah 5:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they did not say in their heart, Let us now fear the Lord our God, one giving us early and late rain in due season, fullness of harvest command, and he kept it for us.
+- fresh: And they did not say in their heart, Let us now fear the Lord our God, the one giving us early and late rain in due season, the fullness of the appointed harvest, and he kept it for us.
 - brenton: and they have not said in their heart, Let us fear now the Lord our God, who gives us the early and latter rain, according to the season of the fulfilment of the ordinance of harvest, and has preserved it for us.
 
 ### Jeremiah 5:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Your lawless deeds turned these things away, and your sins removed good things from you.
 - brenton: Your transgressions have turned away these things, and your sins have removed good things from you.
@@ -170387,179 +170387,179 @@ Note:
 ### Jeremiah 5:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because among my people ungodly men were found, and they set traps to destroy men and captured them.
+- fresh: Because among my people ungodly men were found, and they set traps to destroy men, and they captured them.
 - brenton: For among my people were found ungodly men; and they have set snares to destroy men, and have caught them.
 
 ### Jeremiah 5:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: As snare set up full of birds, so their houses full of deceit. Because of this they grew great and rich.
+- fresh: As a snare set up full of birds, so their houses are full of deceit. Because of this they grew great and rich.
 - brenton: As a snare which has been set is full of birds, so are their houses full of deceit: therefore have they grown great, and become rich:
 
 ### Jeremiah 5:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they passed over judgment. They did not judge cause of orphan, and cause of widow they did not judge.
+- fresh: And they passed over judgment. They did not judge the cause of an orphan, and the cause of a widow they did not judge.
 - brenton: and they have transgressed the rule of judgment; they have not judged the cause of the orphan, nor have they judged the cause of the widow.
 
 ### Jeremiah 5:29
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Shall I not visit for these things? says the Lord. Shall not my soul avenge on such nation?
+- fresh: Shall I not visit for these things? says the Lord. Shall not my soul avenge on such a nation?
 - brenton: Shall I not visit for these things? saith the Lord: and shall not my soul be avenged on such a nation as this?
 
 ### Jeremiah 5:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Astonishment and horrors came on earth:
+- fresh: Astonishment and horrors came upon the earth:
 - brenton: Shocking and horrible deeds have been done on the land;
 
 ### Jeremiah 5:31
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Prophets prophesy unjust things, and priests clapped with their hands, and my people loved it so. And what will you do afterward?
+- fresh: Prophets prophesy unjust things, and priests clapped their hands, and my people loved it so. And what will you do afterward?
 - brenton: the prophets utter unrighteous prophecies, and the priests have clapped their hands: and my people has loved to have it thus: and what will ye do for the future?
 
 ### Jeremiah 6:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Strengthen yourselves, sons of Benjamin, from the midst of Jerusalem, and in Tekoa sound trumpet, and over Bethhaccerem lift signal, because evils have leaned out from north and great crushing is coming.
+- fresh: Strengthen yourselves, sons of Benjamin, from the midst of Jerusalem, and in Tekoa sound a trumpet, and over Beth-haccherem lift a signal, because evils have leaned out from the north and great crushing is coming.
 - brenton: Strengthen yourselves, ye children of Benjamin, to flee out of the midst of Jerusalem, and sound an alarm with the trumpet in Thecue, and set up a signal over Bæthacharma: for evil threatens from the north, and a great destruction is coming.
 
 ### Jeremiah 6:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Your height will be taken away, daughter of Zion.
+- fresh: Your height will be taken away, O daughter of Zion.
 - brenton: And thy pride, O daughter of Sion, shall be taken away.
 
 ### Jeremiah 6:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: To her shepherds and their flocks will come, and they will pitch tents against her all around, and each will shepherd by his own hand.
+- fresh: Shepherds and their flocks will come to her, and they will pitch tents against her all around, and each will shepherd by his own hand.
 - brenton: The shepherds and their flocks shall come to her; and they shall pitch their tents against her round about, and shall feed their flocks each with his hand.
 
 ### Jeremiah 6:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Prepare against her for war. Rise, and let us go up against her at noon. Woe to us, because day has declined, because shadows of evening fail.
+- fresh: Prepare against her for war. Rise, and let us go up against her at noon. Woe to us, because the day has declined, because the shadows of evening fail.
 - brenton: Prepare yourselves for war against her; rise up, and let us go up against her at noon. Woe to us! for the day has gone down, for the shadows of the day fail.
 
 ### Jeremiah 6:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Rise, and let us go up in night and destroy her foundations.
+- fresh: Rise, and let us go up in the night and destroy her foundations.
 - brenton: Rise, and let us go up against her by night, and destroy her foundations.
 
 ### Jeremiah 6:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because thus says the Lord: Cut down her trees, pour out strength against Jerusalem. O false city, all oppression in her.
+- fresh: Because thus says the Lord: Cut down her trees, pour out strength against Jerusalem. O false city, all oppression is in her.
 - brenton: For thus saith the Lord, Hew down her trees, array a numerous force against Jerusalem. O false city; there is all oppression in her.
 
 ### Jeremiah 6:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: As cistern cools its water, so her evil cools. Ungodliness and misery will be heard in her; before her face continually pain and scourge.
+- fresh: As a cistern cools its water, so her evil cools. Ungodliness and misery will be heard in her; before her face continually are pain and scourge.
 - brenton: As a cistern cools water, so her wickedness cools her, ungodliness and misery shall be heard in her, as continually before her.
 
 ### Jeremiah 6:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Be disciplined, Jerusalem, lest my soul depart from you, lest I make you pathless land not inhabited.
+- fresh: Be disciplined, Jerusalem, lest my soul depart from you, lest I make you a pathless land that will not be inhabited.
 - brenton: Thou shalt be chastened, O Jerusalem, with pain and the scourge, lest my soul depart from thee; lest I make thee a desert land, which shall not be inhabited.
 
 ### Jeremiah 6:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because thus says the Lord: Glean, glean as vine the remnant of Israel. Return as grape-gatherer to his basket.
+- fresh: Because thus says the Lord: Glean, glean as a vine the remnants of Israel. Return like a grape-gatherer to his basket.
 - brenton: For thus saith the Lord, Glean, glean thoroughly as a vine the remnant of Israel: turn back your hands as a grape-gatherer to his basket.
 
 ### Jeremiah 6:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: To whom shall I speak and testify, and he will hear? Behold, their ears uncircumcised and they cannot hear. Behold, the word of the Lord became a reproach to them. They will not want to hear it.
+- fresh: To whom shall I speak and testify, and he will hear? Behold, their ears are uncircumcised and they cannot hear. Behold, the word of the Lord became a reproach to them. They will not want to hear it.
 - brenton: To whom shall I speak, and testify, that he may hearken? behold, thine ears are uncircumcised, and they shall not be able to hear: behold, the word of the Lord is become to them a reproach, they will not at all desire it.
 
 ### Jeremiah 6:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I was filled with my wrath and held back and did not finish them. I will pour it on infants outside and on gathering of young men together, because man and woman will be taken, elder with the fullness of days.
+- fresh: And I was filled with my wrath and held it back, and I did not finish them. I will pour it on infants outside and on a gathering of young men together, because a man and a woman will be taken, an elder together with one full of days.
 - brenton: And I allowed my wrath to come to the full, yet I kept it in, and did not utterly destroy them: I will pour it out on the children without, and on the assembly of young men together: for man and woman shall be taken together, the old man with him that is full of days.
 
 ### Jeremiah 6:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And their houses will be turned to others, fields and their wives together, because I will stretch out my hand upon those inhabiting this land, says the Lord.
+- fresh: And their houses will be turned over to others, their fields and their wives together, because I will stretch out my hand upon those inhabiting this land, says the Lord.
 - brenton: And their houses shall be turned to others, with their fields and their wives together: for I will stretch out my hand upon the inhabitants of this land, saith the Lord.
 
 ### Jeremiah 6:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because from their small one even to great one all together complete lawlessness; from priest even to false prophet all practiced lies.
+- fresh: Because from their small one even to their great one, all together completed lawless things; from priest even to false prophet, all practiced lies.
 - brenton: For from the least of them even to the greatest they have all committed iniquity; from the priest even to the false prophet they have all wrought falsely.
 
 ### Jeremiah 6:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And they healed crushing of my people by treating it lightly and saying, Peace, peace, and where is peace?
 - brenton: And they healed the breach of my people imperfectly, making light of it, and saying, Peace, peace: and where is peace?
@@ -170567,8 +170567,8 @@ Note:
 ### Jeremiah 6:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: They were ashamed because they failed, yet not even as ashamed were they ashamed, and they did not know their dishonor. Therefore they will fall in their falling, and in the time of their visitation they will perish, said the Lord.
 - brenton: They were ashamed because they failed; yet they were not ashamed as those who are truly ashamed, and they knew not their own disgrace: therefore shall they utterly fall when they do fall, and in the time of visitation shall they perish, said the Lord.
@@ -170576,17 +170576,17 @@ Note:
 ### Jeremiah 6:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord: Stand on roads and see and ask for everlasting paths of the Lord, and see what good way is, and walk in it, and you will find cleansing for your souls. And they said, We will not walk.
+- fresh: Thus says the Lord: Stand on the roads and see and ask for the everlasting paths of the Lord, and see what the good way is, and walk in it, and you will find cleansing for your souls. And they said, We will not walk.
 - brenton: Thus saith the Lord, Stand ye in the ways, and see, and ask for the old paths of the Lord; and see what is the good way, and walk in it, and ye shall find purification for your souls. But they said, We will not walk in them.
 
 ### Jeremiah 6:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: I set watchmen over you: Hear the sound of a trumpet. And they said, We will not hear.
 - brenton: I have set watchmen over you, saying, Hear ye the sound of the trumpet. But they said, We will not hear it.
@@ -170594,62 +170594,62 @@ Note:
 ### Jeremiah 6:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore nations heard, and those shepherding their flocks.
+- fresh: Therefore the nations heard, and those shepherding their flocks.
 - brenton: Therefore have the nations heard, and they that feed their flocks.
 
 ### Jeremiah 6:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Hear, earth. Behold, I bring on this people evils, fruit of their turning away, because they paid no attention to my words and rejected my law.
+- fresh: Hear, O earth. Behold, I bring on this people evils, the fruit of their turning away, because they paid no attention to my words and rejected my law.
 - brenton: Hear, O earth: behold, I will bring evils upon this people, even the fruit of their rebellions; for they have not heeded my words, and they have rejected my law.
 
 ### Jeremiah 6:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Why do you bring me frankincense from Sheba and cinnamon from far land? Your whole burnt offerings not acceptable and your sacrifices did not please me.
+- fresh: Why do you bring me frankincense from Sheba and cinnamon from a far land? Your whole burnt offerings are not acceptable and your sacrifices did not please me.
 - brenton: Wherefore do ye bring me frankincense from Saba, and cinnamon from a land afar off? your whole-burnt-offerings are not acceptable, and your sacrifices have not been pleasant to me.
 
 ### Jeremiah 6:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Behold, I give this people weakness, and fathers and sons together will be weakened by it; neighbor and his near one will perish.
+- fresh: Therefore thus says the Lord: Behold, I give this people weakness, and fathers and sons together will be weakened by it; a neighbor and his near one will perish.
 - brenton: Therefore thus saith the Lord, Behold, I will bring weakness upon this people, and the fathers and sons shall be weak together; the neighbour and his friend shall perish.
 
 ### Jeremiah 6:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord: Behold, people comes from north, and nation will be stirred from the ends of the earth.
+- fresh: Thus says the Lord: Behold, a people comes from the north, and a nation will be stirred from the end of the earth.
 - brenton: Thus saith the Lord, Behold, a people comes from the north, and nations shall be stirred up from the end of the earth.
 
 ### Jeremiah 6:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: They will grasp bow and javelin. He is harsh and will not show mercy. His voice as sea waving. On horses and chariots he will line up like fire for war against you, daughter of Zion.
+- fresh: They will grasp bow and javelin. He is harsh and will not show mercy. His voice is like a waving sea. On horses and chariots he will line up like fire for war against you, O daughter of Zion.
 - brenton: They shall lay hold on bow and spear; the people is fierce, and will have no mercy; their voice is as the roaring sea; they shall array themselves for war against thee as fire on horses and chariots, O daughter of Sion.
 
 ### Jeremiah 6:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: We heard their report; our hands were paralyzed. Affliction seized us, birth-pangs as of a woman giving birth.
 - brenton: We have heard the report of them: our hands are weakened: anguish has seized us, the pangs as of a woman in travail.
@@ -170657,53 +170657,53 @@ Note:
 ### Jeremiah 6:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Do not go out into field, and in roads do not walk, because sword of enemies lives all around.
+- fresh: Do not go out into the field, and on the roads do not walk, because the sword of enemies lives all around.
 - brenton: Go not forth into the field, and walk not in the ways; for the sword of the enemy lingers round about.
 
 ### Jeremiah 6:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The daughter of my people, gird sackcloth, roll in ashes, make for yourself mourning of beloved one, bitter lament, because suddenly misery will come upon you.
+- fresh: O daughter of my people, gird sackcloth, roll in ashes, make for yourself mourning for a beloved one, bitter lament, because suddenly misery will come upon you.
 - brenton: O daughter of my people, gird thyself with sackcloth: sprinkle thyself with ashes; make for thyself pitiable lamentation, as the mourning for a beloved son: for misery will come suddenly upon you.
 
 ### Jeremiah 6:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I have given you tester among tested peoples, and you will know me when I test their way.
+- fresh: I have given you as a tester among tested peoples, and you will know me when I test their way.
 - brenton: I have caused thee to be tried among tried nations, and thou shalt know me when I have tried their way.
 
 ### Jeremiah 6:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: All disobedient, walking crookedly, bronze and iron, all are corrupted.
+- fresh: All are disobedient, walking crookedly; bronze and iron, all are corrupted.
 - brenton: They are all disobedient, walking perversely: they are brass and iron; they are all corrupted.
 
 ### Jeremiah 6:29
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Bellows failed from fire, lead failed; in vain silversmith works silver, their evil was not melted.
+- fresh: Bellows failed from fire, lead failed; the silversmith works silver in vain, their evil was not melted.
 - brenton: The bellows have failed from the fire, the lead has failed: the silversmith works at his trade in vain; their wickedness is not consumed.
 
 ### Jeremiah 6:30
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Call them rejected silver, because the Lord rejected them.
 - brenton: Call ye them reprobate silver, because the Lord has rejected them.
@@ -170711,7 +170711,7 @@ Note:
 ### Jeremiah 7:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Hear the word of the Lord, all Judah.
@@ -170729,43 +170729,43 @@ Note:
 ### Jeremiah 7:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Do not trust in yourselves upon false words that will surely not profit you, saying, Temple of the Lord, temple of the Lord it is.
+- fresh: Do not trust in yourselves on false words that will surely not profit you, saying, Temple of the Lord, temple of the Lord it is.
 - brenton: Trust not in yourselves with lying words, for they shall not profit you at all, saying, It is the temple of the Lord, the temple of the Lord.
 
 ### Jeremiah 7:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because if in correcting you truly correct your ways and your practices, and in doing you do judgment between man and his neighbor,
+- fresh: Because if by correcting you truly correct your ways and your practices, and by doing you do judgment between a man and his neighbor,
 - brenton: For if ye thoroughly correct your ways and your practices, and do indeed execute judgment between a man and his neighbour;
 
 ### Jeremiah 7:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: and do not oppress sojourner and orphan and widow, and do not pour out innocent blood in this place, and do not walk after foreign gods for your harm,
+- fresh: and do not oppress a sojourner and an orphan and a widow, and do not pour out innocent blood in this place, and do not walk after foreign gods to your harm,
 - brenton: and oppress not the stranger, and the orphan, and the widow, and shed not innocent blood in this place, and go not after strange gods to your hurt:
 
 ### Jeremiah 7:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: then I will settle you in this place, in the land I gave to your fathers from age and to age.
+- fresh: then I will settle you in this place, in the land I gave to your fathers from age to age.
 - brenton: then will I cause you to dwell in this place, in the land which I gave to your fathers of old and for ever.
 
 ### Jeremiah 7:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: But if you trust in false words, from which you will not profit,
@@ -170783,7 +170783,7 @@ Note:
 ### Jeremiah 7:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: and you came and stood before me in the house over which my name has been called and said, We have held back from doing all these abominations—
@@ -170792,8 +170792,8 @@ Note:
 ### Jeremiah 7:11
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Has my house over which my name has been called become a den of robbers there before you? And I, behold, have seen, says the Lord.
 - brenton: Is my house, whereon my name is called, a den of robbers in your eyes? And, behold, I have seen it, saith the Lord.
@@ -170801,10 +170801,10 @@ Note:
 ### Jeremiah 7:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because go to my place in Shiloh, where I caused my name to dwell before, and see what I did to it because of evil of my people Israel.
+- fresh: For go to my place in Shiloh, where I caused my name to dwell before, and see what I did to it because of the evil of my people Israel.
 - brenton: For go ye to my place which is in Selo, where I caused my name to dwell before, and see what I did to it because of the wickedness of my people Israel.
 
 ### Jeremiah 7:13
@@ -170819,26 +170819,26 @@ Note:
 ### Jeremiah 7:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I will do to this house over which my name has been called, on which you trust, and to place I gave to you and to your fathers, just as I did to Shiloh.
+- fresh: I will do to this house over which my name has been called, on which you trust, and to the place I gave to you and to your fathers, just as I did to Shiloh.
 - brenton: therefore I also will do to the house whereon my name is called, wherein ye trust, and to the place which I gave to you and to your fathers, as I did to Selo.
 
 ### Jeremiah 7:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will cast you out from my face, just as I cast out your brothers, all seed of Ephraim.
+- fresh: And I will cast you out from my face, just as I cast out your brothers, all the seed of Ephraim.
 - brenton: And I will cast you out of my sight, as I cast away your brethren, all the seed of Ephraim.
 
 ### Jeremiah 7:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And you, do not pray concerning this people, and do not ask that they be shown mercy, and do not vow, and do not come to me concerning them, because I will not hear.
 - brenton: Therefore pray not thou for this people, and intercede not for them to be pitied, yea, pray not, and approach me not for them: for I will not hearken unto thee.
@@ -170855,34 +170855,34 @@ Note:
 ### Jeremiah 7:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Their sons gather wood, and their fathers kindle fire, and their women knead dough to make cakes for the army of heaven, and they poured drink offerings to foreign gods so as to provoke me.
+- fresh: Their sons gather wood, and their fathers kindle fire, and their women knead dough to make cakes for the host of heaven, and they poured drink offerings to foreign gods so as to provoke me.
 - brenton: Their children gather wood, and their fathers kindle a fire, and their women knead dough, to make cakes to the host of heaven; and they have poured out drink-offerings to strange gods, that they might provoke me to anger.
 
 ### Jeremiah 7:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do they provoke me? says the Lord. Is it not themselves, so that their faces be ashamed?
+- fresh: Do they provoke me? says the Lord. Is it not themselves, so that their faces may be ashamed?
 - brenton: Do they provoke me to anger? saith the Lord: do they not provoke themselves, that their faces may be ashamed?
 
 ### Jeremiah 7:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Behold, my anger and wrath pours out on this place and on men and on cattle and on every tree of their field and on all produce of earth, and it will burn and not be quenched.
+- fresh: Therefore thus says the Lord: Behold, my anger and wrath are poured out on this place and on men and on cattle and on every tree of their field and on all the produce of the earth, and it will burn and not be quenched.
 - brenton: Therefore thus saith the Lord; Behold, my anger and wrath shall be poured out upon this place, and upon the men, and upon the cattle, and upon every tree of their field, and upon the fruits of the land; and it shall burn, and not be quenched.
 
 ### Jeremiah 7:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Thus says the Lord: Gather your whole burnt offerings with your sacrifices and eat flesh.
@@ -170891,8 +170891,8 @@ Note:
 ### Jeremiah 7:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Because I did not speak to your fathers and did not command them on the day I brought them up from the land of Egypt concerning whole burnt offerings and sacrifice.
 - brenton: For I spoke not to your fathers, and commanded them not in the day wherein I brought them up out of the land of Egypt, concerning whole-burnt-offerings and sacrifice:
@@ -170900,8 +170900,8 @@ Note:
 ### Jeremiah 7:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: But this word I commanded them, saying, Hear my voice and I will be to you as God and you will be to me as people, and walk in all my ways that I command you, so that it may be well for you.
 - brenton: but I commanded them this thing, saying, Hear ye my voice, and I will be to you a God, and ye shall be to me a people: and walk ye in all my ways, which I shall command you, that it may be well with you.
@@ -170909,19 +170909,19 @@ Note:
 ### Jeremiah 7:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they did not hear me and did not incline their ear, but walked in thoughts of their evil heart and became backward and not forward.
+- fresh: And they did not hear me and did not incline their ear, but walked in the thoughts of their evil heart and became backward and not forward.
 - brenton: But they hearkened not to me, and their ear gave no heed, but they walked in the imaginations of their evil heart, and went backward, and not forward;
 
 ### Jeremiah 7:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: From day their fathers came out from the land of Egypt until this day, I sent to you all my servants the prophets, day and early morning I sent.
+- fresh: From the day their fathers came out from the land of Egypt until this day, I sent to you all my servants the prophets; day by day and early morning I sent.
 - brenton: from the day that their fathers went forth out of the land of Egypt, even until this day. And I sent to you all my servants, the prophets, by day and early in the morning: yea, I sent them,
 
 ### Jeremiah 7:26
@@ -170936,17 +170936,17 @@ Note:
 ### Jeremiah 7:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will say to them this word: This is nation that did not hear the voice of the Lord and did not receive discipline. Faithfulness perished from their mouth.
+- fresh: And you will say to them this word: This is the nation that did not hear the voice of the Lord and did not receive discipline. Faithfulness perished from their mouth.
 - brenton: Therefore thou shalt speak this word to them;
 
 ### Jeremiah 7:28
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Faithfulness perished from their mouth.
 - brenton: This is the nation which has not hearkened to the voice of the Lord, nor received correction: truth has failed from their mouth.
@@ -170954,10 +170954,10 @@ Note:
 ### Jeremiah 7:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Shear your head and cast away, and raise lament on lips, because the Lord rejected and thrust away generation doing these things.
+- fresh: Shear your head and cast it away, and raise lament upon lips, because the Lord rejected and thrust away the generation doing these things.
 - brenton: Cut off thine hair, and cast it away, and take up a lamentation on thy lips; for the Lord has reprobated and rejected the generation that does these things.
 
 ### Jeremiah 7:30
@@ -170966,77 +170966,77 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because sons of Judah did evil before me, says the Lord. They set their abominations in the house over which my name has been called, to defile it.
+- fresh: Because the sons of Judah did evil before me, says the Lord. They set their abominations in the house over which my name has been called, to defile it.
 - brenton: For the children of Juda have wrought evil before me, saith the Lord; they have set their abominations in the house on which my name is called, to defile it.
 
 ### Jeremiah 7:31
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And they built altar of Topheth, which is in the valley of son of Hinnom, to burn their sons and their daughters in fire, which I did not command them, nor did I conceive in my heart.
+- fresh: And they built the altar of Topheth, which is in the valley of the son of Hinnom, to burn their sons and their daughters in the fire, which I did not command them, nor did I conceive it in my heart.
 - brenton: And they have built the altar of Tapheth, which is in the valley of the son of Ennom, to burn their sons and their daughters with fire; which I did not command them to do, neither did I design it in my heart.
 
 ### Jeremiah 7:32
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore behold, days come, says the Lord, and they will no longer say altar of Topheth and valley of son of Hinnom, but valley of slaughtered, and they will bury in Topheth because no place remains.
+- fresh: Therefore behold, days come, says the Lord, and they will no longer say the altar of Topheth and the valley of the son of Hinnom, but the valley of the slaughtered, and they will bury in Topheth because no place remains.
 - brenton: Therefore, behold, the days come, saith the Lord, when they shall no more say, The altar of Tapheth, and the valley of the son of Ennom, but, The valley of the slain; and they shall bury in Tapheth, for want of room.
 
 ### Jeremiah 7:33
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the dead bodies of this people will be for food to the birds of heaven and beasts of the earth, and none will frighten them away.
+- fresh: And the dead bodies of this people will be for food to the birds of heaven and the beasts of the earth, and none will frighten them away.
 - brenton: And the dead bodies of this people shall be for food to the birds of the sky, and to the wild beasts of the earth; and there shall be none to drive them away.
 
 ### Jeremiah 7:34
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will destroy from the cities of Judah and from the streets of Jerusalem the voice of rejoicing and the voice of gladness, the voice of bridegroom and the voice of bride, because the whole land will become desolation.
+- fresh: And I will make cease from the cities of Judah and from the streets of Jerusalem the voice of rejoicing and the voice of gladness, the voice of the bridegroom and the voice of the bride, because the whole land will become desolation.
 - brenton: And I will destroy out of the cities of Juda, and the streets of Jerusalem, the voice of them that make merry, and the voice of them that rejoice, the voice of the bridegroom, and the voice of the bride; for the whole land shall become a desolation.
 
 ### Jeremiah 8:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: At that time, says the Lord, they will bring out bones of kings of Judah and bones of their rulers and bones of priests and bones of prophets and bones of the inhabitants of Jerusalem from their tombs.
+- fresh: At that time, says the Lord, they will bring out the bones of the kings of Judah and the bones of their rulers and the bones of priests and the bones of prophets and the bones of the inhabitants of Jerusalem from their tombs.
 - brenton: At that time, saith the Lord, they shall bring out the bones of the kings of Juda, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves;
 
 ### Jeremiah 8:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they will spread them out to sun and moon and all stars and all the army of heaven, which they loved and served and went after and held fast and worshiped. They will not be mourned nor buried, and they will be an example upon the face of the earth.
+- fresh: And they will spread them out toward the sun and the moon and all the stars and all the host of heaven, which they loved and served and went after and held fast and worshiped. They will not be mourned nor buried, and they will be an example upon the face of the earth.
 - brenton: and they shall spread them out to the sun, and the moon, and to all the stars, and to all the host of heaven, which they have loved, and which they have served, and after which they have walked, and to which they have held, and which they have worshipped; they shall not be mourned for, neither shall they be buried; but they shall be for an example on the face of the earth,
 
 ### Jeremiah 8:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Because they chose death rather than life, for all remnant left from that generation in every place where I drive them out there.
+- fresh: Because they chose death rather than life, for all the remnant left from that generation in every place where I drive them out.
 - brenton: because they chose death rather than life, even to all the remnant that are left of that family, in every place whither I shall drive them out.
 
 ### Jeremiah 8:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Because thus says the Lord: Will one falling not rise? Or one turning away not turn back?
 - brenton: For thus saith the Lord, Shall not he that falls arise? or he that turns away, shall he not turn back again?
@@ -171044,44 +171044,44 @@ Note:
 ### Jeremiah 8:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Why did this people turn away with shameless turning away? They held fast in their own choice and did not want to return.
+- fresh: Why did this people of mine turn away with a shameless turning away? They held fast in their own choice and did not want to return.
 - brenton: Wherefore has this my people turned away with a shameless revolting, and strengthened themselves in their wilfulness, and refused to return?
 
 ### Jeremiah 8:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Give ear now and hear: They will not speak thus. There is no man repenting from his evil, saying, What have I done? One running from his course ceased, like sweating horse in its neighing.
+- fresh: Give ear now and hear: They will not speak thus. There is no one repenting from his evil, saying, What have I done? The one running from his course ceased, like a sweating horse in its neighing.
 - brenton: Hearken, I pray you, and hear: will they not speak thus, There is no man that repents of his wickedness, saying, What have I done? the runner has failed from his course, as a tired horse in his neighing.
 
 ### Jeremiah 8:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And stork in heaven knew its season; turtledove and swallow of field and sparrows kept times of their comings. But my people did not know judgments of the Lord.
+- fresh: And the stork in heaven knew its season; the turtledove and swallow of the field and sparrows kept the times of their comings. But my people did not know the judgments of the Lord.
 - brenton: Yea, the stork in the heaven knows her time, also the turtle-dove and wild swallow; the sparrows observe the times of their coming in; but this my people knows not the judgments of the Lord.
 
 ### Jeremiah 8:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: How will you say, We are wise, and the law of the Lord is with us? In vain false reed of scribes came to be.
+- fresh: How will you say, We are wise, and the law of the Lord is with us? In vain the false reed of scribes came to be.
 - brenton: How will ye say, We are wise, and the law of the Lord is with us? In vain have the scribes used a false pen.
 
 ### Jeremiah 8:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: The wise men were ashamed and terrified and caught, because they rejected the word of the Lord. What wisdom is in them?
 - brenton: The wise men are ashamed, and alarmed, and taken; because they have rejected the word of the Lord; what wisdom is there in them?
@@ -171089,8 +171089,8 @@ Note:
 ### Jeremiah 8:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Therefore I will give their wives to others and their fields to heirs.
 - brenton: Therefore will I give their wives to others, and their fields to new inheritors; and they shall gather their fruits, saith the Lord.
@@ -171098,17 +171098,17 @@ Note:
 ### Jeremiah 8:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 3
 - same_normalized: no
-- fresh: And they will gather their produce, says the Lord. There is no grape on vines, and no figs on fig trees, and leaves have fallen.
+- fresh: And they will gather their produce, says the Lord. There is no grape on the vines, and no figs on the fig trees, and leaves have fallen.
 - brenton: There are no grapes on the vines, and there are no figs on the fig-trees, and the leaves have fallen off.
 
 ### Jeremiah 8:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Why do we sit? Gather and let us enter fortified cities and be cast away, because God cast us away and gave us water of gall to drink, because we sinned against him.
 - brenton: Why do we sit still? assemble yourselves, and let us enter into the strong cities, and let us be cast out there: for God has cast us out, and made us drink water of gall, because we have sinned before him.
@@ -171116,53 +171116,53 @@ Note:
 ### Jeremiah 8:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: We gathered for peace and there were no good things, for the time of healing and behold, hurry.
+- fresh: We gathered for peace and there were no good things, for the time of healing and behold, haste.
 - brenton: We assembled for peace, but there was no prosperity; for a time of healing, but behold anxiety.
 
 ### Jeremiah 8:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: From Dan we will hear the sound of sharpness of his horses. From the sound of neighing of his cavalry all the land shook, and he will come and devour land and its fullness, city and those dwelling in it.
+- fresh: From Dan we will hear the sound of the swiftness of his horses. From the sound of neighing of his cavalry all the land shook, and he will come and devour the land and its fullness, the city and those dwelling in it.
 - brenton: We shall hear the neighing of his swift horses out of Dan: the whole land quaked at the sound of the neighing of his horses; and he shall come, and devour the land and the fulness of it; the city, and them that dwell in it.
 
 ### Jeremiah 8:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because behold, I send to you deadly serpents for which there is no charming, and they will bite you.
+- fresh: Because behold, I send against you deadly serpents for which there is no charming, and they will bite you.
 - brenton: For, behold, I send forth against you deadly serpents, which cannot be charmed, and they shall bite you
 
 ### Jeremiah 8:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Incurable with pain, your heart in distress.
+- fresh: Incurable things with pain; your heart is in distress.
 - brenton: mortally with the pain of your distressed heart.
 
 ### Jeremiah 8:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, the voice of the cry of the daughter of my people from far land: Is the Lord not in Zion? Is her king not there? Why did they provoke me with their carved images and foreign vanities?
+- fresh: Behold, the voice of the cry of the daughter of my people from a far land: Is the Lord not in Zion? Is her king not there? Why did they provoke me with their carved images and foreign vanities?
 - brenton: Behold, there is a sound of the cry of the daughter of my people from a land afar off: Is not the Lord in Sion? is there not a king there? because they have provoked me with their graven images, and with strange vanities.
 
 ### Jeremiah 8:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Summer passed, harvest ended, and we were not saved.
 - brenton: The summer is gone, the harvest is past, and we are not saved.
@@ -171179,8 +171179,8 @@ Note:
 ### Jeremiah 8:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Is there no resin in Gilead? Is there no physician there? Why did healing of the daughter of my people not rise?
 - brenton: And is there no balm in Galaad, or is there no physician there? why has not the healing of the daughter of my people taken place?
@@ -171188,53 +171188,53 @@ Note:
 ### Jeremiah 8:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Who will give my head water and my eyes spring of tears? And I will weep for this people day and night, for wounded ones of the daughter of my people.
+- fresh: Who will give my head water and my eyes a spring of tears? And I will weep for this people day and night, for the wounded ones of the daughter of my people.
 - brenton: Who will give water to my head, and a fountain of tears to my eyes? then would I weep for this my people day and night, even for the slain of the daughter of my people.
 
 ### Jeremiah 9:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Who will give me in the wilderness last lodging-place, that I may leave my people and go away from them? Because all commit adultery, company of faithless ones.
+- fresh: Who will give me a last lodging-place in the wilderness, that I may leave my people and go away from them? Because all commit adultery, a company of faithless ones.
 - brenton: Who would give me a most distant lodge in the wilderness, that I might leave my people, and depart from them? for they all commit adultery, an assembly of treacherous men.
 
 ### Jeremiah 9:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they bent their tongue like bow: falsehood, and not faithfulness, grew strong on the land, because from evils to evils they went out, and me they did not know.
+- fresh: And they bent their tongue like a bow: falsehood, and not faithfulness, grew strong on the land, because from evils to evils they went out, and me they did not know.
 - brenton: And they have bent their tongue like a bow: falsehood and not faithfulness has prevailed upon the earth; for they have gone on from evil to evil, and have not known me, saith the Lord.
 
 ### Jeremiah 9:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Each guard yourselves from your neighbor, and do not trust in your brothers, because every brother will utterly trip by heel and every friend will walk deceitfully.
+- fresh: Each guard yourselves from your neighbor, and do not trust in your brothers, because every brother will trip by the heel, and every friend will walk deceitfully.
 - brenton: Beware ye each of his neighbour, and trust ye not in your brethren: for every one will surely supplant, and every friend will walk craftily.
 
 ### Jeremiah 9:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Each will mock his friend; truth they will not speak. Their tongue learned to speak lies. They did wrong and did not cease from turning back.
+- fresh: Each will mock his friend; they will certainly not speak truth. Their tongue has learned to speak lies. They did wrong and did not cease from turning back.
 - brenton: Every one will mock his friend; they will not speak truth: their tongue has learned to speak falsehoods; they have committed iniquity, they ceased not, so as to return.
 
 ### Jeremiah 9:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Usury upon usury, deceit upon deceit; they did not want to know me.
 - brenton: There is usury upon usury, and deceit upon deceit: they would not know me, saith the Lord.
@@ -171242,55 +171242,55 @@ Note:
 ### Jeremiah 9:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Behold, I will refine them and test them, because what shall I do because of evil of the daughter of my people?
+- fresh: Therefore thus says the Lord: Behold, I will refine them and test them, because what shall I do before the evil of the daughter of my people?
 - brenton: Therefore thus saith the Lord, Behold, I will try them with fire, and prove them; for I will do thus because of the wickedness of the daughter of my people.
 
 ### Jeremiah 9:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Their tongue is wounding arrow; words of their mouth deceitful. To his neighbor he speaks peaceful things, but in himself he holds enmity.
+- fresh: Their tongue is a wounding arrow; words of their mouth are deceitful. To his neighbor he speaks peaceful things, but within himself he holds enmity.
 - brenton: Their tongue is a wounding arrow; the words of their mouth are deceitful: one speaks peaceably to his neighbour, but in himself retains enmity.
 
 ### Jeremiah 9:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Shall I not visit for these things? says the Lord. Shall not my soul avenge on such people?
+- fresh: Shall I not visit for these things? says the Lord. Shall not my soul take vengeance on such a people?
 - brenton: Shall I not visit for these things? saith the Lord: and shall not my soul be avenged on such a people as this?
 
 ### Jeremiah 9:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Take up mourning over mountains and lament over paths of the wilderness, because they failed so that there are no men, and they did not hear the sound of existence; from the birds of heaven even to cattle they were astonished and went away.
+- fresh: Take up mourning over the mountains and lament over the paths of the wilderness, because they failed so that there are no men, and they did not hear the sound of life; from the birds of heaven even to cattle, they were startled and went away.
 - brenton: Take up a lamentation for the mountains, and a mournful dirge for the paths of the wilderness, for they are desolate for want of men; they heard not the sound of life from the birds of the sky, nor the cattle: they were amazed, they are gone.
 
 ### Jeremiah 9:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will give Jerusalem into migration and dwelling-place of dragons, and the cities of Judah I will make to vanish, so as not to be inhabited.
+- fresh: And I will give Jerusalem into exile and a dwelling-place of dragons, and I will make the cities of Judah a desolation, so as not to be inhabited.
 - brenton: And I will remove the inhabitants of Jerusalem, and make it a dwelling-place of dragons; and I will utterly waste the cities of Juda, so that they shall not be inhabited.
 
 ### Jeremiah 9:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who is wise man and let him understand this, and to whom the word of mouth of the Lord came, let him declare to you: Why did land perish, burned like wilderness, so as not to be passed through?
+- fresh: Who is the wise man? Let him understand this. And to whom the word from the mouth of the Lord came, let him declare to you: Why did the land perish, burned like a wilderness, so as not to be passed through?
 - brenton: Who is the wise man, that he may understand this? and he that has the word of the mouth of the Lord addressed to him, let him tell you wherefore the land has been destroyed, has been ravaged by fire like a desert, so that no one passes through it.
 
 ### Jeremiah 9:12
@@ -171305,25 +171305,25 @@ Note:
 ### Jeremiah 9:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: but went after the pleasures of their evil heart and after idols which their fathers taught them,
+- fresh: but went after the things pleasing to their evil heart and after idols which their fathers taught them,
 - brenton: but went after the lusts of their evil heart, and after the idols which their fathers taught them to worship:
 
 ### Jeremiah 9:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: therefore thus says the Lord God of Israel: Behold, I will feed them with hardships and give them water of gall to drink.
+- fresh: Therefore thus says the Lord God of Israel: Behold, I will feed them with hardships and give them water of gall to drink.
 - brenton: therefore thus saith the Lord God of Israel, Behold, I will feed them with trouble and will cause them to drink water of gall:
 
 ### Jeremiah 9:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will scatter them among nations which neither they nor their fathers knew, and I will send sword after them until I consume them by it.
@@ -171332,71 +171332,71 @@ Note:
 ### Jeremiah 9:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord: Call mourning women and let them come, and send to wise women and let them speak,
+- fresh: Thus says the Lord: Call the mourning women and let them come, and send to the wise women and let them speak,
 - brenton: Thus saith the Lord, Call ye the mourning women, and let them come; and send to the wise women, and let them utter their voice;
 
 ### Jeremiah 9:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and let them take up lament over you, and let your eyes bring down tears and your eyelids run water.
+- fresh: and let them take up lament over you, and let your eyes bring down tears and your eyelids flow with water.
 - brenton: and let them take up a lamentation for you, and let your eyes pour down tears, and your eyelids drop water.
 
 ### Jeremiah 9:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the voice of pity was heard in Zion: How we were made miserable! We were greatly ashamed, because we abandoned land and threw away our tents.
+- fresh: Because the voice of lament was heard in Zion: How we were made miserable! We were greatly ashamed, because we abandoned the land and threw away our tents.
 - brenton: For a voice of lamentation has been heard in Sion, How are we become wretched! we are greatly ashamed, for we have forsaken the land, and have abandoned our tabernacles!
 
 ### Jeremiah 9:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear now, women, word of God, and let your ears receive words of his mouth. Teach your daughters lament and each woman her neighbor mourning.
+- fresh: Hear now, women, the word of God, and let your ears receive words from his mouth. Teach your daughters lament and each woman her neighbor mourning.
 - brenton: Hear now, ye women, the word of God, and let your ears receive the words of his mouth, and teach your daughters lamentation, and every woman her neighbour a dirge.
 
 ### Jeremiah 9:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because death came up through your windows, entered your land, to destroy infants outside and young men from broad places.
+- fresh: Because death came up through your windows, entered your land, to destroy infants outside and young men from the broad places.
 - brenton: For death has come up through your windows, it has entered into our land, to destroy the infants without, and the young men from the streets.
 
 ### Jeremiah 9:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the dead bodies of men will be an example upon the face of the field of your land, and like grass behind reaper, and none will gather.
+- fresh: And the dead bodies of men will be an example upon the face of the field of your land, and like grass behind the reaper, and none will gather.
 - brenton: And the carcases of the men shall be for an example on the face of the field of your land, like grass after the mower, and there shall be none to gather them.
 
 ### Jeremiah 9:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Let not wise man boast in his wisdom, and let not strong man boast in his strength, and let not rich man boast in his riches,
+- fresh: Thus says the Lord: Let not the wise man boast in his wisdom, and let not the strong man boast in his strength, and let not the rich man boast in his riches,
 - brenton: Thus saith the Lord, Let not the wise man boast in his wisdom, and let not the strong man boast in his strength, and let not the rich man boast in his wealth;
 
 ### Jeremiah 9:23
 
 - importance: high
 - decisions: 1
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
 - brenton: but let him that boasts boast in this, the understanding and knowing that I am the Lord that exercise mercy, and judgment, and righteousness, upon the earth; for in these things is my pleasure, saith the Lord.
@@ -171413,37 +171413,37 @@ Note:
 ### Jeremiah 9:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: upon Egypt and upon Judah and upon Edom and upon the sons of Ammon and upon the sons of Moab and upon all clipping what is before his face, those dwelling in the wilderness, because all nations uncircumcised in flesh and all house of Israel uncircumcised in their hearts.
+- fresh: upon Egypt and upon Judah and upon Edom and upon the sons of Ammon and upon the sons of Moab and upon all those who clip the hair around the face, those dwelling in the wilderness, because all nations are uncircumcised in flesh and all the house of Israel are uncircumcised in their hearts.
 - brenton: on Egypt, and on Idumea, and on Edom, and on the children of Ammon, and on the children of Moab, and on every one that shaves his face round about, even them that dwell in the wilderness; for all the Gentiles are uncircumcised in flesh, and all the house of Israel are uncircumcised in their hearts.
 
 ### Jeremiah 10:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear the word of the Lord which he spoke upon you, house of Israel.
+- fresh: Hear the word of the Lord which he spoke concerning you, house of Israel.
 - brenton: Hear ye the word of the Lord, which he has spoken to you, O house of Israel.
 
 ### Jeremiah 10:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord: Do not learn according to the ways of nations, and do not fear signs of heaven, because they fear them before their faces.
+- fresh: Thus says the Lord: Do not learn according to the ways of the nations, and do not fear the signs of heaven, because they fear them before their faces.
 - brenton: Thus saith the Lord, Learn ye not the ways of the heathen, and be not alarmed at the signs of the sky; for they are alarmed at them, falling on their faces.
 
 ### Jeremiah 10:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because the customs of nations are vain. It is tree cut out of the forest, work of carpenter and casting.
+- fresh: Because the customs of nations are vain. It is a tree cut out of the forest, work of a carpenter and a casting.
 - brenton: For the customs of the nations are vain; it is a tree cut out of the forest, the work of the carpenter, or a molten image.
 
 ### Jeremiah 10:4
@@ -171458,44 +171458,44 @@ Note:
 ### Jeremiah 10:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Being carried they will be carried, because they will not step. Do not fear them, because they surely will not do evil, and no good is in them.
+- fresh: Carried, they will be carried, because they will not step. Do not fear them, because they surely will not do evil, and there is no good in them.
 - brenton: they will set them up that they may not move; it is wrought silver, they will not walk,
 
 ### Jeremiah 10:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Beaten silver is there; they will not walk. Refined silver will come from Tarshish, gold from Uphaz, handwork of goldsmiths, works of craftsmen. They will clothe them in blue and purple.
+- fresh: There is beaten silver; they will not walk. Refined silver will come from Tarshish, gold from Uphaz, handwork of goldsmiths, works of craftsmen. They will clothe them in blue and purple.
 - brenton: it is forged silver brought from Tharsis, gold will come from Mophaz, and the work of goldsmiths: they are all the works of craftsmen, they will clothe themselves with blue and scarlet.
 
 ### Jeremiah 10:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus you will say to them: The gods who did not make heaven and earth, let them perish from earth and from under this heaven.
+- fresh: Thus you will say to them: The gods who did not make heaven and earth, let them perish from the earth and from under this heaven.
 - brenton: Thus shall ye say to them, Let the gods which have not made heaven and earth perish from off the earth, and from under this sky.
 
 ### Jeremiah 10:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The Lord, one making earth by his strength, one setting upright inhabited world by his wisdom, by his understanding stretched out heaven.
+- fresh: The Lord is the one making the earth by his strength, the one setting upright the inhabited world by his wisdom, and by his understanding stretched out heaven.
 - brenton: It is the Lord that made the earth by his strength, who set up the world by his wisdom, and by his understanding stretched out the sky,
 
 ### Jeremiah 10:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And there is abundance of water in heaven, and he brought up clouds from the end of the earth, made lightning for rain, and brought out light from his treasuries.
 - brenton: and set abundance of waters in the sky, and brought up clouds from the ends of the earth; he made lightnings for the rain, and brought forth light out of his treasures.
@@ -171503,163 +171503,163 @@ Note:
 ### Jeremiah 10:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Every man was made foolish from knowledge. Every goldsmith was ashamed over his carved things, because what they cast were lies; no breath in them.
+- fresh: Every man was made foolish apart from knowledge. Every goldsmith was ashamed over his carved things, because they cast lies; there is no breath in them.
 - brenton: Every man is deprived of knowledge, every goldsmith is confounded because of his graven images; for he has cast false gods, there is no breath in them.
 
 ### Jeremiah 10:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They are vanities, mocked works. In the time of their visitation they will perish.
+- fresh: They are vanities, works made a mockery. In the time of their visitation they will perish.
 - brenton: They are vain works, wrought in mockery; in the time of their visitation they shall perish.
 
 ### Jeremiah 10:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Not like these is the portion of Jacob, because one shaping all things is his inheritance. The Lord is his name.
+- fresh: Not like these is the portion of Jacob, because the one shaping all things, he is his inheritance. The Lord is his name.
 - brenton: Such is not the portion of Jacob; for he that formed all things, he is his inheritance; the Lord is his name.
 
 ### Jeremiah 10:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Gather from outside your substance, you dwelling among chosen things.
+- fresh: Gather your substance from outside, you dwelling among chosen places.
 - brenton: He has gathered thy substance from without that lodged in choice vessels.
 
 ### Jeremiah 10:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord: Behold, I sling out inhabitants of this land in affliction, so that your wound may be found.
+- fresh: Because thus says the Lord: Behold, I sling out the inhabitants of this land in affliction, so that your wound may be found.
 - brenton: For thus saith the Lord, Behold, I will overthrow the inhabitants of this land with affliction, that thy plague may be discovered.
 
 ### Jeremiah 10:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe over your crushing; your wound painful. And I said, Truly this my blow, and it seized me.
+- fresh: Woe over your crushing; your wound is painful. And I said, Truly this is my blow, and it seized me.
 - brenton: Alas for thy ruin! thy plague is grievous: and I said, Surely this is thy wound, and it has overtaken thee.
 
 ### Jeremiah 10:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: My tent was made miserable, perished, and all my skins were torn apart. My sons and my sheep are not. There is no more place of my tent, place of my skins.
+- fresh: My tent was made miserable and perished, and all my skins were torn apart. My sons and my sheep are not. There is no longer a place for my tent, a place for my skins.
 - brenton: Thy tabernacle is in a ruinous state, it has perished; and all thy curtains have been torn asunder: my children and my cattle are no more: there is no more any place for my tabernacle, nor place for my curtains.
 
 ### Jeremiah 10:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because shepherds acted foolishly and did not seek the Lord. Therefore all pasture did not understand, and they were scattered.
+- fresh: Because the shepherds acted foolishly and did not seek the Lord. Therefore the whole pasture did not understand, and they were scattered.
 - brenton: For the shepherds have become foolish, and have not sought the Lord; therefore the whole pasture has failed, and the sheep have been scattered.
 
 ### Jeremiah 10:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The voice of report, behold, comes, and great shaking from the land of the north, to make the cities of Judah vanish and lodging-place of sparrows.
+- fresh: The voice of report, behold, comes, and great shaking from the land of the north, to make the cities of Judah a desolation and a lodging-place of sparrows.
 - brenton: Behold, there comes a sound of a noise, and a great earthquake from the land of the north, to make the cities of Juda a desolation, and a resting-place for ostriches.
 
 ### Jeremiah 10:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I know, Lord, that way of man not his own, nor will man walk and direct his path.
+- fresh: I know, Lord, that the way of man is not his own, nor will a man walk and direct his path.
 - brenton: I know, O Lord, that man's way is not his own; neither shall a man go, and direct his going.
 
 ### Jeremiah 10:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Discipline us, Lord, yet in judgment and not in wrath, lest you make us few.
+- fresh: Discipline us, Lord, but in judgment and not in wrath, lest you make us few.
 - brenton: Chasten us, O Lord, but with judgment; and not in wrath, lest thou make us few.
 
 ### Jeremiah 10:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Pour out your wrath on nations not knowing you and on families who did not call your name, because they devoured Jacob and consumed him and made his pasture desolate.
+- fresh: Pour out your wrath on the nations not knowing you and on families who did not call upon your name, because they devoured Jacob and consumed him and made his pasture desolate.
 - brenton: Pour out thy wrath upon the nations that have not known thee, and upon the families that have not called upon thy name: for they have devoured Jacob, and consumed him, and have made his pasture desolate.
 
 ### Jeremiah 11:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Word that came from the Lord to Jeremiah, saying,
+- fresh: The word that came from the Lord to Jeremiah, saying,
 - brenton: The word that came to Jeremias from the Lord, saying,
 
 ### Jeremiah 11:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Hear words of this covenant and speak to the men of Judah and the inhabitants of Jerusalem,
+- fresh: Hear the words of this covenant and speak to the men of Judah and to the inhabitants of Jerusalem,
 - brenton: Hear ye the words of this covenant, and thou shalt speak to the men of Juda, and to the dwellers in Jerusalem;
 
 ### Jeremiah 11:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and you will say to them, Thus says the Lord God of Israel: Cursed man who will not hear words of this covenant,
+- fresh: and you will say to them, Thus says the Lord God of Israel: Cursed is the man who will not hear the words of this covenant,
 - brenton: and thou shalt say to them, Thus saith the Lord God of Israel, Cursed is the man, who shall not hearken to the words of this covenant,
 
 ### Jeremiah 11:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: which I commanded your fathers on the day I brought them up from the land of Egypt, from iron furnace, saying, Hear my voice and do all whatever I command you, and you will be my people and I will be your God,
+- fresh: which I commanded your fathers on the day I brought them up from the land of Egypt, from an iron furnace, saying, Hear my voice and do all whatever I command you, and you will be my people and I will be your God,
 - brenton: which I commanded your fathers, in the day wherein I brought them up out of the land of Egypt, out of the iron furnace, saying, Hearken to my voice, and do all things that I shall command you; so shall ye be to me a people, and I will be to you a God;
 
 ### Jeremiah 11:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: so that I may establish my oath which I swore to your fathers, to give them land flowing with milk and honey, as this day. And I answered and said, So be it, Lord.
+- fresh: so that I may establish my oath which I swore to your fathers, to give them a land flowing with milk and honey, as it is this day. And I answered and said, So be it, Lord.
 - brenton: that I may confirm mine oath, which I sware to your fathers, to give them a land flowing with milk and honey, as it is this day. Then I answered and said, So be it, O Lord.
 
 ### Jeremiah 11:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me, Read these words in the cities of Judah and outside Jerusalem, saying, Hear words of this covenant and do them.
+- fresh: And the Lord said to me, Read these words in the cities of Judah and outside Jerusalem, saying, Hear the words of this covenant and do them.
 - brenton: And the Lord said to me, Read these words in the cities of Juda, and in the streets of Jerusalem, saying, Hear ye the words of this covenant, and do them.
 
 ### Jeremiah 11:8
@@ -171674,19 +171674,19 @@ Note:
 ### Jeremiah 11:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the Lord said to me, A conspiracy was found among men of Judah and among the inhabitants of Jerusalem.
+- fresh: And the Lord said to me, A conspiracy was found among the men of Judah and among the inhabitants of Jerusalem.
 - brenton: And the Lord said to me, A conspiracy is found among the men of Juda, and among the dwellers in Jerusalem.
 
 ### Jeremiah 11:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: They turned back to injustices of their former fathers, who did not want to hear my words, and behold, they walk after foreign gods to serve them. The house of Israel and the house of Judah broke my covenant which I made with their fathers.
+- fresh: They turned back to the injustices of their former fathers, who did not want to hear my words, and behold, they walk after foreign gods to serve them. The house of Israel and the house of Judah broke my covenant which I made with their fathers.
 - brenton: They are turned aside to the iniquities of their fathers that were of old, who would not hearken to my words: and, behold, they go after strange gods, to serve them: and the house of Israel and the house of Juda have broken my covenant, which I made with their fathers.
 
 ### Jeremiah 11:11
@@ -171701,10 +171701,10 @@ Note:
 ### Jeremiah 11:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the cities of Judah and the inhabitants of Jerusalem will go and cry to gods to whom they burn incense; they surely will not save them in the time of their evils.
+- fresh: And the cities of Judah and the inhabitants of Jerusalem will go and cry to the gods to whom they burn incense; they surely will not save them in the time of their evils.
 - brenton: And the cities of Juda and the dwellers in Jerusalem shall go, and cry to the gods to whom they burn incense; which shall not deliver them in the time of their troubles.
 
 ### Jeremiah 11:13
@@ -171719,37 +171719,37 @@ Note:
 ### Jeremiah 11:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you, do not pray concerning this people and do not ask concerning them in supplication and prayer, because I will not hear when they call on me in the time of their affliction.
+- fresh: And you, do not pray concerning this people and do not ask concerning them in supplication and prayer, because I will not hear when they call upon me in the time of their affliction.
 - brenton: And thou, pray not for this people, and intercede not for them in supplication and prayer: for I will not hear in the day in which they call upon me, in the day of their affliction.
 
 ### Jeremiah 11:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: What did my beloved do in my house? She did abomination. Will vows and holy flesh remove your evils from you, or by these will you escape?
+- fresh: Why has my beloved done abomination in my house? Will vows and holy flesh remove your evils from you, or will you escape by these?
 - brenton: Why has my beloved wrought abomination in my house? will prayers and holy offerings take away thy wickedness from thee, or shalt thou escape by these things?
 
 ### Jeremiah 11:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The Lord called your name Beautiful olive tree, fair in appearance. At the sound of its pruning fire was kindled on it. Great affliction came on you; its branches were made useless.
+- fresh: A beautiful olive tree, fair in appearance, the Lord called your name. At the sound of its pruning, fire was kindled on it. Great affliction came on you; its branches were made useless.
 - brenton: The Lord called thy name a fair olive tree, of a goodly shade in appearance, at the noise of its being lopped, fire was kindled against it; great is the affliction coming upon thee: her branches are become good for nothing.
 
 ### Jeremiah 11:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord who planted you spoke evils against you because of evil of the house of Israel and the house of Judah, because they did for themselves things to provoke me by their burning incense to Baal.
+- fresh: And the Lord who planted you spoke evils against you because of the evil of the house of Israel and the house of Judah, because they did for themselves things to provoke me by their burning incense to Baal.
 - brenton: And the Lord that planted thee has pronounced evils against thee, because of the iniquity of the house of Israel and the house of Juda, whatsoever they have done against themselves to provoke me to anger by burning incense to Baal.
 
 ### Jeremiah 11:18
@@ -171764,17 +171764,17 @@ Note:
 ### Jeremiah 11:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I was like innocent lamb led to be sacrificed. I did not know they reasoned evil thought against me, saying, Come and let us cast wood into his bread and wipe him out from the land of living, and his name shall no longer be remembered.
+- fresh: And I was like an innocent lamb led to be sacrificed. I did not know they reasoned an evil thought against me, saying, Come and let us cast wood into his bread and wipe him out from the land of the living, and his name shall no longer be remembered.
 - brenton: But I as an innocent lamb led to the slaughter, knew not: against me they devised an evil device, saying, Come and let us put wood into his bread, and let us utterly destroy him from off the land of the living, and let his name not be remembered any more.
 
 ### Jeremiah 11:20
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Lord, judging righteous things, testing kidneys and heart, let me see your vengeance from them, because to you I revealed my case.
 - brenton: O Lord, that judgest righteously, trying the reins and hearts, let me see thy vengeance taken upon them, for to thee I have declared my cause.
@@ -171782,10 +171782,10 @@ Note:
 ### Jeremiah 11:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore thus says the Lord against men of Anathoth seeking my life, saying, You shall not prophesy in the name of the Lord, and if not, you will die in our hands.
+- fresh: Therefore thus says the Lord against the men of Anathoth who seek my life, saying, You shall not prophesy in the name of the Lord, or else you will die in our hands.
 - brenton: Therefore thus saith the Lord concerning the men of Anathoth, that seek my life, that say, Thou shalt not prophesy at all in the name of the Lord, but if thou dost, thou shalt die by our hands:
 
 ### Jeremiah 11:22
@@ -171794,61 +171794,61 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I will visit upon them. Their young men will die by sword, and their sons and daughters will die by famine.
+- fresh: Behold, I will visit upon them. Their young men will die by the sword, and their sons and daughters will die by famine.
 - brenton: behold, I will visit them: their young men shall die by the sword; and their sons and their daughters shall die of famine:
 
 ### Jeremiah 11:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the remnant of them will not exist, because I will bring evils upon the inhabitants of Anathoth in the year of their visitation.
+- fresh: And no remnant of them will exist, because I will bring evils upon the inhabitants of Anathoth in the year of their visitation.
 - brenton: and there shall be no remnant left of them; for I will bring evil upon the dwellers in Anathoth, in the year of their visitation.
 
 ### Jeremiah 12:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You are righteous, Lord, because I will speak in defense to you; yet I will speak judgments to you: Why does the way of the ungodly prosper? All who deal faithlessly in the acts of faithlessness flourished.
+- fresh: You are righteous, Lord, because I will make my defense to you; yet I will speak judgments to you: Why does the way of the ungodly prosper? All who act faithlessly with faithless acts flourished.
 - brenton: Righteous art thou, O Lord, that I may make my defence to thee, yea, I will speak to thee of judgments. Why is it that the way of ungodly men prospers? that all that deal very treacherously are flourishing?
 
 ### Jeremiah 12:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You planted them and they took root. They bore children and made fruit. Near are you in their mouth and far from their kidneys.
+- fresh: You planted them and they took root. They bore children and made fruit. You are near in their mouth and far from their kidneys.
 - brenton: Thou hast planted them, and they have taken root; they have begotten children, and become fruitful; thou art near to their mouth, and far from their reins.
 
 ### Jeremiah 12:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you, Lord, know me. You tested my heart before you. Purify them for the day of their slaughter.
+- fresh: And you, Lord, know me. You tested my heart before you. Set them apart for the day of their slaughter.
 - brenton: But thou, Lord, knowest me; thou hast proved my heart before thee; purify them for the day of their slaughter.
 
 ### Jeremiah 12:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: How long will land mourn and every grass of field dry up? Because of evil of those dwelling in it, cattle and birds vanished, because they said, God will not see our ways.
+- fresh: How long will the land mourn and every grass of the field dry up? Because of the evil of those dwelling in it, cattle and birds vanished, because they said, God will not see our ways.
 - brenton: How long shall the land mourn, and the grass of the field wither, for the wickedness of them that dwell in it? the beasts and birds are utterly destroyed; because the people said, God shall not see our ways.
 
 ### Jeremiah 12:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Your feet run and wear you out; how will you prepare to mount horses? And in the land of peace you trusted; how will you do in thicket of Jordan?
+- fresh: Your feet run and wear you out; how will you prepare to mount horses? And in the land of peace you trusted; how will you do in the thicket of the Jordan?
 - brenton: Thy feet run, and they cause thee to faint; how wilt thou prepare to ride upon horses? and thou hast been confident in the land of thy peace? how wilt thou do in the roaring of Jordan?
 
 ### Jeremiah 12:6
@@ -171857,16 +171857,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because even your brothers and house of your father, they also dealt faithlessly with you, and they cried out after you from behind. Do not believe them when they speak good things to you.
+- fresh: Because even your brothers and the house of your father, they also dealt faithlessly with you, and they cried out after you from behind. Do not believe them when they speak good things to you.
 - brenton: For even thy brethren and the house of thy father, even these have dealt treacherously with thee; and they have cried out, they are gathered together in pursuit of thee; trust not thou in them, though they shall speak fair words to thee.
 
 ### Jeremiah 12:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I have abandoned my house, left my inheritance, given beloved of my soul into the hands of her enemies.
+- fresh: I have abandoned my house, left my inheritance, given the beloved of my soul into the hands of her enemies.
 - brenton: I have forsaken mine house, I have left mine heritage; I have given my beloved one into the hands of her enemies.
 
 ### Jeremiah 12:8
@@ -171881,19 +171881,19 @@ Note:
 ### Jeremiah 12:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Is my inheritance cave of hyena to me, a cave around her? Go, gather all the beasts of the field, and let them come to devour her.
+- fresh: Is my inheritance a hyena's cave to me, a cave around her? Go, gather all the beasts of the field, and let them come to devour her.
 - brenton: Is not my inheritance to me a hyæna's cave, or a cave round about her? Go ye, gather together all the wild beasts of the field, and let them come to devour her.
 
 ### Jeremiah 12:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Many shepherds ruined my vineyard, defiled my portion, gave my desirable portion into pathless desert.
+- fresh: Many shepherds ruined my vineyard, defiled my portion, gave my desirable portion into a pathless desert.
 - brenton: Many shepherds have destroyed my vineyard, they have defiled my portion, they have made my desirable portion a trackless wilderness;
 
 ### Jeremiah 12:11
@@ -171908,10 +171908,10 @@ Note:
 ### Jeremiah 12:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Over every opening in the wilderness came destroyers, because sword of the Lord will devour from one end of the earth to other end; there is no peace for any flesh.
+- fresh: Over every opening in the wilderness came destroyers, because the sword of the Lord will devour from one end of the earth to the other end; there is no peace for any flesh.
 - brenton: The ravagers are come to every passage in the wilderness: for the sword of the Lord will devour from one end of the land to the other: no flesh has any peace.
 
 ### Jeremiah 12:13
@@ -171944,10 +171944,10 @@ Note:
 ### Jeremiah 12:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be if in learning they learn way of my people, to swear by my name, As the Lord lives, just as they taught my people to swear by Baal, then they will be built in the midst of my people.
+- fresh: And it will be if in learning they learn the way of my people, to swear by my name, As the Lord lives, just as they taught my people to swear by Baal, then they will be built in the midst of my people.
 - brenton: And it shall be, if they will indeed learn the way of my people, to swear by my name, saying, The Lord lives; as they taught my people to swear by Baal; then shall that nation be built in the midst of my people.
 
 ### Jeremiah 12:17
@@ -171962,19 +171962,19 @@ Note:
 ### Jeremiah 13:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord: Go and buy for yourself linen belt and put it around your waist, and it will not pass through water.
+- fresh: Thus says the Lord: Go and buy for yourself a linen belt and put it around your waist, and it shall not pass through water.
 - brenton: Thus saith the Lord, Go and procure for thyself a linen girdle, and put it about thy loins, and let it not be put in water.
 
 ### Jeremiah 13:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I bought belt according to the word of the Lord and put it around my waist.
+- fresh: And I bought the belt according to the word of the Lord and put it around my waist.
 - brenton: So I procured the girdle according to the word of the Lord, and put it about my loins.
 
 ### Jeremiah 13:3
@@ -171989,10 +171989,10 @@ Note:
 ### Jeremiah 13:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Take belt around your waist and rise and go to Euphrates and hide it there in hole of rock.
+- fresh: Take the belt around your waist and rise and go to the Euphrates and hide it there in the hole of the rock.
 - brenton: Take the girdle that is upon thy loins, and arise, and go to the Euphrates, and hide it there in a hole of the rock.
 
 ### Jeremiah 13:5
@@ -172001,7 +172001,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I went and hid it by Euphrates, just as the Lord commanded me.
+- fresh: And I went and hid it by the Euphrates, just as the Lord commanded me.
 - brenton: So I went, and hid it by the Euphrates, as the Lord commanded me.
 
 ### Jeremiah 13:6
@@ -172010,16 +172010,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened after many days, and the Lord said to me, Rise, go to Euphrates and take from there belt which I commanded you to hide there.
+- fresh: And it happened after many days, and the Lord said to me, Rise, go to the Euphrates and take from there the belt which I commanded you to hide there.
 - brenton: And it came to pass after many days, that the Lord said to me, Arise, go to the Euphrates, and take thence the girdle, which I commanded thee to hide there.
 
 ### Jeremiah 13:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I went to Euphrates river and dug and took belt from place where I buried it there, and behold, it was ruined, fit for nothing.
+- fresh: And I went to the Euphrates River and dug and took the belt from the place where I buried it there, and behold, it was ruined, fit for nothing.
 - brenton: So I went to the river Euphrates, and dug, and took the girdle out of the place where I had buried it: and, behold, it was rotten, utterly good for nothing.
 
 ### Jeremiah 13:8
@@ -172034,10 +172034,10 @@ Note:
 ### Jeremiah 13:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: So I ruin pride of Judah and pride of Jerusalem,
+- fresh: Thus says the Lord: So I ruin the pride of Judah and the pride of Jerusalem,
 - brenton: Thus will I mar the pride of Juda, and the pride of Jerusalem;
 
 ### Jeremiah 13:10
@@ -172052,37 +172052,37 @@ Note:
 ### Jeremiah 13:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because just as belt clings to waist of man, so I made the whole house of Israel and the whole house of Judah cling to me, to become to me notable people and praise and glory, and they did not hear me.
+- fresh: Because just as the belt clings to the waist of a man, so I made the whole house of Israel and the whole house of Judah cling to me, to become to me a notable people and praise and glory, and they did not hear me.
 - brenton: For as a girdle cleaves about the loins of a man, so have I caused to cleave to myself the house of Israel, and the whole house of Juda; that they might be to me a famous people, and a praise, and a glory: but they did not hearken to me.
 
 ### Jeremiah 13:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will say to this people, Every wineskin will be filled with wine. And it will be if they say to you, Not knowing shall we not know that every wineskin will be filled with wine?
+- fresh: And you will say to this people, Every wineskin will be filled with wine. And it will be if they say to you, Do we not know that every wineskin will be filled with wine?
 - brenton: And thou shalt say to this people, Every bottle shall be filled with wine: and it shall come to pass, if they shall say to thee, Shall we not certainly know that every bottle shall be filled with wine? that thou shalt say to them,
 
 ### Jeremiah 13:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will say to them, Thus says the Lord: Behold, I fill inhabitants of this land and their kings seated, sons of David, upon his throne, and priests and prophets and all Judah and all the inhabitants of Jerusalem, with drunkenness.
+- fresh: And you will say to them, Thus says the Lord: Behold, I fill the inhabitants of this land and their kings, the sons of David seated upon his throne, and the priests and the prophets and Judah and all the inhabitants of Jerusalem with drunkenness.
 - brenton: Thus saith the Lord, Behold, I will fill the inhabitants of this land, and their kings the sons of David that sit upon their throne, and the priests, and the prophets, and Juda and all the dwellers in Jerusalem, with strong drink.
 
 ### Jeremiah 13:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will scatter them, man and his brother and their fathers and their sons together. I will not pity, says the Lord, and I will not spare and I will not show mercy from their destruction.
+- fresh: And I will scatter them, a man and his brother and their fathers and their sons together. I will not pity, says the Lord, and I will not spare and I will not show mercy from their destruction.
 - brenton: And I will scatter them a man and his brother, and their fathers and their sons together: I will not have compassion, saith the Lord, and I will not spare, neither will I pity to save them from destruction.
 
 ### Jeremiah 13:15
@@ -172097,91 +172097,91 @@ Note:
 ### Jeremiah 13:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Give to the Lord your God glory before he brings darkness, and before your feet stumble on dark mountains, and you wait for light and there the shadow of death and they be set into darkness.
+- fresh: Give glory to the Lord your God before he brings darkness, and before your feet stumble on dark mountains, and you wait for light and there is the shadow of death, and they will be set into darkness.
 - brenton: Give glory to the Lord your God, before he cause darkness, and before your feet stumble on the dark mountains, and ye shall wait for light, and behold the shadow of death, and they shall be brought into darkness.
 
 ### Jeremiah 13:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And if you do not hear, your soul will weep secretly because of pride, and your eyes will bring down tears because flock of the Lord was crushed.
+- fresh: And if you do not hear, your soul will weep secretly because of pride, and your eyes will bring down tears because the flock of the Lord was crushed.
 - brenton: But if ye will not hearken, your soul shall weep in secret because of pride, and your eyes shall pour down tears, because the Lord's flock is sorely bruised.
 
 ### Jeremiah 13:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Say to the king and to rulers, Be humbled and sit down, because from your head fell crown of your glory.
+- fresh: Say to the king and to the rulers, Be humbled and sit down, because the crown of your glory fell from your head.
 - brenton: Say ye to the king and the princes, Humble yourselves, and sit down; for your crown of glory is removed from your head.
 
 ### Jeremiah 13:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Cities toward south were shut, and there was no one opening. Judah was carried away, a complete exile.
+- fresh: The cities toward the south were shut, and there was no one opening. Judah was carried away, a complete exile.
 - brenton: The cities toward the south were shut, and there was none to open them: Juda is removed into captivity, they have suffered a complete removal.
 
 ### Jeremiah 13:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Lift up your eyes, Jerusalem, and see those coming from north. Where is flock given to you, sheep of your glory?
+- fresh: Lift up your eyes, Jerusalem, and see those coming from the north. Where is the flock given to you, the sheep of your glory?
 - brenton: Lift up thine eyes, O Jerusalem, and behold them that come from the north; where is the flock that was given thee, the sheep of thy glory?
 
 ### Jeremiah 13:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: What will you say when they visit you, and you taught them lessons against yourself for rule? Will not birth-pangs seize you like a woman giving birth?
+- fresh: What will you say when they visit you, and you taught them lessons against yourself for rule? Will birth-pangs not seize you like a woman giving birth?
 - brenton: What wilt thou say when they shall visit thee, for thou didst teach them lessons for rule against thyself; shall not pangs seize thee as a woman in travail?
 
 ### Jeremiah 13:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And if you say in your heart, Why did these things meet me? Because of the multitude of your injustice your hind parts were uncovered, your heels exposed as example.
+- fresh: And if you say in your heart, Why did these things meet me? Because of the multitude of your injustice your hind parts were uncovered, your heels exposed as an example.
 - brenton: And if thou shouldest say in thine heart, Wherefore have these things happened to me? Because of the abundance of thine iniquity have thy skirts been discovered, that thine heels might be exposed.
 
 ### Jeremiah 13:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: If Ethiopian will change his skin and leopard her spots, then you also will be able to do good, being taught evil things.
+- fresh: If an Ethiopian can change his skin and a leopard her spots, then you also will be able to do good, having learned evil things.
 - brenton: If the Ethiopian shall change his skin, or the leopardess her spots, then shall ye be able to do good, having learnt evil.
 
 ### Jeremiah 13:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I scattered them like brushwood carried by wind into the wilderness.
+- fresh: And I scattered them like brushwood carried by the wind into the wilderness.
 - brenton: So I scattered them as sticks carried by the wind into the wilderness.
 
 ### Jeremiah 13:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: This your lot and portion of your disobeying me, says the Lord, because you forgot me and hoped in lies.
+- fresh: This is your lot and the portion of your disobeying me, says the Lord, because you forgot me and hoped in lies.
 - brenton: Thus is thy lot, and the reward of your disobedience to me, saith the Lord; as thou didst forget me, and trust in lies,
 
 ### Jeremiah 13:26
@@ -172190,52 +172190,52 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I also will uncover your back parts upon your face, and your dishonor will be seen.
+- fresh: And I also will uncover your back parts over your face, and your dishonor will be seen.
 - brenton: I also will expose thy skirts upon thy face, and thy shame shall be seen;
 
 ### Jeremiah 13:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Your adultery and your neighing and alienation of your prostitution on hills and in fields—I saw your abominations. Woe to you, Jerusalem, because you were not cleansed after me. How long yet?
+- fresh: Your adultery and your neighing and alienation of your prostitution on the hills and in the fields--I saw your abominations. Woe to you, Jerusalem, because you were not cleansed after me. How much longer?
 - brenton: thine adultery also, and thy neighing, and the looseness of thy fornication: on the hills and in the fields I have seen thine abominations. Woe to thee, O Jerusalem, for thou hast not been purified so as to follow me; how long yet shall it be?
 
 ### Jeremiah 14:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the word of the Lord came to Jeremiah concerning drought.
+- fresh: And the word of the Lord came to Jeremiah concerning the drought.
 - brenton: And the Word of the Lord came to Jeremias concerning the Drought.
 
 ### Jeremiah 14:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Judah mourned, and her gates were emptied and darkened upon earth, and cry of Jerusalem went up.
+- fresh: Judah mourned, and her gates were emptied and darkened upon the earth, and the cry of Jerusalem went up.
 - brenton: Judea has mourned, and her gates are emptied, and are darkened upon the earth; and the cry of Jerusalem is gone up.
 
 ### Jeremiah 14:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And her nobles sent their younger ones for water. They came to wells and found no water and returned their vessels empty.
+- fresh: And her nobles sent their younger ones for water. They came to the wells and found no water and returned their vessels empty.
 - brenton: And her nobles have sent their little ones to the water: they came to the wells, and found no water: and brought back their vessels empty.
 
 ### Jeremiah 14:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And works of earth failed because there was no rain. Farmers were ashamed; they covered their heads.
+- fresh: And the works of the earth failed because there was no rain. Farmers were ashamed; they covered their heads.
 - brenton: And the labours of the land failed, because there was no rain: the husbandmen were ashamed, they covered their heads.
 
 ### Jeremiah 14:5
@@ -172244,52 +172244,52 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And does in the field gave birth and abandoned because there was no grass.
+- fresh: And does in the field gave birth and abandoned them because there was no grass.
 - brenton: And hinds calved in the field, and forsook it, because there was no grass.
 
 ### Jeremiah 14:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Wild donkeys stood on hilltops and drew in wind. Their eyes failed because there was no grass because of injustice of the people.
+- fresh: Wild donkeys stood on hilltops and drew in wind. Their eyes failed because there was no grass because of the injustice of the people.
 - brenton: The wild asses stood by the forests, and snuffed up the wind; their eyes failed, because there was no grass.
 
 ### Jeremiah 14:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If our sins stood against us, Lord, do for us for your sake, because many our sins before you, because against you we sinned.
+- fresh: If our sins stood against us, Lord, do for us for your sake, because many are our sins before you, because against you we sinned.
 - brenton: Our sins have risen up against us: O Lord, do thou for us for thine own sake; for our sins are many before thee; for we have sinned against thee.
 
 ### Jeremiah 14:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Hope of Israel, Lord, and saving in the time of evils, why did you become like resident alien upon the land and like native one turning aside into lodging?
+- fresh: Hope of Israel, Lord, you save in the time of evils; why did you become like a resident alien upon the land and like a native one turning aside into lodging?
 - brenton: O Lord, thou art the hope of Israel, and deliverest us in time of troubles; why art thou become as a sojourner upon the land, or as one born in the land, yet turning aside for a resting-place?
 
 ### Jeremiah 14:9
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not be like a sleeping man or like a man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
+- fresh: Do not be like a sleeping man or like a man unable to save. And you are among us, Lord, and your name is called upon us; do not forget us.
 - brenton: Wilt thou be as a man asleep, or as a strong man that cannot save? yet thou art among us, O Lord, and thy name is called upon us; forget us not.
 
 ### Jeremiah 14:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord to this people: They loved moving their feet and did not spare, and God took no pleasure in them. Now he will remember their injustices.
+- fresh: Thus says the Lord to this people: They loved to move their feet and did not spare, and God took no pleasure in them. Now he will remember their injustices.
 - brenton: Thus saith the Lord to this people, They have loved to wander, and they have not spared, therefore God has not prospered them; now will he remember their iniquity.
 
 ### Jeremiah 14:11
@@ -172304,64 +172304,64 @@ Note:
 ### Jeremiah 14:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because if they fast, I will not hear their supplication, and if they offer whole burnt offerings and sacrifices, I will not take pleasure in them, because by sword and by famine and by death I will consume them.
+- fresh: Because if they fast, I will not hear their supplication, and if they offer whole burnt offerings and sacrifices, I will not take pleasure in them, because by the sword and by famine and by death I will consume them.
 - brenton: for though they fast, I will not hear their supplication; and though they offer whole-burnt-offerings and sacrifices, I will take no pleasure in them: for I will consume them with sword, and with famine, and with pestilence.
 
 ### Jeremiah 14:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I said, O Lord, behold, their prophets prophesy and say, You will not see sword nor will there be famine among you, because I will give truth and peace on earth and in this place.
+- fresh: And I said, O Lord, behold, their prophets prophesy and say, You will not see the sword nor will there be famine among you, because I will give truth and peace on the land and in this place.
 - brenton: And I said, O ever living Lord! behold, their prophets prophesy, and say, Ye shall not see a sword, nor shall famine be among you; for I will give truth and peace on the land, and in this place.
 
 ### Jeremiah 14:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the Lord said to me, Lies are what prophets prophesy in my name. I did not send them and did not command them and did not speak to them. False visions and divinations and omens and choices of their own hearts they prophesy to you.
+- fresh: And the Lord said to me, The prophets prophesy lies in my name. I did not send them and did not command them and did not speak to them. False visions and divinations and omens and choices of their own hearts they prophesy to you.
 - brenton: Then the Lord said to me, The prophets prophesy lies in my name: I sent them not, and I commanded them not, and I spoke not to them: for they prophesy to you false visions, and divinations, and auguries, and devices of their own heart.
 
 ### Jeremiah 14:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord concerning prophets prophesying lies in my name whom I did not send, those saying, Sword and famine will not be on this land: By diseased death they will die and by famine prophets will be finished.
+- fresh: Therefore thus says the Lord concerning the prophets prophesying lies in my name whom I did not send, those saying, The sword and famine will not be on this land: By diseased death they will die and by famine the prophets will be finished.
 - brenton: Therefore thus saith the Lord concerning the prophets that prophesy lies in my name, and I sent them not, who say, Sword and famine shall not be upon this land; they shall die by a grievous death, and the prophets shall be consumed by famine.
 
 ### Jeremiah 14:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the people to whom they prophesy will lie thrown in the streets of Jerusalem from the face of the sword and famine, and there will be none burying them and their wives and their sons and their daughters, and I will pour out on them their evils.
+- fresh: And the people to whom they prophesy will lie thrown in the streets of Jerusalem from the face of the sword and the famine, and there will be no one burying them and their wives and their sons and their daughters, and I will pour out on them their evils.
 - brenton: And the people to whom they prophesy, they also shall be cast out in the streets of Jerusalem, because of the sword and famine; and there shall be none to bury them: their wives also, and their sons, and their daughters shall die thus; and I will pour out their wickedness upon them.
 
 ### Jeremiah 14:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will say to them this word: Let your eyes bring down tears day and night and let them not cease, because the daughter of my people was crushed with crushing, very grievous wound.
+- fresh: And you will say to them this word: Let your eyes bring down tears day and night and let them not cease, because the daughter of my people was crushed with crushing, a very grievous wound.
 - brenton: And thou shalt speak this word to them; Let your eyes shed tears day and night, and let them not cease: for the daughter of my people has been sorely bruised, and her plague is very grievous.
 
 ### Jeremiah 14:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: If I go out into field, behold, wounded of sword, and if I enter city, behold, pain of famine, because priest and prophet went into the land which they did not know.
+- fresh: If I go out into the field, behold, wounded by the sword, and if I enter the city, behold, pain from famine, because priest and prophet went into the land which they did not know.
 - brenton: If I go forth into the plain, then behold the slain by the sword! and if I enter into the city, then behold the distress of famine! for priest and prophet have gone to a land which they knew not.
 
 ### Jeremiah 14:19
@@ -172376,64 +172376,64 @@ Note:
 ### Jeremiah 14:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: We knew, Lord, our sins and injustices of our fathers, because we sinned against you.
+- fresh: We know, Lord, our sins and the injustices of our fathers, because we sinned against you.
 - brenton: We know, O Lord, our sins, and the iniquities of our fathers: for we have sinned before thee.
 
 ### Jeremiah 14:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Stop for your name's sake; do not destroy throne of your glory. Remember; do not break your covenant with us.
+- fresh: Cease for your name's sake; do not destroy the throne of your glory. Remember; do not break your covenant with us.
 - brenton: Refrain for thy name's sake, destroy not the throne of thy glory: remember, break not thy covenant with us.
 
 ### Jeremiah 14:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Is there among idols of nations one raining? Or will heaven give its fullness? Are not you yourself? And we will wait for you, because you made all these things.
+- fresh: Is there among the idols of the nations one who gives rain? Or will heaven give its fullness? Are you not he? And we will wait for you, because you made all these things.
 - brenton: Is there any one among the idols of the Gentiles that can give rain? and will the sky yield his fulness at their bidding? Art not thou he? we will even wait on thee, O Lord: for thou hast made all these things.
 
 ### Jeremiah 15:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the Lord said to me, If Moses and Samuel stand before my face, my soul is not toward them. Send out this people and let them go out.
+- fresh: And the Lord said to me, If Moses and Samuel should stand before my face, my soul would not be toward them. Send out this people and let them go out.
 - brenton: And the Lord said to me, Though Moses and Samuel stood before my face, my soul could not be toward them: dismiss this people, and let them go forth.
 
 ### Jeremiah 15:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be if they say to you, Where will we go out? Then you will say to them, Thus says the Lord: Those for death, to death; and those for sword, to sword; and those for famine, to famine; and those for captivity, to captivity.
+- fresh: And it will be if they say to you, Where will we go out? Then you will say to them, Thus says the Lord: Those for death, to death; and those for the sword, to the sword; and those for famine, to famine; and those for captivity, to captivity.
 - brenton: And it shall be, if they say to thee, Whither shall we go forth? then thou shalt say to them, Thus saith the Lord; As many as are for death, to death; and as many as are for famine, to famine; and as many as are for the sword, to the sword; and as many as are for captivity, to captivity.
 
 ### Jeremiah 15:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will avenge on them with four kinds, says the Lord: sword for slaughter and dogs for tearing and beasts of the earth and birds of heaven for food and ruin.
+- fresh: And I will avenge on them with four kinds, says the Lord: the sword for slaughter and the dogs for tearing and the beasts of the earth and the birds of heaven for food and ruin.
 - brenton: And I will punish them with four kinds of death, saith the Lord, the sword to slay, and the dogs to tear, and the wild beasts of the earth, and the birds of the sky to devour and destroy.
 
 ### Jeremiah 15:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will hand them over to troubles for all kingdoms of the earth, because of Manasseh son of Hezekiah king of Judah, because of all he did in Jerusalem.
+- fresh: And I will hand them over to troubles for all the kingdoms of the earth, because of Manasseh son of Hezekiah king of Judah, because of all he did in Jerusalem.
 - brenton: And I will deliver them up for distress to all the kingdoms of the earth, because of Manasses son of Ezekias king of Juda, for all that he did in Jerusalem.
 
 ### Jeremiah 15:5
@@ -172448,10 +172448,10 @@ Note:
 ### Jeremiah 15:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You turned me away, says the Lord; backward you will go. And I will stretch out my hand and destroy you, and I will no longer let them rest.
+- fresh: You turned away from me, says the Lord; backward you will go. And I will stretch out my hand and destroy you, and I will no longer let them rest.
 - brenton: Thou hast turned away from me, saith the Lord, thou wilt go back: therefore I will stretch out my hand, and will destroy thee, and will no more spare them.
 
 ### Jeremiah 15:7
@@ -172475,10 +172475,10 @@ Note:
 ### Jeremiah 15:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: She who bore seven was emptied; her soul grew faint. Her sun set while still middle of day. She was ashamed and reproached. Their remnant I will give to sword before their enemies.
+- fresh: She who bore seven was emptied; her soul grew faint. Her sun set while it was still the middle of the day. She was ashamed and reproached. Their remnant I will give to the sword before their enemies.
 - brenton: She that bore seven is spent; her soul has fainted under trouble; her sun is gone down while it is yet noon; she is ashamed and disgraced: I will give the remnant of them to the sword before their enemies.
 
 ### Jeremiah 15:10
@@ -172493,10 +172493,10 @@ Note:
 ### Jeremiah 15:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Let it be, Master, as you straighten their way. Did I not stand before you in the time of their evils and in the time of their affliction for good things toward enemy?
+- fresh: Let it be, Master, as you straighten their way. Did I not stand before you in the time of their evils and in the time of their affliction for good things toward the enemy?
 - brenton: Be it so, Lord, in their prosperity; surely I stood before thee in the time of their calamities, and in the time of their affliction, for their good against the enemy.
 
 ### Jeremiah 15:12
@@ -172511,28 +172511,28 @@ Note:
 ### Jeremiah 15:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your strength and your treasures I will give for plunder, as payment for all your sins and in all your borders.
+- fresh: Your strength and your treasures I will give for plunder, as payment for all your sins and throughout all your borders.
 - brenton: Yea, I will give thy treasures for a spoil as a recompence, because of all thy sins, and that in all thy borders.
 
 ### Jeremiah 15:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will enslave you round about to your enemies in a land you did not know, because fire has been kindled from my wrath; upon you it will burn.
+- fresh: And I will enslave you to your enemies round about in a land you did not know, because fire has been kindled from my wrath; upon you it will burn.
 - brenton: And I will enslave thee to thine enemies round about, in a land which thou hast not known; for a fire has been kindled out of my wrath; it shall burn upon you.
 
 ### Jeremiah 15:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Lord, remember me and visit me and vindicate me from those persecuting me. In your long-suffering know that I took reproach for your sake.
+- fresh: Lord, remember me and visit me and vindicate me from those who persecute me. In your long-suffering know that I took reproach for your sake.
 - brenton: O Lord, remember me, and visit me, and vindicate me before them that persecute me; do not bear long with them; know how I have met with reproach for thy sake, from those who set at nought thy words;
 
 ### Jeremiah 15:16
@@ -172556,26 +172556,26 @@ Note:
 ### Jeremiah 15:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Why do those grieving me prevail over me? My wound severe—from where will I be healed? It became to me like false water, having no faithfulness.
+- fresh: Why do those grieving me prevail over me? My wound is severe; from where will I be healed? It became to me like false water, having no faithfulness.
 - brenton: Why do they that grieve me prevail against me? my wound is severe; whence shall I be healed? it is indeed become to me as deceitful water, that has no faithfulness.
 
 ### Jeremiah 15:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore thus says the Lord: If you return, I will restore you and you will stand before my face. And if you bring out precious from worthless, you will be as my mouth. They will return to you, but you will not return to them.
+- fresh: Therefore thus says the Lord: If you return, I will restore you and you will stand before my face. And if you bring out precious from the worthless, you will be as my mouth. They will return to you, but you will not return to them.
 - brenton: Therefore thus saith the Lord, If thou wilt return, then will I restore thee, and thou shalt stand before my face: and if thou wilt bring forth the precious from the worthless, thou shalt be as my mouth: and they shall return to thee; but thou shalt not return to them.
 
 ### Jeremiah 15:20
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And I will make you for this people as a fortified bronze wall, and they will fight against you and surely not prevail against you, because I am with you to save you
 - brenton: And I will make thee to this people as a strong brazen wall; and they shall fight against thee, but they shall by no means prevail against thee;
@@ -172592,46 +172592,46 @@ Note:
 ### Jeremiah 16:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you, do not take wife, says the Lord God of Israel.
+- fresh: And you, do not take a wife, says the Lord God of Israel.
 - brenton: And thou shalt not take a wife, saith the Lord God of Israel:
 
 ### Jeremiah 16:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And son or daughter will not be born to you in this place.
+- fresh: And no son or daughter will be born to you in this place.
 - brenton: and there shall be no son born to thee, nor daughter in this place.
 
 ### Jeremiah 16:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord concerning sons and daughters born in this place, and concerning their mothers who bore them and their fathers who fathered them in this land:
+- fresh: Because thus says the Lord concerning the sons and concerning the daughters born in this place, and concerning their mothers who bore them and their fathers who fathered them in this land:
 - brenton: For thus saith the Lord concerning the sons and concerning the daughters that are born in this place, and concerning their mothers that have born them, and concerning their fathers that have begotten them in this land;
 
 ### Jeremiah 16:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: By diseased death they will die. They will not be mourned and not buried. For example upon the face of the earth they will be. By sword they will fall and by famine be finished, and to the beasts of the earth and birds of heaven.
+- fresh: By diseased death they will die. They will not be mourned and not buried. They will be as an example upon the face of the earth. By the sword they will fall and by famine be finished, and they will be food for the beasts of the earth and birds of heaven.
 - brenton: They shall die of grievous death; they shall not be lamented, nor buried; they shall be for an example on the face of the earth; and they shall be for the wild beasts of the land, and for the birds of the sky: they shall fall by the sword, and shall be consumed with famine.
 
 ### Jeremiah 16:5
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord: Do not enter into their drinking feast, and do not go to cut yourself and do not mourn them, because I removed my peace from this people.
+- fresh: Thus says the Lord: Do not enter into their drinking feast, and do not go to cut yourself and do not mourn them, because I have removed my peace from this people.
 - brenton: Thus saith the Lord, Enter not into their mourning feast, and go not to lament, and mourn not for them: for I have removed my peace from this people.
 
 ### Jeremiah 16:6
@@ -172646,10 +172646,10 @@ Note:
 ### Jeremiah 16:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And bread will surely not be broken in their mourning for comfort over dead one, and he will not be given cup for comfort over his father and mother.
+- fresh: And bread will surely not be broken in their mourning for comfort over a dead one, and he will not be given a cup for comfort over his father and mother.
 - brenton: and there shall be no bread broken in mourning for them for consolation over the dead: they shall not give one to drink a cup for consolation over his father or his mother.
 
 ### Jeremiah 16:8
@@ -172664,28 +172664,28 @@ Note:
 ### Jeremiah 16:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because thus says the Lord God of Israel: Behold, I destroy from this place before your eyes and in your days the voice of joy and the voice of gladness, the voice of bridegroom and the voice of bride.
+- fresh: Because thus says the Lord God of Israel: Behold, I destroy from this place before your eyes and in your days the voice of joy and the voice of gladness, the voice of a bridegroom and the voice of a bride.
 - brenton: For thus saith the Lord God of Israel; Behold, I will make to cease out of this place before your eyes, and in your days, the voice of joy, and the voice of gladness, the voice of the bridegroom, and the voice of the bride.
 
 ### Jeremiah 16:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be when you announce to this people all these words and they say to you, Why did the Lord speak on us all these evils? What our injustice and what our sin which we sinned against the Lord our God?
+- fresh: And it will be when you announce to this people all these words and they say to you, Why did the Lord speak on us all these evils? What is our injustice, and what is our sin which we sinned against the Lord our God?
 - brenton: And it shall come to pass, when thou shalt report to this people all these words, and they shall say to thee, Wherefore has the Lord pronounced against us all these evils? what is our unrighteousness? and what is our sin which we have sinned before the Lord our God?
 
 ### Jeremiah 16:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then you will say to them, Because your fathers abandoned me, says the Lord, and went after foreign gods and served them and worshiped them, and me they abandoned, and my law they did not keep.
+- fresh: Then you will say to them, Because your fathers abandoned me, says the Lord, and went after foreign gods and served them and worshiped them, and me they abandoned, and they did not keep my law.
 - brenton: Then thou shalt say to them, Because your fathers forsook me, saith the Lord, and went after strange gods and served them, and worshipped them, and forsook me, and kept not my law;
 
 ### Jeremiah 16:12
@@ -172700,19 +172700,19 @@ Note:
 ### Jeremiah 16:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will cast you away from this land into the land which you and your fathers did not know, and there you will serve other gods who will not give you mercy.
+- fresh: And I will cast you away from this land into a land which you and your fathers did not know, and there you will serve other gods who will not give you mercy.
 - brenton: therefore I will cast you off from this good land into a land which neither ye nor your fathers have known; and ye shall serve there other gods, who shall have no mercy upon you.
 
 ### Jeremiah 16:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore behold, days come, says the Lord, and they will no longer say, As the Lord lives who brought up sons of Israel from the land of Egypt,
+- fresh: Therefore behold, days are coming, says the Lord, and they will no longer say, As the Lord lives who brought up the sons of Israel from the land of Egypt,
 - brenton: Therefore, behold, the days come, saith the Lord, when they shall no more say, The Lord lives, that brought up the children of Israel out of the land of Egypt;
 
 ### Jeremiah 16:15
@@ -172727,10 +172727,10 @@ Note:
 ### Jeremiah 16:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, I send many fishers, says the Lord, and they will fish them, and after these I will send many hunters, and they will hunt them on every mountain and hill and from clefts of rocks.
+- fresh: Behold, I send many fishers, says the Lord, and they will fish them, and after these I will send many hunters, and they will hunt them on every mountain and hill and from clefts of the rocks.
 - brenton: Behold, I will send many fishers, saith the Lord, and they shall fish them; and afterward I will send many hunters, and they shall hunt them upon every mountain, and upon every hill, and out of the holes of the rocks.
 
 ### Jeremiah 16:17
@@ -172745,118 +172745,118 @@ Note:
 ### Jeremiah 16:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will repay double their injustices and their sins, by which they profaned my land with corpses of their abominations and by their lawless deeds in which they offended my inheritance.
+- fresh: And I will repay their injustices and their sins double, by which they profaned my land with corpses of their abominations and by their lawless deeds in which they offended my inheritance.
 - brenton: And I will recompense their mischiefs doubly, and their sins, whereby they have profaned my land with the carcases of their abominations, and with their iniquities, whereby they have trespassed against mine inheritance.
 
 ### Jeremiah 16:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Lord, my strength and my help and my refuge in the day of evils, to you nations will come from the end of the earth and say, Our fathers truly possessed lies, idols, and there is no profit in them.
+- fresh: Lord, my strength and my help and my refuge in the day of evils, to you the nations will come from the end of the earth and say, Our fathers truly possessed lies, idols, and there is no profit in them.
 - brenton: O Lord, thou art my strength, and mine help, and my refuge in days of evil: to thee the Gentiles shall come from the end of the earth, and shall say, How vain were the idols which our fathers procured to themselves, and there is no help in them.
 
 ### Jeremiah 16:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Will man make gods for himself, and these are not gods?
+- fresh: Will a man make gods for himself, and these are not gods?
 - brenton: Will a man make gods for himself, whereas these are no gods?
 
 ### Jeremiah 16:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore behold, I will show them in this time my hand and make my power known to them, and they will know that my name is the Lord.
+- fresh: Therefore behold, I will show them my hand at this time and make my power known to them, and they will know that my name is the Lord.
 - brenton: Therefore, behold, I will at this time manifest my hand to them, and will make known to them my power; and they shall know that my name is the Lord.
 
 ### Jeremiah 17:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Cursed man who has hope on man and will make flesh of his arm his support upon him, and his heart departs from the Lord.
+- fresh: Cursed is the man who has hope in man and will make flesh the support of his arm upon him, and whose heart departs from the Lord.
 - brenton: Cursed is the man who trusts in man, and will lean his arm of flesh upon him, while his heart departs from the Lord.
 
 ### Jeremiah 17:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will be like tamarisk in the wilderness and will not see when good things come, and will dwell in barren places and in the wilderness, in salty land not inhabited.
+- fresh: And he will be like the tamarisk in the wilderness and will not see when good things come, and he will dwell in barren places and in the wilderness, in a salty land which is not inhabited.
 - brenton: And he shall be as the wild tamarisk in the desert: he shall not see when good comes; but he shall dwell in barren places, and in the wilderness, in a salt land which is not inhabited.
 
 ### Jeremiah 17:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And blessed man who trusts in the Lord, and the Lord will be his hope.
+- fresh: And blessed is the man who trusts in the Lord, and the Lord will be his hope.
 - brenton: But blessed is the man who trusts in the Lord, and whose hope the Lord shall be.
 
 ### Jeremiah 17:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he will be like flourishing tree by waters and upon moisture it will cast its roots, and will not fear when heat comes, and on it will be woodland shoots. In the year of drought it will not fear and will not cease making fruit.
+- fresh: And he will be like a flourishing tree by waters and will cast its roots toward moisture, and it will not fear when heat comes, and on it will be woodland shoots. In the year of drought it will not fear and will not cease making fruit.
 - brenton: And he shall be as a thriving tree by the waters, and he shall cast forth his root toward a moist place: he shall not fear when heat comes, and there shall be upon him shady branches: he shall not fear in a year of drought, and he shall not fail to bear fruit.
 
 ### Jeremiah 17:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Deep is heart beyond all things, and it is man, and who will know him?
+- fresh: Deep is the heart beyond all things, and it is man; and who will know him?
 - brenton: The heart is deep beyond all things, and it is the man, and who can know him?
 
 ### Jeremiah 17:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I, the Lord, search hearts and test kidneys, to give to each according to his ways and according to fruits of his practices.
+- fresh: I, the Lord, search hearts and test kidneys, to give to each according to his ways and according to the fruits of his practices.
 - brenton: I the Lord try the hearts, and prove the reins, to give to every one according to his ways, and according to the fruits of his devices.
 
 ### Jeremiah 17:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Partridge cried out, gathering what she did not bear. One making his wealth not with judgment, in the middle of his days they will leave him, and at his end he will be fool.
+- fresh: A partridge cried out, gathering what she did not bear. One making his wealth not with judgment, in the middle of his days they will leave him, and at his end he will be a fool.
 - brenton: The partridge utters her voice, she gathers eggs which she did not lay; so is a man gaining his wealth unjustly; in the midst of his days his riches shall leave him, and at his latter end he will be a fool.
 
 ### Jeremiah 17:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
-- same_normalized: no
-- fresh: Throne of glory exalted, our sanctuary.
+- decisions: 1
+- footnotes: 2
+- same_normalized: yes
+- fresh: An exalted throne of glory is our sanctuary.
 - brenton: An exalted throne of glory is our sanctuary.
 
 ### Jeremiah 17:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Hope of Israel, Lord, let all abandoning you be ashamed. Those departing be written upon earth, because they abandoned fountain of life, Lord.
+- fresh: Hope of Israel, Lord, let all who abandon you be ashamed. Let those departing be written upon the earth, because they abandoned the fountain of life, the Lord.
 - brenton: O Lord, the hope of Israel, let all that have left thee be ashamed, let them that have revolted be written on the earth, because they have forsaken the fountain of life, the Lord.
 
 ### Jeremiah 17:14
@@ -172880,10 +172880,10 @@ Note:
 ### Jeremiah 17:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But I did not grow weary following after you, and day of man I did not desire. You know what goes out through my lips; it is before your face.
+- fresh: But I did not grow weary following after you, and a day of man I did not desire. You know what goes out through my lips; it is before your face.
 - brenton: But I have not been weary of following thee, nor have I desired the day of man; thou knowest; the words that proceed out of my lips are before thy face.
 
 ### Jeremiah 17:17
@@ -172892,25 +172892,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not become alienation to me, sparing me in evil day.
+- fresh: Do not become alienation to me, sparing me in an evil day.
 - brenton: Be not to me a stranger, but spare me in the evil day.
 
 ### Jeremiah 17:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Let those persecuting me be ashamed, and let me not be ashamed. Let them be terrified, and let me not be terrified. Bring on them evil day; crush them with double crushing.
+- fresh: Let those persecuting me be ashamed, and let me not be ashamed. Let them be terrified, and let me not be terrified. Bring on them an evil day; crush them with double crushing.
 - brenton: Let them that persecute me be ashamed, but let me not be ashamed: let them be alarmed, but let me not be alarmed: bring upon them the evil day, crush them with double destruction.
 
 ### Jeremiah 17:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Go and stand in the gates of sons of your people, in which kings of Judah enter and go out, and in all the gates of Jerusalem,
+- fresh: Thus says the Lord: Go and stand in the gates of the sons of your people, in which the kings of Judah enter and go out, and in all the gates of Jerusalem,
 - brenton: Thus saith the Lord; Go and stand in the gates of the children of thy people, by which the kings of Juda enter, and by which they go out, and in all the gates of Jerusalem:
 
 ### Jeremiah 17:20
@@ -172925,8 +172925,8 @@ Note:
 ### Jeremiah 17:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Thus says the Lord: Guard your souls and do not carry burdens on the day of Sabbaths and do not go out by the gates of Jerusalem.
 - brenton: thus saith the Lord; Take heed to your souls, and take up no burdens on the sabbath-day, and go not forth through the gates of Jerusalem;
@@ -172934,8 +172934,8 @@ Note:
 ### Jeremiah 17:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And do not bring burdens out of your houses on the day of Sabbaths, and do no work. Sanctify the day of Sabbaths, just as I commanded your fathers, and they did not hear and did not incline their ear.
 - brenton: and carry forth no burdens out of your houses on the sabbath-day, and ye shall do no work: sanctify the sabbath-day, as I commanded your fathers.
@@ -172943,10 +172943,10 @@ Note:
 ### Jeremiah 17:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they hardened their neck beyond their fathers, not to hear me and not to receive discipline.
+- fresh: And they hardened their neck more than their fathers, not to hear me and not to receive discipline.
 - brenton: But they hearkened not, and inclined not their ear, but stiffened their neck more than their fathers did, so as not to hear me, and not to receive correction.
 
 ### Jeremiah 17:24
@@ -172961,64 +172961,64 @@ Note:
 ### Jeremiah 17:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: then kings and rulers seated on the throne of David will enter through the gates of this city and mounted on their chariots and horses, they and their rulers, men of Judah and the inhabitants of Jerusalem, and this city will be inhabited forever.
+- fresh: then kings and rulers seated on the throne of David will enter through the gates of this city and mounted on their chariots and on their horses, they and their rulers, men of Judah and the inhabitants of Jerusalem, and this city will be inhabited forever.
 - brenton: that there shall enter through the gates of this city kings and princes sitting on the throne of David, and riding on their chariots and horses, they, and their princes, the men of Juda, and the dwellers in Jerusalem: and this city shall be inhabited for ever.
 
 ### Jeremiah 17:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And they will come from the cities of Judah and from around Jerusalem and from the land of Benjamin and from lowland and from mountain and from south, bringing whole burnt offerings and sacrifice and incense and manna and frankincense, bringing praise into the house of the Lord.
+- fresh: And they will come from the cities of Judah and from around Jerusalem and from the land of Benjamin and from the lowland and from the mountain and from the south, bringing whole burnt offerings and sacrifice and incense and grain offering and frankincense, bringing praise into the house of the Lord.
 - brenton: And men shall come out of the cities of Juda, and from round about Jerusalem, and out of the land of Benjamin, and out of the plain country, and from the hill country, and from the south country, bringing whole-burnt-offerings, and sacrifices, and incense, and manna, and frankincense, bringing praise to the house of the Lord.
 
 ### Jeremiah 17:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be if you do not hear me, to sanctify the day of Sabbaths, not to carry burdens and not to enter by the gates of Jerusalem on the day of Sabbaths, then I will kindle fire in her gates and it will devour streets of Jerusalem and will not be quenched.
+- fresh: And it will be if you do not hear me, to sanctify the day of Sabbaths, not to carry burdens and not to enter by the gates of Jerusalem on the day of Sabbaths, then I will kindle fire in her gates and it will devour the streets of Jerusalem and will not be quenched.
 - brenton: But it shall come to pass, if ye will not hearken to me to sanctify the sabbath-day, to bear no burdens, nor go in with them by the gates of Jerusalem on the sabbath-day; then will I kindle a fire in the gates thereof, and it shall devour the streets of Jerusalem, and shall not be quenched.
 
 ### Jeremiah 18:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Word that came from the Lord to Jeremiah, saying,
+- fresh: The word that came from the Lord to Jeremiah, saying,
 - brenton: The word that came from the Lord to
 
 ### Jeremiah 18:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Rise and go down into the house of potter, and there you will hear my words.
+- fresh: Rise and go down into the house of the potter, and there you will hear my words.
 - brenton: Jeremias, saying, Arise, and go down to the potter's house, and there thou shalt hear my words.
 
 ### Jeremiah 18:3
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I went down into the house of potter, and behold, he was doing work upon the stones.
+- fresh: And I went down into the house of the potter, and behold, he was doing work upon the stones.
 - brenton: So I went down to the potter's house, and behold, he was making a vessel on the stones.
 
 ### Jeremiah 18:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And vessel which he was making fell apart in his hands, and again he made it another vessel, just as it pleased him to make.
+- fresh: And the vessel which he was making fell apart in his hands, and again he made it another vessel, just as it pleased him to make.
 - brenton: And the vessel which he was making with his hands fell: so he made it again another vessel, as it seemed good to him to make it.
 
 ### Jeremiah 18:5
@@ -173033,28 +173033,28 @@ Note:
 ### Jeremiah 18:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: If as this potter I will not be able to make you, house of Israel? Behold, as clay of potter, you are in my hands.
+- fresh: Will I not be able to make you as this potter does, house of Israel? Behold, as the clay of the potter, you are in my hands.
 - brenton: Shall I not be able, O house of Israel, to do to you as this potter? behold, as the clay of the potter are ye in my hands.
 
 ### Jeremiah 18:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: At one moment I will speak concerning nation or kingdom, to root them up and destroy.
+- fresh: At one moment I will speak concerning a nation or concerning a kingdom, to root them up and destroy.
 - brenton: If I shall pronounce a decree upon a nation, or upon a kingdom, to cut them off, and to destroy them;
 
 ### Jeremiah 18:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And if that nation turns from all its evils, then I will repent concerning evils which I planned to do to them.
+- fresh: And if that nation turns from all its evils, then I will repent concerning the evils which I planned to do to them.
 - brenton: and that nation turn from all their sins, then will I repent of the evils which I purposed to do to them.
 
 ### Jeremiah 18:9
@@ -173063,50 +173063,50 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And at another moment I will speak concerning nation and kingdom, that it be built and planted.
+- fresh: And at another moment I will speak concerning a nation and concerning a kingdom, that it be built and planted.
 - brenton: And if I shall pronounce a decree upon a nation and kingdom, to rebuild and to plant it;
 
 ### Jeremiah 18:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And if they do evil before me, not hearing my voice, then I will repent concerning good things which I spoke to do for them.
+- fresh: And if they do evil before me, not hearing my voice, then I will repent concerning the good things which I spoke to do for them.
 - brenton: and they do evil before me, so as not to hearken to my voice, then will I repent of the good which I spoke of, to do it to them.
 
 ### Jeremiah 18:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And now speak to the men of Judah and the inhabitants of Jerusalem: Behold, I form evils against you and think thought against you. Let each turn from his evil way, and you will make your practices better.
+- fresh: And now speak to the men of Judah and to the inhabitants of Jerusalem: Behold, I am forming evils against you and planning a plan against you. Let each turn from his evil way, and you will make your practices better.
 - brenton: And now say to the men of Juda, and to the inhabitants of Jerusalem, Behold, I prepare evils against you, and devise a device against you: let every one turn now from his evil way, and amend your practices.
 
 ### Jeremiah 18:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they said, We will be strong, because after our turnings away we will go, and each will do pleasures of his own evil heart.
+- fresh: And they said, We will be strong, because after our turnings away we will go, and each will do the pleasures of his own evil heart.
 - brenton: And they said, We will quit ourselves like men, for we will pursue our perverse ways, and we will perform each the lusts of his evil heart.
 
 ### Jeremiah 18:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Ask now among nations who heard such fearful things as virgin Israel did greatly.
+- fresh: Therefore thus says the Lord: Ask now among the nations: who heard such fearful things which virgin Israel did exceedingly?
 - brenton: Therefore thus saith the Lord; Enquire now among the nations, who has heard such very horrible things as the virgin of Israel has done?
 
 ### Jeremiah 18:14
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Will breasts fail from rock, or snow from Lebanon? Will water carried violently by wind turn aside?
 - brenton: Will fertilising streams fail to flow from a rock, or snow fail from Libanus? will water violently impelled by the wind turn aside?
@@ -173114,37 +173114,37 @@ Note:
 ### Jeremiah 18:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because my people forgot me. In vain they burned incense and will be weakened in their ways, eternal paths, to step on paths having no road for walking,
+- fresh: Because my people forgot me. In vain they burned incense, and they will be weakened in their ways, everlasting tracks, to step on paths having no road for walking,
 - brenton: For my people have forgotten me, they have offered incense in vain, and they fail in their ways, leaving the ancient tracks, to enter upon impassable paths;
 
 ### Jeremiah 18:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: to set their land into destruction and everlasting hissing. All passing through it will be astonished and shake their heads.
+- fresh: to set their land for destruction and everlasting hissing. All who pass through it will be astonished and shake their heads.
 - brenton: to make their land a desolation, and a perpetual hissing; all that go through it shall be amazed, and shall shake their heads.
 
 ### Jeremiah 18:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: As wind of heat I will scatter them before the face of their enemies. I will show them day of their destruction.
+- fresh: Like a burning wind I will scatter them before the face of their enemies. I will show them the day of their destruction.
 - brenton: I will scatter them before their enemies like an east wind; I will shew them the day of their destruction.
 
 ### Jeremiah 18:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And they said, Come, let us think thought against Jeremiah, because law will not perish from priest and counsel from wise man and word from prophet. Come, let us strike him with tongue and hear all his words.
+- fresh: And they said, Come, let us think a thought against Jeremiah, because law will not perish from a priest, and counsel from a wise man, and word from a prophet. Come, let us strike him with the tongue and hear all his words.
 - brenton: Then they said, Come, and let us devise a device against Jeremias; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us smite him with the tongue, and we will hear all his words.
 
 ### Jeremiah 18:19
@@ -173160,63 +173160,63 @@ Note:
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Is evil repaid in place of good? Because they spoke words against my soul, and hid their punishment for me. Remember my standing before your face to speak good things for them, to turn your wrath away from them.
+- fresh: Is evil repaid in place of good? Because they spoke words against my soul and hid their punishment for me. Remember my standing before your face to speak good things for them, to turn your wrath away from them.
 - brenton: Forasmuch as evil is rewarded for good; for they have spoken words against my soul, and they have hidden the punishment they meant for me; remember that I stood before thy face, to speak good for them, to turn away thy wrath from them.
 
 ### Jeremiah 18:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore give their sons to famine and gather them into the hands of sword. Let their wives become childless and widows, and their men become killed by death, and their young men fallen by sword in war.
+- fresh: Therefore give their sons to famine and gather them into the hands of a sword. Let their wives become childless and widows, and let their men become killed by death, and their young men fallen by sword in war.
 - brenton: Therefore do thou deliver their sons to famine, and gather them to the power of the sword: let their women be childless and widows; and let their men be cut off by death, and their young men fall by the sword in war.
 
 ### Jeremiah 18:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let cry come in their houses, because you will bring robbers on them suddenly, because they laid word for my capture and hid snares against me.
+- fresh: Let a cry come in their houses, because you will bring robbers on them suddenly, because they laid a word for my capture and hid snares against me.
 - brenton: Let there be a cry in their houses: thou shalt bring upon them robbers suddenly: for they have formed a plan to take me, and have hidden snares for me.
 
 ### Jeremiah 18:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you, Lord, knew all their counsel against me for death. Do not acquit their injustices, and do not wipe away their sins from before your face. Let their weakness be before you; in the time of your wrath do in them.
+- fresh: And you, Lord, knew all their counsel against me for death. Do not acquit their injustices, and do not wipe away their sins from before your face. Let their weakness be before you; in the time of your wrath, do in them.
 - brenton: And thou, Lord, knowest all their deadly counsel against me: account not their iniquities guiltless, and blot not out their sins from before thee: let their weakness come before thee; deal with them in the time of thy wrath.
 
 ### Jeremiah 19:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Then the Lord said to me, Go and buy shaped earthen jar and bring from the elders of the people and from the elders of priests,
+- fresh: Then the Lord said to me, Go and buy a shaped earthen jar and bring some of the elders of the people and some of the elders of the priests,
 - brenton: Then said the Lord to me, Go and get an earthen bottle, the work of the potter, and thou shalt bring some of the elders of the people, and of the priests;
 
 ### Jeremiah 19:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: and you will go out to burial place of sons of their children, which is by entrances of gate of potsherd, and there read all words which I speak to you,
+- fresh: and you will go out to the burial place of the sons of their children, which is by the entrances of the Gate of Potsherd, and there read all the words which I speak to you,
 - brenton: and thou shalt go forth to the burial-place of the sons of their children, which is at the entrance of the gate of Charsith; and do thou read there all these words which I shall speak to thee:
 
 ### Jeremiah 19:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and say to them, Hear the word of the Lord, kings of Judah and men of Judah and the inhabitants of Jerusalem and those entering these gates. Thus says the Lord God of Israel: Behold, I bring on this place evils so that ears of everyone hearing them will ring.
+- fresh: and say to them, Hear the word of the Lord, kings of Judah and men of Judah and the inhabitants of Jerusalem and those entering these gates. Thus says the Lord God of Israel: Behold, I bring evils on this place so that both ears of everyone hearing them will ring.
 - brenton: and thou shalt say to them,
 
 ### Jeremiah 19:4
@@ -173234,25 +173234,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and built high places to Baal to burn their sons in fire, which I did not command nor speak nor conceive in my heart.
+- fresh: and built high places to Baal to burn their sons in fire, which I did not command, nor speak, nor conceive in my heart.
 - brenton: and built high places for Baal, to burn their children in the fire, which things I commanded not, neither did I design them in my heart:
 
 ### Jeremiah 19:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore behold, days come, says the Lord, and this place will no longer be called Falling Away and burial place of son of Hinnom, but burial place of slaughter.
+- fresh: Therefore behold, days are coming, says the Lord, and this place will no longer be called Falling Away and burial place of the son of Hinnom, but burial place of slaughter.
 - brenton: Therefore, behold, the days come, saith the Lord, when this place shall no more be called, The fall and burial-place of the son of Ennom, but, The burial-place of slaughter.
 
 ### Jeremiah 19:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will slaughter counsel of Judah and counsel of Jerusalem in this place, and I will cast them down by sword before their enemies and in the hands of those seeking their souls, and I will give their dead bodies for food to the birds of heaven and beasts of the earth.
+- fresh: And I will slaughter the counsel of Judah and the counsel of Jerusalem in this place, and I will cast them down by the sword before their enemies and in the hands of those seeking their souls, and I will give their dead bodies for food to the birds of heaven and the beasts of the earth.
 - brenton: And I will destroy the counsel of Juda and the counsel of Jerusalem in this place; and I will cast them down with the sword before their enemies, and by the hands of them that seek their lives: and I will give their dead bodies for food to the birds of the sky and to the wild beasts of the earth.
 
 ### Jeremiah 19:8
@@ -173261,16 +173261,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will set this city into destruction and hissing. Everyone passing by upon it will look gloomy and hiss over every plague of it.
+- fresh: And I will set this city for destruction and hissing. Everyone passing by it will look gloomy and hiss over every plague of it.
 - brenton: And I will bring this city to desolation and make it a hissing; every one that passes by it shall scowl, and hiss because of all her plague.
 
 ### Jeremiah 19:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will eat flesh of their sons and flesh of their daughters, and each will eat flesh of his neighbor in siege and straitness with which their enemies will besiege them.
+- fresh: And they will eat the flesh of their sons and the flesh of their daughters, and each will eat the flesh of his neighbor in the siege and in the straitness with which their enemies will besiege them.
 - brenton: And they shall eat the flesh of their sons, and the flesh of their daughters; and they shall eat every one the flesh of his neighbour in the blockade, and in the siege wherewith their enemies shall besiege them.
 
 ### Jeremiah 19:10
@@ -173279,16 +173279,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will crush the jar before the eyes of men going out with you,
+- fresh: And you will crush the jar before the eyes of the men going out with you,
 - brenton: And thou shalt break the bottle in the sight of the men that go forth with thee,
 
 ### Jeremiah 19:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: and say, Thus says the Lord: So I will crush this people and this city just as earthen vessel is crushed which cannot still be healed.
+- fresh: and say, Thus says the Lord: So I will crush this people and this city just as an earthen vessel is crushed which can no longer be healed.
 - brenton: and thou shalt say, Thus saith the Lord, Thus will I break in pieces this people, and this city, even as an earthen vessel is broken in pieces which cannot be mended again.
 
 ### Jeremiah 19:12
@@ -173297,68 +173297,68 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus I will do, says the Lord, to this place and those dwelling in it, to make this city like the fallen place.
+- fresh: Thus I will do, says the Lord, to this place and to those dwelling in it, to make this city like the fallen place.
 - brenton: Thus will I do, saith the Lord, to this place, and to the inhabitants of it, that this city may be given up, as one that is falling to ruin.
 
 ### Jeremiah 19:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And houses of Jerusalem and houses of kings of Judah will be as place of falling away of uncleannesses, in all houses in which they burned incense on their roofs to all the army of heaven and poured drink offerings to foreign gods.
+- fresh: And the houses of Jerusalem and the houses of the kings of Judah will be as the place of falling away of uncleannesses, in all the houses in which they burned incense on their roofs to all the army of heaven and poured drink offerings to foreign gods.
 - brenton: And the houses of Jerusalem, and the houses of the kings of Juda shall be as a ruinous place, because of their uncleannesses in all the houses, wherein they burnt incense upon their roofs to all the host of heaven, and poured drink-offerings to strange gods.
 
 ### Jeremiah 19:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah came from the place of falling away where the Lord sent him there to prophesy, and he stood in the court of the house of the Lord and said to all the people,
+- fresh: And Jeremiah came from the place of falling away where the Lord sent him to prophesy, and he stood in the court of the house of the Lord and said to all the people,
 - brenton: And Jeremias came from the place of the Fall, whither the Lord had sent him to prophesy; and he stood in the court of the Lord's house; and said to all the people, Thus saith the Lord;
 
 ### Jeremiah 19:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Behold, I bring on this city and on all her cities and on her villages all evils which I spoke against her, because they hardened their neck so as not to hear my words.
+- fresh: Thus says the Lord: Behold, I bring on this city and on all her cities and on her villages all the evils which I spoke against her, because they hardened their neck so as not to hear my words.
 - brenton: Behold, I bring upon this city, and upon all the cities belonging to it, and upon the villages of it, all the evils which I have spoken against it, because they have hardened their neck, that they might not hearken to my commands.
 
 ### Jeremiah 20:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And Pashhur son of Immer the priest, and he was appointed ruler of the house of the Lord, heard Jeremiah prophesying these words.
+- fresh: And Pashhur son of Immer, the priest, who was appointed ruler of the house of the Lord, heard Jeremiah prophesying these words.
 - brenton: Now Paschor the son of Emmer, the priest, who also had been appointed chief of the house of the Lord, heard Jeremias prophesying these words.
 
 ### Jeremiah 20:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he struck him and threw him into stocks, which were at the gate of the house appointed of upper place, which was in the house of the Lord.
+- fresh: And he struck him and threw him into the stocks, which were at the gate of the appointed upper house, which was in the house of the Lord.
 - brenton: And he smote him, and cast him into the dungeon which was by the gate of the upper house that was set apart, which was by the house of the Lord.
 
 ### Jeremiah 20:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And Pashhur brought Jeremiah out from the stocks, and Jeremiah said to him, the Lord did not call your name Pashhur, but Exile.
+- fresh: And Pashhur brought Jeremiah out from the stocks, and Jeremiah said to him, The Lord did not call your name Pashhur, but Exile.
 - brenton: And Paschor brought Jeremias out of the dungeon: and Jeremias said to him, The Lord has not called thy name Paschor, but Exile.
 
 ### Jeremiah 20:4
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Because thus says the Lord: Behold, I give you into exile with all your friends, and they will fall by the sword of their enemies and your eyes will see, and I will give you and all Judah into the hands of the king of Babylon, and they will carry them away and cut them down with swords.
 - brenton: For thus saith the Lord, Behold, I will give thee up to captivity with all thy friends: and they shall fall by the sword of their enemies, and thine eyes shall see it: and I will give thee and all Juda into the hands of the king of Babylon, and they shall carry them captives, and cut them in pieces with swords.
@@ -173366,145 +173366,145 @@ Note:
 ### Jeremiah 20:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will give all strength of this city and all its toils and all treasures of the king of Judah into the hands of his enemies, and they will carry them into Babylon.
+- fresh: And I will give all the strength of this city and all its toils and all the treasures of the king of Judah into the hands of his enemies, and they will carry them into Babylon.
 - brenton: And I will give all the strength of this city, and all the labours of it, and all the treasures of the king of Juda, into the hands of his enemies, and they shall bring them to Babylon.
 
 ### Jeremiah 20:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you and all dwelling in your house will go into captivity, and in Babylon you will die, and there you will be buried, you and all your friends to whom you prophesied lies.
+- fresh: And you and all who dwell in your house will go into captivity, and in Babylon you will die, and there you will be buried, you and all your friends to whom you prophesied lies.
 - brenton: And thou and all the dwellers in thine house shall go into captivity: and thou shalt die in Babylon, and there thou and all thy friends shall be buried, to whom thou hast prophesied lies.
 
 ### Jeremiah 20:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: You deceived me, Lord, and I was deceived. You overpowered me and prevailed. I became for laughter all day. I was spent being mocked.
+- fresh: You deceived me, Lord, and I was deceived. You overpowered me and prevailed. I became a laughingstock all day. I was continually mocked.
 - brenton: Thou hast deceived me, O Lord, and I have been deceived: thou hast been strong, and hast prevailed: I am become a laughing-stock, I am continually mocked every day.
 
 ### Jeremiah 20:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because with bitter word I will laugh. Lawlessness and misery I will call out, because the word of the Lord became to me for reproach and for mockery all my days.
+- fresh: Because with my bitter word I will laugh. Lawlessness and misery I will call out, because the word of the Lord became to me for reproach and for mockery all my days.
 - brenton: For I will laugh with my bitter speech, I will call upon rebellion and misery: for the word of the Lord is become a reproach to me and a mockery all my days.
 
 ### Jeremiah 20:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I said, I will not name the name of the Lord and I will not speak any longer in his name. And it became like burning fire flaming in my bones, and I am weakened from every side and cannot bear it.
+- fresh: And I said, I will not name the name of the Lord and I will not speak any longer in his name. And it became like a burning fire flaming in my bones, and I am weakened from every side and cannot bear it.
 - brenton: Then I said, I will by no means name the name of the Lord, and I will no more at all speak in his name. But it was as burning fire flaming in my bones, and I am utterly weakened on all sides, and cannot bear up.
 
 ### Jeremiah 20:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Because I heard blame of many gathering around: Assemble, and let us assemble against him. All men his friends, watch his thought, if he will be deceived and we will prevail against him and take our vengeance from him.
+- fresh: Because I heard the blame of many gathering around: Assemble, and let us assemble against him. All men who are his friends, watch his thought, if he will be deceived, and we will prevail against him and take our vengeance from him.
 - brenton: For I have heard the reproach of many gathering round, saying, Conspire ye, and let us conspire together against him, even all his friends: watch his intentions, if perhaps he shall be deceived, and we shall prevail against him, and we shall be avenged on him.
 
 ### Jeremiah 20:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the Lord with me as mighty warrior. Because of this they persecuted me and could not prevail. They were greatly ashamed, because they did not understand. Their eternal dishonors will not be forgotten.
+- fresh: And the Lord is with me like a mighty warrior. Because of this they persecuted me and could not prevail. They were greatly ashamed, because they did not understand. Their eternal dishonors will not be forgotten.
 - brenton: But the Lord was with me as a mighty man of war: therefore they persecuted me, but could not perceive anything against me; they were greatly confounded, for they perceived not their disgrace, which shall never be forgotten.
 
 ### Jeremiah 20:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Lord, testing righteous and understanding kidneys and heart, let me see from you vengeance on them, because to you I revealed my defense.
+- fresh: Lord, testing righteous things and understanding kidneys and hearts, let me see from you vengeance on them, because to you I revealed my defense.
 - brenton: O Lord, that provest just deeds, understanding the reins and hearts, let me see thy vengeance upon them: for to thee I have revealed my cause.
 
 ### Jeremiah 20:13
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Sing to the Lord. Praise him, because he rescued soul of a poor man from the hand of evildoers.
+- fresh: Sing to the Lord. Praise him, because he rescued the soul of a poor man from the hand of evildoers.
 - brenton: Sing ye to the Lord, sing praise to him: for he has rescued the soul of the poor from the hand of evil-doers.
 
 ### Jeremiah 20:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Cursed day in which I was born. Let not day in which my mother bore me be blessed.
+- fresh: Cursed be the day in which I was born. Let not the day in which my mother bore me be blessed.
 - brenton: Cursed be the day wherein I was born: the day wherein my mother brought me forth, let it not be blessed.
 
 ### Jeremiah 20:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Cursed man who brought good news to my father, saying, A male was born to you, rejoicing with joy.
+- fresh: Cursed be the man who brought good news to my father, saying, A male was born to you, rejoicing with joy.
 - brenton: Cursed be the man who brought the glad tidings to my father, saying, A male child is born to thee.
 
 ### Jeremiah 20:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Let that man be like cities which the Lord overthrew in anger and did not relent. Let him hear cry in morning and battle-shout at midday,
+- fresh: Let that man be like the cities which the Lord overthrew in anger and did not relent. Let him hear a cry in the morning and a battle-shout at midday,
 - brenton: Let that man rejoice as the cities which the Lord overthrew in wrath, and repented not: let him hear crying in the morning, and loud lamentation at noon;
 
 ### Jeremiah 20:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: because he did not kill me in the womb of mother, and my mother became my tomb and womb of eternal conception.
+- fresh: because he did not kill me in the womb of my mother, and my mother became my tomb and her womb a womb of eternal conception.
 - brenton: because he slew me not in the womb, and my mother became not my tomb, and her womb always great with me.
 
 ### Jeremiah 20:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Why was this? I came out from womb to see toils and pains, and my days passed in shame.
+- fresh: Why was this? I came out from the womb to see toils and pains, and my days passed in shame.
 - brenton: Why is it that I came forth of the womb to see troubles and distresses, and my days are spent in shame?
 
 ### Jeremiah 21:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 5
 - same_normalized: no
-- fresh: Word coming from the Lord to Jeremiah when King Zedekiah sent to him Pashhur son of Melchiah and Zephaniah son of Maaseiah the priest, saying,
+- fresh: The word that came from the Lord to Jeremiah when King Zedekiah sent to him Pashhur son of Melchiah and Zephaniah son of Maaseiah the priest, saying,
 - brenton: The Word that came from the Lord to Jeremias, when King Sedekias sent to him Paschor the Son of Melchias, and Sophonias Son of Basæas, the Priest, saying,
 
 ### Jeremiah 21:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Ask the Lord concerning us, because the king of Babylon has risen against us, if the Lord will act according to all his wonders and go away from us.
+- fresh: Ask the Lord concerning us, because the king of Babylon has risen against us, if the Lord will act according to all his wonders and depart from us.
 - brenton: Enquire of the Lord for us; for the king of Babylon has risen up against us; if the Lord will do according to all his wonderful works, and the king shall depart from us.
 
 ### Jeremiah 21:3
@@ -173519,55 +173519,55 @@ Note:
 ### Jeremiah 21:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord: Behold, I turn back war-weapons with which you fight against Chaldeans besieging you outside wall, into the midst of this city.
+- fresh: Thus says the Lord: Behold, I turn back the weapons of war with which you fight against the Chaldeans who besiege you outside the wall, into the midst of this city.
 - brenton: Thus saith the Lord; Behold, I will turn back the weapons of war wherewith ye fight against the Chaldeans that have besieged you from outside the wall, and I will gather them into the midst of this city.
 
 ### Jeremiah 21:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I myself will fight you with outstretched hand and strong arm, with wrath and anger and great provocation.
+- fresh: And I myself will fight you with an outstretched hand and with a strong arm, with wrath and anger and great provocation.
 - brenton: And I will fight against you with an outstretched hand and with a strong arm, with wrath and great anger.
 
 ### Jeremiah 21:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will strike all dwelling in this city, men and cattle, with great death, and they will die.
+- fresh: And I will strike all who dwell in this city, men and cattle, with great death, and they will die.
 - brenton: And I will smite all the dwellers in this city, both men and cattle, with grievous pestilence: and they shall die.
 
 ### Jeremiah 21:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And after these things, thus says the Lord, I will give Zedekiah king of Judah and his servants and people left in this city from death and from famine and from sword into the hands of their enemies seeking their lives, and they will cut them down with edge of sword. I will not spare them and I will not pity them.
+- fresh: And after these things, thus says the Lord, I will give Zedekiah king of Judah and his servants and the people left in this city from death and from famine and from sword into the hands of their enemies seeking their lives, and they will cut them down with the edge of a sword. I will not spare them and I will not pity them.
 - brenton: And after this, thus saith the Lord; I will give Sedekias king of Juda, and his servants, and the people that is left in this city from the pestilence, and from the famine, and from the sword, into the hands of their enemies, that seek their lives: and they shall cut them in pieces with the edge of the sword: I will not spare them, and I will not have compassion upon them.
 
 ### Jeremiah 21:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And to this people you will say, Thus says the Lord: Behold, I have given before your face way of life and way of death.
+- fresh: And to this people you will say, Thus says the Lord: Behold, I have given before your face the way of life and the way of death.
 - brenton: And thou shalt say to this people, Thus saith the Lord; Behold, I have set before you the way of life, and the way of death.
 
 ### Jeremiah 21:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: One dwelling in this city will die by sword and by famine, but one going out to join the Chaldeans besieging you will live, and his soul will be for spoil and he will live.
+- fresh: The one dwelling in this city will die by sword and by famine, but the one going out to join the Chaldeans besieging you will live, and his soul will be for spoil and he will live.
 - brenton: He that remains in this city shall die by the sword, and by famine: but he that goes forth to advance to the Chaldeans that have besieged you, shall live, and his life shall be to him for a spoil, and he shall live.
 
 ### Jeremiah 21:10
@@ -173591,26 +173591,26 @@ Note:
 ### Jeremiah 21:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: House of David, thus says the Lord: Judge judgment in morning, and set right, and rescue plundered one from the hand of one wronging him, so that my wrath not blaze like fire and burn, and there not be one quenching it.
+- fresh: House of David, thus says the Lord: Judge judgment in the morning, and set right, and rescue the plundered one from the hand of one wronging him, so that my wrath not blaze like fire and burn, and there not be one quenching it.
 - brenton: O house of David, thus saith the Lord; Judge judgment in the morning, and act rightly, and rescue the spoiled one from the hand of him that wrongs him, lest mine anger be kindled like fire, and it burn, and there be none to quench it.
 
 ### Jeremiah 21:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, I am against you, one dwelling in the valley of Sor, the plain one, those saying, Who will terrify us, and who will enter into our dwelling?
+- fresh: Behold, I am against you, the one dwelling in the valley of Sor, the plain one, those saying, Who will terrify us, and who will enter into our dwelling?
 - brenton: Behold, I am against thee that dwellest in the valley of Sor; in the plain country, even against them that say, Who shall alarm us? or who shall enter into our habitation?
 
 ### Jeremiah 21:14
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And I will kindle fire in her forest, and it will devour all around her.
 - brenton: And I will kindle a fire in the forest thereof, and it shall devour all things round about it.
@@ -173636,17 +173636,17 @@ Note:
 ### Jeremiah 22:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord: Practice judgment and righteousness, and rescue the plundered one from the hand of the one wronging him; do not oppress resident alien, orphan, or widow; do not act impiously, and do not pour out innocent blood in this place.
+- fresh: Thus says the Lord: Practice judgment and righteousness, and rescue the plundered one from the hand of the one wronging him; do not oppress the resident alien, orphan, or widow; do not act impiously, and do not pour out innocent blood in this place.
 - brenton: thus saith the Lord; Execute ye judgment and justice, and rescue the spoiled out of the hand of him that wrongs him: and oppress not the stranger, and orphan, and widow, and sin not, and shed no innocent blood in this place.
 
 ### Jeremiah 22:4
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Because if in doing you do this word, kings seated on the throne of David will enter through the gates of this house and mounted on chariots and horses, they and their servants and their people.
 - brenton: For if ye will indeed perform this word, then shall there enter in by the gates of this house kings sitting upon the throne of David, and riding on chariots and horses, they, and their servants, and their people.
@@ -173654,28 +173654,28 @@ Note:
 ### Jeremiah 22:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But if you will not do these words, by myself I swore, says the Lord, that this house will become for desolation.
+- fresh: But if you will not do these words, by myself I swore, says the Lord, that this house will become a desolation.
 - brenton: But if ye will not perform these words, by myself have I sworn, saith the Lord, that this house shall be brought to desolation.
 
 ### Jeremiah 22:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Because thus says the Lord against the house of the king of Judah: Gilead, you are to me, head of Lebanon. If I do not set you into the wilderness, cities not to be inhabited.
+- fresh: Because thus says the Lord against the house of the king of Judah: Gilead, you are to me, the head of Lebanon. I will surely set you as a wilderness, cities not to be inhabited.
 - brenton: For thus saith the Lord concerning the house of the king of Juda; Thou art Galaad to me, and the head of Libanus: yet surely I will make thee a desert, even cities that shall not be inhabited:
 
 ### Jeremiah 22:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will bring against you man destroying, and his axe, and they will cut down your choice cedars and throw them into fire.
+- fresh: And I will bring against you a destroying man and his axe, and they will cut down your choice cedars and throw them into the fire.
 - brenton: and I will bring upon thee a destroying man, and his axe: and they shall cut down thy choice cedars, and cast them into the fire.
 
 ### Jeremiah 22:8
@@ -173690,26 +173690,26 @@ Note:
 ### Jeremiah 22:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they will say, Because they abandoned covenant of the Lord their God and bowed to foreign gods and served them.
+- fresh: And they will say, Because they abandoned the covenant of the Lord their God and bowed to foreign gods and served them.
 - brenton: And they shall say, Because they forsook the covenant of the Lord their God, and worshipped strange gods, and served them.
 
 ### Jeremiah 22:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 2
 - same_normalized: no
-- fresh: Do not weep dead one and do not lament him. Weep with weeping for one going out, because he will not return again and will not see land of his homeland.
+- fresh: Do not weep for the dead one and do not lament him. Weep with weeping for the one going out, because he will not return again and will not see the land of his homeland.
 - brenton: Weep not for the dead, nor lament for him: weep bitterly for him that goes away: for he shall return no more, nor see his native land.
 
 ### Jeremiah 22:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 3
 - same_normalized: no
 - fresh: Because thus says the Lord concerning Shallum son of Josiah, reigning instead of Josiah his father, who went out from this place: He will not return there any longer.
 - brenton: For thus saith the Lord concerning Sellem the son of Josias, who reigns in the place of Josias his father, who has gone forth out of this place; He shall not return thither any more:
@@ -173717,53 +173717,53 @@ Note:
 ### Jeremiah 22:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But in place where I carried him away, there he will die, and this land he will not see again.
+- fresh: But in the place where I carried him away, there he will die, and this land he will not see again.
 - brenton: but in that place whither I have carried him captive, there shall he die, and shall see this land no more.
 
 ### Jeremiah 22:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Woe one building his house not with righteousness and his upper rooms not in judgment, with his neighbor working for nothing, and he will never pay him his wages.
+- fresh: Woe to the one building his house not with righteousness and his upper rooms not in judgment, with his neighbor working for nothing, and he will never pay him his wages.
 - brenton: He that builds his house not with justice, and his upper chambers not with judgment, who works by means of his neighbour for nothing, and will by no means give him his reward.
 
 ### Jeremiah 22:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: You built for yourself well-proportioned house, airy upper rooms opened with windows and paneled with cedar and painted with red pigment.
+- fresh: You built for yourself a well-proportioned house, airy upper rooms opened with windows and paneled with cedar and painted with red pigment.
 - brenton: Thou hast built for thyself a well-proportioned house, airy chambers, fitted with windows, and wainscoted with cedar, and painted with vermilion.
 
 ### Jeremiah 22:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Will you reign because you are inflamed against Ahaz your father? They will not eat and will not drink. Better it was for you to do judgment and good righteousness.
+- fresh: Will you reign because you are inflamed against Ahaz your father? Will they not eat and will they not drink? It was better for you to do judgment and good righteousness.
 - brenton: Shalt thou reign, because thou art provoked with thy father Achaz? they shall not eat, and they shall not drink: it is better for thee to execute judgment and justice.
 
 ### Jeremiah 22:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: They did not know, they did not judge case of lowly nor case of poor. Is not this the same as not knowing me? says the Lord.
+- fresh: They did not know; they did not judge the case of the lowly nor the case of the poor. Is not this the same as not knowing me? says the Lord.
 - brenton: They understood not, they judged not the cause of the afflicted, nor the cause of the poor: is not this thy not knowing me? saith the Lord.
 
 ### Jeremiah 22:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Behold, your eyes and your heart are not good, but only for your greed and for pouring out innocent blood and for doing injustice and murder.
 - brenton: Behold, thine eyes are not good, nor thine heart, but they go after thy covetousness, and after the innocent blood to shed it, and after acts of injustice and slaughter, to commit them.
@@ -173771,28 +173771,28 @@ Note:
 ### Jeremiah 22:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore thus says the Lord concerning Jehoiakim son of Josiah king of Judah: Woe for this man. They will not lament him, saying, Ah brother, and they will not weep him, saying, Alas Lord.
+- fresh: Therefore thus says the Lord concerning Jehoiakim son of Josiah king of Judah: Woe for this man. They will not lament him, saying, Ah brother, and they will not weep for him, saying, Alas, Lord.
 - brenton: Therefore thus saith the Lord concerning Joakim son of Josias, king of Juda, even concerning this man; they shall not bewail him, saying, Ah brother! neither shall they at all weep for him, saying, Alas Lord.
 
 ### Jeremiah 22:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: With burial of donkey he will be buried, dragged away and thrown beyond gate of Jerusalem.
+- fresh: With the burial of a donkey he will be buried, dragged away and thrown beyond the gate of Jerusalem.
 - brenton: He shall be buried with the burial of an ass; he shall be dragged roughly along and cast outside the gate of Jerusalem.
 
 ### Jeremiah 22:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Go up to Lebanon and cry out, and in Bashan give your voice, and cry from across sea, because all your lovers were shattered.
+- fresh: Go up to Lebanon and cry out, and in Bashan give your voice, and cry beyond the sea, because all your lovers were shattered.
 - brenton: Go up to Libanus, and cry; and utter thy voice to Basan, and cry aloud to the extremity of the sea: for all thy lovers are destroyed.
 
 ### Jeremiah 22:21
@@ -173807,46 +173807,46 @@ Note:
 ### Jeremiah 22:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Wind will shepherd all your shepherds, and your lovers will go out into captivity, because then you will be ashamed and dishonored from all loving you.
+- fresh: Wind will shepherd all your shepherds, and your lovers will go out into captivity, because then you will be ashamed and dishonored by all those loving you.
 - brenton: The wind shall tend all thy shepherds, and thy lovers shall go into captivity; for then shalt thou be ashamed and disgraced because of all thy lovers.
 
 ### Jeremiah 22:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You dwelling in Lebanon, nesting in cedars, you will groan when birth-pains come on you, like a woman giving birth.
+- fresh: You who dwell in Lebanon, nesting in the cedars, you will groan when birth-pains come on you, like one giving birth.
 - brenton: O thou that dwellest in Libanus, making thy nest in the cedars, thou shalt groan heavily, when pangs as of a travailing woman are come upon thee.
 
 ### Jeremiah 22:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: As I live, says the Lord, if Jeconiah son of Jehoiakim king of Judah becomes signet on my right hand, even from there I will pull you away.
+- fresh: As I live, says the Lord, if Jeconiah son of Jehoiakim king of Judah should become a signet on my right hand, from there I will tear you away.
 - brenton: As I live, saith the Lord, though Jechonias son of Joakim king of Juda were indeed the seal upon my right hand, thence would I pluck thee;
 
 ### Jeremiah 22:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will hand you over into the hands of those seeking your life, whom you fear before their face, into the hands of Chaldeans.
+- fresh: And I will hand you over into the hands of those seeking your life, before whose face you are afraid, into the hands of the Chaldeans.
 - brenton: and I will deliver thee into the hands of them that seek thy life, before whom thou art afraid, into the hands of the Chaldeans.
 
 ### Jeremiah 22:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will throw you and your mother who bore you into the land where you were not born, and there you will die.
+- fresh: And I will throw you and your mother who bore you into a land where you were not born, and there you will die.
 - brenton: And I will cast forth thee, and thy mother that bore thee, into a land where thou wast not born; and there ye shall die.
 
 ### Jeremiah 22:27
@@ -173861,55 +173861,55 @@ Note:
 ### Jeremiah 22:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Jeconiah was dishonored like a vessel of no use, because he was thrown out and cast into the land which he did not know.
+- fresh: Was Jeconiah dishonored like a vessel of no use? Because he was thrown out and cast into a land which he did not know.
 - brenton: Jechonias is dishonoured as a good-for-nothing vessel; for he is thrown out and cast forth into a land which he knew not.
 
 ### Jeremiah 22:29
 
 - importance: high
-- decisions: 0
-- footnotes: 1
-- same_normalized: yes
-- fresh: Land, land, hear the word of the Lord.
+- decisions: 1
+- footnotes: 2
+- same_normalized: no
+- fresh: Earth, earth, hear the word of the Lord.
 - brenton: Land, land, hear the word of the Lord.
 
 ### Jeremiah 22:30
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Write this man as rejected, because no man from his seed will grow up to sit on the throne of David and ruling any longer in Judah.
+- fresh: Write this man as rejected, because no man from his seed will grow up to sit on the throne of David and rule any longer in Judah.
 - brenton: Write ye this man an outcast: for there shall none of his seed at all grow up to sit on the throne of David, or as a prince yet in Juda.
 
 ### Jeremiah 23:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Woe, shepherds scattering and destroying sheep of my pasture.
+- fresh: Woe to the shepherds who scatter and destroy the sheep of my pasture.
 - brenton: Woe to the shepherds that destroy and scatter the sheep of their pasture!
 
 ### Jeremiah 23:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore thus says the Lord against ones shepherding my people: You scattered my sheep and drove them out and did not visit them. Behold, I punish you according to your evil practices.
+- fresh: Therefore thus says the Lord against those shepherding my people: You scattered my sheep and drove them out and did not attend to them. Behold, I punish you according to your evil practices.
 - brenton: Therefore thus saith the Lord against them that tend my people; Ye have scattered my sheep, and driven them out, and ye have not visited them: behold, I will take vengeance upon you according to your evil practices.
 
 ### Jeremiah 23:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will gather remnant of my people from every land where I drove them there and restore them to their pasture, and they will increase and multiply.
+- fresh: And I will gather the remnant of my people from every land where I drove them, and I will restore them to their pasture, and they will increase and multiply.
 - brenton: And I will gather in the remnant of my people in every land, whither I have driven them out, and will set them in their pasture; and they shall increase and be multiplied.
 
 ### Jeremiah 23:4
@@ -173924,80 +173924,80 @@ Note:
 ### Jeremiah 23:5
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 3
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, days come, says the Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
+- fresh: Behold, days are coming, says the Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon the earth.
 - brenton: Behold, the days come, saith the Lord, when I will raise up to David a righteous branch, and a king shall reign and understand, and shall execute judgment and righteousness on the earth.
 
 ### Jeremiah 23:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: In his days Judah will be saved and Israel will camp in confidence, and this is his name which the Lord will call him: The Lord Is Righteous.
+- fresh: In his days Judah will be saved and Israel will dwell in confidence, and this is his name which the Lord will call him: The Lord Is Righteous.
 - brenton: In his days both Juda shall be saved, and Israel shall dwell securely: and this is his name, which the Lord shall call him, Josedec among the prophets.
 
 ### Jeremiah 23:7
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore behold, days come, says the Lord, and they will no longer say, As the Lord lives, who brought up the house of Israel from the land of Egypt,
+- fresh: Therefore behold, days are coming, says the Lord, and they will no longer say, As the Lord lives, who brought up the house of Israel from the land of Egypt,
 - brenton: [missing]
 
 ### Jeremiah 23:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: but, As the Lord lives, who gathered all seed of Israel from the land of the north and from all lands where he drove them there and restored them to their land.
+- fresh: but, As the Lord lives, who gathered all the seed of Israel from the land of the north and from all the lands where he drove them and restored them to their land.
 - brenton: [missing]
 
 ### Jeremiah 23:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: In prophets my heart was crushed within me. All my bones were shaken. I became like a broken man and like a man overcome by wine, before the face of the Lord and before the face of glory of his splendor.
+- fresh: Concerning the prophets, my heart was crushed within me. All my bones were shaken. I became like a broken man and like a man overcome by wine, before the face of the Lord and before the face of the splendor of his glory.
 - brenton: My heart is broken within me; all my bones are shaken: I am become as a broken-down man, and as a man overcome with wine, because of the Lord, and because of the excellence of his glory.
 
 ### Jeremiah 23:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Because from these things land mourned. Pastures of the wilderness dried up, and their way became evil, and their strength not so.
+- fresh: Because of these things the land mourned. The pastures of the wilderness dried up, and their way became evil, and their strength was not right.
 - brenton: For because of these things the land mourns; the pastures of the wilderness are dried up; and their course is become evil, and so also their strength.
 
 ### Jeremiah 23:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because priest and prophet were polluted, and in my house I saw their evils.
+- fresh: Because priest and prophet were defiled, and in my house I saw their evils.
 - brenton: For priest and prophet are defiled; and I have seen their iniquities in my house.
 
 ### Jeremiah 23:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore let their way become for them slipping-place in gloom, and they will stumble and fall in it, because I will bring evils on them in the year of their visitation, says the Lord.
+- fresh: Therefore let their way become for them a slippery place in gloom, and they will stumble and fall in it, because I will bring evils on them in the year of their visitation, says the Lord.
 - brenton: Therefore let their way be to them slippery and dark: and they shall be tripped up and fall in it: for I will bring evils upon them, in the year of their visitation.
 
 ### Jeremiah 23:13
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And in the prophets of Samaria I saw lawless things. They prophesied by Baal and led my people Israel astray.
 - brenton: And in the prophets of Samaria I have seen lawless deeds; they prophesied by Baal, and led my people Israel astray.
@@ -174005,44 +174005,44 @@ Note:
 ### Jeremiah 23:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 4
 - same_normalized: no
-- fresh: And in the prophets of Jerusalem I saw horrible things: committing adultery and walking in lies and strengthening hands of evildoers, so that each not turn back from his evil way. They all became to me like Sodom, and those dwelling in it like Gomorrah.
+- fresh: And in the prophets of Jerusalem I saw horrible things: committing adultery and walking in lies and strengthening the hands of evildoers, so that each one would not turn back from his evil way. They all became to me like Sodom, and those dwelling in it like Gomorrah.
 - brenton: Also in the prophets of Jerusalem I have seen horrible things: as they committed adultery, and walked in lies, and strengthened the hands of many, that they should not return each from his evil way: they are all become to me as Sodoma, and the inhabitants thereof as Gomorrha.
 
 ### Jeremiah 23:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Behold, I feed them pain and give them bitter water to drink, because from prophets of Jerusalem pollution went out into all the land.
+- fresh: Therefore thus says the Lord: Behold, I feed them pain and give them bitter water to drink, because from the prophets of Jerusalem pollution went out into all the land.
 - brenton: Therefore thus saith the Lord; Behold, I will feed them with pain, and give them bitter water to drink: for from the prophets of Jerusalem has defilement gone forth into all the land.
 
 ### Jeremiah 23:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: Do not hear the words of prophets. They make vain things for themselves. They speak vision from their own heart and not from the mouth of the Lord.
+- fresh: Thus says the Lord Almighty: Do not hear the words of prophets, because they make vain things for themselves. They speak a vision from their own heart and not from the mouth of the Lord.
 - brenton: Thus saith the Lord Almighty, Hearken not to the words of the prophets: for they frame a vain vision for themselves; they speak from their own heart, and not from the mouth of the Lord.
 
 ### Jeremiah 23:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: They say to ones rejecting the word of the Lord, Peace will be to you, and to all walking after their own desires, to everyone walking in the wandering of his heart, they said, Evils will not come on you.
+- fresh: They say to those rejecting the word of the Lord, Peace will be to you, and to all those walking after their own desires, to everyone walking in the wandering of his heart, they said, Evils will not come upon you.
 - brenton: They say to them that reject the word of the Lord, There shall be peace to you; and to all that walk after their own lusts, and to every one that walks in the error of his heart, they have said, No evil shall come upon thee.
 
 ### Jeremiah 23:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Because who stood in the Lord's standing-place and saw his word? Who gave ear and heard?
 - brenton: For who has stood in the counsel of the Lord, and seen his word? who has hearkened, and heard?
@@ -174050,17 +174050,17 @@ Note:
 ### Jeremiah 23:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, shaking from the Lord, and wrath goes out into turmoil twisting itself. It will come upon ungodly.
+- fresh: Behold, a shaking from the Lord, and wrath goes out into a whirling turmoil. It will come upon the ungodly.
 - brenton: Behold, there is an earthquake from the Lord, and anger proceeds to a convulsion, it shall come violently upon the ungodly.
 
 ### Jeremiah 23:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And the anger of the Lord will not turn back until he does it and until he raises it up from the undertaking of his heart. At the last of days they will understand these things.
 - brenton: And the Lord's wrath shall return no more, until he have accomplished it, and until he have established it, according to the purpose of his heart: at the end of the days they shall understand it.
@@ -174068,17 +174068,17 @@ Note:
 ### Jeremiah 23:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I did not send prophets, and they ran. I did not speak to them, and they prophesied.
+- fresh: I did not send the prophets, and they ran. I did not speak to them, and they prophesied.
 - brenton: I sent not the prophets, yet they ran: neither spoke I to them, yet they prophesied.
 
 ### Jeremiah 23:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And if they had stood in my standing-place and heard my words, they would have turned my people away from their evil practices.
 - brenton: But if they had stood in my counsel, and if they had hearkened to my words, then would they have turned my people from their evil practices.
@@ -174086,62 +174086,62 @@ Note:
 ### Jeremiah 23:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Am I God near at hand, says the Lord, and not God from far away?
+- fresh: Am I a God near at hand, says the Lord, and not a God from far away?
 - brenton: I am a God nigh at hand, saith the Lord, and not a God afar off.
 
 ### Jeremiah 23:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: If man hides himself in hidden places, will I not see him? Do I not fill heaven and earth? says the Lord.
+- fresh: If a man hides himself in hidden places, will I not see him? Do I not fill heaven and earth? says the Lord.
 - brenton: Shall any one hide himself in secret places, and I not see him? Do I not fill heaven and earth? saith the Lord.
 
 ### Jeremiah 23:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I heard what prophets say, those prophesying lies in my name, saying, I dreamed dream.
+- fresh: I heard what the prophets say, those prophesying lies in my name, saying, I dreamed a dream.
 - brenton: I have heard what the prophets say, what they prophesy in my name, saying falsely, I have seen a night vision.
 
 ### Jeremiah 23:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: How long will this be in the heart of prophets prophesying lies and prophesying desires of their own heart?
+- fresh: How long will this be in the heart of the prophets prophesying lies and prophesying the desires of their own heart?
 - brenton: How long shall these things be in the heart of the prophets that prophesy lies, when they prophesy the purposes of their own heart?
 
 ### Jeremiah 23:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: They plan to make my law forgotten in their dreams which each recounts to his neighbor, just as their fathers forgot my name in Baal.
+- fresh: They plan to make my law forgotten by their dreams which each recounts to his neighbor, just as their fathers forgot my name in Baal.
 - brenton: who devise that men may forget my law by their dreams, which they have told every one to his neighbour, as their fathers forgot my name in the worship of Baal.
 
 ### Jeremiah 23:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Prophet in whom dream is, let him recount his dream, and one with whom my word is, let him recount my word in truth. What has straw toward wheat? So are my words, says the Lord.
+- fresh: The prophet in whom the dream is, let him recount his dream, and the one with whom my word is, let him recount my word in truth. What is straw compared to wheat? So are my words, says the Lord.
 - brenton: The prophet who has a dream, let him tell his dream; and he in whom is my word spoken to him, let him tell my word truly: what is the chaff to the corn? so are my words, saith the Lord.
 
 ### Jeremiah 23:29
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
 - fresh: Are not my words like flaming fire, says the Lord, and like a hammer breaking rock?
 - brenton: Behold, are not my words as fire? saith the Lord; and as an axe cutting the rock?
@@ -174149,53 +174149,53 @@ Note:
 ### Jeremiah 23:30
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore behold, I am against prophets, says the Lord God, those stealing my words, each from his neighbor.
+- fresh: Therefore behold, I am against the prophets, says the Lord God, those stealing my words, each from his neighbor.
 - brenton: Behold, I am therefore against the prophets, saith the Lord God, that steal my words every one from his neighbour.
 
 ### Jeremiah 23:31
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, I am against prophets throwing out prophecies of tongue and dozing their own drowsiness.
+- fresh: Behold, I am against the prophets throwing out prophecies of the tongue and dozing their own drowsiness.
 - brenton: Behold, I am against the prophets that put forth prophecies of mere words, and slumber their sleep.
 
 ### Jeremiah 23:32
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, I am against prophets prophesying lying dreams, and they recounted them and led my people astray in their lies and in their wanderings. And I did not send them and did not command them, and they will not benefit this people with benefit.
+- fresh: Behold, I am against the prophets prophesying lying dreams, and they recounted them and led my people astray in their lies and in their wanderings. And I did not send them and did not command them, and they will not benefit this people with any benefit.
 - brenton: Therefore, behold, I am against the prophets that prophesy false dreams, and have not told them truly, and have caused my people to err by their lies, and by their errors; yet I sent them not, and commanded them not; therefore, they shall not profit this people at all.
 
 ### Jeremiah 23:33
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And if this people or priest or prophet asks you, saying, What burden of the Lord? then you will say to them, You are burden, and I will dash you down, says the Lord.
+- fresh: And if this people or priest or prophet asks you, saying, What is the burden of the Lord? then you will say to them, You are the burden, and I will dash you down, says the Lord.
 - brenton: And if this people, or the priest, or the prophet, should ask, What is the burden of the Lord? then thou shalt say to them, Ye are the burden, and I will dash you down, saith the Lord.
 
 ### Jeremiah 23:34
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And prophet and priest and people, whoever says, Burden of the Lord, I will punish that man and his house.
+- fresh: And the prophet and the priest and the people, whoever says, Burden of the Lord, I will punish that man and his house.
 - brenton: As for the prophet, and the priests, and the people, who shall say, The burden of the Lord, I will even take vengeance on that man, and on his house.
 
 ### Jeremiah 23:35
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Because thus each will say to his neighbor and each to his brother, What did the Lord answer, and what did the Lord speak?
 - brenton: Thus shall ye say every one to his neighbour, and every one to his brother, What has the Lord answered? and, what has the Lord said?
@@ -174203,10 +174203,10 @@ Note:
 ### Jeremiah 23:36
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And burden of the Lord do not name any longer, because burden will be each man's own word.
+- fresh: And do not name Burden of the Lord any longer, because the burden will be each man's own word.
 - brenton: And do ye name no more the burden of the Lord; for his own word shall be a man's burden.
 
 ### Jeremiah 23:37
@@ -174230,46 +174230,46 @@ Note:
 ### Jeremiah 23:39
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: therefore behold, I will take and dash you and city which I gave to you and to your fathers.
+- fresh: therefore behold, I will take and dash you and the city which I gave to you and to your fathers.
 - brenton: therefore, behold, I will seize, and dash down you and the city which I gave to you and your fathers.
 
 ### Jeremiah 23:40
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will give on you eternal reproach and eternal dishonor which will not be forgotten.
+- fresh: And I will put upon you eternal reproach and eternal dishonor which will not be forgotten.
 - brenton: And I will bring upon you an everlasting reproach, and everlasting disgrace, which shall not be forgotten.
 
 ### Jeremiah 24:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 5
 - same_normalized: no
-- fresh: The Lord showed me two baskets of figs set before the face of the temple of the Lord, after Nebuchadnezzar king of Babylon carried away Jeconiah son of Jehoiakim king of Judah and rulers and craftsmen and prisoners and rich men from Jerusalem and brought them into Babylon.
+- fresh: The Lord showed me two baskets of figs set before the face of the temple of the Lord, after Nebuchadnezzar king of Babylon carried away Jeconiah son of Jehoiakim king of Judah and the rulers and the craftsmen and the prisoners and the rich men from Jerusalem and brought them to Babylon.
 - brenton: The Lord shewed me two baskets of figs, lying in front of the temple of the Lord, after Nabuchodonosor king of Babylon had carried captive Jechonias son of Joakim king of Juda, and the princes, and the artificers, and the prisoners, and the rich men out of Jerusalem, and had brought them to Babylon.
 
 ### Jeremiah 24:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: One basket held very good figs, like first-ripe figs, and other basket held very bad figs, which will not be eaten because of their badness.
+- fresh: One basket held very good figs, like the first-ripe figs, and the other basket held very bad figs, which will not be eaten because of their badness.
 - brenton: The one basket was full of very good figs, as the early figs; and the other basket was full of very bad figs, which could not be eaten, for their badness.
 
 ### Jeremiah 24:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me, What do you see, Jeremiah? And I said, Figs, very good ones very good, and very bad ones very bad, which will not be eaten because of their badness.
+- fresh: And the Lord said to me, What do you see, Jeremiah? And I said, Figs: the good ones are very good, and the bad ones are very bad, which will not be eaten because of their badness.
 - brenton: And the Lord said to me, What seest thou, Jeremias? and I said, Figs; the good figs, very good; and the bad, very bad, which cannot be eaten, for their badness.
 
 ### Jeremiah 24:4
@@ -174284,64 +174284,64 @@ Note:
 ### Jeremiah 24:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Thus says the Lord God of Israel: As these good figs, so I will recognize exiles of Judah whom I sent away from this place into the land of Chaldeans for good.
+- fresh: Thus says the Lord God of Israel: As these good figs, so I will recognize the exiles of Judah whom I sent away from this place into the land of the Chaldeans for good.
 - brenton: Thus saith the Lord, the God of Israel; As these good figs, so will I acknowledge the Jews that have been carried away captive, whom I have sent forth out of this place into the land of the Chaldeans for good.
 
 ### Jeremiah 24:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will set my eyes on them for good and restore them into this land for good, and I will rebuild them and not tear down, and I will plant them and not pull up.
+- fresh: And I will set my eyes on them for good and restore them to this land for good, and I will rebuild them and certainly not tear them down, and I will plant them and certainly not pull them up.
 - brenton: And I will fix mine eyes upon them for good, and I will restore them into this land for good: and I will build them up, and not pull them down; and I will plant them, and not pluck them up.
 
 ### Jeremiah 24:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will give them heart to know me, that I am the Lord, and they will be to me for people and I will be to them for God, because they will turn back to me with all their heart.
+- fresh: And I will give them a heart to know me, that I am the Lord, and they will be to me for a people and I will be to them for God, because they will turn back to me with all their heart.
 - brenton: And I will give them a heart to know me, that I am the Lord: and they shall be to me a people, and I will be to them a God: for they shall turn to me with all their heart.
 
 ### Jeremiah 24:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And like bad figs, which will not be eaten because of their badness, thus says the Lord, so I will hand over Zedekiah king of Judah and his nobles and remnant of Jerusalem left in this land and those dwelling in Egypt.
+- fresh: And like the bad figs, which will not be eaten because of their badness, thus says the Lord, so I will hand over Zedekiah king of Judah and his nobles and the remnant of Jerusalem left in this land and those dwelling in Egypt.
 - brenton: And as the bad figs, which cannot be eaten, for their badness; thus saith the Lord, So will I deliver Sedekias king of Juda, and his nobles, and the remnant of Jerusalem, them that are left in this land, and the dwellers in Egypt.
 
 ### Jeremiah 24:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will give them for dispersion into all kingdoms of the earth, and they will be for reproach and for proverb and for hatred and for curse in every place where I drove them there.
+- fresh: And I will give them for dispersion into all the kingdoms of the earth, and they will be for a reproach and for a proverb and for hatred and for a curse in every place where I drove them.
 - brenton: And I will cause them to be dispersed into all the kingdoms of the earth, and they shall be for a reproach, and a proverb, and an object of hatred, and a curse, in every place whither I have driven them out.
 
 ### Jeremiah 24:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will send on them famine and death and sword until they fail from the land which I gave them.
+- fresh: And I will send upon them famine and death and sword until they are gone from the land which I gave them.
 - brenton: And I will send against them famine, and pestilence, and the sword, until they are consumed from off the land which I gave them.
 
 ### Jeremiah 25:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 4
 - same_normalized: no
-- fresh: Word coming to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim son of Josiah king of Judah,
+- fresh: The word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim son of Josiah king of Judah,
 - brenton: The Word that came to Jeremias concerning all the people of Juda in the fourth year of Joakim, son of Josias, king of Juda;
 
 ### Jeremiah 25:2
@@ -174350,16 +174350,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: which he spoke to all the people of Judah and to ones dwelling in Jerusalem, saying,
+- fresh: which he spoke to all the people of Judah and to those dwelling in Jerusalem, saying,
 - brenton: which he spoke to all the people of Juda, and to the inhabitants of Jerusalem, saying,
 
 ### Jeremiah 25:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: In thirteenth year of Josiah son of Amos king of Judah and until this day, twenty-three years, I spoke to you, rising early and speaking.
+- fresh: In the thirteenth year of Josiah son of Amon king of Judah and until this day, twenty-three years, I spoke to you, rising early and speaking.
 - brenton: In the thirteenth year of Josias, son of Amos, king of Juda, even until this day for three and twenty years, I have both spoken to you, rising early and speaking,
 
 ### Jeremiah 25:4
@@ -174374,19 +174374,19 @@ Note:
 ### Jeremiah 25:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: saying, Let each turn back from his evil way and from your evil practices, and you will dwell upon the land which I gave to you and to your fathers from age to age.
+- fresh: saying, Let each one turn back from his evil way and from your evil practices, and you will dwell upon the land which I gave to you and to your fathers from age to age.
 - brenton: Turn ye every one from his evil way, and from your evil practices, and ye shall dwell in the land which I gave to you and your fathers, of old and for ever.
 
 ### Jeremiah 25:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Do not go after foreign gods, to serve them and bow to them, so that you not provoke me by the works of your hands, to harm you.
+- fresh: Do not go after foreign gods, to serve them and bow down to them, so that you do not provoke me by the works of your hands, to harm you.
 - brenton: Go ye not after strange gods, to serve them, and to worship them, that ye provoke me not by the works of your hands, to do you hurt.
 
 ### Jeremiah 25:7
@@ -174410,28 +174410,28 @@ Note:
 ### Jeremiah 25:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: behold, I send and will take family from north and bring them upon this land and upon those dwelling in it and upon all nations around it, and I will make them desolate and give them for disappearance and for hissing and for eternal reproach.
+- fresh: behold, I send and will take the family from the north and bring them upon this land and upon those dwelling in it and upon all the nations around it, and I will make them desolate and give them for disappearance and for hissing and for eternal reproach.
 - brenton: behold, I will send and take a family from the north, and will bring them against this land, and against the inhabitants of it, and against all the nations round about it, and I will make them utterly waste, and make them a desolation, and a hissing, and an everlasting reproach.
 
 ### Jeremiah 25:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will destroy from them the voice of joy and the voice of gladness, the voice of bridegroom and the voice of bride, the smell of perfume and the light of a lamp.
+- fresh: And I will destroy from them the voice of joy and the voice of gladness, the voice of a bridegroom and the voice of a bride, the smell of perfume and the light of a lamp.
 - brenton: And I will destroy from among them the voice of joy, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the scent of ointment, and the light of a candle.
 
 ### Jeremiah 25:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And all the land will be for disappearance, and they will serve among nations seventy years.
+- fresh: And all the land will be for disappearance, and they will serve among the nations seventy years.
 - brenton: And all the land shall be a desolation; and they shall serve among the Gentiles seventy years.
 
 ### Jeremiah 25:12
@@ -174440,7 +174440,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And when seventy years are fulfilled, I will punish that nation, says the Lord, and I will set them for eternal disappearance.
+- fresh: And when the seventy years are fulfilled, I will punish that nation, says the Lord, and I will set them for eternal disappearance.
 - brenton: And when the seventy years are fulfilled, I will take vengeance on that nation, and will make them a perpetual desolation.
 
 ### Jeremiah 25:13
@@ -174449,34 +174449,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will bring upon that land all my words which I spoke against it, all things written in this book.
+- fresh: And I will bring upon that land all my words which I spoke against it, all the things written in this book.
 - brenton: And I will bring upon that land all my words which I have spoken against it, even all things that are written in this book.
 
 ### Jeremiah 25:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: What Jeremiah prophesied against nations, against Elam.
+- fresh: The things which Jeremiah prophesied against the nations, against Elam.
 - brenton: The Prophecies of Jeremias against the Nations of Ælam.
 
 ### Jeremiah 25:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord: Let bow of Elam be shattered, beginning of their power.
+- fresh: Thus says the Lord: Let the bow of Elam be shattered, the beginning of their power.
 - brenton: Thus saith the Lord, The bow of Ælam is broken, even the chief of their power.
 
 ### Jeremiah 25:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will bring upon Elam four winds from four ends of heaven and will scatter them in all these winds, and there will not be nation where outcasts of Elam will not come.
+- fresh: And I will bring upon Elam four winds from the four ends of heaven and will scatter them in all these winds, and there will not be a nation where the outcasts of Elam will not come.
 - brenton: And I will bring upon Ælam the four winds from the four corners of heaven, and I will disperse them toward all these winds; and there shall be no nation to which they shall not come—even the outcasts of Ælam.
 
 ### Jeremiah 25:17
@@ -174485,43 +174485,43 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will terrify them before their enemies seeking their lives, and I will bring on them evils according to the anger of my wrath, and I will send my sword after them until I consume them.
+- fresh: And I will terrify them before their enemies seeking their lives, and I will bring evils upon them according to the anger of my wrath, and I will send my sword after them until I consume them.
 - brenton: And I will put them in fear before their enemies that seek their life; and I will bring evils upon them according to my great anger; and I will send forth my sword after them, until I have utterly destroyed them.
 
 ### Jeremiah 25:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will set my throne in Elam and send away from there king and nobles.
+- fresh: And I will set my throne in Elam and send away from there the king and nobles.
 - brenton: And I will set my throne in Ælam, and will send forth thence king and rulers.
 
 ### Jeremiah 25:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be at the last of days, I will turn captivity of Elam, says the Lord.
+- fresh: And it will be at the last of days: I will turn back the captivity of Elam, says the Lord.
 - brenton: But it shall come to pass at the end of days, that I will turn the captivity of Ælam, saith the Lord.
 
 ### Jeremiah 25:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: At the beginning of Zedekiah king reigning, this word came concerning Elam.
+- fresh: At the beginning of the reign of King Zedekiah, this word came concerning Elam.
 - brenton: In the beginning of the reign of king Sedekias, there came this word concerning Ælam.
 
 ### Jeremiah 26:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 5
 - same_normalized: no
-- fresh: Concerning Egypt, against force of Pharaoh Neco king of Egypt, which was by the river Euphrates at Carchemish, whom Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim king of Judah.
+- fresh: Concerning Egypt, against the army of Pharaoh Neco king of Egypt, which was by the river Euphrates at Carchemish, whom Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim king of Judah.
 - brenton: For Egypt, against the Power of Pharao Nechao King of Egypt, who was by the river Euphrates in Charmis, whom Nabuchodonosor king of Babylon smote in the fourth year of Joakim king of Juda.
 
 ### Jeremiah 26:3
@@ -174530,16 +174530,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Take up weapons and shields and come near for war.
+- fresh: Take up weapons and shields, and draw near for war.
 - brenton: Take up arms and spears, and draw nigh to battle;
 
 ### Jeremiah 26:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Harness horses, mount up, riders, and stand in your helmets. Advance spears and put on your breastplates.
+- fresh: Harness the horses; mount up, riders, and stand in your helmets. Advance the spears and put on your breastplates.
 - brenton: and harness the horses: mount, ye horsemen, and stand ready in your helmets; advance the spears, and put on your breast-plates.
 
 ### Jeremiah 26:5
@@ -174548,22 +174548,22 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Why? Because they are terrified and withdraw backward, because their mighty ones are cut down. In flight they fled and did not turn back, hemmed in all around, says the Lord.
+- fresh: Why are they terrified and withdrawing backward? Because their mighty ones will be cut down. They fled in flight and did not turn back, hemmed in all around, says the Lord.
 - brenton: Why do they fear, and turn back? even because their mighty men shall be slain: they have utterly fled, and being hemmed in they have not rallied, saith the Lord.
 
 ### Jeremiah 26:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let not swift one flee, and let not mighty one be saved. In north, by Euphrates, they weakened and fell.
+- fresh: Let the swift one not flee, and let the mighty one not save himself. Toward the north, by the Euphrates, they weakened and fell.
 - brenton: Let not the swift flee, and let not the mighty man escape to the north: the forces at Euphrates are become feeble, and they have fallen.
 
 ### Jeremiah 26:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Who is this who will rise like a river, and whose waters surge like rivers?
@@ -174575,7 +174575,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Waters of Egypt will rise like a river, and he said, I will go up and cover earth and destroy those dwelling in it.
+- fresh: The waters of Egypt will rise like a river, and he said, I will go up and cover the earth and destroy those dwelling in it.
 - brenton: The waters of Egypt shall come up like a river: and he said, I will go up, and will cover the earth, and will destroy the dwellers in it.
 
 ### Jeremiah 26:9
@@ -174584,25 +174584,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Mount the horses. Prepare chariots. Go out, warriors, Ethiopians and Libyans armed with weapons, and Lydians, go up, bend bow.
+- fresh: Mount the horses. Prepare the chariots. Go out, warriors, Ethiopians and Libyans armed with weapons, and Lydians, go up, bend the bow.
 - brenton: Mount ye the horses, prepare the chariots; go forth, ye warriors of the Ethiopians, and Libyans armed with shields; and mount, ye Lydians, bend the bow.
 
 ### Jeremiah 26:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And that day belongs to the Lord our God, day of vengeance to avenge his enemies, and sword of the Lord will devour and be filled and become drunk with their blood, because sacrifice belongs to the Lord of hosts from the land of the north by the river Euphrates.
+- fresh: And that day belongs to the Lord our God, a day of vengeance to avenge his enemies, and the sword of the Lord will devour and be filled and become drunk with their blood, because a sacrifice belongs to the Lord of hosts from the land of the north by the river Euphrates.
 - brenton: And that day shall be to the Lord our God a day of vengeance, to take vengeance on his enemies: and the sword of the Lord shall devour, and be glutted, and be drunken with their blood: for the Lord has a sacrifice from the land of the north at the river Euphrates.
 
 ### Jeremiah 26:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Go up to Gilead and take resin, virgin daughter of Egypt. In vain you multiplied your healings. No benefit is for you.
+- fresh: Go up to Gilead and take resin, virgin daughter of Egypt. In vain you multiplied your healings. There is no benefit for you.
 - brenton: Go up to Galaad, and take balm for the virgin daughter of Egypt: in vain hast thou multiplied thy medicines; there is no help in thee.
 
 ### Jeremiah 26:12
@@ -174611,7 +174611,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Nations heard your voice, and earth was filled with your cry, because warrior weakened against warrior. Together both fell.
+- fresh: The nations heard your voice, and the earth was filled with your cry, because warrior weakened against warrior. Together both fell.
 - brenton: The nations have heard thy voice, and the land has been filled with thy cry: for the warriors have fainted fighting one against another, and both are fallen together.
 
 ### Jeremiah 26:13
@@ -174620,41 +174620,41 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: What the Lord spoke by the hand of Jeremiah, for Nebuchadnezzar king of Babylon to come to strike the land of Egypt.
+- fresh: The things which the Lord spoke by the hand of Jeremiah, for Nebuchadnezzar king of Babylon to come to strike the land of Egypt.
 - brenton: The Words which the Lord spoke by Jeremias, concerning the coming of the king of Babylon to smite the land of Egypt.
 
 ### Jeremiah 26:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 4
 - same_normalized: no
-- fresh: Announce in Migdol and proclaim in Memphis. Say, Stand ready and prepare, because sword devoured your smilax.
+- fresh: Announce in Migdol and proclaim in Memphis. Say, Stand ready and prepare, because the sword devoured your smilax.
 - brenton: Proclaim it at Magdol, and declare it at Memphis: say ye, Stand up, and prepare; for the sword has devoured thy yew-tree.
 
 ### Jeremiah 26:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Why did Apis, your chosen calf, flee? He did not stand, because the Lord weakened him.
+- fresh: Why did Apis, your chosen calf, flee? He did not remain, because the Lord weakened him.
 - brenton: Wherefore has Apis fled from thee? thy choice calf has not remained; for the Lord has utterly weakened him.
 
 ### Jeremiah 26:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And your multitude weakened and fell, and each said to his neighbor, Let us rise and return to our people and to our homeland from the face of Greek sword.
+- fresh: And your multitude weakened and fell, and each said to his neighbor, Let us rise and return to our people and to our homeland from the face of a Greek sword.
 - brenton: And thy multitude has fainted and fallen; and each one said to his neighbour, Let us arise, and return into our country to our people, from the Grecian sword.
 
 ### Jeremiah 26:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Call the name of Pharaoh Neco king of Egypt: Saon-esbi-emoed.
 - brenton: Call ye the name of Pharao Nechao king of Egypt, Saon esbeie moed.
@@ -174662,28 +174662,28 @@ Note:
 ### Jeremiah 26:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 3
 - same_normalized: no
-- fresh: As I live, says the Lord God, as Tabor among mountains and as Carmel in sea, so he will come.
+- fresh: As I live, says the Lord God, as Tabor among the mountains and as Carmel by the sea, so he will come.
 - brenton: As I live, saith the Lord God, he shall come as Itabyrion among the mountains, and as Carmel that is on the sea.
 
 ### Jeremiah 26:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Make for yourself gear of exile, dwelling daughter of Egypt, because Memphis will become for disappearance and will be called Woe, because none dwell in her.
+- fresh: Make for yourself gear for exile, you dwelling daughter of Egypt, because Memphis will become a disappearance and will be called Woe, because there are no inhabitants in her.
 - brenton: O daughter of Egypt dwelling at home, prepare thee stuff for removing: for Memphis shall be utterly desolate, and shall be called Woe, because there are no inhabitants in it.
 
 ### Jeremiah 26:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Egypt, beautified heifer. From north cutting-off came upon her.
+- fresh: Egypt is a beautified heifer; a cutting off from the north has come upon her.
 - brenton: Egypt is a fair heifer, but destruction from the north is come upon her.
 
 ### Jeremiah 26:21
@@ -174692,16 +174692,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And her hired men in her are like fattened calves raised in her, because they too turned back and fled together. They did not stand, because day of their destruction came upon them and time of their vengeance.
+- fresh: And her hired men in her are like fattened calves raised in her, because they too turned back and fled together. They did not stand, because the day of their destruction came upon them and the time of their vengeance.
 - brenton: Also her hired soldiers in the midst of her are as fatted calves fed in her; for they also have turned, and fled with one accord: they stood not, for the day of destruction was come upon them, and the time of their retribution.
 
 ### Jeremiah 26:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Her voice will hiss like serpent's, because they will go in sand, and with axes they will come upon her like woodcutters.
+- fresh: Her voice will hiss like a serpent's, because they will go in sand, and with axes they will come upon her like woodcutters.
 - brenton: Their voice is as that of a hissing serpent, for they go upon the sand; they shall come upon Egypt with axes, as men that cut wood.
 
 ### Jeremiah 26:23
@@ -174710,7 +174710,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They will cut down her forest, says the Lord God, because it will never be searched out. They multiplied beyond locusts, and there is no number for them.
+- fresh: They will cut down her forest, says the Lord God, because it certainly will not be estimated. They are more numerous than locusts, and there is no number for them.
 - brenton: They shall cut down her forest, saith the Lord, for their number cannot at all be conjectured, for it exceeds the locust in multitude, and they are innumerable.
 
 ### Jeremiah 26:24
@@ -174719,23 +174719,23 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The daughter of Egypt was put to shame. She was handed into the hands of the people from north.
+- fresh: The daughter of Egypt was put to shame. She was handed into the hands of the people from the north.
 - brenton: The daughter of Egypt is confounded; she is delivered into the hands of a people from the north.
 
 ### Jeremiah 26:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, I punish Amon her son, upon Pharaoh and upon ones trusting in him.
+- fresh: Behold, I punish Amon her son, upon Pharaoh and upon those trusting in him.
 - brenton: Behold, I will avenge Ammon her son upon Pharao, and upon them that trust in him.
 
 ### Jeremiah 26:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 3
 - same_normalized: no
 - fresh: But do not fear, my servant Jacob, and do not be terrified, Israel, because behold, I save you from far away, and your seed from the land of their captivity, and Jacob will return and be quiet and sleep, and there will not be one harassing him.
 - brenton: But fear not thou, my servant Jacob, neither be thou alarmed, Israel: for, behold, I will save thee from afar, and thy seed from their captivity; and Jacob shall return, and be at ease, and sleep, and there shall be no one to trouble him.
@@ -174743,10 +174743,10 @@ Note:
 ### Jeremiah 26:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Do not fear, my child Jacob, says the Lord, because I am with you. Because I will make end in every nation where I drove you there, but you I will not make fail, and I will discipline you in judgment, and by acquitting I will not acquit you.
+- fresh: Do not fear, my servant Jacob, says the Lord, because I am with you. Because I will make an end in every nation where I drove you, but you I will certainly not make fail, and I will discipline you in judgment, and by acquitting I will not acquit you.
 - brenton: Fear not thou, my servant Jacob, saith the Lord; for I am with thee: she that was without fear and in luxury, has been delivered up: for I will make a full end of every nation among whom I have thrust thee forth; but I will not cause thee to fail: yet will I chastise thee in the way of judgment, and will not hold thee entirely guiltless.
 
 ### Jeremiah 27:1
@@ -174761,71 +174761,71 @@ Note:
 ### Jeremiah 27:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Announce among nations and make heard, and do not hide. Say, Babylon was taken. Bel was put to shame. Merodach was handed over, fearless one and delicate one.
+- fresh: Announce among the nations and make it heard, and do not hide it. Say, Babylon was taken. Bel was put to shame. Merodach was handed over, the fearless and delicate one.
 - brenton: Proclaim ye among the Gentiles, and cause the tidings to be heard, and suppress them not: say ye, Babylon is taken, Belus is confounded; the fearless, the luxurious Mærodach is delivered up.
 
 ### Jeremiah 27:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because nation came up upon her from north. This one will make her land for disappearance, and there will be none dwelling in her, from man even to cattle.
+- fresh: Because a nation came up upon her from the north. This one will make her land a disappearance, and there will be none dwelling in her, from man even to cattle.
 - brenton: For a nation has come up against her from the north, he shall utterly ravage her land, and there shall be none to dwell in it, neither man nor beast.
 
 ### Jeremiah 27:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In those days and in that time, sons of Israel will come, they and sons of Judah together. Walking and weeping, they will go seeking the Lord their God.
+- fresh: In those days and in that time, the sons of Israel will come, they and the sons of Judah together. Walking and weeping, they will go seeking the Lord their God.
 - brenton: In those days, and at that time, the children of Israel shall come, they and the children of Juda together; they shall proceed, weeping as they go, seeking the Lord their God.
 
 ### Jeremiah 27:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: They will ask way to Zion, because there they will set their faces, and they will come and flee for refuge to the Lord their God, because everlasting covenant will not be forgotten.
+- fresh: They will ask the way to Zion, because there they will set their faces, and they will come and flee for refuge to the Lord their God, because the everlasting covenant will not be forgotten.
 - brenton: They shall ask the way till they come to Sion, for that way shall they set their face; and they shall come and flee for refuge to the Lord their God; for the everlasting covenant shall not be forgotten.
 
 ### Jeremiah 27:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My people became lost sheep. Their shepherds drove them away upon mountains. They led them astray from mountain onto hill. They went away and forgot their resting-place.
+- fresh: My people became lost sheep. Their shepherds drove them away upon the mountains. They led them astray from mountain to hill. They went away and forgot their resting-place.
 - brenton: My people have been lost sheep: their shepherds thrust them out, they caused them to wander on the mountains: they went from mountain to hill, they forgot their resting-place.
 
 ### Jeremiah 27:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: All finding them consumed them, and their enemies said, Let us not leave them guiltless, because they sinned against the Lord, pasture of righteousness, the one gathering their fathers.
+- fresh: All finding them consumed them, and their enemies said, Let us not leave them guiltless, because they sinned against the Lord, the pasture of righteousness, the one who gathered their fathers.
 - brenton: All that found them consumed them: their enemies said, Let us not leave them alone, because they have sinned against the Lord: he that gathered their fathers had a pasture of righteousness.
 
 ### Jeremiah 27:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Become estranged from the midst of Babylon, and go out from the land of Chaldeans, and become like dragons before flocks.
+- fresh: Separate yourselves from the midst of Babylon, and go out from the land of the Chaldeans, and become like dragons before flocks.
 - brenton: Flee ye out of the midst of Babylon, and from the land of the Chaldeans, and go forth, and be as serpents before sleep.
 
 ### Jeremiah 27:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Because behold, I raise up against Babylon gatherings of nations from the land of the north, and they will array against her. From there she will be taken, like an arrow of wise warrior that will not return empty.
 - brenton: For, behold, I stir up against Babylon the gatherings of nations out of the land of the north; and they shall set themselves in array against her: thence shall she be taken, as the dart of an expert warrior shall not return empty.
@@ -174836,7 +174836,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Chaldea will become for plunder. All plundering her will be filled.
+- fresh: And Chaldea will become plunder. All plundering her will be filled.
 - brenton: And Chaldea shall be a spoil: all that spoil her shall be satisfied.
 
 ### Jeremiah 27:11
@@ -174854,7 +174854,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Your mother was greatly ashamed, mother of your good things, last of nations, wilderness.
+- fresh: Your mother was greatly ashamed, mother of your good things, last of nations, a wilderness.
 - brenton: Your mother is greatly ashamed; your mother that bore you for prosperity is confounded: she is the last of the nations, desolate,
 
 ### Jeremiah 27:13
@@ -174863,7 +174863,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From anger of the Lord she will not be inhabited, and all will become for disappearance. Everyone passing through Babylon will darken and hiss over all her plague.
+- fresh: From the anger of the Lord she will not be inhabited, and all will become a disappearance. Everyone passing through Babylon will darken and hiss over all her plague.
 - brenton: by reason of the Lord's anger: it shall not be inhabited, but it shall be all a desolation; and every one that passes through Babylon shall scowl, and they shall hiss at all her plague.
 
 ### Jeremiah 27:14
@@ -174872,7 +174872,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Array yourselves against Babylon all around, all stretching bow. Shoot at her. Do not spare your arrows.
+- fresh: Array yourselves against Babylon all around, all stretching the bow. Shoot at her. Do not spare your arrows.
 - brenton: Set yourselves in array against Babylon round about, all ye that bend the bow; shoot at her, spare not your arrows,
 
 ### Jeremiah 27:15
@@ -174881,25 +174881,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Raise shout against her. Her hands were weakened. Her battlements fell, and her wall was torn down, because vengeance from God it is. Avenge against her. As she did, do to her.
+- fresh: Raise a shout against her. Her hands were weakened. Her battlements fell, and her wall was torn down, because it is vengeance from God. Avenge against her. As she did, do to her.
 - brenton: and prevail against her: her hands are weakened, her bulwarks are fallen, and her wall is broken down: for it is vengeance from God: take vengeance upon her; as she has done, do to her.
 
 ### Jeremiah 27:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Destroy seed from Babylon and one holding sickle in the time of harvest. From the face of Greek sword each will turn to his people, and each will flee into his land.
+- fresh: Destroy seed from Babylon and one holding the sickle in the time of harvest. From the face of a Greek sword each will turn to his people, and each will flee into his land.
 - brenton: Utterly destroy seed out of Babylon, and him that holds a sickle in time of harvest: for fear of the Grecian sword, they shall return every one to his people, and every one shall flee to his own land.
 
 ### Jeremiah 27:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 3
 - same_normalized: no
-- fresh: Israel, wandering sheep. Lions drove him out. First king of Assyria devoured him, and later king of Babylon broke his bones.
+- fresh: Israel is a wandering sheep. Lions drove him out. First the king of Assyria devoured him, and later the king of Babylon broke his bones.
 - brenton: Israel is a wandering sheep; the lions have driven him out: the king of Assyria first devoured him, and afterward this king of Babylon has gnawed his bones.
 
 ### Jeremiah 27:18
@@ -174908,25 +174908,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Behold, I punish king of Babylon and his land just as I punished king of Assyria.
+- fresh: Therefore thus says the Lord: Behold, I punish the king of Babylon and his land just as I punished the king of Assyria.
 - brenton: Therefore thus saith the Lord; Behold, I will take vengeance on the king of Babylon, and upon his land, as I took vengeance on the king of Assyria.
 
 ### Jeremiah 27:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 4
 - same_normalized: no
-- fresh: And I will restore Israel to his pasture, and he will graze on Carmel and on hill-country of Ephraim and on Gilead, and his soul will be filled.
+- fresh: And I will restore Israel to his pasture, and he will graze on Carmel and on the hill-country of Ephraim and on Gilead, and his soul will be filled.
 - brenton: And I will restore Israel to his pasture, and he shall feed on Carmel and on mount Ephraim and in Galaad, and his soul shall be satisfied.
 
 ### Jeremiah 27:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: In those days and in that time they will seek injustice of Israel and it will not exist, and sins of Judah and they will never be found, because I will be merciful to remnant upon the land, says the Lord.
+- fresh: In those days and in that time they will seek the injustice of Israel and it will not exist, and the sins of Judah and they will certainly not be found, because I will be merciful to the remnant upon the land, says the Lord.
 - brenton: In those days, and at that time, they shall seek for the iniquity of Israel, and there shall be none; and for the sins of Juda, and they shall not be found: for I will be merciful to them that are left
 
 ### Jeremiah 27:21
@@ -174935,52 +174935,52 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Bitterly go up against her and against ones dwelling on her. Avenge with sword and destroy, says the Lord, and do according to all I command you.
+- fresh: Go up bitterly against her and against those dwelling on her. Avenge with the sword and make her disappear, says the Lord, and do according to all I command you.
 - brenton: on the land, saith the Lord.
 
 ### Jeremiah 27:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The sound of war and great crushing in the land of Chaldeans.
+- fresh: The sound of war and great crushing in the land of the Chaldeans.
 - brenton: A sound of war, and great destruction in the land of the Chaldeans!
 
 ### Jeremiah 27:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: How hammer of all the earth was broken and shattered. How Babylon became for disappearance among nations.
+- fresh: How the hammer of all the earth was broken and shattered. How Babylon became a disappearance among the nations.
 - brenton: How is the hammer of the whole earth broken and crushed! How is Babylon become a desolation among the nations!
 
 ### Jeremiah 27:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will set trap for you and you will be taken, Babylon, and you will not know. You were found and taken, because you stood against the Lord.
+- fresh: They will set a trap for you, and you will be taken, O Babylon, and you will not know. You were found and taken, because you stood against the Lord.
 - brenton: They shall come upon thee, and thou shalt not know it, Babylon, that thou wilt even be taken captive: thou art found and taken, because thou didst resist the Lord.
 
 ### Jeremiah 27:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The Lord opened his treasury and brought out vessels of his wrath, because work belongs to the Lord God in the land of Chaldeans.
+- fresh: The Lord opened his treasury and brought out the vessels of his wrath, because work belongs to the Lord God in the land of the Chaldeans.
 - brenton: The Lord has opened his treasury, and brought forth the weapons of his anger: for the Lord God has a work in the land of the Chaldeans.
 
 ### Jeremiah 27:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because her times have come. Open her storehouses. Search her as cave and utterly destroy her. Let no remnant come to be from her.
+- fresh: Because her times have come. Open her storehouses. Search her like a cave and utterly destroy her. Let no remnant of her come to be.
 - brenton: For her times are come: open ye her storehouses: search her as a cave, and utterly destroy her: let there be no remnant of her.
 
 ### Jeremiah 27:27
@@ -174989,7 +174989,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Dry up all her fruits and let them go down to slaughter. Woe to them, because their day came and time of their vengeance.
+- fresh: Dry up all her fruits and let them go down to slaughter. Woe to them, because their day has come and the time of their vengeance.
 - brenton: Dry ye up all her fruits, and let them go down to the slaughter: woe to them! for their day is come, and the time of their retribution.
 
 ### Jeremiah 27:28
@@ -174998,16 +174998,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The voice of ones fleeing and escaping from the land of Babylon, to announce in Zion vengeance from the Lord our God.
+- fresh: The voice of those fleeing and escaping from the land of Babylon, to announce in Zion vengeance from the Lord our God.
 - brenton: A voice of men fleeing and escaping from the land of Babylon, to declare to Sion the vengeance that comes from the Lord our God.
 
 ### Jeremiah 27:29
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Command many against Babylon, every one stretching bow. Encamp against her all around. Let there not be one escaping from her. Pay back to her according to her works. According to all she did, do to her, because against the Lord, Holy God of Israel, she stood.
+- fresh: Command many against Babylon, everyone stretching the bow. Encamp against her all around. Let there not be one escaping from her. Pay back to her according to her works. According to all she did, do to her, because she stood against the Lord, the Holy God of Israel.
 - brenton: Summon many against Babylon, even every one that bends the bow: camp against her round about; let no one of her people escape: render to her according to her works; according to all that she has done, do to her: for she has resisted the Lord, the Holy God of Israel.
 
 ### Jeremiah 27:30
@@ -175016,16 +175016,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore her young men will fall in her squares, and all her war-men will be cast down, says the Lord.
+- fresh: Therefore her young men will fall in her squares, and all her men of war will be cast down, says the Lord.
 - brenton: Therefore shall her young men fall in the streets, and all her warriors shall be cast down, saith the Lord.
 
 ### Jeremiah 27:31
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I am against you, arrogant one, says the Lord, because your day came and time of your vengeance.
+- fresh: Behold, I am against you, the arrogant one, says the Lord, because your day has come and the time of your vengeance.
 - brenton: Behold, I am against thee the haughty one, saith the Lord: for thy day is come, and the time of thy retribution.
 
 ### Jeremiah 27:32
@@ -175034,7 +175034,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And your arrogance will weaken and fall, and there will not be one raising her up. And I will kindle fire in her forest, and it will devour all around her.
+- fresh: And your arrogance will weaken and fall, and there will not be one raising her up. And I will kindle a fire in her forest, and it will devour all around her.
 - brenton: And thy pride shall fail, and fall, and there shall be no one to set it up again: and I will kindle a fire in her forest, and it shall devour all things round about her.
 
 ### Jeremiah 27:33
@@ -175043,16 +175043,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Sons of Israel and sons of Judah together are oppressed, and all taking them captive oppressed them, because they were not willing to send them away.
+- fresh: Thus says the Lord: The sons of Israel and the sons of Judah together are oppressed, and all taking them captive oppressed them, because they were not willing to send them away.
 - brenton: Thus saith the Lord; The children of Israel and the children of Juda have been oppressed: all they that have taken them captive have oppressed them together; for they would not let them go.
 
 ### Jeremiah 27:34
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But the one redeeming them is strong. The Lord Almighty his name. He will judge judgment against his adversaries so that he may lift up the land and provoke those dwelling in Babylon.
+- fresh: But the one redeeming them is strong. The Lord Almighty is his name. He will judge judgment against his adversaries so that he may lift up the land and provoke those dwelling in Babylon.
 - brenton: But their Redeemer is strong; the Lord Almighty is his name: he will enter into judgment with his adversaries, that he may destroy the earth;
 
 ### Jeremiah 27:35
@@ -175061,7 +175061,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sword upon Chaldeans and upon those dwelling in Babylon and upon her nobles and upon her wise men.
+- fresh: A sword upon the Chaldeans and upon those dwelling in Babylon and upon her nobles and upon her wise men.
 - brenton: and he will sharpen a sword against the Chaldeans, and against the inhabitants of Babylon, and upon her nobles and upon her wise men;
 
 ### Jeremiah 27:36
@@ -175070,23 +175070,23 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Sword upon her warriors, and they will be paralyzed.
+- fresh: A sword upon her warriors, and they will be paralyzed.
 - brenton: a sword upon her warriors, and they shall be weakened: a sword upon their horses, and upon their chariots:
 
 ### Jeremiah 27:37
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sword upon their horses and upon their chariots, sword upon mixed people in her midst, and they will become like women. Sword upon her treasures, and they will be scattered.
+- fresh: A sword upon their horses and upon their chariots, a sword upon her mixed people in her midst, and they will become like women. A sword upon her treasures, and they will be scattered.
 - brenton: a sword upon their warriors, and upon the mixed people in the midst of her; and they shall be as women: a sword upon the treasures, and they shall be scattered upon her water,
 
 ### Jeremiah 27:38
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Upon her water they trusted, and they will be put to shame, because it is a land of carved images, and in islands they boasted.
 - brenton: and they shall be ashamed: for it is a land of graven images; and in the islands, where they boasted.
@@ -175094,19 +175094,19 @@ Note:
 ### Jeremiah 27:39
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore phantoms will dwell in the islands, and daughters of sirens will dwell in her. She will no longer be inhabited forever.
+- fresh: Therefore phantoms will dwell in the islands, and daughters of sirens will dwell in her. She will certainly no longer be inhabited forever.
 - brenton: Therefore shall idols dwell in the islands, and the young of monsters shall dwell in it: it shall not be inhabited any more for ever.
 
 ### Jeremiah 27:40
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 3
 - same_normalized: no
-- fresh: As God overthrew Sodom and Gomorrah and those neighboring them, says the Lord, so man will not dwell there, and son of man will not sojourn there.
+- fresh: As God overthrew Sodom and Gomorrah and those neighboring them, says the Lord, no man will dwell there and no son of man will sojourn there.
 - brenton: As God overthrew Sodom and Gomorrha, and the cities bordering upon them, saith the Lord: no man shall dwell there, and no son of man shall sojourn there.
 
 ### Jeremiah 27:41
@@ -175115,16 +175115,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, people comes from north, and great nation and many kings will be roused from the end of the earth.
+- fresh: Behold, a people comes from the north, and a great nation and many kings will be roused from the end of the earth.
 - brenton: Behold, a people comes from the north, and a great nation, and many kings shall be stirred up from the end of the earth; holding bow and dagger:
 
 ### Jeremiah 27:42
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Holding bow and short-sword, cruel he is and he will not pity. Their voice will sound like sea. Upon horses they will ride, prepared like fire for war against you, daughter of Babylon.
+- fresh: Holding bow and short-sword, he is cruel and certainly will not show mercy. Their voice will sound like the sea. Upon horses they will ride, prepared like fire for war against you, daughter of Babylon.
 - brenton: the people is fierce, and will have no mercy: their voices shall sound as the sea, they shall ride upon horses, prepared for war, like fire, against thee, O daughter of Babylon.
 
 ### Jeremiah 27:43
@@ -175139,37 +175139,37 @@ Note:
 ### Jeremiah 27:44
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 4
 - same_normalized: no
-- fresh: Behold, like a lion he will go up from Jordan into Ethan place, because quickly I will drive them from her, and every young man I will appoint over her. Because who is like me, and who will oppose me, and who is this shepherd who will stand before my face?
+- fresh: Behold, like a lion he will go up from the Jordan into Ethan place, because quickly I will drive them from her, and every young man I will appoint over her. Because who is like me, and who will oppose me, and who is this shepherd who will stand before my face?
 - brenton: Behold, he shall come up as a lion from Jordan to Gæthan; for I will speedily drive them from her, and I will set all the youths against her: for who is like me? and who will resist me? and who is this shepherd who will stand before me?
 
 ### Jeremiah 27:45
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore hear counsel of the Lord which he counseled against Babylon and his thoughts which he thought against those dwelling in Chaldea: Unless lambs of their sheep are destroyed, unless pasture is destroyed from them.
+- fresh: Therefore hear the counsel of the Lord which he counseled against Babylon and his thoughts which he thought against those dwelling in Chaldea: Unless the lambs of their sheep are destroyed, unless pasture is made a disappearance from them.
 - brenton: Therefore hear ye the counsel of the Lord, which he has taken against Babylon; and his devices, which he has devised upon the Chaldeans inhabiting it: surely lambs of their flock shall be destroyed: surely pasture shall be cut off from them.
 
 ### Jeremiah 27:46
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because from the voice of Babylon's capture earth will be shaken and cry will be heard among nations.
+- fresh: Because from the sound of Babylon's capture the earth will be shaken and a cry will be heard among the nations.
 - brenton: For at the sound of the taking of Babylon the earth shall quake, and a cry shall be heard among the nations.
 
 ### Jeremiah 28:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Behold, I raise against Babylon and against those dwelling in Chaldea hot destroying wind.
+- fresh: Thus says the Lord: Behold, I raise against Babylon and against those dwelling in Chaldea a hot destroying wind.
 - brenton: Thus saith the Lord; Behold, I stir up against Babylon, and against the Chaldeans dwelling therein, a deadly burning wind.
 
 ### Jeremiah 28:2
@@ -175187,23 +175187,23 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Against her let one stretching his bow stretch it, and let one with armor gird himself, and do not spare her young men, and destroy all her power.
+- fresh: Against her let the one stretching his bow stretch it, and let the one who has armor gird himself, and do not spare her young men, and destroy all her power.
 - brenton: Let the archer bend his bow, and him that has armour put it on: and spare ye not her young men, but destroy ye all her host.
 
 ### Jeremiah 28:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And slain ones will fall in the land of Chaldeans, and stabbed ones outside her.
+- fresh: And slain ones will fall in the land of the Chaldeans, and stabbed ones outside her.
 - brenton: And slain men shall fall in the land of the Chaldeans, and men pierced through shall fall without it.
 
 ### Jeremiah 28:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: Because Israel and Judah were not widowed from their God, from the Lord Almighty, because their land was filled with injustice from the Holy One of Israel.
 - brenton: For Israel and Juda have not been forsaken of their God, of the Lord Almighty; whereas their land was filled with iniquity against the holy things of Israel.
@@ -175214,23 +175214,23 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Flee from the midst of Babylon and save each his soul, and do not be cast away in her injustice, because time of her vengeance is from the Lord. He repays repayment to her.
+- fresh: Flee from the midst of Babylon and let each save his soul, and do not be cast away in her injustice, because the time of her vengeance is from the Lord. He repays repayment to her.
 - brenton: Flee ye out of the midst of Babylon, and deliver every one his soul: and be not overthrown in her iniquity; for it is the time of her retribution from the Lord; he is rendering to her a recompence.
 
 ### Jeremiah 28:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Babylon, golden cup in the hand of the Lord, making all the earth drunk. Nations drank from her wine. Because of this they were shaken.
+- fresh: Babylon was a golden cup in the hand of the Lord, making all the earth drunk. Nations drank from her wine. Because of this they were shaken.
 - brenton: Babylon has been a golden cup in the Lord's hand, causing all the earth to be drunken: the nations have drunk of her wine; therefore they were shaken.
 
 ### Jeremiah 28:8
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And suddenly Babylon fell and was shattered. Lament her. Take resin for her ruin, if perhaps she will be healed.
 - brenton: And Babylon is fallen suddenly, and is broken to pieces: lament for her; take balm for her deadly wound, if by any means she may be healed.
@@ -175238,28 +175238,28 @@ Note:
 ### Jeremiah 28:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: We healed Babylon and she was not healed. Let us abandon her, and let each go away into his own land, because her judgment drew near to heaven and rose as far as stars.
+- fresh: We healed Babylon and she was not healed. Let us abandon her, and let each go away into his own land, because her judgment drew near to heaven and rose as far as the stars.
 - brenton: We tried to heal Babylon, but she was not healed: let us forsake her, and depart every one to his own country: for her judgment has reached to the heaven, it has mounted up to the stars.
 
 ### Jeremiah 28:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord brought out his judgment. Come, and let us announce in Zion works of the Lord our God.
+- fresh: The Lord brought out his judgment. Come, and let us announce in Zion the works of the Lord our God.
 - brenton: The Lord has brought forth his judgment: come, and let us declare in Sion the works of the Lord our God.
 
 ### Jeremiah 28:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Prepare arrows. Fill quivers. The Lord stirred the spirit of the king of Medes, because his wrath is against Babylon, to destroy her, because vengeance of the Lord it is, vengeance of his people it is.
+- fresh: Prepare arrows. Fill quivers. The Lord stirred the spirit of the king of Medes, because his wrath is against Babylon, to destroy her, because it is vengeance of the Lord, it is vengeance of his people.
 - brenton: Prepare the arrows; fill the quivers: the Lord has stirred up the spirit of the king of the Medes: for his wrath is against Babylon, to destroy it utterly; for it is the Lord's vengeance, it is the vengeance of his people.
 
 ### Jeremiah 28:12
@@ -175268,16 +175268,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Upon the walls of Babylon raise signal. Set quivers. Stir up guards. Prepare weapons, because the Lord undertook and will do what he spoke against those dwelling in Babylon.
+- fresh: Upon the walls of Babylon raise a signal. Set quivers. Stir up guards. Prepare weapons, because the Lord undertook and will do what he spoke against those dwelling in Babylon.
 - brenton: Lift up a standard on the walls of Babylon, prepare the quivers, rouse the guards, prepare the weapons: for the Lord has taken the work in hand, and will execute what he has spoken against the inhabitants of Babylon,
 
 ### Jeremiah 28:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You dwelling upon many waters and abundance of treasures, your end came, truly into your inward parts.
+- fresh: O you dwelling upon many waters and upon an abundance of treasures, your end has come, truly into your inward parts.
 - brenton: dwelling on many waters, and amidst the abundance of her treasures; thine end is come verily into thy bowels.
 
 ### Jeremiah 28:14
@@ -175286,23 +175286,23 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord swore by his arm that I will fill you with men like locusts, and those coming down will shout over you.
+- fresh: Because the Lord swore by his arm: I will fill you with men like locusts, and those coming down will shout over you.
 - brenton: For the Lord has sworn by his arm, saying, I will fill thee with men as with locusts; and they that come down shall cry against thee.
 
 ### Jeremiah 28:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: He made earth in his strength, preparing world in his wisdom. In his understanding he stretched out heaven.
+- fresh: He made the earth in his strength, preparing the world in his wisdom. In his understanding he stretched out heaven.
 - brenton: The Lord made the earth by his power, preparing the world by his wisdom, by his understanding he stretched out the heaven.
 
 ### Jeremiah 28:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: At his voice he set the sound of waters in heaven and brought up clouds from the end of the earth. He made lightnings for rain and brought out light from his treasuries.
 - brenton: At his voice he makes a sound of water in the heaven, and brings up clouds from the extremity of the earth; he makes lightnings for rain, and brings light out of his treasures.
@@ -175310,8 +175310,8 @@ Note:
 ### Jeremiah 28:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Every man became foolish from knowledge. Every goldsmith was put to shame by his carved images, because what they cast were lies and there is no breath in them.
 - brenton: Every man has completely lost understanding; every goldsmith is confounded because of his graven images: for they have cast false gods, there is no breath in them.
@@ -175328,19 +175328,19 @@ Note:
 ### Jeremiah 28:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 3
 - same_normalized: no
-- fresh: Not such is portion for Jacob, because one forming all things, he is his inheritance. The Lord is his name.
+- fresh: Not such is the portion for Jacob, because the one forming all things, he is his inheritance. The Lord is his name.
 - brenton: Not such is Jacob's portion; for he that formed all things, he is his inheritance; the Lord is his name.
 
 ### Jeremiah 28:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: You are to me war-vessels, and I will scatter nations in you, and I will remove kings from you.
+- fresh: You are my war-vessels, and with you I will scatter nations, and from you I will remove kings.
 - brenton: Thou scatterest for me the weapons of war: and I will scatter nations by thee, and will destroy kings by means of thee.
 
 ### Jeremiah 28:21
@@ -175349,7 +175349,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will scatter in you horse and its rider, and I will scatter in you chariots and their riders.
+- fresh: And with you I will scatter horse and its rider, and with you I will scatter chariots and their riders.
 - brenton: And by thee I will scatter the horse and his rider; and by thee I will scatter chariots and them that ride in them.
 
 ### Jeremiah 28:22
@@ -175358,7 +175358,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will scatter in you young man and virgin, and I will scatter in you man and woman.
+- fresh: And with you I will scatter young man and virgin, and with you I will scatter man and woman.
 - brenton: And by thee I will scatter youth and maid; and by thee I will scatter man and woman.
 
 ### Jeremiah 28:23
@@ -175367,61 +175367,61 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will scatter in you shepherd and his flock, and I will scatter in you farmer and his farm, and I will scatter in you your rulers and generals.
+- fresh: And with you I will scatter shepherd and his flock, and with you I will scatter farmer and his farm, and with you I will scatter your rulers and generals.
 - brenton: And by thee I will scatter the shepherd and his flock; and by thee I will scatter the husbandman and his husbandry; and by thee I will scatter leaders and the captains.
 
 ### Jeremiah 28:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I will repay Babylon and all dwelling in Chaldea all their evils which they did against Zion before your eyes, says the Lord.
+- fresh: And I will repay Babylon and all the Chaldeans dwelling there for all their evils which they did against Zion before your eyes, says the Lord.
 - brenton: And I will recompense to Babylon and to all the Chaldeans that dwell there all their mischiefs that they have done to Sion before your eyes, saith the Lord.
 
 ### Jeremiah 28:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, I am against you, corrupt mountain destroying all the earth, and I will stretch out my hand upon you and roll you down from rocks and give you as mountain set on fire.
+- fresh: Behold, I am against you, corrupt mountain, the one destroying all the earth, and I will stretch out my hand upon you and roll you down from the rocks and give you as a mountain set on fire.
 - brenton: Behold, I am against thee, the ruined mountain, that destroys the whole earth; and I will stretch out mine hand upon thee, and will roll thee down upon the rocks, and will make thee as a burnt mountain.
 
 ### Jeremiah 28:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they will never take from you stone for corner nor stone for foundation, because for disappearance forever you will be, says the Lord.
+- fresh: And they will certainly not take from you a stone for a corner or a stone for a foundation, because you will be a disappearance forever, says the Lord.
 - brenton: And they shall not take from thee a stone for a corner, nor a stone for a foundation: for thou shalt be a desolation for ever, saith the Lord.
 
 ### Jeremiah 28:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 3
 - same_normalized: no
-- fresh: Raise signal upon earth. Trumpet with trumpet among nations. Sanctify nations against her. Command against her kingdoms of Ararat and Ashkenaz. Set missile-stations against her. Bring up horse against her like swarm of locusts.
+- fresh: Raise a signal upon the earth. Sound a trumpet among the nations. Sanctify nations against her. Command against her the kingdoms of Ararat and Ashkenaz. Set missile-stations against her. Bring up a horse against her like a swarm of locusts.
 - brenton: Lift up a standard in the land, sound the trumpet among the nations, consecrate the nations against her, raise up kings against her by me, and that for the people of Achanaz; set against her engines of war; bring up against her horses as a multitude of locusts.
 
 ### Jeremiah 28:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Sanctify nations against her, king of Medes and leaders of all his land and all his generals.
+- fresh: Sanctify nations against her, the king of Medes and the leaders of all his land and all his generals.
 - brenton: Bring up nations against her, even the king of the Medes and of the whole earth, his rulers, and all his captains.
 
 ### Jeremiah 28:29
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Earth shook and was in pain, because plan of the Lord rose against Babylon, to make the land of Babylon for disappearance and not inhabited.
+- fresh: The earth shook and was in pain, because the plan of the Lord rose against Babylon, to make the land of Babylon a disappearance and not inhabited.
 - brenton: The earth has quaked and been troubled, because the purpose of the Lord has risen up against Babylon, to make the land of Babylon a desolation, and uninhabitable.
 
 ### Jeremiah 28:30
@@ -175430,7 +175430,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Warrior of Babylon failed from fighting. They will sit there in enclosure. Their power was broken. They became like women. Her dwellings were burned with fire. Her bars were shattered.
+- fresh: The warrior of Babylon failed from fighting. They will sit there in enclosure. Their power was broken. They became like women. Her dwellings were burned with fire. Her bars were shattered.
 - brenton: The warrior of Babylon has failed to fight; they shall sit there in the siege; their power is broken; they are become like women; her tabernacles have been set on fire; her bars are broken.
 
 ### Jeremiah 28:31
@@ -175448,41 +175448,41 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From the end of its crossings they were seized, and their gathering-places were burned with fire, and their war-men go out.
+- fresh: From the end of its crossings they were seized, and their gathering-places were burned with fire, and their men of war go out.
 - brenton: At the end of his passages they were taken, and his cisterns they have burnt with fire, and his warriors are going forth.
 
 ### Jeremiah 28:33
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because thus says the Lord, house of the king of Babylon is like a ripe threshing-floor. Yet little, and her harvest will come.
+- fresh: Because thus says the Lord, the house of the king of Babylon is like a ripe threshing-floor. Yet a little while, and her harvest will come.
 - brenton: For thus saith the Lord, The houses of the king of Babylon shall be threshed as a floor in the season; yet a little while, and her harvest shall come.
 
 ### Jeremiah 28:34
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Nebuchadnezzar king of Babylon devoured me, portioned me, took me as delicate vessel, swallowed me like a dragon, filled his belly from my luxury, and drove me out.
+- fresh: Nebuchadnezzar king of Babylon devoured me, portioned me, took me as a delicate vessel, swallowed me like a dragon, filled his belly from my luxury, and drove me out.
 - brenton: He has devoured me, he has torn me asunder, airy darkness has come upon me; Nabuchodonosor king of Babylon has swallowed me up, as a dragon has he filled his belly with my delicacies.
 
 ### Jeremiah 28:35
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: My labors and my hardships are upon Babylon, says one dwelling in Zion, and my blood upon those dwelling in Chaldea, says Jerusalem.
+- fresh: My labors and my hardships are upon Babylon, says the one dwelling in Zion, and my blood upon those dwelling in Chaldea, says Jerusalem.
 - brenton: My troubles and my distresses have driven me out into Babylon, shall she that dwells in Sion say; and my blood shall be upon the Chaldeans dwelling there, shall Jerusalem say.
 
 ### Jeremiah 28:36
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Therefore thus says the Lord: Behold, I judge your case and will avenge your vengeance, and I will desolate her sea and dry up her spring.
 - brenton: Therefore thus saith the Lord, Behold, I will judge thine adversary, and I will execute vengeance for thee; and I will waste her sea, and dry up her fountain.
@@ -175493,7 +175493,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Babylon will become for disappearance and will not be inhabited.
+- fresh: And Babylon will become a disappearance and will not be inhabited.
 - brenton: And Babylon shall be a desolation, and shall not be inhabited.
 
 ### Jeremiah 28:38
@@ -175502,16 +175502,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Together they were roused like lions and like a lion-cubs.
+- fresh: Together they were roused like lions and like lion cubs.
 - brenton: For they rose up together as lions, and as lions' whelps.
 
 ### Jeremiah 28:39
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: In their heat I will give them drink and make them drunk so that they become numb and sleep eternal sleep and not wake up, says the Lord.
+- fresh: In their heat I will give them drink and make them drunk so that they become numb and sleep an eternal sleep and certainly not wake up, says the Lord.
 - brenton: In their heat I will give them a draught, and make them drunk, that they may be stupified, and sleep an everlasting sleep, and not awake, saith the Lord.
 
 ### Jeremiah 28:40
@@ -175529,52 +175529,52 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: How praise of all the earth was taken and trapped. How Babylon became for disappearance among nations.
+- fresh: How the praise of all the earth was taken and hunted down. How Babylon became a disappearance among the nations.
 - brenton: How has the boast of all the earth been taken and caught in a snare! how has Babylon become a desolation among the nations!
 
 ### Jeremiah 28:42
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Sea rose over Babylon. With the sound of its waves she was covered.
+- fresh: The sea rose over Babylon. With the sound of its waves she was covered.
 - brenton: The sea has come up upon Babylon with the sound of its waves, and she is covered.
 
 ### Jeremiah 28:43
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Her cities became waterless and impassable land. No one will dwell in her, and son of man will certainly not lodge in her.
+- fresh: Her cities became a waterless and impassable land. No one will dwell in her, and no son of man will lodge in her.
 - brenton: Her cities are become like a dry and trackless land; not so much as one man shall dwell in it, neither shall a son of man lodge in it.
 
 ### Jeremiah 28:44
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will punish upon Babylon and bring out what she swallowed from her mouth, and nations will no longer be gathered to her.
+- fresh: And I will punish Babylon and bring out from her mouth what she swallowed, and nations will certainly no longer be gathered to her.
 - brenton: And I will take vengeance on Babylon, and bring forth out of her mouth what she has swallowed down, and the nations shall no more be gathered to her:
 
 ### Jeremiah 28:49
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And in Babylon slain ones of all the earth will fall.
+- fresh: And in Babylon the slain ones of all the earth will fall.
 - brenton: and in Babylon the slain men of all the earth shall fall.
 
 ### Jeremiah 28:50
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: You saved ones from the land, go and do not stand still. You far-off ones, remember Lord, and let Jerusalem rise upon your heart.
+- fresh: You who are being saved from the land, go and do not stand still. You far-off ones, remember the Lord, and let Jerusalem rise upon your heart.
 - brenton: Go forth of the land, ye that escape, and stay not; ye that are afar off, remember the Lord, and let Jerusalem come into your mind.
 
 ### Jeremiah 28:51
@@ -175589,10 +175589,10 @@ Note:
 ### Jeremiah 28:52
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore behold, days come, says the Lord, and I will punish her carved images, and in all her land slain ones will fall.
+- fresh: Therefore behold, days are coming, says the Lord, and I will punish her carved images, and in all her land slain ones will fall.
 - brenton: Therefore, behold, the days come, saith the Lord, when I will take vengeance upon her graven images: and slain men shall fall in all her land.
 
 ### Jeremiah 28:53
@@ -175601,7 +175601,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because if Babylon goes up like heaven, and if she fortifies height of her strength, destroyers of her will come from me, says the Lord.
+- fresh: Because if Babylon goes up like heaven, and if she fortifies the height of her strength, destroyers of her will come from me, says the Lord.
 - brenton: For though Babylon should go up as the heaven, and though she should strengthen her walls with her power, from me shall come they that shall destroy her, saith the Lord.
 
 ### Jeremiah 28:54
@@ -175610,7 +175610,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The voice of cry in Babylon and great crushing in the land of Chaldeans.
+- fresh: The voice of a cry in Babylon and great crushing in the land of the Chaldeans.
 - brenton: A sound of a cry in Babylon, and great destruction in the land of the Chaldeans:
 
 ### Jeremiah 28:55
@@ -175619,7 +175619,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord destroyed Babylon and destroyed from her great voice sounding like many waters. He gave her voice for destruction.
+- fresh: Because the Lord destroyed Babylon and destroyed from her the great voice sounding like many waters. He gave her voice for destruction.
 - brenton: for the Lord has utterly destroyed Babylon, and cut off from her the great voice sounding as many waters: he has consigned her voice to destruction.
 
 ### Jeremiah 28:56
@@ -175634,28 +175634,28 @@ Note:
 ### Jeremiah 28:57
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he will make her rulers drunk with drunkenness and her wise men and her generals, says the King, the Lord Almighty his name.
+- fresh: And he will make her rulers drunk with drunkenness and her wise men and her generals, says the King, the Lord Almighty is his name.
 - brenton: The Lord recompenses, and will make her leaders and her wise men and her captains completely drunk, saith the King, the Lord Almighty is his name.
 
 ### Jeremiah 28:58
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Wall of Babylon, broadened out, being dug down, will be torn down, and her high gates were burned with fire, and peoples will not labor for emptiness, and nations at their beginning will fail.
+- fresh: Thus says the Lord: The wall of Babylon, broadened out, being dug down, will be torn down, and her high gates will be burned with fire, and peoples will not labor for emptiness, and nations at their beginning will fail.
 - brenton: Thus saith the Lord, The wall of Babylon was made broad, but it shall be completely broken down, and her high gates shall be burnt with fire; and the peoples shall not labour in vain, nor the nations fail in their rule.
 
 ### Jeremiah 28:59
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 5
 - same_normalized: no
-- fresh: Word which the Lord commanded Jeremiah the prophet to tell Seraiah son of Neriah son of Maaseiah, when he went with Zedekiah king of Judah into Babylon in the fourth year of his reign, and Seraiah ruler of gifts.
+- fresh: The word which the Lord commanded Jeremiah the prophet to tell Seraiah son of Neriah son of Maaseiah, when he went with Zedekiah king of Judah into Babylon in the fourth year of his reign, and Seraiah was ruler of gifts.
 - brenton: The Word which the Lord commanded the Prophet Jeremias to say to Saræas son of Nerias, son of Maasæas, when he went from Sedekias king of Juda to Babylon, in the fourth year of his reign. And Saræas was over the bounties.
 
 ### Jeremiah 28:60
@@ -175664,7 +175664,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah wrote in one scroll all evils which will come upon Babylon, all these words written against Babylon.
+- fresh: And Jeremiah wrote in one scroll all the evils which will come upon Babylon, all these words written against Babylon.
 - brenton: And Jeremias wrote in a book all the evils which should come upon Babylon, even all these words that are written against Babylon.
 
 ### Jeremiah 28:61
@@ -175682,32 +175682,32 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: then you will say, Lord, Lord, you spoke against this place, to destroy it and for there not to be in it one dwelling, from man to cattle, because it will be disappearance forever.
+- fresh: then you will say, Lord, Lord, you spoke against this place, to destroy it and for there not to be in it one dwelling, from man to cattle, because it will be a disappearance forever.
 - brenton: then thou shalt say, O Lord God, thou hast spoken against this place, to destroy it, and that there should be none to dwell in it, neither man nor beast; for it shall be a desolation for ever.
 
 ### Jeremiah 28:63
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be when you finish reading this scroll, you will tie stone upon it and throw it into the midst of Euphrates,
+- fresh: And it will be when you finish reading this scroll, you will tie a stone upon it and throw it into the midst of the Euphrates,
 - brenton: And it shall come to pass, when thou shalt cease from reading this book, that thou shalt bind a stone upon it, and cast it into the midst of Euphrates;
 
 ### Jeremiah 28:64
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: and you will say, Thus Babylon will sink and will never rise from the face of evils which I bring upon her.
+- fresh: and you will say, Thus Babylon will sink and will certainly not rise from the face of evils which I bring upon her.
 - brenton: and shalt say, Thus shall Babylon sink, and not rise, because of the evils which I bring upon it.
 
 ### Jeremiah 29:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Against the foreigners.
 - brenton: Thus saith the Lord against the Philistines;
@@ -175715,44 +175715,44 @@ Note:
 ### Jeremiah 29:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord: Behold, waters rise from north, and they will become flooding torrent and cover the land and its fullness, city and those dwelling in it, and men will cry out and all dwelling in the land will howl.
+- fresh: Thus says the Lord: Behold, waters rise from the north, and they will become a flooding torrent and cover the land and its fullness, the city and those dwelling in it, and men will cry out and all those dwelling in the land will howl.
 - brenton: Behold, waters come up from the north, and shall become a sweeping torrent, and it shall sweep away the land, and its fulness; the city, and them that dwell in it: and men shall cry and all that dwell in the land shall howl,
 
 ### Jeremiah 29:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: From the sound of his rush, from weapons of his feet and from shaking of his chariots, the sound of his wheels, fathers did not turn back toward their sons from slackening of their hands.
+- fresh: At the sound of his rush, at the hooves of his feet and at the shaking of his chariots, the sound of his wheels, fathers did not turn back toward their sons because of the slackening of their hands.
 - brenton: at the sound of his rushing, at the sound of his hoofs, and at the rattling of his chariots, at the noise of his wheels: the fathers turned not to their children because of the weakness of their hands,
 
 ### Jeremiah 29:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 3
 - same_normalized: no
-- fresh: In day coming to destroy all foreigners and to wipe out Tyre and Sidon and all remnant of their help, because the Lord will destroy remnant of the islands.
+- fresh: In the day that is coming to destroy all the foreigners, and I will wipe out Tyre and Sidon and all the remnant of their help, because the Lord will destroy the remnant of the islands.
 - brenton: in the day that is coming to destroy all the Philistines: and I will utterly destroy Tyre and Sidon, and all the rest of their allies: for the Lord will destroy the remaining inhabitants of the islands.
 
 ### Jeremiah 29:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 4
 - same_normalized: no
-- fresh: Baldness came upon Gaza. Ashkelon was cast away, and remnant of Enakim. How long will you keep cutting yourself?
+- fresh: Baldness has come upon Gaza. Ashkelon was cast away, and the remnant of Enakim. How long will you keep cutting yourself?
 - brenton: Baldness is come upon Gaza; Ascalon is cast away, and the remnant of the Enakim.
 
 ### Jeremiah 29:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Sword of the Lord, how long will you not rest? Return into your sheath. Rest and be lifted up.
 - brenton: How long wilt thou smite, O sword of the Lord? how long will it be ere thou art quiet? return into thy sheath, rest, and be removed.
@@ -175769,35 +175769,35 @@ Note:
 ### Jeremiah 30:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: To Edom thus says the Lord: Is there no wisdom any longer in Teman? Counsel perished from prudent ones. Their wisdom went away.
+- fresh: To Edom thus says the Lord: Is there no wisdom any longer in Teman? Counsel has perished from the prudent. Their wisdom went away.
 - brenton: Concerning Idumea, thus saith the Lord; There is no longer wisdom in Thæman, counsel has perished from the wise ones, their wisdom is gone,
 
 ### Jeremiah 30:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Their place was deceived. Go deep into sitting, you dwelling in Dedan, because I made hard things against him. I brought them on him in time when I visited him.
+- fresh: Their place was deceived. Go deep into dwelling, you dwelling in Dedan, because I made hard things against him. I brought them on him in the time when I visited him.
 - brenton: their place has been deceived. Dig deep for a dwelling, ye that inhabit Dædam, for he has wrought grievously: I brought trouble upon him in the time at which I visited him.
 
 ### Jeremiah 30:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because grape-gatherers came to you, they will not leave gleanings to you. Like thieves in night they will lay hand on them.
+- fresh: Because grape-gatherers came to you, they will not leave gleanings to you. Like thieves in the night, they will lay their hand on them.
 - brenton: For grape-gatherers are come, who shall not leave thee a remnant; as thieves by night, they shall lay their hand upon thy possessions.
 
 ### Jeremiah 30:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Because I stripped Esau bare. I uncovered their hidden things. They will certainly not be able to hide. They were destroyed by the hand of his brother and his neighbor, and he is no more.
 - brenton: For I have stripped Esau, I have uncovered their secret places; they shall have no power to hide themselves, they have perished each by the hand of his brother, my neighbour, and it is impossible
@@ -175814,19 +175814,19 @@ Note:
 ### Jeremiah 30:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because thus said the Lord: Those for whom it was not law to drink cup drank, and you by acquitting will not be acquitted, because drinking you will drink.
+- fresh: Because thus said the Lord: Those for whom it was not law to drink the cup drank, and you, by acquitting, will certainly not be acquitted, because drinking you will drink.
 - brenton: For thus saith the Lord; They who were not appointed to drink the cup have drunk it; and thou shalt by no means be cleared:
 
 ### Jeremiah 30:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because by myself I swore, says the Lord, that you will become for trackless waste and for reproach and for curse in the midst of her, and all her cities will become deserts forever.
+- fresh: Because by myself I swore, says the Lord, that you will become trackless waste and reproach and curse in the midst of her, and all her cities will become deserts forever.
 - brenton: for by myself I have sworn, saith the Lord, that thou shalt be in the midst of her an impassable land, and a reproach, and a curse; and all her cities shall be desert for ever.
 
 ### Jeremiah 30:8
@@ -175835,7 +175835,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I heard report from the Lord, and he sent messengers to nations: Gather yourselves and come against her. Rise for war.
+- fresh: I heard a report from the Lord, and he sent messengers to nations: Gather yourselves and come against her. Rise for war.
 - brenton: I have heard a report from the Lord, and he has sent messengers to the nations, saying, Assemble yourselves, and come against her; rise ye up to war.
 
 ### Jeremiah 30:9
@@ -175853,7 +175853,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Your plaything deceived you, insolence of your heart, destroying holes of rocks, seizing strength of high hill. Because he raised his nest like an eagle, from there I will bring you down.
+- fresh: Your plaything deceived you, the insolence of your heart, dwelling in holes of rocks, holding strength of high hill. Because he raised his nest like an eagle, from there I will bring you down.
 - brenton: Thine insolence has risen up against thee, the fierceness of thine heart has burst the holes of the rocks, it has seized upon the strength of a lofty hill; for as an eagle he set his nest on high: thence will I bring thee down.
 
 ### Jeremiah 30:11
@@ -175862,41 +175862,41 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Edom will become for trackless waste. Everyone passing by her will hiss.
+- fresh: And Edom will become trackless waste. Everyone passing by her will hiss.
 - brenton: And Idumea shall be a desert: every one that passes by shall hiss at it.
 
 ### Jeremiah 30:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 4
 - same_normalized: no
-- fresh: As Sodom and Gomorrah and their neighboring places were overthrown, says the Lord Almighty, so man will never sit there, and son of man will not dwell there.
+- fresh: As Sodom and Gomorrah and their neighboring places were overthrown, says the Lord Almighty, so no man will sit there and no son of man will dwell there.
 - brenton: As Sodom was overthrown and Gomorrha and they that sojourned in her, saith the Lord Almighty, no man shall dwell there, nor shall any son of man inhabit there.
 
 ### Jeremiah 30:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 4
 - same_normalized: no
-- fresh: Behold, like a lion he will go up from the midst of Jordan into Ethan place, because quickly I will drive them from her, and appoint young men over her. Because who is like me, and who will oppose me, and who is this shepherd who will stand before my face?
+- fresh: Behold, like a lion he will go up from the midst of the Jordan into Ethan place, because quickly I will drive them from her, and appoint young men over her. Because who is like me, and who will oppose me, and who is this shepherd who will stand before my face?
 - brenton: Behold, he shall come up as a lion out of the midst of Jordan to the place of Ætham: for I will speedily drive them from it, and do ye set the young men against her: for who is like me? and who will withstand me? and who is this shepherd, who shall confront me?
 
 ### Jeremiah 30:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore hear counsel of the Lord which he counseled against Edom and his thought which he thought against those dwelling in Teman: Unless least ones of flock are consumed, unless their resting-place is made desolate upon her.
+- fresh: Therefore hear the counsel of the Lord which he counseled against Edom and his thought which he thought against those dwelling in Teman: Unless the least ones of the flock are consumed, unless their resting-place is made desolate upon her.
 - brenton: Therefore hear ye the counsel of the Lord, which he has framed against Idumea; and his device, which he has devised against the inhabitants of Thæman: surely the least of the sheep shall be swept off; surely their dwelling shall be made desolate for them.
 
 ### Jeremiah 30:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Because from the sound of their fall, earth was shaken, and your cry was heard in the sea.
 - brenton: For at the sound of their fall the earth was scared, and the cry of the sea was not heard.
@@ -175904,46 +175904,46 @@ Note:
 ### Jeremiah 30:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, like an eagle he will appear and stretch his wings over her strongholds, and heart of mighty men of Edom in that day will be like heart of woman in labor.
+- fresh: Behold, like an eagle he will appear and stretch his wings over her strongholds, and the heart of the mighty men of Edom in that day will be like the heart of a woman in labor.
 - brenton: Behold, he shall look upon her as an eagle, and spread forth his wings over her strongholds; and the heart of the mighty men of Idumea shall be in that day as the heart of a woman in her pangs.
 
 ### Jeremiah 30:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 4
 - same_normalized: no
-- fresh: To the sons of Ammon thus said the Lord: Are there no sons in Israel, or is there no heir for them? Why did Melchom inherit Gad, and his people dwell in his cities?
+- fresh: To the sons of Ammon thus said the Lord: Are there no sons in Israel, or is there no heir for them? Why did Milcom inherit Gad, and his people dwell in his cities?
 - brenton: Concerning the sons of Ammon thus saith the Lord, Are there no sons in Israel? or have they no one to succeed them? wherefore has Melchol inherited Galaad, and why shall their people dwell in their cities?
 
 ### Jeremiah 30:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Therefore behold, days come, says the Lord, and I will sound in Rabbah tumults of wars, and they will become trackless waste and destruction, and her altars will be burned in fire, and Israel will inherit his beginning.
+- fresh: Therefore behold, days are coming, says the Lord, and I will sound in Rabbah tumults of wars, and they will become trackless waste and destruction, and her altars will be burned with fire, and Israel will inherit his dominion.
 - brenton: Therefore, behold, the days come, saith the Lord, when I will cause to be heard in Rabbath a tumult of wars; and they shall become a waste and ruined place, and her altars shall be burned with fire; then shall Israel succeed to his dominion.
 
 ### Jeremiah 30:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 3
 - same_normalized: no
-- fresh: Howl, Heshbon, because Gai was destroyed. Cry out, daughters of Rabbah. Gird on sackcloth and mourn and cut yourselves for Melchom, because he will go in exile, his priests and his rulers together.
+- fresh: Howl, Heshbon, because Ai was destroyed. Cry out, daughters of Rabbah. Gird on sackcloth and mourn and cut yourselves for Milcom, because he will go in exile, his priests and his rulers together.
 - brenton: Howl, O Esebon, for Gai has perished; cry, ye daughters of Rabbath, gird yourselves with sackclothes, and lament; for Melchol shall go into banishment, his priests and his princes together.
 
 ### Jeremiah 30:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Why do you rejoice in plains, daughter of insolence, trusting in her treasures, saying, Who will enter against me?
+- fresh: Why do you rejoice in the plains of Enakim, daughter of insolence, trusting in her treasures, saying, Who will enter against me?
 - brenton: Why do ye exult in the plains of the Enakim, thou haughty daughter, that trustest in thy treasures, that sayest, Who shall come in to me?
 
 ### Jeremiah 30:21
@@ -175958,8 +175958,8 @@ Note:
 ### Jeremiah 30:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 5
 - same_normalized: no
 - fresh: To Kedar, royal court, which Nebuchadnezzar king of Babylon struck, thus said the Lord: Rise and go up against Kedar and fill yourselves with the sons of the east.
 - brenton: Concerning Kedar the Queen of the Palace, whom Nabuchodonosor King of Babylon smote, thus saith the Lord;
@@ -175970,7 +175970,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They will take their tents and their sheep, their garments and all their vessels, and their camels they will take for themselves, and call destruction around upon them.
+- fresh: They will take their tents and their sheep, their garments and all their vessels, and their camels they will take for themselves, and call destruction all around upon them.
 - brenton: They shall take their tents and their sheep, they shall take for themselves their garments, and all their baggage and their camels; and summon ye destruction against them from every side.
 
 ### Jeremiah 30:25
@@ -175979,7 +175979,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Flee greatly. Go deep into sitting, you sitting in court, because the king of Babylon planned a plan against you and devised a thought against you.
+- fresh: Flee greatly. Go deep into dwelling, you dwelling in the court, because the king of Babylon planned a plan against you and devised a thought against you.
 - brenton: Flee ye, dig very deep for a dwelling-place, ye that dwell in the palace; for the king of Babylon has framed a counsel, and devised a device against you.
 
 ### Jeremiah 30:26
@@ -175988,34 +175988,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Rise and go up against nation at ease, dwelling in refreshment, for whom there are no doors, no bars, no bolts. They dwell alone.
+- fresh: Rise and go up against a nation at ease, dwelling in refreshment, for whom there are no doors, no bars, no bolts. They dwell alone.
 - brenton: Rise up, and go up against a nation settled and dwelling at ease, who have no doors, nor bolts, nor bars, who dwell alone.
 
 ### Jeremiah 30:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And their camels will become for plunder and multitude of their cattle for destruction, and I will winnow them to every wind, clipped around the face, and from every side I will bring their downfall, says the Lord.
+- fresh: And their camels will become plunder and the multitude of their cattle destruction, and I will winnow them to every wind, those clipped around the face, and from every side I will bring their downfall, says the Lord.
 - brenton: And their camels shall be a spoil, and the multitude of their cattle shall be destroyed: and I will scatter them as chaff with every wind, having their hair cut about their foreheads, I will bring on their overthrow from all sides, saith the Lord.
 
 ### Jeremiah 30:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the court will become dwelling-place of sparrows and trackless waste forever. Man will not sit there, and son of man will not dwell there.
+- fresh: And the court will become a dwelling-place of sparrows and trackless waste forever. No man will sit there, and no son of man will dwell there.
 - brenton: And the palace shall be a resting-place for ostriches, and desolate for ever: no man shall abide there, and no son of man shall dwell there.
 
 ### Jeremiah 30:29
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 4
 - same_normalized: no
-- fresh: To Damascus: Hamath and Arpad were put to shame, because they heard evil report. They were confounded and troubled, and are not able to rest.
+- fresh: To Damascus: Hamath and Arpad were put to shame, because they heard an evil report. They were confounded and troubled, and they certainly are not able to rest.
 - brenton: Concerning Damascus. Emath is brought to shame, and Arphath: for they have heard an evil report: they are amazed, they are angry, they shall be utterly unable to rest.
 
 ### Jeremiah 30:30
@@ -176033,7 +176033,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: How was my city not abandoned, town they loved?
+- fresh: How was my city not abandoned, the town they loved?
 - brenton: How has she not left my city, they have loved the village?
 
 ### Jeremiah 30:32
@@ -176042,25 +176042,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore your young men will fall in your squares, and all your war-men will fall, says the Lord.
+- fresh: Therefore your young men will fall in your squares, and all your men of war will fall, says the Lord.
 - brenton: Therefore shall the young men fall in thy streets, and all thy warriors shall fall, saith the Lord.
 
 ### Jeremiah 30:33
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will kindle fire in the wall of Damascus, and it will devour streets of son of Hader.
+- fresh: And I will kindle fire in the wall of Damascus, and it will devour streets of Ben-Hadad.
 - brenton: And I will kindle a fire in the wall of Damascus, and it shall devour the streets of the son of Ader.
 
 ### Jeremiah 31:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: To Moab thus said the Lord: Woe to Nebo, because it was destroyed. Kirjathaim was taken. Amath was put to shame and defeated.
+- fresh: To Moab thus said the Lord: Woe to Nebo, because it was destroyed. Kiriathaim was taken. Amath was put to shame and defeated.
 - brenton: Thus has the Lord said concerning Moab, Woe to Nabau! for it has perished: Cariathaim is taken: Amath and Agath are put to shame.
 
 ### Jeremiah 31:2
@@ -176069,7 +176069,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: There is no longer healing for Moab, boasting in Heshbon. They planned evils against her: We cut her off from nation. Stop, a stopping-place. Behind you sword will go.
+- fresh: There is no longer healing for Moab, nor boasting in Heshbon. They planned evils against her: We cut her off from a nation. Stop, a stopping-place. Behind you the sword will go.
 - brenton: There is no longer any healing for Moab, nor glorying in Esebon: he has devised evils against her: we have cut her off from being a nation, and she shall be completely still: after thee shall go a sword;
 
 ### Jeremiah 31:3
@@ -176078,7 +176078,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the voice of criers from Horonaim, destruction and great crushing.
+- fresh: Because the voice of criers from Horonaim: destruction and great crushing.
 - brenton: for there is a voice of men crying out of Oronaim, destruction and great ruin.
 
 ### Jeremiah 31:4
@@ -176093,10 +176093,10 @@ Note:
 ### Jeremiah 31:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because on the ascent of Alauth one will go up with weeping, weeping. On the road of Horonaim they heard cry of crushing.
+- fresh: Because on the ascent of Aloth one will go up with weeping, weeping. On the road of Horonaim they heard a cry of crushing.
 - brenton: for Aloth is filled with weeping: one shall go up weeping by the way of Oronaim; ye have heard a cry of destruction.
 
 ### Jeremiah 31:6
@@ -176105,7 +176105,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Flee and save your souls, and you will be like wild donkey in desert.
+- fresh: Flee and save your souls, and you will be like a wild donkey in the desert.
 - brenton: Flee ye, and save your lives, and ye shall be as a wild ass in the desert.
 
 ### Jeremiah 31:7
@@ -176123,7 +176123,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And destroyer will come upon every city, and city will not be saved, and valley will perish and plain will be destroyed, just as the Lord said.
+- fresh: And destruction will come upon every city, and no city will be saved, and the valley will perish and the plain will be destroyed, just as the Lord said.
 - brenton: And destruction shall come upon every city, it shall by no means escape; the valley also shall perish, and the plain country shall be completely destroyed, as the Lord has said.
 
 ### Jeremiah 31:9
@@ -176132,7 +176132,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Give signs to Moab, because in flight she will fly out, and all her cities will become for trackless waste. From where will there be one dwelling in her?
+- fresh: Give signs to Moab, because in flight she will fly out, and all her cities will become trackless waste. From where will there be one dwelling in her?
 - brenton: Set marks upon Moab, for she shall be touched with a plague-spot, and all her cities shall become desolate; whence shall there be an inhabitant for her?
 
 ### Jeremiah 31:10
@@ -176141,32 +176141,32 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Cursed one doing works of the Lord negligently, withholding his sword from blood.
+- fresh: Cursed is the one doing the works of the Lord negligently, withholding his sword from blood.
 - brenton: Cursed is the man that does the works of the Lord carelessly, keeping back his sword from blood.
 
 ### Jeremiah 31:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Moab was at rest from childhood and was confident on his glory. He was not poured from vessel into vessel, and into exile he did not go. Because of this his taste stood in him and his smell did not leave.
+- fresh: Moab was at rest from childhood and was confident in his glory. He was not poured from vessel to vessel, and into exile he did not go. Because of this his taste stood in him and his smell did not leave.
 - brenton: Moab has been at ease from a child, and trusted in his glory; he has not poured out his liquor from vessel to vessel, and has not gone into banishment, therefore his taste remained in him, and his smell departed not.
 
 ### Jeremiah 31:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore behold, days come, says the Lord, and I will send him tippers, and they will tip him, and they will thin his vessels and break his horns.
+- fresh: Therefore behold, days are coming, says the Lord, and I will send him tippers, and they will tip him, and they will thin his vessels and break his horns.
 - brenton: Therefore, behold, his days come, saith the Lord, when I shall send upon him bad leaders, and they shall lead him astray, and they shall utterly break in pieces his possessions, and shall cut his horns asunder.
 
 ### Jeremiah 31:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And Moab will be ashamed of Chemosh, just as the house of Israel was ashamed of Bethel, their hope, trusting in them.
 - brenton: And Moab shall be ashamed of Chamos, as the house of Israel was ashamed of Bæthel their hope, having trusted in them.
@@ -176177,7 +176177,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: How will you say, We are strong and mighty man for wars?
+- fresh: How will you say, We are strong and mighty men for wars?
 - brenton: How will ye say, We are strong, and men strong for war?
 
 ### Jeremiah 31:15
@@ -176195,7 +176195,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Near is the day of Moab to come, and his evil very swift.
+- fresh: Near is the day of Moab to come, and his evil is very swift.
 - brenton: The day of Moab is near at hand, and his iniquity moves swiftly to vengeance.
 
 ### Jeremiah 31:17
@@ -176204,7 +176204,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Shake for him, all around him, all knowing his name. Say, How glorious staff was broken, rod of greatness.
+- fresh: Shake for him, all around him, all knowing his name. Say, How the glorious staff was broken, the rod of greatness.
 - brenton: Shake the head at him, all ye that are round about him; all of you utter his name; say ye, How is the glorious staff broken to pieces, the rod of magnificence!
 
 ### Jeremiah 31:18
@@ -176213,7 +176213,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Come down from glory and sit in dampness, you dwelling in Dibon, worn out, because destroyer of Moab came up against you. He destroyed your stronghold.
+- fresh: Come down from glory and sit in dampness, you dwelling in Dibon, worn out, because the destroyer of Moab came up against you. He destroyed your stronghold.
 - brenton: Come down from thy glory, and sit down in a damp place: Dæbon shall be broken, because Moab is destroyed: there has gone up against thee one to ravage thy strong-hold.
 
 ### Jeremiah 31:19
@@ -176222,7 +176222,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Stand by road and watch, you dwelling in Aroer, and ask one fleeing and being saved, and say, What happened?
+- fresh: Stand by the road and watch, you dwelling in Aroer, and ask the one fleeing and being saved, and say, What happened?
 - brenton: Stand by the way, and look, thou that dwellest in Arer; and ask him that is fleeing, and him that escapes, and say, What has happened?
 
 ### Jeremiah 31:20
@@ -176237,10 +176237,10 @@ Note:
 ### Jeremiah 31:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And judgment comes upon the land of Mishor, upon Helon and upon Iassa and upon Mephaath,
+- fresh: And judgment comes upon the land of Mishor, upon Holon and upon Jahazah and upon Mephaath,
 - brenton: And judgment is coming against the land of Misor, upon Chelon, and Rephas, and Mophas,
 
 ### Jeremiah 31:22
@@ -176255,19 +176255,19 @@ Note:
 ### Jeremiah 31:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: and upon Kirjathaim and upon the house of Beth-gamul and upon the house of Maon,
+- fresh: and upon Kiriathaim and upon Beth-gamul and upon Beth-meon,
 - brenton: and upon Cariathaim, and upon the house of Gæmol, and upon the house of Maon,
 
 ### Jeremiah 31:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: and upon Kerioth and upon Besor and upon all cities of Moab, far and near.
+- fresh: and upon Kerioth and upon Bozrah and upon all cities of Moab, far and near.
 - brenton: and upon Carioth, and upon Bosor, and upon all the cities of Moab, far and near.
 
 ### Jeremiah 31:25
@@ -176276,16 +176276,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Horn of Moab was broken, and his arm was shattered.
+- fresh: The horn of Moab was broken, and his arm was shattered.
 - brenton: The horn of Moab is broken, and his arm is crushed.
 
 ### Jeremiah 31:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Make him drunk, because he magnified himself against the Lord, and Moab will clap with his hand, and he too will become for laughter.
+- fresh: Make him drunk, because he magnified himself against the Lord, and Moab will clap with his hand, and he too will become a laughingstock.
 - brenton: Make ye him drunk; for he has magnified himself against the Lord: and Moab shall clap with his hand, and shall be also himself a laughing-stock.
 
 ### Jeremiah 31:27
@@ -176294,7 +176294,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And if Israel was not for mockery to you, was he found in your thefts, because you were fighting against him?
+- fresh: And if Israel was not for mockery to you, was he found among your thefts, because you were fighting against him?
 - brenton: For surely Israel was to thee a laughing-stock, and was found among thy thefts, because thou didst fight against him.
 
 ### Jeremiah 31:28
@@ -176312,7 +176312,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I heard pride of Moab. He was very proud, his insult and his arrogance, and his heart was raised high.
+- fresh: I heard the pride of Moab. He was very proud, his insult and his arrogance, and his heart was raised high.
 - brenton: And I have heard of the pride of Moab, he has greatly heightened his pride and his haughtiness, and his heart has been lifted up.
 
 ### Jeremiah 31:30
@@ -176321,7 +176321,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But I knew his works, not enough for him. Not so he did.
+- fresh: But I knew his works. Was it not enough for him? Did he not do thus?
 - brenton: But I know his works: is it not enough for him? has he not done thus?
 
 ### Jeremiah 31:31
@@ -176336,10 +176336,10 @@ Note:
 ### Jeremiah 31:32
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Like weeping of Jaazer I will weep for you, vine of Sebema. Your branches passed through sea. They touched Jaazer. Destroyer fell upon your fruit and upon your vintage.
+- fresh: Like the weeping of Jazer I will weep for you, vine of Sibmah. Your branches passed through the sea. They touched Jazer. Destruction fell upon your fruit and upon your vintage.
 - brenton: O vine of Aserema, as with the weeping of Jazer: thy branches are gone over the sea, they reached the cities of Jazer: destruction has come upon thy fruits, and upon thy grape-gatherers.
 
 ### Jeremiah 31:33
@@ -176357,7 +176357,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: From cry of Heshbon as far as Elealeh their cities gave their voice, from Zoar as far as Horonaim and Aglath-salisia, because waters of Nimrim will become for burning.
+- fresh: From the cry of Heshbon as far as Elealeh their cities gave their voice, from Zoar as far as Horonaim and Aglath-salisia, because the waters of Nimrim will become a burning.
 - brenton: From the cry of Esebon even to Ætam their cities uttered their voice, from Zogor to Oronaim, and their tidings as a heifer of three years old, for the water also of Nebrin shall be dried up.
 
 ### Jeremiah 31:35
@@ -176366,7 +176366,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will destroy from Moab, says the Lord, one going up upon the altar and burning incense to his gods.
+- fresh: And I will destroy from Moab, says the Lord, the one going up upon the altar and burning incense to his gods.
 - brenton: And I will destroy Moab, saith the Lord, as he comes up to the altar, and burns incense to his gods.
 
 ### Jeremiah 31:36
@@ -176375,16 +176375,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore my heart for Moab will sound like flutes, and my heart over the men of Kir-heres will sound like flute, because what he prepared perished from man.
+- fresh: Therefore my heart for Moab will sound like flutes, and my heart over the men of Kir-heres will sound like a flute, because what he prepared perished from man.
 - brenton: Therefore the heart of Moab shall sound as pipes, my heart shall sound as a pipe for the shorn men; forasmuch as what every man has gained has perished from him.
 
 ### Jeremiah 31:37
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Every head in every place will be shaved, and every beard will be shaved, and all hands will be cut, and upon every waist sackcloth.
+- fresh: Every head in every place will be shaved, and every beard will be shaved, and all hands will beat, and upon every waist will be sackcloth.
 - brenton: They shall all have their heads shaved in every place, and every beard shall be shaved; and all hands shall beat the breasts, and on all loins shall be sackcloth.
 
 ### Jeremiah 31:38
@@ -176402,7 +176402,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: How it changed. How Moab turned back. He was ashamed and became for laughter and vexation to all around him.
+- fresh: How he changed! How Moab turned his back! He was ashamed and became a laughingstock and a vexation to all around him.
 - brenton: How has he changed! how has Moab turned his back! Moab is put to shame, and become a laughing-stock, and an object of anger to all that are round about him.
 
 ### Jeremiah 31:40
@@ -176411,16 +176411,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus said the Lord,
+- fresh: Because thus said the Lord:
 - brenton: For thus said the Lord;
 
 ### Jeremiah 31:41
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Akkarioth was taken and strongholds were seized.
+- fresh: Kerioth was taken and strongholds were seized.
 - brenton: Carioth is taken, and the strong-holds have been taken together.
 
 ### Jeremiah 31:42
@@ -176429,16 +176429,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moab will perish from multitude, because against the Lord he magnified himself.
+- fresh: And Moab will perish from being a multitude, because against the Lord he magnified himself.
 - brenton: And Moab shall perish from being a multitude, because he has magnified himself against the Lord.
 
 ### Jeremiah 31:43
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Snare and fear and pit are upon you, one dwelling in Moab.
+- fresh: A snare and fear and pit are upon you, one dwelling in Moab.
 - brenton: A snare, and fear, and the pit, are upon thee, O inhabitant of Moab.
 
 ### Jeremiah 31:44
@@ -176447,7 +176447,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: One fleeing from the face of fear will fall into pit, and one coming up from pit will be caught in snare, because I will bring these things upon Moab in the year of her visitation.
+- fresh: One fleeing from the face of fear will fall into the pit, and one coming up from the pit will be caught in the snare, because I will bring these things upon Moab in the year of her visitation.
 - brenton: He that flees from the terror shall fall into the pit, and he that comes up out of the pit shall even be taken in the snare: for I will bring these things upon Moab in the year of their visitation.
 
 ### Jeremiah 32:13
@@ -176462,10 +176462,10 @@ Note:
 ### Jeremiah 32:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus said the Lord God of Israel: Take this cup of unmixed wine from my hand, and you will make all nations drink, to whom I send you to them.
+- fresh: Thus said the Lord God of Israel: Take this cup of unmixed wine from my hand, and you will make all nations drink, to whom I send you.
 - brenton: Thus said the Lord God of Israel; Take the cup of this unmixed wine from mine hand, and thou shalt cause all the nations to drink, to whom I send thee.
 
 ### Jeremiah 32:16
@@ -176483,7 +176483,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I took cup from the hand of the Lord and made nations drink, to whom the Lord sent me against them:
+- fresh: And I took the cup from the hand of the Lord and made the nations drink, to whom the Lord sent me against them:
 - brenton: So I took the cup out of the Lord's hand, and caused the nations to whom the Lord sent me to drink:
 
 ### Jeremiah 32:18
@@ -176492,7 +176492,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Jerusalem and cities of Judah and kings of Judah and his rulers, to set them for desolation and for trackless waste and for hissing,
+- fresh: Jerusalem and the cities of Judah and kings of Judah and its rulers, to set them for desolation and for trackless waste and for hissing,
 - brenton: Jerusalem, and the cities of Juda, and the kings of Juda, and his princes, to make them a desert place, a desolation, and a hissing;
 
 ### Jeremiah 32:19
@@ -176507,10 +176507,10 @@ Note:
 ### Jeremiah 32:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: and all his mixed peoples and all kings of foreigners, Ashkelon and Gaza and Ekron and remnant of Ashdod,
+- fresh: and all his mixed peoples and all kings of the Philistines: Ashkelon and Gaza and Ekron and the remnant of Ashdod,
 - brenton: and all the mingled people, and all the kings of the Philistines, and Ascalon, and Gaza, and Accaron, and the remnant of Azotus,
 
 ### Jeremiah 32:21
@@ -176519,7 +176519,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and Edom and Moab and sons of Ammon,
+- fresh: and Edom and Moab and the sons of Ammon,
 - brenton: and Idumea, and the land of Moab, and the children of Ammon,
 
 ### Jeremiah 32:22
@@ -176528,14 +176528,14 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and all kings of Tyre and kings of Sidon and kings beyond sea,
+- fresh: and all kings of Tyre and kings of Sidon and kings beyond the sea,
 - brenton: and the kings of Tyre, and the kings of Sidon, and the kings in the country beyond the sea,
 
 ### Jeremiah 32:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: and Dedan and Teman and Rosh and every one shaved around his face,
 - brenton: and Dædan, and Thæman, and Ros, and every one that is shaved round about the face,
@@ -176555,7 +176555,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and all kings of Elam and all kings of Persians,
+- fresh: and all kings of Elam and all kings of the Persians,
 - brenton: and all the kings of Ælam, and all the kings of the Persians,
 
 ### Jeremiah 32:26
@@ -176564,7 +176564,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and all kings from east, far and near, each toward his brother, and all kingdoms upon the face of the earth.
+- fresh: and all kings from the east, far and near, each toward his brother, and all kingdoms upon the face of the earth.
 - brenton: and all the kings from the north, the far and the near, each one with his brother, and all the kingdoms which are on the face of the earth.
 
 ### Jeremiah 32:27
@@ -176582,34 +176582,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be, when they do not want to receive cup from your hand to drink, then you will say, Thus said the Lord: Drinking you will drink.
+- fresh: And it will be, when they do not want to receive the cup from your hand to drink, then you will say, Thus said the Lord: Drinking you will drink.
 - brenton: And it shall come to pass, when they refuse to take the cup out of thine hand, to drink it, that thou shalt say, Thus said the Lord; Ye shall surely drink.
 
 ### Jeremiah 32:29
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because in the city upon which my name was called, I begin to do evil, and by cleansing you will not be cleansed, because I call sword upon those dwelling on earth.
+- fresh: Because in the city upon which my name was called, I begin to do evil, and you will certainly not be cleansed, because I call a sword upon those dwelling on the earth.
 - brenton: For I am beginning to afflict the city whereon my name is called, and ye shall by no means be held guiltless: for I am calling a sword upon all that dwell upon the earth.
 
 ### Jeremiah 32:30
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will prophesy against them these words and say: The Lord from on high will answer, and from his holy place will give his voice. Word he will answer against his place, and shouting like grape-treaders they will answer against those dwelling on earth.
+- fresh: And you will prophesy against them these words and say: The Lord from on high will utter, and from his holy place he will give his voice. He will utter a word against his place, and shouting like grape-treaders, they will answer against those dwelling on the earth.
 - brenton: And thou shalt prophesy against them these words, and shalt say, The Lord shall speak from on high, from his sanctuary he will utter his voice; he will pronounce a declaration on his place; and these shall answer like men gathering grapes: and destruction is coming on them that dwell on the earth,
 
 ### Jeremiah 32:31
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Destruction comes upon part of earth, because judgment belongs to the Lord among nations. He himself is judged toward all flesh, but ungodly were given to sword, says the Lord.
+- fresh: Destruction comes upon a part of the earth, because judgment belongs to the Lord among the nations. He himself enters judgment with all flesh, but the ungodly were given to the sword, says the Lord.
 - brenton: even upon the extreme part of the earth; for the Lord has a controversy with the nations, he is pleading with all flesh, and the ungodly are given to the sword, saith the Lord.
 
 ### Jeremiah 32:32
@@ -176627,16 +176627,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And slain by the Lord in the day of the Lord will be from one end of the earth even to other end of the earth. They will never be buried. They will be like dung upon the face of the earth.
+- fresh: And slain by the Lord in the day of the Lord will be from one end of the earth even to the other end of the earth. They will never be buried. They will be like dung upon the face of the earth.
 - brenton: And the slain of the Lord shall be in the day of the Lord from one end of the earth even to the other end of the earth: they shall not be buried; they shall be as dung on the face of the earth.
 
 ### Jeremiah 32:34
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Howl, shepherds, and cry out, and cut yourselves, rams of sheep, because your days were filled up for slaughter, and you will fall like choice rams.
+- fresh: Howl, shepherds, and cry out, and beat yourselves, rams of the sheep, because your days were filled up for slaughter, and you will fall like choice rams.
 - brenton: Howl, ye shepherds, and cry; and lament, ye rams of the flock: for your days have been completed for slaughter, and ye shall fall as the choice rams.
 
 ### Jeremiah 32:35
@@ -176645,7 +176645,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And flight will perish from shepherds and salvation from rams of sheep.
+- fresh: And flight will perish from shepherds and salvation from rams of the sheep.
 - brenton: And flight shall perish from the shepherds, and safety from the rams of the flock.
 
 ### Jeremiah 32:36
@@ -176654,7 +176654,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The voice of cry of shepherds and howl of sheep and rams, because the Lord destroyed their pastures.
+- fresh: A voice of the cry of shepherds and a howl of sheep and rams, because the Lord destroyed their pastures.
 - brenton: A voice of the crying of the shepherds, and a moaning of the sheep and the rams: for the Lord has destroyed their pastures.
 
 ### Jeremiah 32:37
@@ -176687,19 +176687,19 @@ Note:
 ### Jeremiah 33:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus said the Lord: Stand in the court of the house of the Lord and answer all Judeans and all coming to worship in the house of the Lord all words which I ordered you to answer them. Do not leave out word.
+- fresh: Thus said the Lord: Stand in the court of the house of the Lord and declare to all Judeans and to all those coming to worship in the house of the Lord all the words which I ordered you to declare to them. Do not leave out a word.
 - brenton: Thus said the Lord; Stand in the court of the Lord's house, and thou shalt declare to all the Jews, and to all that come to worship in the house of the Lord, all the words which I commanded thee to speak to them; abate not one word.
 
 ### Jeremiah 33:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Perhaps they will hear and each turn from his evil way, and I will stop from evils which I plan to do to them because of their evil practices.
+- fresh: Perhaps they will hear and each turn from his evil way, and I will relent from the evils which I plan to do to them because of their evil practices.
 - brenton: Peradventure they will hear, and turn every one from his evil way: then I will cease from the evils which I purpose to do to them, because of their evil practices.
 
 ### Jeremiah 33:4
@@ -176708,7 +176708,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will say, Thus said the Lord: If you do not hear me, to walk in my statutes which I gave before your face,
+- fresh: And you will say, Thus said the Lord: If you do not listen to me, to walk in my statutes which I gave before your face,
 - brenton: And thou shalt say, Thus said the Lord; If ye will not hearken to me, to walk in my statutes which I set before you,
 
 ### Jeremiah 33:5
@@ -176717,16 +176717,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: to listen to the words of my servants the prophets whom I send to you early, and I sent, and you did not hear me,
+- fresh: to listen to the words of my servants the prophets whom I send to you early, and I sent, and you did not listen to me,
 - brenton: to hearken to the words of my servants the prophets, whom I send to you early in the morning; yea, I sent them, but ye hearkened not to me;
 
 ### Jeremiah 33:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: then I will give this house like Shiloh, and this city I will give for curse to all nations of all the earth.
+- fresh: then I will make this house like Shiloh, and this city I will give for a curse to all nations of all the earth.
 - brenton: then will I make this house as Selo, and I will make this city a curse to all the nations of all the earth.
 
 ### Jeremiah 33:7
@@ -176735,7 +176735,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And priests and false prophets and all the people heard Jeremiah speaking these words in the house of the Lord.
+- fresh: And the priests and the false prophets and all the people heard Jeremiah speaking these words in the house of the Lord.
 - brenton: And the priests, and the false prophets, and all the people heard Jeremias speaking these words in the house of the Lord.
 
 ### Jeremiah 33:8
@@ -176744,7 +176744,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened when Jeremiah ceased speaking all that the Lord ordered him to speak to all the people, priests and false prophets and all the people seized him, saying, Death you will die.
+- fresh: And it happened when Jeremiah ceased speaking all that the Lord ordered him to speak to all the people, the priests and the false prophets and all the people seized him, saying, You will surely die.
 - brenton: And it came to pass, when Jeremias had ceased speaking all that the Lord had ordered him to speak to all the people, that the priests and the false prophets and all the people took him, saying,
 
 ### Jeremiah 33:9
@@ -176753,7 +176753,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you prophesied in the name of the Lord, saying, Like Shiloh this house will be, and this city will be made desolate from dwellers. And all the people were gathered against Jeremiah in the house of the Lord.
+- fresh: Because you prophesied in the name of the Lord, saying, Like Shiloh this house will be, and this city will be made desolate, without dwellers. And all the people were gathered against Jeremiah in the house of the Lord.
 - brenton: Thou shalt surely die, because thou hast prophesied in the name of the Lord, saying, This house shall be as Selo, and this city shall be made quite destitute of inhabitants.
 
 ### Jeremiah 33:10
@@ -176771,7 +176771,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And priests and false prophets said to rulers and to all the people, Judgment of death to this man, because he prophesied against this city as you heard in your ears.
+- fresh: And the priests and the false prophets said to the rulers and to all the people, A judgment of death for this man, because he prophesied against this city as you heard in your ears.
 - brenton: Then the priests and the false prophets said to the princes and to all the people, The judgment of death is due to this man; because he has prophesied against this city, as ye have heard with your ears.
 
 ### Jeremiah 33:12
@@ -176780,7 +176780,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah said to rulers and to all the people, saying, the Lord sent me to prophesy against this house and against this city all these words which you heard.
+- fresh: And Jeremiah said to the rulers and to all the people, saying, The Lord sent me to prophesy against this house and against this city all these words which you heard.
 - brenton: Then Jeremias spoke to the princes, and to all the people, saying, The Lord sent me to prophesy against this house and against this city, all the words which ye have heard.
 
 ### Jeremiah 33:13
@@ -176789,7 +176789,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now make your ways and your works better and hear the voice of the Lord, and the Lord will stop from evils which he spoke against you.
+- fresh: And now make your ways and your works better and hear the voice of the Lord, and the Lord will relent from the evils which he spoke against you.
 - brenton: And now amend your ways and your works, and hearken to the voice of the Lord; and the Lord shall cease from the evils which he has pronounced against you.
 
 ### Jeremiah 33:14
@@ -176798,7 +176798,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, I am in your hands. Do to me as helps and as seems better to you.
+- fresh: And behold, I am in your hands. Do to me as is beneficial and as seems better to you.
 - brenton: And behold, I am in your hands; do to me as is expedient, and as it is best for you.
 
 ### Jeremiah 33:15
@@ -176807,7 +176807,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Only knowing you will know that if you kill me, you place innocent blood upon yourselves and upon this city and upon those dwelling in it, because in truth the Lord sent me to you to speak all these words into your ears.
+- fresh: Only know for certain that if you kill me, you place innocent blood upon yourselves and upon this city and upon those dwelling in it, because in truth the Lord sent me to you to speak all these words in your ears.
 - brenton: But know for a certainty, that if ye slay me, ye bring innocent blood upon yourselves, and upon this city, and upon them that dwell in it; for in truth the Lord has sent me to you to speak in your ears all these words.
 
 ### Jeremiah 33:16
@@ -176816,7 +176816,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And rulers and all the people said to priests and to false prophets, There is no judgment of death for this man, because in the name of the Lord our God he spoke to us.
+- fresh: And the rulers and all the people said to the priests and to the false prophets, There is no judgment of death for this man, because in the name of the Lord our God he spoke to us.
 - brenton: Then the princes and all the people said to the priests and to the false prophets; Judgment of death is not due to this man; for he has spoken to us in the name of the Lord our God.
 
 ### Jeremiah 33:17
@@ -176831,10 +176831,10 @@ Note:
 ### Jeremiah 33:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Micah the Morasthite was in the days of Hezekiah king of Judah and said to all the people of Judah, Thus said the Lord: Zion will be plowed like a field and Jerusalem will be for trackless waste and mountain of the house for grove of the forest.
+- fresh: Micah the Morasthite was in the days of Hezekiah king of Judah and said to all the people of Judah, Thus said the Lord: Zion will be plowed like a field, and Jerusalem will become trackless waste, and the mountain of the house will become a grove of the forest.
 - brenton: Michæas the Morathite lived in the days of Ezekias king of Juda, and said to all the people of Juda, Thus saith the Lord; Sion shall be ploughed as a field, and Jerusalem shall become a desolation, and the mountain of the house shall be a thicket of trees.
 
 ### Jeremiah 33:19
@@ -176843,16 +176843,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Did Hezekiah and all Judah kill him by killing? Was it not because they feared Lord and sought the face of the Lord, and the Lord stopped from evils which he spoke against them? And we have done great evils against our souls.
+- fresh: Did Hezekiah and all Judah truly kill him? Was it not because they feared the Lord and sought the face of the Lord, and the Lord relented from the evils which he spoke against them? And we have done great evils against our souls.
 - brenton: Did Ezekias and all Juda in any way slay him? Was it not that they feared the Lord, and they made supplication before the Lord, and the Lord ceased from the evils which he had pronounced against them? whereas we have wrought great evil against our own souls.
 
 ### Jeremiah 33:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And there was man prophesying in the name of the Lord, Uriah son of Shemaiah from Kirjathjearim, and he prophesied concerning this land according to all words of Jeremiah.
+- fresh: And there was a man prophesying in the name of the Lord, Uriah son of Shemaiah from Kiriath-jearim, and he prophesied concerning this land according to all the words of Jeremiah.
 - brenton: And there was another man prophesying in the name of the Lord, Urias the son of Samæas of Cariathiarim; and he prophesied concerning this land according to all the words of Jeremias.
 
 ### Jeremiah 33:21
@@ -176861,7 +176861,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And King Jehoiakim and all rulers heard all his words, and they sought to kill him, and Uriah heard and entered Egypt.
+- fresh: And King Jehoiakim and all the rulers heard all his words, and they sought to kill him, and Uriah heard and entered Egypt.
 - brenton: And king Joakim and all the princes heard all his words, and sought to slay him; and Urias heard it and went into Egypt.
 
 ### Jeremiah 33:22
@@ -176879,7 +176879,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and they brought him out from there and led him to the king, and he struck him with sword and threw him into tomb of sons of his people.
+- fresh: and they brought him out from there and led him to the king, and he struck him with the sword and threw him into the tomb of the sons of his people.
 - brenton: and they brought him thence, and brought him in to the king; and he smote him with the sword, and cast him into the sepulchre of the children of his people.
 
 ### Jeremiah 33:24
@@ -176888,14 +176888,14 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But the hand of Ahikam son of Shaphan was with Jeremiah, so as not to hand him into the hands of the people, so that they not kill him.
+- fresh: But the hand of Ahikam son of Shaphan was with Jeremiah, so as not to hand him into the hands of the people, so they would not kill him.
 - brenton: Nevertheless the hand of Achicam son of Saphan was with Jeremias, to prevent his being delivered into the hands of the people, or being killed.
 
 ### Jeremiah 34:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Thus said the Lord: Make bonds and yokes and put them around your neck.
 - brenton: Thus said the Lord; Make to thyself bonds and yokes, and put them about thy neck,
@@ -176906,7 +176906,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will send them to the king of Edom and to the king of Moab and to the king of sons of Ammon and to the king of Tyre and to the king of Sidon by the hand of their messengers coming to meet them in Jerusalem to Zedekiah king of Judah.
+- fresh: And you will send them to the king of Edom and to the king of Moab and to the king of the sons of Ammon and to the king of Tyre and to the king of Sidon by the hand of their messengers who come to meet Zedekiah king of Judah in Jerusalem.
 - brenton: and thou shalt send them to the king of Idumea, and to the king of Moab, and to the king of the children of Ammon, and to the king of Tyre, and to the king of Sidon, by the hands of their messengers that come to meet them at Jerusalem to Sedekias king of Juda.
 
 ### Jeremiah 34:4
@@ -176915,7 +176915,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will command them for their lords, saying, Thus said the Lord God of Israel. Thus you will say to your lords:
+- fresh: And you will command them to say to their lords, Thus said the Lord God of Israel. Thus you will say to your lords:
 - brenton: And thou shalt commission them to say to their lords, Thus said the Lord God of Israel; Thus shall ye say to your lords;
 
 ### Jeremiah 34:5
@@ -176924,7 +176924,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I made earth in my great strength and in my high arm, and I will give it to whomever seems right in my eyes.
+- fresh: I made the earth in my great strength and in my high arm, and I will give it to whomever seems right in my eyes.
 - brenton: I have made the earth by my great power, and with my high arm, and I will give it to whomsoever it shall seem good in mine eyes.
 
 ### Jeremiah 34:6
@@ -176933,25 +176933,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I gave land to Nebuchadnezzar king of Babylon, to serve him, and beasts of the field to work for him.
+- fresh: I gave the land to Nebuchadnezzar king of Babylon, to serve him, and the beasts of the field to work for him.
 - brenton: I gave the earth to Nabuchodonosor king of Babylon to serve him, and the wild beasts of the field to labour for him.
 
 ### Jeremiah 34:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And nation and kingdom, as many as do not put their neck under the yoke of the king of Babylon, with sword and famine I will visit them, said the Lord, until they fail by his hand.
+- fresh: And the nation and the kingdom, as many as do not put their neck under the yoke of the king of Babylon, with sword and famine I will visit them, said the Lord, until they fail by his hand.
 - brenton: And the nation and kingdom, all that shall not put their neck under the yoke of the king of Babylon, with sword and famine will I visit them, saith the Lord, until they are consumed by his hand.
 
 ### Jeremiah 34:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And do not hear your false prophets and those divining to you and those dreaming to you and your omen-readings and your sorceries, those saying, You will not serve king of Babylon.
+- fresh: And do not listen to your false prophets and those divining to you and those dreaming to you and your omens and your sorceries, those saying, You will not serve the king of Babylon.
 - brenton: And hearken ye not to your false prophets, nor to them that divine to you, nor to them that foretel events by dreams to you, nor to your auguries, nor your sorcerers, that say, Ye shall by no means work for the king of Babylon:
 
 ### Jeremiah 34:10
@@ -176969,7 +176969,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And nation which puts its neck under the yoke of the king of Babylon and serves him, I will leave upon its land, and it will work it and dwell in it.
+- fresh: And the nation that puts its neck under the yoke of the king of Babylon and serves him, I will leave upon its land, and it will work for him and dwell in it.
 - brenton: But the nation which shall put its neck under the yoke of the king of Babylon, and serve him, I will even leave it upon its land, and it shall serve him, and dwell in it.
 
 ### Jeremiah 34:12
@@ -176978,7 +176978,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And to Zedekiah king of Judah I spoke according to all these words, saying, Bring in your neck,
+- fresh: And to Zedekiah king of Judah I spoke according to all these words, saying, Submit your neck,
 - brenton: I spoke also to Sedekias king of Juda according to all these words, saying, Put your neck into the yoke,
 
 ### Jeremiah 34:14
@@ -176987,7 +176987,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and serve king of Babylon, because they prophesy unjust things to you.
+- fresh: and serve the king of Babylon, because they prophesy unjust things to you.
 - brenton: and serve the king of Babylon. For they prophesy unrighteous words to you,
 
 ### Jeremiah 34:15
@@ -176996,7 +176996,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I did not send them, says the Lord, and they prophesy in my name for injustice, to destroy you, and you will perish, you and your prophets prophesying lies to you for injustice.
+- fresh: Because I did not send them, says the Lord, and they prophesy in my name unjustly, to destroy you, and you will perish, you and your prophets who prophesy lies to you unjustly.
 - brenton: for I sent them not, saith the Lord; and they prophesy in my name unjustly, that I might destroy you, and ye should perish, and your prophets, who unrighteously prophesy lies to you.
 
 ### Jeremiah 34:16
@@ -177005,25 +177005,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To you and to all this people and to priests I spoke, saying, Thus said the Lord: Do not hear the words of prophets prophesying to you, saying, Behold, vessels of the house of the Lord will return from Babylon, because they prophesy unjust things to you. I did not send them.
+- fresh: To you and to all this people and to the priests I spoke, saying, Thus said the Lord: Do not listen to the words of the prophets prophesying to you, saying, Behold, the vessels of the house of the Lord will return from Babylon, because they prophesy unjust things to you. I did not send them.
 - brenton: I spoke to you, and to all this people, and to the priests, saying, Thus said the Lord; Hearken not to the words of the prophets that prophesy to you, saying, Behold, the vessels of the Lord's house shall return from Babylon: for they prophesy to you unrighteous words. I sent them not.
 
 ### Jeremiah 34:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: If they are prophets and if the word of the Lord is in them, let them answer me.
+- fresh: If they are prophets and if the word of the Lord is in them, let them meet me.
 - brenton: If they are prophets, and if the word of the Lord is in them, let them meet me, for thus has the Lord said.
 
 ### Jeremiah 34:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because thus said the Lord, even concerning remaining vessels
+- fresh: Because thus said the Lord, even concerning the remaining vessels
 - brenton: And as for the remaining vessels,
 
 ### Jeremiah 34:20
@@ -177032,7 +177032,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: which king of Babylon did not take when he carried away Jeconiah from Jerusalem,
+- fresh: which the king of Babylon did not take when he carried away Jeconiah from Jerusalem,
 - brenton: which the king of Babylon took not, when he carried Jechonias prisoner out of Jerusalem,
 
 ### Jeremiah 34:22
@@ -177041,16 +177041,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: into Babylon it will enter, says the Lord.
+- fresh: into Babylon they will enter, says the Lord.
 - brenton: they shall go into Babylon, saith the Lord.
 
 ### Jeremiah 35:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in the fourth year of Zedekiah king of Judah, in the fifth month, Hananiah son of Azor, the false prophet from Gibeon, said to me in the house of the Lord before the eyes of priests and all the people, saying,
+- fresh: And it happened in the fourth year of Zedekiah king of Judah, in the fifth month, Hananiah son of Azor, the false prophet from Gibeon, said to me in the house of the Lord before the eyes of the priests and all the people, saying,
 - brenton: And it came to pass in the fourth year of Sedekias king of Juda, in the fifth month, that Ananias the false prophet, the son of Azor, from Gabaon, spoke to me in the house of the Lord, in the sight of the priests and all the people, saying,
 
 ### Jeremiah 35:2
@@ -177059,16 +177059,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord: I have broken yoke of the king of Babylon.
+- fresh: Thus said the Lord: I have broken the yoke of the king of Babylon.
 - brenton: Thus saith the Lord; I have broken the yoke of the king of Babylon.
 
 ### Jeremiah 35:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Still two years of days, and I will restore into this place vessels of the house of the Lord,
+- fresh: Still two full years, and I will restore into this place the vessels of the house of the Lord,
 - brenton: Yet two full years, and I will return into this place the vessels of the house of the Lord,
 
 ### Jeremiah 35:4
@@ -177077,7 +177077,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and Jeconiah and exile of Judah, because I will break yoke of the king of Babylon.
+- fresh: and Jeconiah and the exile of Judah, because I will break the yoke of the king of Babylon.
 - brenton: and Jechonias, and the captivity of Juda: for I will break the yoke of the king of Babylon.
 
 ### Jeremiah 35:5
@@ -177086,7 +177086,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah said to Hananiah before the eyes of all the people and before the eyes of priests standing in the house of the Lord,
+- fresh: And Jeremiah said to Hananiah before the eyes of all the people and before the eyes of the priests standing in the house of the Lord,
 - brenton: Then Jeremias spoke to Ananias in the sight of all the people, and in the sight of the priests that stood in the house of the Lord,
 
 ### Jeremiah 35:6
@@ -177095,7 +177095,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and Jeremiah said, Truly, may the Lord do so. May the Lord establish your word which you prophesy, to return vessels of the house of the Lord and all exile from Babylon into this place.
+- fresh: and Jeremiah said, Truly, may the Lord do so. May the Lord establish your word which you prophesy, to return the vessels of the house of the Lord and all the exile from Babylon into this place.
 - brenton: and Jeremias said, May the Lord indeed do thus; may he confirm thy word which thou dost prophesy, to return the vessels of the house of the Lord, and all the captivity, out of Babylon to this place.
 
 ### Jeremiah 35:7
@@ -177113,16 +177113,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Prophets who were before me and before you from ancient time prophesied against much land and against great kingdoms for war.
+- fresh: The prophets who were before me and before you from ancient time prophesied against much land and against great kingdoms concerning war.
 - brenton: The prophets that were before me and before you of old, also prophesied over much country, and against great kingdoms, concerning war.
 
 ### Jeremiah 35:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Prophet prophesying for peace, when his word comes, they will know prophet whom the Lord sent in faithfulness.
+- fresh: The prophet prophesying for peace, when his word comes, they will know the prophet whom the Lord sent in faithfulness.
 - brenton: As for the prophet that has prophesied for peace, when the word has come to pass, they shall know the prophet whom the Lord has sent them in truth.
 
 ### Jeremiah 35:10
@@ -177131,7 +177131,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hananiah took before the eyes of all the people the yokes from Jeremiah’s neck and broke them.
+- fresh: And Hananiah took before the eyes of all the people the yokes from Jeremiah's neck and broke them.
 - brenton: Then Ananias took the yokes from the neck of Jeremias in the sight of all the people, and broke them to pieces.
 
 ### Jeremiah 35:11
@@ -177140,7 +177140,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hananiah said before the eyes of all the people, saying, Thus said the Lord: Thus I will break yoke of the king of Babylon from necks of all nations. And Jeremiah went on his way.
+- fresh: And Hananiah said before the eyes of all the people, saying, Thus said the Lord: Thus I will break the yoke of the king of Babylon from the necks of all nations. And Jeremiah went on his way.
 - brenton: And Ananias spoke in the presence of all the people, saying, Thus said the Lord; Thus will I break the yoke of the king of Babylon from the necks of all the nations. And Jeremias went his way.
 
 ### Jeremiah 35:12
@@ -177149,14 +177149,14 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the word of the Lord came to Jeremiah after Hananiah broke yokes from his neck, saying,
+- fresh: And the word of the Lord came to Jeremiah after Hananiah broke the yokes from his neck, saying,
 - brenton: And the word of the Lord came to Jeremias, after that Ananias had broken the yokes off his neck, saying,
 
 ### Jeremiah 35:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Go and say to Hananiah, Thus said the Lord: You broke wooden yokes, and I will make iron yokes in their place.
 - brenton: Go and speak to Ananias, saying, Thus saith the Lord; Thou hast broken the yokes of wood; but I will make instead of them yokes of iron.
@@ -177167,16 +177167,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus said the Lord: I have set iron yoke upon neck of all nations, to serve king of Babylon.
+- fresh: Because thus said the Lord: I have set an iron yoke upon the neck of all nations, to serve the king of Babylon.
 - brenton: For thus said the Lord, I have put a yoke of iron on the neck of all the nations, that they may serve the king of Babylon.
 
 ### Jeremiah 35:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And Jeremiah said to Hananiah, the Lord did not send you, and you made this people trust upon unjust thing.
+- fresh: And Jeremiah said to Hananiah, The Lord did not send you, and you made this people trust in an unjust thing.
 - brenton: And Jeremias said to Ananias, The Lord has not sent thee; and thou hast caused this people to trust in unrighteousness.
 
 ### Jeremiah 35:16
@@ -177194,16 +177194,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he died in seventh month.
+- fresh: And he died in the seventh month.
 - brenton: So he died in the seventh month.
 
 ### Jeremiah 36:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And these are words of scroll which Jeremiah sent from Jerusalem to the elders of exile and to priests and to false prophets, letter into Babylon to exile and to all the people,
+- fresh: And these are the words of the scroll which Jeremiah sent from Jerusalem to the elders of exile and to the priests and to the false prophets, a letter into Babylon to the exile and to all the people,
 - brenton: And these are the words of the book which Jeremias sent from Jerusalem to the elders of the captivity, and to the priests, and to the false prophets, even an epistle to Babylon for the captivity, and to all the people;
 
 ### Jeremiah 36:2
@@ -177212,7 +177212,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: after Jeconiah the king and queen and eunuchs and every freeman and prisoner and craftsman went out from Jerusalem,
+- fresh: after Jeconiah the king and the queen and the eunuchs and every freeman and prisoner and craftsman went out from Jerusalem,
 - brenton: (after the departure of Jechonias the king and the queen, and the eunuchs, and every freeman, and bondman, and artificer, out of Jerusalem;)
 
 ### Jeremiah 36:3
@@ -177230,7 +177230,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord God of Israel concerning exile which I exiled from Jerusalem:
+- fresh: Thus said the Lord God of Israel concerning the exile which I exiled from Jerusalem:
 - brenton: Thus said the Lord God of Israel concerning the captivity which I caused to be carried away from Jerusalem;
 
 ### Jeremiah 36:5
@@ -177254,10 +177254,10 @@ Note:
 ### Jeremiah 36:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And seek peace of land into which I exiled you there, and pray concerning them to the Lord, because in its peace there will be peace for you.
+- fresh: And seek the peace of the land into which I exiled you there, and pray concerning it to the Lord, because in its peace there will be peace for you.
 - brenton: And seek the peace of the land into which I have carried you captive, and ye shall pray to the Lord for the people: for in its peace ye shall have peace.
 
 ### Jeremiah 36:8
@@ -177266,7 +177266,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus said the Lord: Let not false prophets among you persuade you, and let not your diviners persuade you, and do not listen to your dreams which you yourselves dream,
+- fresh: Because thus said the Lord: Do not let the false prophets among you persuade you, and do not let your diviners persuade you, and do not listen to your dreams which you yourselves dream,
 - brenton: For thus saith the Lord; Let not the false prophets that are among you persuade you, and let not your diviners persuade you, and hearken not to your dreams which ye dream.
 
 ### Jeremiah 36:9
@@ -177275,25 +177275,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because they prophesy unjust things to you in my name, and I did not send them.
+- fresh: because they prophesy unjustly to you in my name, and I did not send them.
 - brenton: For they prophesy to you unrighteous words in my name; and I sent them not.
 
 ### Jeremiah 36:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because thus said the Lord: When Babylon is about to complete seventy years, I will visit you and establish my words upon you, to restore this people into this place.
+- fresh: Because thus said the Lord: When seventy years are about to be completed for Babylon, I will visit you and establish my words upon you, to restore your people into this place.
 - brenton: For thus said the Lord; When seventy years shall be on the point of being accomplished at Babylon, I will visit you, and will confirm my words to you, to bring back your people to this place.
 
 ### Jeremiah 36:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I think upon you thought of peace and not evils, to give you these things.
+- fresh: And I plan for you a plan of peace and not evils, to give you these things.
 - brenton: And I will devise for you a device of peace, and not evil, to bestow upon you these good things.
 
 ### Jeremiah 36:12
@@ -177329,7 +177329,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you said, the Lord appointed prophets for us in Babylon.
+- fresh: Because you said, The Lord appointed prophets for us in Babylon.
 - brenton: whereas ye said, The Lord has appointed for us prophets in Babylon:
 
 ### Jeremiah 36:21
@@ -177344,10 +177344,10 @@ Note:
 ### Jeremiah 36:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And from them they will take curse in all exile of Judah in Babylon, saying, May Lord make you like Zedekiah and like Ahab, whom king of Babylon roasted in fire,
+- fresh: And from them they will take a curse in all the exile of Judah in Babylon, saying, May the Lord make you like Zedekiah and like Ahab, whom the king of Babylon roasted in fire,
 - brenton: And they shall make of them a curse in all the captivity of Juda in Babylon, saying, The Lord do to thee as he did to Sedekias, and as he did to Achiab, whom the king of Babylon fried in the fire;
 
 ### Jeremiah 36:23
@@ -177356,14 +177356,14 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because they did lawlessness in Israel and committed adultery with wives of their fellow citizens and spoke word in my name which I did not command them, and I am witness, says the Lord.
+- fresh: because they did lawlessness in Israel and committed adultery with the wives of their fellow citizens and spoke a word in my name which I did not command them, and I am witness, says the Lord.
 - brenton: because of the iniquity which they wrought in Israel, and because they committed adultery with the wives of their fellow-citizens, and spoke a word in my name, which I did not command them to speak, and I am witness, saith the Lord.
 
 ### Jeremiah 36:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And to Shemaiah the Nehelamite you will say,
 - brenton: And to Samæas the Ælamite thou shalt say,
@@ -177374,16 +177374,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I did not send you in my name, and to Zephaniah son of Maaseiah the priest he said,
+- fresh: I did not send you in my name. And to Zephaniah son of Maaseiah the priest he said,
 - brenton: I sent thee not in my name: and to Sophonias the priest the son of Maasæas say thou,
 
 ### Jeremiah 36:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The Lord gave you priest in place of Joiada the priest, to become overseer in the house of the Lord over every man prophesying and every madman, and you will put him into confinement and into stocks.
+- fresh: The Lord made you priest in place of Joiada the priest, to become overseer in the house of the Lord over every man prophesying and every madman, and you will put him into confinement and into stocks.
 - brenton: The Lord has made thee priest in the place of Jodae the priest, to be ruler in the house of the Lord over every prophet, and to every madman, and thou shalt put them in prison, and into the dungeon.
 
 ### Jeremiah 36:27
@@ -177398,10 +177398,10 @@ Note:
 ### Jeremiah 36:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Was it not for this he sent to you into Babylon, saying, It is long. Build houses and dwell, and plant gardens and eat their fruit?
+- fresh: Was it not because of this that he sent to you into Babylon, saying, It is long. Build houses and dwell, and plant gardens and eat their fruit?
 - brenton: Did he not send for this purpose? for in the course of this month he sent to you to Babylon, saying, It is far off: build ye houses, and inhabit them; and plant gardens, and eat the fruit of them.
 
 ### Jeremiah 36:29
@@ -177425,10 +177425,10 @@ Note:
 ### Jeremiah 36:31
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Send to exile, saying, Thus said the Lord concerning Shemaiah the Nehelamite: Because Shemaiah prophesied to you and I did not send him, and he made you trust upon unjust things,
+- fresh: Send to the exile, saying, Thus said the Lord concerning Shemaiah the Nehelamite: Because Shemaiah prophesied to you and I did not send him, and he made you trust in unjust things,
 - brenton: Send to the captivity, saying, Thus saith the Lord concerning Samæas the Ælamite, Since Samæas has prophesied to you, and I sent him not, and he has made you to trust in iniquity,
 
 ### Jeremiah 36:32
@@ -177437,7 +177437,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore thus said the Lord: Behold, I will visit Shemaiah and his seed, and there will not be from them a man in your midst to see good things which I will do for you. They will not see.
+- fresh: therefore thus said the Lord: Behold, I will visit Shemaiah and his seed, and there will not be a man from them in your midst to see the good things which I will do for you. They will not see.
 - brenton: therefore thus saith the Lord; Behold, I will visit Samæas, and his family: and there shall not be a man of them in the midst of you to see the good which I will do to you: they shall not see it.
 
 ### Jeremiah 37:1
@@ -177446,16 +177446,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Word coming to Jeremiah from the Lord, saying,
+- fresh: The word that came to Jeremiah from the Lord, saying,
 - brenton: The Word that came to Jeremias from the Lord, saying,
 
 ### Jeremiah 37:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord God of Israel, saying, Write all words which I answered to you in scroll,
+- fresh: Thus said the Lord God of Israel, saying, Write in a scroll all the words which I declared to you,
 - brenton: Thus speaks the Lord God of Israel, saying,
 
 ### Jeremiah 37:3
@@ -177464,7 +177464,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because behold, days come, says the Lord, and I will restore exile of my people Israel and Judah, says the Lord, and I will restore them into the land which I gave to their fathers, and they will rule it.
+- fresh: because behold, days are coming, says the Lord, and I will restore the exile of my people Israel and Judah, says the Lord, and I will restore them into the land which I gave to their fathers, and they will take possession of it.
 - brenton: For, behold, the days come, saith the Lord, when I will bring back the captivity of my people Israel and Juda, said the Lord: and I will bring them back to the land which I gave to their fathers, and they shall be lords of it.
 
 ### Jeremiah 37:4
@@ -177473,7 +177473,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And these are words which the Lord spoke concerning Israel and Judah.
+- fresh: And these are the words which the Lord spoke concerning Israel and Judah.
 - brenton: And these are the Words which the Lord spoke concerning Israel and Juda:
 
 ### Jeremiah 37:5
@@ -177482,25 +177482,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord: The voice of fear you will hear, fear and there is no peace.
+- fresh: Thus said the Lord: A voice of fear you will hear: fear, and there is no peace.
 - brenton: Thus said the Lord: Ye shall hear a sound of fear, there is fear, and there is not peace.
 
 ### Jeremiah 37:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Ask and see whether male gives birth, and from fear every man will hold his loin and salvation. Because I saw every man and his hands upon his loins. Faces were turned into jaundice.
+- fresh: Ask and see whether a male gives birth. Why, from fear, does every man hold his loins? Because I saw every man with his hands upon his loins; faces were turned to jaundice.
 - brenton: Enquire, and see if a male has born a child? and ask concerning the fear, wherein they shall hold their loins, and look for safety: for I have seen every man, and his hands are on his loins; their faces are turned to paleness.
 
 ### Jeremiah 37:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: It happened because that day is great, and there is none like it, and it is narrow time for Jacob, and from this he will be saved.
+- fresh: For that day became great, and there is none like it, and it is a narrow time for Jacob, and from this he will be saved.
 - brenton: For that day is great, and there is not such another; and it is a time of straitness to Jacob; but he shall be saved out of it.
 
 ### Jeremiah 37:8
@@ -177509,16 +177509,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day, said the Lord, I will break yoke from their neck and tear apart their bonds, and they will no longer serve foreigners.
+- fresh: In that day, said the Lord, I will break the yoke from their neck and tear apart their bonds, and they will no longer serve foreigners.
 - brenton: In that day, said the Lord, I will break the yoke off their neck, and will burst their bonds, and they shall no longer serve strangers:
 
 ### Jeremiah 37:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they will serve the Lord their God, and David their king I will raise up for them.
+- fresh: And they will serve the Lord their God, and I will raise up David their king for them.
 - brenton: but they shall serve the Lord their God; and I will raise up to them David their king.
 
 ### Jeremiah 37:12
@@ -177527,16 +177527,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord: Painful your fracture rose up, your wound.
+- fresh: Thus said the Lord: Your fracture rose up painfully; your wound is painful.
 - brenton: Thus saith the Lord; I have brought on thee destruction; thy stroke is painful.
 
 ### Jeremiah 37:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: There is none judging your judgment for painful thing. You were healed. No benefit for you.
+- fresh: There is none judging your case for the painful thing. You were treated, but there is no benefit for you.
 - brenton: There is none to judge thy cause: thou hast been painfully treated for healing, there is no help for thee.
 
 ### Jeremiah 37:14
@@ -177545,7 +177545,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: All your friends forgot you. They will never ask for you, because with wound of enemy I struck you, stern discipline. Upon all your injustice your sins were multiplied.
+- fresh: All your friends forgot you. They will never ask for you, because with the wound of an enemy I struck you, a stern discipline. Because of all your injustice, your sins were multiplied.
 - brenton: All thy friends have forgotten thee; they shall not ask about thee at all, for I have smitten thee with the stroke of an enemy, even severe correction: thy sins have abounded above all thine iniquity.
 
 ### Jeremiah 37:16
@@ -177554,25 +177554,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore all eating you will be eaten, and all your enemies, their flesh all will eat. Because your injustices multiplied, your sins multiplied, they did these things to you, and those carrying you off will be for carrying off, and all plundering you I will give for plunder.
+- fresh: Therefore all those eating you will be eaten, and all your enemies will eat their own flesh. Because your injustices multiplied, your sins multiplied, they did these things to you, and those carrying you off will become a carrying off, and all those plundering you I will give for plunder.
 - brenton: Therefore all that devour thee shall be eaten, and all thine enemies shall eat all their own flesh. Thy sins have abounded beyond the multitude of thine iniquities, therefore they have done these things to thee. And they that spoil thee shall become a spoil, and I will give up to be plundered all that have plundered thee.
 
 ### Jeremiah 37:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because I will bring up your healing. From painful wound I will heal you, says the Lord, because scattered one they called you: It is your prey, because no seeker for her exists.
+- fresh: Because I will bring up your healing. From a painful wound I will heal you, says the Lord, because they called you Scattered: It is your prey, because there is no seeker for her.
 - brenton: For I will bring about thy healing, I will heal thee of thy grievous wound, saith the Lord; for thou art called Dispersed: she is your prey, for no one seeks after her.
 
 ### Jeremiah 37:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus said the Lord: Behold, I will restore exile of Jacob and his captivity I will pity, and city will be built on its height, and temple will sit according to its judgment.
+- fresh: Thus said the Lord: Behold, I will restore the exile of Jacob, and his captivity I will pity, and the city will be built on its height, and the temple will sit according to its judgment.
 - brenton: Thus said the Lord; Behold, I will turn the captivity of Jacob, and will have pity upon his prisoners; and the city shall be built upon her hill, and the people shall settle after their manner.
 
 ### Jeremiah 37:19
@@ -177581,7 +177581,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from them singers and voice of ones playing will come out, and I will multiply them and they will not be diminished.
+- fresh: And from them singers and a voice of those playing will come out, and I will multiply them and they will not be diminished.
 - brenton: And there shall go forth from them singers, even the sound of men making merry: and I will multiply them, and they shall not at all be diminished.
 
 ### Jeremiah 37:20
@@ -177596,10 +177596,10 @@ Note:
 ### Jeremiah 37:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And their strong ones will be over them, and their ruler will come out from them, and I will gather them and they will return to me. Because who is this who gave his heart to return to me? says the Lord.
+- fresh: And their mighty ones will be over them, and their ruler will come out from them, and I will gather them and they will return to me. Because who is this who gave his heart to return to me? says the Lord.
 - brenton: And their mighty ones shall be over them, and their prince shall proceed of themselves; and I will gather them, and they shall return to me: for who is this that has set his heart to return to me? saith the Lord.
 
 ### Jeremiah 37:23
@@ -177608,16 +177608,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the wrath of the Lord went out furious. Wrath twisting itself will come upon ungodly.
+- fresh: Because the wrath of the Lord went out furious. Turning wrath will come upon the ungodly.
 - brenton: For the wrathful anger of the Lord has gone forth, even a whirlwind of anger has gone forth: it shall come upon the ungodly.
 
 ### Jeremiah 37:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Wrath of anger of the Lord will not turn back until he does and until he establishes the undertaking of his heart. At the last of days you will know these things.
+- fresh: The wrath of the anger of the Lord will not turn back until he does and until he establishes the undertaking of his heart. At the last of days you will know these things.
 - brenton: The fierce anger of the Lord shall not return, until he shall execute it, and until he shall establish the purpose of his heart: in the latter days ye shall know these things.
 
 ### Jeremiah 38:1
@@ -177626,16 +177626,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In that time the Lord said, I will be God to the family of Israel, and they will be people to me.
+- fresh: In that time the Lord said, I will be God to the family of Israel, and they will be a people to me.
 - brenton: At that time, saith the Lord, I will be a God to the family of Israel, and they shall be to me a people.
 
 ### Jeremiah 38:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus said the Lord: I found warmth in the wilderness with ones destroyed by sword. Go, and do not destroy Israel.
+- fresh: Thus said the Lord: I found warmth in the wilderness with those destroyed by the sword. Go, and do not destroy Israel.
 - brenton: Thus saith the Lord, I found him warm in the wilderness with them that were slain with the sword: go ye and destroy not Israel.
 
 ### Jeremiah 38:3
@@ -177653,7 +177653,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Still I will build you and you will be built, virgin Israel. Still you will take your tambourine and go out with the assembly of ones playing.
+- fresh: Still I will build you and you will be built, virgin Israel. Still you will take your tambourine and go out with the assembly of those playing.
 - brenton: For I will build thee, and thou shalt be built, O virgin of Israel: thou shalt yet take thy timbrel, and go forth with the party of them that make merry.
 
 ### Jeremiah 38:5
@@ -177662,7 +177662,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Still plant vineyards in mountains of Samaria. Plant and praise.
+- fresh: Still plant vineyards in the mountains of Samaria. Plant and praise.
 - brenton: For ye have planted vineyards on the mountains of Samaria: plant ye, and praise.
 
 ### Jeremiah 38:6
@@ -177671,25 +177671,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because there is a day of calling of defenders in the mountain of Ephraim: Rise and go up to Zion, to the Lord our God.
+- fresh: Because there is a day of calling of defenders in the mountains of Ephraim: Rise and go up to Zion, to the Lord our God.
 - brenton: For it is a day when those that plead on the mountains of Ephraim shall call, saying, Arise ye, and go up to Sion to the Lord your God.
 
 ### Jeremiah 38:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because thus said the Lord to Jacob: Rejoice and neigh over the head of nations. Make it heard and praise. Say, the Lord saved his people, the remnant of Israel.
+- fresh: Because thus said the Lord to Jacob: Rejoice and neigh over the head of nations. Make it heard and praise. Say, The Lord saved his people, the remnant of Israel.
 - brenton: For thus saith the Lord to Jacob; Rejoice ye, and exult over the head of the nations: make proclamation, and praise ye: say, The Lord has delivered his people, the remnant of Israel.
 
 ### Jeremiah 38:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, I bring them from north and gather them from the ends of the earth in the feast of Phasce, and they will beget great crowd and return here.
+- fresh: Behold, I bring them from the north and gather them from the ends of the earth at the feast of Passover, and they will beget a great crowd and return here.
 - brenton: Behold, I bring them from the north, and will gather them from the end of the earth to the feast of the passover: and the people shall beget a great multitude, and they shall return hither.
 
 ### Jeremiah 38:9
@@ -177698,16 +177698,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: With weeping they went out, and with comfort I will lead them, causing them to camp by channels of waters, in straight way, and they will not wander in it, because I became father to Israel, and Ephraim is my firstborn.
+- fresh: With weeping they went out, and with comfort I will lead them, lodging them by channels of waters, in a straight way, and they will not wander in it, because I became a father to Israel, and Ephraim is my firstborn.
 - brenton: They went forth with weeping, and I will bring them back with consolation, causing them to lodge by the channels of waters in a straight way, and they shall not err in it: for I am become a father to Israel, and Ephraim is my first-born.
 
 ### Jeremiah 38:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Hear the word of the Lord, nations, and announce to islands far away. Say, One winnowing Israel will gather him and guard him like shepherd his flock.
+- fresh: Hear the word of the Lord, nations, and announce to islands far away. Say, The one who winnowed Israel will gather him and guard him like a shepherd his flock.
 - brenton: Hear the words of the Lord, ye nations, and proclaim them to the islands afar off; say, He that scattered Israel will also gather him, and keep him as one that feeds his flock.
 
 ### Jeremiah 38:11
@@ -177716,7 +177716,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord ransomed Jacob, delivered him from the hand of ones stronger than he.
+- fresh: Because the Lord ransomed Jacob, delivered him from the hand of those stronger than he.
 - brenton: For the Lord has ransomed Jacob, he has rescued him out of the hand of them that were stronger than he.
 
 ### Jeremiah 38:12
@@ -177725,7 +177725,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will come and rejoice in mountain Zion, and come upon good things of the Lord, upon the land of grain and wine and fruits and cattle and sheep. And their soul will be like a fruitful tree, and they will hunger no longer.
+- fresh: And they will come and rejoice on Mount Zion, and come upon the good things of the Lord, upon the land of grain and wine and fruits and cattle and sheep. And their soul will be like a fruitful tree, and they will hunger no longer.
 - brenton: And they shall come, and shall rejoice in the mount of Sion, and shall come to the good things of the Lord, even to a land of corn, and wine, and fruits, and cattle, and sheep: and their soul shall be as a fruitful tree; and they shall hunger no more.
 
 ### Jeremiah 38:13
@@ -177740,19 +177740,19 @@ Note:
 ### Jeremiah 38:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I magnify and make drunk soul of priests, sons of Levi, and my people will be filled with my good things.
+- fresh: I will magnify and make drunk the soul of the priests, sons of Levi, and my people will be filled with my good things.
 - brenton: I will expand and cheer with wine the soul of the priests the sons of Levi, and my people shall be satisfied with my good things: thus saith the Lord.
 
 ### Jeremiah 38:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus said the Lord: Voice was heard in Ramah, lament and weeping and mourning, Rachel weeping for her sons. She was not willing to stop because they are not.
+- fresh: Thus said the Lord: A voice was heard in Ramah, lament and weeping and mourning, Rachel weeping for her sons. She was not willing to stop, because they are not.
 - brenton: A voice was heard in Rama, of lamentation, and of weeping, and wailing; Rachel would not cease weeping for her children, because they are not.
 
 ### Jeremiah 38:16
@@ -177761,25 +177761,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord: Let your voice cease from weeping and your eyes from your tears, because there is wage for your works, and they will return from the land of enemies.
+- fresh: Thus said the Lord: Let your voice cease from weeping and your eyes from your tears, because there is a wage for your works, and they will return from the land of enemies.
 - brenton: Thus saith the Lord; Let thy voice cease from weeping, and thine eyes from thy tears: for there is a reward for thy works; and they shall return from the land of thine enemies.
 
 ### Jeremiah 38:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Permanence for your children.
+- fresh: There is permanence for your children.
 - brenton: There shall be an abiding home for thy children.
 
 ### Jeremiah 38:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Hearing I heard Ephraim lamenting: You disciplined me and I was disciplined, like a calf not taught. Turn me back and I will return, because you are the Lord my God.
+- fresh: Hearing, I heard Ephraim lamenting: You disciplined me and I was disciplined, like a calf not taught. Turn me back and I will return, because you are the Lord my God.
 - brenton: I have heard the sound of Ephraim lamenting, and saying, Thou hast chastened me, and I was chastened; I as a calf was not willingly taught: turn thou me, and I shall turn; for thou art the Lord my God.
 
 ### Jeremiah 38:19
@@ -177788,34 +177788,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because after my captivity I repented, and after my knowing I groaned in the day of shame and showed you that I received reproach from my youth.
+- fresh: Because after my captivity I repented, and after I came to know, I groaned in the day of shame and showed you that I received reproach from my youth.
 - brenton: For after my captivity I repented; and after I knew, I groaned for the day of shame, and shewed thee that I bore reproach from my youth.
 
 ### Jeremiah 38:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Ephraim beloved son to me, cherished child, because in return for my words in him I will surely remember him. Therefore I hurried over him. In mercy I will have mercy on him, says the Lord.
+- fresh: Ephraim is a beloved son to me, a cherished child, because in return for my words in him I will surely remember him. Therefore I hastened over him; with mercy I will have mercy on him, says the Lord.
 - brenton: Ephraim is a beloved son, a pleasing child to me: for because my words are in him, I will surely remember him: therefore I made haste to help him; I will surely have mercy upon him, saith the Lord.
 
 ### Jeremiah 38:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Set up for yourself, Zion. Make chastisement. Give your heart to shoulders, to road on which you went. Turn back, virgin Israel. Turn back to your cities, mourning.
+- fresh: Set up for yourself, Zion. Make correction. Give your heart to the shoulders, to the road on which you went. Turn back, virgin Israel. Turn back to your cities, mourning.
 - brenton: Prepare thyself, O Sion; execute vengeance; look to thy ways: return, O virgin of Israel, by the way by which thou wentest, return mourning to thy cities.
 
 ### Jeremiah 38:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: How long will you turn back, dishonored daughter? Because the Lord created salvation for new planting. Men will go about in salvation.
+- fresh: How long will you turn back, dishonored daughter? Because the Lord created salvation for a new planting. Men will go about in salvation.
 - brenton: How long, O disgraced daughter, wilt thou turn away? for the Lord has created safety for a new plantation: men shall go about in safety.
 
 ### Jeremiah 38:23
@@ -177824,7 +177824,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord: Still they will speak this word in the land of Judah and in its cities when I restore its captivity: Blessed is the Lord upon righteous mountain, his holy one.
+- fresh: Thus said the Lord: Still they will speak this word in the land of Judah and in its cities when I restore its captivity: Blessed is the Lord upon the righteous mountain, his holy one.
 - brenton: For thus saith the Lord; They shall yet speak this word in the land of Juda, and in the cities thereof, when I shall turn his captivity; blessed be the Lord on his righteous holy mountain!
 
 ### Jeremiah 38:24
@@ -177833,14 +177833,14 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And dwellers in the cities of Judah and in all its land together with farmer and one lifted in flock.
+- fresh: And dwellers in the cities of Judah and in all its land together with the farmer, and one will be lifted in a flock.
 - brenton: And there shall be dwellers in the cities of Juda, and in all his land, together with the husbandman, and the shepherd shall go forth with the flock.
 
 ### Jeremiah 38:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Because I made every thirsty soul drunk and filled every hungry soul.
 - brenton: For I have saturated every thirsting soul, and filled every hungry soul.
@@ -177860,7 +177860,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore behold, days come, says the Lord, and I will sow Israel and Judah with seed of man and seed of cattle.
+- fresh: Therefore behold, days are coming, says the Lord, and I will sow Israel and Judah with seed of man and seed of cattle.
 - brenton: Therefore, behold, the days come, saith the Lord, when I will sow the house of Israel and the house of Juda with the seed of man, and the seed of beast.
 
 ### Jeremiah 38:28
@@ -177875,55 +177875,55 @@ Note:
 ### Jeremiah 38:29
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: In those days they will no longer say, Fathers ate sour grape and teeth of children were set on edge.
+- fresh: In those days they will no longer say, The fathers ate a sour grape, and the teeth of the children were set on edge.
 - brenton: In those days they shall certainly not say, The fathers ate a sour grape, and the children's teeth were set on edge.
 
 ### Jeremiah 38:30
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But each will die in his own sin, and teeth of one eating sour grape will be set on edge.
+- fresh: But each will die in his own sin, and the teeth of the one eating the sour grape will be set on edge.
 - brenton: But every one shall die in his own sin; and the teeth of him that eats the sour grape shall be set on edge.
 
 ### Jeremiah 38:31
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, days come, says the Lord, and I will make with the house of Israel and the house of Judah new covenant,
+- fresh: Behold, days are coming, says the Lord, and I will make with the house of Israel and the house of Judah a new covenant,
 - brenton: Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel, and with the house of Juda:
 
 ### Jeremiah 38:32
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: not according to covenant which I made with their fathers on the day when I took their hand to bring them out from the land of Egypt, because they did not remain in my covenant and I neglected them, says the Lord.
+- fresh: not according to the covenant which I made with their fathers on the day when I took their hand to bring them out from the land of Egypt, because they did not remain in my covenant and I neglected them, says the Lord.
 - brenton: not according to the covenant which I made with their fathers in the day when I took hold of their hand to bring them out of the land of Egypt; for they abode not in my covenant, and I disregarded them, saith the Lord.
 
 ### Jeremiah 38:33
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because this is covenant which I will make with the house of Israel after those days, says the Lord: Giving, I will give my laws into their mind, and upon their hearts I will write them, and I will be God to them, and they will be people to me.
+- fresh: Because this is the covenant which I will make with the house of Israel after those days, says the Lord: Giving, I will give my laws into their mind, and upon their hearts I will write them, and I will be God to them, and they will be a people to me.
 - brenton: For this is my covenant which I will make with the house of Israel; after those days, saith the Lord, I will surely put my laws into their mind, and write them on their hearts; and I will be to them a God, and they shall be to me a people.
 
 ### Jeremiah 38:34
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they will certainly not teach each his fellow citizen and each his brother, saying, Know Lord, because all will know me from their little one to their great one, because I will be merciful to their injustices and I will no longer remember their sins.
+- fresh: And they will certainly not teach each his fellow citizen and each his brother, saying, Know the Lord, because all will know me from their little one to their great one, because I will be merciful to their injustices and I will no longer remember their sins.
 - brenton: And they shall not at all teach every one his fellow citizen, and every one his brother, saying, Know the Lord: for all shall know me, from the least of them to the greatest of them: for I will be merciful to their iniquities, and their sins I will remember no more.
 
 ### Jeremiah 38:35
@@ -177932,7 +177932,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If heaven is lifted up high, says the Lord, and if the foundation of the earth is humbled below, I also will not reject seed of Israel, says the Lord, concerning all they did.
+- fresh: If heaven is lifted up high, says the Lord, and if the foundation of the earth is humbled below, I also will not reject the seed of Israel, says the Lord, concerning all they did.
 - brenton: Though the sky should be raised to a greater height, saith the Lord, and though the ground of the earth should be sunk lower beneath, yet I will not cast off the family of Israel, saith the Lord, for all that they have done.
 
 ### Jeremiah 38:36
@@ -177941,16 +177941,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord, who gave sun for the light of day, moon and stars for the light of night, and cry in sea, and its waves roared, the Lord Almighty his name.
+- fresh: Thus said the Lord, who gave the sun for the light of day, the moon and stars for the light of night, and a roar in the sea, and its waves roared, the Lord Almighty is his name.
 - brenton: Thus saith the Lord, who gives the sun for a light by day, the moon and the stars for a light by night, and makes a roaring in the sea, so that the waves thereof roar; the Lord Almighty is his name:
 
 ### Jeremiah 38:37
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: If these laws cease from before my face, says the Lord, then seed of Israel will cease from being nation before my face all days.
+- fresh: If these laws cease from before my face, says the Lord, then the seed of Israel will cease from being a nation before my face all the days.
 - brenton: if these ordinances cease from before me, saith the Lord, then shall the family of Israel cease to be a nation before me for ever.
 
 ### Jeremiah 38:38
@@ -177959,7 +177959,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, days come, says the Lord, and city will be built to the Lord from the tower of Hanameel to corner gate.
+- fresh: Behold, days are coming, says the Lord, and the city will be built to the Lord from the tower of Hanameel to the corner gate.
 - brenton: Behold, the days come, saith the Lord, when the city shall be built to the Lord from the tower of Anameel to the gate of the corner.
 
 ### Jeremiah 38:39
@@ -177968,7 +177968,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And its measuring-line will go out opposite them as far as hills of Gareb and will be encircled round about with chosen stones.
+- fresh: And its measuring-line will go out opposite them as far as the hills of Gareb and will be encircled round about with chosen stones.
 - brenton: And the measurement of it shall proceed in front of them as far as the hills of Gareb, and it shall be compassed with a circular wall of choice stones.
 
 ### Jeremiah 38:40
@@ -177977,7 +177977,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all Asaeremoth as far as valley of Kidron, as far as corner of horse gate eastward, holy thing to the Lord, and it will never fail or be torn down forever.
+- fresh: And all Asaeremoth as far as the valley of Kidron, as far as the corner of the horse gate toward the east, will be a holy thing to the Lord, and it will never fail or be torn down forever.
 - brenton: And all the Asaremoth even to Nachal Kedron, as far as the corner of the horse-gate eastward, shall be holiness to the Lord; and it shall not fail any more, and shall not be destroyed for ever.
 
 ### Jeremiah 39:1
@@ -177986,7 +177986,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Word that came from the Lord to Jeremiah in the tenth year of the reign of Zedekiah, this was the eighteenth year of the reign of Nebuchadnezzar king of Babylon.
+- fresh: The word that came from the Lord to Jeremiah in the tenth year of the reign of Zedekiah; this was the eighteenth year of the reign of Nebuchadnezzar king of Babylon.
 - brenton: The word that came from the Lord to Jeremias in the tenth year of king Sedekias, this is the eighteenth year of king Nabuchodonosor king of Babylon.
 
 ### Jeremiah 39:2
@@ -178013,7 +178013,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Zedekiah will certainly not be saved from the hand of Chaldeans, because in handing over he will be handed into the hands of the king of Babylon, and his mouth will speak to his mouth, and his eyes will see his eyes.
+- fresh: And Zedekiah will certainly not be saved from the hand of the Chaldeans, because in handing over he will be handed into the hands of the king of Babylon, and his mouth will speak to his mouth, and his eyes will see his eyes.
 - brenton: and Sedekias shall by no means be delivered out of the hand of the Chaldeans, for he shall certainly be given up into the hands of the king of Babylon, and his mouth shall speak to his mouth, and his eyes shall look upon his eyes;
 
 ### Jeremiah 39:5
@@ -178037,37 +178037,37 @@ Note:
 ### Jeremiah 39:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, Hanameel son of Shallum your father’s brother comes to you, saying, Buy for yourself my field in Anathoth, because judgment belongs to you to receive it for possession.
+- fresh: Behold, Hanameel son of Shallum, your father's brother, comes to you, saying, Buy for yourself my field in Anathoth, because the right belongs to you to receive it for possession.
 - brenton: Behold, Anameel the son of Salom thy father's brother is coming to thee, saying, Buy thee my field that is in Anathoth: for thou hast the right to take it as a purchase.
 
 ### Jeremiah 39:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Hanameel son of Shallum my father’s brother came to me into the court of the prison and said to me, Buy my field in the land of Benjamin, in Anathoth, because judgment belongs to you to buy, and you are elder. And I knew that it is the word of the Lord.
+- fresh: And Hanameel son of Shallum, my father's brother, came to me into the court of the prison and said to me, Buy my field in the land of Benjamin, in Anathoth, because the right belongs to you to buy, and you are elder. And I knew that it is the word of the Lord.
 - brenton: So Anameel the son of Salom my father's brother came to me into the court of the prison, and said, Buy thee my field that is in the land of Benjamin, in Anathoth: for thou hast a right to buy it, and thou art the elder. So I knew that it was the word of the Lord.
 
 ### Jeremiah 39:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I bought field of Hanameel, son of my father’s brother, and weighed out to him seven shekels and ten of silver.
+- fresh: And I bought the field of Hanameel, son of my father's brother, and weighed out to him seventeen shekels of silver.
 - brenton: And I bought the field of Anameel the son of my father's brother, and I weighed him seventeen shekels of silver.
 
 ### Jeremiah 39:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I wrote in scroll and sealed and called witnesses and weighed silver in balance.
+- fresh: And I wrote in a scroll and sealed it and called witnesses and weighed the silver in a balance.
 - brenton: And I wrote it in a book, and sealed it, and took the testimony of witnesses, and weighed the money in the balance.
 
 ### Jeremiah 39:11
@@ -178076,7 +178076,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I took scroll of purchase, sealed and read.
+- fresh: And I took the scroll of purchase, sealed and read.
 - brenton: And I took the book of the purchase that was sealed;
 
 ### Jeremiah 39:12
@@ -178085,7 +178085,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I gave it to Baruch son of Neriah son of Maaseiah before the eyes of Hanameel son of my father’s brother and before the eyes of those standing and writing in scroll of purchase and before the eyes of Judeans in the court of the prison.
+- fresh: And I gave it to Baruch son of Neriah son of Maaseiah before the eyes of Hanameel son of my father's brother and before the eyes of those standing and writing in the scroll of purchase and before the eyes of the Judeans in the court of the prison.
 - brenton: and I gave it to Baruch son of Nerias, son of Maasæas, in the sight of Anameel my father's brother's son, and in the sight of the men that stood by and wrote in the book of the purchase, and in the sight of the Jews that were in the court of the prison.
 
 ### Jeremiah 39:13
@@ -178100,10 +178100,10 @@ Note:
 ### Jeremiah 39:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus said the Lord Almighty: Take this scroll of purchase and scroll that was read and put it into earthen vessel, so that it may remain many days.
+- fresh: Thus said the Lord Almighty: Take this scroll of purchase and the scroll that was read and put it into an earthen vessel, so that it may remain many days.
 - brenton: Take this book of the purchase, and the book that has been read; and thou shalt put it into an earthen vessel, that it may remain many days.
 
 ### Jeremiah 39:15
@@ -178121,7 +178121,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I prayed to the Lord after my giving scroll of purchase to Baruch son of Neriah, saying,
+- fresh: And I prayed to the Lord after my giving the scroll of purchase to Baruch son of Neriah, saying,
 - brenton: And I prayed to the Lord after I had given the book of the purchase to Baruch the son of Nerias, saying,
 
 ### Jeremiah 39:17
@@ -178136,28 +178136,28 @@ Note:
 ### Jeremiah 39:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: doing mercy to thousands and repaying sins of fathers into the bosom of their children after them, God great and mighty,
+- fresh: doing mercy to thousands and repaying the sins of fathers into the bosom of their children after them, the great and mighty God,
 - brenton: Granting mercy to thousands, and recompensing the sins of the fathers into the bosoms of their children after them: the great, the strong God;
 
 ### Jeremiah 39:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Lord of great counsel and mighty in works, God great, Almighty, and great in name, Lord. Your eyes are upon the ways of sons of men, to give to each according to his way,
+- fresh: the Lord of great counsel and mighty in works, the great God, the Almighty and great in name, the Lord. Your eyes are upon the ways of the sons of men, to give to each according to his way,
 - brenton: the Lord of great counsel, and mighty in deeds, the great Almighty God, and Lord of great name: thine eyes are upon the ways of the children of men, to give to every one according to his way:
 
 ### Jeremiah 39:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: who made signs and wonders in the land of Egypt until this day, and in Israel and among natives, and made name for yourself as this day.
+- fresh: who made signs and wonders in the land of Egypt until this day, and in Israel and among earth-born people, and made a name for yourself as this day.
 - brenton: who hast wrought signs and wonders in the land of Egypt even to this day, and in Israel, and among the inhabitants of the earth; and thou didst make for thyself a name, as at this day;
 
 ### Jeremiah 39:21
@@ -178166,7 +178166,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you brought your people Israel out from the land of Egypt with signs and with wonders and with strong hand and with high arm and with great visions.
+- fresh: And you brought your people Israel out from the land of Egypt with signs and with wonders and with a strong hand and with a high arm and with great visions.
 - brenton: and thou didst bring out thy people Israel out of the land of Egypt with signs, and with wonders, with a mighty hand, and with a high arm, and with great sights;
 
 ### Jeremiah 39:22
@@ -178175,7 +178175,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you gave them this land which you swore to their fathers, land flowing milk and honey.
+- fresh: And you gave them this land which you swore to their fathers, a land flowing with milk and honey.
 - brenton: and thou gavest them this land, which thou didst swear to give to their fathers, a land flowing with milk and honey;
 
 ### Jeremiah 39:23
@@ -178193,7 +178193,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, crowd comes to this city to seize it, and city was given into the hands of Chaldeans fighting against it from the face of the sword and famine. As you spoke, so it happened.
+- fresh: Behold, a crowd comes to this city to seize it, and the city was given into the hands of the Chaldeans fighting against it, from the face of the sword and famine. As you spoke, so it happened.
 - brenton: Behold, a multitude is come against the city to take it; and the city is given into the hands of the Chaldeans that fight against it, by the power of the sword, and the famine: as thou hast spoken, so has it happened.
 
 ### Jeremiah 39:25
@@ -178202,7 +178202,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you say to me, Buy field for yourself with silver, and I wrote scroll and sealed and brought witnesses, and city was given into the hands of Chaldeans.
+- fresh: And you say to me, Buy a field for yourself with silver, and I wrote a scroll and sealed it and brought witnesses, and the city was given into the hands of the Chaldeans.
 - brenton: And thou sayest to me, Buy thee the field for money; and I wrote a book, and sealed it, and took the testimony of witnesses: and the city is given into the hands of the Chaldeans.
 
 ### Jeremiah 39:26
@@ -178238,7 +178238,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Chaldeans fighting against this city will come and burn this city with fire and burn houses in which they burned incense on their roofs to Baal and poured libations to other gods to provoke me.
+- fresh: And the Chaldeans fighting against this city will come and burn this city with fire and burn the houses in which they burned incense on their roofs to Baal and poured libations to other gods to provoke me.
 - brenton: and the Chaldeans shall come to war against this city, and they shall burn this city with fire, and shall burn down the houses wherein they burnt incense on the roofs thereof to Baal, and poured drink-offerings to other gods, to provoke me.
 
 ### Jeremiah 39:30
@@ -178247,7 +178247,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because sons of Israel and sons of Judah alone were doing evil before my eyes from their youth.
+- fresh: Because the sons of Israel and the sons of Judah alone were doing evil before my eyes from their youth.
 - brenton: For the children of Israel and the children of Juda alone did evil in my sight from their youth.
 
 ### Jeremiah 39:31
@@ -178265,7 +178265,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because of all evils of sons of Israel and Judah which they did to provoke me, they and their kings and their rulers and their priests and their prophets, men of Judah and dwellers of Jerusalem.
+- fresh: because of all the evils of the sons of Israel and Judah which they did to provoke me, they and their kings and their rulers and their priests and their prophets, men of Judah and dwellers of Jerusalem.
 - brenton: because of all the wickedness of the children of Israel and Juda, which they wrought to provoke me, they and their kings, and their princes, and their priests, and their prophets, the men of Juda, and the dwellers in Jerusalem.
 
 ### Jeremiah 39:33
@@ -178289,10 +178289,10 @@ Note:
 ### Jeremiah 39:35
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And they built altars to Baal in the valley of son of Hinnom, to offer up their sons and daughters to King Moloch, which I did not command them and it did not rise on my heart, to do this abomination, to make Judah sin.
+- fresh: And they built altars to Baal in the valley of the son of Hinnom, to offer up their sons and daughters to King Moloch, which I did not command them and it did not rise on my heart, to do this abomination, to make Judah sin.
 - brenton: And they built to Baal the altars that are in the valley of the son of Ennom, to offer their sons and their daughters to king Moloch; which things I commanded them not, neither came it into my mind that they should do this abomination, to cause Juda to sin.
 
 ### Jeremiah 39:36
@@ -178310,7 +178310,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I gather them from all lands where I scattered them there in my anger and in my wrath and in great provocation, and I will restore them to this place and settle them in confidence.
+- fresh: Behold, I gather them from all lands where I scattered them in my anger and in my wrath and in great provocation, and I will restore them to this place and settle them in confidence.
 - brenton: Behold, I will gather them out of every land, where I have scattered them in my anger, and my wrath, and great fury; and I will bring them back into this place, and will cause them to dwell safely:
 
 ### Jeremiah 39:38
@@ -178319,34 +178319,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will be people to me, and I will be God to them.
+- fresh: And they will be a people to me, and I will be God to them.
 - brenton: and they shall be to me a people, and I will be to them a God.
 
 ### Jeremiah 39:39
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will give them another way and another heart, to fear me all days, for good to them and to their children after them.
+- fresh: And I will give them another way and another heart, to fear me all the days, for good to them and to their children after them.
 - brenton: And I will give them another way, and another heart, to fear me continually, and that for good to them and their children after them.
 
 ### Jeremiah 39:40
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will make with them everlasting covenant, which I will certainly not turn away from behind them, and my fear I will give into their heart, so that they not depart from me.
+- fresh: And I will make with them an everlasting covenant, which I will certainly not turn away from behind them, and my fear I will give into their heart, so that they will not depart from me.
 - brenton: And I will make with them an everlasting covenant, which I will by no means turn away from them, and I will put my fear into their heart, that they may not depart from me.
 
 ### Jeremiah 39:41
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will visit to do them good and plant them in this land in faithfulness and in all heart and in all soul.
+- fresh: And I will visit them to do good to them and plant them in this land in faithfulness and with all heart and with all soul.
 - brenton: And I will visit them to do them good, and I will plant them in this land in faithfulness, and with all my heart, and with all my soul.
 
 ### Jeremiah 39:42
@@ -178355,25 +178355,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus said the Lord: As I brought upon this people all these great evils, so I will bring upon them all good things which I spoke upon them.
+- fresh: Because thus said the Lord: As I brought upon this people all these great evils, so I will bring upon them all the good things which I spoke upon them.
 - brenton: For thus saith the Lord; As I have brought upon this people all these great evils, so will I bring upon them all the good things which I pronounced upon them.
 
 ### Jeremiah 39:43
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And fields will still be bought in the land which you say is trackless waste, from men and cattle, and they were handed into the hands of Chaldeans.
+- fresh: And fields will still be bought in the land which you say is trackless waste, without men and cattle, and they were handed into the hands of the Chaldeans.
 - brenton: And there shall yet be fields bought in the land, of which thou sayest, It shall be destitute of man and beast; and they are delivered into the hands of the Chaldeans.
 
 ### Jeremiah 39:44
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they will buy fields with silver and write scroll and seal and bring witnesses in the land of Benjamin and around Jerusalem and in the cities of Judah and in the cities of hill country and in the cities of lowland and in the cities of Negeb, because I will restore their exiles.
+- fresh: And they will buy fields with silver and write a scroll and seal it and bring witnesses in the land of Benjamin and around Jerusalem and in the cities of Judah and in the cities of the hill country and in the cities of the lowland and in the cities of Negeb, because I will restore their exiles.
 - brenton: And they shall buy fields for money, and thou shalt write a book, and seal it, and shalt take the testimony of witnesses in the land of Benjamin, and round about Jerusalem, and in the cities of Juda, and in the cities of the mountain, and in the cities of the plain, and in the cities of the south: for I will turn their captivity.
 
 ### Jeremiah 40:1
@@ -178382,16 +178382,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the word of the Lord came to Jeremiah second time, and he was still bound in the court of the prison, saying,
+- fresh: And the word of the Lord came to Jeremiah a second time, while he was still bound in the court of the prison, saying,
 - brenton: And the word of the Lord came to Jeremias the second time, when he was yet bound in the court of the prison, saying,
 
 ### Jeremiah 40:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus said the Lord, making earth and forming it to set it upright, The Lord is his name,
+- fresh: Thus said the Lord, who makes earth and forms it to set it upright; the Lord is his name:
 - brenton: Thus saith the Lord, who made the earth and formed it, to establish it; the Lord is his name;
 
 ### Jeremiah 40:3
@@ -178400,7 +178400,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Cry to me and I will answer you and announce to you great and mighty things which you did not know.
+- fresh: Cry to me, and I will answer you and announce to you great and mighty things which you did not know.
 - brenton: Cry to me, and I will answer thee, and I will declare to thee great and mighty things, which thou knowest not.
 
 ### Jeremiah 40:4
@@ -178409,7 +178409,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus said the Lord God of Israel concerning the houses of this city and concerning houses of the king of Judah, torn down into trenches and defenses,
+- fresh: Because thus said the Lord God of Israel concerning the houses of this city and concerning the houses of the king of Judah, which were torn down into trenches and defenses,
 - brenton: For thus saith the Lord concerning the houses of this city, and concerning the houses of the king of Juda, which have been pulled down for mounds and fortifications,
 
 ### Jeremiah 40:5
@@ -178418,16 +178418,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: to fight against Chaldeans and to fill it with dead men whom I struck in my anger and wrath, and I turned away my face from them because of all their evils.
+- fresh: to fight against the Chaldeans and to fill it with dead men whom I struck in my anger and wrath, and I turned away my face from them because of all their evils.
 - brenton: to fight against the Chaldeans, and to fill it with the corpses of men, whom I smote in mine anger and my wrath, and turned away my face from them, for all their wickedness:
 
 ### Jeremiah 40:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, I bring up healing and remedy to her and reveal to them hearing, and I will heal her and make for them peace and faithfulness.
+- fresh: Behold, I bring up healing and remedy for her, and I will reveal to them a hearing; and I will heal her and make peace and faithfulness for them.
 - brenton: Behold, I bring upon her healing and cure, and I will show myself to them, and will heal her, and make both peace and security.
 
 ### Jeremiah 40:7
@@ -178436,7 +178436,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will restore exile of Judah and exile of Israel and build them as before.
+- fresh: And I will restore the exile of Judah and the exile of Israel and build them as before.
 - brenton: And I will turn the captivity of Juda, and the captivity of Israel, and will build them, even as before.
 
 ### Jeremiah 40:8
@@ -178445,25 +178445,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will cleanse them from all their injustices with which they sinned against me, and I will no longer remember sins with which they sinned against me and departed from me.
+- fresh: And I will cleanse them from all their injustices with which they sinned against me, and I will no longer remember the sins with which they sinned against me and departed from me.
 - brenton: And I will cleanse them from all their iniquities, whereby they have sinned against me, and will not remember their sins, whereby they have sinned against me, and revolted from me.
 
 ### Jeremiah 40:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be for joy and for praise and for greatness to every people of earth who hear all good things which I will do. And they will fear and be embittered concerning all good things and all peace which I will make for them.
+- fresh: And it will be for joy and for praise and for greatness to every people of the earth who hear all the good things which I will do. And they will fear and be embittered concerning all the good things and concerning all the peace which I will make for them.
 - brenton: And it shall be for joy and praise, and for glory to all the people of the earth, who shall hear all the good that I will do: and they shall fear and be provoked for all the good things and for all the peace which I will bring upon them.
 
 ### Jeremiah 40:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus said the Lord: Still in this place, which you say is desolate from men and cattle, in the cities of Judah and outside Jerusalem, laid waste because there is no man and no cattle, it will be heard
+- fresh: Thus said the Lord: Still it will be heard in this place, which you say is desolate from men and cattle, in the cities of Judah and outside Jerusalem, laid waste because there is no man and no cattle,
 - brenton: Thus saith the Lord; There shall yet be heard in this place, of which ye say, It is destitute of men and cattle, in the cities of Juda, and in the streets of Jerusalem, the places that have been made desolate for want of men and cattle,
 
 ### Jeremiah 40:11
@@ -178481,16 +178481,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord of hosts: Still there will be in this place, this desolate one because there is no man and cattle, and in all its cities, dwellings of shepherds laying sheep down.
+- fresh: Thus said the Lord of hosts: There will still be in this place, this desolate one because there is no man and cattle, and in all its cities, dwellings of shepherds laying sheep down.
 - brenton: Thus saith the Lord of hosts; There shall yet be in this place, that is desert for want of man and beast, in all the cities thereof, resting-places for shepherds causing their flocks to lie down.
 
 ### Jeremiah 40:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: In the cities of hill country and in the cities of lowland and in the cities of Negeb and in the land of Benjamin and around Jerusalem and in the cities of Judah, sheep will still pass under the hand of one counting, said the Lord.
+- fresh: In the cities of the hill country and in the cities of the lowland and in the cities of Negeb and in the land of Benjamin and around Jerusalem and in the cities of Judah, sheep will still pass under the hand of one counting, said the Lord.
 - brenton: In the cities of the hill country, and in the cities of the valley, and in the cities of the south, and in the land of Benjamin, and in the cities round about Jerusalem, and in the cities of Juda, flocks shall yet pass under the hand of him that numbers them, saith the Lord.
 
 ### Jeremiah 40:14
@@ -178613,28 +178613,28 @@ Note:
 ### Jeremiah 41:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Word that came to Jeremiah from the Lord, while Nebuchadnezzar king of Babylon and all his camp and all the land of his rule fought against Jerusalem and against all cities of Judah, saying,
+- fresh: The word that came to Jeremiah from the Lord, when Nebuchadnezzar king of Babylon and all his camp and all the land under his rule were fighting against Jerusalem and against all the cities of Judah, saying,
 - brenton: The word that came to Jeremias from the Lord (now Nabuchodonosor king of Babylon, and all his army, and all the country of his dominion, were warring against Jerusalem, and against all the cities of Juda,) saying,
 
 ### Jeremiah 41:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus said the Lord: Go to Zedekiah king of Judah and say to him, Thus said the Lord: This city in being handed over will be handed into the hands of the king of Babylon, and he will seize it and burn it with fire.
+- fresh: Thus said the Lord: Go to Zedekiah king of Judah and say to him, Thus said the Lord: This city, in being handed over, will be handed into the hands of the king of Babylon, and he will seize it and burn it with fire.
 - brenton: Thus has the Lord said; Go to Sedekias king of Juda, and thou shalt say to him, Thus has the Lord said, This city shall certainly be delivered into the hands of the king of Babylon, and he shall take it, and shall burn it with fire:
 
 ### Jeremiah 41:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will certainly not be saved from his hand, because in seizing you will be seized and into his hands you will be given, and your eyes will see his eyes, and his mouth will speak with your mouth, and you will enter Babylon.
+- fresh: And you will certainly not be saved from his hand, because in being seized you will be seized and into his hands you will be given; your eyes will see his eyes, and his mouth will speak with your mouth, and you will enter Babylon.
 - brenton: and thou shalt not escape out of his hand, but shalt certainly be taken, and shalt be given into his hands; and thine eyes shall see his eyes, and thou shalt enter into Babylon.
 
 ### Jeremiah 41:4
@@ -178649,10 +178649,10 @@ Note:
 ### Jeremiah 41:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: In peace you will die, and as they lamented your fathers, kings ruling before you, they will lament you also, and saying, Oh lord, they will beat themselves for you, because I spoke word, says the Lord.
+- fresh: In peace you will die, and as they lamented your fathers, the kings who ruled before you, they will lament you also, and saying, Ah, lord, they will beat themselves for you, because I have spoken a word, says the Lord.
 - brenton: Thou shalt die in peace: and as they wept for thy fathers that reigned before thee, they shall weep also for thee, saying, Ah lord! and they shall lament for thee down to the grave: for I have spoken the word, said the Lord.
 
 ### Jeremiah 41:6
@@ -178670,16 +178670,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the force of the king of Babylon fought against Jerusalem and against the cities of Judah, against Lachish and against Azekah, because these were left among cities of Judah, fortified cities.
+- fresh: And the force of the king of Babylon was fighting against Jerusalem and against the cities of Judah, against Lachish and against Azekah, because these fortified cities were left among the cities of Judah.
 - brenton: And the host of the king of Babylon warred against Jerusalem, and against the cities of Juda, and against Lachis, and against Azeca: for these strong cities were left among the cities of Juda.
 
 ### Jeremiah 41:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Word came to Jeremiah from the Lord after King Zedekiah finished covenant with people, to proclaim release,
+- fresh: The word that came to Jeremiah from the Lord after King Zedekiah completed a covenant with the people to proclaim release,
 - brenton: The word that came from the Lord to Jeremias, after king Sedekias had concluded a covenant with the people, to proclaim a release;
 
 ### Jeremiah 41:9
@@ -178688,7 +178688,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: to send out each his male servant and each his female servant, the Hebrew and the Hebrew woman, free, so that no man from Judah should enslave them.
+- fresh: to send out each one his male servant and each one his female servant, the Hebrew man and the Hebrew woman, free, so that no man from Judah would be enslaved.
 - brenton: that every one should set at liberty his servant, and every one his handmaid, the Hebrew man and Hebrew woman, that no man of Juda should be a bondman.
 
 ### Jeremiah 41:10
@@ -178697,7 +178697,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all nobles and all the people who entered covenant turned, to send out each his male servant and each his female servant.
+- fresh: And all the nobles and all the people who entered the covenant to send out each one his male servant and each one his female servant turned back,
 - brenton: Then all the nobles, and all the people who had entered into the covenant, engaging to set free every one his man-servant, and every one his maid, turned,
 
 ### Jeremiah 41:11
@@ -178706,7 +178706,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they drove them away into male servants and female servants.
+- fresh: and they forced them into male servants and female servants.
 - brenton: and gave them over to be men-servants and maid-servants.
 
 ### Jeremiah 41:12
@@ -178724,7 +178724,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord God of Israel: I made covenant with your fathers on the day when I brought them out from the land of Egypt, out of the house of slavery, saying,
+- fresh: Thus said the Lord God of Israel: I made a covenant with your fathers on the day when I brought them out from the land of Egypt, out of the house of slavery, saying,
 - brenton: Thus saith the Lord; I made a covenant with your fathers in the day wherein I took them out of the land of Egypt, out of the house of bondage, saying,
 
 ### Jeremiah 41:14
@@ -178733,7 +178733,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: When six years are completed, you will send out your Hebrew brother who was sold to you, and he will work for you six years, and you will send him out free. And they did not hear me and did not incline their ear.
+- fresh: When six years are fulfilled, you shall send out your Hebrew brother who is sold to you, and he shall work for you six years, and you shall send him out free. But they did not hear me and did not incline their ear.
 - brenton: When six years are accomplished, thou shalt set free thy brother the Hebrew, who shall be sold to thee: for he shall serve thee six years, and then thou shalt let him go free: but they hearkened not to me, and inclined not their ear.
 
 ### Jeremiah 41:15
@@ -178742,23 +178742,23 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And today you turned to do what is right before my eyes, to proclaim release each to his neighbor, and completed covenant before my face in the house on which my name was called.
+- fresh: And today you turned to do what is right before my eyes, to proclaim release each to his neighbor, and you completed a covenant before my face in the house on which my name has been called.
 - brenton: And this day they turned to do that which was right in my sight, to proclaim every one the release of his neighbour; and they had concluded a covenant before me, in the house whereon my name is called.
 
 ### Jeremiah 41:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you turned back and profaned my name, by turning back each his male servant and each his female servant whom you sent out free according to their soul, and you took them for yourselves as male servants and female servants.
+- fresh: And you turned back and profaned my name by bringing back each one his male servant and each one his female servant whom you had sent out free according to their own desire, to be for you male servants and female servants.
 - brenton: But ye turned and profaned my name, to bring back every one his servant, and every one his handmaid, whom ye had sent forth free and at their own disposal, to be to you men-servants and maid-servants.
 
 ### Jeremiah 41:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Therefore thus said the Lord: You did not hear me to proclaim release, each to his neighbor. Behold, I proclaim release to you, to sword and to death and to famine, and I will give you for dispersion to all kingdoms of the earth.
 - brenton: Therefore thus said the Lord; Ye have not hearkened to me, to proclaim a release every one to his neighbour: behold, I proclaim a release to you, to the sword, and to the pestilence, and to the famine; and I will give you up to dispersion among all the kingdoms of the earth.
@@ -178766,10 +178766,10 @@ Note:
 ### Jeremiah 41:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will give the men who passed over my covenant, those not keeping my covenant which they made before my face, like a calf which they made to work for him,
+- fresh: And I will give the men who passed over my covenant, those who did not uphold my covenant which they made before my face, the calf which they prepared to perform it with,
 - brenton: And I will give the men that have transgressed my covenant, who have not kept my covenant, which they made before me, the calf which they prepared to sacrifice with it,
 
 ### Jeremiah 41:19
@@ -178778,7 +178778,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: the rulers of Judah and the mighty men and the priests and the people,
+- fresh: namely the rulers of Judah and the mighty men and the priests and the people,
 - brenton: the princes of Juda, and the men in power, and the priests, and the people;
 
 ### Jeremiah 41:20
@@ -178787,16 +178787,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and I will give them to their enemies, and their dead bodies will be food to the birds of heaven and beasts of the earth.
+- fresh: and I will give them to their enemies, and their dead bodies will be food for the birds of heaven and for the beasts of the earth.
 - brenton: I will even give them to their enemies, and their carcases shall be food for the birds of the sky and for the wild beasts of the earth.
 
 ### Jeremiah 41:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And Zedekiah king of Judah and their rulers I will give into the hands of their enemies and force of the king of Babylon to those fleeing away from them.
+- fresh: And Zedekiah king of Judah and their rulers I will give into the hands of their enemies, and the force of the king of Babylon will come upon those fleeing from them.
 - brenton: And I will give Sedekias king of Judea, and their princes, into the hands of their enemies, and the host of the king of Babylon shall come upon them that run away from them.
 
 ### Jeremiah 41:22
@@ -178805,7 +178805,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I command, says the Lord, and I will return them to this land, and they will fight against it and take it and burn it with fire, and the cities of Judah I will give desolate, with no dwellers.
+- fresh: Behold, I command, says the Lord, and I will return them to this land. They will fight against it and take it and burn it with fire, and the cities of Judah I will give as desolate, without dwellers.
 - brenton: Behold, I will give command, saith the Lord, and will bring them back to this land; and they shall fight against it, and take it, and burn it with fire, and the cities of Juda; and I will make them desolate without inhabitants.
 
 ### Jeremiah 42:1
@@ -178814,16 +178814,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Word that came to Jeremiah from the Lord in the days of Jehoiakim king of Judah, saying,
+- fresh: The word that came to Jeremiah from the Lord in the days of Jehoiakim king of Judah, saying,
 - brenton: The Word that came to Jeremias from the Lord in the days of Joakim, king of Juda, saying,
 
 ### Jeremiah 42:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Go into the house of Rechab and bring them into the house of the Lord, into one of courts, and make them drink wine.
+- fresh: Go to the house of the Rechabites and bring them into the house of the Lord, into one of the courts, and give them wine to drink.
 - brenton: Go to the house of the Archabin, and thou shalt bring them to the house of the Lord, into one of the courts, and give them wine to drink.
 
 ### Jeremiah 42:3
@@ -178832,7 +178832,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I brought out Jaazaniah son of Jeremiah son of Habaziniah and his brothers and his sons and all house of Rechab,
+- fresh: And I brought out Jaazaniah son of Jeremiah son of Habaziniah and his brothers and his sons and all the house of the Rechabites,
 - brenton: So I brought forth Jechonias the son of Jeremin the son of Chabasin, and his brethren, and his sons, and all the family of the Archabin;
 
 ### Jeremiah 42:4
@@ -178841,7 +178841,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and I brought them into the house of the Lord, into the chamber of sons of Hanan son of Gedaliah, man of God, which is near house of rulers, above house of Maaseiah son of Shallum, keeper of court.
+- fresh: and I brought them into the house of the Lord, into the chamber of the sons of Hanan son of Gedaliah, a man of God, which is near the house of the rulers, above the house of Maaseiah son of Shallum, keeper of the court.
 - brenton: and I brought them into the house of the Lord, into the chamber of the sons of Joanan, the son of Ananias, the son of Godolias, a man of God, who dwells near the house of the princes that are over the house of Maasæas the son of Selom, who kept the court.
 
 ### Jeremiah 42:5
@@ -178850,25 +178850,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I set before their face jar of wine and cups and said, Drink wine.
+- fresh: And I set before them a jar of wine and cups and said, Drink wine.
 - brenton: And I set before them a jar of wine, and cups, and I said, Drink ye wine.
 
 ### Jeremiah 42:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they said, We will certainly not drink wine, because Jonadab son of Rechab our father commanded us, saying, You and your sons will certainly not drink wine forever.
+- fresh: And they said, We will certainly not drink wine, because Jonadab son of Rechab our father commanded us, saying, You and your sons shall certainly not drink wine forever.
 - brenton: But they said, We will on no account drink wine, for our father Jonadab the son of Rechab commanded us, saying, Ye shall on no account drink wine, neither ye, nor your sons for ever:
 
 ### Jeremiah 42:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will not build a house, and seed you will not sow, and vineyard will not be yours, because in tents you will dwell all your days, so that you may live many days upon the land on which you sojourn.
+- fresh: And you shall not build a house, and you shall not sow seed, and no vineyard shall be yours, because you shall dwell in tents all your days, so that you may live many days upon the land on which you sojourn.
 - brenton: nor shall ye at all build houses, nor sow any seed, nor shall ye have a vineyard: for ye shall dwell in tents all your days; that ye may live many days upon the land, in which ye sojourn.
 
 ### Jeremiah 42:8
@@ -178886,7 +178886,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and so as not to build houses to dwell there, and vineyard and field and seed did not come to be for us.
+- fresh: and so as not to build houses to dwell in, and there has not come to be for us vineyard or field or seed.
 - brenton: and so as to build no houses to dwell in: and we have had no vineyard, nor field, nor seed:
 
 ### Jeremiah 42:10
@@ -178901,10 +178901,10 @@ Note:
 ### Jeremiah 42:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it happened when Nebuchadnezzar came up against the land, we said, Enter, and let us enter Jerusalem from the face of force of Chaldeans and from the face of force of Assyrians, and we dwelt there.
+- fresh: And it happened when Nebuchadnezzar came up against the land, we said, Come, and let us enter Jerusalem from before the force of the Chaldeans and from before the force of the Assyrians, and we dwelt there.
 - brenton: And it came to pass, when Nabuchodonosor came up against the land, that we said we would come in; and we entered into Jerusalem, for fear of the host of the Chaldeans, and for fear of the host of the Assyrians: and we dwelt there.
 
 ### Jeremiah 42:12
@@ -178919,28 +178919,28 @@ Note:
 ### Jeremiah 42:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord: Go and say to man of Judah and to those dwelling in Jerusalem, Will you not receive discipline by hearing my words?
+- fresh: Thus says the Lord: Go and say to the men of Judah and to those dwelling in Jerusalem, Will you not receive discipline, to listen to my words?
 - brenton: Thus saith the Lord, Go, and say to the men of Juda, and to them that dwell in Jerusalem, Will ye not receive correction to hearken to my words?
 
 ### Jeremiah 42:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The words of sons of Jonadab son of Rechab stand, who commanded his children not to drink wine, and they did not drink, and I spoke to you early and spoke, and you did not hear.
+- fresh: The sons of Jonadab son of Rechab upheld the word which he commanded his children, not to drink wine, and they did not drink. But I spoke to you, rising early and speaking, and you did not hear.
 - brenton: The sons of Jonadab the son of Rechab have kept the word which he commanded his children, that they should drink no wine; and they have not drunk it: but I spoke to you early, and ye hearkened not.
 
 ### Jeremiah 42:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I sent to you my servants the prophets, saying, Each turn back from his evil way and make your practices better, and do not go after other gods to serve them, and you will dwell upon the land which I gave to you and to your fathers, and you did not incline your ears and did not hear.
+- fresh: And I sent to you my servants the prophets, saying, Let each one turn back from his evil way and amend your practices, and do not go after other gods to serve them, and you will dwell upon the land which I gave to you and to your fathers. But you did not incline your ears and did not hear.
 - brenton: And I sent to you my servants the prophets, saying, Turn ye every one from his evil way, and amend your practices, and go not after other gods to serve them, and ye shall dwell upon the land which I gave to you and to your fathers: but ye inclined not your ears, and hearkened not.
 
 ### Jeremiah 42:16
@@ -178949,7 +178949,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And sons of Jonadab son of Rechab kept command of their father, but this people did not hear me.
+- fresh: And the sons of Jonadab son of Rechab kept the command of their father, but this people did not hear me.
 - brenton: But the sons of Jonadab the son of Rechab have kept the command of their father; but this people has not hearkened to me.
 
 ### Jeremiah 42:17
@@ -178958,7 +178958,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus said the Lord: Behold, I bring upon Judah and upon those dwelling in Jerusalem all evils which I spoke against them.
+- fresh: Therefore thus said the Lord: Behold, I bring upon Judah and upon those dwelling in Jerusalem all the evils which I spoke against them.
 - brenton: Therefore thus saith the Lord; Behold, I will bring upon Juda and upon the inhabitants of Jerusalem all the evils which I pronounced against them.
 
 ### Jeremiah 42:18
@@ -178967,16 +178967,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus said the Lord: Because sons of Jonadab son of Rechab heard command of their father, doing exactly as their father commanded them,
+- fresh: Therefore thus said the Lord: Because the sons of Jonadab son of Rechab listened to the command of their father, doing just as their father commanded them,
 - brenton: Therefore thus saith the Lord; Since the sons of Jonadab the son of Rechab have hearkened to the command of their father, to do as their father commanded them:
 
 ### Jeremiah 42:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: man from the sons of Jonadab son of Rechab will certainly not fail, standing before my face all days of earth.
+- fresh: a man from the sons of Jonadab son of Rechab will certainly not fail to stand before my face all the days of the earth.
 - brenton: there shall never be wanting a man of the sons of Jonadab the son of Rechab to stand before my face while the earth remains.
 
 ### Jeremiah 43:1
@@ -178991,10 +178991,10 @@ Note:
 ### Jeremiah 43:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Take for yourself scroll-sheet and write on it all words which I answered to you concerning Jerusalem and Judah and all nations, from the day when I spoke to you, from the days of Josiah king of Judah until this day.
+- fresh: Take for yourself a scroll-sheet and write on it all the words which I declared to you concerning Jerusalem and Judah and all the nations, from the day when I spoke to you, from the days of Josiah king of Judah, even until this day.
 - brenton: Take thee a roll of a book, and write upon it all the words which I spoke to thee against Jerusalem, and against Juda, and against all the nations, from the day when I spoke to thee, from the days of Josias king of Juda, even to this day.
 
 ### Jeremiah 43:3
@@ -179003,7 +179003,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Perhaps the house of Judah will hear all evils which I plan to do to them, so that they may turn back from their evil way, and I will be merciful to their injustices and their sins.
+- fresh: Perhaps the house of Judah will hear all the evils which I plan to do to them, so that they may turn back from their evil way, and I will be merciful concerning their injustices and their sins.
 - brenton: Perhaps the house of Juda will hear all the evils which I purpose to do to them; that they may turn from their evil way; and so I will be merciful to their iniquities and their sins.
 
 ### Jeremiah 43:4
@@ -179012,16 +179012,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah called Baruch son of Neriah, and Baruch wrote from the mouth of Jeremiah all the words of the Lord which he answered to him into scroll-sheet.
+- fresh: And Jeremiah called Baruch son of Neriah, and Baruch wrote from the mouth of Jeremiah all the words of the Lord which he had declared to him, into a scroll-sheet.
 - brenton: So Jeremias called Baruch the son of Nerias: and he wrote from the mouth of Jeremias all the words of the Lord, which he had spoken to him, on a roll of a book.
 
 ### Jeremiah 43:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah commanded Baruch, saying, I am guarded. I cannot enter house of the Lord.
+- fresh: And Jeremiah commanded Baruch, saying, I am kept under guard. I cannot enter the house of the Lord.
 - brenton: And Jeremias commanded Baruch, saying, I am in prison; I cannot enter into the house of the Lord:
 
 ### Jeremiah 43:6
@@ -179030,16 +179030,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will read from this sheet into the ears of the people in the house of the Lord in the day of fasting, and in the ears of all Judah coming from their cities you will read to them.
+- fresh: And you will read from this sheet into the ears of the people in the house of the Lord on the day of fasting, and in the ears of all Judah coming from their cities you will read to them.
 - brenton: so thou shalt read in this roll in the ears of the people in the house of the Lord, on the fast day; and in the ears of all Juda that come out of their cities, thou shalt read to them.
 
 ### Jeremiah 43:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Perhaps their mercy will fall before the face of the Lord and they will turn back from their evil way, because great is anger and the wrath of the Lord which he spoke against this people.
+- fresh: Perhaps their plea for mercy will fall before the face of the Lord, and they will turn back from their evil way, because great is the anger and the wrath of the Lord which he spoke against this people.
 - brenton: Peradventure their supplication will come before the Lord, and they will turn from their evil way: for great is the wrath and the anger of the Lord, which he has pronounced against this people.
 
 ### Jeremiah 43:8
@@ -179055,9 +179055,9 @@ Note:
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it happened in the eighth year of the reign of Jehoiakim, in the ninth month, all the people in Jerusalem and the house of Judah proclaimed fast before the Lord.
+- fresh: And it happened in the eighth year of King Jehoiakim, in the ninth month, all the people in Jerusalem and the house of Judah proclaimed fast before the Lord.
 - brenton: And it came to pass in the eighth year of king Joakim, in the ninth month, all the people in Jerusalem, and the house of Juda, proclaimed a fast before the Lord.
 
 ### Jeremiah 43:10
@@ -179066,7 +179066,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Baruch read in the scroll words of Jeremiah in the house of the Lord, in the house of Gemariah son of Shaphan the scribe, in the upper court, in the entrance of the new gate of the house of the Lord, in the ears of all the people.
+- fresh: And Baruch read in the scroll the words of Jeremiah in the house of the Lord, in the house of Gemariah son of Shaphan the scribe, in the upper court, in the entrance of the new gate of the house of the Lord, in the ears of all the people.
 - brenton: And Baruch read in the book the words of Jeremias in the house of the Lord, in the house of Gamarias son of Saphan the scribe, in the upper court, in the entrance of the new gate of the house of the Lord, and in the ears of all the people.
 
 ### Jeremiah 43:11
@@ -179075,7 +179075,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Micaiah son of Gemariah son of Shaphan heard all the words of the Lord from scroll,
+- fresh: And Micaiah son of Gemariah son of Shaphan heard all the words of the Lord from the scroll,
 - brenton: And Michæas the son of Gamarias the son of Saphan heard all the words of the Lord, out of the book.
 
 ### Jeremiah 43:12
@@ -179084,7 +179084,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and went down to the house of the king, to the house of scribe, and behold there all rulers sat: Elishama the scribe and Delaiah son of Shelemiah and Elnathan son of Achbor and Gemariah son of Shaphan and Zedekiah son of Hananiah and all rulers.
+- fresh: and he went down to the house of the king, to the house of the scribe, and behold, all the rulers were sitting there: Elishama the scribe and Delaiah son of Shelemiah and Elnathan son of Achbor and Gemariah son of Shaphan and Zedekiah son of Hananiah and all the rulers.
 - brenton: And he went down to the king's house, into the house of the scribe: and, behold, there were sitting there all the princes, Elisama the scribe, and Dalæas the son of Selemias, and Jonathan the son of Acchobor, and Gamarias the son of Saphan, and Sedekias the son of Ananias, and all the princes.
 
 ### Jeremiah 43:13
@@ -179093,16 +179093,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Micaiah announced to them all words which he heard while Baruch read into the ears of the people.
+- fresh: And Micaiah announced to them all the words which he heard while Baruch read into the ears of the people.
 - brenton: And Michæas reported to them all the words which he had heard Baruch reading in the ears of the people.
 
 ### Jeremiah 43:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all rulers sent to Baruch son of Neriah Jehudi son of Nethaniah son of Shelemiah son of Chusi, saying, Scroll in which you read in the ears of the people, take it in your hand and come. And Baruch took scroll and went down to them.
+- fresh: And all the rulers sent Jehudi son of Nethaniah son of Shelemiah son of Chusi to Baruch son of Neriah, saying, The sheet in which you are reading in the ears of the people, take it in your hand and come. And Baruch took the sheet and went down to them.
 - brenton: And all the princes sent to Baruch son of Nerias Judin the son of Nathanias, the son of Selemias, the son of Chusi, saying, Take in thine hand the roll in which thou readest in the ears of the people, and come. So Baruch took the roll, and went down to them.
 
 ### Jeremiah 43:15
@@ -179111,16 +179111,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they said to him, Read again into our ears. And Baruch read.
+- fresh: And they said to him, Read it again into our ears. And Baruch read.
 - brenton: And they said to him, Read it again in our ears. And Baruch read it.
 
 ### Jeremiah 43:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened when they heard all words, each took counsel with his neighbor and said, Announcing, let us announce to the king all these words.
+- fresh: And it happened when they heard all the words, each took counsel with his neighbor and said, We must surely announce to the king all these words.
 - brenton: And it came to pass, when they had heard all the words, that they took counsel each with his neighbour, and said, Let us by all means tell the king all these words.
 
 ### Jeremiah 43:17
@@ -179138,7 +179138,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Baruch said, From his mouth Jeremiah announced to me all these words, and I wrote in scroll.
+- fresh: And Baruch said, Jeremiah announced all these words to me from his mouth, and I wrote them in a scroll.
 - brenton: And Baruch said, Jeremias told me from his own mouth all these words, and I wrote them in a book.
 
 ### Jeremiah 43:19
@@ -179156,7 +179156,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they entered to the king into court, and scroll they gave to keep in the house of Elishama, and they announced to the king all the words.
+- fresh: And they entered to the king, into the court, and they gave the sheet for safekeeping in the house of Elishama, and they announced to the king all the words.
 - brenton: And they went in to the king into the court, and gave the roll to one to keep in the house of Elisama; and they told the king all these words.
 
 ### Jeremiah 43:21
@@ -179165,7 +179165,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king sent Jehudi to take the scroll, and he took it from the house of Elishama and read it into the ears of the king and into the ears of all rulers standing around the king.
+- fresh: And the king sent Jehudi to take the scroll-sheet, and he took it from the house of Elishama and read it into the ears of the king and into the ears of all the rulers standing around the king.
 - brenton: And the king sent Judin to fetch the roll: and he took it out of the house of Elisama: and Judin read in the ears of the king, and in the ears of all the princes who stood round the king.
 
 ### Jeremiah 43:22
@@ -179174,16 +179174,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king sat in winter house, and hearth of fire before his face.
+- fresh: And the king sat in the winter house, and a fire-hearth was before his face.
 - brenton: Now the king was sitting in the winter house: and there was a fire on the hearth before him.
 
 ### Jeremiah 43:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it happened while Jehudi read three pages and four, he cut them off with scribe’s knife and threw into fire on hearth until whole sheet was gone into fire on hearth.
+- fresh: And it happened while Jehudi read three columns or four, he cut them off with the scribe's knife and threw them into the fire on the hearth until the whole sheet was consumed in the fire on the hearth.
 - brenton: And it came to pass when Judin had read three or four leaves, he cut them off with a penknife, and cast them into the fire that was on the hearth, until the whole roll was consumed in the fire that was on the hearth.
 
 ### Jeremiah 43:24
@@ -179192,7 +179192,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king and his servants hearing all these words did not seek and did not tear their garments.
+- fresh: And the king and his servants, hearing all these words, did not seek and did not tear their garments.
 - brenton: And the king and his servants that heard all these words sought not the Lord, and rent not their garments.
 
 ### Jeremiah 43:25
@@ -179201,16 +179201,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Elnathan and Gedaliah and Gemariah urged king not to burn scroll.
+- fresh: And Elnathan and Gedaliah and Gemariah urged the king not to burn the sheet.
 - brenton: But Elnathan and Godolias suggested to the king that he should burn the roll.
 
 ### Jeremiah 43:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the king commanded Jeremeeel son of the king and Seraiah son of Azriel to seize Baruch and Jeremiah, and they hid themselves.
+- fresh: And the king commanded Jerahmeel son of the king and Seraiah son of Esriel to seize Baruch and Jeremiah, but they were hidden.
 - brenton: And the king commanded Jeremeel the king's son, and Saræas the son of Esriel, to take Baruch and Jeremias: but they were hidden.
 
 ### Jeremiah 43:27
@@ -179219,7 +179219,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the word of the Lord came to Jeremiah after king burned scroll, all words which Baruch wrote from the mouth of Jeremiah, saying,
+- fresh: And the word of the Lord came to Jeremiah after the king burned the sheet with all the words which Baruch wrote from the mouth of Jeremiah, saying,
 - brenton: Then the word of the Lord came to Jeremias, after the king had burnt the roll, even all the words which Baruch wrote from the mouth of Jeremias, saying,
 
 ### Jeremiah 43:28
@@ -179228,16 +179228,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Again take for yourself another sheet and write all words that were on former sheet which King Jehoiakim burned.
+- fresh: Take for yourself again another sheet and write all the words that were on the former sheet which King Jehoiakim burned.
 - brenton: Again take thou another roll, and write all the words that were on the roll, which king Joakim has burnt.
 
 ### Jeremiah 43:29
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will say, Thus said the Lord: You burned this sheet, saying, Why did you write on it, saying, In entering king of Babylon will enter and destroy this land and man and cattle will fail from it?
+- fresh: And you will say, Thus said the Lord: You burned this sheet, saying, Why did you write on it, saying, In entering, the king of Babylon will enter and destroy this land, and man and cattle will fail from it?
 - brenton: And thou shalt say, Thus saith the Lord; Thou hast burnt this roll, saying, Why hast thou written therein, saying, The king of Babylon shall certainly come in, and destroy this land, and man and cattle shall fail from off it?
 
 ### Jeremiah 43:30
@@ -179246,7 +179246,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus said the Lord concerning Jehoiakim king of Judah: There will not be for him one sitting on the throne of David, and his corpse will be thrown out in the heat of day and frost of night.
+- fresh: Therefore thus said the Lord concerning Jehoiakim king of Judah: There will not be for him one sitting on the throne of David, and his corpse will be thrown out in the heat of the day and in the frost of the night.
 - brenton: Therefore thus saith the Lord concerning Joakim king of Juda; He shall not have a man to sit on the throne of David: and his carcase shall be cast forth in the heat by day, and in the frost by night.
 
 ### Jeremiah 43:31
@@ -179255,7 +179255,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will visit upon him and upon his seed and upon his servants, and I will bring upon them and upon those dwelling in Jerusalem and upon the land of Judah all evils which I spoke to them and they did not hear.
+- fresh: And I will visit upon him and upon his seed and upon his servants, and I will bring upon them and upon those dwelling in Jerusalem and upon the land of Judah all the evils which I spoke to them, and they did not hear.
 - brenton: And I will visit him, and his family, and his servants: and I will bring upon him, and upon the inhabitants of Jerusalem, and upon the land of Juda, all the evils which I spoke of to them; and they hearkened not.
 
 ### Jeremiah 43:32
@@ -179264,7 +179264,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Baruch took another sheet and wrote on it from the mouth of Jeremiah all words of scroll which Jehoiakim burned, and still more words like these were added to it.
+- fresh: And Baruch took another sheet and wrote on it from the mouth of Jeremiah all the words of the scroll which Jehoiakim burned, and still more words like these were added to it.
 - brenton: And Baruch took another roll, and wrote upon it from the mouth of Jeremias all the words of the book which Joakim had burnt: and there were yet more words added to it like the former.
 
 ### Jeremiah 44:1
@@ -179273,7 +179273,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Zedekiah son of Josiah reigned instead of Jehoiakim, whom Nebuchadnezzar king of Babylon made reign over Judah.
+- fresh: And Zedekiah son of Josiah reigned instead of Jehoiakim, whom Nebuchadnezzar king of Babylon made king over Judah.
 - brenton: And Sedekias the son of Josias reigned instead of Joakim, whom Nabuchodonosor appointed to reign over Juda.
 
 ### Jeremiah 44:2
@@ -179282,7 +179282,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he and his servants and people of the land did not hear the words of the Lord which he spoke by the hand of Jeremiah.
+- fresh: And he and his servants and the people of the land did not hear the words of the Lord which he spoke by the hand of Jeremiah.
 - brenton: And he and his servants and the people of the land hearkened not to the words of the Lord, which he spoke by Jeremias.
 
 ### Jeremiah 44:3
@@ -179297,10 +179297,10 @@ Note:
 ### Jeremiah 44:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And Jeremiah came and passed through the midst of the city, and they had not given him into the house of prison.
+- fresh: And Jeremiah came and went through the midst of the city, and they had not put him into the house of the prison.
 - brenton: Now Jeremias came and went through the midst of the city: for they had not put him into the house of the prison.
 
 ### Jeremiah 44:5
@@ -179309,7 +179309,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the force of Pharaoh went out from Egypt, and Chaldeans heard their report and went up from Jerusalem.
+- fresh: And the force of Pharaoh went out from Egypt, and the Chaldeans heard their report and went up from Jerusalem.
 - brenton: And the host of Pharao was come forth out of Egypt; and the Chaldeans heard the report of them, and they went up from Jerusalem.
 
 ### Jeremiah 44:6
@@ -179327,7 +179327,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord: Thus you will say to the king of Judah who sent to you to seek me: Behold, force of Pharaoh which came out to help you will return into the land of Egypt.
+- fresh: Thus said the Lord: Thus you will say to the king of Judah who sent to you to seek me: Behold, the force of Pharaoh which came out to help you will return into the land of Egypt.
 - brenton: Thus said the Lord; Thus shalt thou say to the king of Juda who sent to thee, to seek me; Behold, the army of Pharao which is come forth to help you: they shall return to the land of Egypt:
 
 ### Jeremiah 44:8
@@ -179342,19 +179342,19 @@ Note:
 ### Jeremiah 44:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because thus said the Lord: Do not assume in your souls, saying, In fleeing away Chaldeans will go away from us, because they will certainly not go away.
+- fresh: Because thus said the Lord: Do not suppose in your souls, saying, In running away, the Chaldeans will depart from us, because they will certainly not go away.
 - brenton: For thus saith the Lord; Suppose not in your hearts, saying, The Chaldeans will certainly depart from us: for they shall not depart.
 
 ### Jeremiah 44:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And if you strike all force of Chaldeans fighting you and some remain pierced, each in his place, these will rise up and burn this city with fire.
+- fresh: And if you strike every force of the Chaldeans fighting you and some wounded men remain, each in his place, these will rise up and burn this city with fire.
 - brenton: And though ye should smite the whole host of the Chaldeans that fight against you, and there should be left a few wounded men, these should rise up each in his place, and burn this city with fire.
 
 ### Jeremiah 44:11
@@ -179363,7 +179363,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened when force of Chaldeans went up from Jerusalem from the face of force of Pharaoh,
+- fresh: And it happened when the force of the Chaldeans went up from Jerusalem from before the force of Pharaoh,
 - brenton: And it came to pass, when the host of the Chaldeans had gone up from Jerusalem for fear of the host of Pharao,
 
 ### Jeremiah 44:12
@@ -179372,16 +179372,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Jeremiah went out from Jerusalem to go into the land of Benjamin to buy from there in the midst of the people.
+- fresh: Jeremiah went out from Jerusalem to go into the land of Benjamin to buy there in the midst of the people.
 - brenton: that Jeremias went forth from Jerusalem to go into the land of Benjamin, to buy thence a property in the midst of the people.
 
 ### Jeremiah 44:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it happened he was at the gate of Benjamin, and there man with whom Seraiah son of Shelemiah son of Hananiah lodged, and he seized Jeremiah, saying, You flee to Chaldeans.
+- fresh: And it happened that he was at the gate of Benjamin, and there was a man there with whom Seraiah son of Shelemiah son of Hananiah lodged, and he seized Jeremiah, saying, You are fleeing to the Chaldeans.
 - brenton: And he was in the gate of Benjamin, and there was there a man with whom he lodged, Saruia the son of Selemias, the son of Ananias; and he caught Jeremias, saying, Thou art fleeing to the Chaldeans.
 
 ### Jeremiah 44:14
@@ -179390,7 +179390,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, False. I do not flee to Chaldeans. And he did not hear him, and Seraiah seized Jeremiah and brought him to rulers.
+- fresh: And he said, False. I am not fleeing to the Chaldeans. But he did not hear him, and Seraiah seized Jeremiah and brought him to the rulers.
 - brenton: And he said, It is false; I do not flee to the Chaldeans. But he hearkened not to him; and Saruia caught Jeremias, and brought him to the princes.
 
 ### Jeremiah 44:15
@@ -179399,16 +179399,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And rulers were embittered against Jeremiah and struck him and sent him into the house of Jonathan the scribe, because they made this into the house of prison.
+- fresh: And the rulers were embittered against Jeremiah and struck him and sent him into the house of Jonathan the scribe, because they had made this into a house of prison.
 - brenton: And the princes were very angry with Jeremias, and smote him, and sent him into the house of Jonathan the scribe: for they had made this a prison.
 
 ### Jeremiah 44:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And Jeremiah came into the house of pit and into cells and sat there many days.
+- fresh: And Jeremiah came into the house of the pit and into the cells and sat there many days.
 - brenton: So Jeremias came into the dungeon, and into the cells, and he remained there many days.
 
 ### Jeremiah 44:17
@@ -179417,7 +179417,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Zedekiah sent and called him, and the king asked him secretly, to say whether there is word from the Lord. And he said, There is. Into the hands of the king of Babylon you will be handed over.
+- fresh: And Zedekiah sent and called him, and the king asked him secretly whether there was a word from the Lord. And he said, There is. Into the hands of the king of Babylon you will be handed over.
 - brenton: Then Sedekias sent, and called him; and the king asked him secretly, saying, Is there a word from the Lord? and he said, There is: thou shalt be delivered into the hands of the king of Babylon.
 
 ### Jeremiah 44:18
@@ -179426,7 +179426,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah said to the king, What wrong did I do to you and your servants and this people, that you give me into the house of prison?
+- fresh: And Jeremiah said to the king, What wrong did I do to you and to your servants and to this people, that you give me into the house of prison?
 - brenton: And Jeremias said to the king, Wherein have I wronged thee, or thy servants, or this people, that thou puttest me in prison?
 
 ### Jeremiah 44:19
@@ -179441,19 +179441,19 @@ Note:
 ### Jeremiah 44:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And now, lord king, let my mercy fall before your face, and why do you turn me back into the house of Jonathan the scribe, so that I not die there?
+- fresh: And now, lord king, let my plea for mercy fall before your face, and why do you turn me back into the house of Jonathan the scribe, so that I not die there?
 - brenton: Now therefore, my lord the king, let my supplication come before thy face: and why dost thou send me back to the house of Jonathan the scribe? and let me not on any account die there.
 
 ### Jeremiah 44:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the king commanded, and they put him into the house of prison, and gave him one loaf of bread each day from outside where loaves fall, until breads failed from the city. And Jeremiah sat in the court of the prison.
+- fresh: And the king commanded, and they put him into the house of the prison, and they gave him one loaf of bread each day from outside where they baked, until the bread failed from the city. And Jeremiah sat in the court of the prison.
 - brenton: Then the king commanded, and they cast him into the prison, and gave him a loaf a day out of the place where they bake, until the bread failed out of the city. So Jeremias continued in the court of the prison.
 
 ### Jeremiah 45:1
@@ -179462,34 +179462,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Shephatiah son of Mattan and Gedaliah son of Pashhur and Jucal son of Shelemiah heard words which Jeremiah spoke to people, saying,
+- fresh: And Shephatiah son of Mattan and Gedaliah son of Pashhur and Jucal son of Shelemiah heard the words which Jeremiah spoke to the people, saying,
 - brenton: And Saphanias the son of Nathan, and Godolias the son of Paschor, and Joachal the son of Semelias, heard the words which Jeremias spoke to the people, saying,
 
 ### Jeremiah 45:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus said the Lord: One dwelling in this city will die by sword and by famine, and one going out to Chaldeans will live, and his soul will be for gain and he will live.
+- fresh: Thus said the Lord: The one dwelling in this city will die by sword and by famine, and the one going out to the Chaldeans will live, and his soul will be for gain, and he will live.
 - brenton: Thus saith the Lord; He that remains in this city shall die by the sword, and by the famine: but he that goes out to the Chaldeans shall live; and his soul shall be given him for a found treasure, and he shall live.
 
 ### Jeremiah 45:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because thus said the Lord: This city in being handed over will be handed into the hands of force of the king of Babylon, and he will seize it.
+- fresh: Because thus said the Lord: This city, in being handed over, will be handed into the hands of the force of the king of Babylon, and he will seize it.
 - brenton: For thus saith the Lord; This city shall certainly be delivered into the hands of the host of the king of Babylon, and they shall take it.
 
 ### Jeremiah 45:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they said to the king, Let that man be killed, because he weakens the hands of men fighting, remaining in the city, and hands of all the people, speaking to them according to these words, because this man does not seek peace for this people but evil.
+- fresh: And they said to the king, Let that man be killed, because he weakens the hands of the fighting men remaining in the city and the hands of all the people, speaking to them according to these words, because this man does not prophesy peace for this people but evil things.
 - brenton: And they said to the king, Let that man, we pray thee, be slain, for he weakens the hands of the fighting men that are left in the city, and the hands of all the people, speaking to them according to these words: for this man does not prophesy peace to this people, but evil.
 
 ### Jeremiah 45:5
@@ -179504,10 +179504,10 @@ Note:
 ### Jeremiah 45:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they threw him into the pit of Malchiah son of the king, which was in the court of the prison, and lowered him into pit, and in pit there was no water but mire, and he was in mire.
+- fresh: And they threw him into the pit of Malchiah son of the king, which was in the court of the prison, and lowered him into the pit, and in the pit there was no water but mire, and he was in the mire.
 - brenton: And they cast him into the dungeon of Melchias the king's son, which was in the court of the prison; and they let him down into the pit: and there was no water in the pit, but mire: and he was in the mire.
 
 ### Jeremiah 45:7
@@ -179516,7 +179516,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ebed-melech the Ethiopian heard, and he was in the house of the king, that they put Jeremiah into pit, and the king was in the gate of Benjamin.
+- fresh: And Ebed-melech the Ethiopian heard, while he was in the house of the king, that they put Jeremiah into the pit, and the king was in the gate of Benjamin.
 - brenton: And Abdemelech the Ethiopian heard, (now he was in the king's household,) that they had put Jeremias into the dungeon; and the king was in the gate of Benjamin:
 
 ### Jeremiah 45:8
@@ -179534,16 +179534,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: You did evil, what you did, to kill this man from the face of famine, because there are no longer breads in the city.
+- fresh: You did evil in what you did, to kill this man because of famine, because there are no longer loaves in the city.
 - brenton: Thou hast done evil in what thou hast done to slay this man with hunger: for there is no more bread in the city.
 
 ### Jeremiah 45:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king commanded Ebed-melech, saying, Take thirty men in your hands from here and bring him up out of pit so that he not die.
+- fresh: And the king commanded Ebed-melech, saying, Take thirty men in your hands from here and bring him up out of the pit so that he not die.
 - brenton: And the king commanded Abdemelech, saying, Take with thee hence thirty men, and bring him up out of the dungeon, that he die not.
 
 ### Jeremiah 45:11
@@ -179552,7 +179552,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ebed-melech took the men and entered into lower chamber of the house of the king and took from there old rags and old ropes and threw them to Jeremiah into pit.
+- fresh: And Ebed-melech took the men and entered into the lower chamber of the house of the king and took from there old rags and old ropes and threw them to Jeremiah into the pit.
 - brenton: So Abdemelech took the men, and went into the underground part of the king's house, and took thence old rags and old ropes, and threw them to Jeremias into the dungeon.
 
 ### Jeremiah 45:12
@@ -179561,7 +179561,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, Put these under ropes. And Jeremiah did so.
+- fresh: And he said, Put these under the ropes. And Jeremiah did so.
 - brenton: And he said, Put these under the ropes. And Jeremias did so.
 
 ### Jeremiah 45:13
@@ -179570,16 +179570,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they pulled him with ropes and brought him up from pit, and Jeremiah sat in the court of the prison.
+- fresh: And they pulled him with the ropes and brought him up from the pit, and Jeremiah sat in the court of the prison.
 - brenton: And they drew him with the ropes, and lifted him out of the dungeon: and Jeremias remained in the court of the prison.
 
 ### Jeremiah 45:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the king sent and called him to himself into third house in the house of the Lord, and the king said to him, I will ask you word, and do not hide thing from me.
+- fresh: And the king sent and called him to himself into the house of Aselisi, which is in the house of the Lord, and the king said to him, I will ask you a word, and do not hide a thing from me.
 - brenton: Then the king sent, and called him to himself into the house of Aselisel, which was in the house of the Lord: and the king said to him, I will ask thee a question, and I pray thee hide nothing from me.
 
 ### Jeremiah 45:15
@@ -179594,16 +179594,16 @@ Note:
 ### Jeremiah 45:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the king swore to him, saying, As the Lord lives, who made this soul for us, if I kill you and if I give you into the hands of these men.
+- fresh: And the king swore to him, saying, As the Lord lives, who made this soul for us, I will not kill you, and I will not give you into the hands of these men.
 - brenton: And the king swore to him, saying, As the Lord lives who gave us this soul, I will not slay thee, neither will I give thee into the hands of these men.
 
 ### Jeremiah 45:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And Jeremiah said to him, Thus said the Lord: If in going out you go out to the rulers of the king of Babylon, your soul will live and this city will certainly not be burned with fire, and you and your house will live.
@@ -179615,7 +179615,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And if you do not go out, this city will be given into the hands of Chaldeans, and they will burn it with fire, and you will certainly not be saved.
+- fresh: And if you do not go out, this city will be given into the hands of the Chaldeans, and they will burn it with fire, and you will certainly not be saved.
 - brenton: But if thou wilt not go forth, this city shall be delivered into the hands of the Chaldeans, and they shall burn it with fire, and thou shalt by no means escape.
 
 ### Jeremiah 45:19
@@ -179624,7 +179624,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king said to Jeremiah, I have concern because of Judeans who fled to Chaldeans, lest they give me into their hands and they mock me.
+- fresh: And the king said to Jeremiah, I have concern because of the Judeans who have fled to the Chaldeans, lest they give me into their hands and mock me.
 - brenton: And the king said to Jeremias, I consider the Jews that have gone over to the Chaldeans, lest they deliver me into their hands, and they mock me.
 
 ### Jeremiah 45:20
@@ -179633,7 +179633,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah said, They will certainly not hand you over. Hear the word of the Lord which I speak to you, and it will be better for you and your soul will live.
+- fresh: And Jeremiah said, They will certainly not hand you over. Hear the word of the Lord which I speak to you, and it will be better for you, and your soul will live.
 - brenton: And Jeremias said, They shall in no wise deliver thee up. Hear the word of the Lord which I speak to thee; and it shall be better for thee, and thy soul shall live.
 
 ### Jeremiah 45:21
@@ -179642,16 +179642,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And if you do not want to go out, this is word which the Lord showed me:
+- fresh: And if you do not want to go out, this is the word which the Lord showed me:
 - brenton: But if thou wilt not go forth, this is the word which the Lord has shewn me.
 
 ### Jeremiah 45:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, all women left in the house of the king of Judah were being brought out to the rulers of the king of Babylon, and they said, Your peace-men deceived you and will prevail against you. They lodged your feet in slipping-places and turned away from you.
+- fresh: And behold, all the women left in the house of the king of Judah were being brought out to the rulers of the king of Babylon, and they said, Your men of peace deceived you and will prevail against you; they will set your feet in slippery places; they turned away from you.
 - brenton: And, behold, all the women that are left in the house of the king of Juda were brought forth to the princes of the king of Babylon; and they said, The men who were at peace with thee have deceived thee, and will prevail against thee; and they shall cause thy foot to slide and fail, they have turned back from thee.
 
 ### Jeremiah 45:23
@@ -179660,7 +179660,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And your wives and your children they will bring out to Chaldeans, and you will certainly not be saved, because by the hand of the king of Babylon you will be seized, and this city will be burned.
+- fresh: And your wives and your children they will bring out to the Chaldeans, and you will certainly not be saved, because by the hand of the king of Babylon you will be seized, and this city will be burned.
 - brenton: And they shall bring forth thy wives and thy children to the Chaldeans: and thou shalt by no means escape, for thou shalt be taken by the hand of the king of Babylon, and this city shall be burnt.
 
 ### Jeremiah 45:24
@@ -179678,25 +179678,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And if rulers hear that I spoke to you and come to you and say, Announce to us what king spoke to you, do not hide from us and we will certainly not kill you, and what king spoke to you,
+- fresh: And if the rulers hear that I spoke to you and come to you and say, Tell us what the king spoke to you. Do not hide it from us, and we will certainly not kill you. What did the king speak to you?
 - brenton: And if the princes shall hear that I have spoken to thee, and they come to thee, and say to thee, Tell us, what said the king to thee? hide it not from us, and we will in no wise slay thee, and what said the king to thee?
 
 ### Jeremiah 45:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: then you will say to them, I cast my mercy before the eyes of the king, so as not to turn me back to the house of Jonathan to die there.
+- fresh: then you will say to them, I cast my plea for mercy before the eyes of the king, so as not to turn me back to the house of Jonathan to die there.
 - brenton: Then thou shalt say to them, I brought my supplication before the presence of the king, that he would not send me back into the house of Jonathan, that I should die there.
 
 ### Jeremiah 45:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And all rulers came to Jeremiah and questioned him, and he announced to them according to all these words which king commanded him, and they were silent, because the word of the Lord was not heard.
+- fresh: And all the rulers came to Jeremiah and questioned him, and he announced to them according to all these words which the king commanded him, and they were silent, because the lord's word was not heard.
 - brenton: And all the princes came to Jeremias, and asked him: and he told them according to all these words, which the king had commanded him. And they were silent, because the word of the Lord was not heard.
 
 ### Jeremiah 45:28
@@ -179705,34 +179705,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah sat in the court of the prison until time when Jerusalem was taken.
+- fresh: And Jeremiah sat in the court of the prison until the time when Jerusalem was taken.
 - brenton: And Jeremias remained in the court of the prison, until the time when Jerusalem was taken.
 
 ### Jeremiah 46:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon came and all his force against Jerusalem and besieged it.
+- fresh: And it happened in the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon came, he and all his force, against Jerusalem and besieged it.
 - brenton: And it came to pass in the ninth month of Sedekias king of Juda, that Nabuchodonosor king of Babylon came, and all his host, against Jerusalem, and they besieged it.
 
 ### Jeremiah 46:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And in eleventh year of Zedekiah, in the fourth month, ninth of the month, city was breached.
+- fresh: And in the eleventh year of Zedekiah, in the fourth month, on the ninth of the month, the city was breached.
 - brenton: And in the eleventh year of Sedekias, in the fourth month, on the ninth day of the month, the city was broken up.
 
 ### Jeremiah 46:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And all rulers of the king of Babylon entered and sat in middle gate: Nergal-sareser and Samagoth and Nebusachar and Nebusaris and Nagargasnaser, Rabmag, and rest of rulers of the king of Babylon.
+- fresh: And all the rulers of the king of Babylon entered and sat in the middle gate: Nergal-sareser and Samagoth and Nebusachar and Nebusaris and Nagargasnaser, Rabmag, and the rest of the rulers of the king of Babylon.
 - brenton: And all the leaders of the king of Babylon went in, and sat in the middle gate, Marganasar, and Samagoth, and Nabusachar, and Nabusaris, Nagargas, Naserrabamath, and the rest of the leaders of the king of Babylon,
 
 ### Jeremiah 46:14
@@ -179741,7 +179741,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they sent and took Jeremiah from the court of the prison and gave him to Gedaliah son of Ahikam son of Shaphan, and they brought him out and he sat in the midst of the people.
+- fresh: And they sent and took Jeremiah from the court of the prison and gave him to Gedaliah son of Ahikam son of Shaphan, and they brought him out, and he sat in the midst of the people.
 - brenton: and they sent, and took Jeremias out of the court of the prison, and gave him in charge to Godolias the son of Achicam, the son of Saphan: and they brought him out, and he sat in the midst of the people.
 
 ### Jeremiah 46:15
@@ -179750,43 +179750,43 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And to Jeremiah the word of the Lord came in the court of the prison, saying,
+- fresh: And the word of the Lord came to Jeremiah in the court of the prison, saying,
 - brenton: And the word of the Lord came to Jeremias in the court of the prison, saying,
 
 ### Jeremiah 46:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Go and say to Ebed-melech the Ethiopian, Thus said the Lord God of Israel: Behold, I bring my words upon this city for evils and not for good.
+- fresh: Go and say to Ebed-melech the Ethiopian, Thus said the Lord God of Israel: Behold, I bring my words upon this city for evil things and not for good things.
 - brenton: Go and say to Abdemelech the Ethiopian, Thus said the Lord God of Israel; Behold, I will bring my words upon this city for evil, and not for good.
 
 ### Jeremiah 46:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will save you in that day, and I will certainly not give you into the hands of men whose face you fear from before them.
+- fresh: And I will save you in that day, and I will certainly not give you into the hands of the men whose face you fear.
 - brenton: But I will save thee in that day, and I will by no means deliver thee into the hands of the men before whom thou art afraid.
 
 ### Jeremiah 46:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because saving I will save you, and by sword you will certainly not fall, and your soul will be for gain, because you trusted on me, says the Lord.
+- fresh: Because in saving, I will save you, and by sword you will certainly not fall, and your soul will be for gain, because you trusted in me, says the Lord.
 - brenton: For I will surely save thee, and thou shalt by no means fall by the sword; and thou shalt find thy life, because thou didst trust in me, saith the Lord.
 
 ### Jeremiah 47:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Word that came from the Lord to Jeremiah later, after Nebuzaradan chief cook sent him away from Ramah, when he took him in handcuffs in the midst of exile of Judah being led to Babylon.
+- fresh: The word that came from the Lord to Jeremiah later, after Nebuzaradan the chief cook sent him away from Ramah, when he took him in handcuffs in the midst of the exile of Judah being led to Babylon.
 - brenton: The word that came from the Lord to Jeremias, after that Nabuzardan the captain of the guard had let him go out of Rama, when he had taken him in manacles in the midst of the captivity of Juda, even those who were carried to Babylon.
 
 ### Jeremiah 47:2
@@ -179795,7 +179795,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And chief cook took him and said to him, The Lord your God spoke these evils against this place.
+- fresh: And the chief cook took him and said to him, The Lord your God spoke these evils against this place.
 - brenton: And the chief captain of the guard took him, and said to him, The Lord thy God has pronounced all these evils upon this place:
 
 ### Jeremiah 47:3
@@ -179810,10 +179810,10 @@ Note:
 ### Jeremiah 47:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, I loosed you from handcuffs on your hands. If it is good before you to come with me into Babylon, come, and I will set my eyes on you.
+- fresh: Behold, I released you from the handcuffs on your hands. If it is good before you to come with me into Babylon, come, and I will set my eyes on you.
 - brenton: Behold, I have loosed thee from the manacles that were upon thine hands. If it seem good to thee to go with me to Babylon, then will I set mine eyes upon thee.
 
 ### Jeremiah 47:5
@@ -179822,7 +179822,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And if not, run back and return to Gedaliah son of Ahikam son of Shaphan, whom the king of Babylon appointed in the land of Judah, and dwell with him in the midst of the people in the land of Judah. Go wherever it is good in your eyes to go. And chief cook gave him provisions and gifts and sent him away.
+- fresh: And if not, run back and return to Gedaliah son of Ahikam son of Shaphan, whom the king of Babylon appointed in the land of Judah, and dwell with him in the midst of the people in the land of Judah. Go wherever it is good in your eyes to go. And the chief cook gave him provisions and gifts and sent him away.
 - brenton: But if not, depart; return to Godolias the son of Achicam, the son of Saphan, whom the king of Babylon has appointed governor in the land of Juda, and dwell with him in the midst of the people in the land of Juda: to whatsoever places it seems good in thine eyes to go, do thou even go. And the captain of the guard made him presents, and let him go.
 
 ### Jeremiah 47:6
@@ -179837,10 +179837,10 @@ Note:
 ### Jeremiah 47:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all the leaders of the force in the field, they and their men, heard that the king of Babylon appointed Gedaliah in the land and entrusted to him men and women, those not exiled to Babylon.
+- fresh: And all the leaders of the force in the field, they and their men, heard that the king of Babylon appointed Gedaliah in the land and entrusted to him men and their women, those not exiled to Babylon.
 - brenton: And all the leaders of the host that was in the country, they and their men, heard that the king of Babylon had appointed Godolias governor in the land, and they committed to him the men and their wives, whom Nabuchodonosor had not removed to Babylon.
 
 ### Jeremiah 47:8
@@ -179858,25 +179858,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Gedaliah swore to them and to their men, saying, Do not fear from the face of servants of Chaldeans. Dwell in the land and serve king of Babylon, and it will be better for you.
+- fresh: And Gedaliah swore to them and to their men, saying, Do not fear from the face of the servants of the Chaldeans. Dwell in the land and serve the king of Babylon, and it will be better for you.
 - brenton: And Godolias swore to them and to their men, saying, Be not afraid before the children of the Chaldeans: dwell in the land, and serve the king of Babylon, and it shall be better for you.
 
 ### Jeremiah 47:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And behold, I sit before you in Mizpah to stand before the face of Chaldeans who may come upon you. And you gather wine and fruit and oil and put into your vessels and dwell in cities which you seized.
+- fresh: And behold, I sit before you in Mizpah, to stand before the face of the Chaldeans who may come upon you. And you gather wine and summer fruit and oil and put them into your vessels and dwell in the cities which you seized.
 - brenton: And, behold, I dwell in your presence at Massepha, to stand before the Chaldeans who shall come against you: and do ye gather grapes, and fruits, and oil, and put them into your vessels, and dwell in the cities which ye have obtained possession of.
 
 ### Jeremiah 47:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And all Judeans in the land of Moab and among sons of Ammon and in Edom and in all the land heard that the king of Babylon gave remnant to Judah and appointed over them Gedaliah son of Ahikam.
+- fresh: And all the Judeans in the land of Moab and among the sons of Ammon and in Edom and in all the land heard that the king of Babylon gave a remnant to Judah and appointed over them Gedaliah son of Ahikam.
 - brenton: And all the Jews that were in Moab, and among the children of Ammon, and those that were in Idumea, and those that were in all the rest of the country, heard that the king of Babylon had granted a remnant to Juda, and that he had appointed over them Godolias the son of Achicam.
 
 ### Jeremiah 47:12
@@ -179885,7 +179885,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they came to Gedaliah into the land of Judah, to Mizpah, and gathered wine and very much fruit and oil.
+- fresh: And they came to Gedaliah into the land of Judah, to Mizpah, and gathered wine and very much summer fruit and oil.
 - brenton: And they came to Godolias into the land of Juda, to Massepha, and gathered grapes, and very much summer fruit, and oil.
 
 ### Jeremiah 47:13
@@ -179894,16 +179894,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Johanan son of Kareah and all leaders of force in fields came to Gedaliah at Mizpah
+- fresh: And Johanan son of Kareah and all the leaders of the force in the fields came to Gedaliah at Mizpah
 - brenton: And Joanan the son of Caree, and all the leaders of the host, who were in the fields, came to Godolias to Massepha,
 
 ### Jeremiah 47:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: and said to him, In knowing do you know that Baalis king of sons of Ammon sent Ishmael to strike your soul? And Gedaliah did not believe them.
+- fresh: and said to him, In knowledge do you know that Baalis king of the sons of Ammon sent Ishmael to strike your soul? And Gedaliah did not believe them.
 - brenton: and said to him, Dost thou indeed know that king Beleissa son of Ammon has sent Ismael to thee to slay thee? But Godolias believed them not.
 
 ### Jeremiah 47:15
@@ -179921,16 +179921,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Gedaliah said to Johanan, Do not do this thing, because you speak lies concerning Ishmael.
+- fresh: And Gedaliah said to Johanan, Do not do this thing, because you are speaking lies concerning Ishmael.
 - brenton: But Godolias said to Joanan, Do not the thing, for thou speakest lies concerning Ismael.
 
 ### Jeremiah 48:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it happened in seventh month Ishmael son of Nethaniah son of Eleasah, from the seed of the king, and ten men with him came to Gedaliah at Mizpah, and they ate bread there together.
+- fresh: And it happened in the seventh month, Ishmael son of Nethaniah son of Elasa, from the seed of the king, and ten men with him came to Gedaliah at Mizpah, and they ate bread there together.
 - brenton: Now it came to pass in the seventh month that Ismael the son of Nathanias the son of Eleasa of the seed royal, came, and ten men with him, to Godolias to Massepha: and they ate bread there together.
 
 ### Jeremiah 48:2
@@ -179939,7 +179939,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ishmael rose up, and the ten men with him, and struck Gedaliah whom king of Babylon had appointed over the land.
+- fresh: And Ishmael rose up, and the ten men who were with him, and struck Gedaliah whom the king of Babylon had appointed over the land.
 - brenton: And Ismael rose up, and the ten men that were with him, and smote Godolias, whom the king of Babylon had appointed governor over the land,
 
 ### Jeremiah 48:3
@@ -179948,7 +179948,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all Judeans who were with him in Mizpah, and all Chaldeans found there.
+- fresh: and all the Judeans who were with him in Mizpah, and all the Chaldeans found there.
 - brenton: and all the Jews that were with him in Massepha, and all the Chaldeans that were found there.
 
 ### Jeremiah 48:4
@@ -179957,16 +179957,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened on second day after he struck Gedaliah, and no man knew,
+- fresh: And it happened on the second day after he struck Gedaliah, and no man knew,
 - brenton: And it came to pass on the second day after he had smitten Godolias, and no man knew of it,
 
 ### Jeremiah 48:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: that men came from Shechem and from Shalem and from Samaria, eighty men with beards shaved and garments torn and cutting themselves, and manna and frankincense in their hands to bring into the house of the Lord.
+- fresh: that men came from Shechem and from Shalem and from Samaria, eighty men with beards shaved, garments torn, and cutting themselves, with manna and frankincense in their hands to bring into the house of the Lord.
 - brenton: that there came men from Sychem, and from Salem, and from Samaria, even eighty men, having their beards shaven, and their clothes rent, and beating their breasts, and they had manna and frankincense in their hands, to bring them into the house of the Lord.
 
 ### Jeremiah 48:6
@@ -179975,16 +179975,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ishmael went out to meet them. They went and wept, and he said to them, Enter to Gedaliah.
+- fresh: And Ishmael went out to meet them. They were going and weeping, and he said to them, Enter to Gedaliah.
 - brenton: And Ismael went out to meet them; and they went on and wept: and he said to them, Come in to Godolias.
 
 ### Jeremiah 48:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened when they entered into the midst of the city, he slaughtered them into pit.
+- fresh: And it happened when they entered into the midst of the city, he slaughtered them into the pit.
 - brenton: And it came to pass, when they had entered into the midst of the city, that he slew them and cast them into a pit.
 
 ### Jeremiah 48:8
@@ -179993,25 +179993,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And ten men were found there, and they said to Ishmael, Do not kill us, because treasures are ours in the field: wheat and barley, honey and oil. And he passed by and did not kill them in the midst of their brothers.
+- fresh: And ten men were found there, and they said to Ishmael, Do not kill us, because we have treasures in the field: wheat and barley, honey and oil. And he passed by and did not kill them in the midst of their brothers.
 - brenton: But ten men were found there, and they said to Ismael, Slay us not: for we have treasures in the field, wheat and barley, honey and oil. So he passed by, and slew them not in the midst of their brethren.
 
 ### Jeremiah 48:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And pit into which Ishmael threw all whom he struck, this great pit is that which King Asa made against Baasha king of Israel. Ishmael filled it with wounded men.
+- fresh: And the pit into which Ishmael threw all whom he struck was the great pit which King Asa made because of Baasha king of Israel. Ishmael filled it with wounded men.
 - brenton: Now the pit into which Ismael cast all whom he smote, is the great pit, which king Asa had made for fear of Baasa king of Israel: even this Ismael filled with slain men.
 
 ### Jeremiah 48:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And Ishmael carried off all the people left in Mizpah, and daughters of the king whom chief cook entrusted to Gedaliah son of Ahikam, and he went to beyond sons of Ammon.
+- fresh: And Ishmael carried off all the people left in Mizpah, and the daughters of the king whom the chief cook entrusted to Gedaliah son of Ahikam, and he went away beyond the sons of Ammon.
 - brenton: And Ismael brought back all the people that were left in Massepha, and the king's daughter, whom the captain of the guard had committed in charge to Godolias the son of Achicam: and he went away beyond the children of Ammon.
 
 ### Jeremiah 48:11
@@ -180020,16 +180020,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Johanan son of Kareah and all leaders of force with him heard all evils which Ishmael did.
+- fresh: And Johanan son of Kareah and all the leaders of the force with him heard all the evils which Ishmael had done.
 - brenton: And Joanan the son of Careë, and all the leaders of the host that were with him, heard of all the evil deeds which Ismael had done.
 
 ### Jeremiah 48:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they took all their army and went to fight him and found him by much water in Gibeon.
+- fresh: And they brought all their camp and went to fight him and found him by the great water in Gibeon.
 - brenton: And they brought all their army, and went to fight against him, and found him near much water in Gabaon.
 
 ### Jeremiah 48:13
@@ -180038,7 +180038,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened when all the people with Ishmael saw Johanan and leaders of force with him,
+- fresh: And it happened when all the people with Ishmael saw Johanan and the leaders of the force with him,
 - brenton: And it came to pass, when all the people that was with Ismael saw Joanan, and the leaders of the host that was with him,
 
 ### Jeremiah 48:14
@@ -180062,28 +180062,28 @@ Note:
 ### Jeremiah 48:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Johanan and all leaders of force with him took all remnant of the people whom he turned back from Ishmael, mighty men in war and women and rest and eunuchs whom he turned back from Gibeon.
+- fresh: And Johanan and all the leaders of the force with him took all the remnant of the people whom he turned back from Ishmael: mighty men in war, the women, the rest, and the eunuchs whom he turned back from Gibeon.
 - brenton: And Joanan, and all the leaders of the host that were with him, took all the remnant of the people, whom he had brought back from Ismael, mighty men in war, and the women, and the other property, and the eunuchs, whom they had brought back from Gabaon:
 
 ### Jeremiah 48:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they went and sat in Gaberoth-chamaam near Bethlehem, to go and enter Egypt
+- fresh: And they went and sat in Gaberoth-chamaam near Bethlehem, to go enter Egypt
 - brenton: and they departed, and dwelt in Gaberoch-amaa, that is by Bethleem, to go into Egypt, for fear of the Chaldeans:
 
 ### Jeremiah 48:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: from the face of Chaldeans, because they feared from the face of them, because Ishmael struck Gedaliah whom the king of Babylon appointed in the land.
+- fresh: from before the Chaldeans, because they feared before their face, because Ishmael struck Gedaliah whom the king of Babylon appointed in the land.
 - brenton: for they were afraid of them, because Ismael had smitten Godolias, whom the king of Babylon made governor in the land.
 
 ### Jeremiah 49:1
@@ -180092,25 +180092,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all the leaders of the force approached, and Johanan and Azariah son of Maaseiah and all the people from small to great,
+- fresh: And all the leaders of the force came near, and Johanan and Azariah son of Maaseiah and all the people from small to great,
 - brenton: Then came all the leaders of the host, and Joanan, and Azarias the son of Maasæas, and all the people great and small,
 
 ### Jeremiah 49:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: to Jeremiah the prophet, and said to him, Let now our mercy fall before your face, and pray to the Lord your God concerning these remnants, because we were left few from many, as your eyes see us.
+- fresh: to Jeremiah the prophet and said to him, Let our plea for mercy now fall before your face, and pray to the Lord your God concerning these remnants, because we have been left few from many, as your eyes see.
 - brenton: to Jeremias the prophet, and said to him, Let now our supplication come before thy face, and pray thou to the Lord thy God for this remnant; for we are left few out of many, as thine eyes see.
 
 ### Jeremiah 49:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And let the Lord your God announce to us the way in which we will go and word which we will do.
+- fresh: And let the Lord your God announce to us the way in which we should go and the word which we should do.
 - brenton: And let the Lord thy God declare to us the way wherein we should walk, and the thing which we should do.
 
 ### Jeremiah 49:4
@@ -180119,25 +180119,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah said to them, I heard. Behold, I will pray to the Lord our God according to your words, and word which the Lord answers I will announce to you. I will not hide word from you.
+- fresh: And Jeremiah said to them, I have heard. Behold, I will pray to the Lord our God according to your words, and whatever word the Lord answers, I will announce to you. I will certainly not hide a word from you.
 - brenton: And Jeremias said to them, I have heard you; behold, I will pray for you to the Lord our God, according to your words; and it shall come to pass, that whatsoever word the Lord God shall answer, I will declare it to you; I will not hide anything from you.
 
 ### Jeremiah 49:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they said to Jeremiah, Let the Lord be in us as righteous and faithful witness if according to all word which the Lord sends you to us we do not do so.
+- fresh: And they said to Jeremiah, Let the Lord be among us as a righteous and faithful witness if we do not do so according to every word which the Lord sends you to us.
 - brenton: And they said to Jeremias, Let the Lord be between us for a just and faithful witness, if we do not according to every word which the Lord shall send to us.
 
 ### Jeremiah 49:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Whether good or evil, the voice of the Lord our God, whom we send you to him, we will hear, so that it may be better for us because we will hear the voice of the Lord our God.
+- fresh: Whether good or evil, the voice of the Lord our God, to whom we are sending you, we will hear, so that it may be better for us, because we will hear the voice of the Lord our God.
 - brenton: And whether it be good, or whether it be evil, we will hearken to the voice of the Lord our God, to whom we send thee; that it may be well with us, because we shall hearken to the voice of the Lord our God.
 
 ### Jeremiah 49:7
@@ -180146,7 +180146,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened after ten days, the word of the Lord came to Jeremiah.
+- fresh: And it happened after ten days, that the word of the Lord came to Jeremiah.
 - brenton: And it came to pass after ten days, that the word of the Lord came to Jeremias.
 
 ### Jeremiah 49:8
@@ -180155,7 +180155,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he called Johanan and leaders of force and all the people from small to great,
+- fresh: And he called Johanan and the leaders of the force and all the people from small to great,
 - brenton: And he called Joanan, and the leaders of the host, and all the people from the least even to the greatest,
 
 ### Jeremiah 49:9
@@ -180170,26 +180170,26 @@ Note:
 ### Jeremiah 49:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: If in settling you settle in this land, I will build you and never tear down, and plant you and never pull up, because I have rested from evils which I did to you.
+- fresh: If in settling you settle in this land, I will build you and certainly not tear down, and I will plant you and certainly not pull up, because I have ceased from the evils which I did to you.
 - brenton: If ye will indeed dwell in this land, I will build you, and will not pull you down, but will plant you, and in no wise pluck you up: for I have ceased from the calamities which I brought upon you.
 
 ### Jeremiah 49:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Do not fear from the face of the king of Babylon, whom you fear from the face of him. Do not fear, says the Lord, because I am with you to rescue you and save you from his hand.
+- fresh: Do not fear before the face of the king of Babylon, whom you fear before his face. Do not fear, says the Lord, because I am with you to rescue you and save you from his hand.
 - brenton: Be not afraid of the king of Babylon, of whom ye are afraid; be not afraid of him, saith the Lord: for I am with you, to deliver you, and save you out of their hand.
 
 ### Jeremiah 49:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And I will give you mercy and have mercy on you and restore you to your land.
 - brenton: And I will grant you mercy, and pity you, and will restore you to your land.
@@ -180215,7 +180215,7 @@ Note:
 ### Jeremiah 49:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: therefore hear the word of the Lord. Thus said the Lord: If you set your face toward Egypt and enter there to dwell,
@@ -180224,10 +180224,10 @@ Note:
 ### Jeremiah 49:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: then sword which you fear from the face of it will find you in the land of Egypt, and famine about which you have concern will overtake you behind you in Egypt, and there you will die.
+- fresh: then the sword which you fear before its face will find you in the land of Egypt, and the famine about which you have concern will overtake you behind you in Egypt, and there you will die.
 - brenton: If ye set your face toward Egypt, and go in there to dwell; then it shall be, that the sword which ye fear shall find you in the land of Egypt, and the famine to which ye have regard, shall overtake you, coming after you in Egypt; and there ye shall die.
 
 ### Jeremiah 49:17
@@ -180236,34 +180236,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all men and all foreigners who set their face toward the land of Egypt to dwell there will fail by sword and by famine. There will not be among them one saved from evils which I bring on them.
+- fresh: And all the men and all the foreigners who set their face toward the land of Egypt to dwell there will fail by the sword and by the famine. There will not be one of them saved from the evils which I bring on them.
 - brenton: And all the men, and all the strangers who have set their face toward the land of Egypt to dwell there, shall be consumed by the sword, and by the famine: and there shall not one of them escape from the evils which I bring upon them.
 
 ### Jeremiah 49:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 3
 - same_normalized: no
-- fresh: Because thus said the Lord: As my wrath dripped upon dwellers of Jerusalem, so my wrath will drip on you when you enter Egypt, and you will be for trackless waste and underhand and for curse and for reproach, and you will not see this place again.
+- fresh: Because thus said the Lord: As my wrath dripped upon the dwellers of Jerusalem, so my wrath will drip on you when you enter Egypt, and you will become trackless waste and subject people, and for a curse and for reproach, and you will not see this place again.
 - brenton: For thus saith the Lord; As my wrath has dropped upon the inhabitants of Jerusalem, so shall my wrath drop upon you, when ye have entered into Egypt: and ye shall be a desolation, and under the power of others, and a curse and a reproach: and ye shall no more see this place.
 
 ### Jeremiah 49:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: What the Lord spoke against you, remnants of Judah: Do not enter Egypt, and now in knowing you will know,
+- fresh: The Lord has spoken these things against you, remnants of Judah: Do not enter Egypt. And now in knowing, you will know,
 - brenton: These are the words which the Lord has spoken concerning you the remnant of Juda; Enter ye not into Egypt: and now know ye for a certainty,
 
 ### Jeremiah 49:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: because you did evil in your souls, sending me, saying, Pray concerning us to the Lord, and according to all the Lord says to you we will do.
+- fresh: because you acted wickedly in your souls when you sent me, saying, Pray concerning us to the Lord, and according to everything the Lord speaks to you, we will do.
 - brenton: that ye have wrought wickedness in your hearts, when ye sent me, saying, Pray thou for us to the Lord; and according to all that the Lord shall speak to thee we will do.
 
 ### Jeremiah 49:21
@@ -180272,7 +180272,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you did not hear the voice of the Lord, by which he sent me to you.
+- fresh: And you did not hear the voice of the Lord, with which he sent me to you.
 - brenton: And ye have not hearkened to the voice of the Lord, with which he sent me to you.
 
 ### Jeremiah 49:22
@@ -180281,34 +180281,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And now by sword and by famine you will fail in place where you want to enter to dwell there.
+- fresh: And now by sword and by famine you will fail in the place where you want to enter and dwell there.
 - brenton: Now therefore ye shall perish by sword and by famine, in the place which ye desire to go into to dwell there.
 
 ### Jeremiah 50:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened as Jeremiah ceased speaking to people all the words of the Lord, which the Lord sent him to them, all these words,
+- fresh: And it happened when Jeremiah ceased speaking to the people all the words of the Lord, all these words with which the Lord had sent him to them,
 - brenton: And it came to pass, when Jeremias ceased speaking to the people all the words of the Lord, for which the Lord had sent him to them, even all these words,
 
 ### Jeremiah 50:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Azariah son of Maaseiah and Johanan son of Kareah and all men said to Jeremiah, saying, Lies. The Lord did not send you to us, saying, Do not enter Egypt to dwell there.
+- fresh: Azariah son of Maaseiah and Johanan son of Kareah and all the men said to Jeremiah, You are speaking lies. The Lord did not send you to us, saying, Do not enter Egypt to dwell there.
 - brenton: that Azarias son of Maasæas spoke, and Joanan, the son of Careë, and all the men who had spoken to Jeremias, saying, It is false: the Lord has not sent thee to us, saying, Enter not into Egypt to dwell there:
 
 ### Jeremiah 50:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But Baruch son of Neriah conspires against us, so as to give us into the hands of Chaldeans, to kill us and exile us to Babylon.
+- fresh: But Baruch son of Neriah is setting you against us, so as to give us into the hands of the Chaldeans, to put us to death and deport us to Babylon.
 - brenton: but Baruch the son of Nerias sets thee against us, that thou mayest deliver us into the hands of the Chaldeans, to kill us, and that we should be carried away captives to Babylon.
 
 ### Jeremiah 50:4
@@ -180317,25 +180317,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Johanan and all leaders of force and all the people did not hear the voice of the Lord, to dwell in the land of Judah.
+- fresh: And Johanan and all the leaders of the force and all the people did not hear the voice of the Lord, to dwell in the land of Judah.
 - brenton: So Joanan, and all the leaders of the host, and all the people, refused to hearken to the voice of the Lord, to dwell in the land of Juda.
 
 ### Jeremiah 50:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Johanan and all leaders of force took all remnants of Judah who returned to dwell in the land,
+- fresh: And Johanan and all the leaders of the force took all the remnant of Judah who had returned to dwell in the land,
 - brenton: And Joanan, and all the leaders of the host, took all the remnant of Juda, who had returned to dwell in the land;
 
 ### Jeremiah 50:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: mighty men and women and infants and daughters of the king and souls whom Nebuzaradan left with Gedaliah son of Ahikam, and Jeremiah the prophet and Baruch son of Neriah,
+- fresh: the mighty men, the women, the infants, the daughters of the king, and the souls whom Nebuzaradan had left with Gedaliah son of Ahikam, and Jeremiah the prophet and Baruch son of Neriah,
 - brenton: the mighty men, and the women, and the children that were left, and the daughters of the king, and the souls which Nabuzardan had left with Godolias the son of Achicam, and Jeremias the prophet, and Baruch the son of Nerias.
 
 ### Jeremiah 50:7
@@ -180359,64 +180359,64 @@ Note:
 ### Jeremiah 50:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Take for yourself great stones and hide them in entrance by the gate of the house of Pharaoh in Tahpanhes, before the eyes of men of Judah.
+- fresh: Take great stones for yourself and hide them in the forecourt at the gate of the house of Pharaoh in Tahpanhes, before the eyes of the men of Judah.
 - brenton: Take thee great stones, and hide them in the entrance, at the gate of the house of Pharao in Taphnas, in the sight of the men of Juda:
 
 ### Jeremiah 50:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will say, Thus said the Lord: Behold, I send and will bring Nebuchadnezzar king of Babylon and he will set his throne upon these stones which you hid, and will lift his weapons over them.
+- fresh: And you will say, Thus said the Lord: Behold, I send and will bring Nebuchadnezzar king of Babylon, and he will set his throne above these stones which you hid and will raise his weapons over them.
 - brenton: and thou shalt say, Thus has the Lord said; Behold, I will send, and will bring Nabuchodonosor king of Babylon, and he shall place his throne upon these stones which thou hast hidden, and he shall lift up weapons against them.
 
 ### Jeremiah 50:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he will enter and strike the land of Egypt: those for death to death, and those for exile to exile, and those for sword to sword.
+- fresh: And he will enter and strike the land of Egypt: those for death, to death; those for exile, to exile; and those for sword, to sword.
 - brenton: And he shall enter in, and smite the land of Egypt, delivering some for death to death; and some for captivity to captivity; and some for the sword to the sword.
 
 ### Jeremiah 50:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he will burn fire in the houses of their gods and burn them and carry them away, and destroy the land of Egypt as a shepherd destroys his garment, and he will go out in peace.
+- fresh: And he will burn a fire in the houses of their gods, burn them, and carry them away, and he will delouse the land of Egypt as a shepherd delouses his garment, and he will go out in peace.
 - brenton: And he shall kindle a fire in the houses of their gods, and shall burn them, and shall carry them away captives: and shall search the land of Egypt, as a shepherd searches his garment; and he shall go forth in peace.
 
 ### Jeremiah 50:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he will shatter pillars of Heliopolis which are in On, and their houses he will burn with fire.
+- fresh: And he will shatter the pillars of Sun-city, those in On, and their houses he will burn with fire.
 - brenton: And he shall break to pieces the pillars of Heliopolis that are in On, and shall burn their houses with fire.
 
 ### Jeremiah 51:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Word that came to Jeremiah to all Judeans dwelling in the land of Egypt and to those sitting in Migdol and in Tahpanhes and in the land of Pathros, saying,
+- fresh: The word that came to Jeremiah for all the Judeans dwelling in the land of Egypt, and for those sitting in Migdol and in Tahpanhes and in the land of Pathros, saying,
 - brenton: The Word that came to Jeremias for all the Jews dwelling in the land of Egypt, and for those settled in Magdolo and in Taphnas, and in the land of Pathura, saying,
 
 ### Jeremiah 51:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus said the Lord God of Israel: You saw all evils which I brought upon Jerusalem and upon the cities of Judah, and behold, they are desolate from dwellers,
+- fresh: Thus said the Lord God of Israel: You have seen all the evils which I brought upon Jerusalem and upon the cities of Judah, and behold, they are desolate, without dwellers,
 - brenton: Thus has the Lord God of Israel said; Ye have seen all the evils which I have brought upon Jerusalem, and upon the cities of Juda; and, behold, they are desolate without inhabitants,
 
 ### Jeremiah 51:3
@@ -180425,16 +180425,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because of their evils which they did to provoke me, going to burn incense to other gods whom you did not know.
+- fresh: because of their evil things which they did to provoke me by going to burn incense to other gods whom you did not know.
 - brenton: because of their wickedness, which they have wrought to provoke me, by going to burn incense to other gods, whom ye knew not.
 
 ### Jeremiah 51:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I sent to you my servants the prophets early and sent, saying, Do not do deed of this pollution which I hated.
+- fresh: And I sent to you my servants the prophets, rising early and sending, saying, Do not do the deed of this pollution which I hated.
 - brenton: Yet I sent to you my servants the prophets early in the morning, and I sent, saying, Do not ye this abominable thing which I hate.
 
 ### Jeremiah 51:5
@@ -180443,25 +180443,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they did not hear me and did not incline ear to turn back from their evils, so as not to burn incense to other gods.
+- fresh: And they did not hear me and did not incline their ear to turn back from their evils, so as not to burn incense to other gods.
 - brenton: But they hearkened not to me, and inclined not their ear to turn from their wickedness, so as not to burn incense to strange gods.
 
 ### Jeremiah 51:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And my wrath and my anger dripped and burned in the cities of Judah and outside Jerusalem, and they became for desolation and for trackless waste as this day.
+- fresh: And my wrath and my anger dripped and burned in the cities of Judah and outside Jerusalem, and they became desolation and trackless waste, as on this day.
 - brenton: So mine anger and my wrath dropped upon them, and was kindled in the gates of Juda, and in the streets of Jerusalem; and they became a desolation and a waste, as at this day.
 
 ### Jeremiah 51:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And now thus said the Lord Almighty: Why do you do great evils against your souls, to cut off from you man and woman, infant and nursing child from the midst of Judah, so that none be left to you,
+- fresh: And now thus said the Lord Almighty: Why are you doing great evils against your souls, to cut off from you man and woman, infant and nursing child from the midst of Judah, so that no one be left to you,
 - brenton: And now thus has the Lord Almighty said, Wherefore do ye commit these great evils against your souls? to cut off man and woman of you, infant and suckling from the midst of Juda, to the end that not one of you should be left;
 
 ### Jeremiah 51:8
@@ -180470,31 +180470,31 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: provoking me by the works of your hands, burning incense to other gods in the land of Egypt into which you entered to dwell there, so that you may be cut off and become for curse and reproach among all nations of the earth?
+- fresh: provoking me by the works of your hands, burning incense to other gods in the land of Egypt into which you entered to dwell there, so that you may be cut off and become a curse and a reproach among all the nations of the earth?
 - brenton: by provoking me with the works of your hands, to burn incense to other gods in the land of Egypt, into which ye entered to dwell there, that ye might be cut off, and that ye might become a curse and a reproach among all the nations of the earth?
 
 ### Jeremiah 51:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Have you not forgotten evils of your fathers and evils of kings of Judah and evils of your rulers and evils of your women, which they did in the land of Judah and outside Jerusalem?
+- fresh: Have you forgotten the evils of your fathers and the evils of the kings of Judah and the evils of your rulers and the evils of your women, which they did in the land of Judah and outside Jerusalem?
 - brenton: Have ye forgotten the sins of your fathers, and the sins of the kings of Juda, and the sins of your princes, and the sins of your wives, which they wrought in the land of Juda, and in the streets of Jerusalem?
 
 ### Jeremiah 51:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they did not cease until this day and did not endure my ordinances which I gave before the face of their fathers.
+- fresh: And they did not cease until this day and did not hold fast to my ordinances which I gave before the face of their fathers.
 - brenton: And have not ceased even to this day, and they have not kept to my ordinances, which I set before their fathers.
 
 ### Jeremiah 51:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus said the Lord: Behold, I set my face
@@ -180506,7 +180506,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: to destroy all remnants in Egypt, and they will fall by sword and by famine. They will fail from small to great, and they will be for reproach and destruction and curse.
+- fresh: to destroy all the remnant in Egypt, and they will fall by sword and by famine. They will fail from small to great, and they will be for reproach and destruction and curse.
 - brenton: to destroy all the remnant that are in Egypt; and they shall fall by the sword, and by famine, and shall be consumed small and great: and they shall be for reproach, and for destruction, and for a curse.
 
 ### Jeremiah 51:13
@@ -180521,37 +180521,37 @@ Note:
 ### Jeremiah 51:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And there will not be anyone saved of remnants of Judah sojourning in the land of Egypt to return into the land of Judah, upon which they hope in their souls to return there. They will certainly not return, except rescued ones.
+- fresh: And there will not be anyone saved among the remnant of Judah sojourning in the land of Egypt, to return to the land of Judah on which they hope in their souls to return there. They will certainly not return, except escaped ones.
 - brenton: and there shall not one be preserved of the remnant of Juda that sojourn in the land of Egypt, to return to the land of Juda, to which they hope in their hearts to return: they shall not return, but only they that escape.
 
 ### Jeremiah 51:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all men knowing that their wives burn incense to other gods answered Jeremiah, and all women, great assembly, and all the people dwelling in the land of Egypt in Pathros, saying,
+- fresh: And all the men who knew that their wives were burning incense to other gods answered Jeremiah, and all the women, a great assembly, and all the people dwelling in the land of Egypt in Pathros, saying,
 - brenton: Then all the men that knew that their wives burned incense, and all the women, a great multitude, and all the people that dwelt in the land of Egypt, in Pathura, answered Jeremias, saying,
 
 ### Jeremiah 51:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Word which you spoke to us in the name of the Lord, we will not hear from you.
+- fresh: The word which you spoke to us in the name of the Lord, we will not listen to you.
 - brenton: As for the word which thou hast spoken to us in the name of the Lord, we will not hearken to thee.
 
 ### Jeremiah 51:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Because in doing we will do every word which goes out from our mouth, to burn incense to the queen of heaven and pour libations to her, just as we and our fathers and our kings and our rulers did in the cities of Judah and outside Jerusalem, and we were filled with bread and became good and saw no evils.
+- fresh: Because in doing, we will do every word which goes out from our mouth: to burn incense to the queen of heaven and pour libations to her, just as we and our fathers and our kings and our rulers did in the cities of Judah and outside Jerusalem, and we were filled with bread and were well off and saw no evils.
 - brenton: For we will surely perform every word that shall proceed out of our mouth, to burn incense to the queen of heaven, and to pour drink-offerings to her, as we and our fathers have done, and our kings and princes, in the cities of Juda, and in the streets of Jerusalem: and so we were filled with bread, and were well, and saw no evils.
 
 ### Jeremiah 51:18
@@ -180560,16 +180560,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And when we stopped burning incense to the queen of heaven, we were all diminished and failed by sword and famine.
+- fresh: And when we stopped burning incense to the queen of heaven, we were all diminished and failed by sword and by famine.
 - brenton: But since we left off to burn incense to the queen of heaven, we have all been brought low, and have been consumed by sword and by famine.
 
 ### Jeremiah 51:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And because we burn incense to the queen of heaven and pour libations to her, did we make cakes for her and pour libations to her without our husbands?
+- fresh: And when we burn incense to the queen of heaven and pour libations to her, was it without our husbands that we made cakes for her and poured libations to her?
 - brenton: And whereas we burned incense to the queen of heaven, and poured drink-offerings to her, did we make cakes to her, and pour drink-offerings to her, without our husbands?
 
 ### Jeremiah 51:20
@@ -180578,25 +180578,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah said to all the people and to men and to women and to all the people answering him words, saying,
+- fresh: And Jeremiah said to all the people, to the mighty men and to the women and to all the people who answered him words, saying,
 - brenton: Then Jeremias answered all the people, the mighty men, and the women, and all the people that returned him these words for answer, saying,
 
 ### Jeremiah 51:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Was it not incense which you burned in the cities of Judah and outside Jerusalem, you and your fathers and your kings and your rulers and people of the land, that the Lord remembered and it rose upon his heart?
+- fresh: Was it not the incense which you burned in the cities of Judah and outside Jerusalem, you and your fathers and your kings and your rulers and the people of the land, that the Lord remembered, and did it not rise upon his heart?
 - brenton: Did not the Lord remember the incense which ye burned in the cities of Juda, and in the streets of Jerusalem, ye, and your fathers, and your kings, and your princes, and the people of the land? and came it not into his heart?
 
 ### Jeremiah 51:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord was no longer able to bear from the face of evil of your deeds, from abominations which you did, and your land became for desolation and for trackless waste and for curse as in this day,
+- fresh: And the Lord was no longer able to bear because of the evil of your deeds, because of the abominations which you did, and your land became desolation and trackless waste and a curse, as on this day,
 - brenton: And the Lord could no longer bear you, because of the wickedness of your doings, and because of your abominations which ye wrought; and so your land became a desolation and a waste, and a curse, as at this day;
 
 ### Jeremiah 51:23
@@ -180614,43 +180614,43 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Jeremiah said to people and to women, Hear the word of the Lord.
+- fresh: And Jeremiah said to the people and to the women, Hear the word of the Lord.
 - brenton: And Jeremias said to the people, and to the women, Hear ye the word of the Lord.
 
 ### Jeremiah 51:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus said the Lord God of Israel: You women spoke with your mouth and fulfilled with your hands, saying, In doing we will do our vows which we vowed, to burn incense to the queen of heaven and pour libations to her. In abiding you abided in your vows and in doing you did them.
+- fresh: Thus said the Lord God of Israel: You women spoke with your mouth and fulfilled with your hands, saying, In doing we will do our vows which we vowed, to burn incense to the queen of heaven and pour libations to her. In abiding, you abided in your vows, and in doing, you did them.
 - brenton: Thus has the Lord God of Israel said; Ye women have spoken with your mouth, and ye fulfilled it with your hands, saying, We will surely perform our vows that we have vowed, to burn incense to the queen of heaven, and to pour drink-offerings to her: full well did ye keep to your vows, and ye have indeed performed them.
 
 ### Jeremiah 51:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore hear the word of the Lord, all Judah dwelling in the land of Egypt. Behold, I swore by my great name, said the Lord, if my name still becomes in the mouth of any Judah to say, As the Lord lives, Lord, in all the land of Egypt.
+- fresh: Therefore hear the word of the Lord, all Judah dwelling in the land of Egypt. Behold, I swore by my great name, said the Lord, that my name shall certainly no longer be in the mouth of any Judah in all the land of Egypt, to say, As the Lord lives, Lord.
 - brenton: Therefore hear ye the word of the Lord, all Jews dwelling in the land of Egypt; Behold, I have sworn by my great name, saith the Lord, my name shall no longer be in the mouth of every Jew to say, The Lord lives, in all the land of Egypt.
 
 ### Jeremiah 51:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because behold, I watched over them to do them evil and not good, and all Judah dwelling in the land of Egypt will fail by sword and famine until they disappear.
+- fresh: Because behold, I watched over them for evil and not for good, and all Judah dwelling in the land of Egypt will fail by sword and by famine until they disappear.
 - brenton: For I have watched over them, to hurt them, and not to do them good: and all the Jews dwelling in the land of Egypt shall perish by sword and by famine, until they are utterly consumed.
 
 ### Jeremiah 51:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And those saved from swords will return to the land of Judah, few in number, and remnants of Judah who went into the land of Egypt to dwell there will know whose word stands.
+- fresh: And those saved from the sword will return to the land of Judah, few in number, and the remnant of Judah who settled in the land of Egypt to dwell there will know whose word stands.
 - brenton: And they that escape the sword shall return to the land of Juda few in number, and the remnant of Juda, who have continued in the land of Egypt to dwell there, shall know whose word shall stand.
 
 ### Jeremiah 51:29
@@ -180659,25 +180659,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And this to you is sign that I will visit you for evils.
+- fresh: And this will be the sign to you that I will visit upon you for evil things.
 - brenton: And this shall be a sign to you, that I will visit you for evil.
 
 ### Jeremiah 51:30
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus said the Lord: Behold, I give Hophra king of Egypt into the hands of his enemy and into the hands of ones seeking his soul, just as I gave Zedekiah king of Judah into the hands of Nebuchadnezzar king of Babylon, his enemy and one seeking his soul.
+- fresh: Thus said the Lord: Behold, I give Hophra king of Egypt into the hands of his enemy and into the hands of those seeking his soul, just as I gave Zedekiah king of Judah into the hands of Nebuchadnezzar king of Babylon, his enemy and one seeking his soul.
 - brenton: Thus said the Lord; Behold, I will give Uaphres king of Egypt into the hands of his enemy, and into the hands of one that seeks his life; as I gave Sedekias king of Juda into the hands of Nabuchodonosor king of Babylon, his enemy, and who sought his life.
 
 ### Jeremiah 51:31
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Word which Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words in scroll from the mouth of Jeremiah, in the fourth year of Jehoiakim son of Josiah king of Judah.
+- fresh: The word which Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words in the scroll from the mouth of Jeremiah, in the fourth year of Jehoiakim son of Josiah king of Judah.
 - brenton: The Word which Jeremias the Prophet spoke to Baruch son of Nerias, when he wrote these words in the book from the mouth of Jeremias, in the fourth year of Joakim the son of Josias king of Juda.
 
 ### Jeremiah 51:32
@@ -180692,46 +180692,46 @@ Note:
 ### Jeremiah 51:33
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because you said, Woe, woe, because the Lord added toil upon toil to me. I slept in groanings and found no rest.
+- fresh: Because you said, Alas, alas, because the Lord added toil upon pain to me. I slept in groanings and found no rest.
 - brenton: Whereas thou hast said, Alas! alas! for the Lord has laid a grievous trouble upon me; I lay down in groaning, I found no rest;
 
 ### Jeremiah 51:34
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Say to him, Thus said the Lord: Behold, what I built I tear down, and what I planted I pull up.
+- fresh: Say to him, Thus said the Lord: Behold, what I built, I tear down, and what I planted, I pull up.
 - brenton: say thou to him, Thus saith the Lord; Behold, I pull down those whom I have built up, and I pluck up those whom I have planted.
 
 ### Jeremiah 51:35
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And do you seek great things for yourself? Do not seek, because behold, I bring evils upon all flesh, says the Lord, and I will give your soul for gain in every place where you go.
+- fresh: And do you seek great things for yourself? Do not seek, because behold, I bring evil things upon all flesh, says the Lord, and I will give your soul for gain in every place where you go there.
 - brenton: And wilt thou seek great things for thyself? seek them not: for, behold, I bring evil upon all flesh, saith the Lord: but I will give to thee thy life for a spoil in every place whither thou shalt go.
 
 ### Jeremiah 52:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Zedekiah was twenty-one years old when he reigned, and he reigned eleven years in Jerusalem, and the name of his mother was Hamutal daughter of Jeremiah from Libnah.
+- fresh: Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem, and the name of his mother was Hamutal daughter of Jeremiah from Libnah.
 - brenton: It was the twenty-first year of Sedekias, when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name was Amitaal, the daughter of Jeremias, of Lobena.
 
 ### Jeremiah 52:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it happened in the ninth year of his reign, in the tenth month, tenth of the month, Nebuchadnezzar king of Babylon came and all his force against Jerusalem, and they fenced it around and built four-cornered stones around it.
+- fresh: And it happened in the ninth year of his reign, in the tenth month, on the tenth of the month, Nebuchadnezzar king of Babylon came, and all his force, against Jerusalem, and they fenced it around and built around it with four-cornered stones.
 - brenton: And it came to pass in the ninth year of his reign, in the ninth month, on the tenth day of the month, that Nabuchodonosor king of Babylon came, and all his host, against Jerusalem, and they made a rampart round it, and built a wall round about it with large stones.
 
 ### Jeremiah 52:5
@@ -180740,7 +180740,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the city came into siege until eleventh year of King Zedekiah.
+- fresh: And the city came into siege until the eleventh year of King Zedekiah.
 - brenton: So the city was besieged, until the eleventh year of king Sedekias,
 
 ### Jeremiah 52:6
@@ -180749,16 +180749,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In ninth of the month famine was strengthened in the city, and there were no breads for the people of the land.
+- fresh: On the ninth of the month, the famine became strong in the city, and there were no loaves for the people of the land.
 - brenton: on the ninth day of the month, and then the famine was severe in the city, and there was no bread for the people of the land.
 
 ### Jeremiah 52:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the city was broken through, and all men of war went out by night by way of the gate between wall and outer-wall which was by king’s garden, and Chaldeans were around city, and they went way toward Arabah.
+- fresh: And the city was broken through, and all the men of war went out by night by way of the gate between the wall and the outer wall which was by the king's garden, while the Chaldeans were around the city, and they went the way toward Arabah.
 - brenton: And the city was broken up, and all the men of war went out by night by the way of the gate, between the wall and the outworks, which were by the king's garden; and the Chaldeans were by the city round about; and they went by the way leading to the wilderness.
 
 ### Jeremiah 52:8
@@ -180767,16 +180767,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the force of Chaldeans pursued after king and caught him beyond Jericho, and all his servants were scattered from him.
+- fresh: And the force of Chaldeans pursued after the king and overtook him beyond Jericho, and all his servants were scattered from him.
 - brenton: But the host of the Chaldeans pursued after the king, and overtook him in the country beyond Jericho; and all his servants were dispersed from about him.
 
 ### Jeremiah 52:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they seized king and led him to the king of Babylon at Riblah, and he spoke with him with judgment.
+- fresh: And they seized the king and led him to the king of Babylon at Riblah, and he spoke judgment with him.
 - brenton: And they took the king, and brought him to the king of Babylon to Deblatha, and he judged him.
 
 ### Jeremiah 52:10
@@ -180785,25 +180785,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king of Babylon slaughtered sons of Zedekiah before his eyes, and all rulers of Judah he slaughtered in Riblah.
+- fresh: And the king of Babylon slaughtered the sons of Zedekiah before his eyes, and all the rulers of Judah he slaughtered in Riblah.
 - brenton: And the king of Babylon slew the sons of Sedekias before his eyes; and he slew all the princes of Juda in Deblatha.
 
 ### Jeremiah 52:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the eyes of Zedekiah he blinded, and bound him in shackles, and the king of Babylon led him to Babylon and put him into the house of mill until the day he died.
+- fresh: And the eyes of Zedekiah he blinded, and he bound him in shackles, and the king of Babylon led him to Babylon and put him into the mill-house until the day he died.
 - brenton: And he put out the eyes of Sedekias, and bound him in fetters; and the king of Babylon brought him to Babylon, and put him into the grinding-house, until the day when he died.
 
 ### Jeremiah 52:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And in the fifth month, tenth of the month, Nebuzaradan chief cook, who stood before the face of the king of Babylon, came into Jerusalem.
+- fresh: And in the fifth month, on the tenth of the month, Nebuzaradan the chief cook, who stood before the face of the king of Babylon, came into Jerusalem.
 - brenton: And in the fifth month, on the tenth day of the month, Nabuzardan the captain of the guard, who waited on the king of Babylon, came to Jerusalem;
 
 ### Jeremiah 52:13
@@ -180821,25 +180821,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And all wall of Jerusalem around, force of Chaldeans with chief cook, tore down.
+- fresh: And the whole wall around Jerusalem the force of the Chaldeans with the chief cook tore down.
 - brenton: And the host of the Chaldeans that was with the captain of the guard pulled down all the wall of Jerusalem round about.
 
 ### Jeremiah 52:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And chief cook left remnants of the people as vine-dressers and farmers.
+- fresh: And the chief cook left some of the remnant of the people as vine-dressers and farmers.
 - brenton: But the captain of the guard left the remnant of the people to be vinedressers and husbandmen.
 
 ### Jeremiah 52:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And bronze pillars in the house of the Lord and bases and bronze sea in the house of the Lord Chaldeans shattered, and took their bronze and carried it into Babylon.
+- fresh: And the bronze pillars in the house of the Lord, and the bases, and the bronze sea in the house of the Lord, the Chaldeans shattered, and they took their bronze and carried it to Babylon.
 - brenton: And the Chaldeans broke in pieces the brazen pillars that were in the house of the Lord, and the bases, and the brazen sea that was in the house of the Lord, and they took the brass thereof, and carried it away to Babylon.
 
 ### Jeremiah 52:18
@@ -180848,25 +180848,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And crown and bowls and meat-hooks and all bronze vessels with which they ministered in them,
+- fresh: And the crown and the bowls and the meat-hooks and all the bronze vessels with which they ministered,
 - brenton: Also the rim, and the bowls, and the flesh-hooks, and all the brazen vessels, wherewith they ministered;
 
 ### Jeremiah 52:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: and censers and bowls and pouring-vessels and lampstands and fire-pans and cups, whatever was gold and whatever was silver, chief cook took.
+- fresh: and the censers and the bowls and the pouring-vessels and the lampstands and the fire-pans and the cups, whatever was gold, gold, and whatever was silver, silver, the chief cook took.
 - brenton: and the basons, and the snuffers, and the oil-funnels, and the candlesticks, and the censers, and the cups, the golden, of gold, and the silver, of silver, the captain of the guard took away.
 
 ### Jeremiah 52:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And two pillars and one sea and twelve bronze oxen under sea, which King Solomon made for the house of the Lord. There was no weighing of their bronze.
+- fresh: And the two pillars and the one sea and the twelve bronze oxen under the sea, which King Solomon made for the house of the Lord: there was no weighing of their bronze.
 - brenton: And the two pillars, and the one sea, and the twelve brazen oxen under the sea, which things king Solomon made for the house of the Lord; the brass of which articles was without weight.
 
 ### Jeremiah 52:21
@@ -180875,16 +180875,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And pillars, thirty-five cubits height of one pillar, and cord of twelve cubits encircled it, and its thickness four fingers around.
+- fresh: And the pillars: thirty-five cubits was the height of one pillar, and a cord of twelve cubits encircled it, and its thickness was four fingers around.
 - brenton: And as for the pillars, the height of one pillar was thirty-five cubits; and a line of twelve cubits compassed it round; and the thickness of it all round was four fingers.
 
 ### Jeremiah 52:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And bronze capital upon them, and five cubits length of one capital’s projection, and net and pomegranates upon capital around, all bronze, and according to these for second pillar, eight pomegranates to cubit in twelve cubits.
+- fresh: And a bronze capital was upon them, and the projection of the one capital was five cubits in length, and netting and pomegranates were upon the capital around, all bronze, and likewise for the second pillar: eight pomegranates to the cubit in twelve cubits.
 - brenton: And there was a brazen chapiter upon them, and the length was five cubits, even the height of one chapiter; and there were on the chapiter round about network and pomegranates, all of brass: and correspondingly the second pillar had eight pomegranates to a cubit for the twelve cubits.
 
 ### Jeremiah 52:23
@@ -180893,34 +180893,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And pomegranates were ninety-six on one side, and all pomegranates upon net around were one hundred.
+- fresh: And the pomegranates were ninety-six on one side, and all the pomegranates upon the netting around were one hundred.
 - brenton: And the pomegranates were ninety-six on a side; and all the pomegranates on the network round about were a hundred.
 
 ### Jeremiah 52:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And chief cook took first priest and second priest and three keeping way.
+- fresh: And the chief cook took the first priest and the second priest and the three who kept the way.
 - brenton: And the captain of the guard took the chief priest, and the second priest, and those that kept the way;
 
 ### Jeremiah 52:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And one eunuch who was overseer over the men of war, and seven named men in face of the king found in the city, and secretary of forces writing for the people of the land, and sixty men from the people of the land found in the midst of the city.
+- fresh: And one eunuch who was overseer over the men of war, and seven named men before the face of the king who were found in the city, and the secretary of the forces who wrote for the people of the land, and sixty men from the people of the land who were found in the midst of the city.
 - brenton: and one eunuch, who was over the men of war, and seven men of renown, who were in the king's presence, that were found in the city; and the scribe of the forces, who did the part of a scribe to the people of the land; and sixty men of the people of the land, who were found in the midst of the city.
 
 ### Jeremiah 52:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And Nebuzaradan chief cook took them and led them to the king of Babylon at Riblah.
+- fresh: And Nebuzaradan the chief cook took them and led them to the king of Babylon at Riblah.
 - brenton: And Nabuzardan the captain of the king's guard took them, and brought them to the king of Babylon to Deblatha.
 
 ### Jeremiah 52:27
@@ -180929,16 +180929,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king of Babylon struck them in Riblah in the land of Hamath.
+- fresh: And the king of Babylon struck them at Riblah in the land of Hamath.
 - brenton: And the king of Babylon smote them in Deblatha, in the land of Æmath.
 
 ### Jeremiah 52:31
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And it happened in thirty-seventh year after Jehoiakim king of Judah was exiled, in the twelfth month, on twenty-fourth of the month, Evilmerodach king of Babylon in year when he reigned lifted up head of Jehoiakim king of Judah and brought him out from the house where he was kept.
+- fresh: And it happened in the thirty-seventh year after Jehoiakim king of Judah was exiled, in the twelfth month, on the twenty-fourth of the month, Evil-merodach king of Babylon, in the year when he reigned, lifted up the head of Jehoiakim king of Judah and brought him out from the house in which he was kept.
 - brenton: And it came to pass in the thirty-seventh year after that Joakim king of Juda had been carried away captive, in the twelfth month, on the four and twentieth day of the month, that Ulæmadachar king of Babylon, in the year in which he began to reign, raised the head of Joakim king of Juda, and shaved him, and brought him out of the house where he was kept,
 
 ### Jeremiah 52:32
@@ -180947,23 +180947,23 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he spoke good things to him and gave his throne above thrones of kings with him in Babylon.
+- fresh: And he spoke good things to him and gave his throne above the thrones of the kings with him in Babylon.
 - brenton: and spoke kindly to him, and set his throne above the kings that were with him in Babylon,
 
 ### Jeremiah 52:33
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he changed his prison garment, and he ate bread continually before his face all days which he lived.
+- fresh: And he changed his prison garment, and he ate bread continually before his face all the days that he lived.
 - brenton: and changed his prison garments: and he ate bread continually before him all the days that he lived.
 
 ### Jeremiah 52:34
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And the ration for him was given continually from the king of Babylon, from day to day until the day he died.
 - brenton: And his appointed portion was given him continually by the king of Babylon from day to day, until the day when he died.
@@ -180982,10 +180982,10 @@ Note:
 ### Lamentations 1:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: How city sat alone, filled with peoples. She became like widow, once great among nations, ruler among regions became for tribute.
+- fresh: How the city sat alone, she who had been filled with peoples. She became like a widow, she who had been great among the nations; ruler among regions, she became subject to tribute.
 - brenton: Aleph. How does the city that was filled with people sit solitary! she is become as a widow: she that was magnified among the nations, and princess among the provinces, has become tributary.
 
 ### Lamentations 1:2
@@ -180994,16 +180994,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Weeping she wept in night, and her tears on her cheeks, and there is no one comforting her from all loving her. All her friends acted faithlessly in her. They became enemies to her.
+- fresh: Weeping, she wept in the night, and her tears are on her cheeks; there is no one comforting her among all who love her. All her friends acted faithlessly toward her; they became enemies to her.
 - brenton: Beth. She weeps sore in the night, and her tears are on her cheeks; and there is none of all her lovers to comfort her: all that were her friends have dealt deceitfully with her, they are become her enemies.
 
 ### Lamentations 1:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Judah was exiled from her affliction and from the multitude of her slavery. She sat among nations and found no rest. All persecuting her overtook her between oppressors.
+- fresh: Judah was exiled because of her affliction and because of the multitude of her slavery. She sat among nations and found no rest. All who pursued her overtook her in the midst of those afflicting her.
 - brenton: Gimel. Judea is gone into captivity by reason of her affliction, and by reason of the abundance of her servitude: she dwells among the nations, she has not found rest: all her pursuers have overtaken her between her oppressors.
 
 ### Lamentations 1:4
@@ -181012,16 +181012,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Roads of Zion mourn because none come to feast. All her gates ruined. Her priests groan. Her virgins led away. She is embittered in herself.
+- fresh: The roads of Zion mourn because none come to the feast. All her gates are ruined. Her priests groan. Her virgins are led away, and she is embittered within herself.
 - brenton: Daleth. The ways of Sion mourn, because there are none that come to the feast: all her gates are ruined: her priests groan, her virgins are led captive, and she is in bitterness in herself.
 
 ### Lamentations 1:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Those afflicting her became head, and her enemies prospered, because the Lord humbled her for multitude of her ungodlinesses. Her little ones went into captivity before the face of afflicter.
+- fresh: Those afflicting her became the head, and her enemies prospered, because the Lord humbled her for the multitude of her ungodlinesses. Her little ones went into captivity before the face of the afflicter.
 - brenton: He. Her oppressors are become the head, and her enemies have prospered; for the Lord has afflicted her because of the multitude of her sins: her young children are gone into captivity before the face of the oppressor.
 
 ### Lamentations 1:6
@@ -181030,16 +181030,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And from daughter Zion all her beauty went out. Her rulers became like rams finding no pasture, and they went in no strength before pursuer.
+- fresh: And all her beauty went out from daughter Zion. Her rulers became like rams finding no pasture, and they went in no strength before the face of the pursuer.
 - brenton: Vau. And all her beauty has been taken away from the daughter of Sion: her princes were as rams finding no pasture, and are gone away in weakness before the face of the pursuer.
 
 ### Lamentations 1:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Jerusalem remembered days of her humiliation and her rejections, all her desires from ancient days, when her people fell into the hand of afflicter and there was no helper for her. Seeing her, her enemies laughed at her deportation.
+- fresh: Jerusalem remembered the days of her humiliation and her rejections, all her desirable things that were from ancient days, when her people fell into the hand of the afflicter and there was no helper for her. Her enemies saw her and laughed at her deportation.
 - brenton: Zain. Jerusalem remembered the days of her affliction, and her rejection; she thought on all her desirable things which were from the days of old, when her people fell into the hands of the oppressor, and there was none to help her: when her enemies saw it they laughed at her habitation.
 
 ### Lamentations 1:8
@@ -181048,61 +181048,61 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Jerusalem sinned sin. Therefore she became for shaking. All glorifying her humbled her, for they saw her shame, and she herself groaning turned backward.
+- fresh: Jerusalem sinned a sin; therefore she became a shaking. All who glorified her humbled her, for they saw her shame, and she herself, groaning, turned backward.
 - brenton: Heth. Jerusalem has sinned a great sin; therefore has she come into tribulation, all that used to honour her have afflicted her, for they have seen her shame: yea, she herself groaned, and turned backward.
 
 ### Lamentations 1:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Her uncleanness at her feet. She did not remember her end, and he brought her down exceedingly. There is no one comforting her. See, Lord, my humiliation, because enemy magnified himself.
+- fresh: Her uncleanness is before her feet. She did not remember her end, and she lowered her boastful words. There is no one comforting her. See, Lord, my humiliation, because the enemy magnified himself.
 - brenton: Teth. Her uncleanness is before her feet; she remembered not her last end; she has lowered her boasting tone, there is none to comfort her. Behold, O Lord, my affliction: for the enemy has magnified himself.
 
 ### Lamentations 1:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Afflicter spread out his hand upon all her desirable things, for she saw nations entering her sanctuary, whom you commanded not to enter your assembly.
+- fresh: The afflicter spread out his hand upon all her desirable things, for she saw nations entering her sanctuary, whom you commanded not to enter into your assembly.
 - brenton: Jod. The oppressor has stretched out his hand on all her desirable things: for she has seen the Gentiles entering into her sanctuary, concerning whom thou didst command that they should not enter into thy congregation.
 
 ### Lamentations 1:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: All her people groaning seek bread. They gave their desirable things for food, to restore life. See, Lord, and look, because I became dishonored.
+- fresh: All her people groan, seeking bread. They gave their desirable things for food, to restore life. See, Lord, and look, because I became dishonored.
 - brenton: Chaph. All her people groan, seeking bread: they have given their desirable things for meat, to restore their soul: behold, Lord, and look; for she is become dishonoured.
 
 ### Lamentations 1:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Not to you, all passing by road? Turn and see if there is pain like my pain which happened, word spoken in me. The Lord humbled me in the day of anger of his wrath.
+- fresh: Is it nothing to you, all who pass along the road? Turn and see if there is pain like my pain, which happened to me. The Lord, who spoke in me, humbled me in the day of the anger of his wrath.
 - brenton: Lamed. All ye that pass by the way, turn, and see if there is sorrow like to my sorrow, which has happened to me. The Lord who spoke by me has afflicted me in the day of his fierce anger.
 
 ### Lamentations 1:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: From on high he sent fire into my bones and brought it down. He spread net for my feet. He turned me back. He gave me ruined, pained all day.
+- fresh: From his height he sent fire into my bones and brought it down. He spread a net for my feet. He turned me back. He made me desolate, pained all day.
 - brenton: Mem. He has sent fire from his lofty habitation, he has brought it into my bones: he has spread a net for my feet, he has turned me back: he has made me desolate and mourning all the day.
 
 ### Lamentations 1:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: He kept watch over my ungodlinesses in my hands. They were woven together and went up upon my neck. My strength weakened, because the Lord gave pains into my hands. I cannot stand.
+- fresh: He kept watch over my ungodlinesses; they were woven together in my hands and went up upon my neck. My strength weakened, because the Lord gave pains into my hands. I cannot stand.
 - brenton: Nun. He has watched over my sins, they are twined about my hands, they have come up on my neck: my strength has failed; for the Lord has laid pains on my hands, I shall not be able to stand.
 
 ### Lamentations 1:15
@@ -181111,34 +181111,34 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord took away all my mighty ones from the midst of me. He called time against me to crush my chosen ones. The Lord trod winepress for virgin daughter Judah. Over these things I weep.
+- fresh: The Lord removed all my mighty ones from the midst of me. He called a time against me to crush my chosen ones. The Lord trod a winepress for virgin daughter Judah. Over these things I weep.
 - brenton: Samech. The Lord has cut off all my strong men from the midst of me: he has summoned against me a time for crushing my choice men: the Lord has trodden a wine-press for the virgin daughter of Juda: for these things I weep.
 
 ### Lamentations 1:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: My eye brought down water, because comforter restoring my soul was far from me. My sons became ruined, because enemy prevailed.
+- fresh: My eye brought down water, because the comforter restoring my soul was far from me. My sons became desolate, because the enemy prevailed.
 - brenton: Ain. Mine eye has poured out water, because he that should comfort me, that should restore my soul, has been removed far from me: my sons have been destroyed, because the enemy has prevailed.
 
 ### Lamentations 1:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Zion spread out her hands. There is no one comforting her. The Lord commanded around Jacob those afflicting him. Jerusalem became one sitting apart among them.
+- fresh: Zion spread out her hands; there is no one comforting her. The Lord commanded those afflicting Jacob around him. Jerusalem became like one sitting apart among them.
 - brenton: Phe. Sion has spread out her hand, and there is none to comfort her: the Lord has commanded concerning Jacob, his oppressors are round about him: Jerusalem has become among them as a removed woman.
 
 ### Lamentations 1:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The Lord is righteous, because I embittered his mouth. Hear now, all peoples, and see my pain. My virgins and my young men went into captivity.
+- fresh: The Lord is righteous, because I provoked his mouth. Hear now, all peoples, and see my pain. My virgins and my young men went into captivity.
 - brenton: Tsade. The Lord is righteous; for I have provoked his mouth: hear, I pray you, all people, and behold my grief: my virgins and my young men are gone into captivity.
 
 ### Lamentations 1:19
@@ -181153,28 +181153,28 @@ Note:
 ### Lamentations 1:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: See, Lord, because I am afflicted. My inward parts were disturbed, and my heart turned in me, because in embittering I embittered. Outside sword bereaved me, inside the house like death.
+- fresh: See, Lord, because I am afflicted. My inward parts were disturbed, and my heart turned within me, because in embittering I embittered. Outside, a sword bereaved me; inside the house like death.
 - brenton: Rhechs. Behold, O Lord; for I am afflicted: my belly is troubled, and my heart is turned within me; for I have been grievously rebellious: abroad the sword has bereaved me, even as death at home.
 
 ### Lamentations 1:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Hear now that I groan. There is no one comforting me. All my enemies heard my evils and rejoiced that you did it. You brought day. You called time. They became like me.
+- fresh: Hear now, because I groan. There is no one comforting me. All my enemies heard my evils and rejoiced because you did it. You brought a day; you called a time, and they became like me.
 - brenton: Chsen. Hear, I pray you, for I groan: there is none to comfort me: all mine enemies have heard of mine afflictions, and rejoice because thou hast done it: thou hast brought on the day, thou hast called the time: they are become like to me.
 
 ### Lamentations 1:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Let all their evil enter before your face, and glean against them just as they did gleaning against me for all my sins, because many are my groans and my heart is grieved.
+- fresh: Let all their evil enter before your face, and glean them as they made a gleaning for all my sins, because my groans are many and my heart is grieved.
 - brenton: Thau. Let all their wickedness come before thy face; and strip them, as they have made a gleaning for all my sins: for my groans are many, and my heart is grieved.
 
 ### Lamentations 2:1
@@ -181183,43 +181183,43 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth the glory of Israel and did not remember footstool of his feet in the day of his anger.
+- fresh: How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth the glory of Israel and did not remember the footstool of his feet in the day of his anger.
 - brenton: Aleph. How has the Lord darkened in his wrath the daughter of Sion! he has cast down the glory of Israel from heaven to earth, and has not remembered his footstool.
 
 ### Lamentations 2:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The Lord sank all beauties of Jacob, not sparing. He pulled down in wrath strongholds of daughter Judah. He stuck them to ground. He profaned her king and her rulers.
+- fresh: The Lord submerged all the beautiful things of Jacob without sparing. He pulled down in his wrath the strongholds of daughter Judah. He stuck them to the ground. He profaned her king and her rulers.
 - brenton: Beth. In the day of his wrath the Lord has overwhelmed her as in the sea, and not spared: he has brought down in his fury all the beautiful things of Jacob; he has brought down to the ground the strong-holds of the daughter of Juda: he has profaned her king and her princes.
 
 ### Lamentations 2:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: He broke in the anger of his wrath every horn of Israel. He turned back his right hand from the face of enemy and kindled in Jacob like fire-flame and devoured all around.
+- fresh: He broke, in the anger of his wrath, every horn of Israel. He turned back his right hand from the face of the enemy, and he kindled in Jacob like a flame of fire that devoured all around.
 - brenton: Gimel. He has broken in his fierce anger all the horn of Israel: he has turned back his right hand from the face of the enemy, and has kindled a flame in Jacob as fire, and it has devoured all things round about.
 
 ### Lamentations 2:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: He bent his bow like an enemy, fixed his right hand like an adversary, and killed all desirable things of my eyes. In the tent of daughter Zion he poured out his wrath like fire.
+- fresh: He bent his bow like an enemy; he fixed his right hand like an adversary and killed all the desirable things of my eyes. In the tent of daughter Zion he poured out his wrath like fire.
 - brenton: Daleth. He has bent his bow as an opposing enemy: he has strengthened his right hand as an adversary, and has destroyed all the desirable things of my eyes in the tabernacle of the daughter of Sion: he has poured forth his anger as fire.
 
 ### Lamentations 2:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The Lord became like an enemy. He sank Israel. He sank all her palaces. He destroyed his strongholds and multiplied humiliation for daughter Judah, bringing her low.
+- fresh: The Lord became like an enemy. He submerged Israel. He submerged all her palaces. He destroyed his strongholds and multiplied humiliation and humbling for daughter Judah.
 - brenton: He. The Lord is become as an enemy: he has overwhelmed Israel as in the sea, he has overwhelmed her palaces: he has destroyed his strong-holds, and has multiplied the afflicted and humbled ones to the daughter of Juda.
 
 ### Lamentations 2:6
@@ -181228,25 +181228,25 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: He scattered his tent like a vine. He destroyed his feast. The Lord forgot feast and sabbath in Zion and provoked in crash of his anger king and priest and ruler.
+- fresh: He scattered his tent like a vine. He destroyed his feast. The Lord forgot feast and sabbath which he made in Zion, and in the outburst of his anger he provoked king and priest and ruler.
 - brenton: Vau. And he has scattered his tabernacle as a vine, he has marred his feast: the Lord has forgotten the feast and the sabbath which he appointed in Sion, and in the fury of his wrath has vexed the king, and priest, and prince.
 
 ### Lamentations 2:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The Lord cast off his altar, shook off his sanctuary, broke into the hand of enemy wall of her palaces. They gave voice in the house of the Lord as on feast day.
+- fresh: The Lord cast off his altar, shook off his sanctuary, and broke the wall of her palaces by the hand of the enemy. They gave voice in the house of the Lord as on a feast day.
 - brenton: Zain. The Lord has rejected his altar, he has cast off his sanctuary, he has broken by the hand of the enemy the wall of her palaces; they have uttered their voice in the house of the Lord as on a feast day.
 
 ### Lamentations 2:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the Lord turned to destroy wall of daughter Zion. He stretched measuring-line and did not turn back his hand from trampling. Rampart and wall mourned together, weakened as one.
+- fresh: And the Lord turned to destroy the wall of daughter Zion. He stretched out a measuring line and did not turn back his hand from trampling. Rampart and wall mourned together; they weakened as one.
 - brenton: Heth. And he has turned to destroy the wall of the daughter of Zion: he has stretched out the measuring line, he has not turned back his hand from afflicting her: therefore the bulwark mourned, and the wall was weakened with it.
 
 ### Lamentations 2:9
@@ -181261,127 +181261,127 @@ Note:
 ### Lamentations 2:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: They sat on ground, kept silent, elders of daughter Zion. They raised dust on their heads, girded sackcloth. Leaders of virgins in Jerusalem brought themselves down to ground.
+- fresh: The elders of daughter Zion sat on the ground and kept silent. They raised dust on their heads and girded themselves with sackcloth. The chief virgins in Jerusalem brought themselves down to the ground.
 - brenton: Jod. The elders of the daughter of Sion have sat upon the ground, they have kept silence: they have cast up dust upon their heads; they have girded themselves with sackcloths: they have brought down to the ground the chief virgins in Jerusalem.
 
 ### Lamentations 2:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: My eyes failed in tears. My heart was troubled. My glory poured out on earth over the crushing of the daughter of my people, when infant and suckling failed in the streets of the city.
+- fresh: My eyes failed with tears. My heart was troubled. My glory poured out on the earth over the crushing of the daughter of my people, when infant and suckling failed in the streets of the city.
 - brenton: Chaph. Mine eyes have failed with tears, my heart is troubled, my glory is cast down to the ground, for the destruction of the daughter of my people; while the infant and suckling swoon in the streets of the city.
 
 ### Lamentations 2:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: To their mothers they said, Where grain and wine? as they failed like wounded in the streets of the city, as their souls poured out into the bosom of their mothers.
+- fresh: To their mothers they said, Where are grain and wine? as they failed like wounded ones in the streets of the city, as their souls poured out into the bosom of their mothers.
 - brenton: Lamed. They said to their mothers, Where is corn and wine? while they fainted like wounded men in the streets of the city, while their souls were poured out into their mother's bosom.
 
 ### Lamentations 2:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: What will I testify to you? What will I compare to you, daughter Jerusalem? Who will save you and comfort you, virgin daughter Zion? Because cup of your crushing became great. Who will heal you?
+- fresh: What shall I testify to you, or what shall I compare to you, daughter Jerusalem? Who will save and comfort you, virgin daughter Zion? For the cup of your crushing became great; who will heal you?
 - brenton: Mem. What shall I testify to thee, or what shall I compare to thee, O daughter of Jerusalem? who shall save and comfort thee, O virgin daughter of Sion? for the cup of thy destruction is enlarged: who shall heal thee?
 
 ### Lamentations 2:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Your prophets saw for you vain and foolish things and did not uncover your injustice to restore your captivity, but saw for you vain burdens and expulsions.
+- fresh: Your prophets saw for you vain and foolish things, and they did not uncover your injustice to turn back your captivity, but they saw for you vain burdens and expulsions.
 - brenton: Nun. Thy prophets have seen for thee vanities and folly: and they have not discovered thine iniquity, to turn back thy captivity; but they have seen for thee vain burdens, and worthless visions.
 
 ### Lamentations 2:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: All passing along road clapped hands over you. They hissed and shook their heads over daughter Jerusalem. Is this the city they called crown of glory, joy of all the earth?
+- fresh: All who pass along the road clapped hands over you. They hissed and shook their heads over daughter Jerusalem: Is this the city they called the crown of glory, joy of all the earth?
 - brenton: Samech. All that go by the way have clapped their hands at thee; they have hissed and shaken their head at the daughter of Jerusalem. Is this the city, they say, the crown of joy of all the earth?
 
 ### Lamentations 2:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: All your enemies opened their mouth over you, hissed and gnashed teeth. They said, We swallowed her up. Yet this is the day we expected. We found it. We saw it.
+- fresh: All your enemies opened their mouth over you. They hissed and gnashed teeth. They said, We swallowed her up. Yet this is the day we expected; we found it; we saw it.
 - brenton: Ain. All thine enemies have opened their mouth against thee: they have hissed and gnashed their teeth, and said, We have swallowed her up: moreover this is the day which we looked for; we have found it, we have seen it.
 
 ### Lamentations 2:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The Lord did what he intended. He fulfilled his words which he commanded from ancient days. He pulled down and did not spare. He made enemy rejoice over you. He raised horn of one afflicting you.
+- fresh: The Lord did what he intended. He fulfilled his words which he commanded from ancient days. He pulled down and did not spare. He made the enemy rejoice over you. He raised the horn of the one afflicting you.
 - brenton: Phe. The Lord has done that which he purposed; he has accomplished his word, even the things which he commanded from the ancient days: he has thrown down, and has not spared: and he has caused the enemy to rejoice over thee, he has exalted the horn of him that afflicted thee.
 
 ### Lamentations 2:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Their heart cried to the Lord. Walls of Zion, bring down tears like a torrent day and night. Give yourself no numbness. Let your eye not be silent.
+- fresh: Their heart cried to the Lord. Walls of Zion, bring down tears like torrents day and night. Give yourself no relief. Let your eye not be silent.
 - brenton: Tsade. Their heart cried to the Lord, Ye walls of Sion, pour down tears like torrents day and night: give thyself no rest; let not the apple of thine eyes cease.
 
 ### Lamentations 2:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Rise, shout out in night, at beginnings of your watch. Pour out your heart like water before the face of the Lord. Lift your hands to him concerning life of your little ones, those failing in famine at the head of all exits.
+- fresh: Rise, cry out in the night, at the beginnings of your watch. Pour out your heart like water before the face of the Lord. Lift your hands to him for the life of your little ones, those failing from famine at the head of every street.
 - brenton: Koph. Arise, rejoice in the night at the beginning of thy watch: pour out thy heart as water before the face of the Lord: lift up thy hands to him for the life of thine infants, who faint for hunger at the top of all the streets.
 
 ### Lamentations 2:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: See, Lord, and look, against whom did you glean thus? Will women eat fruit of their womb? Cook made gleaning. Will sucklings be killed? Will you kill priest and prophet in sanctuary of the Lord?
+- fresh: See, Lord, and look: against whom have you gleaned thus? Will women eat the fruit of their womb? The cook made a gleaning. Will nursing infants be killed? Will you kill priest and prophet in the sanctuary of the Lord?
 - brenton: Rhechs. Behold, O Lord, and see for whom thou hast gathered thus. Shall the women eat the fruit of their womb? the cook has made a gathering: shall the infants sucking at the breasts be slain? wilt thou slay the priest and prophet in the sanctuary of the Lord?
 
 ### Lamentations 2:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Young boy and elder slept in street. My virgins and my young men went in captivity. In sword and famine you killed. In the day of your anger you cooked. You did not spare.
+- fresh: Young boy and elder lay down in the street. My virgins and my young men went into captivity. By sword and famine you killed. In the day of your anger you butchered; you did not spare.
 - brenton: Chsen. The child and old man have lain down in the street: my virgins and my young men are gone into captivity: thou hast slain them with the sword and with famine; in the day of thy wrath thou hast mangled them, thou hast not spared.
 
 ### Lamentations 2:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You called my sojourners around like feast day, and there were not in the day of anger of the Lord one saved and left. As I held and multiplied, all my enemies.
+- fresh: You called my sojourners around as on a feast day, and in the day of the Lord's anger there was no one saved and left, though I had strengthened and multiplied all my enemies.
 - brenton: Thau. He has called my sojourners round about to a solemn day, and there was not in the day of the wrath of the Lord any one that escaped or was left; whereas I have strengthened and multiplied all mine enemies.
 
 ### Lamentations 3:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I am man seeing poverty by rod of his wrath upon me.
+- fresh: I am the man seeing poverty by the rod of his wrath upon me.
 - brenton: Aleph. I am the man that sees poverty, through the rod of his wrath upon me.
 
 ### Lamentations 3:2
@@ -181390,7 +181390,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He took me and led me into darkness and not light.
+- fresh: He took me and led me into darkness, and not light.
 - brenton: He has taken me, and led me away into darkness, and not into light.
 
 ### Lamentations 3:3
@@ -181408,16 +181408,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He made my flesh and my skin old. He shattered my bones.
+- fresh: He made my flesh and my skin old; he shattered my bones.
 - brenton: He has made old my flesh and my skin; he has broken my bones.
 
 ### Lamentations 3:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: He built against me and surrounded my head and wearied me.
+- fresh: He built against me and surrounded my head, and he brought toil upon me.
 - brenton: Beth. He has built against me, and compassed my head, and brought travail upon me.
 
 ### Lamentations 3:6
@@ -181432,10 +181432,10 @@ Note:
 ### Lamentations 3:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: He built against me and I will not go out. He made my bronze heavy.
+- fresh: He built against me, and I will not go out. He made my bronze chain heavy.
 - brenton: He has builded against me, and I cannot come forth: he has made my brazen chain heavy.
 
 ### Lamentations 3:8
@@ -181444,7 +181444,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And though I cry out and shout, he fenced off my prayer.
+- fresh: Even when I cry out and shout, he fenced off my prayer.
 - brenton: Gimel. Yea, though I cry and shout, he shuts out my prayer.
 
 ### Lamentations 3:9
@@ -181453,25 +181453,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He built up my ways, blocked my paths, troubled me.
+- fresh: He built up my ways, blocked my paths, and troubled me.
 - brenton: Daleth. He has built up my ways, he has hedged my paths;
 
 ### Lamentations 3:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: He is bear lying in wait for me, lion in hidden places.
+- fresh: He was a bear lying in wait for me, a lion in hidden places.
 - brenton: he has troubled me, as a she-bear lying in wait: he is to me as a lion in secret places.
 
 ### Lamentations 3:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: He pursued me, dragged me away, made me ruined.
+- fresh: He pursued me when I had turned aside and stopped me; he made me desolate.
 - brenton: He pursued me after I departed, and brought me to a stand: he has utterly ruined me.
 
 ### Lamentations 3:12
@@ -181480,25 +181480,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He bent his bow and set me as target for arrow.
+- fresh: He bent his bow and set me as a target for an arrow.
 - brenton: He. He has bent his bow, and set me as a mark for the arrow.
 
 ### Lamentations 3:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: He brought into my kidneys arrows of his quiver.
+- fresh: He brought into my kidneys the arrows of his quiver.
 - brenton: He has caused the arrows of his quiver to enter into my reins.
 
 ### Lamentations 3:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I became laugh to all my people, their song all day.
+- fresh: I became a laughingstock to all my people, their song all day.
 - brenton: I became a laughing-stock to all my people; and their song all the day.
 
 ### Lamentations 3:15
@@ -181507,16 +181507,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: He filled me with bitterness, made me drunk with gall.
+- fresh: He filled me with bitterness; he made me drunk with gall.
 - brenton: Vau. He has filled me with bitterness, he has drenched me with gall.
 
 ### Lamentations 3:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he cast out my teeth with pebble. He fed me ashes.
+- fresh: And he dashed out my teeth with gravel. He fed me ashes.
 - brenton: And he has dashed out my teeth with gravel, he has fed me with ashes.
 
 ### Lamentations 3:17
@@ -181525,43 +181525,43 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he thrust my soul away from peace. I forgot good things.
+- fresh: And he thrust my soul away from peace; I forgot good things.
 - brenton: He has also removed my soul from peace: I forgot prosperity.
 
 ### Lamentations 3:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I said, My victory perished, and my hope from the Lord.
+- fresh: And I said, My victory and my hope from the Lord have perished.
 - brenton: Therefore my success has perished, and my hope from the Lord.
 
 ### Lamentations 3:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: I remembered from my poverty and from my persecution my bitterness and my gall.
+- fresh: I remembered, because of my poverty and because of my persecution, my bitterness and my gall.
 - brenton: Zain. I remembered by reason of my poverty, and because of persecution my bitterness and gall shall be remembered;
 
 ### Lamentations 3:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: My soul will remember and talk over me.
+- fresh: My soul will remember and meditate within me.
 - brenton: and my soul shall meditate with me.
 
 ### Lamentations 3:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: This I will set in my heart. Therefore I endure.
+- fresh: This I will set in my heart; therefore I endure.
 - brenton: This will I lay up in my heart, therefore will I endure.
 
 ### Lamentations 3:25
@@ -181570,7 +181570,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord is good to those waiting for him, soul that seeks him, good.
+- fresh: The Lord is good to those waiting for him, good to the soul that seeks him.
 - brenton: Teth. The Lord is good to them that wait for him: the soul which shall seek him
 
 ### Lamentations 3:26
@@ -181579,34 +181579,34 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he waits and is quiet for the salvation of the Lord.
+- fresh: And one waits and keeps quiet for the salvation of the Lord.
 - brenton: is good, and shall wait for, and quietly expect salvation of the Lord.
 
 ### Lamentations 3:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Good for man when he bears yoke in his youth.
+- fresh: It is good for a man when he bears a yoke in his youth.
 - brenton: Teth. It is good for a man when he bears a yoke in his youth.
 
 ### Lamentations 3:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: He will sit alone and be silent, because he took it on himself.
+- fresh: He will sit alone and be silent, because he took it upon himself.
 - brenton: He will sit alone, and be silent, because he has borne it upon him.
 
 ### Lamentations 3:30
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: He will give cheek to one striking him. He will be filled with reproaches.
+- fresh: He will give his cheek to one striking him. He will be filled with reproaches.
 - brenton: Jod. He will give his cheek to him that smites him: he will be filled full with reproaches.
 
 ### Lamentations 3:31
@@ -181621,19 +181621,19 @@ Note:
 ### Lamentations 3:32
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because one who humbled will have compassion according to the multitude of his mercy.
+- fresh: Because the one who humbled will have compassion according to the multitude of his mercy.
 - brenton: Chaph. For he that has brought down will pity, and that according to the abundance of his mercy.
 
 ### Lamentations 3:33
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because he did not answer from his heart and humbled sons of man.
+- fresh: Because he did not answer from his heart when he humbled sons of man.
 - brenton: He has not answered in anger from his heart, though he has brought low the children of a man.
 
 ### Lamentations 3:34
@@ -181642,7 +181642,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: To humble under his feet all prisoners of earth,
+- fresh: To humble under his feet all prisoners of the earth,
 - brenton: Lamed. To bring down under his feet all the prisoners of the earth,
 
 ### Lamentations 3:35
@@ -181657,82 +181657,82 @@ Note:
 ### Lamentations 3:36
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: to condemn man in his judging, the Lord did not say.
+- fresh: to condemn a man in his judging, the Lord did not say.
 - brenton: to condemn a man unjustly in his judgment, the Lord has not given commandment.
 
 ### Lamentations 3:37
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Who thus spoke and it happened, when the Lord did not command?
+- fresh: Who thus spoke and it happened, if the Lord did not command?
 - brenton: Who has thus spoken, and it has come to pass? the Lord has not commanded it.
 
 ### Lamentations 3:38
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: From the mouth of Most High will not evils and good come out?
+- fresh: Will not evils and good come out from the mouth of the Most High?
 - brenton: Out of the mouth of the Most High there shall not come forth evil and good.
 
 ### Lamentations 3:39
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Why will living man complain, man about his sin?
+- fresh: Why will a living man complain, a man about his sin?
 - brenton: Mem. Why should a living man complain, a man concerning his sin?
 
 ### Lamentations 3:40
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Our way was searched out and examined, and let us turn back to the Lord.
+- fresh: Our way was searched out and examined; let us turn back to the Lord.
 - brenton: Nun. Our way has been searched out and examined, and we will turn to the Lord.
 
 ### Lamentations 3:41
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Let us lift our hearts with hands to Most High in heaven.
+- fresh: Let us lift our hearts with our hands to the Most High in heaven.
 - brenton: Let us lift up our hearts with our hands to the lofty One in heaven.
 
 ### Lamentations 3:42
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: We sinned, we acted ungodly, and you were not propitiated.
+- fresh: We sinned; we acted ungodly, and you were not propitiated.
 - brenton: We have sinned, we have transgressed; and thou hast not pardoned.
 
 ### Lamentations 3:43
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You covered in wrath and drove us away. You killed. You did not spare.
+- fresh: You covered us in wrath and drove us away. You killed; you did not spare.
 - brenton: Samech. Thou hast visited us in wrath, and driven us away: thou hast slain, thou hast not pitied.
 
 ### Lamentations 3:44
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You covered yourself with cloud because of prayer.
+- fresh: You covered yourself with a cloud because of prayer.
 - brenton: Thou hast veiled thyself with a cloud because of prayer, that I might be blind,
 
 ### Lamentations 3:45
@@ -181747,37 +181747,37 @@ Note:
 ### Lamentations 3:46
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: All our enemies opened their mouth over us.
+- fresh: All our enemies opened their mouth against us.
 - brenton: All our enemies have opened their mouth against us.
 
 ### Lamentations 3:47
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Fear and anger came upon us, exaltation and crushing.
+- fresh: Fear and anger came upon us, upheaval and crushing.
 - brenton: Fear and wrath are come upon us, suspense and destruction.
 
 ### Lamentations 3:48
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The streams of waters my eye will bring down over the crushing of the daughter of my people.
+- fresh: My eye will bring down streams of waters over the crushing of the daughter of my people.
 - brenton: Mine eye shall pour down torrents of water, for the destruction of the daughter of my people.
 
 ### Lamentations 3:49
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: My eye was consumed and I will not be silent, so that there be no numbness,
+- fresh: My eye was consumed, and I will not be silent, so that there be no relief,
 - brenton: Phe. Mine eye is drowned with tears, and I will not be silent, so that there shall be no rest,
 
 ### Lamentations 3:50
@@ -181792,28 +181792,28 @@ Note:
 ### Lamentations 3:51
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: My eye gleans against my soul beyond all daughters of the city.
+- fresh: My eye preys upon my soul because of all the daughters of the city.
 - brenton: Mine eye shall prey upon my soul, because of all the daughters of the city.
 
 ### Lamentations 3:52
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Hunting they hunted me like a sparrow, my enemies for nothing.
+- fresh: Hunting, they hunted me like a sparrow, my enemies without cause.
 - brenton: Tsade. The fowlers chased me as a sparrow, all mine enemies destroyed my life in a pit without cause,
 
 ### Lamentations 3:53
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: They killed my life in pit and put stone upon me.
+- fresh: They killed my life in a pit and put a stone upon me.
 - brenton: and laid a stone upon me.
 
 ### Lamentations 3:54
@@ -181831,7 +181831,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: I called on your name, Lord, from lowest pit.
+- fresh: I called on your name, Lord, from the lowest pit.
 - brenton: Koph. I called upon thy name, O Lord, out of the lowest dungeon.
 
 ### Lamentations 3:56
@@ -181846,28 +181846,28 @@ Note:
 ### Lamentations 3:57
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You came near to my help on the day when I called you. You said to me, Do not fear.
+- fresh: You came near for my help on the day when I called you. You said to me, Do not fear.
 - brenton: Thou drewest nigh to my help: in the day wherein I called upon thee thou saidst to me, Fear not.
 
 ### Lamentations 3:58
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You judged, Lord, judgments of my soul. You redeemed my life.
+- fresh: You pleaded, Lord, the cases of my soul. You redeemed my life.
 - brenton: Rechs. O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.
 
 ### Lamentations 3:59
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You saw, Lord, my tumults. You judged my case.
+- fresh: You saw, Lord, my troubles. You judged my case.
 - brenton: Thou hast seen, O Lord, my troubles: thou hast judged my cause.
 
 ### Lamentations 3:60
@@ -181891,10 +181891,10 @@ Note:
 ### Lamentations 3:62
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The lips of those rising against me and their meditations against me all day.
+- fresh: The lips of those rising against me and their meditations are against me all day.
 - brenton: the lips of them that rose up against me, and their plots against me all the day;
 
 ### Lamentations 3:63
@@ -181909,46 +181909,46 @@ Note:
 ### Lamentations 3:64
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You will repay them repayment, Lord, according to the works of their hands.
+- fresh: You will repay them recompense, Lord, according to the works of their hands.
 - brenton: Thou wilt render them a recompence, O Lord, according to the works of their hands.
 
 ### Lamentations 3:65
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You will give them shield of heart, your toil to them.
+- fresh: You will give them a shield of heart, your toil to them.
 - brenton: Thau. Thou wilt give them as a covering, the grief of my heart.
 
 ### Lamentations 3:66
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You will pursue in anger and consume them from under heaven, Lord.
+- fresh: You will pursue them in anger and consume them from under heaven, Lord.
 - brenton: Thou wilt persecute them in anger, and wilt consume them from under the heaven, O Lord.
 
 ### Lamentations 4:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: How gold was dimmed, good silver changed. Holy stones were poured out at the head of all exits.
+- fresh: How gold was dimmed; good silver changed. Holy stones were poured out at the head of every street.
 - brenton: Aleph. How will the gold be tarnished, and the fine silver changed! the sacred stones have been poured forth at the top of all the streets.
 
 ### Lamentations 4:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Sons of Zion, precious ones raised up in gold, how they were reckoned as earthen vessels, works of potter’s hands.
+- fresh: The sons of Zion, the precious ones raised up in gold, how they were reckoned as earthen vessels, works of a potter's hands.
 - brenton: Beth. The precious sons of Zion, who were equalled in value with gold, how are they counted as earthen vessels, the works of the hands of the potter!
 
 ### Lamentations 4:3
@@ -181957,16 +181957,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Even dragons drew out breasts and suckled their cubs. Daughters of my people became incurable like a sparrow in the wilderness.
+- fresh: Even dragons drew out breasts and suckled their cubs. The daughters of my people became incurable like a sparrow in the wilderness.
 - brenton: Gimel. Nay, serpents have drawn out the breasts, they give suck to their young, the daughters of my people are incurably cruel, as an ostrich in a desert.
 
 ### Lamentations 4:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The tongue of a nursing child clung to his throat in thirst. Little ones asked bread. There is no one breaking to them.
+- fresh: The tongue of a nursing child clung to his throat from thirst. Little ones asked for bread. There is no one breaking it for them.
 - brenton: Daleth. The tongue of the sucking child cleaves to the roof of its mouth for thirst: the little children ask for bread, and there is none to break it to them.
 
 ### Lamentations 4:5
@@ -181975,25 +181975,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Those eating delicacies were ruined in streets. Those nourished on scarlet embraced dung-heaps.
+- fresh: Those eating delicacies were made desolate in the streets. Those nourished on scarlet embraced dung-heaps.
 - brenton: He. They that feed on dainties are desolate in the streets: they that used to be nursed in scarlet have clothed themselves with dung.
 
 ### Lamentations 4:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And lawlessness of the daughter of my people grew beyond lawlessness of Sodom, the overthrown one, as if suddenly and no hands pained in her.
+- fresh: And the lawlessness of the daughter of my people grew beyond the lawlessness of Sodom, the overthrown one, as if suddenly, and no hands labored in her.
 - brenton: Vau. And the iniquity of the daughter of my people has been increased beyond the iniquities of Sodoma, the city that was overthrown very suddenly, and none laboured against her with their hands.
 
 ### Lamentations 4:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Her Nazirites were purer than snow, brighter than milk, redder than sapphire stones, their shape.
+- fresh: Her Nazirites were purer than snow, brighter than milk; their appearance was redder than sapphire stones.
 - brenton: Zain. Her Nazarites were made purer than snow, they were whiter than milk, they were purified as with fire, their polishing was superior to sapphire stone.
 
 ### Lamentations 4:8
@@ -182002,43 +182002,43 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Their appearance darkened more than soot. They were not recognized in streets. Their skin stuck to their bones. They dried up, became like wood.
+- fresh: Their appearance darkened more than soot. They were not recognized in the streets. Their skin stuck to their bones; they dried up and became like wood.
 - brenton: Heth. Their countenance is become blacker than smoke; they are not known in the streets: their skin has cleaved to their bones; they are withered, they are become as a stick.
 
 ### Lamentations 4:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Better were wounded of sword than wounded of famine. They went pierced from the produce of fields.
+- fresh: Better were those wounded by the sword than those wounded by famine. They went pierced from lack of the produce of fields.
 - brenton: Teth. The slain with the sword were better than they that were slain with hunger: they have departed, pierced through from want of the fruits of the field.
 
 ### Lamentations 4:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The hands of compassionate women cooked their children. They became food to them in crushing of the daughter of my people.
+- fresh: The hands of compassionate women cooked their children. They became food for them in the crushing of the daughter of my people.
 - brenton: Jod. The hands of tender-hearted women have sodden their own children: they became meat for them in the destruction of the daughter of my people.
 
 ### Lamentations 4:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The Lord completed his wrath, poured out anger of his wrath, and kindled fire in Zion, and it devoured her foundations.
+- fresh: The Lord completed his wrath, poured out the anger of his wrath, and kindled a fire in Zion, and it devoured her foundations.
 - brenton: Chaph. The Lord has accomplished his wrath; he has poured out his fierce anger, and has kindled a fire in Sion, and it has devoured her foundations.
 
 ### Lamentations 4:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The kings of the earth did not believe, all dwellers of world, that enemy and oppressor would enter through the gates of Jerusalem,
+- fresh: The kings of the earth did not believe, all dwellers of the world, that an enemy and oppressor would enter through the gates of Jerusalem,
 - brenton: Lamed. The kings of the earth, even all that dwell in the world, believed not that an enemy and oppressor would enter through the gates of Jerusalem.
 
 ### Lamentations 4:13
@@ -182047,88 +182047,88 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because of the sins of her prophets, injustices of her priests, those pouring out righteous blood in her midst.
+- fresh: because of the sins of her prophets, the injustices of her priests, those pouring out righteous blood in her midst.
 - brenton: Mem. For the sins of her prophets, and iniquities of her priests, who shed righteous blood in the midst of her,
 
 ### Lamentations 4:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Her watchmen staggered in streets, were polluted in blood, so that they could not touch their garments.
+- fresh: Her watchmen staggered in the streets; they were polluted with blood. In their inability, they touched their garments.
 - brenton: Nun. her watchmen staggered in the streets, they were defiled with blood in their weakness, they touched their raiment with it.
 
 ### Lamentations 4:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Depart, unclean ones, call to them. Depart, depart, do not touch, because they were kindled. And indeed they staggered. They said among nations, They will no longer remain to sojourn.
+- fresh: Depart from the unclean ones; call to them, Depart, depart, do not touch, because they were kindled. And indeed they staggered. They said among the nations, They will no longer sojourn.
 - brenton: Samech. Depart ye from the unclean ones: call ye them: depart, depart, touch them not: for they are on fire, yea, they stagger: say ye among the nations, They shall no more sojourn there.
 
 ### Lamentations 4:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The face of the Lord is their portion. He will no longer look on them. Faces of priests they did not receive, elders they did not pity.
+- fresh: The face of the Lord is their portion. He will no longer look on them. They did not receive the faces of priests; elders they did not pity.
 - brenton: Ain. The presence of the Lord was their portion; but he will not again look upon them: they regarded not the person of the priests, they pitied not the prophets.
 
 ### Lamentations 4:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: While we still were, our eyes failed for our help in vain. While watching we watched for nation not saving.
+- fresh: While we were still alive, our eyes failed for our vain help. While watching, we watched for a nation not saving.
 - brenton: Phe. While we yet lived our eyes failed, while we looked in vain for our help. Tsade. We looked to a nation that could not save.
 
 ### Lamentations 4:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: They hunted our little ones from going in our streets. Our time drew near. Our days were filled up. Our time is present.
+- fresh: We hunted our little ones so they would not walk in our streets. Our time drew near; our days were fulfilled; our time is present.
 - brenton: We have hunted for our little ones, that they should not walk in our streets. Koph. Our time has drawn nigh, our days are fulfilled, our time is come.
 
 ### Lamentations 4:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Our pursuers became swifter than eagles of heaven. On mountains they blazed. In the wilderness they lay in wait for us.
+- fresh: Our pursuers became swifter than eagles of heaven. On the mountains they blazed. In the wilderness they lay in wait for us.
 - brenton: Our pursuers were swifter than the eagles of the sky, they flew on the mountains, in the wilderness they laid wait for us.
 
 ### Lamentations 4:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Breath of our face, anointed of the Lord, was seized in their corruptions, of whom we said, In his shadow we will live among nations.
+- fresh: The breath of our face, the anointed of the Lord, was seized in their destructions, of whom we said, In his shadow we will live among the nations.
 - brenton: Rechs. The breath of our nostrils, our anointed Lord, was taken in their destructive snares, of whom we said, In his shadow we shall live among the Gentiles.
 
 ### Lamentations 4:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Rejoice and be glad, daughter Edom dwelling on the land. Yet on you also will pass cup of the Lord, and you will be drunk and pour out.
+- fresh: Rejoice and be glad, daughter Edom dwelling on the land. Yet the cup of the Lord will also pass to you, and you will be drunk and pour out.
 - brenton: Chsen. Rejoice and be glad, O daughter of Idumea, that dwellest in the land: yet the cup of the Lord shall pass through to thee: thou shalt be drunken, and pour forth.
 
 ### Lamentations 4:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Your lawlessness failed, daughter Zion. He will no longer exile you. He visited your lawlessnesses, daughter Edom, he uncovered your ungodlinesses.
+- fresh: Your lawlessness came to an end, daughter Zion. He will no longer exile you. He visited your lawlessnesses, daughter Edom; he uncovered your ungodlinesses.
 - brenton: Thau. O daughter of Sion, thine iniquity has come to an end; he shall no more carry thee captive: he has visited thine iniquities, O daughter of Edom; he has discovered thy sins.
 
 ### Lamentations 5:1
@@ -182143,10 +182143,10 @@ Note:
 ### Lamentations 5:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Our inheritance turned over to strangers, our houses to foreigners.
+- fresh: Our inheritance was turned over to strangers, our houses to foreigners.
 - brenton: Our inheritance has been turned away to aliens, our houses to strangers:
 
 ### Lamentations 5:3
@@ -182155,16 +182155,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: We became orphans. There is no father. Our mothers are like widows.
+- fresh: We became orphans; there is no father. Our mothers are like widows.
 - brenton: we are become orphans, we have no father, our mothers are as widows.
 
 ### Lamentations 5:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: From our days our wood came by exchange.
+- fresh: From our days, our wood came by exchange.
 - brenton: We have drunk our water for money; our wood is sold to us for a burden on our neck:
 
 ### Lamentations 5:5
@@ -182173,16 +182173,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Upon our neck we were pursued. We labored. We did not rest.
+- fresh: Upon our neck we were pursued. We labored; we did not rest.
 - brenton: we have been persecuted, we have laboured, we have had no rest.
 
 ### Lamentations 5:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Egypt gave hand to Assyria for their fullness.
+- fresh: Egypt gave a hand to Assyria for their fullness.
 - brenton: Egypt gave the hand to us, Assur to their own satisfaction.
 
 ### Lamentations 5:7
@@ -182191,34 +182191,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Our fathers sinned and are not. We bore their lawless deeds.
+- fresh: Our fathers sinned and are not; we bore their lawless deeds.
 - brenton: Our fathers sinned, and are not: we have borne their iniquities.
 
 ### Lamentations 5:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Slaves ruled us. There is no one redeeming from their hand.
+- fresh: Slaves ruled over us. There is no one redeeming us from their hand.
 - brenton: Servants have ruled over us: there is none to ransom us out of their hand.
 
 ### Lamentations 5:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: With our souls we bring our bread from the face of the sword of the wilderness.
+- fresh: With our lives we bring our bread from the face of the sword of the wilderness.
 - brenton: We shall bring in our bread with danger of our lives, because of the sword of the wilderness.
 
 ### Lamentations 5:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Our skin was shriveled like an oven, contracted from the face of storms of famine.
+- fresh: Our skin was shriveled like an oven, contracted before the storms of famine.
 - brenton: Our skin is blackened like an oven; they are convulsed, because of the storms of famine.
 
 ### Lamentations 5:11
@@ -182242,10 +182242,10 @@ Note:
 ### Lamentations 5:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Chosen ones took up weeping, and young men weakened at wood.
+- fresh: Chosen ones took up weeping, and young men weakened under wood.
 - brenton: The chosen men lifted up the voice in weeping, and the youths fainted under the wood.
 
 ### Lamentations 5:14
@@ -182254,7 +182254,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Elders ceased from gate. Chosen ones ceased from their songs.
+- fresh: Elders ceased from the gate. Chosen ones ceased from their songs.
 - brenton: And the elders ceased from the gate, the chosen men ceased from their music.
 
 ### Lamentations 5:15
@@ -182269,10 +182269,10 @@ Note:
 ### Lamentations 5:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Crown of our head fell. Woe to us, because we sinned.
+- fresh: The crown of our head fell. Woe now to us, because we sinned.
 - brenton: The crown has fallen from our head: yea, woe to us! for we have sinned.
 
 ### Lamentations 5:17
@@ -182281,52 +182281,52 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this our heart became pained. Because of this our eyes darkened,
+- fresh: Because of this our heart became pained; because of this our eyes darkened,
 - brenton: For this has grief come; our heart is sorrowful: for this our eyes are darkened.
 
 ### Lamentations 5:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: over mountain Zion, because it was ruined. Foxes passed through it.
+- fresh: over Mount Zion, because it was ruined. Foxes passed through it.
 - brenton: Over the mountain of Sion, because it is made desolate, foxes have walked therein.
 
 ### Lamentations 5:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But you, Lord, will dwell forever, your throne to generation and generation.
+- fresh: But you, Lord, will dwell forever; your throne is to generation and generation.
 - brenton: But thou, O Lord, shalt dwell for ever; thy throne shall endure to generation and generation.
 
 ### Lamentations 5:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Why will you forget us for victory and leave us for the length of days?
+- fresh: Why will you forget us utterly and leave us for the length of days?
 - brenton: Wherefore wilt thou utterly forget us, and abandon us a long time?
 
 ### Lamentations 5:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Turn us back, Lord, to you, and we will return, and renew our days as before,
+- fresh: Turn us back, Lord, to you, and we will return; renew our days as before,
 - brenton: Turn us, O Lord, to thee, and we shall be turned; and renew our days as before.
 
 ### Lamentations 5:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: because in thrusting away you thrust us away. You were very angry over us.
+- fresh: because in thrusting away you thrust us away. You were very angry against us.
 - brenton: For thou hast indeed rejected us; thou hast been very wroth against us.
 
 ## Ezekiel

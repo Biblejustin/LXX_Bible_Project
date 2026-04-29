@@ -395,17 +395,17 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Jeremiah
 
-**Jeremiah 1:1** The word of God that came upon Jeremiah son of Hilkiah, from the priests dwelling in Anathoth in the land of Benjamin,
+**Jeremiah 1:1** The word of God that came upon Jeremiah son of Hilkiah, from the priests, who dwelt in Anathoth in the land of Benjamin,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 10
 
-**Jeremiah 1:2** to whom the word of God came in the days of Josiah son of Amon, king of Judah, in thirteenth year of his reign,
+**Jeremiah 1:2** to whom the word of God came in the days of Josiah son of Amon, king of Judah, in the thirteenth year of his reign,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
 
-**Jeremiah 1:3** and it came in the days of Jehoiakim son of Josiah, king of Judah, until eleventh year of Zedekiah son of Josiah, king of Judah, until captivity of Jerusalem in the fifth month.
+**Jeremiah 1:3** and it came in the days of Jehoiakim son of Josiah, king of Judah, until the eleventh year of Zedekiah son of Josiah, king of Judah, until the captivity of Jerusalem in the fifth month.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 14
@@ -417,12 +417,12 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 0
 
-**Lamentations 1:1** How city sat alone, filled with peoples. She became like widow, once great among nations, ruler among regions became for tribute.
+**Lamentations 1:1** How the city sat alone, she who had been filled with peoples. She became like a widow, she who had been great among the nations; ruler among regions, she became subject to tribute.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 28
 
-**Lamentations 1:2** Weeping she wept in night, and her tears on her cheeks, and there is no one comforting her from all loving her. All her friends acted faithlessly in her. They became enemies to her.
+**Lamentations 1:2** Weeping, she wept in the night, and her tears are on her cheeks; there is no one comforting her among all who love her. All her friends acted faithlessly toward her; they became enemies to her.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 27

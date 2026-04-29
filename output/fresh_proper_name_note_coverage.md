@@ -1,6 +1,6 @@
 # Proper Name Note Coverage
 
-- supplemental note rows: `2491`
+- supplemental note rows: `2501`
 - Logos autocomplete DB: `/Users/justinscaggs/Library/Application Support/Logos4/Data/5gtnpjgs.gns/AutoComplete/AutoComplete.db`
 
 Policy:
@@ -33,9 +33,9 @@ Policy:
 - `Moses` (person, 80x, first Matthew 8:4) — logos_primary_entity
 - `Hebron` (transliterated_form, 77x, first Genesis 13:18) — not_classified
 - `Simon` (person, 76x, first Matthew 4:18) — logos_alias_entity
+- `Chaldeans` (people_group, 75x, first Genesis 11:28) — logos_primary_entity
 - `Israel` (place, 75x, first Matthew 2:6) — logos_primary_place_atlas_link_preserved
 - `Abraham` (person, 74x, first Matthew 1:1) — logos_primary_entity
-- `Chaldeans` (people_group, 74x, first Genesis 11:28) — logos_primary_entity
 - `Eleazar` (person, 73x, first Exodus 6:23) — logos_alias_entity
 - `Lebanon` (place, 71x, first Deuteronomy 1:7) — logos_primary_place_atlas_link_preserved
 - `Joash` (person, 69x, first Judges 6:11) — logos_alias_entity
@@ -46,8 +46,8 @@ Policy:
 - `Jehu` (person, 60x, first 1 Kings 16:1) — logos_alias_entity
 - `David` (person, 59x, first Matthew 1:1) — logos_primary_entity
 - `Jericho` (place, 57x, first Numbers 22:1) — logos_alias_place_atlas_link_preserved
+- `Philistines` (people_group, 55x, first Genesis 10:14) — logos_primary_entity
 - `Azariah` (supernatural_being, 54x, first 1 Kings 2:46) — logos_alias_entity
-- `Philistines` (people_group, 54x, first Genesis 10:14) — logos_primary_entity
 - `Zadok` (person, 54x, first 2 Samuel 8:17) — logos_alias_entity
 - `Benaiah` (person, 52x, first Numbers 33:31) — logos_alias_entity
 - `Bashan` (place, 51x, first Numbers 21:33) — logos_primary_place_atlas_link_preserved

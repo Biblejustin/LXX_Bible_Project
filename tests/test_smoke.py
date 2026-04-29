@@ -4389,7 +4389,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "All the words of God are refined" in by_ref["Proverbs 30:5"]["draft_translation"]
     assert "The words of the wise in quiet" in by_ref["Ecclesiastes 9:17"]["draft_translation"]
     assert "The words of the wise are as goads" in by_ref["Ecclesiastes 12:11"]["draft_translation"]
-    assert "all the words of the Lord which he answered" in by_ref["Jeremiah 43:4"]["draft_translation"]
+    assert "all the words of the Lord which he had declared" in by_ref["Jeremiah 43:4"]["draft_translation"]
     assert "read in the scroll the words of the Lord" in by_ref["Jeremiah 43:8"]["draft_translation"]
     assert "did not hear the words of the Lord" in by_ref["Jeremiah 44:2"]["draft_translation"]
     assert "like the appearance of a carbuncle stone" in by_ref["Ezekiel 10:9"]["draft_translation"]
