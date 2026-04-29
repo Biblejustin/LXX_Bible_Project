@@ -85346,71 +85346,71 @@ Son of man, take up lamentation over Tyre,
 
 **Ezekiel 27:3**
 
-and say to Tyre dwelling at the entrance of the sea, merchant of peoples from many islands, Thus says the Lord to Tyre: You said, I have set my beauty around myself.
+and say to Tyre dwelling at the entrance of the sea, trading-place of peoples from many islands, Thus says the Lord to Tyre: You said, I have set my beauty around myself.
 
 **Ezekiel 27:4**
 
-In the heart of the sea, in Beelim, your sons set your beauty.
+In the heart of the sea, your sons set beauty around you for Beelim.
 
 **Ezekiel 27:5**
 
-With cedar from Senir they built for you planks of cypress; from Lebanon they took to make you fir masts.
+Cedar from Senir was built for you; planks of cypress from Lebanon were taken to make fir masts for you.
 
 **Ezekiel 27:6**
 
-From Bashan they made your oars; your decking they made from ivory, forest houses from the islands of Kittim.
+From Bashan they made your oars; your sacred things they made from ivory, wooded houses from the islands of Kittim.
 
 **Ezekiel 27:7**
 
-Fine linen with embroidery from Egypt became your bedding, to put glory around you and clothe you; blue and purple from the islands of Elishah became your garments.
+Fine linen with embroidery from Egypt became your bedding, to put glory around you and clothe you with blue and purple from the islands of Elishah; these became your coverings.
 
 **Ezekiel 27:8**
 
-And your rulers, those dwelling in Sidon and Arad, became your rowers; your wise men, Tyre, who were in you, these were your pilots.
+And your rulers, those dwelling in Sidon, and Aradians became your rowers; your wise men, Tyre, who were in you, these were your pilots.
 
 **Ezekiel 27:9**
 
-Elders of Byblos and their wise men were in you; these strengthened your counsel, and all ships of sea and their rowers were for you toward far west.
+Elders of Byblos and their wise men were in you; these strengthened your counsel, and all the ships of the sea and their rowers were for you toward the farthest west.
 
 **Ezekiel 27:10**
 
-Persians and Lydians and Libyans were in your force, your men of war; shields and helmets they hung in you; these gave your glory.
+Persians and Lydians and Libyans were in your force as your men of war; they hung shields and helmets in you; these gave you your glory.
 
 **Ezekiel 27:11**
 
-Sons of Arad and your force were on your walls; watchers were in your towers; their quivers they hung on your battlements all around; they completed your beauty.
+Sons of Aradians and your force were on your walls; guards were in your towers; their quivers they hung on your battlements all around; they completed your beauty.
 
 **Ezekiel 27:12**
 
-Carthaginians were your merchants because of abundance of all your strength; silver and gold and iron and tin and lead they gave for your market.
+The Carthaginians were your merchants because of the abundance of all your strength; silver and gold and iron and tin and lead they gave to your market.
 
 **Ezekiel 27:13**
 
-Greece and all the land and those stretching out beside it traded with you in souls of men, and vessels of bronze they gave for your trade.
+Greece and all the land and the adjacent places traded with you in souls of men, and vessels of bronze they gave to your trade.
 
 **Ezekiel 27:14**
 
-From the house of Togarmah horses and horsemen they gave for your market.
+From the house of Togarmah horses and horsemen they gave to your market.
 
 **Ezekiel 27:15**
 
-Sons of Dedan, your merchants from islands, multiplied your trade; ivory teeth, and for imports you paid back your wages.
+Sons of Rhodians were your merchants; from islands they multiplied your trade with ivory teeth, and for imports you paid back your wages.
 
 **Ezekiel 27:16**
 
-Men traded your merchandise from the abundance of your mixed goods; myrrh and embroidered cloth from Tarshish and Ramoth and Chorchor they gave for your market.
+Men were your merchandise from the abundance of your mixed trade; myrrh and embroidered works from Tarshish and Ramoth and Chorchor they gave to your market.
 
 **Ezekiel 27:17**
 
-Judah and sons of Israel, these were your merchants. In wheat of Minnith and perfumes and cassia and first honey and oil and resin they gave into your mixed trade.
+Judah and the sons of Israel, these were your merchants. In the sale of wheat and perfumes and cassia and best honey and oil and resin they gave to your mixed trade.
 
 **Ezekiel 27:18**
 
-Damascus was your merchant from the abundance of all your power, wine from Helbon and wool from Miletus.
+Damascus was your merchant because of the abundance of all your strength, wine from Helbon and wool from Miletus.
 
 **Ezekiel 27:19**
 
-And they gave wine for your market from Uzal; worked iron and wheel are in your mixed trade.
+And they gave wine to your market from Asel; worked iron and a wheel are in your mixed trade.
 
 **Ezekiel 27:20**
 
@@ -85418,31 +85418,31 @@ Dedan were your merchants with choice beasts for chariots.
 
 **Ezekiel 27:21**
 
-Arabia and all rulers of Kedar, these were your merchants by your hand, camels and rams and lambs in which they trade you.
+Arabia and all the rulers of Kedar, these were your merchants through your hand; in camels and rams and lambs they traded with you.
 
 **Ezekiel 27:22**
 
-Merchants of Sheba and Raamah, these were your merchants; with chief spices and precious stones and gold they gave for your market.
+Merchants of Sheba and Raamah, these were your merchants; with choice spices and precious stones and gold they gave to your market.
 
 **Ezekiel 27:23**
 
-Haran and Canneh, these were your merchants, Asshur and Haran your merchants,
+Haran and Canneh, these were your merchants; Asshur and Charman were your merchants,
 
 **Ezekiel 27:24**
 
-bringing merchandise, blue cloth and selected treasures tied with cords and cypress goods.
+bringing merchandise, blue cloth and choice treasures tied with cords and cypress wood.
 
 **Ezekiel 27:25**
 
-Ships among them, Carthaginians, were your merchants in abundance in your mixed trade, and you were filled and became very heavy in the heart of the sea.
+Ships among them, Carthaginians, were your merchants in abundance in your mixed trade, and you were filled and loaded very heavily in the heart of the sea.
 
 **Ezekiel 27:26**
 
-In much water your rowers led you; south wind shattered you in the heart of the sea.
+In much water your rowers led you; the south wind shattered you in the heart of the sea.
 
 **Ezekiel 27:27**
 
-Your powers and your wages and your traders and your rowers and your pilots and your counselors and your dealers from among your dealers and all your men of war who are in you and all your gathering in your midst will fall in the heart of the sea on the day of your fall.
+Your forces and your wages and your traders and your rowers and your pilots and your counselors and your dealers from among your dealers and all your men of war who are in you and all your gathering in your midst will fall in the heart of the sea on the day of your fall.
 
 **Ezekiel 27:28**
 
@@ -85450,7 +85450,7 @@ At the sound of your cry your pilots will fear with fear.
 
 **Ezekiel 27:29**
 
-And all your rowers and passengers and helmsmen of sea will come down from ships and stand on the land.
+And all your rowers and passengers and helmsmen of the sea will come down from the ships and stand on the land.
 
 **Ezekiel 27:30**
 
@@ -85458,23 +85458,23 @@ And they will howl over you with their voice and cry bitterly and put earth on t
 
 **Ezekiel 27:32**
 
-And their sons will take up lament over you and lamentation for you:
+And their sons will take up a lament over you and a lamentation for you:
 
 **Ezekiel 27:33**
 
-What kind of wages did you find from sea? You filled nations from your abundance, and from your mixed trade you enriched all kings of the earth.
+What kind of wages did you find from the sea? You filled nations from your abundance, and from your mixed trade you enriched all the kings of the earth.
 
 **Ezekiel 27:34**
 
-Now you were shattered in sea, in the depth of water; your mixed trade and all your gathering in your midst fell. All your rowers.
+Now you were shattered in the sea, in the depth of water; your mixed trade and all your gathering in your midst fell; all your rowers fell.
 
 **Ezekiel 27:35**
 
-All dwelling on islands were appalled over you, and their kings stood in astonishment, and their face wept.
+All those dwelling on the islands were appalled over you, and their kings stood in astonishment, and their faces wept.
 
 **Ezekiel 27:36**
 
-Merchants from the nations hissed at you; you became destruction and will no longer exist forever.
+Merchants from the nations hissed at you; you became a destruction and will no longer exist forever.
 
 ### Chapter 28
 

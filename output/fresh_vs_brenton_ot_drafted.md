@@ -188247,154 +188247,154 @@ Note:
 ### Ezekiel 27:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and say to Tyre dwelling at the entrance of the sea, merchant of peoples from many islands, Thus says the Lord to Tyre: You said, I have set my beauty around myself.
+- fresh: and say to Tyre dwelling at the entrance of the sea, trading-place of peoples from many islands, Thus says the Lord to Tyre: You said, I have set my beauty around myself.
 - brenton: and thou shalt say to Sor that dwells at the entrance of the sea, to the mart of the nations coming from many islands, Thus saith the Lord to Sor;
 
 ### Ezekiel 27:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In the heart of the sea, in Beelim, your sons set your beauty.
+- fresh: In the heart of the sea, your sons set beauty around you for Beelim.
 - brenton: In the heart of the sea thy sons have put beauty upon thee for Beelim.
 
 ### Ezekiel 27:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: With cedar from Senir they built for you planks of cypress; from Lebanon they took to make you fir masts.
+- fresh: Cedar from Senir was built for you; planks of cypress from Lebanon were taken to make fir masts for you.
 - brenton: Cedar in Senir was employed for thee in building: boards of cypress timber were taken out of Libanus, and wood to make thee masts of fir.
 
 ### Ezekiel 27:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: From Bashan they made your oars; your decking they made from ivory, forest houses from the islands of Kittim.
+- fresh: From Bashan they made your oars; your sacred things they made from ivory, wooded houses from the islands of Kittim.
 - brenton: They made thine oars of wood out of the land of Basan; thy sacred utensils they made of ivory, thy shady houses of wood from the isles of Chetiim.
 
 ### Ezekiel 27:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Fine linen with embroidery from Egypt became your bedding, to put glory around you and clothe you; blue and purple from the islands of Elishah became your garments.
+- fresh: Fine linen with embroidery from Egypt became your bedding, to put glory around you and clothe you with blue and purple from the islands of Elishah; these became your coverings.
 - brenton: Fine linen with embroidery from Egypt supplied thy couch, to put honour upon thee, and to clothe thee with blue and purple from the isles of Elisai; and they became thy coverings.
 
 ### Ezekiel 27:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your rulers, those dwelling in Sidon and Arad, became your rowers; your wise men, Tyre, who were in you, these were your pilots.
+- fresh: And your rulers, those dwelling in Sidon, and Aradians became your rowers; your wise men, Tyre, who were in you, these were your pilots.
 - brenton: And thy princes were the dwellers in Sidon, and the Aradians were thy rowers: thy wise men, O Sor, who were in thee, these were thy pilots.
 
 ### Ezekiel 27:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Elders of Byblos and their wise men were in you; these strengthened your counsel, and all ships of sea and their rowers were for you toward far west.
+- fresh: Elders of Byblos and their wise men were in you; these strengthened your counsel, and all the ships of the sea and their rowers were for you toward the farthest west.
 - brenton: The elders of the Biblians, and their wise men, who were in thee, these helped thy counsel: and all the ships of the sea and their rowers traded for thee to the utmost west.
 
 ### Ezekiel 27:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Persians and Lydians and Libyans were in your force, your men of war; shields and helmets they hung in you; these gave your glory.
+- fresh: Persians and Lydians and Libyans were in your force as your men of war; they hung shields and helmets in you; these gave you your glory.
 - brenton: Persians and Lydians and Libyans were in thine army: thy warriors hung in thee shields and helmets; these gave thee thy glory.
 
 ### Ezekiel 27:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sons of Arad and your force were on your walls; watchers were in your towers; their quivers they hung on your battlements all around; they completed your beauty.
+- fresh: Sons of Aradians and your force were on your walls; guards were in your towers; their quivers they hung on your battlements all around; they completed your beauty.
 - brenton: The sons of the Aradians and thine army were upon thy walls; there were guards in thy towers: they hung their quivers on thy battlements round about; these completed thy beauty.
 
 ### Ezekiel 27:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Carthaginians were your merchants because of abundance of all your strength; silver and gold and iron and tin and lead they gave for your market.
+- fresh: The Carthaginians were your merchants because of the abundance of all your strength; silver and gold and iron and tin and lead they gave to your market.
 - brenton: The Carthaginians were thy merchants because of the abundance of all thy strength; they furnished thy market with silver, and gold, and iron, and tin, and lead.
 
 ### Ezekiel 27:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Greece and all the land and those stretching out beside it traded with you in souls of men, and vessels of bronze they gave for your trade.
+- fresh: Greece and all the land and the adjacent places traded with you in souls of men, and vessels of bronze they gave to your trade.
 - brenton: Greece, both the whole world, and the adjacent coasts, these traded with thee in the persons of men, and they gave as thy merchandise vessels of brass.
 
 ### Ezekiel 27:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From the house of Togarmah horses and horsemen they gave for your market.
+- fresh: From the house of Togarmah horses and horsemen they gave to your market.
 - brenton: Out of the house of Thogarma horses and horsemen furnished thy market.
 
 ### Ezekiel 27:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Sons of Dedan, your merchants from islands, multiplied your trade; ivory teeth, and for imports you paid back your wages.
+- fresh: Sons of Rhodians were your merchants; from islands they multiplied your trade with ivory teeth, and for imports you paid back your wages.
 - brenton: The sons of the Rhodians were thy merchants; from the islands they multiplied thy merchandise, even elephants' teeth: and to them that came in thou didst return thy prices,
 
 ### Ezekiel 27:16
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Men traded your merchandise from the abundance of your mixed goods; myrrh and embroidered cloth from Tarshish and Ramoth and Chorchor they gave for your market.
+- fresh: Men were your merchandise from the abundance of your mixed trade; myrrh and embroidered works from Tarshish and Ramoth and Chorchor they gave to your market.
 - brenton: even men as thy merchandise, from the multitude of thy trading population, myrrh and embroidered works from Tharsis: Ramoth also and Chorchor furnished thy market.
 
 ### Ezekiel 27:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Judah and sons of Israel, these were your merchants. In wheat of Minnith and perfumes and cassia and first honey and oil and resin they gave into your mixed trade.
+- fresh: Judah and the sons of Israel, these were your merchants. In the sale of wheat and perfumes and cassia and best honey and oil and resin they gave to your mixed trade.
 - brenton: Juda and the children of Israel, these were thy merchants; in the sale of corn and ointments and cassia: and they gave the best honey, and oil, and resin, to thy trading population.
 
 ### Ezekiel 27:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Damascus was your merchant from the abundance of all your power, wine from Helbon and wool from Miletus.
+- fresh: Damascus was your merchant because of the abundance of all your strength, wine from Helbon and wool from Miletus.
 - brenton: The people of Damascus were thy merchants by reason of the abundance of all thy power; wine out of Chelbon, and wool from Miletus; and they brought wine into thy market.
 
 ### Ezekiel 27:19
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And they gave wine for your market from Uzal; worked iron and wheel are in your mixed trade.
+- fresh: And they gave wine to your market from Asel; worked iron and a wheel are in your mixed trade.
 - brenton: Out of Asel came wrought iron, and there is the sound of wheels among thy trading population.
 
 ### Ezekiel 27:20
@@ -188409,64 +188409,64 @@ Note:
 ### Ezekiel 27:21
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Arabia and all rulers of Kedar, these were your merchants by your hand, camels and rams and lambs in which they trade you.
+- fresh: Arabia and all the rulers of Kedar, these were your merchants through your hand; in camels and rams and lambs they traded with you.
 - brenton: Arabia and all the princes of Kedar, these were thy traders with thee, bringing camels, and lambs, and rams, in which they trade with thee.
 
 ### Ezekiel 27:22
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Merchants of Sheba and Raamah, these were your merchants; with chief spices and precious stones and gold they gave for your market.
+- fresh: Merchants of Sheba and Raamah, these were your merchants; with choice spices and precious stones and gold they gave to your market.
 - brenton: The merchants of Sabba and Ramma, these were thy merchants, with choice spices, and precious stones: and they brought gold to thy market.
 
 ### Ezekiel 27:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Haran and Canneh, these were your merchants, Asshur and Haran your merchants,
+- fresh: Haran and Canneh, these were your merchants; Asshur and Charman were your merchants,
 - brenton: Charra, and Chanaa, these were thy merchants: Assur, and Charman, were thy merchants:
 
 ### Ezekiel 27:24
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: bringing merchandise, blue cloth and selected treasures tied with cords and cypress goods.
+- fresh: bringing merchandise, blue cloth and choice treasures tied with cords and cypress wood.
 - brenton: bringing for merchandise blue, and choice stores bound with cords, and cypress wood.
 
 ### Ezekiel 27:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Ships among them, Carthaginians, were your merchants in abundance in your mixed trade, and you were filled and became very heavy in the heart of the sea.
+- fresh: Ships among them, Carthaginians, were your merchants in abundance in your mixed trade, and you were filled and loaded very heavily in the heart of the sea.
 - brenton: Ships were thy merchants, in abundance, with thy trading population: and thou wast filled and very heavily loaded in the heart of the sea.
 
 ### Ezekiel 27:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In much water your rowers led you; south wind shattered you in the heart of the sea.
+- fresh: In much water your rowers led you; the south wind shattered you in the heart of the sea.
 - brenton: Thy rowers have brought thee into great waters: the south wind has broken thee in the heart of the sea.
 
 ### Ezekiel 27:27
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Your powers and your wages and your traders and your rowers and your pilots and your counselors and your dealers from among your dealers and all your men of war who are in you and all your gathering in your midst will fall in the heart of the sea on the day of your fall.
+- fresh: Your forces and your wages and your traders and your rowers and your pilots and your counselors and your dealers from among your dealers and all your men of war who are in you and all your gathering in your midst will fall in the heart of the sea on the day of your fall.
 - brenton: Thy forces, and thy gain, and that of thy traders, and thy rowers, and thy pilots, and thy counsellors, and they that traffic with thee, and all thy warriors that are in thee: and all thy company in the midst of thee shall perish in the heart of the sea, in the day of thy fall.
 
 ### Ezekiel 27:28
@@ -188481,10 +188481,10 @@ Note:
 ### Ezekiel 27:29
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And all your rowers and passengers and helmsmen of sea will come down from ships and stand on the land.
+- fresh: And all your rowers and passengers and helmsmen of the sea will come down from the ships and stand on the land.
 - brenton: And all the rowers and the mariners shall come down from the ships, and the pilots of the sea shall stand on the land.
 
 ### Ezekiel 27:30
@@ -188499,46 +188499,46 @@ Note:
 ### Ezekiel 27:32
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And their sons will take up lament over you and lamentation for you:
+- fresh: And their sons will take up a lament over you and a lamentation for you:
 - brenton: And their sons shall take up a lament for thee, even a lamentation for Sor, saying,
 
 ### Ezekiel 27:33
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: What kind of wages did you find from sea? You filled nations from your abundance, and from your mixed trade you enriched all kings of the earth.
+- fresh: What kind of wages did you find from the sea? You filled nations from your abundance, and from your mixed trade you enriched all the kings of the earth.
 - brenton: How large a reward hast thou gained from the sea? thou hast filled nations out of thine abundance; and out of thy mixed merchandise thou hast enriched all the kings of the earth.
 
 ### Ezekiel 27:34
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Now you were shattered in sea, in the depth of water; your mixed trade and all your gathering in your midst fell. All your rowers.
+- fresh: Now you were shattered in the sea, in the depth of water; your mixed trade and all your gathering in your midst fell; all your rowers fell.
 - brenton: Now art thou broken in the sea, thy traders are in the deep water, and all thy company in the midst of thee: all thy rowers have fallen.
 
 ### Ezekiel 27:35
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: All dwelling on islands were appalled over you, and their kings stood in astonishment, and their face wept.
+- fresh: All those dwelling on the islands were appalled over you, and their kings stood in astonishment, and their faces wept.
 - brenton: All the dwellers in the islands have mourned over thee, and their kings have been utterly amazed, and their countenance has wept.
 
 ### Ezekiel 27:36
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Merchants from the nations hissed at you; you became destruction and will no longer exist forever.
+- fresh: Merchants from the nations hissed at you; you became a destruction and will no longer exist forever.
 - brenton: Merchants from the nations have hissed at thee; thou art utterly destroyed, and shalt not be any more for ever.
 
 ### Ezekiel 28:1

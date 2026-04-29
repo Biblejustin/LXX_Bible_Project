@@ -1,6 +1,6 @@
 # Proper Name Note Coverage
 
-- supplemental note rows: `2499`
+- supplemental note rows: `2502`
 - Logos autocomplete DB: `/Users/justinscaggs/Library/Application Support/Logos4/Data/5gtnpjgs.gns/AutoComplete/AutoComplete.db`
 
 Policy:
