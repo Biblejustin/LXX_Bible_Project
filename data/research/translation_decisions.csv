@@ -1001,7 +1001,7 @@ Ezra 1:1,ἐξήγειρεν κύριος τὸ πνεῦμα Κύρου,ἐξε
 Ezra 1:5,ὧν ἐξήγειρεν ὁ θεὸς τὸ πνεῦμα αὐτῶν,ἐξεγείρω | πνεῦμα,relative clause,whose spirit God stirred,whose spirit God awakened,Current wording keeps the stirred-spirit formula explicit. The draft stays close to the source-row Greek.,reviewed,user
 Jonah 1:4,κύριος ἐξήγειρεν πνεῦμα εἰς τὴν θάλασσαν,ἐξεγείρω | πνεῦμα,aorist clause,The Lord stirred up a wind on sea,the Lord stirred up a wind on the sea,Current wording keeps the stirred-wind line explicit. The draft stays close to the source-row Greek.,reviewed,user
 Amos 5:15,ἀποκαταστήσατε ἐν πύλαις κρίμα,ἀποκαθίστημι | κρίμα,imperative clause,restore judgment in the gates,establish judgment in gates,Current wording keeps the gate-judgment formula explicit. The draft stays close to the source-row Greek.,reviewed,codex
-Ezekiel 18:20,ἡ ψυχὴ ἡ ἁμαρτάνουσα ἀποθανεῖται,ψυχή | ἁμαρτάνω | ἀποθνῄσκω,future clause,soul sinning will die,the soul that sins will die,Current wording keeps soul-language explicit. The draft stays close to the source-row Greek.,reviewed,codex
+Ezekiel 18:20,ἡ ψυχὴ ἡ ἁμαρτάνουσα ἀποθανεῖται,ψυχή | ἁμαρτάνω | ἀποθνῄσκω,future clause,soul sinning will die,the soul that sins will die,Reviewed wording keeps the sinning-soul formula explicit and preserves the smoke-guarded wording.,reviewed,codex
 Ezekiel 20:39,τὸ ὄνομά μου τὸ ἅγιον οὐ βεβηλώσετε οὐκέτι,ὄνομα | ἅγιος | βεβηλόω,future clause,you will no longer profane my holy name,you will no more profane my holy name,Current wording keeps the holy-name warning explicit. The draft stays close to the source-row Greek.,reviewed,codex
 Ezra 6:3,οἶκος οἰκοδομηθήτω,οἶκος | οἰκοδομέω,imperative clause,Let house be built,let the house be built,Current wording keeps the decree formula direct. The draft stays close to the source-row Greek.,reviewed,codex
 Ezra 7:12,τετέλεσται ὁ λόγος καὶ ἡ ἀπόκρισις,τελέω | λόγος | ἀπόκρισις,predicate clause,the matter is settled and this answer,the order is complete and this answer,Current wording keeps the compact letter-close formula explicit. The draft stays close to the source-row Greek.,reviewed,codex
@@ -8688,3 +8688,46 @@ Ezekiel 18:8,ανα μεσον ανδρος ... πλησιον,-,between man nei
 Ezekiel 18:9,προσταγμασιν μου,-,my ordinances,my ordinances,my ordinances,The ordinances phrase is retained.,accepted,codex
 Ezekiel 18:9,δικαιωματα μου,-,my judgments,my judgments,my judgments,The judgments phrase is retained.,accepted,codex
 Ezekiel 18:9,ζωη ζησεται,-,living live,living he will live,living he will live,The doubled life formula is retained.,accepted,codex
+Ezekiel 18:10,υιον λοιμον,-,violent son,a violent son,violent son,English supplies article before son.,accepted,codex
+Ezekiel 18:10,εκχεοντα αιμα,-,shedding blood,shedding blood,shedding blood,The shedding-blood phrase is retained.,accepted,codex
+Ezekiel 18:10,ποιουντα αμαρτηματα,-,committing sins,committing sins,doing sins,The sins phrase is retained as committing sins.,accepted,codex
+Ezekiel 18:11,οδω του πατρος αυτου του δικαιου,-,way righteous father,way of his righteous father,way of righteous father,The father-way phrase is retained.,accepted,codex
+Ezekiel 18:11,επι των ορεων εφαγεν,-,ate mountains,ate on the mountains,ate on mountains,English supplies article before mountains.,accepted,codex
+Ezekiel 18:11,γυναικα του πλησιον αυτου,-,wife neighbor,wife of his neighbor,wife of neighbor,English supplies article before wife.,accepted,codex
+Ezekiel 18:12,πτωχον και πενητα,-,poor needy,the poor and needy,poor and needy,English supplies article before poor and needy.,accepted,codex
+Ezekiel 18:12,αρπαγμα ηρπασεν,-,seized plunder,seized plunder,seized plunder,The plunder seizure phrase is retained.,accepted,codex
+Ezekiel 18:12,ενεχυρασμον ουκ απεδωκεν,-,not return pledge,did not return the pledge,did not return pledge,English supplies article before pledge.,accepted,codex
+Ezekiel 18:12,ειδωλα ... οφθαλμους,-,eyes idols,set his eyes on the idols,set eyes on idols,English supplies article before idols.,accepted,codex
+Ezekiel 18:12,ανομιαν πεποιηκεν,-,did lawlessness,did lawlessness,did lawlessness,The lawlessness phrase is retained.,accepted,codex
+Ezekiel 18:13,μετα τοκου εδωκε,-,gave interest,gave with interest,gave with interest,The interest phrase is retained.,accepted,codex
+Ezekiel 18:13,πλεονασμον ελαβεν,-,took excess,took excess,took excess,The excess-taking phrase is retained.,accepted,codex
+Ezekiel 18:13,ουτος ζωη ου ζησεται,-,will not live,Will this one live? He will not live,will this one live,The life question and negated answer are retained.,accepted,codex
+Ezekiel 18:13,θανατω θανατωθησεται,-,death die,by death he will be put to death,by death he will die,The doubled death formula is retained.,accepted,codex
+Ezekiel 18:13,το αιμα αυτου επ' αυτον,-,blood upon him,his blood will be upon him,his blood upon him,The blood-upon-him formula is retained.,accepted,codex
+Ezekiel 18:14,γεννηση υιον,-,fathers son,fathers a son,fathers son,English supplies article before son.,accepted,codex
+Ezekiel 18:14,πασας τας αμαρτιας του πατρος,-,sins father,all the sins of his father,all sins of father,English supplies article before sins.,accepted,codex
+Ezekiel 18:14,φοβηθη και μη ποιηση,-,fears not do,fears and does not do,fears and does not do,The fear-and-refusal clause is retained.,accepted,codex
+Ezekiel 18:15,ορεων ... ενθυμηματα,-,mountains thoughts,mountains and thoughts of the house of Israel,mountains and thoughts of Israel,Articles follow the reviewed verse 18:6 wording.,accepted,codex
+Ezekiel 18:15,γυναικα του πλησιον αυτου,-,wife neighbor,wife of his neighbor,wife of neighbor,Article follows the reviewed verse 18:6 wording.,accepted,codex
+Ezekiel 18:16,ανθρωπον ου κατεδυναστευσεν,-,not oppressed man,has not oppressed a man,has not oppressed a man,The oppression negative is retained.,accepted,codex
+Ezekiel 18:16,ενεχυρασμον ουκ ενεχυρασεν,-,not taken pledge,has not taken a pledge,has not exacted pledge,The pledge-taking negative is retained.,accepted,codex
+Ezekiel 18:16,αρτον ... πεινωντι,-,bread hungry,gave his bread to the hungry one,gave bread to hungry,English supplies article before hungry one.,accepted,codex
+Ezekiel 18:16,γυμνον περιεβαλεν,-,clothed naked,clothed the naked one,clothed naked,English supplies article before naked one.,accepted,codex
+Ezekiel 18:17,αδικιας απεστρεψε την χειρα,-,turned hand injustice,turned his hand away from injustice,turned hand away from injustice,The hand-turned-from-injustice image is retained.,accepted,codex
+Ezekiel 18:17,τοκον ουδε πλεονασμον,-,interest excess,interest or excess,interest nor excess,The interest/excess pair is retained.,accepted,codex
+Ezekiel 18:17,δικαιοσυνην εποιησεν,-,did righteousness,did righteousness,did righteousness,The righteousness-doing phrase is retained.,accepted,codex
+Ezekiel 18:17,προσταγμασιν μου επορευθη,-,walked ordinances,walked in my ordinances,walked in ordinances,The ordinances-walking phrase is retained.,accepted,codex
+Ezekiel 18:17,ου τελευτησει εν αδικιαις πατρος,-,not die injustices father,will not die in the injustices of his father,not die in father's injustices,English supplies article before injustices.,accepted,codex
+Ezekiel 18:17,ζωη ζησεται,-,living live,living he will live,living he will live,The doubled life formula is retained.,accepted,codex
+Ezekiel 18:18,θλιψει θλιψη,-,oppressed oppression,oppressed with oppression,oppressed oppression,The doubled oppression phrase is retained.,accepted,codex
+Ezekiel 18:18,εναντια εποιησεν,-,contrary things,did contrary things,did opposites,The contrary-things phrase replaces awkward opposites wording.,accepted,codex
+Ezekiel 18:18,εν μεσω του λαου μου,-,midst my people,midst of my people,midst of my people,The midst-of-my-people phrase is retained.,accepted,codex
+Ezekiel 18:18,αποθανειται εν τη αδικια αυτου,-,die injustice,die in his injustice,die in his injustice,The death-in-injustice phrase is retained.,accepted,codex
+Ezekiel 18:19,ουκ ελαβεν την αδικιαν ο υιος,-,son not bear injustice,the son not borne the injustice,the son not taken injustice,Borne expresses the contextual force of taken injustice.,accepted,codex
+Ezekiel 18:19,δικαιοσυνην και ελεος εποιησεν,-,righteousness mercy,did righteousness and mercy,did righteousness and mercy,The righteousness-and-mercy pair is retained.,accepted,codex
+Ezekiel 18:19,νομιμα μου συνετηρησεν,-,kept ordinances,kept all my ordinances,kept ordinances,The ordinance-keeping phrase is retained.,accepted,codex
+Ezekiel 18:19,ζωη ζησεται,-,living live,living he will live,living he will live,The doubled life formula is retained.,accepted,codex
+Ezekiel 18:20,υιος ου λημψεται την αδικιαν,-,son not bear injustice,a son will not bear the injustice,a son will not take injustice,Bear expresses the contextual force of taking injustice and preserves guarded wording.,accepted,codex
+Ezekiel 18:20,πατηρ λημψεται την αδικιαν του υιου,-,father not bear injustice,a father bear the injustice of his son,a father take injustice,The father/son non-transfer clause is retained.,accepted,codex
+Ezekiel 18:20,δικαιοσυνη δικαιου,-,righteousness righteous,righteousness of a righteous one,righteousness of righteous,English supplies article before righteous one while preserving guarded wording.,accepted,codex
+Ezekiel 18:20,ανομια ανομου,-,lawlessness lawless,lawlessness of a lawless one,lawlessness of lawless,English supplies article before lawless one.,accepted,codex
