@@ -88678,47 +88678,47 @@ Until completion of the matter, I, Daniel, was greatly held by astonishment, and
 
 **Daniel 8:1**
 
-In the third year of Belshazzar ruling, a vision appeared that I, Daniel, saw after I saw the first one.
+In the third year of Belshazzar's reign, there was a vision that I, Daniel, saw after I saw the first one.
 
 **Daniel 8:2**
 
-And I saw in the vision of my dream, while I was in Shushan the city, which is in the land of Elam, and while I was still by gate Elam.
+And I saw in the vision of my dream, while I was in Shushan the city, which is in the land of Elam, while I was still by the Elam Gate.
 
 **Daniel 8:3**
 
-Lifting up my eyes I saw one great ram standing opposite the gate, and it had horns, and one was higher than the other, and the higher one was coming up.
+Lifting up my eyes, I saw one great ram standing opposite the gate, and it had horns; one was higher than the other, and the higher one was rising.
 
 **Daniel 8:4**
 
-After this I saw the ram butting toward east and toward north and toward west and south, and no beasts stood before it, and there was no one delivering from its hands, and it did as it wished and was exalted.
+After this I saw the ram butting toward the east and toward the north and toward the west and toward the south, and no beasts stood before it, and there was no one delivering from its hands, and it did as it wished and was exalted.
 
 **Daniel 8:5**
 
-And I was pondering, and behold, a male goat was coming from west over the face of the earth and was not touching the earth, and the goat had one horn between its eyes.
+And I was pondering, and behold, a male goat was coming from the west over the face of the earth and was not touching the earth, and the goat had a single horn between its eyes.
 
 **Daniel 8:6**
 
-And it came against the ram with the horns, which I saw standing by the gate, and ran at it in a fury of wrath.
+And it came against the ram with the horns, which I saw standing by the gate, and ran at it in furious anger.
 
 **Daniel 8:7**
 
-And I saw it coming up to the ram, and it was enraged against it and struck and shattered its two horns, and there was no longer strength in the ram to stand before the goat. And it ripped it to the ground and crushed it, and there was no one delivering the ram from the goat.
+And I saw it coming up to the ram, and it was enraged against it and struck and shattered its two horns, and there was no longer strength in the ram to stand before the goat. And it tore it down to the ground and crushed it, and there was no one delivering the ram from the goat.
 
 **Daniel 8:8**
 
-And the goat became exceedingly strong, and when it became strong its great horn was shattered, and behind it four other horns came up toward the four winds of heaven.
+And the goat became exceedingly strong, and when it became strong its great horn was shattered, and four other horns rose up behind it toward the four winds of heaven.
 
 **Daniel 8:9**
 
-And from one of them one strong horn sprang up, and it prevailed and struck toward south and toward east and toward north.
+And from one of them a single strong horn sprang up, and it prevailed and struck toward the south and toward the east and toward the north.
 
 **Daniel 8:10**
 
-And it was lifted up as far as stars of heaven, and some of the stars were dashed to the earth, and some of them were trampled.
+And it was lifted up as far as the stars of heaven, and some of the stars were dashed to the earth, and some of them were trampled.
 
 **Daniel 8:11**
 
-Until the commander-in-chief will rescue the captivity, and because of him the mountains from ages past were dashed down, and their place was removed, and sacrifice was taken and set down to the earth, and it prospered and happened, and the holy place will be made desolate.
+Until the commander-in-chief will rescue the captivity, and because of him the mountains from ages past were dashed down, and their place was removed, and he set sacrifice down to the ground, and it prospered and happened, and the holy place will be made desolate.
 
 **Daniel 8:12**
 
@@ -88726,15 +88726,15 @@ And sins came upon the sacrifice, and righteousness was thrown to the ground, an
 
 **Daniel 8:13**
 
-And I heard another holy one speaking, and the other said to Phelmuni, the one speaking, How long will the vision stand, and the sacrifice that was removed, and sin of desolation that was given, and the holy things will be made desolate for trampling?
+And I heard another holy one speaking, and the other said to Phelmuni, the one speaking, How long will the vision stand, and the sacrifice that was removed, and the sin of desolation that was given, and the holy things will be made desolate for trampling?
 
 **Daniel 8:14**
 
-And he said to him, Until evening and morning, two thousand three hundred days, and holy place will be cleansed.
+And he said to him, Until evening and morning, two thousand three hundred days, and the holy place will be cleansed.
 
 **Daniel 8:15**
 
-And it happened, while I, Daniel, was seeing the vision, I sought to understand, and behold, there stood before me something like the appearance of a man.
+And it happened, while I, Daniel, was beholding the vision, I sought to understand, and behold, there stood before me something like the appearance of a man.
 
 **Daniel 8:16**
 
@@ -88742,19 +88742,19 @@ And I heard the voice of a man between the Ulai, and he called and said, Gabriel
 
 **Daniel 8:17**
 
-And he came and stood beside where I was standing, and when he came I was alarmed and fell on my face. And he said to me, Understand, son of man, for the vision is still for an hour of time.
+And he came and stood beside where I was standing, and when he came I was alarmed and fell on my face. And he said to me, Understand, son of man, for this vision is still for an hour of time.
 
 **Daniel 8:18**
 
-And while he was speaking with me, I fell asleep with his face to the ground, and touching me he raised me up where I stood.
+And while he was speaking with me, I fell asleep face down on the ground, and touching me he raised me up where I stood.
 
 **Daniel 8:19**
 
-And he said to me, Behold, I tell you what will be at the end of the wrath against the sons of your people, for it still awaits hour of completion.
+And he said to me, Behold, I tell you what will be at the end of the wrath against the sons of your people, for it still awaits an hour of a time of completion.
 
 **Daniel 8:20**
 
-The ram you saw with the horns is the king of Medes and Persians.
+The ram that you saw with the horns is the king of Medes and Persians.
 
 **Daniel 8:21**
 
@@ -88762,27 +88762,27 @@ And the male goat is the king of Greeks, and the great horn between its eyes is 
 
 **Daniel 8:22**
 
-And the shattered horn, and four horns rising after it, are four kings from his nation that will arise, but not with his strength.
+And the shattered horn and the four horns rising after it are four kings from his nation that will arise, but not with his strength.
 
 **Daniel 8:23**
 
-And at the end of their kingdom, when their sins are filled up, a king bold in face, understanding riddles, will arise.
+And at the end of their kingdom, when their sins are filled up, a king shameless in face, understanding riddles, will arise.
 
 **Daniel 8:24**
 
-And his strength will be made firm, but not by his own strength, and he will destroy wonderfully and prosper and act, and he will destroy rulers and people of holy ones.
+And his strength will be made firm, but not by his own strength, and he will destroy astonishingly and prosper and act, and he will destroy rulers and a people of holy ones.
 
 **Daniel 8:25**
 
-And his design will be against the holy ones, and falsehood will prosper in his hands, and his heart will be exalted, and by deceit he will destroy many, and he will stand for destruction of men and make a gathering of hand and will be repaid.
+And his design will be against the holy ones, and the falsehood will prosper in his hands, and his heart will be exalted, and by deceit he will destroy many, and he will stand for destruction of men and make a gathering of hand and will be repaid.
 
 **Daniel 8:26**
 
-Vision of evening and morning was found true, and now vision has been sealed, for it is still for many days.
+The vision of evening and morning was found true, and now the vision has been sealed, for it is still for many days.
 
 **Daniel 8:27**
 
-And I, Daniel, became weak for many days, and rising up I again worked in royal matters, and I was exhausted by the vision, and there was no one understanding.
+And I, Daniel, became weak for many days, and rising up I again attended to royal matters, and I was exhausted by the vision, and there was no one who understood.
 
 ### Chapter 9
 

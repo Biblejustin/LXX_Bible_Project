@@ -195611,100 +195611,100 @@ Note:
 ### Daniel 8:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In the third year of Belshazzar ruling, a vision appeared that I, Daniel, saw after I saw the first one.
+- fresh: In the third year of Belshazzar's reign, there was a vision that I, Daniel, saw after I saw the first one.
 - brenton: [missing]
 
 ### Daniel 8:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I saw in the vision of my dream, while I was in Shushan the city, which is in the land of Elam, and while I was still by gate Elam.
+- fresh: And I saw in the vision of my dream, while I was in Shushan the city, which is in the land of Elam, while I was still by the Elam Gate.
 - brenton: [missing]
 
 ### Daniel 8:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Lifting up my eyes I saw one great ram standing opposite the gate, and it had horns, and one was higher than the other, and the higher one was coming up.
+- fresh: Lifting up my eyes, I saw one great ram standing opposite the gate, and it had horns; one was higher than the other, and the higher one was rising.
 - brenton: [missing]
 
 ### Daniel 8:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: After this I saw the ram butting toward east and toward north and toward west and south, and no beasts stood before it, and there was no one delivering from its hands, and it did as it wished and was exalted.
+- fresh: After this I saw the ram butting toward the east and toward the north and toward the west and toward the south, and no beasts stood before it, and there was no one delivering from its hands, and it did as it wished and was exalted.
 - brenton: [missing]
 
 ### Daniel 8:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I was pondering, and behold, a male goat was coming from west over the face of the earth and was not touching the earth, and the goat had one horn between its eyes.
+- fresh: And I was pondering, and behold, a male goat was coming from the west over the face of the earth and was not touching the earth, and the goat had a single horn between its eyes.
 - brenton: [missing]
 
 ### Daniel 8:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it came against the ram with the horns, which I saw standing by the gate, and ran at it in a fury of wrath.
+- fresh: And it came against the ram with the horns, which I saw standing by the gate, and ran at it in furious anger.
 - brenton: [missing]
 
 ### Daniel 8:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I saw it coming up to the ram, and it was enraged against it and struck and shattered its two horns, and there was no longer strength in the ram to stand before the goat. And it ripped it to the ground and crushed it, and there was no one delivering the ram from the goat.
+- fresh: And I saw it coming up to the ram, and it was enraged against it and struck and shattered its two horns, and there was no longer strength in the ram to stand before the goat. And it tore it down to the ground and crushed it, and there was no one delivering the ram from the goat.
 - brenton: [missing]
 
 ### Daniel 8:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the goat became exceedingly strong, and when it became strong its great horn was shattered, and behind it four other horns came up toward the four winds of heaven.
+- fresh: And the goat became exceedingly strong, and when it became strong its great horn was shattered, and four other horns rose up behind it toward the four winds of heaven.
 - brenton: [missing]
 
 ### Daniel 8:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And from one of them one strong horn sprang up, and it prevailed and struck toward south and toward east and toward north.
+- fresh: And from one of them a single strong horn sprang up, and it prevailed and struck toward the south and toward the east and toward the north.
 - brenton: [missing]
 
 ### Daniel 8:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it was lifted up as far as stars of heaven, and some of the stars were dashed to the earth, and some of them were trampled.
+- fresh: And it was lifted up as far as the stars of heaven, and some of the stars were dashed to the earth, and some of them were trampled.
 - brenton: [missing]
 
 ### Daniel 8:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Until the commander-in-chief will rescue the captivity, and because of him the mountains from ages past were dashed down, and their place was removed, and sacrifice was taken and set down to the earth, and it prospered and happened, and the holy place will be made desolate.
+- fresh: Until the commander-in-chief will rescue the captivity, and because of him the mountains from ages past were dashed down, and their place was removed, and he set sacrifice down to the ground, and it prospered and happened, and the holy place will be made desolate.
 - brenton: [missing]
 
 ### Daniel 8:12
@@ -195719,28 +195719,28 @@ Note:
 ### Daniel 8:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I heard another holy one speaking, and the other said to Phelmuni, the one speaking, How long will the vision stand, and the sacrifice that was removed, and sin of desolation that was given, and the holy things will be made desolate for trampling?
+- fresh: And I heard another holy one speaking, and the other said to Phelmuni, the one speaking, How long will the vision stand, and the sacrifice that was removed, and the sin of desolation that was given, and the holy things will be made desolate for trampling?
 - brenton: [missing]
 
 ### Daniel 8:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to him, Until evening and morning, two thousand three hundred days, and holy place will be cleansed.
+- fresh: And he said to him, Until evening and morning, two thousand three hundred days, and the holy place will be cleansed.
 - brenton: [missing]
 
 ### Daniel 8:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened, while I, Daniel, was seeing the vision, I sought to understand, and behold, there stood before me something like the appearance of a man.
+- fresh: And it happened, while I, Daniel, was beholding the vision, I sought to understand, and behold, there stood before me something like the appearance of a man.
 - brenton: [missing]
 
 ### Daniel 8:16
@@ -195755,37 +195755,37 @@ Note:
 ### Daniel 8:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he came and stood beside where I was standing, and when he came I was alarmed and fell on my face. And he said to me, Understand, son of man, for the vision is still for an hour of time.
+- fresh: And he came and stood beside where I was standing, and when he came I was alarmed and fell on my face. And he said to me, Understand, son of man, for this vision is still for an hour of time.
 - brenton: [missing]
 
 ### Daniel 8:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And while he was speaking with me, I fell asleep with his face to the ground, and touching me he raised me up where I stood.
+- fresh: And while he was speaking with me, I fell asleep face down on the ground, and touching me he raised me up where I stood.
 - brenton: [missing]
 
 ### Daniel 8:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Behold, I tell you what will be at the end of the wrath against the sons of your people, for it still awaits hour of completion.
+- fresh: And he said to me, Behold, I tell you what will be at the end of the wrath against the sons of your people, for it still awaits an hour of a time of completion.
 - brenton: [missing]
 
 ### Daniel 8:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The ram you saw with the horns is the king of Medes and Persians.
+- fresh: The ram that you saw with the horns is the king of Medes and Persians.
 - brenton: [missing]
 
 ### Daniel 8:21
@@ -195800,55 +195800,55 @@ Note:
 ### Daniel 8:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the shattered horn, and four horns rising after it, are four kings from his nation that will arise, but not with his strength.
+- fresh: And the shattered horn and the four horns rising after it are four kings from his nation that will arise, but not with his strength.
 - brenton: [missing]
 
 ### Daniel 8:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And at the end of their kingdom, when their sins are filled up, a king bold in face, understanding riddles, will arise.
+- fresh: And at the end of their kingdom, when their sins are filled up, a king shameless in face, understanding riddles, will arise.
 - brenton: [missing]
 
 ### Daniel 8:24
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And his strength will be made firm, but not by his own strength, and he will destroy wonderfully and prosper and act, and he will destroy rulers and people of holy ones.
+- fresh: And his strength will be made firm, but not by his own strength, and he will destroy astonishingly and prosper and act, and he will destroy rulers and a people of holy ones.
 - brenton: [missing]
 
 ### Daniel 8:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And his design will be against the holy ones, and falsehood will prosper in his hands, and his heart will be exalted, and by deceit he will destroy many, and he will stand for destruction of men and make a gathering of hand and will be repaid.
+- fresh: And his design will be against the holy ones, and the falsehood will prosper in his hands, and his heart will be exalted, and by deceit he will destroy many, and he will stand for destruction of men and make a gathering of hand and will be repaid.
 - brenton: [missing]
 
 ### Daniel 8:26
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Vision of evening and morning was found true, and now vision has been sealed, for it is still for many days.
+- fresh: The vision of evening and morning was found true, and now the vision has been sealed, for it is still for many days.
 - brenton: [missing]
 
 ### Daniel 8:27
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I, Daniel, became weak for many days, and rising up I again worked in royal matters, and I was exhausted by the vision, and there was no one understanding.
+- fresh: And I, Daniel, became weak for many days, and rising up I again attended to royal matters, and I was exhausted by the vision, and there was no one who understood.
 - brenton: [missing]
 
 ### Daniel 9:1
