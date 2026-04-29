@@ -91406,23 +91406,23 @@ Therefore because of you Zion will be plowed like a field and Jerusalem will be 
 
 **Micah 4:1**
 
-And it will be in the last days, mountain of the Lord will be manifest, prepared on the tops of mountains and lifted above hills, and peoples will hasten to it.
+And it will be in the last days, the mountain of the Lord will be manifest, prepared on the tops of the mountains and lifted above the hills, and the peoples will hasten to it.
 
 **Micah 4:2**
 
-And many nations will go and say, Come, let us go up to the mountain of the Lord and to the house of God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
+And many nations will go and say, Come, let us go up to the mountain of the Lord and to the house of the God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
 
 **Micah 4:3**
 
-And he will judge among many peoples and reprove strong nations as far as far land, and they will beat their swords into plows and their spears into sickles, and nation will no longer lift sword against nation, and they will no longer learn to make war.
+And he will judge among many peoples and reprove strong nations as far as a far land, and they will beat their swords into plows and their spears into sickles, and nation will no longer lift up sword against nation, and they will no longer learn to war.
 
 **Micah 4:4**
 
-And each will rest under his vine and each under his fig tree, and there will be no one frightening, because the mouth of the Lord Almighty spoke these things.
+And each will rest under his vine and each under his fig tree, and there will be no one frightening them, because the mouth of the Lord Almighty spoke these things.
 
 **Micah 4:5**
 
-Because all peoples will walk, each in his own way, but we will walk in the name of the Lord our God forever and beyond.
+Because all the peoples will walk, each in his own way, but we will walk in the name of the Lord our God forever and beyond.
 
 **Micah 4:6**
 
@@ -91430,19 +91430,19 @@ In that day, says the Lord, I will gather the crushed one and receive the driven
 
 **Micah 4:7**
 
-And I will make the crushed one a remnant and the driven-out a strong nation, and the Lord will reign over them in mount Zion from now and forever.
+And I will make the crushed one a remnant and the driven-out a strong nation, and the Lord will reign over them on Mount Zion from now and forever.
 
 **Micah 4:8**
 
-And you, tower of flock, dim daughter of Zion, upon you it will come and first rule will enter, kingdom from Babylon to the daughter of Jerusalem.
+And you, dim tower of a flock, daughter of Zion, upon you it will come, and the first rule will enter, a kingdom from Babylon to the daughter of Jerusalem.
 
 **Micah 4:9**
 
-And now why did you know evils? Was there no king for you, or has your counsel perished, because labor pains seized you like a woman birthing?
+And now why did you know evils? Was there no king for you, or has your counsel perished, because labor pains seized you like a woman giving birth?
 
 **Micah 4:10**
 
-Be in labor and act like a man and draw near, daughter of Zion, like a birthing woman, because now you will go out from the city and camp in the plain and reach to Babylon. There the Lord your God will rescue you; there he will redeem you from the hand of your enemies.
+Be in labor and act like a man and draw near, O daughter of Zion, like a woman giving birth, because now you will go out from the city and camp in the plain and reach as far as Babylon. There the Lord your God will rescue you; there he will redeem you from the hand of your enemies.
 
 **Micah 4:11**
 
@@ -91454,11 +91454,11 @@ But they did not know the thought of the Lord and did not understand his counsel
 
 **Micah 4:13**
 
-Rise and thresh them, daughter of Zion, because I will make your horns iron and your hoofs bronze, and in them you will crush many nations and devote their multitude to the Lord and their strength to the Lord of all the earth.
+Rise up and thresh them, O daughter of Zion, because I will make your horns iron and your hoofs bronze, and in them you will crush many nations and devote their multitude to the Lord and their strength to the Lord of all the earth.
 
 **Micah 4:14**
 
-Now daughter of Ephraim will be fenced in with fence. He set pressure upon us; with rod they will strike the tribes of Israel on jaw.
+Now the daughter of Ephraim will be fenced in with a fence. He set distress upon us; with a rod they will strike the tribes of Israel on the jaw.
 
 ### Chapter 5
 

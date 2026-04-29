@@ -201554,46 +201554,46 @@ Note:
 ### Micah 4:1
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in the last days, mountain of the Lord will be manifest, prepared on the tops of mountains and lifted above hills, and peoples will hasten to it.
+- fresh: And it will be in the last days, the mountain of the Lord will be manifest, prepared on the tops of the mountains and lifted above the hills, and the peoples will hasten to it.
 - brenton: And at the last days the mountain of the Lord shall be manifest, established on the tops of the mountains, and it shall be exalted above the hills; and the peoples shall hasten to it.
 
 ### Micah 4:2
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And many nations will go and say, Come, let us go up to the mountain of the Lord and to the house of God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
+- fresh: And many nations will go and say, Come, let us go up to the mountain of the Lord and to the house of the God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
 - brenton: And many nations shall go, and say, Come, let us go up to the mountain of the Lord, and to the house of the God of Jacob; and they shall shew us his way, and we will walk in his paths: for out of Sion shall go forth a law, and the word of the Lord from Jerusalem.
 
 ### Micah 4:3
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will judge among many peoples and reprove strong nations as far as far land, and they will beat their swords into plows and their spears into sickles, and nation will no longer lift sword against nation, and they will no longer learn to make war.
+- fresh: And he will judge among many peoples and reprove strong nations as far as a far land, and they will beat their swords into plows and their spears into sickles, and nation will no longer lift up sword against nation, and they will no longer learn to war.
 - brenton: And he shall judge among many peoples, and shall rebuke strong nations afar off; and they shall beat their swords into ploughshares, and their spears into sickles; and nation shall no more lift up sword against nation, neither shall they learn to war any more.
 
 ### Micah 4:4
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And each will rest under his vine and each under his fig tree, and there will be no one frightening, because the mouth of the Lord Almighty spoke these things.
+- fresh: And each will rest under his vine and each under his fig tree, and there will be no one frightening them, because the mouth of the Lord Almighty spoke these things.
 - brenton: And every one shall rest under his vine, and every one under his fig-tree; and there shall be none to alarm them: for the mouth of the Lord Almighty has spoken these words.
 
 ### Micah 4:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because all peoples will walk, each in his own way, but we will walk in the name of the Lord our God forever and beyond.
+- fresh: Because all the peoples will walk, each in his own way, but we will walk in the name of the Lord our God forever and beyond.
 - brenton: For all other nations shall walk every one in his own way, but we will walk in the name of the Lord our God for ever and ever.
 
 ### Micah 4:6
@@ -201608,37 +201608,37 @@ Note:
 ### Micah 4:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make the crushed one a remnant and the driven-out a strong nation, and the Lord will reign over them in mount Zion from now and forever.
+- fresh: And I will make the crushed one a remnant and the driven-out a strong nation, and the Lord will reign over them on Mount Zion from now and forever.
 - brenton: And I will make her that was bruised a remnant, and her that was rejected a mighty nation: and the Lord shall reign over them in mount Sion from henceforth, even for ever.
 
 ### Micah 4:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, tower of flock, dim daughter of Zion, upon you it will come and first rule will enter, kingdom from Babylon to the daughter of Jerusalem.
+- fresh: And you, dim tower of a flock, daughter of Zion, upon you it will come, and the first rule will enter, a kingdom from Babylon to the daughter of Jerusalem.
 - brenton: And thou, dark tower of the flock, daughter of Sion, on thee the dominion shall come and enter in, even the first kingdom from Babylon to the daughter of Jerusalem.
 
 ### Micah 4:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now why did you know evils? Was there no king for you, or has your counsel perished, because labor pains seized you like a woman birthing?
+- fresh: And now why did you know evils? Was there no king for you, or has your counsel perished, because labor pains seized you like a woman giving birth?
 - brenton: And now, why hast thou known calamities? was there not a king to thee? or has thy counsel perished that pangs as of a woman in travail have seized upon thee?
 
 ### Micah 4:10
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Be in labor and act like a man and draw near, daughter of Zion, like a birthing woman, because now you will go out from the city and camp in the plain and reach to Babylon. There the Lord your God will rescue you; there he will redeem you from the hand of your enemies.
+- fresh: Be in labor and act like a man and draw near, O daughter of Zion, like a woman giving birth, because now you will go out from the city and camp in the plain and reach as far as Babylon. There the Lord your God will rescue you; there he will redeem you from the hand of your enemies.
 - brenton: Be in pain, and strengthen thyself, and draw near, O daughter of Sion, as a woman in travail: for now thou shalt go forth out of the city, and shalt lodge in the plain, and shalt reach even to Babylon: thence shall the Lord thy God deliver thee, and thence shall he redeem thee out of the hand of thine enemies.
 
 ### Micah 4:11
@@ -201653,7 +201653,7 @@ Note:
 ### Micah 4:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: But they did not know the thought of the Lord and did not understand his counsel, because he gathered them like sheaves of the threshing floor.
@@ -201662,19 +201662,19 @@ Note:
 ### Micah 4:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Rise and thresh them, daughter of Zion, because I will make your horns iron and your hoofs bronze, and in them you will crush many nations and devote their multitude to the Lord and their strength to the Lord of all the earth.
+- fresh: Rise up and thresh them, O daughter of Zion, because I will make your horns iron and your hoofs bronze, and in them you will crush many nations and devote their multitude to the Lord and their strength to the Lord of all the earth.
 - brenton: Arise, and thresh them, O daughter of Sion: for I will make thine horns iron, and I will make thine hoofs brass: and thou shalt utterly destroy many nations, and shalt consecrate their abundance to the Lord, and their strength to the Lord of all the earth.
 
 ### Micah 4:14
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Now daughter of Ephraim will be fenced in with fence. He set pressure upon us; with rod they will strike the tribes of Israel on jaw.
+- fresh: Now the daughter of Ephraim will be fenced in with a fence. He set distress upon us; with a rod they will strike the tribes of Israel on the jaw.
 - brenton: Now shall the daughter of Sion be completely hedged in: he has laid siege against us: they shall smite the tribes of Israel with a rod upon the cheek.
 
 ### Micah 5:1
