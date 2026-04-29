@@ -90122,11 +90122,11 @@ And the beasts of the plain looked up to you, because the streams of waters drie
 
 **Joel 2:1**
 
-Blow trumpet in Zion, proclaim on my holy mountain, and let all inhabiting the land be shaken, because the day of the Lord is present, because it is near:
+Blow trumpet in Zion, proclaim on my holy mountain, and let all who inhabit the land be shaken, because the day of the Lord is present, because it is near:
 
 **Joel 2:2**
 
-day of darkness and gloom, day of cloud and mist. Like dawn it will be poured out on the mountains, a great and strong people; none like it has happened from age, and after it none will be added for years of generations.
+A day of darkness and gloom, a day of cloud and mist; like dawn a great and strong people will be poured out on the mountains. None like it has happened from the age, and after it none will be added, to years of generations.
 
 **Joel 2:3**
 
@@ -90134,35 +90134,35 @@ Before it fire consumes, and behind it kindled flame; before its face the land i
 
 **Joel 2:4**
 
-Its appearance is like the appearance of horses, and like horsemen they will pursue.
+Their appearance is like the appearance of horses, and like horsemen they will pursue.
 
 **Joel 2:5**
 
-Like the sound of chariots on the tops of mountains they will leap, and like the sound of flame of fire devouring stubble, and like great and strong people arrayed for war.
+Like the sound of chariots on the tops of mountains they will leap, and like the sound of a flame of fire devouring stubble, and like a great and strong people arrayed for war.
 
 **Joel 2:6**
 
-Before its face peoples will be crushed; every face as scorching of a pot.
+Before its face peoples will be crushed; every face will be like the scorching of a pot.
 
 **Joel 2:7**
 
-Like fighters they will run, and like men of war they will climb walls, and each will go in his own way, and they will never turn from their paths.
+Like warriors they will run, and like men of war they will climb the walls, and each will go in his own way, and they will never turn aside from their paths.
 
 **Joel 2:8**
 
-And each will not keep away from his brother; weighed down in their weapons they will go, and by their missiles they will fall and will never be finished off.
+And each will not stand aloof from his brother; weighed down in their weapons they will go, and by their missiles they will fall, and they will never be destroyed.
 
 **Joel 2:9**
 
-They will seize the city and run on the walls and climb into houses and enter through windows like thieves.
+They will seize the city and run on the walls and climb up on the houses and enter through windows like thieves.
 
 **Joel 2:10**
 
-Before them earth will be shaken and heaven shaken; sun and moon will be darkened and stars will withdraw their light.
+Before them the earth will be confounded, and heaven will be shaken; the sun and the moon will be darkened, and the stars will withdraw their light.
 
 **Joel 2:11**
 
-And the Lord will give his voice before his force, because his camp is exceedingly great, because works of his words are strong; because great is the day of the Lord, very great and conspicuous, and who will be sufficient for it?
+And the Lord will give his voice before his host, because his camp is exceedingly great, because the works of his words are strong; because great is the day of the Lord, great and very conspicuous, and who will be sufficient for it?
 
 **Joel 2:12**
 
@@ -90178,15 +90178,15 @@ Who knows whether he will turn and repent and leave behind him blessing, sacrifi
 
 **Joel 2:15**
 
-Blow trumpet in Zion, sanctify a fast, proclaim service.
+Blow trumpet in Zion, sanctify a fast, proclaim a service.
 
 **Joel 2:16**
 
-Gather people, sanctify assembly, choose elders, gather infants nursing breasts. Let bridegroom go out from his chamber and bride from her wedding-room.
+Gather people, sanctify an assembly, choose elders, gather infants nursing breasts. Let the bridegroom go out from his chamber and the bride from her wedding-room.
 
 **Joel 2:17**
 
-At the base of the altar, the priests serving the Lord will weep and say, Spare, O Lord, your people, and do not give your inheritance to reproach for the nations to rule them, so that they may not say among the nations, Where is their God?
+At the base of the altar, the priests who serve the Lord will weep and say, Spare, O Lord, your people, and do not give your inheritance as a reproach, that nations should rule them, so that they may not say among the nations, Where is their God?
 
 **Joel 2:18**
 
@@ -90194,11 +90194,11 @@ And the Lord was jealous for his land and spared his people.
 
 **Joel 2:19**
 
-And the Lord answered and said to his people, Behold, I am sending you grain and wine and oil, and you will be filled with them, and I will no longer give you to reproach among nations.
+And the Lord answered and said to his people, Behold, I am sending you grain and wine and oil, and you will be filled with them, and I will no longer give you as a reproach among the nations.
 
 **Joel 2:20**
 
-And the one from north I will drive away from you and thrust him into waterless and ruined land, his face into the former sea and his back into the last sea, and his rot will rise and his stench will rise, because he magnified his deeds.
+And the one from the north I will drive away from you and thrust him into a waterless land, and I will make his face vanish into the former sea and his back into the last sea, and his rot will rise and his stench will rise, because he magnified his deeds.
 
 **Joel 2:21**
 
@@ -90206,23 +90206,23 @@ Take courage, land; rejoice and be glad, because the Lord magnified what he did.
 
 **Joel 2:22**
 
-Take courage, beasts of the field, because plains of the wilderness have sprouted, because tree bore its fruit, vine and fig tree gave their strength.
+Take courage, beasts of the plain, because plains of the wilderness have sprouted, because the tree bore its fruit, the vine and the fig tree gave their strength.
 
 **Joel 2:23**
 
-And children of Zion, rejoice and be glad in the Lord your God, because he gave you foods in righteousness, and he will rain on you early and latter rain as before.
+And children of Zion, rejoice and be glad in the Lord your God, because he gave you foods in righteousness, and he will rain on you the early and latter rain as before.
 
 **Joel 2:24**
 
-And threshing floors will be filled with grain, and vats will overflow with wine and oil.
+And the threshing floors will be filled with grain, and the vats will overflow with wine and oil.
 
 **Joel 2:25**
 
-And I will repay you for years that locust and hopper and blight and caterpillar ate, my great force that I sent among you.
+And I will repay you for years that locust and hopper and blight and caterpillar ate, my great host that I sent against you.
 
 **Joel 2:26**
 
-And eating you will eat and be filled and praise the name of the Lord your God, who did wonders with you, and my people will never be put to shame forever.
+And eating, you will eat and be filled and praise the name of the Lord your God, who did wonders with you, and my people will never be put to shame forever.
 
 **Joel 2:27**
 

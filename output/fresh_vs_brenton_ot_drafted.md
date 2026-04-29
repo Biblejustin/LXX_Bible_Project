@@ -198765,19 +198765,19 @@ Note:
 ### Joel 2:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Blow trumpet in Zion, proclaim on my holy mountain, and let all inhabiting the land be shaken, because the day of the Lord is present, because it is near:
+- fresh: Blow trumpet in Zion, proclaim on my holy mountain, and let all who inhabit the land be shaken, because the day of the Lord is present, because it is near:
 - brenton: Sound the trumpet in Sion, make a proclamation in my holy mountain, and let all the inhabitants of the land be confounded: for the day of the Lord is near;
 
 ### Joel 2:2
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: day of darkness and gloom, day of cloud and mist. Like dawn it will be poured out on the mountains, a great and strong people; none like it has happened from age, and after it none will be added for years of generations.
+- fresh: A day of darkness and gloom, a day of cloud and mist; like dawn a great and strong people will be poured out on the mountains. None like it has happened from the age, and after it none will be added, to years of generations.
 - brenton: for a day of darkness and gloominess is near, a day of cloud and mist: a numerous and strong people shall be spread upon the mountains as the morning; there has not been from the beginning one like it, and after it there shall not be again even to the years of many generations.
 
 ### Joel 2:3
@@ -198792,73 +198792,73 @@ Note:
 ### Joel 2:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Its appearance is like the appearance of horses, and like horsemen they will pursue.
+- fresh: Their appearance is like the appearance of horses, and like horsemen they will pursue.
 - brenton: Their appearance is as the appearance of horses; and as horsemen, so shall they pursue.
 
 ### Joel 2:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Like the sound of chariots on the tops of mountains they will leap, and like the sound of flame of fire devouring stubble, and like great and strong people arrayed for war.
+- fresh: Like the sound of chariots on the tops of mountains they will leap, and like the sound of a flame of fire devouring stubble, and like a great and strong people arrayed for war.
 - brenton: As the sound of chariots on the tops of mountains shall they leap, and as the sound of a flame of fire devouring stubble, and as a numerous and strong people setting themselves in array for battle.
 
 ### Joel 2:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Before its face peoples will be crushed; every face as scorching of a pot.
+- fresh: Before its face peoples will be crushed; every face will be like the scorching of a pot.
 - brenton: Before them shall the people be crushed: every face shall be as the blackness of a caldron.
 
 ### Joel 2:7
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Like fighters they will run, and like men of war they will climb walls, and each will go in his own way, and they will never turn from their paths.
+- fresh: Like warriors they will run, and like men of war they will climb the walls, and each will go in his own way, and they will never turn aside from their paths.
 - brenton: As warriors shall they run, and as men of war shall they mount on the walls; and each shall move in his right path, and they shall not turn aside from their tracks:
 
 ### Joel 2:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And each will not keep away from his brother; weighed down in their weapons they will go, and by their missiles they will fall and will never be finished off.
+- fresh: And each will not stand aloof from his brother; weighed down in their weapons they will go, and by their missiles they will fall, and they will never be destroyed.
 - brenton: and not one shall stand aloof from his brother: they shall go on weighed down with their arms, and they fall upon their weapons, yet shall they in no wise be destroyed.
 
 ### Joel 2:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will seize the city and run on the walls and climb into houses and enter through windows like thieves.
+- fresh: They will seize the city and run on the walls and climb up on the houses and enter through windows like thieves.
 - brenton: They shall seize upon the city, and run upon the walls, and go up upon the houses, and enter in through the windows as thieves.
 
 ### Joel 2:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Before them earth will be shaken and heaven shaken; sun and moon will be darkened and stars will withdraw their light.
+- fresh: Before them the earth will be confounded, and heaven will be shaken; the sun and the moon will be darkened, and the stars will withdraw their light.
 - brenton: Before them the earth shall be confounded, and the sky shall be shaken: the sun and the moon shall be darkened, and the stars shall withdraw their light.
 
 ### Joel 2:11
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will give his voice before his force, because his camp is exceedingly great, because works of his words are strong; because great is the day of the Lord, very great and conspicuous, and who will be sufficient for it?
+- fresh: And the Lord will give his voice before his host, because his camp is exceedingly great, because the works of his words are strong; because great is the day of the Lord, great and very conspicuous, and who will be sufficient for it?
 - brenton: And the Lord shall utter his voice before his host: for his camp is very great: for the execution of his words is mighty: for the day of the Lord is great, very glorious, and who shall be able to resist it?
 
 ### Joel 2:12
@@ -198891,28 +198891,28 @@ Note:
 ### Joel 2:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Blow trumpet in Zion, sanctify a fast, proclaim service.
+- fresh: Blow trumpet in Zion, sanctify a fast, proclaim a service.
 - brenton: Sound the trumpet in Sion, sanctify a fast, proclaim a solemn service:
 
 ### Joel 2:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Gather people, sanctify assembly, choose elders, gather infants nursing breasts. Let bridegroom go out from his chamber and bride from her wedding-room.
+- fresh: Gather people, sanctify an assembly, choose elders, gather infants nursing breasts. Let the bridegroom go out from his chamber and the bride from her wedding-room.
 - brenton: gather the people, sanctify the congregation, assemble the elders, gather the infants at the breast: let the bridegroom go forth of his chamber, and the bride out of her closet.
 
 ### Joel 2:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: At the base of the altar, the priests serving the Lord will weep and say, Spare, O Lord, your people, and do not give your inheritance to reproach for the nations to rule them, so that they may not say among the nations, Where is their God?
+- fresh: At the base of the altar, the priests who serve the Lord will weep and say, Spare, O Lord, your people, and do not give your inheritance as a reproach, that nations should rule them, so that they may not say among the nations, Where is their God?
 - brenton: Between the porch and the altar let the priests that minister to the Lord weep, and say, Spare thy people, O Lord, and give not thine heritage to reproach, that the heathen should rule over them, lest they should say among the heathen, Where is their God?
 
 ### Joel 2:18
@@ -198927,19 +198927,19 @@ Note:
 ### Joel 2:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord answered and said to his people, Behold, I am sending you grain and wine and oil, and you will be filled with them, and I will no longer give you to reproach among nations.
+- fresh: And the Lord answered and said to his people, Behold, I am sending you grain and wine and oil, and you will be filled with them, and I will no longer give you as a reproach among the nations.
 - brenton: And the Lord answered and said to his people, Behold, I will send you corn, and wine, and oil, and ye shall be satisfied with them: and I will no longer make you a reproach among the Gentiles.
 
 ### Joel 2:20
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And the one from north I will drive away from you and thrust him into waterless and ruined land, his face into the former sea and his back into the last sea, and his rot will rise and his stench will rise, because he magnified his deeds.
+- fresh: And the one from the north I will drive away from you and thrust him into a waterless land, and I will make his face vanish into the former sea and his back into the last sea, and his rot will rise and his stench will rise, because he magnified his deeds.
 - brenton: And I will chase away from you the northern adversary, and will drive him away into a dry land, and I will sink his face in the former sea, and his back parts in the latter sea, and his ill savour shall come up, and his stink shall come up, because he has wrought great things.
 
 ### Joel 2:21
@@ -198954,46 +198954,46 @@ Note:
 ### Joel 2:22
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Take courage, beasts of the field, because plains of the wilderness have sprouted, because tree bore its fruit, vine and fig tree gave their strength.
+- fresh: Take courage, beasts of the plain, because plains of the wilderness have sprouted, because the tree bore its fruit, the vine and the fig tree gave their strength.
 - brenton: Be of good courage, ye beasts of the plain, for the plains of the wilderness have budded, for the trees have borne their fruit, the fig-tree and the vine have yielded their strength.
 
 ### Joel 2:23
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And children of Zion, rejoice and be glad in the Lord your God, because he gave you foods in righteousness, and he will rain on you early and latter rain as before.
+- fresh: And children of Zion, rejoice and be glad in the Lord your God, because he gave you foods in righteousness, and he will rain on you the early and latter rain as before.
 - brenton: Rejoice then and be glad, ye children of Sion, in the Lord your God: for he has given you food fully, and he will rain on you the early and the latter rain, as before.
 
 ### Joel 2:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And threshing floors will be filled with grain, and vats will overflow with wine and oil.
+- fresh: And the threshing floors will be filled with grain, and the vats will overflow with wine and oil.
 - brenton: And the floors shall be filled with corn, and the presses shall overflow with wine and oil.
 
 ### Joel 2:25
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will repay you for years that locust and hopper and blight and caterpillar ate, my great force that I sent among you.
+- fresh: And I will repay you for years that locust and hopper and blight and caterpillar ate, my great host that I sent against you.
 - brenton: And I will recompense you for the years which the locust, and the caterpillar, and the palmerworm, and the cankerworm have eaten, even my great army, which I sent against you.
 
 ### Joel 2:26
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And eating you will eat and be filled and praise the name of the Lord your God, who did wonders with you, and my people will never be put to shame forever.
+- fresh: And eating, you will eat and be filled and praise the name of the Lord your God, who did wonders with you, and my people will never be put to shame forever.
 - brenton: And ye shall eat abundantly, and be satisfied, and shall praise the name of the Lord your God for the things which he has wrought wonderfully with you: and my people shall not be ashamed for ever.
 
 ### Joel 2:27
