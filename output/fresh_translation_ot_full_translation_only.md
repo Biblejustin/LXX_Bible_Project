@@ -87688,35 +87688,35 @@ And they will be in a tribe of resident aliens, among the resident aliens who ar
 
 **Ezekiel 48:1**
 
-And these are names of the tribes. From north end, by way of the descent that skirts entrance of Hamath, court of Hazar-enan, border of Damascus northward, alongside Hamath, from east side to west side, Dan, one portion.
+And these are the names of the tribes. From the north end, by the side of the descent that skirts the entrance of Hamath, the court of Hazar-enan, the border of Damascus northward, by the side of the court of Hamath, they will have the parts toward the east as far as the sea: Dan, one portion.
 
 **Ezekiel 48:2**
 
-And beside the border of Dan, from east side to west side, Asher, one portion.
+And beside the border of Dan, from the east side to the side toward the sea, Asher, one portion.
 
 **Ezekiel 48:3**
 
-And beside the border of Asher, from east side to west side, Naphtali, one portion.
+And beside the border of Asher, from the east side to the side toward the sea, Naphtali, one portion.
 
 **Ezekiel 48:4**
 
-And beside the border of Naphtali, from east side to west side, Manasseh, one portion.
+And beside the border of Naphtali, from the east side to the side toward the sea, Manasseh, one portion.
 
 **Ezekiel 48:5**
 
-And beside the border of Manasseh, from east side to west side, Ephraim, one portion.
+And beside the border of Manasseh, from the east side to the side toward the sea, Ephraim, one portion.
 
 **Ezekiel 48:6**
 
-And beside the border of Ephraim, from east side to west side, Reuben, one portion.
+And beside the border of Ephraim, from the east side to the side toward the sea, Reuben, one portion.
 
 **Ezekiel 48:7**
 
-And beside the border of Reuben, from east side to west side, Judah, one portion.
+And beside the border of Reuben, from the east side to the side toward the sea, Judah, one portion.
 
 **Ezekiel 48:8**
 
-And beside the border of Judah, from east side to west side, will be first portion of the set-apart gift, twenty-five thousand in breadth and in length like one of the tribal portions, from east side to west side, and the holy place will be in the midst of them.
+And beside the border of Judah, from the east side to the side toward the sea, will be the first portion of the set-apart gift, twenty-five thousand in breadth and in length like one of the tribal portions, from the east side and as far as the side toward the sea, and the holy place will be in the midst of them.
 
 **Ezekiel 48:9**
 
@@ -87724,107 +87724,107 @@ The first portion that they will set apart to the Lord: twenty-five thousand in 
 
 **Ezekiel 48:10**
 
-Of these will be first portion of the holy things for the priests: toward north twenty-five thousand, and toward sea ten thousand in breadth, and toward east ten thousand in breadth, and toward south twenty-five thousand in length, and the mountain of the holy things will be in the midst of it.
+Of these will be the first portion of the holy things for the priests: toward the north, twenty-five thousand; toward the sea, ten thousand in breadth; toward the east, ten thousand in breadth; and toward the south, twenty-five thousand in length; and the mountain of the holy things will be in the midst of it.
 
 **Ezekiel 48:11**
 
-It will belong to the consecrated priests, sons of Zadok, who keep charges of the house, who did not go astray in the wandering of sons of Israel the way the Levites went astray.
+It will belong to the consecrated priests, sons of Zadok, who keep the charges of the house, who did not go astray in the wandering of the sons of Israel, as the Levites went astray.
 
 **Ezekiel 48:12**
 
-And they will have the first portion given from first portions of the land, holy of holies, from the borders of the Levites.
+And the first portion given to them from the first portions of the land will be holy of holies, from the borders of the Levites.
 
 **Ezekiel 48:13**
 
-And for the Levites, next to borders of the priests, length twenty-five thousand and breadth ten thousand; whole length twenty-five thousand and breadth twenty thousand.
+And for the Levites, next to the borders of the priests, length twenty-five thousand and breadth ten thousand; the whole length twenty-five thousand and breadth twenty thousand.
 
 **Ezekiel 48:14**
 
-None of it will be sold, nor measured out, nor will firstfruits of the land be removed, because it is holy to the Lord.
+No part of it will be sold, nor measured out, nor will the firstfruits of the land be removed, because it is holy to the Lord.
 
 **Ezekiel 48:15**
 
-And the five thousand left over in breadth beside the twenty-five thousand will be common land for the city, for dwelling and for its open space, and the city will be in the midst of it.
+And the five thousand left over in breadth beside the twenty-five thousand will be a suburb for the city, for dwelling and for its open space, and the city will be in the midst of it.
 
 **Ezekiel 48:16**
 
-And these are its measures: on north side four thousand five hundred, and on south side four thousand five hundred, and on east side four thousand five hundred, and on west side four thousand five hundred.
+And these are its measures: from the north side, four thousand five hundred; from the south side, four thousand five hundred; from the east side, four thousand five hundred; and from the side toward the sea, four thousand five hundred.
 
 **Ezekiel 48:17**
 
-And there will be open space for the city: on north two hundred fifty, and on south two hundred fifty, and on east two hundred fifty, and on west two hundred fifty.
+And there will be open space for the city: toward the north, two hundred fifty; toward the south, two hundred fifty; toward the east, two hundred fifty; and toward the sea, two hundred fifty.
 
 **Ezekiel 48:18**
 
-And remaining length beside first portion of the holy things, ten thousand toward east and ten thousand toward west, will be next to first portion of the holy things, and its produce will be for bread for those working the city.
+And the remaining length beside the first portions of the holy things, ten thousand toward the east and ten thousand toward the sea, will be the first portions of the holy place, and its produce will be for bread for those working the city.
 
 **Ezekiel 48:19**
 
-And those working the city will work it from all the tribes of Israel.
+And those working the city will work for it out of all the tribes of Israel.
 
 **Ezekiel 48:20**
 
-Whole first portion, twenty-five thousand by twenty-five thousand, square, you will set apart as first portion of the holy things from the possession of the city.
+The whole first portion, twenty-five thousand by twenty-five thousand, square: from it you will set apart the first portion of the holy things from the possession of the city.
 
 **Ezekiel 48:21**
 
-And the remainder will belong to the ruler, on this side and on that side of first portion of the holy things and of possession of the city, along the twenty-five thousand in length to east border, and westward along the twenty-five thousand to west border, beside the tribal portions, for the ruler; and first portion of the holy things and sanctuary of the house will be in the midst of it.
+And the remainder will belong to the ruler, on this side and on that side, from the first portions of the holy place and for the possession of the city, along the twenty-five thousand in length as far as the borders toward the east, and toward the sea along the twenty-five thousand as far as the borders toward the sea, next to the portions of the ruler; and the first portion of the holy things and the sanctuary of the house will be in the midst of it.
 
 **Ezekiel 48:22**
 
-And from the possession of the Levites and from the possession of the city, in the midst of what belongs to the ruler, between border of Judah and border of Benjamin, it will belong to the ruler.
+And from the possession of the Levites and from the possession of the city, in the midst of what belongs to the rulers, between the borders of Judah and between the borders of Benjamin, it will belong to the rulers.
 
 **Ezekiel 48:23**
 
-And for the rest of the tribes, from east side to west side, Benjamin, one portion.
+And for the rest of the tribes, from the east side to the side toward the sea, Benjamin, one portion.
 
 **Ezekiel 48:24**
 
-And beside the border of Benjamin, from east side to west side, Simeon, one portion.
+And beside the border of Benjamin, from the east side to the side toward the sea, Simeon, one portion.
 
 **Ezekiel 48:25**
 
-And beside the border of Simeon, from east side to west side, Issachar, one portion.
+And beside the border of Simeon, from the east side to the side toward the sea, Issachar, one portion.
 
 **Ezekiel 48:26**
 
-And beside the border of Issachar, from east side to west side, Zebulun, one portion.
+And beside the border of Issachar, from the east side to the side toward the sea, Zebulun, one portion.
 
 **Ezekiel 48:27**
 
-And beside the border of Zebulun, from east side to west side, Gad, one portion.
+And beside the border of Zebulun, from the east side to the side toward the sea, Gad, one portion.
 
 **Ezekiel 48:28**
 
-And beside the border of Gad, toward south and southwest, its boundaries will run from Teman and waters of Meribah Kadesh, the inheritance, to the great sea.
+And beside the border of Gad, as far as the parts toward the southwest, its boundaries will be from Teman and the water of Meribah Kadesh, for an inheritance, as far as the great sea.
 
 **Ezekiel 48:29**
 
-This is land that you will assign by lot to tribes of Israel, and these are their allotments, says the Lord God.
+This is the land that you will assign by lot to the tribes of Israel, and these are their allotments, says the Lord God.
 
 **Ezekiel 48:30**
 
-And these are outlets of the city: on north side, four thousand five hundred by measure.
+And these are the outlets of the city: those toward the north, four thousand five hundred by measure.
 
 **Ezekiel 48:31**
 
-And gates of the city are named after the tribes of Israel: three gates on north, Gate of Reuben, one, and Gate of Judah, one, and Gate of Levi, one.
+And the gates of the city are named after the tribes of Israel: three gates toward the north, the Gate of Reuben, one, and the Gate of Judah, one, and the Gate of Levi, one.
 
 **Ezekiel 48:32**
 
-And on east side, four thousand five hundred, and three gates: Gate of Joseph, one, and Gate of Benjamin, one, and Gate of Dan, one.
+And toward the east, four thousand five hundred, and three gates: the Gate of Joseph, one, and the Gate of Benjamin, one, and the Gate of Dan, one.
 
 **Ezekiel 48:33**
 
-And on south side, four thousand five hundred by measure, and three gates: Gate of Simeon, one, and Gate of Issachar, one, and Gate of Zebulun, one.
+And toward the south, four thousand five hundred by measure, and three gates: the Gate of Simeon, one, and the Gate of Issachar, one, and the Gate of Zebulun, one.
 
 **Ezekiel 48:34**
 
-And on west side, four thousand five hundred by measure, and three gates: Gate of Gad, one, and Gate of Asher, one, and Gate of Naphtali, one.
+And toward the sea, four thousand five hundred by measure, and three gates: the Gate of Gad, one, and the Gate of Asher, one, and the Gate of Naphtali, one.
 
 **Ezekiel 48:35**
 
-A circuit of eighteen thousand, and the name of the city from the day it comes to be will be, The Lord Is There.
+A circuit of eighteen thousand, and the name of the city, from the day it comes to be, will be its name.
 
 ## Daniel
 

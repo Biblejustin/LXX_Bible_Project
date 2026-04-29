@@ -193422,19 +193422,19 @@ Note:
 ### Ezekiel 48:1
 
 - importance: high
-- decisions: 0
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: And these are names of the tribes. From north end, by way of the descent that skirts entrance of Hamath, court of Hazar-enan, border of Damascus northward, alongside Hamath, from east side to west side, Dan, one portion.
+- fresh: And these are the names of the tribes. From the north end, by the side of the descent that skirts the entrance of Hamath, the court of Hazar-enan, the border of Damascus northward, by the side of the court of Hamath, they will have the parts toward the east as far as the sea: Dan, one portion.
 - brenton: And these are the names of the tribes from the northern corner, on the side of the descent that draws a line to the entrance of Emath the palace of Ælam, the border of Damascus northward on the side of Emath the palace; and they shall have the eastern parts as far as the sea, for Dan, one portion.
 
 ### Ezekiel 48:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And beside the border of Dan, from east side to west side, Asher, one portion.
+- fresh: And beside the border of Dan, from the east side to the side toward the sea, Asher, one portion.
 - brenton: And from the borders of Dan eastward as far as the west sea-coast, for Asser, one.
 
 ### Ezekiel 48:3
@@ -193443,7 +193443,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And beside the border of Asher, from east side to west side, Naphtali, one portion.
+- fresh: And beside the border of Asher, from the east side to the side toward the sea, Naphtali, one portion.
 - brenton: And from the borders of Asser, from the eastern parts as far as the west coasts, for Nephthalim, one.
 
 ### Ezekiel 48:4
@@ -193452,7 +193452,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And beside the border of Naphtali, from east side to west side, Manasseh, one portion.
+- fresh: And beside the border of Naphtali, from the east side to the side toward the sea, Manasseh, one portion.
 - brenton: And from the borders of Nephthalim, from the east as far as the west coasts, for Manasse, one.
 
 ### Ezekiel 48:5
@@ -193461,7 +193461,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And beside the border of Manasseh, from east side to west side, Ephraim, one portion.
+- fresh: And beside the border of Manasseh, from the east side to the side toward the sea, Ephraim, one portion.
 - brenton: And from the borders of Manasse, from the eastern parts as far as the west coasts, for Ephraim, one.
 
 ### Ezekiel 48:6
@@ -193470,7 +193470,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And beside the border of Ephraim, from east side to west side, Reuben, one portion.
+- fresh: And beside the border of Ephraim, from the east side to the side toward the sea, Reuben, one portion.
 - brenton: And from the borders of Ephraim, from the eastern parts to the west coasts, for Ruben, one.
 
 ### Ezekiel 48:7
@@ -193479,16 +193479,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And beside the border of Reuben, from east side to west side, Judah, one portion.
+- fresh: And beside the border of Reuben, from the east side to the side toward the sea, Judah, one portion.
 - brenton: And from the borders of Ruben, from the eastern parts as far as the west coasts, for Juda, one.
 
 ### Ezekiel 48:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And beside the border of Judah, from east side to west side, will be first portion of the set-apart gift, twenty-five thousand in breadth and in length like one of the tribal portions, from east side to west side, and the holy place will be in the midst of them.
+- fresh: And beside the border of Judah, from the east side to the side toward the sea, will be the first portion of the set-apart gift, twenty-five thousand in breadth and in length like one of the tribal portions, from the east side and as far as the side toward the sea, and the holy place will be in the midst of them.
 - brenton: And from the borders of Juda, from the eastern parts shall be the offering of first-fruits, in breadth twenty-five thousand reeds, and in length as one of the portions measured from the east even to the western parts: and the sanctuary shall be in the midst of them.
 
 ### Ezekiel 48:9
@@ -193503,28 +193503,28 @@ Note:
 ### Ezekiel 48:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Of these will be first portion of the holy things for the priests: toward north twenty-five thousand, and toward sea ten thousand in breadth, and toward east ten thousand in breadth, and toward south twenty-five thousand in length, and the mountain of the holy things will be in the midst of it.
+- fresh: Of these will be the first portion of the holy things for the priests: toward the north, twenty-five thousand; toward the sea, ten thousand in breadth; toward the east, ten thousand in breadth; and toward the south, twenty-five thousand in length; and the mountain of the holy things will be in the midst of it.
 - brenton: Out of this shall be the first-fruits of the holy things to the priests, northward, five and twenty-thousand, and towards the west, ten thousand, and southward, five and twenty thousand: and the mountain of the sanctuary, shall be in the midst of it,
 
 ### Ezekiel 48:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: It will belong to the consecrated priests, sons of Zadok, who keep charges of the house, who did not go astray in the wandering of sons of Israel the way the Levites went astray.
+- fresh: It will belong to the consecrated priests, sons of Zadok, who keep the charges of the house, who did not go astray in the wandering of the sons of Israel, as the Levites went astray.
 - brenton: for the priests, for the consecrated sons of Sadduc, who keep the charges of the house, who erred not in the error of the children of Israel, as the Levites erred.
 
 ### Ezekiel 48:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will have the first portion given from first portions of the land, holy of holies, from the borders of the Levites.
+- fresh: And the first portion given to them from the first portions of the land will be holy of holies, from the borders of the Levites.
 - brenton: And the first-fruits shall be given to them out of the first-fruits of the land, even a most holy portion from the borders of the Levites.
 
 ### Ezekiel 48:13
@@ -193533,34 +193533,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And for the Levites, next to borders of the priests, length twenty-five thousand and breadth ten thousand; whole length twenty-five thousand and breadth twenty thousand.
+- fresh: And for the Levites, next to the borders of the priests, length twenty-five thousand and breadth ten thousand; the whole length twenty-five thousand and breadth twenty thousand.
 - brenton: And the Levites shall have the part, next to the borders of the priests, in length twenty-five thousand, and in breadth ten thousand: the whole length shall be five and twenty thousand, and the breadth twenty thousand.
 
 ### Ezekiel 48:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: None of it will be sold, nor measured out, nor will firstfruits of the land be removed, because it is holy to the Lord.
+- fresh: No part of it will be sold, nor measured out, nor will the firstfruits of the land be removed, because it is holy to the Lord.
 - brenton: No part of it shall be sold, nor measured as for sale, neither shall the first-fruits of the land be taken away: for they are holy to the Lord.
 
 ### Ezekiel 48:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the five thousand left over in breadth beside the twenty-five thousand will be common land for the city, for dwelling and for its open space, and the city will be in the midst of it.
+- fresh: And the five thousand left over in breadth beside the twenty-five thousand will be a suburb for the city, for dwelling and for its open space, and the city will be in the midst of it.
 - brenton: But concerning the five thousand that remain in the breadth in the five and twenty thousand, they shall be a suburb to the city for dwelling, and for a space before it: and the city shall be in the midst thereof.
 
 ### Ezekiel 48:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these are its measures: on north side four thousand five hundred, and on south side four thousand five hundred, and on east side four thousand five hundred, and on west side four thousand five hundred.
+- fresh: And these are its measures: from the north side, four thousand five hundred; from the south side, four thousand five hundred; from the east side, four thousand five hundred; and from the side toward the sea, four thousand five hundred.
 - brenton: And these shall be its dimensions; from the northern side four thousand and five hundred, and from the southern side four thousand and five hundred, and from the eastern side four thousand and five hundred, and from the western side they shall measure four thousand five hundred.
 
 ### Ezekiel 48:17
@@ -193569,61 +193569,61 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And there will be open space for the city: on north two hundred fifty, and on south two hundred fifty, and on east two hundred fifty, and on west two hundred fifty.
+- fresh: And there will be open space for the city: toward the north, two hundred fifty; toward the south, two hundred fifty; toward the east, two hundred fifty; and toward the sea, two hundred fifty.
 - brenton: And there shall be a space to the city northward two hundred and fifty, and southward two hundred and fifty, and eastward two hundred and fifty, and westward two hundred and fifty.
 
 ### Ezekiel 48:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And remaining length beside first portion of the holy things, ten thousand toward east and ten thousand toward west, will be next to first portion of the holy things, and its produce will be for bread for those working the city.
+- fresh: And the remaining length beside the first portions of the holy things, ten thousand toward the east and ten thousand toward the sea, will be the first portions of the holy place, and its produce will be for bread for those working the city.
 - brenton: And the remainder of the length that is next to the first-fruits of the holy portion shall be ten thousand eastward, and ten thousand westward: and they shall be the first-fruits of the sanctuary; and the fruits thereof shall be for bread to them that labour for the city.
 
 ### Ezekiel 48:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And those working the city will work it from all the tribes of Israel.
+- fresh: And those working the city will work for it out of all the tribes of Israel.
 - brenton: And they that labour for the city shall labour for it out of all the tribes of Israel.
 
 ### Ezekiel 48:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Whole first portion, twenty-five thousand by twenty-five thousand, square, you will set apart as first portion of the holy things from the possession of the city.
+- fresh: The whole first portion, twenty-five thousand by twenty-five thousand, square: from it you will set apart the first portion of the holy things from the possession of the city.
 - brenton: The whole offering shall be a square of twenty-five thousand by twenty-five thousand: ye shall separate again part of it, the first-fruits of the sanctuary, from the possession of the city.
 
 ### Ezekiel 48:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the remainder will belong to the ruler, on this side and on that side of first portion of the holy things and of possession of the city, along the twenty-five thousand in length to east border, and westward along the twenty-five thousand to west border, beside the tribal portions, for the ruler; and first portion of the holy things and sanctuary of the house will be in the midst of it.
+- fresh: And the remainder will belong to the ruler, on this side and on that side, from the first portions of the holy place and for the possession of the city, along the twenty-five thousand in length as far as the borders toward the east, and toward the sea along the twenty-five thousand as far as the borders toward the sea, next to the portions of the ruler; and the first portion of the holy things and the sanctuary of the house will be in the midst of it.
 - brenton: And the prince shall have the remainder on this side and on that side from the first-fruits of the sanctuary, and there shall be a possession of the city, for five and twenty thousand cubits in length, to the eastern and western borders, for five and twenty thousand to the western borders, next to the portions of the prince; and the first-fruits of the holy things and the sanctuary of the house shall be in the midst of it.
 
 ### Ezekiel 48:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And from the possession of the Levites and from the possession of the city, in the midst of what belongs to the ruler, between border of Judah and border of Benjamin, it will belong to the ruler.
+- fresh: And from the possession of the Levites and from the possession of the city, in the midst of what belongs to the rulers, between the borders of Judah and between the borders of Benjamin, it will belong to the rulers.
 - brenton: And there shall be a portion taken from the Levites, from the possession of the city in the midst of the princes between the borders of Juda and the borders of Benjamin, and it shall be the portion of the princes.
 
 ### Ezekiel 48:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And for the rest of the tribes, from east side to west side, Benjamin, one portion.
+- fresh: And for the rest of the tribes, from the east side to the side toward the sea, Benjamin, one portion.
 - brenton: And as for the rest of the tribes, from the eastern parts as far as the western, Benjamin shall have one portion.
 
 ### Ezekiel 48:24
@@ -193632,7 +193632,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And beside the border of Benjamin, from east side to west side, Simeon, one portion.
+- fresh: And beside the border of Benjamin, from the east side to the side toward the sea, Simeon, one portion.
 - brenton: And from the borders of Benjamin, from the eastern parts to the western, Symeon, one.
 
 ### Ezekiel 48:25
@@ -193641,7 +193641,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And beside the border of Simeon, from east side to west side, Issachar, one portion.
+- fresh: And beside the border of Simeon, from the east side to the side toward the sea, Issachar, one portion.
 - brenton: And from the borders of Symeon, from the eastern parts to the western, Issachar, one.
 
 ### Ezekiel 48:26
@@ -193650,7 +193650,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And beside the border of Issachar, from east side to west side, Zebulun, one portion.
+- fresh: And beside the border of Issachar, from the east side to the side toward the sea, Zebulun, one portion.
 - brenton: And from the borders of Issachar, from the eastern parts to the western, Zabulon, one.
 
 ### Ezekiel 48:27
@@ -193659,34 +193659,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And beside the border of Zebulun, from east side to west side, Gad, one portion.
+- fresh: And beside the border of Zebulun, from the east side to the side toward the sea, Gad, one portion.
 - brenton: And from the borders of Zabulon, from the east to the western parts, Gad, one.
 
 ### Ezekiel 48:28
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And beside the border of Gad, toward south and southwest, its boundaries will run from Teman and waters of Meribah Kadesh, the inheritance, to the great sea.
+- fresh: And beside the border of Gad, as far as the parts toward the southwest, its boundaries will be from Teman and the water of Meribah Kadesh, for an inheritance, as far as the great sea.
 - brenton: And from the borders of Gad, from the eastern to the south-western parts; his coasts shall even be from Thæman, and the water of Barimoth Cades, for an inheritance, unto the great sea.
 
 ### Ezekiel 48:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: This is land that you will assign by lot to tribes of Israel, and these are their allotments, says the Lord God.
+- fresh: This is the land that you will assign by lot to the tribes of Israel, and these are their allotments, says the Lord God.
 - brenton: This is the land, which ye shall divide by lot to the tribes of Israel, and these are their portions, saith the Lord God.
 
 ### Ezekiel 48:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these are outlets of the city: on north side, four thousand five hundred by measure.
+- fresh: And these are the outlets of the city: those toward the north, four thousand five hundred by measure.
 - brenton: And these are the goings out of the city northward, four thousand and five hundred by measure.
 
 ### Ezekiel 48:31
@@ -193695,7 +193695,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And gates of the city are named after the tribes of Israel: three gates on north, Gate of Reuben, one, and Gate of Judah, one, and Gate of Levi, one.
+- fresh: And the gates of the city are named after the tribes of Israel: three gates toward the north, the Gate of Reuben, one, and the Gate of Judah, one, and the Gate of Levi, one.
 - brenton: And the gates of the city shall be after the names of the tribes of Israel: three gates northward; the gate of Ruben, one, and the gate of Juda, one, and the gate of Levi, one.
 
 ### Ezekiel 48:32
@@ -193704,7 +193704,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And on east side, four thousand five hundred, and three gates: Gate of Joseph, one, and Gate of Benjamin, one, and Gate of Dan, one.
+- fresh: And toward the east, four thousand five hundred, and three gates: the Gate of Joseph, one, and the Gate of Benjamin, one, and the Gate of Dan, one.
 - brenton: And eastward four thousand and five hundred: and three gates; the gate of Joseph, one, and the gate of Benjamin, one, and the gate of Dan, one.
 
 ### Ezekiel 48:33
@@ -193713,25 +193713,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And on south side, four thousand five hundred by measure, and three gates: Gate of Simeon, one, and Gate of Issachar, one, and Gate of Zebulun, one.
+- fresh: And toward the south, four thousand five hundred by measure, and three gates: the Gate of Simeon, one, and the Gate of Issachar, one, and the Gate of Zebulun, one.
 - brenton: And southward, four thousand and five hundred by measure: and three gates; the gate of Symeon, one, and the gate of Issachar, one, and the gate of Zabulon, one.
 
 ### Ezekiel 48:34
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And on west side, four thousand five hundred by measure, and three gates: Gate of Gad, one, and Gate of Asher, one, and Gate of Naphtali, one.
+- fresh: And toward the sea, four thousand five hundred by measure, and three gates: the Gate of Gad, one, and the Gate of Asher, one, and the Gate of Naphtali, one.
 - brenton: And westward, four thousand and five hundred by measure: and three gates; the gate of Gad, one, and the gate of Asser, one, and the gate of Nephthalim, one.
 
 ### Ezekiel 48:35
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: A circuit of eighteen thousand, and the name of the city from the day it comes to be will be, The Lord Is There.
+- fresh: A circuit of eighteen thousand, and the name of the city, from the day it comes to be, will be its name.
 - brenton: The circumference, eighteen thousand measures: and the name of the city, from the day that it shall be finished, shall be the name thereof.
 
 ## Daniel
