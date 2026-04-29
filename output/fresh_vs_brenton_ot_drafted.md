@@ -188040,46 +188040,46 @@ Note:
 ### Ezekiel 26:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, on the first of the month, the word of the Lord came to me, saying,
+- fresh: And it happened in the eleventh year, on the first of the month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the eleventh year, on the first day of the month, that the word of the Lord came to me, saying,
 
 ### Ezekiel 26:2
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, because Tyre said over Jerusalem, Good, she was crushed, nations are destroyed, she turned back to me, the full one has been laid waste,
+- fresh: Son of man, because Tyre said against Jerusalem, Aha, she was crushed; the nations have perished; she has turned back to me; the full one has been laid waste,
 - brenton: Son of man, because Sor has said against Jerusalem, Aha, she is crushed: the nations are destroyed: she is turned to me: she that was full is made desolate:
 
 ### Ezekiel 26:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore thus says the Lord: Behold, I am against you, Tyre, and I will bring up many nations against you as sea brings up its waves.
+- fresh: therefore thus says the Lord: Behold, I am against you, Tyre, and I will bring up many nations against you as the sea brings up its waves.
 - brenton: therefore thus saith the Lord; Behold, I am against thee, O Sor, and I will bring up many nations against thee, as the sea comes up with its waves.
 
 ### Ezekiel 26:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will throw down walls of Tyre and pull down your towers, and I will winnow her dust away from her and give her for bare rock.
+- fresh: And they will throw down the walls of Tyre and throw down your towers, and I will winnow her dust from her and give her as bare rock.
 - brenton: And they shall cast down the walls of Sor, and shall cast down thy towers: and I will scrape her dust from off her, and make her a bare rock.
 
 ### Ezekiel 26:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Drying place of nets she will be in the midst of sea, because I have spoken, says the Lord, and she will be spoil for nations.
+- fresh: A drying place for nets she will be in the midst of the sea, because I have spoken, says the Lord, and she will be spoil for the nations.
 - brenton: She shall be in the midst of the sea a place for repairing nets: for I have spoken it, saith the Lord: and it shall be a spoil for the nations.
 
 ### Ezekiel 26:6
@@ -188094,19 +188094,19 @@ Note:
 ### Ezekiel 26:7
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord: Behold, I bring against you, Tyre, Nebuchadnezzar king of Babylon from north, king of kings, with horses and chariots and horsemen and gathering of very many nations.
+- fresh: Because thus says the Lord: Behold, I bring against you, Tyre, Nebuchadnezzar king of Babylon from the north; he is king of kings, with horses and chariots and horsemen and a gathering of very many nations.
 - brenton: For thus saith the Lord; Behold, I will bring up against thee, O Sor, Nabuchodonosor king of Babylon from the north: he is a king of kings, with horses, and chariots, and horsemen, and a concourse of very many nations.
 
 ### Ezekiel 26:8
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: He will kill your daughters in the field by sword and set guard against you and build siege-works and make trench around you and set his spears against you.
+- fresh: He will kill your daughters in the field by sword, and he will set a guard against you and build siege-works; around you he will make a trench and an encirclement of weapons, and he will set his spears opposite you.
 - brenton: He shall slay thy daughters that are in the field with the sword, and shall set a watch against thee, and build forts around thee, and carry a rampart round against thee, and set up warlike works, and array his spears against thee.
 
 ### Ezekiel 26:9
@@ -188121,109 +188121,109 @@ Note:
 ### Ezekiel 26:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: From the multitude of his horses their dust will cover you, and from the sound of his horsemen and wheels of his chariots your walls will shake when he enters your gates as one entering city from the plain.
+- fresh: From the multitude of his horses their dust will cover you, and from the sound of his horsemen and the wheels of his chariots your walls will shake when he enters your gates, as one entering city from the plain.
 - brenton: By reason of the multitude of his horses their dust shall cover thee, and by reason of the sound of his horsemen and the wheels of his chariots thy walls shall be shaken, when he enters into thy gates, as one entering into a city from the plain.
 
 ### Ezekiel 26:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: With hoofs of his horses they will trample all your streets; your people he will kill by sword, and your pillar of strength he will bring down to ground.
+- fresh: With the hoofs of his horses they will trample all your streets; your people he will kill by sword, and the support of your strength he will bring down to the ground.
 - brenton: With the hoofs of his horses they shall trample all thy streets: he shall slay thy people with the sword, and shall bring down to the ground the support of thy strength.
 
 ### Ezekiel 26:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will plunder your power and spoil your possessions and throw down your walls and pull down your desirable houses, and your stones and your timber and your dust he will throw into the midst of sea.
+- fresh: And he will plunder your power and spoil your possessions, and he will throw down your walls and pull down your desirable houses; your stones and your timber and your dust he will throw into the midst of the sea.
 - brenton: And he shall prey upon thy power, and plunder thy substance, and shall cast down thy walls, and break down thy pleasant houses: and he shall cast thy stones and thy timber and thy dust into the midst of thy sea.
 
 ### Ezekiel 26:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will end multitude of your musicians, and the sound of your psalteries will never again be heard.
+- fresh: And he will end the multitude of your musicians, and the sound of your psalteries will never again be heard.
 - brenton: And he shall destroy the multitude of thy musicians, and the sound of thy psalteries shall be heard no more.
 
 ### Ezekiel 26:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will give you for bare rock; drying place of nets you will be; you will never again be built, because I have spoken, says the Lord.
+- fresh: And I will give you as bare rock; a drying place for nets you will be; you will never again be built, because I have spoken, says the Lord.
 - brenton: And I will make thee a bare rock: thou shalt be a place to spread nets upon; thou shalt be built no more: for I the Lord have spoken it, saith the Lord.
 
 ### Ezekiel 26:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord God to Tyre: Will not the islands shake at the sound of your fall, when wounded groan, when sword is broken in your midst?
+- fresh: Because thus says the Lord God to Tyre: Will not the islands shake at the sound of your fall, when the wounded groan, when a sword is drawn in your midst?
 - brenton: For thus saith the Lord God to Sor; Shall not the isles shake at the sound of thy fall, while the wounded are groaning, while they have drawn a sword in the midst of thee?
 
 ### Ezekiel 26:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And all rulers from nations of sea will come down from their thrones and take off their turbans from their heads and strip off their embroidered clothing; in astonishment they will be astonished, upon ground they will sit, and they will fear your destruction and groan over you.
+- fresh: And all rulers from the nations of the sea will come down from their thrones and take off their turbans from their heads and strip off their embroidered clothing; in astonishment they will be astonished, on the ground they will sit, and they will fear their destruction and groan over you.
 - brenton: And all the princes of the nations of the sea shall come down from their thrones, and shall take off their crowns from their heads, and shall take off their embroidered raiment: they shall be utterly amazed; they shall sit upon the ground, and fear their own destruction, and shall groan over thee.
 
 ### Ezekiel 26:17
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will take up lament over you and say to you, How were you destroyed from sea, city praised, giving your fear to all dwelling in you?
+- fresh: And they will take up lament over you and say to you, How were you destroyed from the sea, the praised city, giving her fear to all those dwelling in her?
 - brenton: And they shall take up a lamentation for thee, and shall say to thee, How art thou destroyed from out of the sea, the renowned city, that brought her terror upon all her inhabitants.
 
 ### Ezekiel 26:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And islands will fear from the day of your fall.
+- fresh: And the islands will fear from the day of your fall.
 - brenton: And the isles shall be alarmed at the day of thy fall.
 
 ### Ezekiel 26:19
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord God: When I make you city laid waste, like cities not inhabited, when I bring up deep over you and much water covers you,
+- fresh: Because thus says the Lord God: When I make you a city laid waste, like the cities that will not be inhabited, when I bring up the deep over you and much water covers you,
 - brenton: For thus saith the Lord God; When I shall make the city desolate, as the cities that shall not be inhabited, when I have brought the deep up upon thee,
 
 ### Ezekiel 26:20
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: then I will bring you down with those going down into pit, to the people of old age, and make you dwell in the depths of earth like everlasting desolation with those going down into pit, so that you will not be inhabited nor arise upon the land of the living.
+- fresh: then I will bring you down to those going down into a pit, to the people of old, and make you dwell in the depths of the earth like everlasting desolation with those going down into a pit, so that you will not be inhabited nor arise upon the land of the living.
 - brenton: and great waters shall cover thee; and I shall bring thee down to them that go down to the pit, to the people of old time, and shall cause thee to dwell in the depths of the earth, as in everlasting desolation, with them that go down to the pit, that thou mayest not be inhabited, nor stand upon the land of life;
 
 ### Ezekiel 26:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will give you destruction, and you will no longer exist forever, says the Lord God.
+- fresh: I will make you a destruction, and you will no longer exist forever, says the Lord God.
 - brenton: I will make thee a destruction, and thou shalt be no more for ever, saith the Lord God.
 
 ### Ezekiel 27:1

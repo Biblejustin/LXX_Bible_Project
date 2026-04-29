@@ -85252,23 +85252,23 @@ And I will do great acts of vengeance among them, and they will know that I am t
 
 **Ezekiel 26:1**
 
-And it happened in eleventh year, on the first of the month, the word of the Lord came to me, saying,
+And it happened in the eleventh year, on the first of the month, the word of the Lord came to me, saying,
 
 **Ezekiel 26:2**
 
-Son of man, because Tyre said over Jerusalem, Good, she was crushed, nations are destroyed, she turned back to me, the full one has been laid waste,
+Son of man, because Tyre said against Jerusalem, Aha, she was crushed; the nations have perished; she has turned back to me; the full one has been laid waste,
 
 **Ezekiel 26:3**
 
-therefore thus says the Lord: Behold, I am against you, Tyre, and I will bring up many nations against you as sea brings up its waves.
+therefore thus says the Lord: Behold, I am against you, Tyre, and I will bring up many nations against you as the sea brings up its waves.
 
 **Ezekiel 26:4**
 
-And they will throw down walls of Tyre and pull down your towers, and I will winnow her dust away from her and give her for bare rock.
+And they will throw down the walls of Tyre and throw down your towers, and I will winnow her dust from her and give her as bare rock.
 
 **Ezekiel 26:5**
 
-Drying place of nets she will be in the midst of sea, because I have spoken, says the Lord, and she will be spoil for nations.
+A drying place for nets she will be in the midst of the sea, because I have spoken, says the Lord, and she will be spoil for the nations.
 
 **Ezekiel 26:6**
 
@@ -85276,11 +85276,11 @@ And her daughters in the field will be killed by sword, and they will know that 
 
 **Ezekiel 26:7**
 
-Because thus says the Lord: Behold, I bring against you, Tyre, Nebuchadnezzar king of Babylon from north, king of kings, with horses and chariots and horsemen and gathering of very many nations.
+Because thus says the Lord: Behold, I bring against you, Tyre, Nebuchadnezzar king of Babylon from the north; he is king of kings, with horses and chariots and horsemen and a gathering of very many nations.
 
 **Ezekiel 26:8**
 
-He will kill your daughters in the field by sword and set guard against you and build siege-works and make trench around you and set his spears against you.
+He will kill your daughters in the field by sword, and he will set a guard against you and build siege-works; around you he will make a trench and an encirclement of weapons, and he will set his spears opposite you.
 
 **Ezekiel 26:9**
 
@@ -85288,51 +85288,51 @@ Your walls and your towers he will throw down with his swords.
 
 **Ezekiel 26:10**
 
-From the multitude of his horses their dust will cover you, and from the sound of his horsemen and wheels of his chariots your walls will shake when he enters your gates as one entering city from the plain.
+From the multitude of his horses their dust will cover you, and from the sound of his horsemen and the wheels of his chariots your walls will shake when he enters your gates, as one entering city from the plain.
 
 **Ezekiel 26:11**
 
-With hoofs of his horses they will trample all your streets; your people he will kill by sword, and your pillar of strength he will bring down to ground.
+With the hoofs of his horses they will trample all your streets; your people he will kill by sword, and the support of your strength he will bring down to the ground.
 
 **Ezekiel 26:12**
 
-And he will plunder your power and spoil your possessions and throw down your walls and pull down your desirable houses, and your stones and your timber and your dust he will throw into the midst of sea.
+And he will plunder your power and spoil your possessions, and he will throw down your walls and pull down your desirable houses; your stones and your timber and your dust he will throw into the midst of the sea.
 
 **Ezekiel 26:13**
 
-And I will end multitude of your musicians, and the sound of your psalteries will never again be heard.
+And he will end the multitude of your musicians, and the sound of your psalteries will never again be heard.
 
 **Ezekiel 26:14**
 
-And I will give you for bare rock; drying place of nets you will be; you will never again be built, because I have spoken, says the Lord.
+And I will give you as bare rock; a drying place for nets you will be; you will never again be built, because I have spoken, says the Lord.
 
 **Ezekiel 26:15**
 
-Because thus says the Lord God to Tyre: Will not the islands shake at the sound of your fall, when wounded groan, when sword is broken in your midst?
+Because thus says the Lord God to Tyre: Will not the islands shake at the sound of your fall, when the wounded groan, when a sword is drawn in your midst?
 
 **Ezekiel 26:16**
 
-And all rulers from nations of sea will come down from their thrones and take off their turbans from their heads and strip off their embroidered clothing; in astonishment they will be astonished, upon ground they will sit, and they will fear your destruction and groan over you.
+And all rulers from the nations of the sea will come down from their thrones and take off their turbans from their heads and strip off their embroidered clothing; in astonishment they will be astonished, on the ground they will sit, and they will fear their destruction and groan over you.
 
 **Ezekiel 26:17**
 
-And they will take up lament over you and say to you, How were you destroyed from sea, city praised, giving your fear to all dwelling in you?
+And they will take up lament over you and say to you, How were you destroyed from the sea, the praised city, giving her fear to all those dwelling in her?
 
 **Ezekiel 26:18**
 
-And islands will fear from the day of your fall.
+And the islands will fear from the day of your fall.
 
 **Ezekiel 26:19**
 
-Because thus says the Lord God: When I make you city laid waste, like cities not inhabited, when I bring up deep over you and much water covers you,
+Because thus says the Lord God: When I make you a city laid waste, like the cities that will not be inhabited, when I bring up the deep over you and much water covers you,
 
 **Ezekiel 26:20**
 
-then I will bring you down with those going down into pit, to the people of old age, and make you dwell in the depths of earth like everlasting desolation with those going down into pit, so that you will not be inhabited nor arise upon the land of the living.
+then I will bring you down to those going down into a pit, to the people of old, and make you dwell in the depths of the earth like everlasting desolation with those going down into a pit, so that you will not be inhabited nor arise upon the land of the living.
 
 **Ezekiel 26:21**
 
-I will give you destruction, and you will no longer exist forever, says the Lord God.
+I will make you a destruction, and you will no longer exist forever, says the Lord God.
 
 ### Chapter 27
 
