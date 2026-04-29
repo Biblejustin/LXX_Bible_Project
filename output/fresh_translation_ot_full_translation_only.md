@@ -91788,7 +91788,7 @@ Behold, I am against you, says the Lord Almighty, and I will burn your multitude
 
 **Nahum 3:1**
 
-Woe, city of bloods, wholly false, full of injustice. Prey will not cease.
+O city of bloods, wholly false, full of injustice. Prey will not be touched.
 
 **Nahum 3:2**
 
@@ -91796,11 +91796,11 @@ The sound of whips and the sound of rattling wheels and a pursuing horse and a j
 
 **Nahum 3:3**
 
-and charging horseman and gleaming sword and flashing weapons and multitude of wounded and heavy fall. There was no end to her nations, and they will grow weak in their bodies.
+and a charging horseman and a gleaming sword and flashing weapons and a multitude of wounded and a heavy fall. There was no end to her nations, and they will grow weak in their bodies.
 
 **Nahum 3:4**
 
-Because of the multitude of prostitutions of prostitute, beautiful and pleasing, leading sorceries, selling nations by her prostitution and tribes by her sorceries.
+Because of the multitude of prostitutions of a prostitute, beautiful and pleasing, leading sorceries, selling nations by her prostitution and tribes by her sorceries.
 
 **Nahum 3:5**
 
@@ -91808,7 +91808,7 @@ Behold, I am against you, says the Lord God Almighty, and I will uncover your ba
 
 **Nahum 3:6**
 
-I will throw abomination on you according to your uncleanness and make you an example.
+I will throw abomination on you according to your uncleannesses and make you an example.
 
 **Nahum 3:7**
 
@@ -91816,7 +91816,7 @@ And everyone seeing you will spring away from you and say, Wretched Nineveh, who
 
 **Nahum 3:8**
 
-Prepare your portion, fit the cord, prepare a portion for Ammon who dwells among rivers, with water around her, whose beginning was sea and water her walls.
+Prepare your portion, fit the cord, prepare a portion for Ammon, the one dwelling among rivers, with water around her, whose beginning was sea and water was her walls.
 
 **Nahum 3:9**
 
@@ -91824,7 +91824,7 @@ Ethiopia was her strength, and Egypt, and there was no limit to her flight, and 
 
 **Nahum 3:10**
 
-Yet she will go into exile, captive, and her infants they will dash upon the heads of all her roads, and over all her honored ones they will cast lots, and all her great men will be bound in fetters.
+Yet she herself will go into exile, captive, and her infants they will dash upon the heads of all her roads, and over all her honored ones they will cast lots, and all her nobles will be bound in fetters.
 
 **Nahum 3:11**
 
@@ -91836,7 +91836,7 @@ All your fortresses are fig trees with watchers; if they are shaken, they fall i
 
 **Nahum 3:13**
 
-Behold, your people are as women in you. To your enemies gates of your land will be opened wide; fire will devour your bars.
+Behold, your people are as women in you. To your enemies the gates of your land will be opened wide; fire will devour your bars.
 
 **Nahum 3:14**
 
@@ -91844,19 +91844,19 @@ Draw water for siege for yourself and seize your fortresses. Step into clay and 
 
 **Nahum 3:15**
 
-There fire will devour you; sword will destroy you; it will devour you like locust. Become numerous like grasshopper.
+There fire will devour you; the sword will destroy you; it will devour you as a locust; and you will be weighed down as a grasshopper.
 
 **Nahum 3:16**
 
-You multiplied your trading more than stars of heaven. Grasshopper rushed on and flew away.
+You multiplied your trading beyond the stars of heaven. A grasshopper rushed on and flew away.
 
 **Nahum 3:17**
 
-Your mixed multitude leaped like locust, like grasshopper settled on a fence in the days of frost. Sun rose and it flew away, and it did not know its place. Woe to them.
+Your mixed multitude leaped as locust, as a grasshopper settled on a fence in the days of frost. The sun rose and it flew away, and it did not know its place. Woe to them.
 
 **Nahum 3:18**
 
-Your shepherds slumbered, Assyrian king; your mighty men went to sleep. Your people departed on mountains, and there was no one gathering them.
+Your shepherds slumbered, O king of Assyria; your mighty men went to sleep. Your people departed upon the mountains, and there was no one receiving them.
 
 **Nahum 3:19**
 

@@ -202384,10 +202384,10 @@ Note:
 ### Nahum 3:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe, city of bloods, wholly false, full of injustice. Prey will not cease.
+- fresh: O city of bloods, wholly false, full of injustice. Prey will not be touched.
 - brenton: O city of blood, wholly false, full of unrighteousness; the prey shall not be handled.
 
 ### Nahum 3:2
@@ -202402,19 +202402,19 @@ Note:
 ### Nahum 3:3
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: and charging horseman and gleaming sword and flashing weapons and multitude of wounded and heavy fall. There was no end to her nations, and they will grow weak in their bodies.
+- fresh: and a charging horseman and a gleaming sword and flashing weapons and a multitude of wounded and a heavy fall. There was no end to her nations, and they will grow weak in their bodies.
 - brenton: and of the mounting rider, and of the glittering sword, and of the gleaming arms, and of a multitude of slain, and of heavy falling: and there was no end to her nations, but they shall be weak in their bodies
 
 ### Nahum 3:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of the multitude of prostitutions of prostitute, beautiful and pleasing, leading sorceries, selling nations by her prostitution and tribes by her sorceries.
+- fresh: Because of the multitude of prostitutions of a prostitute, beautiful and pleasing, leading sorceries, selling nations by her prostitution and tribes by her sorceries.
 - brenton: because of the abundance of fornication: she is a fair harlot, and well-favoured, skilled in sorcery, that sells the nations by her fornication, and peoples by her sorceries.
 
 ### Nahum 3:5
@@ -202429,10 +202429,10 @@ Note:
 ### Nahum 3:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will throw abomination on you according to your uncleanness and make you an example.
+- fresh: I will throw abomination on you according to your uncleannesses and make you an example.
 - brenton: And I will cast abominable filth upon thee according to thine unclean ways, and will make thee a public example.
 
 ### Nahum 3:7
@@ -202447,10 +202447,10 @@ Note:
 ### Nahum 3:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Prepare your portion, fit the cord, prepare a portion for Ammon who dwells among rivers, with water around her, whose beginning was sea and water her walls.
+- fresh: Prepare your portion, fit the cord, prepare a portion for Ammon, the one dwelling among rivers, with water around her, whose beginning was sea and water was her walls.
 - brenton: Prepare thee a portion, tune the chord, prepare a portion for Ammon: she that dwells among the rivers, water is round about her, whose dominion is the sea, and whose walls are water.
 
 ### Nahum 3:9
@@ -202465,10 +202465,10 @@ Note:
 ### Nahum 3:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Yet she will go into exile, captive, and her infants they will dash upon the heads of all her roads, and over all her honored ones they will cast lots, and all her great men will be bound in fetters.
+- fresh: Yet she herself will go into exile, captive, and her infants they will dash upon the heads of all her roads, and over all her honored ones they will cast lots, and all her nobles will be bound in fetters.
 - brenton: Yet she shall go as a prisoner into captivity, and they shall dash her infants against the ground at the top of all her ways: and they shall cast lots upon all her glorious possessions, and all her nobles shall be bound in chains.
 
 ### Nahum 3:11
@@ -202492,10 +202492,10 @@ Note:
 ### Nahum 3:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, your people are as women in you. To your enemies gates of your land will be opened wide; fire will devour your bars.
+- fresh: Behold, your people are as women in you. To your enemies the gates of your land will be opened wide; fire will devour your bars.
 - brenton: Behold, thy people within thee are as women: the gates of thy land shall surely be opened to thine enemies: the fire shall devour thy bars.
 
 ### Nahum 3:14
@@ -202510,37 +202510,37 @@ Note:
 ### Nahum 3:15
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: There fire will devour you; sword will destroy you; it will devour you like locust. Become numerous like grasshopper.
+- fresh: There fire will devour you; the sword will destroy you; it will devour you as a locust; and you will be weighed down as a grasshopper.
 - brenton: There the fire shall devour thee; the sword shall utterly destroy thee, it shall devour thee as the locust, and thou shalt be pressed down as a palmerworm.
 
 ### Nahum 3:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: You multiplied your trading more than stars of heaven. Grasshopper rushed on and flew away.
+- fresh: You multiplied your trading beyond the stars of heaven. A grasshopper rushed on and flew away.
 - brenton: Thou hast multiplied thy merchandise beyond the stars of heaven: the palmerworm has attacked it, and has flown away.
 
 ### Nahum 3:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your mixed multitude leaped like locust, like grasshopper settled on a fence in the days of frost. Sun rose and it flew away, and it did not know its place. Woe to them.
+- fresh: Your mixed multitude leaped as locust, as a grasshopper settled on a fence in the days of frost. The sun rose and it flew away, and it did not know its place. Woe to them.
 - brenton: Thy mixed multitude has suddenly departed as the grasshopper, as the locust perched on a hedge in a frosty day; the sun arises, and it flies off, and knows not its place: woe to them!
 
 ### Nahum 3:18
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Your shepherds slumbered, Assyrian king; your mighty men went to sleep. Your people departed on mountains, and there was no one gathering them.
+- fresh: Your shepherds slumbered, O king of Assyria; your mighty men went to sleep. Your people departed upon the mountains, and there was no one receiving them.
 - brenton: Thy shepherds have slumbered, the Assyrian king has laid low thy mighty men: thy people departed to the mountains, and there was none to receive them.
 
 ### Nahum 3:19
