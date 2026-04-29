@@ -194918,10 +194918,10 @@ Note:
 ### Daniel 5:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And his heart was lifted up, and he said that the gold and silver vessels of the house of God, which Nebuchadnezzar his father brought from Jerusalem, be brought, and that his companions drink wine from them.
+- fresh: And his heart was lifted up, and he said to bring the gold and silver vessels of the house of God, which Nebuchadnezzar his father brought from Jerusalem, and to pour wine in them for his companions.
 - brenton: [missing]
 
 ### Daniel 5:3
@@ -194936,19 +194936,19 @@ Note:
 ### Daniel 5:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they blessed their handmade idols, but they did not bless eternal God, the one holding authority over their breath.
+- fresh: And they blessed their handmade idols, but they did not bless the eternal God, the one holding authority over their spirit.
 - brenton: [missing]
 
 ### Daniel 5:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In that hour fingers like a human hand came out and wrote on the wall of his house, on plaster opposite the light before King Belshazzar, and he saw the hand writing.
+- fresh: In that very hour fingers like a human hand came out and wrote on the wall of his house, on the plaster opposite the light before King Belshazzar, and he saw a hand writing.
 - brenton: [missing]
 
 ### Daniel 5:6
@@ -194990,19 +194990,19 @@ Note:
 ### Daniel 5:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then queen remembered Daniel to him, the one from the captivity of Judah.
+- fresh: Then the queen reminded him about Daniel, the one from the captivity of Judah.
 - brenton: [missing]
 
 ### Daniel 5:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And she said to the king, The man was learned and wise and surpassing all sages of Babylon.
+- fresh: And she said to the king, The man was learned and wise and surpassing all the wise men of Babylon.
 - brenton: [missing]
 
 ### Daniel 5:12
@@ -195026,10 +195026,10 @@ Note:
 ### Daniel 5:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: O Daniel, can you show me interpretation of the writing? Then I will clothe you in purple and place a gold chain on you, and you will have authority over the third part of my kingdom.
+- fresh: O Daniel, can you show me the interpretation of the writing? Then I will clothe you in purple and place a gold chain on you, and you will have authority over the third part of my kingdom.
 - brenton: [missing]
 
 ### Daniel 5:17
@@ -195044,19 +195044,19 @@ Note:
 ### Daniel 5:23
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: King, you made a feast for your friends and drank wine, and vessels of the house of the living God were brought to you, and you and your leading men drank from them. And you praised all handmade idols of men, but you did not bless the living God, though your breath is in his hand and he himself gave you your kingdom. You did not bless him or praise him.
+- fresh: O king, you made a feast for your friends and drank wine, and the vessels of the house of the living God were brought to you, and you and your leading men drank from them. And you praised all handmade idols of men, but you did not bless the living God, though your spirit is in his hand and he himself gave you your kingdom. You did not bless him or praise him.
 - brenton: [missing]
 
 ### Daniel 5:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: This is the interpretation of the writing: your kingdom's time has been numbered; your kingdom is ending, cut short and completed, and your kingdom is given to Medes and Persians.
+- fresh: This is the interpretation of the writing: your kingdom's time has been numbered; your kingdom is ending, cut short and completed, and your kingdom is given to the Medes and the Persians.
 - brenton: [missing]
 
 ### Daniel 5:27
@@ -195074,7 +195074,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: This is continuation of the interpretation: your kingdom is given to Medes and Persians.
+- fresh: This is continuation of the interpretation: your kingdom is given to the Medes and the Persians.
 - brenton: [missing]
 
 ### Daniel 5:29
@@ -195089,10 +195089,10 @@ Note:
 ### Daniel 5:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the interpretation came upon King Belshazzar, and kingdom was taken from Chaldeans and given to Medes and Persians.
+- fresh: And the interpretation came upon King Belshazzar, and the kingdom was taken from the Chaldeans and given to the Medes and the Persians.
 - brenton: [missing]
 
 ### Daniel 6:1
