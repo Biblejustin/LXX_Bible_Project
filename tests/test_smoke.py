@@ -4108,7 +4108,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "They became like grass of the field" in by_ref["2 Kings 19:26"]["draft_translation"]
     assert by_ref["Job 40:19"]["draft_translation"].startswith("This is the beginning")
     assert "is the completion of release-hands" in by_ref["Daniel 12:7"]["draft_translation"]
-    assert "She is the beginning of sin" in by_ref["Micah 1:13"]["draft_translation"]
+    assert "She is the leader of sin" in by_ref["Micah 1:13"]["draft_translation"]
     assert by_ref["Genesis 42:6"]["draft_translation"].startswith("And Joseph was the ruler")
     assert by_ref["Proverbs 9:1"]["draft_translation"].startswith(
         "Wisdom built a house for herself"
