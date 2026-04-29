@@ -90602,7 +90602,7 @@ Because thus says the Lord to the house of Israel: Seek me and live.
 
 **Amos 5:5**
 
-And do not seek Bethel, and do not enter Gilgal, and do not cross over to well of oath, because Gilgal, being led captive, will be led captive, and Bethel will be as though not existing.
+And do not seek Bethel, and do not enter Gilgal, and do not cross over to the Well of Oath, because Gilgal, being led captive, will be led captive, and Bethel will be as though not existing.
 
 **Amos 5:6**
 
@@ -90622,15 +90622,15 @@ the one dividing destruction upon strength and bringing misery upon fortress.
 
 **Amos 5:10**
 
-They hated the one rebuking in gates, and they abhorred holy speech.
+They hated the one rebuking in the gates, and they abhorred holy speech.
 
 **Amos 5:11**
 
-Therefore, because you beat down poor and received choice gifts from them, you built polished houses and will never dwell in them; you planted desirable vineyards and will never drink wine from them.
+Therefore, because you beat down the poor and received choice gifts from them, you built polished houses and will certainly not dwell in them; you planted desirable vineyards and will certainly not drink wine from them.
 
 **Amos 5:12**
 
-Because I knew your many impieties and your strong sins, trampling righteous one, taking exchanges, and turning poor aside in gates.
+Because I knew your many impieties and your strong sins, trampling the righteous one, taking exchanges, and turning the poor aside in the gates.
 
 **Amos 5:13**
 
@@ -90642,15 +90642,15 @@ Seek good and not evil, so that you may live, and thus the Lord God Almighty wil
 
 **Amos 5:15**
 
-We hated evil things and loved good things, and restore judgment in the gates, so that the Lord God Almighty may show mercy to the remnant of Joseph.
+We have hated evil things and loved good things, and restore judgment in the gates, so that the Lord God Almighty may show mercy to the remnant of Joseph.
 
 **Amos 5:16**
 
-Therefore thus says the Lord God Almighty: In all the squares mourning, and in all the roads it will be said, Alas, alas; farmer will be called into grief and mourning and into those knowing lament.
+Therefore thus says the Lord God Almighty: In all the squares there will be mourning, and in all the roads it will be said, Alas, alas; a farmer will be called to grief and mourning and to those knowing lamentation.
 
 **Amos 5:17**
 
-And in all roads mourning, because I will pass through your midst, says the Lord.
+And in all the roads there will be mourning, because I will pass through your midst, says the Lord.
 
 **Amos 5:18**
 
@@ -90658,7 +90658,7 @@ Woe to those desiring the day of the Lord. Why is this day of the Lord for you? 
 
 **Amos 5:19**
 
-just as when a man flees from lion and bear falls upon him, and he jumps into his house and presses his hands on the wall and serpent bites him.
+just as when a man flees from the face of a lion and a bear falls upon him, and he jumps into his house and presses his hands on the wall and a serpent bites him.
 
 **Amos 5:20**
 
@@ -90666,7 +90666,7 @@ Is not the day of the Lord darkness and not light, and gloom having no brightnes
 
 **Amos 5:21**
 
-I hated, I rejected your feasts, and I will by no means smell your festivals.
+I have hated, I have rejected your feasts, and I will certainly not smell in your festivals.
 
 **Amos 5:22**
 
@@ -90674,7 +90674,7 @@ Because even if you bring me your burnt offerings and sacrifices, I will not acc
 
 **Amos 5:23**
 
-Remove from me the sound of your songs, and I will not hear melody of your instruments.
+Remove from me the sound of your songs, and I will not hear the melody of your instruments.
 
 **Amos 5:24**
 
@@ -90682,15 +90682,15 @@ And judgment will roll like water, and righteousness like an impassable torrent.
 
 **Amos 5:25**
 
-Did you bring me victims and sacrifices in the wilderness forty years, house of Israel?
+Did you bring me victims and sacrifices in the wilderness forty years, O house of Israel?
 
 **Amos 5:26**
 
-And you took up tent of Moloch and star of your god Rhaiphan, their images that you made for yourselves.
+And you took up the tent of Moloch and the star of your god Rhaiphan, their images that you made for yourselves.
 
 **Amos 5:27**
 
-And I will resettle you beyond Damascus, says the Lord God Almighty is his name.
+And I will deport you beyond Damascus, says the Lord God Almighty is his name.
 
 ### Chapter 6
 

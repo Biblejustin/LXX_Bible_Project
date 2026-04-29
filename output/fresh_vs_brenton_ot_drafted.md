@@ -199775,7 +199775,7 @@ Note:
 ### Amos 5:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Hear this word of the Lord, this lament that I take up over you, house of Israel.
@@ -199784,7 +199784,7 @@ Note:
 ### Amos 5:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Virgin of Israel has fallen; she will no longer continue to rise. She slipped upon her own land; there is no one to raise her up.
@@ -199793,7 +199793,7 @@ Note:
 ### Amos 5:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Because thus says the Lord God: The city from which a thousand went out will have a hundred left, and from which a hundred went out will have ten left for the house of Israel.
@@ -199811,16 +199811,16 @@ Note:
 ### Amos 5:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And do not seek Bethel, and do not enter Gilgal, and do not cross over to well of oath, because Gilgal, being led captive, will be led captive, and Bethel will be as though not existing.
+- fresh: And do not seek Bethel, and do not enter Gilgal, and do not cross over to the Well of Oath, because Gilgal, being led captive, will be led captive, and Bethel will be as though not existing.
 - brenton: But seek not Bæthel, and go not in to Galgala, and cross not over to the Well of the Oath: for Galgala shall surely go into captivity, and Bæthel shall be as that which is not.
 
 ### Amos 5:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Seek the Lord and live, lest the house of Joseph blaze like fire and it devour him, and there will be no one to quench it for the house of Israel.
@@ -199829,7 +199829,7 @@ Note:
 ### Amos 5:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: The Lord is the one who establishes judgment on high and has set righteousness upon the earth,
@@ -199838,7 +199838,7 @@ Note:
 ### Amos 5:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: making all things and transforming, turning the shadow of death into morning and darkening day into night, calling the water of the sea and pouring it on the face of the earth; the Lord God Almighty is his name,
@@ -199847,7 +199847,7 @@ Note:
 ### Amos 5:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: the one dividing destruction upon strength and bringing misery upon fortress.
@@ -199856,28 +199856,28 @@ Note:
 ### Amos 5:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They hated the one rebuking in gates, and they abhorred holy speech.
+- fresh: They hated the one rebuking in the gates, and they abhorred holy speech.
 - brenton: They hated him that reproved in the gates, and abhorred holy speech.
 
 ### Amos 5:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore, because you beat down poor and received choice gifts from them, you built polished houses and will never dwell in them; you planted desirable vineyards and will never drink wine from them.
+- fresh: Therefore, because you beat down the poor and received choice gifts from them, you built polished houses and will certainly not dwell in them; you planted desirable vineyards and will certainly not drink wine from them.
 - brenton: Therefore because they have smitten the poor with their fists, and ye have received of them choice gifts; ye have built polished houses, but ye shall not dwell in them; ye have planted desirable vineyards, but ye shall not drink the wine of them.
 
 ### Amos 5:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I knew your many impieties and your strong sins, trampling righteous one, taking exchanges, and turning poor aside in gates.
+- fresh: Because I knew your many impieties and your strong sins, trampling the righteous one, taking exchanges, and turning the poor aside in the gates.
 - brenton: For I know your many transgressions, and your sins are great, trampling on the just, taking bribes, and turning aside the judgment of the poor in the gates.
 
 ### Amos 5:13
@@ -199901,28 +199901,28 @@ Note:
 ### Amos 5:15
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: We hated evil things and loved good things, and restore judgment in the gates, so that the Lord God Almighty may show mercy to the remnant of Joseph.
+- fresh: We have hated evil things and loved good things, and restore judgment in the gates, so that the Lord God Almighty may show mercy to the remnant of Joseph.
 - brenton: We have hated evil, and loved good: and restore ye judgment in the gates; that the Lord God Almighty may have mercy on the remnant of Joseph.
 
 ### Amos 5:16
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord God Almighty: In all the squares mourning, and in all the roads it will be said, Alas, alas; farmer will be called into grief and mourning and into those knowing lament.
+- fresh: Therefore thus says the Lord God Almighty: In all the squares there will be mourning, and in all the roads it will be said, Alas, alas; a farmer will be called to grief and mourning and to those knowing lamentation.
 - brenton: Therefore thus saith the Lord God Almighty; In all the streets shall be lamentations; and in all the ways shall it be said, Woe, woe! the husbandman shall be called to mourning and lamentation, and to them that are skilled in complaining.
 
 ### Amos 5:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in all roads mourning, because I will pass through your midst, says the Lord.
+- fresh: And in all the roads there will be mourning, because I will pass through your midst, says the Lord.
 - brenton: And there shall be lamentation in all the ways; because I will pass through the midst of thee, saith the Lord.
 
 ### Amos 5:18
@@ -199937,16 +199937,16 @@ Note:
 ### Amos 5:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: just as when a man flees from lion and bear falls upon him, and he jumps into his house and presses his hands on the wall and serpent bites him.
+- fresh: just as when a man flees from the face of a lion and a bear falls upon him, and he jumps into his house and presses his hands on the wall and a serpent bites him.
 - brenton: As if a man should flee from the face of a lion, and a bear should meet him; and he should spring into his house, and lean his hands upon the wall, and a serpent should bite him.
 
 ### Amos 5:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Is not the day of the Lord darkness and not light, and gloom having no brightness?
@@ -199955,16 +199955,16 @@ Note:
 ### Amos 5:21
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: I hated, I rejected your feasts, and I will by no means smell your festivals.
+- fresh: I have hated, I have rejected your feasts, and I will certainly not smell in your festivals.
 - brenton: I hate, I reject your feasts, and I will not smell your meat-offerings in your general assemblies.
 
 ### Amos 5:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Because even if you bring me your burnt offerings and sacrifices, I will not accept them, and I will not look upon your prominent offerings of salvation.
@@ -199973,16 +199973,16 @@ Note:
 ### Amos 5:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Remove from me the sound of your songs, and I will not hear melody of your instruments.
+- fresh: Remove from me the sound of your songs, and I will not hear the melody of your instruments.
 - brenton: Remove from me the sound of thy songs, and I will not hear the music of thine instruments.
 
 ### Amos 5:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And judgment will roll like water, and righteousness like an impassable torrent.
@@ -199991,28 +199991,28 @@ Note:
 ### Amos 5:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Did you bring me victims and sacrifices in the wilderness forty years, house of Israel?
+- fresh: Did you bring me victims and sacrifices in the wilderness forty years, O house of Israel?
 - brenton: Have ye offered to me victims and sacrifices, O house of Israel, forty years in the wilderness?
 
 ### Amos 5:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you took up tent of Moloch and star of your god Rhaiphan, their images that you made for yourselves.
+- fresh: And you took up the tent of Moloch and the star of your god Rhaiphan, their images that you made for yourselves.
 - brenton: Yea, ye took up the tabernacle of Moloch, and the star of your god Ræphan, the images of them which ye made for yourselves.
 
 ### Amos 5:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will resettle you beyond Damascus, says the Lord God Almighty is his name.
+- fresh: And I will deport you beyond Damascus, says the Lord God Almighty is his name.
 - brenton: And I will carry you away beyond Damascus, saith the Lord, the Almighty God is his name.
 
 ### Amos 6:1
