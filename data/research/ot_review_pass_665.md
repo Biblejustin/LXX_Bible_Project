@@ -3,7 +3,7 @@
 Scope: Ezekiel 47:18-23.
 
 Changes:
-- Reviewed Ezekiel 47:18-23 eastern, southern, western boundary, City of Palms, Marimoth Kadesh, land division, resident-alien inheritance, and tribe wording.
+- Reviewed Ezekiel 47:18-23 eastern, southern, western boundary, City of Palms, Meribah Kadesh, land division, resident-alien inheritance, and tribe wording.
 - Synced translation comparison footnotes and added data-driven smoke guards for reviewed verses.
 
 Validation:
