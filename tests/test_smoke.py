@@ -4764,7 +4764,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "by the river Chebar" in by_ref["Ezekiel 1:1"]["draft_translation"]
     assert "in the heart of the sea" in by_ref["Ezekiel 27:25"]["draft_translation"]
     assert "into the heart of the sea" in by_ref["Jonah 2:4"]["draft_translation"]
-    assert "set your heart as the heart of a god" in by_ref["Ezekiel 28:2"]["draft_translation"]
+    assert "set your heart as the heart of God" in by_ref["Ezekiel 28:2"]["draft_translation"]
     assert "from the face of Absalom" in by_ref["Psalms 3:1"]["draft_translation"]
     assert "upon the face of land" in by_ref["2 Chronicles 6:31"]["draft_translation"]
     assert "on the face of water" in by_ref["Hosea 10:7"]["draft_translation"]
