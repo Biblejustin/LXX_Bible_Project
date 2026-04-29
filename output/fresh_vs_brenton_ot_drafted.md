@@ -200144,7 +200144,7 @@ Note:
 ### Amos 7:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Thus the Lord showed me, and behold, brood of locusts coming in the morning, and behold, one hopper, Gog the king.
@@ -200153,19 +200153,19 @@ Note:
 ### Amos 7:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be, if it completes devouring grass of the land, then I said, Lord, Lord, be merciful. Who will raise Jacob, because he is small?
+- fresh: And it will be, if it completes devouring the grass of the land, then I said, Lord, Lord, be merciful. Who will raise up Jacob, because he is very small?
 - brenton: And it came to pass when he had finished devouring the grass of the land, that I said, Lord God, be merciful; who shall raise up Jacob? for he is small in number.
 
 ### Amos 7:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Repent, Lord, over this, and this will not happen, says the Lord.
+- fresh: Repent, O Lord, over this, and this will not be, says the Lord.
 - brenton: Repent, O Lord, for this. And this shall not be, saith the Lord.
 
 ### Amos 7:4
@@ -200180,34 +200180,34 @@ Note:
 ### Amos 7:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, Lord, Lord, cease now. Who will raise Jacob, because he is small?
+- fresh: And I said, Lord, Lord, cease now. Who will raise up Jacob, because he is very small?
 - brenton: Then I said, O Lord, cease, I pray thee: who shall raise up Jacob? for he is small in number. Repent, O Lord, for this.
 
 ### Amos 7:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Repent, Lord, over this, and this will never happen, says the Lord.
+- fresh: Repent, O Lord, over this, and this will certainly not happen, says the Lord.
 - brenton: This also shall not be, saith the Lord.
 
 ### Amos 7:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus the Lord showed me, and behold, a man stood upon an adamant wall, and adamant was in his hand.
+- fresh: Thus the Lord showed me, and behold, a man was standing upon an adamant wall, and adamant was in his hand.
 - brenton: Thus the Lord shewed me; and behold, he stood upon a wall of adamant, and in his hand was an adamant.
 
 ### Amos 7:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And the Lord said to me, What do you see, Amos? And I said, Adamant. And the Lord said to me, Behold, I am setting adamant in the midst of my people Israel; I will no longer continue to pass over him.
@@ -200216,34 +200216,34 @@ Note:
 ### Amos 7:9
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And the altars of laughter will be destroyed, and the rites of Israel will be laid waste, and I will rise against the house of Jeroboam with sword.
+- fresh: And the altars of laughter will be destroyed, and the rites of Israel will be laid waste, and I will rise up against the house of Jeroboam with a sword.
 - brenton: And the joyful altars shall be abolished, and the sacrifices of Israel shall be set aside; and I will rise up against the house of Jeroboam with the sword.
 
 ### Amos 7:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And Amaziah priest of Bethel sent to Jeroboam king of Israel, saying, Amos is making conspiracies against you in the midst of the house of Israel; the land cannot bear all his words.
+- fresh: And Amaziah the priest of Bethel sent to Jeroboam the king of Israel, saying, Amos is making conspiracies against you in the midst of the house of Israel; the land will certainly not be able to bear all his words.
 - brenton: Then Amasias the priest of Bæthel sent to Jeroboam king of Israel, saying, Amos is forming conspiracies against thee in the midst of the house of Israel: the land will be utterly unable to bear all his words.
 
 ### Amos 7:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus Amos says: Jeroboam will end by sword, and Israel will surely be led captive from his land.
+- fresh: Because thus Amos says: Jeroboam will die by a sword, and Israel will be led captive from his land.
 - brenton: For thus says Amos, Jeroboam shall die by the sword, and Israel shall be led away captive from his land.
 
 ### Amos 7:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And Amaziah said to Amos, O seer, go, withdraw into the land of Judah, and live there, and there you will prophesy.
@@ -200252,7 +200252,7 @@ Note:
 ### Amos 7:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: But in Bethel you must no longer continue to prophesy, because it is the sanctuary of the king and the house of the kingdom.
@@ -200261,10 +200261,10 @@ Note:
 ### Amos 7:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And Amos answered and said to Amaziah, I was not a prophet nor son of prophet, but I was a goatherd and one pricking sycamore figs.
+- fresh: And Amos answered and said to Amaziah, I was not a prophet nor a son of a prophet, but I was a goatherd and a pricker of sycamore figs.
 - brenton: And Amos answered, and said to Amasias, I was not a prophet, nor the son of a prophet; but I was a herdman, and a gatherer of sycamore fruits.
 
 ### Amos 7:15
@@ -200279,19 +200279,19 @@ Note:
 ### Amos 7:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now hear the word of the Lord. You say, Do not prophesy against Israel, and you must not raise tumult against the house of Jacob.
+- fresh: And now hear the word of the Lord. You say, Do not prophesy against Israel, and you must certainly not raise tumult against the house of Jacob.
 - brenton: And now hear the word of the Lord: Thou sayest, Prophesy not to Israel, and raise not a tumult against the house of Jacob.
 
 ### Amos 7:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Your wife in the city will prostitute herself, and your sons and your daughters will fall by sword, and your land will be measured by line, and you will die in unclean land, and Israel will surely be led captive from his land.
+- fresh: Therefore thus says the Lord: Your wife will prostitute herself in the city, and your sons and your daughters will fall by a sword, and your land will be measured by line, and you will die in an unclean land, and Israel will be led captive from his land.
 - brenton: Therefore thus saith the Lord; Thy wife shall be a harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be measured with the line; and thou shalt die in an unclean land; and Israel shall be led captive out of his land. Thus has the Lord God shewed me.
 
 ### Amos 8:1

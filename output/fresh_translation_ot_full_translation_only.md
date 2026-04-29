@@ -90758,11 +90758,11 @@ Thus the Lord showed me, and behold, brood of locusts coming in the morning, and
 
 **Amos 7:2**
 
-And it will be, if it completes devouring grass of the land, then I said, Lord, Lord, be merciful. Who will raise Jacob, because he is small?
+And it will be, if it completes devouring the grass of the land, then I said, Lord, Lord, be merciful. Who will raise up Jacob, because he is very small?
 
 **Amos 7:3**
 
-Repent, Lord, over this, and this will not happen, says the Lord.
+Repent, O Lord, over this, and this will not be, says the Lord.
 
 **Amos 7:4**
 
@@ -90770,15 +90770,15 @@ Thus the Lord showed me, and behold, the Lord called judgment in fire, and it de
 
 **Amos 7:5**
 
-And I said, Lord, Lord, cease now. Who will raise Jacob, because he is small?
+And I said, Lord, Lord, cease now. Who will raise up Jacob, because he is very small?
 
 **Amos 7:6**
 
-Repent, Lord, over this, and this will never happen, says the Lord.
+Repent, O Lord, over this, and this will certainly not happen, says the Lord.
 
 **Amos 7:7**
 
-Thus the Lord showed me, and behold, a man stood upon an adamant wall, and adamant was in his hand.
+Thus the Lord showed me, and behold, a man was standing upon an adamant wall, and adamant was in his hand.
 
 **Amos 7:8**
 
@@ -90786,15 +90786,15 @@ And the Lord said to me, What do you see, Amos? And I said, Adamant. And the Lor
 
 **Amos 7:9**
 
-And the altars of laughter will be destroyed, and the rites of Israel will be laid waste, and I will rise against the house of Jeroboam with sword.
+And the altars of laughter will be destroyed, and the rites of Israel will be laid waste, and I will rise up against the house of Jeroboam with a sword.
 
 **Amos 7:10**
 
-And Amaziah priest of Bethel sent to Jeroboam king of Israel, saying, Amos is making conspiracies against you in the midst of the house of Israel; the land cannot bear all his words.
+And Amaziah the priest of Bethel sent to Jeroboam the king of Israel, saying, Amos is making conspiracies against you in the midst of the house of Israel; the land will certainly not be able to bear all his words.
 
 **Amos 7:11**
 
-Because thus Amos says: Jeroboam will end by sword, and Israel will surely be led captive from his land.
+Because thus Amos says: Jeroboam will die by a sword, and Israel will be led captive from his land.
 
 **Amos 7:12**
 
@@ -90806,7 +90806,7 @@ But in Bethel you must no longer continue to prophesy, because it is the sanctua
 
 **Amos 7:14**
 
-And Amos answered and said to Amaziah, I was not a prophet nor son of prophet, but I was a goatherd and one pricking sycamore figs.
+And Amos answered and said to Amaziah, I was not a prophet nor a son of a prophet, but I was a goatherd and a pricker of sycamore figs.
 
 **Amos 7:15**
 
@@ -90814,11 +90814,11 @@ And the Lord took me from the sheep and said to me, Go, prophesy over my people 
 
 **Amos 7:16**
 
-And now hear the word of the Lord. You say, Do not prophesy against Israel, and you must not raise tumult against the house of Jacob.
+And now hear the word of the Lord. You say, Do not prophesy against Israel, and you must certainly not raise tumult against the house of Jacob.
 
 **Amos 7:17**
 
-Therefore thus says the Lord: Your wife in the city will prostitute herself, and your sons and your daughters will fall by sword, and your land will be measured by line, and you will die in unclean land, and Israel will surely be led captive from his land.
+Therefore thus says the Lord: Your wife will prostitute herself in the city, and your sons and your daughters will fall by a sword, and your land will be measured by line, and you will die in an unclean land, and Israel will be led captive from his land.
 
 ### Chapter 8
 
