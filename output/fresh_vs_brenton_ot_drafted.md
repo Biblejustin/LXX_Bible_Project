@@ -190218,118 +190218,118 @@ Note:
 ### Ezekiel 35:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, turn your face upon Mount Seir and prophesy against it,
+- fresh: Son of man, turn your face against Mount Seir and prophesy against it,
 - brenton: Son of man, set thy face against mount Seir, and prophesy against it,
 
 ### Ezekiel 35:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: and say, Thus says the Lord: Behold, I am against you, Mount Seir, and I will stretch out my hand against you and give you for wilderness, and you will be desolated.
+- fresh: and say, Thus says the Lord God: Behold, I am against you, Mount Seir, and I will stretch out my hand against you and give you as a wilderness, and you will be desolated.
 - brenton: and say to it,
 
 ### Ezekiel 35:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make your cities desolation, and you will be a waste and know that I am the Lord.
+- fresh: And I will make your cities a desolation, and you will be desolate and know that I am the Lord.
 - brenton: And I will cause desolation in thy cities, and thou shalt be desolate, and thou shalt know that I am the Lord.
 
 ### Ezekiel 35:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you became perpetual enemy and laid plots against the house of Israel into the hand of enemies, sword in the time of injustice at the last,
+- fresh: Because you became a perpetual enemy and laid ambush against the house of Israel with deceit, by the hand of enemies with a sword, in the time of injustice, at the end,
 - brenton: Because thou hast been a perpetual enemy, and hast laid wait craftily for the house of Israel, with the hand of enemies with a sword, in the time of injustice, at the last:
 
 ### Ezekiel 35:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore as I live, says the Lord, surely you sinned unto blood, and blood will pursue you.
+- fresh: Therefore, as I live, says the Lord God, surely you sinned unto blood, and blood will pursue you.
 - brenton: Therefore, as I live, saith the Lord God, verily thou hast sinned even to blood, therefore blood shall pursue thee.
 
 ### Ezekiel 35:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make Mount Seir wilderness and desolation and destroy from it men and cattle.
+- fresh: And I will make Mount Seir into a wilderness and a desolated place and destroy from it men and cattle.
 - brenton: And I will make mount Seir a waste, and desolate, and I will destroy from off it men and cattle:
 
 ### Ezekiel 35:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will fill your hills with your wounded, and your ravines and all your plains. Wounded by sword will fall in you.
+- fresh: And I will fill your hills and your ravines with your wounded, and in all your plains those wounded by the sword will fall within you.
 - brenton: and I will fill thy hills and thy valleys with slain men, and in all thy plains there shall fall in thee men slain with the sword.
 
 ### Ezekiel 35:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Everlasting desolation I will make you, and your cities will never again be inhabited, and you will know that I am the Lord.
+- fresh: I will make you an everlasting desolation, and your cities will never again be inhabited, and you will know that I am the Lord.
 - brenton: I will make thee a perpetual desolation, and thy cities shall not be inhabited any more: and thou shalt know that I am the Lord.
 
 ### Ezekiel 35:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because you said, These two nations and these two lands will be mine and I will inherit them, and the Lord is there,
+- fresh: Because you said, The two nations and the two lands will be mine, and I will inherit them, and the Lord is there,
 - brenton: Because thou saidst, The two nations and the two countries shall be mine, and I shall inherit them; whereas the Lord is there:
 
 ### Ezekiel 35:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore as I live, says the Lord, I will do to you according to your enmity and be made known to you when I judge you.
+- fresh: Therefore, as I live, says the Lord, I will do to you according to your enmity and will be made known to you when I judge you.
 - brenton: therefore, as I live, saith the Lord, I will even deal with thee according to thine enmity, and I will be made known to thee when I shall judge thee:
 
 ### Ezekiel 35:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will know that I am the Lord; I heard the voice of your blasphemies, because you said, Mountains of Israel are desolate, given to us for food.
+- fresh: And you will know that I am the Lord; I heard the voice of your blasphemies, because you said, The mountains of Israel are desolate; they have been given to us for food.
 - brenton: and thou shalt know that I am the Lord. I have heard the voice of thy blasphemies, whereas thou hast said, The desert mountains of Israel are given to us for food;
 
 ### Ezekiel 35:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you made great speeches against me with your mouth; I heard.
+- fresh: And you spoke arrogantly against me with your mouth; I heard.
 - brenton: and thou hast spoken swelling words against me with thy mouth: I have heard them.
 
 ### Ezekiel 35:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: In the joy of the whole earth I will make you desolation.
+- fresh: Thus says the Lord: In the joy of the whole earth I will make you a desolation.
 - brenton: Thus saith the Lord; When all the earth is rejoicing, I will make thee desert.
 
 ### Ezekiel 35:15

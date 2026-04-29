@@ -86238,55 +86238,55 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 35:2**
 
-Son of man, turn your face upon Mount Seir and prophesy against it,
+Son of man, turn your face against Mount Seir and prophesy against it,
 
 **Ezekiel 35:3**
 
-and say, Thus says the Lord: Behold, I am against you, Mount Seir, and I will stretch out my hand against you and give you for wilderness, and you will be desolated.
+and say, Thus says the Lord God: Behold, I am against you, Mount Seir, and I will stretch out my hand against you and give you as a wilderness, and you will be desolated.
 
 **Ezekiel 35:4**
 
-And I will make your cities desolation, and you will be a waste and know that I am the Lord.
+And I will make your cities a desolation, and you will be desolate and know that I am the Lord.
 
 **Ezekiel 35:5**
 
-Because you became perpetual enemy and laid plots against the house of Israel into the hand of enemies, sword in the time of injustice at the last,
+Because you became a perpetual enemy and laid ambush against the house of Israel with deceit, by the hand of enemies with a sword, in the time of injustice, at the end,
 
 **Ezekiel 35:6**
 
-therefore as I live, says the Lord, surely you sinned unto blood, and blood will pursue you.
+Therefore, as I live, says the Lord God, surely you sinned unto blood, and blood will pursue you.
 
 **Ezekiel 35:7**
 
-And I will make Mount Seir wilderness and desolation and destroy from it men and cattle.
+And I will make Mount Seir into a wilderness and a desolated place and destroy from it men and cattle.
 
 **Ezekiel 35:8**
 
-And I will fill your hills with your wounded, and your ravines and all your plains. Wounded by sword will fall in you.
+And I will fill your hills and your ravines with your wounded, and in all your plains those wounded by the sword will fall within you.
 
 **Ezekiel 35:9**
 
-Everlasting desolation I will make you, and your cities will never again be inhabited, and you will know that I am the Lord.
+I will make you an everlasting desolation, and your cities will never again be inhabited, and you will know that I am the Lord.
 
 **Ezekiel 35:10**
 
-Because you said, These two nations and these two lands will be mine and I will inherit them, and the Lord is there,
+Because you said, The two nations and the two lands will be mine, and I will inherit them, and the Lord is there,
 
 **Ezekiel 35:11**
 
-therefore as I live, says the Lord, I will do to you according to your enmity and be made known to you when I judge you.
+Therefore, as I live, says the Lord, I will do to you according to your enmity and will be made known to you when I judge you.
 
 **Ezekiel 35:12**
 
-And you will know that I am the Lord; I heard the voice of your blasphemies, because you said, Mountains of Israel are desolate, given to us for food.
+And you will know that I am the Lord; I heard the voice of your blasphemies, because you said, The mountains of Israel are desolate; they have been given to us for food.
 
 **Ezekiel 35:13**
 
-And you made great speeches against me with your mouth; I heard.
+And you spoke arrogantly against me with your mouth; I heard.
 
 **Ezekiel 35:14**
 
-Thus says the Lord: In the joy of the whole earth I will make you desolation.
+Thus says the Lord: In the joy of the whole earth I will make you a desolation.
 
 **Ezekiel 35:15**
 
