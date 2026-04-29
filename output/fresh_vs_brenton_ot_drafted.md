@@ -200018,61 +200018,61 @@ Note:
 ### Amos 6:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Woe to those despising Zion and trusting in the mountain of Samaria. They gathered firstfruits of nations, and house of Israel entered to them.
+- fresh: Woe to those despising Zion and trusting in the mountain of Samaria. They gathered firstfruits of nations, and the house of Israel entered to them.
 - brenton: Woe to them that set at nought Sion, and that trust in the mountain of Samaria: they have gathered the harvest of the heads of the nations, and they have gone in themselves.
 
 ### Amos 6:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Pass through all and see, and go from there into Hamath Rabbah and go down from there into Gath of foreigners, strongest out of all these kingdoms. Are their borders greater than your borders?
+- fresh: Pass through, all of you, and see, and go from there into Hamath Rabbah and go down from there into Gath of the foreigners, the strongest out of all these kingdoms. Are their borders greater than your borders?
 - brenton: O house of Israel, pass by all of you, and see; and pass by thence to Ematrabba; and thence descend to Geth of the Philistines, the chief of all these kingdoms, see if their coasts are greater than your coasts.
 
 ### Amos 6:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You coming into evil day, drawing near and touching false Sabbaths,
+- fresh: those coming into an evil day, those drawing near and touching false Sabbaths,
 - brenton: Ye who are approaching the evil day, who are drawing near and adopting false sabbaths;
 
 ### Amos 6:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: sleeping on ivory beds and living luxuriously on their couches and eating young goats from flocks and calves from the midst of cattle-stalls, sucklings,
+- fresh: those sleeping on ivory beds and living luxuriously on their couches and eating young goats from flocks and suckling calves from the midst of cattle-stalls,
 - brenton: who sleep upon beds of ivory, and live delicately on their couches, and eat kids out of the flocks, and sucking calves out of the midst of the stalls;
 
 ### Amos 6:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: clapping to the sound of instruments, they reckoned themselves as established and not as fleeing,
+- fresh: those clapping to the sound of instruments, they reckoned themselves as established and not as fleeing,
 - brenton: who excel in the sound of musical instruments; they have regarded them as abiding, not as fleeting pleasures;
 
 ### Amos 6:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: drinking strained wine and anointing with first perfumes, and they suffered nothing over the crushing of Joseph.
+- fresh: those drinking strained wine and anointing with the first perfumes, and they suffered nothing over the crushing of Joseph.
 - brenton: who drink strained wine, and anoint themselves with the best ointment: and have suffered nothing on occasion of the calamity of Joseph.
 
 ### Amos 6:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Therefore now they will be captives from the beginning of rulers, and neighing of horses from Ephraim will be removed.
@@ -200081,46 +200081,46 @@ Note:
 ### Amos 6:8
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord swore by himself: I abhor all arrogance of Jacob, and I hated his lands, and I will remove city with all inhabiting it.
+- fresh: Because the Lord swore by himself: I abhor all the arrogance of Jacob, and I have hated his lands, and I will remove the city with all inhabiting it.
 - brenton: For the Lord has sworn by himself, saying, Because I abhor all the pride of Jacob, I do also hate his countries, and I will cut off his city with all who inhabit it.
 
 ### Amos 6:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be if ten men are left in one house, they will die, and the rest left behind will remain.
+- fresh: And it will be if ten men are left in one house, they will die, and the remaining ones will be left behind.
 - brenton: And it shall come to pass, if there be ten men left in one house, that they shall die.
 
 ### Amos 6:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And their household members will take them and force them to bring their bones out of the house, and he will say to those presiding over the house, Is there still anyone with you? And he will say, No longer. And he will say, Be silent, because the name of the Lord must not be named.
+- fresh: And their household members will take them and will strive to bring their bones out of the house, and he will say to those presiding over the house, Is there still anyone with you? And he will say, No longer. And he will say, Be silent, because the name of the Lord must not be named.
 - brenton: But a remnant shall be left behind, and their relations shall take them, and shall strenuously endeavour to carry forth their bones from the house: and one shall say to the heads of the house, Is there yet any one else with thee? And he shall say, No one else. And the other shall say, Be silent, that thou name not the name of the Lord.
 
 ### Amos 6:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because behold, the Lord commands and will strike the great house with ruins and the small house with cracks.
+- fresh: Because behold, the Lord commands and will strike the great house with fractures and the small house with cracks.
 - brenton: For, behold, the Lord commands, and he will smite the great house with breaches, and the little house with rents.
 
 ### Amos 6:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Will horses run upon rocks? Will they be silent among females? Because you turned judgment into wrath and fruit of righteousness into bitterness.
+- fresh: Will horses run upon rocks? Will they be silent among mares? Because you turned judgment into wrath and fruit of righteousness into bitterness.
 - brenton: Will horses run upon rocks? will they refrain from neighing at mares? for ye have turned judgment into poison, and the fruit of righteousness into bitterness:
 
 ### Amos 6:13
@@ -200135,10 +200135,10 @@ Note:
 ### Amos 6:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because behold, I am raising against you, house of Israel, a nation, and they will afflict you from entering into Hamath and as far as torrent of the west.
+- fresh: Because behold, I am raising against you, O house of Israel, a nation, and they will afflict you from entering into Hamath and as far as the torrent of the west.
 - brenton: For behold, O house of Israel, I will raise up against you a nation, saith the Lord of hosts; and they shall afflict you so that ye shall not enter into Æmath, and as it were from the river of the wilderness.
 
 ### Amos 7:1

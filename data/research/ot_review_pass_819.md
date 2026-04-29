@@ -10,4 +10,4 @@ Validation:
 - Fast CSV shape check passed for source, footnotes, decisions, and reviewed phrase guards.
 - `python3 scripts/run_fast_review_checkpoint.py --testament ot --refs 'Amos 6:8-14'` passed.
 - Focused smoke tests passed.
-- Full aggregate/DOCX checkpoint intentionally deferred for chapter boundary.
+- Full aggregate/DOCX checkpoint passed at the Amos 6 boundary.

@@ -90696,27 +90696,27 @@ And I will deport you beyond Damascus, says the Lord God Almighty is his name.
 
 **Amos 6:1**
 
-Woe to those despising Zion and trusting in the mountain of Samaria. They gathered firstfruits of nations, and house of Israel entered to them.
+Woe to those despising Zion and trusting in the mountain of Samaria. They gathered firstfruits of nations, and the house of Israel entered to them.
 
 **Amos 6:2**
 
-Pass through all and see, and go from there into Hamath Rabbah and go down from there into Gath of foreigners, strongest out of all these kingdoms. Are their borders greater than your borders?
+Pass through, all of you, and see, and go from there into Hamath Rabbah and go down from there into Gath of the foreigners, the strongest out of all these kingdoms. Are their borders greater than your borders?
 
 **Amos 6:3**
 
-You coming into evil day, drawing near and touching false Sabbaths,
+those coming into an evil day, those drawing near and touching false Sabbaths,
 
 **Amos 6:4**
 
-sleeping on ivory beds and living luxuriously on their couches and eating young goats from flocks and calves from the midst of cattle-stalls, sucklings,
+those sleeping on ivory beds and living luxuriously on their couches and eating young goats from flocks and suckling calves from the midst of cattle-stalls,
 
 **Amos 6:5**
 
-clapping to the sound of instruments, they reckoned themselves as established and not as fleeing,
+those clapping to the sound of instruments, they reckoned themselves as established and not as fleeing,
 
 **Amos 6:6**
 
-drinking strained wine and anointing with first perfumes, and they suffered nothing over the crushing of Joseph.
+those drinking strained wine and anointing with the first perfumes, and they suffered nothing over the crushing of Joseph.
 
 **Amos 6:7**
 
@@ -90724,23 +90724,23 @@ Therefore now they will be captives from the beginning of rulers, and neighing o
 
 **Amos 6:8**
 
-Because the Lord swore by himself: I abhor all arrogance of Jacob, and I hated his lands, and I will remove city with all inhabiting it.
+Because the Lord swore by himself: I abhor all the arrogance of Jacob, and I have hated his lands, and I will remove the city with all inhabiting it.
 
 **Amos 6:9**
 
-And it will be if ten men are left in one house, they will die, and the rest left behind will remain.
+And it will be if ten men are left in one house, they will die, and the remaining ones will be left behind.
 
 **Amos 6:10**
 
-And their household members will take them and force them to bring their bones out of the house, and he will say to those presiding over the house, Is there still anyone with you? And he will say, No longer. And he will say, Be silent, because the name of the Lord must not be named.
+And their household members will take them and will strive to bring their bones out of the house, and he will say to those presiding over the house, Is there still anyone with you? And he will say, No longer. And he will say, Be silent, because the name of the Lord must not be named.
 
 **Amos 6:11**
 
-Because behold, the Lord commands and will strike the great house with ruins and the small house with cracks.
+Because behold, the Lord commands and will strike the great house with fractures and the small house with cracks.
 
 **Amos 6:12**
 
-Will horses run upon rocks? Will they be silent among females? Because you turned judgment into wrath and fruit of righteousness into bitterness.
+Will horses run upon rocks? Will they be silent among mares? Because you turned judgment into wrath and fruit of righteousness into bitterness.
 
 **Amos 6:13**
 
@@ -90748,7 +90748,7 @@ Those rejoicing over nothing, those saying, Did we not acquire horns by our own 
 
 **Amos 6:14**
 
-Because behold, I am raising against you, house of Israel, a nation, and they will afflict you from entering into Hamath and as far as torrent of the west.
+Because behold, I am raising against you, O house of Israel, a nation, and they will afflict you from entering into Hamath and as far as the torrent of the west.
 
 ### Chapter 7
 
