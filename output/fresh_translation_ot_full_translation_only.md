@@ -88238,7 +88238,7 @@ So then the king gave authority to Shadrach, Meshach, and Abednego over all the 
 
 **Daniel 4:4**
 
-In the eighteenth year of the reign of Nebuchadnezzar he said, I was at peace in my house and prospering on my throne.
+In the eighteenth year of the reign of Nebuchadnezzar, he said, I was at peace in my house and prospering on my throne.
 
 **Daniel 4:5**
 
@@ -88250,11 +88250,11 @@ I was sleeping, and behold, a tall tree was growing on the earth; its appearance
 
 **Daniel 4:11**
 
-And its appearance was great; its top reached to heaven, and its trunk reached to the clouds, filling what is under heaven. Sun and moon lived in it and gave light to all the earth.
+And its appearance was great; its top reached to heaven, and its trunk reached to the clouds, filling what is under heaven. The sun and the moon lived in it and gave light to all the earth.
 
 **Daniel 4:12**
 
-Its branches were thirty stadia in length, and under it all beasts of the earth were shaded, and in it birds of heaven nested. Its fruit was abundant and good, and it furnished all living creatures.
+Its branches were about thirty stadia in length, and under it all beasts of the earth were shaded, and in it birds of heaven nested. Its fruit was abundant and good, and it provided for all living creatures.
 
 **Daniel 4:13**
 
@@ -88270,19 +88270,19 @@ And thus he said, Leave one root of it in the earth, so that with the beasts of 
 
 **Daniel 4:16**
 
-And from dew of heaven its body will be altered, and for seven years it will pasture with them.
+And from the dew of heaven its body will be altered, and for seven years it will pasture with them.
 
 **Daniel 4:17**
 
-Until he knows that the Lord of heaven has authority over all in heaven and on earth, and whatever he wills he does in them. Before me it was cut down in one day, and its destruction in one hour of the day, and its branches were given to every wind and dragged away and thrown down, and grass of the earth was eaten with the beasts of the earth, and it was handed over to prison, and in bronze fetters and handcuffs it was bound by them. I marveled greatly at all these things, and my sleep departed from my eyes.
+Until he knows that the Lord of heaven has authority over all things in heaven and on earth, and whatever he wills he does in them. Before me it was cut down in one day, and its destruction in one hour of the day, and its branches were given to every wind and dragged away and thrown down, and it ate the grass of the earth with the beasts of the earth, and it was handed over to prison, and in bronze fetters and handcuffs it was bound by them. I marveled greatly at all these things, and my sleep departed from my eyes.
 
 **Daniel 4:18**
 
-And rising in morning from my bed I called Daniel, chief of the wise men and ruler of those judging dreams, and I recounted the dream to him, and he showed me all its interpretation.
+And rising in the morning from my bed I called Daniel, ruler of the sophists and leader of those judging dreams, and I recounted the dream to him, and he showed me all its interpretation.
 
 **Daniel 4:19**
 
-And Daniel marveled greatly, and anxious thought pressed him, and fear seized him with trembling, and appearance of his face changed. Shaking his head, after sitting astonished for one hour, he answered me in a gentle voice, King, may this dream come upon those hating you, and its interpretation upon your enemies.
+And Daniel marveled greatly, and anxious thought pressed him, and fear seized him with trembling, and the appearance of his face changed. Shaking his head, after being astonished for one hour, he answered me in a gentle voice, O king, may this dream come upon those hating you, and its interpretation upon your enemies.
 
 **Daniel 4:20**
 
@@ -88290,7 +88290,7 @@ The tree planted in the earth whose appearance was great, that is you, king.
 
 **Daniel 4:21**
 
-And all birds of heaven nesting in it are strength of the earth and of nations and of all languages to the ends of the earth, and all lands serve you.
+And all the birds of heaven nesting in it are strength of the earth and of nations and of all languages to the ends of the earth, and all lands serve you.
 
 **Daniel 4:22**
 
@@ -88298,11 +88298,11 @@ And as for that tree being lifted up and coming near heaven and its trunk touchi
 
 **Daniel 4:23**
 
-And the vision you saw, that an angel in power was sent from the Lord and said to remove the tree and cut it down, means judgment of great God will come upon you.
+And the vision you saw, that an angel in power was sent from the Lord and said to remove the tree and cut it down, means the judgment of the great God will come upon you.
 
 **Daniel 4:24**
 
-And Most High and his angels rush upon you.
+And the Most High and his angels rush upon you.
 
 **Daniel 4:25**
 
@@ -88310,15 +88310,15 @@ They will lead you away into prison and send you into a desolate place.
 
 **Daniel 4:26**
 
-And as for root of the tree that was left, because it was not uprooted, place of your throne will be preserved for you for time and hour. Behold, they prepare against you and will scourge you and bring judgments upon you.
+And as for the root of the tree that was left, because it was not uprooted, the place of your throne will be preserved for you for time and hour. Behold, they prepare against you and will scourge you and bring the judgments upon you.
 
 **Daniel 4:27**
 
-The Lord lives in heaven, and his authority is over all the earth. Beg him concerning your sins, and redeem all your wrongs with acts of mercy, so that gentleness may be given you and you may be long-lived upon the throne of your kingdom and not destroyed. Love these words, for my word is exact and your time is full.
+The Lord lives in heaven, and his authority is over all the earth. Beg him concerning your sins, and redeem all your wrongs with acts of mercy, so that gentleness may be given you and you may be long-lived upon the throne of your kingdom, and he may not destroy you. Love these words, for my word is exact and your time is full.
 
 **Daniel 4:28**
 
-And at the completion of these words, when Nebuchadnezzar heard judgment of the vision, he kept the words in his heart.
+And at the completion of these words, when Nebuchadnezzar heard the judgment of the vision, he kept the words in his heart.
 
 **Daniel 4:29**
 
@@ -88326,23 +88326,23 @@ And after twelve months the king was walking on the walls of the city with all h
 
 **Daniel 4:30**
 
-And answering he said, This is great Babylon, which I built as house of my kingdom by the strength of my might; it will be called for honor of my glory.
+And answering he said, This is Babylon the great, which I built as the house of my kingdom by the strength of my might; it will be called for the honor of my glory.
 
 **Daniel 4:31**
 
-And at the completion of his word he heard a voice from heaven saying, To you it is said, King Nebuchadnezzar, kingdom of Babylon is taken from you and given to another despised man in your house. Behold, I set him over your kingdom, and your authority and your glory and your luxury he will receive, so that you may know that the God of heaven has authority in the kingdom of men and gives it to whomever he wills. And until sunrise another king will rejoice in your house and hold your glory and your strength and your authority.
+And at the completion of his word he heard a voice from heaven saying, To you it is said, King Nebuchadnezzar, the kingdom of Babylon is taken from you and given to another despised man in your house. Behold, I set him over your kingdom, and your authority and your glory and your luxury he will receive, so that you may know that the God of heaven has authority in the kingdom of men and gives it to whomever he wills. And until sunrise another king will rejoice in your house and hold your glory and your strength and your authority.
 
 **Daniel 4:32**
 
-And angels will drive you away for seven years, and you will not be seen nor speak with any human. They will feed you grass like an ox, and herbs of the earth will be your pasture. Behold, instead of your glory they will bind you, and another will possess house of your luxury and your kingdom.
+And the angels will drive you away for seven years, and you will not be seen nor speak with any human. They will feed you grass like an ox, and the herbs of the earth will be your pasture. Behold, instead of your glory they will bind you, and another will possess the house of your luxury and your kingdom.
 
 **Daniel 4:33**
 
-By morning all these things will be completed upon you, Nebuchadnezzar king of Babylon, and none of them will fail. I, Nebuchadnezzar king of Babylon, was bound for seven years; they fed me grass like an ox, and I ate from the herbs of the earth. And after seven years I gave my soul to prayer and begged concerning my sins before the Lord God of heaven, and concerning my ignorances I prayed to the God of gods, the great one. And my hair became like eagle feathers, and my nails like those of a lion. My flesh was changed, and my heart; I walked naked among beasts of the earth. I saw a dream, and thoughts seized me, and after a time much sleep took me and drowsiness fell upon me.
+By morning all these things will be completed upon you, Nebuchadnezzar king of Babylon, and none of them will fail. I, Nebuchadnezzar king of Babylon, was bound for seven years; they fed me grass like an ox, and I ate from the herbs of the earth. And after seven years I gave my soul to prayer and begged concerning my sins before the Lord God of heaven, and concerning my ignorances I prayed to the God of gods, the great one. And my hair became like eagle feathers, and my nails like those of a lion. My flesh and my heart were changed; I walked naked among the beasts of the earth. I saw a dream, and thoughts seized me, and after a time much sleep took me and drowsiness fell upon me.
 
 **Daniel 4:34**
 
-And at the completion of the seven years, the time of my release came, and my sins and my ignorances were filled up before the God of heaven, and I prayed concerning my ignorances to the God of gods, the great one, and behold, an angel called to me from heaven, saying, Nebuchadnezzar, serve the God of heaven, the Holy One, and give glory to the Most High; the kingdom of your nation is restored to you.
+And at the completion of the seven years, the time of my release came, and my sins and my ignorances were filled up before the God of heaven, and I prayed concerning my ignorances to the God of gods, the great one, and behold, one angel called to me from heaven, saying, Nebuchadnezzar, serve the God of heaven the Holy One, and give glory to the Most High; the kingdom of your nation is restored to you.
 
 **Daniel 4:36**
 
@@ -88350,7 +88350,7 @@ At that time my kingdom was restored to me, and my glory was given back to me.
 
 **Daniel 4:37**
 
-I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all in them. I confess and praise because he is the God of gods and the Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing a kingdom from kings and setting others in their place. From now on I will serve him, and fear of him has seized me, and I praise all his holy ones. The gods of nations have no power in themselves to turn the kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as the God of heaven did in me and changed great things upon me. All the days of my kingdom I will offer sacrifices concerning my soul to the Most High as a sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against the God of heaven, and whoever is caught speaking, I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages dwelling in all regions and generations: Praise the Lord God of heaven and offer a sacrifice and an offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and my authority and kingdom were restored to me. It seemed good to me to show you and your wise men that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
+I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all things in them. I confess and praise because he is the God of gods and the Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing a kingdom from kings and setting others in their place. From now on I will serve him, and trembling from fear of him has seized me, and I praise all his holy ones. The gods of nations do not have power in themselves to turn the kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as the God of heaven did in me and changed great things upon me. All the days of my kingdom I will offer sacrifices concerning my soul to the Most High as a sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against the God of heaven, and whoever is caught speaking anything, these I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages, all those dwelling in all lands, in generations and generations: Praise the Lord God of heaven and offer a sacrifice and an offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and I held my authority and my kingdom among my people, and my greatness was restored to me. King Nebuchadnezzar, to all the nations and all the lands and all those dwelling in them: May peace be multiplied to you at every time. And now I will show you the deeds that the great God did with me. And it seemed good to me to show you and your sophists that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
 
 ### Chapter 5
 
