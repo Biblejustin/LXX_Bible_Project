@@ -3883,7 +3883,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "The days of vengeance have come; the days of your repayment have come"
     )
     assert by_ref["Nahum 2:7"]["draft_translation"].startswith(
-        "The gates of rivers were opened"
+        "The gates of the rivers were opened"
     )
     assert by_ref["2 Chronicles 3:11"]["draft_translation"].startswith(
         "And the wings of cheroubim were"
