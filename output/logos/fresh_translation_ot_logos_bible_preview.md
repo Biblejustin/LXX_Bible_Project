@@ -468,7 +468,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 16
 
-**Hosea 1:2** The beginning of the word of the Lord to Hosea. And the Lord said to Hosea, Go, take for yourself wife of whoredom and children of whoredom, because land, prostituting itself, will prostitute itself away from the Lord.
+**Hosea 1:2** The beginning of the word of the Lord to Hosea. And the Lord said to Hosea, Go, take for yourself a wife of whoredom and children of whoredom, because the land, prostituting itself, will prostitute itself away from the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 19

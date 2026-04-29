@@ -89226,7 +89226,7 @@ The word of the Lord that came to Hosea son of Beeri in the days of Uzziah and J
 
 **Hosea 1:2**
 
-The beginning of the word of the Lord to Hosea. And the Lord said to Hosea, Go, take for yourself wife of whoredom and children of whoredom, because land, prostituting itself, will prostitute itself away from the Lord.
+The beginning of the word of the Lord to Hosea. And the Lord said to Hosea, Go, take for yourself a wife of whoredom and children of whoredom, because the land, prostituting itself, will prostitute itself away from the Lord.
 
 **Hosea 1:3**
 
@@ -89234,11 +89234,11 @@ And he went and took Gomer daughter of Diblaim, and she conceived and bore him a
 
 **Hosea 1:4**
 
-And the Lord said to him, Call his name Jezreel, because a little while longer and I will avenge blood of Jezreel upon the house of Jehu and make kingdom of the house of Israel cease.
+And the Lord said to him, Call his name Jezreel, because a little while longer and I will avenge the blood of Jezreel upon the house of Jehu and make the kingdom of the house of Israel cease.
 
 **Hosea 1:5**
 
-And it will be in that day: I will shatter bow of Israel in the valley of Jezreel.
+And it will be in that day: I will shatter the bow of Israel in the valley of Jezreel.
 
 **Hosea 1:6**
 
@@ -89246,7 +89246,7 @@ And she conceived again and bore a daughter. And he said to him, Call her name N
 
 **Hosea 1:7**
 
-But sons of Judah I will show mercy to and save them in the Lord their God, and I will not save them by bow nor by sword nor by war nor by chariots nor by horses nor by horsemen.
+But the sons of Judah I will show mercy to and save them in the Lord their God, and I will not save them by a bow nor by a sword nor by war nor by chariots nor by horses nor by horsemen.
 
 **Hosea 1:8**
 

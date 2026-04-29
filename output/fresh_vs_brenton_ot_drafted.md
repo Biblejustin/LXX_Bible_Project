@@ -196810,7 +196810,7 @@ Note:
 ### Hosea 1:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: The word of the Lord that came to Hosea son of Beeri in the days of Uzziah and Jotham and Ahaz and Hezekiah, kings of Judah, and in the days of Jeroboam son of Joash, king of Israel.
@@ -196819,16 +196819,16 @@ Note:
 ### Hosea 1:2
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: The beginning of the word of the Lord to Hosea. And the Lord said to Hosea, Go, take for yourself wife of whoredom and children of whoredom, because land, prostituting itself, will prostitute itself away from the Lord.
+- fresh: The beginning of the word of the Lord to Hosea. And the Lord said to Hosea, Go, take for yourself a wife of whoredom and children of whoredom, because the land, prostituting itself, will prostitute itself away from the Lord.
 - brenton: The beginning of the word of the Lord by Osee. And the Lord said to Osee, Go, take to thyself a wife of fornication, and children of fornication: for the land will surely go a-whoring in departing from the Lord.
 
 ### Hosea 1:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And he went and took Gomer daughter of Diblaim, and she conceived and bore him a son.
@@ -196837,25 +196837,25 @@ Note:
 ### Hosea 1:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to him, Call his name Jezreel, because a little while longer and I will avenge blood of Jezreel upon the house of Jehu and make kingdom of the house of Israel cease.
+- fresh: And the Lord said to him, Call his name Jezreel, because a little while longer and I will avenge the blood of Jezreel upon the house of Jehu and make the kingdom of the house of Israel cease.
 - brenton: And the Lord said to him, Call his name Jezrael; for yet a little while, and I will avenge the blood of Jezrael on the house of Juda, and will make to cease the kingdom of the house of Israel.
 
 ### Hosea 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day: I will shatter bow of Israel in the valley of Jezreel.
+- fresh: And it will be in that day: I will shatter the bow of Israel in the valley of Jezreel.
 - brenton: And it shall be, in that day, that I will break the bow of Israel in the valley of Jezrael.
 
 ### Hosea 1:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And she conceived again and bore a daughter. And he said to him, Call her name Not-Shown-Mercy, because I will no longer continue to show mercy to the house of Israel, but in opposing I will oppose them.
@@ -196864,16 +196864,16 @@ Note:
 ### Hosea 1:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: But sons of Judah I will show mercy to and save them in the Lord their God, and I will not save them by bow nor by sword nor by war nor by chariots nor by horses nor by horsemen.
+- fresh: But the sons of Judah I will show mercy to and save them in the Lord their God, and I will not save them by a bow nor by a sword nor by war nor by chariots nor by horses nor by horsemen.
 - brenton: But I will have mercy on the house of Juda, and will save them by the Lord their God, and will not save them with bow, nor with sword, nor by war, nor by horses, nor by horsemen.
 
 ### Hosea 1:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And she weaned Not-Shown-Mercy and conceived again and bore a son.
@@ -196882,7 +196882,7 @@ Note:
 ### Hosea 1:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And he said, Call his name Not-My-People, because you are not my people and I am not yours.
