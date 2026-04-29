@@ -89640,31 +89640,31 @@ Into their bosom, like land, like an eagle against the house of the Lord, becaus
 
 **Hosea 8:2**
 
-They will cry to me, O God, we knew you.
+They will cry to me, O God, we have known you.
 
 **Hosea 8:3**
 
-Because Israel turned away from good things, enemies pursued him.
+Because Israel turned away from good things; they pursued an enemy.
 
 **Hosea 8:4**
 
-They made kings for themselves, and not through me. They ruled, and they did not make it known to me. Their silver and their gold they made into idols for themselves, so that they might be destroyed.
+They reigned for themselves, and not through me. They ruled, and they did not make it known to me. Their silver and their gold they made into idols for themselves, so that they might be destroyed.
 
 **Hosea 8:5**
 
-Cast away your calf, Samaria. My anger was provoked against them. How long will they be unable to be cleansed?
+Cast off your calf, Samaria. My anger was provoked against them. How long will they be unable to be cleansed?
 
 **Hosea 8:6**
 
-For in Israel a craftsman made it, and it is not God, because your calf, Samaria, was a thing causing wandering.
+For in Israel a craftsman made it, and it is not God, because your calf, Samaria, was leading astray.
 
 **Hosea 8:7**
 
-Because they sowed wind-blight, and destruction will receive them. A handful has no strength to make flour; and if it does make it, foreigners will devour it.
+Because they sowed wind-blight, and their destruction will receive them. A handful has no strength to make flour; and if it does make it, foreigners will devour it.
 
 **Hosea 8:8**
 
-Israel was swallowed up; now it became among nations like a useless vessel.
+Israel was swallowed up; now it became among the nations like a useless vessel.
 
 **Hosea 8:9**
 
@@ -89672,19 +89672,19 @@ Because they went up to Assyrians; Ephraim sprouted by itself; they loved gifts.
 
 **Hosea 8:10**
 
-Therefore they will be handed over among the nations. Now I will receive them, and they will cease a little from anointing king and rulers.
+Therefore they will be handed over among the nations. Now I will receive them, and they will cease a little from anointing a king and rulers.
 
 **Hosea 8:11**
 
-Because Ephraim multiplied altars for sins; altars became beloved to him.
+Because Ephraim multiplied altars; beloved altars became sins to him.
 
 **Hosea 8:12**
 
-I will write for him multitude and his laws; they were reckoned as foreign things, beloved altars.
+I will write down for him a multitude, and his statutes were reckoned as foreign things, beloved altars.
 
 **Hosea 8:13**
 
-Because if they sacrifice a sacrifice and eat meats, the Lord will not accept them. Now he will remember their injustices and avenge their sins. They returned to Egypt, and in Assyria they will eat unclean things.
+Because if they sacrifice a sacrifice and eat meats, the Lord will not accept them. Now he will remember their injustices and avenge their sins. They returned to Egypt, and among Assyrians they will eat unclean things.
 
 **Hosea 8:14**
 

@@ -197710,7 +197710,7 @@ Note:
 ### Hosea 8:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Into their bosom, like land, like an eagle against the house of the Lord, because they transgressed my covenant and acted impiously against my law.
@@ -197719,70 +197719,70 @@ Note:
 ### Hosea 8:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will cry to me, O God, we knew you.
+- fresh: They will cry to me, O God, we have known you.
 - brenton: They shall soon cry out to me, saying, O God, we know thee.
 
 ### Hosea 8:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because Israel turned away from good things, enemies pursued him.
+- fresh: Because Israel turned away from good things; they pursued an enemy.
 - brenton: For Israel has turned away from good things; they have pursued an enemy.
 
 ### Hosea 8:4
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: They made kings for themselves, and not through me. They ruled, and they did not make it known to me. Their silver and their gold they made into idols for themselves, so that they might be destroyed.
+- fresh: They reigned for themselves, and not through me. They ruled, and they did not make it known to me. Their silver and their gold they made into idols for themselves, so that they might be destroyed.
 - brenton: They have made kings for themselves, but not by me: they have ruled, but they did not make it known to me: of their silver and their gold they have made images to themselves, that they might be destroyed.
 
 ### Hosea 8:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Cast away your calf, Samaria. My anger was provoked against them. How long will they be unable to be cleansed?
+- fresh: Cast off your calf, Samaria. My anger was provoked against them. How long will they be unable to be cleansed?
 - brenton: Cast off thy calf, O Samaria; mine anger is kindled against them: how long will they be unable to purge themselves in Israel?
 
 ### Hosea 8:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: For in Israel a craftsman made it, and it is not God, because your calf, Samaria, was a thing causing wandering.
+- fresh: For in Israel a craftsman made it, and it is not God, because your calf, Samaria, was leading astray.
 - brenton: Whereas the workman made it, and it is not God; wherefore thy calf, Samaria, was a deceiver:
 
 ### Hosea 8:7
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Because they sowed wind-blight, and destruction will receive them. A handful has no strength to make flour; and if it does make it, foreigners will devour it.
+- fresh: Because they sowed wind-blight, and their destruction will receive them. A handful has no strength to make flour; and if it does make it, foreigners will devour it.
 - brenton: for they sowed blighted seed, and their destruction shall await them, a sheaf of corn that avails not to make meal; and even if it should produce it, strangers shall devour it.
 
 ### Hosea 8:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Israel was swallowed up; now it became among nations like a useless vessel.
+- fresh: Israel was swallowed up; now it became among the nations like a useless vessel.
 - brenton: Israel is swallowed up: now is he become among the nations as a worthless vessel.
 
 ### Hosea 8:9
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: Because they went up to Assyrians; Ephraim sprouted by itself; they loved gifts.
@@ -197791,43 +197791,43 @@ Note:
 ### Hosea 8:10
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore they will be handed over among the nations. Now I will receive them, and they will cease a little from anointing king and rulers.
+- fresh: Therefore they will be handed over among the nations. Now I will receive them, and they will cease a little from anointing a king and rulers.
 - brenton: Therefore shall they be delivered to the nations: now I will receive them, and they shall cease a little to anoint a king and princes.
 
 ### Hosea 8:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because Ephraim multiplied altars for sins; altars became beloved to him.
+- fresh: Because Ephraim multiplied altars; beloved altars became sins to him.
 - brenton: Because Ephraim has multiplied altars, his beloved altars are become sins to him.
 
 ### Hosea 8:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: I will write for him multitude and his laws; they were reckoned as foreign things, beloved altars.
+- fresh: I will write down for him a multitude, and his statutes were reckoned as foreign things, beloved altars.
 - brenton: I will write down a multitude of commands for him; but his statutes are accounted strange things, even the beloved altars.
 
 ### Hosea 8:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Because if they sacrifice a sacrifice and eat meats, the Lord will not accept them. Now he will remember their injustices and avenge their sins. They returned to Egypt, and in Assyria they will eat unclean things.
+- fresh: Because if they sacrifice a sacrifice and eat meats, the Lord will not accept them. Now he will remember their injustices and avenge their sins. They returned to Egypt, and among Assyrians they will eat unclean things.
 - brenton: For if they should offer a sacrifice, and eat flesh, the Lord will not accept them: now will he remember their iniquities, and will take vengeance on their sins: they have returned to Egypt, and they shall eat unclean things among the Assyrians.
 
 ### Hosea 8:14
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: And Israel forgot the one who made him, and they built shrines, and Judah multiplied fortified cities. And I will send fire into his cities, and it will devour their foundations.
