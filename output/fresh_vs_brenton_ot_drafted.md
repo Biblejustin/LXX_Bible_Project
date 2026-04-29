@@ -203542,19 +203542,19 @@ Note:
 ### Haggai 1:1
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet, saying: Speak now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech, the high priest, saying,
+- fresh: In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet, saying: Say now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech, the high priest, saying,
 - brenton: In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of the prophet Aggæus, saying, Speak to Zorobabel the son of Salathiel, of the tribe of Juda, and to Jesus the son of Josedec, the high priest, saying,
 
 ### Haggai 1:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: This people says, Time has not yet come to build the house of the Lord.
+- fresh: Thus says the Lord Almighty, saying: This people says, The time has not come to build the house of the Lord.
 - brenton: Thus saith the Lord Almighty, saying, This people say, The time is not come to build the house of the Lord.
 
 ### Haggai 1:3
@@ -203563,34 +203563,34 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: The word of the Lord came by the hand of Haggai the prophet, saying,
+- fresh: And the word of the Lord came by the hand of Haggai the prophet, saying,
 - brenton: And the word of the Lord came by the hand of the prophet Aggæus, saying,
 
 ### Haggai 1:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Is it time for you to dwell in your paneled houses while this house lies desolate?
+- fresh: Is it time for you to dwell in your paneled houses while this house has been desolated?
 - brenton: Is it time for you to dwell in your ceiled houses, whereas our house is desolate?
 
 ### Haggai 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Now thus says the Lord Almighty: Set your hearts on your ways.
+- fresh: And now thus says the Lord Almighty: Set your hearts on your ways.
 - brenton: And now thus saith the Lord Almighty; Consider your ways, I pray you.
 
 ### Haggai 1:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You sowed much and brought in little; you ate and not to fullness; you drank and not to drunkenness; you clothed yourselves and were not warmed in them; and one gathering wages gathered into a pierced purse.
+- fresh: You sowed much and brought in little; you ate and not to fullness; you drank and not to drunkenness; you clothed yourselves and were not warmed in them; and the one gathering wages gathered into a pierced bag.
 - brenton: Ye have sown much, but brought in little; ye have eaten, and are not satisfied; ye have drunk, and are not satisfied with drink, ye have clothed yourselves, and have not become warm thereby: and he that earns wages has gathered them into a bag full of holes.
 
 ### Haggai 1:7
@@ -203605,73 +203605,73 @@ Note:
 ### Haggai 1:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Go up to mountain, cut wood, and build the house, and I will take pleasure in it and be glorified, says the Lord.
+- fresh: Go up to the mountain, cut wood, and build the house, and I will take pleasure in it and be glorified, says the Lord.
 - brenton: Go up to the mountain, and cut timber; build the house, and I will take pleasure in it, and be glorified, saith the Lord.
 
 ### Haggai 1:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You looked for much, and it became little, and it was brought into the house, and I blew it away. Because of what? says the Lord Almighty. Because my house is desolate, while you each hurry to your own house.
+- fresh: You looked for much, and it became little, and it was brought into the house, and I blew them away. Therefore thus says the Lord Almighty: Because my house is desolate, while you each hurry to your own house.
 - brenton: Ye looked for much, and there came little; and it was brought into the house, and I blew it away. Therefore thus saith the Lord Almighty, Because my house is desolate, and ye run every one into his own house;
 
 ### Haggai 1:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore sky will hold back from dew, and land will hold back its produce.
+- fresh: Therefore the sky will hold back dew, and the land will hold back its produce.
 - brenton: therefore shall the sky withhold dew, and the earth shall keep back her produce.
 
 ### Haggai 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: I will bring sword upon the land and upon mountains and upon grain and upon wine and upon oil and upon what ground brings forth and upon people and cattle and upon all labors of their hands.
+- fresh: And I will bring a sword upon the land and upon mountains and upon grain and upon wine and upon oil and upon what the land brings forth and upon humans and cattle and upon all the labors of their hands.
 - brenton: And I will bring a sword upon the land, and upon the mountains, and upon the corn, and upon the wine, and upon the oil, and all that the earth produces, and upon the men, and upon the cattle, and upon all the labours of their hands.
 
 ### Haggai 1:12
 
 - importance: high
-- decisions: 1
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Zerubbabel son of Shealtiel, from the tribe of Judah, and Joshua son of Josedech, the high priest, and all remnant of the people, listened to the voice of the Lord their God and to the words of Haggai prophet, because the Lord their God sent him to them, and people feared before the Lord.
+- fresh: And Zerubbabel son of Shealtiel from the tribe of Judah, and Joshua son of Josedech the high priest, and all the remnant of the people, listened to the voice of the Lord their God and to the words of Haggai the prophet, just as the Lord their God sent him to them, and the people feared before the Lord.
 - brenton: And Zorobabel the son of Salathiel, of the tribe of Juda, and Jesus the son of Josedec, the high priest, and all the remnant of the people, hearkened to the voice of the Lord their God, and the words of the prophet Aggæus, according as the Lord their God had sent him to them, and the people feared before the Lord.
 
 ### Haggai 1:13
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Haggai, messenger of the Lord, said to the people, I am with you, says the Lord.
+- fresh: And Haggai, messenger of the Lord, said to the people, I am with you, says the Lord.
 - brenton: And Aggæus the Lord's messenger spoke among the messengers of the Lord to the people, saying, I am with you, saith the Lord.
 
 ### Haggai 1:14
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord stirred the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
+- fresh: And the Lord stirred up the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
 - brenton: And the Lord stirred up the spirit of Zorobabel the son of Salathiel, of the tribe of Juda, and the spirit of Jesus the son of Josedec, the high priest, and the spirit of the remnant of all the people; and they went in, and wrought in the house of the Lord Almighty their God,
 
 ### Haggai 1:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: on the twenty-fourth day of the sixth month, in the second year of Darius king.
+- fresh: on the twenty-fourth day of the sixth month, in the second year of Darius the king.
 - brenton: on the four and twentieth day of the sixth month, in the second year of Darius the king.
 
 ### Haggai 2:1

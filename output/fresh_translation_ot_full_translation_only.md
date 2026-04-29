@@ -92320,27 +92320,27 @@ And they will be put to shame in that time when I do well to you and when I rece
 
 **Haggai 1:1**
 
-In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet, saying: Speak now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech, the high priest, saying,
+In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet, saying: Say now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech, the high priest, saying,
 
 **Haggai 1:2**
 
-Thus says the Lord Almighty: This people says, Time has not yet come to build the house of the Lord.
+Thus says the Lord Almighty, saying: This people says, The time has not come to build the house of the Lord.
 
 **Haggai 1:3**
 
-The word of the Lord came by the hand of Haggai the prophet, saying,
+And the word of the Lord came by the hand of Haggai the prophet, saying,
 
 **Haggai 1:4**
 
-Is it time for you to dwell in your paneled houses while this house lies desolate?
+Is it time for you to dwell in your paneled houses while this house has been desolated?
 
 **Haggai 1:5**
 
-Now thus says the Lord Almighty: Set your hearts on your ways.
+And now thus says the Lord Almighty: Set your hearts on your ways.
 
 **Haggai 1:6**
 
-You sowed much and brought in little; you ate and not to fullness; you drank and not to drunkenness; you clothed yourselves and were not warmed in them; and one gathering wages gathered into a pierced purse.
+You sowed much and brought in little; you ate and not to fullness; you drank and not to drunkenness; you clothed yourselves and were not warmed in them; and the one gathering wages gathered into a pierced bag.
 
 **Haggai 1:7**
 
@@ -92348,35 +92348,35 @@ Thus says the Lord Almighty: Set your hearts on your ways.
 
 **Haggai 1:8**
 
-Go up to mountain, cut wood, and build the house, and I will take pleasure in it and be glorified, says the Lord.
+Go up to the mountain, cut wood, and build the house, and I will take pleasure in it and be glorified, says the Lord.
 
 **Haggai 1:9**
 
-You looked for much, and it became little, and it was brought into the house, and I blew it away. Because of what? says the Lord Almighty. Because my house is desolate, while you each hurry to your own house.
+You looked for much, and it became little, and it was brought into the house, and I blew them away. Therefore thus says the Lord Almighty: Because my house is desolate, while you each hurry to your own house.
 
 **Haggai 1:10**
 
-Therefore sky will hold back from dew, and land will hold back its produce.
+Therefore the sky will hold back dew, and the land will hold back its produce.
 
 **Haggai 1:11**
 
-I will bring sword upon the land and upon mountains and upon grain and upon wine and upon oil and upon what ground brings forth and upon people and cattle and upon all labors of their hands.
+And I will bring a sword upon the land and upon mountains and upon grain and upon wine and upon oil and upon what the land brings forth and upon humans and cattle and upon all the labors of their hands.
 
 **Haggai 1:12**
 
-Zerubbabel son of Shealtiel, from the tribe of Judah, and Joshua son of Josedech, the high priest, and all remnant of the people, listened to the voice of the Lord their God and to the words of Haggai prophet, because the Lord their God sent him to them, and people feared before the Lord.
+And Zerubbabel son of Shealtiel from the tribe of Judah, and Joshua son of Josedech the high priest, and all the remnant of the people, listened to the voice of the Lord their God and to the words of Haggai the prophet, just as the Lord their God sent him to them, and the people feared before the Lord.
 
 **Haggai 1:13**
 
-Haggai, messenger of the Lord, said to the people, I am with you, says the Lord.
+And Haggai, messenger of the Lord, said to the people, I am with you, says the Lord.
 
 **Haggai 1:14**
 
-The Lord stirred the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
+And the Lord stirred up the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
 
 **Haggai 1:15**
 
-on the twenty-fourth day of the sixth month, in the second year of Darius king.
+on the twenty-fourth day of the sixth month, in the second year of Darius the king.
 
 ### Chapter 2
 

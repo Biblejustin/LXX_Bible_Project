@@ -616,17 +616,17 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Haggai
 
-**Haggai 1:1** In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet, saying: Speak now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech, the high priest, saying,
+**Haggai 1:1** In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet, saying: Say now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech, the high priest, saying,
 - Translation/textual notes: 1
 - Supplemental notes/links: 1
 - Cross-references: 36
 
-**Haggai 1:2** Thus says the Lord Almighty: This people says, Time has not yet come to build the house of the Lord.
+**Haggai 1:2** Thus says the Lord Almighty, saying: This people says, The time has not come to build the house of the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 10
 
-**Haggai 1:3** The word of the Lord came by the hand of Haggai the prophet, saying,
+**Haggai 1:3** And the word of the Lord came by the hand of Haggai the prophet, saying,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 2
