@@ -200895,10 +200895,10 @@ Note:
 ### Jonah 2:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord commanded a great sea-creature to swallow Jonah, and Jonah was in belly of sea-creature three days and three nights.
+- fresh: The Lord commanded a great sea-creature to swallow Jonah, and Jonah was in the belly of the sea-creature three days and three nights.
 - brenton: Now the Lord had commanded a great whale to swallow up Jonas: and Jonas was in the belly of the whale three days and three nights.
 
 ### Jonah 2:2
@@ -200907,13 +200907,13 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Jonah prayed to the Lord his God from the belly of sea-creature.
+- fresh: Jonah prayed to the Lord his God from the belly of the sea-creature.
 - brenton: And Jonas prayed to the Lord his God out of the belly of the whale,
 
 ### Jonah 2:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: He said, I cried in my distress to the Lord my God, and he heard me. From the belly of Hades you heard the voice of my cry.
@@ -200922,52 +200922,52 @@ Note:
 ### Jonah 2:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: You cast me into depths, into the heart of the sea, and rivers encircled me. All your billows and waves passed over me.
+- fresh: You cast me into the depths, into the heart of the sea, and rivers encircled me. All your billows and your waves passed over me.
 - brenton: Thou didst cast me into the depths of the heart of the sea, and the floods compassed me: all thy billows and thy waves have passed upon me.
 
 ### Jonah 2:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I said, I am thrust away from your eyes. Shall I again add to look toward your holy temple?
+- fresh: I said, I have been thrust away from your eyes. Shall I again add to look toward your holy temple?
 - brenton: And I said, I am cast out of thy presence: shall I indeed look again toward thy holy temple?
 
 ### Jonah 2:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Water poured around me up to soul. Abyss encircled me utterly. My head went down into clefts of mountains.
+- fresh: Water poured around me up to my soul. Abyss encircled me utterly. My head went down into clefts of mountains.
 - brenton: Water was poured around me to the soul: the lowest deep compassed me, my head went down
 
 ### Jonah 2:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: I went down into a land whose bars are everlasting holds, yet may my life come up from corruption, Lord my God.
+- fresh: I went down into a land whose bars are everlasting holds, yet may the corruption of my life come up, O Lord my God.
 - brenton: to the clefts of the mountains; I went down into the earth, whose bars are the everlasting barriers: yet, O Lord my God, let my ruined life be restored.
 
 ### Jonah 2:8
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: When my soul was failing from me, I remembered Lord, and may my prayer come to you, into your holy temple.
+- fresh: When my soul was failing from me, I remembered the Lord, and may my prayer come to you, into your holy temple.
 - brenton: When my soul was failing me, I remembered the Lord; and may my prayer come to thee into thy holy temple.
 
 ### Jonah 2:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Those keeping worthless and false things abandoned their mercy.
@@ -200976,7 +200976,7 @@ Note:
 ### Jonah 2:10
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
@@ -200985,10 +200985,10 @@ Note:
 ### Jonah 2:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: It was commanded to sea-creature, and it threw Jonah out on dry land.
+- fresh: It was commanded to the sea-creature, and it threw Jonah out on the dry land.
 - brenton: And the whale was commanded by the Lord, and it cast up Jonas on the dry land.
 
 ### Jonah 3:1

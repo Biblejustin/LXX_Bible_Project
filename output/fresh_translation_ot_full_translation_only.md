@@ -91100,11 +91100,11 @@ The men feared the Lord with a great fear, sacrificed a sacrifice to the Lord, a
 
 **Jonah 2:1**
 
-The Lord commanded a great sea-creature to swallow Jonah, and Jonah was in belly of sea-creature three days and three nights.
+The Lord commanded a great sea-creature to swallow Jonah, and Jonah was in the belly of the sea-creature three days and three nights.
 
 **Jonah 2:2**
 
-Jonah prayed to the Lord his God from the belly of sea-creature.
+Jonah prayed to the Lord his God from the belly of the sea-creature.
 
 **Jonah 2:3**
 
@@ -91112,23 +91112,23 @@ He said, I cried in my distress to the Lord my God, and he heard me. From the be
 
 **Jonah 2:4**
 
-You cast me into depths, into the heart of the sea, and rivers encircled me. All your billows and waves passed over me.
+You cast me into the depths, into the heart of the sea, and rivers encircled me. All your billows and your waves passed over me.
 
 **Jonah 2:5**
 
-I said, I am thrust away from your eyes. Shall I again add to look toward your holy temple?
+I said, I have been thrust away from your eyes. Shall I again add to look toward your holy temple?
 
 **Jonah 2:6**
 
-Water poured around me up to soul. Abyss encircled me utterly. My head went down into clefts of mountains.
+Water poured around me up to my soul. Abyss encircled me utterly. My head went down into clefts of mountains.
 
 **Jonah 2:7**
 
-I went down into a land whose bars are everlasting holds, yet may my life come up from corruption, Lord my God.
+I went down into a land whose bars are everlasting holds, yet may the corruption of my life come up, O Lord my God.
 
 **Jonah 2:8**
 
-When my soul was failing from me, I remembered Lord, and may my prayer come to you, into your holy temple.
+When my soul was failing from me, I remembered the Lord, and may my prayer come to you, into your holy temple.
 
 **Jonah 2:9**
 
@@ -91140,7 +91140,7 @@ But I, with a voice of praise and confession, will sacrifice to you. Whatever I 
 
 **Jonah 2:11**
 
-It was commanded to sea-creature, and it threw Jonah out on dry land.
+It was commanded to the sea-creature, and it threw Jonah out on the dry land.
 
 ### Chapter 3
 
