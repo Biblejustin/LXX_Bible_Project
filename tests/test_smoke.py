@@ -4418,7 +4418,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "did not hear the words of the Lord" in by_ref["Jeremiah 44:2"]["draft_translation"]
     assert "like the appearance of a carbuncle stone" in by_ref["Ezekiel 10:9"]["draft_translation"]
     assert "like the fish of the great sea" in by_ref["Ezekiel 47:10"]["draft_translation"]
-    assert "like the fish of the sea" in by_ref["Habakkuk 1:14"]["draft_translation"]
+    assert "as the fish of the sea" in by_ref["Habakkuk 1:14"]["draft_translation"]
     assert "like the likeness of an angel" in by_ref["Daniel 3:25"]["draft_translation"]
     assert "like a woman giving birth" in by_ref["Jeremiah 13:21"]["draft_translation"]
     assert "like a vessel of no use" in by_ref["Jeremiah 22:28"]["draft_translation"]
