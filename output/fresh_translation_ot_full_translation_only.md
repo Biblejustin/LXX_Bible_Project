@@ -89842,31 +89842,31 @@ In ruin of men I stretched them out, in bonds of my love, and I will be to them 
 
 **Hosea 11:5**
 
-Ephraim dwelt in Egypt, and Assyria is his king, because he did not want to return.
+Ephraim dwelt in Egypt, and Assyria itself is his king, because he was not willing to return.
 
 **Hosea 11:6**
 
-And sword grew weak in his cities and ceased in his hands, and they will eat from their counsels.
+And the sword grew weak in his cities and ceased in his hands, and they will eat from their counsels.
 
 **Hosea 11:7**
 
-And his people hang suspended from his dwelling, and God will be angered over his honored things and will never exalt him.
+And his people were hanging suspended from his dwelling, and God will be angered over his precious things and will never exalt him.
 
 **Hosea 11:8**
 
-How will I make you, Ephraim? Will I defend you, Israel? How will I make you like Admah? I will set you like Zeboiim. My heart was turned within me; my repentance was stirred together.
+How shall I deal with you, Ephraim? Shall I shield you, Israel? How shall I deal with you? I will make you like Admah and set you like Zeboiim. My heart was turned within me; my repentance was stirred together.
 
 **Hosea 11:9**
 
-I will not act according to the anger of my wrath; I will not abandon Ephraim to be wiped out, because I am God and not man, holy in you, and I will not enter into a city.
+I will not act according to the anger of my wrath; I will not abandon Ephraim to be wiped out, because I am God and not man, a holy one in you, and I will not enter into a city.
 
 **Hosea 11:10**
 
-I will go after Lord; like a lion he will roar, because he himself will roar, and children of waters will stand amazed.
+I will go after the Lord; like a lion he will roar, because he himself will roar, and children of the waters will stand amazed.
 
 **Hosea 11:11**
 
-And they will stand amazed like a bird from Egypt and like a dove from the land of Assyrians, and I will restore them to their houses, says the Lord.
+And they will stand amazed like a bird out of Egypt and like a dove from the land of the Assyrians, and I will restore them to their houses, says the Lord.
 
 ### Chapter 12
 

@@ -198160,64 +198160,64 @@ Note:
 ### Hosea 11:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Ephraim dwelt in Egypt, and Assyria is his king, because he did not want to return.
+- fresh: Ephraim dwelt in Egypt, and Assyria itself is his king, because he was not willing to return.
 - brenton: Ephraim dwelt in Egypt; and as for the Assyrian, he was his king, because he would not return.
 
 ### Hosea 11:6
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And sword grew weak in his cities and ceased in his hands, and they will eat from their counsels.
+- fresh: And the sword grew weak in his cities and ceased in his hands, and they will eat from their counsels.
 - brenton: And in his cities he prevailed not with the sword, and he ceased to war with his hands: and they shall eat of the fruit of their own devices:
 
 ### Hosea 11:7
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And his people hang suspended from his dwelling, and God will be angered over his honored things and will never exalt him.
+- fresh: And his people were hanging suspended from his dwelling, and God will be angered over his precious things and will never exalt him.
 - brenton: and his people shall cleave fondly to their habitation; but God shall be angry with his precious things, and shall not at all exalt him.
 
 ### Hosea 11:8
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: How will I make you, Ephraim? Will I defend you, Israel? How will I make you like Admah? I will set you like Zeboiim. My heart was turned within me; my repentance was stirred together.
+- fresh: How shall I deal with you, Ephraim? Shall I shield you, Israel? How shall I deal with you? I will make you like Admah and set you like Zeboiim. My heart was turned within me; my repentance was stirred together.
 - brenton: How shall I deal with thee, Ephraim? how shall I protect thee, Israel? what shall I do with thee? I will make thee as Adama, and as Seboim; my heart is turned at once, my repentance is powerfully excited.
 
 ### Hosea 11:9
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: I will not act according to the anger of my wrath; I will not abandon Ephraim to be wiped out, because I am God and not man, holy in you, and I will not enter into a city.
+- fresh: I will not act according to the anger of my wrath; I will not abandon Ephraim to be wiped out, because I am God and not man, a holy one in you, and I will not enter into a city.
 - brenton: I will not act according to the fury of my wrath, I will not abandon Ephraim to be utterly destroyed: for I am God, and not man; the Holy One within thee: and I will not enter into the city.
 
 ### Hosea 11:10
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: I will go after Lord; like a lion he will roar, because he himself will roar, and children of waters will stand amazed.
+- fresh: I will go after the Lord; like a lion he will roar, because he himself will roar, and children of the waters will stand amazed.
 - brenton: I will go after the Lord: he shall utter his voice as a lion: for he shall roar, and the children of the waters shall be amazed.
 
 ### Hosea 11:11
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will stand amazed like a bird from Egypt and like a dove from the land of Assyrians, and I will restore them to their houses, says the Lord.
+- fresh: And they will stand amazed like a bird out of Egypt and like a dove from the land of the Assyrians, and I will restore them to their houses, says the Lord.
 - brenton: They shall be amazed and fly as a bird out of Egypt, and as a dove out of the land of the Assyrians: and I will restore them to their houses, saith the Lord.
 
 ### Hosea 12:1
