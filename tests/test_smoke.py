@@ -3694,7 +3694,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     )
     assert "see a great light" in by_ref["Isaiah 9:1"]["draft_translation"]
     assert by_ref["Jonah 3:8"]["draft_translation"].startswith(
-        "The people and cattle clothed themselves"
+        "The people and the cattle clothed themselves"
     )
     assert by_ref["Psalms 18:8"]["draft_translation"].startswith(
         "The law of the Lord is blameless"
