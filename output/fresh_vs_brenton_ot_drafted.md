@@ -198358,34 +198358,34 @@ Note:
 ### Hosea 13:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: According to the word of Ephraim, he received ordinances in Israel, and he set them to Baal and died.
+- fresh: According to the word of Ephraim, he himself received ordinances in Israel, and he set them for Baal and died.
 - brenton: According to the word of Ephraim he adopted ordinances for himself in Israel; and he established them for Baal, and died.
 
 ### Hosea 13:2
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And now they sinned increasingly and made for themselves a molten image from their silver according to the likeness of idols, works of craftsmen accomplished for them. They say, Sacrifice humans, for the calves have come to an end.
+- fresh: And now they sinned increasingly and made for themselves a molten image from their silver according to the likeness of idols, works of craftsmen accomplished for them. They themselves say, Sacrifice humans, for the calves have failed.
 - brenton: And now they have sinned increasingly, and have made for themselves a molten image of their silver, according to the fashion of idols, the work of artificers accomplished for them: they say, Sacrifice men, for the calves have come to an end.
 
 ### Hosea 13:3
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore they will be like a morning cloud and like early dew going away, like chaff blown from threshing floor and like vapor from locusts.
+- fresh: Therefore they will be like a morning cloud and like early dew going away, like chaff blown away from a threshing floor and like vapor from locusts.
 - brenton: Therefore shall they be as a morning cloud, and as the early dew that passes away, as chaff blown away from the threshing-floor, and as a vapour from tears.
 
 ### Hosea 13:4
 
 - importance: high
-- decisions: 1
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
 - fresh: But I am the Lord your God, establishing heaven and creating earth, whose hands created all the army of heaven, and I did not show them to you for you to go after them. And I brought you up from the land of Egypt, and besides me you will know no god, and there is no savior except me.
@@ -198394,16 +198394,16 @@ Note:
 ### Hosea 13:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: I was shepherding you in the wilderness, in uninhabited land.
+- fresh: I was shepherding you in the wilderness, in an uninhabited land.
 - brenton: I tended thee as a shepherd in the wilderness, in an uninhabited land.
 
 ### Hosea 13:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: According to their pastures they were filled to fullness, and their hearts were exalted; because of this they forgot me.
@@ -198412,25 +198412,25 @@ Note:
 ### Hosea 13:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will be to them like panther and like leopard on the road of Assyrians.
+- fresh: And I will be to them like a panther and like a leopard on the road of the Assyrians.
 - brenton: And I will be to them as a panther, and as a leopard.
 
 ### Hosea 13:8
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: I will meet them like a bear in distress and tear open enclosure of their heart, and cubs of the forest will devour them there; beasts of the field will tear them apart.
+- fresh: I will meet them like a bear in distress and tear open the enclosure of their heart, and cubs of the forest will devour them there; beasts of the field will tear them apart.
 - brenton: I will meet them by the way of the Assyrians, as a she-bear excited, and I will rend the caul of their heart, and the lions' whelps of the thicket shall devour them there; the wild beasts of the field shall rend them in pieces.
 
 ### Hosea 13:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: At your destruction, Israel, who will help?
@@ -198439,55 +198439,55 @@ Note:
 ### Hosea 13:10
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Where is this king of yours? Let him save you in all your cities. Let him judge you, the one of whom you said, Give me king and ruler.
+- fresh: Where is this king of yours? Let him save you in all your cities. Let him judge you, the one of whom you said, Give me a king and a ruler.
 - brenton: Where is this thy king? let him even save thee in all thy cities: let him judge thee, of whom thou saidst, Give me a king and a prince.
 
 ### Hosea 13:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I gave you a king in my anger and held him in my wrath.
+- fresh: And I gave you a king in my anger and withheld him in my wrath.
 - brenton: And I gave thee a king in mine anger, and kept him back in my wrath.
 
 ### Hosea 13:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Ephraim's twisting of injustice, his sin, has been hidden.
+- fresh: Ephraim's conspiracy of injustice, his sin, has been hidden.
 - brenton: Ephraim has framed a conspiracy of unrighteousness, his sin is hidden.
 
 ### Hosea 13:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Birth-pangs like those of a woman giving birth will come to him. This son is not wise, because he will not stand in breaking forth of children.
+- fresh: Birth-pangs like those of a woman giving birth will come to him. This son of yours is not wise, because he will not stand in the breaking of children.
 - brenton: Pains as of a woman in travail shall come upon him: he is thy wise son, because he shall not stay in the destruction of thy children.
 
 ### Hosea 13:14
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: From the hand of Hades I will rescue them, and from death I will ransom them. Where is your penalty, death? Where is your sting, Hades? Consolation is hidden from my eyes.
+- fresh: From the hand of Hades I will rescue them, and from death I will ransom them. Where is your penalty, O death? Where is your sting, O Hades? Consolation is hidden from my eyes.
 - brenton: I will deliver them out of the power of Hades, and will redeem them from death: where is thy penalty, O death? O Hades, where is thy sting? comfort is hidden from mine eyes.
 
 ### Hosea 13:15
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Because he himself will separate among brothers, the Lord will bring east wind, scorching wind from the wilderness, upon him, and it will dry up his veins and lay waste his springs. He himself will dry up his land and all his desirable vessels.
+- fresh: Because he himself will make a separation among brothers, the Lord will bring an east wind, a scorching wind from the wilderness, upon him, and it will dry up his veins and lay waste his springs. It itself will dry up his land and all his desirable vessels.
 - brenton: Forasmuch as he will cause a division among his brethren, the Lord shall bring upon him an east wind from the desert, and shall dry up his veins and quite drain his fountains: he shall dry up his land, and spoil all his precious vessels.
 
 ### Hosea 14:1

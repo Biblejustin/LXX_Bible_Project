@@ -89934,15 +89934,15 @@ Ephraim was angry and provoked anger, and his blood will be poured upon him, and
 
 **Hosea 13:1**
 
-According to the word of Ephraim, he received ordinances in Israel, and he set them to Baal and died.
+According to the word of Ephraim, he himself received ordinances in Israel, and he set them for Baal and died.
 
 **Hosea 13:2**
 
-And now they sinned increasingly and made for themselves a molten image from their silver according to the likeness of idols, works of craftsmen accomplished for them. They say, Sacrifice humans, for the calves have come to an end.
+And now they sinned increasingly and made for themselves a molten image from their silver according to the likeness of idols, works of craftsmen accomplished for them. They themselves say, Sacrifice humans, for the calves have failed.
 
 **Hosea 13:3**
 
-Therefore they will be like a morning cloud and like early dew going away, like chaff blown from threshing floor and like vapor from locusts.
+Therefore they will be like a morning cloud and like early dew going away, like chaff blown away from a threshing floor and like vapor from locusts.
 
 **Hosea 13:4**
 
@@ -89950,7 +89950,7 @@ But I am the Lord your God, establishing heaven and creating earth, whose hands 
 
 **Hosea 13:5**
 
-I was shepherding you in the wilderness, in uninhabited land.
+I was shepherding you in the wilderness, in an uninhabited land.
 
 **Hosea 13:6**
 
@@ -89958,11 +89958,11 @@ According to their pastures they were filled to fullness, and their hearts were 
 
 **Hosea 13:7**
 
-And I will be to them like panther and like leopard on the road of Assyrians.
+And I will be to them like a panther and like a leopard on the road of the Assyrians.
 
 **Hosea 13:8**
 
-I will meet them like a bear in distress and tear open enclosure of their heart, and cubs of the forest will devour them there; beasts of the field will tear them apart.
+I will meet them like a bear in distress and tear open the enclosure of their heart, and cubs of the forest will devour them there; beasts of the field will tear them apart.
 
 **Hosea 13:9**
 
@@ -89970,27 +89970,27 @@ At your destruction, Israel, who will help?
 
 **Hosea 13:10**
 
-Where is this king of yours? Let him save you in all your cities. Let him judge you, the one of whom you said, Give me king and ruler.
+Where is this king of yours? Let him save you in all your cities. Let him judge you, the one of whom you said, Give me a king and a ruler.
 
 **Hosea 13:11**
 
-And I gave you a king in my anger and held him in my wrath.
+And I gave you a king in my anger and withheld him in my wrath.
 
 **Hosea 13:12**
 
-Ephraim's twisting of injustice, his sin, has been hidden.
+Ephraim's conspiracy of injustice, his sin, has been hidden.
 
 **Hosea 13:13**
 
-Birth-pangs like those of a woman giving birth will come to him. This son is not wise, because he will not stand in breaking forth of children.
+Birth-pangs like those of a woman giving birth will come to him. This son of yours is not wise, because he will not stand in the breaking of children.
 
 **Hosea 13:14**
 
-From the hand of Hades I will rescue them, and from death I will ransom them. Where is your penalty, death? Where is your sting, Hades? Consolation is hidden from my eyes.
+From the hand of Hades I will rescue them, and from death I will ransom them. Where is your penalty, O death? Where is your sting, O Hades? Consolation is hidden from my eyes.
 
 **Hosea 13:15**
 
-Because he himself will separate among brothers, the Lord will bring east wind, scorching wind from the wilderness, upon him, and it will dry up his veins and lay waste his springs. He himself will dry up his land and all his desirable vessels.
+Because he himself will make a separation among brothers, the Lord will bring an east wind, a scorching wind from the wilderness, upon him, and it will dry up his veins and lay waste his springs. It itself will dry up his land and all his desirable vessels.
 
 ### Chapter 14
 
