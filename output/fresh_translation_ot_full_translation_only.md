@@ -89362,7 +89362,7 @@ And I will sow her for myself upon the land, and I will show mercy to Not-Shown-
 
 **Hosea 3:1**
 
-And the Lord said to me, Go again, love a woman loving evil things and adulterous, just as God loves sons of Israel, and they look to foreign gods and love raisin cakes.
+And the Lord said to me, Go again, love a woman loving evil things and an adulteress, just as God loves the sons of Israel, and they look to foreign gods and love raisin cakes.
 
 **Hosea 3:2**
 
@@ -89370,15 +89370,15 @@ And I hired her for myself for fifteen pieces of silver and a homer of barley an
 
 **Hosea 3:3**
 
-And I said to her, Many days you will sit with me, and you will not prostitute yourself, nor will you become another man's; and I will be toward you.
+And I said to her, Many days you will sit with me, and you will not prostitute yourself, nor will you become another man's; and I also will be toward you.
 
 **Hosea 3:4**
 
-Because many days sons of Israel will sit without king and without ruler and without sacrifice and without altar and without priesthood and without disclosures.
+Because many days the sons of Israel will sit without a king and without a ruler and without sacrifice and without an altar and without priesthood and without disclosures.
 
 **Hosea 3:5**
 
-And after these things sons of Israel will return and seek the Lord their God and David their king and stand amazed at the Lord and at his good things in the last days.
+And after these things the sons of Israel will return and seek the Lord their God and David their king and stand amazed at the Lord and at his good things in the last days.
 
 ### Chapter 4
 

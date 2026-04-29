@@ -197116,16 +197116,16 @@ Note:
 ### Hosea 3:1
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me, Go again, love a woman loving evil things and adulterous, just as God loves sons of Israel, and they look to foreign gods and love raisin cakes.
+- fresh: And the Lord said to me, Go again, love a woman loving evil things and an adulteress, just as God loves the sons of Israel, and they look to foreign gods and love raisin cakes.
 - brenton: And the Lord said to me, Go yet, and love a woman that loves evil things, and an adulteress, even as the Lord loves the children of Israel, and they have respect to strange gods, and love cakes of dried grapes.
 
 ### Hosea 3:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And I hired her for myself for fifteen pieces of silver and a homer of barley and a jar of wine.
@@ -197134,28 +197134,28 @@ Note:
 ### Hosea 3:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said to her, Many days you will sit with me, and you will not prostitute yourself, nor will you become another man's; and I will be toward you.
+- fresh: And I said to her, Many days you will sit with me, and you will not prostitute yourself, nor will you become another man's; and I also will be toward you.
 - brenton: And I said unto her, Thou shalt wait for me many days; and thou shalt not commit fornication, neither shalt thou be for another man; and I will be for thee.
 
 ### Hosea 3:4
 
 - importance: high
-- decisions: 1
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: Because many days sons of Israel will sit without king and without ruler and without sacrifice and without altar and without priesthood and without disclosures.
+- fresh: Because many days the sons of Israel will sit without a king and without a ruler and without sacrifice and without an altar and without priesthood and without disclosures.
 - brenton: For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an altar, and without a priesthood, and without manifestations.
 
 ### Hosea 3:5
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And after these things sons of Israel will return and seek the Lord their God and David their king and stand amazed at the Lord and at his good things in the last days.
+- fresh: And after these things the sons of Israel will return and seek the Lord their God and David their king and stand amazed at the Lord and at his good things in the last days.
 - brenton: And afterward shall the children of Israel return, and shall seek the Lord their God, and David their king; and shall be amazed at the Lord and at his goodness in the latter days.
 
 ### Hosea 4:1
