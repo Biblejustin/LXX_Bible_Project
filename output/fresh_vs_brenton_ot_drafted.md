@@ -192072,181 +192072,181 @@ Note:
 ### Ezekiel 42:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he led me out into the outer court eastward, opposite the north gate, and brought me, and behold, five chambers adjoining the remnant and adjoining the dividing structure to the north.
+- fresh: And he led me out into the outer court eastward, opposite the north gate, and brought me, and behold, five chambers adjoining the remaining space and adjoining the dividing structure to the north.
 - brenton: And he brought me into the inner court eastward, opposite the northern gate: and he brought me in, and behold five chambers near the vacant space, and near the northern partition,
 
 ### Ezekiel 42:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: One hundred cubits in length to the north and fifty cubits in breadth.
+- fresh: One hundred cubits in length toward the north and fifty cubits in breadth.
 - brenton: a hundred cubits in length toward the north, and in breadth fifty,
 
 ### Ezekiel 42:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Laid out like the gates of the inner court and like the colonnades of the outer court, porticoes facing one another, threefold.
+- fresh: They were laid out like the gates of the inner court and like the colonnades of the outer court, porticoes facing one another, threefold.
 - brenton: ornamented accordingly as the gates of the inner court, and arranged accordingly as the peristyles of the outer court, with triple porticos fronting one another.
 
 ### Ezekiel 42:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And opposite the chambers a walkway, ten cubits broad, one hundred cubits long, and their doors northward.
+- fresh: And opposite the chambers was a walkway ten cubits in breadth and one hundred cubits in length, and their doors were northward.
 - brenton: And in front of the chambers was a walk ten cubits in breadth, the length reaching to a hundred cubits; and their doors were northward.
 
 ### Ezekiel 42:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And the upper walks likewise, because the colonnade projected from it, from the lower colonnade and its interval and likewise the porticoes.
+- fresh: And the upper walkways were likewise, because the colonnade projected from it, from the lower colonnade and the interval; likewise a colonnade and an interval, and likewise porticoes.
 - brenton: And the upper walks were in like manner: for the peristyle projected from it, even from the range of columns below, and there was a space between; so were there a peristyle and a space between, and so were there two porticos.
 
 ### Ezekiel 42:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For they were triple and had no pillars like pillars of the outer courts; because of this they projected beyond the lower and the middle from the ground.
+- fresh: For they were triple and had no pillars like the pillars of the outer courts; because of this they projected beyond the lower and the middle from the ground.
 - brenton: For they were triple, and they had not pillars like the pillars of the outer ones: therefore they projected from the lower ones and the middle ones from the ground.
 
 ### Ezekiel 42:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And light outside, like the chambers of the outer court, facing the chambers toward north, fifty cubits in length.
+- fresh: And there was an opening outside, like the chambers of the outer court, facing the chambers toward the north, fifty cubits in length.
 - brenton: And there was light without, corresponding to the chambers of the outer court looking toward the front of the northern chambers; the length of them was fifty cubits.
 
 ### Ezekiel 42:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For the length of the chambers facing into the outer court was fifty cubits, and these are opposite those, the whole one hundred cubits.
+- fresh: For the length of the chambers facing into the outer court was fifty cubits, and these were opposite those: the whole was one hundred cubits.
 - brenton: For the length of the chambers looking toward the inner court was fifty cubits, and these are the ones that front the others; the whole was a hundred cubits.
 
 ### Ezekiel 42:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the doors of these chambers, the entrance eastward, to enter through them from the outer court.
+- fresh: And the doors of these chambers were at the eastward entrance, to enter through them from the outer court.
 - brenton: And there were doors of these chambers for an outlet towards the east, so that one should go through them out of the outer court,
 
 ### Ezekiel 42:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: According to the light at the beginning of the walkway, and those toward the south opposite the south, opposite the remnant and opposite the dividing structure, chambers.
+- fresh: At the opening at the beginning of the walkway and toward the south, opposite the south, opposite the remaining space and opposite the dividing structure, there were chambers.
 - brenton: by the opening of the walk at the corner; and the south parts were toward the south, toward the remaining space, and toward the partition, and so were the chambers.
 
 ### Ezekiel 42:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the walkway before them according to the measures of the chambers toward north, and according to their length and breadth and all their exits and all their returns and their lights and their doors,
+- fresh: And the walkway before them was according to the measures of the chambers toward the north, and according to their length and breadth and all their exits and all their returns and their openings and their doors,
 - brenton: And the walk was in front of them, according to the measures of the chambers toward the north, both according to the length of them, and according to the breadth of them, and according to all their openings, and according to all their turnings, and according to their lights, and according to their doors.
 
 ### Ezekiel 42:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: of the chambers toward south, and according to the doors from the beginning of the walkway, as on light of the measuring interval, and eastward to enter through them.
+- fresh: of the chambers toward the south, and according to the doors from the beginning of the walkway, as at the opening of the measuring interval, and eastward to enter through them.
 - brenton: So were the measures of the chambers toward the south, and according to the doors at the entrance of the walk, as it were the distance of a reed for light, and eastward as one went in by them.
 
 ### Ezekiel 42:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, The chambers toward north and the chambers toward south opposite the intervals, these are the holy chambers in which priests, sons of Zadok, drawing near to the Lord, will eat the holy of holies, and there they will place the holy of holies and the sacrifice and the things for sin and the things for ignorance, because the place is holy.
+- fresh: And he said to me, The chambers toward the north and the chambers toward the south, which are opposite the intervals, these are the holy chambers in which the priests, sons of Zadok, who draw near to the Lord, will eat the holy of holies; and there they will place the holy of holies and the sacrifice and the things for sin and the things for ignorance, because the place is holy.
 - brenton: And he said to me, The chambers toward the north, and the chambers toward the south, in front of the void spaces, these are the chambers of the sanctuary, wherein the priests the sons of Sadduc, who draw nigh to the Lord, shall eat the most holy things: and there shall they lay the most holy things, and the meat-offering, and the sin-offerings, and the trespass-offerings; because the place is holy.
 
 ### Ezekiel 42:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: They will not enter there except the priests; they will not go out from the holy place into the outer court, so that those bringing offerings may always be holy and may not touch their garments in which they minister, because they are holy, and they will put on other garments when they touch the people.
+- fresh: None will enter there except the priests; they will not go out from the holy place into the outer court, so that those who draw near may be continually holy and may not touch their garments in which they minister, because they are holy; and they will put on other garments when they touch the people.
 - brenton: None shall go in thither except the priests, and they shall not go forth of the holy place into the outer court, that they that draw nigh to me may be continually holy, and may not touch their garments in which they minister, with defilement, for they are holy; and they shall put on other garments whenever they come in contact with the people.
 
 ### Ezekiel 42:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he finished measuring the house inside and led me out by way of the gate facing east and measured the pattern of the house around in order.
+- fresh: And the measuring of the inner house was completed, and he led me out by way of the gate facing east, and measured the pattern of the house all around in order.
 - brenton: So the measurement of the house within was accomplished: and he brought me forth by the way of the gate that looks eastward, and measured the plan of the house round about in order.
 
 ### Ezekiel 42:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he stood along back of the gate facing east and measured five hundred by the measuring reed.
+- fresh: And he stood behind the gate facing east and measured five hundred cubits with the measuring reed.
 - brenton: And he stood behind the gate looking eastward, and measured five hundred cubits with the measuring reed.
 
 ### Ezekiel 42:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he turned to north and measured the part facing north, five hundred by the measuring reed.
+- fresh: And he turned toward the north and measured the part facing the north, five hundred cubits with the measuring reed.
 - brenton: And he turned to the north and measured in front of the north side five hundred cubits with the measuring reed.
 
 ### Ezekiel 42:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he turned toward the sea and measured the part facing the sea, five hundred by the measuring reed.
+- fresh: And he turned toward the sea and measured the part facing the sea, five hundred cubits with the measuring reed.
 - brenton: And he turned to the west, and measured in front of the west side, five hundred cubits with the measuring reed.
 
 ### Ezekiel 42:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he turned toward south and measured opposite the south, five hundred by the measuring reed.
+- fresh: And he turned toward the south and measured opposite the south, five hundred cubits with the measuring reed.
 - brenton: And he turned to the south, and measured in front of the south side, five hundred cubits by the measuring reed.
 
 ### Ezekiel 42:20
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Its four sides by the same reed, and he laid it out, and their boundary round about, five hundred toward east and five hundred cubits broad, to separate between the holy things and between the fore-wall of the house set in order.
+- fresh: The four sides were measured with the same reed, and he laid it out with their boundary all around, five hundred toward the east and five hundred cubits in breadth, to separate between the holy things and the outer wall of the house set in order.
 - brenton: The four sides he measured by the same reed, and he marked out the house and the circumference of the parts round about, a space of five hundred cubits eastward, and a breadth of five hundred cubits, to make a division between the sanctuary and the outer wall, that belonged to the design of the house.
 
 ### Ezekiel 43:1

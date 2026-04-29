@@ -87076,83 +87076,83 @@ And there were hidden windows; and he measured on this side and on that side to 
 
 **Ezekiel 42:1**
 
-And he led me out into the outer court eastward, opposite the north gate, and brought me, and behold, five chambers adjoining the remnant and adjoining the dividing structure to the north.
+And he led me out into the outer court eastward, opposite the north gate, and brought me, and behold, five chambers adjoining the remaining space and adjoining the dividing structure to the north.
 
 **Ezekiel 42:2**
 
-One hundred cubits in length to the north and fifty cubits in breadth.
+One hundred cubits in length toward the north and fifty cubits in breadth.
 
 **Ezekiel 42:3**
 
-Laid out like the gates of the inner court and like the colonnades of the outer court, porticoes facing one another, threefold.
+They were laid out like the gates of the inner court and like the colonnades of the outer court, porticoes facing one another, threefold.
 
 **Ezekiel 42:4**
 
-And opposite the chambers a walkway, ten cubits broad, one hundred cubits long, and their doors northward.
+And opposite the chambers was a walkway ten cubits in breadth and one hundred cubits in length, and their doors were northward.
 
 **Ezekiel 42:5**
 
-And the upper walks likewise, because the colonnade projected from it, from the lower colonnade and its interval and likewise the porticoes.
+And the upper walkways were likewise, because the colonnade projected from it, from the lower colonnade and the interval; likewise a colonnade and an interval, and likewise porticoes.
 
 **Ezekiel 42:6**
 
-For they were triple and had no pillars like pillars of the outer courts; because of this they projected beyond the lower and the middle from the ground.
+For they were triple and had no pillars like the pillars of the outer courts; because of this they projected beyond the lower and the middle from the ground.
 
 **Ezekiel 42:7**
 
-And light outside, like the chambers of the outer court, facing the chambers toward north, fifty cubits in length.
+And there was an opening outside, like the chambers of the outer court, facing the chambers toward the north, fifty cubits in length.
 
 **Ezekiel 42:8**
 
-For the length of the chambers facing into the outer court was fifty cubits, and these are opposite those, the whole one hundred cubits.
+For the length of the chambers facing into the outer court was fifty cubits, and these were opposite those: the whole was one hundred cubits.
 
 **Ezekiel 42:9**
 
-And the doors of these chambers, the entrance eastward, to enter through them from the outer court.
+And the doors of these chambers were at the eastward entrance, to enter through them from the outer court.
 
 **Ezekiel 42:10**
 
-According to the light at the beginning of the walkway, and those toward the south opposite the south, opposite the remnant and opposite the dividing structure, chambers.
+At the opening at the beginning of the walkway and toward the south, opposite the south, opposite the remaining space and opposite the dividing structure, there were chambers.
 
 **Ezekiel 42:11**
 
-And the walkway before them according to the measures of the chambers toward north, and according to their length and breadth and all their exits and all their returns and their lights and their doors,
+And the walkway before them was according to the measures of the chambers toward the north, and according to their length and breadth and all their exits and all their returns and their openings and their doors,
 
 **Ezekiel 42:12**
 
-of the chambers toward south, and according to the doors from the beginning of the walkway, as on light of the measuring interval, and eastward to enter through them.
+of the chambers toward the south, and according to the doors from the beginning of the walkway, as at the opening of the measuring interval, and eastward to enter through them.
 
 **Ezekiel 42:13**
 
-And he said to me, The chambers toward north and the chambers toward south opposite the intervals, these are the holy chambers in which priests, sons of Zadok, drawing near to the Lord, will eat the holy of holies, and there they will place the holy of holies and the sacrifice and the things for sin and the things for ignorance, because the place is holy.
+And he said to me, The chambers toward the north and the chambers toward the south, which are opposite the intervals, these are the holy chambers in which the priests, sons of Zadok, who draw near to the Lord, will eat the holy of holies; and there they will place the holy of holies and the sacrifice and the things for sin and the things for ignorance, because the place is holy.
 
 **Ezekiel 42:14**
 
-They will not enter there except the priests; they will not go out from the holy place into the outer court, so that those bringing offerings may always be holy and may not touch their garments in which they minister, because they are holy, and they will put on other garments when they touch the people.
+None will enter there except the priests; they will not go out from the holy place into the outer court, so that those who draw near may be continually holy and may not touch their garments in which they minister, because they are holy; and they will put on other garments when they touch the people.
 
 **Ezekiel 42:15**
 
-And he finished measuring the house inside and led me out by way of the gate facing east and measured the pattern of the house around in order.
+And the measuring of the inner house was completed, and he led me out by way of the gate facing east, and measured the pattern of the house all around in order.
 
 **Ezekiel 42:16**
 
-And he stood along back of the gate facing east and measured five hundred by the measuring reed.
+And he stood behind the gate facing east and measured five hundred cubits with the measuring reed.
 
 **Ezekiel 42:17**
 
-And he turned to north and measured the part facing north, five hundred by the measuring reed.
+And he turned toward the north and measured the part facing the north, five hundred cubits with the measuring reed.
 
 **Ezekiel 42:18**
 
-And he turned toward the sea and measured the part facing the sea, five hundred by the measuring reed.
+And he turned toward the sea and measured the part facing the sea, five hundred cubits with the measuring reed.
 
 **Ezekiel 42:19**
 
-And he turned toward south and measured opposite the south, five hundred by the measuring reed.
+And he turned toward the south and measured opposite the south, five hundred cubits with the measuring reed.
 
 **Ezekiel 42:20**
 
-Its four sides by the same reed, and he laid it out, and their boundary round about, five hundred toward east and five hundred cubits broad, to separate between the holy things and between the fore-wall of the house set in order.
+The four sides were measured with the same reed, and he laid it out with their boundary all around, five hundred toward the east and five hundred cubits in breadth, to separate between the holy things and the outer wall of the house set in order.
 
 ### Chapter 43
 
