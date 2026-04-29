@@ -88788,11 +88788,11 @@ And I, Daniel, became weak for many days, and rising up I again attended to roya
 
 **Daniel 9:1**
 
-In the first year under Darius son of Ahasuerus, from line of Medes, who reigned over kingdom of the Chaldeans,
+In the first year under Darius son of Xerxes, from the line of the Medes, who reigned over the kingdom of the Chaldeans,
 
 **Daniel 9:2**
 
-in the first year of his reign I, Daniel, understood in the books number of years when command came to the land through Jeremiah the prophet, to raise up to completion reproach of Jerusalem, seventy years.
+in the first year of his reign I, Daniel, understood in the books the number of years, when a command came to the land through Jeremiah the prophet, to raise up for the completion of the reproach of Jerusalem: seventy years.
 
 **Daniel 9:3**
 
@@ -88800,7 +88800,7 @@ And I set my face toward the Lord God to find prayer and mercy in fastings and s
 
 **Daniel 9:4**
 
-And I prayed to the Lord God and confessed and said, Behold, the Lord, you are the great God and the mighty and fearsome one, keeping covenant and mercy for those loving you and keeping your commands.
+And I prayed to the Lord God and confessed and said, Behold, Lord, you are the great and mighty and fearsome God, keeping covenant and mercy for those loving you and keeping your commands.
 
 **Daniel 9:5**
 
@@ -88808,11 +88808,11 @@ We sinned, we acted unjustly, we acted impiously, and we departed and transgress
 
 **Daniel 9:6**
 
-And we did not listen to your servants the prophets, who spoke in your name to our kings and our rulers and our fathers and to all the nation on the earth.
+And we did not listen to your servants the prophets, who spoke in your name to our kings and our rulers and our fathers and to every nation on the earth.
 
 **Daniel 9:7**
 
-To you, Lord, belongs righteousness, and to us shame of face as on this day, to the men of Judah and those dwelling in Jerusalem and to all the people Israel, those near and those far off in all lands where you scattered them there in the unfaithfulness by which they were unfaithful before you.
+To you, Lord, belongs righteousness, and to us shame of face as on this day: to the men of Judah and those dwelling in Jerusalem and to all the people of Israel, those near and those far off in all the lands where you scattered them, in the unfaithfulness by which they were unfaithful before you.
 
 **Daniel 9:8**
 
@@ -88828,15 +88828,15 @@ And we did not listen to the voice of the Lord our God to follow your law, which
 
 **Daniel 9:11**
 
-And all Israel abandoned your law and departed from listening to your voice, and curse and oath written in the law of Moses, servant of God, came upon us, because we sinned against him.
+And all Israel abandoned your law and departed from listening to your voice, and the curse and the oath written in the law of Moses, servant of God, came upon us, because we sinned against him.
 
 **Daniel 9:12**
 
-And he established upon us his commands, whatever he spoke against us and against our judges, whatever you judged for us, to bring upon us great evils such as never happened under heaven as happened in Jerusalem.
+And he established for us his commands, whatever he spoke against us and against our judges, whatever you judged for us, to bring upon us great evils such as never happened under heaven as happened in Jerusalem.
 
 **Daniel 9:13**
 
-According to things written in covenant of Moses, all these evils came upon us, and we did not seek the face of the Lord our God to turn from our sins and consider your righteousness, Lord.
+According to the things written in the covenant of Moses, all these evils came upon us, and we did not seek the face of the Lord our God to turn from our sins and consider your righteousness, Lord.
 
 **Daniel 9:14**
 
@@ -88848,15 +88848,15 @@ And now, Master, Lord our God, the one who brought out your people from Egypt by
 
 **Daniel 9:16**
 
-Master, according to your righteousness, let your wrath and your anger turn away from your city Jerusalem, your holy mountain, because by our sins and by ignorances of our fathers, Jerusalem and your people, Lord, are a reproach among all around us.
+Master, according to your righteousness, let your wrath and your anger turn away from your city Jerusalem, your holy mountain, because by our sins and by the ignorances of our fathers, Jerusalem and your people, Lord, are a reproach among all those around us.
 
 **Daniel 9:17**
 
-And now hear, Master, prayer of your servant and my petitions, and let your face look upon your holy mountain, desolate, for the sake of your servants, Master.
+And now hear, Master, the prayer of your servant and my petitions, and let your face look upon your holy mountain, desolate, for the sake of your servants, Master.
 
 **Daniel 9:18**
 
-Incline, Lord, your ear and hear me; open your eyes and see our desolation and your city upon which your name was called, for not on our righteousness do we make our petitions before you, but because of your mercy.
+Incline, Lord, your ear and hear me; open your eyes and see our desolation and your city upon which your name was called, for not on our righteous acts do we make our petitions before you, but because of your mercy.
 
 **Daniel 9:19**
 
@@ -88864,11 +88864,11 @@ Lord, be reconciled. Lord, hear and act, and do not delay, for your own sake, Ma
 
 **Daniel 9:20**
 
-And while I was still speaking, praying, confessing my sins and sins of my people Israel, and making petitions before the Lord my God for holy mountain of our God,
+And while I was still speaking, praying, confessing my sins and the sins of my people Israel, and making petitions before the Lord my God for the holy mountain of our God,
 
 **Daniel 9:21**
 
-and while I was still speaking in my prayer, behold, the man whom I saw at beginning in my dream, Gabriel, swiftly carried along, came near me at the time of evening sacrifice.
+and while I was still speaking in my prayer, behold, the man whom I saw at the beginning in my dream, Gabriel, swiftly carried along, came near me at the time of evening sacrifice.
 
 **Daniel 9:22**
 
@@ -88876,23 +88876,23 @@ And he came and spoke with me and said, Daniel, now I came out to show you under
 
 **Daniel 9:23**
 
-At the beginning of your petition command went out from the Lord, and I came to show you because you are pitied; so understand the command.
+At the beginning of your petition a command went out from the Lord, and I came to show you because you are pitied; so understand the command.
 
 **Daniel 9:24**
 
-Seventy weeks were determined over your people and over city Zion, to bring sin to completion and make injustices scarce and wipe out injustices and understand vision and give eternal righteousness and bring vision to completion and gladden holy of holies.
+Seventy weeks were determined over your people and over the city Zion, to bring sin to completion and make injustices scarce and wipe out injustices and understand the vision and give eternal righteousness and bring the vision to completion and gladden holy of holies.
 
 **Daniel 9:25**
 
-And you will know and understand and rejoice and find commands in answer, and you will build Jerusalem, city to the Lord.
+And you will know and understand and rejoice and find commands in answer, and you will build Jerusalem, a city to the Lord.
 
 **Daniel 9:26**
 
-And after seven and seventy and sixty-two, anointing will be removed and will not be, and kingdom of nations will destroy the city and the holy place with the anointed one, and its end will come with wrath, and until the time of completion it will be warred by war.
+And after seven and seventy and sixty-two, anointing will be removed and will not be, and a kingdom of nations will destroy the city and the holy place with the anointed one, and its end will come with wrath, and until the time of completion it will be warred by war.
 
 **Daniel 9:27**
 
-And covenant will prevail over many, and again it will turn back, and it will be rebuilt in breadth and length and according to the completion of times. And after seven and seventy times and sixty-two years, until the time of the completion of war, desolation will be removed when covenant prevails over many weeks, and at the end of the week sacrifice and drink offering will be taken away, and on the sanctuary there will be abomination of desolations until completion, and completion will be given over the desolation.
+And the covenant will prevail over many, and again it will turn back, and it will be rebuilt in breadth and length and according to the completion of times. And after seven and seventy times and sixty-two years, until the time of the completion of war, desolation will be removed when the covenant prevails over many weeks, and at the end of the week the sacrifice and the drink offering will be taken away, and on the sanctuary there will be an abomination of desolations until completion, and completion will be given over the desolation.
 
 ### Chapter 10
 

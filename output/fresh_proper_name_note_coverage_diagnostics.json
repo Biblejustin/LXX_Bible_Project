@@ -5,7 +5,7 @@
   "logos_db": "/Users/justinscaggs/Library/Application Support/Logos4/Data/5gtnpjgs.gns/AutoComplete/AutoComplete.db",
   "ukjv_witness_rows": 31102,
   "hitchcock_meaning_rows": 2731,
-  "note_rows": 2504,
+  "note_rows": 2505,
   "source_counts": {
     "ot_rows": 22909,
     "nt_rows": 7957
@@ -17,11 +17,11 @@
     "included_unclassified_resolved_source_form": 485,
     "included_transliterated_form": 492,
     "included_place": 515,
-    "equivalent_alias": 60,
+    "equivalent_alias": 61,
     "equivalent_direct": 1399,
     "included_people_group": 221,
     "skipped_existing_same_source": 198,
-    "included_person": 1179,
+    "included_person": 1180,
     "equivalent_manual": 78,
     "equivalent_1": 83,
     "included_supernatural_being": 35,

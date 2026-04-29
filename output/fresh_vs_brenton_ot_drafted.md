@@ -195854,19 +195854,19 @@ Note:
 ### Daniel 9:1
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: In the first year under Darius son of Ahasuerus, from line of Medes, who reigned over kingdom of the Chaldeans,
+- fresh: In the first year under Darius son of Xerxes, from the line of the Medes, who reigned over the kingdom of the Chaldeans,
 - brenton: [missing]
 
 ### Daniel 9:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: in the first year of his reign I, Daniel, understood in the books number of years when command came to the land through Jeremiah the prophet, to raise up to completion reproach of Jerusalem, seventy years.
+- fresh: in the first year of his reign I, Daniel, understood in the books the number of years, when a command came to the land through Jeremiah the prophet, to raise up for the completion of the reproach of Jerusalem: seventy years.
 - brenton: [missing]
 
 ### Daniel 9:3
@@ -195881,10 +195881,10 @@ Note:
 ### Daniel 9:4
 
 - importance: high
-- decisions: 1
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I prayed to the Lord God and confessed and said, Behold, the Lord, you are the great God and the mighty and fearsome one, keeping covenant and mercy for those loving you and keeping your commands.
+- fresh: And I prayed to the Lord God and confessed and said, Behold, Lord, you are the great and mighty and fearsome God, keeping covenant and mercy for those loving you and keeping your commands.
 - brenton: [missing]
 
 ### Daniel 9:5
@@ -195899,19 +195899,19 @@ Note:
 ### Daniel 9:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And we did not listen to your servants the prophets, who spoke in your name to our kings and our rulers and our fathers and to all the nation on the earth.
+- fresh: And we did not listen to your servants the prophets, who spoke in your name to our kings and our rulers and our fathers and to every nation on the earth.
 - brenton: [missing]
 
 ### Daniel 9:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: To you, Lord, belongs righteousness, and to us shame of face as on this day, to the men of Judah and those dwelling in Jerusalem and to all the people Israel, those near and those far off in all lands where you scattered them there in the unfaithfulness by which they were unfaithful before you.
+- fresh: To you, Lord, belongs righteousness, and to us shame of face as on this day: to the men of Judah and those dwelling in Jerusalem and to all the people of Israel, those near and those far off in all the lands where you scattered them, in the unfaithfulness by which they were unfaithful before you.
 - brenton: [missing]
 
 ### Daniel 9:8
@@ -195944,28 +195944,28 @@ Note:
 ### Daniel 9:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all Israel abandoned your law and departed from listening to your voice, and curse and oath written in the law of Moses, servant of God, came upon us, because we sinned against him.
+- fresh: And all Israel abandoned your law and departed from listening to your voice, and the curse and the oath written in the law of Moses, servant of God, came upon us, because we sinned against him.
 - brenton: [missing]
 
 ### Daniel 9:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he established upon us his commands, whatever he spoke against us and against our judges, whatever you judged for us, to bring upon us great evils such as never happened under heaven as happened in Jerusalem.
+- fresh: And he established for us his commands, whatever he spoke against us and against our judges, whatever you judged for us, to bring upon us great evils such as never happened under heaven as happened in Jerusalem.
 - brenton: [missing]
 
 ### Daniel 9:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: According to things written in covenant of Moses, all these evils came upon us, and we did not seek the face of the Lord our God to turn from our sins and consider your righteousness, Lord.
+- fresh: According to the things written in the covenant of Moses, all these evils came upon us, and we did not seek the face of the Lord our God to turn from our sins and consider your righteousness, Lord.
 - brenton: [missing]
 
 ### Daniel 9:14
@@ -195989,28 +195989,28 @@ Note:
 ### Daniel 9:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Master, according to your righteousness, let your wrath and your anger turn away from your city Jerusalem, your holy mountain, because by our sins and by ignorances of our fathers, Jerusalem and your people, Lord, are a reproach among all around us.
+- fresh: Master, according to your righteousness, let your wrath and your anger turn away from your city Jerusalem, your holy mountain, because by our sins and by the ignorances of our fathers, Jerusalem and your people, Lord, are a reproach among all those around us.
 - brenton: [missing]
 
 ### Daniel 9:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now hear, Master, prayer of your servant and my petitions, and let your face look upon your holy mountain, desolate, for the sake of your servants, Master.
+- fresh: And now hear, Master, the prayer of your servant and my petitions, and let your face look upon your holy mountain, desolate, for the sake of your servants, Master.
 - brenton: [missing]
 
 ### Daniel 9:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Incline, Lord, your ear and hear me; open your eyes and see our desolation and your city upon which your name was called, for not on our righteousness do we make our petitions before you, but because of your mercy.
+- fresh: Incline, Lord, your ear and hear me; open your eyes and see our desolation and your city upon which your name was called, for not on our righteous acts do we make our petitions before you, but because of your mercy.
 - brenton: [missing]
 
 ### Daniel 9:19
@@ -196025,19 +196025,19 @@ Note:
 ### Daniel 9:20
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And while I was still speaking, praying, confessing my sins and sins of my people Israel, and making petitions before the Lord my God for holy mountain of our God,
+- fresh: And while I was still speaking, praying, confessing my sins and the sins of my people Israel, and making petitions before the Lord my God for the holy mountain of our God,
 - brenton: [missing]
 
 ### Daniel 9:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and while I was still speaking in my prayer, behold, the man whom I saw at beginning in my dream, Gabriel, swiftly carried along, came near me at the time of evening sacrifice.
+- fresh: and while I was still speaking in my prayer, behold, the man whom I saw at the beginning in my dream, Gabriel, swiftly carried along, came near me at the time of evening sacrifice.
 - brenton: [missing]
 
 ### Daniel 9:22
@@ -196052,46 +196052,46 @@ Note:
 ### Daniel 9:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: At the beginning of your petition command went out from the Lord, and I came to show you because you are pitied; so understand the command.
+- fresh: At the beginning of your petition a command went out from the Lord, and I came to show you because you are pitied; so understand the command.
 - brenton: [missing]
 
 ### Daniel 9:24
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Seventy weeks were determined over your people and over city Zion, to bring sin to completion and make injustices scarce and wipe out injustices and understand vision and give eternal righteousness and bring vision to completion and gladden holy of holies.
+- fresh: Seventy weeks were determined over your people and over the city Zion, to bring sin to completion and make injustices scarce and wipe out injustices and understand the vision and give eternal righteousness and bring the vision to completion and gladden holy of holies.
 - brenton: [missing]
 
 ### Daniel 9:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will know and understand and rejoice and find commands in answer, and you will build Jerusalem, city to the Lord.
+- fresh: And you will know and understand and rejoice and find commands in answer, and you will build Jerusalem, a city to the Lord.
 - brenton: [missing]
 
 ### Daniel 9:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And after seven and seventy and sixty-two, anointing will be removed and will not be, and kingdom of nations will destroy the city and the holy place with the anointed one, and its end will come with wrath, and until the time of completion it will be warred by war.
+- fresh: And after seven and seventy and sixty-two, anointing will be removed and will not be, and a kingdom of nations will destroy the city and the holy place with the anointed one, and its end will come with wrath, and until the time of completion it will be warred by war.
 - brenton: [missing]
 
 ### Daniel 9:27
 
 - importance: high
-- decisions: 0
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: And covenant will prevail over many, and again it will turn back, and it will be rebuilt in breadth and length and according to the completion of times. And after seven and seventy times and sixty-two years, until the time of the completion of war, desolation will be removed when covenant prevails over many weeks, and at the end of the week sacrifice and drink offering will be taken away, and on the sanctuary there will be abomination of desolations until completion, and completion will be given over the desolation.
+- fresh: And the covenant will prevail over many, and again it will turn back, and it will be rebuilt in breadth and length and according to the completion of times. And after seven and seventy times and sixty-two years, until the time of the completion of war, desolation will be removed when the covenant prevails over many weeks, and at the end of the week the sacrifice and the drink offering will be taken away, and on the sanctuary there will be an abomination of desolations until completion, and completion will be given over the desolation.
 - brenton: [missing]
 
 ### Daniel 10:1
