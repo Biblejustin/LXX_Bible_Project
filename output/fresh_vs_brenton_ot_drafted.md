@@ -202132,7 +202132,7 @@ Note:
 ### Nahum 1:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Oracle of Nineveh. Book of the vision of Nahum the Elkoshite.
@@ -202141,91 +202141,91 @@ Note:
 ### Nahum 1:2
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his adversaries, and he removes his enemies.
+- fresh: God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his adversaries, and he himself removes his enemies.
 - brenton: God is jealous, and the Lord avenges; the Lord avenges with wrath; the Lord takes vengeance on his adversaries, and he cuts off his enemies.
 
 ### Nahum 1:3
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in destruction and in the whirlwind, and clouds are dust of his feet.
+- fresh: The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in an end and in a shaking, and clouds are dust of his feet.
 - brenton: The Lord is long-suffering, and his power is great, and the Lord will not hold any guiltless: his way is in destruction and in the whirlwind, and the clouds are the dust of his feet.
 
 ### Nahum 1:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Threatening sea and drying it up, and making all rivers desolate. Basanitis and Carmel grew scant, and blossoms of Lebanon failed.
+- fresh: Threatening the sea and drying it up, and making all the rivers desolate. Basanitis and Carmel were diminished, and the blossoming things of Lebanon failed.
 - brenton: He threatens the sea, and dries it up, and exhausts all the rivers: the land of Basan, and Carmel are brought low, and the flourishing trees of Libanus have come to nought.
 
 ### Nahum 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Mountains were shaken from before him, and hills were moved, and earth was pulled up from before him, the whole inhabited land and all dwelling in it.
+- fresh: The mountains were shaken from him, and the hills were moved, and the earth was drawn back from before his face, the whole of it and all the ones dwelling in it.
 - brenton: The mountains quake at him, and the hills are shaken, and the earth recoils at his presence, even the world, and all that dwell in it.
 
 ### Nahum 1:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: From before his anger who will stand? And who will resist in the anger of his wrath? His wrath melts rulers, and rocks were crushed from him.
+- fresh: From before the face of his anger who will stand? And who will resist in the anger of his wrath? His wrath melts authorities, and the rocks were crushed from him.
 - brenton: Who shall stand before his anger? and who shall withstand in the anger of his wrath? his wrath brings to nought kingdoms, and the rocks are burst asunder by him.
 
 ### Nahum 1:7
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord is good to those waiting for him in the day of distress, and knowing those revering him.
+- fresh: The Lord is good to those waiting for him in the day of distress, and he knows those revering him.
 - brenton: The Lord is good to them that wait on him in the day of affliction; and he knows them that reverence him.
 
 ### Nahum 1:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: With overflowing flood he will make an end of those rising up, and darkness will pursue his enemies.
+- fresh: With overflowing flood he will make an end of the ones rising up, and darkness will pursue his enemies.
 - brenton: But with an overrunning flood he will make an utter end: darkness shall pursue those that rise up against him and his enemies.
 
 ### Nahum 1:9
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: What do you plot against the Lord? He himself will make an end; he will not take vengeance twice upon same thing in distress.
+- fresh: What do you plot against the Lord? He himself will make an end; he will not take vengeance twice upon the same thing in distress.
 - brenton: What do ye devise against the Lord? he will make a complete end: he will not take vengeance by affliction twice at the same time.
 
 ### Nahum 1:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because to their foundation they will be made desolate, and like tangled bindweed they will be devoured, like stubble full of dryness.
+- fresh: Because as far as their foundation they will be made desolate, and like tangled bindweed they will be devoured, like stubble full of dryness.
 - brenton: For the enemy shall be laid bare even to the foundation, and shall be devoured as twisted yew, and as stubble fully dry.
 
 ### Nahum 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: From you one thinking evil against the Lord will come out, devising hostile things.
+- fresh: From you a plot against the Lord will come out, devising evil hostile things.
 - brenton: Out of thee shall proceed a device against the Lord, counselling evil things hostile to him.
 
 ### Nahum 1:12
@@ -202249,10 +202249,10 @@ Note:
 ### Nahum 1:14
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will command concerning you: your name will no longer be sown. From the house of your god I will destroy carved and cast images. I will make your grave, because you are vile.
+- fresh: And the Lord will command concerning you: your name will no longer be sown. From the house of your god I will destroy carved and cast images. I will make your grave, because they are swift.
 - brenton: And the Lord shall give a command concerning thee; there shall no more of thy name be scattered: I will utterly destroy the graven images out of the house of thy god, and the molten images: I will make thy grave; for they are swift.
 
 ### Nahum 2:1

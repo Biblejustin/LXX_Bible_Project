@@ -91676,43 +91676,43 @@ Oracle of Nineveh. Book of the vision of Nahum the Elkoshite.
 
 **Nahum 1:2**
 
-God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his adversaries, and he removes his enemies.
+God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his adversaries, and he himself removes his enemies.
 
 **Nahum 1:3**
 
-The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in destruction and in the whirlwind, and clouds are dust of his feet.
+The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in an end and in a shaking, and clouds are dust of his feet.
 
 **Nahum 1:4**
 
-Threatening sea and drying it up, and making all rivers desolate. Basanitis and Carmel grew scant, and blossoms of Lebanon failed.
+Threatening the sea and drying it up, and making all the rivers desolate. Basanitis and Carmel were diminished, and the blossoming things of Lebanon failed.
 
 **Nahum 1:5**
 
-Mountains were shaken from before him, and hills were moved, and earth was pulled up from before him, the whole inhabited land and all dwelling in it.
+The mountains were shaken from him, and the hills were moved, and the earth was drawn back from before his face, the whole of it and all the ones dwelling in it.
 
 **Nahum 1:6**
 
-From before his anger who will stand? And who will resist in the anger of his wrath? His wrath melts rulers, and rocks were crushed from him.
+From before the face of his anger who will stand? And who will resist in the anger of his wrath? His wrath melts authorities, and the rocks were crushed from him.
 
 **Nahum 1:7**
 
-The Lord is good to those waiting for him in the day of distress, and knowing those revering him.
+The Lord is good to those waiting for him in the day of distress, and he knows those revering him.
 
 **Nahum 1:8**
 
-With overflowing flood he will make an end of those rising up, and darkness will pursue his enemies.
+With overflowing flood he will make an end of the ones rising up, and darkness will pursue his enemies.
 
 **Nahum 1:9**
 
-What do you plot against the Lord? He himself will make an end; he will not take vengeance twice upon same thing in distress.
+What do you plot against the Lord? He himself will make an end; he will not take vengeance twice upon the same thing in distress.
 
 **Nahum 1:10**
 
-Because to their foundation they will be made desolate, and like tangled bindweed they will be devoured, like stubble full of dryness.
+Because as far as their foundation they will be made desolate, and like tangled bindweed they will be devoured, like stubble full of dryness.
 
 **Nahum 1:11**
 
-From you one thinking evil against the Lord will come out, devising hostile things.
+From you a plot against the Lord will come out, devising evil hostile things.
 
 **Nahum 1:12**
 
@@ -91724,7 +91724,7 @@ Now I will break his rod from upon you, and your bonds I will tear apart.
 
 **Nahum 1:14**
 
-And the Lord will command concerning you: your name will no longer be sown. From the house of your god I will destroy carved and cast images. I will make your grave, because you are vile.
+And the Lord will command concerning you: your name will no longer be sown. From the house of your god I will destroy carved and cast images. I will make your grave, because they are swift.
 
 ### Chapter 2
 

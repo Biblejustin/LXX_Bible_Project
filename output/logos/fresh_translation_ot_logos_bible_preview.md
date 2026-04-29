@@ -570,12 +570,12 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 11
 
-**Nahum 1:2** God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his adversaries, and he removes his enemies.
+**Nahum 1:2** God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his adversaries, and he himself removes his enemies.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 40
 
-**Nahum 1:3** The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in destruction and in the whirlwind, and clouds are dust of his feet.
+**Nahum 1:3** The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in an end and in a shaking, and clouds are dust of his feet.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 29
