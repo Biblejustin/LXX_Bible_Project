@@ -192774,73 +192774,73 @@ Note:
 ### Ezekiel 45:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And when you measure out the land for inheritance, you will set apart a first portion to the Lord, holy from the land, twenty-five thousand in length and twenty thousand in breadth; holy will it be in all its boundaries around.
+- fresh: And when you measure out the land for inheritance, you will set apart a first portion to the Lord, a holy portion from the land, twenty-five thousand in length and twenty thousand in breadth; it will be holy in all its boundaries all around.
 - brenton: And when ye measure the land for inheritance, ye shall set apart first-fruits to the Lord, a holy space of the land, in length twenty and five thousand reeds, and in breadth twenty thousand; it shall be holy in all the borders thereof round about.
 
 ### Ezekiel 45:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And from this, five hundred by five hundred, square all around, will belong to the sanctuary, with fifty cubits of open space around it.
+- fresh: And from this, five hundred by five hundred, square all around, will be for the sanctuary, with fifty cubits of open space all around it.
 - brenton: And there shall be a sanctuary out of this, five hundred reeds in length by five hundred in breadth, a square round about; and there shall be a vacant space beyond this of fifty cubits round about.
 
 ### Ezekiel 45:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And from this measured tract you will measure length twenty-five thousand and breadth ten thousand, and in it will be the sanctuary, holy of holies.
+- fresh: And from this measured tract you will measure a length of twenty-five thousand and a breadth of ten thousand, and in it will be the sanctuary, holy of holies.
 - brenton: And out of this measurement shalt thou measure the length five and twenty thousand, and the breadth twenty thousand: and in it shall be the holy of holies.
 
 ### Ezekiel 45:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: From the land it will belong to the priests ministering in the holy place, those drawing near to minister to the Lord, and it will be for them a place for houses, a set-apart place for their sanctuary.
+- fresh: This portion from the land will belong to the priests who minister in the holy place, and it will be for those who draw near to minister to the Lord; and it will be for them a place for houses, set apart for their sanctification.
 - brenton: Of the land shall be a portion for the priests that minister in the holy place, and it shall be for them that draw nigh to minister to the Lord: and it shall be to them a place for houses set apart for their sacred office;
 
 ### Ezekiel 45:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Twenty-five thousand in length and ten thousand in breadth will belong to the Levites ministering to the house, for a possession, cities for dwelling.
+- fresh: Twenty-five thousand in length and ten thousand in breadth will belong to the Levites who minister to the house, as their possession: cities to dwell in.
 - brenton: the length shall be twenty-five thousand, and the breadth twenty thousand: and the Levites that attend the house, they shall have cities to dwell in for a possession.
 
 ### Ezekiel 45:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And as possession of the city you will give five thousand in breadth and twenty-five thousand in length, like first portion of the holy things; it will belong to all the house of Israel.
+- fresh: And as the possession of the city you will give five thousand in breadth and twenty-five thousand in length, like the first portion of the holy things; it will belong to all the house of Israel.
 - brenton: And ye shall appoint for the possession of the city five thousand in breadth, and in length twenty-five thousand: after the manner of the first-fruits of the holy portion, they shall be for all the house of Israel.
 
 ### Ezekiel 45:7
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And for the ruler, one part on this side and one on that side of first portion of the holy things and possession of the city, in front of first portion of the holy things and in front of possession of the city, from west side westward and from east side eastward, and length like one of the tribal portions from west boundary to east boundary of the land.
+- fresh: And for the ruler, on this side and on that side, beside the first portion of the holy things and the possession of the city, facing the first portion of the holy things and facing the possession of the city, from the west side westward and from the east side eastward; and the length will be like one of the tribal portions, from the west boundary to the east boundary of the land.
 - brenton: And the prince shall have a portion out of this, and out of this there shall be a portion for the first-fruits of the sanctuary, and for the possession of the city, in front of the first-fruits of the sanctuary, and in front of the possession of the city westward, and from the western parts eastward: and the length shall be equal to one of the parts of the western borders, and the length shall be to the eastern borders of the land.
 
 ### Ezekiel 45:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: It will be his possession in Israel, and rulers of Israel will no longer oppress my people; and house of Israel will inherit the land according to their tribes.
+- fresh: It will be his possession in Israel, and the rulers of Israel will no longer oppress my people; and the house of Israel will inherit the land according to their tribes.
 - brenton: And he shall have it for a possession in Israel: and the princes of Israel shall no more oppress my people; but the house of Israel shall inherit the land according to their tribes.
 
 ### Ezekiel 45:9
@@ -192849,58 +192849,58 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: Enough for you, rulers of Israel. Remove injustice and misery; do judgment and righteousness; remove oppression from my people, says the Lord God.
+- fresh: Thus says the Lord God: Let it be enough for you, rulers of Israel. Remove injustice and misery; do judgment and righteousness; remove oppression from my people, says the Lord God.
 - brenton: Thus saith the Lord God; Let it suffice you, ye princes of Israel: remove injustice and misery, execute judgment and justice; take away oppression from my people, saith the Lord God.
 
 ### Ezekiel 45:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let there be for you a just scale and a just measure and a just choenix.
+- fresh: Let there be for you a just scale, a just measure, and a just choenix.
 - brenton: Ye shall have a just balance, and a just measure, and a just chœnix for measure.
 
 ### Ezekiel 45:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Measure and choenix will be alike, so that choenix takes a tenth of a homer and measure takes a tenth of a homer; according to the homer they will be equal.
+- fresh: The measure and the choenix will be one alike: the choenix taking a tenth of the gomor, and the measure a tenth of the gomor; it will be equal according to the gomor.
 - brenton: And in like manner there shall be one chœnix as a measure of capacity; the tenth of the gomor shall be the chœnix, and the tenth of the gomor shall be in fair proportion to the gomor.
 
 ### Ezekiel 45:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the weight: twenty obols to the shekel. Five shekels will be five, and ten shekels will be ten, and fifty shekels will make your mina.
+- fresh: And the weight will be twenty obols. Five shekels will be five, and ten shekels will be ten, and fifty shekels will be your mina.
 - brenton: And the weights shall be twenty oboli, your pound shall be five shekels, fifteen shekels and fifty shekels.
 
 ### Ezekiel 45:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And this is first portion you will set apart: a sixth of a measure from a homer of wheat, and a sixth of a measure from a kor of barley.
+- fresh: And this is the first portion that you will set apart: a sixth of the measure from the gomor of wheat, and a sixth of the ephah from the kor of barley.
 - brenton: And these are the first-fruits which ye shall offer; a sixth part of a gomor of wheat, and the sixth part of it shall consist of an ephah of a cor of barley.
 
 ### Ezekiel 45:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And ordinance for the oil: one kotyle of oil from ten kotylai, because ten kotylai are a homer.
+- fresh: And the ordinance of the oil: one cup of oil from ten cups, because ten cups are a gomor.
 - brenton: And ye shall give as the appointed measure of oil one bath of oil out of ten baths; for ten baths are a gomor.
 
 ### Ezekiel 45:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And one sheep from every ten sheep, an offering from all families of Israel, for sacrifices and burnt offerings and offerings of salvation, to make atonement for you, says the Lord God.
@@ -192918,16 +192918,16 @@ Note:
 ### Ezekiel 45:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be ruler's part to provide burnt offerings and sacrifices and drink offerings at feasts and new moons and Sabbaths and all festivals of the house of Israel; he will provide things for sin and sacrifice and burnt offerings and offerings of salvation, to make atonement for the house of Israel.
+- fresh: And through the ruler will be the whole burnt offerings and the sacrifices and the libations at the feasts and at the new moons and on the Sabbaths and at all the feasts of the house of Israel; he will make the things for sin and the sacrifice and the whole burnt offerings and the offerings of salvation, to make atonement for the house of Israel.
 - brenton: And through the prince shall be offered the whole-burnt-offerings and the meat-offerings, and the drink-offerings in the feasts, and at the new moons, and on the sabbaths; and in all the feasts of the house of Israel: he shall offer the sin-offerings, and the meat-offering, and the whole-burnt-offerings, and the peace-offerings, to make atonement for the house of Israel.
 
 ### Ezekiel 45:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Thus says the Lord God: In the first month, on the first of the month, you will take a flawless young bull from the herd to make atonement for the holy place.
@@ -192936,64 +192936,64 @@ Note:
 ### Ezekiel 45:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the priest will take some of the blood of atonement and put it on the doorposts of the house and on the four corners of the sanctuary and on the altar and on the doorposts of gate of the inner court.
+- fresh: And the priest will take some of the blood of atonement and put it on the doorposts of the house and on the four corners of the sanctuary and on the altar and on the doorposts of the gate of the inner court.
 - brenton: And the priest shall take of the blood of the atonement, and put it on the thresholds of the house, and upon the four corners of the temple, and upon the altar, and upon the thresholds of the gate of the inner court.
 
 ### Ezekiel 45:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And thus you will do in seventh month, on the first of the month; you will take a portion from each one and make atonement for the house.
+- fresh: And thus you will do in the seventh month, on the first of the month; you will take a portion from each one and make atonement for the house.
 - brenton: And thus shalt thou do in the seventh month; on the first day of the month thou shalt take a rate from each one; and ye shall make atonement for the house.
 
 ### Ezekiel 45:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in the first month, on the fourteenth of the month, you will have Passover, a feast of seven days; unleavened bread you will eat.
+- fresh: And in the first month, on the fourteenth of the month, you will have the Passover, a feast of seven days; unleavened bread you will eat.
 - brenton: And in the first month, on the fourteenth day of the month, ye shall have the feast of the passover; seven days shall ye eat unleavened bread.
 
 ### Ezekiel 45:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the ruler will provide on that day, for himself and for the house and for all the people of the land, a bull for sin.
+- fresh: And the ruler will make on that day, for himself and for the house and for all the people of the land, a bull for sin.
 - brenton: And the prince shall offer in that day a calf for a sin-offering for himself, and the house, and for all the people of the land.
 
 ### Ezekiel 45:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And during the seven days of the feast he will provide burnt offerings to the Lord: seven bulls and seven rams, flawless, each day for seven days; and for sin, a male goat each day.
+- fresh: And during the seven days of the feast he will make whole burnt offerings to the Lord: seven bulls and seven rams, flawless, each day for seven days; and for sin, a male goat each day.
 - brenton: And for the seven days of the feast he shall offer as whole-burnt-offerings to the Lord seven calves and seven rams without blemish daily for the seven days; and a kid of the goats daily for a sin-offering, and a meat-offering.
 
 ### Ezekiel 45:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And as offering he will prepare a cake with the bull and a cake with the ram, and a hin of oil with the cake.
+- fresh: And as a sacrifice, you will make a cake with the bull and a cake with the ram, and a hin of oil with the cake.
 - brenton: And thou shalt prepare a cake for the calf, and cakes for the ram, and a hin of oil for the cake.
 
 ### Ezekiel 45:25
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And in seventh month, on the fifteenth of the month, at the feast he will do the same seven days, as for the sin offering and as for the burnt offerings and as for the grain offering and as for the oil.
+- fresh: And in the seventh month, on the fifteenth of the month, at the feast you will do the same for seven days, as for the things for sin and as for the whole burnt offerings and as for the grain offering and as for the oil.
 - brenton: And in the seventh month, on the fifteenth day of the month, thou shalt sacrifice in the feast in the same way seven days, as they sacrificed the sin-offerings, and the whole-burnt-offerings, and the freewill-offering, and the oil.
 
 ### Ezekiel 46:1

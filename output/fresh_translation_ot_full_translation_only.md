@@ -87394,59 +87394,59 @@ Anything that dies of itself or is caught by wild animals, from birds or from li
 
 **Ezekiel 45:1**
 
-And when you measure out the land for inheritance, you will set apart a first portion to the Lord, holy from the land, twenty-five thousand in length and twenty thousand in breadth; holy will it be in all its boundaries around.
+And when you measure out the land for inheritance, you will set apart a first portion to the Lord, a holy portion from the land, twenty-five thousand in length and twenty thousand in breadth; it will be holy in all its boundaries all around.
 
 **Ezekiel 45:2**
 
-And from this, five hundred by five hundred, square all around, will belong to the sanctuary, with fifty cubits of open space around it.
+And from this, five hundred by five hundred, square all around, will be for the sanctuary, with fifty cubits of open space all around it.
 
 **Ezekiel 45:3**
 
-And from this measured tract you will measure length twenty-five thousand and breadth ten thousand, and in it will be the sanctuary, holy of holies.
+And from this measured tract you will measure a length of twenty-five thousand and a breadth of ten thousand, and in it will be the sanctuary, holy of holies.
 
 **Ezekiel 45:4**
 
-From the land it will belong to the priests ministering in the holy place, those drawing near to minister to the Lord, and it will be for them a place for houses, a set-apart place for their sanctuary.
+This portion from the land will belong to the priests who minister in the holy place, and it will be for those who draw near to minister to the Lord; and it will be for them a place for houses, set apart for their sanctification.
 
 **Ezekiel 45:5**
 
-Twenty-five thousand in length and ten thousand in breadth will belong to the Levites ministering to the house, for a possession, cities for dwelling.
+Twenty-five thousand in length and ten thousand in breadth will belong to the Levites who minister to the house, as their possession: cities to dwell in.
 
 **Ezekiel 45:6**
 
-And as possession of the city you will give five thousand in breadth and twenty-five thousand in length, like first portion of the holy things; it will belong to all the house of Israel.
+And as the possession of the city you will give five thousand in breadth and twenty-five thousand in length, like the first portion of the holy things; it will belong to all the house of Israel.
 
 **Ezekiel 45:7**
 
-And for the ruler, one part on this side and one on that side of first portion of the holy things and possession of the city, in front of first portion of the holy things and in front of possession of the city, from west side westward and from east side eastward, and length like one of the tribal portions from west boundary to east boundary of the land.
+And for the ruler, on this side and on that side, beside the first portion of the holy things and the possession of the city, facing the first portion of the holy things and facing the possession of the city, from the west side westward and from the east side eastward; and the length will be like one of the tribal portions, from the west boundary to the east boundary of the land.
 
 **Ezekiel 45:8**
 
-It will be his possession in Israel, and rulers of Israel will no longer oppress my people; and house of Israel will inherit the land according to their tribes.
+It will be his possession in Israel, and the rulers of Israel will no longer oppress my people; and the house of Israel will inherit the land according to their tribes.
 
 **Ezekiel 45:9**
 
-Thus says the Lord God: Enough for you, rulers of Israel. Remove injustice and misery; do judgment and righteousness; remove oppression from my people, says the Lord God.
+Thus says the Lord God: Let it be enough for you, rulers of Israel. Remove injustice and misery; do judgment and righteousness; remove oppression from my people, says the Lord God.
 
 **Ezekiel 45:10**
 
-Let there be for you a just scale and a just measure and a just choenix.
+Let there be for you a just scale, a just measure, and a just choenix.
 
 **Ezekiel 45:11**
 
-Measure and choenix will be alike, so that choenix takes a tenth of a homer and measure takes a tenth of a homer; according to the homer they will be equal.
+The measure and the choenix will be one alike: the choenix taking a tenth of the gomor, and the measure a tenth of the gomor; it will be equal according to the gomor.
 
 **Ezekiel 45:12**
 
-And the weight: twenty obols to the shekel. Five shekels will be five, and ten shekels will be ten, and fifty shekels will make your mina.
+And the weight will be twenty obols. Five shekels will be five, and ten shekels will be ten, and fifty shekels will be your mina.
 
 **Ezekiel 45:13**
 
-And this is first portion you will set apart: a sixth of a measure from a homer of wheat, and a sixth of a measure from a kor of barley.
+And this is the first portion that you will set apart: a sixth of the measure from the gomor of wheat, and a sixth of the ephah from the kor of barley.
 
 **Ezekiel 45:14**
 
-And ordinance for the oil: one kotyle of oil from ten kotylai, because ten kotylai are a homer.
+And the ordinance of the oil: one cup of oil from ten cups, because ten cups are a gomor.
 
 **Ezekiel 45:15**
 
@@ -87458,7 +87458,7 @@ All the people will give this first portion to the ruler of Israel.
 
 **Ezekiel 45:17**
 
-And it will be ruler's part to provide burnt offerings and sacrifices and drink offerings at feasts and new moons and Sabbaths and all festivals of the house of Israel; he will provide things for sin and sacrifice and burnt offerings and offerings of salvation, to make atonement for the house of Israel.
+And through the ruler will be the whole burnt offerings and the sacrifices and the libations at the feasts and at the new moons and on the Sabbaths and at all the feasts of the house of Israel; he will make the things for sin and the sacrifice and the whole burnt offerings and the offerings of salvation, to make atonement for the house of Israel.
 
 **Ezekiel 45:18**
 
@@ -87466,31 +87466,31 @@ Thus says the Lord God: In the first month, on the first of the month, you will 
 
 **Ezekiel 45:19**
 
-And the priest will take some of the blood of atonement and put it on the doorposts of the house and on the four corners of the sanctuary and on the altar and on the doorposts of gate of the inner court.
+And the priest will take some of the blood of atonement and put it on the doorposts of the house and on the four corners of the sanctuary and on the altar and on the doorposts of the gate of the inner court.
 
 **Ezekiel 45:20**
 
-And thus you will do in seventh month, on the first of the month; you will take a portion from each one and make atonement for the house.
+And thus you will do in the seventh month, on the first of the month; you will take a portion from each one and make atonement for the house.
 
 **Ezekiel 45:21**
 
-And in the first month, on the fourteenth of the month, you will have Passover, a feast of seven days; unleavened bread you will eat.
+And in the first month, on the fourteenth of the month, you will have the Passover, a feast of seven days; unleavened bread you will eat.
 
 **Ezekiel 45:22**
 
-And the ruler will provide on that day, for himself and for the house and for all the people of the land, a bull for sin.
+And the ruler will make on that day, for himself and for the house and for all the people of the land, a bull for sin.
 
 **Ezekiel 45:23**
 
-And during the seven days of the feast he will provide burnt offerings to the Lord: seven bulls and seven rams, flawless, each day for seven days; and for sin, a male goat each day.
+And during the seven days of the feast he will make whole burnt offerings to the Lord: seven bulls and seven rams, flawless, each day for seven days; and for sin, a male goat each day.
 
 **Ezekiel 45:24**
 
-And as offering he will prepare a cake with the bull and a cake with the ram, and a hin of oil with the cake.
+And as a sacrifice, you will make a cake with the bull and a cake with the ram, and a hin of oil with the cake.
 
 **Ezekiel 45:25**
 
-And in seventh month, on the fifteenth of the month, at the feast he will do the same seven days, as for the sin offering and as for the burnt offerings and as for the grain offering and as for the oil.
+And in the seventh month, on the fifteenth of the month, at the feast you will do the same for seven days, as for the things for sin and as for the whole burnt offerings and as for the grain offering and as for the oil.
 
 ### Chapter 46
 
