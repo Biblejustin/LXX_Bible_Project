@@ -91730,59 +91730,59 @@ And the Lord will command concerning you: your name will no longer be sown. From
 
 **Nahum 2:1**
 
-Behold, on mountains feet of one bringing good news and announcing peace. Celebrate your feasts, Judah; pay your vows, because they will no longer continue to pass through you into decay. It has been completed; it has been removed.
+Behold, on the mountains are the feet of one bringing good news and announcing peace. Celebrate your feasts, Judah; pay your vows, because they will no longer continue to pass through you into decay. It has been completed; it has been removed.
 
 **Nahum 2:2**
 
-Rise, one breathing in your face, rescuing from distress. Watch road, strengthen waist, arm yourself with great strength.
+One breathing into your face, rescuing from distress, went up. Watch the road, strengthen the waist, act manfully with great strength.
 
 **Nahum 2:3**
 
-Because the Lord turned back arrogance of Jacob, like arrogance of Israel, because those shaking them out shook them out, and ruined their branches.
+Because the Lord turned back the arrogance of Jacob, like the arrogance of Israel, because those shaking them out shook them out and ruined their branches.
 
 **Nahum 2:4**
 
-Weapons of their rule are from men, mighty men mocking in fire. Reins of their chariots are in the day of his preparation, and horsemen will be thrown into confusion.
+Weapons of their rule are from men, mighty men mocking in fire. The reins of their chariots are in the day of his preparation, and the horsemen will be thrown into confusion.
 
 **Nahum 2:5**
 
-In roads chariots will be thrown together and entangled in open places. Their appearance is like fiery torches and running like lightning.
+In the roads the chariots will be thrown into confusion and entangled in the open places. Their appearance is as torches of fire and as lightnings running through.
 
 **Nahum 2:6**
 
-Their nobles will remember and flee by day and grow weak in their march, and they will hurry to walls and prepare their watch-posts.
+Their nobles will remember and flee by day and grow weak in their march, and they will hurry to the walls and prepare their watch-posts.
 
 **Nahum 2:7**
 
-The gates of rivers were opened, and palace fell.
+The gates of the rivers were opened, and the palace fell.
 
 **Nahum 2:8**
 
-Foundation was laid bare, and she herself went up, and her slave-girls were led away like doves cooing in their hearts.
+The foundation was laid bare, and she herself went up, and her slave-girls were led away like doves cooing in their hearts.
 
 **Nahum 2:9**
 
-Nineveh was like a pool of water, her waters, yet they flee and did not stop, and there was no one looking back.
+And Nineveh was like a pool of water, her waters; and they were fleeing, they did not stand, and there was no one looking back.
 
 **Nahum 2:10**
 
-They kept plundering silver, plundering gold, and there was no end to her adornment. They were weighed down with all her desirable vessels.
+They kept plundering the silver, plundering the gold, and there was no end to her adornment. They have been weighed down beyond all her desirable vessels.
 
 **Nahum 2:11**
 
-Shaking-out and overturning and boiling-over, breaking of hearts and loosening of knees, pains upon every waist, and faces of all like scorching of a pot.
+Shaking-out and overturning and boiling-over, breaking of heart and loosening of knees, pains upon every waist, and the face of all is as scorching of a pot.
 
 **Nahum 2:12**
 
-Where is the dwelling of lions and pasture-place for cubs, where lion went to enter there, lion's cub, and no one frightening?
+Where is the dwelling of lions and the pasture-place that was for the cubs, where a lion went to enter there, a lion's cub, and there was no one frightening?
 
 **Nahum 2:13**
 
-Lion snatched enough for his cubs and strangled for his lionesses and filled his lairs with prey and his dwelling with spoil.
+A lion snatched enough for his cubs and strangled for his lions and filled his lair with prey and his dwelling with spoil.
 
 **Nahum 2:14**
 
-Behold, I am against you, says the Lord Almighty, and I will burn your multitude in smoke, and sword will devour your lions, and I will destroy your prey from earth, and your works will no longer be heard.
+Behold, I am against you, says the Lord Almighty, and I will burn your multitude in smoke, and the sword will devour your lions, and I will destroy your prey from the earth, and your works will no longer be heard.
 
 ### Chapter 3
 

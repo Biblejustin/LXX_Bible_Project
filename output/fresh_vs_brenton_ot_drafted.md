@@ -202258,127 +202258,127 @@ Note:
 ### Nahum 2:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, on mountains feet of one bringing good news and announcing peace. Celebrate your feasts, Judah; pay your vows, because they will no longer continue to pass through you into decay. It has been completed; it has been removed.
+- fresh: Behold, on the mountains are the feet of one bringing good news and announcing peace. Celebrate your feasts, Judah; pay your vows, because they will no longer continue to pass through you into decay. It has been completed; it has been removed.
 - brenton: Behold upon the mountains the feet of him that brings glad tidings, and publishes peace! O Juda, keep thy feasts, pay thy vows: for they shall no more pass through thee to thy decay.
 
 ### Nahum 2:2
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Rise, one breathing in your face, rescuing from distress. Watch road, strengthen waist, arm yourself with great strength.
+- fresh: One breathing into your face, rescuing from distress, went up. Watch the road, strengthen the waist, act manfully with great strength.
 - brenton: It is all over with him, he has been removed, one who has been delivered from affliction has come up panting into thy presence, watch the way, strengthen thy loins, be very valiant in thy strength.
 
 ### Nahum 2:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the Lord turned back arrogance of Jacob, like arrogance of Israel, because those shaking them out shook them out, and ruined their branches.
+- fresh: Because the Lord turned back the arrogance of Jacob, like the arrogance of Israel, because those shaking them out shook them out and ruined their branches.
 - brenton: For the Lord has turned aside the pride of Jacob, as the pride of Israel: for they have utterly rejected them, and have destroyed their branches.
 
 ### Nahum 2:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Weapons of their rule are from men, mighty men mocking in fire. Reins of their chariots are in the day of his preparation, and horsemen will be thrown into confusion.
+- fresh: Weapons of their rule are from men, mighty men mocking in fire. The reins of their chariots are in the day of his preparation, and the horsemen will be thrown into confusion.
 - brenton: They have destroyed the arms of their power from among men, their mighty men sporting with fire: the reins of their chariots shall be destroyed in the day of his preparation, and the horsemen shall be thrown into confusion
 
 ### Nahum 2:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: In roads chariots will be thrown together and entangled in open places. Their appearance is like fiery torches and running like lightning.
+- fresh: In the roads the chariots will be thrown into confusion and entangled in the open places. Their appearance is as torches of fire and as lightnings running through.
 - brenton: in the ways, and the chariots shall clash together, and shall be entangled in each other in the broad ways: their appearance is as lamps of fire, and as gleaming lightnings.
 
 ### Nahum 2:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Their nobles will remember and flee by day and grow weak in their march, and they will hurry to walls and prepare their watch-posts.
+- fresh: Their nobles will remember and flee by day and grow weak in their march, and they will hurry to the walls and prepare their watch-posts.
 - brenton: And their mighty men shall bethink themselves and flee by day; and they shall be weak as they go; and they shall hasten to her walls, and shall prepare their defences.
 
 ### Nahum 2:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: The gates of rivers were opened, and palace fell.
+- fresh: The gates of the rivers were opened, and the palace fell.
 - brenton: The gates of the cities have been opened, and the palaces have fallen into ruin,
 
 ### Nahum 2:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Foundation was laid bare, and she herself went up, and her slave-girls were led away like doves cooing in their hearts.
+- fresh: The foundation was laid bare, and she herself went up, and her slave-girls were led away like doves cooing in their hearts.
 - brenton: and the foundation has been exposed; and she has gone up, and her maid-servants were led away as doves moaning in their hearts.
 
 ### Nahum 2:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Nineveh was like a pool of water, her waters, yet they flee and did not stop, and there was no one looking back.
+- fresh: And Nineveh was like a pool of water, her waters; and they were fleeing, they did not stand, and there was no one looking back.
 - brenton: And as for Nineve, her waters shall be as a pool of water: and they fled, and staid not, and there was none to look back.
 
 ### Nahum 2:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: They kept plundering silver, plundering gold, and there was no end to her adornment. They were weighed down with all her desirable vessels.
+- fresh: They kept plundering the silver, plundering the gold, and there was no end to her adornment. They have been weighed down beyond all her desirable vessels.
 - brenton: They plundered the silver, they plundered the gold, and there was no end of their adorning; they were loaded with it upon all their pleasant vessels.
 
 ### Nahum 2:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Shaking-out and overturning and boiling-over, breaking of hearts and loosening of knees, pains upon every waist, and faces of all like scorching of a pot.
+- fresh: Shaking-out and overturning and boiling-over, breaking of heart and loosening of knees, pains upon every waist, and the face of all is as scorching of a pot.
 - brenton: There is thrusting forth, and shaking, and tumult, and heart-breaking, and loosing of knees, and pangs on all loins; and the faces of all are as the blackening of a pot.
 
 ### Nahum 2:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Where is the dwelling of lions and pasture-place for cubs, where lion went to enter there, lion's cub, and no one frightening?
+- fresh: Where is the dwelling of lions and the pasture-place that was for the cubs, where a lion went to enter there, a lion's cub, and there was no one frightening?
 - brenton: Where is the dwelling-place of the lions, and the pasture that belonged to the whelps? where did the lion go, that the lion's whelp should enter in there, and there was none to scare him away?
 
 ### Nahum 2:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Lion snatched enough for his cubs and strangled for his lionesses and filled his lairs with prey and his dwelling with spoil.
+- fresh: A lion snatched enough for his cubs and strangled for his lions and filled his lair with prey and his dwelling with spoil.
 - brenton: The lion seized enough prey for his whelps, and strangled for his young lions, and filled his lair with prey, and his dwelling-place with spoil.
 
 ### Nahum 2:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I am against you, says the Lord Almighty, and I will burn your multitude in smoke, and sword will devour your lions, and I will destroy your prey from earth, and your works will no longer be heard.
+- fresh: Behold, I am against you, says the Lord Almighty, and I will burn your multitude in smoke, and the sword will devour your lions, and I will destroy your prey from the earth, and your works will no longer be heard.
 - brenton: Behold, I am against thee, saith the Lord Almighty, and I will burn up thy multitude in the smoke, and the sword shall devour thy lions; and I will utterly destroy thy prey from off the land, and thy deeds shall no more at all be heard of.
 
 ### Nahum 3:1
