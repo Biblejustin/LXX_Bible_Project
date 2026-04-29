@@ -201806,28 +201806,28 @@ Note:
 ### Micah 6:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear now the word of the Lord. The Lord said, Rise, plead with mountains, and let hills hear your voice.
+- fresh: Hear now the word of the Lord. The Lord said, Rise up, plead with the mountains, and let the hills hear your voice.
 - brenton: Hear now a word: the Lord God has said; Arise, plead with the mountains, and let the hills hear thy voice.
 
 ### Micah 6:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear, mountains, judgment of the Lord, and ravines, foundations of the earth, because the Lord has judgment with his people, and with Israel he will dispute.
+- fresh: Hear, O mountains, the judgment of the Lord, and the ravines, foundations of the earth, because the Lord has judgment with his people, and with Israel he will dispute.
 - brenton: Hear ye, O mountains, the controversy of the Lord, and ye valleys even the foundations of the earth: for the Lord has a controversy with his people, and will plead with Israel.
 
 ### Micah 6:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My people, what did I do to you? Or how did I grieve you? Or how did I trouble you? Answer me.
+- fresh: O my people, what did I do to you? Or how did I grieve you? Or how did I trouble you? Answer me.
 - brenton: O my people, what have I done to thee? or wherein have I grieved thee? or wherein have I troubled thee? answer me.
 
 ### Micah 6:4
@@ -201842,19 +201842,19 @@ Note:
 ### Micah 6:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: My people, remember what Balak king of Moab planned against you and what Balaam son of Beor answered him, from the reed-ropes to Gilgal, so that righteousness of the Lord may be known.
+- fresh: O my people, remember now what Balak king of Moab planned against you and what Balaam son of Beor answered him, from the reeds to Gilgal, so that the righteousness of the Lord may be known.
 - brenton: O my people, remember now, what counsel Balac king of Moab took against thee, and what Balaam the son of Beor answered him, from the reeds to Galgal; that the righteousness of the Lord might be known.
 
 ### Micah 6:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In what shall I overtake Lord? Shall I lay hold of my God Most High? Shall I lay hold of him with burnt offerings, with year-old calves?
+- fresh: In what shall I overtake the Lord? Shall I lay hold of my God Most High? Shall I lay hold of him with burnt offerings, with year-old calves?
 - brenton: Wherewithal shall I reach the Lord, and lay hold of my God most high? shall I reach him by whole-burnt-offerings, by calves of a year old?
 
 ### Micah 6:7
@@ -201869,46 +201869,46 @@ Note:
 ### Micah 6:8
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
+- fresh: He told you, O human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
 - brenton: Has it not been told thee, O man, what is good? or what does the Lord require of thee, but to do justice, and love mercy, and be ready to walk with the Lord thy God?
 
 ### Micah 6:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The voice of the Lord will be called to the city and will save those fearing his name. Hear, tribe, and who will adorn the city?
+- fresh: The voice of the Lord will be called to the city and will save those fearing his name. Hear, O tribe, and who will adorn the city?
 - brenton: The Lord's voice shall be proclaimed in the city, and he shall save those that fear his name: hear, O tribe; and who shall order the city?
 
 ### Micah 6:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Is there not fire and house of a lawless one treasuring unlawful treasures and injustice with arrogance?
+- fresh: Is there not fire and a house of a lawless one treasuring unlawful treasures and injustice with arrogance?
 - brenton: Is there not fire, and the house of the wicked heaping up wicked treasures, and that with the pride of unrighteousness?
 
 ### Micah 6:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Shall lawless one be justified with a balance and with a bag of deceitful weights?
+- fresh: Shall a lawless one be justified with a balance and with a bag of deceitful weights?
 - brenton: Shall the wicked be justified by the balance, or deceitful weights in the bag,
 
 ### Micah 6:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From these they filled their wealth with impiety, and those inhabiting it spoke lies, and their tongue was exalted in their mouth.
+- fresh: From these they filled their wealth with impiety, and the ones inhabiting it spoke lies, and their tongue was exalted in their mouth.
 - brenton: whereby they have accumulated their ungodly wealth, and they that dwell in the city have uttered falsehoods, and their tongue has been exalted in their mouth?
 
 ### Micah 6:13
@@ -201923,28 +201923,28 @@ Note:
 ### Micah 6:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: You will eat and certainly not be filled, and darkness will be in you, and you will move aside and certainly not be saved, and whoever are saved will be given to sword.
+- fresh: You will eat and certainly not be filled, and darkness will be in you, and you will move aside and certainly not be saved, and as many as are saved will be given to the sword.
 - brenton: Thou shalt eat, and shalt not be satisfied; and there shall be darkness upon thee; and he shall depart from thee, and thou shalt not escape; and all that shall escape shall be delivered over to the sword.
 
 ### Micah 6:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You will sow and certainly not reap; you will press olives and certainly not anoint with oil, and wine and certainly not drink. Statutes of my people will disappear.
+- fresh: You will sow and certainly not reap; you will press olives and certainly not anoint with oil, and wine and certainly not drink. The statutes of my people will disappear.
 - brenton: Thou shalt sow, but thou shalt not reap; thou shalt press the olive, but thou shalt not anoint thyself with oil; and shalt make wine, but ye shall drink no wine: and the ordinances of my people shall be utterly abolished.
 
 ### Micah 6:16
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And you kept ordinances of Zimri and all works of the house of Ahab and walked in their counsels, so that I may give you to destruction and those inhabiting it to hissing, and you will receive reproaches of peoples.
+- fresh: And you kept the ordinances of Zambri and all the works of the house of Ahab and walked in their counsels, so that I may give you to destruction and the ones inhabiting it to hissing, and you will receive reproaches of peoples.
 - brenton: For thou hast kept the statutes of Zambri, and done all the works of the house of Achaab; and ye have walked in their ways, that I might deliver thee to utter destruction, and those that inhabit the city to hissing: and ye shall bear the reproach of nations.
 
 ### Micah 7:1

@@ -91522,15 +91522,15 @@ And I will do vengeance in anger and in wrath among the nations because they did
 
 **Micah 6:1**
 
-Hear now the word of the Lord. The Lord said, Rise, plead with mountains, and let hills hear your voice.
+Hear now the word of the Lord. The Lord said, Rise up, plead with the mountains, and let the hills hear your voice.
 
 **Micah 6:2**
 
-Hear, mountains, judgment of the Lord, and ravines, foundations of the earth, because the Lord has judgment with his people, and with Israel he will dispute.
+Hear, O mountains, the judgment of the Lord, and the ravines, foundations of the earth, because the Lord has judgment with his people, and with Israel he will dispute.
 
 **Micah 6:3**
 
-My people, what did I do to you? Or how did I grieve you? Or how did I trouble you? Answer me.
+O my people, what did I do to you? Or how did I grieve you? Or how did I trouble you? Answer me.
 
 **Micah 6:4**
 
@@ -91538,11 +91538,11 @@ Because I brought you up from the land of Egypt and redeemed you from the house 
 
 **Micah 6:5**
 
-My people, remember what Balak king of Moab planned against you and what Balaam son of Beor answered him, from the reed-ropes to Gilgal, so that righteousness of the Lord may be known.
+O my people, remember now what Balak king of Moab planned against you and what Balaam son of Beor answered him, from the reeds to Gilgal, so that the righteousness of the Lord may be known.
 
 **Micah 6:6**
 
-In what shall I overtake Lord? Shall I lay hold of my God Most High? Shall I lay hold of him with burnt offerings, with year-old calves?
+In what shall I overtake the Lord? Shall I lay hold of my God Most High? Shall I lay hold of him with burnt offerings, with year-old calves?
 
 **Micah 6:7**
 
@@ -91550,23 +91550,23 @@ Will the Lord accept thousands of rams or tens of thousands of torrents of fat? 
 
 **Micah 6:8**
 
-He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
+He told you, O human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
 
 **Micah 6:9**
 
-The voice of the Lord will be called to the city and will save those fearing his name. Hear, tribe, and who will adorn the city?
+The voice of the Lord will be called to the city and will save those fearing his name. Hear, O tribe, and who will adorn the city?
 
 **Micah 6:10**
 
-Is there not fire and house of a lawless one treasuring unlawful treasures and injustice with arrogance?
+Is there not fire and a house of a lawless one treasuring unlawful treasures and injustice with arrogance?
 
 **Micah 6:11**
 
-Shall lawless one be justified with a balance and with a bag of deceitful weights?
+Shall a lawless one be justified with a balance and with a bag of deceitful weights?
 
 **Micah 6:12**
 
-From these they filled their wealth with impiety, and those inhabiting it spoke lies, and their tongue was exalted in their mouth.
+From these they filled their wealth with impiety, and the ones inhabiting it spoke lies, and their tongue was exalted in their mouth.
 
 **Micah 6:13**
 
@@ -91574,15 +91574,15 @@ And I will begin to strike you; I will make you disappear for your sins.
 
 **Micah 6:14**
 
-You will eat and certainly not be filled, and darkness will be in you, and you will move aside and certainly not be saved, and whoever are saved will be given to sword.
+You will eat and certainly not be filled, and darkness will be in you, and you will move aside and certainly not be saved, and as many as are saved will be given to the sword.
 
 **Micah 6:15**
 
-You will sow and certainly not reap; you will press olives and certainly not anoint with oil, and wine and certainly not drink. Statutes of my people will disappear.
+You will sow and certainly not reap; you will press olives and certainly not anoint with oil, and wine and certainly not drink. The statutes of my people will disappear.
 
 **Micah 6:16**
 
-And you kept ordinances of Zimri and all works of the house of Ahab and walked in their counsels, so that I may give you to destruction and those inhabiting it to hissing, and you will receive reproaches of peoples.
+And you kept the ordinances of Zambri and all the works of the house of Ahab and walked in their counsels, so that I may give you to destruction and the ones inhabiting it to hissing, and you will receive reproaches of peoples.
 
 ### Chapter 7
 
