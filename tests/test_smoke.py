@@ -3945,7 +3945,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "And the altars of laughter will be destroyed"
     )
     assert by_ref["Zephaniah 2:7"]["draft_translation"].startswith(
-        "And the tract of sea will belong"
+        "And the measuring-line of the sea will belong"
     )
     assert by_ref["Zechariah 9:12"]["draft_translation"].startswith(
         "You prisoners of the congregation will sit"
