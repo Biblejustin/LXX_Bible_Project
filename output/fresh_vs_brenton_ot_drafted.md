@@ -196286,19 +196286,19 @@ Note:
 ### Daniel 11:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in the first year of Cyrus the king he told me to be strengthened and be manly.
+- fresh: And in the first year of Cyrus the king he told me to be strengthened and to act like a man.
 - brenton: [missing]
 
 ### Daniel 11:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And now I came to show you the truth. Behold, three kings have arisen in Persia, and the fourth will gain great wealth beyond all, and when he becomes strong in his wealth he will stir up all against the kingdom of Greeks.
+- fresh: And now I came to show you the truth. Behold, three kings have arisen in Persia, and the fourth will become rich with great wealth beyond all, and when he becomes strong in his wealth he will rise up against every king of Greeks.
 - brenton: [missing]
 
 ### Daniel 11:3
@@ -196313,34 +196313,34 @@ Note:
 ### Daniel 11:4
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And when he arises, his kingdom will be shattered and divided to four winds of heaven, not according to his strength, nor according to his dominion that he ruled, because his kingdom will be removed and teach these things to others.
+- fresh: And when he arises, his kingdom will be shattered and divided to the four winds of heaven, not according to his strength, nor according to his dominion with which he ruled, because his kingdom will be removed, and he will teach these things to others.
 - brenton: [missing]
 
 ### Daniel 11:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And kingdom of Egypt will grow strong, and one of the rulers will overpower him and exercise a great dominion, his dominion.
+- fresh: And the kingdom of Egypt will grow strong, and one of the rulers will overpower him and exercise dominion, and his own dominion will be great.
 - brenton: [missing]
 
 ### Daniel 11:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And at the end of years king of Egypt will bring them in and enter into the kingdom of north to make treaties, and he will not prevail, because his arm will not keep strength, and his arm will grow numb, and those going with him; and he remains for an hour.
+- fresh: And at the end of years the king of Egypt will lead them and enter into the kingdom of the north to make treaties, and he will not prevail, because his arm will not maintain strength, and his arm, along with the arm of those traveling with him, will grow numb; and he will remain for an hour.
 - brenton: [missing]
 
 ### Daniel 11:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And a shoot from his root will arise on his own, and the king of the north will come against his power with his own strength and make tumult and prevail.
@@ -196349,7 +196349,7 @@ Note:
 ### Daniel 11:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And he will destroy their gods along with their molten images and their crowds, together with vessels of their desire, silver and gold; they will carry them away into captivity to Egypt, and there will be a year for the king of the north.
@@ -196358,7 +196358,7 @@ Note:
 ### Daniel 11:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And he will enter into the kingdom of Egypt for days and return to his own land.
@@ -196367,16 +196367,16 @@ Note:
 ### Daniel 11:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And his son will be stirred up and gather assembly of great crowd and come sweeping through it, and he will return and be greatly provoked.
+- fresh: And his son will be stirred up and gather an assembly of a great crowd and come sweeping through it; he will pass through and return and be greatly provoked.
 - brenton: [missing]
 
 ### Daniel 11:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And the king of Egypt will be angered and fight with the king of the north, and the assembly will be delivered into his hands.
@@ -196394,55 +196394,55 @@ Note:
 ### Daniel 11:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king of the north will return and gather assembly of cities greater than the first, and at the completion of time of a year he will come against it with great crowd and much wealth.
+- fresh: And the king of the north will return and gather a city assembly greater than the first, and at the completion of a year's time he will come against it with a great crowd and much wealth.
 - brenton: [missing]
 
 ### Daniel 11:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And in those times thoughts will rise against the king of Egypt, and he will rebuild fallen things of your nation and rise to establish the prophecy, and they will stumble.
+- fresh: And in those times plans will rise against the king of Egypt, and he will rebuild the fallen things of your nation and rise to establish the prophecy, and they will stumble.
 - brenton: [missing]
 
 ### Daniel 11:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king of the north will come and turn his spears and take the fortified city, and arms of the king of Egypt will stand with his rulers, and he will have no strength to withstand him.
+- fresh: And the king of the north will come and turn his spears and take the fortified city, and the arms of the king of Egypt will stand with his rulers, and he will have no strength to withstand him.
 - brenton: [missing]
 
 ### Daniel 11:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And one coming against him will do according to his will, and there will be none standing against him, and he will stand in the land, and all things will be completed in his hands.
+- fresh: And the one coming against him will do according to his will, and there will be none standing against him, and he will stand in the land, and all things will be completed in his hands.
 - brenton: [missing]
 
 ### Daniel 11:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will set his face to come in force with all his work, and he will make treaties with him and give him daughter of man to destroy her, and she will not obey and will not be.
+- fresh: And he will set his face to come by force with all his work, and he will make treaties with him and give him a daughter of man to destroy her, and she will not obey and will not be.
 - brenton: [missing]
 
 ### Daniel 11:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will set his face toward the sea and take many, and he will turn back their reproachful wrath in an oath according to his reproach.
+- fresh: And he will set his face toward the sea and take many, and he will turn back the wrath of their reproach with an oath according to his reproach.
 - brenton: [missing]
 
 ### Daniel 11:19
@@ -196457,19 +196457,19 @@ Note:
 ### Daniel 11:20
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And from his root a shoot of kingdom will arise, a man striking glory of the king, and in the last days he will be shattered, but not in anger nor in war.
+- fresh: And from his root a shoot of kingdom will arise for a rising, a man striking the glory of the king, and in the last days he will be shattered, but not in anger nor in war.
 - brenton: [missing]
 
 ### Daniel 11:21
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And on his place a contemptible one will arise, and glory of kingdom will not be given to him, and he will come suddenly and seize kingship in his inheritance.
+- fresh: And in his place a contemptible one will arise, and royal glory will not be given to him, and he will come suddenly and prevail as king in his inheritance.
 - brenton: [missing]
 
 ### Daniel 11:22
@@ -196484,34 +196484,34 @@ Note:
 ### Daniel 11:23
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And after covenant and people are joined with him, he will act falsely, and against a strong nation with a small nation.
+- fresh: And after the covenant and the people have been joined with him, he will act falsely and go against a strong nation with a small nation.
 - brenton: [missing]
 
 ### Daniel 11:24
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Suddenly he will desolate a city and do what neither his fathers nor fathers of his fathers did. He will give them spoil and plunder and wealth, and against the strong city he will devise, and his schemes are for nothing.
+- fresh: Suddenly he will desolate a city and do what neither his fathers nor the fathers of his fathers did. He will give them spoil and plunder and wealth, and he will devise against the strong city, and his schemes are for nothing.
 - brenton: [missing]
 
 ### Daniel 11:25
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And his strength and his heart will be stirred against the king of Egypt with great crowd, and the king of Egypt will be stirred to war with very strong crowd, and he will not stand, because a scheme will be devised against him.
+- fresh: And his strength and his heart will be stirred against the king of Egypt with a great crowd, and the king of Egypt will be stirred to war with a very strong crowd, and he will not stand, because a scheme will be devised against him.
 - brenton: [missing]
 
 ### Daniel 11:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And his anxieties will consume him and turn him away, and he will pass through and sweep away, and many wounded will fall.
@@ -196520,7 +196520,7 @@ Note:
 ### Daniel 11:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And two kings alone will dine together and eat at one table and lie, and they will not prosper, for completion is still for a time.
@@ -196529,16 +196529,16 @@ Note:
 ### Daniel 11:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will return to his land with much wealth, and his heart will be against holy covenant, and he will act and return to his land.
+- fresh: And he will return to his land with much wealth, and his heart will be against the holy covenant, and he will act and return to his land.
 - brenton: [missing]
 
 ### Daniel 11:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: At the appointed time he will enter into Egypt, and it will not be as the first and the last.
@@ -196547,43 +196547,43 @@ Note:
 ### Daniel 11:30
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And Romans will come and drive him away and thunder against him, and he will return and be angered against holy covenant and act. He will return and think against those because they abandoned holy covenant.
+- fresh: And Romans will come and drive him away and be indignant against him, and he will return and be angered against the holy covenant and act. He will return and think against those because they abandoned the holy covenant.
 - brenton: [missing]
 
 ### Daniel 11:31
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And arms from him will arise and defile sanctuary of fear and remove the sacrifice and set abomination of desolation.
+- fresh: And arms from him will arise and defile the sanctuary of fear and remove the sacrifice and set an abomination of desolation.
 - brenton: [missing]
 
 ### Daniel 11:32
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And with sins of covenant they will defile among hard people, and people knowing these things will prevail and act.
+- fresh: And with sins of the covenant they will defile among a hard people, and the people knowing these things will prevail and act.
 - brenton: [missing]
 
 ### Daniel 11:33
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And those understanding of the nation will instruct many, and they will stumble by sword and grow worn by it, and in captivity and in plunder of days they will be stained.
+- fresh: And those of the nation who understand will instruct many, and they will stumble by sword and grow worn by it, and in captivity and in plunder for days they will be stained.
 - brenton: [missing]
 
 ### Daniel 11:34
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And when they are being shattered they will gather a little strength, and many will be gathered to them by a city, and many as by inheritance.
@@ -196592,7 +196592,7 @@ Note:
 ### Daniel 11:35
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And from those understanding they will ponder to purify themselves and to be chosen and to be cleansed until the time of completion, for time is still for an hour.
@@ -196601,52 +196601,52 @@ Note:
 ### Daniel 11:36
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king will do according to his will, and he will be provoked and exalt himself over every god, and against the God of gods he will speak strange things and prosper until wrath is completed, because completion is being made for him.
+- fresh: And the king will do according to his will, and he will be provoked and exalt himself over every god, and against the God of gods he will speak strange things and prosper until the wrath is completed, because completion is being made for him.
 - brenton: [missing]
 
 ### Daniel 11:37
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And for gods of his fathers he will show no concern, and for desire of a woman he will show no concern, because he will be exalted in everything, and strong nations will be subjected to him.
+- fresh: And for the gods of his fathers he will show no concern, and for the desire of a woman he will show no concern, because he will be exalted in everything, and strong nations will be subjected to him.
 - brenton: [missing]
 
 ### Daniel 11:38
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In his place he will set in motion and honor a god whom his fathers did not know with gold and silver and precious stone and choice things.
+- fresh: In his place he will set in motion and honor a god whom his fathers did not know with gold and silver and a precious stone and choice things.
 - brenton: [missing]
 
 ### Daniel 11:39
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: He will make cities and come into a strong fortress with a foreign god, whom if he recognizes he will increase in glory and rule over much and divide land for a gift.
+- fresh: He will make cities and come into a strong fortress with a foreign god; if he recognizes him, he will increase in glory and rule over much and divide land as a gift.
 - brenton: [missing]
 
 ### Daniel 11:40
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And at the time of completion king of Egypt will be butting against him, and the king of the north will be enraged against him with chariots and many horses and many ships and enter into the land of Egypt.
+- fresh: And at the time of completion the king of Egypt will butt against him, and the king of the north will be enraged against him with chariots and many horses and many ships, and he will enter into the land of Egypt.
 - brenton: [missing]
 
 ### Daniel 11:41
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And he will come against my land.
@@ -196655,7 +196655,7 @@ Note:
 ### Daniel 11:42
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And in the land of Egypt there will be no one escaping in it.
@@ -196664,28 +196664,28 @@ Note:
 ### Daniel 11:43
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will seize place of gold and place of silver and every desirable thing of Egypt, and Libyans and Ethiopians will be in his crowd.
+- fresh: And he will seize the place of gold and the place of silver and every desirable thing of Egypt, and Libyans and Ethiopians will be in his crowd.
 - brenton: [missing]
 
 ### Daniel 11:44
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And report from east and north will trouble him, and he will go out in strong wrath and sword to destroy and kill many.
+- fresh: And a report from the east and north will trouble him, and he will go out in strong wrath and with a sword to destroy and kill many.
 - brenton: [missing]
 
 ### Daniel 11:45
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And then he will set his tent between the seas and mountain of desire of the holy place, and hour of his completion will come, and there will be no one helping him.
+- fresh: And then he will set his tent between the seas and the mountain of desire of the holy place, and the hour of his completion will come, and there will be no one helping him.
 - brenton: [missing]
 
 ### Daniel 12:1
