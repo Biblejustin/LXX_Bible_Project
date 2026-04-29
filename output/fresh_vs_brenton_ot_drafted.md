@@ -200994,91 +200994,91 @@ Note:
 ### Jonah 3:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The word of the Lord came to Jonah second time, saying,
+- fresh: The word of the Lord came to Jonah a second time, saying,
 - brenton: And the word of the Lord came to Jonas the second time, saying,
 
 ### Jonah 3:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Rise, go to Nineveh, the great city, and proclaim in it according to the former proclamation that I spoke to you.
+- fresh: Rise up, go to Nineveh, the great city, and proclaim in it according to the former proclamation that I spoke to you.
 - brenton: Rise, go to Nineve, the great city, and preach in it according to the former preaching which I spoke to thee of.
 
 ### Jonah 3:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Jonah rose and went to Nineveh, just as the Lord spoke. Nineveh was a great city to God, like journey of three days.
+- fresh: Jonah rose up and went to Nineveh, just as the Lord spoke. Nineveh was a great city to God, like a journey of a way of three days.
 - brenton: And Jonas arose, and went to Nineve, as the Lord had spoken. Now Nineve was an exceeding great city, of about three days' journey.
 
 ### Jonah 3:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Jonah began to enter city, about journey of one day, and proclaimed and said, Yet three days and Nineveh will be overthrown.
+- fresh: Jonah began to enter the city, about a journey of one day, and proclaimed and said, Yet three days and Nineveh will be overthrown.
 - brenton: And Jonas began to enter into the city about a day's journey, and he proclaimed, and said, Yet three days, and Nineve shall be overthrown.
 
 ### Jonah 3:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Men of Nineveh believed God, proclaimed a fast, and put on sackcloth from greatest to least.
+- fresh: Men of Nineveh believed God, proclaimed a fast, and put on sackcloths from their great one to their small one.
 - brenton: And the men of Nineve believed God, and proclaimed a fast, and put on sackcloths, from the greatest of them to the least of them.
 
 ### Jonah 3:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Word reached king of Nineveh, and he rose from his throne, removed his robe from himself, clothed himself in sackcloth, and sat on ashes.
+- fresh: The word reached the king of Nineveh, and he rose from his throne, removed his robe from himself, clothed himself in sackcloth, and sat on ashes.
 - brenton: And the word reached the king of Nineve, and he arose from off his throne, and took off his raiment from him, and put on sackcloth, and sat on ashes.
 
 ### Jonah 3:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: It was proclaimed and said in Nineveh by king and his nobles: Let neither people nor cattle nor oxen nor sheep taste anything; let them not graze and let them not drink water.
+- fresh: It was proclaimed and said in Nineveh by the king and his nobles: Let neither people nor cattle nor oxen nor sheep taste anything; let them not graze and let them not drink water.
 - brenton: And proclamation was made, and it was commanded in Nineve by the king and by his great men, saying, Let not men, or cattle, or oxen, or sheep, taste any thing, nor feed, nor drink water.
 
 ### Jonah 3:8
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: The people and cattle clothed themselves with sackcloth and cried intensely to God, and each turned from his evil way and from injustice in his hands, saying,
+- fresh: The people and the cattle clothed themselves with sackcloths and cried intensely to God, and each turned from his evil way and from the injustice that is in his hands, saying,
 - brenton: So men and cattle were clothed with sackcloths, and cried earnestly to God; and they turned every one from their evil way, and from the iniquity that was in their hands, saying,
 
 ### Jonah 3:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who knows if God will repent and turn from fury of his anger, and we will certainly not perish?
+- fresh: Who knows if God will repent and turn from anger of his wrath, and we will certainly not perish?
 - brenton: Who knows if God will repent, and turn from his fierce anger, and so we shall not perish?
 
 ### Jonah 3:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: God saw their works, that they turned from their evil ways, and God repented of evil he had spoken to do to them, and he did not do it.
+- fresh: God saw their works, that they turned from their evil ways, and God repented over the evil that he had spoken to do to them, and he did not do it.
 - brenton: And God saw their works, that they turned from their evil ways; and God repented of the evil which he had said he would do to them; and he did it not.
 
 ### Jonah 4:1

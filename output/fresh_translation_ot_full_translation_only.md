@@ -91146,43 +91146,43 @@ It was commanded to the sea-creature, and it threw Jonah out on the dry land.
 
 **Jonah 3:1**
 
-The word of the Lord came to Jonah second time, saying,
+The word of the Lord came to Jonah a second time, saying,
 
 **Jonah 3:2**
 
-Rise, go to Nineveh, the great city, and proclaim in it according to the former proclamation that I spoke to you.
+Rise up, go to Nineveh, the great city, and proclaim in it according to the former proclamation that I spoke to you.
 
 **Jonah 3:3**
 
-Jonah rose and went to Nineveh, just as the Lord spoke. Nineveh was a great city to God, like journey of three days.
+Jonah rose up and went to Nineveh, just as the Lord spoke. Nineveh was a great city to God, like a journey of a way of three days.
 
 **Jonah 3:4**
 
-Jonah began to enter city, about journey of one day, and proclaimed and said, Yet three days and Nineveh will be overthrown.
+Jonah began to enter the city, about a journey of one day, and proclaimed and said, Yet three days and Nineveh will be overthrown.
 
 **Jonah 3:5**
 
-Men of Nineveh believed God, proclaimed a fast, and put on sackcloth from greatest to least.
+Men of Nineveh believed God, proclaimed a fast, and put on sackcloths from their great one to their small one.
 
 **Jonah 3:6**
 
-Word reached king of Nineveh, and he rose from his throne, removed his robe from himself, clothed himself in sackcloth, and sat on ashes.
+The word reached the king of Nineveh, and he rose from his throne, removed his robe from himself, clothed himself in sackcloth, and sat on ashes.
 
 **Jonah 3:7**
 
-It was proclaimed and said in Nineveh by king and his nobles: Let neither people nor cattle nor oxen nor sheep taste anything; let them not graze and let them not drink water.
+It was proclaimed and said in Nineveh by the king and his nobles: Let neither people nor cattle nor oxen nor sheep taste anything; let them not graze and let them not drink water.
 
 **Jonah 3:8**
 
-The people and cattle clothed themselves with sackcloth and cried intensely to God, and each turned from his evil way and from injustice in his hands, saying,
+The people and the cattle clothed themselves with sackcloths and cried intensely to God, and each turned from his evil way and from the injustice that is in his hands, saying,
 
 **Jonah 3:9**
 
-Who knows if God will repent and turn from fury of his anger, and we will certainly not perish?
+Who knows if God will repent and turn from anger of his wrath, and we will certainly not perish?
 
 **Jonah 3:10**
 
-God saw their works, that they turned from their evil ways, and God repented of evil he had spoken to do to them, and he did not do it.
+God saw their works, that they turned from their evil ways, and God repented over the evil that he had spoken to do to them, and he did not do it.
 
 ### Chapter 4
 
