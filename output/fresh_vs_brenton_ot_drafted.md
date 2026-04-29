@@ -194369,19 +194369,19 @@ Note:
 ### Daniel 3:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In eighteenth year, Nebuchadnezzar the king, governing cities and lands and all those dwelling on the earth from India to Ethiopia, made a golden image, its height sixty cubits and its breadth six cubits, and set it in the plain of the enclosure of land of Babylon.
+- fresh: In the eighteenth year, Nebuchadnezzar the king, governing cities and lands and all those dwelling on the earth from India to Ethiopia, made a golden image, its height sixty cubits and its breadth six cubits, and set it in the plain of the enclosure in the land of Babylon.
 - brenton: [missing]
 
 ### Daniel 3:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And Nebuchadnezzar, king of kings and ruler of all inhabited world, sent to gather all nations and tribes and languages, satraps, generals, governors, consuls, administrators, those in authority over each land, and all throughout the inhabited world, to come to dedication of the golden image that Nebuchadnezzar the king had set up.
+- fresh: And Nebuchadnezzar, king of kings and ruler of the whole inhabited world, sent to gather all nations and tribes and languages, satraps, generals, governors, consuls, administrators, those in authority in each land, and all throughout the inhabited world, to come to the dedication of the golden image that Nebuchadnezzar the king had set up.
 - brenton: [missing]
 
 ### Daniel 3:3
@@ -194405,10 +194405,10 @@ Note:
 ### Daniel 3:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: when you hear the sound of a trumpet, pipe, lyre, sambuca, psaltery, symphony, and every kind of instrument, falling down, worship the golden image that King Nebuchadnezzar set up.
+- fresh: when you hear the sound of a trumpet, pipe, lyre, sambuca, psaltery, symphony, and every kind of musical instrument, fall down and worship the golden image that King Nebuchadnezzar set up.
 - brenton: [missing]
 
 ### Daniel 3:6
@@ -194423,10 +194423,10 @@ Note:
 ### Daniel 3:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And at that time, when all the nations heard the sound of a trumpet and every sound of instruments, all nations, tribes, and languages fell down and worshiped the golden image that Nebuchadnezzar had set up opposite them.
+- fresh: And at that time, when all the nations heard the sound of a trumpet and every sound of musical instruments, all nations, tribes, and languages fell down before it and worshiped the golden image that Nebuchadnezzar had set up.
 - brenton: [missing]
 
 ### Daniel 3:8
@@ -194441,19 +194441,19 @@ Note:
 ### Daniel 3:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And taking up speech they said, O king, live forever.
+- fresh: And taking up speech they said, O lord king, live forever.
 - brenton: [missing]
 
 ### Daniel 3:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You, king, commanded and decreed that every person who hears the sound of a trumpet and every sound of instruments should fall down and worship the golden image,
+- fresh: You, king, commanded and decreed that every person who hears the sound of a trumpet and every sound of musical instruments should fall down and worship the golden image,
 - brenton: [missing]
 
 ### Daniel 3:11
@@ -194495,28 +194495,28 @@ Note:
 ### Daniel 3:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now, if you are ready, when you hear the trumpet and every sound of instruments, to fall down and worship the golden image that I set up; but if not, know that if you do not worship, immediately you will be thrown into the burning furnace of fire, and what god will deliver you from my hands?
+- fresh: And now, if you are ready, when you hear the trumpet and every sound of musical instruments, to fall down and worship the golden image that I set up; but if not, know that if you do not worship, immediately you will be thrown into the burning furnace of fire, and what god will deliver you from my hands?
 - brenton: [missing]
 
 ### Daniel 3:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Shadrach, Meshach, and Abednego answered and said to King Nebuchadnezzar, King, we have no need to answer you about this command.
+- fresh: And Shadrach, Meshach, and Abednego answered and said to King Nebuchadnezzar, O king, we have no need to answer you about this command.
 - brenton: [missing]
 
 ### Daniel 3:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For there is God in heavens, our one Lord whom we fear, and he is able to deliver us from furnace of fire and from your hands, king; he will deliver us.
+- fresh: For there is God in the heavens, our one Lord whom we fear, and he is able to deliver us from the furnace of fire and from your hands, king; he will deliver us.
 - brenton: [missing]
 
 ### Daniel 3:18
@@ -194531,19 +194531,19 @@ Note:
 ### Daniel 3:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then Nebuchadnezzar was filled with fury, and expression of his face changed, and he ordered furnace to be heated seven times more than it needed to be heated.
+- fresh: Then Nebuchadnezzar was filled with fury, and the expression of his face changed, and he ordered the furnace to be heated seven times more than it needed to be heated.
 - brenton: [missing]
 
 ### Daniel 3:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he ordered strongest men among his forces to bind Shadrach, Meshach, and Abednego and throw them into the burning furnace of fire.
+- fresh: And he ordered the strongest men among his forces to bind Shadrach, Meshach, and Abednego and throw them into the burning furnace of fire.
 - brenton: [missing]
 
 ### Daniel 3:21
@@ -194558,55 +194558,55 @@ Note:
 ### Daniel 3:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because command of the king was urgent and furnace was heated seven times beyond before, the men selected, after binding them and bringing them to the furnace, threw them into it.
+- fresh: Because the command of the king was urgent and the furnace was heated seven times beyond what it had been before, the men selected, after binding them and bringing them to the furnace, threw them into it.
 - brenton: [missing]
 
 ### Daniel 3:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: So the men who bound those around Azariah—the flame coming out from furnace burned and killed them, but these were preserved.
+- fresh: So the men who bound those around Azariah—the flame coming out from the furnace burned and killed them, but these were preserved.
 - brenton: [missing]
 
 ### Daniel 3:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened when the king heard them singing hymns and standing, he was watching them alive. Then King Nebuchadnezzar marveled and rose quickly and said to his friends,
+- fresh: And it happened when the king heard them singing hymns and saw them standing alive that King Nebuchadnezzar marveled and rose quickly and said to his friends,
 - brenton: [missing]
 
 ### Daniel 3:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I see four men loosed, walking in the fire, and no harm happened to them, and appearance of the fourth is like the likeness of an angel of God.
+- fresh: Behold, I see four men loosed, walking in the fire, and no harm happened to them, and the appearance of the fourth is like the likeness of an angel of God.
 - brenton: [missing]
 
 ### Daniel 3:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king came near to the door of the furnace burning with fire and called them by name, Shadrach, Meshach, and Abednego, servants of the God of gods, the Most High, come out from the fire. So the men came out from the midst of the fire.
+- fresh: And the king came near to the door of the furnace that was burning with fire and called them by name, Shadrach, Meshach, and Abednego, servants of the God of gods, the Most High, come out from the fire. So the men came out from the midst of the fire.
 - brenton: [missing]
 
 ### Daniel 3:27
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the consuls and governors and leading men and friends of the king gathered and looked at those men, because fire had not touched their bodies, and their hair was not burned, and their garments were not changed, and smell of fire was not on them.
+- fresh: And the consuls and governors and leading men and friends of the king gathered and looked at those men, because fire had not touched their bodies, and their hair was not burned, and their garments were not changed, and the smell of fire was not on them.
 - brenton: [missing]
 
 ### Daniel 3:28
@@ -194630,10 +194630,10 @@ Note:
 ### Daniel 3:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: So the king, giving authority to Shadrach, Meshach, and Abednego over all the land, appointed them rulers.
+- fresh: So then the king gave authority to Shadrach, Meshach, and Abednego over all the land and appointed them rulers.
 - brenton: [missing]
 
 ### Daniel 4:4

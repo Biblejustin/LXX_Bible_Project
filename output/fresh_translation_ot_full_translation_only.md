@@ -88116,11 +88116,11 @@ And Daniel asked the king that Shadrach, Meshach, and Abednego be appointed over
 
 **Daniel 3:1**
 
-In eighteenth year, Nebuchadnezzar the king, governing cities and lands and all those dwelling on the earth from India to Ethiopia, made a golden image, its height sixty cubits and its breadth six cubits, and set it in the plain of the enclosure of land of Babylon.
+In the eighteenth year, Nebuchadnezzar the king, governing cities and lands and all those dwelling on the earth from India to Ethiopia, made a golden image, its height sixty cubits and its breadth six cubits, and set it in the plain of the enclosure in the land of Babylon.
 
 **Daniel 3:2**
 
-And Nebuchadnezzar, king of kings and ruler of all inhabited world, sent to gather all nations and tribes and languages, satraps, generals, governors, consuls, administrators, those in authority over each land, and all throughout the inhabited world, to come to dedication of the golden image that Nebuchadnezzar the king had set up.
+And Nebuchadnezzar, king of kings and ruler of the whole inhabited world, sent to gather all nations and tribes and languages, satraps, generals, governors, consuls, administrators, those in authority in each land, and all throughout the inhabited world, to come to the dedication of the golden image that Nebuchadnezzar the king had set up.
 
 **Daniel 3:3**
 
@@ -88132,7 +88132,7 @@ And the herald proclaimed to the crowds, To you it is commanded, nations and lan
 
 **Daniel 3:5**
 
-when you hear the sound of a trumpet, pipe, lyre, sambuca, psaltery, symphony, and every kind of instrument, falling down, worship the golden image that King Nebuchadnezzar set up.
+when you hear the sound of a trumpet, pipe, lyre, sambuca, psaltery, symphony, and every kind of musical instrument, fall down and worship the golden image that King Nebuchadnezzar set up.
 
 **Daniel 3:6**
 
@@ -88140,7 +88140,7 @@ And whoever does not fall down and worship, they will throw him into the burning
 
 **Daniel 3:7**
 
-And at that time, when all the nations heard the sound of a trumpet and every sound of instruments, all nations, tribes, and languages fell down and worshiped the golden image that Nebuchadnezzar had set up opposite them.
+And at that time, when all the nations heard the sound of a trumpet and every sound of musical instruments, all nations, tribes, and languages fell down before it and worshiped the golden image that Nebuchadnezzar had set up.
 
 **Daniel 3:8**
 
@@ -88148,11 +88148,11 @@ At that time certain Chaldean men came forward and accused the Judeans.
 
 **Daniel 3:9**
 
-And taking up speech they said, O king, live forever.
+And taking up speech they said, O lord king, live forever.
 
 **Daniel 3:10**
 
-You, king, commanded and decreed that every person who hears the sound of a trumpet and every sound of instruments should fall down and worship the golden image,
+You, king, commanded and decreed that every person who hears the sound of a trumpet and every sound of musical instruments should fall down and worship the golden image,
 
 **Daniel 3:11**
 
@@ -88172,15 +88172,15 @@ And when King Nebuchadnezzar saw them he said to them, Why, Shadrach, Meshach, a
 
 **Daniel 3:15**
 
-And now, if you are ready, when you hear the trumpet and every sound of instruments, to fall down and worship the golden image that I set up; but if not, know that if you do not worship, immediately you will be thrown into the burning furnace of fire, and what god will deliver you from my hands?
+And now, if you are ready, when you hear the trumpet and every sound of musical instruments, to fall down and worship the golden image that I set up; but if not, know that if you do not worship, immediately you will be thrown into the burning furnace of fire, and what god will deliver you from my hands?
 
 **Daniel 3:16**
 
-And Shadrach, Meshach, and Abednego answered and said to King Nebuchadnezzar, King, we have no need to answer you about this command.
+And Shadrach, Meshach, and Abednego answered and said to King Nebuchadnezzar, O king, we have no need to answer you about this command.
 
 **Daniel 3:17**
 
-For there is God in heavens, our one Lord whom we fear, and he is able to deliver us from furnace of fire and from your hands, king; he will deliver us.
+For there is God in the heavens, our one Lord whom we fear, and he is able to deliver us from the furnace of fire and from your hands, king; he will deliver us.
 
 **Daniel 3:18**
 
@@ -88188,11 +88188,11 @@ And then it will be plain to you that we do not serve your idol and do not worsh
 
 **Daniel 3:19**
 
-Then Nebuchadnezzar was filled with fury, and expression of his face changed, and he ordered furnace to be heated seven times more than it needed to be heated.
+Then Nebuchadnezzar was filled with fury, and the expression of his face changed, and he ordered the furnace to be heated seven times more than it needed to be heated.
 
 **Daniel 3:20**
 
-And he ordered strongest men among his forces to bind Shadrach, Meshach, and Abednego and throw them into the burning furnace of fire.
+And he ordered the strongest men among his forces to bind Shadrach, Meshach, and Abednego and throw them into the burning furnace of fire.
 
 **Daniel 3:21**
 
@@ -88200,27 +88200,27 @@ Then those men were bound with their shoes and their tiaras on their heads, toge
 
 **Daniel 3:22**
 
-Because command of the king was urgent and furnace was heated seven times beyond before, the men selected, after binding them and bringing them to the furnace, threw them into it.
+Because the command of the king was urgent and the furnace was heated seven times beyond what it had been before, the men selected, after binding them and bringing them to the furnace, threw them into it.
 
 **Daniel 3:23**
 
-So the men who bound those around Azariah—the flame coming out from furnace burned and killed them, but these were preserved.
+So the men who bound those around Azariah—the flame coming out from the furnace burned and killed them, but these were preserved.
 
 **Daniel 3:24**
 
-And it happened when the king heard them singing hymns and standing, he was watching them alive. Then King Nebuchadnezzar marveled and rose quickly and said to his friends,
+And it happened when the king heard them singing hymns and saw them standing alive that King Nebuchadnezzar marveled and rose quickly and said to his friends,
 
 **Daniel 3:25**
 
-Behold, I see four men loosed, walking in the fire, and no harm happened to them, and appearance of the fourth is like the likeness of an angel of God.
+Behold, I see four men loosed, walking in the fire, and no harm happened to them, and the appearance of the fourth is like the likeness of an angel of God.
 
 **Daniel 3:26**
 
-And the king came near to the door of the furnace burning with fire and called them by name, Shadrach, Meshach, and Abednego, servants of the God of gods, the Most High, come out from the fire. So the men came out from the midst of the fire.
+And the king came near to the door of the furnace that was burning with fire and called them by name, Shadrach, Meshach, and Abednego, servants of the God of gods, the Most High, come out from the fire. So the men came out from the midst of the fire.
 
 **Daniel 3:27**
 
-And the consuls and governors and leading men and friends of the king gathered and looked at those men, because fire had not touched their bodies, and their hair was not burned, and their garments were not changed, and smell of fire was not on them.
+And the consuls and governors and leading men and friends of the king gathered and looked at those men, because fire had not touched their bodies, and their hair was not burned, and their garments were not changed, and the smell of fire was not on them.
 
 **Daniel 3:28**
 
@@ -88232,7 +88232,7 @@ And now I decree that every nation and every tribe and every language that blasp
 
 **Daniel 3:30**
 
-So the king, giving authority to Shadrach, Meshach, and Abednego over all the land, appointed them rulers.
+So then the king gave authority to Shadrach, Meshach, and Abednego over all the land and appointed them rulers.
 
 ### Chapter 4
 
