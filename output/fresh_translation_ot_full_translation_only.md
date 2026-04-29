@@ -87836,31 +87836,31 @@ In the third year of Jehoiakim of Judah, Nebuchadnezzar king of Babylon came to 
 
 **Daniel 1:2**
 
-And the Lord gave it into his hands, and Jehoiakim king of Judah, and some of holy vessels of the Lord, and he carried them to Babylon and placed them in his idol-house.
+And the Lord gave it into his hands: Jehoiakim king of Judah, and some of the holy vessels of the Lord; and he carried them to Babylon and placed them in his idol-house.
 
 **Daniel 1:3**
 
-And the king said to Ashpenaz, his chief eunuch, to bring him some of sons of leading men of Israel and from royal line and from chosen ones,
+And the king said to Ashpenaz, his own chief eunuch, to bring him some from the sons of the leading men of Israel and from the royal line and from the chosen ones,
 
 **Daniel 1:4**
 
-young men without blemish and good in appearance and skilled in all wisdom and learned and intelligent and wise and strong enough to be in the house of the king, and to teach them letters and Chaldean language.
+young men without blemish and good in appearance, skilled in all wisdom and learned in letters and intelligent and wise, and strong enough to be in the house of the king, and to teach them letters and the Chaldean dialect.
 
 **Daniel 1:5**
 
-And to give them an assigned portion from the house of the king each day, and from royal table, and from wine that the king drinks, and to train them three years, and after this to set them before the king.
+And to give them an assigned portion from the house of the king each day, and from the royal table, and from the wine that the king drinks, and to train them three years, and after these things to set them before the king.
 
 **Daniel 1:6**
 
-And among them from the line of the sons of Israel, from Judah, were Daniel, Hananiah, Mishael, and Azariah.
+And among them from the line of the sons of Israel, those from Judah, were Daniel, Hananiah, Mishael, and Azariah.
 
 **Daniel 1:7**
 
-And chief eunuch put names on them: to Daniel, Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego.
+And the chief eunuch assigned names to them: to Daniel, Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego.
 
 **Daniel 1:8**
 
-And Daniel resolved in his heart not to be defiled by king's dinner and by wine that he drank, and he asked the chief eunuch that he might not be defiled.
+And Daniel resolved in his heart not to be defiled by the king's dinner and by the wine that he drank, and he asked the chief eunuch that he might not be defiled.
 
 **Daniel 1:9**
 
@@ -87868,15 +87868,15 @@ And the Lord gave Daniel honor and favor before the chief eunuch.
 
 **Daniel 1:10**
 
-And chief eunuch said to Daniel, I fear my lord the king, the one who assigned your food and your drink, lest he see your faces more wasted and weak than the foreign youths fed with you, and I put my own neck in danger.
+And the chief eunuch said to Daniel, I fear my lord the king, the one who assigned your food and your drink, lest he see your faces more wasted and weak than the foreign youths fed with you, and I put my own neck in danger.
 
 **Daniel 1:11**
 
-And Daniel said to Melzar, the one appointed by the chief eunuch over Daniel, Hananiah, Mishael, and Azariah,
+And Daniel said to Melzar, the appointed chief eunuch over Daniel, Hananiah, Mishael, and Azariah,
 
 **Daniel 1:12**
 
-Test your servants for ten days, and let it be given us from legumes of the earth to eat and water to drink.
+Test your servants for ten days, and let it be given us from the legumes of the earth to eat and water to drink.
 
 **Daniel 1:13**
 
@@ -87884,23 +87884,23 @@ And if our appearance proves more worn than the other youths eating from the roy
 
 **Daniel 1:14**
 
-And he dealt with them in this way and tested them ten days.
+And he dealt with them in this way and tested them for ten days.
 
 **Daniel 1:15**
 
-And after the ten days their appearance seemed better and their bodily condition stronger than all the other youths eating the royal dinner.
+And after the ten days their appearance seemed good and their bodily condition stronger than all the other youths eating the royal dinner.
 
 **Daniel 1:16**
 
-And Melzar kept taking away their dinner and their wine and kept giving them legumes.
+And Melzar kept taking away their dinner and their wine and kept giving them the legumes.
 
 **Daniel 1:17**
 
-And to these young men the Lord gave learning and understanding and prudence in every literary skill, and to Daniel he gave understanding in every word and vision and dream and in all wisdom.
+And to these young men the Lord gave learning and understanding and prudence in every literary art, and to Daniel he gave understanding in every word and vision and dreams and in all wisdom.
 
 **Daniel 1:18**
 
-And after these days the king commanded them to be brought in, and they were brought by chief eunuch to King Nebuchadnezzar.
+And after these days the king commanded them to be brought in, and they were brought by the chief eunuch to King Nebuchadnezzar.
 
 **Daniel 1:19**
 
@@ -87908,7 +87908,7 @@ And the king spoke with them, and among the wise none was found like Daniel and 
 
 **Daniel 1:20**
 
-And in every matter of speech and understanding and training that the king asked from them, he found them ten times wiser than the sophists and philosophers in all his kingdom, and the king honored them and appointed them rulers and set them above all his own in affairs throughout all his land and kingdom.
+And in every matter of speech and understanding and education that the king asked from them, he found them ten times wiser than the sophists and the philosophers in all his kingdom, and the king honored them and appointed them rulers and declared them wise beyond all his own in affairs throughout all his land and kingdom.
 
 **Daniel 1:21**
 

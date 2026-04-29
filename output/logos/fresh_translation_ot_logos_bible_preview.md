@@ -451,12 +451,12 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 3
 
-**Daniel 1:2** And the Lord gave it into his hands, and Jehoiakim king of Judah, and some of holy vessels of the Lord, and he carried them to Babylon and placed them in his idol-house.
+**Daniel 1:2** And the Lord gave it into his hands: Jehoiakim king of Judah, and some of the holy vessels of the Lord; and he carried them to Babylon and placed them in his idol-house.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 23
 
-**Daniel 1:3** And the king said to Ashpenaz, his chief eunuch, to bring him some of sons of leading men of Israel and from royal line and from chosen ones,
+**Daniel 1:3** And the king said to Ashpenaz, his own chief eunuch, to bring him some from the sons of the leading men of Israel and from the royal line and from the chosen ones,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 3

@@ -193748,37 +193748,37 @@ Note:
 ### Daniel 1:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord gave it into his hands, and Jehoiakim king of Judah, and some of holy vessels of the Lord, and he carried them to Babylon and placed them in his idol-house.
+- fresh: And the Lord gave it into his hands: Jehoiakim king of Judah, and some of the holy vessels of the Lord; and he carried them to Babylon and placed them in his idol-house.
 - brenton: [missing]
 
 ### Daniel 1:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king said to Ashpenaz, his chief eunuch, to bring him some of sons of leading men of Israel and from royal line and from chosen ones,
+- fresh: And the king said to Ashpenaz, his own chief eunuch, to bring him some from the sons of the leading men of Israel and from the royal line and from the chosen ones,
 - brenton: [missing]
 
 ### Daniel 1:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: young men without blemish and good in appearance and skilled in all wisdom and learned and intelligent and wise and strong enough to be in the house of the king, and to teach them letters and Chaldean language.
+- fresh: young men without blemish and good in appearance, skilled in all wisdom and learned in letters and intelligent and wise, and strong enough to be in the house of the king, and to teach them letters and the Chaldean dialect.
 - brenton: [missing]
 
 ### Daniel 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And to give them an assigned portion from the house of the king each day, and from royal table, and from wine that the king drinks, and to train them three years, and after this to set them before the king.
+- fresh: And to give them an assigned portion from the house of the king each day, and from the royal table, and from the wine that the king drinks, and to train them three years, and after these things to set them before the king.
 - brenton: [missing]
 
 ### Daniel 1:6
@@ -193787,25 +193787,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And among them from the line of the sons of Israel, from Judah, were Daniel, Hananiah, Mishael, and Azariah.
+- fresh: And among them from the line of the sons of Israel, those from Judah, were Daniel, Hananiah, Mishael, and Azariah.
 - brenton: [missing]
 
 ### Daniel 1:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And chief eunuch put names on them: to Daniel, Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego.
+- fresh: And the chief eunuch assigned names to them: to Daniel, Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego.
 - brenton: [missing]
 
 ### Daniel 1:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Daniel resolved in his heart not to be defiled by king's dinner and by wine that he drank, and he asked the chief eunuch that he might not be defiled.
+- fresh: And Daniel resolved in his heart not to be defiled by the king's dinner and by the wine that he drank, and he asked the chief eunuch that he might not be defiled.
 - brenton: [missing]
 
 ### Daniel 1:9
@@ -193820,28 +193820,28 @@ Note:
 ### Daniel 1:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And chief eunuch said to Daniel, I fear my lord the king, the one who assigned your food and your drink, lest he see your faces more wasted and weak than the foreign youths fed with you, and I put my own neck in danger.
+- fresh: And the chief eunuch said to Daniel, I fear my lord the king, the one who assigned your food and your drink, lest he see your faces more wasted and weak than the foreign youths fed with you, and I put my own neck in danger.
 - brenton: [missing]
 
 ### Daniel 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Daniel said to Melzar, the one appointed by the chief eunuch over Daniel, Hananiah, Mishael, and Azariah,
+- fresh: And Daniel said to Melzar, the appointed chief eunuch over Daniel, Hananiah, Mishael, and Azariah,
 - brenton: [missing]
 
 ### Daniel 1:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Test your servants for ten days, and let it be given us from legumes of the earth to eat and water to drink.
+- fresh: Test your servants for ten days, and let it be given us from the legumes of the earth to eat and water to drink.
 - brenton: [missing]
 
 ### Daniel 1:13
@@ -193859,43 +193859,43 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he dealt with them in this way and tested them ten days.
+- fresh: And he dealt with them in this way and tested them for ten days.
 - brenton: [missing]
 
 ### Daniel 1:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And after the ten days their appearance seemed better and their bodily condition stronger than all the other youths eating the royal dinner.
+- fresh: And after the ten days their appearance seemed good and their bodily condition stronger than all the other youths eating the royal dinner.
 - brenton: [missing]
 
 ### Daniel 1:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Melzar kept taking away their dinner and their wine and kept giving them legumes.
+- fresh: And Melzar kept taking away their dinner and their wine and kept giving them the legumes.
 - brenton: [missing]
 
 ### Daniel 1:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And to these young men the Lord gave learning and understanding and prudence in every literary skill, and to Daniel he gave understanding in every word and vision and dream and in all wisdom.
+- fresh: And to these young men the Lord gave learning and understanding and prudence in every literary art, and to Daniel he gave understanding in every word and vision and dreams and in all wisdom.
 - brenton: [missing]
 
 ### Daniel 1:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And after these days the king commanded them to be brought in, and they were brought by chief eunuch to King Nebuchadnezzar.
+- fresh: And after these days the king commanded them to be brought in, and they were brought by the chief eunuch to King Nebuchadnezzar.
 - brenton: [missing]
 
 ### Daniel 1:19
@@ -193910,10 +193910,10 @@ Note:
 ### Daniel 1:20
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And in every matter of speech and understanding and training that the king asked from them, he found them ten times wiser than the sophists and philosophers in all his kingdom, and the king honored them and appointed them rulers and set them above all his own in affairs throughout all his land and kingdom.
+- fresh: And in every matter of speech and understanding and education that the king asked from them, he found them ten times wiser than the sophists and the philosophers in all his kingdom, and the king honored them and appointed them rulers and declared them wise beyond all his own in affairs throughout all his land and kingdom.
 - brenton: [missing]
 
 ### Daniel 1:21
