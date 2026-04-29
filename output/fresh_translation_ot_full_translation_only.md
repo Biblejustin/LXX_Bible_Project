@@ -88564,7 +88564,7 @@ And King Darius was added to his line, and Daniel was established in the kingdom
 
 **Daniel 7:1**
 
-In the first year of Belshazzar ruling over the land of Babylon, Daniel saw a vision over his head on his bed. Then Daniel wrote vision he saw in headings of words.
+In the first year of Belshazzar ruling over the land of Babylonia, Daniel saw a vision over his head on his bed. Then Daniel wrote the vision that he saw in headings of words.
 
 **Daniel 7:2**
 
@@ -88576,39 +88576,39 @@ And four beasts were coming up from the sea, differing from one another.
 
 **Daniel 7:4**
 
-The first was like a lion, having wings like an eagle. I kept watching until its wings were plucked, and it was lifted from the earth and stood on human feet, and a human heart was given to it.
+The first was like a lioness, having wings like an eagle. I kept watching until its wings were plucked, and it was lifted from the earth and stood on human feet, and a human heart was given to it.
 
 **Daniel 7:5**
 
-And behold, after it another beast had likeness of a bear, and it stood on one side, and three ribs were in its mouth. And thus it said, Rise, eat much flesh.
+And behold, after it another beast had a likeness of a bear, and it stood on one side, and three ribs were in its mouth. And thus it said, Rise, devour much flesh.
 
 **Daniel 7:6**
 
-And after this I was watching another beast, like a leopard, and four wings were spread over it, and the beast had four heads, and a tongue was given to it.
+And after this I was watching another beast, like a leopard, and four wings were extended over it, and the beast had four heads, and a tongue was given to it.
 
 **Daniel 7:7**
 
-After this I was watching in a vision of the night, and behold, a fourth beast, fearsome, and its terror surpassed in strength. It had great iron teeth, eating and crushing; with its feet it trampled around, differing in use from all the beasts before it, and it had ten horns.
+After this I was watching in a vision of the night, and behold, a fourth beast, fearsome, and its terror surpassed in strength. It had great iron teeth, eating and crushing; with its feet it trampled around, behaving differently from all the beasts before it, and it had ten horns.
 
 **Daniel 7:8**
 
-And many counsels were in its horns, and behold, another small horn sprang up among them, and three of the first horns were dried up because of it. And behold, eyes like human eyes were in this horn, and a mouth speaking great things, and it made war against the holy ones.
+And many counsels were in its horns, and behold, another horn, a small one, sprang up among them, among its horns, and three of the first horns were dried up because of it. And behold, eyes like human eyes were in this horn, and a mouth speaking great things, and it made war against the holy ones.
 
 **Daniel 7:9**
 
-I was watching until thrones were set, and Ancient of Days sat, having garment like snow and hair of his head like clean white wool; the throne was like a flame of fire.
+I was watching until thrones were set, and the Ancient of Days sat, having a garment like snow and the hair of his head like clean white wool; his throne was like a flame of fire.
 
 **Daniel 7:10**
 
-And a river of fire was going out before him; thousands of thousands served him, and myriads of myriads stood before him, and court sat, and books were opened.
+And a river of fire was going out before him; thousands of thousands served him, and myriads of myriads stood before him, and the court sat, and books were opened.
 
 **Daniel 7:11**
 
-I was watching then because of the sound of great words that the horn was speaking, and the beast was beaten down, and its body perished and was given to burning fire.
+I was watching then because of the sound of great words that the horn was speaking, and the beast was struck down, and its body perished and was given to burning by fire.
 
 **Daniel 7:12**
 
-And he removed the others around it from their authority, and time of life was given them until time and season.
+And he removed those around it from their authority, and a time of life was given to them until a time and a season.
 
 **Daniel 7:13**
 
@@ -88616,7 +88616,7 @@ I was watching in the vision of the night, and behold, on clouds of heaven one l
 
 **Daniel 7:14**
 
-And authority was given to him, and all nations of the earth by their kinds, and every glory serving him; and his authority is eternal authority that will not be taken away, and his kingdom one that will not be destroyed.
+And authority was given to him, and all the nations of the earth according to their kinds, and every glory serving him; and his authority is eternal authority that will not be taken away, and his kingdom is one that will not be destroyed.
 
 **Daniel 7:15**
 
@@ -88624,7 +88624,7 @@ And I, Daniel, grew weary in these things in the vision of the night.
 
 **Daniel 7:16**
 
-I came near one of those standing, and I sought exact truth from him concerning all these things. And answering, he spoke to me and made known to me judgment of the words.
+I came near one of those standing, and I sought exact truth from him concerning all these things. And he answered and spoke to me and made known to me the judgment of the words.
 
 **Daniel 7:17**
 
@@ -88632,7 +88632,7 @@ These great beasts are four kingdoms that will perish from the earth.
 
 **Daniel 7:18**
 
-And holy ones of the Most High will receive the kingdom and possess the kingdom forever and forever of forever.
+And holy ones of the Most High will receive the kingdom and possess the kingdom forever, even forever and ever.
 
 **Daniel 7:19**
 
@@ -88640,15 +88640,15 @@ Then I wanted to know exactly about the fourth beast, the one destroying all thi
 
 **Daniel 7:20**
 
-And concerning its ten horns on its head, and the other one that sprang up and because of which three fell away, and that horn had eyes and mouth speaking great things, and its appearance surpassed the others.
+And concerning its ten horns on its head and the other one that sprang up, because of which three fell away: that horn had eyes and a mouth speaking great things, and its appearance surpassed the others.
 
 **Daniel 7:21**
 
-And I observed that horn making war with the holy ones and overcoming them,
+And I observed that horn making war against the holy ones and overcoming them,
 
 **Daniel 7:22**
 
-until Ancient of Days came and gave judgment to holy ones of the Most High, and the time was given, and the holy ones possessed the kingdom.
+until the Ancient of Days came and gave judgment to the holy ones of the Most High, and the time was given, and the holy ones possessed the kingdom.
 
 **Daniel 7:23**
 
@@ -88656,11 +88656,11 @@ And it was told me concerning the fourth beast that a fourth kingdom will be upo
 
 **Daniel 7:24**
 
-And the ten horns of the kingdom are ten kings that will arise, and another king will arise after them, and he will differ in evils beyond the first ones and will humble three kings.
+And the ten horns of the kingdom are ten kings that will arise, and another king will arise after them, and he will differ in evils beyond the former ones and will humble three kings.
 
 **Daniel 7:25**
 
-And he will speak words against the Most High and wear down holy ones of the Most High, and he will undertake to change times and law, and all will be delivered into his hands until a time and times and half a time.
+And he will speak words against the Most High and wear down the holy ones of the Most High, and he will undertake to change times and law, and everything will be delivered into his hands until a time and times and half a time.
 
 **Daniel 7:26**
 
@@ -88668,11 +88668,11 @@ And the court will sit, and they will destroy his authority and plan to defile a
 
 **Daniel 7:27**
 
-And kingdom and authority and their greatness and rule of all kingdoms under heaven he gave to holy people of the Most High to reign with eternal kingdom, and all authorities will submit to him and obey him.
+And he gave the kingdom and the authority and their greatness and the rule of all the kingdoms under heaven to a holy people of the Most High, to reign over an eternal kingdom, and all authorities will submit to him and obey him.
 
 **Daniel 7:28**
 
-To completion of the matter, I, Daniel, was very greatly held in ecstasy, and my condition changed within me, and I kept the matter fixed in my heart.
+Until completion of the matter, I, Daniel, was greatly held by astonishment, and my appearance changed within me, and I kept the matter fixed in my heart.
 
 ### Chapter 8
 

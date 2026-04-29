@@ -195359,10 +195359,10 @@ Note:
 ### Daniel 7:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In the first year of Belshazzar ruling over the land of Babylon, Daniel saw a vision over his head on his bed. Then Daniel wrote vision he saw in headings of words.
+- fresh: In the first year of Belshazzar ruling over the land of Babylonia, Daniel saw a vision over his head on his bed. Then Daniel wrote the vision that he saw in headings of words.
 - brenton: [missing]
 
 ### Daniel 7:2
@@ -195386,82 +195386,82 @@ Note:
 ### Daniel 7:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The first was like a lion, having wings like an eagle. I kept watching until its wings were plucked, and it was lifted from the earth and stood on human feet, and a human heart was given to it.
+- fresh: The first was like a lioness, having wings like an eagle. I kept watching until its wings were plucked, and it was lifted from the earth and stood on human feet, and a human heart was given to it.
 - brenton: [missing]
 
 ### Daniel 7:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, after it another beast had likeness of a bear, and it stood on one side, and three ribs were in its mouth. And thus it said, Rise, eat much flesh.
+- fresh: And behold, after it another beast had a likeness of a bear, and it stood on one side, and three ribs were in its mouth. And thus it said, Rise, devour much flesh.
 - brenton: [missing]
 
 ### Daniel 7:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And after this I was watching another beast, like a leopard, and four wings were spread over it, and the beast had four heads, and a tongue was given to it.
+- fresh: And after this I was watching another beast, like a leopard, and four wings were extended over it, and the beast had four heads, and a tongue was given to it.
 - brenton: [missing]
 
 ### Daniel 7:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: After this I was watching in a vision of the night, and behold, a fourth beast, fearsome, and its terror surpassed in strength. It had great iron teeth, eating and crushing; with its feet it trampled around, differing in use from all the beasts before it, and it had ten horns.
+- fresh: After this I was watching in a vision of the night, and behold, a fourth beast, fearsome, and its terror surpassed in strength. It had great iron teeth, eating and crushing; with its feet it trampled around, behaving differently from all the beasts before it, and it had ten horns.
 - brenton: [missing]
 
 ### Daniel 7:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And many counsels were in its horns, and behold, another small horn sprang up among them, and three of the first horns were dried up because of it. And behold, eyes like human eyes were in this horn, and a mouth speaking great things, and it made war against the holy ones.
+- fresh: And many counsels were in its horns, and behold, another horn, a small one, sprang up among them, among its horns, and three of the first horns were dried up because of it. And behold, eyes like human eyes were in this horn, and a mouth speaking great things, and it made war against the holy ones.
 - brenton: [missing]
 
 ### Daniel 7:9
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: I was watching until thrones were set, and Ancient of Days sat, having garment like snow and hair of his head like clean white wool; the throne was like a flame of fire.
+- fresh: I was watching until thrones were set, and the Ancient of Days sat, having a garment like snow and the hair of his head like clean white wool; his throne was like a flame of fire.
 - brenton: [missing]
 
 ### Daniel 7:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And a river of fire was going out before him; thousands of thousands served him, and myriads of myriads stood before him, and court sat, and books were opened.
+- fresh: And a river of fire was going out before him; thousands of thousands served him, and myriads of myriads stood before him, and the court sat, and books were opened.
 - brenton: [missing]
 
 ### Daniel 7:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: I was watching then because of the sound of great words that the horn was speaking, and the beast was beaten down, and its body perished and was given to burning fire.
+- fresh: I was watching then because of the sound of great words that the horn was speaking, and the beast was struck down, and its body perished and was given to burning by fire.
 - brenton: [missing]
 
 ### Daniel 7:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he removed the others around it from their authority, and time of life was given them until time and season.
+- fresh: And he removed those around it from their authority, and a time of life was given to them until a time and a season.
 - brenton: [missing]
 
 ### Daniel 7:13
@@ -195476,10 +195476,10 @@ Note:
 ### Daniel 7:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And authority was given to him, and all nations of the earth by their kinds, and every glory serving him; and his authority is eternal authority that will not be taken away, and his kingdom one that will not be destroyed.
+- fresh: And authority was given to him, and all the nations of the earth according to their kinds, and every glory serving him; and his authority is eternal authority that will not be taken away, and his kingdom is one that will not be destroyed.
 - brenton: [missing]
 
 ### Daniel 7:15
@@ -195494,10 +195494,10 @@ Note:
 ### Daniel 7:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: I came near one of those standing, and I sought exact truth from him concerning all these things. And answering, he spoke to me and made known to me judgment of the words.
+- fresh: I came near one of those standing, and I sought exact truth from him concerning all these things. And he answered and spoke to me and made known to me the judgment of the words.
 - brenton: [missing]
 
 ### Daniel 7:17
@@ -195512,10 +195512,10 @@ Note:
 ### Daniel 7:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And holy ones of the Most High will receive the kingdom and possess the kingdom forever and forever of forever.
+- fresh: And holy ones of the Most High will receive the kingdom and possess the kingdom forever, even forever and ever.
 - brenton: [missing]
 
 ### Daniel 7:19
@@ -195530,28 +195530,28 @@ Note:
 ### Daniel 7:20
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And concerning its ten horns on its head, and the other one that sprang up and because of which three fell away, and that horn had eyes and mouth speaking great things, and its appearance surpassed the others.
+- fresh: And concerning its ten horns on its head and the other one that sprang up, because of which three fell away: that horn had eyes and a mouth speaking great things, and its appearance surpassed the others.
 - brenton: [missing]
 
 ### Daniel 7:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I observed that horn making war with the holy ones and overcoming them,
+- fresh: And I observed that horn making war against the holy ones and overcoming them,
 - brenton: [missing]
 
 ### Daniel 7:22
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: until Ancient of Days came and gave judgment to holy ones of the Most High, and the time was given, and the holy ones possessed the kingdom.
+- fresh: until the Ancient of Days came and gave judgment to the holy ones of the Most High, and the time was given, and the holy ones possessed the kingdom.
 - brenton: [missing]
 
 ### Daniel 7:23
@@ -195566,19 +195566,19 @@ Note:
 ### Daniel 7:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the ten horns of the kingdom are ten kings that will arise, and another king will arise after them, and he will differ in evils beyond the first ones and will humble three kings.
+- fresh: And the ten horns of the kingdom are ten kings that will arise, and another king will arise after them, and he will differ in evils beyond the former ones and will humble three kings.
 - brenton: [missing]
 
 ### Daniel 7:25
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will speak words against the Most High and wear down holy ones of the Most High, and he will undertake to change times and law, and all will be delivered into his hands until a time and times and half a time.
+- fresh: And he will speak words against the Most High and wear down the holy ones of the Most High, and he will undertake to change times and law, and everything will be delivered into his hands until a time and times and half a time.
 - brenton: [missing]
 
 ### Daniel 7:26
@@ -195593,19 +195593,19 @@ Note:
 ### Daniel 7:27
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And kingdom and authority and their greatness and rule of all kingdoms under heaven he gave to holy people of the Most High to reign with eternal kingdom, and all authorities will submit to him and obey him.
+- fresh: And he gave the kingdom and the authority and their greatness and the rule of all the kingdoms under heaven to a holy people of the Most High, to reign over an eternal kingdom, and all authorities will submit to him and obey him.
 - brenton: [missing]
 
 ### Daniel 7:28
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: To completion of the matter, I, Daniel, was very greatly held in ecstasy, and my condition changed within me, and I kept the matter fixed in my heart.
+- fresh: Until completion of the matter, I, Daniel, was greatly held by astonishment, and my appearance changed within me, and I kept the matter fixed in my heart.
 - brenton: [missing]
 
 ### Daniel 8:1

@@ -1,6 +1,6 @@
 # Proper Name Note Coverage
 
-- supplemental note rows: `2503`
+- supplemental note rows: `2504`
 - Logos autocomplete DB: `/Users/justinscaggs/Library/Application Support/Logos4/Data/5gtnpjgs.gns/AutoComplete/AutoComplete.db`
 
 Policy:
@@ -14,7 +14,7 @@ Policy:
 - `Jerusalem` (place, 657x, first Joshua 10:1) — logos_primary_place_atlas_link_preserved
 - `Egypt` (transliterated_form, 587x, first Genesis 12:10) — not_classified
 - `Christ` (person, 571x, first Matthew 1:1) — logos_primary_entity
-- `Babylon` (place, 250x, first Genesis 10:10) — logos_primary_place_atlas_link_preserved
+- `Babylon` (place, 249x, first Genesis 10:10) — logos_primary_place_atlas_link_preserved
 - `Levites` (people_group, 243x, first Exodus 6:25) — manual_high_frequency_people_group
 - `Jordan` (place, 195x, first Genesis 13:10) — logos_primary_place_atlas_link_preserved
 - `Jews` (people_group, 171x, first Matthew 2:2) — logos_primary_entity
