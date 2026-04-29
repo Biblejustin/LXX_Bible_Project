@@ -91356,31 +91356,31 @@ Through the breach before their face they broke through and passed through a gat
 
 **Micah 3:1**
 
-And he will say, Hear now these things, leaders of the house of Jacob and remnant of the house of Israel. Is it not for you to know judgment?
+And he will say, Hear now these things, rulers of the house of Jacob and the remnant of the house of Israel. Is it not for you to know judgment?
 
 **Micah 3:2**
 
-Hating good things and seeking evil things, snatching their skins from off them and their flesh from off their bones,
+Hating the good things and seeking the evil things, snatching their skins from off them and their flesh from off their bones,
 
 **Micah 3:3**
 
-just as they ate flesh of my people and flayed their skin from off their bones and crushed their bones and cut them up like flesh for kettle and like meat for pot.
+just as they ate the flesh of my people and flayed their skins from off their bones and crushed their bones and cut them up like flesh for a kettle and like meat for a pot.
 
 **Micah 3:4**
 
-Thus they will cry to the Lord and he will not hear them, and he will turn his face away from them in that time, because they made evil their practices against them.
+Thus they will cry to the Lord and he will not hear them, and he will turn his face away from them at that time, because they acted wickedly in their practices against themselves.
 
 **Micah 3:5**
 
-Thus says the Lord concerning prophets leading my people astray, biting with their teeth and proclaiming peace over him; if nothing was given into their mouth, they raised war against him.
+Thus says the Lord concerning the prophets leading my people astray, biting with their teeth and proclaiming peace over him; and when nothing was given into their mouth, they raised up war against him.
 
 **Micah 3:6**
 
-Therefore night from vision will be for you, and darkness from divination will be for you, and sun will go down upon prophets and day will grow dark over them.
+Therefore night will be for you instead of vision, and darkness will be for you instead of divination, and the sun will go down upon the prophets and the day will grow dark over them.
 
 **Micah 3:7**
 
-And the seers of dreams will be put to shame and diviners laughed to scorn, and all will speak against them, because there will be no one hearing them.
+And the seers of dreams will be put to shame, and the diviners will be laughed to scorn, and all of them will speak against them, because there will be no one hearing them.
 
 **Micah 3:8**
 
@@ -91388,19 +91388,19 @@ But I am filled with strength by the Spirit of the Lord and with judgment and po
 
 **Micah 3:9**
 
-Hear now these things, leaders of the house of Jacob and remnant of the house of Israel, hating judgment and twisting all straight things,
+Hear now these things, the leaders of the house of Jacob and the remnant of the house of Israel, abhorring judgment and twisting all the straight things,
 
 **Micah 3:10**
 
-building Zion in bloods and Jerusalem in injustices.
+the ones building Zion with bloods and Jerusalem with injustices.
 
 **Micah 3:11**
 
-Her leaders judged with gifts, her priests answered for wages, her prophets divined for silver, and they relied on the Lord saying, Is not the Lord among us? Evils will certainly not come upon us.
+Her leaders judged with gifts, her priests answered for wages, her prophets divined for silver, and they relied upon the Lord saying, Is not the Lord among us? Evils will certainly not come upon us.
 
 **Micah 3:12**
 
-Therefore because of you Zion will be plowed like a field and Jerusalem will be as hut of field-watchman and mountain of the house as grove of the forest.
+Therefore because of you Zion will be plowed like a field and Jerusalem will be as a field-watchman's hut and the mountain of the house as a grove of the forest.
 
 ### Chapter 4
 

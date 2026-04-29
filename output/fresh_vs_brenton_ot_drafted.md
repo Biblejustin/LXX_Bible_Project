@@ -201446,64 +201446,64 @@ Note:
 ### Micah 3:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will say, Hear now these things, leaders of the house of Jacob and remnant of the house of Israel. Is it not for you to know judgment?
+- fresh: And he will say, Hear now these things, rulers of the house of Jacob and the remnant of the house of Israel. Is it not for you to know judgment?
 - brenton: And he shall say, Hear now these words, ye heads of the house of Jacob, and ye remnant of the house of Israel; is it not for you to know judgment?
 
 ### Micah 3:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hating good things and seeking evil things, snatching their skins from off them and their flesh from off their bones,
+- fresh: Hating the good things and seeking the evil things, snatching their skins from off them and their flesh from off their bones,
 - brenton: who hate good, and seek evil; who tear their skins off them, and their flesh off their bones:
 
 ### Micah 3:3
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: just as they ate flesh of my people and flayed their skin from off their bones and crushed their bones and cut them up like flesh for kettle and like meat for pot.
+- fresh: just as they ate the flesh of my people and flayed their skins from off their bones and crushed their bones and cut them up like flesh for a kettle and like meat for a pot.
 - brenton: even as they devoured the flesh of my people, and stripped their skins off them, and broke their bones, and divided them as flesh for the caldron, and as meat for the pot,
 
 ### Micah 3:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus they will cry to the Lord and he will not hear them, and he will turn his face away from them in that time, because they made evil their practices against them.
+- fresh: Thus they will cry to the Lord and he will not hear them, and he will turn his face away from them at that time, because they acted wickedly in their practices against themselves.
 - brenton: thus they shall cry to the Lord, but he shall not hearken to them; and he shall turn away his face from them at that time, because they have done wickedly in their practices against themselves.
 
 ### Micah 3:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord concerning prophets leading my people astray, biting with their teeth and proclaiming peace over him; if nothing was given into their mouth, they raised war against him.
+- fresh: Thus says the Lord concerning the prophets leading my people astray, biting with their teeth and proclaiming peace over him; and when nothing was given into their mouth, they raised up war against him.
 - brenton: Thus saith the Lord concerning the prophets that lead my people astray, that bite with their teeth, and proclaim peace to them; and when nothing was put into their mouth, they raised up war against them:
 
 ### Micah 3:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore night from vision will be for you, and darkness from divination will be for you, and sun will go down upon prophets and day will grow dark over them.
+- fresh: Therefore night will be for you instead of vision, and darkness will be for you instead of divination, and the sun will go down upon the prophets and the day will grow dark over them.
 - brenton: therefore there shall be night to you instead of a vision, and there shall be to you darkness instead of prophecy; and the sun shall go down upon the prophets, and the day shall be dark upon them.
 
 ### Micah 3:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the seers of dreams will be put to shame and diviners laughed to scorn, and all will speak against them, because there will be no one hearing them.
+- fresh: And the seers of dreams will be put to shame, and the diviners will be laughed to scorn, and all of them will speak against them, because there will be no one hearing them.
 - brenton: And the seers of night-visions shall be ashamed, and the prophets shall be laughed to scorn: and all the people shall speak against them, because there shall be none to hearken to them.
 
 ### Micah 3:8
@@ -201518,37 +201518,37 @@ Note:
 ### Micah 3:9
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear now these things, leaders of the house of Jacob and remnant of the house of Israel, hating judgment and twisting all straight things,
+- fresh: Hear now these things, the leaders of the house of Jacob and the remnant of the house of Israel, abhorring judgment and twisting all the straight things,
 - brenton: Hear now these words, ye chiefs of the house of Jacob, and the remnant of the house of Israel, who hate judgment, and pervert all righteousness;
 
 ### Micah 3:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: building Zion in bloods and Jerusalem in injustices.
+- fresh: the ones building Zion with bloods and Jerusalem with injustices.
 - brenton: who build up Sion with blood, and Jerusalem with iniquity.
 
 ### Micah 3:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Her leaders judged with gifts, her priests answered for wages, her prophets divined for silver, and they relied on the Lord saying, Is not the Lord among us? Evils will certainly not come upon us.
+- fresh: Her leaders judged with gifts, her priests answered for wages, her prophets divined for silver, and they relied upon the Lord saying, Is not the Lord among us? Evils will certainly not come upon us.
 - brenton: The heads thereof have judged for gifts, and the priests thereof have answered for hire, and her prophets have divined for silver: and yet they have rested on the Lord, saying, Is not the Lord among us? no evil shall come upon us.
 
 ### Micah 3:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore because of you Zion will be plowed like a field and Jerusalem will be as hut of field-watchman and mountain of the house as grove of the forest.
+- fresh: Therefore because of you Zion will be plowed like a field and Jerusalem will be as a field-watchman's hut and the mountain of the house as a grove of the forest.
 - brenton: Therefore on your account Sion shall be ploughed as a field, and Jerusalem shall be as a storehouse of fruits, and the mountain of the house as a grove of the forest.
 
 ### Micah 4:1
