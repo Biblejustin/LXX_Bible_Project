@@ -188778,190 +188778,190 @@ Note:
 ### Ezekiel 29:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In tenth year, in the tenth month, on the first of the month, the word of the Lord came to me, saying,
+- fresh: In the tenth year, in the tenth month, on the first day of the month, the word of the Lord came to me, saying,
 - brenton: In the twelfth year, in the tenth month, on the first day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 29:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, set your face toward Pharaoh king of Egypt and prophesy against him and against all Egypt,
+- fresh: Son of man, set your face toward Pharaoh, king of Egypt, and prophesy against him and against all Egypt,
 - brenton: Son of man, set thy face against Pharao king of Egypt, and prophesy against him, and against the whole of Egypt:
 
 ### Ezekiel 29:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: and say, Thus says the Lord: Behold, I am against Pharaoh, great dragon sitting in the midst of his rivers, saying, Rivers are mine, and I made them.
+- fresh: and say, Thus says the Lord: Behold, I am against Pharaoh, the great dragon sitting in the midst of his rivers, saying, The rivers are mine, and I made them.
 - brenton: and say,
 
 ### Ezekiel 29:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will put hooks in your jaws and fasten fish of your river to your fins and bring you up from the midst of your river, and all fish of your river,
+- fresh: And I will put hooks in your jaws and fasten the fish of your river to your fins and bring you up from the midst of your river, and all the fish of your river,
 - brenton: And I will put hooks in thy jaws, and I will cause the fish of thy river to stick to thy sides, and I will bring thee up out of the midst of thy river:
 
 ### Ezekiel 29:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: and I will cast you down quickly, and all fish of your river, upon the face of the plain. You will fall and not be gathered nor collected; to the beasts of the earth and birds of heaven I have given you for food.
+- fresh: and I will quickly cast you down upon the face of the plain, along with all the fish of your river. You will fall and not be gathered or collected; I have given you for food to the beasts of the earth and the birds of heaven.
 - brenton: and I will quickly cast down thee and all the fish of thy river: thou shalt fall on the face of the plain, and shalt by no means be gathered, and shalt not be brought together: I have given thee for food to the wild beasts of the earth and to the fowls of the sky.
 
 ### Ezekiel 29:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And all inhabiting Egypt will know that I am the Lord, because you became reed-staff to the house of Israel.
+- fresh: And all those inhabiting Egypt will know that I am the Lord, because you became a reed-staff for the house of Israel.
 - brenton: And all the dwellers in Egypt shall know that I am the Lord, because thou hast been a staff of reed to the house of Israel.
 
 ### Ezekiel 29:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: When they took hold of you with their hand, you were crushed, and when every hand seized hold on them and when they leaned on you, you were shattered and broke all their loins.
+- fresh: When they took hold of you with their hands, you were crushed, and when every hand seized hold on them and when they leaned on you, you were shattered and broke all their loins.
 - brenton: When they took hold of thee with their hand, thou didst break: and when every hand was clapped against them, and when they leaned on thee, thou wast utterly broken, and didst crush the loins of them all.
 
 ### Ezekiel 29:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Behold, I bring sword upon you and will destroy from you men and cattle.
+- fresh: Therefore thus says the Lord: Behold, I bring a sword upon you and will destroy men and cattle from you.
 - brenton: Therefore thus saith the Lord; Behold, I will bring a sword upon thee, and will cut off from thee man and beast;
 
 ### Ezekiel 29:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the land of Egypt will be destruction and wilderness, and they will know that I am the Lord, because you said, Rivers are mine, and I made them.
+- fresh: And the land of Egypt will be a destruction and a wilderness, and they will know that I am the Lord, because you said, The rivers are mine, and I made them.
 - brenton: and the land of Egypt shall be ruined and desert; and they shall know that I am the Lord; because thou sayest, The rivers are mine, and I made them.
 
 ### Ezekiel 29:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore behold, I am against you and against all your rivers, and I will make the land of Egypt for wilderness and sword and destruction from Migdol and Syene and as far as borders of Ethiopia.
+- fresh: Therefore behold, I am against you and against all your rivers, and I will make the land of Egypt a wilderness, a sword, and a destruction from Migdol and Syene and as far as the borders of the Ethiopians.
 - brenton: Therefore, behold, I am against thee, and against all thy rivers, and I will give up the land of Egypt to desolation, and the sword, and destruction, from Magdol and Syene even to the borders of the Ethiopians.
 
 ### Ezekiel 29:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The foot of a man will not pass through it, and the foot of a beast will not pass through it, and it will not be inhabited forty years.
+- fresh: The foot of a man will not pass through it, and the foot of a beast will not pass through it, and it will not be inhabited for forty years.
 - brenton: No foot of man shall pass through it, and no foot of beast shall pass through it, and it shall not be inhabited for forty years.
 
 ### Ezekiel 29:12
 
 - importance: high
-- decisions: 0
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make its land destruction in the midst of desolated land, and its cities in the midst of desolated cities will be forty years, and I will scatter Egypt among nations and winnow them into lands.
+- fresh: And I will make its land a destruction in the midst of a desolated land, and its cities will be desolated forty years in the midst of desolated cities, and I will scatter Egypt among the nations and winnow them into the lands.
 - brenton: And I will cause her land to be utterly destroyed in the midst of a land that is desolate, and her cities shall be desolate forty years in the midst of cities that are desolate: and I will disperse Egypt among the nations, and will utterly scatter them into the countries.
 
 ### Ezekiel 29:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: After forty years I will gather Egyptians from nations where they were scattered there,
+- fresh: Thus says the Lord: After forty years I will gather the Egyptians from the nations where they were scattered,
 - brenton: Thus saith the Lord; After forty years I will gather the Egyptians from the nations among whom they have been scattered;
 
 ### Ezekiel 29:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: and I will turn back captivity of Egyptians and settle them in the land of Pathros, in the land from which they were taken, and it will be humble dominion.
+- fresh: and I will turn back the captivity of the Egyptians and settle them in the land of Pathros, in the land from which they were taken, and it will be a humble dominion.
 - brenton: and I will turn the captivity of the Egyptians, and will cause them to dwell in the land of Phathore, in the land whence they were taken;
 
 ### Ezekiel 29:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Beyond all dominions it will never again be exalted over nations, and I will make them few, so as not to be many among nations.
+- fresh: Beyond all dominions it will no longer be exalted over the nations, and I will make them few, so that they will not be many among the nations.
 - brenton: and it shall be a base kingdom beyond all other kingdoms; it shall not any more be exalted over the nations; and I will make them few in number, that they may not be great among the nations.
 
 ### Ezekiel 29:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will no longer be to the house of Israel hope recalling lawlessness, when they followed after them, and they will know that I am the Lord.
+- fresh: And they will no longer be for the house of Israel a hope recalling lawlessness when they follow after them, and they will know that I am the Lord.
 - brenton: And they shall no more be to the house of Israel a confidence bringing iniquity to remembrance, when they follow after them; and they shall know that I am the Lord.
 
 ### Ezekiel 29:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in twenty-seventh year, on the first of the first month, the word of the Lord came to me, saying,
+- fresh: And it happened in the twenty-seventh year, on the first day of the first month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the twenty-seventh year, on the first day of the first month, the word of the Lord came to me, saying,
 
 ### Ezekiel 29:18
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, Nebuchadnezzar king of Babylon made his force serve great service against Tyre. Every head bald and every shoulder peeled raw, and wages did not come to him and to his force from Tyre for service that they served against her.
+- fresh: Son of man, Nebuchadnezzar, king of Babylon, made his force serve a great service against Tyre. Every head was bald and every shoulder peeled raw, and no wages came to him or to his force from Tyre for the service that they served against her.
 - brenton: Son of man, Nabuchodonosor king of Babylon caused his army to serve a great service against Tyre; every head was bald, and every shoulder peeled; yet there was no reward to him or to his army serving against Tyre, nor for the service wherewith they served against it.
 
 ### Ezekiel 29:19
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Behold, I give to Nebuchadnezzar king of Babylon the land of Egypt, and he will plunder its plunder and spoil its spoils, and it will be wages for his force.
+- fresh: Thus says the Lord God: Behold, I give to Nebuchadnezzar, king of Babylon, the land of Egypt, and he will plunder its plunder and spoil its spoils, and it will be the wages for his force.
 - brenton: Thus saith the Lord God; Behold, I will give to Nabuchodonosor king of Babylon the land of Egypt, and he shall take the plunder thereof, and seize the spoils thereof; and it shall be a reward for his army.
 
 ### Ezekiel 29:20
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: In return for his service with which he served against Tyre, I gave him the land of Egypt, thus says the Lord.
+- fresh: In return for the service with which he served against Tyre, I have given him the land of Egypt, thus says the Lord God.
 - brenton: In return for his service wherewith he served against Tyre, I have given him the land of Egypt; thus saith the Lord God:
 
 ### Ezekiel 29:21
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: On that day horn will spring up for the whole house of Israel, and to you I will give opened mouth in their midst, and they will know that I am the Lord.
+- fresh: On that day a horn will spring up for the whole house of Israel, and to you I will give an open mouth in their midst, and they will know that I am the Lord.
 - brenton: In that day shall a horn spring forth for all the house of Israel, and I will give thee an open mouth in the midst of them; and they shall know that I am the Lord.
 
 ### Ezekiel 30:1

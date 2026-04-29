@@ -85586,87 +85586,87 @@ And they will dwell on it in hope and build houses and plant vineyards and dwell
 
 **Ezekiel 29:1**
 
-In tenth year, in the tenth month, on the first of the month, the word of the Lord came to me, saying,
+In the tenth year, in the tenth month, on the first day of the month, the word of the Lord came to me, saying,
 
 **Ezekiel 29:2**
 
-Son of man, set your face toward Pharaoh king of Egypt and prophesy against him and against all Egypt,
+Son of man, set your face toward Pharaoh, king of Egypt, and prophesy against him and against all Egypt,
 
 **Ezekiel 29:3**
 
-and say, Thus says the Lord: Behold, I am against Pharaoh, great dragon sitting in the midst of his rivers, saying, Rivers are mine, and I made them.
+and say, Thus says the Lord: Behold, I am against Pharaoh, the great dragon sitting in the midst of his rivers, saying, The rivers are mine, and I made them.
 
 **Ezekiel 29:4**
 
-And I will put hooks in your jaws and fasten fish of your river to your fins and bring you up from the midst of your river, and all fish of your river,
+And I will put hooks in your jaws and fasten the fish of your river to your fins and bring you up from the midst of your river, and all the fish of your river,
 
 **Ezekiel 29:5**
 
-and I will cast you down quickly, and all fish of your river, upon the face of the plain. You will fall and not be gathered nor collected; to the beasts of the earth and birds of heaven I have given you for food.
+and I will quickly cast you down upon the face of the plain, along with all the fish of your river. You will fall and not be gathered or collected; I have given you for food to the beasts of the earth and the birds of heaven.
 
 **Ezekiel 29:6**
 
-And all inhabiting Egypt will know that I am the Lord, because you became reed-staff to the house of Israel.
+And all those inhabiting Egypt will know that I am the Lord, because you became a reed-staff for the house of Israel.
 
 **Ezekiel 29:7**
 
-When they took hold of you with their hand, you were crushed, and when every hand seized hold on them and when they leaned on you, you were shattered and broke all their loins.
+When they took hold of you with their hands, you were crushed, and when every hand seized hold on them and when they leaned on you, you were shattered and broke all their loins.
 
 **Ezekiel 29:8**
 
-Therefore thus says the Lord: Behold, I bring sword upon you and will destroy from you men and cattle.
+Therefore thus says the Lord: Behold, I bring a sword upon you and will destroy men and cattle from you.
 
 **Ezekiel 29:9**
 
-And the land of Egypt will be destruction and wilderness, and they will know that I am the Lord, because you said, Rivers are mine, and I made them.
+And the land of Egypt will be a destruction and a wilderness, and they will know that I am the Lord, because you said, The rivers are mine, and I made them.
 
 **Ezekiel 29:10**
 
-Therefore behold, I am against you and against all your rivers, and I will make the land of Egypt for wilderness and sword and destruction from Migdol and Syene and as far as borders of Ethiopia.
+Therefore behold, I am against you and against all your rivers, and I will make the land of Egypt a wilderness, a sword, and a destruction from Migdol and Syene and as far as the borders of the Ethiopians.
 
 **Ezekiel 29:11**
 
-The foot of a man will not pass through it, and the foot of a beast will not pass through it, and it will not be inhabited forty years.
+The foot of a man will not pass through it, and the foot of a beast will not pass through it, and it will not be inhabited for forty years.
 
 **Ezekiel 29:12**
 
-And I will make its land destruction in the midst of desolated land, and its cities in the midst of desolated cities will be forty years, and I will scatter Egypt among nations and winnow them into lands.
+And I will make its land a destruction in the midst of a desolated land, and its cities will be desolated forty years in the midst of desolated cities, and I will scatter Egypt among the nations and winnow them into the lands.
 
 **Ezekiel 29:13**
 
-Thus says the Lord: After forty years I will gather Egyptians from nations where they were scattered there,
+Thus says the Lord: After forty years I will gather the Egyptians from the nations where they were scattered,
 
 **Ezekiel 29:14**
 
-and I will turn back captivity of Egyptians and settle them in the land of Pathros, in the land from which they were taken, and it will be humble dominion.
+and I will turn back the captivity of the Egyptians and settle them in the land of Pathros, in the land from which they were taken, and it will be a humble dominion.
 
 **Ezekiel 29:15**
 
-Beyond all dominions it will never again be exalted over nations, and I will make them few, so as not to be many among nations.
+Beyond all dominions it will no longer be exalted over the nations, and I will make them few, so that they will not be many among the nations.
 
 **Ezekiel 29:16**
 
-And they will no longer be to the house of Israel hope recalling lawlessness, when they followed after them, and they will know that I am the Lord.
+And they will no longer be for the house of Israel a hope recalling lawlessness when they follow after them, and they will know that I am the Lord.
 
 **Ezekiel 29:17**
 
-And it happened in twenty-seventh year, on the first of the first month, the word of the Lord came to me, saying,
+And it happened in the twenty-seventh year, on the first day of the first month, the word of the Lord came to me, saying,
 
 **Ezekiel 29:18**
 
-Son of man, Nebuchadnezzar king of Babylon made his force serve great service against Tyre. Every head bald and every shoulder peeled raw, and wages did not come to him and to his force from Tyre for service that they served against her.
+Son of man, Nebuchadnezzar, king of Babylon, made his force serve a great service against Tyre. Every head was bald and every shoulder peeled raw, and no wages came to him or to his force from Tyre for the service that they served against her.
 
 **Ezekiel 29:19**
 
-Thus says the Lord: Behold, I give to Nebuchadnezzar king of Babylon the land of Egypt, and he will plunder its plunder and spoil its spoils, and it will be wages for his force.
+Thus says the Lord God: Behold, I give to Nebuchadnezzar, king of Babylon, the land of Egypt, and he will plunder its plunder and spoil its spoils, and it will be the wages for his force.
 
 **Ezekiel 29:20**
 
-In return for his service with which he served against Tyre, I gave him the land of Egypt, thus says the Lord.
+In return for the service with which he served against Tyre, I have given him the land of Egypt, thus says the Lord God.
 
 **Ezekiel 29:21**
 
-On that day horn will spring up for the whole house of Israel, and to you I will give opened mouth in their midst, and they will know that I am the Lord.
+On that day a horn will spring up for the whole house of Israel, and to you I will give an open mouth in their midst, and they will know that I am the Lord.
 
 ### Chapter 30
 
