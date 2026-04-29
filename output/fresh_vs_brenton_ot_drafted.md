@@ -200423,10 +200423,10 @@ Note:
 ### Amos 9:1
 
 - importance: high
-- decisions: 1
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: I saw the Lord standing upon the altar, and he said, Strike upon the mercy-seat, and the foregates will be shaken; cut through into heads of all, and the remnant of them I will kill with sword. No one fleeing from them will flee away, and no one being rescued from them will be saved.
+- fresh: I saw the Lord standing upon the altar, and he said, Strike upon the mercy-seat, and the foregates will be shaken; cut through into heads of all, and the remnant of them I will kill with a sword. The one fleeing from them will certainly not escape, and the one being rescued from them will certainly not be saved.
 - brenton: I saw the Lord standing on the altar: and he said,
 
 ### Amos 9:2
@@ -200441,10 +200441,10 @@ Note:
 ### Amos 9:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: If they hide on top of Carmel, from there I will search out and take them, and if they sink from before my eyes into the depths of sea, there I will command the dragon and it will bite them.
+- fresh: If they hide on the top of Carmel, from there I will search out and take them, and if they sink from before my eyes into the depths of the sea, there I will command the dragon and it will bite them.
 - brenton: If they hide themselves in the top of Carmel, thence will I search them out and take them; and if they should go down from my presence into the depths of the sea, there will I command the serpent, and he shall bite them.
 
 ### Amos 9:4
@@ -200459,10 +200459,10 @@ Note:
 ### Amos 9:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord, the Lord God Almighty, touching the earth and shaking it, and all inhabiting it will mourn, and its whole end will rise like a river and descend like a river of Egypt.
+- fresh: And the Lord, the Lord God Almighty, touching the earth and shaking it, and all those inhabiting it will mourn, and its consummation will rise like a river and descend like a river of Egypt.
 - brenton: And the Lord, the Lord God Almighty, is he that takes hold of the land, and causes it to shake, and all that inhabit it shall mourn; and its destruction shall go up as a river, and shall descend as the river of Egypt.
 
 ### Amos 9:6
@@ -200477,82 +200477,82 @@ Note:
 ### Amos 9:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Are you not to me like sons of Ethiopians, sons of Israel? says the Lord. Did I not bring Israel up from the land of Egypt, and foreigners from Cappadocia, and Syrians from the pit?
+- fresh: Are you not to me like sons of Ethiopians, O sons of Israel? says the Lord. Did I not bring Israel up from the land of Egypt, and foreigners from Cappadocia, and Syrians from the pit?
 - brenton: Are not ye to me as the sons of the Ethiopians, O children of Israel? saith the Lord. Did I not bring Israel up out of the land of Egypt, and the Philistines from Cappadocia, and the Syrians out of the deep?
 
 ### Amos 9:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, eyes of the Lord God are upon the kingdom of sinners, and I will remove it from the face of the earth, except that I will not entirely remove house of Jacob, says the Lord.
+- fresh: Behold, the eyes of the Lord God are upon the kingdom of sinners, and I will remove it from the face of the earth, except that I will not entirely remove the house of Jacob, says the Lord.
 - brenton: Behold, the eyes of the Lord God are upon the kingdom of sinners, and I will cut it off from the face of the earth; only I will not utterly cut off the house of Jacob, saith the Lord.
 
 ### Amos 9:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because behold, I command and will winnow house of Israel among all nations just as it is winnowed in a sieve, and not a fragment will fall on the earth.
+- fresh: Because behold, I command and will winnow the house of Israel among all nations just as it is winnowed in a sieve, and a fragment will certainly not fall on the earth.
 - brenton: For I will give commandment, and sift the house of Israel among all the Gentiles, as corn is sifted in a sieve, and yet a fragment shall not in any wise fall upon the earth.
 
 ### Amos 9:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: All sinners of my people will end by sword, those saying, Evils will never come near us nor happen upon us.
+- fresh: All sinners of my people will die by a sword, those saying, The evils will certainly not draw near nor happen upon us.
 - brenton: All the sinners of my people shall die by the sword, who say, Calamities shall certainly not draw near, nor come upon us.
 
 ### Amos 9:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day I will raise up tent of David that has fallen and rebuild its fallen things and raise up its dug-down things and rebuild it as days of the age,
+- fresh: In that day I will raise up the tent of David that has fallen and rebuild its fallen things and raise up its dug-down things and rebuild it as days of the age,
 - brenton: In that day I will raise up the tabernacle of David that is fallen, and will rebuild the ruins of it, and will set up the parts thereof that have been broken down, and will build it up as in the ancient days:
 
 ### Amos 9:12
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: so that the remnant of men and all nations upon whom my name has been called may seek, says the Lord God who does these things.
+- fresh: so that the remnant of men and all nations upon whom my name has been called upon them may seek, says the Lord God who does these things.
 - brenton: that the remnant of men, and all the Gentiles upon whom my name is called, may earnestly seek me, saith the Lord who does all these things.
 
 ### Amos 9:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, days are coming, says the Lord, and plowman will overtake harvest, and grape will become dark in sowing, and mountains will drip sweetness and all hills will be thickly planted together.
+- fresh: Behold, days are coming, says the Lord, and the threshing will overtake the vintage, and the grape will become dark in the sowing, and the mountains will drip sweetness and all the hills will be thickly planted together.
 - brenton: Behold, the days come, saith the Lord, when the harvest shall overtake the vintage, and the grapes shall ripen at seedtime; and the mountains shall drop sweet wine, and all the hills shall be planted.
 
 ### Amos 9:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will turn back captivity of my people Israel, and they will rebuild ruined cities and dwell in them and plant vineyards and drink their wine and plant gardens and eat their fruit.
+- fresh: And I will turn back the captivity of my people Israel, and they will rebuild the ruined cities and dwell in them and plant vineyards and drink their wine and plant gardens and eat their fruit.
 - brenton: And I will turn the captivity of my people Israel, and they shall rebuild the ruined cities, and shall inhabit them; and they shall plant vineyards, and shall drink the wine from them; and they shall form gardens, and eat the fruit of them.
 
 ### Amos 9:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will plant them upon their land, and they will never again be pulled up from their land that I gave them, says the Lord God Almighty.
+- fresh: And I will plant them upon their land, and they will certainly no longer be pulled up from their land which I gave them, says the Lord God Almighty.
 - brenton: And I will plant them on their land, and they shall no more be plucked up from the land which I have given them, saith the Lord God Almighty.
 
 ## Obadiah

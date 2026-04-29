@@ -90882,7 +90882,7 @@ Those swearing by the propitiation of Samaria and saying, Your god lives, O Dan,
 
 **Amos 9:1**
 
-I saw the Lord standing upon the altar, and he said, Strike upon the mercy-seat, and the foregates will be shaken; cut through into heads of all, and the remnant of them I will kill with sword. No one fleeing from them will flee away, and no one being rescued from them will be saved.
+I saw the Lord standing upon the altar, and he said, Strike upon the mercy-seat, and the foregates will be shaken; cut through into heads of all, and the remnant of them I will kill with a sword. The one fleeing from them will certainly not escape, and the one being rescued from them will certainly not be saved.
 
 **Amos 9:2**
 
@@ -90890,7 +90890,7 @@ If they dig down into Hades, from there my hand will pull them up, and if they g
 
 **Amos 9:3**
 
-If they hide on top of Carmel, from there I will search out and take them, and if they sink from before my eyes into the depths of sea, there I will command the dragon and it will bite them.
+If they hide on the top of Carmel, from there I will search out and take them, and if they sink from before my eyes into the depths of the sea, there I will command the dragon and it will bite them.
 
 **Amos 9:4**
 
@@ -90898,7 +90898,7 @@ And if they go into captivity before the face of their enemies, there I will com
 
 **Amos 9:5**
 
-And the Lord, the Lord God Almighty, touching the earth and shaking it, and all inhabiting it will mourn, and its whole end will rise like a river and descend like a river of Egypt.
+And the Lord, the Lord God Almighty, touching the earth and shaking it, and all those inhabiting it will mourn, and its consummation will rise like a river and descend like a river of Egypt.
 
 **Amos 9:6**
 
@@ -90906,39 +90906,39 @@ The one building his ascent into heaven and founding his promise on the earth, c
 
 **Amos 9:7**
 
-Are you not to me like sons of Ethiopians, sons of Israel? says the Lord. Did I not bring Israel up from the land of Egypt, and foreigners from Cappadocia, and Syrians from the pit?
+Are you not to me like sons of Ethiopians, O sons of Israel? says the Lord. Did I not bring Israel up from the land of Egypt, and foreigners from Cappadocia, and Syrians from the pit?
 
 **Amos 9:8**
 
-Behold, eyes of the Lord God are upon the kingdom of sinners, and I will remove it from the face of the earth, except that I will not entirely remove house of Jacob, says the Lord.
+Behold, the eyes of the Lord God are upon the kingdom of sinners, and I will remove it from the face of the earth, except that I will not entirely remove the house of Jacob, says the Lord.
 
 **Amos 9:9**
 
-Because behold, I command and will winnow house of Israel among all nations just as it is winnowed in a sieve, and not a fragment will fall on the earth.
+Because behold, I command and will winnow the house of Israel among all nations just as it is winnowed in a sieve, and a fragment will certainly not fall on the earth.
 
 **Amos 9:10**
 
-All sinners of my people will end by sword, those saying, Evils will never come near us nor happen upon us.
+All sinners of my people will die by a sword, those saying, The evils will certainly not draw near nor happen upon us.
 
 **Amos 9:11**
 
-In that day I will raise up tent of David that has fallen and rebuild its fallen things and raise up its dug-down things and rebuild it as days of the age,
+In that day I will raise up the tent of David that has fallen and rebuild its fallen things and raise up its dug-down things and rebuild it as days of the age,
 
 **Amos 9:12**
 
-so that the remnant of men and all nations upon whom my name has been called may seek, says the Lord God who does these things.
+so that the remnant of men and all nations upon whom my name has been called upon them may seek, says the Lord God who does these things.
 
 **Amos 9:13**
 
-Behold, days are coming, says the Lord, and plowman will overtake harvest, and grape will become dark in sowing, and mountains will drip sweetness and all hills will be thickly planted together.
+Behold, days are coming, says the Lord, and the threshing will overtake the vintage, and the grape will become dark in the sowing, and the mountains will drip sweetness and all the hills will be thickly planted together.
 
 **Amos 9:14**
 
-And I will turn back captivity of my people Israel, and they will rebuild ruined cities and dwell in them and plant vineyards and drink their wine and plant gardens and eat their fruit.
+And I will turn back the captivity of my people Israel, and they will rebuild the ruined cities and dwell in them and plant vineyards and drink their wine and plant gardens and eat their fruit.
 
 **Amos 9:15**
 
-And I will plant them upon their land, and they will never again be pulled up from their land that I gave them, says the Lord God Almighty.
+And I will plant them upon their land, and they will certainly no longer be pulled up from their land which I gave them, says the Lord God Almighty.
 
 ## Obadiah
 
