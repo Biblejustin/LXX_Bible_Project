@@ -55,8 +55,8 @@
   },
   "translation_decision_filter": {
     "present": 1,
-    "rows": 11167,
-    "skipped_non_variant": 6487,
+    "rows": 11208,
+    "skipped_non_variant": 6528,
     "skipped_unreviewed": 2783,
     "included": 1897,
     "included_refs": 1897

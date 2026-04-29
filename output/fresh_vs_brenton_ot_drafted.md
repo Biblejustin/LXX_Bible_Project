@@ -198223,7 +198223,7 @@ Note:
 ### Hosea 12:1
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: Ephraim surrounded me with falsehood, and the house of Israel and Judah with impieties; but now God knows them, and they will be called God's holy people.
@@ -198232,16 +198232,16 @@ Note:
 ### Hosea 12:2
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: But Ephraim pursued evil wind, pursuing scorching heat all day. It multiplied emptiness and vanity, and made covenant with Assyrians, and was trading oil into Egypt.
+- fresh: But Ephraim pursued an evil wind, scorching heat all day. He multiplied empty and vain things, and made a covenant with the Assyrians, and oil was traded into Egypt.
 - brenton: But Ephraim is an evil spirit, he has chased the east wind all the day: he has multiplied empty and vain things, and made a covenant with the Assyrians, and oil has gone in the way of traffic into Egypt.
 
 ### Hosea 12:3
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: And the Lord has a case against Judah, to avenge Jacob according to his ways and repay him according to his practices.
@@ -198250,34 +198250,34 @@ Note:
 ### Hosea 12:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In womb he grabbed heel of his brother, and in his labors he grew strong toward God.
+- fresh: In the womb he grabbed the heel of his brother, and in his labors he grew strong toward God.
 - brenton: He took his brother by the heel in the womb, and in his labours he had power with God.
 
 ### Hosea 12:5
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And he grew strong with an angel and prevailed; they wept and begged me. In the house of On they found me, and there speech was made toward him.
+- fresh: And he grew strong with an angel and prevailed; they wept and begged me. In the house of On they found me, and there it was spoken toward him.
 - brenton: And he prevailed with the angel and was strong: they wept, and intreated me: they found me in the house of On, and there a word was spoken to them.
 
 ### Hosea 12:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord God Almighty will be his memorial.
+- fresh: But the Lord God Almighty will be his memorial.
 - brenton: But the Lord God Almighty shall be his memorial.
 
 ### Hosea 12:7
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: And you, in your God you will return; keep mercy and judgment and draw near to your God always.
@@ -198286,52 +198286,52 @@ Note:
 ### Hosea 12:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Canaan, in his hand a scale of injustice; he loved to oppress.
+- fresh: Canaan, in his hand is a scale of injustice; he loved to oppress.
 - brenton: As for Chanaan, in his hand is a balance of unrighteousness: he has loved to tyrannise.
 
 ### Hosea 12:9
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ephraim said, Yet I became rich; I found relief for myself. All his labors will not be found for him in injustices by which he sinned.
+- fresh: And Ephraim said, Yet I became rich; I found relief for myself. All his labors will not be found for him because of injustices by which he sinned.
 - brenton: And Ephraim said, Nevertheless I am rich, I have found refreshment to myself. None of his labours shall be found available to him, by reason of the sins which he has committed.
 
 ### Hosea 12:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: But I am the Lord your God who brought you up from the land of Egypt. I will still make you dwell in tents as in the days of feast.
+- fresh: But I am the Lord your God who brought you up from the land of Egypt. I will still make you dwell in tents as on a day of feast.
 - brenton: But I the Lord thy God brought thee up out of the land of Egypt: I will yet cause thee to dwell in tabernacles, according to the days of the feast.
 
 ### Hosea 12:11
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will speak to prophets, and I multiplied visions, and by the hands of prophets I was likened.
+- fresh: And I will speak to the prophets, and I multiplied visions, and by the hands of prophets I was likened.
 - brenton: And I will speak to the prophets, and I have multiplied visions, and by the means of the prophets I was represented.
 
 ### Hosea 12:12
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: If Gilead is not, then were they false? In Gilgal rulers were sacrificing, and their altars were like turtles on the furrows of field.
+- fresh: If Gilead does not exist, then surely they were false. In Gilgal rulers were sacrificing, and their altars were like tortoises on the fallow ground of a field.
 - brenton: If Galaad exists not, then the chiefs in Galaad when they sacrificed were false, and their altars were as heaps on the ground of the field.
 
 ### Hosea 12:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: And Jacob withdrew into the plain of Syria, and Israel served for a wife, and for a wife he kept watch.
@@ -198340,19 +198340,19 @@ Note:
 ### Hosea 12:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And by a prophet the Lord brought Israel up from Egypt, and by a prophet he was kept.
+- fresh: And by a prophet the Lord brought Israel up out of Egypt, and by a prophet he was preserved.
 - brenton: And the Lord brought Israel out of the land of Egypt by a prophet, and by a prophet was he preserved.
 
 ### Hosea 12:15
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Ephraim enraged and provoked, and his blood will be poured upon him, and the Lord will repay him his reproach.
+- fresh: Ephraim was angry and provoked anger, and his blood will be poured upon him, and the Lord will repay his reproach to him.
 - brenton: Ephraim was angry and excited, therefore his blood shall be poured out upon him, and the Lord shall recompense to him his reproach.
 
 ### Hosea 13:1

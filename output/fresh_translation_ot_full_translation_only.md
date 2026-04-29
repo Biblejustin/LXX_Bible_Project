@@ -89876,7 +89876,7 @@ Ephraim surrounded me with falsehood, and the house of Israel and Judah with imp
 
 **Hosea 12:2**
 
-But Ephraim pursued evil wind, pursuing scorching heat all day. It multiplied emptiness and vanity, and made covenant with Assyrians, and was trading oil into Egypt.
+But Ephraim pursued an evil wind, scorching heat all day. He multiplied empty and vain things, and made a covenant with the Assyrians, and oil was traded into Egypt.
 
 **Hosea 12:3**
 
@@ -89884,15 +89884,15 @@ And the Lord has a case against Judah, to avenge Jacob according to his ways and
 
 **Hosea 12:4**
 
-In womb he grabbed heel of his brother, and in his labors he grew strong toward God.
+In the womb he grabbed the heel of his brother, and in his labors he grew strong toward God.
 
 **Hosea 12:5**
 
-And he grew strong with an angel and prevailed; they wept and begged me. In the house of On they found me, and there speech was made toward him.
+And he grew strong with an angel and prevailed; they wept and begged me. In the house of On they found me, and there it was spoken toward him.
 
 **Hosea 12:6**
 
-And the Lord God Almighty will be his memorial.
+But the Lord God Almighty will be his memorial.
 
 **Hosea 12:7**
 
@@ -89900,23 +89900,23 @@ And you, in your God you will return; keep mercy and judgment and draw near to y
 
 **Hosea 12:8**
 
-Canaan, in his hand a scale of injustice; he loved to oppress.
+Canaan, in his hand is a scale of injustice; he loved to oppress.
 
 **Hosea 12:9**
 
-And Ephraim said, Yet I became rich; I found relief for myself. All his labors will not be found for him in injustices by which he sinned.
+And Ephraim said, Yet I became rich; I found relief for myself. All his labors will not be found for him because of injustices by which he sinned.
 
 **Hosea 12:10**
 
-But I am the Lord your God who brought you up from the land of Egypt. I will still make you dwell in tents as in the days of feast.
+But I am the Lord your God who brought you up from the land of Egypt. I will still make you dwell in tents as on a day of feast.
 
 **Hosea 12:11**
 
-And I will speak to prophets, and I multiplied visions, and by the hands of prophets I was likened.
+And I will speak to the prophets, and I multiplied visions, and by the hands of prophets I was likened.
 
 **Hosea 12:12**
 
-If Gilead is not, then were they false? In Gilgal rulers were sacrificing, and their altars were like turtles on the furrows of field.
+If Gilead does not exist, then surely they were false. In Gilgal rulers were sacrificing, and their altars were like tortoises on the fallow ground of a field.
 
 **Hosea 12:13**
 
@@ -89924,11 +89924,11 @@ And Jacob withdrew into the plain of Syria, and Israel served for a wife, and fo
 
 **Hosea 12:14**
 
-And by a prophet the Lord brought Israel up from Egypt, and by a prophet he was kept.
+And by a prophet the Lord brought Israel up out of Egypt, and by a prophet he was preserved.
 
 **Hosea 12:15**
 
-Ephraim enraged and provoked, and his blood will be poured upon him, and the Lord will repay him his reproach.
+Ephraim was angry and provoked anger, and his blood will be poured upon him, and the Lord will repay his reproach to him.
 
 ### Chapter 13
 
