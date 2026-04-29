@@ -89996,19 +89996,19 @@ Because he himself will make a separation among brothers, the Lord will bring an
 
 **Hosea 14:1**
 
-Samaria will be destroyed, because she opposed her God. By sword they will fall, their nursing infants will be dashed down, and their pregnant women ripped open.
+Samaria will be destroyed, because she opposed her God. By sword they will fall, their nursing infants will be dashed down, and their pregnant women will be ripped open.
 
 **Hosea 14:2**
 
-Return, Israel, to the Lord your God, because you grew weak in your injustices.
+Return, O Israel, to the Lord your God, because you grew weak in your injustices.
 
 **Hosea 14:3**
 
-Take words with yourselves and return to the Lord your God. Say to him that you may not take injustice and may take good things, and we will repay fruit of our lips.
+Take words with you and return to the Lord your God. Say to him that you may not receive injustice and may receive good things, and we will repay the fruit of our lips.
 
 **Hosea 14:4**
 
-Assyria will never save us; we will not mount horse, and we will no longer say, Our gods, to works of our hands; in you orphan will find mercy.
+Assyria will never save us; we will not mount a horse, and we will no longer say to the works of our hands, Our gods. The one who is in you will have mercy on an orphan.
 
 **Hosea 14:5**
 
@@ -90016,19 +90016,19 @@ I will heal their dwellings; I will love them openly, because my anger turned aw
 
 **Hosea 14:6**
 
-I will be like dew to Israel; he will blossom like lily and cast his roots like Lebanon.
+I will be like dew to Israel; he will blossom like a lily and cast forth his roots like Lebanon.
 
 **Hosea 14:7**
 
-His branches will go out, and he will be like a fruitful olive, and his smell like Lebanon.
+His branches will go forth, and he will be like a fruitful olive, and his smell will be like Lebanon.
 
 **Hosea 14:8**
 
-They will return and sit under his shelter; they will live and be made drunk with grain and blossom like a vine; his memorial like wine of Lebanon.
+They will return and sit under his shelter; they will live and be made drunk with grain, and he will blossom like a vine; his memorial will be like wine of Lebanon.
 
 **Hosea 14:9**
 
-What further has Ephraim to do with idols? I humbled him and I will strengthen him. I am like thick-jutting juniper; from me your fruit is found.
+What further has Ephraim to do with idols? I humbled him and I will strengthen him. I am like a thickly covered juniper; from me your fruit is found.
 
 **Hosea 14:10**
 

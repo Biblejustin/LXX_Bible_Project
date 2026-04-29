@@ -198493,43 +198493,43 @@ Note:
 ### Hosea 14:1
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Samaria will be destroyed, because she opposed her God. By sword they will fall, their nursing infants will be dashed down, and their pregnant women ripped open.
+- fresh: Samaria will be destroyed, because she opposed her God. By sword they will fall, their nursing infants will be dashed down, and their pregnant women will be ripped open.
 - brenton: Samaria shall be utterly destroyed: for she has resisted her God; they shall fall by the sword, and their sucklings shall be dashed against the ground, and their women with child ripped up.
 
 ### Hosea 14:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Return, Israel, to the Lord your God, because you grew weak in your injustices.
+- fresh: Return, O Israel, to the Lord your God, because you grew weak in your injustices.
 - brenton: Return, O Israel, to the Lord thy God; for the people have fallen through thine iniquities.
 
 ### Hosea 14:3
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Take words with yourselves and return to the Lord your God. Say to him that you may not take injustice and may take good things, and we will repay fruit of our lips.
+- fresh: Take words with you and return to the Lord your God. Say to him that you may not receive injustice and may receive good things, and we will repay the fruit of our lips.
 - brenton: Take with you words, and turn to the Lord your God: speak to him, that ye may not receive the reward of unrighteousness, but that ye may receive good things: and we will render in return the fruit of our lips.
 
 ### Hosea 14:4
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Assyria will never save us; we will not mount horse, and we will no longer say, Our gods, to works of our hands; in you orphan will find mercy.
+- fresh: Assyria will never save us; we will not mount a horse, and we will no longer say to the works of our hands, Our gods. The one who is in you will have mercy on an orphan.
 - brenton: Assur shall never save us; we will not mount on horseback; we will no longer say to the works of our hands, Our gods. He who is in thee shall pity the orphan.
 
 ### Hosea 14:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: I will heal their dwellings; I will love them openly, because my anger turned away from them.
@@ -198538,43 +198538,43 @@ Note:
 ### Hosea 14:6
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: I will be like dew to Israel; he will blossom like lily and cast his roots like Lebanon.
+- fresh: I will be like dew to Israel; he will blossom like a lily and cast forth his roots like Lebanon.
 - brenton: I will be as dew to Israel: he shall bloom as the lily, and cast forth his roots as Libanus.
 
 ### Hosea 14:7
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: His branches will go out, and he will be like a fruitful olive, and his smell like Lebanon.
+- fresh: His branches will go forth, and he will be like a fruitful olive, and his smell will be like Lebanon.
 - brenton: His branches shall spread, and he shall be as a fruitful olive, and his smell shall be as the smell of Libanus.
 
 ### Hosea 14:8
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: They will return and sit under his shelter; they will live and be made drunk with grain and blossom like a vine; his memorial like wine of Lebanon.
+- fresh: They will return and sit under his shelter; they will live and be made drunk with grain, and he will blossom like a vine; his memorial will be like wine of Lebanon.
 - brenton: They shall return, and dwell under his shadow: they shall live and be satisfied with corn, and he shall flower as a vine: his memorial shall be to Ephraim as the wine of Libanus.
 
 ### Hosea 14:9
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: What further has Ephraim to do with idols? I humbled him and I will strengthen him. I am like thick-jutting juniper; from me your fruit is found.
+- fresh: What further has Ephraim to do with idols? I humbled him and I will strengthen him. I am like a thickly covered juniper; from me your fruit is found.
 - brenton: What has he to do any more with idols? I have afflicted him, and I will strengthen him: I am as a leafy juniper tree. From me is thy fruit found.
 
 ### Hosea 14:10
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: Who is wise and will understand these things, or intelligent and will know them? Because the ways of the Lord are straight, and righteous ones will walk in them, but impious ones will grow weak in them.
