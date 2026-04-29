@@ -87918,11 +87918,11 @@ And Daniel remained until the first year of the reign of Cyrus king of the Persi
 
 **Daniel 2:1**
 
-And in the second year of the reign of Nebuchadnezzar it happened that visions and dreams fell upon the king, and he was troubled in his dream, and his sleep left him.
+And in the second year of the reign of Nebuchadnezzar it happened that the king fell into visions and dreams, and he was troubled in his dream, and his sleep departed from him.
 
 **Daniel 2:2**
 
-And the king commanded that enchanters and magi and sorcerers of the Chaldeans be brought in to tell the king his dreams, and when they came they stood before the king.
+And the king commanded that the enchanters and the magi and the sorcerers of the Chaldeans be brought in to tell the king his dreams, and when they came they stood beside the king.
 
 **Daniel 2:3**
 
@@ -87934,11 +87934,11 @@ And the Chaldeans spoke to the king in Syriac, O lord king, live forever. Tell t
 
 **Daniel 2:5**
 
-And the king answered and said to the Chaldeans, If you do not tell me truthfully the dream and make its interpretation clear to me, you will be made examples, and your possessions will be taken into the royal treasury.
+And the king answered and said to the Chaldeans, If you do not tell me the dream in truth and make its interpretation clear to me, you will be made examples, and your possessions will be taken into the royal treasury.
 
 **Daniel 2:6**
 
-But if you make the dream plain to me and tell its interpretation, you will receive all kinds of gifts and be honored by me. So tell me the dream and judge it.
+But if you make the dream plain to me and tell its interpretation, you will receive all kinds of gifts and be honored by me. So make the dream clear to me and judge it.
 
 **Daniel 2:7**
 
@@ -87950,7 +87950,7 @@ And the king said to them, Truly I know that you are buying time, since you have
 
 **Daniel 2:9**
 
-If you do not tell me truthfully the dream and make its interpretation clear, you will fall under death. For you agreed to devise false words against me until the time changes. So now if you tell me the word I saw in the night, I will know that you can also declare its judgment.
+If you do not tell me the dream in truth and make its interpretation clear, you will fall under death. For you agreed to devise false words against me until the time changes. So now if you tell me the word I saw in the night, I will know that you can also declare its judgment.
 
 **Daniel 2:10**
 
@@ -87962,11 +87962,11 @@ And the word you seek, king, is heavy and notable, and no one can declare these 
 
 **Daniel 2:12**
 
-Then king became hateful and deeply grieved and ordered that all wise men of Babylon be brought out.
+Then the king became gloomy and deeply grieved and ordered that all the wise men of Babylon be brought out.
 
 **Daniel 2:13**
 
-And decree went out to kill them all, and Daniel and all with him were sought, that they might be destroyed together.
+And the decree went out to kill them all, and Daniel and all those with him were sought so that they might be destroyed together.
 
 **Daniel 2:14**
 
@@ -87974,7 +87974,7 @@ Then Daniel spoke with counsel and judgment to Arioch, chief butcher of the king
 
 **Daniel 2:15**
 
-And he asked him, saying, For what reason is decree issued so bitterly by the king? Then Arioch made the command known to Daniel.
+And he asked him, saying, For what reason is the decree issued so bitterly by the king? Then Arioch made the command known to Daniel.
 
 **Daniel 2:16**
 
@@ -87986,11 +87986,11 @@ Then Daniel went away to his house and showed everything to Hananiah and Mishael
 
 **Daniel 2:18**
 
-And he ordered fasting and petition and mercy to be sought from the Lord Most High concerning this mystery, so that Daniel and those with him might not be given over to destruction together with sages of Babylon.
+And he ordered fasting and petition and help to be sought from the Lord Most High concerning this mystery, so that Daniel and those with him might not be given over to destruction together with the sophists of Babylon.
 
 **Daniel 2:19**
 
-Then to Daniel in a vision in that night mystery of the king was clearly revealed. Then Daniel blessed the Lord Most High.
+Then the mystery of the king was clearly revealed to Daniel in a vision that night. Then Daniel blessed the Lord Most High.
 
 **Daniel 2:20**
 
@@ -88002,7 +88002,7 @@ And he changes times and seasons, removing kings and setting them up, giving wis
 
 **Daniel 2:22**
 
-Revealing the deep and dark things, and knowing what is in darkness; and with him is dwelling in light.
+Revealing the deep and dark things, and knowing the things in the darkness and the things in the light; and with him is a dwelling place.
 
 **Daniel 2:23**
 
@@ -88010,11 +88010,11 @@ To you, Lord of my fathers, I give thanks and praise, because you gave me wisdom
 
 **Daniel 2:24**
 
-Then Daniel entered to Arioch, the one appointed by king to kill all sages of Babylon, and said to him, Do not destroy the sages of Babylon. Bring me in before the king, and I will declare each thing to the king.
+Then Daniel entered to Arioch, the one appointed by the king to kill all the sophists of Babylon, and said to him, Do not destroy the sophists of Babylon. Bring me in before the king, and I will declare each thing to the king.
 
 **Daniel 2:25**
 
-Then Arioch hurriedly brought Daniel to the king and said to him, I found a wise man from the captivity of sons of Judah who will declare each thing to the king.
+Then Arioch hurriedly brought Daniel to the king and said to him, I found a wise man from the captivity of the sons of Judah who will declare each thing to the king.
 
 **Daniel 2:26**
 
@@ -88030,15 +88030,15 @@ But there is a God in heaven revealing mysteries, who made known to King Nebucha
 
 **Daniel 2:29**
 
-You, king, lying on your bed, saw all things that must happen in the last days, and the one revealing mysteries made known to you what must happen.
+You, king, lying on your bed, saw all the things that must happen in the last days, and the one revealing mysteries made known to you what must happen.
 
 **Daniel 2:30**
 
-And as for me, this mystery was revealed not because of wisdom in me above all men, but so that it might be declared to the king; it was made known to me what you took up in your heart in knowledge.
+And as for me, this mystery was revealed not because of wisdom in me above all men, but so that it might be declared to the king; it was made known to me what you took up in your heart with knowledge.
 
 **Daniel 2:31**
 
-And you, king, saw, and behold, one image. And that image was exceedingly great, and its appearance was surpassing; it stood before you, and appearance of the image was fearsome.
+And you, king, saw, and behold, one image. And that image was exceedingly great, and its appearance was surpassing; it stood before you, and the appearance of the image was fearsome.
 
 **Daniel 2:32**
 
@@ -88050,11 +88050,11 @@ and its legs iron, and its feet partly iron and partly earthenware.
 
 **Daniel 2:34**
 
-You were looking until a stone was cut from mountain without hands, and it struck the image on the iron and earthenware feet and crushed them.
+You were looking until a stone was cut from a mountain without hands, and it struck the image on the iron and earthenware feet and crushed them.
 
 **Daniel 2:35**
 
-Then iron and earthenware and bronze and silver and gold alike became as fine as chaff on threshing floor, and wind scattered them so that nothing of them was left. And the stone that struck the image became a great mountain and struck all the earth.
+Then iron and earthenware and bronze and silver and gold alike became as fine as chaff on a threshing floor, and the wind scattered them so that nothing was left of them. And the stone that struck the image became a great mountain and struck all the earth.
 
 **Daniel 2:36**
 
@@ -88062,11 +88062,11 @@ This is the vision, and we will tell its judgment before the king.
 
 **Daniel 2:37**
 
-You, king, are king of kings, and to you Lord of heaven gave the rule and the kingdom and the strength and the honor and the glory.
+You, king, are king of kings, and to you the Lord of heaven gave the rule and the kingdom and the strength and the honor and the glory.
 
 **Daniel 2:38**
 
-In all inhabited world, among humans and wild beasts and birds of heaven and fish of the sea, he gave them into your hands to rule all things. You are the golden head.
+In all the inhabited world, from humans and wild beasts and birds of heaven and fish of the sea, he gave them under your hands to rule over all things. You are the golden head.
 
 **Daniel 2:39**
 
@@ -88082,7 +88082,7 @@ And as you saw its feet, partly pottery of clay and partly iron, another kingdom
 
 **Daniel 2:42**
 
-And toes of the feet, partly iron and partly earthenware: part of the kingdom will be strong, and part will be broken.
+And the toes of the feet, partly iron and partly earthenware: part of the kingdom will be strong, and part will be broken.
 
 **Daniel 2:43**
 
@@ -88094,7 +88094,7 @@ And in the days of those kings the God of heaven will set up another kingdom tha
 
 **Daniel 2:45**
 
-Just as you saw a stone cut from mountain without hands, and it crushed the pottery, the iron, the bronze, the silver, and the gold, great God made known to the king things that will happen in the last days, and the vision is exact and its judgment is faithful.
+Just as you saw a stone cut from a mountain without hands, and it crushed the pottery, the iron, the bronze, the silver, and the gold, the great God made known to the king the things that will happen in the last days, and the vision is exact and its judgment is faithful.
 
 **Daniel 2:46**
 
@@ -88102,15 +88102,15 @@ Then King Nebuchadnezzar fell on his face to the ground and worshiped Daniel, an
 
 **Daniel 2:47**
 
-And the king cried out to Daniel and said, Truly your God is the God of gods and the Lord of kings, the one alone revealing hidden mysteries, because you were able to declare this mystery.
+And the king cried out to Daniel and said, Truly your God is the God of gods and the Lord of kings, the one who alone reveals hidden mysteries, because you were able to declare this mystery.
 
 **Daniel 2:48**
 
-Then King Nebuchadnezzar magnified Daniel and gave great and many gifts, and appointed him over the affairs of Babylon and designated him chief and ruler of all sages of Babylon.
+Then King Nebuchadnezzar magnified Daniel and gave great and many gifts, and appointed him over the affairs of Babylon and designated him ruler and leader of all the sophists of Babylon.
 
 **Daniel 2:49**
 
-And Daniel asked the king that Shadrach, Meshach, and Abednego be appointed over the affairs of Babylon, and Daniel remained in royal court.
+And Daniel asked the king that Shadrach, Meshach, and Abednego be appointed over the affairs of Babylon, and Daniel remained in the royal court.
 
 ### Chapter 3
 

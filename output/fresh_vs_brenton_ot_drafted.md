@@ -193928,19 +193928,19 @@ Note:
 ### Daniel 2:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And in the second year of the reign of Nebuchadnezzar it happened that visions and dreams fell upon the king, and he was troubled in his dream, and his sleep left him.
+- fresh: And in the second year of the reign of Nebuchadnezzar it happened that the king fell into visions and dreams, and he was troubled in his dream, and his sleep departed from him.
 - brenton: [missing]
 
 ### Daniel 2:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king commanded that enchanters and magi and sorcerers of the Chaldeans be brought in to tell the king his dreams, and when they came they stood before the king.
+- fresh: And the king commanded that the enchanters and the magi and the sorcerers of the Chaldeans be brought in to tell the king his dreams, and when they came they stood beside the king.
 - brenton: [missing]
 
 ### Daniel 2:3
@@ -193964,19 +193964,19 @@ Note:
 ### Daniel 2:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king answered and said to the Chaldeans, If you do not tell me truthfully the dream and make its interpretation clear to me, you will be made examples, and your possessions will be taken into the royal treasury.
+- fresh: And the king answered and said to the Chaldeans, If you do not tell me the dream in truth and make its interpretation clear to me, you will be made examples, and your possessions will be taken into the royal treasury.
 - brenton: [missing]
 
 ### Daniel 2:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But if you make the dream plain to me and tell its interpretation, you will receive all kinds of gifts and be honored by me. So tell me the dream and judge it.
+- fresh: But if you make the dream plain to me and tell its interpretation, you will receive all kinds of gifts and be honored by me. So make the dream clear to me and judge it.
 - brenton: [missing]
 
 ### Daniel 2:7
@@ -194000,10 +194000,10 @@ Note:
 ### Daniel 2:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If you do not tell me truthfully the dream and make its interpretation clear, you will fall under death. For you agreed to devise false words against me until the time changes. So now if you tell me the word I saw in the night, I will know that you can also declare its judgment.
+- fresh: If you do not tell me the dream in truth and make its interpretation clear, you will fall under death. For you agreed to devise false words against me until the time changes. So now if you tell me the word I saw in the night, I will know that you can also declare its judgment.
 - brenton: [missing]
 
 ### Daniel 2:10
@@ -194018,7 +194018,7 @@ Note:
 ### Daniel 2:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And the word you seek, king, is heavy and notable, and no one can declare these things to the king, except perhaps an angel whose dwelling is not with all flesh. So it cannot happen as you think.
@@ -194027,19 +194027,19 @@ Note:
 ### Daniel 2:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Then king became hateful and deeply grieved and ordered that all wise men of Babylon be brought out.
+- fresh: Then the king became gloomy and deeply grieved and ordered that all the wise men of Babylon be brought out.
 - brenton: [missing]
 
 ### Daniel 2:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And decree went out to kill them all, and Daniel and all with him were sought, that they might be destroyed together.
+- fresh: And the decree went out to kill them all, and Daniel and all those with him were sought so that they might be destroyed together.
 - brenton: [missing]
 
 ### Daniel 2:14
@@ -194054,10 +194054,10 @@ Note:
 ### Daniel 2:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he asked him, saying, For what reason is decree issued so bitterly by the king? Then Arioch made the command known to Daniel.
+- fresh: And he asked him, saying, For what reason is the decree issued so bitterly by the king? Then Arioch made the command known to Daniel.
 - brenton: [missing]
 
 ### Daniel 2:16
@@ -194081,19 +194081,19 @@ Note:
 ### Daniel 2:18
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he ordered fasting and petition and mercy to be sought from the Lord Most High concerning this mystery, so that Daniel and those with him might not be given over to destruction together with sages of Babylon.
+- fresh: And he ordered fasting and petition and help to be sought from the Lord Most High concerning this mystery, so that Daniel and those with him might not be given over to destruction together with the sophists of Babylon.
 - brenton: [missing]
 
 ### Daniel 2:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then to Daniel in a vision in that night mystery of the king was clearly revealed. Then Daniel blessed the Lord Most High.
+- fresh: Then the mystery of the king was clearly revealed to Daniel in a vision that night. Then Daniel blessed the Lord Most High.
 - brenton: [missing]
 
 ### Daniel 2:20
@@ -194117,10 +194117,10 @@ Note:
 ### Daniel 2:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Revealing the deep and dark things, and knowing what is in darkness; and with him is dwelling in light.
+- fresh: Revealing the deep and dark things, and knowing the things in the darkness and the things in the light; and with him is a dwelling place.
 - brenton: [missing]
 
 ### Daniel 2:23
@@ -194135,19 +194135,19 @@ Note:
 ### Daniel 2:24
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Then Daniel entered to Arioch, the one appointed by king to kill all sages of Babylon, and said to him, Do not destroy the sages of Babylon. Bring me in before the king, and I will declare each thing to the king.
+- fresh: Then Daniel entered to Arioch, the one appointed by the king to kill all the sophists of Babylon, and said to him, Do not destroy the sophists of Babylon. Bring me in before the king, and I will declare each thing to the king.
 - brenton: [missing]
 
 ### Daniel 2:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then Arioch hurriedly brought Daniel to the king and said to him, I found a wise man from the captivity of sons of Judah who will declare each thing to the king.
+- fresh: Then Arioch hurriedly brought Daniel to the king and said to him, I found a wise man from the captivity of the sons of Judah who will declare each thing to the king.
 - brenton: [missing]
 
 ### Daniel 2:26
@@ -194180,28 +194180,28 @@ Note:
 ### Daniel 2:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You, king, lying on your bed, saw all things that must happen in the last days, and the one revealing mysteries made known to you what must happen.
+- fresh: You, king, lying on your bed, saw all the things that must happen in the last days, and the one revealing mysteries made known to you what must happen.
 - brenton: [missing]
 
 ### Daniel 2:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And as for me, this mystery was revealed not because of wisdom in me above all men, but so that it might be declared to the king; it was made known to me what you took up in your heart in knowledge.
+- fresh: And as for me, this mystery was revealed not because of wisdom in me above all men, but so that it might be declared to the king; it was made known to me what you took up in your heart with knowledge.
 - brenton: [missing]
 
 ### Daniel 2:31
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, king, saw, and behold, one image. And that image was exceedingly great, and its appearance was surpassing; it stood before you, and appearance of the image was fearsome.
+- fresh: And you, king, saw, and behold, one image. And that image was exceedingly great, and its appearance was surpassing; it stood before you, and the appearance of the image was fearsome.
 - brenton: [missing]
 
 ### Daniel 2:32
@@ -194225,19 +194225,19 @@ Note:
 ### Daniel 2:34
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You were looking until a stone was cut from mountain without hands, and it struck the image on the iron and earthenware feet and crushed them.
+- fresh: You were looking until a stone was cut from a mountain without hands, and it struck the image on the iron and earthenware feet and crushed them.
 - brenton: [missing]
 
 ### Daniel 2:35
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Then iron and earthenware and bronze and silver and gold alike became as fine as chaff on threshing floor, and wind scattered them so that nothing of them was left. And the stone that struck the image became a great mountain and struck all the earth.
+- fresh: Then iron and earthenware and bronze and silver and gold alike became as fine as chaff on a threshing floor, and the wind scattered them so that nothing was left of them. And the stone that struck the image became a great mountain and struck all the earth.
 - brenton: [missing]
 
 ### Daniel 2:36
@@ -194252,19 +194252,19 @@ Note:
 ### Daniel 2:37
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You, king, are king of kings, and to you Lord of heaven gave the rule and the kingdom and the strength and the honor and the glory.
+- fresh: You, king, are king of kings, and to you the Lord of heaven gave the rule and the kingdom and the strength and the honor and the glory.
 - brenton: [missing]
 
 ### Daniel 2:38
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In all inhabited world, among humans and wild beasts and birds of heaven and fish of the sea, he gave them into your hands to rule all things. You are the golden head.
+- fresh: In all the inhabited world, from humans and wild beasts and birds of heaven and fish of the sea, he gave them under your hands to rule over all things. You are the golden head.
 - brenton: [missing]
 
 ### Daniel 2:39
@@ -194297,10 +194297,10 @@ Note:
 ### Daniel 2:42
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And toes of the feet, partly iron and partly earthenware: part of the kingdom will be strong, and part will be broken.
+- fresh: And the toes of the feet, partly iron and partly earthenware: part of the kingdom will be strong, and part will be broken.
 - brenton: [missing]
 
 ### Daniel 2:43
@@ -194324,10 +194324,10 @@ Note:
 ### Daniel 2:45
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Just as you saw a stone cut from mountain without hands, and it crushed the pottery, the iron, the bronze, the silver, and the gold, great God made known to the king things that will happen in the last days, and the vision is exact and its judgment is faithful.
+- fresh: Just as you saw a stone cut from a mountain without hands, and it crushed the pottery, the iron, the bronze, the silver, and the gold, the great God made known to the king the things that will happen in the last days, and the vision is exact and its judgment is faithful.
 - brenton: [missing]
 
 ### Daniel 2:46
@@ -194342,28 +194342,28 @@ Note:
 ### Daniel 2:47
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king cried out to Daniel and said, Truly your God is the God of gods and the Lord of kings, the one alone revealing hidden mysteries, because you were able to declare this mystery.
+- fresh: And the king cried out to Daniel and said, Truly your God is the God of gods and the Lord of kings, the one who alone reveals hidden mysteries, because you were able to declare this mystery.
 - brenton: [missing]
 
 ### Daniel 2:48
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Then King Nebuchadnezzar magnified Daniel and gave great and many gifts, and appointed him over the affairs of Babylon and designated him chief and ruler of all sages of Babylon.
+- fresh: Then King Nebuchadnezzar magnified Daniel and gave great and many gifts, and appointed him over the affairs of Babylon and designated him ruler and leader of all the sophists of Babylon.
 - brenton: [missing]
 
 ### Daniel 2:49
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Daniel asked the king that Shadrach, Meshach, and Abednego be appointed over the affairs of Babylon, and Daniel remained in royal court.
+- fresh: And Daniel asked the king that Shadrach, Meshach, and Abednego be appointed over the affairs of Babylon, and Daniel remained in the royal court.
 - brenton: [missing]
 
 ### Daniel 3:1
