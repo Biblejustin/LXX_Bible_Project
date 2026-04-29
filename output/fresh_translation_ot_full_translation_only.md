@@ -92382,91 +92382,91 @@ on the twenty-fourth day of the sixth month, in the second year of Darius the ki
 
 **Haggai 2:1**
 
-In seventh month, on twenty-first day of the month, the Lord spoke by the hand of Haggai the prophet, saying,
+In the seventh month, on the twenty-first day of the month, the Lord spoke by the hand of Haggai the prophet, saying,
 
 **Haggai 2:2**
 
-Speak now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech the high priest, and to all remnant of the people, saying,
+Say now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech the high priest, and to all the remnant of the people, saying,
 
 **Haggai 2:3**
 
-Who among you saw this house in its former glory? And how do you see it now? Is it not as though not existing before you?
+Who among you saw this house in its former glory? And how do you see it now? Is it not as though it did not exist before you?
 
 **Haggai 2:4**
 
-But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the high priest, and let all the people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
+And now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the high priest, and let all the people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
 
 **Haggai 2:5**
 
-And my spirit stands in the midst of you; take courage.
+And my spirit has stood in the midst of you; take courage.
 
 **Haggai 2:6**
 
-Thus says the Lord Almighty: Yet once I will shake heaven and earth and sea and dry land.
+For thus says the Lord Almighty: Yet once I will shake heaven and earth and sea and dry land.
 
 **Haggai 2:7**
 
-I will shake all nations, and chosen things of all nations will come, and I will fill this house with glory, says the Lord Almighty.
+And I will shake all the nations, and the chosen things of all the nations will come, and I will fill this house with glory, says the Lord Almighty.
 
 **Haggai 2:8**
 
-Silver is mine, and gold is mine, says the Lord Almighty.
+Mine is the silver, and mine is the gold, says the Lord Almighty.
 
 **Haggai 2:9**
 
-The latter glory of this house will be greater than the first, says the Lord Almighty, and in this place I will give peace, says the Lord Almighty, and peace of soul for preservation to everyone building to raise this temple.
+The latter glory of this house will be greater than the first, says the Lord Almighty, and in this place I will give peace, says the Lord Almighty, and peace of soul for preservation to everyone building, to raise up this temple.
 
 **Haggai 2:10**
 
-On the twenty-fourth day of the ninth month, in the second year of Darius, the word of the Lord came to Haggai prophet, saying,
+On the twenty-fourth day of the ninth month, in the second year of Darius, the word of the Lord came to Haggai the prophet, saying,
 
 **Haggai 2:11**
 
-Thus says the Lord Almighty: Ask priests about law, saying,
+Thus says the Lord Almighty: Ask the priests about the law, saying,
 
 **Haggai 2:12**
 
-If a man takes holy flesh in fold of his garment and edge of garment touches bread or cooked food or wine or oil or any food, will it be made holy? Priests answered and said, No.
+If a man takes holy flesh in the fold of his garment and the edge of his garment touches bread or cooked food or wine or oil or any food, will it be made holy? And the priests answered and said, No.
 
 **Haggai 2:13**
 
-Haggai said, If one defiled by a corpse touches any of these, will it be defiled? Priests answered and said, It will be defiled.
+And Haggai said, If one defiled by a corpse touches any of these, will it be defiled? And the priests answered and said, It will be defiled.
 
 **Haggai 2:14**
 
-Haggai answered and said, So is this people and so is this nation before me, says the Lord, and so are all works of their hands, and whatever approaches there will be defiled. Because of their early spoil they will be pained before their labors, and you hated those rebuking in gates.
+And Haggai answered and said, So is this people and so is this nation before me, says the Lord, and so are all the works of their hands, and whoever approaches there will be defiled. Because of their early gains they will be pained before their labors, and you hated those rebuking in the gates.
 
 **Haggai 2:15**
 
-And now set this on your hearts from this day and upward, before stone was set upon stone in the temple of the Lord.
+And now set this in your hearts from this day and upward, before setting stone upon stone in the temple of the Lord.
 
 **Haggai 2:16**
 
-What were you when you put into heap twenty seahs of barley and it became ten, and you went into wine-vat to draw fifty measures and there became twenty?
+What were you when you put twenty seahs of barley into a grain-bin and it became ten seahs, and you went into the wine-vat to draw fifty measures and there became twenty?
 
 **Haggai 2:17**
 
-I struck you with barrenness and blight and hail, all works of your hands, and you did not turn to me, says the Lord.
+I struck you with barrenness and blight and hail in all the works of your hands, and you did not return to me, says the Lord.
 
 **Haggai 2:18**
 
-Submit your hearts now from this day and onward, from twenty-fourth day of the ninth month and from the day when temple of the Lord was founded; set it in your hearts.
+Submit your hearts now from this day and onward, from the twenty-fourth day of the ninth month and from the day when the temple of the Lord was founded; set it in your hearts.
 
 **Haggai 2:19**
 
-Is seed still known on threshing-floor? And if vine and fig tree and pomegranate and olive trees that do not bear fruit, from this day I will bless.
+Is it still known on the threshing floor? And are the vine and the fig tree and the pomegranate and the olive trees still not bearing fruit? From this day I will bless.
 
 **Haggai 2:20**
 
-The word of the Lord came second time to Haggai prophet on the twenty-fourth day of the month, saying,
+And the word of the Lord came a second time to Haggai the prophet on the twenty-fourth day of the month, saying,
 
 **Haggai 2:21**
 
-Speak to Zerubbabel son of Shealtiel from the tribe of Judah, saying: I shake heaven and earth and sea and dry land,
+Say to Zerubbabel son of Shealtiel from the tribe of Judah, saying: I shake heaven and earth and sea and dry land,
 
 **Haggai 2:22**
 
-and I will overturn thrones of kings and destroy strength of kings of nations and overturn chariots and riders, and horses and riders will come down, each by the sword of his brother.
+and I will overturn the thrones of kings and destroy the strength of kings of the nations and overturn chariots and riders, and horses and their riders will come down, each by the sword against his brother.
 
 **Haggai 2:23**
 
