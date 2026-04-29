@@ -199379,145 +199379,145 @@ Note:
 ### Amos 2:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: For three impieties of Moab and for four I will not turn him away, because they burned bones of the king of Edom to lime.
+- fresh: Thus says the Lord: For three impieties of Moab and for four I will not turn him away, because they burned the bones of the king of Edom into lime.
 - brenton: Thus saith the Lord; For three sins of Moab, and for four, I will not turn away from it; because they burnt the bones of the king of Idumea to lime.
 
 ### Amos 2:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will send fire upon Moab, and it will devour foundations of her cities, and Moab will die in weakness with shouting and with the sound of a trumpet.
+- fresh: And I will send fire upon Moab, and it will devour the foundations of her cities, and Moab will die in weakness, with a shout and with the sound of a trumpet.
 - brenton: But I will send forth a fire on Moab, and it shall devour the foundations of its cities: and Moab shall perish in weakness, with a shout, and with the sound of a trumpet.
 
 ### Amos 2:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will destroy judge from her, and all her rulers I will kill with him, says the Lord.
+- fresh: And I will destroy the judge from her, and I will kill all her rulers with him, says the Lord.
 - brenton: And I will destroy the judge out of her, and slay all her princes with him, saith the Lord.
 
 ### Amos 2:4
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: For three impieties of sons of Judah and for four I will not turn him away, because they rejected the law of the Lord and did not keep his commands, and their vanities that they made led them astray, which their fathers followed after them.
+- fresh: Thus says the Lord: For three impieties of the sons of Judah and for four I will not turn him away, because they rejected the law of the Lord and did not keep his commandments, and their vanities that they made led them astray, after which their fathers followed.
 - brenton: Thus saith the Lord; For three sins of the children of Juda, and for four, I will not turn away from him; because they have rejected the law of the Lord, and have not kept his ordinances, and their vain idols which they made, which their fathers followed, caused them to err.
 
 ### Amos 2:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will send fire upon Judah, and it will devour foundations of Jerusalem.
+- fresh: And I will send fire upon Judah, and it will devour the foundations of Jerusalem.
 - brenton: And I will send a fire on Juda, and it shall devour the foundations of Jerusalem.
 
 ### Amos 2:6
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: For three impieties of Israel and for four I will not turn him away, because they sold a righteous one for silver and a poor one because of sandals.
+- fresh: Thus says the Lord: For three impieties of Israel and for four I will not turn him away, because they sold a righteous one for silver and a poor one for sandals.
 - brenton: Thus saith the Lord; For three sins of Israel, and for four, I will not turn away from him; because they sold the righteous for silver, and the poor for sandals,
 
 ### Amos 2:7
 
 - importance: high
-- decisions: 1
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane the name of their God.
+- fresh: Those trampling upon the dust of the earth struck upon the heads of the poor and turned aside the way of the humble; and a son and his father went in to the same servant-girl, so as to profane the name of their God.
 - brenton: wherewith to tread on the dust of the earth, and they have smitten upon the heads of the poor, and have perverted the way of the lowly: and a son and his father have gone in to the same maid, that they might profane the name of their God.
 
 ### Amos 2:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And binding their garments with cords they were making curtains beside the altar, and they were drinking wine from extortions in the house of their God.
+- fresh: And binding their garments with cords, they were making curtains beside the altar, and they were drinking wine from extortions in the house of their God.
 - brenton: And binding their clothes with cords they have made them curtains near the altar, and they have drunk wine gained by extortion in the house of their God.
 
 ### Amos 2:9
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: But I dried up Amorite from before them, whose height was like height of cedar, and he was strong like an oak, and I dried up his fruit from above and his roots from below.
+- fresh: But I removed the Amorite from before them, whose height was like the height of a cedar, and he was strong like an oak; and I dried up his fruit from above and his roots from beneath.
 - brenton: Nevertheless I cut off the Amorite from before them, whose height was as the height of a cedar, and he was strong as an oak; and I dried up his fruit from above, and his roots from beneath.
 
 ### Amos 2:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I brought you up from the land of Egypt and led you around in the wilderness forty years, to inherit land of Amorites.
+- fresh: And I brought you up from the land of Egypt and led you around in the wilderness forty years, to inherit the land of the Amorites.
 - brenton: And I brought you up out of the land of Egypt, and led you about in the desert forty years, that ye should inherit the land of the Amorites.
 
 ### Amos 2:11
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I took some of your sons for prophets and some of your young men for sanctification. Is this not so, sons of Israel? says the Lord.
+- fresh: And I took some from your sons for prophets and some from your young men for consecration. Are these things not so, sons of Israel? says the Lord.
 - brenton: And I took of your sons for prophets, and of your young men for consecration. Are not these things so, ye sons of Israel? saith the Lord.
 
 ### Amos 2:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you were giving wine to the sanctified ones, and to the prophets you commanded, saying, You must not prophesy.
+- fresh: And you were giving wine to the consecrated ones, and you commanded the prophets, saying, You must not prophesy.
 - brenton: But ye gave the consecrated ones wine to drink; and ye commanded the prophets, saying, Prophesy not.
 
 ### Amos 2:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore behold, I am rolling beneath you just as cart full of stubble rolls.
+- fresh: Therefore behold, I am rolling beneath you, just as a cart full of stubble rolls.
 - brenton: Therefore, behold, I roll under you, as a waggon full of straw is rolled.
 
 ### Amos 2:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And flight will perish from swift runner, and strong man will not hold his strength, and warrior will not save his soul.
+- fresh: And flight will perish from the runner, and the strong man will not hold fast to his strength, and the warrior will not save his soul.
 - brenton: And flight shall perish from the runner, and the strong shall not hold fast his strength, and the warrior shall not save his life:
 
 ### Amos 2:15
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And archer will not stand, and one swift in his feet will not escape, nor rider save his soul.
+- fresh: And the archer will not stand, and the one swift in his feet will not escape, nor will the rider save his soul.
 - brenton: and the archer shall not withstand, and he that is swift of foot shall in no wise escape; and the horseman shall not save his life.
 
 ### Amos 2:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And naked man will find his heart among powers and flee in that day, says the Lord.
+- fresh: And the naked one will find his heart among powers and flee in that day, says the Lord.
 - brenton: And the strong shall find no confidence in power: the naked shall flee away in that day, saith the Lord.
 
 ### Amos 3:1

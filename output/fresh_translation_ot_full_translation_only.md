@@ -90404,67 +90404,67 @@ And her kings will go into captivity, their priests and their rulers together, s
 
 **Amos 2:1**
 
-Thus says the Lord: For three impieties of Moab and for four I will not turn him away, because they burned bones of the king of Edom to lime.
+Thus says the Lord: For three impieties of Moab and for four I will not turn him away, because they burned the bones of the king of Edom into lime.
 
 **Amos 2:2**
 
-And I will send fire upon Moab, and it will devour foundations of her cities, and Moab will die in weakness with shouting and with the sound of a trumpet.
+And I will send fire upon Moab, and it will devour the foundations of her cities, and Moab will die in weakness, with a shout and with the sound of a trumpet.
 
 **Amos 2:3**
 
-And I will destroy judge from her, and all her rulers I will kill with him, says the Lord.
+And I will destroy the judge from her, and I will kill all her rulers with him, says the Lord.
 
 **Amos 2:4**
 
-Thus says the Lord: For three impieties of sons of Judah and for four I will not turn him away, because they rejected the law of the Lord and did not keep his commands, and their vanities that they made led them astray, which their fathers followed after them.
+Thus says the Lord: For three impieties of the sons of Judah and for four I will not turn him away, because they rejected the law of the Lord and did not keep his commandments, and their vanities that they made led them astray, after which their fathers followed.
 
 **Amos 2:5**
 
-And I will send fire upon Judah, and it will devour foundations of Jerusalem.
+And I will send fire upon Judah, and it will devour the foundations of Jerusalem.
 
 **Amos 2:6**
 
-Thus says the Lord: For three impieties of Israel and for four I will not turn him away, because they sold a righteous one for silver and a poor one because of sandals.
+Thus says the Lord: For three impieties of Israel and for four I will not turn him away, because they sold a righteous one for silver and a poor one for sandals.
 
 **Amos 2:7**
 
-Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane the name of their God.
+Those trampling upon the dust of the earth struck upon the heads of the poor and turned aside the way of the humble; and a son and his father went in to the same servant-girl, so as to profane the name of their God.
 
 **Amos 2:8**
 
-And binding their garments with cords they were making curtains beside the altar, and they were drinking wine from extortions in the house of their God.
+And binding their garments with cords, they were making curtains beside the altar, and they were drinking wine from extortions in the house of their God.
 
 **Amos 2:9**
 
-But I dried up Amorite from before them, whose height was like height of cedar, and he was strong like an oak, and I dried up his fruit from above and his roots from below.
+But I removed the Amorite from before them, whose height was like the height of a cedar, and he was strong like an oak; and I dried up his fruit from above and his roots from beneath.
 
 **Amos 2:10**
 
-And I brought you up from the land of Egypt and led you around in the wilderness forty years, to inherit land of Amorites.
+And I brought you up from the land of Egypt and led you around in the wilderness forty years, to inherit the land of the Amorites.
 
 **Amos 2:11**
 
-And I took some of your sons for prophets and some of your young men for sanctification. Is this not so, sons of Israel? says the Lord.
+And I took some from your sons for prophets and some from your young men for consecration. Are these things not so, sons of Israel? says the Lord.
 
 **Amos 2:12**
 
-And you were giving wine to the sanctified ones, and to the prophets you commanded, saying, You must not prophesy.
+And you were giving wine to the consecrated ones, and you commanded the prophets, saying, You must not prophesy.
 
 **Amos 2:13**
 
-Therefore behold, I am rolling beneath you just as cart full of stubble rolls.
+Therefore behold, I am rolling beneath you, just as a cart full of stubble rolls.
 
 **Amos 2:14**
 
-And flight will perish from swift runner, and strong man will not hold his strength, and warrior will not save his soul.
+And flight will perish from the runner, and the strong man will not hold fast to his strength, and the warrior will not save his soul.
 
 **Amos 2:15**
 
-And archer will not stand, and one swift in his feet will not escape, nor rider save his soul.
+And the archer will not stand, and the one swift in his feet will not escape, nor will the rider save his soul.
 
 **Amos 2:16**
 
-And naked man will find his heart among powers and flee in that day, says the Lord.
+And the naked one will find his heart among powers and flee in that day, says the Lord.
 
 ### Chapter 3
 
