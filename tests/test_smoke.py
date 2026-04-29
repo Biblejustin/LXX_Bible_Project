@@ -4793,7 +4793,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "sing a hymn to the Lord" in by_ref["Isaiah 12:4"]["draft_translation"]
     assert "to the top of cliff" in by_ref["2 Chronicles 25:12"]["draft_translation"]
     assert "from the top of Senir" in by_ref["Song of Solomon 4:8"]["draft_translation"]
-    assert "at the corner of the court" in by_ref["Ezekiel 46:21"]["draft_translation"]
+    assert "at the side of the court" in by_ref["Ezekiel 46:21"]["draft_translation"]
     assert "from the corner of the house" in by_ref["2 Chronicles 4:10"]["draft_translation"]
     assert "in the middle of the portion" in by_ref["1 Chronicles 11:14"]["draft_translation"]
     assert "in the middle of the tent" in by_ref["1 Chronicles 16:1"]["draft_translation"]
