@@ -86450,15 +86450,15 @@ As holy sheep, as the sheep of Jerusalem in her feasts, so the desolate cities w
 
 **Ezekiel 37:1**
 
-And the hand of the Lord came upon me, and the Lord brought me out in Spirit and set me in the midst of the plain, and it was full of human bones.
+And the hand of the Lord came upon me, and the Lord brought me out in the Spirit and set me in the midst of the plain, and it was full of human bones.
 
 **Ezekiel 37:2**
 
-And he led me around them, round about, and behold, very many on the face of the plain, very dry.
+And he led me around over them, all around, and behold, they were very many on the face of the plain, very dry.
 
 **Ezekiel 37:3**
 
-And he said to me, Son of man, will these bones live? And I said, Lord, you know these things.
+And he said to me, Son of man, will these bones live? And I said, O Lord, you know these things.
 
 **Ezekiel 37:4**
 
@@ -86466,7 +86466,7 @@ And he said to me, Prophesy over these bones, and you will say to them, Dry bone
 
 **Ezekiel 37:5**
 
-Thus says the Lord to these bones: Behold, I bring into you the spirit of life.
+Thus says the Lord to these bones: Behold, I am bringing the spirit of life into you.
 
 **Ezekiel 37:6**
 
@@ -86474,19 +86474,19 @@ And I will put sinews on you and bring up flesh upon you and stretch skin over y
 
 **Ezekiel 37:7**
 
-And I prophesied as he commanded me, and it happened, in my prophesying, and behold, shaking, and each bone came to its fitting.
+And I prophesied as he commanded me, and it happened, while I prophesied, and behold, there was a shaking, and the bones came together, each to its joint.
 
 **Ezekiel 37:8**
 
-And I saw, and behold, upon them sinews and flesh were growing and skin was rising over them above, but spirit was not in them.
+And I saw, and behold, sinews and flesh were growing upon them, and skin was rising over them above, but there was no spirit in them.
 
 **Ezekiel 37:9**
 
-And he said to me, Prophesy, son of man, prophesy to the spirit, and say to the spirit, Thus says the Lord: From the four winds come and breathe into these dead ones, and let them live.
+And he said to me, Prophesy, son of man, prophesy to the spirit, and say to the spirit, Thus says the Lord: Come from the four winds and breathe into these dead ones, and let them live.
 
 **Ezekiel 37:10**
 
-And I prophesied as he commanded me, and spirit entered into them, and they lived and stood upon their feet, a very great gathering.
+And I prophesied as he commanded me, and the spirit entered into them, and they lived and stood upon their feet, a very great gathering.
 
 **Ezekiel 37:11**
 
@@ -86510,19 +86510,19 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 37:16**
 
-Son of man, take for yourself a rod and write on it, Judah and sons of Israel attached to him, and take for yourself second rod and write on it, Joseph, rod of Ephraim, and all sons of Israel added to him.
+Son of man, take for yourself a rod and write on it, Judah and the sons of Israel attached to him, and take for yourself a second rod and write on it, Joseph, rod of Ephraim, and all the sons of Israel added to him.
 
 **Ezekiel 37:17**
 
-And join them one to another for yourself into one rod, to bind them, and they will be in your hand.
+And join them to one another for yourself into one rod, to bind them, and they will be in your hand.
 
 **Ezekiel 37:18**
 
-And it will be when sons of your people say to you, Will you not tell us what these things are to you?
+And it will be when the sons of your people say to you, Will you not tell us what these things are to you?
 
 **Ezekiel 37:19**
 
-Then you will say to them, Thus says the Lord: Behold, I take tribe of Joseph from the hand of Ephraim and the tribes of Israel attached to him, and I will place them upon tribe of Judah, and they will be one rod in the hand of Judah.
+Then you will say to them, Thus says the Lord: Behold, I take the tribe of Joseph from the hand of Ephraim and the tribes of Israel attached to him, and I will place them upon the tribe of Judah, and they will be one rod in the hand of Judah.
 
 **Ezekiel 37:20**
 
@@ -86530,7 +86530,7 @@ And the rods on which you wrote will be in your hand before them.
 
 **Ezekiel 37:21**
 
-And you will say to them, Thus says the Lord God: Behold, I take the whole house of Israel from the midst of nations where they entered there, and I will gather them from all around and bring them into the land of Israel.
+And you will say to them, Thus says the Lord God: Behold, I take the whole house of Israel from the midst of the nations where they entered there, and I will gather them from all those around them and bring them into the land of Israel.
 
 **Ezekiel 37:22**
 
@@ -86538,7 +86538,7 @@ And I will make them one nation in my land and on the mountains of Israel, and o
 
 **Ezekiel 37:23**
 
-So that they no longer may defile themselves with their idols, and I will rescue them from all their lawless deeds in which they sinned, and I will cleanse them, and they will be to me for people, and I, the Lord, will be to them for God.
+So that they no longer may defile themselves with their idols, and I will rescue them from all their lawless deeds in which they sinned, and I will cleanse them, and they will be to me for a people, and I, the Lord, will be to them for God.
 
 **Ezekiel 37:24**
 
@@ -86546,19 +86546,19 @@ And my servant David will be ruler in their midst, and one shepherd will be for 
 
 **Ezekiel 37:25**
 
-And they will dwell on their land that I gave to my servant Jacob, where their fathers dwelt there, and they will dwell on it, they and David my servant their ruler, forever.
+And they will dwell on their land that I gave to my servant Jacob, where their fathers dwelt there, and they will dwell on it, they and David my servant, and he will be their ruler forever.
 
 **Ezekiel 37:26**
 
-And I will make with them covenant of peace; everlasting covenant will be with them, and I will put my holy things in their midst forever.
+And I will make with them a covenant of peace; an everlasting covenant will be with them, and I will put my holy things in their midst forever.
 
 **Ezekiel 37:27**
 
-And my dwelling will be among them, and I will be to them for God, and they will be to me for people.
+And my dwelling will be among them, and I will be to them for God, and they will be to me for a people.
 
 **Ezekiel 37:28**
 
-And nations will know that I am the Lord sanctifying them, when my holy things are in their midst forever.
+And the nations will know that I am the Lord who sanctifies them, when my holy things are in their midst forever.
 
 ### Chapter 38
 

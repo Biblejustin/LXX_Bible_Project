@@ -190686,34 +190686,34 @@ Note:
 ### Ezekiel 37:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the hand of the Lord came upon me, and the Lord brought me out in Spirit and set me in the midst of the plain, and it was full of human bones.
+- fresh: And the hand of the Lord came upon me, and the Lord brought me out in the Spirit and set me in the midst of the plain, and it was full of human bones.
 - brenton: And the hand of the Lord came upon me, and the Lord brought me forth by the Spirit, and set me in the midst of the plain, and it was full of human bones.
 
 ### Ezekiel 37:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he led me around them, round about, and behold, very many on the face of the plain, very dry.
+- fresh: And he led me around over them, all around, and behold, they were very many on the face of the plain, very dry.
 - brenton: And he led me round about them every way: and, behold, there were very many on the face of the plain, very dry.
 
 ### Ezekiel 37:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Son of man, will these bones live? And I said, Lord, you know these things.
+- fresh: And he said to me, Son of man, will these bones live? And I said, O Lord, you know these things.
 - brenton: And he said to me, Son of man, will these bones live? and I said, O Lord God, thou knowest this.
 
 ### Ezekiel 37:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Prophesy over these bones, and you will say to them, Dry bones, hear the word of the Lord.
@@ -190722,16 +190722,16 @@ Note:
 ### Ezekiel 37:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord to these bones: Behold, I bring into you the spirit of life.
+- fresh: Thus says the Lord to these bones: Behold, I am bringing the spirit of life into you.
 - brenton: Thus saith the Lord to these bones; Behold, I will bring upon you the breath of life:
 
 ### Ezekiel 37:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will put sinews on you and bring up flesh upon you and stretch skin over you and give my Spirit into you, and you will live, and you will know that I am the Lord.
@@ -190740,43 +190740,43 @@ Note:
 ### Ezekiel 37:7
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I prophesied as he commanded me, and it happened, in my prophesying, and behold, shaking, and each bone came to its fitting.
+- fresh: And I prophesied as he commanded me, and it happened, while I prophesied, and behold, there was a shaking, and the bones came together, each to its joint.
 - brenton: So I prophesied as the Lord commanded me: and it came to pass while I was prophesying, that, behold, there was a shaking, and the bones approached each one to his joint.
 
 ### Ezekiel 37:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I saw, and behold, upon them sinews and flesh were growing and skin was rising over them above, but spirit was not in them.
+- fresh: And I saw, and behold, sinews and flesh were growing upon them, and skin was rising over them above, but there was no spirit in them.
 - brenton: And I looked, and, behold, sinews and flesh grew upon them, and skin came upon them above: but there was no breath in them.
 
 ### Ezekiel 37:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Prophesy, son of man, prophesy to the spirit, and say to the spirit, Thus says the Lord: From the four winds come and breathe into these dead ones, and let them live.
+- fresh: And he said to me, Prophesy, son of man, prophesy to the spirit, and say to the spirit, Thus says the Lord: Come from the four winds and breathe into these dead ones, and let them live.
 - brenton: And he said to me, Prophesy to the wind, prophesy, son of man, and say to the wind, Thus saith the Lord; Come from the four winds, and breathe upon these dead men, and let them live.
 
 ### Ezekiel 37:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I prophesied as he commanded me, and spirit entered into them, and they lived and stood upon their feet, a very great gathering.
+- fresh: And I prophesied as he commanded me, and the spirit entered into them, and they lived and stood upon their feet, a very great gathering.
 - brenton: So I prophesied as he commanded me, and the breath entered into them, and they lived, and stood upon their feet, a very great congregation.
 
 ### Ezekiel 37:11
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
 - fresh: And the Lord spoke to me, saying, Son of man, these bones are the whole house of Israel, and they say, Our bones have become dry, our hope has perished, we are cut off.
@@ -190785,7 +190785,7 @@ Note:
 ### Ezekiel 37:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Therefore prophesy and say, Thus says the Lord: Behold, I open your tombs and bring you up from your tombs and bring you into the land of Israel.
@@ -190794,7 +190794,7 @@ Note:
 ### Ezekiel 37:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And you will know that I am the Lord when I open your graves, when I bring my people up from the graves.
@@ -190803,7 +190803,7 @@ Note:
 ### Ezekiel 37:14
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will give my Spirit into you and you will live, and I will place you on your land, and you will know that I, the Lord, have spoken and will do it, says the Lord.
@@ -190821,43 +190821,43 @@ Note:
 ### Ezekiel 37:16
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, take for yourself a rod and write on it, Judah and sons of Israel attached to him, and take for yourself second rod and write on it, Joseph, rod of Ephraim, and all sons of Israel added to him.
+- fresh: Son of man, take for yourself a rod and write on it, Judah and the sons of Israel attached to him, and take for yourself a second rod and write on it, Joseph, rod of Ephraim, and all the sons of Israel added to him.
 - brenton: Son of man, take for thyself a rod, and write upon it, Juda, and the children of Israel his adherents; and thou shalt take for thyself another rod, and thou shalt inscribe it for Joseph, the rod of Ephraim, and all the children of Israel that belong to him.
 
 ### Ezekiel 37:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And join them one to another for yourself into one rod, to bind them, and they will be in your hand.
+- fresh: And join them to one another for yourself into one rod, to bind them, and they will be in your hand.
 - brenton: And thou shalt join them together for thyself, so as that they should bind themselves into one stick; and they shall be in thine hand.
 
 ### Ezekiel 37:18
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be when sons of your people say to you, Will you not tell us what these things are to you?
+- fresh: And it will be when the sons of your people say to you, Will you not tell us what these things are to you?
 - brenton: And it shall come to pass, when the children of thy people shall say to thee, Wilt thou not tell us what thou meanest by these things?
 
 ### Ezekiel 37:19
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Then you will say to them, Thus says the Lord: Behold, I take tribe of Joseph from the hand of Ephraim and the tribes of Israel attached to him, and I will place them upon tribe of Judah, and they will be one rod in the hand of Judah.
+- fresh: Then you will say to them, Thus says the Lord: Behold, I take the tribe of Joseph from the hand of Ephraim and the tribes of Israel attached to him, and I will place them upon the tribe of Judah, and they will be one rod in the hand of Judah.
 - brenton: Then shalt thou say to them, Thus saith the Lord; Behold, I will take the tribe of Joseph, which is in the hand of Ephraim, and the tribes of Israel that belong to him, and I will add them to the tribe of Juda, and they shall become one rod in the hand of Juda.
 
 ### Ezekiel 37:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And the rods on which you wrote will be in your hand before them.
@@ -190866,16 +190866,16 @@ Note:
 ### Ezekiel 37:21
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will say to them, Thus says the Lord God: Behold, I take the whole house of Israel from the midst of nations where they entered there, and I will gather them from all around and bring them into the land of Israel.
+- fresh: And you will say to them, Thus says the Lord God: Behold, I take the whole house of Israel from the midst of the nations where they entered there, and I will gather them from all those around them and bring them into the land of Israel.
 - brenton: And thou shalt say to them,
 
 ### Ezekiel 37:22
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will make them one nation in my land and on the mountains of Israel, and one ruler will be over them, and they will no longer be two nations, nor be divided any longer into two kingdoms.
@@ -190884,16 +190884,16 @@ Note:
 ### Ezekiel 37:23
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: So that they no longer may defile themselves with their idols, and I will rescue them from all their lawless deeds in which they sinned, and I will cleanse them, and they will be to me for people, and I, the Lord, will be to them for God.
+- fresh: So that they no longer may defile themselves with their idols, and I will rescue them from all their lawless deeds in which they sinned, and I will cleanse them, and they will be to me for a people, and I, the Lord, will be to them for God.
 - brenton: that they may no more defile themselves with their idols; and I will deliver them from all their transgressions whereby they have sinned, and will cleanse them; and they shall be to me a people, and I the Lord will be to them a God.
 
 ### Ezekiel 37:24
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And my servant David will be ruler in their midst, and one shepherd will be for all, because they will walk in my ordinances and keep my judgments and do them.
@@ -190902,37 +190902,37 @@ Note:
 ### Ezekiel 37:25
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will dwell on their land that I gave to my servant Jacob, where their fathers dwelt there, and they will dwell on it, they and David my servant their ruler, forever.
+- fresh: And they will dwell on their land that I gave to my servant Jacob, where their fathers dwelt there, and they will dwell on it, they and David my servant, and he will be their ruler forever.
 - brenton: And they shall dwell in their land, which I have given to my servant Jacob, where their fathers dwelt; and they shall dwell upon it: and David my servant shall be their prince for ever.
 
 ### Ezekiel 37:26
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make with them covenant of peace; everlasting covenant will be with them, and I will put my holy things in their midst forever.
+- fresh: And I will make with them a covenant of peace; an everlasting covenant will be with them, and I will put my holy things in their midst forever.
 - brenton: And I will make with them a covenant of peace; it shall be an everlasting covenant with them; and I will establish my sanctuary in the midst of them for ever.
 
 ### Ezekiel 37:27
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And my dwelling will be among them, and I will be to them for God, and they will be to me for people.
+- fresh: And my dwelling will be among them, and I will be to them for God, and they will be to me for a people.
 - brenton: And my tabernacle shall be among them; and I will be to them a God, and they shall be my people.
 
 ### Ezekiel 37:28
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And nations will know that I am the Lord sanctifying them, when my holy things are in their midst forever.
+- fresh: And the nations will know that I am the Lord who sanctifies them, when my holy things are in their midst forever.
 - brenton: And the nations shall know that I am the Lord that sanctifies them, when my sanctuary is in the midst of them for ever.
 
 ### Ezekiel 38:1
