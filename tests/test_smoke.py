@@ -4054,7 +4054,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "is the portion of Jacob" in by_ref["Jeremiah 10:16"]["draft_translation"]
     assert "it is a land of carved images" in by_ref["Jeremiah 27:38"]["draft_translation"]
     assert "there is a day of calling of defenders" in by_ref["Jeremiah 38:6"]["draft_translation"]
-    assert by_ref["Ezekiel 43:12"]["draft_translation"].startswith("This is the law of the house")
+    assert by_ref["Ezekiel 43:12"]["draft_translation"].startswith("And show the plan of the house")
     assert by_ref["Ezekiel 43:13"]["draft_translation"].endswith("This is the height of the altar.")
     assert by_ref["Daniel 5:26"]["draft_translation"].startswith(
         "This is the interpretation of the writing"
