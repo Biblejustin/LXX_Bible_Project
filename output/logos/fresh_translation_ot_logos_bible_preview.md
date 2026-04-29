@@ -553,12 +553,12 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 15
 
-**Micah 1:2** Hear these words, peoples, and let the earth and all who are in it pay attention; and the Lord will be among you as a witness, the Lord from his holy house.
+**Micah 1:2** Hear words, O peoples, and let the earth and all those in it pay attention; and the Lord will be among you for a testimony, the Lord from his holy house.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 24
 
-**Micah 1:3** Because behold, the Lord goes out from his place and will come down and step upon heights of earth.
+**Micah 1:3** For behold, the Lord goes forth out of his place and will come down and step upon the heights of the earth.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 13

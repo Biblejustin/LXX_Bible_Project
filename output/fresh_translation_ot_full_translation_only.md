@@ -91240,63 +91240,63 @@ And the word of the Lord came to Micah the Morasthite in the days of Jotham and 
 
 **Micah 1:2**
 
-Hear these words, peoples, and let the earth and all who are in it pay attention; and the Lord will be among you as a witness, the Lord from his holy house.
+Hear words, O peoples, and let the earth and all those in it pay attention; and the Lord will be among you for a testimony, the Lord from his holy house.
 
 **Micah 1:3**
 
-Because behold, the Lord goes out from his place and will come down and step upon heights of earth.
+For behold, the Lord goes forth out of his place and will come down and step upon the heights of the earth.
 
 **Micah 1:4**
 
-And mountains will be shaken beneath him, and valleys will melt like wax before fire and like water carried down on slope.
+And the mountains will be shaken beneath him, and the valleys will melt like wax before the face of fire and like water carried down in a descent.
 
 **Micah 1:5**
 
-All these because of impiety of Jacob and because of sin of the house of Israel. What is the impiety of Jacob? Is it not Samaria? And what is the sin of the house of Judah? Is it not Jerusalem?
+All these things are because of the impiety of Jacob and because of the sin of the house of Israel. What is the impiety of Jacob? Is it not Samaria? And what is the sin of the house of Judah? Is it not Jerusalem?
 
 **Micah 1:6**
 
-And I will make Samaria into hut of field-watchman and planting of vineyard, and I will tear her stones down into chasm and uncover her foundations.
+And I will make Samaria into a field-watchman's hut and into a planting of a vineyard, and I will tear her stones down into a chasm and uncover her foundations.
 
 **Micah 1:7**
 
-And all her carved things they will cut down, and all her wages they will burn in fire, and all her idols I will make disappear, because from the wages of prostitution she gathered them and from the wages of prostitution she turned them back.
+And all her carved images they will cut down, and all her wages they will burn with fire, and all her idols I will make into disappearance, because from the wages of prostitution she gathered them and from the wages of prostitution she brought them together.
 
 **Micah 1:8**
 
-Because of this she will be cut and mourn; she will go barefoot and naked; she will make lament like dragons and mourning like daughters of sirens.
+Because of this she will lament and mourn; she will go barefoot and naked; she will make lamentation like dragons and mourning like daughters of sirens.
 
 **Micah 1:9**
 
-Because her plague overpowered, because it came as far as Judah and touched gate of my people, as far as Jerusalem.
+Because her plague prevailed, because it came as far as Judah and touched as far as the gate of my people, as far as Jerusalem.
 
 **Micah 1:10**
 
-Those in Gath, do not magnify yourselves. Those in Akeim, do not rebuild. In the house of laughter, sprinkle earth over your laughter.
+Those who are in Gath, do not magnify yourselves. Those who are in Akeim, do not rebuild. From a house for laughter, sprinkle earth over your laughter.
 
 **Micah 1:11**
 
-She dwelling well in her cities did not come out, dwelling in Sennaan, to mourn. House adjoining her will receive from you wound of pain.
+She who dwells well in her cities did not come out, she who dwells in Sennaan, to lament. A house adjoining her will receive from you a wound of pain.
 
 **Micah 1:12**
 
-Who began for good things, while dwelling in pains? Because evils came down from the Lord upon the gates of Jerusalem.
+Who began toward good things for her who dwells in pains? Because evils came down from the Lord upon the gates of Jerusalem.
 
 **Micah 1:13**
 
-The sound of chariots and riders, inhabitant of Lachish. She is the beginning of sin to the daughter of Zion, because impieties of Israel were found in you.
+A sound of chariots and horsemen, O inhabitant of Lachish. She is the leader of sin to the daughter of Zion, because in you were found the impieties of Israel.
 
 **Micah 1:14**
 
-Therefore you will give those sent away as far as inheritance of Gath. Empty houses became emptiness to kings of Israel.
+Therefore you will give those sent out as far as the inheritance of Gath. Vain houses became emptiness to the kings of Israel.
 
 **Micah 1:15**
 
-Until I bring heirs to you, inhabitant of Lachish. Glory of daughter of Israel will come as far as Adullam.
+Until I bring the heirs to you, O inhabitant of Lachish. An inheritance will come as far as Adullam, the glory of the daughter of Israel.
 
 **Micah 1:16**
 
-Shave and shear for your tender children; widen your widowhood like an eagle, because they were taken captive from you.
+Shave yourself and shear yourself for your tender children; widen your widowhood like an eagle, because they were taken captive from you.
 
 ### Chapter 2
 

@@ -201194,136 +201194,136 @@ Note:
 ### Micah 1:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear these words, peoples, and let the earth and all who are in it pay attention; and the Lord will be among you as a witness, the Lord from his holy house.
+- fresh: Hear words, O peoples, and let the earth and all those in it pay attention; and the Lord will be among you for a testimony, the Lord from his holy house.
 - brenton: Hear these words, ye people; and let the earth give heed, and all that are in it: and the Lord God shall be among you for a testimony, the Lord out of his holy habitation.
 
 ### Micah 1:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because behold, the Lord goes out from his place and will come down and step upon heights of earth.
+- fresh: For behold, the Lord goes forth out of his place and will come down and step upon the heights of the earth.
 - brenton: For, behold, the Lord comes forth out of his place, and will come down, and will go upon the high places of the earth.
 
 ### Micah 1:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And mountains will be shaken beneath him, and valleys will melt like wax before fire and like water carried down on slope.
+- fresh: And the mountains will be shaken beneath him, and the valleys will melt like wax before the face of fire and like water carried down in a descent.
 - brenton: And the mountains shall be shaken under him, and the valleys shall melt like wax before the fire, and as water rushing down a declivity.
 
 ### Micah 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: All these because of impiety of Jacob and because of sin of the house of Israel. What is the impiety of Jacob? Is it not Samaria? And what is the sin of the house of Judah? Is it not Jerusalem?
+- fresh: All these things are because of the impiety of Jacob and because of the sin of the house of Israel. What is the impiety of Jacob? Is it not Samaria? And what is the sin of the house of Judah? Is it not Jerusalem?
 - brenton: All these calamities are for the transgression of Jacob, and for the sin of the house of Israel. What is the transgression of Jacob? is it not Samaria? and what is the sin of the house of Juda? is it not Jerusalem?
 
 ### Micah 1:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make Samaria into hut of field-watchman and planting of vineyard, and I will tear her stones down into chasm and uncover her foundations.
+- fresh: And I will make Samaria into a field-watchman's hut and into a planting of a vineyard, and I will tear her stones down into a chasm and uncover her foundations.
 - brenton: Therefore I will make Samaria as a store-house of the fruits of the field, and as a planting of a vineyard: and I will utterly demolish her stones, and I will expose her foundations.
 
 ### Micah 1:7
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And all her carved things they will cut down, and all her wages they will burn in fire, and all her idols I will make disappear, because from the wages of prostitution she gathered them and from the wages of prostitution she turned them back.
+- fresh: And all her carved images they will cut down, and all her wages they will burn with fire, and all her idols I will make into disappearance, because from the wages of prostitution she gathered them and from the wages of prostitution she brought them together.
 - brenton: And they shall cut in pieces all the graven images, and all that she has hired they shall burn with fire, and I will utterly destroy all her idols: because she has gathered of the hires of fornication, and of the hires of fornication has she amassed wealth.
 
 ### Micah 1:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this she will be cut and mourn; she will go barefoot and naked; she will make lament like dragons and mourning like daughters of sirens.
+- fresh: Because of this she will lament and mourn; she will go barefoot and naked; she will make lamentation like dragons and mourning like daughters of sirens.
 - brenton: Therefore shall she lament and wail, she shall go barefooted, and being naked she shall make lamentation as that of serpents, and mourning as of the daughters of sirens.
 
 ### Micah 1:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because her plague overpowered, because it came as far as Judah and touched gate of my people, as far as Jerusalem.
+- fresh: Because her plague prevailed, because it came as far as Judah and touched as far as the gate of my people, as far as Jerusalem.
 - brenton: For her plague has become grievous; for it has come even to Juda; and has reached to the gate of my people, even to Jerusalem.
 
 ### Micah 1:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Those in Gath, do not magnify yourselves. Those in Akeim, do not rebuild. In the house of laughter, sprinkle earth over your laughter.
+- fresh: Those who are in Gath, do not magnify yourselves. Those who are in Akeim, do not rebuild. From a house for laughter, sprinkle earth over your laughter.
 - brenton: Ye that are in Geth, exalt not yourselves, and ye Enakim, do not rebuild from the ruins of the house in derision: sprinkle dust in the place of your laughter.
 
 ### Micah 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: She dwelling well in her cities did not come out, dwelling in Sennaan, to mourn. House adjoining her will receive from you wound of pain.
+- fresh: She who dwells well in her cities did not come out, she who dwells in Sennaan, to lament. A house adjoining her will receive from you a wound of pain.
 - brenton: The inhabitant of Sennaar, fairly inhabiting her cities, came not forth to mourn for the house next to her: she shall receive of you the stroke of grief.
 
 ### Micah 1:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Who began for good things, while dwelling in pains? Because evils came down from the Lord upon the gates of Jerusalem.
+- fresh: Who began toward good things for her who dwells in pains? Because evils came down from the Lord upon the gates of Jerusalem.
 - brenton: Who has begun to act for good to her that dwells in sorrow? for calamities have come down from the Lord upon the gates of Jerusalem,
 
 ### Micah 1:13
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: The sound of chariots and riders, inhabitant of Lachish. She is the beginning of sin to the daughter of Zion, because impieties of Israel were found in you.
+- fresh: A sound of chariots and horsemen, O inhabitant of Lachish. She is the leader of sin to the daughter of Zion, because in you were found the impieties of Israel.
 - brenton: even a sound of chariots and horsemen: the inhabitants of Lachis, she is the leader of sin to the daughter of Sion: for in thee were found the transgressions of Israel.
 
 ### Micah 1:14
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore you will give those sent away as far as inheritance of Gath. Empty houses became emptiness to kings of Israel.
+- fresh: Therefore you will give those sent out as far as the inheritance of Gath. Vain houses became emptiness to the kings of Israel.
 - brenton: Therefore shall he cause men to be sent forth as far as the inheritance of Geth, even vain houses; they are become vanity to the kings of Israel;
 
 ### Micah 1:15
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Until I bring heirs to you, inhabitant of Lachish. Glory of daughter of Israel will come as far as Adullam.
+- fresh: Until I bring the heirs to you, O inhabitant of Lachish. An inheritance will come as far as Adullam, the glory of the daughter of Israel.
 - brenton: until they bring the heirs, O inhabitant of Lachis: the inheritance shall reach to Odollam, even the glory of the daughter of Israel.
 
 ### Micah 1:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Shave and shear for your tender children; widen your widowhood like an eagle, because they were taken captive from you.
+- fresh: Shave yourself and shear yourself for your tender children; widen your widowhood like an eagle, because they were taken captive from you.
 - brenton: Shave thine hair, and make thyself bald for thy delicate children; increase thy widowhood as an eagle; for thy people are gone into captivity from thee.
 
 ### Micah 2:1
