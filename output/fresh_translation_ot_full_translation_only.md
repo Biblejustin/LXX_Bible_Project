@@ -91034,31 +91034,31 @@ Rescued men will go up from Mount Zion to avenge the mount of Esau, and the king
 
 **Jonah 1:1**
 
-The word of the Lord came to Jonah son of Amittai, saying,
+The word of the Lord came to Jonah son of Amathi, saying,
 
 **Jonah 1:2**
 
-Rise, go to Nineveh, the great city, and proclaim in it, because the cry of its evil rose up to me.
+Rise up, go to Nineveh, the great city, and proclaim in it, because the cry of its evil rose up to me.
 
 **Jonah 1:3**
 
-Jonah rose to flee to Tarshish from the face of the Lord, went down to Joppa, found a ship going to Tarshish, paid its fare, and went into it to sail with them to Tarshish from the face of the Lord.
+Jonah rose up to flee to Tarshish from the face of the Lord, went down to Joppa, found a ship going to Tarshish, paid its fare, and went up into it to sail with them to Tarshish from the face of the Lord.
 
 **Jonah 1:4**
 
-The Lord stirred up a wind on sea, and a great surge happened on sea, and ship was in danger of being broken.
+The Lord stirred up a wind on the sea, and a great surge happened on the sea, and the ship was in danger of being broken.
 
 **Jonah 1:5**
 
-Sailors feared, and each cried to his god, and they threw ship's cargo into sea to lighten it from them. But Jonah had gone down into hold of ship and slept and snored.
+The sailors feared, and each cried to his god, and they threw the ship's cargo into the sea to lighten it from them. But Jonah had gone down into the hold of the ship and slept and snored.
 
 **Jonah 1:6**
 
-Shipmaster came to him and said, Why are you snoring? Rise, call on your god, so God may save us and we not perish.
+The shipmaster came to him and said, Why are you snoring? Rise up, call on your god, so God may save us and we not perish.
 
 **Jonah 1:7**
 
-Each said to his neighbor, Come, let us cast lots and know for whose sake this evil is among us. They cast lots, and lot fell on Jonah.
+Each said to his neighbor, Come, let us cast lots and know for whose sake this evil is among us. They cast lots, and the lot fell on Jonah.
 
 **Jonah 1:8**
 
@@ -91066,35 +91066,35 @@ They said to him, Tell us, for whose sake is this evil among us? What is your wo
 
 **Jonah 1:9**
 
-He said to them, I am servant of the Lord, and I worship the Lord God of heaven, who made sea and dry land.
+He said to them, I am a servant of the Lord, and I worship the Lord God of heaven, who made the sea and the dry land.
 
 **Jonah 1:10**
 
-Men feared with great fear and said to him, What is this you have done? For men knew he was fleeing from the face of the Lord, because he told them.
+The men feared with a great fear and said to him, What is this you have done? For the men knew he was fleeing from the face of the Lord, because he told them.
 
 **Jonah 1:11**
 
-They said to him, What should we do to you, so sea will quiet from us? Because sea kept going and stirred greater surge.
+They said to him, What should we do to you, so the sea will quiet from us? Because the sea kept going and stirred up a greater surge.
 
 **Jonah 1:12**
 
-Jonah said to them, Lift me and throw me into sea, and sea will quiet from you, because I know this great surge is upon you because of me.
+Jonah said to them, Lift me and throw me into the sea, and the sea will quiet from you, because I know this great surge is upon you because of me.
 
 **Jonah 1:13**
 
-Men strained to turn back to the land and were not able, because sea kept going and surging more against them.
+The men strained to turn back to the land and were not able, because the sea kept going and surging more against them.
 
 **Jonah 1:14**
 
-They cried to the Lord and said, By no means, Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
+They cried to the Lord and said, By no means, O Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, O Lord, have done as you wished.
 
 **Jonah 1:15**
 
-They took Jonah and threw him into sea, and sea stood still from its tossing.
+They took Jonah and threw him into the sea, and the sea stood still from its tossing.
 
 **Jonah 1:16**
 
-Men feared the Lord with great fear, sacrificed sacrifice to the Lord, and vowed vows.
+The men feared the Lord with a great fear, sacrificed a sacrifice to the Lord, and vowed vows.
 
 ### Chapter 2
 

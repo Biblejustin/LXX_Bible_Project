@@ -531,17 +531,17 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Jonah
 
-**Jonah 1:1** The word of the Lord came to Jonah son of Amittai, saying,
+**Jonah 1:1** The word of the Lord came to Jonah son of Amathi, saying,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 5
 
-**Jonah 1:2** Rise, go to Nineveh, the great city, and proclaim in it, because the cry of its evil rose up to me.
+**Jonah 1:2** Rise up, go to Nineveh, the great city, and proclaim in it, because the cry of its evil rose up to me.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 17
 
-**Jonah 1:3** Jonah rose to flee to Tarshish from the face of the Lord, went down to Joppa, found a ship going to Tarshish, paid its fare, and went into it to sail with them to Tarshish from the face of the Lord.
+**Jonah 1:3** Jonah rose up to flee to Tarshish from the face of the Lord, went down to Joppa, found a ship going to Tarshish, paid its fare, and went up into it to sail with them to Tarshish from the face of the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 25

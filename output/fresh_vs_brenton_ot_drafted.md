@@ -200751,64 +200751,64 @@ Note:
 ### Jonah 1:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The word of the Lord came to Jonah son of Amittai, saying,
+- fresh: The word of the Lord came to Jonah son of Amathi, saying,
 - brenton: Now the word of the Lord came to Jonas the son of Amathi, saying,
 
 ### Jonah 1:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Rise, go to Nineveh, the great city, and proclaim in it, because the cry of its evil rose up to me.
+- fresh: Rise up, go to Nineveh, the great city, and proclaim in it, because the cry of its evil rose up to me.
 - brenton: Rise, and go to Nineve, the great city, and preach in it; for the cry of its wickedness is come up to me.
 
 ### Jonah 1:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Jonah rose to flee to Tarshish from the face of the Lord, went down to Joppa, found a ship going to Tarshish, paid its fare, and went into it to sail with them to Tarshish from the face of the Lord.
+- fresh: Jonah rose up to flee to Tarshish from the face of the Lord, went down to Joppa, found a ship going to Tarshish, paid its fare, and went up into it to sail with them to Tarshish from the face of the Lord.
 - brenton: But Jonas rose up to flee to Tharsis from the presence of the Lord. And he went down to Joppa, and found a ship going to Tharsis: and he paid his fare, and went up into it, to sail with them to Tharsis from the presence of the Lord.
 
 ### Jonah 1:4
 
 - importance: high
-- decisions: 1
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord stirred up a wind on sea, and a great surge happened on sea, and ship was in danger of being broken.
+- fresh: The Lord stirred up a wind on the sea, and a great surge happened on the sea, and the ship was in danger of being broken.
 - brenton: And the Lord raised up a wind on the sea; and there was a great storm on the sea, and the ship was in danger of being broken.
 
 ### Jonah 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Sailors feared, and each cried to his god, and they threw ship's cargo into sea to lighten it from them. But Jonah had gone down into hold of ship and slept and snored.
+- fresh: The sailors feared, and each cried to his god, and they threw the ship's cargo into the sea to lighten it from them. But Jonah had gone down into the hold of the ship and slept and snored.
 - brenton: And the sailors were alarmed, and cried every one to his god, and cast out the wares that were in the ship into the sea, that it might be lightened of them. But Jonas was gone down into the hold of the ship, and was asleep, and snored.
 
 ### Jonah 1:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Shipmaster came to him and said, Why are you snoring? Rise, call on your god, so God may save us and we not perish.
+- fresh: The shipmaster came to him and said, Why are you snoring? Rise up, call on your god, so God may save us and we not perish.
 - brenton: And the shipmaster came to him, and said to him, Why snorest thou? arise, and call upon thy God, that God may save us, and we perish not.
 
 ### Jonah 1:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Each said to his neighbor, Come, let us cast lots and know for whose sake this evil is among us. They cast lots, and lot fell on Jonah.
+- fresh: Each said to his neighbor, Come, let us cast lots and know for whose sake this evil is among us. They cast lots, and the lot fell on Jonah.
 - brenton: And each man said to his neighbour, Come, let us cast lots, and find out for whose sake this mischief is upon us. So they cast lots, and the lot fell upon Jonas.
 
 ### Jonah 1:8
@@ -200823,28 +200823,28 @@ Note:
 ### Jonah 1:9
 
 - importance: high
-- decisions: 1
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: He said to them, I am servant of the Lord, and I worship the Lord God of heaven, who made sea and dry land.
+- fresh: He said to them, I am a servant of the Lord, and I worship the Lord God of heaven, who made the sea and the dry land.
 - brenton: And he said to them, I am a servant of the Lord; and I worship the Lord God of heaven, who made the sea, and the dry land.
 
 ### Jonah 1:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Men feared with great fear and said to him, What is this you have done? For men knew he was fleeing from the face of the Lord, because he told them.
+- fresh: The men feared with a great fear and said to him, What is this you have done? For the men knew he was fleeing from the face of the Lord, because he told them.
 - brenton: Then the men feared exceedingly, and said to him, What is this that thou hast done? for the men knew that he was fleeing from the face of the Lord, because he had told them.
 
 ### Jonah 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: They said to him, What should we do to you, so sea will quiet from us? Because sea kept going and stirred greater surge.
+- fresh: They said to him, What should we do to you, so the sea will quiet from us? Because the sea kept going and stirred up a greater surge.
 - brenton: And they said to him, What shall we do to thee, that the sea may be calm to us? for the sea rose, and lifted its wave exceedingly.
 
 ### Jonah 1:12
@@ -200853,7 +200853,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Jonah said to them, Lift me and throw me into sea, and sea will quiet from you, because I know this great surge is upon you because of me.
+- fresh: Jonah said to them, Lift me and throw me into the sea, and the sea will quiet from you, because I know this great surge is upon you because of me.
 - brenton: And Jonas said to them, Take me up, and cast me into the sea, and the sea shall be calm to you: for I know that for my sake this great tempest is upon you.
 
 ### Jonah 1:13
@@ -200862,16 +200862,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Men strained to turn back to the land and were not able, because sea kept going and surging more against them.
+- fresh: The men strained to turn back to the land and were not able, because the sea kept going and surging more against them.
 - brenton: And the men tried hard to return to the land, and were not able: for the sea rose and grew more and more tempestuous against them.
 
 ### Jonah 1:14
 
 - importance: high
-- decisions: 1
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: They cried to the Lord and said, By no means, Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
+- fresh: They cried to the Lord and said, By no means, O Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, O Lord, have done as you wished.
 - brenton: And they cried to the Lord, and said, Forbid it, Lord: let us not perish for the sake of this man's life, and bring not righteous blood upon us: for thou, Lord, hast done as thou wouldest.
 
 ### Jonah 1:15
@@ -200880,16 +200880,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They took Jonah and threw him into sea, and sea stood still from its tossing.
+- fresh: They took Jonah and threw him into the sea, and the sea stood still from its tossing.
 - brenton: So they took Jonas, and cast him out into the sea: and the sea ceased from its raging.
 
 ### Jonah 1:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Men feared the Lord with great fear, sacrificed sacrifice to the Lord, and vowed vows.
+- fresh: The men feared the Lord with a great fear, sacrificed a sacrifice to the Lord, and vowed vows.
 - brenton: And the men feared the Lord very greatly, and offered a sacrifice to the Lord, and vowed vows.
 
 ### Jonah 2:1
