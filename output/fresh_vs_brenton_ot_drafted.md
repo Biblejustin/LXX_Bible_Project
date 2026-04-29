@@ -202575,37 +202575,37 @@ Note:
 ### Habakkuk 1:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Why did you show me troubles and pains, to look upon misery and impiety? Judgment has come opposite me, and judge receives.
+- fresh: Why did you show me troubles and pains, to look upon misery and impiety? Judgment has come opposite me, and the judge receives.
 - brenton: Wherefore hast thou shewn me troubles and griefs to look upon, misery and ungodliness? judgment is before me, and the judge receives a reward.
 
 ### Habakkuk 1:4
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this law has ceased, and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
+- fresh: Because of this the law has ceased, and judgment does not go forth to the end, because the impious one overpowers the righteous one; because of this the judgment will go forth perverted.
 - brenton: Therefore the law is frustrated, and judgment proceeds not effectually, for the ungodly man prevails over the just; therefore perverse judgment will proceed.
 
 ### Habakkuk 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Look, despisers, and watch and marvel wondrously and disappear, because I work a work in your days that you will certainly not believe if one tells it.
+- fresh: Look, O despisers, and watch and marvel wondrously and disappear, because I work a work in your days that you will certainly not believe if one tells it.
 - brenton: Behold, ye despisers, and look, and wonder marvellously, and vanish: for I work a work in your days, which ye will in no wise believe, though a man declare it to you.
 
 ### Habakkuk 1:6
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Because behold, I raise up against you Chaldeans, the fighting nation, bitter and swift, going over breadths of earth to inherit tents not theirs.
+- fresh: Because behold, I raise up against you the Chaldeans, the fighting nation, bitter and swift, going over the breadths of the earth to inherit tent-dwellings not its own.
 - brenton: Wherefore, behold, I stir up the Chaldeans, the bitter and hasty nation, that walks upon the breadth of the earth, to inherit tabernacles not his own.
 
 ### Habakkuk 1:7
@@ -202620,37 +202620,37 @@ Note:
 ### Habakkuk 1:8
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Its horses will leap faster than leopards and keener than wolves of Arabia, and its horsemen will ride out and rush from far away and fly like an eagle eager to eat.
+- fresh: Its horses will leap beyond leopards and keener than the wolves of Arabia, and its horsemen will ride out and rush from far away and fly as an eagle eager to eat.
 - brenton: And his horses shall bound more swiftly than leopards, and they are fiercer than the wolves of Arabia: and his horsemen shall ride forth, and shall rush from far; and they shall fly as an eagle hasting to eat.
 
 ### Habakkuk 1:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: An end will come for impious ones, opposing their faces from before, and it will gather captivity like sand.
+- fresh: An end will come for impious ones, opposing their faces from before, and it will gather captivity as sand.
 - brenton: Destruction shall come upon ungodly men, resisting with their adverse front, and he shall gather the captivity as the sand.
 
 ### Habakkuk 1:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will make sport of kings, and tyrants are its plaything, and it will mock every fortress and cast up earth and seize it.
+- fresh: And it will make sport of kings, and tyrants are its plaything, and it will mock every fortress and cast up a mound and seize it.
 - brenton: And he shall be at his ease with kings, and princes are his toys, and he shall mock at every strong-hold, and shall cast a mound, and take possession of it.
 
 ### Habakkuk 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then spirit will change and pass through and make atonement. This strength belongs to my God.
+- fresh: Then the spirit will change and pass through and make atonement. This strength belongs to my God.
 - brenton: Then shall he change his spirit, and he shall pass through, and make an atonement, saying, This strength belongs to my god.
 
 ### Habakkuk 1:12
@@ -202665,19 +202665,19 @@ Note:
 ### Habakkuk 1:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your eye is clean from seeing evils, and you cannot look on hardships. Why do you look on those despising and keep silent when impious one swallows righteous?
+- fresh: Your eye is clean from seeing evils, and you cannot look on hardships. Why do you look on those despising and keep silent when the impious one swallows the righteous one?
 - brenton: His eye is too pure to behold evil doings, and to look upon grievous afflictions: wherefore dost thou look upon despisers? wilt thou be silent when the ungodly swallows up the just?
 
 ### Habakkuk 1:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will make humans like the fish of the sea and like creeping things that have no leader.
+- fresh: And you will make the humans as the fish of the sea and as the creeping things that have no leader.
 - brenton: And wilt thou make men as the fishes of the sea, and as the reptiles which have no guide?
 
 ### Habakkuk 1:15

@@ -91876,19 +91876,19 @@ How long, Lord, will I cry out and you not hear? I will shout to you while being
 
 **Habakkuk 1:3**
 
-Why did you show me troubles and pains, to look upon misery and impiety? Judgment has come opposite me, and judge receives.
+Why did you show me troubles and pains, to look upon misery and impiety? Judgment has come opposite me, and the judge receives.
 
 **Habakkuk 1:4**
 
-Because of this law has ceased, and judgment does not go forth to the end, because impious one overpowers righteous one; because of this judgment will go forth perverted.
+Because of this the law has ceased, and judgment does not go forth to the end, because the impious one overpowers the righteous one; because of this the judgment will go forth perverted.
 
 **Habakkuk 1:5**
 
-Look, despisers, and watch and marvel wondrously and disappear, because I work a work in your days that you will certainly not believe if one tells it.
+Look, O despisers, and watch and marvel wondrously and disappear, because I work a work in your days that you will certainly not believe if one tells it.
 
 **Habakkuk 1:6**
 
-Because behold, I raise up against you Chaldeans, the fighting nation, bitter and swift, going over breadths of earth to inherit tents not theirs.
+Because behold, I raise up against you the Chaldeans, the fighting nation, bitter and swift, going over the breadths of the earth to inherit tent-dwellings not its own.
 
 **Habakkuk 1:7**
 
@@ -91896,19 +91896,19 @@ It is fearsome and prominent; its judgment will come from itself, and its burden
 
 **Habakkuk 1:8**
 
-Its horses will leap faster than leopards and keener than wolves of Arabia, and its horsemen will ride out and rush from far away and fly like an eagle eager to eat.
+Its horses will leap beyond leopards and keener than the wolves of Arabia, and its horsemen will ride out and rush from far away and fly as an eagle eager to eat.
 
 **Habakkuk 1:9**
 
-An end will come for impious ones, opposing their faces from before, and it will gather captivity like sand.
+An end will come for impious ones, opposing their faces from before, and it will gather captivity as sand.
 
 **Habakkuk 1:10**
 
-And it will make sport of kings, and tyrants are its plaything, and it will mock every fortress and cast up earth and seize it.
+And it will make sport of kings, and tyrants are its plaything, and it will mock every fortress and cast up a mound and seize it.
 
 **Habakkuk 1:11**
 
-Then spirit will change and pass through and make atonement. This strength belongs to my God.
+Then the spirit will change and pass through and make atonement. This strength belongs to my God.
 
 **Habakkuk 1:12**
 
@@ -91916,11 +91916,11 @@ Are you not from the beginning, O Lord my God, my Holy One? And surely we shall 
 
 **Habakkuk 1:13**
 
-Your eye is clean from seeing evils, and you cannot look on hardships. Why do you look on those despising and keep silent when impious one swallows righteous?
+Your eye is clean from seeing evils, and you cannot look on hardships. Why do you look on those despising and keep silent when the impious one swallows the righteous one?
 
 **Habakkuk 1:14**
 
-And you will make humans like the fish of the sea and like creeping things that have no leader.
+And you will make the humans as the fish of the sea and as the creeping things that have no leader.
 
 **Habakkuk 1:15**
 

@@ -592,7 +592,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 7
 
-**Habakkuk 1:3** Why did you show me troubles and pains, to look upon misery and impiety? Judgment has come opposite me, and judge receives.
+**Habakkuk 1:3** Why did you show me troubles and pains, to look upon misery and impiety? Judgment has come opposite me, and the judge receives.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 11
