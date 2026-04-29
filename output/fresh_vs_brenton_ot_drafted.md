@@ -202890,100 +202890,100 @@ Note:
 ### Habakkuk 3:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Prayer of Habakkuk the prophet, with song.
+- fresh: A prayer of Habakkuk the prophet, with song.
 - brenton: A Prayer of the Prophet Ambacum, with a Song.
 
 ### Habakkuk 3:2
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
+- fresh: O Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
 - brenton: O Lord, I have heard thy report, and was afraid: I considered thy works, and was amazed: thou shalt be known between the two living creatures, thou shalt be acknowledged when the years draw nigh; thou shalt be manifested when the time is come; when my soul is troubled, thou wilt in wrath remember mercy.
 
 ### Habakkuk 3:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: God will come from Teman, and the Holy One from overshadowing wooded mountain. Pause. His excellence covered the heavens, and the earth was full of his praise.
+- fresh: God will come from Teman, and the Holy One from a shaded wooded mountain. Pause. His excellence covered the heavens, and the earth was full of his praise.
 - brenton: God shall come from Thæman, and the Holy One from the dark shady mount Pharan. Pause.
 
 ### Habakkuk 3:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And his brightness will be like light; horns in his hands, and there he set strong love of his might.
+- fresh: And his brightness will be as light; horns are in his hands, and there he set strong love of his might.
 - brenton: His excellence covered the heavens, and the earth was full of his praise. And his brightness shall be as light; there were horns in his hands, and he caused a mighty love of his strength.
 
 ### Habakkuk 3:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Before his face word will go, and his feet will go out in sandals.
+- fresh: Before his face a word will go, and his feet will go out in sandals.
 - brenton: Before his face shall go a report, and it shall go forth into the plains,
 
 ### Habakkuk 3:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: He stood and earth was shaken; he looked and nations melted. Mountains were shattered by force; everlasting hills melted.
+- fresh: He stood and the earth was shaken; he looked and nations melted. The mountains were shattered by force; everlasting hills melted.
 - brenton: the earth stood at his feet and trembled: he beheld, and the nations melted away: the mountains were violently burst through, the everlasting hills melted at his everlasting going forth.
 
 ### Habakkuk 3:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: I saw tents of Ethiopians instead of hardships; tents of land of Midian will be terrified.
+- fresh: I saw his everlasting ways instead of hardships; the tents of Ethiopians and the tents of the land of Midian will be terrified.
 - brenton: Because of troubles I looked upon the tents of the Ethiopians: the tabernacles also of the land of Madiam shall be dismayed.
 
 ### Habakkuk 3:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Were you angry at rivers, Lord? Or is your wrath in rivers? Or your charge in sea? Because you ride on your horses, and your riding is salvation.
+- fresh: Were you angry at rivers, O Lord? Or is your wrath in rivers? Or your charge in sea? Because you will ride on your horses, and your riding is salvation.
 - brenton: Wast thou angry, O Lord, with the rivers? or was thy wrath against the rivers, or thine anger against the sea? for thou wilt mount on thine horses, and thy chariots are salvation.
 
 ### Habakkuk 3:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Stretching you will stretch your bow upon scepters, says the Lord. Pause. Earth will be split by rivers.
+- fresh: Stretching you will stretch your bow upon the scepters, says the Lord. Pause. Earth will be split by rivers.
 - brenton: Surely thou didst bend thy bow at sceptres, saith the Lord. Pause. The land of rivers shall be torn asunder.
 
 ### Habakkuk 3:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Peoples will see you and writhe; scattering waters in his march, abyss gave its voice, height of its form.
+- fresh: Peoples will see you and writhe; scattering waters in his march, the abyss gave its voice, height of its form.
 - brenton: The nations shall see thee and be in pain, as thou dost divide the moving waters: the deep uttered her voice, and raised her form on high.
 
 ### Habakkuk 3:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sun was lifted up, moon stood in its order. To light your missiles will go, to brightness of lightning of your weapons.
+- fresh: The sun was lifted up, and the moon stood in its order. To light your missiles will go, to brightness of lightning of your weapons.
 - brenton: The sun was exalted, and the moon stood still in her course: thy darts shall go forth at the light, at the brightness of the gleaming of thine arms.
 
 ### Habakkuk 3:12
@@ -202998,19 +202998,19 @@ Note:
 ### Habakkuk 3:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You went out for the salvation of your people, to save your anointed ones. You cast death upon the heads of lawless ones and raised bonds to neck. Pause.
+- fresh: You went out for the salvation of your people, to save your anointed ones. You cast death upon the heads of lawless ones and raised bonds as far as the neck. Pause.
 - brenton: Thou wentest forth for the salvation of thy people, to save thine anointed: thou shalt bring death on the heads of transgressors; thou hast brought bands upon their neck. Pause.
 
 ### Habakkuk 3:14
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: You cut through in astonishment heads of mighty ones; they will be shaken in it. They will open their bridles as one eating a poor one secretly.
+- fresh: You cut through in astonishment heads of rulers; they will be shaken in it. They will open their bridles as one eating a poor one secretly.
 - brenton: Thou didst cut asunder the heads of princes with amazement, they shall tremble in it; they shall burst their bridles, they shall be as a poor man devouring in secret.
 
 ### Habakkuk 3:15
@@ -203025,19 +203025,19 @@ Note:
 ### Habakkuk 3:16
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: I kept watch and my belly was terrified at the sound of prayer of my lips, and trembling entered my bones, and under me my habit was disturbed. I will rest in the day of distress, to go up among people of my sojourning.
+- fresh: I watched, and my belly was terrified at the sound of the prayer of my lips, and trembling entered my bones, and under me my condition was disturbed. I will rest in the day of distress, to go up to the people of my sojourning.
 - brenton: I watched, and my belly trembled at the sound of the prayer of my lips, and trembling entered into my bones, and my frame was troubled within me; I will rest in the day of affliction, from going up to the people of my sojourning.
 
 ### Habakkuk 3:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because fig tree will not bear fruit and produce will not be in vines; work of olive will fail and fields will make no food; sheep failed from fodder and there are no oxen at mangers.
+- fresh: Because fig tree will not bear fruit, and produce will not be in the vines; work of olive will fail, and the fields will make no food; sheep failed from fodder, and there are no oxen at mangers.
 - brenton: For though the fig-tree shall bear no fruit, and there shall be no produce on the vines; the labour of the olive shall fail, and the fields shall produce no food: the sheep have failed from the pasture, and there are no oxen at the cribs;
 
 ### Habakkuk 3:18

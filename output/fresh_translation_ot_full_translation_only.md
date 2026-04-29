@@ -92020,47 +92020,47 @@ But the Lord is in his holy temple; let all the earth fear before him.
 
 **Habakkuk 3:1**
 
-Prayer of Habakkuk the prophet, with song.
+A prayer of Habakkuk the prophet, with song.
 
 **Habakkuk 3:2**
 
-Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
+O Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
 
 **Habakkuk 3:3**
 
-God will come from Teman, and the Holy One from overshadowing wooded mountain. Pause. His excellence covered the heavens, and the earth was full of his praise.
+God will come from Teman, and the Holy One from a shaded wooded mountain. Pause. His excellence covered the heavens, and the earth was full of his praise.
 
 **Habakkuk 3:4**
 
-And his brightness will be like light; horns in his hands, and there he set strong love of his might.
+And his brightness will be as light; horns are in his hands, and there he set strong love of his might.
 
 **Habakkuk 3:5**
 
-Before his face word will go, and his feet will go out in sandals.
+Before his face a word will go, and his feet will go out in sandals.
 
 **Habakkuk 3:6**
 
-He stood and earth was shaken; he looked and nations melted. Mountains were shattered by force; everlasting hills melted.
+He stood and the earth was shaken; he looked and nations melted. The mountains were shattered by force; everlasting hills melted.
 
 **Habakkuk 3:7**
 
-I saw tents of Ethiopians instead of hardships; tents of land of Midian will be terrified.
+I saw his everlasting ways instead of hardships; the tents of Ethiopians and the tents of the land of Midian will be terrified.
 
 **Habakkuk 3:8**
 
-Were you angry at rivers, Lord? Or is your wrath in rivers? Or your charge in sea? Because you ride on your horses, and your riding is salvation.
+Were you angry at rivers, O Lord? Or is your wrath in rivers? Or your charge in sea? Because you will ride on your horses, and your riding is salvation.
 
 **Habakkuk 3:9**
 
-Stretching you will stretch your bow upon scepters, says the Lord. Pause. Earth will be split by rivers.
+Stretching you will stretch your bow upon the scepters, says the Lord. Pause. Earth will be split by rivers.
 
 **Habakkuk 3:10**
 
-Peoples will see you and writhe; scattering waters in his march, abyss gave its voice, height of its form.
+Peoples will see you and writhe; scattering waters in his march, the abyss gave its voice, height of its form.
 
 **Habakkuk 3:11**
 
-Sun was lifted up, moon stood in its order. To light your missiles will go, to brightness of lightning of your weapons.
+The sun was lifted up, and the moon stood in its order. To light your missiles will go, to brightness of lightning of your weapons.
 
 **Habakkuk 3:12**
 
@@ -92068,11 +92068,11 @@ In threat you will diminish earth, and in wrath break down nations.
 
 **Habakkuk 3:13**
 
-You went out for the salvation of your people, to save your anointed ones. You cast death upon the heads of lawless ones and raised bonds to neck. Pause.
+You went out for the salvation of your people, to save your anointed ones. You cast death upon the heads of lawless ones and raised bonds as far as the neck. Pause.
 
 **Habakkuk 3:14**
 
-You cut through in astonishment heads of mighty ones; they will be shaken in it. They will open their bridles as one eating a poor one secretly.
+You cut through in astonishment heads of rulers; they will be shaken in it. They will open their bridles as one eating a poor one secretly.
 
 **Habakkuk 3:15**
 
@@ -92080,11 +92080,11 @@ And you mounted your horses into sea, troubling much water.
 
 **Habakkuk 3:16**
 
-I kept watch and my belly was terrified at the sound of prayer of my lips, and trembling entered my bones, and under me my habit was disturbed. I will rest in the day of distress, to go up among people of my sojourning.
+I watched, and my belly was terrified at the sound of the prayer of my lips, and trembling entered my bones, and under me my condition was disturbed. I will rest in the day of distress, to go up to the people of my sojourning.
 
 **Habakkuk 3:17**
 
-Because fig tree will not bear fruit and produce will not be in vines; work of olive will fail and fields will make no food; sheep failed from fodder and there are no oxen at mangers.
+Because fig tree will not bear fruit, and produce will not be in the vines; work of olive will fail, and the fields will make no food; sheep failed from fodder, and there are no oxen at mangers.
 
 **Habakkuk 3:18**
 

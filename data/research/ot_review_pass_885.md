@@ -8,4 +8,4 @@ Changes:
 
 Validation:
 - Focused fast checkpoint passed for Habakkuk 3:16-19.
-- Full aggregate/DOCX checkpoint deferred until the Habakkuk boundary rebuild.
+- Full aggregate/DOCX checkpoint passed at the Habakkuk 3 boundary.
