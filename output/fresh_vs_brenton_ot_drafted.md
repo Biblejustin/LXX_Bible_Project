@@ -189651,79 +189651,79 @@ Note:
 ### Ezekiel 33:2
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, speak to the sons of your people and say to them: Land upon which I bring sword, and people of the land take one man from themselves and give him to themselves for watchman,
+- fresh: Son of man, speak to the sons of your people and say to them: A land upon which I bring a sword, and the people of the land take one man from among them and give him to themselves as a watchman,
 - brenton: Son of man, speak to the children of thy people, and thou shalt say to them,
 
 ### Ezekiel 33:3
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: and he sees sword coming upon the land and blows trumpet and signals to people,
+- fresh: and he sees the sword coming upon the land and sounds with the trumpet and signals the people,
 - brenton: and he shall see the sword coming upon the land, and blow the trumpet, and sound an alarm to the people;
 
 ### Ezekiel 33:4
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: and hearer hears the sound of a trumpet and does not guard himself, and sword comes and overtakes him, his blood will be on his own head.
+- fresh: and the one hearing hears the sound of the trumpet and does not guard himself, and the sword comes and overtakes him, his blood will be on his own head.
 - brenton: and he that hears the sound of the trumpet shall hear indeed, and yet not take heed, and the sword shall come upon him, and overtake him, his blood shall be upon his own head.
 
 ### Ezekiel 33:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because hearing the sound of a trumpet he did not guard himself, his blood will be on him. But one who guarded himself rescued his own life.
+- fresh: Because he heard the sound of the trumpet and did not guard himself, his blood will be on him. But this one, because he guarded himself, rescued his own life.
 - brenton: Because he heard the sound of the trumpet, and took no heed, his blood shall be upon him: but the other, because he took heed, has delivered his soul.
 
 ### Ezekiel 33:6
 
 - importance: high
-- decisions: 0
+- decisions: 7
 - footnotes: 1
 - same_normalized: no
-- fresh: And if watchman sees sword coming and does not signal with trumpet, and people do not guard themselves, and sword coming takes life from them, that one was taken in his own lawlessness, but his blood I will seek from the hand of watchman.
+- fresh: And if the watchman sees the sword coming and does not signal with the trumpet, and the people do not guard themselves, and the sword comes and takes a life from them, that one was taken because of his own lawlessness, but his blood I will seek from the hand of the watchman.
 - brenton: But if the watchman see the sword coming, and do not sound the trumpet, and the people do not watch; and the sword come, and take a soul from among them, that soul is taken because of its iniquity; but the blood thereof will I require at the watchman's hand.
 
 ### Ezekiel 33:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, I have given you as a watchman to the house of Israel, and you will hear word from my mouth.
+- fresh: And you, son of man, I have given you as a watchman to the house of Israel, and you will hear a word from my mouth.
 - brenton: And thou, son of man, I have set thee as a watchman to the house of Israel, and thou shalt hear a word from my mouth.
 
 ### Ezekiel 33:8
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: When I say to sinner, By death you will die, and you do not speak to guard lawless one from his way, that lawless one will die in his lawlessness, but his blood I will seek from your hand.
+- fresh: When I say to the sinner, By death you will be put to death, and you do not speak to guard the impious one from his way, that lawless one will die in his lawlessness, but his blood I will seek from your hand.
 - brenton: When I say to the sinner, Thou shalt surely die; if thou speak not to warn the wicked from his way, the wicked himself shall die in his iniquity; but his blood will I require at thine hand.
 
 ### Ezekiel 33:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: But if you warn lawless one about his way, to turn from it, and he does not turn from his way, he will die in his impiety, but you have rescued your own life.
+- fresh: But if you warn the impious one about his way, to turn from it, and he does not turn from his way, this one will die in his impiety, but you have rescued your own life.
 - brenton: But if thou forewarn the wicked of his way to turn from it, and he turn not from his way, he shall die in his ungodliness; but thou hast delivered thine own soul.
 
 ### Ezekiel 33:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And you, son of man, say to the house of Israel, Thus you have spoken, saying, Our wanderings and our lawless deeds are upon us, and in them we melt away, and how shall we live?
@@ -189732,109 +189732,109 @@ Note:
 ### Ezekiel 33:11
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Say to them, As I live, thus says the Lord, I do not desire death of impious one as much as turning of impious one from his way and his living. Turn back, turn back from your way, and why are you dying, house of Israel?
+- fresh: Say to them, As I live, thus says the Lord, I do not desire the death of the impious one, but rather that the impious one turn from his way and live. Turn back, turn back from your way, and why are you dying, house of Israel?
 - brenton: Say to them, Thus saith the Lord; As I live, I desire not the death of the ungodly, as that the ungodly should turn from his way and live: turn ye heartily from your way; for why will ye die, O house of Israel?
 
 ### Ezekiel 33:12
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Say to the sons of your people, The righteousness of a righteous one will not rescue him on the day he wanders, and the lawlessness of an impious one will not hurt him on the day he turns from his lawlessness, and righteous one will not be able to be saved.
+- fresh: Say to the sons of your people, The righteousness of a righteous one will not rescue him on the day when he wanders, and the lawlessness of an impious one will not hurt him on the day when he turns from his lawlessness, and a righteous one will not be able to be saved.
 - brenton: Say to the children of thy people, The righteousness of the righteous shall not deliver him, in the day wherein he errs: and the iniquity of the ungodly shall not harm him, in the day wherein he turns from his iniquity, but the righteous erring shall not be able to deliver himself.
 
 ### Ezekiel 33:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: When I say to righteous one, He surely lives, and he trusts in his righteousness and does lawlessness, all his righteous deeds will not be remembered; in injustice that he did, in it he will die.
+- fresh: When I say to the righteous one, 'He will surely live,' and he trusts in his righteousness and does lawlessness, all his righteous deeds will not be remembered; in the injustice that he did, in it he will die.
 - brenton: When I say to the righteous, Thou shalt live; and he trusts in his righteousness, and shall commit iniquity, none of his righteousnesses shall be remembered; in his unrighteousness which he has wrought, in it shall he die.
 
 ### Ezekiel 33:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And when I say to the impious one, 'You will surely die,' and he turns from his sin and does judgment and righteousness,
+- fresh: And when I say to the impious one, 'By death you will be put to death,' and he turns from his sin and does judgment and righteousness,
 - brenton: And when I say to the ungodly, Thou shalt surely die; and he shall turn from his sin, and do judgment and justice,
 
 ### Ezekiel 33:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: and returns a pledge and repays plunder and walks in ordinances of life, so as not to do injustice, living he will live and will not die.
+- fresh: and returns a pledge and repays plunder and walks in ordinances of life, so as not to do injustice, living he will live; he will not die.
 - brenton: and return the pledge, and repay that which he has robbed, and walk in the ordinances of life, so as to do no wrong; he shall surely live, and shall not die.
 
 ### Ezekiel 33:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: All his sins that he sinned will not be remembered, because he did judgment and righteousness; in them he will live.
+- fresh: None of all his sins that he sinned will be remembered, because he did judgment and righteousness; in them he will live.
 - brenton: None of his sins which he has committed shall be remembered: because he has wrought judgment and righteousness; by them shall he live.
 
 ### Ezekiel 33:17
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And sons of your people will say, Way of the Lord is not straight, but this their way is not straight.
+- fresh: And the sons of your people will say, The way of the Lord is not straight, but this way of theirs is not straight.
 - brenton: Yet the children of thy people will say, The way of the Lord is not straight: whereas this their way is not straight.
 
 ### Ezekiel 33:18
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: When righteous one turns from his righteousness and does lawlessness, he will die in them.
+- fresh: When a righteous one turns from his righteousness and does lawless deeds, he will die in them.
 - brenton: When the righteous turns away from his righteousness, and shall commit iniquities, then shall he die in them.
 
 ### Ezekiel 33:19
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And when sinner turns from his lawlessness and does judgment and righteousness, in them he himself will live.
+- fresh: And when the sinner turns from his lawlessness and does judgment and righteousness, in them he himself will live.
 - brenton: And when the sinner turns from his iniquity, and shall do judgment and righteousness, he shall live by them.
 
 ### Ezekiel 33:20
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And this is what you said: Way of the Lord is not straight. Each one in his ways I will judge you, house of Israel.
+- fresh: And this is what you said: The way of the Lord is not straight. I will judge each one of you according to his ways, house of Israel.
 - brenton: And this is that which ye said, The way of the Lord is not straight. I will judge you, O house of Israel, every one for his ways.
 
 ### Ezekiel 33:21
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in the twelfth year, in the twelfth month, on the fifth of the month of our captivity, one escaping came to me from Jerusalem, saying, City has been taken.
+- fresh: And it happened in the twelfth year, in the twelfth month, on the fifth of the month of our captivity, the one who had escaped came to me from Jerusalem, saying, The city has been taken.
 - brenton: And it came to pass in the tenth year of our captivity, in the twelfth month, on the fifth day of the month, that one that had escaped from Jerusalem came to me, saying, The city is taken.
 
 ### Ezekiel 33:22
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And the hand of the Lord came upon me at evening before he came, and opened my mouth until he came to me in morning, and my mouth being opened was no longer restrained.
+- fresh: And the hand of the Lord came upon me in the evening before he came, and he opened my mouth until he came to me in the morning, and my mouth, having been opened, was no longer restrained.
 - brenton: Now the hand of the Lord had come upon me in the evening, before he came; and he opened my mouth, when he came to me in the morning: and my mouth was open, it was no longer kept closed.
 
 ### Ezekiel 33:23
@@ -189849,16 +189849,16 @@ Note:
 ### Ezekiel 33:24
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, those dwelling in desolated places on the land of Israel say, Abraham was one and possessed land, and we are many; to us land was given for possession.
+- fresh: Son of man, those dwelling in the desolated places on the land of Israel say, Abraham was one and possessed the land, and we are more numerous; to us the land has been given as a possession.
 - brenton: Son of man, they that inhabit the desolate places on the land of Israel say, Abraam was one, and he possessed the land: and we are more numerous; to us the land is given for a possession.
 
 ### Ezekiel 33:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Therefore say to them, Thus says the Lord God.
@@ -189867,64 +189867,64 @@ Note:
 ### Ezekiel 33:27
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: As I live, surely those in desolated places will fall by sword, and those on the face of the plain will be given to the beasts of the field for food, and those in fortified places and caves I will kill with death.
+- fresh: As I live, surely those in the desolated places will fall by the sword, and those on the face of the plain will be given to the beasts of the field for food, and those in the fortified places and those in the caves I will kill with death.
 - brenton: As I live, surely they that are in the desolate places shall fall by swords, and they that are in the open plain shall be given for food to the wild beasts of the field, and them that are in the fortified cities and them that are in the caves I will slay with pestilence.
 
 ### Ezekiel 33:28
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make land desolation, and arrogance of its strength will perish, and the mountains of Israel will be desolated because there is no passerby.
+- fresh: And I will make the land a desolation, and the arrogance of its strength will perish, and the mountains of Israel will be desolated because there is no one passing through.
 - brenton: And I will make the land desert, and the pride of her strength shall perish; and the mountains of Israel shall be made desolate by reason of no man passing through.
 
 ### Ezekiel 33:29
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will know that I am the Lord, when I make their land desolation and it will be desolated because of all their abominations that they did.
+- fresh: And they will know that I am the Lord when I make their land a desolation, and it will be desolated because of all their abominations that they did.
 - brenton: And they shall know that I am the Lord; and I will make their land desert, and it shall be made desolate because of all their abominations which they have wrought.
 
 ### Ezekiel 33:30
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, sons of your people speaking about you by walls and in doorways of houses, and they speak, man to his brother, saying, Come, let us hear what goes out from the Lord.
+- fresh: And you, son of man, the sons of your people are those speaking about you beside the walls and in the doorways of the houses, and they speak, each man to his brother, saying, Let us come together and hear the things going out from the Lord.
 - brenton: And as for thee, son of man, the children of thy people are they that speak concerning thee by the walls, and in the porches of the houses, and they talk one to another, saying, Let us come together, and let us hear the words that proceed from the Lord.
 
 ### Ezekiel 33:31
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: They come to you as people go together and sit before you and hear your words, but will not do them, because falsehood is in their mouth and behind their defilements is their heart.
+- fresh: They come to you as a people comes together and sit before you and hear your words, but they will not do them, because falsehood is in their mouth and their heart is behind their defilements.
 - brenton: They approach thee as a people comes together, and sit before thee, and hear thy words, but they will not do them: for there is falsehood in their mouth, and their heart goes after their pollutions.
 
 ### Ezekiel 33:32
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And you become to them like the voice of sweet-sounding psaltery, well harmonized, and they will hear your words and not do them.
+- fresh: And you become to them like the sound of a sweet-sounding, well-harmonized psaltery, and they will hear your words but not do them.
 - brenton: And thou art to them as the sound of a sweet, well-tuned psaltery, and they will hear thy words, but they will not do them.
 
 ### Ezekiel 33:33
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And when it comes, they will say, Behold, it has come, and they will know that a prophet was in their midst.
+- fresh: And whenever it comes, they will say, Behold, it has come, and they will know that a prophet was in their midst.
 - brenton: But whenever it shall come to pass, they will say, Behold, it is come: and they shall know that there was a prophet in the midst of them.
 
 ### Ezekiel 34:1

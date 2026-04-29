@@ -85982,35 +85982,35 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 33:2**
 
-Son of man, speak to the sons of your people and say to them: Land upon which I bring sword, and people of the land take one man from themselves and give him to themselves for watchman,
+Son of man, speak to the sons of your people and say to them: A land upon which I bring a sword, and the people of the land take one man from among them and give him to themselves as a watchman,
 
 **Ezekiel 33:3**
 
-and he sees sword coming upon the land and blows trumpet and signals to people,
+and he sees the sword coming upon the land and sounds with the trumpet and signals the people,
 
 **Ezekiel 33:4**
 
-and hearer hears the sound of a trumpet and does not guard himself, and sword comes and overtakes him, his blood will be on his own head.
+and the one hearing hears the sound of the trumpet and does not guard himself, and the sword comes and overtakes him, his blood will be on his own head.
 
 **Ezekiel 33:5**
 
-Because hearing the sound of a trumpet he did not guard himself, his blood will be on him. But one who guarded himself rescued his own life.
+Because he heard the sound of the trumpet and did not guard himself, his blood will be on him. But this one, because he guarded himself, rescued his own life.
 
 **Ezekiel 33:6**
 
-And if watchman sees sword coming and does not signal with trumpet, and people do not guard themselves, and sword coming takes life from them, that one was taken in his own lawlessness, but his blood I will seek from the hand of watchman.
+And if the watchman sees the sword coming and does not signal with the trumpet, and the people do not guard themselves, and the sword comes and takes a life from them, that one was taken because of his own lawlessness, but his blood I will seek from the hand of the watchman.
 
 **Ezekiel 33:7**
 
-And you, son of man, I have given you as a watchman to the house of Israel, and you will hear word from my mouth.
+And you, son of man, I have given you as a watchman to the house of Israel, and you will hear a word from my mouth.
 
 **Ezekiel 33:8**
 
-When I say to sinner, By death you will die, and you do not speak to guard lawless one from his way, that lawless one will die in his lawlessness, but his blood I will seek from your hand.
+When I say to the sinner, By death you will be put to death, and you do not speak to guard the impious one from his way, that lawless one will die in his lawlessness, but his blood I will seek from your hand.
 
 **Ezekiel 33:9**
 
-But if you warn lawless one about his way, to turn from it, and he does not turn from his way, he will die in his impiety, but you have rescued your own life.
+But if you warn the impious one about his way, to turn from it, and he does not turn from his way, this one will die in his impiety, but you have rescued your own life.
 
 **Ezekiel 33:10**
 
@@ -86018,51 +86018,51 @@ And you, son of man, say to the house of Israel, Thus you have spoken, saying, O
 
 **Ezekiel 33:11**
 
-Say to them, As I live, thus says the Lord, I do not desire death of impious one as much as turning of impious one from his way and his living. Turn back, turn back from your way, and why are you dying, house of Israel?
+Say to them, As I live, thus says the Lord, I do not desire the death of the impious one, but rather that the impious one turn from his way and live. Turn back, turn back from your way, and why are you dying, house of Israel?
 
 **Ezekiel 33:12**
 
-Say to the sons of your people, The righteousness of a righteous one will not rescue him on the day he wanders, and the lawlessness of an impious one will not hurt him on the day he turns from his lawlessness, and righteous one will not be able to be saved.
+Say to the sons of your people, The righteousness of a righteous one will not rescue him on the day when he wanders, and the lawlessness of an impious one will not hurt him on the day when he turns from his lawlessness, and a righteous one will not be able to be saved.
 
 **Ezekiel 33:13**
 
-When I say to righteous one, He surely lives, and he trusts in his righteousness and does lawlessness, all his righteous deeds will not be remembered; in injustice that he did, in it he will die.
+When I say to the righteous one, 'He will surely live,' and he trusts in his righteousness and does lawlessness, all his righteous deeds will not be remembered; in the injustice that he did, in it he will die.
 
 **Ezekiel 33:14**
 
-And when I say to the impious one, 'You will surely die,' and he turns from his sin and does judgment and righteousness,
+And when I say to the impious one, 'By death you will be put to death,' and he turns from his sin and does judgment and righteousness,
 
 **Ezekiel 33:15**
 
-and returns a pledge and repays plunder and walks in ordinances of life, so as not to do injustice, living he will live and will not die.
+and returns a pledge and repays plunder and walks in ordinances of life, so as not to do injustice, living he will live; he will not die.
 
 **Ezekiel 33:16**
 
-All his sins that he sinned will not be remembered, because he did judgment and righteousness; in them he will live.
+None of all his sins that he sinned will be remembered, because he did judgment and righteousness; in them he will live.
 
 **Ezekiel 33:17**
 
-And sons of your people will say, Way of the Lord is not straight, but this their way is not straight.
+And the sons of your people will say, The way of the Lord is not straight, but this way of theirs is not straight.
 
 **Ezekiel 33:18**
 
-When righteous one turns from his righteousness and does lawlessness, he will die in them.
+When a righteous one turns from his righteousness and does lawless deeds, he will die in them.
 
 **Ezekiel 33:19**
 
-And when sinner turns from his lawlessness and does judgment and righteousness, in them he himself will live.
+And when the sinner turns from his lawlessness and does judgment and righteousness, in them he himself will live.
 
 **Ezekiel 33:20**
 
-And this is what you said: Way of the Lord is not straight. Each one in his ways I will judge you, house of Israel.
+And this is what you said: The way of the Lord is not straight. I will judge each one of you according to his ways, house of Israel.
 
 **Ezekiel 33:21**
 
-And it happened in the twelfth year, in the twelfth month, on the fifth of the month of our captivity, one escaping came to me from Jerusalem, saying, City has been taken.
+And it happened in the twelfth year, in the twelfth month, on the fifth of the month of our captivity, the one who had escaped came to me from Jerusalem, saying, The city has been taken.
 
 **Ezekiel 33:22**
 
-And the hand of the Lord came upon me at evening before he came, and opened my mouth until he came to me in morning, and my mouth being opened was no longer restrained.
+And the hand of the Lord came upon me in the evening before he came, and he opened my mouth until he came to me in the morning, and my mouth, having been opened, was no longer restrained.
 
 **Ezekiel 33:23**
 
@@ -86070,7 +86070,7 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 33:24**
 
-Son of man, those dwelling in desolated places on the land of Israel say, Abraham was one and possessed land, and we are many; to us land was given for possession.
+Son of man, those dwelling in the desolated places on the land of Israel say, Abraham was one and possessed the land, and we are more numerous; to us the land has been given as a possession.
 
 **Ezekiel 33:25**
 
@@ -86078,31 +86078,31 @@ Therefore say to them, Thus says the Lord God.
 
 **Ezekiel 33:27**
 
-As I live, surely those in desolated places will fall by sword, and those on the face of the plain will be given to the beasts of the field for food, and those in fortified places and caves I will kill with death.
+As I live, surely those in the desolated places will fall by the sword, and those on the face of the plain will be given to the beasts of the field for food, and those in the fortified places and those in the caves I will kill with death.
 
 **Ezekiel 33:28**
 
-And I will make land desolation, and arrogance of its strength will perish, and the mountains of Israel will be desolated because there is no passerby.
+And I will make the land a desolation, and the arrogance of its strength will perish, and the mountains of Israel will be desolated because there is no one passing through.
 
 **Ezekiel 33:29**
 
-And they will know that I am the Lord, when I make their land desolation and it will be desolated because of all their abominations that they did.
+And they will know that I am the Lord when I make their land a desolation, and it will be desolated because of all their abominations that they did.
 
 **Ezekiel 33:30**
 
-And you, son of man, sons of your people speaking about you by walls and in doorways of houses, and they speak, man to his brother, saying, Come, let us hear what goes out from the Lord.
+And you, son of man, the sons of your people are those speaking about you beside the walls and in the doorways of the houses, and they speak, each man to his brother, saying, Let us come together and hear the things going out from the Lord.
 
 **Ezekiel 33:31**
 
-They come to you as people go together and sit before you and hear your words, but will not do them, because falsehood is in their mouth and behind their defilements is their heart.
+They come to you as a people comes together and sit before you and hear your words, but they will not do them, because falsehood is in their mouth and their heart is behind their defilements.
 
 **Ezekiel 33:32**
 
-And you become to them like the voice of sweet-sounding psaltery, well harmonized, and they will hear your words and not do them.
+And you become to them like the sound of a sweet-sounding, well-harmonized psaltery, and they will hear your words but not do them.
 
 **Ezekiel 33:33**
 
-And when it comes, they will say, Behold, it has come, and they will know that a prophet was in their midst.
+And whenever it comes, they will say, Behold, it has come, and they will know that a prophet was in their midst.
 
 ### Chapter 34
 
