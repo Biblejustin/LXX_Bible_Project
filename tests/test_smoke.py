@@ -3454,7 +3454,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the house of Joseph a flame, and the house of Esau for stubble" in by_ref[
         "Obadiah 1:18"
     ]["draft_translation"]
-    assert by_ref["Micah 2:7"]["draft_translation"].startswith("O house of Jacob, saying, Has the spirit of the Lord")
+    assert by_ref["Micah 2:7"]["draft_translation"].startswith(
+        "You who say, Has the house of Jacob provoked the spirit of the Lord"
+    )
     assert "like a lion ready for the hunt" in by_ref["Psalms 16:12"]["draft_translation"]
     assert "like a lion among beasts of the forest" in by_ref["Micah 5:7"]["draft_translation"]
     assert "like a lion-cub among flocks of sheep" in by_ref["Micah 5:7"]["draft_translation"]
