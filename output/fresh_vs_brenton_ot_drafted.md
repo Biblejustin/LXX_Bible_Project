@@ -200297,97 +200297,97 @@ Note:
 ### Amos 8:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus the Lord showed me, and behold, a vessel of birdlime.
+- fresh: Thus the Lord showed me, and behold, a fowler's vessel.
 - brenton: And behold a fowler's basket.
 
 ### Amos 8:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, What do you see, Amos? And I said, A vessel of birdlime. And the Lord said to me, The end has come upon my people Israel; I will no longer continue to pass over him.
+- fresh: And he said, What do you see, Amos? And I said, A fowler's vessel. And the Lord said to me, The end has come upon my people Israel; I will no longer continue to pass over him.
 - brenton: And he said, What seest thou, Amos? And I said, A fowler's basket. And the Lord said to me, The end is come upon my people Israel; I will not pass by them any more.
 
 ### Amos 8:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And stalls of the temple will howl in that day, says the Lord. Great is the fallen one in every place; I will cast silence.
+- fresh: And the ceilings of the temple will howl in that day, says the Lord. Many are the fallen in every place; I will cast silence.
 - brenton: And the ceilings of the temple shall howl in that day, saith the Lord God: there shall be many a fallen one in every place; I will bring silence upon them.
 
 ### Amos 8:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear these things, you who crush poor into morning and oppress needy from the land,
+- fresh: Hear now these things, you who crush a poor man into the morning and oppress needy ones from the land,
 - brenton: Hear now this, ye that oppress the poor in the morning, and drive the needy ones by tyranny from the earth,
 
 ### Amos 8:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: saying, When will month pass and we will trade, and the Sabbaths and we will open treasuries, making the measure small and the weights large and making unjust scales,
+- fresh: saying, When will the month pass and we will trade, and the Sabbaths and we will open treasuries, making the measure small and the weights large and making unjust scales,
 - brenton: saying, When will the month pass away, and we shall sell, and the sabbath, and we shall open the treasure, to make the measure small, and to enlarge the weight, and make the balance unfair?
 
 ### Amos 8:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: to buy poor for silver and humble one for sandals, and we will trade from every crop.
+- fresh: to buy poor ones for silver and a humble one for sandals, and we will trade from every crop.
 - brenton: That we may buy the poor for silver, and the needy for shoes; and we will trade in every kind of fruit.
 
 ### Amos 8:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord swears by arrogance of Jacob: Will he ever forget all your works for strife?
+- fresh: The Lord swears by the arrogance of Jacob: Will he ever forget all your works for strife?
 - brenton: The Lord swears against the pride of Jacob, None of your works shall ever be forgotten.
 
 ### Amos 8:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And because of these things will not the land be shaken, and every inhabitant in it mourn, and its whole end rise like a river and descend like a river of Egypt?
+- fresh: And because of these things will not the land be shaken, and every inhabitant in it mourn, and the consummation rise like a river and descend like a river of Egypt?
 - brenton: And shall not the land be troubled for these things, and shall not every one who dwells in it mourn? whereas destruction shall come up as a river, and shall descend as the river of Egypt.
 
 ### Amos 8:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, says the Lord God, sun will go down at noon and he will darken light upon earth in daytime.
+- fresh: And it will be in that day, says the Lord God, the sun will go down at noon and he will darken the light upon the earth by day.
 - brenton: And it shall come to pass in that day, saith the Lord God, that the sun shall go down at noon, and the light shall be darkened on the earth by day:
 
 ### Amos 8:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will turn your feasts into mourning and all your songs into lament, and bring up sackcloth on every waist and baldness on every head and make it like mourning for beloved one and those with him like day of grief.
+- fresh: And I will turn your feasts into mourning and all your songs into lament, and bring up sackcloth on every waist and baldness on every head and make it like mourning for a beloved one and those with him like a day of grief.
 - brenton: and I will turn your feasts into mourning, and all your songs into lamentation; and I will bring up sackcloth on all loins, and baldness on every head; and I will make them as the mourning of a beloved friend, and those with them as a day of grief.
 
 ### Amos 8:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Behold, days are coming, says the Lord, and I will send famine upon the land, not famine of bread nor thirst of water, but famine of hearing the word of the Lord.
@@ -200396,28 +200396,28 @@ Note:
 ### Amos 8:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And waters will be shaken to sea, and from north to east they will run around seeking the word of the Lord and will never find it.
+- fresh: And waters will be shaken to sea, and from north to east they will run around seeking the word of the Lord and will certainly not find it.
 - brenton: And the waters shall be troubled from sea to sea, and from the north to the east shall men run hither and thither, seeking the word of the Lord, and they shall not find it.
 
 ### Amos 8:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day fair virgins and young men will fail in thirst.
+- fresh: In that day the fair virgins and the young men will fail in thirst.
 - brenton: In that day shall the fair virgins and the young men faint for thirst;
 
 ### Amos 8:14
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Those swearing by propitiation of Samaria and saying, Your god lives, Dan, and your god lives, Beersheba, will fall and never rise again.
+- fresh: Those swearing by the propitiation of Samaria and saying, Your god lives, O Dan, and your god lives, O Beersheba, will fall and certainly not rise anymore.
 - brenton: they who swear by the propitiation of Samaria, and who say, Thy god, O Dan, lives; and, Thy god, O Bersabee, lives; and they shall fall, and shall no more rise again.
 
 ### Amos 9:1

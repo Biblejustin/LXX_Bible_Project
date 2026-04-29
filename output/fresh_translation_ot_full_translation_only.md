@@ -90824,43 +90824,43 @@ Therefore thus says the Lord: Your wife will prostitute herself in the city, and
 
 **Amos 8:1**
 
-Thus the Lord showed me, and behold, a vessel of birdlime.
+Thus the Lord showed me, and behold, a fowler's vessel.
 
 **Amos 8:2**
 
-And he said, What do you see, Amos? And I said, A vessel of birdlime. And the Lord said to me, The end has come upon my people Israel; I will no longer continue to pass over him.
+And he said, What do you see, Amos? And I said, A fowler's vessel. And the Lord said to me, The end has come upon my people Israel; I will no longer continue to pass over him.
 
 **Amos 8:3**
 
-And stalls of the temple will howl in that day, says the Lord. Great is the fallen one in every place; I will cast silence.
+And the ceilings of the temple will howl in that day, says the Lord. Many are the fallen in every place; I will cast silence.
 
 **Amos 8:4**
 
-Hear these things, you who crush poor into morning and oppress needy from the land,
+Hear now these things, you who crush a poor man into the morning and oppress needy ones from the land,
 
 **Amos 8:5**
 
-saying, When will month pass and we will trade, and the Sabbaths and we will open treasuries, making the measure small and the weights large and making unjust scales,
+saying, When will the month pass and we will trade, and the Sabbaths and we will open treasuries, making the measure small and the weights large and making unjust scales,
 
 **Amos 8:6**
 
-to buy poor for silver and humble one for sandals, and we will trade from every crop.
+to buy poor ones for silver and a humble one for sandals, and we will trade from every crop.
 
 **Amos 8:7**
 
-The Lord swears by arrogance of Jacob: Will he ever forget all your works for strife?
+The Lord swears by the arrogance of Jacob: Will he ever forget all your works for strife?
 
 **Amos 8:8**
 
-And because of these things will not the land be shaken, and every inhabitant in it mourn, and its whole end rise like a river and descend like a river of Egypt?
+And because of these things will not the land be shaken, and every inhabitant in it mourn, and the consummation rise like a river and descend like a river of Egypt?
 
 **Amos 8:9**
 
-And it will be in that day, says the Lord God, sun will go down at noon and he will darken light upon earth in daytime.
+And it will be in that day, says the Lord God, the sun will go down at noon and he will darken the light upon the earth by day.
 
 **Amos 8:10**
 
-And I will turn your feasts into mourning and all your songs into lament, and bring up sackcloth on every waist and baldness on every head and make it like mourning for beloved one and those with him like day of grief.
+And I will turn your feasts into mourning and all your songs into lament, and bring up sackcloth on every waist and baldness on every head and make it like mourning for a beloved one and those with him like a day of grief.
 
 **Amos 8:11**
 
@@ -90868,15 +90868,15 @@ Behold, days are coming, says the Lord, and I will send famine upon the land, no
 
 **Amos 8:12**
 
-And waters will be shaken to sea, and from north to east they will run around seeking the word of the Lord and will never find it.
+And waters will be shaken to sea, and from north to east they will run around seeking the word of the Lord and will certainly not find it.
 
 **Amos 8:13**
 
-In that day fair virgins and young men will fail in thirst.
+In that day the fair virgins and the young men will fail in thirst.
 
 **Amos 8:14**
 
-Those swearing by propitiation of Samaria and saying, Your god lives, Dan, and your god lives, Beersheba, will fall and never rise again.
+Those swearing by the propitiation of Samaria and saying, Your god lives, O Dan, and your god lives, O Beersheba, will fall and certainly not rise anymore.
 
 ### Chapter 9
 
