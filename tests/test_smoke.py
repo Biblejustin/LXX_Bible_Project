@@ -6531,7 +6531,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "into the valley of Jehoshaphat" in by_ref["Joel 4:2"]["draft_translation"]
     assert "to the men of Judah" in by_ref["Jeremiah 4:3"]["draft_translation"]
     assert "after the thoughts of their evil heart" in by_ref["Jeremiah 3:17"]["draft_translation"]
-    assert "with the wounded of sword" in by_ref["Ezekiel 31:18"]["draft_translation"]
+    assert "with the wounded by the sword" in by_ref["Ezekiel 31:18"]["draft_translation"]
     assert "By the command of God" in by_ref["Joshua 19:50"]["draft_translation"]
     assert "according to the matter of each day" in by_ref["2 Chronicles 8:13"]["draft_translation"]
     assert "into the cities of Judah" in by_ref["2 Chronicles 24:5"]["draft_translation"]
