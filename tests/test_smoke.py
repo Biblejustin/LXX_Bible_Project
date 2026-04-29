@@ -7047,7 +7047,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     ]
     assert "but his hand is still high" in by_ref["Isaiah 9:20"]["draft_translation"]
     assert by_ref["Amos 9:12"]["draft_translation"].startswith("so that the remnant of men")
-    assert "upon whom my name has been called may seek" in by_ref["Amos 9:12"]["draft_translation"]
+    assert "upon whom my name has been called upon them may seek" in by_ref["Amos 9:12"][
+        "draft_translation"
+    ]
     assert "bring the third through fire" in by_ref["Zechariah 13:9"]["draft_translation"]
     assert "he will say, The Lord is my God" in by_ref["Zechariah 13:9"]["draft_translation"]
     assert "this one is the God of gods" in by_ref["Deuteronomy 10:17"]["draft_translation"]
