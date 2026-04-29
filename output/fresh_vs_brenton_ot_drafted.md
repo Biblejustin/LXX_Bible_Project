@@ -191838,235 +191838,235 @@ Note:
 ### Ezekiel 41:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he brought me into the temple, where he measured the porch, six cubits breadth here and six cubits breadth of porch there.
+- fresh: And he brought me into the temple, where he measured the porch: six cubits in breadth on this side and six cubits in breadth for the porch on that side.
 - brenton: And he brought me into the temple, the porch of which he measured, six cubits the breadth on one side, and six cubits the breadth of the porch on the other side.
 
 ### Ezekiel 41:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And breadth of gateway ten cubits, and shoulders of gateway five cubits here and five cubits there, and he measured its length forty cubits and breadth twenty cubits.
+- fresh: And the breadth of the gateway was ten cubits, and the shoulders of the gateway were five cubits on this side and five cubits on that side, and he measured its length, forty cubits, and its breadth, twenty cubits.
 - brenton: And the breadth of the gateway was ten cubits, and the side-pieces of the gateway were five cubits on this side, and five cubits on that side: and he measured the length of it, forty cubits, and the breadth, twenty cubits.
 
 ### Ezekiel 41:3
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And he entered into the inner court and measured jamb of doorway, two cubits, and doorway six cubits, and shoulders of doorway seven cubits here and seven cubits there.
+- fresh: And he entered into the inner court and measured the jamb of the doorway, two cubits, and the doorway was six cubits, and the shoulders of the doorway were seven cubits on this side and seven cubits on that side.
 - brenton: And he went into the inner court, and measured the post of the door, two cubits; and the door, six cubits; and the side-pieces of the door, seven cubits on one side, and seven cubits on the other side.
 
 ### Ezekiel 41:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he measured the length of the doors forty cubits and breadth twenty cubits before the temple, and he said, This is holy of holies.
+- fresh: And he measured the length of the doors, forty cubits, and the breadth, twenty cubits before the temple, and he said, This is the holy of holies.
 - brenton: And he measured the length of the doors, forty cubits; and the breadth, twenty cubits, in front of the temple: and he said, This is the holy of holies.
 
 ### Ezekiel 41:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he measured wall of the house, six cubits, and breadth of the side room, four cubits around.
+- fresh: And he measured the wall of the house, six cubits, and the breadth of the side room, four cubits all around.
 - brenton: And he measured the wall of the house, six cubits: and the breadth of each side, four cubits round about.
 
 ### Ezekiel 41:6
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And side room against side room, thirty-three twice, and interval in the wall of the house, in the side rooms around, for the places laying hold of sight, so that they do not at all touch walls of the house.
+- fresh: And the side rooms were side room upon side room, thirty-three twice, and there was an interval in the wall of the house among the side rooms around, for those taking hold to see, so that they would not touch the walls of the house at all.
 - brenton: And the sides were twice ninety, side against side; and there was a space in the wall of the house at the sides round about, that they should be for them that take hold of them to see, that they should not at all touch the walls of the house.
 
 ### Ezekiel 41:7
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And width of the upper side rooms according to addition from the wall to the upper room around the house, so that it widened upward, and from the lower parts one went up to the upper rooms, and from the middle to the third story.
+- fresh: And the breadth of the upper side rooms was according to the addition from the wall toward the upper story around the house, so that it widened upward, and from the lower parts they would go up to the upper rooms, and from the middle to the third stories.
 - brenton: And the breadth of the upper side was made according to the projection out of the wall, against the upper one round about the house, that it might be enlarged above, and that men might go up to the upper chambers from those below, and from the ground-sills to the third story.
 
 ### Ezekiel 41:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And foundation of the house height all around, interval of the side rooms equal to the reed, six cubits, an interval.
+- fresh: And the foundation of the house had height all around; the interval of the side rooms was equal to the reed, six cubits, an interval.
 - brenton: And as for the height of the house round about, each space between the sides was equal to a reed of six cubits;
 
 ### Ezekiel 41:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And width of the wall of the side room outside, five cubits, and the remaining space between side rooms of the house.
+- fresh: And the width of the wall of the side room outside was five cubits, and the remaining space was between the side rooms of the house.
 - brenton: and the breadth of the wall of each side without was five cubits; and the spaces that were left between the sides of the house,
 
 ### Ezekiel 41:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And between the chambers breadth twenty cubits, encircling the house round about.
+- fresh: And between the chambers was a breadth of twenty cubits, encircling the house all around.
 - brenton: and between the chambers, were a width of twenty cubits, the circumference of the house.
 
 ### Ezekiel 41:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the doors of the chambers opened to the remaining open space, one door northward and one door southward, and the breadth of the light of the remainder was five cubits broad around.
+- fresh: And the doors of the chambers were toward the remaining open space, one door northward and one door southward, and the breadth of the opening of the remaining space was five cubits broad all around.
 - brenton: And the doors of the chambers were toward the space left by the one door that looked northward, and there was one door southward; and the breadth of the remaining open space was five cubits in extent round about.
 
 ### Ezekiel 41:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the dividing structure in front of the remaining area toward the sea was seventy cubits broad, and the wall of the dividing structure five cubits broad round about, and its length ninety cubits.
+- fresh: And the dividing structure in front of the remaining area toward the sea was seventy cubits broad, and the wall of the dividing structure was five cubits in breadth all around, and its length was ninety cubits.
 - brenton: And the partition wall in front of the remaining space, toward the west, was seventy cubits in breadth; the breadth of the partition wall was five cubits round about, and the length of it ninety cubits.
 
 ### Ezekiel 41:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he measured opposite the house, length one hundred cubits, and the remains and the dividing structures and their walls, length one hundred cubits.
+- fresh: And he measured opposite the house: a length of one hundred cubits; and the remaining spaces and the dividing structures and their walls were one hundred cubits in length.
 - brenton: And he measured in front of the house a length of a hundred cubits, and the remaining spaces and the partitions; and the walls thereof were in length a hundred cubits.
 
 ### Ezekiel 41:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And breadth in front of the house and the remains opposite, one hundred cubits.
+- fresh: And the breadth in front of the house and the remaining spaces opposite was one hundred cubits.
 - brenton: And the breadth in front of the house, and the remaining spaces before it were a hundred cubits.
 
 ### Ezekiel 41:15
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And he measured the length of the dividing structure in front of the remaining areas behind that house, and the remains here and there, one hundred cubits in length, and the temple and the corners and the outer porch,
+- fresh: And he measured the length of the dividing structure in front of the remaining space behind that house, and the remaining spaces on this side and on that side, one hundred cubits in length; and the temple and the corners and the outer porch were
 - brenton: And he measured the length of the partition in front of the space left by the back parts of that house; and the spaces left on this side and on that side were in length a hundred cubits: and the temple and the corners and the outer porch were ceiled.
 
 ### Ezekiel 41:16
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: panelled, and the latticed windows, recesses around by the three, so as to look through, and the house and its nearby parts were wood-paneled around, and the floor, and from the floor to the windows, and the windows opening threefold for looking through,
+- fresh: paneled, with latticed windows and recessed openings around the three stories, so as to look through, and the house and its nearby parts and the floor were wood-paneled all around, and from the floor to the windows the windows were opening threefold for looking through,
 - brenton: And the windows were latticed, giving light round about to the three stories, so as to look through: and the house and the parts adjoining were planked round about, and so was the floor, and from the floor up to the windows, and the window shutters folded back in three parts for one to look through.
 
 ### Ezekiel 41:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: and up to near the inner part and up to the outer, and over all the wall around, within and without.
+- fresh: and up to near the inner part and up to the outer part, and over the whole wall all around, within and without.
 - brenton: And almost all the way to the inner, and close to the outer side, and upon all the wall round about within and without,
 
 ### Ezekiel 41:18
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Cherubim and palms were carved, between cherub and cherub, two faces to the cherub.
+- fresh: Cherubim and palms were carved between cherub and cherub, and each cherub had two faces.
 - brenton: were carved cherubs and palm-trees between the cherubs, and each cherub had two faces.
 
 ### Ezekiel 41:19
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: The face of a man toward the palm here and there, and the face of a lion toward the palm here and there, carved all around the whole house.
+- fresh: The face of a man was toward the palm on this side and on that side, and the face of a lion was toward the palm on this side and on that side; the whole house was carved all around.
 - brenton: The face of a man was toward one palm-tree on this side and on that side, and the face of a lion toward another palm-tree on this side and on that side: the house was carved all round.
 
 ### Ezekiel 41:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From the floor to the ceiling cherubim and palms were carved.
+- fresh: From the floor to the ceiling, cherubim and palms were carved.
 - brenton: From the floor to the ceiling were cherubs and palm-trees carved.
 
 ### Ezekiel 41:21
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the sanctuary and the temple were opening in squares; before the holy things appearance was like appearance.
+- fresh: And the sanctuary and the temple opened in squares; before the holy things the appearance was like the appearance
 - brenton: And the holy place and the temple opened on four sides; in front of the holy places the appearance was as the look of
 
 ### Ezekiel 41:22
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Wooden altar, three cubits its height and two cubits its length and two cubits its breadth, and it had horns and its base and its walls were wooden, and he said to me, This is the table before the face of the Lord.
+- fresh: of a wooden altar: three cubits was its height, and two cubits its length, and two cubits its breadth. It had horns, and its base and its walls were wooden. And he said to me, This is the table before the face of the Lord.
 - brenton: a wooden altar, the height of it three cubits, and the length two cubits, and the breadth two cubits; and it had horns, and the base of it and the sides of it were of wood: and he said to me, This is the table, which is before the face of the Lord.
 
 ### Ezekiel 41:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And two doors to the temple and to the holy place.
+- fresh: And there were two doors to the temple and to the holy place.
 - brenton: And the temple had two doors, and the sanctuary had two doors, with two turning leaves apiece;
 
 ### Ezekiel 41:24
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Two swinging doors to the two doors, two leaves to the one and two leaves to the second door.
+- fresh: Two swinging leaves belonged to the two doors: two leaves to the one and two leaves to the second door.
 - brenton: two leaves to the one, and two leaves to the other door.
 
 ### Ezekiel 41:25
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And carving upon them and upon doors of the temple, cherubim and palms according to carving of the holy things, and heavy timbers before the porch outside.
+- fresh: And carving was upon them and upon the doors of the temple, cherubim and palms according to the carving of the holy things, and heavy timbers were before the porch outside.
 - brenton: And there was carved work upon them, and cherubs on the doors of the temple, and palm-trees according to the carving of the sanctuary; and there were stout planks in front of the porch without.
 
 ### Ezekiel 41:26
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And hidden windows; and he measured here and there into the upper rooms of the porch, and sides of the house were balanced.
+- fresh: And there were hidden windows; and he measured on this side and on that side to the upper rooms of the porch, and the sides of the house were balanced.
 - brenton: And there were secret windows; and he measured from side to side, to the roofing of the porch; and the sides of the house were closely planked.
 
 ### Ezekiel 42:1

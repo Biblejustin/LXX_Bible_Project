@@ -86970,107 +86970,107 @@ And the length of the porch was twenty cubits and the breadth twelve cubits, and
 
 **Ezekiel 41:1**
 
-And he brought me into the temple, where he measured the porch, six cubits breadth here and six cubits breadth of porch there.
+And he brought me into the temple, where he measured the porch: six cubits in breadth on this side and six cubits in breadth for the porch on that side.
 
 **Ezekiel 41:2**
 
-And breadth of gateway ten cubits, and shoulders of gateway five cubits here and five cubits there, and he measured its length forty cubits and breadth twenty cubits.
+And the breadth of the gateway was ten cubits, and the shoulders of the gateway were five cubits on this side and five cubits on that side, and he measured its length, forty cubits, and its breadth, twenty cubits.
 
 **Ezekiel 41:3**
 
-And he entered into the inner court and measured jamb of doorway, two cubits, and doorway six cubits, and shoulders of doorway seven cubits here and seven cubits there.
+And he entered into the inner court and measured the jamb of the doorway, two cubits, and the doorway was six cubits, and the shoulders of the doorway were seven cubits on this side and seven cubits on that side.
 
 **Ezekiel 41:4**
 
-And he measured the length of the doors forty cubits and breadth twenty cubits before the temple, and he said, This is holy of holies.
+And he measured the length of the doors, forty cubits, and the breadth, twenty cubits before the temple, and he said, This is the holy of holies.
 
 **Ezekiel 41:5**
 
-And he measured wall of the house, six cubits, and breadth of the side room, four cubits around.
+And he measured the wall of the house, six cubits, and the breadth of the side room, four cubits all around.
 
 **Ezekiel 41:6**
 
-And side room against side room, thirty-three twice, and interval in the wall of the house, in the side rooms around, for the places laying hold of sight, so that they do not at all touch walls of the house.
+And the side rooms were side room upon side room, thirty-three twice, and there was an interval in the wall of the house among the side rooms around, for those taking hold to see, so that they would not touch the walls of the house at all.
 
 **Ezekiel 41:7**
 
-And width of the upper side rooms according to addition from the wall to the upper room around the house, so that it widened upward, and from the lower parts one went up to the upper rooms, and from the middle to the third story.
+And the breadth of the upper side rooms was according to the addition from the wall toward the upper story around the house, so that it widened upward, and from the lower parts they would go up to the upper rooms, and from the middle to the third stories.
 
 **Ezekiel 41:8**
 
-And foundation of the house height all around, interval of the side rooms equal to the reed, six cubits, an interval.
+And the foundation of the house had height all around; the interval of the side rooms was equal to the reed, six cubits, an interval.
 
 **Ezekiel 41:9**
 
-And width of the wall of the side room outside, five cubits, and the remaining space between side rooms of the house.
+And the width of the wall of the side room outside was five cubits, and the remaining space was between the side rooms of the house.
 
 **Ezekiel 41:10**
 
-And between the chambers breadth twenty cubits, encircling the house round about.
+And between the chambers was a breadth of twenty cubits, encircling the house all around.
 
 **Ezekiel 41:11**
 
-And the doors of the chambers opened to the remaining open space, one door northward and one door southward, and the breadth of the light of the remainder was five cubits broad around.
+And the doors of the chambers were toward the remaining open space, one door northward and one door southward, and the breadth of the opening of the remaining space was five cubits broad all around.
 
 **Ezekiel 41:12**
 
-And the dividing structure in front of the remaining area toward the sea was seventy cubits broad, and the wall of the dividing structure five cubits broad round about, and its length ninety cubits.
+And the dividing structure in front of the remaining area toward the sea was seventy cubits broad, and the wall of the dividing structure was five cubits in breadth all around, and its length was ninety cubits.
 
 **Ezekiel 41:13**
 
-And he measured opposite the house, length one hundred cubits, and the remains and the dividing structures and their walls, length one hundred cubits.
+And he measured opposite the house: a length of one hundred cubits; and the remaining spaces and the dividing structures and their walls were one hundred cubits in length.
 
 **Ezekiel 41:14**
 
-And breadth in front of the house and the remains opposite, one hundred cubits.
+And the breadth in front of the house and the remaining spaces opposite was one hundred cubits.
 
 **Ezekiel 41:15**
 
-And he measured the length of the dividing structure in front of the remaining areas behind that house, and the remains here and there, one hundred cubits in length, and the temple and the corners and the outer porch,
+And he measured the length of the dividing structure in front of the remaining space behind that house, and the remaining spaces on this side and on that side, one hundred cubits in length; and the temple and the corners and the outer porch were
 
 **Ezekiel 41:16**
 
-panelled, and the latticed windows, recesses around by the three, so as to look through, and the house and its nearby parts were wood-paneled around, and the floor, and from the floor to the windows, and the windows opening threefold for looking through,
+paneled, with latticed windows and recessed openings around the three stories, so as to look through, and the house and its nearby parts and the floor were wood-paneled all around, and from the floor to the windows the windows were opening threefold for looking through,
 
 **Ezekiel 41:17**
 
-and up to near the inner part and up to the outer, and over all the wall around, within and without.
+and up to near the inner part and up to the outer part, and over the whole wall all around, within and without.
 
 **Ezekiel 41:18**
 
-Cherubim and palms were carved, between cherub and cherub, two faces to the cherub.
+Cherubim and palms were carved between cherub and cherub, and each cherub had two faces.
 
 **Ezekiel 41:19**
 
-The face of a man toward the palm here and there, and the face of a lion toward the palm here and there, carved all around the whole house.
+The face of a man was toward the palm on this side and on that side, and the face of a lion was toward the palm on this side and on that side; the whole house was carved all around.
 
 **Ezekiel 41:20**
 
-From the floor to the ceiling cherubim and palms were carved.
+From the floor to the ceiling, cherubim and palms were carved.
 
 **Ezekiel 41:21**
 
-And the sanctuary and the temple were opening in squares; before the holy things appearance was like appearance.
+And the sanctuary and the temple opened in squares; before the holy things the appearance was like the appearance
 
 **Ezekiel 41:22**
 
-Wooden altar, three cubits its height and two cubits its length and two cubits its breadth, and it had horns and its base and its walls were wooden, and he said to me, This is the table before the face of the Lord.
+of a wooden altar: three cubits was its height, and two cubits its length, and two cubits its breadth. It had horns, and its base and its walls were wooden. And he said to me, This is the table before the face of the Lord.
 
 **Ezekiel 41:23**
 
-And two doors to the temple and to the holy place.
+And there were two doors to the temple and to the holy place.
 
 **Ezekiel 41:24**
 
-Two swinging doors to the two doors, two leaves to the one and two leaves to the second door.
+Two swinging leaves belonged to the two doors: two leaves to the one and two leaves to the second door.
 
 **Ezekiel 41:25**
 
-And carving upon them and upon doors of the temple, cherubim and palms according to carving of the holy things, and heavy timbers before the porch outside.
+And carving was upon them and upon the doors of the temple, cherubim and palms according to the carving of the holy things, and heavy timbers were before the porch outside.
 
 **Ezekiel 41:26**
 
-And hidden windows; and he measured here and there into the upper rooms of the porch, and sides of the house were balanced.
+And there were hidden windows; and he measured on this side and on that side to the upper rooms of the porch, and the sides of the house were balanced.
 
 ### Chapter 42
 
