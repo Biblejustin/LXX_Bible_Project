@@ -91468,7 +91468,7 @@ And you, Bethlehem, house of Ephrathah, few are you to be among thousands of Jud
 
 **Micah 5:2**
 
-Therefore he will give them until time when birthing woman births, and rest of their brothers will return upon the sons of Israel.
+Therefore he will give them until the time when she who gives birth gives birth, and the rest of their brothers will return upon the sons of Israel.
 
 **Micah 5:3**
 
@@ -91480,19 +91480,19 @@ And this will be peace when Assyrian comes upon your land and steps upon your co
 
 **Micah 5:5**
 
-And they will shepherd Assyria with sword and land of Nimrod in its trench, and he will rescue from Assyria when he comes upon your land and steps upon your borders.
+And they will shepherd Assyria with a sword and the land of Nimrod in its trench, and he will rescue from Assyria when he comes upon your land and steps upon your borders.
 
 **Micah 5:6**
 
-And the remnant of Jacob among nations, in the midst of many peoples, will be like dew from the Lord falling and like lambs upon grass, so that no one might be gathered and no one stand among sons of men.
+And the remnant of Jacob among the nations, in the midst of many peoples, will be like dew from the Lord falling and like lambs upon grass, so that no one might be gathered and no one might stand among the sons of men.
 
 **Micah 5:7**
 
-And the remnant of Jacob among nations and in the midst of many peoples will be like a lion among beasts of the forest and like a lion-cub among flocks of sheep, which when he passes through and divides will seize and there is no rescuer.
+And the remnant of Jacob among the nations and in the midst of many peoples will be like a lion among beasts of the forest and like a lion-cub among flocks of sheep, which when he passes through and divides will seize, and there is no rescuer.
 
 **Micah 5:8**
 
-Your hand will be lifted upon those distressing you, and all your enemies will be destroyed.
+Your hand will be lifted up upon those distressing you, and all your enemies will be destroyed.
 
 **Micah 5:9**
 
@@ -91500,7 +91500,7 @@ And it will be in that day, says the Lord, I will destroy your horses from your 
 
 **Micah 5:10**
 
-And I will destroy cities of your land and remove all your strongholds.
+And I will destroy the cities of your land and remove all your strongholds.
 
 **Micah 5:11**
 
@@ -91508,7 +91508,7 @@ And I will remove your sorceries from your hands, and there will be no omen-spea
 
 **Micah 5:12**
 
-And I will destroy your carved images and your pillars from your midst, and you will no longer worship works of your hands.
+And I will destroy your carved images and your pillars from your midst, and you will no longer worship the works of your hands.
 
 **Micah 5:13**
 
@@ -91516,7 +91516,7 @@ And I will cut down your groves from your midst and make your cities disappear.
 
 **Micah 5:14**
 
-And I will do vengeance in anger and wrath among nations because they did not hear.
+And I will do vengeance in anger and in wrath among the nations because they did not hear.
 
 ### Chapter 6
 

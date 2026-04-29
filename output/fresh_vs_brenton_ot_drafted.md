@@ -201689,10 +201689,10 @@ Note:
 ### Micah 5:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore he will give them until time when birthing woman births, and rest of their brothers will return upon the sons of Israel.
+- fresh: Therefore he will give them until the time when she who gives birth gives birth, and the rest of their brothers will return upon the sons of Israel.
 - brenton: Therefore shall he appoint them to wait till the time of her that travails: she shall bring forth, and then the remnant of their brethren shall return to the children of Israel.
 
 ### Micah 5:3
@@ -201716,37 +201716,37 @@ Note:
 ### Micah 5:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will shepherd Assyria with sword and land of Nimrod in its trench, and he will rescue from Assyria when he comes upon your land and steps upon your borders.
+- fresh: And they will shepherd Assyria with a sword and the land of Nimrod in its trench, and he will rescue from Assyria when he comes upon your land and steps upon your borders.
 - brenton: And they shall tend the Assyrian with a sword, and the land of Nebrod with her trench: and he shall deliver you from the Assyrian, when he shall come upon your land, and when he shall invade your coasts.
 
 ### Micah 5:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the remnant of Jacob among nations, in the midst of many peoples, will be like dew from the Lord falling and like lambs upon grass, so that no one might be gathered and no one stand among sons of men.
+- fresh: And the remnant of Jacob among the nations, in the midst of many peoples, will be like dew from the Lord falling and like lambs upon grass, so that no one might be gathered and no one might stand among the sons of men.
 - brenton: And the remnant of Jacob shall be among the Gentiles in the midst of many peoples, as dew falling from the Lord, and as lambs on the grass; that none may assemble nor resist among the sons of men.
 
 ### Micah 5:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the remnant of Jacob among nations and in the midst of many peoples will be like a lion among beasts of the forest and like a lion-cub among flocks of sheep, which when he passes through and divides will seize and there is no rescuer.
+- fresh: And the remnant of Jacob among the nations and in the midst of many peoples will be like a lion among beasts of the forest and like a lion-cub among flocks of sheep, which when he passes through and divides will seize, and there is no rescuer.
 - brenton: And the remnant of Jacob shall be among the Gentiles in the midst of many nations, as a lion in the forest among cattle, and as a lion's whelp among flocks of sheep, even as when he goes through, and selects, and carries off his prey, and there is none to deliver.
 
 ### Micah 5:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Your hand will be lifted upon those distressing you, and all your enemies will be destroyed.
+- fresh: Your hand will be lifted up upon those distressing you, and all your enemies will be destroyed.
 - brenton: Thine hand shall be lifted up against them that afflict thee, and all thine enemies shall be utterly destroyed.
 
 ### Micah 5:9
@@ -201761,10 +201761,10 @@ Note:
 ### Micah 5:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will destroy cities of your land and remove all your strongholds.
+- fresh: And I will destroy the cities of your land and remove all your strongholds.
 - brenton: and I will utterly destroy the cities of thy land, and demolish all thy strong-holds:
 
 ### Micah 5:11
@@ -201779,10 +201779,10 @@ Note:
 ### Micah 5:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will destroy your carved images and your pillars from your midst, and you will no longer worship works of your hands.
+- fresh: And I will destroy your carved images and your pillars from your midst, and you will no longer worship the works of your hands.
 - brenton: And I will utterly destroy thy graven images, and thy statues out of the midst of thee; and thou shalt never any more worship the works of thine hands.
 
 ### Micah 5:13
@@ -201797,10 +201797,10 @@ Note:
 ### Micah 5:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will do vengeance in anger and wrath among nations because they did not hear.
+- fresh: And I will do vengeance in anger and in wrath among the nations because they did not hear.
 - brenton: And I will execute vengeance on the heathen in anger and wrath, because they hearkened not.
 
 ### Micah 6:1
