@@ -86112,15 +86112,15 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 34:2**
 
-Son of man, prophesy against shepherds of Israel, prophesy and say to shepherds, Thus says the Lord: Woe, shepherds of Israel. Do shepherds not feed themselves? Do shepherds not feed sheep?
+Son of man, prophesy against the shepherds of Israel, prophesy, and say to the shepherds, Thus says the Lord God: Woe, shepherds of Israel. Do the shepherds feed themselves? Do not the shepherds feed the sheep?
 
 **Ezekiel 34:3**
 
-Behold, you eat the milk and clothe yourselves with wool and slaughter the fat one, but my sheep you do not feed.
+Behold, you eat the milk and clothe yourselves with the wool and slaughter the fat one, but my sheep you do not feed.
 
 **Ezekiel 34:4**
 
-Weak one you did not strengthen, sick one you did not heal, broken one you did not bind up, straying one you did not turn back, lost one you did not seek, and strong one you worked hard with toil.
+The weak one you did not strengthen, and the sick one you did not heal, and the broken one you did not bind up, and the straying one you did not turn back, and the lost one you did not seek, and the strong one you wore down with toil.
 
 **Ezekiel 34:5**
 
@@ -86128,7 +86128,7 @@ And my sheep were scattered because there were no shepherds and became food for 
 
 **Ezekiel 34:6**
 
-And my sheep were scattered on every mountain and on every high hill and over the face of all the earth, and there was no one seeking nor turning them back.
+And my sheep were scattered on every mountain and on every high hill, and over the face of all the earth they were scattered, and there was no one seeking them and no one turning them back.
 
 **Ezekiel 34:7**
 
@@ -86136,99 +86136,99 @@ Therefore, shepherds, hear the word of the Lord.
 
 **Ezekiel 34:8**
 
-As I live, says the Lord, surely because my sheep became plunder and my sheep became food for all the beasts of the field because there were no shepherds, and shepherds did not seek my sheep, and shepherds fed themselves but did not feed my sheep,
+As I live, says the Lord God, surely because my sheep became plunder and my sheep became food for all the beasts of the field because there were no shepherds, and the shepherds did not seek out my sheep, and the shepherds fed themselves, but my sheep they did not feed,
 
 **Ezekiel 34:9**
 
-because of this, shepherds,
+Because of this, shepherds,
 
 **Ezekiel 34:10**
 
-thus says the Lord: Behold, I am against shepherds and will require my sheep from their hands and turn them back from not shepherding my sheep, and shepherds will no longer feed them, and I will rescue my sheep from their mouth and they will no longer be food for them.
+Thus says the Lord God: Behold, I am against the shepherds, and I will require my sheep from their hands and turn them away so that they do not shepherd my sheep, and the shepherds will no longer feed them; and I will rescue my sheep from their mouth, and they will no longer be food for them.
 
 **Ezekiel 34:11**
 
-Because thus says the Lord: Behold, I will seek out my sheep and visit them.
+Because thus says the Lord: Behold, I myself will seek out my sheep and attend to them.
 
 **Ezekiel 34:12**
 
-As shepherd seeks his flock on the day when cloud and gloom are in the midst of scattered sheep, so I will seek my sheep and drive them out from every place where they were scattered on the day of cloud and gloom.
+As the shepherd seeks his flock on a day when gloom and cloud are amid scattered sheep, so I will seek out my sheep and drive them out from every place where they were scattered, on a day of cloud and gloom.
 
 **Ezekiel 34:13**
 
-And I will bring them out from nations and gather them from lands and bring them into their land and feed them on the mountains of Israel and in ravines and in every habitation of land.
+And I will bring them out from the nations and gather them from the lands and bring them into their land and feed them on the mountains of Israel and in the ravines and in every habitation of the land.
 
 **Ezekiel 34:14**
 
-In good pasture I will feed them, and on high mountain of Israel will be their folds; there they will lie down and rest in good delight, and in rich pasture they will be fed on the mountains of Israel.
+In good pasture I will feed them, and on the high mountain of Israel their folds will be there; there they will lie down, and there they will rest in good delight, and in rich pasture they will be fed on the mountains of Israel.
 
 **Ezekiel 34:15**
 
-I myself will feed my sheep, and I myself will give them rest, and they will know that I am the Lord, thus says the Lord God.
+I myself will feed my sheep, and I myself will give them rest, and they will know that I am the Lord. Thus says the Lord God.
 
 **Ezekiel 34:16**
 
-Lost one I will seek, straying one I will turn back, broken one I will bind up, faint one I will strengthen, and strong one I will guard, and I will feed them with judgment.
+The lost one I will seek, and the straying one I will turn back, and the broken one I will bind up, and the fainting one I will strengthen, and the strong one I will guard, and I will feed them with judgment.
 
 **Ezekiel 34:17**
 
-And you, sheep, thus says the Lord God: Behold, I judge between sheep and sheep, rams and he-goats.
+And you, sheep, thus says the Lord God: Behold, I myself judge between sheep and sheep, between rams and he-goats.
 
 **Ezekiel 34:18**
 
-And is it not enough for you that you grazed good pasture and trample the rest of your pasture with your feet, and drink settled water and trouble the rest with your feet?
+And is it not enough for you that you grazed the good pasture and trampled the rest of your pasture with your feet, and drank the settled water and troubled the rest with your feet?
 
 **Ezekiel 34:19**
 
-And my sheep fed on tramplings of your feet and drank water troubled under your feet.
+And my sheep fed on the tramplings of your feet and drank the water troubled under your feet.
 
 **Ezekiel 34:20**
 
-Therefore thus says the Lord God: Behold, I judge between strong sheep and weak sheep.
+Therefore thus says the Lord God: Behold, I judge between the strong sheep and the weak sheep.
 
 **Ezekiel 34:21**
 
-With your sides and your shoulders you pushed, and with your horns you gored, and every faint one you pressed out.
+With your sides and with your shoulders you pushed, and with your horns you gored, and every fainting one you pressed out.
 
 **Ezekiel 34:22**
 
-And I will save my sheep, and they will no longer be plunder, and I will judge between ram and ram.
+And I will save my sheep, and they will no longer be for plunder, and I will judge between ram and ram.
 
 **Ezekiel 34:23**
 
-And I will raise up over them one shepherd, and he will shepherd them, my servant David, and he will be their shepherd.
+And I will raise up over them one shepherd, my servant David, and he will shepherd them, and he will be their shepherd.
 
 **Ezekiel 34:24**
 
-And I, the Lord, will be to them for God, and David in their midst ruler. I, the Lord, have spoken.
+And I, the Lord, will be to them for God, and David will be a ruler in their midst. I, the Lord, have spoken.
 
 **Ezekiel 34:25**
 
-And I will make with David covenant of peace and destroy evil beasts from the land, and they will dwell in the wilderness and sleep in forests.
+And I will make with David a covenant of peace and destroy evil beasts from the land, and they will dwell in the wilderness and sleep in the forests.
 
 **Ezekiel 34:26**
 
-And I will give them around my mountain and give you rain, rain of blessing.
+And I will place them around my mountain and give you the rain, a rain of blessing.
 
 **Ezekiel 34:27**
 
-And trees in the field will give their fruit and land will give its strength, and they will dwell on their land in hope of peace and know that I am the Lord when I break their yoke and rescue them from the hand of those enslaving them.
+And the trees in the field will give their fruit, and the land will give its strength, and they will dwell upon their land in hope of peace and know that I am the Lord when I break their yoke and rescue them from the hand of those enslaving them.
 
 **Ezekiel 34:28**
 
-And they will no longer be plunder to nations, and beasts of the earth will never again eat them, and they will dwell in hope and there will be no one frightening them.
+And they will no longer be for plunder to the nations, and the beasts of the earth will never again eat them, and they will dwell in hope, and there will be no one frightening them.
 
 **Ezekiel 34:29**
 
-And I will raise up for them plant of peace, and they will no longer be destroyed by famine on earth and will no longer bear reproach of nations.
+And I will raise up for them a plant of peace, and they will no longer perish by famine upon the land and will no longer bear the reproach of nations.
 
 **Ezekiel 34:30**
 
-And they will know that I am the Lord their God, and they are my people, house of Israel, says the Lord.
+And they will know that I am the Lord their God, and that they are my people, the house of Israel, says the Lord.
 
 **Ezekiel 34:31**
 
-You are my sheep, sheep of my flock, and I am the Lord your God, says the Lord God.
+You are my sheep, the sheep of my flock, and I am the Lord your God, says the Lord God.
 
 ### Chapter 35
 

@@ -189939,28 +189939,28 @@ Note:
 ### Ezekiel 34:2
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, prophesy against shepherds of Israel, prophesy and say to shepherds, Thus says the Lord: Woe, shepherds of Israel. Do shepherds not feed themselves? Do shepherds not feed sheep?
+- fresh: Son of man, prophesy against the shepherds of Israel, prophesy, and say to the shepherds, Thus says the Lord God: Woe, shepherds of Israel. Do the shepherds feed themselves? Do not the shepherds feed the sheep?
 - brenton: Son of man, prophesy against the shepherds of Israel, prophesy, and say to the shepherds,
 
 ### Ezekiel 34:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, you eat the milk and clothe yourselves with wool and slaughter the fat one, but my sheep you do not feed.
+- fresh: Behold, you eat the milk and clothe yourselves with the wool and slaughter the fat one, but my sheep you do not feed.
 - brenton: Behold, ye feed on the milk, and clothe yourselves with the wool, and slay the fat: but ye feed not my sheep.
 
 ### Ezekiel 34:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Weak one you did not strengthen, sick one you did not heal, broken one you did not bind up, straying one you did not turn back, lost one you did not seek, and strong one you worked hard with toil.
+- fresh: The weak one you did not strengthen, and the sick one you did not heal, and the broken one you did not bind up, and the straying one you did not turn back, and the lost one you did not seek, and the strong one you wore down with toil.
 - brenton: The weak one ye have not strengthened, and the sick ye have not cherished, and the bruised ye have not bound up, and the stray one ye have not turned back, and the lost ye have not sought; and the strong ye have wearied with labour.
 
 ### Ezekiel 34:5
@@ -189975,10 +189975,10 @@ Note:
 ### Ezekiel 34:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And my sheep were scattered on every mountain and on every high hill and over the face of all the earth, and there was no one seeking nor turning them back.
+- fresh: And my sheep were scattered on every mountain and on every high hill, and over the face of all the earth they were scattered, and there was no one seeking them and no one turning them back.
 - brenton: And my sheep were scattered on every mountain, and on every high hill: yea, they were scattered on the face of the earth, and there was none to seek them out, nor to bring them back.
 
 ### Ezekiel 34:7
@@ -189993,10 +189993,10 @@ Note:
 ### Ezekiel 34:8
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: As I live, says the Lord, surely because my sheep became plunder and my sheep became food for all the beasts of the field because there were no shepherds, and shepherds did not seek my sheep, and shepherds fed themselves but did not feed my sheep,
+- fresh: As I live, says the Lord God, surely because my sheep became plunder and my sheep became food for all the beasts of the field because there were no shepherds, and the shepherds did not seek out my sheep, and the shepherds fed themselves, but my sheep they did not feed,
 - brenton: As I live, saith the Lord God, surely because my sheep became a prey, and my sheep became meat to all the wild beasts of the field, because there were no shepherds, and the shepherds sought not out my sheep, and the shepherds fed themselves, but fed not my sheep.
 
 ### Ezekiel 34:9
@@ -190005,205 +190005,205 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: because of this, shepherds,
+- fresh: Because of this, shepherds,
 - brenton: For this cause, O shepherds,
 
 ### Ezekiel 34:10
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: thus says the Lord: Behold, I am against shepherds and will require my sheep from their hands and turn them back from not shepherding my sheep, and shepherds will no longer feed them, and I will rescue my sheep from their mouth and they will no longer be food for them.
+- fresh: Thus says the Lord God: Behold, I am against the shepherds, and I will require my sheep from their hands and turn them away so that they do not shepherd my sheep, and the shepherds will no longer feed them; and I will rescue my sheep from their mouth, and they will no longer be food for them.
 - brenton: thus saith the Lord God, Behold, I am against the shepherds; and I will require my sheep at their hands, and will turn them back that they shall not feed my sheep, and the shepherds shall no longer feed them; and I will deliver my sheep out of their mouth, and they shall no longer be meat for them.
 
 ### Ezekiel 34:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord: Behold, I will seek out my sheep and visit them.
+- fresh: Because thus says the Lord: Behold, I myself will seek out my sheep and attend to them.
 - brenton: For thus saith the Lord God, Behold, I will seek out my sheep, and will visit them.
 
 ### Ezekiel 34:12
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: As shepherd seeks his flock on the day when cloud and gloom are in the midst of scattered sheep, so I will seek my sheep and drive them out from every place where they were scattered on the day of cloud and gloom.
+- fresh: As the shepherd seeks his flock on a day when gloom and cloud are amid scattered sheep, so I will seek out my sheep and drive them out from every place where they were scattered, on a day of cloud and gloom.
 - brenton: As the shepherd seeks his flock, in the day when there is darkness and cloud, in the midst of the sheep that are separated: so will I seek out my sheep, and will bring them back from every place where they were scattered in the day of cloud and darkness.
 
 ### Ezekiel 34:13
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will bring them out from nations and gather them from lands and bring them into their land and feed them on the mountains of Israel and in ravines and in every habitation of land.
+- fresh: And I will bring them out from the nations and gather them from the lands and bring them into their land and feed them on the mountains of Israel and in the ravines and in every habitation of the land.
 - brenton: And I will bring them out from the Gentiles, and will gather them from the countries, and will bring them into their own land, and will feed them upon the mountains of Israel, and in the valleys, and in every inhabited place of the land.
 
 ### Ezekiel 34:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In good pasture I will feed them, and on high mountain of Israel will be their folds; there they will lie down and rest in good delight, and in rich pasture they will be fed on the mountains of Israel.
+- fresh: In good pasture I will feed them, and on the high mountain of Israel their folds will be there; there they will lie down, and there they will rest in good delight, and in rich pasture they will be fed on the mountains of Israel.
 - brenton: I will feed them in a good pasture, on a high mountain of Israel: and their folds shall be there, and they shall lie down, and there shall they rest in perfect prosperity, and they shall feed in a fat pasture on the mountains of Israel.
 
 ### Ezekiel 34:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I myself will feed my sheep, and I myself will give them rest, and they will know that I am the Lord, thus says the Lord God.
+- fresh: I myself will feed my sheep, and I myself will give them rest, and they will know that I am the Lord. Thus says the Lord God.
 - brenton: I will feed my sheep, and I will cause them to rest; and they shall know that I am the Lord: thus saith the Lord God.
 
 ### Ezekiel 34:16
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Lost one I will seek, straying one I will turn back, broken one I will bind up, faint one I will strengthen, and strong one I will guard, and I will feed them with judgment.
+- fresh: The lost one I will seek, and the straying one I will turn back, and the broken one I will bind up, and the fainting one I will strengthen, and the strong one I will guard, and I will feed them with judgment.
 - brenton: I will seek that which is lost, and I will recover the stray one, and will bind up that which was broken, and will strengthen the fainting, and will guard the strong, and will feed them with judgment.
 
 ### Ezekiel 34:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, sheep, thus says the Lord God: Behold, I judge between sheep and sheep, rams and he-goats.
+- fresh: And you, sheep, thus says the Lord God: Behold, I myself judge between sheep and sheep, between rams and he-goats.
 - brenton: And as for you, ye sheep, thus saith the Lord God, Behold, I will distinguish between sheep and sheep, between rams and he-goats.
 
 ### Ezekiel 34:18
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And is it not enough for you that you grazed good pasture and trample the rest of your pasture with your feet, and drink settled water and trouble the rest with your feet?
+- fresh: And is it not enough for you that you grazed the good pasture and trampled the rest of your pasture with your feet, and drank the settled water and troubled the rest with your feet?
 - brenton: And is it not enough for you that ye fed on the good pasture, that ye trampled with your feet the remnant of your pasture? and that ye drank the standing water, that ye disturbed the residue with your feet?
 
 ### Ezekiel 34:19
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And my sheep fed on tramplings of your feet and drank water troubled under your feet.
+- fresh: And my sheep fed on the tramplings of your feet and drank the water troubled under your feet.
 - brenton: So my sheep fed on that which ye had trampled with your feet; and they drank the water that had been disturbed by your feet.
 
 ### Ezekiel 34:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord God: Behold, I judge between strong sheep and weak sheep.
+- fresh: Therefore thus says the Lord God: Behold, I judge between the strong sheep and the weak sheep.
 - brenton: Therefore thus saith the Lord God; Behold, I will separate between the strong sheep and the weak sheep.
 
 ### Ezekiel 34:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: With your sides and your shoulders you pushed, and with your horns you gored, and every faint one you pressed out.
+- fresh: With your sides and with your shoulders you pushed, and with your horns you gored, and every fainting one you pressed out.
 - brenton: Ye did thrust with your sides and shoulders, and pushed with your horns, and ye cruelly treated all the sick.
 
 ### Ezekiel 34:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will save my sheep, and they will no longer be plunder, and I will judge between ram and ram.
+- fresh: And I will save my sheep, and they will no longer be for plunder, and I will judge between ram and ram.
 - brenton: Therefore I will save my sheep, and they shall not be any more for a prey; and will judge between ram and ram.
 
 ### Ezekiel 34:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will raise up over them one shepherd, and he will shepherd them, my servant David, and he will be their shepherd.
+- fresh: And I will raise up over them one shepherd, my servant David, and he will shepherd them, and he will be their shepherd.
 - brenton: And I will raise up one shepherd over them, and he shall tend them, even my servant David, and he shall be their shepherd;
 
 ### Ezekiel 34:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I, the Lord, will be to them for God, and David in their midst ruler. I, the Lord, have spoken.
+- fresh: And I, the Lord, will be to them for God, and David will be a ruler in their midst. I, the Lord, have spoken.
 - brenton: and I the Lord will be to them a God, and David a prince in the midst of them; I the Lord have spoken it.
 
 ### Ezekiel 34:25
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make with David covenant of peace and destroy evil beasts from the land, and they will dwell in the wilderness and sleep in forests.
+- fresh: And I will make with David a covenant of peace and destroy evil beasts from the land, and they will dwell in the wilderness and sleep in the forests.
 - brenton: And I will make with David a covenant of peace, and I will utterly destroy evil beasts from off the land; and they shall dwell in the wilderness, and sleep in the forests.
 
 ### Ezekiel 34:26
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will give them around my mountain and give you rain, rain of blessing.
+- fresh: And I will place them around my mountain and give you the rain, a rain of blessing.
 - brenton: And I will settle them round about my mountain; and I will give you the rain, the rain of blessing.
 
 ### Ezekiel 34:27
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And trees in the field will give their fruit and land will give its strength, and they will dwell on their land in hope of peace and know that I am the Lord when I break their yoke and rescue them from the hand of those enslaving them.
+- fresh: And the trees in the field will give their fruit, and the land will give its strength, and they will dwell upon their land in hope of peace and know that I am the Lord when I break their yoke and rescue them from the hand of those enslaving them.
 - brenton: And the trees that are in the field shall yield their fruit, and the earth shall yield her strength, and they shall dwell in the confidence of peace on their land, and they shall know that I am the Lord, when I have broken their yoke; and I will deliver them out of the hand of those that enslaved them.
 
 ### Ezekiel 34:28
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will no longer be plunder to nations, and beasts of the earth will never again eat them, and they will dwell in hope and there will be no one frightening them.
+- fresh: And they will no longer be for plunder to the nations, and the beasts of the earth will never again eat them, and they will dwell in hope, and there will be no one frightening them.
 - brenton: And they shall no more be a spoil to the nations, and the wild beasts of the land shall no more at all devour them; and they shall dwell safely, and there shall be none to make them afraid.
 
 ### Ezekiel 34:29
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will raise up for them plant of peace, and they will no longer be destroyed by famine on earth and will no longer bear reproach of nations.
+- fresh: And I will raise up for them a plant of peace, and they will no longer perish by famine upon the land and will no longer bear the reproach of nations.
 - brenton: And I will raise up for them a plant of peace, and they shall no more perish with hunger upon the land, and they shall no more bear the reproach of the nations.
 
 ### Ezekiel 34:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will know that I am the Lord their God, and they are my people, house of Israel, says the Lord.
+- fresh: And they will know that I am the Lord their God, and that they are my people, the house of Israel, says the Lord.
 - brenton: And they shall know that I am the Lord their God, and they my people. O house of Israel, saith the Lord God,
 
 ### Ezekiel 34:31
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You are my sheep, sheep of my flock, and I am the Lord your God, says the Lord God.
+- fresh: You are my sheep, the sheep of my flock, and I am the Lord your God, says the Lord God.
 - brenton: ye are my sheep, even the sheep of my flock, and I am the Lord your God, saith the Lord God.
 
 ### Ezekiel 35:1
