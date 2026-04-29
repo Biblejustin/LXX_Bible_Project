@@ -85186,7 +85186,7 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 25:2**
 
-Son of man, set your face toward sons of Ammon and prophesy against them,
+Son of man, set your face toward the sons of Ammon and prophesy against them,
 
 **Ezekiel 25:3**
 
@@ -85194,11 +85194,11 @@ and say to the sons of Ammon, Hear the word of the Lord. Thus says the Lord: Bec
 
 **Ezekiel 25:4**
 
-therefore behold, I give you to the sons of the east for inheritance, and they will camp in their equipment in you and set their tents in you. They will eat your fruits, and they will drink your richness.
+therefore behold, I give you to the sons of the east for inheritance, and they will camp with their equipment in you and pitch their tents in you. They will eat your fruits, and they will drink your richness.
 
 **Ezekiel 25:5**
 
-And I will give city of Ammon for a pasture for camels and sons of Ammon for a pasture for sheep, and you will know that I am the Lord.
+And I will give the city of Ammon for a pasture for camels and the sons of Ammon for a pasture for sheep, and you will know that I am the Lord.
 
 **Ezekiel 25:6**
 
@@ -85206,31 +85206,31 @@ Because thus says the Lord: Because you clapped your hand and stamped your foot 
 
 **Ezekiel 25:7**
 
-therefore I stretch out my hand against you and give you for plundering among nations and destroy you from peoples and make you perish from lands, destruction, and you will know that I am the Lord.
+therefore I stretch out my hand against you and give you for plunder among the nations and destroy you from the peoples and make you perish from the lands with destruction, and you will know that I am the Lord.
 
 **Ezekiel 25:8**
 
-Thus says the Lord: Because Moab said, Behold, house of Israel and Judah is like all nations,
+Thus says the Lord: Because Moab said, Behold, the house of Israel and Judah is like all the nations,
 
 **Ezekiel 25:9**
 
-therefore behold, I weaken shoulder of Moab from cities, from its borders, the chosen land, house of Asimouth above spring of the city by the sea,
+therefore behold, I weaken the shoulder of Moab from its frontier cities, the choice land: Beth-Asimouth above the spring of the city by the sea,
 
 **Ezekiel 25:10**
 
-to the sons of the east over the sons of Ammon I gave them for inheritance, so that remembrance of sons of Ammon might not be.
+to the sons of the east, against the sons of Ammon, I have given them for inheritance, so that no remembrance of the sons of Ammon may come to be.
 
 **Ezekiel 25:11**
 
-And in Moab I will do vengeance, and they will know that I am the Lord.
+And against Moab I will do vengeance, and they will know that I am the Lord.
 
 **Ezekiel 25:12**
 
-Thus says the Lord: Because Edom acted in avenging vengeance against the house of Judah and bore grudges and avenged a claim,
+Thus says the Lord: Because Edom acted in taking vengeance with vengeance against the house of Judah, and they remembered wrongs and exacted a claim,
 
 **Ezekiel 25:13**
 
-therefore thus says the Lord: I will stretch out my hand against Edom and destroy from it man and cattle and make it a wilderness, and from Teman those pursued will fall by sword.
+therefore thus says the Lord: I will stretch out my hand against Edom and destroy from it man and cattle and make it a wilderness, and from Teman the pursued will fall by sword.
 
 **Ezekiel 25:14**
 
@@ -85238,15 +85238,15 @@ And I will place my vengeance upon Edom by the hand of my people Israel, and the
 
 **Ezekiel 25:15**
 
-Therefore thus says the Lord: Because foreigners acted in vengeance and stirred up vengeance, rejoicing in soul so as to wipe out forever,
+Therefore thus says the Lord: Because the foreigners acted in vengeance and raised up vengeance, rejoicing from the soul to wipe out forever,
 
 **Ezekiel 25:16**
 
-therefore thus says the Lord: Behold, I stretch out my hand against foreigners and destroy Cretans and wipe out remnant dwelling on the coast.
+therefore thus says the Lord: Behold, I stretch out my hand against the foreigners and destroy the Cretans and wipe out the remnant dwelling on the coast.
 
 **Ezekiel 25:17**
 
-And I will do in them great acts of vengeance, and they will know that I am the Lord when I give my vengeance upon them.
+And I will do great acts of vengeance among them, and they will know that I am the Lord when I give my vengeance upon them.
 
 ### Chapter 26
 

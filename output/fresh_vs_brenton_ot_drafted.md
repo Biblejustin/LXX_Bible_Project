@@ -187896,10 +187896,10 @@ Note:
 ### Ezekiel 25:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, set your face toward sons of Ammon and prophesy against them,
+- fresh: Son of man, set your face toward the sons of Ammon and prophesy against them,
 - brenton: Son of man, set thy face steadfastly against the children of Ammon, and prophesy against them;
 
 ### Ezekiel 25:3
@@ -187914,25 +187914,25 @@ Note:
 ### Ezekiel 25:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore behold, I give you to the sons of the east for inheritance, and they will camp in their equipment in you and set their tents in you. They will eat your fruits, and they will drink your richness.
+- fresh: therefore behold, I give you to the sons of the east for inheritance, and they will camp with their equipment in you and pitch their tents in you. They will eat your fruits, and they will drink your richness.
 - brenton: therefore, behold, I will deliver you to the children of Kedem for an inheritance, and they shall lodge in thee with their stuff, and they shall pitch their tents in thee: they shall eat thy fruits, and they shall drink thy milk.
 
 ### Ezekiel 25:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will give city of Ammon for a pasture for camels and sons of Ammon for a pasture for sheep, and you will know that I am the Lord.
+- fresh: And I will give the city of Ammon for a pasture for camels and the sons of Ammon for a pasture for sheep, and you will know that I am the Lord.
 - brenton: And I will give up the city of Ammon for camels' pastures, and the children of Ammon for a pasture of sheep: and ye shall know that I am the Lord.
 
 ### Ezekiel 25:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Because thus says the Lord: Because you clapped your hand and stamped your foot and rejoiced with all your soul over the land of Israel,
@@ -187941,70 +187941,70 @@ Note:
 ### Ezekiel 25:7
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore I stretch out my hand against you and give you for plundering among nations and destroy you from peoples and make you perish from lands, destruction, and you will know that I am the Lord.
+- fresh: therefore I stretch out my hand against you and give you for plunder among the nations and destroy you from the peoples and make you perish from the lands with destruction, and you will know that I am the Lord.
 - brenton: therefore I will stretch out my hand against thee, and I will make thee a spoil to the nations; and I will utterly destroy thee from among the peoples, and I will completely cut thee off from out of the countries: and thou shalt know that I am the Lord.
 
 ### Ezekiel 25:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Because Moab said, Behold, house of Israel and Judah is like all nations,
+- fresh: Thus says the Lord: Because Moab said, Behold, the house of Israel and Judah is like all the nations,
 - brenton: Thus saith the Lord; Because Moab has said, Behold, are not the house of Israel and Juda like all the other nations?
 
 ### Ezekiel 25:9
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore behold, I weaken shoulder of Moab from cities, from its borders, the chosen land, house of Asimouth above spring of the city by the sea,
+- fresh: therefore behold, I weaken the shoulder of Moab from its frontier cities, the choice land: Beth-Asimouth above the spring of the city by the sea,
 - brenton: Therefore, behold, I will weaken the shoulder of Moab from his frontier cities, even the choice land, the house of Bethasimuth above the fountain of the city, by the sea-side.
 
 ### Ezekiel 25:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: to the sons of the east over the sons of Ammon I gave them for inheritance, so that remembrance of sons of Ammon might not be.
+- fresh: to the sons of the east, against the sons of Ammon, I have given them for inheritance, so that no remembrance of the sons of Ammon may come to be.
 - brenton: I have given him the children of Kedem in addition to the children of Ammon for an inheritance, that there may be no remembrance of the children of Ammon.
 
 ### Ezekiel 25:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in Moab I will do vengeance, and they will know that I am the Lord.
+- fresh: And against Moab I will do vengeance, and they will know that I am the Lord.
 - brenton: And I will execute vengeance on Moab; and they shall know that I am the Lord.
 
 ### Ezekiel 25:12
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Because Edom acted in avenging vengeance against the house of Judah and bore grudges and avenged a claim,
+- fresh: Thus says the Lord: Because Edom acted in taking vengeance with vengeance against the house of Judah, and they remembered wrongs and exacted a claim,
 - brenton: Thus saith the Lord; Because of what the Idumeans have done in taking vengeance on the house of Juda, and because they have remembered injuries, and have exacted full recompence;
 
 ### Ezekiel 25:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore thus says the Lord: I will stretch out my hand against Edom and destroy from it man and cattle and make it a wilderness, and from Teman those pursued will fall by sword.
+- fresh: therefore thus says the Lord: I will stretch out my hand against Edom and destroy from it man and cattle and make it a wilderness, and from Teman the pursued will fall by sword.
 - brenton: therefore thus saith the Lord; I will also stretch out my hand upon Idumea, and will utterly destroy out of it man and beast; and will make it desolate; and they that are pursued out of Thæman shall fall by the sword.
 
 ### Ezekiel 25:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will place my vengeance upon Edom by the hand of my people Israel, and they will act in Edom according to my anger and according to my wrath, and they will know my vengeance, says the Lord.
@@ -188013,28 +188013,28 @@ Note:
 ### Ezekiel 25:15
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Because foreigners acted in vengeance and stirred up vengeance, rejoicing in soul so as to wipe out forever,
+- fresh: Therefore thus says the Lord: Because the foreigners acted in vengeance and raised up vengeance, rejoicing from the soul to wipe out forever,
 - brenton: Therefore thus saith the Lord, Because the Philistines have wrought revengefully, and raised up vengeance rejoicing from their heart to destroy the Israelites to a man;
 
 ### Ezekiel 25:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore thus says the Lord: Behold, I stretch out my hand against foreigners and destroy Cretans and wipe out remnant dwelling on the coast.
+- fresh: therefore thus says the Lord: Behold, I stretch out my hand against the foreigners and destroy the Cretans and wipe out the remnant dwelling on the coast.
 - brenton: therefore thus saith the Lord; Behold, I will stretch out my hand upon the Philistines, and will utterly destroy the Cretans, and will cut off the remnant that dwell by the sea-coast.
 
 ### Ezekiel 25:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will do in them great acts of vengeance, and they will know that I am the Lord when I give my vengeance upon them.
+- fresh: And I will do great acts of vengeance among them, and they will know that I am the Lord when I give my vengeance upon them.
 - brenton: And I will execute great vengeance upon them; and they shall know that I am the Lord, when I have brought my vengeance upon them.
 
 ### Ezekiel 26:1
