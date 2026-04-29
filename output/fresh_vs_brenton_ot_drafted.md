@@ -199658,25 +199658,25 @@ Note:
 ### Amos 4:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear this word, cows of Bashan, those on the mountain of Samaria, oppressing poor and trampling needy, saying to their lords, Give to us so that we may drink.
+- fresh: Hear this word, heifers of Bashan, those on the mountain of Samaria, oppressing the poor and trampling the needy, saying to their lords, Give to us so that we may drink.
 - brenton: Hear ye this word, ye heifers of the land of Basan that are in the mountain of Samaria, that oppress the poor, and trample on the needy, which say to their masters, Give us that we may drink.
 
 ### Amos 4:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord swears by his holy things: behold, days are coming upon you, and they will take you with weapons, and those with you they will throw into kindled cauldrons, fiery pestilences.
+- fresh: The Lord swears by his holy things: behold, days are coming upon you, and they will take you with weapons, and fiery pestilences will throw those with you into kindled cauldrons.
 - brenton: The Lord swears by his holiness, that, behold, the days come upon you, when they shall take you with weapons, and fiery destroyers shall cast those with you into boiling caldrons.
 
 ### Amos 4:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And you will be brought out naked, each opposite the other, and you will be thrown onto mount Rimmon, says the Lord God.
@@ -199685,70 +199685,70 @@ Note:
 ### Amos 4:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Enter Bethel and act lawlessly, and in Gilgal multiply impiety, and bring your sacrifices in the morning, your tithes on the third day.
+- fresh: You entered into Bethel and acted lawlessly, and in Gilgal you multiplied impiety, and you brought your sacrifices in the morning, your tithes every third day.
 - brenton: Ye went into Bæthel, and sinned, and ye multiplied sin at Galgala; and ye brought your meat-offerings in the morning, and your tithes every third day.
 
 ### Amos 4:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they read out law outside and called for confessions. Declare that sons of Israel loved these things, says the Lord God.
+- fresh: And they read the law outside and called for confessions. Proclaim that the sons of Israel loved these things, says the Lord God.
 - brenton: And they read the law without, and called for public professions: proclaim aloud that the children of Israel have loved these things, saith the Lord.
 
 ### Amos 4:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I gave you gnashing of teeth in all your cities and lack of breads in all your places, and you did not return to me, says the Lord.
+- fresh: And I will give you teeth set on edge in all your cities and lack of bread in all your places, and you did not return to me, says the Lord.
 - brenton: And I will give you dulness of teeth in all your cities, and want of bread in all your places: yet ye returned not to me, saith the Lord.
 
 ### Amos 4:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I withheld rain from you three months before the harvest, and I will rain on one city, but on one city I will not rain; one part will be rained on, and the part where I do not rain will be dried up.
+- fresh: And I withheld the rain from you three months before the harvest, and I will rain on one city, but on another city I will not rain; one portion will be rained on, and the portion on which I do not rain will be dried up.
 - brenton: Also I withheld from you the rain three months before the harvest: and I will rain upon one city, and on another city I will not rain: one part shall be rained upon, and the part on which I shall not rain shall be dried up.
 
 ### Amos 4:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And two and three cities will gather to one city to drink water and will never be filled, and you did not return to me, says the Lord.
+- fresh: And two or three cities will gather to one city to drink water and will not be filled, and you did not return to me, says the Lord.
 - brenton: And the inhabitants of two or three cities shall be gathered to one city to drink water, and they shall not be satisfied: yet ye have not returned to me, saith the Lord.
 
 ### Amos 4:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: I struck you with burning and blight; you multiplied your gardens, your vineyards and your fig trees and your olive trees, but the caterpillar devoured them, and not even thus did you return to me, says the Lord.
+- fresh: I struck you with burning and with jaundice; you multiplied your gardens, your vineyards, your fig orchards, and your olive groves; the caterpillar devoured them, and not even thus did you return to me, says the Lord.
 - brenton: I smote you with parching, and with blight: ye multiplied your gardens, your vineyards, and your fig-grounds, and the cankerworm devoured your oliveyards: yet not even thus did ye return to me, saith the Lord.
 
 ### Amos 4:10
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: I sent death among you in the way of Egypt and killed your young men by sword with captivity of your horses, and I brought up your camps in fire in my wrath, and not even thus did you return to me, says the Lord.
+- fresh: I sent death among you in the way of Egypt and killed your young men with a sword, with captivity of your horses, and I brought up your camps in fire in my wrath, and not even thus did you return to me, says the Lord.
 - brenton: I sent pestilence among you by the way of Egypt, and slew your young men with the sword, together with thy horses that were taken captive; and in my wrath against you I set fire to your camps: yet not even thus did ye return to me, saith the Lord.
 
 ### Amos 4:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: I overthrew you as God overthrew Sodom and Gomorrah, and you became like a brand snatched from fire, and not even thus did you return to me, says the Lord.
@@ -199757,7 +199757,7 @@ Note:
 ### Amos 4:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Therefore thus I will do to you, Israel. Yet because I will do thus to you, prepare to call on your God, Israel.

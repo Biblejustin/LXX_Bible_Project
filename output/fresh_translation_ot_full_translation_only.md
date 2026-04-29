@@ -90532,11 +90532,11 @@ I will confound and strike the turreted house upon the summer house, and ivory h
 
 **Amos 4:1**
 
-Hear this word, cows of Bashan, those on the mountain of Samaria, oppressing poor and trampling needy, saying to their lords, Give to us so that we may drink.
+Hear this word, heifers of Bashan, those on the mountain of Samaria, oppressing the poor and trampling the needy, saying to their lords, Give to us so that we may drink.
 
 **Amos 4:2**
 
-The Lord swears by his holy things: behold, days are coming upon you, and they will take you with weapons, and those with you they will throw into kindled cauldrons, fiery pestilences.
+The Lord swears by his holy things: behold, days are coming upon you, and they will take you with weapons, and fiery pestilences will throw those with you into kindled cauldrons.
 
 **Amos 4:3**
 
@@ -90544,31 +90544,31 @@ And you will be brought out naked, each opposite the other, and you will be thro
 
 **Amos 4:4**
 
-Enter Bethel and act lawlessly, and in Gilgal multiply impiety, and bring your sacrifices in the morning, your tithes on the third day.
+You entered into Bethel and acted lawlessly, and in Gilgal you multiplied impiety, and you brought your sacrifices in the morning, your tithes every third day.
 
 **Amos 4:5**
 
-And they read out law outside and called for confessions. Declare that sons of Israel loved these things, says the Lord God.
+And they read the law outside and called for confessions. Proclaim that the sons of Israel loved these things, says the Lord God.
 
 **Amos 4:6**
 
-And I gave you gnashing of teeth in all your cities and lack of breads in all your places, and you did not return to me, says the Lord.
+And I will give you teeth set on edge in all your cities and lack of bread in all your places, and you did not return to me, says the Lord.
 
 **Amos 4:7**
 
-And I withheld rain from you three months before the harvest, and I will rain on one city, but on one city I will not rain; one part will be rained on, and the part where I do not rain will be dried up.
+And I withheld the rain from you three months before the harvest, and I will rain on one city, but on another city I will not rain; one portion will be rained on, and the portion on which I do not rain will be dried up.
 
 **Amos 4:8**
 
-And two and three cities will gather to one city to drink water and will never be filled, and you did not return to me, says the Lord.
+And two or three cities will gather to one city to drink water and will not be filled, and you did not return to me, says the Lord.
 
 **Amos 4:9**
 
-I struck you with burning and blight; you multiplied your gardens, your vineyards and your fig trees and your olive trees, but the caterpillar devoured them, and not even thus did you return to me, says the Lord.
+I struck you with burning and with jaundice; you multiplied your gardens, your vineyards, your fig orchards, and your olive groves; the caterpillar devoured them, and not even thus did you return to me, says the Lord.
 
 **Amos 4:10**
 
-I sent death among you in the way of Egypt and killed your young men by sword with captivity of your horses, and I brought up your camps in fire in my wrath, and not even thus did you return to me, says the Lord.
+I sent death among you in the way of Egypt and killed your young men with a sword, with captivity of your horses, and I brought up your camps in fire in my wrath, and not even thus did you return to me, says the Lord.
 
 **Amos 4:11**
 
