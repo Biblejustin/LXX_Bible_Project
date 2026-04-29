@@ -92236,47 +92236,47 @@ This is the city that made light, dwelling in hope, saying in her heart, I am, a
 
 **Zephaniah 3:1**
 
-O famous and redeemed city, the dove.
+O conspicuous and redeemed city, the dove.
 
 **Zephaniah 3:2**
 
-She did not listen to voice, did not accept correction, in the Lord she did not trust, and to her God she did not draw near.
+She did not listen to a voice; she did not accept discipline; she did not trust in the Lord, and she did not draw near to her God.
 
 **Zephaniah 3:3**
 
-Her rulers within her are as roaring lions; her judges as wolves of Arabia, not leaving anything till morning.
+Her rulers within her are like roaring lions; her judges are like the wolves of Arabia; they did not leave anything for the morning.
 
 **Zephaniah 3:4**
 
-Her prophets are spirit-borne men, contemptuous; her priests profane holy things and act impiously against law.
+Her prophets are spirit-borne men, despisers; her priests profane the holy things and act impiously against law.
 
 **Zephaniah 3:5**
 
-But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he gives his judgment to the light; it does not fail, but unjust one knows no shame.
+But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he will give his judgment to the light, and it was not hidden; and he did not know injustice in exaction nor injustice in strife.
 
 **Zephaniah 3:6**
 
-In destruction I pulled down proud ones; their corners disappeared. I will make their roads desolate, utterly not traversed; their cities failed, with no one existing or dwelling.
+With destruction I pulled down proud ones; their corners disappeared. I will make their roads desolate, so that no one passes through at all; their cities failed because no one existed nor dwelt.
 
 **Zephaniah 3:7**
 
-I said, Yet fear me and receive correction, and you will certainly not be destroyed from before her, all that I avenged upon her. Prepare, rise early; all their gleaning is corrupted.
+I said, Only fear me and receive discipline, and you will certainly not be destroyed from her eyes, all that I avenged upon her. Prepare yourself; rise early; all their gleaning has been corrupted.
 
 **Zephaniah 3:8**
 
-Therefore wait for me, says the Lord, for the day of my rising for witness, because my judgment is for gatherings of nations, to receive kings, to pour out upon them all anger of my wrath, because in the fire of my zeal all the earth will be consumed.
+Therefore wait for me, says the Lord, for the day of my rising for witness, because my judgment is for gatherings of nations, to receive kings, to pour out upon them all the anger of my wrath, because in the fire of my zeal all the earth will be consumed.
 
 **Zephaniah 3:9**
 
-Because then I will turn toward peoples a tongue for its generation, for all to call on the name of the Lord, to serve him under one yoke.
+Because then I will turn to peoples a tongue for its generation, for all to call on the name of the Lord, to serve him under one yoke.
 
 **Zephaniah 3:10**
 
-From ends of rivers of Ethiopia they will bring sacrifices to me.
+From the ends of the rivers of Ethiopia they will bring sacrifices to me.
 
 **Zephaniah 3:11**
 
-In that day you will certainly not be put to shame because of all practices by which you acted impiously against me, because then I will remove from you scornings of your arrogance, and you will no longer continue to boast on my holy mountain.
+In that day you will certainly not be put to shame because of all your practices by which you acted impiously against me, because then I will remove from you scornings of your arrogance, and you will no longer add to boast greatly upon my holy mountain.
 
 **Zephaniah 3:12**
 
@@ -92292,15 +92292,15 @@ Rejoice greatly, daughter Zion; proclaim, daughter Jerusalem; be glad and deligh
 
 **Zephaniah 3:15**
 
-The Lord removed your injustices and redeemed you from the hand of your enemies. Lord, king of Israel, is in your midst; you will no longer see evils.
+The Lord has removed your injustices and has redeemed you from the hand of your enemies. The King of Israel, the Lord, is in your midst; you will no longer see evils.
 
 **Zephaniah 3:16**
 
-In that time the Lord will say to Jerusalem, Take courage, Zion; let not your hands grow slack.
+In that time the Lord will say to Jerusalem, Take courage, Zion; do not let your hands grow slack.
 
 **Zephaniah 3:17**
 
-The Lord your God is in you, mighty; he will save you; he will bring joy upon you and renew you in his love and rejoice over you in delight as on feast day.
+The Lord your God is in you, mighty; he will save you; he will bring joy upon you and renew you in his love and rejoice over you in delight as on a feast day.
 
 **Zephaniah 3:18**
 
@@ -92308,7 +92308,7 @@ And I will gather the crushed ones. Woe, who took reproach upon her?
 
 **Zephaniah 3:19**
 
-Behold, I act in you for your sake in that time, says the Lord, and I will save the oppressed one and receive the driven-out one, and I will set them for boast and renowned in all the earth.
+Behold, I act in you for your sake in that time, says the Lord, and I will save the oppressed one and receive the driven-out one, and I will set them for a boast and as renowned ones in all the earth.
 
 **Zephaniah 3:20**
 

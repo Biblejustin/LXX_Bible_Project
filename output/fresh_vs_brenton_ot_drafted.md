@@ -203360,106 +203360,106 @@ Note:
 ### Zephaniah 3:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: O famous and redeemed city, the dove.
+- fresh: O conspicuous and redeemed city, the dove.
 - brenton: Alas the glorious and ransomed city.
 
 ### Zephaniah 3:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: She did not listen to voice, did not accept correction, in the Lord she did not trust, and to her God she did not draw near.
+- fresh: She did not listen to a voice; she did not accept discipline; she did not trust in the Lord, and she did not draw near to her God.
 - brenton: The dove hearkened not to the voice; she received not correction; she trusted not in the Lord, and she drew not near to her God.
 
 ### Zephaniah 3:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Her rulers within her are as roaring lions; her judges as wolves of Arabia, not leaving anything till morning.
+- fresh: Her rulers within her are like roaring lions; her judges are like the wolves of Arabia; they did not leave anything for the morning.
 - brenton: Her princes within her were as roaring lions, her judges as the wolves of Arabia; they remained not till the morrow.
 
 ### Zephaniah 3:4
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Her prophets are spirit-borne men, contemptuous; her priests profane holy things and act impiously against law.
+- fresh: Her prophets are spirit-borne men, despisers; her priests profane the holy things and act impiously against law.
 - brenton: Her prophets are light and scornful men: her priests profane the holy things, and sinfully transgress the law.
 
 ### Zephaniah 3:5
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he gives his judgment to the light; it does not fail, but unjust one knows no shame.
+- fresh: But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he will give his judgment to the light, and it was not hidden; and he did not know injustice in exaction nor injustice in strife.
 - brenton: But the just Lord is in the midst of her, and he will never do an unjust thing: morning by morning he will bring out his judgment to the light, and it is not hidden, and he knows not injustice by extortion, nor injustice in strife.
 
 ### Zephaniah 3:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In destruction I pulled down proud ones; their corners disappeared. I will make their roads desolate, utterly not traversed; their cities failed, with no one existing or dwelling.
+- fresh: With destruction I pulled down proud ones; their corners disappeared. I will make their roads desolate, so that no one passes through at all; their cities failed because no one existed nor dwelt.
 - brenton: I have brought down the proud with destruction; their corners are destroyed: I will make their ways completely waste, so that none shall go through: their cities are come to an end, by reason of no man living or dwelling in them.
 
 ### Zephaniah 3:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: I said, Yet fear me and receive correction, and you will certainly not be destroyed from before her, all that I avenged upon her. Prepare, rise early; all their gleaning is corrupted.
+- fresh: I said, Only fear me and receive discipline, and you will certainly not be destroyed from her eyes, all that I avenged upon her. Prepare yourself; rise early; all their gleaning has been corrupted.
 - brenton: I said, But do ye fear me, and receive instruction, and ye shall not be cut off from the face of the land for all the vengeance I have brought upon her: prepare thou, rise early: all their produce is spoilt.
 
 ### Zephaniah 3:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore wait for me, says the Lord, for the day of my rising for witness, because my judgment is for gatherings of nations, to receive kings, to pour out upon them all anger of my wrath, because in the fire of my zeal all the earth will be consumed.
+- fresh: Therefore wait for me, says the Lord, for the day of my rising for witness, because my judgment is for gatherings of nations, to receive kings, to pour out upon them all the anger of my wrath, because in the fire of my zeal all the earth will be consumed.
 - brenton: Therefore wait upon me, saith the Lord, until the day when I rise up for a witness: because my judgment shall be on the gatherings of the nations, to draw to me kings, to pour out upon them all my fierce anger: for the whole earth shall be consumed with the fire of my jealousy.
 
 ### Zephaniah 3:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because then I will turn toward peoples a tongue for its generation, for all to call on the name of the Lord, to serve him under one yoke.
+- fresh: Because then I will turn to peoples a tongue for its generation, for all to call on the name of the Lord, to serve him under one yoke.
 - brenton: For then will I turn to the peoples a tongue for her generation, that all may call on the name of the Lord, to serve him under one yoke.
 
 ### Zephaniah 3:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From ends of rivers of Ethiopia they will bring sacrifices to me.
+- fresh: From the ends of the rivers of Ethiopia they will bring sacrifices to me.
 - brenton: From the boundaries of the rivers of Ethiopia will I receive my dispersed ones; they shall offer sacrifices to me.
 
 ### Zephaniah 3:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day you will certainly not be put to shame because of all practices by which you acted impiously against me, because then I will remove from you scornings of your arrogance, and you will no longer continue to boast on my holy mountain.
+- fresh: In that day you will certainly not be put to shame because of all your practices by which you acted impiously against me, because then I will remove from you scornings of your arrogance, and you will no longer add to boast greatly upon my holy mountain.
 - brenton: In that day thou shalt not be ashamed of all thy practices, wherein thou hast transgressed against me: for then will I take away from thee thy disdainful pride, and thou shalt no more magnify thyself upon my holy mountain.
 
 ### Zephaniah 3:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will leave in you a people gentle and humble, and they will fear the name of the Lord.
@@ -203468,7 +203468,7 @@ Note:
 ### Zephaniah 3:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: The remnant of Israel will not do injustice and will not speak vain things, and no deceitful tongue will be found in their mouth, because they will pasture and lie down and there will be no one frightening them.
@@ -203486,34 +203486,34 @@ Note:
 ### Zephaniah 3:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord removed your injustices and redeemed you from the hand of your enemies. Lord, king of Israel, is in your midst; you will no longer see evils.
+- fresh: The Lord has removed your injustices and has redeemed you from the hand of your enemies. The King of Israel, the Lord, is in your midst; you will no longer see evils.
 - brenton: The Lord has taken away thine iniquities, he has ransomed thee from the hand of thine enemies: the Lord, the King of Israel, is in the midst of thee: thou shalt not see evil any more.
 
 ### Zephaniah 3:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that time the Lord will say to Jerusalem, Take courage, Zion; let not your hands grow slack.
+- fresh: In that time the Lord will say to Jerusalem, Take courage, Zion; do not let your hands grow slack.
 - brenton: At that time the Lord shall say to Jerusalem, Be of good courage, Sion; let not thine hands be slack.
 
 ### Zephaniah 3:17
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord your God is in you, mighty; he will save you; he will bring joy upon you and renew you in his love and rejoice over you in delight as on feast day.
+- fresh: The Lord your God is in you, mighty; he will save you; he will bring joy upon you and renew you in his love and rejoice over you in delight as on a feast day.
 - brenton: The Lord thy God is in thee; the Mighty One shall save thee: he shall bring joy upon thee, and shall refresh thee with his love; and he shall rejoice over thee with delight as in a day of feasting.
 
 ### Zephaniah 3:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will gather the crushed ones. Woe, who took reproach upon her?
@@ -203522,16 +203522,16 @@ Note:
 ### Zephaniah 3:19
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I act in you for your sake in that time, says the Lord, and I will save the oppressed one and receive the driven-out one, and I will set them for boast and renowned in all the earth.
+- fresh: Behold, I act in you for your sake in that time, says the Lord, and I will save the oppressed one and receive the driven-out one, and I will set them for a boast and as renowned ones in all the earth.
 - brenton: Behold, I will work in thee for thy sake at that time, saith the Lord: and I will save her that was oppressed, and receive her that was rejected; and I will make them a praise, and honoured in all the earth.
 
 ### Zephaniah 3:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And they will be put to shame in that time when I do well to you and when I receive you, because I will make you renowned and for a boast among all the peoples of the earth, when I turn back your captivity before you, says the Lord.
