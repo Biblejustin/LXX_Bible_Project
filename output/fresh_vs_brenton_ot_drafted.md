@@ -199053,28 +199053,28 @@ Note:
 ### Joel 4:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because behold, in those days and in that time, when I turn back captivity of Judah and Jerusalem,
+- fresh: Because behold, in those days and in that time, when I turn back the captivity of Judah and Jerusalem,
 - brenton: For, behold, in those days and at that time, when I shall have turned the captivity of Juda and Jerusalem,
 
 ### Joel 4:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: I will gather all nations and bring them down into the valley of Jehoshaphat, and there I will judge with them concerning my people and my inheritance Israel, whom they scattered among nations and divided my land.
+- fresh: I will gather all the nations and bring them down into the valley of Jehoshaphat, and there I will judge with them concerning my people and my inheritance Israel, whom they scattered among the nations and divided my land.
 - brenton: I will also gather all the Gentiles, and bring them down to the valley of Josaphat, and will plead with them there for my people and my heritage Israel, who have been dispersed among the Gentiles; and these Gentiles have divided my land,
 
 ### Joel 4:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And over my people they cast lots and gave boys to prostitutes and sold girls for wine and drank.
+- fresh: They cast lots over my people and gave boys to prostitutes and sold girls for wine, and drank.
 - brenton: and cast lots over my people, and have given their boys to harlots, and sold their girls for wine, and have drunk.
 
 ### Joel 4:4
@@ -199098,73 +199098,73 @@ Note:
 ### Joel 4:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you sold sons of Judah and sons of Jerusalem to the sons of Greeks so that you might drive them out from their borders.
+- fresh: And you sold sons of Judah and sons of Jerusalem to the sons of the Greeks so that you might drive them out from their borders.
 - brenton: and ye have sold the children of Juda and the children of Jerusalem to the children of the Greeks, that ye might expel them from their coasts.
 
 ### Joel 4:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I am raising them up from place where you sold them there, and I will repay your repayment on your own heads.
+- fresh: Behold, I am raising them up from the place where you sold them, and I will repay your repayment on your own heads.
 - brenton: Therefore, behold, I will raise them up out of the place whither ye have sold them, and I will return your recompense on your own heads.
 
 ### Joel 4:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will sell your sons and your daughters into the hands of sons of Judah, and they will sell them into captivity to a distant nation, because the Lord spoke.
+- fresh: And I will sell your sons and your daughters into the hands of sons of Judah, and they will sell them into captivity to a far distant nation, because the Lord spoke.
 - brenton: And I will sell your sons and your daughters into the hands of the children of Juda, and they shall sell them into captivity to a far distant nation: for the Lord has spoken it.
 
 ### Joel 4:9
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Proclaim these things among nations: sanctify war, rouse fighters, bring near and let all men of war go up.
+- fresh: Proclaim these things among the nations: sanctify war, rouse warriors, bring near and go up, all men of war.
 - brenton: Proclaim these things among the Gentiles; declare war, arouse the warriors, draw near and go up, all ye men of war.
 
 ### Joel 4:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Beat your plows into swords and your sickles into spears. Let weak one say, I am strong.
+- fresh: Beat your plows into swords and your sickles into spears. Let the weak one say, I am strong.
 - brenton: Beat your ploughshares into swords, and your sickles into spears: let the weak say, I am strong.
 
 ### Joel 4:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Gather yourselves and enter, all nations around, and assemble there. Let gentle one be a fighter.
+- fresh: Gather yourselves and enter, all the nations around, and assemble there. Let the gentle one be a warrior.
 - brenton: Gather yourselves together, and go in, all ye nations round about, and gather yourselves there: let the timid become a warrior.
 
 ### Joel 4:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let all nations be roused and go up into the valley of Jehoshaphat, because there I will sit to judge all nations around.
+- fresh: Let all the nations be roused and go up into the valley of Jehoshaphat, because there I will sit to judge all the nations around.
 - brenton: Let them be aroused, let all the nations go up to the valley of Josaphat: for there will I sit to judge all the Gentiles round about.
 
 ### Joel 4:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Send out sickles, because harvest stands ready. Enter, tread, because vat is full; troughs overflow, because their evils are multiplied.
+- fresh: Send out sickles, because vintage stands ready. Enter, tread, because the vat is full; the troughs overflow, because their evils are multiplied.
 - brenton: Bring forth the sickles, for the vintage is come: go in, tread the grapes, for the press is full: cause the vats to overflow; for their wickedness is multiplied.
 
 ### Joel 4:14
@@ -199179,19 +199179,19 @@ Note:
 ### Joel 4:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Sun and moon will be darkened, and stars will withdraw their light.
+- fresh: The sun and the moon will be darkened, and the stars will withdraw their light.
 - brenton: The sun and the moon shall be darkened, and the stars shall withdraw their light.
 
 ### Joel 4:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will cry out from Zion and give his voice from Jerusalem, and heaven and earth will shake; but the Lord will spare his people and strengthen sons of Israel.
+- fresh: And the Lord will cry out from Zion and give his voice from Jerusalem, and the heaven and the earth will shake; but the Lord will spare his people, and the Lord will strengthen the sons of Israel.
 - brenton: And the Lord shall cry out of Sion, and shall utter his voice from Jerusalem; and the heaven and the earth shall be shaken, but the Lord shall spare his people, and shall strengthen the children of Israel.
 
 ### Joel 4:17
@@ -199206,10 +199206,10 @@ Note:
 ### Joel 4:18
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day: mountains will drip sweetness and hills will flow with milk and all streams of Judah will flow with waters, and a spring from the house of the Lord will come out and water torrent of reeds.
+- fresh: And it will be in that day: the mountains will drip sweetness and the hills will flow with milk and all the streams of Judah will flow with waters, and a spring from the house of the Lord will come out and water the torrent of reeds.
 - brenton: And it shall come to pass in that day that the mountains shall drop sweet wine, and the hills shall flow with milk, and all the fountains of Juda shall flow with water, and a fountain shall go forth of the house of the Lord, and water the valley of flags.
 
 ### Joel 4:19

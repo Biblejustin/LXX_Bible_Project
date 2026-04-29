@@ -90254,15 +90254,15 @@ And it will be that everyone who calls on the name of the Lord will be saved, be
 
 **Joel 4:1**
 
-Because behold, in those days and in that time, when I turn back captivity of Judah and Jerusalem,
+Because behold, in those days and in that time, when I turn back the captivity of Judah and Jerusalem,
 
 **Joel 4:2**
 
-I will gather all nations and bring them down into the valley of Jehoshaphat, and there I will judge with them concerning my people and my inheritance Israel, whom they scattered among nations and divided my land.
+I will gather all the nations and bring them down into the valley of Jehoshaphat, and there I will judge with them concerning my people and my inheritance Israel, whom they scattered among the nations and divided my land.
 
 **Joel 4:3**
 
-And over my people they cast lots and gave boys to prostitutes and sold girls for wine and drank.
+They cast lots over my people and gave boys to prostitutes and sold girls for wine, and drank.
 
 **Joel 4:4**
 
@@ -90274,35 +90274,35 @@ Because you took my silver and my gold and carried my choice and good things int
 
 **Joel 4:6**
 
-And you sold sons of Judah and sons of Jerusalem to the sons of Greeks so that you might drive them out from their borders.
+And you sold sons of Judah and sons of Jerusalem to the sons of the Greeks so that you might drive them out from their borders.
 
 **Joel 4:7**
 
-Behold, I am raising them up from place where you sold them there, and I will repay your repayment on your own heads.
+Behold, I am raising them up from the place where you sold them, and I will repay your repayment on your own heads.
 
 **Joel 4:8**
 
-And I will sell your sons and your daughters into the hands of sons of Judah, and they will sell them into captivity to a distant nation, because the Lord spoke.
+And I will sell your sons and your daughters into the hands of sons of Judah, and they will sell them into captivity to a far distant nation, because the Lord spoke.
 
 **Joel 4:9**
 
-Proclaim these things among nations: sanctify war, rouse fighters, bring near and let all men of war go up.
+Proclaim these things among the nations: sanctify war, rouse warriors, bring near and go up, all men of war.
 
 **Joel 4:10**
 
-Beat your plows into swords and your sickles into spears. Let weak one say, I am strong.
+Beat your plows into swords and your sickles into spears. Let the weak one say, I am strong.
 
 **Joel 4:11**
 
-Gather yourselves and enter, all nations around, and assemble there. Let gentle one be a fighter.
+Gather yourselves and enter, all the nations around, and assemble there. Let the gentle one be a warrior.
 
 **Joel 4:12**
 
-Let all nations be roused and go up into the valley of Jehoshaphat, because there I will sit to judge all nations around.
+Let all the nations be roused and go up into the valley of Jehoshaphat, because there I will sit to judge all the nations around.
 
 **Joel 4:13**
 
-Send out sickles, because harvest stands ready. Enter, tread, because vat is full; troughs overflow, because their evils are multiplied.
+Send out sickles, because vintage stands ready. Enter, tread, because the vat is full; the troughs overflow, because their evils are multiplied.
 
 **Joel 4:14**
 
@@ -90310,11 +90310,11 @@ Sounds resounded in the valley of justice, because the day of the Lord is near i
 
 **Joel 4:15**
 
-Sun and moon will be darkened, and stars will withdraw their light.
+The sun and the moon will be darkened, and the stars will withdraw their light.
 
 **Joel 4:16**
 
-And the Lord will cry out from Zion and give his voice from Jerusalem, and heaven and earth will shake; but the Lord will spare his people and strengthen sons of Israel.
+And the Lord will cry out from Zion and give his voice from Jerusalem, and the heaven and the earth will shake; but the Lord will spare his people, and the Lord will strengthen the sons of Israel.
 
 **Joel 4:17**
 
@@ -90322,7 +90322,7 @@ And you will know that I am the Lord your God dwelling in Zion, on my holy mount
 
 **Joel 4:18**
 
-And it will be in that day: mountains will drip sweetness and hills will flow with milk and all streams of Judah will flow with waters, and a spring from the house of the Lord will come out and water torrent of reeds.
+And it will be in that day: the mountains will drip sweetness and the hills will flow with milk and all the streams of Judah will flow with waters, and a spring from the house of the Lord will come out and water the torrent of reeds.
 
 **Joel 4:19**
 
