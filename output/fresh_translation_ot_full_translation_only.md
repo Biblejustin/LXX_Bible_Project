@@ -85852,87 +85852,87 @@ To whom were you likened? Go down and be brought down with the trees of delight 
 
 **Ezekiel 32:1**
 
-And it happened in eleventh year, in the twelfth month, on the first of the month, the word of the Lord came to me, saying,
+And it happened in the eleventh year, in the twelfth month, on the first day of the month, the word of the Lord came to me, saying,
 
 **Ezekiel 32:2**
 
-Son of man, take lamentation over Pharaoh king of Egypt and say to him, You were likened to lion of nations, and you as dragon in sea, and you gored with your rivers and troubled water with your feet and trampled your rivers.
+Son of man, take up a lamentation over Pharaoh, king of Egypt, and say to him: You were likened to a lion of nations, and you were like a dragon in the sea, and you gored with your rivers and troubled water with your feet and trampled your rivers.
 
 **Ezekiel 32:3**
 
-Thus says the Lord: And I will spread over you nets of many peoples and bring you up in my hook.
+Thus says the Lord: And I will spread over you nets of many peoples and bring you up with my hook.
 
 **Ezekiel 32:4**
 
-And I will spread you on the land; plains will be filled with you, and I will make all birds of heaven sit upon you and fill from you all beasts of the whole earth.
+And I will stretch you out on the land; the plains will be filled with you, and I will make all the birds of heaven settle upon you, and from you I will fill all the beasts of the whole earth.
 
 **Ezekiel 32:5**
 
-And I will put your flesh on mountains and fill them from your blood.
+And I will put your flesh upon the mountains and fill them with your blood.
 
 **Ezekiel 32:6**
 
-And the land will be watered from your dung, from your multitude, upon mountains; ravines I will fill from you.
+And the land will be watered from your dung, from your multitude upon the mountains; I will fill ravines from you.
 
 **Ezekiel 32:7**
 
-And when you are extinguished I will cover heaven and darken its stars; sun I will cover with cloud, and moon will not show its light.
+And when you are extinguished I will cover heaven and darken its stars; the sun I will cover with a cloud, and the moon will not show its light.
 
 **Ezekiel 32:8**
 
-All shining lights in heaven I will darken over you and give darkness on your land, says the Lord God.
+All the shining lights in heaven will darken over you, and I will give darkness on your land, says the Lord God.
 
 **Ezekiel 32:9**
 
-And I will provoke heart of many peoples when I bring your captivity among nations to a land you did not know.
+And I will provoke the heart of many peoples when I lead your captivity among the nations to a land that you did not know.
 
 **Ezekiel 32:10**
 
-And many nations will shudder over you, and their kings will stand astonished when I swing my sword before their faces, waiting for their fall from the day of your fall.
+And many nations will shudder over you, and their kings will stand astonished when my sword flies before their faces, awaiting their fall from the day of your fall.
 
 **Ezekiel 32:11**
 
-Because thus says the Lord: Sword of the king of Babylon will come to you.
+Because thus says the Lord: The sword of the king of Babylon will come to you.
 
 **Ezekiel 32:12**
 
-With swords of giants I will bring down your strength, scourges from nations, all of them, and they will destroy arrogance of Egypt and all her strength will be crushed.
+With swords of giants I will bring down your strength; scourges from nations, all of them, will destroy the arrogance of Egypt, and all her strength will be crushed.
 
 **Ezekiel 32:13**
 
-And I will destroy all her cattle from beside much water, and foot of man will no longer trouble it, and track of cattle will no longer trample it.
+And I will destroy all her cattle from beside much water, and a human foot will no longer trouble it, and the track of cattle will no longer trample it.
 
 **Ezekiel 32:14**
 
-Thus then their waters will become calm, and their rivers will go like oil, says the Lord.
+Thus then their waters will become calm, and their rivers will flow like oil, says the Lord.
 
 **Ezekiel 32:15**
 
-When I make Egypt destruction and land is desolated with its fullness, when I scatter all dwelling in it, then they will know that I am the Lord.
+When I make Egypt a destruction and the land is desolated with its fullness, when I scatter all those dwelling in it, then they will know that I am the Lord.
 
 **Ezekiel 32:16**
 
-It is lamentation, and they will lament it; daughters of nations will lament it over Egypt and over all her strength they will lament her, says the Lord.
+It is a lamentation, and you will lament it; the daughters of the nations will lament it over Egypt, and over all her strength they will lament her, says the Lord God.
 
 **Ezekiel 32:17**
 
-And it happened in the twelfth year of the first month, on the fifteenth of the month, the word of the Lord came to me, saying,
+And it happened in the twelfth year, in the first month, on the fifteenth of the month, the word of the Lord came to me, saying,
 
 **Ezekiel 32:18**
 
-Son of man, lament over strength of Egypt, and daughters of nations will bring her down, the dead, into the depth of earth, to those going down into pit.
+Son of man, lament over the strength of Egypt, and the nations will bring down her daughters dead into the depth of the earth, to those going down into the pit.
 
 **Ezekiel 32:20**
 
-In the midst of wounded of sword they will fall with him, and all his strength will lie down.
+In the midst of those wounded by the sword they will fall with him, and all his strength will lie down.
 
 **Ezekiel 32:21**
 
-And giants in the depth of pit will say to you, Of whom are you better? Go down and lie with uncircumcised in the midst of wounded of sword.
+And the giants in the depth of the pit will say to you, Whom are you better than? Go down and lie with the uncircumcised in the midst of those wounded by the sword.
 
 **Ezekiel 32:22**
 
-There is Assyria and all his gathering; all wounded. There they were given, and their burial is in the depth of pit, and his gathering was around his tomb, all wounded, those fallen by sword,
+There is Assyria and all his gathering, all the wounded. There they were given, and their burial is in the depth of the pit, and his gathering was around his tomb, all the wounded, those fallen by the sword,
 
 **Ezekiel 32:23**
 
@@ -85940,39 +85940,39 @@ those who gave their fear upon the land of the living.
 
 **Ezekiel 32:24**
 
-There is Elam and all his force around his tomb, all wounded, those fallen by sword and going down uncircumcised into the depth of earth, those who gave their fear on the land of the living, and they bore their torment with those going down into pit.
+There is Elam and all his force around his tomb, all the wounded, those fallen by the sword and going down uncircumcised into the depth of the earth, those who gave their fear upon the land of the living, and they bore their torment with those going down into the pit.
 
 **Ezekiel 32:25**
 
-In the midst of wounded.
+In the midst of the wounded.
 
 **Ezekiel 32:26**
 
-There were given Meshech and Tubal and all their strength around his tomb, all his wounded, all uncircumcised, wounded by sword, those who gave their fear upon the land of the living.
+There were given Meshech and Tubal and all their strength around his tomb, all his wounded, all uncircumcised, wounded by the sword, those who gave their fear upon the land of the living.
 
 **Ezekiel 32:27**
 
-And they lay with giants fallen from old age, who went down into Hades with the weapons of war, and they placed their swords under their heads, and their lawless deeds came upon their bones, because they terrified giants in the land of the living.
+And they lay with the giants fallen of old, who went down into Hades with the weapons of war, and they placed their swords under their heads, and their lawless deeds came upon their bones, because they terrified giants in the land of the living.
 
 **Ezekiel 32:28**
 
-And you will lie down in the midst of uncircumcised with those wounded by sword.
+And you will lie down in the midst of the uncircumcised with those wounded by the sword.
 
 **Ezekiel 32:29**
 
-There were given rulers of Assyria, those giving his strength to wound of sword; these slept with wounded, with those going down into pit.
+There were given the rulers of Assyria, those giving his strength to a wound of the sword; these slept with the wounded, with those going down into the pit.
 
 **Ezekiel 32:30**
 
-There all rulers of north, all generals of Assyria, those going down wounded, with their fear and their strength they slept uncircumcised with the wounded of sword, and they bore their torment with those going down into pit.
+There are the rulers of the north, all generals of Assyria, those going down wounded; with their fear and their strength they slept uncircumcised with those wounded by the sword, and they bore their torment with those going down into the pit.
 
 **Ezekiel 32:31**
 
-Those King Pharaoh will see and be comforted over all their strength, says the Lord.
+King Pharaoh will see those and be comforted over all their strength, says the Lord God.
 
 **Ezekiel 32:32**
 
-Because I gave his fear upon the land of the living, and Pharaoh and all his multitude will lie down in the midst of uncircumcised with the wounded of sword, says the Lord.
+Because I have given his fear upon the land of the living, and Pharaoh and all his multitude will lie down in the midst of the uncircumcised with those wounded by the sword, says the Lord God.
 
 ### Chapter 33
 

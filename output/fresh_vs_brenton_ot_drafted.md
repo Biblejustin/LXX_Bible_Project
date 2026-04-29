@@ -189363,190 +189363,190 @@ Note:
 ### Ezekiel 32:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, in the twelfth month, on the first of the month, the word of the Lord came to me, saying,
+- fresh: And it happened in the eleventh year, in the twelfth month, on the first day of the month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the twelfth year, in the tenth month, on the first day of the month, that the word of the Lord came to me, saying,
 
 ### Ezekiel 32:2
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, take lamentation over Pharaoh king of Egypt and say to him, You were likened to lion of nations, and you as dragon in sea, and you gored with your rivers and troubled water with your feet and trampled your rivers.
+- fresh: Son of man, take up a lamentation over Pharaoh, king of Egypt, and say to him: You were likened to a lion of nations, and you were like a dragon in the sea, and you gored with your rivers and troubled water with your feet and trampled your rivers.
 - brenton: Son of man, take up a lamentation for Pharao king of Egypt, and say to him,
 
 ### Ezekiel 32:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: And I will spread over you nets of many peoples and bring you up in my hook.
+- fresh: Thus says the Lord: And I will spread over you nets of many peoples and bring you up with my hook.
 - brenton: Thus saith the Lord; I will also cast over thee the nets of many nations, and will bring thee up with my hook:
 
 ### Ezekiel 32:4
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will spread you on the land; plains will be filled with you, and I will make all birds of heaven sit upon you and fill from you all beasts of the whole earth.
+- fresh: And I will stretch you out on the land; the plains will be filled with you, and I will make all the birds of heaven settle upon you, and from you I will fill all the beasts of the whole earth.
 - brenton: and I will stretch thee upon the earth: the fields shall be covered with thee, and I will cause all the birds of the sky to settle upon thee, and I will fill with thee all the wild beasts of the earth.
 
 ### Ezekiel 32:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will put your flesh on mountains and fill them from your blood.
+- fresh: And I will put your flesh upon the mountains and fill them with your blood.
 - brenton: And I will cast thy flesh upon the mountains, and will saturate them with thy blood.
 
 ### Ezekiel 32:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the land will be watered from your dung, from your multitude, upon mountains; ravines I will fill from you.
+- fresh: And the land will be watered from your dung, from your multitude upon the mountains; I will fill ravines from you.
 - brenton: And the land shall be drenched with thy dung, because of thy multitude upon the mountains: I will fill the valleys with thee.
 
 ### Ezekiel 32:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And when you are extinguished I will cover heaven and darken its stars; sun I will cover with cloud, and moon will not show its light.
+- fresh: And when you are extinguished I will cover heaven and darken its stars; the sun I will cover with a cloud, and the moon will not show its light.
 - brenton: And I will veil the heavens when thou art extinguished, and will darken the stars thereof; I will cover the sun with a cloud, and the moon shall not give her light.
 
 ### Ezekiel 32:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: All shining lights in heaven I will darken over you and give darkness on your land, says the Lord God.
+- fresh: All the shining lights in heaven will darken over you, and I will give darkness on your land, says the Lord God.
 - brenton: All the bodies that give light in the sky, shall be darkened over thee, and I will bring darkness upon the earth, saith the Lord God.
 
 ### Ezekiel 32:9
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will provoke heart of many peoples when I bring your captivity among nations to a land you did not know.
+- fresh: And I will provoke the heart of many peoples when I lead your captivity among the nations to a land that you did not know.
 - brenton: And I will provoke to anger the heart of many people, when I shall lead thee captive among the nations, to a land which thou hast not known.
 
 ### Ezekiel 32:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And many nations will shudder over you, and their kings will stand astonished when I swing my sword before their faces, waiting for their fall from the day of your fall.
+- fresh: And many nations will shudder over you, and their kings will stand astonished when my sword flies before their faces, awaiting their fall from the day of your fall.
 - brenton: And many nations shall mourn over thee, and their kings shall be utterly amazed, when my sword flies in their faces, as they wait for their own fall from the day of thy fall.
 
 ### Ezekiel 32:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord: Sword of the king of Babylon will come to you.
+- fresh: Because thus says the Lord: The sword of the king of Babylon will come to you.
 - brenton: For thus saith the Lord God; The sword of the king of Babylon shall come upon thee,
 
 ### Ezekiel 32:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: With swords of giants I will bring down your strength, scourges from nations, all of them, and they will destroy arrogance of Egypt and all her strength will be crushed.
+- fresh: With swords of giants I will bring down your strength; scourges from nations, all of them, will destroy the arrogance of Egypt, and all her strength will be crushed.
 - brenton: with the swords of mighty men; and I will cast down thy strength: they are all destroying ones from the nations, and they shall destroy the pride of Egypt, and all her strength shall be crushed.
 
 ### Ezekiel 32:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will destroy all her cattle from beside much water, and foot of man will no longer trouble it, and track of cattle will no longer trample it.
+- fresh: And I will destroy all her cattle from beside much water, and a human foot will no longer trouble it, and the track of cattle will no longer trample it.
 - brenton: And I will destroy all her cattle from beside the great water; and the foot of man shall not trouble it any more, and the step of cattle shall no more trample it.
 
 ### Ezekiel 32:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus then their waters will become calm, and their rivers will go like oil, says the Lord.
+- fresh: Thus then their waters will become calm, and their rivers will flow like oil, says the Lord.
 - brenton: Thus shall their waters then be at rest, and their rivers shall flow like oil, saith the Lord,
 
 ### Ezekiel 32:15
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: When I make Egypt destruction and land is desolated with its fullness, when I scatter all dwelling in it, then they will know that I am the Lord.
+- fresh: When I make Egypt a destruction and the land is desolated with its fullness, when I scatter all those dwelling in it, then they will know that I am the Lord.
 - brenton: when I shall give up Egypt to destruction, and the land shall be made desolate with the fulness thereof; when I shall scatter all that dwell in it, and they shall know that I am the Lord.
 
 ### Ezekiel 32:16
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: It is lamentation, and they will lament it; daughters of nations will lament it over Egypt and over all her strength they will lament her, says the Lord.
+- fresh: It is a lamentation, and you will lament it; the daughters of the nations will lament it over Egypt, and over all her strength they will lament her, says the Lord God.
 - brenton: There is a lamentation, and thou shalt utter it; and the daughters of the nations shall utter it, even for Egypt, and they shall mourn for it over all the strength thereof, saith the Lord God.
 
 ### Ezekiel 32:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in the twelfth year of the first month, on the fifteenth of the month, the word of the Lord came to me, saying,
+- fresh: And it happened in the twelfth year, in the first month, on the fifteenth of the month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the twelfth year, in the first month, on the fifteenth day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 32:18
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, lament over strength of Egypt, and daughters of nations will bring her down, the dead, into the depth of earth, to those going down into pit.
+- fresh: Son of man, lament over the strength of Egypt, and the nations will bring down her daughters dead into the depth of the earth, to those going down into the pit.
 - brenton: Son of man, lament over the strength of Egypt, for the nations shall bring down her daughters dead to the depth of the earth, to them that go down to the pit.
 
 ### Ezekiel 32:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In the midst of wounded of sword they will fall with him, and all his strength will lie down.
+- fresh: In the midst of those wounded by the sword they will fall with him, and all his strength will lie down.
 - brenton: They shall fall with him in the midst of them that are slain with the sword, and all his strength shall perish: the giants also shall say to thee,
 
 ### Ezekiel 32:21
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And giants in the depth of pit will say to you, Of whom are you better? Go down and lie with uncircumcised in the midst of wounded of sword.
+- fresh: And the giants in the depth of the pit will say to you, Whom are you better than? Go down and lie with the uncircumcised in the midst of those wounded by the sword.
 - brenton: Be thou in the depth of the pit: to whom art thou superior? yea, go down, and lie with the uncircumcised, in the midst of them that are slain with the sword.
 
 ### Ezekiel 32:22
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: There is Assyria and all his gathering; all wounded. There they were given, and their burial is in the depth of pit, and his gathering was around his tomb, all wounded, those fallen by sword,
+- fresh: There is Assyria and all his gathering, all the wounded. There they were given, and their burial is in the depth of the pit, and his gathering was around his tomb, all the wounded, those fallen by the sword,
 - brenton: There are Assur and all his company: all his slain have been laid there:
 
 ### Ezekiel 32:23
@@ -189561,82 +189561,82 @@ Note:
 ### Ezekiel 32:24
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: There is Elam and all his force around his tomb, all wounded, those fallen by sword and going down uncircumcised into the depth of earth, those who gave their fear on the land of the living, and they bore their torment with those going down into pit.
+- fresh: There is Elam and all his force around his tomb, all the wounded, those fallen by the sword and going down uncircumcised into the depth of the earth, those who gave their fear upon the land of the living, and they bore their torment with those going down into the pit.
 - brenton: There is Ælam and all his host round about his tomb: all the slain that fell by the sword, and the uncircumcised that go down to the deep of the earth, who caused their fear to be upon the land of the living: and they have received their punishment with them that go down to the pit,
 
 ### Ezekiel 32:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In the midst of wounded.
+- fresh: In the midst of the wounded.
 - brenton: in the midst of the slain.
 
 ### Ezekiel 32:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: There were given Meshech and Tubal and all their strength around his tomb, all his wounded, all uncircumcised, wounded by sword, those who gave their fear upon the land of the living.
+- fresh: There were given Meshech and Tubal and all their strength around his tomb, all his wounded, all uncircumcised, wounded by the sword, those who gave their fear upon the land of the living.
 - brenton: There were laid Mosoch, and Thobel, and all his strength round about his tomb: all his slain men, all the uncircumcised, slain with the sword, who caused their fear to be in the land of the living.
 
 ### Ezekiel 32:27
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they lay with giants fallen from old age, who went down into Hades with the weapons of war, and they placed their swords under their heads, and their lawless deeds came upon their bones, because they terrified giants in the land of the living.
+- fresh: And they lay with the giants fallen of old, who went down into Hades with the weapons of war, and they placed their swords under their heads, and their lawless deeds came upon their bones, because they terrified giants in the land of the living.
 - brenton: And they are laid with the giants that fell of old, who went down to Hades with their weapons of war: and they laid their swords under their heads, but their iniquities were upon their bones, because they terrified all men during their life.
 
 ### Ezekiel 32:28
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will lie down in the midst of uncircumcised with those wounded by sword.
+- fresh: And you will lie down in the midst of the uncircumcised with those wounded by the sword.
 - brenton: And thou shalt lie in the midst of the uncircumcised, with them that have been slain by the sword.
 
 ### Ezekiel 32:29
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: There were given rulers of Assyria, those giving his strength to wound of sword; these slept with wounded, with those going down into pit.
+- fresh: There were given the rulers of Assyria, those giving his strength to a wound of the sword; these slept with the wounded, with those going down into the pit.
 - brenton: There are laid the princes of Assur, who yielded their strength to a wound of the sword: these are laid with the slain, with them that go down to the pit.
 
 ### Ezekiel 32:30
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: There all rulers of north, all generals of Assyria, those going down wounded, with their fear and their strength they slept uncircumcised with the wounded of sword, and they bore their torment with those going down into pit.
+- fresh: There are the rulers of the north, all generals of Assyria, those going down wounded; with their fear and their strength they slept uncircumcised with those wounded by the sword, and they bore their torment with those going down into the pit.
 - brenton: There are the princes of the north, even all the captains of Assur, who go down slain to Hades: they lie uncircumcised among the slain with the sword together with their terror and their strength, and they have received their punishment with them that go down to the pit.
 
 ### Ezekiel 32:31
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Those King Pharaoh will see and be comforted over all their strength, says the Lord.
+- fresh: King Pharaoh will see those and be comforted over all their strength, says the Lord God.
 - brenton: King Pharao shall see them, and shall be comforted over all their force, saith the Lord God.
 
 ### Ezekiel 32:32
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I gave his fear upon the land of the living, and Pharaoh and all his multitude will lie down in the midst of uncircumcised with the wounded of sword, says the Lord.
+- fresh: Because I have given his fear upon the land of the living, and Pharaoh and all his multitude will lie down in the midst of the uncircumcised with those wounded by the sword, says the Lord God.
 - brenton: For I have caused his fear to be upon the land of the living: yet he shall lie in the midst of the uncircumcised with them that are slain with the sword, even Pharao, and all his multitude with him, saith the Lord God.
 
 ### Ezekiel 33:1
