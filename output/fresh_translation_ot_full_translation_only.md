@@ -87594,7 +87594,7 @@ And he said to me, These are the houses of the cooking places where those minist
 
 **Ezekiel 47:1**
 
-And he brought me to thresholds of the house, and behold, water was coming out from beneath the vestibule toward east, because face of the house faced east, and the water came down from the right side, from south, by the altar.
+And he brought me to the thresholds of the house, and behold, water was coming out from beneath the vestibule toward the east, because the face of the house faced east, and the water came down from the right side, from the south, toward the altar.
 
 **Ezekiel 47:2**
 
@@ -87602,15 +87602,15 @@ And he led me out by way of the north gate and brought me around outside by way 
 
 **Ezekiel 47:3**
 
-As the man went out opposite me, with a measuring line in his hand, he measured a thousand, and he led me through the water, water of release.
+As a man went out opposite, with a measuring line in his hand, he measured a thousand with the measure, and he passed through the water, water of release.
 
 **Ezekiel 47:4**
 
-And he measured a thousand and led me through the water, water up to the thighs; and he measured a thousand and led me through water up to the waist.
+And he measured a thousand and passed through the water, water up to the thighs; and he measured a thousand and passed through water up to the waist.
 
 **Ezekiel 47:5**
 
-And he measured a thousand, and I could not pass through, because the water was swelling like roar of a torrent that they cannot cross.
+And he measured a thousand, and he could not pass through, because the water was swelling like the roar of a torrent that they will not cross.
 
 **Ezekiel 47:6**
 
@@ -87618,15 +87618,15 @@ And he said to me, Have you seen, son of man? And he led me to the bank of the r
 
 **Ezekiel 47:7**
 
-In my turning back, behold, on the bank of the river very many trees, on this side and on that side.
+As I turned back, behold, on the bank of the river were very many trees, on this side and on that side.
 
 **Ezekiel 47:8**
 
-And he said to me, This water going out into the Galilee toward east and going down into the Arabah and coming to the sea, to the water of the outlet, will heal the waters.
+And he said to me, This water that goes out into the Galilee toward the east and goes down into the Arabah and comes to the sea, to the water of the outlet, will heal the waters.
 
 **Ezekiel 47:9**
 
-And every living soul swarming everywhere that the river comes there will live, and there will be very much fish there, because this water comes there and will heal, and everything wherever the river comes there will live.
+And every living soul of the living creatures that swarm, wherever the river comes, will live; and there will be very many fish there, because this water comes there and will heal, and everything wherever the river comes will live.
 
 **Ezekiel 47:10**
 
@@ -87634,55 +87634,55 @@ And fishers will stand there from Engedi to Ainagalim; it will be a spreading-pl
 
 **Ezekiel 47:11**
 
-But in its marsh and in its return and in its raised pools they will not be healed; they are given to salt.
+But in its outlet and in its return and in its overflow they will not be healed; they are given to salt.
 
 **Ezekiel 47:12**
 
-And by the river, on its bank, on this side and on that side, every edible tree will spring up; its leaf will not grow old, nor will its fruit fail. In its freshness it will bring firstfruits, because their waters come out from the holy places, and its fruit will be for food and its growth for healing.
+And by the river, on its bank, on this side and on that side, every edible tree will spring up; its leaf will not grow old, nor will its fruit fail. In its freshness it will produce firstfruits, because their waters come out from the holy places, and their fruit will be for food and their growth for healing.
 
 **Ezekiel 47:13**
 
-Thus says the Lord God: These are the boundaries by which you will inherit the land among the twelve tribes of sons of Israel, with Joseph as an added allotment.
+Thus says the Lord God: These are the boundaries by which you will inherit the land for the twelve tribes of the sons of Israel, with an added measuring line.
 
 **Ezekiel 47:14**
 
-And you will inherit it, each as his brother, into the land for which I raised my hand to give it to their fathers, and this land will fall to you as inheritance.
+And you will inherit it, each as his brother, the land concerning which I lifted my hand to give it to their fathers, and this land will fall to you as inheritance.
 
 **Ezekiel 47:15**
 
-And these are boundaries of the land toward north: from the great sea, by the way descending and skirting the entrance of Hamath, Zedad,
+And these are the boundaries of the land toward the north: from the great sea that descends and skirts the entrance of Hamath, Zedad,
 
 **Ezekiel 47:16**
 
-Berotha, Sebraim, Elam, between borders of Damascus and between borders of Hamath, court of Hauran, which is above border of Hauran.
+Berotha, Sebraim, Elam, between the borders of Damascus and between the borders of Hamath, court of Hauran, which places are above the borders of Hauran.
 
 **Ezekiel 47:17**
 
-These are the boundaries from the sea, from the court of Hazar-enan, the borders of Damascus, and the parts toward north.
+These are the boundaries from the sea, from the court of Hazar-enan, the borders of Damascus, and the parts toward the north.
 
 **Ezekiel 47:18**
 
-And the parts toward east are between Hauran and Damascus and between the Gilead and between land of Israel; Jordan marks boundary to the sea toward east. These are the parts toward east.
+And the parts toward the east are between Hauran and Damascus and between Gileaditis and the land of Israel; the Jordan marks the boundary to the sea east of the City of Palms. These are the parts toward the east.
 
 **Ezekiel 47:19**
 
-And the part toward south and southwest runs from Teman and Tamar to waters of Meribah Kadesh, stretching to the great sea. This is part toward south and southwest.
+And the part toward the south and southwest runs from Teman and the City of Palms to the water of Meribah Kadesh, reaching to the great sea. This is the part toward the south and southwest.
 
 **Ezekiel 47:20**
 
-This is part of the great sea as boundary up to opposite entrance of Hamath, up to its entrance. These are the parts toward sea and Hamath.
+This part of the great sea marks the boundary as far as opposite the entrance of Hamath, as far as its entrance. These are the parts toward the sea at Hamath.
 
 **Ezekiel 47:21**
 
-And you will divide this land among them, by the tribes of Israel.
+And you will divide this land for them, by the tribes of Israel.
 
 **Ezekiel 47:22**
 
-You will cast it by lot for yourselves and for the resident aliens dwelling in the midst of you, who have begotten sons in the midst of you, and they will be to you as natives among sons of Israel; with you they will eat in inheritance in the midst of tribes of Israel.
+You will cast it by lot for yourselves and for the resident aliens dwelling in the midst of you, who have begotten sons in the midst of you, and they will be to you as native-born among the sons of Israel; they will eat with you in inheritance in the midst of the tribes of Israel.
 
 **Ezekiel 47:23**
 
-And in whatever tribe the resident aliens are among the resident aliens with them, there you will give them inheritance, says the Lord God.
+And they will be in a tribe of resident aliens, among the resident aliens who are with them; there you will give them inheritance, says the Lord God.
 
 ### Chapter 48
 

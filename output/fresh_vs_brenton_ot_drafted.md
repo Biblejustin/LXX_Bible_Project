@@ -193215,10 +193215,10 @@ Note:
 ### Ezekiel 47:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he brought me to thresholds of the house, and behold, water was coming out from beneath the vestibule toward east, because face of the house faced east, and the water came down from the right side, from south, by the altar.
+- fresh: And he brought me to the thresholds of the house, and behold, water was coming out from beneath the vestibule toward the east, because the face of the house faced east, and the water came down from the right side, from the south, toward the altar.
 - brenton: And he brought me to the entrance of the house; and, behold, water issued from under the porch eastward, for the front of the house looked eastward; and the water came down from the right side, from the south to the altar.
 
 ### Ezekiel 47:2
@@ -193233,28 +193233,28 @@ Note:
 ### Ezekiel 47:3
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: As the man went out opposite me, with a measuring line in his hand, he measured a thousand, and he led me through the water, water of release.
+- fresh: As a man went out opposite, with a measuring line in his hand, he measured a thousand with the measure, and he passed through the water, water of release.
 - brenton: in the direction in which a man went forth opposite; and there was a measuring line in his hand, and he measured a thousand cubits with the measure;
 
 ### Ezekiel 47:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he measured a thousand and led me through the water, water up to the thighs; and he measured a thousand and led me through water up to the waist.
+- fresh: And he measured a thousand and passed through the water, water up to the thighs; and he measured a thousand and passed through water up to the waist.
 - brenton: and he passed through the water; it was water of a fountain: and again he measured a thousand, and passed through the water; and the water was up to the thighs: and again he measured a thousand; and he passed through water up to the loins.
 
 ### Ezekiel 47:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he measured a thousand, and I could not pass through, because the water was swelling like roar of a torrent that they cannot cross.
+- fresh: And he measured a thousand, and he could not pass through, because the water was swelling like the roar of a torrent that they will not cross.
 - brenton: And again he measured a thousand; and he could not pass through: for the water rose as of a torrent which men cannot pass over.
 
 ### Ezekiel 47:6
@@ -193269,34 +193269,34 @@ Note:
 ### Ezekiel 47:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In my turning back, behold, on the bank of the river very many trees, on this side and on that side.
+- fresh: As I turned back, behold, on the bank of the river were very many trees, on this side and on that side.
 - brenton: as I returned; and, behold, on the brink of the river there were very many trees on this side and on that side.
 
 ### Ezekiel 47:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, This water going out into the Galilee toward east and going down into the Arabah and coming to the sea, to the water of the outlet, will heal the waters.
+- fresh: And he said to me, This water that goes out into the Galilee toward the east and goes down into the Arabah and comes to the sea, to the water of the outlet, will heal the waters.
 - brenton: And he said to me, This is the water that goes forth to Galilee that lies eastward, and it is gone down to Arabia, and has reached as far as to the sea to the outlet of the water: and it shall heal the waters.
 
 ### Ezekiel 47:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And every living soul swarming everywhere that the river comes there will live, and there will be very much fish there, because this water comes there and will heal, and everything wherever the river comes there will live.
+- fresh: And every living soul of the living creatures that swarm, wherever the river comes, will live; and there will be very many fish there, because this water comes there and will heal, and everything wherever the river comes will live.
 - brenton: And it shall come to pass, that every animal of living and moving creatures, all on which the river shall come, shall live: and there shall be there very many fish; for this water shall go thither, and it shall heal them, and they shall live: everything on which the river shall come shall live.
 
 ### Ezekiel 47:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And fishers will stand there from Engedi to Ainagalim; it will be a spreading-place of nets. And its fish will be like the fish of the great sea, a very great multitude.
@@ -193305,118 +193305,118 @@ Note:
 ### Ezekiel 47:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But in its marsh and in its return and in its raised pools they will not be healed; they are given to salt.
+- fresh: But in its outlet and in its return and in its overflow they will not be healed; they are given to salt.
 - brenton: But at the outlet of the water, and the turn of it, and where it overflows its banks, they shall not heal at all; they are given to salt.
 
 ### Ezekiel 47:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And by the river, on its bank, on this side and on that side, every edible tree will spring up; its leaf will not grow old, nor will its fruit fail. In its freshness it will bring firstfruits, because their waters come out from the holy places, and its fruit will be for food and its growth for healing.
+- fresh: And by the river, on its bank, on this side and on that side, every edible tree will spring up; its leaf will not grow old, nor will its fruit fail. In its freshness it will produce firstfruits, because their waters come out from the holy places, and their fruit will be for food and their growth for healing.
 - brenton: And every fruit tree shall grow by the river, even on the bank of it on this side and on that side: they shall not decay upon it, neither shall their fruit fail: they shall bring forth the first-fruit of their early crop, for these their waters come forth of the sanctuary: and their fruit shall be for meat, and their foliage for health.
 
 ### Ezekiel 47:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: These are the boundaries by which you will inherit the land among the twelve tribes of sons of Israel, with Joseph as an added allotment.
+- fresh: Thus says the Lord God: These are the boundaries by which you will inherit the land for the twelve tribes of the sons of Israel, with an added measuring line.
 - brenton: Thus saith the Lord God; Ye shall inherit these borders of the land; they are given by lot to the twelve tribes of the children of Israel.
 
 ### Ezekiel 47:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will inherit it, each as his brother, into the land for which I raised my hand to give it to their fathers, and this land will fall to you as inheritance.
+- fresh: And you will inherit it, each as his brother, the land concerning which I lifted my hand to give it to their fathers, and this land will fall to you as inheritance.
 - brenton: And ye shall inherit it, each according to his brother's portion, even the land concerning which I lifted up my hand to give it to your fathers: and this land shall fall to you by lot.
 
 ### Ezekiel 47:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And these are boundaries of the land toward north: from the great sea, by the way descending and skirting the entrance of Hamath, Zedad,
+- fresh: And these are the boundaries of the land toward the north: from the great sea that descends and skirts the entrance of Hamath, Zedad,
 - brenton: And these are the borders of the land that lies northward, from the great sea that comes down, and divides the entrance of Emaseldam;
 
 ### Ezekiel 47:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Berotha, Sebraim, Elam, between borders of Damascus and between borders of Hamath, court of Hauran, which is above border of Hauran.
+- fresh: Berotha, Sebraim, Elam, between the borders of Damascus and between the borders of Hamath, court of Hauran, which places are above the borders of Hauran.
 - brenton: Maabthera, Ebrameliam, between the coasts of Damascus and the coasts of Emathi, the habitation of Saunan, which places are above the coasts of Auranitis.
 
 ### Ezekiel 47:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: These are the boundaries from the sea, from the court of Hazar-enan, the borders of Damascus, and the parts toward north.
+- fresh: These are the boundaries from the sea, from the court of Hazar-enan, the borders of Damascus, and the parts toward the north.
 - brenton: These are the borders from the sea, from the habitations of Ænan, the coasts of Damascus, and the northern coasts.
 
 ### Ezekiel 47:18
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the parts toward east are between Hauran and Damascus and between the Gilead and between land of Israel; Jordan marks boundary to the sea toward east. These are the parts toward east.
+- fresh: And the parts toward the east are between Hauran and Damascus and between Gileaditis and the land of Israel; the Jordan marks the boundary to the sea east of the City of Palms. These are the parts toward the east.
 - brenton: And the eastern coasts between Loranitis, and Damascus, and the land of Galaad, and the land of Israel, the Jordan divides to the sea that is east of the city of palm-trees. These are the eastern coasts.
 
 ### Ezekiel 47:19
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the part toward south and southwest runs from Teman and Tamar to waters of Meribah Kadesh, stretching to the great sea. This is part toward south and southwest.
+- fresh: And the part toward the south and southwest runs from Teman and the City of Palms to the water of Meribah Kadesh, reaching to the great sea. This is the part toward the south and southwest.
 - brenton: And the southern and south-western coasts are from Thæman and the city of palm-trees, to the water of Marimoth Cadem, reaching forth to the great sea. This part is the south and south-west.
 
 ### Ezekiel 47:20
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: This is part of the great sea as boundary up to opposite entrance of Hamath, up to its entrance. These are the parts toward sea and Hamath.
+- fresh: This part of the great sea marks the boundary as far as opposite the entrance of Hamath, as far as its entrance. These are the parts toward the sea at Hamath.
 - brenton: This part of the great sea forms a border, till one comes opposite the entrance of Emath, even as far as the entrance thereof. These are the parts west of Emath.
 
 ### Ezekiel 47:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will divide this land among them, by the tribes of Israel.
+- fresh: And you will divide this land for them, by the tribes of Israel.
 - brenton: So ye shall divide this land to them, even to the tribes of Israel.
 
 ### Ezekiel 47:22
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: You will cast it by lot for yourselves and for the resident aliens dwelling in the midst of you, who have begotten sons in the midst of you, and they will be to you as natives among sons of Israel; with you they will eat in inheritance in the midst of tribes of Israel.
+- fresh: You will cast it by lot for yourselves and for the resident aliens dwelling in the midst of you, who have begotten sons in the midst of you, and they will be to you as native-born among the sons of Israel; they will eat with you in inheritance in the midst of the tribes of Israel.
 - brenton: Ye shall cast the lot upon it, for yourselves and the strangers that sojourn in the midst of you, who have begotten children in the midst of you: and they shall be to you as natives among the children of Israel; they shall eat with you in their inheritance in the midst of the tribes of Israel.
 
 ### Ezekiel 47:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in whatever tribe the resident aliens are among the resident aliens with them, there you will give them inheritance, says the Lord God.
+- fresh: And they will be in a tribe of resident aliens, among the resident aliens who are with them; there you will give them inheritance, says the Lord God.
 - brenton: And they shall be in the tribe of proselytes among the proselytes that are with them: there shall ye give them an inheritance, saith the Lord God.
 
 ### Ezekiel 48:1
