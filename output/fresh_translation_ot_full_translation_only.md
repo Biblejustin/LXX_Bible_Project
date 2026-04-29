@@ -91188,47 +91188,47 @@ God saw their works, that they turned from their evil ways, and God repented ove
 
 **Jonah 4:1**
 
-Jonah was grieved with great grief and was confounded.
+And Jonah was grieved with great grief and was confounded.
 
 **Jonah 4:2**
 
-He prayed to the Lord and said, O Lord, were not these my words while I was still in my land? Because of this I went ahead to flee to Tarshish, because I knew that you are merciful and compassionate, long-suffering and abundant in mercy, repenting over evils.
+And he prayed to the Lord and said, O Lord, were not these my words while I was still in my land? Because of this I went ahead to flee to Tarshish, because I knew that you are merciful and compassionate, long-suffering and abundant in mercy, and repenting over the evils.
 
 **Jonah 4:3**
 
-And now, Master Lord, take my life from me, because better for me to die than to live.
+And now, Master Lord, take my life from me, because it is better for me to die than to live.
 
 **Jonah 4:4**
 
-The Lord said to Jonah, Are you greatly grieved?
+And the Lord said to Jonah, Are you greatly grieved?
 
 **Jonah 4:5**
 
-Jonah went out of the city and sat opposite the city. He made a shelter for himself there and sat under it in shade until he might see what would happen to the city.
+And Jonah went out from the city and sat opposite the city. He made himself a booth there and sat under it in shade until he might see what would become of the city.
 
 **Jonah 4:6**
 
-The Lord God commanded a bottle-gourd, and it grew over Jonah's head to be shade above his head, to shade him from his troubles. Jonah rejoiced over bottle-gourd with great joy.
+And the Lord God commanded a bottle-gourd, and it came up over the head of Jonah, that it might be a shade above his head, to shade him from his evils; and Jonah rejoiced over the bottle-gourd with great joy.
 
 **Jonah 4:7**
 
-God commanded a worm early next morning, and it struck bottle-gourd, and it dried up.
+And God commanded a worm early the next morning, and it struck the bottle-gourd, and it dried up.
 
 **Jonah 4:8**
 
-When sun rose, God commanded a scorching burning wind, and sun struck Jonah's head, and he grew fainthearted and gave up regarding his life and said, Better for me to die than to live.
+And it came to pass when the sun rose, that God commanded a scorching burning wind, and the sun struck upon the head of Jonah, and he grew fainthearted and gave up regarding his life and said, It is better for me to die than to live.
 
 **Jonah 4:9**
 
-God said to Jonah, Are you greatly grieved over bottle-gourd? He said, I am greatly grieved, even unto death.
+And God said to Jonah, Are you greatly grieved over the bottle-gourd? And he said, I am greatly grieved, even unto death.
 
 **Jonah 4:10**
 
-The Lord said, You spared bottle-gourd, over which you did not labor and did not raise, which came to be in a night and perished in a night.
+And the Lord said, You spared the bottle-gourd, over which you did not suffer hardship and did not rear it, which came to be in a night and perished in a night.
 
 **Jonah 4:11**
 
-But I, shall I not spare Nineveh, the great city, in which dwell more than twelve myriads of human beings who do not know their right hand or their left, and many cattle?
+But shall not I spare Nineveh, the great city, in which dwell more than twelve myriads of human beings who do not know their right hand or their left hand, and many cattle?
 
 ## Micah
 

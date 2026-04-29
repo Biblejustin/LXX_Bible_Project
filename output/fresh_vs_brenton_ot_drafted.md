@@ -201084,100 +201084,100 @@ Note:
 ### Jonah 4:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Jonah was grieved with great grief and was confounded.
+- fresh: And Jonah was grieved with great grief and was confounded.
 - brenton: But Jonas was very deeply grieved, and he was confounded.
 
 ### Jonah 4:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: He prayed to the Lord and said, O Lord, were not these my words while I was still in my land? Because of this I went ahead to flee to Tarshish, because I knew that you are merciful and compassionate, long-suffering and abundant in mercy, repenting over evils.
+- fresh: And he prayed to the Lord and said, O Lord, were not these my words while I was still in my land? Because of this I went ahead to flee to Tarshish, because I knew that you are merciful and compassionate, long-suffering and abundant in mercy, and repenting over the evils.
 - brenton: And he prayed to the Lord, and said, O Lord, were not these my words when I was yet in my land? therefore I made haste to flee to Tharsis; because I knew that thou art merciful and compassionate, long-suffering, and abundant in kindness, and repentest of evil.
 
 ### Jonah 4:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And now, Master Lord, take my life from me, because better for me to die than to live.
+- fresh: And now, Master Lord, take my life from me, because it is better for me to die than to live.
 - brenton: And now, Lord God, take my life from me; for it is better for me to die than to live.
 
 ### Jonah 4:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord said to Jonah, Are you greatly grieved?
+- fresh: And the Lord said to Jonah, Are you greatly grieved?
 - brenton: And the Lord said to Jonas, Art thou very much grieved?
 
 ### Jonah 4:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Jonah went out of the city and sat opposite the city. He made a shelter for himself there and sat under it in shade until he might see what would happen to the city.
+- fresh: And Jonah went out from the city and sat opposite the city. He made himself a booth there and sat under it in shade until he might see what would become of the city.
 - brenton: And Jonas went out from the city, and sat over against the city; and he made for himself there a booth, and he sat under it, until he should perceive what would become of the city.
 
 ### Jonah 4:6
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord God commanded a bottle-gourd, and it grew over Jonah's head to be shade above his head, to shade him from his troubles. Jonah rejoiced over bottle-gourd with great joy.
+- fresh: And the Lord God commanded a bottle-gourd, and it came up over the head of Jonah, that it might be a shade above his head, to shade him from his evils; and Jonah rejoiced over the bottle-gourd with great joy.
 - brenton: And the Lord God commanded a gourd, and it came up over the head of Jonas, to be a shadow over his head, to shade him from his calamities: and Jonas rejoiced with great joy for the gourd.
 
 ### Jonah 4:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: God commanded a worm early next morning, and it struck bottle-gourd, and it dried up.
+- fresh: And God commanded a worm early the next morning, and it struck the bottle-gourd, and it dried up.
 - brenton: And God commanded a worm the next morning, and it smote the gourd, and it withered away.
 
 ### Jonah 4:8
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: When sun rose, God commanded a scorching burning wind, and sun struck Jonah's head, and he grew fainthearted and gave up regarding his life and said, Better for me to die than to live.
+- fresh: And it came to pass when the sun rose, that God commanded a scorching burning wind, and the sun struck upon the head of Jonah, and he grew fainthearted and gave up regarding his life and said, It is better for me to die than to live.
 - brenton: And it came to pass at the rising of the sun, that God commanded a burning east wind; and the sun smote on the head of Jonas, and he fainted, and despaired of his life, and said, It is better for me to die than to live.
 
 ### Jonah 4:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: God said to Jonah, Are you greatly grieved over bottle-gourd? He said, I am greatly grieved, even unto death.
+- fresh: And God said to Jonah, Are you greatly grieved over the bottle-gourd? And he said, I am greatly grieved, even unto death.
 - brenton: And God said to Jonas, Art thou very much grieved for the gourd? And he said, I am very much grieved, even to death.
 
 ### Jonah 4:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord said, You spared bottle-gourd, over which you did not labor and did not raise, which came to be in a night and perished in a night.
+- fresh: And the Lord said, You spared the bottle-gourd, over which you did not suffer hardship and did not rear it, which came to be in a night and perished in a night.
 - brenton: And the Lord said, Thou hadst pity on the gourd, for which thou hast not suffered, neither didst thou rear it; which came up before night, and perished before another night:
 
 ### Jonah 4:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But I, shall I not spare Nineveh, the great city, in which dwell more than twelve myriads of human beings who do not know their right hand or their left, and many cattle?
+- fresh: But shall not I spare Nineveh, the great city, in which dwell more than twelve myriads of human beings who do not know their right hand or their left hand, and many cattle?
 - brenton: and shall not I spare Nineve, the great city, in which dwell more than twelve myriads of human beings, who do not know their right hand or their left hand; and also much cattle?
 
 ## Micah
