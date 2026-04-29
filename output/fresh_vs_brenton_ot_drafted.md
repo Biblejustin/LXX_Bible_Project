@@ -199026,28 +199026,28 @@ Note:
 ### Joel 3:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will give wonders in heaven and on earth, blood and fire and vapor of smoke.
+- fresh: And I will give wonders in heaven and on the earth, blood and fire and vapor of smoke.
 - brenton: And I will shew wonders in heaven, and upon the earth, blood, and fire, and vapour of smoke.
 
 ### Joel 3:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Sun will be turned into darkness and moon into blood before great and manifest the day of the Lord comes.
+- fresh: The sun will be turned into darkness and the moon into blood before the great and manifest day of the Lord comes.
 - brenton: The sun shall be turned into darkness, and the moon into blood, before the great and glorious day of the Lord come.
 
 ### Joel 3:5
 
 - importance: high
-- decisions: 1
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
+- fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be one who escapes, as the Lord said, and those receiving good news whom the Lord has called.
 - brenton: And it shall come to pass that whosoever shall call on the name of the Lord shall be saved: for in mount Sion and in Jerusalem shall the saved one be as the Lord has said, and they that have glad tidings preached to them, whom the Lord has called.
 
 ### Joel 4:1

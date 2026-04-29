@@ -90240,15 +90240,15 @@ And even on the male servants and on the female servants in those days I will po
 
 **Joel 3:3**
 
-And I will give wonders in heaven and on earth, blood and fire and vapor of smoke.
+And I will give wonders in heaven and on the earth, blood and fire and vapor of smoke.
 
 **Joel 3:4**
 
-Sun will be turned into darkness and moon into blood before great and manifest the day of the Lord comes.
+The sun will be turned into darkness and the moon into blood before the great and manifest day of the Lord comes.
 
 **Joel 3:5**
 
-And it will be that everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
+And it will be that everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be one who escapes, as the Lord said, and those receiving good news whom the Lord has called.
 
 ### Chapter 4
 
