@@ -196097,7 +196097,7 @@ Note:
 ### Daniel 10:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: In the first year of Cyrus king of the Persians, a command was shown to Daniel, whose name was called Belteshazzar, and the vision and the command and the mighty multitude were true. He will understand the command, and I understood it in the vision.
@@ -196115,7 +196115,7 @@ Note:
 ### Daniel 10:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: I ate no bread of desire, and meat and wine did not enter my mouth, and I did not anoint myself with oil until I completed the three weeks of days.
@@ -196124,88 +196124,88 @@ Note:
 ### Daniel 10:4
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened on the twenty-fourth day of the first month, and I was on the bank of the great river, which is Tigris.
+- fresh: And it happened on the twenty-fourth day of the first month, and I was on the bank of the great river, which is the Tigris.
 - brenton: [missing]
 
 ### Daniel 10:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I lifted my eyes and saw, and behold, one man clothed in fine linen, and his loins girded with linen, and light from his midst.
+- fresh: And I lifted my eyes and saw, and behold, one man clothed in fine linen, and his loins girded with fine linen, and light from his midst.
 - brenton: [missing]
 
 ### Daniel 10:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And his body was like tarshish, and his face like the appearance of lightning, and his eyes like lamps of fire, and his arms and feet like flashing bronze, and voice of his speech like the voice of a tumult.
+- fresh: And his body was like tarshish, and his face like the appearance of lightning, and his eyes like lamps of fire, and his arms and feet like flashing bronze, and the voice of his speech was like the voice of a tumult.
 - brenton: [missing]
 
 ### Daniel 10:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I, Daniel, saw this great vision, and men with me did not see this vision, and strong fear fell upon them, and they fled in haste.
+- fresh: And I, Daniel, saw this great vision, and the men who were with me did not see this vision, and strong fear fell upon them, and they fled in haste.
 - brenton: [missing]
 
 ### Daniel 10:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I was left alone and saw this great vision, and no strength remained in me, and behold, spirit turned upon me for ruin, and I did not prevail.
+- fresh: And I was left alone and saw this great vision, and no strength remained in me, and behold, my spirit turned upon me for ruin, and I did not prevail.
 - brenton: [missing]
 
 ### Daniel 10:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I did not hear the voice of his speech; I was fallen on my face upon the earth.
+- fresh: And I did not hear the voice of his speech; I had fallen on my face upon the earth.
 - brenton: [missing]
 
 ### Daniel 10:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, a hand touched me and raised me onto my knees and onto tracks of my feet.
+- fresh: And behold, a hand touched me and raised me onto my knees and onto the soles of my feet.
 - brenton: [missing]
 
 ### Daniel 10:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Daniel, you are a man pitied. Understand the commands that I speak over you, and stand in your place, for I have now been sent to you. And when he spoke this command with me, I stood trembling.
+- fresh: And he said to me, Daniel, you are a pitied man. Understand the commands that I speak to you, and stand in your place, for I have now been sent to you. And when he spoke this command with me, I stood trembling.
 - brenton: [missing]
 
 ### Daniel 10:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Do not fear, Daniel, because from the first day when you set your face to understand and be humbled before the Lord your God, your word was heard, and I came at your word.
+- fresh: And he said to me, Do not fear, Daniel, because from the first day when you set your face to understand and to be humbled before the Lord your God, your word was heard, and I came at your word.
 - brenton: [missing]
 
 ### Daniel 10:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And the commander of the king of the Persians stood against me twenty-one days, and behold, Michael, one of the first rulers, came to help me, and I left him there with the commander of the king of the Persians.
@@ -196214,10 +196214,10 @@ Note:
 ### Daniel 10:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, I came to show you what will meet your people in the last days, for vision is still for days.
+- fresh: And he said to me, I came to show you what will meet your people in the last days, for the vision is still for days.
 - brenton: [missing]
 
 ### Daniel 10:15
@@ -196232,25 +196232,25 @@ Note:
 ### Daniel 10:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, likeness of a human hand touched my lips, and I opened my mouth and spoke and said to the one standing opposite me, Lord, as by the vision my side turned upon me, and there was no strength in me.
+- fresh: And behold, something like a human hand touched my lips, and I opened my mouth and spoke and said to the one standing opposite me, Lord, at the vision my side turned against me, and there was no strength in me.
 - brenton: [missing]
 
 ### Daniel 10:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And how can servant speak with his lord? For I grew weak, and there is no strength in me, and no breath remained in me.
+- fresh: And how can the servant speak with his lord? For I grew weak, and there is no strength in me, and no breath remained in me.
 - brenton: [missing]
 
 ### Daniel 10:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And he again touched me, like the appearance of a man, and strengthened me.
@@ -196259,16 +196259,16 @@ Note:
 ### Daniel 10:19
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, You are a man pitied. Do not fear. Be well. Be manly and strong. And when he spoke with me, I grew strong and said, Let my lord speak, because you strengthened me.
+- fresh: And he said to me, You are a pitied man. Do not fear. Be well. Act like a man and be strong. And when he spoke with me, I grew strong and said, Let my lord speak, because you strengthened me.
 - brenton: [missing]
 
 ### Daniel 10:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Do you know why I came to you? And now I will return to fight with the commander of the king of the Persians, and as I was going out, behold, the commander of Greeks was coming in.
@@ -196277,7 +196277,7 @@ Note:
 ### Daniel 10:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: But I will plainly show you first things in the writing of truth, and no one was helping with me concerning these things except Michael the angel.

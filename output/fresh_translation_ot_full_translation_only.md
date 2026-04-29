@@ -88910,39 +88910,39 @@ I ate no bread of desire, and meat and wine did not enter my mouth, and I did no
 
 **Daniel 10:4**
 
-And it happened on the twenty-fourth day of the first month, and I was on the bank of the great river, which is Tigris.
+And it happened on the twenty-fourth day of the first month, and I was on the bank of the great river, which is the Tigris.
 
 **Daniel 10:5**
 
-And I lifted my eyes and saw, and behold, one man clothed in fine linen, and his loins girded with linen, and light from his midst.
+And I lifted my eyes and saw, and behold, one man clothed in fine linen, and his loins girded with fine linen, and light from his midst.
 
 **Daniel 10:6**
 
-And his body was like tarshish, and his face like the appearance of lightning, and his eyes like lamps of fire, and his arms and feet like flashing bronze, and voice of his speech like the voice of a tumult.
+And his body was like tarshish, and his face like the appearance of lightning, and his eyes like lamps of fire, and his arms and feet like flashing bronze, and the voice of his speech was like the voice of a tumult.
 
 **Daniel 10:7**
 
-And I, Daniel, saw this great vision, and men with me did not see this vision, and strong fear fell upon them, and they fled in haste.
+And I, Daniel, saw this great vision, and the men who were with me did not see this vision, and strong fear fell upon them, and they fled in haste.
 
 **Daniel 10:8**
 
-And I was left alone and saw this great vision, and no strength remained in me, and behold, spirit turned upon me for ruin, and I did not prevail.
+And I was left alone and saw this great vision, and no strength remained in me, and behold, my spirit turned upon me for ruin, and I did not prevail.
 
 **Daniel 10:9**
 
-And I did not hear the voice of his speech; I was fallen on my face upon the earth.
+And I did not hear the voice of his speech; I had fallen on my face upon the earth.
 
 **Daniel 10:10**
 
-And behold, a hand touched me and raised me onto my knees and onto tracks of my feet.
+And behold, a hand touched me and raised me onto my knees and onto the soles of my feet.
 
 **Daniel 10:11**
 
-And he said to me, Daniel, you are a man pitied. Understand the commands that I speak over you, and stand in your place, for I have now been sent to you. And when he spoke this command with me, I stood trembling.
+And he said to me, Daniel, you are a pitied man. Understand the commands that I speak to you, and stand in your place, for I have now been sent to you. And when he spoke this command with me, I stood trembling.
 
 **Daniel 10:12**
 
-And he said to me, Do not fear, Daniel, because from the first day when you set your face to understand and be humbled before the Lord your God, your word was heard, and I came at your word.
+And he said to me, Do not fear, Daniel, because from the first day when you set your face to understand and to be humbled before the Lord your God, your word was heard, and I came at your word.
 
 **Daniel 10:13**
 
@@ -88950,7 +88950,7 @@ And the commander of the king of the Persians stood against me twenty-one days, 
 
 **Daniel 10:14**
 
-And he said to me, I came to show you what will meet your people in the last days, for vision is still for days.
+And he said to me, I came to show you what will meet your people in the last days, for the vision is still for days.
 
 **Daniel 10:15**
 
@@ -88958,11 +88958,11 @@ And when he spoke these commands with me, I set my face to the ground and was si
 
 **Daniel 10:16**
 
-And behold, likeness of a human hand touched my lips, and I opened my mouth and spoke and said to the one standing opposite me, Lord, as by the vision my side turned upon me, and there was no strength in me.
+And behold, something like a human hand touched my lips, and I opened my mouth and spoke and said to the one standing opposite me, Lord, at the vision my side turned against me, and there was no strength in me.
 
 **Daniel 10:17**
 
-And how can servant speak with his lord? For I grew weak, and there is no strength in me, and no breath remained in me.
+And how can the servant speak with his lord? For I grew weak, and there is no strength in me, and no breath remained in me.
 
 **Daniel 10:18**
 
@@ -88970,7 +88970,7 @@ And he again touched me, like the appearance of a man, and strengthened me.
 
 **Daniel 10:19**
 
-And he said to me, You are a man pitied. Do not fear. Be well. Be manly and strong. And when he spoke with me, I grew strong and said, Let my lord speak, because you strengthened me.
+And he said to me, You are a pitied man. Do not fear. Be well. Act like a man and be strong. And when he spoke with me, I grew strong and said, Let my lord speak, because you strengthened me.
 
 **Daniel 10:20**
 
