@@ -85778,75 +85778,75 @@ And I will scatter Egypt among the nations and winnow them into the lands, and t
 
 **Ezekiel 31:1**
 
-And it happened in eleventh year, in the third month, on the first of the month, the word of the Lord came to me, saying,
+And it happened in the eleventh year, in the third month, on the first day of the month, the word of the Lord came to me, saying,
 
 **Ezekiel 31:2**
 
-Son of man, say to Pharaoh king of Egypt and to his multitude, To whom did you liken yourself in your height?
+Son of man, say to Pharaoh, king of Egypt, and to his multitude: To whom did you liken yourself in your height?
 
 **Ezekiel 31:3**
 
-Behold, Assyria, a cypress in Lebanon, beautiful in boughs and great in size; his top came to be in the midst of clouds.
+Behold, Assyria was a cypress in Lebanon, beautiful in boughs and great in size; his top came to be in the midst of clouds.
 
 **Ezekiel 31:4**
 
-Water nourished him; the deep exalted him. Its rivers led around his plants, and its channels it sent out to all trees of field.
+Water nourished him; the deep exalted him. It led its rivers around his plants and sent out its channels to all the trees of the field.
 
 **Ezekiel 31:5**
 
-Because of this his size was exalted beyond all trees of field, and his branches grew broad from much water.
+Because of this his stature was exalted above all the trees of the field, and his branches spread wide because of much water.
 
 **Ezekiel 31:6**
 
-In his boughs all birds of heaven nested, and under his branches all the beasts of the field gave birth; in his shade dwelt every multitude of nations.
+In his boughs all the birds of heaven nested, and under his branches all the beasts of the field gave birth; the whole multitude of nations dwelt in his shade.
 
 **Ezekiel 31:7**
 
-And he became beautiful in his height through multitude of his branches, because his roots came to much water.
+And he became beautiful in his height because of the multitude of his branches, because his roots reached much water.
 
 **Ezekiel 31:8**
 
-No cypresses like these were in the paradise of God, and pines were not like his boughs, and firs were not like his branches; no tree in the paradise of God was likened to him in his beauty.
+No cypresses like these were in the paradise of God, and pines were not like his boughs, and firs were not like his branches; no tree in the paradise of God was like him in his beauty.
 
 **Ezekiel 31:9**
 
-Because of the multitude of his branches, trees of paradise of delight of God envied him.
+Because of the multitude of his branches, the trees of the paradise of God's delight envied him.
 
 **Ezekiel 31:10**
 
-Therefore thus says the Lord: Because you became great in size and gave your top into the midst of clouds and he was seen when he was exalted,
+Therefore thus says the Lord: Because you became great in stature and set your top into the midst of clouds, and I saw when he was exalted,
 
 **Ezekiel 31:11**
 
-I delivered him into the hands of ruler of nations, and he made his destruction.
+I delivered him into the hands of a ruler of nations, and he brought about his destruction.
 
 **Ezekiel 31:12**
 
-And foreigners, scourges from nations, destroyed him and cast him down upon mountains; in all ravines his branches fell, and his stems were broken in every plain of earth, and all peoples of nations came down from his shelter and flattened him.
+And foreign scourges from nations destroyed him and cast him down upon the mountains; in all the ravines his branches fell, and his stems were broken in every plain of the land, and all the peoples of the nations came down from their shelter and laid him low.
 
 **Ezekiel 31:13**
 
-Upon his fall all birds of heaven rested, and on his stems all the beasts of the field came to be,
+Upon his fall all the birds of heaven rested, and upon his stems all the beasts of the field came,
 
 **Ezekiel 31:14**
 
-so that all trees in water might not be exalted in their size, and not give their top into the midst of clouds, and not stand in their height toward them, all drinking water; all were given to death, to depth of earth, in the midst of sons of men, to those going down into pit.
+so that all the trees by the water might not be exalted in their size; they did not set their top into the midst of clouds, and all those drinking water did not stand in their height before them. All were given to death, into the depth of the earth, in the midst of sons of men, with those going down into the pit.
 
 **Ezekiel 31:15**
 
-Thus says the Lord God: On the day he went down to Hades, the deep mourned for him, and I restrained its rivers and held back much water, and Lebanon grew dark over him; all trees of field fainted over him.
+Thus says the Lord God: On the day he went down to Hades, the deep mourned for him, and I restrained its rivers and held back much water, and Lebanon grew dark over him; all the trees of the field fainted over him.
 
 **Ezekiel 31:16**
 
-At the sound of his fall nations shook, when I brought him down to Hades with those going down into pit, and all trees of delight, the choice things of Lebanon, all drinking water, comforted him in earth.
+At the sound of his fall the nations shook, when I brought him down to Hades with those going down into the pit, and all the trees of delight, the choice things of Lebanon, all drinking water, comforted him in the earth.
 
 **Ezekiel 31:17**
 
-For they also went down with him to Hades, among those wounded by sword, and his seed, those dwelling under his shelter in the midst of their life, perished.
+For they also went down with him to Hades, among those wounded by the sword, and his seed, those dwelling under his shelter in the midst of their life, perished.
 
 **Ezekiel 31:18**
 
-To whom were you likened? Go down and be brought down with trees of delight into the depth of earth. In the midst of uncircumcised you will lie with the wounded of sword. Thus is Pharaoh and all the multitude of his strength, says the Lord.
+To whom were you likened? Go down and be brought down with the trees of delight into the depth of the earth. In the midst of the uncircumcised you will lie with the wounded by the sword. Thus are Pharaoh and all the multitude of his strength, says the Lord God.
 
 ### Chapter 32
 

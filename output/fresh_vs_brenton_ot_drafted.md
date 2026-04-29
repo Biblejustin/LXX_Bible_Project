@@ -189201,163 +189201,163 @@ Note:
 ### Ezekiel 31:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, in the third month, on the first of the month, the word of the Lord came to me, saying,
+- fresh: And it happened in the eleventh year, in the third month, on the first day of the month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the eleventh year, in the third month, on the first day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 31:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, say to Pharaoh king of Egypt and to his multitude, To whom did you liken yourself in your height?
+- fresh: Son of man, say to Pharaoh, king of Egypt, and to his multitude: To whom did you liken yourself in your height?
 - brenton: Son of man, say to Pharao king of Egypt, and to his multitude;
 
 ### Ezekiel 31:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, Assyria, a cypress in Lebanon, beautiful in boughs and great in size; his top came to be in the midst of clouds.
+- fresh: Behold, Assyria was a cypress in Lebanon, beautiful in boughs and great in size; his top came to be in the midst of clouds.
 - brenton: Behold, the Assyrian was a cypress in Libanus, and was fair in shoots, and high in stature: his top reached to the midst of the clouds.
 
 ### Ezekiel 31:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Water nourished him; the deep exalted him. Its rivers led around his plants, and its channels it sent out to all trees of field.
+- fresh: Water nourished him; the deep exalted him. It led its rivers around his plants and sent out its channels to all the trees of the field.
 - brenton: The water nourished him, the depth made him grow tall; she led her rivers round about his plants, and she sent forth her streams to all the trees of the field.
 
 ### Ezekiel 31:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of this his size was exalted beyond all trees of field, and his branches grew broad from much water.
+- fresh: Because of this his stature was exalted above all the trees of the field, and his branches spread wide because of much water.
 - brenton: Therefore was his stature exalted above all the trees of the field, and his branches spread far by the help of much water.
 
 ### Ezekiel 31:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In his boughs all birds of heaven nested, and under his branches all the beasts of the field gave birth; in his shade dwelt every multitude of nations.
+- fresh: In his boughs all the birds of heaven nested, and under his branches all the beasts of the field gave birth; the whole multitude of nations dwelt in his shade.
 - brenton: All the birds of the sky made their nests in his boughs, and under his branches all the wild beasts of the field bred; the whole multitude of nations dwelt under his shadow.
 
 ### Ezekiel 31:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he became beautiful in his height through multitude of his branches, because his roots came to much water.
+- fresh: And he became beautiful in his height because of the multitude of his branches, because his roots reached much water.
 - brenton: And he was fair in his height by reason of the multitude of his branches: for his roots were amidst much water.
 
 ### Ezekiel 31:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: No cypresses like these were in the paradise of God, and pines were not like his boughs, and firs were not like his branches; no tree in the paradise of God was likened to him in his beauty.
+- fresh: No cypresses like these were in the paradise of God, and pines were not like his boughs, and firs were not like his branches; no tree in the paradise of God was like him in his beauty.
 - brenton: And such cypresses as this were in the paradise of God; and there were no pines like his shoots, and there were no firs like his branches: no tree in the paradise of God was like him in his beauty,
 
 ### Ezekiel 31:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of the multitude of his branches, trees of paradise of delight of God envied him.
+- fresh: Because of the multitude of his branches, the trees of the paradise of God's delight envied him.
 - brenton: because of the multitude of his branches: and the trees of God's paradise of delight envied him.
 
 ### Ezekiel 31:10
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Because you became great in size and gave your top into the midst of clouds and he was seen when he was exalted,
+- fresh: Therefore thus says the Lord: Because you became great in stature and set your top into the midst of clouds, and I saw when he was exalted,
 - brenton: Therefore thus saith the Lord; Because thou art grown great, and hast set thy top in the midst of the clouds, and I saw when he was exalted;
 
 ### Ezekiel 31:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: I delivered him into the hands of ruler of nations, and he made his destruction.
+- fresh: I delivered him into the hands of a ruler of nations, and he brought about his destruction.
 - brenton: therefore I delivered him into the hands of the prince of the nations, and he wrought his destruction.
 
 ### Ezekiel 31:12
 
 - importance: high
-- decisions: 0
+- decisions: 6
 - footnotes: 1
 - same_normalized: no
-- fresh: And foreigners, scourges from nations, destroyed him and cast him down upon mountains; in all ravines his branches fell, and his stems were broken in every plain of earth, and all peoples of nations came down from his shelter and flattened him.
+- fresh: And foreign scourges from nations destroyed him and cast him down upon the mountains; in all the ravines his branches fell, and his stems were broken in every plain of the land, and all the peoples of the nations came down from their shelter and laid him low.
 - brenton: And ravaging strangers from the nations have destroyed him, and have cast him down upon the mountains: his branches fell in all the valleys, and his boughs were broken in every field of the land; and all the people of the nations are gone down from their shelter, and have laid him low.
 
 ### Ezekiel 31:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Upon his fall all birds of heaven rested, and on his stems all the beasts of the field came to be,
+- fresh: Upon his fall all the birds of heaven rested, and upon his stems all the beasts of the field came,
 - brenton: All the birds of the sky have settled on his fallen trunk, and all the wild beasts of the field came upon his boughs:
 
 ### Ezekiel 31:14
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: so that all trees in water might not be exalted in their size, and not give their top into the midst of clouds, and not stand in their height toward them, all drinking water; all were given to death, to depth of earth, in the midst of sons of men, to those going down into pit.
+- fresh: so that all the trees by the water might not be exalted in their size; they did not set their top into the midst of clouds, and all those drinking water did not stand in their height before them. All were given to death, into the depth of the earth, in the midst of sons of men, with those going down into the pit.
 - brenton: in order that none of the trees by the water should exalt themselves by reason of their size: whereas they set their top in the midst of the clouds, yet they continued not in their high state in their place, all that drank water, all were consigned to death, to the depth of the earth, in the midst of the children of men, with them that go down to the pit.
 
 ### Ezekiel 31:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: On the day he went down to Hades, the deep mourned for him, and I restrained its rivers and held back much water, and Lebanon grew dark over him; all trees of field fainted over him.
+- fresh: Thus says the Lord God: On the day he went down to Hades, the deep mourned for him, and I restrained its rivers and held back much water, and Lebanon grew dark over him; all the trees of the field fainted over him.
 - brenton: Thus saith the Lord God; In the day wherein he went down to Hades, the deep mourned for him: and I stayed her floods, and restrained her abundance of water: and Libanus saddened for him, all the trees of the field fainted for him.
 
 ### Ezekiel 31:16
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: At the sound of his fall nations shook, when I brought him down to Hades with those going down into pit, and all trees of delight, the choice things of Lebanon, all drinking water, comforted him in earth.
+- fresh: At the sound of his fall the nations shook, when I brought him down to Hades with those going down into the pit, and all the trees of delight, the choice things of Lebanon, all drinking water, comforted him in the earth.
 - brenton: At the sound of his fall the nations quaked, when I brought him down to Hades with them that go down to the pit: and all the trees of Delight comforted him in the heart, and the choice plants of Libanus, all that drink water.
 
 ### Ezekiel 31:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For they also went down with him to Hades, among those wounded by sword, and his seed, those dwelling under his shelter in the midst of their life, perished.
+- fresh: For they also went down with him to Hades, among those wounded by the sword, and his seed, those dwelling under his shelter in the midst of their life, perished.
 - brenton: For they went down to hell with him among the slain with the sword; and his seed, even they that dwelt under his shadow, perished in the midst of their life.
 
 ### Ezekiel 31:18
 
 - importance: high
-- decisions: 0
+- decisions: 6
 - footnotes: 1
 - same_normalized: no
-- fresh: To whom were you likened? Go down and be brought down with trees of delight into the depth of earth. In the midst of uncircumcised you will lie with the wounded of sword. Thus is Pharaoh and all the multitude of his strength, says the Lord.
+- fresh: To whom were you likened? Go down and be brought down with the trees of delight into the depth of the earth. In the midst of the uncircumcised you will lie with the wounded by the sword. Thus are Pharaoh and all the multitude of his strength, says the Lord God.
 - brenton: To whom art thou compared? descend, and be thou debased with the trees of paradise to the depth of the earth: thou shalt lie in the midst of the uncircumcised with them that are slain by the sword. Thus shall Pharao be, and the multitude of his host, saith the Lord God.
 
 ### Ezekiel 32:1
