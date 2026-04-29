@@ -24,7 +24,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Mark 1:1** Beginning of the good news of Jesus Christ, Son of God.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 20
+- Cross-references: 17
 
 **Mark 1:2** As it is written in the prophets, Look, I send my messenger before your face, who shall prepare your way before you.
 - Translation/textual notes: 0

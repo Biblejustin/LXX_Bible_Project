@@ -32,19 +32,20 @@
     "REV": 404
   },
   "translation_note_filter": {
-    "rows": 23030,
-    "included": 2905,
-    "skipped_unreviewed": 478,
-    "included_mt_lxx_difference_notes": 291,
-    "skipped_generic_mt_lxx_without_concrete_detail": 9164,
+    "rows": 25122,
+    "included": 3843,
+    "skipped_unreviewed": 1918,
+    "included_mt_lxx_difference_notes": 318,
+    "skipped_generic_mt_lxx_without_concrete_detail": 9162,
     "included_concrete_mt_lxx_details": 3,
-    "skipped_generic_or_brenton_only": 10483
+    "skipped_generic_or_brenton_only": 10090,
+    "skipped_note_type": 109
   },
   "translation_decision_filter": {
     "present": 1,
-    "rows": 5297,
-    "skipped_non_variant": 2837,
-    "skipped_unreviewed": 563,
+    "rows": 11153,
+    "skipped_non_variant": 6473,
+    "skipped_unreviewed": 2783,
     "included": 1897,
     "included_refs": 1897
   },
@@ -71,8 +72,8 @@
   "name_meaning_note_filter": {
     "proper_name_rows": 215,
     "proper_name_included": 215,
-    "transliterated_proper_name_rows": 2491,
-    "transliterated_proper_name_skipped_other_source": 1978,
+    "transliterated_proper_name_rows": 2505,
+    "transliterated_proper_name_skipped_other_source": 1992,
     "transliterated_proper_name_included": 513,
     "transliterated_proper_name_alternate_triggers": 100,
     "name_of_god_rows": 92,
@@ -104,9 +105,9 @@
       "tsk": 7773,
       "openbible_fallback": 45
     },
-    "verses_with_crossrefs": 7818,
-    "crossref_note_groups": 18769,
-    "total_crossrefs_after_canonicalization": 113032,
+    "verses_with_crossrefs": 7813,
+    "crossref_note_groups": 18732,
+    "total_crossrefs_after_canonicalization": 112640,
     "tsk": {
       "archive_present": true,
       "testament": "nt",
@@ -142,8 +143,8 @@
     "output_kind": "logos",
     "milestone_mode": "lxx",
     "paragraph_count": 8649,
-    "footnote_count": 22440,
-    "crossref_footnotes": 18769,
+    "footnote_count": 22403,
+    "crossref_footnotes": 18732,
     "translation_note_footnotes": 35,
     "section_break_count": 260,
     "footnote_number_restart": "chapter",
@@ -157,8 +158,8 @@
     "textual_note_export_footnotes": 0,
     "phrase_anchored_name_meaning_notes": 2737,
     "verse_anchored_name_meaning_notes": 899,
-    "phrase_anchored_crossref_notes": 10978,
-    "verse_anchored_crossref_notes": 7791,
+    "phrase_anchored_crossref_notes": 10942,
+    "verse_anchored_crossref_notes": 7790,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
@@ -171,8 +172,8 @@
     "output_kind": "logos",
     "milestone_mode": "mt",
     "paragraph_count": 8649,
-    "footnote_count": 22440,
-    "crossref_footnotes": 18769,
+    "footnote_count": 22403,
+    "crossref_footnotes": 18732,
     "translation_note_footnotes": 35,
     "section_break_count": 260,
     "footnote_number_restart": "chapter",
@@ -186,8 +187,8 @@
     "textual_note_export_footnotes": 0,
     "phrase_anchored_name_meaning_notes": 2737,
     "verse_anchored_name_meaning_notes": 899,
-    "phrase_anchored_crossref_notes": 10978,
-    "verse_anchored_crossref_notes": 7791,
+    "phrase_anchored_crossref_notes": 10942,
+    "verse_anchored_crossref_notes": 7790,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
@@ -200,8 +201,8 @@
     "output_kind": "proofreading",
     "milestone_mode": "lxx",
     "paragraph_count": 8649,
-    "footnote_count": 22440,
-    "crossref_footnotes": 18769,
+    "footnote_count": 22403,
+    "crossref_footnotes": 18732,
     "translation_note_footnotes": 35,
     "section_break_count": 260,
     "footnote_number_restart": "chapter",
@@ -215,8 +216,8 @@
     "textual_note_export_footnotes": 0,
     "phrase_anchored_name_meaning_notes": 2737,
     "verse_anchored_name_meaning_notes": 899,
-    "phrase_anchored_crossref_notes": 10978,
-    "verse_anchored_crossref_notes": 7791,
+    "phrase_anchored_crossref_notes": 10942,
+    "verse_anchored_crossref_notes": 7790,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
@@ -243,8 +244,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 22440,
-      "footnote_body_count": 22440
+      "footnote_reference_count": 22403,
+      "footnote_body_count": 22403
     },
     {
       "path": "output/logos_nt/fresh_translation_nt_tr_reference_notes.docx",
@@ -263,8 +264,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 22440,
-      "footnote_body_count": 22440
+      "footnote_reference_count": 22403,
+      "footnote_body_count": 22403
     },
     {
       "path": "output/logos_nt/fresh_translation_nt_tr_proofreading.docx",
@@ -283,8 +284,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 22440,
-      "footnote_body_count": 22440
+      "footnote_reference_count": 22403,
+      "footnote_body_count": 22403
     }
   ],
   "outputs": {
