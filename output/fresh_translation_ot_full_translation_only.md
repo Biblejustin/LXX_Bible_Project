@@ -89524,15 +89524,15 @@ I will go and return to my place until they are destroyed and seek my face; in t
 
 **Hosea 6:1**
 
-Let us go and return to the Lord our God, because he snatched and he will heal us; he will strike and bind us up.
+Let us go and return to the Lord our God, because he has snatched and he will heal us; he will strike and bind us up.
 
 **Hosea 6:2**
 
-He will heal us after two days; on third day we will rise and live before him.
+He will heal us after two days; on the third day we will rise and live before him.
 
 **Hosea 6:3**
 
-And we will know; we will pursue knowing the Lord. As dawn, ready, we will find him, and he will come to us like early and latter rain to the earth.
+And we will know; we will pursue knowing the Lord. We will find him ready as dawn, and he will come to us like early and latter rain to the earth.
 
 **Hosea 6:4**
 
@@ -89544,11 +89544,11 @@ Because of this I cut down your prophets; I killed them by the words of my mouth
 
 **Hosea 6:6**
 
-Because I want mercy and not sacrifice, and knowledge of God rather than burnt offerings.
+Because I want mercy and not sacrifice, and knowledge of God rather than whole burnt offerings.
 
 **Hosea 6:7**
 
-But they are like a man transgressing covenant; there he despised me.
+But they are like a man transgressing a covenant; there he despised me.
 
 **Hosea 6:8**
 
@@ -89556,7 +89556,7 @@ Gilead is a city working vanity, stirring water.
 
 **Hosea 6:9**
 
-And your strength is that of a pirate man; priests hid the way of the Lord; they murdered at Shechem, because they worked lawlessness.
+And your strength is that of a robber; priests hid the way of the Lord; they murdered at Shechem, because they worked lawlessness.
 
 **Hosea 6:10**
 
@@ -89564,7 +89564,7 @@ In the house of Israel I saw a horrible thing; there is whoredom of Ephraim; Isr
 
 **Hosea 6:11**
 
-Begin reaping for yourself when I turn back captivity of my people.
+Begin to gather grapes for yourself when I turn back captivity of my people.
 
 ### Chapter 7
 

@@ -197467,34 +197467,34 @@ Note:
 ### Hosea 6:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Let us go and return to the Lord our God, because he snatched and he will heal us; he will strike and bind us up.
+- fresh: Let us go and return to the Lord our God, because he has snatched and he will heal us; he will strike and bind us up.
 - brenton: Let us go, and return to the Lord our God; for he has torn, and will heal us; he will smite, and bind us up.
 
 ### Hosea 6:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: He will heal us after two days; on third day we will rise and live before him.
+- fresh: He will heal us after two days; on the third day we will rise and live before him.
 - brenton: After two days he will heal us: in the third day we shall arise, and live before him, and shall know him:
 
 ### Hosea 6:3
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And we will know; we will pursue knowing the Lord. As dawn, ready, we will find him, and he will come to us like early and latter rain to the earth.
+- fresh: And we will know; we will pursue knowing the Lord. We will find him ready as dawn, and he will come to us like early and latter rain to the earth.
 - brenton: let us follow on to know the Lord: we shall find him ready as the morning, and he will come to us as the early and latter rain to the earth.
 
 ### Hosea 6:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: What will I do to you, Ephraim? What will I do to you, Judah? Your mercy is like a morning cloud and like early dew going away.
@@ -197503,7 +197503,7 @@ Note:
 ### Hosea 6:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Because of this I cut down your prophets; I killed them by the words of my mouth, and my judgment will come out like light.
@@ -197512,25 +197512,25 @@ Note:
 ### Hosea 6:6
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I want mercy and not sacrifice, and knowledge of God rather than burnt offerings.
+- fresh: Because I want mercy and not sacrifice, and knowledge of God rather than whole burnt offerings.
 - brenton: For I will have mercy rather than sacrifice, and the knowledge of God rather than whole-burnt-offerings.
 
 ### Hosea 6:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: But they are like a man transgressing covenant; there he despised me.
+- fresh: But they are like a man transgressing a covenant; there he despised me.
 - brenton: But they are as a man transgressing a covenant:
 
 ### Hosea 6:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Gilead is a city working vanity, stirring water.
@@ -197539,16 +197539,16 @@ Note:
 ### Hosea 6:9
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And your strength is that of a pirate man; priests hid the way of the Lord; they murdered at Shechem, because they worked lawlessness.
+- fresh: And your strength is that of a robber; priests hid the way of the Lord; they murdered at Shechem, because they worked lawlessness.
 - brenton: And thy strength is that of a robber: the priests have hid the way, they have murdered the people of Sicima; for they have wrought iniquity in the house of Israel.
 
 ### Hosea 6:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: In the house of Israel I saw a horrible thing; there is whoredom of Ephraim; Israel and Judah were defiled.
@@ -197557,10 +197557,10 @@ Note:
 ### Hosea 6:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Begin reaping for yourself when I turn back captivity of my people.
+- fresh: Begin to gather grapes for yourself when I turn back captivity of my people.
 - brenton: begin to gather grapes for thyself, when I turn the captivity of my people.
 
 ### Hosea 7:1
