@@ -198585,7 +198585,7 @@ Note:
 ### Joel 1:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: The word of the Lord that came to Joel son of Pethuel.
@@ -198594,16 +198594,16 @@ Note:
 ### Joel 1:2
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear these things, elders, and listen, all inhabiting the land. Have such things happened in your days or in the days of your fathers?
+- fresh: Hear now these things, elders, and listen, all who inhabit the land. Have such things happened in your days or in the days of your fathers?
 - brenton: Hear these words, ye elders, and hearken all ye that inhabit the land. Have such things happened in your days, or in the days of your fathers?
 
 ### Joel 1:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Tell of these things to your children, and your children to their children, and their children to another generation.
@@ -198612,7 +198612,7 @@ Note:
 ### Joel 1:4
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: What remained of the caterpillar the locust ate, and what remained of the locust the hopper ate, and what remained of the hopper the blight ate.
@@ -198621,16 +198621,16 @@ Note:
 ### Joel 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Wake up, drunkards, from your wine, and weep; lament, all drinking wine into drunkenness, because gladness and joy have been removed from your mouth.
+- fresh: Wake up, drunkards, from your wine, and weep; lament, all who drink wine to drunkenness, because gladness and joy have been removed from your mouth.
 - brenton: Awake, ye drunkards, from your wine, and weep: mourn, all ye that drink wine to drunkenness: for joy and gladness are removed from your mouth.
 
 ### Joel 1:6
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: Because a strong and numberless nation came up upon my land; its teeth are lion's teeth and its molars are those of a cub.
@@ -198639,7 +198639,7 @@ Note:
 ### Joel 1:7
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
 - fresh: It made my vine into ruin and my fig trees into splintering; searching, it searched it out and threw it down; its branches turned white.
@@ -198648,70 +198648,70 @@ Note:
 ### Joel 1:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Lament to me like a bride girded with sackcloth over her youthful husband.
+- fresh: Lament to me like a bride girded with sackcloth for the husband of her youth.
 - brenton: Lament to me more than a virgin girded with sackcloth for the husband of her youth.
 
 ### Joel 1:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Sacrifice and drink offering were removed from the house of the Lord. Mourn, priests serving at altar.
+- fresh: Sacrifice and drink offering have been removed from the house of the Lord. Mourn, priests who serve at the altar.
 - brenton: The meat-offering and drink-offering are removed from the house of the Lord: mourn, ye priests that serve at the altar of the Lord.
 
 ### Joel 1:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because fields have suffered, let the land mourn, because grain has suffered, wine dried up, oil diminished.
+- fresh: Because the fields have suffered, let the land mourn, because grain has suffered; wine dried up, oil diminished.
 - brenton: For the plains languish: let the land mourn, for the corn languishes; the wine is dried up, the oil becomes scarce;
 
 ### Joel 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Farmers dried up. Lament, fields, for wheat and barley, because harvest from field is lost.
+- fresh: Farmers dried up. Lament, estates, for wheat and barley, because harvest from the field is lost.
 - brenton: the husbandmen are consumed: mourn your property on account of the wheat and barley; for the harvest has perished from off the field.
 
 ### Joel 1:12
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Vine dried up and figs diminished, pomegranate and palm and apple and all trees of field dried up, because they put joy to shame, sons of men.
+- fresh: The vine dried up and the fig trees diminished; pomegranate and palm and apple and all the trees of the field dried up, because the sons of men put joy to shame.
 - brenton: The vine is dried up, and the fig-trees are become few; the pomegranate, and palm-tree, and apple, and all the trees of the field are dried up: for the sons of men have abolished joy.
 
 ### Joel 1:13
 
 - importance: high
-- decisions: 1
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, spend the night in sackcloth, those serving God, because sacrifice and drink offering have been kept back from the house of your God.
+- fresh: Gird yourselves and beat yourselves, priests; lament, those who serve at the altar. Enter, spend the night in sackcloth, those who serve God, because sacrifice and drink offering have been kept back from the house of your God.
 - brenton: Gird yourselves with sackcloth, and lament, ye priests: mourn, ye that serve at the altar: go in, sleep in sackcloths, ye that minister to God: for the meat-offering and drink-offering are withheld from the house of your God.
 
 ### Joel 1:14
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Sanctify a fast, proclaim service, gather elders, all inhabiting the land, into the house of your God, and cry out intensely to the Lord.
+- fresh: Sanctify a fast, proclaim a service, gather elders, all who inhabit the land, into the house of your God, and cry out intensely to the Lord.
 - brenton: Sanctify a fast, proclaim a solemn service, gather the elders and all the inhabitants of the land into the house of your God, and cry earnestly to the Lord,
 
 ### Joel 1:15
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: Alas, alas, alas, for the day, because the day of the Lord is near, and like misery from misery it will come.
@@ -198720,46 +198720,46 @@ Note:
 ### Joel 1:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Before your eyes foods were destroyed, and from the house of your God gladness and joy.
+- fresh: Before your eyes food was destroyed, and gladness and joy from the house of your God.
 - brenton: Your meat has been destroyed before your eyes, joy and gladness from out of the house of your God.
 
 ### Joel 1:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Heifers leaped at their mangers, storehouses vanished, vats were dug down, because grain dried up.
+- fresh: Heifers leaped at their mangers, storehouses vanished, winepresses were dug down, because grain dried up.
 - brenton: The heifers have started at their mangers, the treasures are abolished, the wine-presses are broken down; for the corn is withered.
 
 ### Joel 1:18
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: What will we store for ourselves? Herds of cattle wept, because pasture did not exist for them, and flocks of sheep vanished.
+- fresh: What shall we store up for ourselves? Herds of cattle wept, because no pasture existed for them, and flocks of sheep vanished.
 - brenton: What shall we store up for ourselves? the herds of cattle have mourned, because they had no pasture; and the flocks of sheep have been utterly destroyed.
 
 ### Joel 1:19
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: To you, Lord, I will cry, because fire consumed beauties of the wilderness and flame kindled all trees of field.
+- fresh: To you, Lord, I will cry, because fire consumed the beauties of the wilderness and a flame kindled all the trees of the field.
 - brenton: To thee, O Lord, will I cry: for fire has devoured the fair places of the wilderness, and a flame has burnt up all the trees of the field.
 
 ### Joel 1:20
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And beasts of the plain looked up to you, because streams of waters dried up and fire devoured beauties of the wilderness.
+- fresh: And the beasts of the plain looked up to you, because the streams of waters dried up and fire devoured the beauties of the wilderness.
 - brenton: And the cattle of the field have looked up to thee: for the fountains of waters have been dried up, and fire has devoured the fair places of the wilderness.
 
 ### Joel 2:1

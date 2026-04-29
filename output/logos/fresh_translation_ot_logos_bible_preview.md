@@ -485,7 +485,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 1
 
-**Joel 1:2** Hear these things, elders, and listen, all inhabiting the land. Have such things happened in your days or in the days of your fathers?
+**Joel 1:2** Hear now these things, elders, and listen, all who inhabit the land. Have such things happened in your days or in the days of your fathers?
 - Translation/textual notes: 0
 - Supplemental notes/links: 1
 - Cross-references: 22

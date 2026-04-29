@@ -90044,7 +90044,7 @@ The word of the Lord that came to Joel son of Pethuel.
 
 **Joel 1:2**
 
-Hear these things, elders, and listen, all inhabiting the land. Have such things happened in your days or in the days of your fathers?
+Hear now these things, elders, and listen, all who inhabit the land. Have such things happened in your days or in the days of your fathers?
 
 **Joel 1:3**
 
@@ -90056,7 +90056,7 @@ What remained of the caterpillar the locust ate, and what remained of the locust
 
 **Joel 1:5**
 
-Wake up, drunkards, from your wine, and weep; lament, all drinking wine into drunkenness, because gladness and joy have been removed from your mouth.
+Wake up, drunkards, from your wine, and weep; lament, all who drink wine to drunkenness, because gladness and joy have been removed from your mouth.
 
 **Joel 1:6**
 
@@ -90068,31 +90068,31 @@ It made my vine into ruin and my fig trees into splintering; searching, it searc
 
 **Joel 1:8**
 
-Lament to me like a bride girded with sackcloth over her youthful husband.
+Lament to me like a bride girded with sackcloth for the husband of her youth.
 
 **Joel 1:9**
 
-Sacrifice and drink offering were removed from the house of the Lord. Mourn, priests serving at altar.
+Sacrifice and drink offering have been removed from the house of the Lord. Mourn, priests who serve at the altar.
 
 **Joel 1:10**
 
-Because fields have suffered, let the land mourn, because grain has suffered, wine dried up, oil diminished.
+Because the fields have suffered, let the land mourn, because grain has suffered; wine dried up, oil diminished.
 
 **Joel 1:11**
 
-Farmers dried up. Lament, fields, for wheat and barley, because harvest from field is lost.
+Farmers dried up. Lament, estates, for wheat and barley, because harvest from the field is lost.
 
 **Joel 1:12**
 
-Vine dried up and figs diminished, pomegranate and palm and apple and all trees of field dried up, because they put joy to shame, sons of men.
+The vine dried up and the fig trees diminished; pomegranate and palm and apple and all the trees of the field dried up, because the sons of men put joy to shame.
 
 **Joel 1:13**
 
-Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, spend the night in sackcloth, those serving God, because sacrifice and drink offering have been kept back from the house of your God.
+Gird yourselves and beat yourselves, priests; lament, those who serve at the altar. Enter, spend the night in sackcloth, those who serve God, because sacrifice and drink offering have been kept back from the house of your God.
 
 **Joel 1:14**
 
-Sanctify a fast, proclaim service, gather elders, all inhabiting the land, into the house of your God, and cry out intensely to the Lord.
+Sanctify a fast, proclaim a service, gather elders, all who inhabit the land, into the house of your God, and cry out intensely to the Lord.
 
 **Joel 1:15**
 
@@ -90100,23 +90100,23 @@ Alas, alas, alas, for the day, because the day of the Lord is near, and like mis
 
 **Joel 1:16**
 
-Before your eyes foods were destroyed, and from the house of your God gladness and joy.
+Before your eyes food was destroyed, and gladness and joy from the house of your God.
 
 **Joel 1:17**
 
-Heifers leaped at their mangers, storehouses vanished, vats were dug down, because grain dried up.
+Heifers leaped at their mangers, storehouses vanished, winepresses were dug down, because grain dried up.
 
 **Joel 1:18**
 
-What will we store for ourselves? Herds of cattle wept, because pasture did not exist for them, and flocks of sheep vanished.
+What shall we store up for ourselves? Herds of cattle wept, because no pasture existed for them, and flocks of sheep vanished.
 
 **Joel 1:19**
 
-To you, Lord, I will cry, because fire consumed beauties of the wilderness and flame kindled all trees of field.
+To you, Lord, I will cry, because fire consumed the beauties of the wilderness and a flame kindled all the trees of the field.
 
 **Joel 1:20**
 
-And beasts of the plain looked up to you, because streams of waters dried up and fire devoured beauties of the wilderness.
+And the beasts of the plain looked up to you, because the streams of waters dried up and fire devoured the beauties of the wilderness.
 
 ### Chapter 2
 
