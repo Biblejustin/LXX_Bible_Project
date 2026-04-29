@@ -192252,28 +192252,28 @@ Note:
 ### Ezekiel 43:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he brought me to the gate, the gate facing east.
+- fresh: And he brought me to the gate facing east and led me out.
 - brenton: Moreover he brought me to the gate looking eastward, and led me forth.
 
 ### Ezekiel 43:2
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, the glory of God of Israel was coming by way of the gate facing east, and the sound of the host was like the sound of a great crowd, and earth shone from the glory all around.
+- fresh: And behold, the glory of the God of Israel was coming by way of the gate facing east, and the sound of the host was like the sound of many doubling their shouts, and the earth shone like brightness from the glory all around.
 - brenton: And, behold, the glory of the God of Israel came by the eastern way; and there was a voice of an army, as the sound of many redoubling their shouts, and the earth shone like light from the glory round about.
 
 ### Ezekiel 43:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the vision I saw was like the vision I had seen when I entered to anoint the city, and like the vision of the chariot that I saw, like the vision I had seen by the river Chebar, and I fell on my face.
+- fresh: And the vision I saw was like the vision I had seen when I entered to anoint the city, and the vision of the chariot that I saw was like the vision I had seen by the river Chebar; and I fell on my face.
 - brenton: And the vision which I saw was like the vision which I saw when I went in to anoint the city: and the vision of the chariot which I saw was like the vision which I saw at the river Chobar; and I fell upon my face.
 
 ### Ezekiel 43:4
@@ -192288,208 +192288,208 @@ Note:
 ### Ezekiel 43:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Spirit lifted me and brought me into the inner court, and behold, the house was full of the glory of the Lord.
+- fresh: And the Spirit lifted me and brought me into the inner court, and behold, the house was full of the glory of the Lord.
 - brenton: And the Spirit took me up, and brought me into the inner court; and, behold, the house of the Lord was full of glory.
 
 ### Ezekiel 43:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I stood, and behold, a voice from the house was speaking to me, and the man stood beside me.
+- fresh: And I stood, and behold, there was a voice from the house speaking to me, and the man stood beside me.
 - brenton: And I stood, and behold there was a voice out of the house of one speaking to me, and a man stood near me,
 
 ### Ezekiel 43:7
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Son of man, have you seen place of my throne and place for soles of my feet, where my name will dwell in the midst of the house of Israel forever? The house of Israel will no longer profane my holy name, they or their leaders, by their whoredom and by murders of their leaders in the midst of them.
+- fresh: And he said to me, You have seen, son of man, the place of my throne and the place of the soles of my feet, where my name will dwell in the midst of the house of Israel forever. And the house of Israel will no longer profane my holy name, they and their leaders, by their whoredom and by the murders of their leaders in their midst.
 - brenton: and he said to me,
 
 ### Ezekiel 43:8
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: In their setting their threshold by my thresholds and their doorposts beside my doorposts, with the wall between me and them, they profaned my holy name by lawless things they did, and I destroyed them in my wrath and in slaughter.
+- fresh: When they set my threshold among their thresholds and my doorposts adjoining their doorposts, and made my wall as though joining me and them, they profaned my holy name by the lawless things they did, and I destroyed them in my wrath and with slaughter.
 - brenton: when they set my door-way by their door-way, and my thresholds near to their thresholds: and they made my wall as it were joining myself and them, and they profaned my holy name with their iniquities which they wrought: and I destroyed them in my wrath and with slaughter.
 
 ### Ezekiel 43:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But now let them put away their whoredom and murders of their leaders far from me, and I will dwell in their midst forever.
+- fresh: And now let them put away their whoredom and the murders of their leaders away from me, and I will dwell in their midst forever.
 - brenton: And now let them put away from me their fornication, and the murders of their princes, and I will dwell in the midst of them for ever.
 
 ### Ezekiel 43:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, show the house to the house of Israel, and they will cease from their sins, and they will examine its vision and its arrangement.
+- fresh: And you, son of man, show the house to the house of Israel, and they will cease from their sins; and show its appearance and its arrangement.
 - brenton: And thou, son of man, shew the house to the house of Israel, that they may cease from their sins; and shew its aspect and the arrangement of it.
 
 ### Ezekiel 43:11
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will bear correction for all they did; and you will describe the house and its exits and its structure and all its ordinances and all its laws. Make them known to them, and write them before them, and they will keep all my ordinances and all my commands and do them.
+- fresh: And they will receive their correction for all they did; and you will describe the house and its exits and its structure and all its commands and all its statutes. Make them known to them, and describe them before them, and they will keep all my ordinances and all my commands and do them.
 - brenton: And they shall bear their punishment for all the things that they have done: and thou shalt describe the house, and its entrances, and the plan thereof, and all its ordinances, and thou shalt make known to them all the regulations of it, and describe them before them: and they shall keep all my commandments, and all my ordinances, and do them.
 
 ### Ezekiel 43:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: This is the law of the house on the summit of the mountain: all its boundaries around are holy of holies.
+- fresh: And show the plan of the house on the summit of the mountain; all its boundaries all around are holy of holies.
 - brenton: And thou shalt shew the plan of the house on the top of the mountain: all its limits round about shall be most holy.
 
 ### Ezekiel 43:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these are measures of the altar in cubit of cubit and handbreadth: a trench one cubit deep and one cubit broad, and a rim around its lip, one span. This is the height of the altar.
+- fresh: And these are the measures of the altar by a cubit of a cubit and a handbreadth: a trench one cubit deep and one cubit broad, and a rim around its lip, one span. This is the height of the altar.
 - brenton: And these are the measures of the altar by the cubit of a cubit and a span, the cavity shall be a cubit deep, and a cubit shall be the breadth, and the border on the rim of it round about shall be a span: and this shall be the height of the altar
 
 ### Ezekiel 43:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: From bottom of the trench to the great lower ledge, two cubits, and breadth one cubit; and from the small ledge to the great ledge, four cubits, and breadth one cubit.
+- fresh: From the depth at the beginning of its hollow to the great lower ledge: two cubits, and the breadth one cubit; and from the small ledge to the great ledge: four cubits, and the breadth one cubit.
 - brenton: from the bottom at the commencement of the hollow part to this great mercy-seat, from beneath was two cubits, and the breadth was a cubit; and from the little mercy-seat to the great mercy-seat, four cubits, and the breadth was a cubit.
 
 ### Ezekiel 43:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ariel, four cubits, and from Ariel upward the horns, one cubit.
+- fresh: And the Ariel was four cubits, and from the Ariel upward to the horns was one cubit.
 - brenton: And the altar shall be four cubits; and from the altar and above the horns a cubit.
 
 ### Ezekiel 43:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ariel, twelve cubits long by twelve cubits broad, square on its four sides.
+- fresh: And the Ariel was twelve cubits in length by twelve cubits in breadth, square on its four sides.
 - brenton: And the altar shall be of the length of twelve cubits, by twelve cubits in breadth, square upon its four sides.
 
 ### Ezekiel 43:17
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And the ledge, fourteen cubits long by fourteen cubits broad on its four sides, and a rim around it, half a cubit, and its surrounding gutter, one cubit around, and its steps facing east.
+- fresh: And the ledge was fourteen cubits in length by fourteen cubits in breadth on its four sides; and the rim around it encircled it, half a cubit, and its surrounding gutter was one cubit all around, and its steps faced east.
 - brenton: And the mercy-seat shall be fourteen cubits in length, by fourteen cubits in breadth on its four sides; and there shall be a border to it carried round about it of half a cubit; and the rim of it shall be a cubit round about; and the steps thereof looking eastward.
 
 ### Ezekiel 43:18
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, Son of man, thus says the Lord God of Israel: These are the ordinances of the altar on the day it is made, to offer burnt offerings on it and to pour blood upon it.
+- fresh: And he said to me, Son of man, thus says the Lord God of Israel: These are the commands of the altar on the day it is made, to offer whole burnt offerings on it and to pour blood upon it.
 - brenton: And he said to me, Son of man, thus saith the Lord God of Israel; These are the ordinances of the altar in the day of its being made, to offer upon it whole-burnt-offerings, and to pour blood upon it.
 
 ### Ezekiel 43:19
 
 - importance: high
-- decisions: 1
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will give to the Levitical priests, from the seed of Zadok, those drawing near to me to minister to me, says the Lord God, a young bull from the herd for sin.
+- fresh: And you will give to the Levitical priests from the seed of Zadok, who draw near to me, says the Lord God, to minister to me, a young bull from the herd for sin.
 - brenton: And thou shalt appoint to the priests the Levites of the seed of Sadduc, that draw nigh to me, saith the Lord God, to minister to me, a calf of the herd for a sin-offering.
 
 ### Ezekiel 43:20
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will take some of its blood and put it on the four horns of the altar and on the four corners of the ledge and on the base around, and they will make atonement for it.
+- fresh: And they will take from its blood and put it on the four horns of the altar and on the four corners of the ledge and on the base all around, and they will make atonement for it.
 - brenton: And they shall take of its blood, and shall put it on the four horns of the altar, and upon the four corners of the propitiatory, and upon the base round about, and they shall make atonement for it.
 
 ### Ezekiel 43:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will take the bull for sin, and it will be burned in the separated place of the house, outside the holy things.
+- fresh: And they will take the young bull for sin, and it will be burned in the separated place of the house, outside the holy things.
 - brenton: And they shall take the calf of the sin-offering, and it shall be consumed by fire in the separate place of the house, outside the sanctuary.
 
 ### Ezekiel 43:22
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And on second day they will take two flawless male goats for sin, and they will make atonement for the altar just as they made atonement with the bull.
+- fresh: And on the second day they will take two flawless young goats for sin, and they will make atonement for the altar just as they made atonement with the young bull.
 - brenton: And on the second day they shall take two kids of the goats without blemish for a sin-offering; and they shall make atonement for the altar, as they made atonement with the calf.
 
 ### Ezekiel 43:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And after you finish making atonement, they will bring a flawless bull from the herd and a flawless ram from the flock.
+- fresh: And after you finish making atonement, they will bring a flawless young bull from the herd and a flawless ram from the flock.
 - brenton: And after they have finished the atonement, they shall bring an unblemished calf of the herd, and an unblemished ram of the flock.
 
 ### Ezekiel 43:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will bring them before the Lord, and the priests will throw salt on them and offer them as burnt offerings to the Lord.
+- fresh: And you will bring them before the Lord, and the priests will throw salt on them and offer them as whole burnt offerings to the Lord.
 - brenton: And ye shall offer them before the Lord, and the priests shall sprinkle salt upon them, and shall offer them up as whole-burnt-offerings to the Lord.
 
 ### Ezekiel 43:25
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Seven days you will prepare a male goat for sin each day, and they will prepare a bull from the herd and a ram from the flock, flawless.
+- fresh: For seven days you will prepare a young goat for sin each day, and they will prepare a young bull from the herd and a ram from the flock, flawless.
 - brenton: Seven days shalt thou offer a kid daily for a sin-offering, and a calf of the herd, and a ram out of the flock: they shall sacrifice them unblemished for seven days:
 
 ### Ezekiel 43:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Seven days they will make atonement for the altar and cleanse it and fill their hands.
+- fresh: For seven days they will make atonement for the altar and cleanse it and fill their hands.
 - brenton: and they shall make atonement for the altar, and shall purge it; and they shall consecrate themselves.
 
 ### Ezekiel 43:27
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And when the days are completed, from the eighth day and onward the priests will offer on the altar your burnt offerings and your offerings of salvation, and I will accept you, says the Lord.
+- fresh: And from the eighth day and beyond, the priests will offer on the altar your whole burnt offerings and your offerings of salvation, and I will accept you, says the Lord.
 - brenton: And it shall come to pass from the eighth day and onward, that the priests shall offer your whole-burnt-offerings on the altar, and your peace-offerings; and I will accept you, saith the Lord.
 
 ### Ezekiel 44:1
