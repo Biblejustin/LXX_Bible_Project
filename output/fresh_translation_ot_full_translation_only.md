@@ -86300,31 +86300,31 @@ And you, son of man, prophesy over the mountains of Israel and say to the mounta
 
 **Ezekiel 36:2**
 
-Thus says the Lord God: Because enemy said against you, Good, everlasting desolations became ours for possession,
+Thus says the Lord God: Because the enemy said against you, Aha, everlasting desolations have become ours as a possession,
 
 **Ezekiel 36:3**
 
-therefore prophesy and say, Thus says the Lord: Because you were dishonored and hated by those around you, so as to be possession to the remnant of nations, and you went up for talk of tongue and for reproach among nations,
+Therefore prophesy and say, Thus says the Lord God: Because you were dishonored and hated by those around you, so that you were a possession to the remaining nations, and you rose as talk on the tongue and as a reproach among nations,
 
 **Ezekiel 36:4**
 
-therefore mountains of Israel hear the word of the Lord. Thus says the Lord to mountains and hills and ravines and torrents and desolated and ruined places and abandoned cities, which became plunder and trampling to remaining nations around,
+Therefore, mountains of Israel, hear the word of the Lord. Thus says the Lord to the mountains and to the hills and to the ravines and to the torrents and to the desolated and ruined places and to the abandoned cities, which became for plunder and for trampling to the remaining nations around,
 
 **Ezekiel 36:5**
 
-therefore thus says the Lord: Surely in the fire of my wrath I spoke against remaining nations and against all Edom, because they gave my land to themselves for possession with joy, dishonoring souls, so as to destroy it for plunder.
+Therefore thus says the Lord God: Surely in the fire of my wrath I spoke against the remaining nations and against all Edom, because they gave my land to themselves as a possession with joy, dishonoring souls, so as to destroy it for plunder.
 
 **Ezekiel 36:6**
 
-Therefore prophesy over the land of Israel and say to mountains and hills and ravines and valleys, Thus says the Lord: Behold, in my zeal and in my wrath I spoke because you bore reproach of nations.
+Therefore prophesy over the land of Israel and say to the mountains and to the hills and to the ravines and to the valleys, Thus says the Lord: Behold, in my zeal and in my wrath I spoke because you bore reproaches of nations.
 
 **Ezekiel 36:7**
 
-Therefore I lift up my hand over nations around you; they themselves will bear their dishonor.
+Therefore I myself lift up my hand against the nations around you; they themselves will bear their dishonor.
 
 **Ezekiel 36:8**
 
-But you, mountains of Israel, your grape and your fruit my people will eat, because they are drawing near to come.
+But you, mountains of Israel, my people will eat your grapes and your fruit, because they are drawing near to come.
 
 **Ezekiel 36:9**
 
@@ -86332,7 +86332,7 @@ Because behold, I am for you and will look upon you, and you will be worked and 
 
 **Ezekiel 36:10**
 
-And I will multiply upon you men, all house of Israel to the end, and cities will be inhabited and the desolated thing will be built.
+And I will multiply upon you men, all the house of Israel to the end, and cities will be inhabited and the desolated land will be built.
 
 **Ezekiel 36:11**
 
@@ -86340,19 +86340,19 @@ And I will multiply upon you men and cattle and settle you as at your beginning 
 
 **Ezekiel 36:12**
 
-And I will cause men to be born upon you, my people Israel, and they will inherit you, and you will be to them for possession and will no longer again make them childless.
+And I will cause men, my people Israel, to be born upon you, and they will inherit you, and you will be to them as a possession and will no longer again be bereaved of them.
 
 **Ezekiel 36:13**
 
-Thus says the Lord God: Because they said to you, You are devouring men and became childless by your nation,
+Thus says the Lord God: Because they said to you, You devour men and have become bereaved of your nation,
 
 **Ezekiel 36:14**
 
-therefore you will no longer eat men, and your nation you will no longer make childless, says the Lord God.
+therefore you will no longer devour men, and you will no longer bereave your nation, says the Lord God.
 
 **Ezekiel 36:15**
 
-And the reproach of nations will no longer be heard against you, and reproaches of peoples you will no longer bear, says the Lord God.
+And the reproach of nations will no longer be heard against you, and the reproaches of peoples you will no longer bear, says the Lord God.
 
 **Ezekiel 36:16**
 
@@ -86360,7 +86360,7 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 36:17**
 
-Son of man, house of Israel dwelt on their land and defiled it in their way and in their idols and in their uncleannesses; like uncleanness of woman set apart, so their way became before me.
+Son of man, the house of Israel dwelt on their land and defiled it by their way and with their idols and with their uncleannesses; according to the uncleanness of a woman set apart, their way became before me.
 
 **Ezekiel 36:18**
 
@@ -86368,63 +86368,63 @@ And I poured out my wrath upon them.
 
 **Ezekiel 36:19**
 
-And I scattered them among nations and winnowed them into lands; according to their way and according to their sin I judged them.
+And I scattered them among the nations and winnowed them into the lands; according to their way and according to their sin I judged them.
 
 **Ezekiel 36:20**
 
-And they entered into nations where they entered there and profaned my holy name, when it was said of them, These are people of the Lord, and they came out of his land.
+And they entered into the nations, wherever they entered there, and profaned my holy name when it was said of them, These are the people of the Lord, and they came out of his land.
 
 **Ezekiel 36:21**
 
-And I spared them because of my holy name, which house of Israel profaned among nations where they entered there.
+And I spared them for the sake of my holy name, which the house of Israel profaned among the nations where they entered there.
 
 **Ezekiel 36:22**
 
-Therefore say to the house of Israel, Thus says the Lord: Not for your sake do I act, house of Israel, but for the sake of my holy name, which you profaned among nations where you entered there.
+Therefore say to the house of Israel, Thus says the Lord: Not for your sake do I act, O house of Israel, but for the sake of my holy name, which you profaned among the nations where you entered there.
 
 **Ezekiel 36:23**
 
-And I will sanctify my great name, profaned among nations, which you profaned in their midst, and nations will know that I am the Lord when I am sanctified in you before their eyes.
+And I will sanctify my great name, which was profaned among the nations, which you profaned in their midst, and the nations will know that I am the Lord when I am sanctified in you before their eyes.
 
 **Ezekiel 36:24**
 
-And I will take you from nations and gather you from all lands and bring you into your land.
+And I will take you from the nations and gather you from all the lands and bring you into your land.
 
 **Ezekiel 36:25**
 
-And I will sprinkle clean water upon you and you will be cleansed from all your uncleannesses and from all your idols, and I will cleanse you.
+And I will sprinkle clean water upon you, and you will be cleansed from all your uncleannesses and from all your idols, and I will cleanse you.
 
 **Ezekiel 36:26**
 
-And I will give you new heart and new spirit I will give in you, and I will remove heart of stone from your flesh and give you heart of flesh.
+And I will give you a new heart, and a new spirit I will give within you, and I will remove the heart of stone from your flesh and give you a heart of flesh.
 
 **Ezekiel 36:27**
 
-And my Spirit I will give in you and make you walk in my ordinances and keep my judgments and do them.
+And my Spirit I will give within you and make you walk in my ordinances and keep my judgments and do them.
 
 **Ezekiel 36:28**
 
-And you will dwell on the land that I gave to your fathers, and you will be to me for people and I will be to you for God.
+And you will dwell on the land that I gave to your fathers, and you will be to me for a people and I will be to you for God.
 
 **Ezekiel 36:29**
 
-And I will save you from all your uncleannesses and call for the grain and multiply it and not give famine upon you.
+And I will save you from all your uncleannesses and call for the grain and multiply it and I will not give famine upon you.
 
 **Ezekiel 36:30**
 
-And I will multiply fruit of tree and produce of field so that you no longer receive reproach of famine among nations.
+And I will multiply the fruit of the tree and the produce of the field so that you no longer receive the reproach of famine among the nations.
 
 **Ezekiel 36:31**
 
-And you will remember your evil ways and your practices not good and loathe yourselves before your faces for your lawless deeds and your abominations.
+And you will remember your evil ways and your practices that were not good and loathe yourselves before your faces for your lawless deeds and for your abominations.
 
 **Ezekiel 36:32**
 
-Not for your sake do I act, says the Lord God; it will be made known to you. Be ashamed and be confounded from your ways, house of Israel.
+Not for your sake do I act, says the Lord God; it will be made known to you. Be ashamed and be confounded from your ways, O house of Israel.
 
 **Ezekiel 36:33**
 
-Thus says the Lord: On the day I cleanse you from all your lawless deeds and settle the cities and the desolate places will be built,
+Thus says the Lord: On the day when I cleanse you from all your lawless deeds and cause the cities to be inhabited, the desolate places will be built,
 
 **Ezekiel 36:34**
 
@@ -86432,19 +86432,19 @@ and the land that was desolated will be worked, because it had become desolated 
 
 **Ezekiel 36:35**
 
-And they will say, That land which was desolated became like garden of delight, and cities desolate and ruined and torn down now sat fortified.
+And they will say, That land which was desolated became like a garden of delight, and the desolate and ruined and torn-down cities sat fortified.
 
 **Ezekiel 36:36**
 
-And nations that are left around you will know that I, the Lord, built torn-down things and planted desolated things. I, the Lord, have spoken and will do it.
+And the nations that are left around you will know that I, the Lord, built the torn-down places and planted the desolated places. I, the Lord, have spoken and will do it.
 
 **Ezekiel 36:37**
 
-Thus says the Lord: Still this I will be sought by house of Israel to do for them: I will multiply them like sheep, men.
+Thus says the Lord: Still for this I will be sought by the house of Israel, to do for them: I will multiply them like sheep, men.
 
 **Ezekiel 36:38**
 
-As holy sheep, as sheep of Jerusalem in her feasts, so desolate cities will be filled with flocks of men, and they will know that I am the Lord.
+As holy sheep, as the sheep of Jerusalem in her feasts, so the desolate cities will be filled with flocks of men, and they will know that I am the Lord.
 
 ### Chapter 37
 

@@ -190353,64 +190353,64 @@ Note:
 ### Ezekiel 36:2
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: Because enemy said against you, Good, everlasting desolations became ours for possession,
+- fresh: Thus says the Lord God: Because the enemy said against you, Aha, everlasting desolations have become ours as a possession,
 - brenton: Thus saith the Lord God; Because the enemy has said against you, Aha, the old waste places are become a possession for us:
 
 ### Ezekiel 36:3
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore prophesy and say, Thus says the Lord: Because you were dishonored and hated by those around you, so as to be possession to the remnant of nations, and you went up for talk of tongue and for reproach among nations,
+- fresh: Therefore prophesy and say, Thus says the Lord God: Because you were dishonored and hated by those around you, so that you were a possession to the remaining nations, and you rose as talk on the tongue and as a reproach among nations,
 - brenton: therefore prophesy, and say, Thus saith the Lord God; Because ye have been dishonoured, and hated by those round about you, that ye might be a possession to the remainder of the nations, and ye became a by-word, and a reproach to the nations:
 
 ### Ezekiel 36:4
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore mountains of Israel hear the word of the Lord. Thus says the Lord to mountains and hills and ravines and torrents and desolated and ruined places and abandoned cities, which became plunder and trampling to remaining nations around,
+- fresh: Therefore, mountains of Israel, hear the word of the Lord. Thus says the Lord to the mountains and to the hills and to the ravines and to the torrents and to the desolated and ruined places and to the abandoned cities, which became for plunder and for trampling to the remaining nations around,
 - brenton: therefore, ye mountains of Israel, hear the word of the Lord; Thus saith the Lord to the mountains, and to the hills, and to the streams, and to the valleys, and to the places that have been made desolate and destroyed, and to the cities that have been deserted, and have become a spoil and a trampling to the nations that were left round about;
 
 ### Ezekiel 36:5
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore thus says the Lord: Surely in the fire of my wrath I spoke against remaining nations and against all Edom, because they gave my land to themselves for possession with joy, dishonoring souls, so as to destroy it for plunder.
+- fresh: Therefore thus says the Lord God: Surely in the fire of my wrath I spoke against the remaining nations and against all Edom, because they gave my land to themselves as a possession with joy, dishonoring souls, so as to destroy it for plunder.
 - brenton: therefore thus saith the Lord; Verily in the fire of my wrath have I spoken against the rest of the nations, and against all Idumea, because they have appropriated my land to themselves for a possession with joy, disregarding the lives of the inhabitants, to destroy it by plunder:
 
 ### Ezekiel 36:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore prophesy over the land of Israel and say to mountains and hills and ravines and valleys, Thus says the Lord: Behold, in my zeal and in my wrath I spoke because you bore reproach of nations.
+- fresh: Therefore prophesy over the land of Israel and say to the mountains and to the hills and to the ravines and to the valleys, Thus says the Lord: Behold, in my zeal and in my wrath I spoke because you bore reproaches of nations.
 - brenton: therefore prophesy concerning the land of Israel, and say to the mountains, and to the hills, and to the valleys, and to the forests, Thus saith the Lord; Behold, I have spoken in my jealousy and in my wrath, because ye have borne the reproaches of the heathen:
 
 ### Ezekiel 36:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore I lift up my hand over nations around you; they themselves will bear their dishonor.
+- fresh: Therefore I myself lift up my hand against the nations around you; they themselves will bear their dishonor.
 - brenton: therefore I will lift up my hand against the nations that are round about you; they shall bear their reproach.
 
 ### Ezekiel 36:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But you, mountains of Israel, your grape and your fruit my people will eat, because they are drawing near to come.
+- fresh: But you, mountains of Israel, my people will eat your grapes and your fruit, because they are drawing near to come.
 - brenton: But your grapes and your fruits, O mountains of Israel, shall my people eat; for they are hoping to come.
 
 ### Ezekiel 36:9
@@ -190425,16 +190425,16 @@ Note:
 ### Ezekiel 36:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will multiply upon you men, all house of Israel to the end, and cities will be inhabited and the desolated thing will be built.
+- fresh: And I will multiply upon you men, all the house of Israel to the end, and cities will be inhabited and the desolated land will be built.
 - brenton: and I will multiply men upon you, even all the house of Israel to the end: and the cities shall be inhabited, and the desolate land shall be built upon.
 
 ### Ezekiel 36:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will multiply upon you men and cattle and settle you as at your beginning and do good to you like your former times, and you will know that I am the Lord.
@@ -190443,37 +190443,37 @@ Note:
 ### Ezekiel 36:12
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will cause men to be born upon you, my people Israel, and they will inherit you, and you will be to them for possession and will no longer again make them childless.
+- fresh: And I will cause men, my people Israel, to be born upon you, and they will inherit you, and you will be to them as a possession and will no longer again be bereaved of them.
 - brenton: And I will increase men upon you, even my people Israel; and they shall inherit you, and ye shall be to them for a possession; and ye shall no more be bereaved of them.
 
 ### Ezekiel 36:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: Because they said to you, You are devouring men and became childless by your nation,
+- fresh: Thus says the Lord God: Because they said to you, You devour men and have become bereaved of your nation,
 - brenton: Thus saith the Lord God: Because they said to thee, Thou land devourest men, and hast been bereaved of thy nation;
 
 ### Ezekiel 36:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: therefore you will no longer eat men, and your nation you will no longer make childless, says the Lord God.
+- fresh: therefore you will no longer devour men, and you will no longer bereave your nation, says the Lord God.
 - brenton: therefore thou shalt no more devour men, and thou shalt no more bereave thy nation, saith the Lord God.
 
 ### Ezekiel 36:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the reproach of nations will no longer be heard against you, and reproaches of peoples you will no longer bear, says the Lord God.
+- fresh: And the reproach of nations will no longer be heard against you, and the reproaches of peoples you will no longer bear, says the Lord God.
 - brenton: And there shall no more be heard against you the reproach of the nations, and ye shall no more bear the revilings of the peoples, saith the Lord God.
 
 ### Ezekiel 36:16
@@ -190488,10 +190488,10 @@ Note:
 ### Ezekiel 36:17
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, house of Israel dwelt on their land and defiled it in their way and in their idols and in their uncleannesses; like uncleanness of woman set apart, so their way became before me.
+- fresh: Son of man, the house of Israel dwelt on their land and defiled it by their way and with their idols and with their uncleannesses; according to the uncleanness of a woman set apart, their way became before me.
 - brenton: Son of man, the house of Israel dwelt upon their land, and defiled it by their way, and with their idols, and with their uncleannesses; and their way was before me like the uncleanness of a removed woman.
 
 ### Ezekiel 36:18
@@ -190506,55 +190506,55 @@ Note:
 ### Ezekiel 36:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I scattered them among nations and winnowed them into lands; according to their way and according to their sin I judged them.
+- fresh: And I scattered them among the nations and winnowed them into the lands; according to their way and according to their sin I judged them.
 - brenton: and I dispersed them among the nations, and utterly scattered them through the countries: I judged them according to their way and according to their sin.
 
 ### Ezekiel 36:20
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they entered into nations where they entered there and profaned my holy name, when it was said of them, These are people of the Lord, and they came out of his land.
+- fresh: And they entered into the nations, wherever they entered there, and profaned my holy name when it was said of them, These are the people of the Lord, and they came out of his land.
 - brenton: And they went in among the nations, among which they went, and they profaned my holy name, while it was said of them, These are the people of the Lord, and they came forth out of his land.
 
 ### Ezekiel 36:21
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I spared them because of my holy name, which house of Israel profaned among nations where they entered there.
+- fresh: And I spared them for the sake of my holy name, which the house of Israel profaned among the nations where they entered there.
 - brenton: But I spared them for the sake of my holy name, which the house of Israel profaned among the nations, among whom they went.
 
 ### Ezekiel 36:22
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore say to the house of Israel, Thus says the Lord: Not for your sake do I act, house of Israel, but for the sake of my holy name, which you profaned among nations where you entered there.
+- fresh: Therefore say to the house of Israel, Thus says the Lord: Not for your sake do I act, O house of Israel, but for the sake of my holy name, which you profaned among the nations where you entered there.
 - brenton: Therefore say to the house of Israel, Thus saith the Lord; I do not this, O house of Israel, for your sakes, but because of my holy name, which ye have profaned among the nations, among whom ye went.
 
 ### Ezekiel 36:23
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will sanctify my great name, profaned among nations, which you profaned in their midst, and nations will know that I am the Lord when I am sanctified in you before their eyes.
+- fresh: And I will sanctify my great name, which was profaned among the nations, which you profaned in their midst, and the nations will know that I am the Lord when I am sanctified in you before their eyes.
 - brenton: And I will sanctify my great name, which was profaned among the nations, which ye profaned in the midst of them; and the nations shall know that I am the Lord, when I am sanctified among you before their eyes.
 
 ### Ezekiel 36:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will take you from nations and gather you from all lands and bring you into your land.
+- fresh: And I will take you from the nations and gather you from all the lands and bring you into your land.
 - brenton: And I will take you out from the nations, and will gather you out of all the lands, and will bring you into your own land:
 
 ### Ezekiel 36:25
@@ -190563,85 +190563,85 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will sprinkle clean water upon you and you will be cleansed from all your uncleannesses and from all your idols, and I will cleanse you.
+- fresh: And I will sprinkle clean water upon you, and you will be cleansed from all your uncleannesses and from all your idols, and I will cleanse you.
 - brenton: and I will sprinkle clean water upon you, and ye shall be purged from all your uncleannesses, and from all your idols, and I will cleanse you.
 
 ### Ezekiel 36:26
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will give you new heart and new spirit I will give in you, and I will remove heart of stone from your flesh and give you heart of flesh.
+- fresh: And I will give you a new heart, and a new spirit I will give within you, and I will remove the heart of stone from your flesh and give you a heart of flesh.
 - brenton: And I will give you a new heart, and will put a new spirit in you: and I will take away the heart of stone out of your flesh, and will give you a heart of flesh.
 
 ### Ezekiel 36:27
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And my Spirit I will give in you and make you walk in my ordinances and keep my judgments and do them.
+- fresh: And my Spirit I will give within you and make you walk in my ordinances and keep my judgments and do them.
 - brenton: And I will put my Spirit in you, and will cause you to walk in mine ordinances, and to keep my judgments, and do them.
 
 ### Ezekiel 36:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will dwell on the land that I gave to your fathers, and you will be to me for people and I will be to you for God.
+- fresh: And you will dwell on the land that I gave to your fathers, and you will be to me for a people and I will be to you for God.
 - brenton: And ye shall dwell upon the land which I gave to your fathers; and ye shall be to me a people, and I will be to you a God.
 
 ### Ezekiel 36:29
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will save you from all your uncleannesses and call for the grain and multiply it and not give famine upon you.
+- fresh: And I will save you from all your uncleannesses and call for the grain and multiply it and I will not give famine upon you.
 - brenton: And I will save you from all your uncleannesses: and I will call for the corn, and multiply it, and will not bring famine upon you.
 
 ### Ezekiel 36:30
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will multiply fruit of tree and produce of field so that you no longer receive reproach of famine among nations.
+- fresh: And I will multiply the fruit of the tree and the produce of the field so that you no longer receive the reproach of famine among the nations.
 - brenton: And I will multiply the fruit of the trees, and the produce of the field, that ye may not bear the reproach of famine among the nations.
 
 ### Ezekiel 36:31
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will remember your evil ways and your practices not good and loathe yourselves before your faces for your lawless deeds and your abominations.
+- fresh: And you will remember your evil ways and your practices that were not good and loathe yourselves before your faces for your lawless deeds and for your abominations.
 - brenton: And ye shall remember your evil ways, and your practices that were not good, and ye shall be hateful in your own sight for your transgressions and for your abominations.
 
 ### Ezekiel 36:32
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Not for your sake do I act, says the Lord God; it will be made known to you. Be ashamed and be confounded from your ways, house of Israel.
+- fresh: Not for your sake do I act, says the Lord God; it will be made known to you. Be ashamed and be confounded from your ways, O house of Israel.
 - brenton: Not for your sakes do I this, saith the Lord God, as it is known to you: be ye ashamed and confounded for your ways, O house of Israel.
 
 ### Ezekiel 36:33
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: On the day I cleanse you from all your lawless deeds and settle the cities and the desolate places will be built,
+- fresh: Thus says the Lord: On the day when I cleanse you from all your lawless deeds and cause the cities to be inhabited, the desolate places will be built,
 - brenton: Thus saith the Lord God; In the day wherein I shall cleanse you from all your iniquities I will also cause the cities to be inhabited, and the waste places shall be built upon:
 
 ### Ezekiel 36:34
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: and the land that was desolated will be worked, because it had become desolated before the eyes of every passerby.
@@ -190650,37 +190650,37 @@ Note:
 ### Ezekiel 36:35
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will say, That land which was desolated became like garden of delight, and cities desolate and ruined and torn down now sat fortified.
+- fresh: And they will say, That land which was desolated became like a garden of delight, and the desolate and ruined and torn-down cities sat fortified.
 - brenton: And they shall say, That desolate land is become like a garden of delight; and the waste and desolate and ruined cities are inhabited.
 
 ### Ezekiel 36:36
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And nations that are left around you will know that I, the Lord, built torn-down things and planted desolated things. I, the Lord, have spoken and will do it.
+- fresh: And the nations that are left around you will know that I, the Lord, built the torn-down places and planted the desolated places. I, the Lord, have spoken and will do it.
 - brenton: And the nations, as many as shall have been left round about you, shall know that I the Lord have built the ruined cities and planted the waste lands: I the Lord have spoken, and will do it.
 
 ### Ezekiel 36:37
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Still this I will be sought by house of Israel to do for them: I will multiply them like sheep, men.
+- fresh: Thus says the Lord: Still for this I will be sought by the house of Israel, to do for them: I will multiply them like sheep, men.
 - brenton: Thus saith the Lord God; Yet for this will I be sought by the house of Israel, to establish them; I will multiply them even men as sheep;
 
 ### Ezekiel 36:38
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: As holy sheep, as sheep of Jerusalem in her feasts, so desolate cities will be filled with flocks of men, and they will know that I am the Lord.
+- fresh: As holy sheep, as the sheep of Jerusalem in her feasts, so the desolate cities will be filled with flocks of men, and they will know that I am the Lord.
 - brenton: as holy sheep, as the sheep of Jerusalem in her feasts; thus shall the desert cities be full of flocks of men: and they shall know that I am the Lord.
 
 ### Ezekiel 37:1
