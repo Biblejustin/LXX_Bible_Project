@@ -190947,16 +190947,16 @@ Note:
 ### Ezekiel 38:2
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, set your face toward Gog and land of Magog, ruler of Rosh, Meshech, and Tubal, and prophesy over him.
+- fresh: Son of man, set your face toward Gog and the land of Magog, ruler of Rosh, Meshech, and Tubal, and prophesy against him.
 - brenton: Son of man, set thy face against Gog, and the land of Magog, Rhos, prince of Mesoch and Thobel, and prophesy against him,
 
 ### Ezekiel 38:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And say to him, Thus says the Lord God: Behold, I am against you, Gog, ruler of Rosh, Meshech, and Tubal.
@@ -190965,16 +190965,16 @@ Note:
 ### Ezekiel 38:4
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will gather you and all your force, horses and horsemen clothed in armor, all a great assembly, shields and helmets and swords,
+- fresh: And I will gather you and all your force, horses and horsemen clothed in breastplates, all of them a great gathering, shields and helmets and swords,
 - brenton: and I will gather thee, and all thine host, horses and horsemen, all wearing breast-plates, with a great multitude, shields and helmets and swords:
 
 ### Ezekiel 38:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: yes
 - fresh: Persians and Ethiopians and Libyans, all with helmets and shields,
@@ -190983,79 +190983,79 @@ Note:
 ### Ezekiel 38:6
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Gomer and all around him, house of Togarmah from farthest north and all around him, and many nations with you.
+- fresh: Gomer and all those around him, the house of Togarmah from the farthest north and all those around him, and many nations with you.
 - brenton: Gomer, and all belonging to him; the house of Thorgama, from the end of the north, and all belonging to him; and many nations with thee.
 
 ### Ezekiel 38:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Be prepared; prepare yourself, you and all your assembly gathered with you, and you will be to me for guard.
+- fresh: Be prepared; prepare yourself, you and your whole assembly gathered with you, and you will be to me for a guard.
 - brenton: Be thou prepared, prepare thyself, thou, and all thy multitude that is assembled with thee, and thou shalt be to me for a guard.
 
 ### Ezekiel 38:8
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: After many days he will be prepared, and in latter years he will come and enter into a land turned back from sword, gathered from many nations onto the land of Israel, which became desolation through all time, and this people came out from nations and they all will dwell in peace.
+- fresh: After many days he will be prepared, and in latter years he will come and enter into the land brought back from the sword, with people gathered from many nations onto the land of Israel, which had become entirely desolate; and this people came out from nations, and they all will dwell in peace.
 - brenton: He shall be prepared after many days, and he shall come at the end of years, and shall come to a land that is brought back from the sword, when the people are gathered from many nations against the land of Israel, which was entirely desolate: and he is come forth out of the nations, and they shall all dwell securely.
 
 ### Ezekiel 38:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will come up like rain and arrive like a cloud to cover the land, you and all around you, and many nations with you.
+- fresh: And you will come up like rain and arrive like a cloud to cover the land, you and all those around you, and many nations with you.
 - brenton: And thou shalt go up as rain, and shalt arrive as a cloud to cover the land, and there shall be thou, and all that are about thee, and many nations with thee.
 
 ### Ezekiel 38:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: And it will be on that day, words will come up into your heart, and you will reason evil plans,
+- fresh: Thus says the Lord God: And it will be on that day, words will come up upon your heart, and you will devise evil plans,
 - brenton: Thus saith the Lord God; It shall also come to pass in that day, that thoughts shall come up into thine heart, and thou shalt devise evil devices.
 
 ### Ezekiel 38:11
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: and say, I will go up against a land thrown open; I will come against those quiet in stillness and dwelling in peace, all dwelling on a land where there is no wall, and bars and gates are not for them,
+- fresh: and say, I will go up against a land thrown open; I will come against those quiet in stillness and dwelling in peace, all dwelling in a land where there is no wall, and neither bars nor gates are theirs,
 - brenton: And thou shalt say, I will go up to the rejected land; I will come upon them that are at ease in tranquillity, and dwelling in peace, all inhabiting a land in which there is no wall, nor bars, nor have they doors;
 
 ### Ezekiel 38:12
 
 - importance: high
-- decisions: 0
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: to plunder a plunder and seize spoils, to turn your hand against the desolated place that was resettled, and against nation gathered from many nations, making possessions, dwelling on navel of earth.
+- fresh: to plunder plunder and seize spoils, to turn your hand against the desolated place that was resettled, and against a nation gathered from many nations, making possessions, dwelling on the navel of the earth.
 - brenton: to seize plunder, and to take their spoil; to turn my hands against the desolate land that is now inhabited, and against a nation that is gathered from many nations, that have acquired property, dwelling in the midst of the land.
 
 ### Ezekiel 38:13
 
 - importance: high
-- decisions: 0
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: Sheba and Dedan and merchants of Carthage and all their villages will say to you, Is it for plunder that you come, and to spoil spoils? Did you gather your assembly to take silver and gold, to carry off possessions, to spoil spoils?
+- fresh: Sheba and Dedan and the merchants of Carthage and all their villages will say to you, Is it for plunder that you have come, and to spoil spoils? Have you gathered your assembly to take silver and gold, to carry off possessions, to spoil spoils?
 - brenton: Sabba, and Dædan, and Carthaginian merchants, and all their villages shall say to thee, Thou art come for plunder to take a prey, and to get spoils: thou hast gathered thy multitude to take silver and gold, to carry off property, to take spoils.
 
 ### Ezekiel 38:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Therefore prophesy, son of man, and say to Gog, Thus says the Lord: Is it not on that day, when my people Israel are settled in peace, that you will rise up?
@@ -191064,34 +191064,34 @@ Note:
 ### Ezekiel 38:15
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will come from your place, from farthest north, and many nations with you, all riding horses, great assembly and much force.
+- fresh: And you will come from your place, from the farthest north, and many nations with you, all riding horses, a great assembly and much force.
 - brenton: and come out of thy place from the farthest north, and many nations with thee? all of them mounted on horses, a great gathering, and a large force?
 
 ### Ezekiel 38:16
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will come up against my people Israel like a cloud covering the land; in latter days it will be, and I will bring you upon my land so that all nations may know me when I am sanctified in you before them.
+- fresh: And you will come up against my people Israel like a cloud to cover the land; it will be in the last days, and I will bring you upon my land so that all the nations may know me when I am sanctified in you before them.
 - brenton: And thou shalt come up upon my people Israel as a cloud to cover the land; it shall come to pass in the last days, that I will bring thee up upon my land, that all the nations may know me, when I am sanctified in thee before them.
 
 ### Ezekiel 38:17
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God to Gog: Are you the one concerning whom I spoke in former days through hand of my servants, prophets of Israel, in those days and years, to bring you upon them?
+- fresh: Thus says the Lord God to Gog: Are you the one concerning whom I spoke in former days through the hand of my servants, the prophets of Israel, in those days and years, to bring you upon them?
 - brenton: Thus saith the Lord God, to Gog; Thou art he concerning whom I spoke in former times, by the hand of my servants the prophets of Israel, in those days and years, that I would bring thee up against them.
 
 ### Ezekiel 38:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And it will be on that day, on the day when Gog comes upon the land of Israel, says the Lord God, my wrath will rise up.
@@ -191100,46 +191100,46 @@ Note:
 ### Ezekiel 38:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And in my zeal, in the fire of my anger, I spoke: Surely on that day there will be great earthquake upon the land of Israel.
+- fresh: And in my zeal, in the fire of my anger, I spoke: Surely on that day there will be a great shaking upon the land of Israel.
 - brenton: that my wrath and my jealousy shall arise, I have spoken in the fire of mine anger, verily in that day there shall be a great shaking in the land of Israel;
 
 ### Ezekiel 38:20
 
 - importance: high
-- decisions: 0
+- decisions: 6
 - footnotes: 1
 - same_normalized: no
-- fresh: And from the face of the Lord fish of the sea and birds of heaven and beasts of the field and all creeping things creeping on the earth and all men on the face of the earth will be shaken, and mountains will be split and ravines will fall and every wall will fall to ground.
+- fresh: And the fish of the sea and the birds of heaven and the beasts of the field and all the creeping things creeping on the earth and all humans on the face of the earth will be shaken from the face of the Lord, and the mountains will be split and the ravines will fall, and every wall will fall to the ground.
 - brenton: and the fish of the sea shall quake at the presence of the Lord, and the birds of the sky and the wild beasts of the field, and all the reptiles that creep upon the earth, and all the men that are on the face of the earth; and the mountains shall be rent, and the valleys shall fall, and every wall on the land shall fall.
 
 ### Ezekiel 38:21
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will call against him every fear, says the Lord; sword of each man will be against his brother.
+- fresh: And I will call against him every fear, says the Lord; a man's sword will be against his brother.
 - brenton: And I will summon against it even every fear, saith the Lord: the sword of every man shall be against his brother.
 
 ### Ezekiel 38:22
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will judge him with death and blood, and with flooding rain and hailstones and fire and sulfur I will rain on him and on all with him and on many nations with him.
+- fresh: And I will judge him with death and blood and flooding rain and hailstones, and I will rain fire and sulfur upon him and upon all those with him and upon many nations with him.
 - brenton: And I will judge him with pestilence, and blood, and sweeping rain, and hailstones; and I will rain upon him fire and brimstone, and upon all that are with him, and upon many nations with him.
 
 ### Ezekiel 38:23
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will be magnified and sanctified and glorified and made known before many nations, and they will know that I am the Lord.
+- fresh: And I will be magnified and sanctified and glorified, and I will be known before many nations, and they will know that I am the Lord.
 - brenton: And I will be magnified, and sanctified, and glorified; and I will be known in the presence of many nations, and they shall know that I am the Lord.
 
 ### Ezekiel 39:1

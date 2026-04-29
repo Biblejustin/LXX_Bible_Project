@@ -86568,7 +86568,7 @@ And the word of the Lord came to me, saying,
 
 **Ezekiel 38:2**
 
-Son of man, set your face toward Gog and land of Magog, ruler of Rosh, Meshech, and Tubal, and prophesy over him.
+Son of man, set your face toward Gog and the land of Magog, ruler of Rosh, Meshech, and Tubal, and prophesy against him.
 
 **Ezekiel 38:3**
 
@@ -86576,7 +86576,7 @@ And say to him, Thus says the Lord God: Behold, I am against you, Gog, ruler of 
 
 **Ezekiel 38:4**
 
-And I will gather you and all your force, horses and horsemen clothed in armor, all a great assembly, shields and helmets and swords,
+And I will gather you and all your force, horses and horsemen clothed in breastplates, all of them a great gathering, shields and helmets and swords,
 
 **Ezekiel 38:5**
 
@@ -86584,35 +86584,35 @@ Persians and Ethiopians and Libyans, all with helmets and shields,
 
 **Ezekiel 38:6**
 
-Gomer and all around him, house of Togarmah from farthest north and all around him, and many nations with you.
+Gomer and all those around him, the house of Togarmah from the farthest north and all those around him, and many nations with you.
 
 **Ezekiel 38:7**
 
-Be prepared; prepare yourself, you and all your assembly gathered with you, and you will be to me for guard.
+Be prepared; prepare yourself, you and your whole assembly gathered with you, and you will be to me for a guard.
 
 **Ezekiel 38:8**
 
-After many days he will be prepared, and in latter years he will come and enter into a land turned back from sword, gathered from many nations onto the land of Israel, which became desolation through all time, and this people came out from nations and they all will dwell in peace.
+After many days he will be prepared, and in latter years he will come and enter into the land brought back from the sword, with people gathered from many nations onto the land of Israel, which had become entirely desolate; and this people came out from nations, and they all will dwell in peace.
 
 **Ezekiel 38:9**
 
-And you will come up like rain and arrive like a cloud to cover the land, you and all around you, and many nations with you.
+And you will come up like rain and arrive like a cloud to cover the land, you and all those around you, and many nations with you.
 
 **Ezekiel 38:10**
 
-Thus says the Lord God: And it will be on that day, words will come up into your heart, and you will reason evil plans,
+Thus says the Lord God: And it will be on that day, words will come up upon your heart, and you will devise evil plans,
 
 **Ezekiel 38:11**
 
-and say, I will go up against a land thrown open; I will come against those quiet in stillness and dwelling in peace, all dwelling on a land where there is no wall, and bars and gates are not for them,
+and say, I will go up against a land thrown open; I will come against those quiet in stillness and dwelling in peace, all dwelling in a land where there is no wall, and neither bars nor gates are theirs,
 
 **Ezekiel 38:12**
 
-to plunder a plunder and seize spoils, to turn your hand against the desolated place that was resettled, and against nation gathered from many nations, making possessions, dwelling on navel of earth.
+to plunder plunder and seize spoils, to turn your hand against the desolated place that was resettled, and against a nation gathered from many nations, making possessions, dwelling on the navel of the earth.
 
 **Ezekiel 38:13**
 
-Sheba and Dedan and merchants of Carthage and all their villages will say to you, Is it for plunder that you come, and to spoil spoils? Did you gather your assembly to take silver and gold, to carry off possessions, to spoil spoils?
+Sheba and Dedan and the merchants of Carthage and all their villages will say to you, Is it for plunder that you have come, and to spoil spoils? Have you gathered your assembly to take silver and gold, to carry off possessions, to spoil spoils?
 
 **Ezekiel 38:14**
 
@@ -86620,15 +86620,15 @@ Therefore prophesy, son of man, and say to Gog, Thus says the Lord: Is it not on
 
 **Ezekiel 38:15**
 
-And you will come from your place, from farthest north, and many nations with you, all riding horses, great assembly and much force.
+And you will come from your place, from the farthest north, and many nations with you, all riding horses, a great assembly and much force.
 
 **Ezekiel 38:16**
 
-And you will come up against my people Israel like a cloud covering the land; in latter days it will be, and I will bring you upon my land so that all nations may know me when I am sanctified in you before them.
+And you will come up against my people Israel like a cloud to cover the land; it will be in the last days, and I will bring you upon my land so that all the nations may know me when I am sanctified in you before them.
 
 **Ezekiel 38:17**
 
-Thus says the Lord God to Gog: Are you the one concerning whom I spoke in former days through hand of my servants, prophets of Israel, in those days and years, to bring you upon them?
+Thus says the Lord God to Gog: Are you the one concerning whom I spoke in former days through the hand of my servants, the prophets of Israel, in those days and years, to bring you upon them?
 
 **Ezekiel 38:18**
 
@@ -86636,23 +86636,23 @@ And it will be on that day, on the day when Gog comes upon the land of Israel, s
 
 **Ezekiel 38:19**
 
-And in my zeal, in the fire of my anger, I spoke: Surely on that day there will be great earthquake upon the land of Israel.
+And in my zeal, in the fire of my anger, I spoke: Surely on that day there will be a great shaking upon the land of Israel.
 
 **Ezekiel 38:20**
 
-And from the face of the Lord fish of the sea and birds of heaven and beasts of the field and all creeping things creeping on the earth and all men on the face of the earth will be shaken, and mountains will be split and ravines will fall and every wall will fall to ground.
+And the fish of the sea and the birds of heaven and the beasts of the field and all the creeping things creeping on the earth and all humans on the face of the earth will be shaken from the face of the Lord, and the mountains will be split and the ravines will fall, and every wall will fall to the ground.
 
 **Ezekiel 38:21**
 
-And I will call against him every fear, says the Lord; sword of each man will be against his brother.
+And I will call against him every fear, says the Lord; a man's sword will be against his brother.
 
 **Ezekiel 38:22**
 
-And I will judge him with death and blood, and with flooding rain and hailstones and fire and sulfur I will rain on him and on all with him and on many nations with him.
+And I will judge him with death and blood and flooding rain and hailstones, and I will rain fire and sulfur upon him and upon all those with him and upon many nations with him.
 
 **Ezekiel 38:23**
 
-And I will be magnified and sanctified and glorified and made known before many nations, and they will know that I am the Lord.
+And I will be magnified and sanctified and glorified, and I will be known before many nations, and they will know that I am the Lord.
 
 ### Chapter 39
 
