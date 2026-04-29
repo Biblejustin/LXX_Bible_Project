@@ -3516,7 +3516,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "their faces will change as a flame" in by_ref["Isaiah 13:8"]["draft_translation"]
     assert by_ref["1 Chronicles 19:13"]["draft_translation"].startswith("Act like a man")
     assert "Be strong and act like a man and do" in by_ref["1 Chronicles 28:20"]["draft_translation"]
-    assert "like a birthing woman" in by_ref["Micah 4:10"]["draft_translation"]
+    assert "like a woman giving birth" in by_ref["Micah 4:10"]["draft_translation"]
     assert "one like a son of man" in by_ref["Daniel 7:13"]["draft_translation"]
     assert "Gird your loins like a man" in by_ref["Job 38:3"]["draft_translation"]
     assert "like a sleeping man or like a man unable to save" in by_ref["Jeremiah 14:9"]["draft_translation"]
