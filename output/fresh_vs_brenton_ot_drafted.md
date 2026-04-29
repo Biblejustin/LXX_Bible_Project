@@ -196691,43 +196691,43 @@ Note:
 ### Daniel 12:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And at that time Michael will come, the great angel standing over the sons of your people. That day will be a distress such as has not happened from time they came to be until that day, and in that day every people found written in the book will be exalted.
+- fresh: And at that time Michael will come, the great angel standing over the sons of your people. That day will be a day of distress such as has not happened from time they came to be until that day, and in that day all the people found written in the book will be exalted.
 - brenton: [missing]
 
 ### Daniel 12:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And many of those sleeping in breadth of the earth will rise, some to eternal life, some to reproach, some to scattering and eternal shame.
+- fresh: And many of those sleeping in the breadth of the earth will rise, some to eternal life, some to reproach, some to scattering and eternal shame.
 - brenton: [missing]
 
 ### Daniel 12:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And those understanding will shine like lights of heaven, and those prevailing in my words like stars of heaven forever and ever.
+- fresh: And those understanding will shine like the lights of heaven, and those prevailing in my words like the stars of heaven forever and ever.
 - brenton: [missing]
 
 ### Daniel 12:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, Daniel, conceal the commands and seal the book until the time of completion, until many go mad and earth is filled with injustice.
+- fresh: And you, Daniel, conceal the commands and seal the book until the time of completion, until many go mad and the earth is filled with injustice.
 - brenton: [missing]
 
 ### Daniel 12:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And I, Daniel, saw, and behold, two others were standing, one on this side of the river and one on that side.
@@ -196736,25 +196736,25 @@ Note:
 ### Daniel 12:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said to the one clothed in fine linen above, When then is the completion of these wonders you told me, and their cleansing?
+- fresh: And I said to the one clothed in fine linen above, When then is the completion of these wonders you told me, and the cleansing of these things?
 - brenton: [missing]
 
 ### Daniel 12:7
 
 - importance: high
-- decisions: 0
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: And I heard the one clothed in fine linen, who was above water of the river, until the time of completion, and he lifted right hand and left to heaven and swore by living God forever that for time and times and half a time is the completion of release-hands of holy people, and all these things will be completed.
+- fresh: And I heard the one clothed in fine linen, who was above the water of the river, until the time of completion, and he lifted his right hand and his left hand to heaven and swore by the living God forever that for a time and times and half a time is the completion of release-hands of a holy people, and all these things will be completed.
 - brenton: [missing]
 
 ### Daniel 12:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And I heard and did not understand from him the time, and I said, Lord, what is the solution of this word, and whose are these parables?
@@ -196763,7 +196763,7 @@ Note:
 ### Daniel 12:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, Go away, Daniel, because the commands are hidden and sealed until
@@ -196772,25 +196772,25 @@ Note:
 ### Daniel 12:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Many will be tested and sanctified, and sinners will sin, and all sinners will not understand, but those understanding will pay attention.
+- fresh: Many will be tested and sanctified, and the sinners will sin, and all the sinners will not understand, but those understanding will pay attention.
 - brenton: [missing]
 
 ### Daniel 12:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: From time sacrifice is removed continually and abomination of desolation is prepared to be given, there will be one thousand two hundred ninety days.
+- fresh: From the time the sacrifice is removed continually and the abomination of desolation is prepared to be given, there will be one thousand two hundred ninety days.
 - brenton: [missing]
 
 ### Daniel 12:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Blessed is the one remaining and gathering to one thousand three hundred thirty-five days.
@@ -196799,10 +196799,10 @@ Note:
 ### Daniel 12:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, go, rest, for there are still days and hours for completion of the end, and you will rest and rise to your glory at the completion of days.
+- fresh: And you, go, rest, for there are still days and hours for the completion of the end, and you will rest and rise to your glory at the completion of days.
 - brenton: [missing]
 
 ## Hosea

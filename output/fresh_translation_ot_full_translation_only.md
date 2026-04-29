@@ -89166,19 +89166,19 @@ And then he will set his tent between the seas and the mountain of desire of the
 
 **Daniel 12:1**
 
-And at that time Michael will come, the great angel standing over the sons of your people. That day will be a distress such as has not happened from time they came to be until that day, and in that day every people found written in the book will be exalted.
+And at that time Michael will come, the great angel standing over the sons of your people. That day will be a day of distress such as has not happened from time they came to be until that day, and in that day all the people found written in the book will be exalted.
 
 **Daniel 12:2**
 
-And many of those sleeping in breadth of the earth will rise, some to eternal life, some to reproach, some to scattering and eternal shame.
+And many of those sleeping in the breadth of the earth will rise, some to eternal life, some to reproach, some to scattering and eternal shame.
 
 **Daniel 12:3**
 
-And those understanding will shine like lights of heaven, and those prevailing in my words like stars of heaven forever and ever.
+And those understanding will shine like the lights of heaven, and those prevailing in my words like the stars of heaven forever and ever.
 
 **Daniel 12:4**
 
-And you, Daniel, conceal the commands and seal the book until the time of completion, until many go mad and earth is filled with injustice.
+And you, Daniel, conceal the commands and seal the book until the time of completion, until many go mad and the earth is filled with injustice.
 
 **Daniel 12:5**
 
@@ -89186,11 +89186,11 @@ And I, Daniel, saw, and behold, two others were standing, one on this side of th
 
 **Daniel 12:6**
 
-And I said to the one clothed in fine linen above, When then is the completion of these wonders you told me, and their cleansing?
+And I said to the one clothed in fine linen above, When then is the completion of these wonders you told me, and the cleansing of these things?
 
 **Daniel 12:7**
 
-And I heard the one clothed in fine linen, who was above water of the river, until the time of completion, and he lifted right hand and left to heaven and swore by living God forever that for time and times and half a time is the completion of release-hands of holy people, and all these things will be completed.
+And I heard the one clothed in fine linen, who was above the water of the river, until the time of completion, and he lifted his right hand and his left hand to heaven and swore by the living God forever that for a time and times and half a time is the completion of release-hands of a holy people, and all these things will be completed.
 
 **Daniel 12:8**
 
@@ -89202,11 +89202,11 @@ And he said to me, Go away, Daniel, because the commands are hidden and sealed u
 
 **Daniel 12:10**
 
-Many will be tested and sanctified, and sinners will sin, and all sinners will not understand, but those understanding will pay attention.
+Many will be tested and sanctified, and the sinners will sin, and all the sinners will not understand, but those understanding will pay attention.
 
 **Daniel 12:11**
 
-From time sacrifice is removed continually and abomination of desolation is prepared to be given, there will be one thousand two hundred ninety days.
+From the time the sacrifice is removed continually and the abomination of desolation is prepared to be given, there will be one thousand two hundred ninety days.
 
 **Daniel 12:12**
 
@@ -89214,7 +89214,7 @@ Blessed is the one remaining and gathering to one thousand three hundred thirty-
 
 **Daniel 12:13**
 
-And you, go, rest, for there are still days and hours for completion of the end, and you will rest and rise to your glory at the completion of days.
+And you, go, rest, for there are still days and hours for the completion of the end, and you will rest and rise to your glory at the completion of days.
 
 ## Hosea
 
