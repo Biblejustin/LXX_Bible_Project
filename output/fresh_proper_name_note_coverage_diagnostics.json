@@ -12,7 +12,7 @@
   },
   "counts": {
     "skipped_stopword": 425,
-    "skipped_not_classified": 2222,
+    "skipped_not_classified": 2221,
     "equivalent_aligned": 815,
     "included_unclassified_resolved_source_form": 486,
     "included_transliterated_form": 493,

@@ -201950,61 +201950,61 @@ Note:
 ### Micah 7:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Alas for me, because I became like one gathering stubble in harvest and like gleaning in vintage, with no cluster to eat. Alas, my soul longed for first-ripe fruit.
+- fresh: Alas for me, because I became like one gathering stubble in harvest and like gleaning in vintage, there being no cluster for eating first-ripe fruit. Alas, my soul!
 - brenton: Alas for me! for I am become as one gathering straw in harvest, and as one gathering grape-gleanings in the vintage, when there is no cluster for me to eat the first-ripe fruit: alas my soul!
 
 ### Micah 7:2
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Because reverent one perished from earth and upright one among humans does not exist. All judge for bloods; each oppresses his neighbor with oppression.
+- fresh: Because a reverent one has perished from the earth, and an upright one among humans does not exist. All judge for bloods; each oppresses his neighbor with oppression.
 - brenton: For the godly is perished from the earth; and there is none among men that orders his way aright: they all quarrel even to blood: they grievously afflict every one his neighbour:
 
 ### Micah 7:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: For evil they prepare their hands. Ruler asks, and judge spoke peaceful words. The desire of his soul is there, and I will remove it.
+- fresh: For evil they prepare their hands. The ruler asks, and the judge spoke peaceful words. The desire of his soul is there, and I will remove it.
 - brenton: they prepare their hands for mischief, the prince asks a reward, and the judge speaks flattering words; it is the desire of their soul:
 
 ### Micah 7:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Their best one is like a moth devouring, and walking on measuring line. In the day of your watch—woe, woe—your avengings came; now their weepings will be.
+- fresh: Their good things are like a moth devouring and like one walking upon a measuring line. In the day of your watch, woe, woe, your avengings have come; now their weepings will be.
 - brenton: therefore I will take away their goods as a devouring moth, and as one who acts by a rigid rule in a day of visitation. Woe, woe, thy times of vengeance are come; now shall be their lamentations.
 
 ### Micah 7:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not trust in friends and do not hope in rulers. From woman lying in your bosom guard yourself from entrusting anything to her.
+- fresh: Do not trust in friends and do not hope in rulers. From the woman lying in your bosom, guard yourself from entrusting anything to her.
 - brenton: Trust not in friends, and confide not in guides: beware of thy wife, so as not to commit anything to her.
 
 ### Micah 7:6
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Because a son dishonors his father, daughter will rise against her mother, bride against her mother-in-law; enemies of a man are all men in his house.
+- fresh: Because a son dishonors his father, a daughter will rise against her mother, a bride against her mother-in-law, and the enemies of a man are all the men in his house.
 - brenton: For the son dishonours his father, the daughter will rise up against her mother, the daughter-in-law against her mother-in-law: those in his house shall be all a man's enemies.
 
 ### Micah 7:7
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: But I will look to the Lord; I will wait for God my savior; my God will hear me.
@@ -202013,109 +202013,109 @@ Note:
 ### Micah 7:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not rejoice over me, my enemy, because I fell and will rise. Because if I sit in darkness, the Lord will give light to me.
+- fresh: Do not rejoice over me, my enemy, because I have fallen and will rise. For if I sit in the darkness, the Lord will give light to me.
 - brenton: Rejoice not against me, mine enemy; for I have fallen yet shall arise; for though I should sit in darkness, the Lord shall be a light to me.
 
 ### Micah 7:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: I will bear the wrath of the Lord because I sinned against him, until he justifies my case and does my judgment, and he will bring me out to light; I will see his righteousness.
+- fresh: I will bear the wrath of the Lord because I sinned against him, until he justifies my case and does my judgment, and he will bring me out into the light; I will see his righteousness.
 - brenton: I will bear the indignation of the Lord, because I have sinned against him, until he make good my cause: he also shall maintain my right, and shall bring me out to the light, and I shall behold his righteousness.
 
 ### Micah 7:10
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And my enemy will see and shame will clothe her, she saying to me, Where is the Lord your God? My eyes will look upon her; now she will be for trampling like mud in roads.
+- fresh: And my enemy will see and will clothe herself with shame, she who says to me, Where is the Lord your God? My eyes will look upon her; now she will be for trampling like mud in the roads.
 - brenton: And she that is mine enemy shall see it, and shall clothe herself with shame, who says, Where is the Lord thy God? mine eyes shall look upon her: now shall she be for trampling as mire in the ways.
 
 ### Micah 7:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Day of smearing brick, your wiping away—that day, and your statutes will be rubbed away.
+- fresh: A day of smearing brick is your wiping away; that is the day, and your statutes will be rubbed away.
 - brenton: It is the day of making of brick; that day shall be thine utter destruction, and that day shall utterly abolish thine ordinances.
 
 ### Micah 7:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: That day and your cities will come to leveling and to partition of Assyrians, and your fortified cities to partition from Tyre to the river of Syria, a day of water and turmoil.
+- fresh: That day, your cities also will come to leveling and to a partition of Assyrians, and your fortified cities to a partition from Tyre to the river of Syria, a day of water and turmoil.
 - brenton: And thy cities shall be levelled, and parted among the Assyrians; and thy strong cities shall be parted from Tyre to the river, and from sea to sea, and from mountain to mountain.
 
 ### Micah 7:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And earth will be for destruction with those inhabiting it, because of fruits of their practices.
+- fresh: And the earth will be for destruction with the ones inhabiting it, because of the fruits of their practices.
 - brenton: And the land shall be utterly desolate together with them that inhabit it, because of the fruit of their doings.
 
 ### Micah 7:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Shepherd your people with your rod, sheep of your inheritance, dwelling by themselves in the forest in the midst of Carmel; they will pasture Bashan and Gilead as days of age.
+- fresh: Shepherd your people with your rod, the sheep of your inheritance, dwelling by themselves in the forest in the midst of Carmel; they will pasture Bashan and Gilead as days of age.
 - brenton: Tend thy people with thy rod, the sheep of thine inheritance, those that inhabit by themselves the thicket in the midst of Carmel: they shall feed in the land of Basan, and in the land of Galaad, as in the days of old.
 
 ### Micah 7:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: According to days of your departure from Egypt, you will see wonders.
+- fresh: According to the days of your departure from Egypt, you will see wonders.
 - brenton: And according to the days of thy departure out of Egypt shall ye see marvellous things.
 
 ### Micah 7:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Nations will see and be ashamed from all their strength; they will put hands on mouth, and their ears will be deafened.
+- fresh: Nations will see and be ashamed from all their strength; they will put their hands on their mouth, and their ears will be deafened.
 - brenton: The nations shall see and be ashamed; and at all their might they shall lay their hands upon their mouth, their ears shall be deafened.
 
 ### Micah 7:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: They will lick dust like snakes dragging earth; they will be confounded in their enclosure. At the Lord our God they will be amazed and fear because of you.
+- fresh: They will lick dust like serpents dragging earth; they will be confounded in their confinement. At the Lord our God they will be amazed and fear because of you.
 - brenton: They shall lick the dust as serpents crawling on the earth, they shall be confounded in their holes; they shall be amazed at the Lord our God, and will be afraid of thee.
 
 ### Micah 7:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who is God like you, removing injustices and passing over impiety for the remnant of his inheritance? He did not hold back his anger for witness, because he delights in mercy.
+- fresh: Who is a God like you, removing injustices and passing over impiety for the remnant of his inheritance? He did not hold back his anger for witness, because he delights in mercy.
 - brenton: Who is a God like thee, cancelling iniquities, and passing over the sins of the remnant of his inheritance? and he has not kept his anger for a testimony, for he delights in mercy.
 
 ### Micah 7:19
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: He will turn and pity us; he will sink our injustices, and all our sins will be cast into the depths of sea.
+- fresh: He himself will turn and pity us; he will sink our injustices, and all our sins will be cast into the depths of the sea.
 - brenton: He will return and have mercy upon us; he will sink our iniquities, and they shall be cast into the depths of the sea, even all our sins.
 
 ### Micah 7:20

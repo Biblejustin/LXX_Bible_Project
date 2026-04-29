@@ -91588,27 +91588,27 @@ And you kept the ordinances of Zambri and all the works of the house of Ahab and
 
 **Micah 7:1**
 
-Alas for me, because I became like one gathering stubble in harvest and like gleaning in vintage, with no cluster to eat. Alas, my soul longed for first-ripe fruit.
+Alas for me, because I became like one gathering stubble in harvest and like gleaning in vintage, there being no cluster for eating first-ripe fruit. Alas, my soul!
 
 **Micah 7:2**
 
-Because reverent one perished from earth and upright one among humans does not exist. All judge for bloods; each oppresses his neighbor with oppression.
+Because a reverent one has perished from the earth, and an upright one among humans does not exist. All judge for bloods; each oppresses his neighbor with oppression.
 
 **Micah 7:3**
 
-For evil they prepare their hands. Ruler asks, and judge spoke peaceful words. The desire of his soul is there, and I will remove it.
+For evil they prepare their hands. The ruler asks, and the judge spoke peaceful words. The desire of his soul is there, and I will remove it.
 
 **Micah 7:4**
 
-Their best one is like a moth devouring, and walking on measuring line. In the day of your watch—woe, woe—your avengings came; now their weepings will be.
+Their good things are like a moth devouring and like one walking upon a measuring line. In the day of your watch, woe, woe, your avengings have come; now their weepings will be.
 
 **Micah 7:5**
 
-Do not trust in friends and do not hope in rulers. From woman lying in your bosom guard yourself from entrusting anything to her.
+Do not trust in friends and do not hope in rulers. From the woman lying in your bosom, guard yourself from entrusting anything to her.
 
 **Micah 7:6**
 
-Because a son dishonors his father, daughter will rise against her mother, bride against her mother-in-law; enemies of a man are all men in his house.
+Because a son dishonors his father, a daughter will rise against her mother, a bride against her mother-in-law, and the enemies of a man are all the men in his house.
 
 **Micah 7:7**
 
@@ -91616,51 +91616,51 @@ But I will look to the Lord; I will wait for God my savior; my God will hear me.
 
 **Micah 7:8**
 
-Do not rejoice over me, my enemy, because I fell and will rise. Because if I sit in darkness, the Lord will give light to me.
+Do not rejoice over me, my enemy, because I have fallen and will rise. For if I sit in the darkness, the Lord will give light to me.
 
 **Micah 7:9**
 
-I will bear the wrath of the Lord because I sinned against him, until he justifies my case and does my judgment, and he will bring me out to light; I will see his righteousness.
+I will bear the wrath of the Lord because I sinned against him, until he justifies my case and does my judgment, and he will bring me out into the light; I will see his righteousness.
 
 **Micah 7:10**
 
-And my enemy will see and shame will clothe her, she saying to me, Where is the Lord your God? My eyes will look upon her; now she will be for trampling like mud in roads.
+And my enemy will see and will clothe herself with shame, she who says to me, Where is the Lord your God? My eyes will look upon her; now she will be for trampling like mud in the roads.
 
 **Micah 7:11**
 
-Day of smearing brick, your wiping away—that day, and your statutes will be rubbed away.
+A day of smearing brick is your wiping away; that is the day, and your statutes will be rubbed away.
 
 **Micah 7:12**
 
-That day and your cities will come to leveling and to partition of Assyrians, and your fortified cities to partition from Tyre to the river of Syria, a day of water and turmoil.
+That day, your cities also will come to leveling and to a partition of Assyrians, and your fortified cities to a partition from Tyre to the river of Syria, a day of water and turmoil.
 
 **Micah 7:13**
 
-And earth will be for destruction with those inhabiting it, because of fruits of their practices.
+And the earth will be for destruction with the ones inhabiting it, because of the fruits of their practices.
 
 **Micah 7:14**
 
-Shepherd your people with your rod, sheep of your inheritance, dwelling by themselves in the forest in the midst of Carmel; they will pasture Bashan and Gilead as days of age.
+Shepherd your people with your rod, the sheep of your inheritance, dwelling by themselves in the forest in the midst of Carmel; they will pasture Bashan and Gilead as days of age.
 
 **Micah 7:15**
 
-According to days of your departure from Egypt, you will see wonders.
+According to the days of your departure from Egypt, you will see wonders.
 
 **Micah 7:16**
 
-Nations will see and be ashamed from all their strength; they will put hands on mouth, and their ears will be deafened.
+Nations will see and be ashamed from all their strength; they will put their hands on their mouth, and their ears will be deafened.
 
 **Micah 7:17**
 
-They will lick dust like snakes dragging earth; they will be confounded in their enclosure. At the Lord our God they will be amazed and fear because of you.
+They will lick dust like serpents dragging earth; they will be confounded in their confinement. At the Lord our God they will be amazed and fear because of you.
 
 **Micah 7:18**
 
-Who is God like you, removing injustices and passing over impiety for the remnant of his inheritance? He did not hold back his anger for witness, because he delights in mercy.
+Who is a God like you, removing injustices and passing over impiety for the remnant of his inheritance? He did not hold back his anger for witness, because he delights in mercy.
 
 **Micah 7:19**
 
-He will turn and pity us; he will sink our injustices, and all our sins will be cast into the depths of sea.
+He himself will turn and pity us; he will sink our injustices, and all our sins will be cast into the depths of the sea.
 
 **Micah 7:20**
 
