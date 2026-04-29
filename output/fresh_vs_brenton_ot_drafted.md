@@ -200560,28 +200560,28 @@ Note:
 ### Obadiah 1:1
 
 - importance: high
-- decisions: 1
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: The vision of Obadiah. Thus says the Lord God to Edom: I heard a report from the Lord, and he sent a message to the nations: Rise, and let us rise against her for war.
+- fresh: The vision of Obadiah. Thus says the Lord God to Idumea: I heard a report from the Lord, and he sent out a message to the nations: Rise up, and let us rise up against her for war.
 - brenton: The vision of Obdias. Thus saith the Lord God to Idumea; I have heard a report from the Lord, and he has sent forth a message to the nations.
 
 ### Obadiah 1:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I made you few among nations; you are greatly dishonored.
+- fresh: Behold, I have made you very few among the nations; you are greatly dishonored.
 - brenton: Arise ye, and let us rise up against her to war.
 
 ### Obadiah 1:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: The arrogance of your heart lifted you up, you dwelling in holes of rocks, raising your dwelling high, saying in your heart, Who will bring me down to earth?
+- fresh: The arrogance of your heart lifted you up, you dwelling in the holes of the rocks, raising his dwelling high, saying in his heart, Who will bring me down to the earth?
 - brenton: Behold, I have made thee small among the Gentiles: thou art greatly dishonoured. The pride of thine heart has elated thee, dwelling as thou dost in the holes of the rocks, as one that exalts his habitation, saying in his heart, Who will bring me down to the ground?
 
 ### Obadiah 1:4
@@ -200590,16 +200590,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: If you soar high like an eagle and set your nest among stars, from there I will bring you down, says the Lord.
+- fresh: If you soar high like an eagle and set your nest among the stars, from there I will bring you down, says the Lord.
 - brenton: If thou shouldest mount up as the eagle, and if thou shouldest make thy nest among the stars, thence will I bring thee down, saith the Lord.
 
 ### Obadiah 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: If thieves entered to you, or robbers by night, where would you have been cast away? Would they not have stolen enough for themselves? And if grape-gatherers entered to you, would they not have left gleanings?
+- fresh: If thieves entered to you, or robbers by night, where would you have been cast away? Would they not have stolen enough for themselves? And if grape-gatherers entered to you, would they not have left a gleaning?
 - brenton: If thieves came in to thee, or robbers by night, where wouldest thou have been cast away? would they not have stolen just enough for themselves? and if grape-gatherers went in to thee, would they not leave a gleaning?
 
 ### Obadiah 1:6
@@ -200608,31 +200608,31 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: How Esau was searched out and his hidden things seized.
+- fresh: How Esau was searched out and his hidden things were seized.
 - brenton: How has Esau been searched out, and how have his hidden things been detected?
 
 ### Obadiah 1:7
 
 - importance: high
-- decisions: 1
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: To your borders they sent you away, all men of your covenant. Your peaceful men opposed you and prevailed against you. They set ambush under you; there is no understanding in them.
+- fresh: As far as your borders they sent you away, all the men of your covenant. Your peaceful men opposed you and prevailed against you. They set an ambush under you; there is no understanding in them.
 - brenton: They sent thee to thy coasts: all the men of thy covenant have withstood thee; thine allies have prevailed against thee, they have set snares under thee: they have no understanding.
 
 ### Obadiah 1:8
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day, says the Lord, I will destroy wise men from Edom and understanding from the mount of Esau.
+- fresh: In that day, says the Lord, I will destroy wise men from Idumea and understanding from the mount of Esau.
 - brenton: In that day, saith the Lord, I will destroy the wise men out of Idumea, and understanding out of the mount of Esau.
 
 ### Obadiah 1:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Your warriors from Teman will be terrified, so that a man may be cut off from the mount of Esau.
@@ -200641,19 +200641,19 @@ Note:
 ### Obadiah 1:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because of slaughter and impiety toward your brother Jacob, shame will cover you, and you will be cut off forever.
+- fresh: Because of the slaughter and impiety toward your brother Jacob, shame will cover you, and you will be cut off forever.
 - brenton: Because of the slaughter and the sin committed against thy brother Jacob, shame shall cover thee, and thou shalt be cut off for ever.
 
 ### Obadiah 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: From the day when you stood opposite, on the day when foreigners carried away his strength and strangers entered his gates and cast lots over Jerusalem, you also were as one of them.
+- fresh: From the day when you stood opposite, on the day when foreigners carried away his force and strangers entered his gates and cast lots over Jerusalem, you also were as one of them.
 - brenton: From the day that thou stoodest in opposition to him, in the days when foreigners were taking captive his forces, and strangers entered into his gates, and cast lots on Jerusalem, thou also wast as one of them.
 
 ### Obadiah 1:12
@@ -200668,28 +200668,28 @@ Note:
 ### Obadiah 1:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not enter gates of my people in the day of their pain, do not also look on their gathering in the day of their ruin, and do not also join attack upon their strength in the day of their destruction.
+- fresh: Do not enter gates of peoples in the day of their pains, do not also look on their gathering in the day of their ruin, and do not also join attack upon their force in the day of their destruction.
 - brenton: Neither shouldest thou have gone into the gates of the people in the day of their troubles; nor yet shouldest thou have looked upon their gathering in the day of their destruction, nor shouldest thou have attacked their host in the day of their perishing.
 
 ### Obadiah 1:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Do not stand at their outlets to destroy their survivors, and do not imprison their fugitives in the day of distress.
+- fresh: Do not stand at their outlets to destroy those being rescued from them, and do not imprison their fugitives in the day of distress.
 - brenton: Neither shouldest thou have stood at the opening of their passages, to destroy utterly those of them that were escaping; neither shouldest thou have shut up his fugitives in the day of affliction.
 
 ### Obadiah 1:15
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the day of the Lord is near upon all nations. As you did, so it will be to you; your repayment will be returned on your head.
+- fresh: Because the day of the Lord is near upon all the nations. As you did, so it will be to you; your repayment will be returned on your head.
 - brenton: For the day of the Lord is near upon all the Gentiles: as thou hast done, so shall it be done to thee: thy recompense shall be returned on thine own head.
 
 ### Obadiah 1:16
@@ -200698,13 +200698,13 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because as you drank on my holy mountain, all nations will drink wine; they will drink and go down, and they will be as though not existing.
+- fresh: Because as you drank on my holy mountain, all the nations will drink wine; they will drink and go down, and they will be as though not existing.
 - brenton: For as thou hast drunk upon my holy mountain, so shall all the nations drink wine; they shall drink, and go down, and be as if they were not.
 
 ### Obadiah 1:17
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: But on Mount Zion there will be salvation, and it will be holy, and the house of Jacob will inherit those who inherited them.
@@ -200713,10 +200713,10 @@ Note:
 ### Obadiah 1:18
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: The house of Jacob will be fire, the house of Joseph a flame, and the house of Esau stubble; they will burn among them and devour them, and there will be no fire-bearer in the house of Esau, because the Lord spoke.
+- fresh: And the house of Jacob will be fire, and the house of Joseph a flame, and the house of Esau for stubble; they will burn among them and devour them, and there will be no grain-bearer in the house of Esau, because the Lord spoke.
 - brenton: And the house of Jacob shall be fire, and the house of Joseph a flame, and the house of Esau shall be for stubble; and Israel shall flame forth against them, and shall devour them, and there shall not be a corn-field left to the house of Esau; because the Lord has spoken.
 
 ### Obadiah 1:19
@@ -200731,16 +200731,16 @@ Note:
 ### Obadiah 1:20
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: This beginning of exile belongs to the sons of Israel: land of Canaanites as far as Sarepta, and exile of Jerusalem as far as Ephrathah; they will inherit cities of Negeb.
+- fresh: This beginning of exile belongs to the sons of Israel: land of the Canaanites as far as Sarepta, and exile of Jerusalem as far as Ephrathah; they will inherit the cities of Negeb.
 - brenton: And this shall be the domain of the captivity of the children of Israel, the land of the Chananites as far as Sarepta; and the captives of Jerusalem shall inherit as far as Ephratha; they shall inherit the cities of the south.
 
 ### Obadiah 1:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Rescued men will go up from Mount Zion to avenge the mount of Esau, and the kingdom will belong to the Lord.

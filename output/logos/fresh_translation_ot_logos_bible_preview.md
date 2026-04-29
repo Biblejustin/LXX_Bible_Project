@@ -514,17 +514,17 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Obadiah
 
-**Obadiah 1:1** The vision of Obadiah. Thus says the Lord God to Edom: I heard a report from the Lord, and he sent a message to the nations: Rise, and let us rise against her for war.
+**Obadiah 1:1** The vision of Obadiah. Thus says the Lord God to Idumea: I heard a report from the Lord, and he sent out a message to the nations: Rise up, and let us rise up against her for war.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 24
 
-**Obadiah 1:2** Behold, I made you few among nations; you are greatly dishonored.
+**Obadiah 1:2** Behold, I have made you very few among the nations; you are greatly dishonored.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 8
 
-**Obadiah 1:3** The arrogance of your heart lifted you up, you dwelling in holes of rocks, raising your dwelling high, saying in your heart, Who will bring me down to earth?
+**Obadiah 1:3** The arrogance of your heart lifted you up, you dwelling in the holes of the rocks, raising his dwelling high, saying in his heart, Who will bring me down to the earth?
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 14

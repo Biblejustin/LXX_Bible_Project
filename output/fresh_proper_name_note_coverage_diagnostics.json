@@ -5,7 +5,7 @@
   "logos_db": "/Users/justinscaggs/Library/Application Support/Logos4/Data/5gtnpjgs.gns/AutoComplete/AutoComplete.db",
   "ukjv_witness_rows": 31102,
   "hitchcock_meaning_rows": 2731,
-  "note_rows": 2505,
+  "note_rows": 2506,
   "source_counts": {
     "ot_rows": 22909,
     "nt_rows": 7957
@@ -16,13 +16,13 @@
     "equivalent_aligned": 814,
     "included_unclassified_resolved_source_form": 485,
     "included_transliterated_form": 492,
-    "included_place": 515,
+    "included_place": 516,
     "equivalent_alias": 61,
     "equivalent_direct": 1399,
     "included_people_group": 221,
     "skipped_existing_same_source": 198,
     "included_person": 1180,
-    "equivalent_manual": 78,
+    "equivalent_manual": 79,
     "equivalent_1": 83,
     "included_supernatural_being": 35,
     "equivalent_0": 8,
@@ -297,7 +297,7 @@
       "equivalent_source": "UKJV same-reference name-order alignment",
       "equivalent_confidence": "aligned",
       "footnote": "Place-name meaning: Edom \u2014 red; earthy; bloody. Source form: Edom. Greek form: \u1fbf\u0395\u03b4\u1f7d\u03bc. Equivalent source: UKJV same-reference name-order alignment.",
-      "occurrences": "97",
+      "occurrences": "95",
       "sample_refs": "Genesis 25:30; Genesis 32:3; Genesis 36:1; Genesis 36:8; Genesis 36:9; Genesis 36:16; Genesis 36:17; Genesis 36:19",
       "reason": "logos_primary_place_atlas_link_preserved"
     },

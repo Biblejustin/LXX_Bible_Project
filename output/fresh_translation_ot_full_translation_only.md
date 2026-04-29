@@ -90946,35 +90946,35 @@ And I will plant them upon their land, and they will certainly no longer be pull
 
 **Obadiah 1:1**
 
-The vision of Obadiah. Thus says the Lord God to Edom: I heard a report from the Lord, and he sent a message to the nations: Rise, and let us rise against her for war.
+The vision of Obadiah. Thus says the Lord God to Idumea: I heard a report from the Lord, and he sent out a message to the nations: Rise up, and let us rise up against her for war.
 
 **Obadiah 1:2**
 
-Behold, I made you few among nations; you are greatly dishonored.
+Behold, I have made you very few among the nations; you are greatly dishonored.
 
 **Obadiah 1:3**
 
-The arrogance of your heart lifted you up, you dwelling in holes of rocks, raising your dwelling high, saying in your heart, Who will bring me down to earth?
+The arrogance of your heart lifted you up, you dwelling in the holes of the rocks, raising his dwelling high, saying in his heart, Who will bring me down to the earth?
 
 **Obadiah 1:4**
 
-If you soar high like an eagle and set your nest among stars, from there I will bring you down, says the Lord.
+If you soar high like an eagle and set your nest among the stars, from there I will bring you down, says the Lord.
 
 **Obadiah 1:5**
 
-If thieves entered to you, or robbers by night, where would you have been cast away? Would they not have stolen enough for themselves? And if grape-gatherers entered to you, would they not have left gleanings?
+If thieves entered to you, or robbers by night, where would you have been cast away? Would they not have stolen enough for themselves? And if grape-gatherers entered to you, would they not have left a gleaning?
 
 **Obadiah 1:6**
 
-How Esau was searched out and his hidden things seized.
+How Esau was searched out and his hidden things were seized.
 
 **Obadiah 1:7**
 
-To your borders they sent you away, all men of your covenant. Your peaceful men opposed you and prevailed against you. They set ambush under you; there is no understanding in them.
+As far as your borders they sent you away, all the men of your covenant. Your peaceful men opposed you and prevailed against you. They set an ambush under you; there is no understanding in them.
 
 **Obadiah 1:8**
 
-In that day, says the Lord, I will destroy wise men from Edom and understanding from the mount of Esau.
+In that day, says the Lord, I will destroy wise men from Idumea and understanding from the mount of Esau.
 
 **Obadiah 1:9**
 
@@ -90982,11 +90982,11 @@ Your warriors from Teman will be terrified, so that a man may be cut off from th
 
 **Obadiah 1:10**
 
-Because of slaughter and impiety toward your brother Jacob, shame will cover you, and you will be cut off forever.
+Because of the slaughter and impiety toward your brother Jacob, shame will cover you, and you will be cut off forever.
 
 **Obadiah 1:11**
 
-From the day when you stood opposite, on the day when foreigners carried away his strength and strangers entered his gates and cast lots over Jerusalem, you also were as one of them.
+From the day when you stood opposite, on the day when foreigners carried away his force and strangers entered his gates and cast lots over Jerusalem, you also were as one of them.
 
 **Obadiah 1:12**
 
@@ -90994,19 +90994,19 @@ Do not look on the day of your brother in the day of strangers, and do not rejoi
 
 **Obadiah 1:13**
 
-Do not enter gates of my people in the day of their pain, do not also look on their gathering in the day of their ruin, and do not also join attack upon their strength in the day of their destruction.
+Do not enter gates of peoples in the day of their pains, do not also look on their gathering in the day of their ruin, and do not also join attack upon their force in the day of their destruction.
 
 **Obadiah 1:14**
 
-Do not stand at their outlets to destroy their survivors, and do not imprison their fugitives in the day of distress.
+Do not stand at their outlets to destroy those being rescued from them, and do not imprison their fugitives in the day of distress.
 
 **Obadiah 1:15**
 
-Because the day of the Lord is near upon all nations. As you did, so it will be to you; your repayment will be returned on your head.
+Because the day of the Lord is near upon all the nations. As you did, so it will be to you; your repayment will be returned on your head.
 
 **Obadiah 1:16**
 
-Because as you drank on my holy mountain, all nations will drink wine; they will drink and go down, and they will be as though not existing.
+Because as you drank on my holy mountain, all the nations will drink wine; they will drink and go down, and they will be as though not existing.
 
 **Obadiah 1:17**
 
@@ -91014,7 +91014,7 @@ But on Mount Zion there will be salvation, and it will be holy, and the house of
 
 **Obadiah 1:18**
 
-The house of Jacob will be fire, the house of Joseph a flame, and the house of Esau stubble; they will burn among them and devour them, and there will be no fire-bearer in the house of Esau, because the Lord spoke.
+And the house of Jacob will be fire, and the house of Joseph a flame, and the house of Esau for stubble; they will burn among them and devour them, and there will be no grain-bearer in the house of Esau, because the Lord spoke.
 
 **Obadiah 1:19**
 
@@ -91022,7 +91022,7 @@ Those in Negeb will inherit the mount of Esau, and those in Shephelah the foreig
 
 **Obadiah 1:20**
 
-This beginning of exile belongs to the sons of Israel: land of Canaanites as far as Sarepta, and exile of Jerusalem as far as Ephrathah; they will inherit cities of Negeb.
+This beginning of exile belongs to the sons of Israel: land of the Canaanites as far as Sarepta, and exile of Jerusalem as far as Ephrathah; they will inherit the cities of Negeb.
 
 **Obadiah 1:21**
 
