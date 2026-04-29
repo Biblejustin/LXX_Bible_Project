@@ -197332,43 +197332,43 @@ Note:
 ### Hosea 5:1
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear these things, priests, and pay attention, house of Israel, and the house of the king, listen closely, because the judgment is toward you, because you became a snare at the lookout and like a net spread out on Tabor.
+- fresh: Hear these things, priests, and pay attention, house of Israel, and the house of the king, listen closely, because the judgment is against you, because you became a snare at the lookout and like a net spread out on Tabor.
 - brenton: Hear these things, ye priests; and attend, O house of Israel; and hearken, O house of the king; for the controversy is with you, because ye have been a snare in Scopia, and as a net spread on Itabyrium,
 
 ### Hosea 5:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And those hunting the prey drove it down deep, but I am your disciplinarian.
+- fresh: And those hunting the prey fixed it deep, but I am your disciplinarian.
 - brenton: which they that hunt the prey have fixed: but I will correct you.
 
 ### Hosea 5:3
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: I knew Ephraim, and Israel is not hidden from me, because now Ephraim prostituted itself and Israel was defiled.
+- fresh: I know Ephraim, and Israel is not far from me, because now Ephraim prostituted itself and Israel was defiled.
 - brenton: I know Ephraim, and Israel is not far from me: for now Ephraim has gone grievously a-whoring, Israel is defiled.
 
 ### Hosea 5:4
 
 - importance: high
-- decisions: 1
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: They have not set their counsels toward returning to their God, because a spirit of whoredom is in them, and they did not know the Lord.
+- fresh: They did not set their counsels to return to their God, because a spirit of whoredom is in them, and they did not know the Lord.
 - brenton: They have not framed their counsels to return to their God, for the spirit of fornication is in them, and they have not known the Lord.
 
 ### Hosea 5:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And the arrogance of Israel will be humbled before his face, and Israel and Ephraim will grow weak in their injustices, and Judah will grow weak with them.
@@ -197377,7 +197377,7 @@ Note:
 ### Hosea 5:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: With sheep and calves they will go to seek the Lord and will never find him, because he turned aside from them.
@@ -197386,7 +197386,7 @@ Note:
 ### Hosea 5:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Because they abandoned the Lord, because foreign children were born to them; now mildew will devour them and their allotments.
@@ -197395,25 +197395,25 @@ Note:
 ### Hosea 5:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Blow trumpet on the hills, sound on the heights, proclaim in the house of On. Benjamin is beside himself.
+- fresh: Blow a trumpet on the hills, sound on the heights, proclaim in the house of On. Benjamin is amazed.
 - brenton: Blow ye the trumpet on the hills, sound aloud on the heights: proclaim in the house of On, Benjamin is amazed.
 
 ### Hosea 5:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Ephraim became for destruction in the days of rebuke; among tribes of Israel I showed faithful things.
+- fresh: Ephraim became for destruction in the days of rebuke; among the tribes of Israel I showed faithful things.
 - brenton: Ephraim has come to nought in the days of reproof: in the tribes of Israel I have shown faithful dealings.
 
 ### Hosea 5:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: The rulers of Judah became like those moving boundaries; on them I will pour out my rushing force like water.
@@ -197422,7 +197422,7 @@ Note:
 ### Hosea 5:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Ephraim oppressed his adversary and trampled judgment, because he began to go after empty things.
@@ -197431,7 +197431,7 @@ Note:
 ### Hosea 5:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And I am like turmoil to Ephraim and like a sting to the house of Judah.
@@ -197440,7 +197440,7 @@ Note:
 ### Hosea 5:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: And Ephraim saw his sickness and Judah his pain, and Ephraim went to Assyrians and sent envoys to King Jareb, but he was not able to heal you, nor will pain depart from you.
@@ -197449,7 +197449,7 @@ Note:
 ### Hosea 5:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Because I am like a panther to Ephraim and like a lion to the house of Judah, and I will snatch and go away and take, and there will be no one delivering.
@@ -197458,7 +197458,7 @@ Note:
 ### Hosea 5:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: I will go and return to my place until they are destroyed and seek my face; in their affliction they will rise early toward me, saying,

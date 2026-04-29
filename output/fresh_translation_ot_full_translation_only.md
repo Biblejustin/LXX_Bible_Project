@@ -89462,19 +89462,19 @@ You are a swirling wind in her wings, and they will be put to shame because of t
 
 **Hosea 5:1**
 
-Hear these things, priests, and pay attention, house of Israel, and the house of the king, listen closely, because the judgment is toward you, because you became a snare at the lookout and like a net spread out on Tabor.
+Hear these things, priests, and pay attention, house of Israel, and the house of the king, listen closely, because the judgment is against you, because you became a snare at the lookout and like a net spread out on Tabor.
 
 **Hosea 5:2**
 
-And those hunting the prey drove it down deep, but I am your disciplinarian.
+And those hunting the prey fixed it deep, but I am your disciplinarian.
 
 **Hosea 5:3**
 
-I knew Ephraim, and Israel is not hidden from me, because now Ephraim prostituted itself and Israel was defiled.
+I know Ephraim, and Israel is not far from me, because now Ephraim prostituted itself and Israel was defiled.
 
 **Hosea 5:4**
 
-They have not set their counsels toward returning to their God, because a spirit of whoredom is in them, and they did not know the Lord.
+They did not set their counsels to return to their God, because a spirit of whoredom is in them, and they did not know the Lord.
 
 **Hosea 5:5**
 
@@ -89490,11 +89490,11 @@ Because they abandoned the Lord, because foreign children were born to them; now
 
 **Hosea 5:8**
 
-Blow trumpet on the hills, sound on the heights, proclaim in the house of On. Benjamin is beside himself.
+Blow a trumpet on the hills, sound on the heights, proclaim in the house of On. Benjamin is amazed.
 
 **Hosea 5:9**
 
-Ephraim became for destruction in the days of rebuke; among tribes of Israel I showed faithful things.
+Ephraim became for destruction in the days of rebuke; among the tribes of Israel I showed faithful things.
 
 **Hosea 5:10**
 
