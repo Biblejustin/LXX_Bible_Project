@@ -609,7 +609,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 9
 
-**Zephaniah 1:3** Let human and cattle fail; let birds of heaven and fish of the sea fail, and I will take humans away from the face of the earth, says the Lord.
+**Zephaniah 1:3** Let human and cattle fail; let the birds of heaven and the fish of the sea fail, and I will take humans away from the face of the earth, says the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 15

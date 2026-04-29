@@ -9,4 +9,4 @@ Changes:
 Validation:
 - Fast CSV shape check passed for source, footnotes, decisions, and reviewed phrase guards.
 - `python3 scripts/run_fast_review_checkpoint.py --testament ot --refs 'Zephaniah 1:7-13'` passed.
-- Full aggregate/DOCX checkpoint intentionally deferred for chapter boundary.
+- Full aggregate/DOCX checkpoint passed at the Zephaniah 1 boundary.

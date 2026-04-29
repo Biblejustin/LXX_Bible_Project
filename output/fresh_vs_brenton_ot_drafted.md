@@ -203081,37 +203081,37 @@ Note:
 ### Zephaniah 1:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let human and cattle fail; let birds of heaven and fish of the sea fail, and I will take humans away from the face of the earth, says the Lord.
+- fresh: Let human and cattle fail; let the birds of heaven and the fish of the sea fail, and I will take humans away from the face of the earth, says the Lord.
 - brenton: Let man and cattle be cut off; let the birds of the air and the fishes of the sea be cut off; and the ungodly shall fail, and I will take away the transgressors from the face of the land, saith the Lord.
 
 ### Zephaniah 1:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will stretch out my hand upon Judah and upon all inhabiting Jerusalem, and I will remove from this place names of Baal and names of the priests,
+- fresh: And I will stretch out my hand upon Judah and upon all the inhabitants of Jerusalem, and I will remove from this place the names of Baal and the names of the priests,
 - brenton: And I will stretch out mine hand upon Juda, and upon all the inhabitants of Jerusalem; and I will remove the names of Baal out of this place, and the names of the priests;
 
 ### Zephaniah 1:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: and those worshiping on housetops army of heaven and those swearing by the Lord and those swearing by their king,
+- fresh: and those worshiping the army of heaven on the housetops, and those swearing by the Lord and those swearing by their king,
 - brenton: and them that worship the host of heaven upon the house-tops; and them that worship and swear by the Lord, and them that swear by their king;
 
 ### Zephaniah 1:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and those turning aside from the Lord and those not seeking the Lord and not clinging to the Lord.
+- fresh: and those turning aside from the Lord and those not seeking the Lord and those not clinging to the Lord.
 - brenton: and them that turn aside from the Lord, and them that seek not the Lord, and them that cleave not to the Lord.
 
 ### Zephaniah 1:7
@@ -203126,100 +203126,100 @@ Note:
 ### Zephaniah 1:8
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in the day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all wearing foreign garments.
+- fresh: And it will be in the day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all those wearing foreign garments.
 - brenton: And it shall come to pass in the day of the Lord's sacrifice, that I will take vengeance on the princes, and on the king's house, and upon all that wear strange apparel.
 
 ### Zephaniah 1:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will avenge openly upon the porches in that day, those filling house of the Lord their God with impiety and deceit.
+- fresh: And I will take vengeance in that day openly at the foregates on all those filling the house of the Lord their God with impiety and deceit.
 - brenton: And I will openly take vengeance on the porches in that day, on the men that fill the house of the Lord their God with ungodliness and deceit.
 
 ### Zephaniah 1:10
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, says the Lord, the sound of a cry from the gate of attackers and wailing from the Second Quarter and great crushing from hills.
+- fresh: And it will be in that day, says the Lord, the sound of a cry from the gate of those piercing and wailing from the second gate and great crushing from the hills.
 - brenton: And there shall be in that day, saith the Lord, the sound of a cry from the gate of men slaying, and a howling from the second gate, and a great crashing from the hills.
 
 ### Zephaniah 1:11
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Lament, inhabitants of the Cut-place, because all the people of Canaan have become like nothing; all lifted up with silver were destroyed.
+- fresh: Lament, inhabitants of the cut-down place, because all the people have been likened to Canaan; all those lifted up with silver were destroyed.
 - brenton: Lament, ye that inhabit the city that has been broken down, for all the people has become like Chanaan; and all that were exalted by silver have been utterly destroyed.
 
 ### Zephaniah 1:12
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, I will search Jerusalem with lamp and avenge upon men despising on their watch-posts, those saying in their hearts, the Lord will not do good, and he will not do harm.
+- fresh: And it will be in that day, I will search Jerusalem with a lamp and take vengeance on the men despising their charges, those saying in their hearts, The Lord will certainly not do good, nor will he certainly do harm.
 - brenton: And it shall come to pass in that day, that I will search Jerusalem with a candle, and will take vengeance on the men that despise the things committed to them; but they say in their hearts, The Lord will not do any good, neither will he do any evil.
 
 ### Zephaniah 1:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And their strength will be for plunder and their houses for disappearance, and they will build houses and certainly not dwell in them and plant vineyards and certainly not drink their wine.
+- fresh: And their power will be for plunder and their houses for a disappearance, and they will build houses and certainly not dwell in them, and they will plant vineyards and certainly not drink their wine.
 - brenton: And their power shall be for a spoil, and their houses for utter desolation; and they shall build houses, but shall not dwell in them; and they shall plant vineyards, but shall not drink the wine of them.
 
 ### Zephaniah 1:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because the great day of the Lord is near, near and very swift. The voice of the Lord's day bitter and hard, appointed strong.
+- fresh: Because the great day of the Lord is near, near and very swift. The mighty voice of the day of the Lord has been appointed bitter and hard.
 - brenton: For the great day of the Lord is near, it is near, and very speedy; the sound of the day of the Lord is made bitter and harsh.
 
 ### Zephaniah 1:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: That day is a day of wrath, day of distress and necessity, day of untimeliness and disappearance, day of darkness and gloom, day of cloud and mist,
+- fresh: That day is a day of wrath, a day of distress and necessity, a day of untimeliness and disappearance, a day of darkness and gloom, a day of cloud and mist,
 - brenton: A mighty day of wrath is that day, a day of affliction and distress, a day of desolation and destruction, a day of gloominess and darkness, a day of cloud and vapour,
 
 ### Zephaniah 1:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: day of trumpet and cry against fortified cities and against lofty corners.
+- fresh: a day of trumpet and cry against the fortified cities and against the lofty corners.
 - brenton: a day of the trumpet and cry against the strong cities, and against the high towers.
 
 ### Zephaniah 1:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will press humans, and they will walk as blind, because they sinned against the Lord, and he will pour out their blood like dust and their flesh like dung.
+- fresh: And I will afflict humans, and they will walk like blind men, because they sinned against the Lord, and he will pour out their blood like dust and their flesh like dung.
 - brenton: And I will greatly afflict the men, and they shall walk as blind men, because they have sinned against the Lord; therefore he shall pour out their blood as dust, and their flesh as dung.
 
 ### Zephaniah 1:18
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And their silver and their gold will certainly not be able to rescue them in the day of the Lord's wrath, and in the fire of his zeal all the earth will be consumed, because he will make complete and hurried end upon all inhabiting earth.
+- fresh: And their silver and their gold will certainly not be able to rescue them in the day of the Lord's wrath, and in the fire of his zeal all the earth will be consumed, because he will make completion and haste upon all those inhabiting the earth.
 - brenton: And their silver and their gold shall in nowise be able to rescue them in the day of the Lord's wrath; but the whole land shall be devoured by the fire of his jealousy; for he will bring a speedy destruction on all them that inhabit the land.
 
 ### Zephaniah 2:1
