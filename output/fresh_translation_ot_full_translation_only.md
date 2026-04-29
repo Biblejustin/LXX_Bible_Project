@@ -87496,31 +87496,31 @@ And in the seventh month, on the fifteenth of the month, at the feast you will d
 
 **Ezekiel 46:1**
 
-Thus says the Lord God: The gate in the inner court facing east will remain shut during six working days, but on Sabbath day it will be opened, and on the day of new moon it will be opened.
+Thus says the Lord God: The gate in the inner court facing east will remain shut during the six working days, but on the day of the Sabbaths it will be opened, and on the day of the new moon it will be opened.
 
 **Ezekiel 46:2**
 
-And the ruler will enter by way of the porch of the outer gate and stand by the thresholds of the gate, and the priests will offer his burnt offerings and his offerings of salvation, and he will worship at threshold of the gate and go out, and the gate will not be shut until evening.
+And the ruler will enter by way of the porch of the outer gate and stand at the thresholds of the gate, and the priests will make his whole burnt offerings and his offerings of salvation, and he will worship at the threshold of the gate and go out, and the gate will not be shut until evening.
 
 **Ezekiel 46:3**
 
-And the people of the land will worship at thresholds of that gate on Sabbaths and on new moons before the Lord.
+And the people of the land will worship at the thresholds of that gate on the Sabbaths and on the new moons before the Lord.
 
 **Ezekiel 46:4**
 
-And burnt offerings that the ruler will offer to the Lord on Sabbath day: six flawless lambs and a flawless ram.
+And the whole burnt offerings that the ruler will offer to the Lord on the day of the Sabbaths: six flawless lambs and a flawless ram.
 
 **Ezekiel 46:5**
 
-And grain offering, a cake with the ram, and for the lambs a sacrifice, gift of his hand, and of oil a hin with the cake.
+And the grain offering: a cake with the ram, and for the lambs a sacrifice, gift of his hand, and a hin of oil with the cake.
 
 **Ezekiel 46:6**
 
-And on the day of new moon, a flawless bull and six lambs and a flawless ram.
+And on the day of the new moon, a flawless bull and six lambs, and there will be a flawless ram.
 
 **Ezekiel 46:7**
 
-And with the bull a cake and with the ram a cake will be grain offering, and for the lambs as his hand can afford, and of oil a hin with the cake.
+And a cake with the ram and a cake with the bull will be the grain offering, and for the lambs as his hand can afford, and a hin of oil with the cake.
 
 **Ezekiel 46:8**
 
@@ -87528,7 +87528,7 @@ And when the ruler enters, by way of the porch of the gate he will enter, and by
 
 **Ezekiel 46:9**
 
-And when people of the land enter before the Lord at the feasts, whoever enters by way of the north gate to worship will go out by way of the south gate, and whoever enters by way of the south gate will go out by way of the north gate; he will not return by the gate through which he entered, but he will go straight out opposite it.
+And when the people of the land enter before the Lord at the feasts, whoever enters by way of the north gate to worship will go out by way of the south gate, and whoever enters by way of the south gate will go out by way of the north gate; he will not return by the gate through which he entered, but he will go straight out opposite it.
 
 **Ezekiel 46:10**
 
@@ -87536,59 +87536,59 @@ And the ruler in the midst of them, when they enter, he will enter with them, an
 
 **Ezekiel 46:11**
 
-And at the feasts and at the assemblies there will be grain offering, a cake with the bull and a cake with the ram, and for the lambs as his hand can afford, and of oil a hin with the cake.
+And at the feasts and at the assemblies there will be the grain offering, a cake with the bull and a cake with the ram, and for the lambs as his hand can afford, and a hin of oil with the cake.
 
 **Ezekiel 46:12**
 
-And if the ruler prepares a voluntary offering, a burnt offering, offerings of salvation to the Lord, they will open for him the gate facing east, and he will prepare his burnt offering and his offerings of salvation just as he does on Sabbath day, and he will go out, and they will shut the doors after he goes out.
+And if the ruler makes a confession offering, a whole burnt offering of salvation to the Lord, and opens for himself the gate facing east, he will make his whole burnt offering and his offerings of salvation just as he does on the day of the Sabbaths, and he will go out, and he will shut the doors after he has gone out.
 
 **Ezekiel 46:13**
 
-And he will prepare as burnt offering to the Lord each day a year-old flawless lamb; in morning he will prepare it.
+And he will make a year-old flawless lamb as a whole burnt offering each day to the Lord; in the morning he will make it.
 
 **Ezekiel 46:14**
 
-And with it in morning he will prepare grain offering, a sixth of a measure, and of oil a third of a hin, to mix the fine flour, a grain offering to the Lord, a perpetual ordinance forever.
+And with it in the morning he will make a grain offering: a sixth of the measure and a third of a hin of oil, to mix the fine flour, a grain offering to the Lord, a continual ordinance.
 
 **Ezekiel 46:15**
 
-They will prepare the lamb and the grain offering and the oil in morning, a perpetual burnt offering.
+You will make the lamb and the grain offering and the oil in the morning, a continual whole burnt offering.
 
 **Ezekiel 46:16**
 
-Thus says the Lord God: If the ruler gives a gift to one of his sons from his inheritance, it will belong to his sons; it is their possession by inheritance.
+Thus says the Lord God: If the ruler gives a gift to one of his sons from his inheritance, this will belong to his sons; it is their possession by inheritance.
 
 **Ezekiel 46:17**
 
-And if he gives a gift from his inheritance to one of his servants, it will be his until the year of release, and it will return to the ruler; only inheritance of his sons will remain theirs.
+And if he gives a gift to one of his servants, it will be his until the year of release, and he will return it to the ruler; except for the inheritance of his sons, it will be theirs.
 
 **Ezekiel 46:18**
 
-And the ruler will not take from inheritance of the people so as to oppress them out of their possession; from his own possession he will give inheritance to his sons, so that my people are not scattered, each from his possession.
+And the ruler will certainly not take from the inheritance of the people to oppress them; from his own possession he will give inheritance to his sons, so that my people are not scattered, each from his possession.
 
 **Ezekiel 46:19**
 
-And he brought me into the entrance at back of the gate, into the chamber of holy things for the priests, the one facing north, and behold, a place there set apart.
+And he brought me into the entrance behind the gate, into the chamber of the holy things of the priests, the one facing north, and behold, a place was there set apart.
 
 **Ezekiel 46:20**
 
-And he said to me, This is place where priests will boil the things for ignorance and the things for sin, and there they will bake the grain offering, so as not to bring them out into outer court to sanctify the people.
+And he said to me, This is the place where the priests will boil the things for ignorance and the things for sin, and there they will bake the grain offering, so as not to bring them out into the outer court to sanctify the people.
 
 **Ezekiel 46:21**
 
-And he brought me out into outer court and led me around to the four corners of the court, and behold, a court at the corner of the court, a court at the corner of the court.
+And he brought me out into the outer court and led me around to the four sides of the court, and behold, a court at the side of the court, a court at the side of the court.
 
 **Ezekiel 46:22**
 
-At the four corners of the court were small courts, forty cubits in length and thirty cubits in breadth; one measure for all four.
+At the four sides of the court were small courts, forty cubits in length and thirty cubits in breadth; one measure for all four.
 
 **Ezekiel 46:23**
 
-And colonnades were around them, around the four, and cooking places were made beneath the colonnades around.
+And chambers were around in them, around the four, and cooking places were made beneath the chambers around.
 
 **Ezekiel 46:24**
 
-And he said to me, These are the houses of the kitchens where those ministering to the house will boil the sacrifices of the people.
+And he said to me, These are the houses of the cooking places where those ministering to the house will boil the sacrifices of the people.
 
 ### Chapter 47
 

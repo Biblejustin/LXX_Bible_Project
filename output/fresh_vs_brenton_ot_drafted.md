@@ -192999,70 +192999,70 @@ Note:
 ### Ezekiel 46:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: The gate in the inner court facing east will remain shut during six working days, but on Sabbath day it will be opened, and on the day of new moon it will be opened.
+- fresh: Thus says the Lord God: The gate in the inner court facing east will remain shut during the six working days, but on the day of the Sabbaths it will be opened, and on the day of the new moon it will be opened.
 - brenton: Thus saith the Lord God; The gate that is in the inner court, that looks eastward, shall be shut the six working days; but let it be opened on the sabbath-day, and it shall be opened on the day of the new moon.
 
 ### Ezekiel 46:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the ruler will enter by way of the porch of the outer gate and stand by the thresholds of the gate, and the priests will offer his burnt offerings and his offerings of salvation, and he will worship at threshold of the gate and go out, and the gate will not be shut until evening.
+- fresh: And the ruler will enter by way of the porch of the outer gate and stand at the thresholds of the gate, and the priests will make his whole burnt offerings and his offerings of salvation, and he will worship at the threshold of the gate and go out, and the gate will not be shut until evening.
 - brenton: And the prince shall enter by the way of the porch of the inner gate, and shall stand at the entrance of the gate, and the priests shall prepare his whole-burnt-offerings and his peace-offerings, and he shall worship at the entrance of the gate: then shall he come forth; but the gate shall not be shut till evening.
 
 ### Ezekiel 46:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the people of the land will worship at thresholds of that gate on Sabbaths and on new moons before the Lord.
+- fresh: And the people of the land will worship at the thresholds of that gate on the Sabbaths and on the new moons before the Lord.
 - brenton: And the people of the land shall worship at the entrance of that gate, both on the sabbaths and at the new moons, before the Lord.
 
 ### Ezekiel 46:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And burnt offerings that the ruler will offer to the Lord on Sabbath day: six flawless lambs and a flawless ram.
+- fresh: And the whole burnt offerings that the ruler will offer to the Lord on the day of the Sabbaths: six flawless lambs and a flawless ram.
 - brenton: And the prince shall offer whole-burnt-offerings to the Lord on the sabbath-day, six lambs without blemish, and a ram without blemish;
 
 ### Ezekiel 46:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And grain offering, a cake with the ram, and for the lambs a sacrifice, gift of his hand, and of oil a hin with the cake.
+- fresh: And the grain offering: a cake with the ram, and for the lambs a sacrifice, gift of his hand, and a hin of oil with the cake.
 - brenton: and a freewill-offering, a meat-offering for the ram, and a meat-offering for the lambs, the gift of his hand, and a hin of oil for the meat-offering.
 
 ### Ezekiel 46:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And on the day of new moon, a flawless bull and six lambs and a flawless ram.
+- fresh: And on the day of the new moon, a flawless bull and six lambs, and there will be a flawless ram.
 - brenton: And on the day of the new moon a calf without blemish, and six lambs, and there shall be a ram without blemish;
 
 ### Ezekiel 46:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And with the bull a cake and with the ram a cake will be grain offering, and for the lambs as his hand can afford, and of oil a hin with the cake.
+- fresh: And a cake with the ram and a cake with the bull will be the grain offering, and for the lambs as his hand can afford, and a hin of oil with the cake.
 - brenton: and a meat-offering for the ram, and there shall be a meat-offering for the calf as a freewill-offering, and for the lambs, according as his hand can furnish, and there shall be a hin of oil for the cake.
 
 ### Ezekiel 46:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And when the ruler enters, by way of the porch of the gate he will enter, and by way of the gate he will go out.
@@ -193071,16 +193071,16 @@ Note:
 ### Ezekiel 46:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And when people of the land enter before the Lord at the feasts, whoever enters by way of the north gate to worship will go out by way of the south gate, and whoever enters by way of the south gate will go out by way of the north gate; he will not return by the gate through which he entered, but he will go straight out opposite it.
+- fresh: And when the people of the land enter before the Lord at the feasts, whoever enters by way of the north gate to worship will go out by way of the south gate, and whoever enters by way of the south gate will go out by way of the north gate; he will not return by the gate through which he entered, but he will go straight out opposite it.
 - brenton: And whenever the people of the land shall go in before the Lord at the feasts, he that goes in by the way of the north gate to worship shall go forth by the way of the south gate; and he that goes in by the way of the south gate shall go forth by the way of the north gate: he shall not return by the gate by which he entered, but he shall go forth opposite it.
 
 ### Ezekiel 46:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And the ruler in the midst of them, when they enter, he will enter with them, and when they go out, he will go out.
@@ -193089,127 +193089,127 @@ Note:
 ### Ezekiel 46:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And at the feasts and at the assemblies there will be grain offering, a cake with the bull and a cake with the ram, and for the lambs as his hand can afford, and of oil a hin with the cake.
+- fresh: And at the feasts and at the assemblies there will be the grain offering, a cake with the bull and a cake with the ram, and for the lambs as his hand can afford, and a hin of oil with the cake.
 - brenton: And in the feasts and in the general assemblies the freewill oblation shall be a meat-offering for the calf, and a meat-offering for the ram, and for the lambs, as his hand can furnish, and a hin of oil for the meat-offering.
 
 ### Ezekiel 46:12
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And if the ruler prepares a voluntary offering, a burnt offering, offerings of salvation to the Lord, they will open for him the gate facing east, and he will prepare his burnt offering and his offerings of salvation just as he does on Sabbath day, and he will go out, and they will shut the doors after he goes out.
+- fresh: And if the ruler makes a confession offering, a whole burnt offering of salvation to the Lord, and opens for himself the gate facing east, he will make his whole burnt offering and his offerings of salvation just as he does on the day of the Sabbaths, and he will go out, and he will shut the doors after he has gone out.
 - brenton: And if the prince should prepare as a thanksgiving a whole-burnt-peace-offering to the Lord, and should open for himself the gate looking eastward, and offer his whole-burnt-offering, and his peace-offerings, as he does on the sabbath-day; then shall he go out, and shall shut the doors after he has gone out.
 
 ### Ezekiel 46:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will prepare as burnt offering to the Lord each day a year-old flawless lamb; in morning he will prepare it.
+- fresh: And he will make a year-old flawless lamb as a whole burnt offering each day to the Lord; in the morning he will make it.
 - brenton: And he shall prepare daily as a whole-burnt-offering to the Lord a lamb of a year old without blemish: in the morning shall he prepare it.
 
 ### Ezekiel 46:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And with it in morning he will prepare grain offering, a sixth of a measure, and of oil a third of a hin, to mix the fine flour, a grain offering to the Lord, a perpetual ordinance forever.
+- fresh: And with it in the morning he will make a grain offering: a sixth of the measure and a third of a hin of oil, to mix the fine flour, a grain offering to the Lord, a continual ordinance.
 - brenton: And he shall prepare a freewill-offering for it in the morning, the sixth part of a measure of flour, and a third part of a hin of oil to mix therewith the fine flour, as a freewill-offering to the Lord, a perpetual ordinance.
 
 ### Ezekiel 46:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: They will prepare the lamb and the grain offering and the oil in morning, a perpetual burnt offering.
+- fresh: You will make the lamb and the grain offering and the oil in the morning, a continual whole burnt offering.
 - brenton: Ye shall prepare the lamb, and the freewill-offering, and the oil in the morning, for a perpetual whole-burnt-sacrifice.
 
 ### Ezekiel 46:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: If the ruler gives a gift to one of his sons from his inheritance, it will belong to his sons; it is their possession by inheritance.
+- fresh: Thus says the Lord God: If the ruler gives a gift to one of his sons from his inheritance, this will belong to his sons; it is their possession by inheritance.
 - brenton: Thus saith the Lord God; If the prince shall give a gift to one of his sons out of his inheritance, this shall be to his sons a possession as an inheritance.
 
 ### Ezekiel 46:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And if he gives a gift from his inheritance to one of his servants, it will be his until the year of release, and it will return to the ruler; only inheritance of his sons will remain theirs.
+- fresh: And if he gives a gift to one of his servants, it will be his until the year of release, and he will return it to the ruler; except for the inheritance of his sons, it will be theirs.
 - brenton: But if he give a gift to one of his servants, then it shall belong to him until the year of release; and then he shall restore it to the prince: but of the inheritance of his sons the possession shall continue to them.
 
 ### Ezekiel 46:18
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the ruler will not take from inheritance of the people so as to oppress them out of their possession; from his own possession he will give inheritance to his sons, so that my people are not scattered, each from his possession.
+- fresh: And the ruler will certainly not take from the inheritance of the people to oppress them; from his own possession he will give inheritance to his sons, so that my people are not scattered, each from his possession.
 - brenton: And the prince shall by no means take of the inheritance of the people, to oppress them: he shall give an inheritance to his sons out of his own possession: that my people be not scattered, every one from his possession.
 
 ### Ezekiel 46:19
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he brought me into the entrance at back of the gate, into the chamber of holy things for the priests, the one facing north, and behold, a place there set apart.
+- fresh: And he brought me into the entrance behind the gate, into the chamber of the holy things of the priests, the one facing north, and behold, a place was there set apart.
 - brenton: And he brought me into the entrance of the place behind the gate, into the chamber of the sanctuary belonging to the priests, that looks toward the north: and, behold, there was a place set apart.
 
 ### Ezekiel 46:20
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, This is place where priests will boil the things for ignorance and the things for sin, and there they will bake the grain offering, so as not to bring them out into outer court to sanctify the people.
+- fresh: And he said to me, This is the place where the priests will boil the things for ignorance and the things for sin, and there they will bake the grain offering, so as not to bring them out into the outer court to sanctify the people.
 - brenton: And he said to me, This is the place where the priests shall boil the trespass-offerings and the sin-offerings, and there shall they bake the meat-offering always; so as not to carry them out into the outer court, to sanctify the people.
 
 ### Ezekiel 46:21
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he brought me out into outer court and led me around to the four corners of the court, and behold, a court at the corner of the court, a court at the corner of the court.
+- fresh: And he brought me out into the outer court and led me around to the four sides of the court, and behold, a court at the side of the court, a court at the side of the court.
 - brenton: And he brought me into the outer court, and led me round upon the four sides of the court; and, behold, there was a court on each of the sides of the court,
 
 ### Ezekiel 46:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: At the four corners of the court were small courts, forty cubits in length and thirty cubits in breadth; one measure for all four.
+- fresh: At the four sides of the court were small courts, forty cubits in length and thirty cubits in breadth; one measure for all four.
 - brenton: on every side a court, even a court for all the four sides, and each little court belonging to the court was in length forty cubits, and in breadth thirty cubits, there was one measure to the four.
 
 ### Ezekiel 46:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And colonnades were around them, around the four, and cooking places were made beneath the colonnades around.
+- fresh: And chambers were around in them, around the four, and cooking places were made beneath the chambers around.
 - brenton: And there were chambers in them round about, round about the four, and cooking-places formed under the chambers round about.
 
 ### Ezekiel 46:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, These are the houses of the kitchens where those ministering to the house will boil the sacrifices of the people.
+- fresh: And he said to me, These are the houses of the cooking places where those ministering to the house will boil the sacrifices of the people.
 - brenton: And he said to me, These are the cooks' houses, where they that serve the house shall boil the sacrifices of the people.
 
 ### Ezekiel 47:1
