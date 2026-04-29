@@ -88454,19 +88454,19 @@ And he appointed one hundred twenty-seven satraps over all his kingdom.
 
 **Daniel 6:3**
 
-And over them three men as leaders, and Daniel was one of the three men.
+And over them were three men as their leaders, and Daniel was one of the three men.
 
 **Daniel 6:4**
 
-Holding authority above all in the kingdom, Daniel was clothed in purple and was great and honored before King Darius, because he was honored and learned and intelligent, and holy spirit was in him, and he prospered in king's business. Then king determined to set Daniel over all his kingdom, together with the two men and the one hundred twenty-seven satraps appointed with him.
+Holding authority over everyone in the kingdom, Daniel was clothed in purple and was great and honored before King Darius, because he was honored and learned and intelligent, and holy spirit was in him, and he prospered in the king's affairs that he handled. Then the king determined to set Daniel over all his kingdom, together with the two men whom he appointed with him and the one hundred twenty-seven satraps.
 
 **Daniel 6:5**
 
-When king determined to set Daniel over all his kingdom, the two young men consulted together, saying, Since we find no sin or ignorance in Daniel by which we may accuse him before the king,
+When the king determined to set Daniel over all his kingdom, the two young men consulted together, saying to one another, Since no sin or ignorance was found against Daniel by which they could accuse him before the king,
 
 **Daniel 6:6**
 
-come, let us establish an ordinance among ourselves: any person who asks a petition or offers a prayer to any god for thirty days, except from Darius the king, must die, so that they may defeat Daniel before the king and throw him into lions' den. For they knew Daniel prays and entreats Lord his God three times a day.
+and they said, Come, let us establish an ordinance among ourselves: any person shall not ask a petition or offer a prayer from any god for thirty days, except from Darius the king; otherwise he shall die, so that they may defeat Daniel before the king and he may be thrown into the lions' den. For they knew that Daniel prays and entreats the Lord his God three times a day.
 
 **Daniel 6:7**
 
@@ -88474,11 +88474,11 @@ Then those men came before the king and said,
 
 **Daniel 6:8**
 
-We established an ordinance and decree that any person who offers prayer or asks any petition from any god for thirty days except from you, king, will be thrown into lions' den.
+We established an ordinance and decree that any person who offers a prayer or asks any petition from any god for thirty days except from you, O king, will be thrown into the lions' den.
 
 **Daniel 6:9**
 
-And they asked the king to establish the ordinance and not alter it, because they knew Daniel prays and entreats three times a day, so that he might be defeated through the king and thrown into lions' den.
+And they asked the king to establish the ordinance and not alter it, because they knew that Daniel prays and entreats three times a day, so that he might be defeated through the king and thrown into the lions' den.
 
 **Daniel 6:10**
 
@@ -88486,7 +88486,7 @@ And thus King Darius established and confirmed it.
 
 **Daniel 6:11**
 
-And Daniel, knowing decree was established against him, opened windows in his upper room toward Jerusalem and fell on his face three times a day, just as he had done before, and he prayed.
+And Daniel, knowing the decree that was established against him, opened windows in his upper room toward Jerusalem and fell on his face three times a day, just as he had done before, and he entreated.
 
 **Daniel 6:12**
 
@@ -88494,7 +88494,7 @@ And they watched Daniel and caught him praying three times each day.
 
 **Daniel 6:13**
 
-Then these men came upon the king and said, King Darius, did you not decree that any person should not offer prayer or ask petition from any god for thirty days except from you, king, or else be thrown into lions' den? And the king answered and said to them, The word is exact and decree stands. They said to him, We adjure you by decrees of Medes and Persians not to alter command or favor a person, and not to lessen anything spoken, but punish the man who did not remain in this decree. And he said, Thus I will do, as you say; this stands for me.
+Then these men came upon the king and said, Darius, O king, did you not decree that any person should not offer prayer nor ask a petition from any god for thirty days except from you, O king, and if not, be thrown into the lions' den? And the king answered and said to them, The word is exact and the decree remains. They said to him, We adjure you by decrees of Medes and Persians not to alter the command nor show partiality to a person, and not to lessen anything spoken, but punish the man who did not remain in this decree. And he said, Thus I will do, as you say; this stands for me.
 
 **Daniel 6:14**
 
@@ -88502,7 +88502,7 @@ And they said, Behold, we found Daniel, your friend, praying and entreating befo
 
 **Daniel 6:15**
 
-And king, grieved, said Daniel should be thrown into lions' den according to decree established against him. Then the king was deeply grieved over Daniel and helped to deliver him until sunset from the hands of the satraps.
+And the king, grieved, said Daniel should be thrown into the lions' den according to the decree established against him. Then the king was deeply grieved over Daniel and kept trying to deliver him until sunset from the hands of the satraps.
 
 **Daniel 6:16**
 
@@ -88514,31 +88514,31 @@ And crying aloud, King Darius said to Daniel, Your God, whom you serve continual
 
 **Daniel 6:18**
 
-Then Daniel was thrown into lions' den, and a stone was brought and placed on the mouth of the den, and the king sealed it with his own ring and with rings of his leading men, so that Daniel might not be taken from them and so that the king might not pull him up from the den.
+Then Daniel was thrown into the lions' den, and a stone was brought and placed on the mouth of the den, and the king sealed it with his own ring and with the rings of his leading men, so that Daniel might not be taken from them and so that the king might not pull him up from the den.
 
 **Daniel 6:19**
 
-Then king returned to his palace and lodged fasting, and was grieved over Daniel. Then God of Daniel, taking thought for him, shut mouths of the lions, and they did not trouble Daniel.
+Then the king returned to his palace and spent the night fasting, and he was grieved over Daniel. Then the God of Daniel, showing care for him, shut the mouths of the lions, and they did not trouble Daniel.
 
 **Daniel 6:20**
 
-And King Darius rose early in the morning and took satraps with him, and going, stood at the mouth of the lions' den.
+And King Darius rose early in the morning and took the satraps with him, and he went and stood at the mouth of the lions' den.
 
 **Daniel 6:21**
 
-Then the king called Daniel with loud voice and weeping, saying, O Daniel, are you still alive? Has your God, whom you serve continually, saved you from the lions, and did they not injure you?
+Then the king called Daniel with a loud voice and with weeping, saying, O Daniel, are you still alive? Has your God, whom you serve continually, saved you from the lions, and did they not injure you?
 
 **Daniel 6:22**
 
-Then Daniel answered with loud voice and said, King, I am still alive.
+Then Daniel answered with a loud voice and said, O king, I am still alive.
 
 **Daniel 6:23**
 
-And God saved me from the lions, because righteousness was found in me before him, and before you, king, neither ignorance nor sin was found in me. But you listened to men who deceive kings and threw me into lions' den for destruction.
+And God saved me from the lions, because righteousness was found in me before him, and before you, O king, neither ignorance nor sin was found in me. But you listened to men who deceive kings and threw me into the lions' den for destruction.
 
 **Daniel 6:24**
 
-Then all the powers were gathered and saw Daniel, because lions had not troubled him.
+Then all the forces were gathered and saw Daniel, because the lions had not troubled him.
 
 **Daniel 6:25**
 
@@ -88550,11 +88550,11 @@ Then Darius wrote to all nations and lands and languages dwelling in all his ear
 
 **Daniel 6:27**
 
-Let all the people in my kingdom worship and serve God of Daniel, because he is living God, remaining from generation to generation forever.
+Let all the people in my kingdom worship and serve the God of Daniel, because he is the living God, remaining from generation to generation forever.
 
 **Daniel 6:28**
 
-I, Darius, will worship and serve him all my days, because handmade idols cannot save as God of Daniel delivered Daniel.
+I, Darius, will worship and serve him all my days, because handmade idols cannot save as the God of Daniel delivered Daniel.
 
 **Daniel 6:29**
 
