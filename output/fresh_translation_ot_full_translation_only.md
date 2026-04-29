@@ -85680,99 +85680,99 @@ Son of man, prophesy and say, Thus says the Lord: Woe, woe to the day,
 
 **Ezekiel 30:3**
 
-because the day of the Lord is near, day of end of nations it will be.
+because the day of the Lord is near; it will be a day of the end of nations.
 
 **Ezekiel 30:4**
 
-And sword will come upon Egyptians, and there will be turmoil in Ethiopia, and wounded will fall in Egypt, and her foundations will collapse.
+And a sword will come upon the Egyptians, and there will be turmoil in Ethiopia, and wounded ones will fall in Egypt, and her foundations will collapse.
 
 **Ezekiel 30:5**
 
-Persians and Cretans and Lydia and Libyans and all mixed peoples and sons of my covenant will fall by sword in it.
+Persians and Cretans and Lydians and Libyans and all the mixed peoples and the sons of my covenant will fall by the sword in it.
 
 **Ezekiel 30:6**
 
-And supports of Egypt will fall, and arrogance of her strength will go down. From Migdol to Syene they will fall by sword in her, says the Lord.
+And the supports of Egypt will fall, and the arrogance of her strength will go down. From Migdol to Syene they will fall by the sword in her, says the Lord.
 
 **Ezekiel 30:7**
 
-And it will be made desolate in the midst of desolated lands, and her cities will be in the midst of desolated cities.
+And it will be made desolate in the midst of desolated lands, and their cities will be desolated in the midst of desolated cities.
 
 **Ezekiel 30:8**
 
-And they will know that I am the Lord when I give fire upon Egypt and all helping her are crushed.
+And they will know that I am the Lord when I send fire upon Egypt and all those helping her are crushed.
 
 **Ezekiel 30:9**
 
-On that day messengers will go out hurrying to destroy Ethiopia, and turmoil will be among them on the day of Egypt, because behold, it comes.
+On that day messengers will go out hastening to destroy Ethiopia, and turmoil will be among them on the day of Egypt, because behold, it comes.
 
 **Ezekiel 30:10**
 
-Thus says the Lord God: And I will destroy multitude of Egyptians by the hand of Nebuchadnezzar king of Babylon.
+Thus says the Lord God: And I will destroy the multitude of Egyptians by the hand of Nebuchadnezzar king of Babylon.
 
 **Ezekiel 30:11**
 
-He and his people, scourges from nations sent to destroy the land, will all draw their swords against Egypt, and land will be filled with wounded.
+By his hand and by the hand of his people, scourges from nations sent to destroy the land, they will all draw their swords against Egypt, and the land will be filled with the wounded.
 
 **Ezekiel 30:12**
 
-And I will make their rivers dry and destroy the land and its fullness by the hands of foreigners. I, the Lord, have spoken.
+And I will make their rivers desolate and destroy the land and its fullness by the hands of foreigners. I, the Lord, have spoken.
 
 **Ezekiel 30:13**
 
-Because thus says the Lord God: And I will destroy great men from Memphis and rulers from the land of Egypt, and they will no longer be.
+For thus says the Lord God: And I will destroy nobles from Memphis and rulers from the land of Egypt, and they will no longer be.
 
 **Ezekiel 30:14**
 
-And I will destroy land of Pathros and give fire on Zoan and do vengeance in Diospolis.
+And I will destroy the land of Pathros and send fire upon Zoan and execute vengeance in Diospolis.
 
 **Ezekiel 30:15**
 
-And I will pour out my wrath upon Sais, strength of Egypt, and destroy multitude of Memphis.
+And I will pour out my wrath upon Sais, the strength of Egypt, and destroy the multitude of Memphis.
 
 **Ezekiel 30:16**
 
-And I will give fire on Egypt, and turmoil will be in Syene, and in Diospolis there will be breaking open and waters will be poured out.
+And I will send fire upon Egypt, and Syene will be troubled with turmoil, and there will be a breach in Diospolis, and waters will be poured out.
 
 **Ezekiel 30:17**
 
-Young men of Heliopolis and Bubastis will fall by sword, and women will go into captivity.
+Young men of Heliopolis and Bubastis will fall by the sword, and the women will go into captivity.
 
 **Ezekiel 30:18**
 
-And in Taphnae day will grow dark when I break there scepters of Egypt, and arrogance of her strength will perish there, and cloud will cover her, and her daughters will be led away captive.
+And in Tahpanhes the day will grow dark when I break the scepters of Egypt there, and the arrogance of her strength will perish there, and a cloud will cover her, and her daughters will be led away captive.
 
 **Ezekiel 30:19**
 
-And I will do judgment in Egypt, and they will know that I am the Lord.
+And I will execute judgment in Egypt, and they will know that I am the Lord.
 
 **Ezekiel 30:20**
 
-And it happened in eleventh year, in the first month, on seventh of the month, the word of the Lord came to me, saying,
+And it happened in the eleventh year, in the first month, on the seventh day of the month, the word of the Lord came to me, saying,
 
 **Ezekiel 30:21**
 
-Son of man, I broke arms of Pharaoh king of Egypt, and behold, it was not bound up for healing, not given bandage, not given strength to seize sword.
+Son of man, I broke the arms of Pharaoh, king of Egypt, and behold, it was not bound up for healing, to have salve put on it, to be given strength to seize a sword.
 
 **Ezekiel 30:22**
 
-Therefore thus says the Lord: Behold, I am against Pharaoh king of Egypt and will break his arms, the strong ones and the stretched out ones, and cast his sword from his hand.
+Therefore thus says the Lord God: Behold, I am against Pharaoh, king of Egypt, and will break his strong and outstretched arms and cast his sword from his hand.
 
 **Ezekiel 30:23**
 
-And I will scatter Egypt into nations and winnow them into lands.
+And I will scatter Egypt among the nations and winnow them into the lands.
 
 **Ezekiel 30:24**
 
-And I will strengthen arms of the king of Babylon and give my sword into his hand, and he will bring it against Egypt and plunder her plunder and spoil her spoils.
+And I will strengthen the arms of the king of Babylon and give my sword into his hand, and he will bring it against Egypt and plunder its plunder and spoil its spoils.
 
 **Ezekiel 30:25**
 
-And I will strengthen arms of the king of Babylon, but arms of Pharaoh will fall, and they will know that I am the Lord when I give my sword into the hands of the king of Babylon and he stretches it out over the land of Egypt.
+And I will strengthen the arms of the king of Babylon, but the arms of Pharaoh will fall, and they will know that I am the Lord when I give my sword into the hands of the king of Babylon and he stretches it out over the land of Egypt.
 
 **Ezekiel 30:26**
 
-And I will scatter Egypt into nations and winnow them into lands, and all will know that I am the Lord.
+And I will scatter Egypt among the nations and winnow them into the lands, and they all will know that I am the Lord.
 
 ### Chapter 31
 

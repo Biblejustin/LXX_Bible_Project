@@ -188985,217 +188985,217 @@ Note:
 ### Ezekiel 30:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: because the day of the Lord is near, day of end of nations it will be.
+- fresh: because the day of the Lord is near; it will be a day of the end of nations.
 - brenton: For the day of the Lord is nigh, a day of cloud; it shall be the end of the nations.
 
 ### Ezekiel 30:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And sword will come upon Egyptians, and there will be turmoil in Ethiopia, and wounded will fall in Egypt, and her foundations will collapse.
+- fresh: And a sword will come upon the Egyptians, and there will be turmoil in Ethiopia, and wounded ones will fall in Egypt, and her foundations will collapse.
 - brenton: And a sword shall come upon the Egyptians, and there shall be tumult in Ethiopia, and in Egypt men shall fall down slain together, and her foundations shall fall.
 
 ### Ezekiel 30:5
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Persians and Cretans and Lydia and Libyans and all mixed peoples and sons of my covenant will fall by sword in it.
+- fresh: Persians and Cretans and Lydians and Libyans and all the mixed peoples and the sons of my covenant will fall by the sword in it.
 - brenton: Persians, and Cretans, and Lydians, and Libyans, and all the mixed multitude, and they of the children of my covenant, shall fall by the sword therein.
 
 ### Ezekiel 30:6
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And supports of Egypt will fall, and arrogance of her strength will go down. From Migdol to Syene they will fall by sword in her, says the Lord.
+- fresh: And the supports of Egypt will fall, and the arrogance of her strength will go down. From Migdol to Syene they will fall by the sword in her, says the Lord.
 - brenton: And the supports of Egypt shall fall; and the pride of her strength shall come down from Magdol to Syene: they shall fall by the sword in it, saith the Lord.
 
 ### Ezekiel 30:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be made desolate in the midst of desolated lands, and her cities will be in the midst of desolated cities.
+- fresh: And it will be made desolate in the midst of desolated lands, and their cities will be desolated in the midst of desolated cities.
 - brenton: And it shall be made desolate in the midst of desolate countries, and their cities shall be desolate in the midst of the desolate cities:
 
 ### Ezekiel 30:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will know that I am the Lord when I give fire upon Egypt and all helping her are crushed.
+- fresh: And they will know that I am the Lord when I send fire upon Egypt and all those helping her are crushed.
 - brenton: and they shall know that I am the Lord, when I shall send fire upon Egypt, and when all that help her shall be broken.
 
 ### Ezekiel 30:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: On that day messengers will go out hurrying to destroy Ethiopia, and turmoil will be among them on the day of Egypt, because behold, it comes.
+- fresh: On that day messengers will go out hastening to destroy Ethiopia, and turmoil will be among them on the day of Egypt, because behold, it comes.
 - brenton: In that day shall messengers go forth hasting to destroy Ethiopia utterly, and there shall be tumult among them in the day of Egypt: for, behold, it comes.
 
 ### Ezekiel 30:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: And I will destroy multitude of Egyptians by the hand of Nebuchadnezzar king of Babylon.
+- fresh: Thus says the Lord God: And I will destroy the multitude of Egyptians by the hand of Nebuchadnezzar king of Babylon.
 - brenton: Thus saith the Lord God; I will also destroy the multitude of the Egyptians by the hand of Nabuchodonosor king of Babylon,
 
 ### Ezekiel 30:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: He and his people, scourges from nations sent to destroy the land, will all draw their swords against Egypt, and land will be filled with wounded.
+- fresh: By his hand and by the hand of his people, scourges from nations sent to destroy the land, they will all draw their swords against Egypt, and the land will be filled with the wounded.
 - brenton: his hand and his people's; they are plagues sent forth from the nations to destroy the land: and they all shall unsheath their swords against Egypt, and the land shall be filled with slain.
 
 ### Ezekiel 30:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will make their rivers dry and destroy the land and its fullness by the hands of foreigners. I, the Lord, have spoken.
+- fresh: And I will make their rivers desolate and destroy the land and its fullness by the hands of foreigners. I, the Lord, have spoken.
 - brenton: And I will make their rivers desolate, and will destroy the land and the fulness of it by the hands of strangers: I the Lord have spoken.
 
 ### Ezekiel 30:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because thus says the Lord God: And I will destroy great men from Memphis and rulers from the land of Egypt, and they will no longer be.
+- fresh: For thus says the Lord God: And I will destroy nobles from Memphis and rulers from the land of Egypt, and they will no longer be.
 - brenton: For thus saith the Lord God; I will also destroy the nobles from Memphis, and the princes of Memphis out of the land of Egypt; and they shall be no more.
 
 ### Ezekiel 30:14
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will destroy land of Pathros and give fire on Zoan and do vengeance in Diospolis.
+- fresh: And I will destroy the land of Pathros and send fire upon Zoan and execute vengeance in Diospolis.
 - brenton: And I will destroy the land of Phathore, and will send fire upon Tanis, and will execute vengeance on Diospolis.
 
 ### Ezekiel 30:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will pour out my wrath upon Sais, strength of Egypt, and destroy multitude of Memphis.
+- fresh: And I will pour out my wrath upon Sais, the strength of Egypt, and destroy the multitude of Memphis.
 - brenton: And I will pour out my wrath upon Sais the strength of Egypt, and will destroy the multitude of Memphis.
 
 ### Ezekiel 30:16
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will give fire on Egypt, and turmoil will be in Syene, and in Diospolis there will be breaking open and waters will be poured out.
+- fresh: And I will send fire upon Egypt, and Syene will be troubled with turmoil, and there will be a breach in Diospolis, and waters will be poured out.
 - brenton: And I will send fire upon Egypt; and Syene shall be sorely troubled; and there shall be a breaking in Diospolis, and waters shall be poured out.
 
 ### Ezekiel 30:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Young men of Heliopolis and Bubastis will fall by sword, and women will go into captivity.
+- fresh: Young men of Heliopolis and Bubastis will fall by the sword, and the women will go into captivity.
 - brenton: The youths of Heliopolis and Bubastum shall fall by the sword, and the women shall go into captivity.
 
 ### Ezekiel 30:18
 
 - importance: high
-- decisions: 0
+- decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: And in Taphnae day will grow dark when I break there scepters of Egypt, and arrogance of her strength will perish there, and cloud will cover her, and her daughters will be led away captive.
+- fresh: And in Tahpanhes the day will grow dark when I break the scepters of Egypt there, and the arrogance of her strength will perish there, and a cloud will cover her, and her daughters will be led away captive.
 - brenton: And the day shall be darkened in Taphnæ, when I have broken there the sceptres of Egypt: and the pride of her strength shall perish there: and a cloud shall cover her, and her daughters shall be taken prisoners.
 
 ### Ezekiel 30:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will do judgment in Egypt, and they will know that I am the Lord.
+- fresh: And I will execute judgment in Egypt, and they will know that I am the Lord.
 - brenton: And I will execute judgment on Egypt; and they shall know that I am the Lord.
 
 ### Ezekiel 30:20
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in eleventh year, in the first month, on seventh of the month, the word of the Lord came to me, saying,
+- fresh: And it happened in the eleventh year, in the first month, on the seventh day of the month, the word of the Lord came to me, saying,
 - brenton: And it came to pass in the eleventh year, in the first month, on the seventh day of the month, the word of the Lord came to me, saying,
 
 ### Ezekiel 30:21
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, I broke arms of Pharaoh king of Egypt, and behold, it was not bound up for healing, not given bandage, not given strength to seize sword.
+- fresh: Son of man, I broke the arms of Pharaoh, king of Egypt, and behold, it was not bound up for healing, to have salve put on it, to be given strength to seize a sword.
 - brenton: Son of man, I have broken the arms of Pharao, king of Egypt; and, behold, it has not been bound up to be healed, to have a plaster put upon it, or to be strengthened to lay hold of the sword.
 
 ### Ezekiel 30:22
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Behold, I am against Pharaoh king of Egypt and will break his arms, the strong ones and the stretched out ones, and cast his sword from his hand.
+- fresh: Therefore thus says the Lord God: Behold, I am against Pharaoh, king of Egypt, and will break his strong and outstretched arms and cast his sword from his hand.
 - brenton: Therefore thus saith the Lord God; Behold, I am against Pharao king of Egypt, and I will break his strong and outstretched arms, and will smite down his sword out of his hand.
 
 ### Ezekiel 30:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will scatter Egypt into nations and winnow them into lands.
+- fresh: And I will scatter Egypt among the nations and winnow them into the lands.
 - brenton: And I will disperse the Egyptians among the nations, and will utterly scatter them among the countries.
 
 ### Ezekiel 30:24
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will strengthen arms of the king of Babylon and give my sword into his hand, and he will bring it against Egypt and plunder her plunder and spoil her spoils.
+- fresh: And I will strengthen the arms of the king of Babylon and give my sword into his hand, and he will bring it against Egypt and plunder its plunder and spoil its spoils.
 - brenton: And I will strengthen the arms of the king of Babylon, and put my sword into his hand: and he shall bring it upon Egypt, and shall take her plunder and seize her spoils.
 
 ### Ezekiel 30:25
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will strengthen arms of the king of Babylon, but arms of Pharaoh will fall, and they will know that I am the Lord when I give my sword into the hands of the king of Babylon and he stretches it out over the land of Egypt.
+- fresh: And I will strengthen the arms of the king of Babylon, but the arms of Pharaoh will fall, and they will know that I am the Lord when I give my sword into the hands of the king of Babylon and he stretches it out over the land of Egypt.
 - brenton: Yea, I will strengthen the arms of the king of Babylon, and the arms of Pharao shall fail: and they shall know that I am the Lord, when I have put my sword into the hands of the king of Babylon, and he shall stretch it out over the land of Egypt.
 
 ### Ezekiel 30:26
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will scatter Egypt into nations and winnow them into lands, and all will know that I am the Lord.
+- fresh: And I will scatter Egypt among the nations and winnow them into the lands, and they all will know that I am the Lord.
 - brenton: And I will disperse the Egyptians among the nations, and utterly scatter them among the countries; and they all shall know that I am the Lord.
 
 ### Ezekiel 31:1
