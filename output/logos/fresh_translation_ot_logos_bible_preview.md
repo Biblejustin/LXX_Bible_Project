@@ -434,12 +434,12 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 31
 
-**Ezekiel 1:2** Fifth of the month, this was fifth year of captivity of King Joakim,
+**Ezekiel 1:2** On the fifth of the month, this was the fifth year of the captivity of King Joakim,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 7
 
-**Ezekiel 1:3** and the word of the Lord came to Ezekiel son of Buzi the priest in the land of Chaldeans by the river Chebar, and the hand of the Lord came upon me.
+**Ezekiel 1:3** and the word of the Lord came to Ezekiel son of Buzi the priest in the land of the Chaldeans by the river Chebar, and the hand of the Lord came upon me.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 13

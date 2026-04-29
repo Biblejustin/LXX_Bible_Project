@@ -182343,10 +182343,10 @@ Note:
 ### Ezekiel 1:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Fifth of the month, this was fifth year of captivity of King Joakim,
+- fresh: On the fifth of the month, this was the fifth year of the captivity of King Joakim,
 - brenton: On the fifth day of the month; this was the fifth year of the captivity of king Joakim.
 
 ### Ezekiel 1:3
@@ -182355,25 +182355,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: and the word of the Lord came to Ezekiel son of Buzi the priest in the land of Chaldeans by the river Chebar, and the hand of the Lord came upon me.
+- fresh: and the word of the Lord came to Ezekiel son of Buzi the priest in the land of the Chaldeans by the river Chebar, and the hand of the Lord came upon me.
 - brenton: And the word of the Lord came to Jezekiel the priest, the son of Buzi, in the land of the Chaldeans, by the river of Chobar; and the hand of the Lord was upon me.
 
 ### Ezekiel 1:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I saw, and behold, lifting spirit came from north and great cloud in it and brightness around it and flashing fire, and in its midst like the appearance of electrum in the midst of fire and brightness in it.
+- fresh: And I saw, and behold, a lifting wind came from the north, and a great cloud was in it, and brightness around it, and flashing fire; and in its midst was like the appearance of electrum in the midst of the fire, and brightness was in it.
 - brenton: And I looked, and, behold, a sweeping wind came from the north, and a great cloud on it, and there was brightness round about it, and gleaming fire, and in the midst of it as it were the appearance of amber in the midst of the fire, and brightness in it.
 
 ### Ezekiel 1:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And in midst, as likeness of four living beings, and this their appearance, likeness of man upon them.
+- fresh: And in the midst was something like the likeness of four living beings, and this was their appearance: likeness of a man upon them.
 - brenton: And in the midst as it were the likeness of four living creatures. And this was their appearance; the likeness of a man was upon them.
 
 ### Ezekiel 1:6
@@ -182382,7 +182382,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And four faces to one and four wings to one.
+- fresh: And there were four faces to each one and four wings to each one.
 - brenton: And each one had four faces, and each one had four wings.
 
 ### Ezekiel 1:7
@@ -182391,16 +182391,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And their legs straight, and their feet winged, and sparks like flashing bronze, and their wings light.
+- fresh: And their legs were straight, and their feet were winged, with sparks like flashing bronze, and their wings were light.
 - brenton: And their legs were straight; and their feet were winged, and there were sparks, like gleaming brass, and their wings were light.
 
 ### Ezekiel 1:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the hand of man beneath their wings upon their four sides, and their faces of the four.
+- fresh: And the hand of man was beneath their wings on their four sides, and the faces of the four.
 - brenton: And the hand of a man was under their wings on their four sides.
 
 ### Ezekiel 1:9
@@ -182409,16 +182409,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: They did not turn when walking. Each went straight before its face.
+- fresh: They did not turn when walking; each went straight before its face.
 - brenton: And the faces of them four turned not when they went; they went every one straight forward.
 
 ### Ezekiel 1:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And likeness of their faces: face of man, and face of lion on right for the four, and face of calf on left for the four, and face of eagle for the four.
+- fresh: And the likeness of their faces: a face of a man, and a face of a lion on the right for the four, and a face of a calf on the left for the four, and a face of an eagle for the four.
 - brenton: And the likeness of their faces was the face of a man, and the face of a lion on the right to the four; and the face of a calf on the left to the four; and the face of an eagle to the four.
 
 ### Ezekiel 1:11
@@ -182427,7 +182427,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And their wings stretched upward. For the four, two joined to one another and two covered over their bodies.
+- fresh: And their wings were stretched upward; for the four, two were joined to one another and two covered over their bodies.
 - brenton: And the four had their wings spread out above; each one had two joined to one another, and two covered their bodies.
 
 ### Ezekiel 1:12
@@ -182436,16 +182436,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And each went straight before its face. Wherever spirit was going, they went and did not turn.
+- fresh: And each went straight before its face. Wherever the spirit was going, they went and did not turn.
 - brenton: And each one went straight forward: wherever the spirit was going they went, and turned not back.
 
 ### Ezekiel 1:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And in the midst of living beings, appearance like burning coals of fire, like the sight of lamps turning among living beings, and brightness of fire, and from fire lightning went out.
+- fresh: And in the midst of the living beings was an appearance like burning coals of fire, like the sight of lamps turning among the living beings, and brightness of fire, and from the fire lightning went out.
 - brenton: And in the midst of the living creatures there was an appearance as of burning coals of fire, as an appearance of lamps turning among the living creatures; and the brightness of fire, and out of the fire came forth lightning.
 
 ### Ezekiel 1:15
@@ -182454,16 +182454,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I saw, and behold, one wheel on earth adjoining the living beings, for the four.
+- fresh: And I saw, and behold, one wheel on the earth adjoining the living beings, for the four.
 - brenton: And I looked, and, behold, the four had each one wheel on the ground near the living creatures.
 
 ### Ezekiel 1:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And appearance of wheels like the appearance of Tarshish, and one likeness in the four, and their work was as a wheel within a wheel.
+- fresh: And the appearance of the wheels was like the appearance of Tarshish, and one likeness was in the four, and their work was as a wheel within a wheel.
 - brenton: And the appearance of the wheels was as the appearance of beryl: and the four had one likeness: and their work was as it were a wheel in a wheel.
 
 ### Ezekiel 1:17
@@ -182472,16 +182472,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Upon their four sides they went. They did not turn while going.
+- fresh: They went upon their four sides; they did not turn while going.
 - brenton: They went on their four sides: they turned not as they went;
 
 ### Ezekiel 1:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And indeed their backs, and there was height to them, and I saw them, and their backs full of eyes around for the four.
+- fresh: And indeed their backs: there was height to them, and I saw them, and their backs were full of eyes around, for the four.
 - brenton: neither did their backs turn: and they were high: and I beheld them, and the backs of them four were full of eyes round about.
 
 ### Ezekiel 1:19
@@ -182490,16 +182490,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And when living beings went, wheels adjoining them went, and when living beings were lifted from earth, wheels were lifted.
+- fresh: And when the living beings went, the wheels adjoining them went, and when the living beings were lifted from the earth, the wheels were lifted.
 - brenton: And when the living creatures went, the wheels went by them: and when the living creatures lifted themselves off the earth, the wheels were lifted off.
 
 ### Ezekiel 1:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Where cloud was, there spirit went. The living beings went, and wheels were lifted with them, because the spirit of life was in the wheels.
+- fresh: Wherever the cloud was, there the spirit went. The living beings went, and the wheels were lifted with them, because the spirit of life was in the wheels.
 - brenton: Wherever the cloud happened to be, there was the spirit ready to go: the wheels went and were lifted up with them; because the spirit of life was in the wheels.
 
 ### Ezekiel 1:21
@@ -182508,16 +182508,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: When they went, these went, and when they stood, these stood, and when they were lifted from earth, wheels were lifted with them, because the spirit of life was in the wheels.
+- fresh: When they went, these went; when they stood, these stood; and when they were lifted from the earth, the wheels were lifted with them, because the spirit of life was in the wheels.
 - brenton: When those went, the wheels went; and when those stood, the wheels stood; and when those lifted themselves off the earth, they were lifted off with them: for the spirit of life was in the wheels.
 
 ### Ezekiel 1:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And likeness over the head of the living beings, like firmament, as the appearance of crystal stretched over their wings above.
+- fresh: And the likeness over the head of the living beings was like a firmament, as the appearance of crystal stretched over their wings above.
 - brenton: And the likeness over the heads of the living creatures was as a firmament, as the appearance of crystal, spread out over their wings above.
 
 ### Ezekiel 1:23
@@ -182526,14 +182526,14 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And under firmament their wings stretched, winging one to the other, to each two joined, covering their bodies.
+- fresh: And under the firmament their wings were stretched, winging one to the other, each with two joined, covering their bodies.
 - brenton: And their wings were spread out under the firmament, reaching one to the other; two wings to each, covering their bodies.
 
 ### Ezekiel 1:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And I heard the sound of their wings when they went, like the sound of much water, and when they stood, their wings rested.
 - brenton: And I heard the sound of their wings when they went, as the sound of much water: and when they stood, their wings were let down.
@@ -182544,16 +182544,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, voice above firmament being over their head.
+- fresh: And behold, a voice came from above the firmament that was over their head.
 - brenton: And lo! a voice from above the firmament
 
 ### Ezekiel 1:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Like the appearance of a sapphire stone, likeness of throne upon it, and upon likeness of throne, likeness as the appearance of a man above.
+- fresh: Like the appearance of a sapphire stone, likeness of a throne upon it, and upon the likeness of the throne, a likeness as the appearance of a man above.
 - brenton: that was over their head, there was as the appearance of a sapphire stone, and the likeness of a throne upon it: and upon the likeness of the throne was the likeness as an appearance of a man above.
 
 ### Ezekiel 1:27
@@ -182613,19 +182613,19 @@ Note:
 ### Ezekiel 2:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Whether perhaps they hear or are terrified, because house provoking is there, and they will know that prophet you are in the midst of them.
+- fresh: Whether perhaps they hear or are afraid, because it is a provoking house, they will know that you are a prophet in the midst of them.
 - brenton: Whether then indeed they shall hear or fear, (for it is a provoking house,) yet they shall know that thou art a prophet in the midst of them.
 
 ### Ezekiel 2:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And you, son of man, do not fear them nor be dismayed from their face, because they will rage and gather around against you, and in the midst of scorpions you dwell. Their words do not fear, and from their face do not be dismayed, because house provoking it is.
+- fresh: And you, son of man, do not fear them nor be dismayed before their face, because they will rage and gather around against you, and you dwell in the midst of scorpions. Do not fear their words, and do not be dismayed before their face, because it is a provoking house.
 - brenton: And thou, son of man, fear them not, nor be dismayed at their face; (for they will madden and will rise up against thee round about, and thou dwellest in the midst of scorpions): be not afraid of their words, nor be dismayed at their countenance, for it is a provoking house.
 
 ### Ezekiel 2:7
@@ -182634,43 +182634,43 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will speak my words to them, whether perhaps they hear, whether perhaps they fear, because house provoking it is.
+- fresh: And you will speak my words to them, whether perhaps they hear or are afraid, because it is a provoking house.
 - brenton: And thou shalt speak my words to them, whether they will hear or fear: for it is a provoking house.
 
 ### Ezekiel 2:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you, son of man, hear one speaking to you. Do not become provoking like provoking house. Open your mouth and eat what I give you.
+- fresh: And you, son of man, hear the one speaking to you. Do not become provoking like the provoking house. Open your mouth and eat what I give you.
 - brenton: And thou, son of man, hear him that speaks to thee; be not thou provoking, as the provoking house: open thy mouth, and eat what I give thee.
 
 ### Ezekiel 2:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I saw, and behold, hand stretched out to me, and in it scroll-head.
+- fresh: And I saw, and behold, a hand stretched out to me, and in it was a scroll of a book.
 - brenton: And I looked, and behold, a hand stretched out to me, and in it a volume of a book.
 
 ### Ezekiel 2:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And he unrolled it before me, and in it were writings on back and front, and written on it lament and melody and woe.
+- fresh: And he unrolled it before me, and on it were writings on back and front, and written on it were lament and song and woe.
 - brenton: And he unrolled it before me: and in it the front and the back were written upon: and there was written in it Lamentation, and mournful song, and woe.
 
 ### Ezekiel 3:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he said to me, Son of man, consume this scroll and go and speak to the sons of Israel.
+- fresh: And he said to me, Son of man, eat this scroll, and go and speak to the sons of Israel.
 - brenton: And he said to me, Son of man, eat this volume, and go and speak to the children of Israel.
 
 ### Ezekiel 3:2
@@ -182679,16 +182679,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I opened my mouth and he fed me the scroll.
+- fresh: And I opened my mouth, and he fed me the scroll.
 - brenton: So he opened my mouth, and caused me to eat the volume.
 
 ### Ezekiel 3:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he said to me, Son of man, your mouth will eat and your belly will be filled with this scroll given to you. And I ate it, and it became in my mouth like sweetening honey.
+- fresh: And he said to me, Son of man, your mouth will eat, and your belly will be filled with this scroll given to you. And I ate it, and it became in my mouth like sweet honey.
 - brenton: thy mouth shall eat, and thy belly shall be filled with this volume that is given to thee. So I ate it; and it was in my mouth as sweet honey.
 
 ### Ezekiel 3:4
@@ -182703,100 +182703,100 @@ Note:
 ### Ezekiel 3:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because not to people deep-lipped and heavy-tongued are you sent, but to the house of Israel,
+- fresh: For you are not being sent to a deep-lipped and heavy-tongued people, but to the house of Israel,
 - brenton: For thou art not sent to a people of hard speech, but to the house of Israel;
 
 ### Ezekiel 3:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: not to many peoples strange-speaking or strange-tongued or heavy in tongue, whose words you would not hear. If I had sent you to such, they would have listened to you.
+- fresh: nor to many peoples foreign-speaking or foreign-tongued, nor heavy in tongue, whose words you would not understand. If I had sent you to such people, they would have listened to you.
 - brenton: neither to many nations of other speech and other tongues, nor of harsh language, whose words thou wouldest not understand: although if I had sent thee to such, they would have hearkened to thee.
 
 ### Ezekiel 3:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But the house of Israel will not want to listen to you, because they do not want to listen to me, because all house of Israel are contentious and hard-hearted.
+- fresh: But the house of Israel will not want to listen to you, because they do not want to listen to me, because all the house of Israel are contentious and hard-hearted.
 - brenton: But the house of Israel will not be willing to hearken to thee; for they will not hearken to me: for all the house of Israel are stubborn and hard-hearted.
 
 ### Ezekiel 3:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And behold, I gave your face strong against their faces, and your strife I will strengthen against their strife.
+- fresh: And behold, I have made your face strong against their faces, and I will strengthen your strife against their strife.
 - brenton: And, behold, I have made thy face strong against their faces, and I will strengthen thy power against their power.
 
 ### Ezekiel 3:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will always be stronger than rock. Do not fear them and do not be terrified from their face, because house provoking it is.
+- fresh: And it will always be stronger than rock. Do not fear them, nor be dismayed before their face, because it is a provoking house.
 - brenton: And it shall be continually stronger than a rock: be not afraid of them, neither be dismayed at their faces, because it is a provoking house.
 
 ### Ezekiel 3:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he said to me, Son of man, all words which I spoke with you, take into your heart and hear with your ears.
+- fresh: And he said to me, Son of man, take into your heart all the words that I have spoken with you, and hear with your ears.
 - brenton: And he said to me, Son of man, receive into thine heart all the words that I have spoken to thee, and hear them with thine ears.
 
 ### Ezekiel 3:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And go, enter to captivity, to the sons of your people, and speak to them and say to them, Thus says the Lord, whether perhaps they hear, whether perhaps they yield.
+- fresh: And go, enter into the captivity, to the sons of your people, and speak to them and say to them, Thus says the Lord, whether perhaps they hear, whether perhaps they yield.
 - brenton: And go thy way, go in to the captivity, to the children of thy people, and thou shalt speak to them, and say to them, Thus saith the Lord; whether they will hear, or whether they will forbear.
 
 ### Ezekiel 3:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And spirit took me up, and I heard behind me voice of great shaking: Blessed be the glory of the Lord from his place.
+- fresh: And spirit took me up, and I heard behind me a voice of great shaking: Blessed be the glory of the Lord from his place.
 - brenton: Then the Spirit took me up, and I heard behind me the voice as of a great earthquake, saying, Blessed be the glory of the Lord from his place.
 
 ### Ezekiel 3:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I saw the sound of wings of living beings winging one to the other and the sound of wheels adjoining them and the sound of shaking.
+- fresh: And I perceived the sound of wings of living beings beating one against another, and the sound of the wheels next to them, and the sound of the shaking.
 - brenton: And I perceived the sound of the wings of the living creatures clapping one to the other, and the sound of the wheels was near them, and the sound of the earthquake.
 
 ### Ezekiel 3:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And spirit lifted me and took me up, and I went in rush of my spirit, and the hand of the Lord became strong upon me.
+- fresh: And spirit lifted me and took me up, and I went in the rush of my spirit, and the hand of the Lord became strong upon me.
 - brenton: And the Spirit lifted me, and took me up, and I went in the impulse of my spirit; and the hand of the Lord was mighty upon me.
 
 ### Ezekiel 3:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I entered to captivity, astonished, and went around those dwelling by the river Chebar, those there, and sat there seven days turning among them.
+- fresh: And I entered into the captivity, borne aloft, and went around those dwelling by the river Chebar, those who were there, and sat there seven days, staying in the midst of them.
 - brenton: Then I passed through the air and came into the captivity, and went round to them that dwelt by the river of Chobar who were there; and I sat there seven days, conversant in the midst of them.
 
 ### Ezekiel 3:16
@@ -182805,25 +182805,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened after seven days, the word of the Lord came to me, saying,
+- fresh: And it happened after the seven days, the word of the Lord came to me, saying,
 - brenton: And after the seven days the word of the Lord came to me, saying, Son of man,
 
 ### Ezekiel 3:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Son of man, I gave you as a watchman to the house of Israel, and you will hear word from my mouth and warn them from me.
+- fresh: Son of man, I have given you as a watchman to the house of Israel, and you will hear a word from my mouth and warn them from me.
 - brenton: I have made thee a watchman to the house of Israel; and thou shalt hear a word of my mouth, and shalt threaten them from me.
 
 ### Ezekiel 3:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: When I say to lawless one, In death you will die, and you do not warn him nor speak to warn lawless one to turn from his ways to make him live, that lawless one in his injustice will die and his blood I will seek from your hand.
+- fresh: When I say to the lawless one, By death you will be put to death, and you do not warn him nor speak to warn the lawless one to turn from his ways so that he may live, that lawless one will die in his injustice, and his blood I will seek from your hand.
 - brenton: When I say to the wicked, Thou shalt surely die; and thou hast not warned him, to give warning to the wicked, to turn from his ways, that he should live; that wicked man shall die in his iniquity; but his blood will I require at thy hand.
 
 ### Ezekiel 3:19
@@ -182832,43 +182832,43 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, if you warn lawless one and he does not turn from his lawlessness and from his way, that lawless one in his injustice will die, and you saved your soul.
+- fresh: And you, if you warn the lawless one and he does not turn from his lawlessness and from his way, that lawless one will die in his injustice, and you will rescue your soul.
 - brenton: But if thou warn the wicked, and he turn not from his wickedness, and from his way, that wicked man shall die in his iniquity, and thou shalt deliver thy soul.
 
 ### Ezekiel 3:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And when righteous one turns from his righteousnesses and does trespass, and I set stumbling before his face, he will die because you did not warn him, and in his sins he will die because his righteous deeds which he did will not be remembered, and his blood I will seek from your hand.
+- fresh: And when a righteous one turns from his righteousnesses and commits a trespass, and I set torment before his face, he will die because you did not warn him, and in his sins he will die because his righteous deeds that he did will not be remembered, and his blood I will seek from your hand.
 - brenton: And when the righteous turns away from his righteousness, and commits a trespass, and I shall bring punishment before him, he shall die, because thou didst not warn him: he shall even die in his sins, because his righteousness shall not be remembered; but his blood will I require at thine hand.
 
 ### Ezekiel 3:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But if you warn righteous one not to sin and he does not sin, righteous one living will live because you warned him, and you saved your own soul.
+- fresh: But if you warn the righteous one not to sin and he does not sin, the righteous one will surely live because you warned him, and you will rescue your own soul.
 - brenton: But if thou warn the righteous not to sin, and he sin not, the righteous shall surely live, because thou hast warned him; and thou shalt deliver thine own soul.
 
 ### Ezekiel 3:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the hand of the Lord came upon me there and said to me, Rise and go out into the plain and there it will be spoken to you.
+- fresh: And the hand of the Lord came upon me and said to me, Rise and go out into the plain, and there it will be spoken to you.
 - brenton: And the hand of the Lord came upon me; and he said to me, Arise, and go forth into the plain, and there shalt thou be spoken to.
 
 ### Ezekiel 3:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I rose and went out into the plain, and behold, there the glory of the Lord stood, just as vision and as glory which I saw by the river Chebar, and I fell on my face.
+- fresh: And I rose and went out into the plain, and behold, there the glory of the Lord stood, just as the vision and as the glory that I had seen by the river Chebar, and I fell on my face.
 - brenton: And I arose, and went forth to the plain: and, behold, the glory of the Lord stood there, according to the vision, and according to the glory of the Lord, which I saw by the river of Chobar: and I fell on my face.
 
 ### Ezekiel 3:24
@@ -182883,278 +182883,278 @@ Note:
 ### Ezekiel 3:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you, son of man, behold, bonds are given upon you, and they will bind you in them and you will not go out from the midst of them.
+- fresh: And you, son of man, behold, bonds have been given upon you, and they will bind you with them, and you will not go out from the midst of them.
 - brenton: And thou, son of man, behold, bonds are prepared for thee, and they shall bind thee with them, and thou shalt not come forth of the midst of them.
 
 ### Ezekiel 3:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And your tongue I will bind and you will be made mute, and you will not be to them man rebuking, because house provoking it is.
+- fresh: And I will bind your tongue, and you will be made mute, and you will not be to them a man who rebukes, because it is a provoking house.
 - brenton: Also I will bind thy tongue, and thou shalt be dumb, and shalt not be to them a reprover: because it is a provoking house.
 
 ### Ezekiel 3:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And when I speak to you I will open your mouth and you will say to them, Thus says the Lord. One hearing, let him hear, and one disobeying, let him disobey, because house provoking it is.
+- fresh: And when I speak to you, I will open your mouth, and you will say to them, Thus says the Lord. The one who hears, let him hear; and the one who disobeys, let him disobey, because it is a provoking house.
 - brenton: But when I speak to thee, I will open thy mouth, and thou shalt say to them, Thus saith the Lord, He that hears, let him hear; and he that is disobedient, let him be disobedient: because it is a provoking house.
 
 ### Ezekiel 4:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you, son of man, take for yourself brick and set it before your face and draw on it city, Jerusalem.
+- fresh: And you, son of man, take for yourself a brick and set it before your face and draw on it a city, Jerusalem.
 - brenton: And thou, son of man, take thee a brick, and thou shalt set it before thy face, and shalt portray on it the city, even Jerusalem.
 
 ### Ezekiel 4:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And set around it siege and build against it defenses and cast around it trench and set camps against it and place missile-stations around.
+- fresh: And set a siege against it and build defenses against it, and cast a siege mound around it, and set camps against it, and place siege engines around it.
 - brenton: And thou shalt besiege it, and build works against it, and throw up a mound round about it, and pitch camps against it, and set up engines round about.
 
 ### Ezekiel 4:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And you take for yourself iron pan and set it as an iron wall between you and city and prepare your face against it, and it will be in confinement and you will confine it. This is sign to the sons of Israel.
+- fresh: And you, take for yourself an iron pan and set it as an iron wall between you and the city, and prepare your face against it, and it will be under siege and you will shut it in. This is a sign for the sons of Israel.
 - brenton: And take thou to thyself an iron pan, and thou shalt set it for an iron wall between thee and the city: and thou shalt set thy face against it, and it shall be in a siege, and thou shalt besiege it. This is a sign to the children of Israel.
 
 ### Ezekiel 4:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will lie on your left side and set injustices of the house of Israel upon it. According to the number of days, one hundred fifty, which you lie on it, you will bear their injustices.
+- fresh: And you will lie on your left side and set the injustices of the house of Israel upon it. According to the number of the days, one hundred fifty, during which you lie on it, you will bear their injustices.
 - brenton: And thou shalt lie upon thy left side, and lay the iniquities of the house of Israel upon it, according to the number of the hundred and fifty days during which thou shalt lie upon it: and thou shalt bear their iniquities.
 
 ### Ezekiel 4:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I gave you their two injustices for the number of days, one hundred ninety days, and you will bear injustices of the house of Israel.
+- fresh: And I have given you their two injustices for the number of days, one hundred ninety days, and you will bear the injustices of the house of Israel.
 - brenton: For I have appointed thee their iniquities for a number of days, for a hundred and ninety days: so thou shalt bear the iniquities of the house of Israel.
 
 ### Ezekiel 4:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will finish all these and lie on your right side and bear injustices of the house of Judah forty days. Day for year I set to you.
+- fresh: And you will finish all these things and lie on your right side and bear the injustices of the house of Judah forty days. I have set for you a day for a year.
 - brenton: And thou shalt accomplish this, and then shalt lie on thy right side, and shalt bear the iniquities of the house of Juda forty days: I have appointed thee a day for a year.
 
 ### Ezekiel 4:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And toward confinement of Jerusalem you will prepare your face, and your arm you will strengthen, and you will prophesy against it.
+- fresh: And toward the siege of Jerusalem you will prepare your face, and you will strengthen your arm, and you will prophesy against it.
 - brenton: So thou shalt set thy face to the siege of Jerusalem, and shalt strengthen thine arm, and shalt prophesy against it.
 
 ### Ezekiel 4:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I, behold, gave bonds upon you, and you will not turn from your side to your side until days of your confinement are completed.
+- fresh: And I, behold, have given bonds upon you, and you will not turn from one side to the other until the days of your siege are completed.
 - brenton: And, behold, I have prepared bonds for thee, and thou mayest not turn from thy one side to the other, until the days of thy siege shall be accomplished.
 
 ### Ezekiel 4:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And you take for yourself wheat and barley and bean and lentil and millet and spelt and put them into earthen vessel and make them for yourself into loaves, and according to the number of days which you sleep on your side, one hundred ninety days, you will eat them.
+- fresh: And you, take for yourself wheat and barley and beans and lentils and millet and spelt and put them into an earthen vessel and make them for yourself into loaves, and according to the number of the days during which you sleep on your side, one hundred ninety days, you will eat them.
 - brenton: Take thou also to thee wheat, and barley, and beans, and lentiles, and millet, and bread-corn; and thou shalt cast them into one earthen vessel, and shalt make them into loaves for thyself; and thou shalt eat them a hundred and ninety days, according to the number of the days during which thou sleepest on thy side.
 
 ### Ezekiel 4:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And your food which you eat will be in weight, twenty shekels for day. From time to time you will eat them.
+- fresh: And your food which you will eat will be by weight, twenty shekels a day. From time to time you will eat them.
 - brenton: And thou shalt eat thy food by weight, twenty shekels a day: from time to time shalt thou eat them.
 
 ### Ezekiel 4:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And water by measure you will drink, one-sixth of a hin. From time to time you will drink.
+- fresh: And you will drink water by measure, one-sixth of a hin. From time to time you will drink.
 - brenton: And thou shalt drink water by measure, even from time to time thou shalt drink the sixth part of a hin.
 
 ### Ezekiel 4:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will eat them as barley cake. With fuel of human dung you will bake them before their eyes.
+- fresh: And you will eat them as a barley cake. With human-dung fuel you will bake them before their eyes.
 - brenton: And thou shalt eat them as a barley cake: thou shalt bake them before their eyes in man's dung.
 
 ### Ezekiel 4:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will say, Thus says the Lord God of Israel: Thus sons of Israel will eat unclean things among nations.
+- fresh: And you will say, Thus says the Lord God of Israel: Thus the sons of Israel will eat unclean things among the nations.
 - brenton: And thou shalt say, Thus saith the Lord God of Israel; Thus shall the children of Israel eat unclean things among the Gentiles.
 
 ### Ezekiel 4:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I said, No indeed, Lord God of Israel. Behold, my soul is not defiled in uncleanness, and corpse and torn thing I did not eat from my birth until now, nor did any stale flesh enter into my mouth.
+- fresh: And I said, No indeed, Lord God of Israel. Behold, my soul has not been defiled with uncleanness, and I have not eaten what died of itself or was torn by beasts from my birth until now, nor has any stale flesh entered into my mouth.
 - brenton: Then I said, Not so, Lord God of Israel: surely my soul has not been defiled with uncleanness; nor have I eaten that which died of itself or was torn of beasts from my birth until now; neither has any corrupt flesh entered into my mouth.
 
 ### Ezekiel 4:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he said to me, Behold, I gave you cow dung instead of human dung, and you will make your loaves upon it.
+- fresh: And he said to me, Behold, I have given you cow dung instead of human dung, and you will make your loaves upon it.
 - brenton: And he said to me, Behold, I have given thee dung of oxen instead of man's dung, and thou shalt prepare thy loaves upon it.
 
 ### Ezekiel 4:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And he said to me, Son of man, behold, I break support of bread in Jerusalem, and they will eat bread by weight and in lack, and water by measure and in desolation they will drink,
+- fresh: And he said to me, Son of man, behold, I break the support of bread in Jerusalem, and they will eat bread by weight and in want, and they will drink water by measure and in ruin,
 - brenton: And he said to me, Son of man, behold, I break the support of bread in Jerusalem: and they shall eat bread by weight and in want; and shall drink water by measure, and in a state of ruin:
 
 ### Ezekiel 4:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: so that they may be in want of bread and water, and man and his brother will be desolated and melt away in their injustices.
+- fresh: so that they may be in want of bread and water, and a man and his brother will be brought to ruin and melt away in their injustices.
 - brenton: that they may want bread and water; and a man and his brother shall be brought to ruin, and they shall pine away in their iniquities.
 
 ### Ezekiel 5:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And you, son of man, take for yourself sharp sword, like a barber's razor, acquire it for yourself and bring it over your head and over your beard, and you will take scales and divide them.
+- fresh: And you, son of man, take for yourself a sharp sword, like a barber's razor. Acquire it for yourself and bring it over your head and over your beard, and you will take scales for weighing and divide the hairs.
 - brenton: And thou, son of man, take thee a sword sharper than a barber's razor; thou shalt procure it for thyself, and shalt bring it upon thine head, and upon thy beard: and thou shalt take a pair of scales, and shalt separate the hair.
 
 ### Ezekiel 5:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Quarter in fire you will burn in the midst of the city according to the completion of days of confinement. And you will take quarter and burn it in the midst of her, and quarter you will cut with sword around her, and quarter you will scatter to wind, and sword I will draw out behind them.
+- fresh: A quarter you will burn with fire in the midst of the city according to the completion of days of the siege. And you will take a quarter and burn it in the midst of her, and a quarter you will cut with a sword around her, and a quarter you will scatter to the wind, and I will draw out a sword behind them.
 - brenton: A fourth part thou shalt burn in the fire in the midst of the city, at the fulfilment of the days of the siege: and thou shalt take a fourth part, and burn it up in the midst of it: and a fourth part thou shalt cut with a sword round about it: and a fourth part thou shalt scatter to the wind; and I will draw out a sword after them.
 
 ### Ezekiel 5:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will take from there few in number and wrap them in your cloak.
+- fresh: And you will take from there a few in number and wrap them in your cloak.
 - brenton: And thou shalt take thence a few in number, and shalt wrap them in the fold of thy garment.
 
 ### Ezekiel 5:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And from these you will still take and throw them into the midst of fire and burn them in fire. Out from it fire will go out, and you will say to all the house of Israel,
+- fresh: And from these you will take again and throw them into the midst of the fire and burn them with fire. From it fire will go out, and you will say to all the house of Israel,
 - brenton: And thou shalt take of these again, and cast them into the midst of the fire, and burn them up with fire: from thence shall come forth fire; and thou shalt say to the whole house of Israel,
 
 ### Ezekiel 5:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord: This is Jerusalem. I set her in the midst of nations and lands around her.
+- fresh: Thus says the Lord: This is Jerusalem. I have set her and the lands around her in the midst of the nations.
 - brenton: Thus saith the Lord; This is Jerusalem: I have set her and the countries round about her in the midst of the nations.
 
 ### Ezekiel 5:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will say, My ordinances to lawlessness from nations, and my statutes from lands around her, because they rejected my ordinances, and in my statutes they did not walk in them.
+- fresh: And you will declare my ordinances to the lawless one from the nations and my statutes to the lands around her, because they rejected my ordinances and did not walk in my statutes.
 - brenton: And thou shalt declare mine ordinances to the lawless one from out of the nations; and my statutes to the sinful one of the countries round about her: because they have rejected mine ordinances, and have not walked in my statutes.
 
 ### Ezekiel 5:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Because your starting-point was from nations around you, and in my statutes you did not walk and my ordinances you did not do, and not even according to ordinances of nations around you did you do.
+- fresh: Therefore thus says the Lord: Because your occasion for sin was from the nations around you, and you did not walk in my statutes or do my ordinances, and you did not even do according to the ordinances of the nations around you.
 - brenton: Therefore thus saith the Lord, Because your occasion for sin has been taken from the nations round about you, and ye have not walked in my statutes, nor kept mine ordinances, nay, ye have not even done according to the ordinances of the nations round about you; therefore thus saith the Lord;
 
 ### Ezekiel 5:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Behold, I am against you and will do judgment in your midst before nations.
+- fresh: Therefore thus says the Lord: Behold, I am against you, and I will do judgment in your midst before the nations.
 - brenton: Behold, I am against thee, and I will execute judgment in the midst of thee in the sight of the nations.
 
 ### Ezekiel 5:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will do in you what I have not done, and what I will not do like them again, because of all your abominations.
+- fresh: And I will do among you things that I have not done, and things like these I will not do again, because of all your abominations.
 - brenton: And I will do in thee things which I have not done, and the like of which I will not do again, for all thine abominations.
 
 ### Ezekiel 5:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Therefore fathers will eat children in your midst and children will eat fathers, and I will do judgments in you and scatter all your remnant to every wind.
+- fresh: Therefore fathers will eat children in your midst and children will eat fathers, and I will execute judgments in you and scatter all your remnant to every wind.
 - brenton: Therefore the fathers shall eat their children in the midst of thee, and children shall eat their fathers; and I will execute judgments in thee, and I will scatter all that are left of thee to every wind.
 
 ### Ezekiel 5:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Therefore as I live, says the Lord, because you defiled my holy things with all your abominations, I also will reject you. My eye will not spare, and I will not have mercy.
 - brenton: Therefore, as I live, saith the Lord; surely, because thou hast defiled my holy things with all thine abominations, I also will reject thee; mine eye shall not spare, and I will have no mercy.
@@ -183162,44 +183162,44 @@ Note:
 ### Ezekiel 5:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: A quarter of you will be consumed in death, and a quarter of you finished in famine in your midst, and a quarter I will scatter to every wind, and a quarter will fall by sword around you, and sword I will draw out behind them.
+- fresh: A quarter of you will be consumed in death, and a quarter of you will be finished in famine in your midst, and a quarter of you I will scatter to every wind, and a quarter of you will fall by sword around you, and I will draw out a sword behind them.
 - brenton: A fourth part of thee shall be cut off by pestilence, and a fourth part of thee shall be consumed in the midst of thee with famine: and as for another fourth part of thee, I will scatter them to every wind; and a fourth part of thee shall fall by the sword round about thee, and I will draw out a sword after them.
 
 ### Ezekiel 5:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And my wrath will be completed and my anger upon them, and you will know that I, the Lord, spoke in my zeal when I complete my wrath upon them.
+- fresh: And my wrath and my anger will be completed upon them, and you will know that I, the Lord, have spoken in my zeal when I complete my anger upon them.
 - brenton: And my wrath and mine anger shall be accomplished upon them: and thou shalt know that I the Lord have spoken in my jealousy, when I have accomplished mine anger upon them.
 
 ### Ezekiel 5:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will set you for wilderness and your daughters around you before every passerby.
+- fresh: And I will make you a wilderness, and your daughters around you, before everyone passing through.
 - brenton: And I will make thee desolate, and thy daughters round about thee, in the sight of every one that passes through.
 
 ### Ezekiel 5:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will be groaning and misery among nations around you when I do in you judgments in vengeance of my wrath. I, the Lord, spoke.
+- fresh: And you will be groaned over and miserable among the nations around you when I execute judgments in you in vengeance of my wrath. I, the Lord, have spoken.
 - brenton: And thou shalt be mourned over and miserable among the nations round about thee, when I have executed judgments in thee in the vengeance of my wrath. I the Lord have spoken.
 
 ### Ezekiel 5:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: When I send my arrows of famine upon them and they will be for destruction, and I will break your support of bread,
 - brenton: And when I have sent against them shafts of famine, then they shall be consumed, and I will break the strength of thy bread.
@@ -183207,10 +183207,10 @@ Note:
 ### Ezekiel 5:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: and I will send upon you famine and evil beasts and punish you, and death and blood will pass through upon you, and sword I will bring upon you around. I, the Lord, spoke.
+- fresh: and I will send upon you famine and evil beasts and take vengeance on you, and death and blood will pass through upon you, and I will bring a sword upon you all around. I, the Lord, have spoken.
 - brenton: So I will send forth against thee famine and evil beasts, and I will take vengeance upon thee; and pestilence and blood shall pass through upon thee; and I will bring a sword upon thee round about. I the Lord have spoken.
 
 ### Ezekiel 6:1
@@ -183234,26 +183234,26 @@ Note:
 ### Ezekiel 6:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: and say, Mountains of Israel, hear the word of the Lord. Thus says the Lord to mountains and hills and ravines and valleys: Behold, I bring sword upon you, and your high places will be destroyed.
+- fresh: and say, Mountains of Israel, hear the word of the Lord. Thus says the Lord to the mountains and to the hills and to the ravines and to the valleys: Behold, I bring a sword upon you, and your high places will be destroyed.
 - brenton: and thou shalt say,
 
 ### Ezekiel 6:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And your altars will be crushed and your shrines, and I will cast down your slain before your idols.
+- fresh: And your altars will be crushed and your shrines will be broken down, and I will cast down your slain before your idols.
 - brenton: And your altars shall be broken to pieces, and your consecrated plats; and I will cast down your slain men before your idols.
 
 ### Ezekiel 6:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And I will scatter your bones around your altars.
 - brenton: And I will scatter your bones round about your altars,
@@ -183261,37 +183261,37 @@ Note:
 ### Ezekiel 6:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: In all your dwelling places cities will be laid waste and high places will disappear, so that your altars may be destroyed and your idols crushed and your shrines removed.
+- fresh: In all your dwelling places the cities will be laid waste and the high places will disappear, so that your altars may be destroyed and your idols crushed and your shrines removed.
 - brenton: and in all your habitations: the cities shall be made desolate, and the high places utterly laid waste; that your altars may be destroyed, and your idols be broken to pieces, and your consecrated plats be abolished.
 
 ### Ezekiel 6:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And slain will fall in your midst, and you will know that I am the Lord.
+- fresh: And the slain will fall in your midst, and you will know that I am the Lord.
 - brenton: And slain men shall fall in the midst of you, and ye shall know that I am the Lord.
 
 ### Ezekiel 6:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: When from you there are survivors from sword among nations, when you are scattered in lands,
+- fresh: When there are survivors from you from the sword among the nations, and when you are scattered in the lands,
 - brenton: When there are some of you escaping from the sword among the Gentiles, and when ye are scattered in the countries;
 
 ### Ezekiel 6:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: then those of you who are rescued will remember me among nations where they were taken captive, because I swore against their heart whoring away from me and against their eyes whoring after their practices, and they will strike their faces for all their abominations.
+- fresh: then those of you who are rescued will remember me among the nations where they were taken captive, because I swore against their heart whoring away from me and against their eyes whoring after their practices, and they will beat their faces over all their abominations.
 - brenton: then they of you that escape among the nations whither they were carried captive shall remember me; (I have sworn an oath against their heart that goes a-whoring from me, and their eyes that go a-whoring after their practices;) and they shall mourn over themselves for all their abominations.
 
 ### Ezekiel 6:10
@@ -183306,37 +183306,37 @@ Note:
 ### Ezekiel 6:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Thus says the Lord: Clap with hand and stamp with foot and say, Alas, alas, over all abominations of the house of Israel. By sword and by death and by famine they will fall.
+- fresh: Thus says the Lord: Clap with your hand and stamp with your foot and say, Alas, alas, over all the abominations of the house of Israel. By sword and by death and by famine they will fall.
 - brenton: Thus saith the Lord; Clap with thy hand, and stamp with thy foot and say, Aha, aha! for all the abominations of the house of Israel: they shall fall by the sword, and by pestilence, and by famine.
 
 ### Ezekiel 6:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: One near will fall by sword, one far off will die by pestilence, and one hemmed in will be finished by famine, and I will spend my wrath on them.
+- fresh: The one near will fall by sword, and the one far off will die by death, and the one hemmed in will be finished by famine, and I will complete my anger upon them.
 - brenton: He that is near shall fall by the sword; and he that is far off shall die by the pestilence; and he that is in the siege shall be consumed with famine: and I will accomplish mine anger upon them.
 
 ### Ezekiel 6:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And you will know that I am the Lord when your slain are in the midst of your idols, around your altars, on every high hill and under every leafy tree, where they gave there fragrant smell to all their idols.
+- fresh: And you will know that I am the Lord when your slain are in the midst of your idols, around your altars, on every high hill and under every shady tree, where they offered a fragrant smell to all their idols.
 - brenton: Then ye shall know that I am the Lord, when your slain are in the midst of your idols round about your altars, on every high hill, and under every shady tree, where they offered a sweet savour to all their idols.
 
 ### Ezekiel 6:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I will stretch out my hand against them and make land into desolation and ruin, from the wilderness to Diblath, in all their dwelling places, and they will know that I am the Lord.
+- fresh: And I will stretch out my hand against them and make the land into desolation and ruin, from the wilderness to Diblath, in all their dwelling places, and they will know that I am the Lord.
 - brenton: And I will stretch out my hand against them, and I will make the land desolate and ruined from the wilderness of Deblatha, in all their habitations: and ye shall know that I am the Lord.
 
 ### Ezekiel 7:1
@@ -183351,10 +183351,10 @@ Note:
 ### Ezekiel 7:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And you, son of man, say, Thus says the Lord to the land of Israel: End has come; end has come upon four wings of land.
+- fresh: And you, son of man, say, Thus says the Lord to the land of Israel: The end has come; the end has come upon the four wings of the land.
 - brenton: Thus saith the Lord;
 
 ### Ezekiel 7:3
@@ -183363,50 +183363,50 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: End has come.
+- fresh: The end has come.
 - brenton: The end is come
 
 ### Ezekiel 7:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Upon you, one dwelling land, time has come; day has drawn near, not with tumult nor with birth-pains.
+- fresh: Upon you who dwell in the land, the time has come; the day has drawn near, not with tumults nor with birth pains.
 - brenton: on thee, the inhabitant of the land: the time is come, the day has drawn nigh, not with tumult, nor with pangs.
 
 ### Ezekiel 7:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Now from near I pour out my wrath upon you and complete my anger in you, and I will judge you in your ways and bring all your abominations upon you.
+- fresh: Now from nearby I will pour out my wrath upon you and complete my anger in you, and I will judge you according to your ways and bring all your abominations upon you.
 - brenton: Now I will pour out mine anger upon thee near at hand, and I will accomplish my wrath on thee: and I will judge thee for thy ways, and recompense upon thee all thine abominations.
 
 ### Ezekiel 7:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: My eye will not spare, nor will I show mercy, because I will bring your ways upon you, and your abominations will be in your midst, and you will know that I am the Lord, one striking.
+- fresh: My eye will not spare, nor will I show mercy, because I will bring your ways upon you, and your abominations will be in your midst, and you will know that I am the Lord, the one who strikes.
 - brenton: Mine eye shall not spare, nor will I have any mercy: for I will recompense thy ways upon thee, and thine abominations shall be in the midst of thee; and thou shalt know that I am the Lord that smite thee.
 
 ### Ezekiel 7:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Now end comes toward you, and I send it upon you, and I will avenge you in your ways and bring all your abominations upon you.
+- fresh: Now the end comes toward you, and I will send it upon you, and I will take vengeance on you according to your ways and bring all your abominations upon you.
 - brenton: Now the end is come to thee, and I will send judgment upon thee: and I will take vengeance on thy ways, and will recompense all thine abominations upon thee.
 
 ### Ezekiel 7:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: My eye will not spare you, nor will I show mercy, because I will bring your way upon you, and your abominations will be in your midst, and you will know that I am the Lord.
 - brenton: Mine eye shall not spare, nor will I have any mercy: for I will recompense thy way upon thee, and thine abominations shall be in the midst of thee; and thou shalt know that I am the Lord.
@@ -183423,71 +183423,71 @@ Note:
 ### Ezekiel 7:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Behold, end has come. Behold, the day of the Lord. See, rod has blossomed; insolence has sprung up.
+- fresh: Behold, the end has come. Behold, the day of the Lord. Though the rod has blossomed, insolence has sprung up.
 - brenton: Behold, the day of the Lord! although the rod has blossomed,
 
 ### Ezekiel 7:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And it will break support of lawlessness, not with tumult nor with haste.
+- fresh: And it will shatter the staff of the lawless one, not with tumult nor with haste.
 - brenton: pride has sprung up, and will break the staff of the wicked one, and that not with tumult, nor with haste.
 
 ### Ezekiel 7:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Time has come; behold, day. Buyer must not rejoice, and seller must not mourn.
+- fresh: The time has come; behold, the day. Let the buyer not rejoice, and let the seller not mourn.
 - brenton: The time is come, behold the day: let not the buyer rejoice, and let not the seller mourn.
 
 ### Ezekiel 7:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: For buyer will never return to seller, and no man, while life is still in his eyes, will hold firm.
+- fresh: For the buyer will never return to the seller, and no one, with the eye of his life, will hold firm.
 - brenton: For the buyer shall never again return to the seller, neither shall a man cleave with the eye of hope to his life.
 
 ### Ezekiel 7:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Sound trumpet and set everything in order.
+- fresh: Sound the trumpet and judge everything.
 - brenton: Sound ye the trumpet, and pass sentence on all together.
 
 ### Ezekiel 7:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: War with sword outside, and famine and death inside. One in the field will die by sword, but famine and death will finish those in the city.
+- fresh: War with sword outside, and famine and death inside. The one in the field will die by sword, but famine and death will finish those in the city.
 - brenton: There shall be war with the sword without, and famine and pestilence within: he that is in the field shall die by the sword; and famine and pestilence shall destroy them that are in the city.
 
 ### Ezekiel 7:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And those rescued from them will be saved and be on mountains. I will kill them all, each in his injustices.
+- fresh: And those rescued from them will be saved and be on the mountains. I will kill all of them, each in his injustices.
 - brenton: But they that escape of them shall be delivered, and shall be upon the mountains: and I will slay all the rest, every one for his iniquities.
 
 ### Ezekiel 7:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: All hands will grow weak, and all thighs will be defiled with wetness.
 - brenton: All hands shall be completely weakened, and all thighs shall be defiled with moisture.
@@ -183495,26 +183495,26 @@ Note:
 ### Ezekiel 7:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they will gird on sackcloth, and stupor will cover them, and upon every face shame, and upon every head baldness.
+- fresh: And they will gird themselves with sackcloth, and dismay will cover them, and shame will be upon every face, and baldness upon every head.
 - brenton: And they shall gird themselves with sackcloth, and amazement shall cover them; and shame shall be upon them, even upon every face, and baldness upon every head.
 
 ### Ezekiel 7:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Their silver will be thrown into streets and their gold will be despised. Their souls will not be filled and their bellies will not be satisfied, because it became a torment of their injustices.
+- fresh: Their silver will be thrown in the streets and their gold will be despised. Their souls will not be filled, and their bellies will not be satisfied, because it became a torment of their injustices.
 - brenton: Their silver shall be cast forth in the streets, and their gold shall be despised: their souls shall not be satisfied, and their bellies shall not be filled: for it was the punishment of their iniquities.
 
 ### Ezekiel 7:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: Their chosen ornaments they set for pride, and images of their abominations they made from them; because of this I gave them over to uncleanness.
 - brenton: As for their choice ornaments, they employed them for pride, and they made of them images of their abominations: therefore have I made them uncleanness to them.
@@ -183522,116 +183522,116 @@ Note:
 ### Ezekiel 7:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I will hand them over into the hands of strangers to plunder them, and to scourges of earth for spoil, and they will profane them.
+- fresh: And I will hand them over into the hands of strangers to plunder them, and to the pests of the earth for spoil, and they will profane them.
 - brenton: And I will deliver them into the hands of strangers to make them a prey, and to the pests of the earth for a spoil; and they shall profane them.
 
 ### Ezekiel 7:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I will turn my face away from them, and they will defile my visitation, and they will enter into it unguarded and profane it.
+- fresh: And I will turn my face away from them, and they will defile my visitation, and they will enter them unguarded and profane them.
 - brenton: And I will turn away my face from them, and they shall defile my charge, and shall go in to them unguardedly, and profane them.
 
 ### Ezekiel 7:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And they will make confusion, because land is full of many peoples and city is full of lawlessness.
+- fresh: And they will make confusion, because the land is full of peoples and the city is full of lawlessness.
 - brenton: And they shall work uncleanness: because the land is full of strange nations, and the city is full of iniquity.
 
 ### Ezekiel 7:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will turn away arrogance of their strength, and their holy things will be defiled.
+- fresh: And I will turn away the arrogance of their strength, and their holy things will be defiled.
 - brenton: And I will turn back the boasting of their strength; and their holy things shall be defiled.
 
 ### Ezekiel 7:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Appeasement will come, and they will seek peace, and it will not be.
+- fresh: Propitiation will come, and one will seek peace, and it will not be.
 - brenton: And though propitiation shall come, and one shall seek peace, yet there shall be none.
 
 ### Ezekiel 7:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Woe upon woe will be, and report upon report will be, and vision will be sought from prophet, and law will perish from priest and counsel from elders.
+- fresh: Woe upon woe will be, and message upon message will be, and a vision will be sought from a prophet, and law will perish from a priest and counsel from elders.
 - brenton: There shall be woe upon woe, and there shall be message upon message; and a vision shall be sought from a prophet; but the law shall perish from the priest, and counsel from the elders.
 
 ### Ezekiel 7:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Ruler will put on desolation, and hands of the people of the land will be paralyzed. According to their ways I will deal with them, and by their judgments I will avenge them, and they will know that I am the Lord.
+- fresh: A ruler will clothe himself with desolation, and the hands of the people of the land will be paralyzed. According to their ways I will deal with them, and by their judgments I will take vengeance on them, and they will know that I am the Lord.
 - brenton: The prince shall clothe himself with desolation, and the hands of the people of the land shall be made feeble: I will do to them according to their ways, and according to their judgments will I punish them; and they shall know that I am the Lord.
 
 ### Ezekiel 8:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And it happened in sixth year, in the fifth month, on the fifth of the month, I sat in the house and elders of Judah sat before me, and the hand of the Lord came upon me.
+- fresh: And it happened in the sixth year, in the fifth month, on the fifth of the month, I was sitting in the house and the elders of Judah were sitting before me, and the hand of the Lord came upon me.
 - brenton: And it came to pass in the sixth year, in the fifth month, on the fifth day of the month, I was sitting in the house, and the elders of Juda were sitting before me: and the hand of the Lord came upon me.
 
 ### Ezekiel 8:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I saw, and behold, likeness of man: from his loins and downward, fire, and from his loins upward like the appearance of electrum.
+- fresh: And I saw, and behold, the likeness of a man: from his loins and downward, there was fire, and from his loins upward, like the appearance of electrum.
 - brenton: And I looked, and, behold, the likeness of a man: from his loins and downwards there was fire, and from his loins upwards there was as the appearance of amber.
 
 ### Ezekiel 8:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And he stretched out likeness of hand and took me by top of my head, and spirit lifted me between earth and heaven and brought me to Jerusalem in the vision of God, to the forecourt of inner gate facing north, where pillar of the possessor was.
+- fresh: And he stretched out the likeness of a hand and took me by the top of my head, and a spirit lifted me between the earth and heaven and brought me to Jerusalem in the vision of God, to the forecourt of the inner gate facing north, where the pillar of the Possessor was.
 - brenton: And he stretched forth the likeness of a hand, and took me up by the crown of my head; and the Spirit lifted me up between the earth and sky, and brought me to Jerusalem in a vision of God, to the porch of the gate that looks to the north, where was the pillar of the Purchaser.
 
 ### Ezekiel 8:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And behold, there was the glory of the Lord God of Israel, according to vision I saw in the plain.
+- fresh: And behold, there was the glory of the Lord God of Israel, according to the vision I saw in the plain.
 - brenton: And, behold, the glory of the Lord God of Israel was there, according to the vision which I saw in the plain.
 
 ### Ezekiel 8:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And he said to me, Son of man, lift your eyes toward north. And I lifted my eyes toward north, and behold, from north, by gate toward east.
+- fresh: And he said to me, Son of man, lift your eyes toward the north. And I lifted my eyes toward the north, and behold, from the north, toward the gate that faces east.
 - brenton: And he said to me, Son of man, lift up thine eyes toward the north. So I lifted up mine eyes toward the north, and, behold, I looked from the north toward the eastern gate.
 
 ### Ezekiel 8:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And he said to me, Son of man, have you seen what these are doing? Great lawless deeds they do here, so that I should withdraw from my holy things, and still you will see greater lawless deeds.
 - brenton: And he said to me, Son of man, hast thou seen what these do? They commit great abominations here so that I should keep away from my sanctuary: and thou shalt see yet greater iniquities.
@@ -183639,17 +183639,17 @@ Note:
 ### Ezekiel 8:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he brought me to the forecourt of court.
+- fresh: And he brought me to the forecourt of the court.
 - brenton: And he brought me to the porch of the court.
 
 ### Ezekiel 8:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And he said to me, Son of man, dig. And I dug, and behold, one door.
 - brenton: And he said to me, Son of man, dig: so I dug, and behold a door.
@@ -183657,17 +183657,17 @@ Note:
 ### Ezekiel 8:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he said to me, Enter and see lawless deeds they do here.
+- fresh: And he said to me, Enter and see the lawless deeds that these do here.
 - brenton: And he said to me, Go in, and behold the iniquities which they practise here.
 
 ### Ezekiel 8:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And I entered and saw, and behold, vain abominations and all idols of the house of Israel engraved on it all around.
 - brenton: So I went in and looked; and beheld vain abominations, and all the idols of the house of Israel, portrayed upon them round about.
@@ -183675,161 +183675,161 @@ Note:
 ### Ezekiel 8:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And seventy men from the elders of the house of Israel, with Jaazaniah son of Shaphan in the midst of them, stood before them, and each had his censer in his hand, and vapor of incense rose up.
+- fresh: And seventy men from the elders of the house of Israel stood before them, and Jaazaniah son of Shaphan was in the midst of them, and each had his censer in his hand, and the vapor of the incense was going up.
 - brenton: And seventy men of the elders of the house of Israel, and Jechonias the son of Saphan stood in their presence in the midst of them, and each one held his censer in his hand; and the smoke of the incense went up.
 
 ### Ezekiel 8:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And he said to me, Son of man, have you seen what elders of the house of Israel do, each in his hidden chamber? For they said, the Lord does not see; the Lord has abandoned land.
+- fresh: And he said to me, Son of man, have you seen what the elders of the house of Israel do, each in his hidden chamber? For they said, The Lord does not see; the Lord has abandoned the land.
 - brenton: And he said to me, Thou hast seen, son of man, what the elders of the house of Israel do, each one of them in their secret chamber: because they have said, The Lord sees not; The Lord has forsaken the earth.
 
 ### Ezekiel 8:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he said to me, You will yet see greater lawless deeds that they do.
+- fresh: And he said to me, You will still see greater lawless deeds that these do.
 - brenton: And he said to me, Thou shalt see yet greater iniquities which these do.
 
 ### Ezekiel 8:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And he brought me to the forecourt of the gate of the house of the Lord facing north, and behold, there women sat lamenting Tammuz.
+- fresh: And he brought me to the forecourt of the gate of the house of the Lord that faces north, and behold, women were sitting there lamenting Tammuz.
 - brenton: And he brought me in to the porch of the house of the Lord that looks to the north; and, behold, there were women sitting there lamenting for Thammuz.
 
 ### Ezekiel 8:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he said to me, Son of man, have you seen? You will yet see practices greater than these.
+- fresh: And he said to me, Son of man, have you seen? You will still see practices greater than these.
 - brenton: And he said to me, Son of man, thou hast seen; but thou shalt yet see evil practices greater than these.
 
 ### Ezekiel 8:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And he brought me into inner court of the house of the Lord, and behold, at the forecourt of the temple of the Lord, between porch and between altar, about twenty men, their backs toward the temple of the Lord and their faces opposite, and these were bowing to sun.
+- fresh: And he brought me into the inner court of the house of the Lord, and behold, at the forecourt of the temple of the Lord, between the porch and the altar, about twenty men had their backs toward the temple of the Lord and their faces opposite, and these were bowing to the sun.
 - brenton: And he brought me into the inner court of the house of the Lord, and at the entrance of the temple of the Lord, between the porch and the altar, were about twenty men, with their back parts toward the temple of the Lord, and their faces turned the opposite way; and these were worshipping the sun.
 
 ### Ezekiel 8:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And he said to me, Have you seen, son of man? Is it small thing for the house of Judah to do lawless deeds they have done here? For they filled land with lawlessness, and behold, they are like those mocking.
+- fresh: And he said to me, Have you seen, son of man? Is it a small thing for the house of Judah to do the lawless deeds they have done here? For they filled the land with lawlessness, and behold, they are like mockers.
 - brenton: And he said to me, Son of man, thou hast seen this. Is it a little thing to the house of Juda to practise the iniquities which they have practised here? for they have filled the land with iniquity: and, behold, these are as scorners.
 
 ### Ezekiel 8:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I also will act in wrath. My eye will not spare, nor will I have mercy.
+- fresh: And I also will deal with them in wrath. My eye will not spare, nor will I have mercy.
 - brenton: Therefore will I deal with them in wrath: mine eye shall not spare, nor will I have any mercy.
 
 ### Ezekiel 9:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And he cried into my ears with loud voice, saying, Near has come vengeance of the city, and each had instrument of destruction in his hand.
+- fresh: And he cried into my ears with a loud voice, saying, The vengeance of the city has drawn near, and each had the instruments of destruction in his hand.
 - brenton: And he cried in mine ears with a loud voice, saying, The judgment of the city has drawn nigh; and each had the weapons of destruction in his hand.
 
 ### Ezekiel 9:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And behold, six men came from the way of upper gate facing north, and each one had his axe in his hand, and one man in the midst of them, clothed in full-length robe, and sapphire belt on his loins; and they entered and stood beside bronze altar.
+- fresh: And behold, six men came from the way of the upper gate that faces north, and each one's axe was in his hand, and one man was in the midst of them, clothed in a full-length robe, with a sapphire belt on his loins; and they entered and stood beside the bronze altar.
 - brenton: And, behold, six men came from the way of the high gate that looks toward the north, and each one's axe was in his hand; and there was one man in the midst of them clothed with a long robe down to the feet, and a sapphire girdle was on his loins: and they came in and stood near the brazen altar.
 
 ### Ezekiel 9:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And the glory of God of Israel went up from cherubim that was upon them to the forecourt of the house, and he called man clothed in full-length robe who had belt upon his loins.
+- fresh: And the glory of God of Israel went up from the cherubim that was upon them to the forecourt of the house, and he called the man clothed in the full-length robe, who had the belt upon his loins.
 - brenton: And the glory of the God of Israel, that was upon them, went up from the cherubs to the porch of the house.
 
 ### Ezekiel 9:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And he said to him, Pass through the midst of Jerusalem and put mark on foreheads of men groaning and grieving over all lawless deeds done in her midst.
+- fresh: And he said to him, Pass through the midst of Jerusalem and put the mark on the foreheads of the men who groan and grieve over all the lawless deeds being done in her midst.
 - brenton: and said to him, Go through the midst of Jerusalem, and set a mark on the foreheads of the men that groan and that grieve for all the iniquities that are done in the midst of them.
 
 ### Ezekiel 9:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And to these he said, while I heard, Go after him into the city and strike. Let not your eyes spare, and do not show mercy.
+- fresh: And to these he said in my hearing, Go after him into the city and strike. Let not your eyes spare, and do not show mercy.
 - brenton: And he said to the first in my hearing, Go after him into the city, and smite: and let not your eyes spare, and have no mercy.
 
 ### Ezekiel 9:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Kill old man and young man and virgin and little children and women, to wiping out, but do not come near any on whom mark is, and begin from my holy things. And they began from elder men who were inside the house.
+- fresh: Kill old man and young man and virgin and infants and women for wiping out, but do not come near anyone on whom the mark is, and begin from my holy things. And they began from the elder men who were inside the house.
 - brenton: Slay utterly old man and youth, and virgin, and infants, and women: but go ye not nigh any on whom is the mark: begin at my sanctuary.
 
 ### Ezekiel 9:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he said to them, Defile house and fill ways with dead. Go out and strike.
+- fresh: And he said to them, Defile the house and fill the ways with the dead. Go out and strike.
 - brenton: And he said to them, Defile the house, and go out and fill the ways with dead bodies, and smite.
 
 ### Ezekiel 9:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And it happened, while they were striking, I fell on my face and cried out and said, Alas, Lord, do you wipe out the remnant of Israel when you pour out your wrath upon Jerusalem?
+- fresh: And it happened while they were striking that I fell on my face and cried out and said, Alas, Lord, do you wipe out the remnant of Israel when you pour out your wrath upon Jerusalem?
 - brenton: And it came to pass as they were smiting, that I fell upon my face, and cried out, and said, Alas, O Lord! wilt thou destroy the remnant of Israel, in pouring out thy wrath upon Jerusalem?
 
 ### Ezekiel 9:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And he said to me, Injustice of the house of Israel and Judah has grown exceedingly, exceedingly, because land was filled with many peoples and city filled with injustice and uncleanness, because they said, the Lord has abandoned land; The Lord does not see.
+- fresh: And he said to me, The injustice of the house of Israel and Judah has grown very, very great, because the land has been filled with many peoples and the city has been filled with injustice and uncleanness, because they said, The Lord has abandoned the land; the Lord does not look upon it.
 - brenton: Then said he to me, The iniquity of the house of Israel and Juda is become very exceedingly great: for the land is filled with many nations, and the city is filled with iniquity and uncleanness: because they have said, The Lord has forsaken the earth, The Lord looks not upon it.
 
 ### Ezekiel 9:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And my eye will not spare, nor will I show mercy. I have put their ways on their heads.
 - brenton: Therefore mine eye shall not spare, neither will I have any mercy: I have recompensed their ways upon their heads.
@@ -183837,125 +183837,125 @@ Note:
 ### Ezekiel 9:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And behold, man clothed in full-length robe, with belt around his loins, answered saying, I have done just as you commanded me.
+- fresh: And behold, the man clothed in the full-length robe, with the belt around his loins, answered, saying, I have done just as you commanded me.
 - brenton: And, behold, the man clothed with the long robe, and girt with the girdle about his loins, answered and said, I have done as thou didst command me.
 
 ### Ezekiel 10:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I saw, and behold, above firmament over heads of cherubim, like sapphire stone, likeness of throne upon them.
+- fresh: And I saw, and behold, above the firmament over the heads of the cherubim, like a sapphire stone, there was the likeness of a throne upon them.
 - brenton: Then I looked, and, behold, over the firmament that was above the head of the cherubs there was a likeness of a throne over them, as a sapphire stone.
 
 ### Ezekiel 10:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And he said to man clothed in robe, Enter into the midst of wheels beneath cherubim and fill your hands with coals of fire from the midst of cherubim and scatter over city. And he entered before me.
+- fresh: And he said to the man clothed in the robe, Enter into the midst of the wheels beneath the cherubim and fill your hands with coals of fire from the midst of the cherubim and scatter them over the city. And he entered before me.
 - brenton: And he said to the man clothed with the long robe, Go in between the wheels that are under the cherubs, and fill thine hands with coals of fire from between the cherubs, and scatter them over the city. And he went in in my sight.
 
 ### Ezekiel 10:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And cherubim stood on right of the house when man went in, and cloud filled inner court.
+- fresh: And the cherubim stood on the right of the house when the man went in, and the cloud filled the inner court.
 - brenton: And the cherubs stood on the right hand of the house, as the man went in; and the cloud filled the inner court.
 
 ### Ezekiel 10:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And the glory of the Lord went up from cherubim to the forecourt of the house, and cloud filled the house, and the court was filled with brightness of the glory of the Lord.
+- fresh: And the glory of the Lord went up from the cherubim to the forecourt of the house, and the cloud filled the house, and the court was filled with the brightness of the glory of the Lord.
 - brenton: Then the glory of the Lord departed from the cherubs to the porch of the house; and the cloud filled the house, and the court was filled with the brightness of the glory of the Lord.
 
 ### Ezekiel 10:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And the sound of wings of cherubim was heard as far as outer court, like the voice of God Almighty speaking.
+- fresh: And the sound of wings of cherubim was heard as far as the outer court, like the voice of God Almighty speaking.
 - brenton: And the sound of the cherubs' wings was heard as far as the outer court, as the voice of the Almighty God speaking.
 
 ### Ezekiel 10:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And it happened when he commanded man clothed in holy robe, saying, Take fire from the midst of wheels, from the midst of cherubim, and he went in and stood beside wheels.
+- fresh: And it happened when he commanded the man clothed in the holy robe, saying, Take fire from the midst of the wheels, from the midst of the cherubim, and he went in and stood beside the wheels.
 - brenton: And it came to pass, when he gave a charge to the man clothed with the sacred robe, saying, Take fire from between the wheels from between the cherubs, that he went in, and stood near the wheels.
 
 ### Ezekiel 10:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And one stretched out his hand into the midst of fire that was in the midst of cherubim and took and gave into the hands of one clothed in holy robe, and he took and went out.
+- fresh: And he stretched out his hand into the midst of the fire that was in the midst of the cherubim and took it and gave it into the hands of the one clothed in the holy robe, and he took it and went out.
 - brenton: And he stretched forth his hand into the midst of the fire that was between the cherubs, and took thereof, and put it into the hands of the man clothed with the sacred robe: and he took it, and went out.
 
 ### Ezekiel 10:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I saw on cherubim likeness of human hands beneath their wings.
+- fresh: And I saw on the cherubim the likeness of human hands beneath their wings.
 - brenton: And I saw the cherubs having the likeness of men's hands under their wings.
 
 ### Ezekiel 10:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I saw, and behold, four wheels stood beside cherubim, one wheel beside one cherub, and appearance of wheels like the appearance of a carbuncle stone.
+- fresh: And I saw, and behold, four wheels stood beside the cherubim, one wheel beside one cherub, and the appearance of the wheels was like the appearance of a carbuncle stone.
 - brenton: And I saw, and behold, four wheels stood by the cherubs, one wheel by each cherub: and the appearance of the wheels was as the appearance of a carbuncle stone.
 
 ### Ezekiel 10:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And their appearance was one likeness in the four, like a wheel within a wheel.
+- fresh: And their appearance had one likeness in the four, like a wheel within a wheel.
 - brenton: And as for their appearance, there was one likeness to the four, as if there should be a wheel in the midst of a wheel.
 
 ### Ezekiel 10:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: When they went, they went on their four sides; they did not turn when they went, because to place where one leadership looked, they went, and did not turn when they went.
+- fresh: When they went, they went on their four sides; they did not turn when they went, because to whatever place the one head looked, they went, and they did not turn when they went.
 - brenton: When they went, they went on their four sides; they turned not when they went, for whichever way the first head looked, they went; and they turned not as they went.
 
 ### Ezekiel 10:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And their backs and their hands and their wings and their wheels were full of eyes all around, for the four wheels.
+- fresh: And their backs and their hands and their wings and the wheels were full of eyes all around the four wheels.
 - brenton: And their backs, and their hands, and their wings, and the wheels, were full of eyes round about the four wheels.
 
 ### Ezekiel 10:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And as for these wheels, they were called Whirling, as I heard.
 - brenton: And these wheels were called Gelgel in my hearing.
@@ -183963,26 +183963,26 @@ Note:
 ### Ezekiel 10:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And cherubim were lifted up. This was living creature I saw by the river Chebar.
+- fresh: And the cherubim were lifted up. This was the living creature I saw by the river Chebar.
 - brenton: And the cherubs were the same living creature which I saw by the river of Chobar.
 
 ### Ezekiel 10:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And when cherubim went, wheels went beside them, and when cherubim lifted their wings to rise from earth, their wheels did not turn.
+- fresh: And when the cherubim went, the wheels went beside them, and when the cherubim lifted their wings to rise from the earth, their wheels did not turn.
 - brenton: And when the cherubs went, the wheels went, and they were close to them: and when the cherubs lifted up their wings to mount up from the earth, their wheels turned not.
 
 ### Ezekiel 10:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: When they stood, these stood, and when they were lifted up, these were lifted with them, because the spirit of life was in them.
 - brenton: When they stood, the wheels stood; and when they mounted up, the wheels mounted up with them: because the spirit of life was in them.
@@ -183990,73 +183990,73 @@ Note:
 ### Ezekiel 10:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the glory of the Lord went out from the house and settled on cherubim.
+- fresh: And the glory of the Lord went out from the house and settled on the cherubim.
 - brenton: Then the glory of the Lord departed from the house, and went up on the cherubs.
 
 ### Ezekiel 10:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And cherubim lifted their wings and were raised from earth before me when they went out, and wheels were beside them, and they stood at the forecourt of the gate of the house of the Lord opposite, and the glory of God of Israel was above them.
+- fresh: And the cherubim lifted their wings and were raised from the earth before me as they went out, and the wheels were beside them, and they stood at the forecourt of the opposite gate of the house of the Lord, and the glory of God of Israel was above them.
 - brenton: And the cherubs lifted up their wings, and mounted up from the earth in my sight: when they went forth, the wheels were also beside them, and they stood at the entrance of the front gate of the house of the Lord; and the glory of the God of Israel was upon them above.
 
 ### Ezekiel 10:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: This is living creature I saw beneath God of Israel by the river Chebar, and I knew that they are cherubim.
+- fresh: This is the living creature I saw beneath God of Israel by the river Chebar, and I knew that they are cherubim.
 - brenton: This is the living creature which I saw under the God of Israel by the river of Chobar; and I knew that they were cherubs.
 
 ### Ezekiel 10:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Four faces to each one, and eight wings to each one, and likeness of human hands beneath their wings.
+- fresh: Four faces belonged to each one, and eight wings to each one, and the likeness of human hands was beneath their wings.
 - brenton: Each one had four faces, and each one had eight wings; and under their wings was the likeness of men's hands.
 
 ### Ezekiel 10:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And likeness of their faces: these are faces I saw beneath the glory of God of Israel by the river Chebar, and each went straight before its face.
+- fresh: And the likeness of their faces: these are the faces I saw beneath the glory of God of Israel by the river Chebar, and each went straight before its face.
 - brenton: And as for the likeness of their faces, these are the same faces which I saw under the glory of the God of Israel by the river of Chobar: and they went each straight forward.
 
 ### Ezekiel 11:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And spirit took me up and brought me to the gate of the house of the Lord opposite, facing east, and behold, at the forecourt of gate about twenty-five men, and I saw among them Jaazaniah son of Azzur and Pelatiah son of Benaiah, leaders of the people.
+- fresh: And a spirit took me up and brought me to the opposite gate of the house of the Lord that faces east, and behold, at the forecourt of the gate were about twenty-five men. And I saw among them Jaazaniah son of Azzur and Pelatiah son of Benaiah, leaders of the people.
 - brenton: Moreover the Spirit took me up, and brought me to the front gate of the house of the Lord, that looks eastward: and behold at the entrance of the gate were about five and twenty men; and I saw in the midst of them Jechonias the son of Ezer, and Phaltias the son of Banæas, the leaders of the people.
 
 ### Ezekiel 11:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And the Lord said to me, Son of man, these are men thinking vain things and counseling evil counsel in this city,
+- fresh: And the Lord said to me, Son of man, these are the men thinking vain things and counseling evil counsel in this city,
 - brenton: And the Lord said to me, Son of man, these are the men that devise vanities, and take evil counsel in this city:
 
 ### Ezekiel 11:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: those saying, Were houses not built recently? This is cooking pot; we are flesh.
+- fresh: those saying, Have not the houses recently been built? This is the cooking pot, and we are the meat.
 - brenton: who say, Have not the houses been newly built? This is the caldron, and we are the flesh.
 
 ### Ezekiel 11:4
@@ -184071,17 +184071,17 @@ Note:
 ### Ezekiel 11:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And the Spirit of the Lord fell upon me and said to me, Say, Thus says the Lord: Thus you said, house of Israel, and plans of your spirit I know.
+- fresh: And the Spirit of the Lord fell upon me and said to me, Say, Thus says the Lord: Thus you said, house of Israel, and the plans of your spirit I know.
 - brenton: And the Spirit of the Lord fell upon me, and said to me, say;
 
 ### Ezekiel 11:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: You multiplied your dead in this city and filled its streets with slain.
 - brenton: Ye have multiplied your dead in this city, and ye have filled your ways with slain men.
@@ -184089,53 +184089,53 @@ Note:
 ### Ezekiel 11:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Your dead, whom you struck in its midst, these are flesh and this is cooking pot, but you I will bring out from its midst.
+- fresh: Therefore thus says the Lord: Your dead, whom you struck in its midst, these are the meat and this is the cooking pot, but I will bring you out from its midst.
 - brenton: Therefore thus saith the Lord; Your dead whom ye have smitten in the midst of it, these are the flesh, and thiscity is the caldron: but I will bring you forth out of the midst of it.
 
 ### Ezekiel 11:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You fear sword, and sword I will bring upon you, says the Lord.
+- fresh: You fear the sword, and a sword I will bring upon you, says the Lord.
 - brenton: Ye fear the sword; and I will bring a sword upon you, saith the Lord.
 
 ### Ezekiel 11:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I will bring you out from its midst and hand you over into the hands of strangers, and I will perform judgments among you.
+- fresh: And I will bring you out from its midst and hand you over into the hands of strangers, and I will execute judgments among you.
 - brenton: And I will bring you forth out of the midst of it, and will deliver you into the hands of strangers, and will execute judgments among you.
 
 ### Ezekiel 11:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: By sword you will fall. On the borders of Israel I will judge you, and you will know that I am the Lord.
+- fresh: By a sword you will fall. On the borders of Israel I will judge you, and you will know that I am the Lord.
 - brenton: Ye shall fall by the sword; I will judge you on the mountains of Israel; and ye shall know that I am the Lord.
 
 ### Ezekiel 11:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: This will not be cooking pot for you, and you will never become flesh in its midst. On the borders of Israel I will judge you,
+- fresh: This will not be the cooking pot for you, and you will certainly not become meat in its midst. On the borders of Israel I will judge you,
 - brenton: [missing]
 
 ### Ezekiel 11:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: and you will know that I am the Lord.
 - brenton: [missing]
@@ -184143,17 +184143,17 @@ Note:
 ### Ezekiel 11:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And it happened, while I prophesied, Pelatiah son of Benaiah died, and I fell on my face and cried out with loud voice and said, Alas, alas, Lord, are you bringing the remnant of Israel to an end?
+- fresh: And it happened, while I prophesied, Pelatiah son of Benaiah died, and I fell on my face and cried out with a loud voice and said, Alas, alas, Lord, are you bringing the remnant of Israel to an end?
 - brenton: And it came to pass, while I was prophesying, that Phaltias the son of Banæas died. And I fell upon my face, and cried with a loud voice, and said, Alas, alas, O Lord! wilt thou utterly destroy the remnant of Israel?
 
 ### Ezekiel 11:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -184161,35 +184161,35 @@ Note:
 ### Ezekiel 11:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Son of man, your brothers, your kinsmen, men of your captivity, and all house of Israel, all of it, are those to whom the inhabitants of Jerusalem said, Keep far from the Lord; to us land was given for inheritance.
+- fresh: Son of man, your brothers and the men of your captivity and all the house of Israel have come to the full, to whom the inhabitants of Jerusalem said, Keep far from the Lord; to us the land was given for inheritance.
 - brenton: Son of man, thy brethren, and the men of thy captivity, and all the house of Israel are come to the full, to whom the inhabitants of Jerusalem said, Keep ye far away from the Lord: the land is given to us for an inheritance.
 
 ### Ezekiel 11:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Therefore say, Thus says the Lord: Though I thrust them away among nations and scatter them into all the earth, yet I will be to them a little sanctuary in lands where they enter.
+- fresh: Therefore say, Thus says the Lord: Though I thrust them away among the nations and scatter them into all the earth, yet I will be to them as a little sanctuary in the lands into which they enter.
 - brenton: Therefore say thou,
 
 ### Ezekiel 11:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Therefore say, Thus says the Lord: I will welcome them from nations and gather them from lands where I scattered them, and I will give them the land of Israel.
+- fresh: Therefore say, Thus says the Lord: I will welcome them from the nations and gather them from the lands where I scattered them, and I will give them the land of Israel.
 - brenton: Therefore say thou, Thus saith the Lord; I will also take them from the heathen, and gather them out of the lands wherein I have scattered them, and will give them the land of Israel.
 
 ### Ezekiel 11:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And they will enter there and remove all its abominations and all its lawless deeds from it.
 - brenton: And they shall enter in there, and shall remove all the abominations of it, and all its iniquities from it.
@@ -184197,44 +184197,44 @@ Note:
 ### Ezekiel 11:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I will give them another heart, and new spirit I will give in them, and I will pull out the stone heart from their flesh and give them a heart of flesh,
+- fresh: And I will give them another heart, and I will give a new spirit within them, and I will pull out the heart of stone from their flesh and give them a heart of flesh,
 - brenton: And I will give them another heart, and will put a new spirit within them; and will extract the heart of stone from their flesh, and give them a heart of flesh:
 
 ### Ezekiel 11:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: so that they may walk in my ordinances and keep my judgments and do them, and they will be to me for people and I will be to them for God.
+- fresh: so that they may walk in my ordinances and keep my judgments and do them, and they will be to me for a people and I will be to them for God.
 - brenton: that they may walk in my commandments, and keep mine ordinances, and do them: and they shall be to me a people, and I will be to them a God.
 
 ### Ezekiel 11:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: But those whose heart went after their abominations and their lawless deeds, I have put their ways on their heads, says the Lord.
+- fresh: But as for the heart set on their abominations and their lawless deeds, as their heart went after them, I have put their ways on their heads, says the Lord.
 - brenton: And as for the heart set upon their abominations and their iniquities, as their heart went after them, I have recompensed their ways on their heads, saith the Lord.
 
 ### Ezekiel 11:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And cherubim lifted their wings, and wheels beside them, and the glory of God of Israel was above them.
+- fresh: And the cherubim lifted their wings, and the wheels were beside them, and the glory of God of Israel was above them.
 - brenton: Then the cherubs lifted up their wings, and the wheels beside them; and the glory of the God of Israel was over them above.
 
 ### Ezekiel 11:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And the glory of the Lord went up from the midst of the city and stood upon the mountain opposite the city.
 - brenton: And the glory of the Lord went up from the midst of the city, and stood on the mountain which was in front of the city.
@@ -184242,26 +184242,26 @@ Note:
 ### Ezekiel 11:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: And spirit took me up and brought me to the land of Chaldeans, to captivity, in vision, in the Spirit of God, and I came up from vision that I saw.
+- fresh: And a spirit took me up and brought me to the land of the Chaldeans, to the captivity, in a vision, in the Spirit of God, and I came up from the vision that I saw.
 - brenton: And the Spirit took me up, and brought me to the land of the Chaldeans, to the captivity, in a vision by the Spirit of God: and I went up after the vision which I saw.
 
 ### Ezekiel 11:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I spoke to captivity all the words of the Lord that he showed me.
+- fresh: And I spoke to the captivity all the words of the Lord that he showed me.
 - brenton: And I spoke to the captivity all the words of the Lord which he had shewed me.
 
 ### Ezekiel 12:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -184269,143 +184269,143 @@ Note:
 ### Ezekiel 12:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Son of man, in the midst of their injustices you dwell, those who have eyes to see and do not see, and ears to hear and do not hear, because they are provoking house.
+- fresh: Son of man, you dwell in the midst of their injustices, those who have eyes to see and do not see, and ears to hear and do not hear, because it is a provoking house.
 - brenton: Son of man, thou dwellest in the midst of the iniquities of those, who have eyes to see, and see not; and have ears to hear, and hear not: because it is a provoking house.
 
 ### Ezekiel 12:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And you, son of man, make for yourself baggage of captivity by day before them, and you will go into captivity from your place to another place before them, so that they may see, because they are provoking house.
+- fresh: And you, son of man, make for yourself baggage for captivity by day before them, and you will go into captivity from your place to another place before them, so that they may see, because it is a provoking house.
 - brenton: Thou therefore, son of man, prepare thyself baggage for going into captivity by day in their sight; and thou shalt be led into captivity from thy place into another place in their sight; that they may see that it is a provoking house.
 
 ### Ezekiel 12:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And you will bring out your baggage, like baggage of captivity, by day in their sight, and you will go out at evening, as captive goes out.
+- fresh: And you will bring out your baggage, like baggage for captivity, by day in their sight, and you will go out in the evening, as a captive goes out.
 - brenton: And thou shalt carry forth thy baggage, baggage for captivity, by day before their eyes: and thou shalt go forth at even, as a captive goes forth, in their sight.
 
 ### Ezekiel 12:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: In their sight dig for yourself through wall, and you will go out through it.
+- fresh: In their sight dig for yourself through the wall, and you will go out through it.
 - brenton: Dig for thyself into the wall of the house, and thou shalt pass through it in their sight:
 
 ### Ezekiel 12:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: In their sight you will be lifted on shoulders and go out hidden. You will cover your face so that you do not see land, because I gave you for wonder to the house of Israel.
+- fresh: In their sight you will be lifted on shoulders and go out hidden. You will cover your face so that you do not see the land, because I have given you as a wonder to the house of Israel.
 - brenton: thou shalt be lifted up on men's shoulders, and shalt go forth in secret: thou shalt cover thy face, and shalt not see the ground: because I have made thee a sign to the house of Israel.
 
 ### Ezekiel 12:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I did so, according to everything commanded me, and I brought out baggage like baggage of captivity by day, and at evening I dug through wall for myself, and hidden I went out; on shoulders I was lifted in their sight.
+- fresh: And I did so, according to everything he commanded me, and I brought out baggage like baggage for captivity by day, and in the evening I dug through the wall for myself, and hidden I went out; I was lifted on shoulders in their sight.
 - brenton: And I did thus according to all that he commanded me; and I carried forth my baggage for captivity by day, and in the evening I dug through the wall for myself, and went out secretly; I was taken up on men's shoulders before them.
 
 ### Ezekiel 12:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
-- same_normalized: no
-- fresh: And the word of the Lord came to me in morning, saying,
+- decisions: 1
+- footnotes: 2
+- same_normalized: yes
+- fresh: And the word of the Lord came to me in the morning, saying,
 - brenton: And the word of the Lord came to me in the morning, saying,
 
 ### Ezekiel 12:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Son of man, did not house of Israel, the provoking house, say to you, What are you doing?
+- fresh: Son of man, did not the house of Israel, the provoking house, say to you, What are you doing?
 - brenton: Son of man, have not the house of Israel, the provoking house, said to thee, What doest thou?
 
 ### Ezekiel 12:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Say to them, Thus says the Lord God to ruler and leader in Jerusalem and to all the house of Israel who are in their midst.
+- fresh: Say to them, Thus says the Lord God concerning the ruler and the leader in Jerusalem and all the house of Israel who are in their midst.
 - brenton: Say to them,
 
 ### Ezekiel 12:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Say, I do signs in her midst. As I have done, so it will be to them; in migration and captivity they will go.
+- fresh: Say, I perform wonders in her midst. As I have done, so it will be to them; into exile and captivity they will go.
 - brenton: say, I am performing signs: as I have done, so shall it be to him: they shall go into banishment and captivity.
 
 ### Ezekiel 12:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And ruler in their midst will be lifted on shoulders and will go out hidden. Through wall he will dig to go out through it. He will cover his face so that he is not seen by eye, and he will not see land.
+- fresh: And the ruler in their midst will be lifted on shoulders and will go out hidden. Through the wall he will dig to go out through it. He will cover his face so that he is not seen by any eye, and he will not see the land.
 - brenton: And the prince in the midst of them shall be borne upon shoulders, and shall go forth in secret through the wall, and shall dig so that he may go forth thereby: he shall cover his face, that he may not be seen by any eye, and he himself shall not see the ground.
 
 ### Ezekiel 12:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I will spread my net over him, and he will be caught in my enclosure, and I will bring him to Babylon, to the land of Chaldeans, and he will not see it, and there he will die.
+- fresh: And I will spread my net over him, and he will be caught in my enclosure, and I will bring him to Babylon, to the land of the Chaldeans, and yet he will not see it, and there he will die.
 - brenton: And I will spread out my net upon him, and he shall be caught in my toils: and I will bring him to Babylon to the land of the Chaldeans; but he shall not see it, though he shall die there.
 
 ### Ezekiel 12:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And all around him, his helpers and all supporting him, I will scatter to every wind, and sword I will draw out behind them.
+- fresh: And all those around him, his helpers and all those supporting him, I will scatter to every wind, and I will draw out a sword behind them.
 - brenton: And I will scatter to every wind all his assistants round about him, and all that help him; and I will draw out a sword after them.
 
 ### Ezekiel 12:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they will know that I am the Lord, when I scatter them among nations and disperse them in lands.
+- fresh: And they will know that I am the Lord, when I scatter them among the nations and disperse them in the lands.
 - brenton: And they shall know that I am the Lord, when I have scattered them among the nations; and I will disperse them in the countries.
 
 ### Ezekiel 12:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I will leave from them men few in number, from sword and famine and death, so that they may recount all their lawless deeds among nations where they entered, and they will know that I am the Lord.
+- fresh: And I will leave from them a few men in number, from sword and famine and death, so that they may recount all their lawless deeds among the nations where they entered, and they will know that I am the Lord.
 - brenton: And I will leave of them a few men in number spared from the sword, and from famine, and from pestilence; that they may declare all their iniquities among the nations whither they have gone; and they shall know that I am the Lord.
 
 ### Ezekiel 12:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -184413,35 +184413,35 @@ Note:
 ### Ezekiel 12:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Son of man, you will eat your bread with pain, and your water with torment and distress you will drink.
+- fresh: Son of man, you will eat your bread with pain, and you will drink your water with torment and distress.
 - brenton: Son of man, eat thy bread with sorrow, and drink thy water with torment and affliction.
 
 ### Ezekiel 12:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: And you will say to the people of the land, Thus says the Lord to those dwelling in Jerusalem upon the land of Israel: They will eat their bread with want and drink their water with desolation, so that land may be desolated with its fullness, because of impiety of all dwelling in it.
+- fresh: And you will say to the people of the land, Thus says the Lord to those dwelling in Jerusalem upon the land of Israel: They will eat their bread with scarcity and drink their water with desolation, so that the land may be desolated with its fullness, because of the impiety of all those dwelling in it.
 - brenton: And thou shalt say to the people of the land, Thus saith the Lord to the inhabitants of Jerusalem on the land of Israel; They shall eat their bread in scarcity, and shall drink their water in desolation, that the land may be desolate with all that it contains: for all that dwell in it are ungodly.
 
 ### Ezekiel 12:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And their inhabited cities will be laid waste, and land will become desolation, and you will know that I am the Lord.
+- fresh: And their inhabited cities will be laid waste, and the land will become a desolation, and you will know that I am the Lord.
 - brenton: And their inhabited cities shall be laid utterly waste, and the land shall be desolate; and ye shall know that I am the Lord.
 
 ### Ezekiel 12:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -184449,44 +184449,44 @@ Note:
 ### Ezekiel 12:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Son of man, what is this proverb among you on the land of Israel, saying, Days are far off; vision has perished?
+- fresh: Son of man, what is this proverb among you on the land of Israel, saying, The days are far off; the vision has perished?
 - brenton: Son of man, what is your parable on the land of Israel, that ye say, The days are long, the vision has perished?
 
 ### Ezekiel 12:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Therefore say to them, Thus says the Lord: I will turn away this proverb, and house of Israel will no longer speak this proverb. But speak to them, Days have drawn near, and word of every vision.
+- fresh: Therefore say to them, Thus says the Lord: I will turn away this proverb, and the house of Israel will no longer speak this proverb. But speak to them, The days have drawn near, and the word of every vision.
 - brenton: Therefore say to them,
 
 ### Ezekiel 12:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: For there will no longer be any false vision and flattering diviner in the midst of sons of Israel.
+- fresh: For there will no longer be any false vision and any flattering diviner in the midst of the sons of Israel.
 - brenton: For there shall no more be any false vision, nor any one prophesying flatteries in the midst of the children of Israel.
 
 ### Ezekiel 12:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Because I am the Lord. I will speak my words, and I will do them, and I will delay no longer, because in your days, provoking house, I will speak word and do it, says the Lord.
+- fresh: Because I am the Lord. I will speak my words; I will speak and do them, and I will delay no longer, because in your days, provoking house, I will speak the word and do it, says the Lord.
 - brenton: For I the Lord will speak my words; I will speak and perform them, and will no more delay, for in your days, O provoking house, I will speak the word, and will perform it, saith the Lord.
 
 ### Ezekiel 12:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And the word of the Lord came to me, saying,
 - brenton: Moreover the word of the Lord came to me, saying,
@@ -184494,26 +184494,26 @@ Note:
 ### Ezekiel 12:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Son of man, behold, rebel house of Israel says, The vision he sees is for many days, and for distant times he prophesies.
+- fresh: Son of man, behold, the provoking house of Israel says, The vision that this one sees is for many days, and for distant times this one prophesies.
 - brenton: Son of man, behold, the provoking house of Israel boldly say, The vision which this man sees is for many days, and he prophesies for times afar off.
 
 ### Ezekiel 12:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Therefore say to them, Thus says the Lord: None of my words will be delayed any longer. Whatever words I speak, I will speak and do, says the Lord.
+- fresh: Therefore say to them, Thus says the Lord: None of my words will be delayed any longer. Whatever word I speak, I will speak and do, says the Lord.
 - brenton: Therefore say to them,
 
 ### Ezekiel 13:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -184521,17 +184521,17 @@ Note:
 ### Ezekiel 13:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Son of man, prophesy against prophets of Israel, and you will prophesy and say to them, Hear the word of the Lord.
+- fresh: Son of man, prophesy against the prophets of Israel, and you will prophesy and say to them, Hear the word of the Lord.
 - brenton: Son of man, prophesy against the prophets of Israel, and thou shalt prophesy, and shalt say to them, Hear ye the word of the Lord:
 
 ### Ezekiel 13:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: Thus says the Lord: Woe to those prophesying from their own heart and seeing nothing at all.
 - brenton: Thus saith the Lord, Woe to them that prophesy out of their own heart, and who see nothing at all.
@@ -184539,116 +184539,116 @@ Note:
 ### Ezekiel 13:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Your prophets, Israel, are like foxes in deserts.
+- fresh: Your prophets, Israel, are like foxes in the deserts.
 - brenton: Thy prophets, O Israel, are like foxes in the deserts.
 
 ### Ezekiel 13:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: You did not stand in firm place and did not gather flocks over the house of Israel; they did not rise, those speaking, in the day of the Lord.
+- fresh: They did not stand in firmness and gathered flocks against the house of Israel. Those speaking did not rise in the day of the Lord.
 - brenton: They have not continued steadfast, and they have gathered flocks against the house of Israel, they that say,
 
 ### Ezekiel 13:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Seeing falsehood and divining vanity, those saying, the Lord says, though the Lord did not send them, and they began to uphold a word.
+- fresh: Seeing false things and divining vain things, those saying, The Lord says, though the Lord did not send them, and they began to establish a word.
 - brenton: In the day of the Lord, have not stood, seeing false visions, prophesying vanities, who say, The Lord saith, and the Lord has not sent them, and they began to try to confirm the word.
 
 ### Ezekiel 13:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Did you not see false vision and speak vain divinations?
+- fresh: Did you not see a false vision and speak vain divinations?
 - brenton: Have ye not seen a false vision? and spoken vain prophecies?
 
 ### Ezekiel 13:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Because your words are false and your divinations vain, therefore behold, I am against you, says the Lord.
+- fresh: Therefore say, Thus says the Lord: Because your words are false and your divinations vain, therefore behold, I am against you, says the Lord.
 - brenton: And therefore say,
 
 ### Ezekiel 13:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And I will stretch out my hand against prophets seeing false things and uttering vanities. In assembly of my people they will not be, nor will they be written in record of the house of Israel, nor will they enter into the land of Israel, and they will know that I am the Lord.
+- fresh: And I will stretch out my hand against the prophets seeing false things and those uttering vanities. In the instruction of my people they will not be, nor will they be written in the writing of the house of Israel, nor will they enter into the land of Israel, and they will know that I am the Lord.
 - brenton: And I will stretch forth my hand against the prophets that see false visions, and those that utter vanities: they shall not partake of the instruction of my people, neither shall they be written in the roll of the house of Israel, and they shall not enter into the land of Israel; and they shall know that I am the Lord.
 
 ### Ezekiel 13:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Because they led my people astray, saying, Peace, peace, and there was no peace, and one builds wall and they smear it, if it will fall.
+- fresh: Because they led my people astray, saying, Peace, peace, and there was no peace, and one builds a wall, and they plaster it; it will fall.
 - brenton: Because they have caused my people to err, saying, Peace; and there is no peace; and one builds a wall, and they plaster it,—it shall fall.
 
 ### Ezekiel 13:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: Say to those smearing it, It will fall, and there will be flooding rain, and I will give hailstones against their bindings, and storming wind will burst forth.
+- fresh: Say to those plastering it, It will fall, and there will be flooding rain, and I will give hailstones against their bindings, and they will fall, and there will be a storming wind, and it will be broken.
 - brenton: Say to them that plaster it, It shall fall; and there shall be a flooding rain; and I will send great stones upon their joinings, and they shall fall; and there shall be a sweeping wind, and it shall be broken.
 
 ### Ezekiel 13:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And behold, wall has fallen, and will they not say to you, Where is your plaster that you smeared?
+- fresh: And behold, the wall has fallen, and will they not say to you, Where is your plaster that you plastered?
 - brenton: And lo! the wall has fallen; and will they not say to you, Where is your plaster wherewith ye plastered it?
 
 ### Ezekiel 13:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Therefore thus says the Lord: I will burst storming wind in my wrath, and flooding rain will come in my anger, and hailstones in wrath I will bring for destruction.
+- fresh: Therefore thus says the Lord: I will burst forth a storming blast with wrath, and flooding rain will come in my anger, and hailstones in wrath I will bring for complete destruction.
 - brenton: Therefore thus saith the Lord; I will even cause to burst forth a sweeping blast with fury, and there shall be a flooding rain in my wrath; and in my fury I will bring on great stones for complete destruction.
 
 ### Ezekiel 13:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I will tear down wall that you smeared, and it will fall, and I will lay it on ground, and its foundations will be uncovered, and it will fall, and you will be finished with reproofs, and you will know that I am the Lord.
+- fresh: And I will tear down the wall that you plastered, and it will fall, and I will lay it on the ground, and its foundations will be uncovered, and it will fall, and you will be finished with reproofs, and you will know that I am the Lord.
 - brenton: And I will break down the wall which ye have plastered, and it shall fall; and I will lay it on the ground, and its foundations shall be discovered, and it shall fall; and ye shall be consumed with rebukes: and ye shall know that I am the Lord.
 
 ### Ezekiel 13:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I will complete my wrath against wall and against those smearing it, and it will fall, and I will say to you, Wall is not, and those smearing it are not,
+- fresh: And I will complete my wrath against the wall and against those plastering it, and it will fall, and I will say to you, The wall is not, nor are those plastering it,
 - brenton: And I will accomplish my wrath upon the wall, and upon them that plaster it; it shall fall: and I said to you, The wall is not, nor they that plaster it,
 
 ### Ezekiel 13:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: the prophets of Israel prophesying concerning Jerusalem and seeing peace for her, though there is no peace, says the Lord.
 - brenton: even the prophets of Israel, who prophesy concerning Jerusalem, and who see visions of peace for her, and there is no peace, saith the Lord.
@@ -184656,35 +184656,35 @@ Note:
 ### Ezekiel 13:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And you, son of man, set your face against daughters of your people who prophesy from their own hearts, and prophesy against them,
+- fresh: And you, son of man, set your face against the daughters of your people who prophesy from their own heart, and prophesy against them,
 - brenton: And thou, son of man, set thy face firmly against the daughters of thy people, that prophesy out of their own heart; and prophesy against them.
 
 ### Ezekiel 13:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: and say, Thus says the Lord: Woe to those stitching cushions on every elbow of hand and making veils over every head of every age, to twist souls. Souls of my people were twisted, and they kept souls alive for themselves.
+- fresh: and say, Thus says the Lord: Woe to those stitching cushions on every elbow of the hand and making veils over every head of every stature, to twist souls. The souls of my people were twisted, and they kept souls alive for themselves.
 - brenton: And thou shalt say, Thus saith the Lord, Woe to the women that sew pillows under every elbow, and make kerchiefs on the head of every stature to pervert souls! The souls of my people are perverted, and they have saved souls alive.
 
 ### Ezekiel 13:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: And you profaned me before my people for handfuls of barley and for pieces of bread, to kill souls that should not die and to keep souls alive that should not live, when you utter to people listening vain utterances.
+- fresh: And they profaned me before my people for a handful of barley and for pieces of bread, to kill souls that should not die and to keep souls alive that should not live, when you utter vain utterances to a people listening.
 - brenton: And they have dishonoured me before my people for a handful of barley, and for pieces of bread, to slay the souls which should not die, and to save alive the souls which should not live, while ye speak to a people hearing vain speeches.
 
 ### Ezekiel 13:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
 - fresh: Therefore thus says the Lord God: Behold, I am against your cushions on which you twist souls there, and I will tear them from your arms and send away the souls that you twist, their souls into scattering.
 - brenton: Therefore thus saith the Lord God, Behold, I am against your pillows, whereby ye there confound souls, and I will tear them away from your arms, and will set at liberty their souls which ye pervert to scatter them.
@@ -184692,8 +184692,8 @@ Note:
 ### Ezekiel 13:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And I will tear your veils and rescue my people from your hand, and they will no longer be in your hands for twisting, and you will know that I am the Lord.
 - brenton: And I will tear your kerchiefs, and will rescue my people out of your hand, and they shall no longer be in your hands to be confounded; and ye shall know that I am the Lord.
@@ -184701,26 +184701,26 @@ Note:
 ### Ezekiel 13:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Because you twisted the heart of righteous one unjustly, and I did not twist him, and because you strengthened hands of lawless one so that he not turn at all from his evil way and live,
+- fresh: Because you twisted the heart of a righteous one unjustly, and I did not twist him, and because you strengthened the hands of a lawless one so that he not turn at all from his evil way and live,
 - brenton: Because ye have perverted the heart of the righteous, whereas I perverted him not, and that in order to strengthen the hands of the wicked, that he should not at all turn from his evil way and live:
 
 ### Ezekiel 13:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: therefore false things you will never see, and divinations you will never divine again, and I will rescue my people from your hand, and you will know that I am the Lord.
+- fresh: therefore you will never see false things, and you will never divine divinations again, and I will rescue my people from your hand, and you will know that I am the Lord.
 - brenton: therefore ye shall not see false visions, and ye shall no more utter prophecies: but I will deliver my people out of your hand; and ye shall know that I am the Lord.
 
 ### Ezekiel 14:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And men from the elders of Israel came to me and sat before me.
 - brenton: And there came to me men of the people of Israel, of the elders, and sat before me.
@@ -184728,8 +184728,8 @@ Note:
 ### Ezekiel 14:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -184737,35 +184737,35 @@ Note:
 ### Ezekiel 14:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Son of man, these men set their thoughts on their hearts and placed punishment of their injustice before their face. Shall I indeed answer them?
+- fresh: Son of man, these men set their thoughts upon their hearts and placed punishment of their injustices before their face. Shall I indeed answer them?
 - brenton: Son of man, these men have conceived their devices in their hearts, and have set before their faces the punishment of their iniquities: shall I indeed answer them?
 
 ### Ezekiel 14:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Therefore speak to them and say to them, Thus says the Lord: Any man, any man from the house of Israel, who sets his thoughts on his heart and places punishment of his injustice before his face and comes to prophet, I, the Lord, will answer him in things wherein his mind is entangled,
+- fresh: Therefore speak to them and say to them, Thus says the Lord: Any man, any man from the house of Israel, who sets his thoughts upon his heart and places punishment of his injustice before his face and comes to the prophet, I, the Lord, will answer him in the things wherein his mind is entangled,
 - brenton: Therefore speak to them, and thou shalt say to them, Thus saith the Lord; Any man of the house of Israel, who shall conceive his devices in his heart, and shall set the punishment of his iniquity before his face, and shall come to the prophet; I the Lord will answer him according to the things in which his mind is entangled,
 
 ### Ezekiel 14:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: so as to turn aside house of Israel according to their hearts, hearts alienated from me in their thoughts.
+- fresh: so as to turn aside the house of Israel according to their hearts that are alienated from me in their thoughts.
 - brenton: that he should turn aside the house of Israel, according to their hearts that are estranged from me in their thoughts.
 
 ### Ezekiel 14:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: Therefore say to the house of Israel, Thus says the Lord God: Turn back and turn away from your practices and from all your impieties, and turn your faces back.
 - brenton: Therefore say to the house of Israel, Thus saith the Lord God, Be converted, and turn from your evil practices, and from all your sins, and turn your faces back again.
@@ -184773,53 +184773,53 @@ Note:
 ### Ezekiel 14:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: Because any man, any man from the house of Israel and from proselytes proselyting in Israel, who becomes alienated from me and sets his thoughts on his heart and places punishment of his injustice before his face and comes to prophet to inquire of him in me, I, the Lord, will answer him in that wherein he is entangled within himself.
+- fresh: Because any man, any man from the house of Israel and from the newcomers sojourning in Israel, who becomes alienated from me and sets his thoughts upon his heart and places punishment of his injustice before his face and comes to the prophet to inquire of him in me, I, the Lord, will answer him in that wherein he is entangled within himself.
 - brenton: For any man of the house of Israel, or of the strangers that sojourn in Israel, who shall separate himself from me, and conceive his imaginations in his heart, and set before his face the punishment of his iniquity, and come to the prophet to enquire of him concerning me; I the Lord will answer him, according to the things wherein he is entangled.
 
 ### Ezekiel 14:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I will set my face against that man and make him desolation and ruin, and I will remove him from the midst of my people, and you will know that I am the Lord.
+- fresh: And I will set my face against that man and make him a desolation and a ruin, and I will remove him from the midst of my people, and you will know that I am the Lord.
 - brenton: And I will set my face against that man, and will make him desolate and ruined, and will cut him off from the midst of my people; and ye shall know that I am the Lord.
 
 ### Ezekiel 14:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And if prophet is led astray and speaks, I, the Lord, have led that prophet astray, and I will stretch out my hand against him and destroy him from the midst of my people Israel.
+- fresh: And if a prophet is led astray and speaks, I, the Lord, have led that prophet astray, and I will stretch out my hand against him and destroy him from the midst of my people Israel.
 - brenton: And if a prophet should cause to err and should speak, I the Lord have caused that prophet to err, and will stretch out my hand upon him, and will utterly destroy him from the midst of my people Israel.
 
 ### Ezekiel 14:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And they will bear their injustice; like offense of one inquiring, so offense of prophet will be,
+- fresh: And they will bear their injustice; like the offense of the one inquiring, so the offense of the prophet will be,
 - brenton: And they shall bear their iniquity according to the trespass of him that asks; and it shall be in like manner to the prophet according to the trespass:
 
 ### Ezekiel 14:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: so that house of Israel may no longer wander from me, and so that they may no longer be defiled in all their trespasses, and they will be to me for people and I will be to them for God, says the Lord.
+- fresh: so that the house of Israel may no longer wander from me, and so that they may no longer be defiled in all their trespasses, and they will be to me for a people and I will be to them for God, says the Lord.
 - brenton: that the house of Israel may no more go astray from me, and that they may no more defile themselves with any of their transgressions: so shall they be my people, and I will be their God, saith the Lord.
 
 ### Ezekiel 14:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -184827,53 +184827,53 @@ Note:
 ### Ezekiel 14:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Son of man, if land sins against me by committing offense, and I stretch out my hand against it and break its support of bread and send famine upon it and remove from it man and cattle,
+- fresh: Son of man, if a land sins against me by committing offense, and I stretch out my hand against it and break its support of bread and send famine upon it and remove from it man and cattle,
 - brenton: Son of man, if a land shall sin against me by committing a trespass, then will I stretch out my hand upon it, and will break its staff of bread, and will send forth famine upon it, and cut off from it man and beast.
 
 ### Ezekiel 14:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: and if these three men are in its midst, Noah and Daniel and Job, they will be saved by their righteousness, says the Lord.
+- fresh: and if these three men are in its midst, Noah and Daniel and Job, they themselves will be saved by their righteousness, says the Lord.
 - brenton: And though these three men should be in the midst of it, Noe, and Daniel, and Job, they alone should be delivered by their righteousness, saith the Lord.
 
 ### Ezekiel 14:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And if I bring evil beasts upon the land and punish it, and it becomes desolation and there is no passerby because of beasts,
+- fresh: And if I bring evil beasts upon the land and punish it, and it becomes a desolation and there is no passerby because of the beasts,
 - brenton: If again I bring evil beasts upon the land, and take vengeance upon it, and it be ruined, and there be no one to pass through for fear of the wild beasts:
 
 ### Ezekiel 14:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: and these three men are in its midst, as I live, says the Lord, neither sons nor daughters will be saved; only they themselves will be saved, but land will become ruin.
+- fresh: and these three men are in its midst, as I live, says the Lord, neither sons nor daughters will be saved; only they themselves will be saved, but the land will become a ruin.
 - brenton: and if these three men should be in the midst of it, as I live, saith the Lord, neither sons nor daughters shall be saved, but these only shall be saved, and the land shall be destroyed.
 
 ### Ezekiel 14:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Or if I bring sword upon that land and say, Let sword pass through the land, and I remove from it man and cattle,
+- fresh: Or if I bring a sword upon that land and say, Let a sword pass through the land, and I remove from it man and cattle,
 - brenton: Or again if I bring a sword upon that land, and say, Let the sword go through the land; and I cut off from them man and beast:
 
 ### Ezekiel 14:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: and these three men are in its midst, as I live, says the Lord, they will never rescue sons or daughters; only they themselves will be saved.
 - brenton: though these three men were in the midst of it, as I live, saith the Lord, they shall not deliver sons or daughters, but they only shall be saved themselves.
@@ -184881,8 +184881,8 @@ Note:
 ### Ezekiel 14:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: Or if I send death upon that land and pour out my wrath upon it in blood, to destroy from it man and cattle,
 - brenton: Or if again I send pestilence upon that land, and pour out my wrath upon it in blood, to destroy from off it man and beast:
@@ -184890,44 +184890,44 @@ Note:
 ### Ezekiel 14:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: and Noah and Daniel and Job are in its midst, as I live, says the Lord, even if sons or daughters are left behind, they will rescue their own souls by their righteousness.
+- fresh: and Noah and Daniel and Job are in its midst, as I live, says the Lord, neither sons nor daughters will be left behind; they themselves will rescue their own souls by their righteousness.
 - brenton: and should Noe, and Daniel, and Job, be in the midst of it, as I live, saith the Lord, there shall be left them neither sons nor daughters; only they by their righteousness shall deliver their souls.
 
 ### Ezekiel 14:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Thus says the Lord: Even if I send my four evil punishments, sword and famine and evil beasts and death, against Jerusalem, to destroy from it man and cattle,
+- fresh: Thus says the Lord: Even if I send my four evil punishments, sword and famine and evil beasts and death, upon Jerusalem, to destroy from it man and cattle,
 - brenton: Thus saith the Lord, And if I even send upon Jerusalem my four sore judgments, sword, and famine, and evil beasts, and pestilence, to destroy from out of it man and beast;
 
 ### Ezekiel 14:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 6
+- footnotes: 7
 - same_normalized: no
-- fresh: yet behold, survivors are left in it, its rescued ones, who bring out sons and daughters from it. Behold, they come out to you, and you will see their ways and their thoughts, and you will repent over evils that I brought upon Jerusalem, all evils that I brought upon her.
+- fresh: yet behold, survivors are left in it, its rescued ones, who bring out sons and daughters from it. Behold, they come out to you, and you will see their ways and their thoughts, and you will regret the evils that I brought upon Jerusalem, all the evils that I brought upon her.
 - brenton: yet, behold, there shall be men left in it, the escaped thereof, who shall lead forth of it sons and daughters: behold, they shall go forth to you, and ye shall see their ways and their thoughts: and ye shall mourn over the evils which I have brought upon Jerusalem, even all the evils which I have brought upon it.
 
 ### Ezekiel 14:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And they will comfort you, because you will see their ways and their thoughts, and you will know that I did not do everything that I did in it in vain, says the Lord.
+- fresh: And they will comfort you, because you will see their ways and their thoughts, and you will know that I have not done in vain all that I did in her, says the Lord.
 - brenton: And they shall comfort you, because ye shall see their ways and their thoughts: and ye shall know that I have not done in vain all that I have done in it, saith the Lord.
 
 ### Ezekiel 15:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -184935,71 +184935,71 @@ Note:
 ### Ezekiel 15:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And you, son of man, what becomes of vine-wood beyond all woods, branches among trees of the forest?
+- fresh: And you, son of man, what might become of the wood of the vine, from all the wood of the branches that are among the trees of the forest?
 - brenton: And thou, son of man—of all the wood of the branches that are among the trees of the forest, what shall be made of the wood of the vine?
 
 ### Ezekiel 15:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Will wood be taken from it to make something for work? Will peg be taken from it to hang any vessel on it?
+- fresh: Will wood be taken from it to make something for work? Will a peg be taken from it to hang any vessel on it?
 - brenton: Will they take wood of it to make it fit for work? will they take of it a peg to hang any vessel upon it?
 
 ### Ezekiel 15:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Except it is given to fire for consuming; fire consumes the yearly pruning from it, and it fails completely. Will it be useful for work?
+- fresh: It is only given to the fire for consuming; the fire consumes the yearly pruning from it, and it fails completely. Will it be useful for any work?
 - brenton: It is only given to the fire to be consumed; the fire consumes that which is yearly pruned of it, and it is utterly gone. Will it be useful for any work?
 
 ### Ezekiel 15:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Even while it is still whole, it is not useful for work; much less if fire consumes it completely, will it still be useful for work?
+- fresh: Not even while it is still whole will it be useful for any work; much less if fire consumes it completely, will it still be useful for work?
 - brenton: Not even while it is yet whole will it be useful for any work: if the fire shall have utterly consumed it, will it still be fit for work?
 
 ### Ezekiel 15:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Therefore thus says the Lord: As vine-wood among trees of the forest, which I gave to fire for consuming, so I have given the inhabitants of Jerusalem.
+- fresh: Therefore say, Thus says the Lord: As the wood of the vine among the trees of the forest, which I gave to the fire for consuming, so I have given the inhabitants of Jerusalem.
 - brenton: Therefore say,
 
 ### Ezekiel 15:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I will set my face against them. From fire they will go out, and fire will consume them, and they will know that I am the Lord when I set my face against them.
+- fresh: And I will set my face against them. From the fire they will go out, and fire will consume them, and they will know that I am the Lord when I set my face against them.
 - brenton: And I will set my face against them; they shall go forth of the fire, and yet fire shall devour them; and they shall know that I am the Lord, when I have set my face against them.
 
 ### Ezekiel 15:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I will make land desolation, because they committed offense, says the Lord.
+- fresh: And I will make the land a desolation, because they committed an offense, says the Lord.
 - brenton: And I will give up the land to ruin, because they have utterly transgressed, saith the Lord.
 
 ### Ezekiel 16:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And the word of the Lord came to me, saying,
 - brenton: Moreover the word of the Lord came to me, saying,
@@ -185007,8 +185007,8 @@ Note:
 ### Ezekiel 16:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Son of man, bear witness to Jerusalem concerning her lawless deeds,
 - brenton: Son of man, testify to Jerusalem of her iniquities;
@@ -185016,8 +185016,8 @@ Note:
 ### Ezekiel 16:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: and say, Thus says the Lord to Jerusalem: Your root and your birth are from the land of Canaan; your father was Amorite and your mother Hittite.
 - brenton: and thou shalt say,
@@ -185025,53 +185025,53 @@ Note:
 ### Ezekiel 16:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And as for your birth, on the day you were born they did not bind your breasts, and you were not washed in water, nor rubbed with salt, nor wrapped in swaddling-cloths.
+- fresh: And as for your birth, on the day you were born they did not bind your breasts, and you were not washed in water, nor salted with salt, nor wrapped in swaddling-cloths.
 - brenton: And as for thy birth in the day wherein thou wast born, thou didst not bind thy breasts, and thou wast not washed in water, neither wast thou salted with salt, neither wast thou swathed in swaddling-bands.
 
 ### Ezekiel 16:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: No eye spared you, to do one of all these things for you, to feel anything for you, and you were thrown on the face of the plain, in perversity of your life, on the day you were born.
+- fresh: Nor did my eye spare you, to do one of all these things for you, to feel anything for you, and you were thrown on the face of the plain, because of the crookedness of your soul, on the day you were born.
 - brenton: Nor did mine eye pity thee, to do for thee one of all these things, to feel at all for thee; but thou wast cast out on the face of the field, because of the deformity of thy person, in the day wherein thou wast born.
 
 ### Ezekiel 16:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I passed by you and saw you mixed in your blood, and I said to you, In your blood, live.
+- fresh: And I passed by you and saw you mixed in your blood, and I said to you, From your blood, life.
 - brenton: And I passed by to thee, and saw thee polluted in thy blood; and I said to thee, Let there be life out of thy blood:
 
 ### Ezekiel 16:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Multiply, as growth of field, I made you, and you multiplied and grew great and entered into the cities of cities. Your breasts were raised and your hair sprang up, but you were naked and unseemly.
+- fresh: Increase; I made you like the growth of the field, and you multiplied and grew great and entered into the cities of cities. Your breasts were raised and your hair sprang up, but you were naked and unseemly.
 - brenton: increase; I have made thee as the springing grass of the field. So thou didst increase and grow, and didst enter into great cities: thy breasts were set, and thy hair grew, whereas thou wast naked and bare.
 
 ### Ezekiel 16:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And I passed through you and saw you, and behold, your time, a time of bedding. And I spread my wings over you and covered your nakedness and swore to you and entered into covenant with you, says the Lord, and you became mine.
+- fresh: And I passed by you and saw you, and behold, your time, a time of resting. And I spread my wings over you and covered your nakedness and swore to you and entered into covenant with you, says the Lord, and you became mine.
 - brenton: And I passed by thee and saw thee, and, behold, it was thy time and a time of resting; and I spread my wings over thee, and covered thy shame, and sware to thee: and I entered into covenant with thee, saith the Lord, and thou becamest mine.
 
 ### Ezekiel 16:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And I washed you with water and washed away your blood from you and anointed you with oil.
 - brenton: And I washed thee in water, and washed thy blood from thee, and anointed thee with oil.
@@ -185079,8 +185079,8 @@ Note:
 ### Ezekiel 16:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And I clothed you with embroidered things and shod you with hyacinth and girded you with fine linen and wrapped you with hair-woven cloth.
 - brenton: And I clothed thee with embroidered garments, and clothed thee beneath with purple, and girded thee with fine linen, and clothed thee with silk,
@@ -185088,8 +185088,8 @@ Note:
 ### Ezekiel 16:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And I adorned you with jewelry and put bracelets on your hands and a necklace around your neck.
 - brenton: and decked thee also with ornaments, and put bracelets on thine hands, and a necklace on thy neck.
@@ -185097,17 +185097,17 @@ Note:
 ### Ezekiel 16:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I put an earring on your nose and little wheels on your ears and a crown of boasting on your head.
+- fresh: And I put a nose-ring on your nostril and rings on your ears and a crown of boasting on your head.
 - brenton: And I put a pendant on thy nostril, and rings in thine ears, and a crown of glory on thine head.
 
 ### Ezekiel 16:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And you were adorned with gold and silver, and your garments were fine linen and hair-woven and embroidered. You ate fine flour and oil and honey, and you became exceedingly beautiful.
 - brenton: So thou wast adorned with gold and silver; and thy raiment was of fine linen, and silk, and variegated work: thou didst eat fine flour, and oil, and honey, and didst become extremely beautiful.
@@ -185115,17 +185115,17 @@ Note:
 ### Ezekiel 16:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And your name went out among nations because of your beauty, because it was completed in splendor, in beauty that I set upon you, says the Lord.
+- fresh: And your name went out among the nations because of your beauty, because it was completed in splendor, in the beauty that I set upon you, says the Lord.
 - brenton: And thy name went forth among the nations for thy beauty: because it was perfected with elegance, and in the comeliness which I put upon thee, saith the Lord.
 
 ### Ezekiel 16:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And you trusted in your beauty and whored because of your name and poured out your whoring on every passerby, which should not be.
 - brenton: Thou didst trust in thy beauty, and didst go a-whoring because of thy renown, and didst pour out thy fornication on every passer by.
@@ -185133,26 +185133,26 @@ Note:
 ### Ezekiel 16:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And you took from your garments and made for yourself stitched idols and whored on them, which must never enter nor happen.
+- fresh: And you took from your garments and made for yourself stitched idols and whored on them, and you shall never enter, nor shall it happen.
 - brenton: And thou didst take of thy garments, and madest to thyself idols of needlework, and didst go a-whoring after them; therefore thou shalt never come in, nor shall the like take place.
 
 ### Ezekiel 16:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And you took vessels of your boasting from my gold and my silver, from what I gave you, and made for yourself male images and whored in them.
+- fresh: And you took vessels of your boasting from my gold and my silver, from what I gave you, and made for yourself male images and whored with them.
 - brenton: And thou tookest thy fair ornaments of my gold and of my silver, of what I gave thee, and thou madest to thyself male images, and thou didst commit whoredom with them.
 
 ### Ezekiel 16:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And you took your embroidered garment and clothed them, and my oil and my incense you set before them.
 - brenton: And thou didst take thy variegated apparel and didst clothe them, and thou didst set before them mine oil and mine incense.
@@ -185160,8 +185160,8 @@ Note:
 ### Ezekiel 16:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And my breads that I gave you, fine flour and oil and honey with which I fed you, you set before them for fragrant smell, and it happened, says the Lord.
 - brenton: And thou tookest my bread which I gave thee, (yea I fed thee with fine flour and oil and honey) and didst set them before them for a sweet-smelling savour: yea, it was so, saith the Lord.
@@ -185169,35 +185169,35 @@ Note:
 ### Ezekiel 16:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And you took your sons and your daughters whom you bore and sacrificed them to them for consumption. Was your whoring a small thing?
+- fresh: And you took your sons and your daughters whom you bore and sacrificed them to them for destruction. You whored as if it were a small thing.
 - brenton: And thou tookest thy sons and thy daughters, whom thou borest, and didst sacrifice these to them to be destroyed. Thou didst go a-whoring as if that were little,
 
 ### Ezekiel 16:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And you slaughtered your children and gave them when you offered them up among them.
+- fresh: And you slaughtered your children and gave them up as you made expiation with them.
 - brenton: and didst slay thy children, and gavest them up in offering them to them for an expiation.
 
 ### Ezekiel 16:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Along with all your whoring, you did not remember days of your infancy, when you were naked and unseemly, and having been mixed in your blood, you lived.
+- fresh: This was beyond all your whoring, and you did not remember the days of your infancy, when you were naked and unseemly and lived while mixed in your blood.
 - brenton: This is beyond all thy fornication, and thou didst not remember thine infancy, when thou wast naked and bare, and didst live though defiled in thy blood.
 
 ### Ezekiel 16:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And it happened after all your evils, says the Lord,
 - brenton: And it came to pass after all thy wickedness, saith the Lord,
@@ -185205,44 +185205,44 @@ Note:
 ### Ezekiel 16:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: that you built for yourself house of prostitution and made for yourself display-place in every square.
+- fresh: that you built for yourself a house of prostitution and made for yourself a display-place in every square.
 - brenton: that thou didst build thyself a house of fornication, and didst make thyself a public place in every street;
 
 ### Ezekiel 16:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And at the head of every road you built your brothel and ruined your beauty and spread your legs to every passerby and multiplied your whoring.
+- fresh: And at the head of every road you built your brothels and ruined your beauty and spread your legs to every passerby and multiplied your whoring.
 - brenton: and on the head of every way thou didst set up thy fornications, and didst defile thy beauty, and didst open thy feet to every passer by, and didst multiply thy fornication.
 
 ### Ezekiel 16:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And you whored with the sons of Egypt, your neighbors, great of flesh, and you whored often to provoke me.
+- fresh: And you whored with the sons of Egypt, your neighbors, great of flesh, and you whored in many ways to provoke me.
 - brenton: And thou didst go a-whoring after the children of Egypt thy neighbours, great of flesh; and didst go a-whoring often to provoke me to anger.
 
 ### Ezekiel 16:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: And if I stretch out my hand against you and remove your lawful dues and hand you over to the souls of those hating you, daughters of foreigners, who turned you from your way in which you acted impiously,
+- fresh: And if I stretch out my hand against you and remove your statutes and hand you over to the souls of those hating you, daughters of foreigners, who turned you aside from your way in which you acted impiously,
 - brenton: And if I stretch out my hand against thee, then will I abolish thy statutes, and deliver thee up to the wills of them that hate thee, even to the daughters of the Philistines that turned thee aside from the way wherein thou sinnedst.
 
 ### Ezekiel 16:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: then you whored with daughters of Assyria, and not even thus were you satisfied, and you whored, and still were not filled.
 - brenton: And thou didst go a-whoring to the daughters of Assur, and not even thus wast thou satisfied; yea, thou didst go a-whoring, and wast not satisfied.
@@ -185250,62 +185250,62 @@ Note:
 ### Ezekiel 16:29
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And you multiplied your covenants toward the land of Chaldeans, and not even with these were you satisfied.
+- fresh: And you multiplied your covenants toward the land of the Chaldeans, and not even with these were you satisfied.
 - brenton: And thou didst multiply thy covenants with the land of the Chaldeans; and not even with these wast thou satisfied.
 
 ### Ezekiel 16:30
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: What shall I do with your daughter, says the Lord, when you do all these works of shameless whore, and you whored threefold?
+- fresh: What shall I do with your daughter, says the Lord, when you do all these works of a prostitute woman, and you whored threefold?
 - brenton: Why should I make a covenant with thy daughter, saith the Lord, while thou doest all these things, the works of a harlot? and thou hast gone a-whoring in a threefold degree with thy daughters.
 
 ### Ezekiel 16:31
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: In your daughters you built your brothel at the head of every road and made your base in every square, and you were not like prostitute gathering wages.
+- fresh: Among your daughters you built your brothel at the head of every road and made your base in every square, and you became like a prostitute gathering wages.
 - brenton: Thou hast built a house of harlotry in every top of a way, and hast set up thine high place in every street; and thou didst become as a harlot gathering hires.
 
 ### Ezekiel 16:32
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: An adulterous woman like you, taking wages instead of her husband.
+- fresh: The adulterous woman is like you, taking wages from her husband.
 - brenton: An adulteress resembles thee, taking rewards of her husband.
 
 ### Ezekiel 16:33
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: To all prostitutes men gave wages, but you gave wages to all your lovers and loaded them down to come to you from all around in your whoring.
+- fresh: She gave wages to all those who prostituted her, but you gave wages to all your lovers and loaded them down to come to you from all around in your whoring.
 - brenton: She has even given rewards to all that went a-whoring after her, and thou hast given rewards to all thy lovers, yea, thou didst load them with rewards, that they should come to thee from every side for thy fornication.
 
 ### Ezekiel 16:34
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And in you there came to be a reversal beyond women in your whoring: after you they did not whore, and in your giving wages, and no wages being given to you, reversal came to be in you.
+- fresh: And in you there came to be perversity beyond the women in your whoring: they whored with you when you gave wages, and wages were not given to you, and perverse things came to be in you.
 - brenton: And there has happened in thee perverseness in thy fornication beyond other women, and they have committed fornication with thee, in that thou givest hires over and above, and hires were not given to thee; and thus perverseness happened in thee.
 
 ### Ezekiel 16:35
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Therefore, whore, hear the word of the Lord.
 - brenton: Therefore, harlot, hear the word of the Lord:
@@ -185313,17 +185313,17 @@ Note:
 ### Ezekiel 16:36
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Thus says the Lord: Because you poured out your bronze and your shame will be uncovered in your whoring toward your lovers and toward all thoughts of your lawless deeds and in the blood of your children whom you gave to them,
+- fresh: Thus says the Lord: Because you poured out your bronze, and your shame will be uncovered in your whoring toward your lovers and toward all the thoughts of your lawless deeds and in the blood of your children whom you gave to them,
 - brenton: Thus saith the Lord, Because thou hast poured forth thy money, therefore thy shame shall be discovered in thy harlotry with thy lovers, and with regard to all the imaginations of thine iniquities, and for the blood of thy children which thou hast given to them.
 
 ### Ezekiel 16:37
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
 - fresh: therefore behold, I gather all your lovers with whom you mixed, and all whom you loved, with all whom you hated, and I will gather them against you from all around and uncover your evils before them, and they will see all your shame.
 - brenton: Therefore, behold, I will gather all thy lovers with whom thou hast consorted, and all whom thou hast loved, with all whom thou didst hate; and I will gather them against thee round about, and will expose thy wickedness to them, and they shall see all thy shame.
@@ -185331,26 +185331,26 @@ Note:
 ### Ezekiel 16:38
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I will avenge you with the vengeance of adulteress and blood-shedder, and I will set you in the blood of wrath and jealousy.
+- fresh: And I will avenge you with the vengeance of adulteress and one shedding blood, and I will set you in the blood of wrath and jealousy.
 - brenton: And I will be avenged on thee with the vengeance of an adulteress, and I will bring upon thee blood of fury and jealousy.
 
 ### Ezekiel 16:39
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And I will hand you over into their hands, and they will tear down your brothel and pull down your base and strip you of your garments and take vessels of your boasting and leave you naked and unseemly.
+- fresh: And I will hand you over into their hands, and they will tear down your brothel and pull down your base and strip you of your garment and take vessels of your boasting and leave you naked and unseemly.
 - brenton: And I will deliver thee into their hands, and they shall break down thy house of harlotry, and destroy thine high place; and they shall strip thee of thy garments, and shall take thy proud ornaments, and leave thee naked and bare.
 
 ### Ezekiel 16:40
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And they will bring crowds against you and stone you with stones and butcher you with their swords.
 - brenton: And they shall bring multitudes upon thee, and they shall stone thee with stones, and pierce thee with their swords.
@@ -185358,8 +185358,8 @@ Note:
 ### Ezekiel 16:41
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And they will burn your houses with fire and do vengeance on you before many women, and I will turn you from your whoring, and you will give wages no longer.
 - brenton: And they shall burn thine houses with fire, and shall execute vengeance on thee in the sight of many women: and I will turn thee back from harlotry, and I will no more give thee rewards.
@@ -185367,8 +185367,8 @@ Note:
 ### Ezekiel 16:42
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And I will let my wrath rest on you and my jealousy will depart from you, and I will rest and no longer be troubled.
 - brenton: So will I slacken my fury against thee, and my jealousy shall be removed from thee, and I will rest, and be no more careful for thee.
@@ -185376,35 +185376,35 @@ Note:
 ### Ezekiel 16:43
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Because you did not remember day of your infancy and grieved me in all these things, behold, I also have put your ways on your head, says the Lord, and so you did impiety on top of all your lawless deeds.
+- fresh: Because you did not remember the day of your infancy and grieved me in all these things, behold, I also have put your ways on your head, says the Lord, and so you did impiety on top of all your lawless deeds.
 - brenton: Because thou didst not remember thine infancy, and thou didst grieve me in all these things; therefore, behold, I have recompensed thy ways upon thine head, saith the Lord: for thus hast thou wrought ungodliness above all thine other iniquities.
 
 ### Ezekiel 16:44
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: These are all things spoken against you in proverb, saying, Like mother, like daughter.
+- fresh: These are all the things they spoke against you in a proverb, saying, Like mother, like daughter.
 - brenton: These are all the things they have spoken against thee in a proverb, saying,
 
 ### Ezekiel 16:45
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: You are daughter of your mother, who rejected her husband and her children, and sister of your sisters, who rejected their husbands and their children. Your mother was Hittite, and your father Amorite.
+- fresh: You are daughter of your mother, who rejected her husband and her children, and sister of your sisters, who rejected their husbands and their children. Your mother was Hittite, and your father was Amorite.
 - brenton: As is the mother, so is thy mother's daughter: thou art she that has rejected her husband and her children; and the sisters of thy sisters have rejected their husbands and their children: your mother was a Chettite, and your father an Amorite.
 
 ### Ezekiel 16:46
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: Your elder sister is Samaria, she and her daughters dwelling on your left, and your younger sister dwelling on your right is Sodom and her daughters.
 - brenton: Your elder sister who dwells on thy left hand is Samaria, she and her daughters: and thy younger sister, that dwells on thy right hand, is Sodom and her daughters.
@@ -185412,8 +185412,8 @@ Note:
 ### Ezekiel 16:47
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And not in their ways did you walk, nor did you act according to their lawless deeds. It was a small thing, and you surpassed them in all your ways.
 - brenton: Yet notwithstanding thou hast not walked in their ways, neither hast thou done according to their iniquities within a little, but thou hast exceeded them in all thy ways.
@@ -185421,8 +185421,8 @@ Note:
 ### Ezekiel 16:48
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: As I live, says the Lord, Sodom your sister and her daughters did not do as you and your daughters did.
 - brenton: As I live, saith the Lord, this Sodom and her daughters have not done as thou and thy daughters have done.
@@ -185430,62 +185430,62 @@ Note:
 ### Ezekiel 16:49
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Except this was the lawlessness of Sodom your sister: pride, fullness of bread, and lavish ease of wine belonged to her and her daughters, and hand of poor and needy they did not support.
+- fresh: Except this was the lawlessness of Sodom your sister: pride, fullness of bread, and abundance of wine belonged to her and her daughters, and they did not support the hand of the poor and needy.
 - brenton: Moreover this was the sin of thy sister Sodom, pride: she and her daughters lived in pleasure, in fulness of bread and in abundance: this belonged to her and her daughters, and they helped not the hand of the poor and needy.
 
 ### Ezekiel 16:50
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And they were haughty and did lawless things before me, and I removed them as I saw.
+- fresh: And they were boasting and did lawless things before me, and I removed them as I saw.
 - brenton: And they boasted, and wrought iniquities before me: so I cut them off as I saw fit.
 
 ### Ezekiel 16:51
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And Samaria did not sin half your sins, and you multiplied your lawless deeds beyond them and justified your sisters by all your lawless deeds that you did.
+- fresh: And Samaria did not sin according to half of your sins, and you multiplied your lawless deeds beyond them and justified your sisters by all your lawless deeds that you did.
 - brenton: Also Samaria has not sinned according to half of thy sins; but thou hast multiplied thine iniquities beyond them, and thou hast justified thy sisters in all thine iniquities which thou hast committed.
 
 ### Ezekiel 16:52
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And you bear your torment, in that you corrupted your sisters in your sins by which you acted more lawlessly than they, and you justified them beyond yourself. And you, be ashamed and bear your dishonor in justifying your sisters.
+- fresh: And you bear your torment, because you corrupted your sisters with your sins by which you acted more lawlessly than they, and you justified them beyond yourself. And you, be ashamed and receive your dishonor in justifying your sisters.
 - brenton: Thou therefore bear thy punishment, for that thou hast corrupted thy sisters by thy sins which thou hast committed beyond them; and thou hast made them appear more righteous than thyself: thou therefore be ashamed, and bear thy dishonour, in that thou hast justified thy sisters.
 
 ### Ezekiel 16:53
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I will turn back their turning back, turning back of Sodom and her daughters, and I will turn back turning back of Samaria and her daughters, and I will turn back your turning back in their midst,
+- fresh: And I will turn back their turning back, the turning back of Sodom and her daughters, and I will turn back the turning back of Samaria and her daughters, and I will turn back your turning back in their midst,
 - brenton: And I will turn their captivity, even the captivity of Sodom and her daughters; and I will turn the captivity of Samaria and her daughters; and I will turn thy captivity in the midst of them:
 
 ### Ezekiel 16:54
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: so that you bear your torment and be dishonored from everything you did in provoking me.
+- fresh: so that you bear your torment and be dishonored for everything you did in provoking me.
 - brenton: that thou mayest bear thy punishment, and be dishonoured for all that thou hast done in provoking me to anger.
 
 ### Ezekiel 16:55
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And your sister Sodom and her daughters will be restored as they were from the beginning, and Samaria and her daughters will be restored as they were from the beginning, and you and your daughters will be restored as you were from the beginning.
 - brenton: And thy sister Sodom and her daughters shall be restored as they were at the beginning, and thou and thy daughters shall be restored as ye were at the beginning.
@@ -185493,35 +185493,35 @@ Note:
 ### Ezekiel 16:56
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And if Sodom your sister was not a report in your mouth in the days of your pride,
+- fresh: And Sodom your sister was not mentioned in your mouth in the days of your pride,
 - brenton: And surely thy sister Sodom was not mentioned by thy mouth in the days of thy pride:
 
 ### Ezekiel 16:57
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: before your evils were uncovered, as now you are reproach of daughters of Syria and of all around her, daughters of foreigners encircling you around,
+- fresh: before your evils were uncovered, as now you are a reproach of the daughters of Syria and of all those around her, daughters of foreigners encircling you around,
 - brenton: before thy wickedness was discovered, even now thou art the reproach of the daughters of Syria, and of all that are round about her, even of the daughters of the Philistines that compass thee round about.
 
 ### Ezekiel 16:58
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: your impieties and your lawless deeds, you have borne them, says the Lord.
+- fresh: your impieties and your lawless deeds, you yourself have borne them, says the Lord.
 - brenton: As for thine ungodliness and thine iniquities, thou hast borne them, saith the Lord.
 
 ### Ezekiel 16:59
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: Thus says the Lord: I will act in you as you acted, as you dishonored these things by transgressing my covenant.
 - brenton: Thus saith the Lord; I will even do to thee as thou hast done, as thou hast dealt shamefully in these things to transgress my covenant.
@@ -185529,26 +185529,26 @@ Note:
 ### Ezekiel 16:60
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I will remember my covenant with you in the days of your infancy and raise up for you everlasting covenant.
+- fresh: And I will remember my covenant with you in the days of your infancy and raise up for you an everlasting covenant.
 - brenton: And I will remember my covenant made with thee in the days of thine infancy, and I will establish to thee an everlasting covenant.
 
 ### Ezekiel 16:61
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And you will remember your way and be dishonored when you receive your older sisters with your younger ones, and I will give them to you for building, and not from your covenant.
+- fresh: And you will remember your way and be utterly dishonored when you receive your older sisters with your younger ones, and I will give them to you for building, and not from your covenant.
 - brenton: Then thou shalt remember thy way, and shalt be utterly dishonoured when thou receivest thine elder sisters with thy younger ones: and I will give them to thee for building up, but not by thy covenant.
 
 ### Ezekiel 16:62
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And I will raise my covenant with you, and you will know that I am the Lord,
 - brenton: And I will establish my covenant with thee; and thou shalt know that I am the Lord:
@@ -185556,8 +185556,8 @@ Note:
 ### Ezekiel 16:63
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: so that you remember and be ashamed and no longer have it in you to open your mouth because of your dishonor, when I make propitiation for you according to all that you did, says the Lord.
 - brenton: that thou mayest remember, and be ashamed, and mayest no more be able to open thy mouth for thy shame, when I am reconciled to thee for all that thou hast done, saith the Lord.
@@ -185565,8 +185565,8 @@ Note:
 ### Ezekiel 17:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -185574,89 +185574,89 @@ Note:
 ### Ezekiel 17:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Son of man, tell tale and speak parable to the house of Israel,
+- fresh: Son of man, tell a tale and speak a parable to the house of Israel,
 - brenton: Son of man, relate a tale, and speak a parable to the house of Israel:
 
 ### Ezekiel 17:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: and say, Thus says the Lord: Great eagle, large-winged, long in spread, full of claws, having power to enter Lebanon, came and took choice things of cedar.
+- fresh: and say, Thus says the Lord: The great eagle, large-winged, long in spread, full of claws, having power to enter Lebanon, came and took the choice things of the cedar.
 - brenton: and thou shalt say, Thus saith the Lord;
 
 ### Ezekiel 17:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: He clipped off tips of its tenderness and brought them into the land of Canaan; in fortified city he set them.
+- fresh: He clipped off the tips of its tenderness and brought them into the land of Canaan; in a fortified city he set them.
 - brenton: he cropped off the ends of the tender twigs, and brought them into the land of Chanaan; he laid them up in a walled city.
 
 ### Ezekiel 17:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And he took from the seed of land and put it in open field, a plant by much water, under watch he set it.
+- fresh: And he took from the seed of the land and put it in the open field, a plant by much water; under watch he set it.
 - brenton: And he took of the seed of the land, and sowed it in a field planted by much water; he set it in a conspicuous place.
 
 ### Ezekiel 17:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And it sprang up and became vine, weak and small in size, with its branches appearing toward him and its roots beneath him, and it became vine and made shoots and sent out its tendril-growth.
+- fresh: And it sprang up and became a vine, weak and small in size, with its branches appearing upon it and its roots beneath it, and it became a vine and made shoots and sent out its tendril-growth.
 - brenton: And it sprang up, and became a weak and little vine, so that the branches thereof appeared upon it, and its roots were under it: and it became a vine, and put forth shoots, and sent forth its tendrils.
 
 ### Ezekiel 17:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And there was another great eagle, large-winged and many-clawed, and behold, this vine was entwined toward him, and its roots toward him, and its branches it sent out toward him so that he might water it with clod of its planting.
+- fresh: And there was another great eagle, large-winged and many-clawed, and behold, this vine was entwined toward him, and its roots toward him, and its branches it sent out toward him so that he might water it with the clod of its planting.
 - brenton: And there was another great eagle, with great wings and many claws: and, behold, this vine bent itself round toward him, and her roots were turned towards him, and she sent forth her branches towards him, that he might water her together with the growth of her plantation.
 
 ### Ezekiel 17:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: In good field by much water it fattens, to make shoots and bear fruit, to become great vine.
+- fresh: In a good field by much water it fattens, to make shoots and bear fruit, to become a great vine.
 - brenton: She thrives in a fair field by much water, to produce shoots and bear fruit, that she might become a great vine.
 
 ### Ezekiel 17:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Therefore say, Thus says the Lord: Will it prosper? Will he not strip away its tender roots, and its fruit will rot, and all its first sproutings will dry up? Not with great arm, nor with many people, to pull it from its roots.
+- fresh: Therefore say, Thus says the Lord: Will it prosper? Will not its tender roots and its fruit rot, and all its first sproutings dry up? Not with great arm, nor with many people, to pull it from its roots.
 - brenton: Therefore say, Thus saith the Lord; Shall it prosper? shall not the roots of her tender stem and her fruit be blighted? yea, all her early shoots shall be dried up, and that not by a mighty arm, nor by many people, to tear her up from her roots.
 
 ### Ezekiel 17:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And behold, it fattens. Will it prosper? Will it not dry in drought as soon as scorching wind touches it? With clod of its rising it will dry up.
+- fresh: And behold, it fattens. Will it prosper? Will it not dry in drought as soon as the scorching wind touches it? With the clod of its growth it will dry up.
 - brenton: And, behold, it thrives: shall it prosper? shall it not wither as soon as the east wind touches it? it shall be withered together with the growth of its shoots.
 
 ### Ezekiel 17:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And the word of the Lord came to me, saying,
 - brenton: Moreover the word of the Lord came to me, saying,
@@ -185664,89 +185664,89 @@ Note:
 ### Ezekiel 17:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Son of man, now say to provoking house, Do you not understand what these things were? Say, When king of Babylon comes against Jerusalem and takes its king and its rulers and brings them to himself in Babylon,
+- fresh: Son of man, now say to the provoking house, Do you not understand what these things were? Say, When the king of Babylon comes against Jerusalem and takes its king and its rulers and brings them to himself in Babylon,
 - brenton: Son of man, say now to the provoking house, Know ye not what these things were? say to them, Whenever the king of Babylon shall come against Jerusalem, then he shall take her king and her princes, and shall take them home to Babylon.
 
 ### Ezekiel 17:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: then he will take from the seed of kingdom and make covenant with him and bring him under curse, and he will take leaders of land,
+- fresh: then he will take from the seed of the kingdom and make a covenant with him and bring him under a curse, and he will take the leaders of the land,
 - brenton: And he shall take of the seed royal, and shall make a covenant with him, and shall bind him with an oath: and he shall take the princes of the land:
 
 ### Ezekiel 17:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: that kingdom may become weak, not lifting itself up at all, but keeping his covenant and standing by it.
+- fresh: that the kingdom may become weak, not lifting itself up at all, but keeping his covenant and standing by it.
 - brenton: that it may become a weak kingdom, so as never to lift itself up, that he may keep his covenant, and establish it.
 
 ### Ezekiel 17:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: But he will rebel against him by sending his own messengers into Egypt, so that it might give him horses and many people. Will he prosper? Will one doing opposites and transgressing covenant be saved?
+- fresh: But he will rebel against him by sending his own messengers into Egypt, so that it might give him horses and many people. Will he prosper? Will the one acting as an adversary and transgressing the covenant be saved?
 - brenton: And if he shall revolt from him, to send his messengers into Egypt, that they may give him horses and much people; shall he prosper? shall he that acts as an adversary be preserved? and shall he that transgresses the covenant be preserved?
 
 ### Ezekiel 17:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: As I live, says the Lord, surely in place of the king who made him king, whose oath he dishonored and whose covenant he transgressed with him, in the midst of Babylon he will die.
+- fresh: As I live, says the Lord, surely in the place of the king who made him king, who dishonored my oath and who transgressed my covenant with him, in the midst of Babylon he will die.
 - brenton: As I live, saith the Lord, verily in the same place where the king is that made him king, who dishonoured my oath, and who broke my covenant, shall he die with him in the midst of Babylon.
 
 ### Ezekiel 17:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And not with great force nor with large crowd will Pharaoh make war for him, by casting up trench and building missile-stations, to cut off lives.
+- fresh: And Pharaoh will not make war for him with great force nor with a great crowd, by casting up a trench and building missile-stations, to cut off lives.
 - brenton: And Pharao shall make war upon him not with a large force or great multitude, in throwing up a mound, and in building of forts, to cut off souls.
 
 ### Ezekiel 17:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And he dishonored oath by transgressing covenant, and behold, he gave his hand and did all these things. He will not be saved.
+- fresh: And he dishonored an oath by transgressing a covenant, and behold, he gave his hand and did all these things. He will not be saved.
 - brenton: Whereas he has profaned the oath so as to break the covenant, when, behold, I engaged his hand, and he has done all these things to him, he shall not escape.
 
 ### Ezekiel 17:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Therefore thus says the Lord: As I live, surely my covenant that he transgressed and my oath that he dishonored, I will put them on his head.
+- fresh: Therefore say, Thus says the Lord: As I live, surely my covenant that he transgressed and my oath that he dishonored, I will put them on his head.
 - brenton: Therefore say, Thus saith the Lord; As I live, surely mine oath which he has profaned, and my covenant which he has transgressed, I will even recompense it upon his head.
 
 ### Ezekiel 17:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I will spread my net over him, and he will be caught in my enclosure.
+- fresh: And I will spread my net over him, and he will be caught in its enclosure.
 - brenton: And I will spread a net upon him, and he shall be caught in its snare.
 
 ### Ezekiel 17:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: In all his battle line they will fall by sword, and those left I will scatter to every wind, and you will know that I, the Lord, have spoken.
 - brenton: In every battle of his they shall fall by the sword, and I will scatter his remnant to every wind: and ye shall know that I the Lord have spoken it.
@@ -185754,35 +185754,35 @@ Note:
 ### Ezekiel 17:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Because thus says the Lord: I myself will take from choice cedar, from the top of their heart, I will clip off and plant on high mountain and hang it there.
+- fresh: Because thus says the Lord: I myself will take from the choice things of the cedar, from the top of their heart I will clip off and plant it upon a high mountain and hang it there.
 - brenton: For thus saith the Lord; I will even take of the choice branches of the cedar from the top thereof, I will crop off their hearts, and I will plant it on a high mountain:
 
 ### Ezekiel 17:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: On high mountain of Israel I will plant it, and it will bring forth shoot and make fruit and become great cedar, and every beast and every bird will rest beneath it; in its shade its branches will be restored.
+- fresh: On a high mountain of Israel I will plant it, and it will bring forth a shoot and make fruit and become a great cedar, and every beast and every bird will rest beneath it; in its shade its branches will be restored.
 - brenton: and I will hang it on a lofty mountain of Israel: yea, I will plant it, and it shall put forth shoots, and shall bear fruit, and it shall be a great cedar: and every bird shall rest beneath it, even every fowl shall rest under its shadow: its branches shall be restored.
 
 ### Ezekiel 17:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And all trees of field will know that I am the Lord, humbling high tree and exalting low tree and drying green tree and making dry tree flourish. I, the Lord, have spoken and will do it.
+- fresh: And all the trees of the field will know that I am the Lord, humbling the high tree and exalting the low tree and drying the green tree and making the dry tree flourish. I, the Lord, have spoken and will do it.
 - brenton: And all the trees of the field shall know that I am the Lord that bring low the high tree, and exalt the low tree, and wither the green tree, and cause the dry tree to flourish: I the Lord have spoken, and will do it.
 
 ### Ezekiel 18:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -185790,17 +185790,17 @@ Note:
 ### Ezekiel 18:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Son of man, what is this proverb among sons of Israel, saying, Fathers ate unripe grape, and children’s teeth were set on edge?
+- fresh: Son of man, what is this proverb for you among the sons of Israel, saying, The fathers ate an unripe grape, and the teeth of the children were set on edge?
 - brenton: Son of man, what mean ye by this parable among the children of Israel, saying, The fathers have eaten unripe grapes, and the children's teeth have been set on edge?
 
 ### Ezekiel 18:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: As I live, says the Lord, this proverb will no longer be spoken in Israel.
 - brenton: As I live, saith the Lord, surely this parable shall no more be spoken in Israel.
@@ -185808,53 +185808,53 @@ Note:
 ### Ezekiel 18:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Because all souls are mine; as soul of father, so also soul of son, both are mine. Soul sinning, that one will die.
+- fresh: Because all the souls are mine. As the soul of the father, so also the soul of the son, they are mine. The soul that sins, it will die.
 - brenton: For all souls are mine; as the soul of the father, so also the soul of the son, they are mine: the soul that sins, it shall die.
 
 ### Ezekiel 18:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And man who is righteous, doing judgment and righteousness,
+- fresh: And the man who is righteous, who does judgment and righteousness,
 - brenton: But the man who shall be just, who executes judgment and righteousness,
 
 ### Ezekiel 18:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: will not eat on mountains and will not lift his eyes to thoughts of the house of Israel, and will not defile wife of his neighbor, and will not approach woman in her monthly flow.
+- fresh: will not eat on the mountains and will not lift his eyes to the thoughts of the house of Israel, and will not defile the wife of his neighbor, and will not approach a woman in her monthly flow.
 - brenton: who shall not eat upon the mountains, and shall not at all lift up his eyes to the devices of the house of Israel, and shall not defile his neighbour's wife, and shall not draw nigh to her that is removed,
 
 ### Ezekiel 18:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: And he will not oppress a man, he will return pledge of debtor, he will not seize plunder, he will give his bread to hungry one, and clothe naked one with garment.
+- fresh: And he will not oppress a man; he will return the pledge of a debtor and will not seize plunder; he will give his bread to the hungry one and clothe the naked one.
 - brenton: and shall not oppress any man, but shall return the pledge of the debtor, and shall be guilty of no plunder, shall give his bread to the hungry, and clothe the naked;
 
 ### Ezekiel 18:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: And he will not give his money on interest, nor take excess, and he will turn his hand away from injustice; he will do righteous judgment between man and his neighbor.
+- fresh: And he will not give his money on interest, nor take excess, and he will turn his hand away from injustice; he will do righteous judgment between a man and his neighbor.
 - brenton: and shall not lend his money upon usury, and shall not receive usurious increase, and shall turn back his hand from injustice, shall execute righteous judgment between a man and his neighbour,
 
 ### Ezekiel 18:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And he has walked in my ordinances and kept my judgments to do them. This one is righteous; living he will live, says the Lord.
 - brenton: and has walked in my commandments and kept mine ordinances, to do them; he is righteous, he shall surely live, saith the Lord.
@@ -185862,161 +185862,161 @@ Note:
 ### Ezekiel 18:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And if he fathers violent son, shedding blood and committing sins,
+- fresh: And if he fathers a violent son, shedding blood and committing sins,
 - brenton: And if he beget a mischievous son, shedding blood and committing sins,
 
 ### Ezekiel 18:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: who did not walk in the way of his righteous father, but also ate on mountains and defiled wife of his neighbor,
+- fresh: who did not walk in the way of his righteous father, but also ate on the mountains and defiled the wife of his neighbor,
 - brenton: who has not walked in the way of his righteous father, but has even eaten upon the mountains, and has defiled his neighbour's wife,
 
 ### Ezekiel 18:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: and oppressed poor and needy and seized plunder and did not return pledge, and set his eyes on idols and did lawlessness,
+- fresh: and oppressed the poor and needy and seized plunder and did not return the pledge, and set his eyes on the idols and did lawlessness,
 - brenton: and has oppressed the poor and needy, and has committed robbery, and not restored a pledge, and has set his eyes upon idols, has wrought iniquities,
 
 ### Ezekiel 18:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: and gave with interest and took excess, shall this one live? He will not live. He did all these lawless things; by death he will be put to death. His blood will be upon him.
+- fresh: and gave with interest and took excess. Will this one live? He will not live. He did all these lawless deeds; by death he will be put to death. His blood will be upon him.
 - brenton: has lent upon usury, and taken usurious increase; he shall by no means live: he has wrought all these iniquities; he shall surely die; his blood shall be upon him.
 
 ### Ezekiel 18:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And if he fathers son and he sees all sins of his father that he did and fears and does not do according to them,
+- fresh: And if he fathers a son and he sees all the sins of his father that he did and fears and does not do according to them,
 - brenton: And if he beget a son, and the son see all his father's sins which he has wrought, and fear, and not do according to them,
 
 ### Ezekiel 18:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: he has not eaten on mountains and has not set his eyes on thoughts of the house of Israel and has not defiled wife of his neighbor,
+- fresh: he has not eaten on the mountains and has not set his eyes on the thoughts of the house of Israel and has not defiled the wife of his neighbor,
 - brenton: and if he has not eaten on the mountains, and has not set his eyes on the devices of the house of Israel, and has not defiled his neighbour's wife,
 
 ### Ezekiel 18:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: and has not oppressed a man and has not exacted a pledge and has not seized plunder; he gave his bread to hungry one and clothed naked one,
+- fresh: and has not oppressed a man and has not taken a pledge and has not seized plunder; he gave his bread to the hungry one and clothed the naked one,
 - brenton: and has not oppressed a man, and has not retained the pledge, nor committed robbery, has given his bread to the hungry, and has clothed the naked,
 
 ### Ezekiel 18:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 6
+- footnotes: 7
 - same_normalized: no
-- fresh: and turned his hand away from injustice and did not take interest nor excess, and did righteousness and walked in my ordinances, this one will not die in injustices of his father; living he will live.
+- fresh: and turned his hand away from injustice; he did not take interest or excess, and did righteousness and walked in my ordinances. This one will not die in the injustices of his father; living he will live.
 - brenton: and has turned back his hand from unrighteousness, has not received interest or usurious increase, has wrought righteousness, and walked in mine ordinances; he shall not die for the iniquities of his father, he shall surely live.
 
 ### Ezekiel 18:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: But his father, if he oppresses with oppression and seizes plunder and did opposites in the midst of my people, he will die in his injustice.
+- fresh: But his father, if he oppressed with oppression and seized plunder and did contrary things in the midst of my people, he will die in his injustice.
 - brenton: But if his father grievously afflict, or plunder, he has wrought enmity in the midst of my people, and shall die in his iniquity.
 
 ### Ezekiel 18:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And you will say, Why has son not taken injustice of his father? Because son did righteousness and mercy and kept all my ordinances and did them; living he will live.
+- fresh: And you will say, Why has the son not borne the injustice of his father? Because the son did righteousness and mercy and kept all my ordinances and did them; living he will live.
 - brenton: But ye will say, Why has not the son borne the iniquity of the father? Because the son has wrought judgment and mercy, has kept all my statutes, and done them, he shall surely live.
 
 ### Ezekiel 18:20
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 5
+- footnotes: 5
 - same_normalized: no
-- fresh: And the soul sinning will die, but a son will not bear the injustice of his father, nor a father bear the injustice of his son. The righteousness of a righteous one will be upon him, and the lawlessness of a lawless one will be upon him.
+- fresh: And the soul sinning will die, but a son will not bear the injustice of his father, nor will a father bear the injustice of his son. The righteousness of a righteous one will be upon him, and the lawlessness of a lawless one will be upon him.
 - brenton: But the soul that sins shall die: and the son shall not bear the iniquity of the father, nor shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the iniquity of the transgressor shall be upon him.
 
 ### Ezekiel 18:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 6
+- footnotes: 7
 - same_normalized: no
-- fresh: And if lawless one turns from all his lawless deeds that he did and keeps all my commandments and does righteousness and mercy, living he will live; he will not die.
+- fresh: And if the lawless one turns from all his lawless deeds that he did and keeps all my commandments and does righteousness and mercy, living he will live; he will not die.
 - brenton: And if the transgressor turn away from all his iniquities which he has committed, and keep all my commandments, and do justice and mercy, he shall surely live, and shall by no means die.
 
 ### Ezekiel 18:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: All his trespasses that he did will not be remembered; in his righteousness that he did he will live.
+- fresh: None of all his trespasses that he did will be remembered; in his righteousness that he did he will live.
 - brenton: None of his trespasses which he has committed shall be remembered: in his righteousness which he has done he shall live.
 
 ### Ezekiel 18:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Do I at all desire death of lawless one, says the Lord, rather than his turning from evil way and his living?
+- fresh: Do I at all desire the death of the lawless one, says the Lord, rather than that he turn from the evil way and live?
 - brenton: Shall I at all desire the death of the sinner, saith the Lord, as I desire that he should turn from his evil way, and live?
 
 ### Ezekiel 18:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: But when righteous one turns from his righteousness and does injustice, according to all lawless things that lawless one did, none of his righteous deeds that he did will be remembered. In trespass by which he trespassed and in sins by which he sinned, in them he will die.
+- fresh: But when a righteous one turns from his righteousness and does injustice, according to all the lawless deeds that the lawless one did, none of his righteous deeds that he did will be remembered. In his trespass by which he trespassed and in his sins by which he sinned, in them he will die.
 - brenton: But when the righteous man turns away from his righteousness, and commits iniquity, according to all the transgressions which the transgressor has wrought, none of his righteousness which he has wrought shall be at all remembered: in his trespass wherein he has trespassed, and in his sins wherein he has sinned, in them shall he die.
 
 ### Ezekiel 18:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And you said, Way of the Lord is not straight. Hear now, all house of Israel: Is my way not straight? Is it not your way that is not straight?
+- fresh: And you said, The way of the Lord is not straight. Hear now, all the house of Israel: Is my way not straight? Is it not your way that is not straight?
 - brenton: Yet ye have said, The way of the Lord is not straight. Hear now, all the house of Israel; will not my way be straight? Is your way straight?
 
 ### Ezekiel 18:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: When righteous one turns from his righteousness and does trespass and dies, in trespass that he did, in it he will die.
+- fresh: When the righteous one turns from his righteousness and does trespass and dies, in the trespass that he did, in it he will die.
 - brenton: When the righteous turns away from his righteousness and commits a trespass, and dies in the trespass which he has committed, he shall even die in it.
 
 ### Ezekiel 18:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And when the lawless one turns from the lawlessness that he committed and does judgment and righteousness, this one has preserved his soul.
 - brenton: And when the wicked man turns away from his wickedness that he has committed, and shall do judgment and justice, he has kept his soul,
@@ -186024,8 +186024,8 @@ Note:
 ### Ezekiel 18:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And he turned away from all his impieties that he did; living he will live; he will not die.
 - brenton: and has turned away from all his ungodliness which he has committed: he shall surely live, he shall not die.
@@ -186033,62 +186033,62 @@ Note:
 ### Ezekiel 18:29
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And the house of Israel says, Way of the Lord is not right. Is my way not right, house of Israel? Is it not your way that is not right?
+- fresh: And the house of Israel says, The way of the Lord is not right. Is my way not right, house of Israel? Is it not your way that is not right?
 - brenton: Yet the house of Israel say, The way of the Lord is not right. Is not my way right, O house of Israel? is not your way wrong?
 
 ### Ezekiel 18:30
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Each one according to his way I will judge you, house of Israel, says the Lord. Turn back and turn away from all your impieties, and they will not become to you punishment of injustice.
+- fresh: I will judge each one of you according to his way, house of Israel, says the Lord. Turn back and turn away from all your impieties, and they will not become to you a punishment of injustice.
 - brenton: I will judge you, O house of Israel, saith the Lord, each one according to his way: be converted, and turn from all your ungodliness, and it shall not become to you the punishment of iniquity.
 
 ### Ezekiel 18:31
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Throw away from yourselves all your impieties by which you acted impiously against me and make for yourselves new heart and new spirit. And why are you dying, house of Israel?
+- fresh: Throw away from yourselves all your impieties by which you acted impiously against me, and make for yourselves a new heart and a new spirit. And why are you dying, house of Israel?
 - brenton: Cast away from yourselves all your ungodliness wherein ye have sinned against me; and make to yourselves a new heart and a new spirit: for why should ye die, O house of Israel?
 
 ### Ezekiel 18:32
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because I do not want death of dying one, says the Lord.
+- fresh: Because I do not want the death of the one dying, says the Lord.
 - brenton: For I desire not the death of him that dies, saith the Lord.
 
 ### Ezekiel 19:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And you, take lamentation for ruler of Israel,
+- fresh: And you, take lamentation for the ruler of Israel,
 - brenton: Moreover do thou take up a lamentation for the prince of Israel,
 
 ### Ezekiel 19:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: and say, What was your mother? Lioness among lions she became; in the midst of lions she multiplied her cubs.
+- fresh: and say, What was your mother? A lioness among lions she became; in the midst of lions she multiplied her cubs.
 - brenton: and say, Why is thy mother become a whelp in the midst of lions? in the midst of lions she has multiplied her whelps.
 
 ### Ezekiel 19:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
 - fresh: And one of her cubs leapt up; he became a lion and learned to seize plunder; he ate men.
 - brenton: And one of her whelps sprang forth; he became a lion, and learned to take prey, he devoured men.
@@ -186096,26 +186096,26 @@ Note:
 ### Ezekiel 19:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And nations heard against him; in their corruption he was caught, and they brought him with bridle into the land of Egypt.
+- fresh: And nations heard about him; in their corruption he was caught, and they brought him with a bridle into the land of Egypt.
 - brenton: And the nations heard a report of him; he was caught in their pit, and they brought him into the land of Egypt in chains.
 
 ### Ezekiel 19:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And she saw that he was driven from her and her expectation perished, and she took another from her cubs and made him lion.
+- fresh: And she saw that he was driven from her and her expectation perished, and she took another from her cubs and appointed him as a lion.
 - brenton: And she saw that he was driven away from her, and her hope of him perished, and she took another of her whelps; she made him a lion.
 
 ### Ezekiel 19:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And he prowled in the midst of lions; he became a lion and learned to seize plunder; he ate men.
 - brenton: And he went up and down in the midst of lions, he became a lion, and learned to take prey, he devoured men.
@@ -186123,17 +186123,17 @@ Note:
 ### Ezekiel 19:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And he raged in his daring and laid waste their cities and desolated land and its fullness by the sound of his roar.
+- fresh: And he prowled in his daring and laid waste their cities and desolated the land and its fullness by the sound of his roar.
 - brenton: And he prowled in his boldness and laid waste their cities, and made the land desolate, and the fulness of it, by the voice of his roaring.
 
 ### Ezekiel 19:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And nations from countries around set themselves against him and spread their nets over him; in their corruption he was caught.
 - brenton: Then the nations set upon him from the countries round about, and they spread their nets upon him: he was taken in their pit.
@@ -186141,71 +186141,71 @@ Note:
 ### Ezekiel 19:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And they put him in bridle and cage and brought him to the king of Babylon and led him into prison, so that his voice might no longer be heard on the mountains of Israel.
+- fresh: And they put him in a bridle and in a cage and brought him to the king of Babylon and led him into prison, so that his voice might no longer be heard on the mountains of Israel.
 - brenton: And they put him in chains and in a cage, and he came to the king of Babylon; and he cast him into prison, that his voice should not be heard on the mountains of Israel.
 
 ### Ezekiel 19:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Your mother was like a vine, like a blossom in pomegranate, planted by water; its fruit and its shoot came from much water.
+- fresh: Your mother was like a vine, like a blossom on a pomegranate, planted by water; her fruit and her shoot came from much water.
 - brenton: Thy mother was as a vine and as a blossom on a pomegranate tree, planted by water: her fruit and her shoots abounded by reason of much water.
 
 ### Ezekiel 19:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And it became strong rod for tribe of rulers, and it was exalted in its size in the midst of stems, and it saw its size in the multitude of its branches.
+- fresh: And she had a rod of strength for a tribe of rulers, and she was exalted in her size in the midst of stems, and she saw her size in the multitude of her branches.
 - brenton: And she became a rod for a tribe of princes, and was elevated in her bulk in the midst of other trees, and she saw her bulk in the multitude of her branches.
 
 ### Ezekiel 19:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 6
+- footnotes: 7
 - same_normalized: no
-- fresh: But it was broken in wrath, cast to ground, and scorching wind dried its chosen things; its strong rod was avenged and dried up; fire consumed it.
+- fresh: And she was broken in wrath and cast onto the ground, and the scorching wind dried her chosen things; her rod of strength was avenged and dried up; fire consumed her.
 - brenton: But she was broken down in wrath, she was cast upon the ground, and the east wind dried up her choice branches: vengeance came upon them, and the rod of her strength was withered; fire consumed it.
 
 ### Ezekiel 19:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And now they planted it in the wilderness, in dry land.
+- fresh: And now they have planted her in the wilderness, in a waterless land.
 - brenton: And now they have planted her in the wilderness, in a dry land.
 
 ### Ezekiel 19:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 6
+- footnotes: 7
 - same_normalized: no
-- fresh: And fire went out from rod of its chosen ones and consumed it, and there was no strong rod in it, a tribe for proverb. It is lament and will be for lament.
+- fresh: And fire went out from a rod of her chosen ones and devoured her, and there was no rod of strength in her, a tribe for a parable of lamentation. It is lamentation and will be for lamentation.
 - brenton: And fire is gone out of a rod of her choice boughs, and has devoured her; and there was no rod of strength in her. Her race is become a parable of lamentation, and it shall be for a lamentation.
 
 ### Ezekiel 20:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And it happened in seventh year, in the fifth month, on the tenth of the month, men from the elders of the house of Israel came to inquire of the Lord and sat before me.
+- fresh: And it happened in the seventh year, in the fifth month, on the tenth of the month, men from the elders of the house of Israel came to inquire of the Lord and sat before me.
 - brenton: And it came to pass in the seventh year, on the fifteenth day of the month, there came men of the elders of the house of Israel to enquire of the Lord, and they sat before me.
 
 ### Ezekiel 20:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -186213,8 +186213,8 @@ Note:
 ### Ezekiel 20:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
 - fresh: Son of man, speak to the elders of Israel and say to them, Thus says the Lord: Is it to inquire of me that you come? As I live, I will not answer you, says the Lord.
 - brenton: Son of man, speak to the elders of the house of Israel, and thou shalt say to them, Thus saith the Lord; Are ye come to enquire of me? As I live, I will not be enquired of by you, saith the Lord.
@@ -186222,62 +186222,62 @@ Note:
 ### Ezekiel 20:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: Will I avenge them with vengeance, son of man? Bear witness to them concerning lawless deeds of their fathers.
+- fresh: Will I avenge them with vengeance, son of man? Bear witness to them concerning the lawless deeds of their fathers.
 - brenton: Shall I utterly take vengeance on them, son of man? testify to them of the iniquities of their fathers:
 
 ### Ezekiel 20:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 6
+- footnotes: 7
 - same_normalized: no
-- fresh: And say to them, Thus says the Lord: From day I chose house of Israel and made myself known to the seed of the house of Jacob and was known to them in the land of Egypt and took hold of their hand, saying, I am the Lord your God,
+- fresh: And say to them, Thus says the Lord: From the day I chose the house of Israel and made myself known to the seed of the house of Jacob and was known to them in the land of Egypt and took hold of them with my hand, saying, I am the Lord your God,
 - brenton: and thou shalt say to them, Thus saith the Lord;
 
 ### Ezekiel 20:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: on that day I took hold of their hand to bring them out from the land of Egypt into the land that I prepared for them, land flowing with milk and honey, a honeycomb beyond every land.
+- fresh: on that day I took hold of them with my hand to bring them out from the land of Egypt into the land that I prepared for them, a land flowing with milk and honey, a honeycomb beyond every land.
 - brenton: in that day I helped them with my hand, to bring them out of the land of Egypt into the land which I prepared for them, a land flowing with milk and honey, it is abundant beyond every land.
 
 ### Ezekiel 20:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I said to them, Let each cast away abominations of his eyes, and do not defile yourselves with practices of Egypt. I am the Lord your God.
+- fresh: And I said to them, Let each one cast away the abominations of his eyes, and do not defile yourselves with the practices of Egypt. I am the Lord your God.
 - brenton: And I said to them, Let every one cast away the abominations of his eyes, and defile not yourselves with the devices of Egypt: I am the Lord your God.
 
 ### Ezekiel 20:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 7
+- footnotes: 8
 - same_normalized: no
-- fresh: And they rebelled against me and did not want to listen to me. They did not cast away abominations of their eyes, and they did not leave behind practices of Egypt, and I said I would pour out my wrath upon them, to complete my anger in them in the midst of the land of Egypt.
+- fresh: And they rebelled against me and did not want to listen to me. They did not cast away the abominations of their eyes, and they did not leave behind the practices of Egypt, and I said I would pour out my wrath upon them, to complete my anger in them in the midst of the land of Egypt.
 - brenton: But they revolted from me, and would not hearken to me: they cast not away the abominations of their eyes, and forsook not the devices of Egypt: then I said that I would pour out my wrath upon them, to accomplish my wrath upon them in the midst of Egypt.
 
 ### Ezekiel 20:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I acted so that my name might not at all be profaned before nations among whom they were, among whom I was made known to them before them, to bring them out from the land of Egypt.
+- fresh: And I acted so that my name might not at all be profaned before the nations among whom they were, among whom I was made known to them before them, to bring them out from the land of Egypt.
 - brenton: But I wrought so that my name should not be at all profaned in the sight of the Gentiles, in the midst of whom they are, among whom I was made known to them in their sight, to bring them out of the land of Egypt.
 
 ### Ezekiel 20:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And I brought them out from the land of Egypt and led them into the wilderness.
 - brenton: And I brought them into the wilderness.
@@ -186285,80 +186285,80 @@ Note:
 ### Ezekiel 20:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And I gave them my ordinances, and my judgments I made known to them, which if man does them, he will live in them.
+- fresh: And I gave them my ordinances, and my judgments I made known to them, which if a man does them, he will live in them.
 - brenton: And I gave them my commandments, and made known to them mine ordinances, all which if a man shall do, he shall even live in them.
 
 ### Ezekiel 20:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And my Sabbaths I gave them, to be sign between me and them, so that they might know that I am the Lord who sanctifies them.
+- fresh: And my Sabbaths I gave them, to be a sign between me and them, so that they might know that I am the Lord who sanctifies them.
 - brenton: And I gave them my sabbaths, that they should be for a sign between me and them, that they should know that I am the Lord that sanctify them.
 
 ### Ezekiel 20:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 7
+- footnotes: 8
 - same_normalized: no
-- fresh: And I said to the house of Israel in the wilderness, In my ordinances walk, yet they did not walk, and my judgments they rejected, which if man does them, he will live in them, and my Sabbaths they greatly profaned, and I said I would pour out my wrath upon them in the wilderness to consume them.
+- fresh: And I said to the house of Israel in the wilderness, Walk in my ordinances, yet they did not walk, and they rejected my judgments, which if a man does them, he will live in them, and they greatly profaned my Sabbaths, and I said I would pour out my wrath upon them in the wilderness to consume them.
 - brenton: And I said to the house of Israel in the wilderness, Walk ye in my commandments: but they walked not in them, and they rejected mine ordinances, which if a man shall do, he shall even live in them; and they grievously profaned my sabbaths: and I said that I would pour out my wrath upon them in the wilderness, to consume them.
 
 ### Ezekiel 20:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I acted so that my name might not at all be profaned before nations from whom I brought them out before their eyes.
+- fresh: And I acted so that my name might not at all be profaned before the nations from whom I brought them out before their eyes.
 - brenton: But I wrought so that my name should not be at all profaned before the Gentiles, before whose eyes I brought them out.
 
 ### Ezekiel 20:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: And I lifted my hand against them in the wilderness, not at all to bring them into the land that I gave them, land flowing milk and honey, a honeycomb beyond every land,
+- fresh: And I lifted my hand against them in the wilderness, not at all to bring them into the land that I gave them, a land flowing with milk and honey, a honeycomb beyond every land,
 - brenton: But I lifted up my hand against them in the wilderness once for all, that I would not bring them into the land which I gave them, a land flowing with milk and honey, it is sweeter than all lands:
 
 ### Ezekiel 20:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: because they rejected my judgments and did not walk in my ordinances and profaned my Sabbaths, and after the thoughts of their hearts they went.
+- fresh: because they rejected my judgments and did not walk in my ordinances and profaned my Sabbaths, and they went after the thoughts of their hearts.
 - brenton: because they rejected mine ordinances, and walked not in my commandments, but profaned my sabbaths, and went after the imaginations of their hearts.
 
 ### Ezekiel 20:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And my eye spared them from wiping them out, and I did not make end of them in the wilderness.
+- fresh: And my eye spared them so as not to wipe them out, and I did not make a full end of them in the wilderness.
 - brenton: Yet mine eyes spared them, so as not to destroy them utterly, and I did not make an end of them in the wilderness.
 
 ### Ezekiel 20:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: And I said to their children in the wilderness, Do not walk in statutes of your fathers, and do not keep their judgments, and do not mix yourselves with their practices, and do not defile yourselves.
+- fresh: And I said to their children in the wilderness, Do not walk in the statutes of your fathers, and do not keep their judgments, and do not mix yourselves with their practices, and do not defile yourselves.
 - brenton: And I said to their children in the wilderness, Walk not ye in the customs of your fathers, and keep not their ordinances, and have no fellowship with their practices, nor defile yourselves with them.
 
 ### Ezekiel 20:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: I am the Lord your God. Walk in my ordinances, and keep my judgments and do them,
 - brenton: I am the Lord your God; walk in my commandments, and keep mine ordinances, and do them;
@@ -186366,44 +186366,44 @@ Note:
 ### Ezekiel 20:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: and sanctify my Sabbaths, and let them be sign between me and you, that you may know that I am the Lord your God.
+- fresh: and sanctify my Sabbaths, and let them be a sign between me and you, that you may know that I am the Lord your God.
 - brenton: and hallow my sabbaths, and let them be a sign between me and you, that ye may know that I am the Lord your God.
 
 ### Ezekiel 20:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 8
+- footnotes: 9
 - same_normalized: no
-- fresh: And their children provoked me. In my ordinances they did not walk, and my judgments they did not keep to do them, which if man does them, he will live in them, and my Sabbaths they profaned, and I said I would pour out my wrath on them in the wilderness to complete my anger upon them.
+- fresh: And their children provoked me. They did not walk in my ordinances, and they did not keep my judgments to do them, which if a man does them, he will live in them, and they profaned my Sabbaths, and I said I would pour out my wrath upon them in the wilderness to complete my anger upon them.
 - brenton: But they provoked me, and their children walked not in my commandments, and they took no heed to mine ordinances to do them, which if a man shall do, he shall even live in them, and they profaned my sabbaths: then I said that I would pour out my wrath upon them in the wilderness, to accomplish mine anger upon them.
 
 ### Ezekiel 20:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I acted so that my name might not at all be profaned before nations from whom I brought them out before their eyes.
+- fresh: And I acted so that my name might not at all be profaned before the nations from whom I brought them out before their eyes.
 - brenton: But I wrought so that my name might not be at all profaned before the Gentiles; and I brought them out in their sight.
 
 ### Ezekiel 20:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I lifted my hand against them in the wilderness, to scatter them among nations and disperse them in lands,
+- fresh: And I lifted my hand against them in the wilderness, to scatter them among the nations and disperse them in the lands,
 - brenton: I lifted up my hand against them in the wilderness, that I would scatter them among the Gentiles, and disperse them in the countries;
 
 ### Ezekiel 20:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: because they did not do my judgments and rejected my ordinances and profaned my Sabbaths, and their eyes were after the thoughts of their fathers.
 - brenton: because they kept not mine ordinances, and rejected my commandments, and profaned my sabbaths, and their eyes went after the imaginations of their fathers.
@@ -186411,44 +186411,44 @@ Note:
 ### Ezekiel 20:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I also gave them ordinances not good and judgments in which they will not live.
+- fresh: And I also gave them ordinances that were not good and judgments in which they will not live.
 - brenton: So I gave them commandments that were not good, and ordinances in which they should not live.
 
 ### Ezekiel 20:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And I defiled them in their gifts, in my causing every opener of womb to pass through, so that I might destroy them.
+- fresh: And I defiled them with their gifts, when I caused every opener of the womb to pass through, so that I might destroy them.
 - brenton: And I will defile them by their own decrees, when I pass through upon every one that opens the womb, that I may destroy them.
 
 ### Ezekiel 20:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Therefore speak to the house of Israel, son of man, and say to them, Thus says the Lord: Up to this point your fathers provoked me in their trespasses by which they trespassed against me.
+- fresh: Therefore speak to the house of Israel, son of man, and say to them, Thus says the Lord: Thus far your fathers provoked me in their trespasses by which they trespassed against me.
 - brenton: Therefore, son of man, speak to the house of Israel, and thou shalt say to them, Thus saith the Lord: Hitherto have your fathers provoked me in their trespasses in which they transgressed against me.
 
 ### Ezekiel 20:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 7
+- footnotes: 8
 - same_normalized: no
-- fresh: And I brought them into the land about which I lifted my hand to give it to them, and they saw every high hill and every shady tree and there they sacrificed to their gods and set there fragrant smell and poured out there their drink offerings.
+- fresh: And I brought them into the land about which I lifted my hand to give it to them, and they saw every high hill and every shady tree and there they sacrificed to their gods and set there a fragrant smell and poured out there their drink offerings.
 - brenton: Whereas I brought them into the land concerning which I lifted up mine hand to give it them; and they looked upon every high hill, and every shady tree, and they sacrificed there to their gods, and offered there a sweet-smelling savour, and there they poured out their drink-offerings.
 
 ### Ezekiel 20:29
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And I said to them, What is Bamah, that you enter there? And its name was called Bamah until this day.
 - brenton: And I said to them, What is Abama, that ye go in thither? and they called its name Abama, until this day.
@@ -186456,62 +186456,62 @@ Note:
 ### Ezekiel 20:30
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Therefore say to the house of Israel, Thus says the Lord: Are you defiling yourselves in lawless deeds of your fathers, and after their abominations are you whoring?
+- fresh: Therefore say to the house of Israel, Thus says the Lord: Are you defiling yourselves in the lawless deeds of your fathers, and after their abominations are you whoring?
 - brenton: Therefore say to the house of Israel, Thus saith the Lord, Do ye pollute yourselves with the iniquities of your fathers, and do ye go a-whoring after their abominations,
 
 ### Ezekiel 20:31
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 7
+- footnotes: 8
 - same_normalized: no
-- fresh: And in firstfruits of your gifts, in your separations, you are defiling yourselves in all your thoughts until this day, and shall I answer you, house of Israel? As I live, says the Lord, I will not answer you, and this that rises on your spirit.
+- fresh: And in the firstfruits of your gifts, in your separations, you are defiling yourselves in all your thoughts until this day, and shall I answer you, house of Israel? As I live, says the Lord, I will not answer you. And as for this that rises upon your spirit,
 - brenton: and do ye pollute yourselves with the first-fruits of your gifts, in the offerings wherewith ye pollute yourselves in all your imaginations, until this day; and shall I answer you, O house of Israel? As I live, saith the Lord, I will not answer you, neither shall this thing come upon your spirit.
 
 ### Ezekiel 20:32
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And it will not be in way that you say, We will be like nations and like tribes of earth, serving wood and stone.
+- fresh: it will not be in the way that you say, We will be like the nations and like the tribes of the earth, serving wood and stone.
 - brenton: And it shall not be as ye say, We will be as the nations, and as the tribes of the earth, to worship stocks and stones.
 
 ### Ezekiel 20:33
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: Therefore as I live, says the Lord, with strong hand and uplifted arm and wrath poured out I will reign over you.
+- fresh: Therefore as I live, says the Lord, with a strong hand and an uplifted arm and wrath poured out I will reign over you.
 - brenton: Therefore, as I live, saith the Lord, I will reign over you with a strong hand, and with a high arm, and with outpoured wrath:
 
 ### Ezekiel 20:34
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And I will bring you out from peoples and welcome you from lands where you were scattered, with strong hand and uplifted arm and wrath poured out.
+- fresh: And I will bring you out from the peoples and receive you from the lands where you were scattered, with a strong hand and an uplifted arm and wrath poured out.
 - brenton: I will bring you out from the nations, and will take you out of the lands wherein ye were dispersed, with a strong hand, and with a high arm, and with outpoured wrath.
 
 ### Ezekiel 20:35
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And I will bring you into the wilderness of peoples and judge with you there face to face.
+- fresh: And I will bring you into the wilderness of the peoples and judge with you there face to face.
 - brenton: And I will bring you into the wilderness of the nations, and will plead with you there face to face.
 
 ### Ezekiel 20:36
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: As I judged with your fathers in the wilderness of the land of Egypt, so I will judge you, says the Lord.
 - brenton: As I pleaded with your fathers in the wilderness of the land of Egypt, so will I judge you, saith the Lord.
@@ -186519,8 +186519,8 @@ Note:
 ### Ezekiel 20:37
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And I will bring you under my rod and bring you in by number.
 - brenton: And I will cause you to pass under my rod, and I will bring you in by number.
@@ -186528,44 +186528,44 @@ Note:
 ### Ezekiel 20:38
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: And I will pick out from you impious ones and rebels, because I will bring them out from their sojourning, but into the land of Israel they will not enter, and you will know that I am the Lord.
+- fresh: And I will pick out from you the impious ones and the rebels, because I will bring them out from their sojourning, but into the land of Israel they will not enter, and you will know that I am the Lord.
 - brenton: And I will separate from among you the ungodly and the revolters; for I will lead them forth out of their place of sojourning, and they shall not enter into the land of Israel: and ye shall know that I am the Lord, even the Lord.
 
 ### Ezekiel 20:39
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 7
+- footnotes: 7
 - same_normalized: no
-- fresh: And you, house of Israel, thus says the Lord God: Each one, cast away his practices, and after these things, if you do not listen to me, you will no longer profane my holy name with your gifts and with your practices.
+- fresh: And you, house of Israel, thus says the Lord God: Each one, remove his practices, and after these things, if you do not listen to me, you will no longer profane my holy name with your gifts and with your practices.
 - brenton: And as to you, O house of Israel, thus saith the Lord, even the Lord; Put away each one his evil practices, and hereafter if ye hearken to me, then shall ye no more profane my holy name by your gifts and by devices.
 
 ### Ezekiel 20:40
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 7
+- footnotes: 8
 - same_normalized: no
-- fresh: Because on my holy mountain, on high mountain, says the Lord God, there all house of Israel, to the end, will serve me, and there I will receive them, and there I will visit your firstfruits and firstfruits of your separations in all your holy things.
+- fresh: Because on my holy mountain, on a high mountain, says the Lord God, there all the house of Israel, to the end, will serve me, and there I will receive you, and there I will visit your firstfruits and the firstfruits of your separations in all your holy things.
 - brenton: For upon my holy mountain, on the high mountain, saith the Lord, even the Lord, there shall all the house of Israel serve me for ever: and there will I accept you, and there will I have respect to your first-fruits, and the first-fruits of your offerings, in all your holy things.
 
 ### Ezekiel 20:41
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: In fragrant aroma I will receive you, when I bring you out from peoples and welcome you from lands in which you were scattered, and I will be sanctified in you before the eyes of nations.
+- fresh: In a fragrant aroma I will receive you, when I bring you out from the peoples and receive you from the lands in which you were scattered, and I will be sanctified in you before the eyes of the peoples.
 - brenton: I will accept you with a sweet-smelling savour, when I bring you out from the nations, and take you out of the countries wherein ye have been dispersed; and I will be sanctified among you in the sight of the nations.
 
 ### Ezekiel 20:42
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And you will know that I am the Lord when I bring you into the land of Israel, into the land concerning which I lifted my hand to give it to your fathers.
 - brenton: And ye shall know that I am the Lord, when I have brought you into the land of Israel, into the land concerning which I lifted up my hand to give it to your fathers.
@@ -186573,26 +186573,26 @@ Note:
 ### Ezekiel 20:43
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And there you will remember your ways and your practices by which you were defiled in them, and you will strike your faces over all your evils.
+- fresh: And there you will remember your ways and your practices by which you defiled yourselves, and you will strike your faces over all your evils.
 - brenton: And ye shall there remember your ways, and your devices wherewith ye defiled yourselves; and ye shall bewail yourselves for all your wickedness.
 
 ### Ezekiel 20:44
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And you will know that I am the Lord when I act thus with you, so that my name may not be profaned, not according to your evil ways and not according to your corrupt practices, says the Lord.
+- fresh: And you will know that I am the Lord when I act thus toward you, so that my name may not be profaned, not according to your evil ways and not according to your corrupt practices, says the Lord.
 - brenton: And ye shall know that I am the Lord, when I have done thus to you, that my name may not be profaned in your evil ways, and in your corrupt devices, saith the Lord.
 
 ### Ezekiel 21:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -186600,26 +186600,26 @@ Note:
 ### Ezekiel 21:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Son of man, set your face toward Teman and look toward Darom and prophesy against leading forest of Negeb.
+- fresh: Son of man, set your face toward Teman and look toward Darom and prophesy against the leading forest of Negeb.
 - brenton: Son of man, set thy face against Thæman, and look toward Darom, and prophesy against the chief forest of Nageb,
 
 ### Ezekiel 21:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 6
+- footnotes: 7
 - same_normalized: no
-- fresh: And say to the forest of Negeb, Hear the word of the Lord. Thus says the Lord God: Behold, I kindle fire in you, and it will devour in you every green tree and every dry tree. Flame kindled will not be quenched, and every face from south to north will be burned in it.
+- fresh: And say to the forest of Negeb, Hear the word of the Lord. Thus says the Lord God: Behold, I kindle fire in you, and it will devour in you every green tree and every dry tree. The kindled flame will not be quenched, and every face from the east to the north will be burned in it.
 - brenton: and thou shalt say to the forest of Nageb, Hear the word of the Lord; thus saith the Lord, even the Lord; Behold, I will kindle a fire in thee, and it shall devour in thee every green tree, and every dry tree: the flame that is kindled shall not be quenched, and every face shall be scorched with it from the south to the north.
 
 ### Ezekiel 21:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And all flesh will know that I, the Lord, kindled it, and it will not be quenched.
 - brenton: And all flesh shall know that I the Lord have kindled it: it shall not be quenched.
@@ -186627,17 +186627,17 @@ Note:
 ### Ezekiel 21:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
-- fresh: And I said, Not so, Lord, Lord. They say to me, Is not this thing spoken a parable?
+- fresh: And I said, By no means, Lord, Lord. They say to me, Is this not a parable being spoken?
 - brenton: And I said, Not so, O Lord God! they say to me, Is not this that is spoken a parable?
 
 ### Ezekiel 21:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -186645,8 +186645,8 @@ Note:
 ### Ezekiel 21:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: Therefore prophesy, son of man, and set your face toward Jerusalem and look toward their holy places, and you will prophesy against the land of Israel.
 - brenton: Therefore prophesy, son of man, set thy face steadfastly toward Jerusalem, and look toward their holy places, and thou shalt prophesy against the land of Israel,
@@ -186654,35 +186654,35 @@ Note:
 ### Ezekiel 21:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And you will say to the land of Israel, Behold, I am against you and will draw my dagger from its sheath and destroy from you righteous and lawless.
+- fresh: And you will say to the land of Israel, Behold, I am against you, and I will draw my dagger from its sheath and destroy from you the unjust and the lawless.
 - brenton: and thou shalt say to the land of Israel, Thus saith the Lord; Behold, I am against thee, and I will draw forth my sword out of its sheath, and I will destroy out of thee the transgressor and unrighteous.
 
 ### Ezekiel 21:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Because I will destroy from you righteous and lawless, so my dagger will go out from its sheath against all flesh from south to north.
+- fresh: Because I will destroy from you the unjust and the lawless, so my dagger will go out from its sheath against all flesh from the east to the north.
 - brenton: Because I will destroy out of thee the unrighteous and the transgressor, therefore so shall my sword come forth out of its sheath against all flesh from the south to the north:
 
 ### Ezekiel 21:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: And all flesh will know that I, the Lord, drew my dagger from its sheath, and it will not return again.
+- fresh: And all flesh will know that I, the Lord, have drawn my dagger from its sheath, and it will not turn back anymore.
 - brenton: and all flesh shall know that I the Lord have drawn forth my sword out of its sheath: it shall not return any more.
 
 ### Ezekiel 21:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And you, son of man, groan with breaking of your loins, and with pains you will groan before their eyes.
 - brenton: And thou, son of man, groan with the breaking of thy loins; thou shalt even groan heavily in their sight.
@@ -186690,17 +186690,17 @@ Note:
 ### Ezekiel 21:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 6
+- footnotes: 7
 - same_normalized: no
-- fresh: And it will be, if they say to you, Because of what do you groan? then you will say, Because of report, for it comes, and every heart will be broken and all hands paralyzed, and all flesh will faint and every spirit, and all thighs will be defiled with wetness. Behold, it comes and will happen, says the Lord God.
+- fresh: And it will be, if they say to you, Why do you groan? then you will say, Because of the report, for it is coming, and every heart will be broken, and all hands will be paralyzed, and all flesh and every spirit will faint, and all thighs will be defiled with wetness. Behold, it is coming and will happen, says the Lord God.
 - brenton: And it shall come to pass, if they shall say to thee, Wherefore dost thou groan? that thou shalt say, For the report; because it comes: and every heart shall break, and all hands shall become feeble, and all flesh and every spirit shall faint, and all thighs shall be defiled with moisture: behold, it comes, saith the Lord.
 
 ### Ezekiel 21:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -186708,80 +186708,80 @@ Note:
 ### Ezekiel 21:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: Son of man, prophesy and say, Thus says the Lord. Say, Sword, sword, be sharpened and be enraged.
+- fresh: Son of man, prophesy and say, Thus says the Lord: Say, Sword, sword, be sharpened and be enraged.
 - brenton: Son of man, prophesy, and thou shalt say, Thus saith the Lord; Say, Sword, sword, be sharpened and rage,
 
 ### Ezekiel 21:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: So that you may slaughter victims, be sharpened; so that it may be ready for gleaming, ready for paralysis. Slaughter. Despise; push away every tree.
+- fresh: So that you may slaughter victims, be sharpened; so that you may become ready for gleaming, ready for paralysis. Slaughter; despise; push away every tree.
 - brenton: that thou mayest slay victims; be sharpened that thou mayest be bright, ready for slaughter, slay, set at nought, despise every tree.
 
 ### Ezekiel 21:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: And he gave it ready for his hand to seize. Sword has been honed; it is ready to be given into the hand of one striking through.
+- fresh: And he gave it ready for his hand to seize. The sword has been honed; it is ready to be given into the hand of one piercing through.
 - brenton: And he made it ready for his hand to hold: the sword is sharpened, it is ready to put into the hand of the slayer.
 
 ### Ezekiel 21:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: Cry out and howl, son of man, because it came upon my people, upon all leaders of Israel. They will sojourn under sword; it came upon my people. Therefore clap upon your hand.
+- fresh: Cry out and howl, son of man, because it came among my people; it came among all the leaders of Israel. They will sojourn under sword; it came among my people. Therefore clap upon your hand.
 - brenton: Cry out and howl, son of man: for this sword is come upon my people, this sword is come upon all the princes of Israel: they shall be as strangers: judgment with the sword is come upon my people: therefore clap thine hands, for sentence has been passed:
 
 ### Ezekiel 21:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Because it has been justified. And what if tribe is rejected? It will not be, says the Lord God.
+- fresh: Because it has been justified. And what if a tribe has been rejected? It will not be, says the Lord God.
 - brenton: and what if even the tribe be rejected? it shall not be, saith the Lord God.
 
 ### Ezekiel 21:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 6
+- footnotes: 7
 - same_normalized: no
-- fresh: And you, son of man, prophesy and strike hand to hand and double sword, a third sword. It is sword of slain, the great sword of the slain, and it will throw them into panic.
+- fresh: And you, son of man, prophesy and strike hand upon hand and double the sword; the third sword is a sword of wounded ones, a great sword of wounded ones, and it will throw them into panic.
 - brenton: And thou, son of man, prophesy, and clap thine hands, and take a second sword: the third sword is the sword of the slain, the great sword of the slain: and thou shalt strike them with amazement, lest the heart should faint
 
 ### Ezekiel 21:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: So that heart may be crushed and weak ones multiplied, at all their gates they are handed over to slaughter of sword. Well made for slaughter, well made for gleaming.
+- fresh: So that the heart may be crushed and the weak ones may be multiplied, at all their gates they have been handed over to slaughter by sword. It has been well made for slaughter; it has been well made for gleaming.
 - brenton: and the weak ones be multiplied at every gate—they are given up to the slaughter of the sword: it is well fitted for slaughter, it is well fitted for glittering.
 
 ### Ezekiel 21:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
-- fresh: Pass through. Be sharpened to right and to left, wherever your face is raised.
+- fresh: Pass through. Be sharpened on the right and on the left, wherever your face is raised.
 - brenton: And do thou go on, sharpen thyself on the right and on the left whithersoever thy face may set itself.
 
 ### Ezekiel 21:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: And I too will clap my hand to my hand and let my wrath rest. I, the Lord, have spoken.
 - brenton: And I also will clap my hands, and let loose my fury: I the Lord have spoken it.
@@ -186789,8 +186789,8 @@ Note:
 ### Ezekiel 21:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: yes
 - fresh: And the word of the Lord came to me, saying,
 - brenton: And the word of the Lord came to me, saying,
@@ -186798,44 +186798,44 @@ Note:
 ### Ezekiel 21:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: And you, son of man, appoint for yourself two ways for sword of the king of Babylon to enter. From one land both will come out, and hand at the beginning of road, at the beginning of the city’s road.
+- fresh: And you, son of man, appoint for yourself two roads for the sword of the king of Babylon to enter. From one land the two will come out, and a hand will be at the beginning of the road, at the beginning of the city's road.
 - brenton: And thou, son of man, appoint thee two ways, that the sword of the king of Babylon may enter in: the two shall go forth of one country; and there shall be a force at the top of the way of the city, thou shalt set it at the top of the way,
 
 ### Ezekiel 21:25
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 4
+- footnotes: 5
 - same_normalized: no
-- fresh: You will set road for sword to enter upon Rabbah of sons of Ammon and upon Judah and upon Jerusalem in her midst.
+- fresh: You will appoint a road for the sword to enter upon Rabbah of the sons of Ammon and upon Judah and upon Jerusalem in her midst.
 - brenton: that the sword may enter in upon Rabbath of the children of Ammon, and upon Judea, and upon Jerusalem in the midst thereof.
 
 ### Ezekiel 21:26
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 6
+- footnotes: 7
 - same_normalized: no
-- fresh: Because the king of Babylon will stand on old road, at the beginning of two roads, to divine divination, to shake rod, and inquire by carved things and inspect liver. On his right
+- fresh: Because the king of Babylon will stand on the ancient road, at the beginning of the two roads, to divine divination, to shake a rod, and inquire by the carved things and inspect a liver. On his right
 - brenton: For the king of Babylon shall stand on the old way, at the head of the two ways, to use divination, to make bright the arrow, and to enquire of the graven images, and to examine the victims.
 
 ### Ezekiel 21:27
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 5
+- footnotes: 6
 - same_normalized: no
-- fresh: the oracle came to Jerusalem, to cast up trench, to open mouth with shout, to raise voice with cry, to cast up trench against her gates and heap up earth and build missile-stations.
+- fresh: the oracle came against Jerusalem, to cast up a trench, to open mouth with a shout, to raise a voice with a cry, to cast up a trench against her gates and heap up earth and build missile-stations.
 - brenton: On his right was the divination against Jerusalem, to cast a mound, to open the mouth in shouting, to lift up the voice with crying, to cast a mound against her gates, to cast up a heap, and to build forts.
 
 ### Ezekiel 21:28
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And he will be to them like one divining divination before them, and he himself reminding them of his injustices, to be remembered.
 - brenton: And he was to them as one using divination before them, and he himself recounting his iniquities, that they might be borne in mind.
@@ -186843,8 +186843,8 @@ Note:
 ### Ezekiel 21:29
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 4
 - same_normalized: no
 - fresh: Therefore thus says the Lord: Because you brought your injustices to remembrance, when your impieties were uncovered, so that your sins were seen in all your impieties and in your practices, because you were remembered in these things, in them you will be captured.
 - brenton: Therefore thus saith the Lord, Because ye have caused your iniquities to be remembered, in the discovery of your wickedness, so that your sins should be seen, in all your wickedness and in your evil practices; because ye have caused remembrance of them, in these shall ye be taken.
@@ -186855,7 +186855,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, profane lawless leader of Israel, whose day has come in the time of injustice of the end,
+- fresh: And you, profane, lawless leader of Israel, whose day has come, an end in a time of injustice,
 - brenton: And thou profane wicked prince of Israel, whose day, even an end, is come in a season of iniquity, thus saith the Lord;
 
 ### Ezekiel 21:31
@@ -186864,7 +186864,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: thus says the Lord: Remove turban and take off crown. This will not stay this way. You humbled high thing and exalted low thing.
+- fresh: thus says the Lord: Remove the turban and put on the crown. This will not be like this. You humbled the high and exalted the low.
 - brenton: Thou hast taken off the mitre and put on the crown, it shall not have such another after it: thou hast abased that which was high, and exalted that which was low.
 
 ### Ezekiel 21:32
@@ -186888,37 +186888,37 @@ Note:
 ### Ezekiel 21:34
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: while in your vain vision and your false divination, to hand you over on necks of slain lawless ones whose day has come in the time of injustice of the end.
+- fresh: while in your vain vision and your false divination, to hand you over upon the necks of wounded lawless ones whose day has come, an end in a time of injustice.
 - brenton: While thou art seeing vain visions, and while thou art prophesying falsehoods, to bring thyself upon the necks of ungodly transgressors, the day is come, even an end, in a season of iniquity.
 
 ### Ezekiel 21:35
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Turn back. Do not camp here. In place where you were born, in your own land, I will judge you.
+- fresh: Turn back. Do not lodge in this place where you were born; in your own land, I will judge you.
 - brenton: Turn, rest not in this place wherein thou wert born: in thine own land will I judge thee.
 
 ### Ezekiel 21:36
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will pour out my anger upon you; in the fire of my wrath I will blow upon you and hand you over into the hands of barbarous men, crafting destruction.
+- fresh: And I will pour out my wrath upon you; in the fire of my wrath I will blow upon you and hand you over into the hands of barbarous men devising destruction.
 - brenton: And I will pour out my wrath upon thee, I will blow upon thee with the fire of my wrath, and I will deliver thee into the hands of barbarians skilled in working destruction.
 
 ### Ezekiel 21:37
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In fire you will be food for devouring; your blood will be in the midst of your land. There will be no remembrance of you, because I, the Lord, have spoken.
+- fresh: In fire you will be food; your blood will be in the midst of your land. There will be no remembrance of you, because I, the Lord, have spoken.
 - brenton: Thou shalt be fuel for fire; thy blood shall be in the midst of thy land; there shall be no remembrance at all of thee: for I the Lord have spoken it.
 
 ### Ezekiel 22:1
@@ -186933,55 +186933,55 @@ Note:
 ### Ezekiel 22:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you, son of man, if you judge the city of bloods, then show her all her lawless deeds,
+- fresh: And you, son of man, will you judge the city of bloods? Then show her all her lawless deeds,
 - brenton: And thou, son of man, wilt thou judge the bloody city? yea, declare thou to her all her iniquities.
 
 ### Ezekiel 22:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and say, Thus says the Lord God: O city pouring out blood in her midst, so that her time may come, and making thoughts against herself so as to defile herself,
+- fresh: and say, Thus says the Lord God: O city pouring out bloods in her midst, so that her time may come, and making thoughts against herself so as to defile herself,
 - brenton: And thou shalt say, Thus saith the Lord God: O city that sheds blood in the midst of her, so that her time should come, and that forms devices against herself, to defile herself;
 
 ### Ezekiel 22:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: in your bloods which you poured out you have trespassed, and in your thoughts which you made you were defiled, and you drew near your days and brought on time of your years. Because of this I gave you for reproach to nations and for mockery to all lands,
+- fresh: in their bloods that you poured out you have trespassed, and in your thoughts that you made you were defiled; you brought your days near and brought on the time of your years. Because of this I have given you for reproach to nations and for mockery to all lands,
 - brenton: in their blood which thou hast shed, thou hast transgressed; and in thy devices which thou hast formed, thou hast polluted thyself; and thou hast brought nigh thy days, and hast brought on the time of thy years: therefore have I made thee a reproach to the Gentiles, and a mockery to all the countries,
 
 ### Ezekiel 22:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: those near you and those far from you. They will mock you, unclean, well known, and great in lawless deeds.
+- fresh: those near you and those far from you. They will mock you, unclean one, well-known and abundant in lawless deeds.
 - brenton: to those near thee, and to those far distant from thee; and they shall mock thee, thou that art notoriously unclean, and abundant in iniquities.
 
 ### Ezekiel 22:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, leaders of the house of Israel, each with his kin, were mixed up in you so as to pour out blood.
+- fresh: Behold, the leaders of the house of Israel, each with his relatives, were mixed together in you so as to pour out blood.
 - brenton: Behold, the princes of the house of Israel have conspired in thee each one with his kindred, that they might shed blood.
 
 ### Ezekiel 22:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Father and mother they reviled in you, and toward sojourner they behaved unjustly. In you orphan and widow they oppressed.
+- fresh: Father and mother they reviled in you, and toward the sojourner they behaved unjustly. In you they oppressed orphan and widow.
 - brenton: In thee they have reviled father and mother; and in thee they have behaved unjustly toward the stranger: they have oppressed the orphan and widow.
 
 ### Ezekiel 22:8
@@ -186996,19 +186996,19 @@ Note:
 ### Ezekiel 22:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Robber-men were in you so as to pour out blood in you, and on mountains they ate in you; impious things they did in your midst.
+- fresh: Robber men were in you so as to pour out blood in you, and on mountains they ate in you; they did impious things in your midst.
 - brenton: There are robbers in thee, to shed blood in thee; and in thee they have eaten upon the mountains: they have wrought ungodliness in the midst of thee.
 
 ### Ezekiel 22:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Shame of father they uncovered in you, and woman set apart in uncleanness they humbled in you.
+- fresh: A father's shame they uncovered in you, and one set apart in uncleanness they humbled in you.
 - brenton: In thee they have uncovered the father's shame; and in thee they have humbled her that was set apart for uncleanness.
 
 ### Ezekiel 22:11
@@ -187023,28 +187023,28 @@ Note:
 ### Ezekiel 22:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Gifts they took in you so as to pour out blood; interest and excess they took in you, and I completed your evils by oppression, but me you forgot, says the Lord.
+- fresh: Gifts they took in you so as to pour out blood; interest and excess they took in you, and you brought your evil to completion by oppression. But me you forgot, says the Lord.
 - brenton: In thee they have received gifts to shed blood; they have received in thee interest and usurious increase; and by oppression thou hast brought thy wickedness to the full, and hast forgotten me, saith the Lord.
 
 ### Ezekiel 22:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And if I strike hand to hand over what you completed, what you did, and over your bloods that came to be in your midst,
+- fresh: And if I strike my hand to my hand over what you completed, what you did, and over your bloods that have come to be in your midst,
 - brenton: And if I shall smite my hand at thine iniquities which thou hast accomplished, which thou hast wrought, and at thy blood that has been shed in the midst of thee,
 
 ### Ezekiel 22:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: will your heart stand? Will your hands hold strong in days when I act in you? I, the Lord, have spoken and will do it.
+- fresh: will your heart stand? Will your hands be strong in the days when I act in you? I, the Lord, have spoken and will do it.
 - brenton: shall thy heart endure? shall thine hands be strong in the days which I bring upon thee? I the Lord have spoken, and will do it.
 
 ### Ezekiel 22:15
@@ -187059,10 +187059,10 @@ Note:
 ### Ezekiel 22:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will inherit in you before the eyes of nations, and you will know that I am the Lord.
+- fresh: And I will allot inheritances in you before the eyes of nations, and you will know that I am the Lord.
 - brenton: And I will give heritages in thee in the sight of the nations, and ye shall know that I am the Lord.
 
 ### Ezekiel 22:17
@@ -187077,28 +187077,28 @@ Note:
 ### Ezekiel 22:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, behold, house of Israel became to me mixed metal, all of them bronze and iron and tin and lead in the midst of silver; it is mixed metal.
+- fresh: Son of man, behold, the house of Israel has become mixed to me, all of them with bronze and iron and tin and lead in the midst of silver; it is mixed.
 - brenton: Son of man, behold, the house of Israel are all become to me as it were mixed with brass, and iron, and tin, and lead; they are mixed up in the midst of silver.
 
 ### Ezekiel 22:19
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Because you all became one mixture, therefore I gather you into the midst of Jerusalem.
+- fresh: Therefore say, Thus says the Lord: Because you all became one mixture, therefore I receive you into the midst of Jerusalem.
 - brenton: Therefore say, Thus saith the Lord God; Because ye have become one mixture, therefore I will gather you into the midst of Jerusalem.
 
 ### Ezekiel 22:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: As silver and bronze and iron and tin and lead are gathered into the midst of furnace, to blow fire into it so as to melt it, so I will gather you in my anger and draw you together and melt you.
+- fresh: As silver and bronze and iron and tin and lead are received into the midst of a furnace, to blow fire into it so as to be melted, so I will receive you in my wrath and gather and melt you.
 - brenton: As silver, and brass, and iron, and tin, and lead, are gathered into the midst of the furnace, to blow fire into it, that they may be melted: so will I take you in my wrath, and I will gather and melt you.
 
 ### Ezekiel 22:21
@@ -187116,7 +187116,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: As silver is melted in the midst of furnace, so you will be melted in her midst, and you will know that I, the Lord, poured out my wrath upon you.
+- fresh: As silver is melted in the midst of a furnace, so you will be melted in her midst, and you will know that I, the Lord, poured out my wrath upon you.
 - brenton: As silver is melted in the midst of a furnace, so shall ye be melted in the midst thereof; and ye shall know that I the Lord have poured out my wrath upon you.
 
 ### Ezekiel 22:23
@@ -187131,28 +187131,28 @@ Note:
 ### Ezekiel 22:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Son of man, say to her, You are land not rained on, nor did rain come upon you in the day of wrath.
+- fresh: Son of man, say to her, You are a land not rained on, nor did rain come upon you in the day of wrath.
 - brenton: Son of man, say to her, Thou art the land that is not rained upon, neither has rain come upon thee in the day of wrath:
 
 ### Ezekiel 22:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Whose rulers in her midst are like roaring lions seizing plunder, eating souls in oppression, taking honors in injustice, and your widows were multiplied in your midst.
+- fresh: Whose rulers in her midst are like roaring lions seizing plunder, eating souls in oppression, taking payments in injustice, and your widows were multiplied in your midst.
 - brenton: whose princes in the midst of her are as roaring lions seizing prey, devouring souls by oppression, and taking bribes; and thy widows are multiplied in the midst of thee.
 
 ### Ezekiel 22:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And her priests rejected my law and profaned my holy things; between holy and profane they did not distinguish, and between unclean and clean they did not distinguish, and from my Sabbaths they covered their eyes, and I was profaned in their midst.
+- fresh: And her priests rejected my law and profaned my holy things; between the holy and the profane they did not distinguish, and between the unclean and the clean they did not distinguish, and from my Sabbaths they covered their eyes, and I was profaned in their midst.
 - brenton: Her priests also have set at nought my law, and profaned my holy things: they have not distinguished between the holy and profane, nor have they distinguished between the unclean and the clean, and have hid their eyes from my sabbaths, and I was profaned in the midst of them.
 
 ### Ezekiel 22:27
@@ -187167,37 +187167,37 @@ Note:
 ### Ezekiel 22:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And her prophets smearing them over will fall, seeing vain things, divining falsehoods, saying, Thus says the Lord, and the Lord has not spoken.
+- fresh: And her prophets who smear them over will fall, seeing vain things, divining falsehoods, saying, Thus says the Lord, and the Lord has not spoken.
 - brenton: And her prophets that daub them shall fall, that see vanities, that prophesy falsehoods, saying, Thus saith the Lord, when the Lord has not spoken.
 
 ### Ezekiel 22:29
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: The people of the land, oppressing with injustice and plundering plunder, oppressing poor and needy, and toward sojourner not behaving with judgment.
+- fresh: The people of the land were oppressing with injustice and plundering plunder, oppressing the poor and needy, and not behaving toward the sojourner with judgment.
 - brenton: That sorely oppress the people of the land with injustice, and commit robbery; oppressing the poor and needy, and not dealing justly with the stranger.
 
 ### Ezekiel 22:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I sought from them a man walking uprightly and standing wholly before me in time for land, so as not to wipe it out completely, and I did not find one.
+- fresh: And I sought from them a man walking uprightly and standing wholly before me in the time of the land, so as not to wipe it out completely, and I did not find one.
 - brenton: And I sought from among them a man behaving uprightly, and standing before me perfectly in the time of wrath, so that I should not utterly destroy her: but I found him not.
 
 ### Ezekiel 22:31
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I poured out my wrath upon it; in the fire of my anger, to complete, I have put their ways on their heads, says the Lord God.
+- fresh: And I poured out my wrath upon her; in the fire of my wrath, to complete, I have put their ways on their heads, says the Lord God.
 - brenton: So I have poured out my wrath upon her in the fury of mine anger, to accomplish it. I have recompensed their ways on their own heads, saith the Lord God.
 
 ### Ezekiel 23:1
@@ -187230,19 +187230,19 @@ Note:
 ### Ezekiel 23:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And their names were Aholah the elder and Aholibah her sister, and they became mine and bore sons and daughters. And their names: Samaria was Aholah and Jerusalem Aholibah.
+- fresh: And their names were Oola the elder and Ooliba her sister, and they became mine and bore sons and daughters. And their names: Samaria was Oola and Jerusalem Ooliba.
 - brenton: And their names were Oola the elder, and Ooliba her sister: and they were mine, and bore sons and daughters: and as for their names, Samaria was Oola, and Jerusalem was Ooliba.
 
 ### Ezekiel 23:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Aholah whored away from me and set herself on her lovers, on Assyrians near her,
+- fresh: And Oola whored away from me and set herself on her lovers, on Assyrians near her,
 - brenton: And Oola went a-whoring from me, and doted on her lovers, on the Assyrians that were her neighbours,
 
 ### Ezekiel 23:6
@@ -187266,10 +187266,10 @@ Note:
 ### Ezekiel 23:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And her whoring from Egypt she did not leave, because with her they lay in her youth and they deflowered her and poured out their whoring on her.
+- fresh: And her whoring from Egypt she did not leave, because they lay with her in her youth, and they also deflowered her and poured out their whoring upon her.
 - brenton: And she forsook not her fornication with the Egyptians: for in her youth they committed fornication with her, and they deflowered her, and poured out their fornication upon her.
 
 ### Ezekiel 23:9
@@ -187284,28 +187284,28 @@ Note:
 ### Ezekiel 23:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They uncovered her shame, took her sons and daughters, and killed her by sword, and she became a byword among women, and they did vengeance in her among the daughters.
+- fresh: They uncovered her shame; they took her sons and daughters, and her they killed with sword. And she became a byword among women, and they carried out acts of vengeance against her among the daughters.
 - brenton: They uncovered her shame: they took her sons and daughters, and slew her with the sword: and she became a byword among women; and they wrought vengeance in her for the sake of the daughters.
 
 ### Ezekiel 23:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And her sister Aholibah saw and corrupted her desire beyond her and her whoring beyond whoring of her sister.
+- fresh: And her sister Ooliba saw and corrupted her desire beyond hers and her whoring beyond her sister's whoring.
 - brenton: And her sister Ooliba saw it, and she indulged in her fondness more corruptly than she, and in her fornication more than the fornication of her sister.
 
 ### Ezekiel 23:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: She set herself on sons of Assyria, leaders and generals near her, clothed with fine border, horsemen riding on horses, choice young men all.
+- fresh: She set herself on sons of Assyria, leaders and generals near her, clothed in fine-bordered garments, horsemen riding on horses, choice young men all.
 - brenton: She doted upon the sons of the Assyrians, princes and captains, her neighbours, clothed with fine linen, horsemen riding on horses; they were all choice young men.
 
 ### Ezekiel 23:13
@@ -187314,25 +187314,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I saw that they were defiled; one way belonged to both.
+- fresh: And I saw that they were defiled; one way belonged to them both.
 - brenton: And I saw that they were defiled, that the two had one way.
 
 ### Ezekiel 23:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And she added to her whoring, and saw men painted on wall, images of Chaldeans drawn with stylus,
+- fresh: And she added to her whoring, and saw men painted on a wall, images of Chaldeans drawn with stylus,
 - brenton: And she increased her fornication, and she saw men painted on the wall, likenesses of the Chaldeans painted with a pencil,
 
 ### Ezekiel 23:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: girded with patterned belts on their loins and dyed tiaras on their heads, all with princely appearance, likeness of sons of Chaldea, their native land.
+- fresh: girded with embroidered work on their loins and dyed tiaras on their heads, all with princely appearance, likeness of sons of Chaldea, their native land.
 - brenton: having variegated girdles on their loins, having also richly dyed attire upon their heads; all had a princely appearance, the likeness of the children of the Chaldeans, of their native land.
 
 ### Ezekiel 23:16
@@ -187341,16 +187341,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And she set herself on them at sight of her eyes and sent messengers to them into the land of Chaldeans.
+- fresh: And she set herself on them at the sight of her eyes and sent messengers to them into the land of Chaldeans.
 - brenton: And she doted upon them as soon as she saw them, and sent forth messengers to them into the land of the Chaldeans.
 
 ### Ezekiel 23:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And sons of Babylon came to her into bed of lying down and defiled her in her whoring, and she was defiled by them, and her soul turned away from them.
+- fresh: And sons of Babylon came to her into a lodging bed and defiled her in her whoring, and she was defiled by them, and her soul turned away from them.
 - brenton: And the sons of Babylon came to her, into the bed of rest, and they defiled her in her fornication, and she was defiled by them, and her soul was alienated from them.
 
 ### Ezekiel 23:18
@@ -187365,64 +187365,64 @@ Note:
 ### Ezekiel 23:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you multiplied your whoring, to remember days of your youth in which you whored in Egypt.
+- fresh: And you multiplied your whoring so as to remember the days of your youth in which you whored in Egypt.
 - brenton: And thou didst multiply thy fornication, so as to call to remembrance the days of thy youth, wherein thou didst commit whoredom in Egypt,
 
 ### Ezekiel 23:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you desired Chaldeans, whose flesh was like flesh of donkeys and whose genitals were genitals of horses.
+- fresh: And you longed for Chaldeans, whose flesh was like that of donkeys and whose genitals were genitals of horses.
 - brenton: and thou didst dote upon the Chaldeans, whose flesh is as the flesh of asses, and their members as the members of horses.
 
 ### Ezekiel 23:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you visited lawlessness of your youth, what you did in Egypt, in your lodging, where breasts of your youth were.
+- fresh: And you revisited the lawlessness of your youth, what you did in Egypt, in your lodging, where your youthful breasts were.
 - brenton: And thou didst look upon the iniquity of thy youth, the things which thou wroughtest in Egypt in thy lodging, where were the breasts of thy youth.
 
 ### Ezekiel 23:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore, Aholibah, thus says the Lord: Behold, I stir up your lovers against you, those from whom your soul turned away, and I will bring them upon you from all around,
+- fresh: Therefore, Ooliba, thus says the Lord: Behold, I stir up your lovers against you, those from whom your soul turned away, and I will bring them upon you from all around,
 - brenton: Therefore, Ooliba, thus saith the Lord; Behold, I will stir up thy lovers against thee, from whom thy soul is alienated, and I will bring them upon thee round about,
 
 ### Ezekiel 23:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: sons of Babylon and all Chaldeans, Pekod and Shoa and Koa, and all sons of Assyria with them, choice young men, governors and generals, all nobles and men of name, riding on horses.
+- fresh: sons of Babylon and all Chaldeans, Phakoud and Sue and Kue, and all sons of Assyria with them, choice young men, governors and generals, all nobles and men of name, riding on horses.
 - brenton: the children of Babylon, and all the Chaldeans, Phacuc, and Sue, and Hychue, and all the sons of the Assyrians with them; choice young men, governors and captains, all princes and renowned, riding on horses.
 
 ### Ezekiel 23:24
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And all will come against you from north, chariots and wheels with crowd of peoples; shield and buckler and they will set guard against you around, and I will set judgment before them and they will avenge you by their judgments.
+- fresh: And all will come against you from the north, chariots and wheels with a crowd of peoples; shields and bucklers, and they will set a guard against you all around. And I will set judgment before them, and they will take vengeance on you by their judgments.
 - brenton: And they all shall come upon thee from the north, chariots and wheels, with a multitude of nations, shields and targets; and the enemy shall set a watch against thee round about: and I will set judgment before them, and they shall take vengeance on thee with their judgments.
 
 ### Ezekiel 23:25
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will set my jealousy in you, and they will act with you in a fury of wrath. Your nose and your ears they will remove, and your remnant they will cast down by sword. They will take your sons and daughters, and your remnant fire will devour.
+- fresh: And I will set my jealousy against you, and they will deal with you in a fury of wrath. Your nose and your ears they will remove, and your remnant they will cast down by sword. They will take your sons and daughters, and fire will devour your remnant.
 - brenton: And I will bring upon thee my jealousy, and they shall deal with thee in great wrath: they shall take away thy nose and thine ears; and shall cast down thy remnant with the sword: they shall take thy sons and thy daughters; and thy remnant fire shall devour.
 
 ### Ezekiel 23:26
@@ -187440,7 +187440,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will turn your impieties away from you and your whoring from the land of Egypt, and you will not lift your eyes to them, and Egypt you will remember no more.
+- fresh: And I will turn your impieties away from you, and your whoring from the land of Egypt; and you will not lift your eyes to them, and Egypt you will remember no more.
 - brenton: So I will turn back thine ungodliness from thee, and thy fornication from the land of Egypt: and thou shalt not lift up thine eyes upon them, and shalt no more remember Egypt.
 
 ### Ezekiel 23:28
@@ -187455,10 +187455,10 @@ Note:
 ### Ezekiel 23:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and they will deal with you in hatred and take all your gains and your toil, and you will be naked and unseemly, and shame of your whoring will be uncovered, and your impiety and your whoring.
+- fresh: and they will deal with you in hatred and take all your labors and your toils, and you will be naked and disgraced, and the shame of your whoring, your impiety, and your whoring will be uncovered.
 - brenton: And they shall deal with thee in hatred, and shall take all the fruits of thy labours and thy toils, and thou shalt be naked and bare: and the shame of thy fornication shall be exposed: and thy ungodliness and thy fornication
 
 ### Ezekiel 23:30
@@ -187476,16 +187476,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In the way of your sister you walked, and I will put her cup in your hands.
+- fresh: You walked in the way of your sister, and I will put her cup in your hands.
 - brenton: Thou didst walk in the way of thy sister; and I will put her cup into thine hands.
 
 ### Ezekiel 23:32
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord: Cup of your sister you will drink, deep and broad, overflowing so as to destroy.
+- fresh: Thus says the Lord: You will drink the cup of your sister, deep and broad, overflowing so as to make an end.
 - brenton: Thus saith the Lord; Drink thy sister's cup, deep and large, and full, to cause complete drunkenness.
 
 ### Ezekiel 23:33
@@ -187494,7 +187494,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: With drunkenness and collapse you will be filled, cup of desolation, cup of your sister Samaria.
+- fresh: You will be filled with drunkenness and collapse, a cup of desolation, the cup of your sister Samaria.
 - brenton: And thou shalt be thoroughly weakened; and the cup of destruction, the cup of thy sister Samaria,
 
 ### Ezekiel 23:34
@@ -187509,19 +187509,19 @@ Note:
 ### Ezekiel 23:35
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore thus says the Lord: Because you forgot me and threw me behind your body, you also bear your impiety and your whoring.
+- fresh: Therefore thus says the Lord: Because you forgot me and cast me behind your body, you also receive your impiety and your whoring.
 - brenton: Therefore thus saith the Lord; Because thou hast forgotten me, and cast me behind thy back, therefore receive thou the reward of thine ungodliness and thy fornication.
 
 ### Ezekiel 23:36
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me, Son of man, will you not judge Aholah and Aholibah and announce to them their lawless deeds?
+- fresh: And the Lord said to me, Son of man, will you not judge Oola and Ooliba and announce to them their lawless deeds?
 - brenton: And the Lord said to me; Son of man, wilt thou not judge Oola and Ooliba? and declare to them their iniquities?
 
 ### Ezekiel 23:37
@@ -187536,10 +187536,10 @@ Note:
 ### Ezekiel 23:38
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And these things they did to me: my holy things they defiled and my Sabbaths they profaned.
+- fresh: Even these things they did to me: my holy things they defiled and my Sabbaths they profaned.
 - brenton: So long too as they did these things to me, they defiled my sanctuary, and profaned my sabbaths.
 
 ### Ezekiel 23:39
@@ -187563,10 +187563,10 @@ Note:
 ### Ezekiel 23:41
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you sat on bed spread out, and table adorned before it, and my incense and my oil rejoiced among them.
+- fresh: And you sat on a spread bed, and an adorned table was before her, and my incense and my oil were enjoyed among them.
 - brenton: and satest on a prepared bed, and before it there was a table set out, and as for mine incense and mine oil, they rejoiced in them,
 
 ### Ezekiel 23:42
@@ -187575,43 +187575,43 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the sound of harmony they struck up, and to men from the multitude of the people coming from the wilderness they put bracelets on their hands and crown of boasting on their heads.
+- fresh: And they struck up the sound of harmony, and to men from the multitude of the people coming from the wilderness they put bracelets on their hands and a crown of boasting on their heads.
 - brenton: and they raised a sound of music, and that with men coming from the wilderness out of a multitude of men, and they put bracelets on their hands, and a crown of glory on their heads;
 
 ### Ezekiel 23:43
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, Are they committing adultery in these things? Works of prostitute, and she whored.
+- fresh: And I said, Are they not committing adultery in these things? Works of a prostitute, and she whored.
 - brenton: Therefore I said, Do they not commit adultery with these? and has she also gone a-whoring after the manner of a harlot?
 
 ### Ezekiel 23:44
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they went in to her as they go in to prostitute woman; so they went in to Aholah and to Aholibah, to do lawlessness.
+- fresh: And they went in to her as they go in to a prostitute woman; so they went in to Oola and to Ooliba, to do lawlessness.
 - brenton: And they went in to her, as men go in to a harlot; so they went in to Oola and to Ooliba to work iniquity.
 
 ### Ezekiel 23:45
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And righteous men, they will avenge them with the vengeance of adulteress and vengeance of blood, because they are adulteresses and blood is in their hands.
+- fresh: And righteous men, they will take vengeance on them with the vengeance of adulteress and vengeance of blood, because they are adulteresses and blood is in their hands.
 - brenton: And they are just men, and shall take vengeance on them with the judgment of an adulteress and the judgment of blood: for they are adulteresses, and blood is in their hands.
 
 ### Ezekiel 23:46
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord God: Bring up against them crowd and give in them turmoil and plundering.
+- fresh: Thus says the Lord God: Bring up a crowd against them and give among them turmoil and plundering.
 - brenton: Thus saith the Lord God, Bring up a multitude upon them, and send trouble and plunder into the midst of them.
 
 ### Ezekiel 23:47
@@ -187620,7 +187620,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And stone them with stones of crowds and spear them with their swords. Their sons and their daughters they will kill, and their houses they will burn with fire.
+- fresh: And stone them with stones of crowds and pierce them with their swords. Their sons and their daughters they will kill, and their houses they will burn with fire.
 - brenton: And stone them with the stones of a multitude, and pierce them with their swords: they shall slay their sons and their daughters, and shall burn up their houses.
 
 ### Ezekiel 23:48
@@ -187629,16 +187629,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will turn impiety away from the land, and all women will be instructed and will not do according to their impieties.
+- fresh: And I will turn impiety away from the land, and all women will be disciplined and will not act according to their impieties.
 - brenton: And I will remove ungodliness out of the land, and all the women shall be instructed, and shall not do according to their ungodliness.
 
 ### Ezekiel 23:49
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And your impiety will be given upon you, and sins of your thoughts you will bear, and you will know that I am the Lord.
+- fresh: And your impiety will be given upon you, and the sins of your thoughts you will receive, and you will know that I am the Lord.
 - brenton: And your ungodliness shall be recompensed upon you, and ye shall bear the guilt of your devices: and ye shall know that I am the Lord.
 
 ### Ezekiel 24:1
