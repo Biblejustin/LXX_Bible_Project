@@ -197566,25 +197566,25 @@ Note:
 ### Hosea 7:1
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: When I heal Israel, injustice of Ephraim and evil of Samaria will be uncovered, because they worked lies, and thief will enter to him, stripping robber on his road.
+- fresh: When I heal Israel, injustice of Ephraim and evil of Samaria will be uncovered, because they worked lies, and a thief will enter to him, a robber stripping on his road.
 - brenton: When I have healed Israel, then shall the iniquity of Ephraim be revealed, and the wickedness of Samaria; for they have wrought falsehood: and a thief shall come in to him, even a robber spoiling in his way;
 
 ### Hosea 7:2
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: So that they may sing together as those agreeing in their heart all their evils; I remembered them now; their counsels surrounded them; they came to be before my face.
+- fresh: So that they may sing together as those singing in their heart; I remembered all their evils. Now their counsels surrounded them; they came to be before my face.
 - brenton: that they may concert together as men singing in their heart: I remember all their wickedness: now have their own counsels compassed them about; they came before my face.
 
 ### Hosea 7:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: By their evils they gladdened kings, and by their lies rulers.
@@ -197593,34 +197593,34 @@ Note:
 ### Hosea 7:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: All adulterers, like an oven burning for baking of a heated loaf, from the flame, from kneading the fat until it is leavened.
+- fresh: They are all adulterers, like an oven burning for baking of a heated loaf, from the flame, from kneading the fat until it is leavened.
 - brenton: They are all adulterers, as an oven glowing with flame for hot-baking, on account of the kneading of the dough, until it is leavened.
 
 ### Hosea 7:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Days of your kings began, and rulers grew angry from wine; he stretched out his hand with pestilent ones.
+- fresh: In the days of your kings the rulers began to be inflamed from wine; he stretched out his hand with pestilent ones.
 - brenton: In the days of our kings, the princes began to be inflamed with wine: he stretched out his hand with pestilent fellows.
 
 ### Hosea 7:6
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: Because their hearts burned like an oven when cursing them. All night Ephraim slept its fill; in morning it became blazing like a light of fire.
+- fresh: Because their hearts were kindled like an oven while they raged all night; Ephraim was filled with sleep. Morning came; it was kindled like a light of fire.
 - brenton: Wherefore their hearts are inflamed as an oven, while they rage all the night: Ephraim is satisfied with sleep; the morning is come; he is burnt up as a flame of fire.
 
 ### Hosea 7:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: All grew hot like an oven and devoured their judges; all their kings fell; there was none among them calling toward me.
@@ -197629,16 +197629,16 @@ Note:
 ### Hosea 7:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Ephraim mingled itself with its peoples; Ephraim became a hidden cake not turned.
+- fresh: Ephraim mingled itself among his peoples; Ephraim became a cake not turned.
 - brenton: Ephraim is mixed among his people; Ephraim became a cake not turned.
 
 ### Hosea 7:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Foreigners devoured his strength, but he did not know, and gray hairs blossomed on him, and he did not know.
@@ -197647,7 +197647,7 @@ Note:
 ### Hosea 7:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And the arrogance of Israel will be humbled before his face, and they did not return to the Lord their God, and they did not seek him in all these things.
@@ -197656,25 +197656,25 @@ Note:
 ### Hosea 7:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And Ephraim was like foolish dove having no heart; they called on Egypt and went to Assyrians.
+- fresh: And Ephraim was like a foolish dove having no heart; he called on Egypt and they went to Assyrians.
 - brenton: And Ephraim was as a silly dove, not having a heart: he called to Egypt, and they went to the Assyrians.
 
 ### Hosea 7:12
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: As they go, I will cast my net on them; like birds of heaven I will bring them down; I will discipline them by hearing of their affliction.
+- fresh: As they go, I will cast my net on them; like birds of heaven I will bring them down; I will discipline them with the report of their affliction.
 - brenton: Whenever they shall go, I will cast my net upon them; I will bring them down as the birds of the sky, I will chasten them with the rumour of their coming affliction.
 
 ### Hosea 7:13
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
 - fresh: Woe to them, because they leaped away from me. They are cowardly because they acted impiously toward me. But I redeemed them, and they spoke lies against me.
@@ -197683,16 +197683,16 @@ Note:
 ### Hosea 7:14
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And their hearts did not cry to me, but they howled on their beds; for grain and wine they cut themselves; they were trained in me.
+- fresh: And their hearts did not cry to me, but they howled on their beds; for grain and wine they cut themselves; they were disciplined by me.
 - brenton: And their hearts did not cry to me, but they howled on their beds: they pined for oil and wine.
 
 ### Hosea 7:15
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And I strengthened their arms, but toward me they reckoned evil things.
@@ -197701,10 +197701,10 @@ Note:
 ### Hosea 7:16
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: They turned aside to nothing; they became like a bent bow. Their rulers will fall by sword because of undisciplined tongue. This is their scorn in the land of Egypt.
+- fresh: They turned aside to nothing; they became like a bent bow. Their rulers will fall by sword because of their undisciplined tongue. This is their scorn in the land of Egypt.
 - brenton: They turned aside to that which is not, they became as a bent bow: their princes shall fall by the sword, by reason of the unbridled state of their tongue: this is their setting at nought in the land of Egypt.
 
 ### Hosea 8:1

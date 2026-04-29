@@ -89570,11 +89570,11 @@ Begin to gather grapes for yourself when I turn back captivity of my people.
 
 **Hosea 7:1**
 
-When I heal Israel, injustice of Ephraim and evil of Samaria will be uncovered, because they worked lies, and thief will enter to him, stripping robber on his road.
+When I heal Israel, injustice of Ephraim and evil of Samaria will be uncovered, because they worked lies, and a thief will enter to him, a robber stripping on his road.
 
 **Hosea 7:2**
 
-So that they may sing together as those agreeing in their heart all their evils; I remembered them now; their counsels surrounded them; they came to be before my face.
+So that they may sing together as those singing in their heart; I remembered all their evils. Now their counsels surrounded them; they came to be before my face.
 
 **Hosea 7:3**
 
@@ -89582,15 +89582,15 @@ By their evils they gladdened kings, and by their lies rulers.
 
 **Hosea 7:4**
 
-All adulterers, like an oven burning for baking of a heated loaf, from the flame, from kneading the fat until it is leavened.
+They are all adulterers, like an oven burning for baking of a heated loaf, from the flame, from kneading the fat until it is leavened.
 
 **Hosea 7:5**
 
-Days of your kings began, and rulers grew angry from wine; he stretched out his hand with pestilent ones.
+In the days of your kings the rulers began to be inflamed from wine; he stretched out his hand with pestilent ones.
 
 **Hosea 7:6**
 
-Because their hearts burned like an oven when cursing them. All night Ephraim slept its fill; in morning it became blazing like a light of fire.
+Because their hearts were kindled like an oven while they raged all night; Ephraim was filled with sleep. Morning came; it was kindled like a light of fire.
 
 **Hosea 7:7**
 
@@ -89598,7 +89598,7 @@ All grew hot like an oven and devoured their judges; all their kings fell; there
 
 **Hosea 7:8**
 
-Ephraim mingled itself with its peoples; Ephraim became a hidden cake not turned.
+Ephraim mingled itself among his peoples; Ephraim became a cake not turned.
 
 **Hosea 7:9**
 
@@ -89610,11 +89610,11 @@ And the arrogance of Israel will be humbled before his face, and they did not re
 
 **Hosea 7:11**
 
-And Ephraim was like foolish dove having no heart; they called on Egypt and went to Assyrians.
+And Ephraim was like a foolish dove having no heart; he called on Egypt and they went to Assyrians.
 
 **Hosea 7:12**
 
-As they go, I will cast my net on them; like birds of heaven I will bring them down; I will discipline them by hearing of their affliction.
+As they go, I will cast my net on them; like birds of heaven I will bring them down; I will discipline them with the report of their affliction.
 
 **Hosea 7:13**
 
@@ -89622,7 +89622,7 @@ Woe to them, because they leaped away from me. They are cowardly because they ac
 
 **Hosea 7:14**
 
-And their hearts did not cry to me, but they howled on their beds; for grain and wine they cut themselves; they were trained in me.
+And their hearts did not cry to me, but they howled on their beds; for grain and wine they cut themselves; they were disciplined by me.
 
 **Hosea 7:15**
 
@@ -89630,7 +89630,7 @@ And I strengthened their arms, but toward me they reckoned evil things.
 
 **Hosea 7:16**
 
-They turned aside to nothing; they became like a bent bow. Their rulers will fall by sword because of undisciplined tongue. This is their scorn in the land of Egypt.
+They turned aside to nothing; they became like a bent bow. Their rulers will fall by sword because of their undisciplined tongue. This is their scorn in the land of Egypt.
 
 ### Chapter 8
 
