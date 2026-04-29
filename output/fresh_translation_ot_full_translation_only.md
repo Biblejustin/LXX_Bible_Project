@@ -87272,11 +87272,11 @@ And he brought me back by way of the outer gate of the sanctuary, the one facing
 
 **Ezekiel 44:2**
 
-And the Lord said to me, This gate will remain shut; it will not be opened, and no one will pass through it, because the Lord God of Israel entered through it, and it will remain shut.
+And the Lord said to me, This gate will be shut; it will not be opened, and no one will pass through it, because the Lord God of Israel will enter through it, and it will be shut.
 
 **Ezekiel 44:3**
 
-As for the ruler, he will sit in it to eat bread before the Lord; by way of the porch of the gate he will enter, and by its way he will go out.
+For this ruler will sit in it to eat bread before the Lord; by way of the porch of the gate he will enter, and by that way he will go out.
 
 **Ezekiel 44:4**
 
@@ -87284,19 +87284,19 @@ And he brought me by way of the north gate opposite the house, and I saw, and be
 
 **Ezekiel 44:5**
 
-And the Lord said to me, Son of man, set your heart and see with your eyes and hear with your ears all that I speak with you about all ordinances of the house of the Lord and all its laws; set your heart on entrance of the house, with all its exits in all holy things.
+And the Lord said to me, Son of man, set your heart and see with your eyes and hear with your ears all that I speak with you according to all the commands of the house of the Lord and all its statutes; set your heart on the entrance of the house, according to all its exits in all the holy things.
 
 **Ezekiel 44:6**
 
-And you will say to the rebellious house, to the house of Israel, Thus says the Lord God: Enough for you from all your lawless acts, house of Israel,
+And you will say to the embittering house, to the house of Israel, Thus says the Lord God: Let it be enough for you from all your lawless acts, house of Israel,
 
 **Ezekiel 44:7**
 
-in bringing in foreign sons, uncircumcised in heart and uncircumcised in flesh, to be in my holy things, and they profaned them when you offered my bread, fat and blood, and you broke my covenant in all your lawless acts.
+that you brought in foreign sons, uncircumcised in heart and uncircumcised in flesh, to be in my holy things, and they profaned them when you offered bread, fat, and blood, and you broke my covenant in all your lawless acts.
 
 **Ezekiel 44:8**
 
-And you did not keep charges of my holy things, but you appointed them as keepers of my charge in my holy place.
+And you appointed them to keep charges in my holy things.
 
 **Ezekiel 44:9**
 
@@ -87304,91 +87304,91 @@ Therefore thus says the Lord God: No foreign son, uncircumcised in heart and unc
 
 **Ezekiel 44:10**
 
-But the Levites who went far from me when Israel went astray from me after their thoughts, they will bear their injustice.
+But the Levites who departed far from me when Israel went astray from me after their thoughts, they will bear their injustice.
 
 **Ezekiel 44:11**
 
-And they will be in my holy things, serving as doorkeepers at the gates of the house and ministering to the house; they will slaughter burnt offerings and sacrifices for the people, and they will stand before the people to minister to them.
+And they will be in my holy things, serving as doorkeepers at the gates of the house and ministering to the house; they will slaughter the whole burnt offerings and the sacrifices for the people, and they will stand before the people to minister to them.
 
 **Ezekiel 44:12**
 
-Because they ministered to them before their idols and became to the house of Israel a punishment of injustice, therefore I raised my hand against them, says the Lord God.
+Because they ministered to them before their idols and it became a punishment of injustice to the house of Israel, therefore I raised my hand against them, says the Lord God.
 
 **Ezekiel 44:13**
 
-And they will not come near me to serve as priests to me, nor to bring near holy things of sons of Israel, nor to my holy of holies, and they will bear their dishonor in their wandering by which they wandered.
+And they will not come near me to serve as priests to me, nor to bring near the holy things of the sons of Israel, nor to my holy of holies, and they will bear their dishonor in the wandering by which they wandered.
 
 **Ezekiel 44:14**
 
-And I will appoint them to keep charges of the house, for all its works and for all that will be done there.
+And they will appoint them to keep charges of the house, for all its works and for all that they may do.
 
 **Ezekiel 44:15**
 
-But the Levitical priests, sons of Zadok, who kept the charges of my holy things when the house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says the Lord God.
+But the Levitical priests, the sons of Zadok, who kept the charges of my holy things when the house of Israel went astray from me, these will come near me to minister to me and stand before my face to offer me sacrifice, fat, and blood, says the Lord God.
 
 **Ezekiel 44:16**
 
-They will enter my holy things, and they will approach my table to minister to me, and they will keep my charges.
+These will enter my holy things, and these will approach my table to minister to me, and they will keep my charges.
 
 **Ezekiel 44:17**
 
-And when they enter gates of the inner court, they will put on linen garments; they will not wear wool when they minister from the gate of the inner court.
+And when they enter the gates of the inner court, they will put on linen garments; they will not wear wool when they minister from the gate of the inner court.
 
 **Ezekiel 44:18**
 
-Linen turbans will be on their heads and linen undergarments on their loins; they will not gird themselves with anything causing sweat.
+They will have linen turbans on their heads and linen undergarments on their loins; they will not gird themselves tightly.
 
 **Ezekiel 44:19**
 
-And when they go out into outer court to the people, they will take off the garments in which they minister and place them in the chambers of the holy things, and they will put on other garments, so that they do not sanctify the people with their garments.
+And when they go out into the outer court to the people, they will take off the garments in which they minister and place them in the chambers of the holy things, and they will put on other garments, and they will not sanctify the people with their garments.
 
 **Ezekiel 44:20**
 
-They will not shave their heads and they will not let their hair hang loose; they will carefully trim their heads.
+They will not shave their heads and they will not strip their hair bare; they will surely cover their heads.
 
 **Ezekiel 44:21**
 
-No priest will drink wine when they enter the inner court.
+No priest will drink any wine when they enter the inner court.
 
 **Ezekiel 44:22**
 
-They will not take widow or divorced woman for wife, except a virgin from the seed of the house of Israel; but a widow, if she is widow of a priest, they may take.
+They will not take a widow or a woman put away as a wife, except a virgin from the seed of Israel; but a widow, if she is from a priest, they may take.
 
 **Ezekiel 44:23**
 
-They will teach my people the difference between holy and common, and between unclean and clean they will make known to them.
+They will teach my people the difference between holy and profane, and between unclean and clean they will make known to them.
 
 **Ezekiel 44:24**
 
-And in judgment of blood they will stand to judge; with my ordinances they will judge it, and my laws and my commands in all my feasts they will keep, and my Sabbaths they will hallow.
+And these will stand over a judgment of blood to decide; they will uphold my ordinances and judge my judgments, and they will keep my statutes and my commands in all my feasts, and my Sabbaths they will hallow.
 
 **Ezekiel 44:25**
 
-They will not go in to a dead human to defile themselves, except for father or mother or son or daughter or brother or sister who has had no husband; for them he may be defiled.
+They will not go in to a dead body of a human to defile themselves, except for father or mother or son or daughter or brother or his sister who has had no husband; for these he may be defiled.
 
 **Ezekiel 44:26**
 
-And after he is cleansed, seven days they will count for him.
+And after he has been cleansed, he will count seven days for himself.
 
 **Ezekiel 44:27**
 
-And on the day he enters the inner court to minister in the holy place, he will bring his atonement, says the Lord God.
+And on whatever day they enter into the inner court to minister in the holy place, they will bring atonement, says the Lord God.
 
 **Ezekiel 44:28**
 
-And it will be to them for inheritance: I am their inheritance; no possession will be given them among sons of Israel, because I am their possession.
+And it will be to them for inheritance: I am their inheritance; no possession will be given them among the sons of Israel, because I am their possession.
 
 **Ezekiel 44:29**
 
-The sacrifices and the things for sin and the things for ignorance they will eat, and every devoted thing in Israel will be theirs.
+These will eat the sacrifices and the things for sin and the things for ignorance, and every devoted thing in Israel will be theirs.
 
 **Ezekiel 44:30**
 
-Firstfruits of all things and firstborn of all things and every contribution from all your firstfruits will be the priests'. And the first of your dough you will give to the priest, to set your blessings on your houses.
+Firstfruits of all things and firstborn of all things and every contribution from all your firstfruits will be the priests'. And your first produce you will give to the priest, to set your blessings on your houses.
 
 **Ezekiel 44:31**
 
-Anything that dies of itself or is torn, from birds or from livestock, the priests will not eat.
+Anything that dies of itself or is caught by wild animals, from birds or from livestock, the priests will not eat.
 
 ### Chapter 45
 

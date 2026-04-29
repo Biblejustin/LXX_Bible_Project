@@ -192504,19 +192504,19 @@ Note:
 ### Ezekiel 44:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me, This gate will remain shut; it will not be opened, and no one will pass through it, because the Lord God of Israel entered through it, and it will remain shut.
+- fresh: And the Lord said to me, This gate will be shut; it will not be opened, and no one will pass through it, because the Lord God of Israel will enter through it, and it will be shut.
 - brenton: And the Lord said to me, This gate shall be shut, it shall not be opened, and no one shall pass through it; for the Lord God of Israel shall enter by it, and it shall be shut.
 
 ### Ezekiel 44:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: As for the ruler, he will sit in it to eat bread before the Lord; by way of the porch of the gate he will enter, and by its way he will go out.
+- fresh: For this ruler will sit in it to eat bread before the Lord; by way of the porch of the gate he will enter, and by that way he will go out.
 - brenton: For the prince, he shall sit in it, to eat bread before the Lord; he shall go in by the way of the porch of the gate, and shall go forth by the way of the same.
 
 ### Ezekiel 44:4
@@ -192531,37 +192531,37 @@ Note:
 ### Ezekiel 44:5
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to me, Son of man, set your heart and see with your eyes and hear with your ears all that I speak with you about all ordinances of the house of the Lord and all its laws; set your heart on entrance of the house, with all its exits in all holy things.
+- fresh: And the Lord said to me, Son of man, set your heart and see with your eyes and hear with your ears all that I speak with you according to all the commands of the house of the Lord and all its statutes; set your heart on the entrance of the house, according to all its exits in all the holy things.
 - brenton: And the Lord said to me, Son of man, attend with thine heart, and see with thine eyes, and hear with thine ears all that I say to thee, according to all the ordinances of the house of the Lord, and all the regulations thereof; and thou shalt attend well to the entrance of the house, according to all its outlets, in all the holy things.
 
 ### Ezekiel 44:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And you will say to the rebellious house, to the house of Israel, Thus says the Lord God: Enough for you from all your lawless acts, house of Israel,
+- fresh: And you will say to the embittering house, to the house of Israel, Thus says the Lord God: Let it be enough for you from all your lawless acts, house of Israel,
 - brenton: And thou shalt say to the provoking house, even to the house of Israel, Thus saith the Lord God; Let it suffice you to have committed all your iniquities, O house of Israel!
 
 ### Ezekiel 44:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: in bringing in foreign sons, uncircumcised in heart and uncircumcised in flesh, to be in my holy things, and they profaned them when you offered my bread, fat and blood, and you broke my covenant in all your lawless acts.
+- fresh: that you brought in foreign sons, uncircumcised in heart and uncircumcised in flesh, to be in my holy things, and they profaned them when you offered bread, fat, and blood, and you broke my covenant in all your lawless acts.
 - brenton: that ye have brought in aliens, uncircumcised in heart, and uncircumcised in flesh, to be in my sanctuary, and to profane it, when ye offered bread, flesh, and blood; and ye transgressed my covenant by all your iniquities;
 
 ### Ezekiel 44:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you did not keep charges of my holy things, but you appointed them as keepers of my charge in my holy place.
+- fresh: And you appointed them to keep charges in my holy things.
 - brenton: and ye appointed others to keep the charges in my sanctuary.
 
 ### Ezekiel 44:9
@@ -192576,199 +192576,199 @@ Note:
 ### Ezekiel 44:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But the Levites who went far from me when Israel went astray from me after their thoughts, they will bear their injustice.
+- fresh: But the Levites who departed far from me when Israel went astray from me after their thoughts, they will bear their injustice.
 - brenton: But as for the Levites who departed far from me when Israel went astray from me after their imaginations, they shall even bear their iniquity.
 
 ### Ezekiel 44:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will be in my holy things, serving as doorkeepers at the gates of the house and ministering to the house; they will slaughter burnt offerings and sacrifices for the people, and they will stand before the people to minister to them.
+- fresh: And they will be in my holy things, serving as doorkeepers at the gates of the house and ministering to the house; they will slaughter the whole burnt offerings and the sacrifices for the people, and they will stand before the people to minister to them.
 - brenton: Yet they shall minister in my sanctuary, being porters at the gates of the house, and serving the house: they shall slay the victims and the whole-burnt-offerings for the people, and they shall stand before the people to minister to them.
 
 ### Ezekiel 44:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Because they ministered to them before their idols and became to the house of Israel a punishment of injustice, therefore I raised my hand against them, says the Lord God.
+- fresh: Because they ministered to them before their idols and it became a punishment of injustice to the house of Israel, therefore I raised my hand against them, says the Lord God.
 - brenton: Because they ministered to them before their idols, and it became to the house of Israel a punishment of iniquity; therefore have I lifted up my hand against them, saith the Lord God.
 
 ### Ezekiel 44:13
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will not come near me to serve as priests to me, nor to bring near holy things of sons of Israel, nor to my holy of holies, and they will bear their dishonor in their wandering by which they wandered.
+- fresh: And they will not come near me to serve as priests to me, nor to bring near the holy things of the sons of Israel, nor to my holy of holies, and they will bear their dishonor in the wandering by which they wandered.
 - brenton: And they shall not draw nigh to me to minister to me in the priests' office, nor to approach the holy things of the children of Israel, nor to approach my holy of holies: but they shall bear their reproach for the error wherein they erred.
 
 ### Ezekiel 44:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will appoint them to keep charges of the house, for all its works and for all that will be done there.
+- fresh: And they will appoint them to keep charges of the house, for all its works and for all that they may do.
 - brenton: They shall bring them to keep the charges of the house, for all the service of it, and for all that they shall do.
 
 ### Ezekiel 44:15
 
 - importance: high
-- decisions: 1
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: But the Levitical priests, sons of Zadok, who kept the charges of my holy things when the house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says the Lord God.
+- fresh: But the Levitical priests, the sons of Zadok, who kept the charges of my holy things when the house of Israel went astray from me, these will come near me to minister to me and stand before my face to offer me sacrifice, fat, and blood, says the Lord God.
 - brenton: The priests the Levites, the sons of Sadduc, who kept the charges of my sanctuary when the house of Israel went astray from me, these shall draw nigh to me to minister to me, and shall stand before my face, to offer sacrifice to me, the fat and the blood, saith the Lord God.
 
 ### Ezekiel 44:16
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will enter my holy things, and they will approach my table to minister to me, and they will keep my charges.
+- fresh: These will enter my holy things, and these will approach my table to minister to me, and they will keep my charges.
 - brenton: These shall enter into my sanctuary, and these shall approach my table, to minister to me, and they shall keep my charges.
 
 ### Ezekiel 44:17
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And when they enter gates of the inner court, they will put on linen garments; they will not wear wool when they minister from the gate of the inner court.
+- fresh: And when they enter the gates of the inner court, they will put on linen garments; they will not wear wool when they minister from the gate of the inner court.
 - brenton: And it shall come to pass when they enter the gates of the inner court, that they shall put on linen robes; and they shall not put on woollen garments when they minister at the gate of the inner court.
 
 ### Ezekiel 44:18
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Linen turbans will be on their heads and linen undergarments on their loins; they will not gird themselves with anything causing sweat.
+- fresh: They will have linen turbans on their heads and linen undergarments on their loins; they will not gird themselves tightly.
 - brenton: And they shall have linen mitres upon their heads, and shall have linen drawers upon their loins; and they shall not tightly gird themselves.
 
 ### Ezekiel 44:19
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And when they go out into outer court to the people, they will take off the garments in which they minister and place them in the chambers of the holy things, and they will put on other garments, so that they do not sanctify the people with their garments.
+- fresh: And when they go out into the outer court to the people, they will take off the garments in which they minister and place them in the chambers of the holy things, and they will put on other garments, and they will not sanctify the people with their garments.
 - brenton: And when they go out into the outer court to the people, they shall put off their robes, in which they minister; and they shall lay them up in the chambers of the sanctuary, and shall put on other robes, and they shall not sanctify the people with their robes.
 
 ### Ezekiel 44:20
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: They will not shave their heads and they will not let their hair hang loose; they will carefully trim their heads.
+- fresh: They will not shave their heads and they will not strip their hair bare; they will surely cover their heads.
 - brenton: And they shall not shave their heads, nor shall they pluck off their hair; they shall carefully cover their heads.
 
 ### Ezekiel 44:21
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: No priest will drink wine when they enter the inner court.
+- fresh: No priest will drink any wine when they enter the inner court.
 - brenton: And no priest shall drink any wine, when they go into the inner court.
 
 ### Ezekiel 44:22
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: They will not take widow or divorced woman for wife, except a virgin from the seed of the house of Israel; but a widow, if she is widow of a priest, they may take.
+- fresh: They will not take a widow or a woman put away as a wife, except a virgin from the seed of Israel; but a widow, if she is from a priest, they may take.
 - brenton: Neither shall they take to themselves to wife a widow, or one that is put away, but a virgin of the seed of Israel: but if there should happen to be a priest's widow, they shall take her.
 
 ### Ezekiel 44:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They will teach my people the difference between holy and common, and between unclean and clean they will make known to them.
+- fresh: They will teach my people the difference between holy and profane, and between unclean and clean they will make known to them.
 - brenton: And they shall teach my people to distinguish between holy and profane, and they shall make known to them the difference between unclean and clean.
 
 ### Ezekiel 44:24
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And in judgment of blood they will stand to judge; with my ordinances they will judge it, and my laws and my commands in all my feasts they will keep, and my Sabbaths they will hallow.
+- fresh: And these will stand over a judgment of blood to decide; they will uphold my ordinances and judge my judgments, and they will keep my statutes and my commands in all my feasts, and my Sabbaths they will hallow.
 - brenton: And these shall attend at a judgment of blood to decide it: they shall rightly observe my ordinances, and judge my judgments, and keep my statutes and my commandments in all my feasts; and they shall hallow my sabbaths.
 
 ### Ezekiel 44:25
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: They will not go in to a dead human to defile themselves, except for father or mother or son or daughter or brother or sister who has had no husband; for them he may be defiled.
+- fresh: They will not go in to a dead body of a human to defile themselves, except for father or mother or son or daughter or brother or his sister who has had no husband; for these he may be defiled.
 - brenton: And they shall not go in to the dead body of a man to defile themselves: only a priest may defile himself for a father, or for a mother, or for a son, or for a daughter, or for a brother, or for his sister, who has not been married.
 
 ### Ezekiel 44:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And after he is cleansed, seven days they will count for him.
+- fresh: And after he has been cleansed, he will count seven days for himself.
 - brenton: And after he has been cleansed, let him number to himself seven days.
 
 ### Ezekiel 44:27
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And on the day he enters the inner court to minister in the holy place, he will bring his atonement, says the Lord God.
+- fresh: And on whatever day they enter into the inner court to minister in the holy place, they will bring atonement, says the Lord God.
 - brenton: And on whatsoever day they shall enter into the inner court to minister in the holy place, they shall bring a propitiation, saith the Lord God.
 
 ### Ezekiel 44:28
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be to them for inheritance: I am their inheritance; no possession will be given them among sons of Israel, because I am their possession.
+- fresh: And it will be to them for inheritance: I am their inheritance; no possession will be given them among the sons of Israel, because I am their possession.
 - brenton: And it shall be to them for an inheritance: I am their inheritance: and no possession shall be given them among the children of Israel; for I am their possession.
 
 ### Ezekiel 44:29
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The sacrifices and the things for sin and the things for ignorance they will eat, and every devoted thing in Israel will be theirs.
+- fresh: These will eat the sacrifices and the things for sin and the things for ignorance, and every devoted thing in Israel will be theirs.
 - brenton: And these shall eat the meat-offerings, and the sin-offerings, and the trespass-offerings; and every special offering in Israel shall be theirs.
 
 ### Ezekiel 44:30
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Firstfruits of all things and firstborn of all things and every contribution from all your firstfruits will be the priests'. And the first of your dough you will give to the priest, to set your blessings on your houses.
+- fresh: Firstfruits of all things and firstborn of all things and every contribution from all your firstfruits will be the priests'. And your first produce you will give to the priest, to set your blessings on your houses.
 - brenton: And the first-fruits of all things, and the first-born of all animals and all offerings, of all your first-fruits there shall be a share for the priests; and ye shall give your earliest produce to the priest, to bring your blessings upon your houses.
 
 ### Ezekiel 44:31
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Anything that dies of itself or is torn, from birds or from livestock, the priests will not eat.
+- fresh: Anything that dies of itself or is caught by wild animals, from birds or from livestock, the priests will not eat.
 - brenton: And the priests shall eat no bird or beast that dies of itself, or is taken of wild beasts.
 
 ### Ezekiel 45:1
