@@ -89264,7 +89264,7 @@ And the number of the sons of Israel was like the sand of the sea, which will no
 
 **Hosea 2:2**
 
-And sons of Judah and sons of Israel will be gathered together, and they will appoint for themselves one head, and they will come up from the land, because great is the day of Jezreel.
+And the sons of Judah and the sons of Israel will be gathered together, and they will appoint for themselves one head, and they will come up from the land, because great is the day of Jezreel.
 
 **Hosea 2:3**
 
@@ -89276,7 +89276,7 @@ Contend with your mother, contend, because she is not my wife and I am not her h
 
 **Hosea 2:5**
 
-lest I strip her naked and restore her as on the day of her birth and make her like wilderness and appoint her like waterless land and kill her with thirst.
+lest I strip her naked and restore her as on the day of her birth and make her like a wilderness and appoint her like a waterless land and kill her with thirst.
 
 **Hosea 2:6**
 
@@ -89284,15 +89284,15 @@ And on her children I will show no mercy, because they are children of whoredom.
 
 **Hosea 2:7**
 
-Because their mother prostituted herself; she that bore them was put to shame, for she said, I will go after my lovers, the ones giving me my breads and my water and my garments and my linens and my oil and all things fitting for me.
+Because their mother prostituted herself; the one who bore them was put to shame, for she said, I will go after my lovers, the ones giving me my breads and my water and my garments and my linens and my oil and all things fitting for me.
 
 **Hosea 2:8**
 
-Therefore behold, I am fencing her way with thorns and I will rebuild her ways, and she will not find her path.
+Therefore behold, I am fencing in her way with thorns and I will build up her ways, and she will not find her path.
 
 **Hosea 2:9**
 
-And she will pursue her lovers and will not catch them, and she will seek them and will not find them, and she will say, I will go and return to my former husband, because it was well for me then more than now.
+And she will pursue her lovers and will not catch them, and she will seek them and will not find them, and she will say, I will go and return to my former husband, because it was better for me then than now.
 
 **Hosea 2:10**
 
@@ -89312,11 +89312,11 @@ And I will turn away all her gladness, her feasts and her new moons and her Sabb
 
 **Hosea 2:14**
 
-And I will destroy her vine and her fig trees, of which she said, These are my wages that my lovers gave me, and I will turn them into a testimony, and beasts of the field and birds of heaven and reptiles of the earth will devour them.
+And I will destroy her vine and her fig trees, of which she said, These are my wages that my lovers gave me, and I will turn them into a testimony, and the beasts of the field and the birds of heaven and the reptiles of the earth will devour them.
 
 **Hosea 2:15**
 
-And I will avenge on her days of the Baals in which she burned sacrifice to them and put on her earrings and her necklaces and went after her lovers, but forgot me, says the Lord.
+And I will avenge on her for the days of the Baals in which she sacrificed to them and put on her earrings and her necklaces and went after her lovers, but forgot me, says the Lord.
 
 **Hosea 2:16**
 
@@ -89324,7 +89324,7 @@ Therefore behold, I will lead her astray and appoint her to the wilderness and s
 
 **Hosea 2:17**
 
-And I will give her her possessions from there and valley of Achor to open her understanding, and she will be humbled there as in the days of her childhood and as in the days of her coming up from the land of Egypt.
+And I will give her her possessions from there and the valley of Achor to open her understanding, and she will be humbled there as in the days of her childhood and as in the days of her coming up from the land of Egypt.
 
 **Hosea 2:18**
 
@@ -89332,11 +89332,11 @@ And it will be in that day, says the Lord, she will call me My-Husband and will 
 
 **Hosea 2:19**
 
-And I will remove names of the Baals from her mouth, and their names will no longer be remembered.
+And I will remove the names of the Baals from her mouth, and their names will no longer be remembered.
 
 **Hosea 2:20**
 
-And in that day I will make covenant for them with the beasts of the field and birds of heaven and reptiles of the earth, and I will shatter bow and sword and war from the land and make you dwell in hope.
+And in that day I will make a covenant for them with the beasts of the field and the birds of heaven and the reptiles of the earth, and I will shatter bow and sword and war from the land and make you dwell in hope.
 
 **Hosea 2:21**
 
@@ -89348,11 +89348,11 @@ And I will betroth you to myself in faithfulness, and you will know the Lord.
 
 **Hosea 2:23**
 
-And it will be in that day, says the Lord, I will hear the heaven, and heaven will hear the earth,
+And it will be in that day, says the Lord, I will hear the heaven, and the heaven will hear the earth,
 
 **Hosea 2:24**
 
-and earth will hear the grain and the wine and the oil, and these will hear Jezreel.
+and the earth will hear the grain and the wine and the oil, and these will hear Jezreel.
 
 **Hosea 2:25**
 

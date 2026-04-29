@@ -196891,7 +196891,7 @@ Note:
 ### Hosea 2:1
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And the number of the sons of Israel was like the sand of the sea, which will not be measured or numbered. And it will be in the place where it was said to them, You are not my people, there they will be called sons of the living God.
@@ -196900,16 +196900,16 @@ Note:
 ### Hosea 2:2
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And sons of Judah and sons of Israel will be gathered together, and they will appoint for themselves one head, and they will come up from the land, because great is the day of Jezreel.
+- fresh: And the sons of Judah and the sons of Israel will be gathered together, and they will appoint for themselves one head, and they will come up from the land, because great is the day of Jezreel.
 - brenton: And the children of Juda shall be gathered, and the children of Israel together, and shall appoint themselves one head, and shall come up out of the land: for great shall be the day of Jezrael.
 
 ### Hosea 2:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Say to your brother, My-People, and to your sister, Shown-Mercy.
@@ -196918,7 +196918,7 @@ Note:
 ### Hosea 2:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Contend with your mother, contend, because she is not my wife and I am not her husband; and I will remove her whoredom from my face and her adultery from between her breasts,
@@ -196927,16 +196927,16 @@ Note:
 ### Hosea 2:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: lest I strip her naked and restore her as on the day of her birth and make her like wilderness and appoint her like waterless land and kill her with thirst.
+- fresh: lest I strip her naked and restore her as on the day of her birth and make her like a wilderness and appoint her like a waterless land and kill her with thirst.
 - brenton: that I may strip her naked, and make her again as she was at the day of her birth: and I will make her desolate, and make her as a dry land, and will kill her with thirst.
 
 ### Hosea 2:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And on her children I will show no mercy, because they are children of whoredom.
@@ -196945,34 +196945,34 @@ Note:
 ### Hosea 2:7
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: Because their mother prostituted herself; she that bore them was put to shame, for she said, I will go after my lovers, the ones giving me my breads and my water and my garments and my linens and my oil and all things fitting for me.
+- fresh: Because their mother prostituted herself; the one who bore them was put to shame, for she said, I will go after my lovers, the ones giving me my breads and my water and my garments and my linens and my oil and all things fitting for me.
 - brenton: And their mother went a-whoring: she that bore them disgraced them: for she said, I will go after my lovers, that give me my bread and my water, and my garments, and my linen clothes, my oil and all my necessaries.
 
 ### Hosea 2:8
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore behold, I am fencing her way with thorns and I will rebuild her ways, and she will not find her path.
+- fresh: Therefore behold, I am fencing in her way with thorns and I will build up her ways, and she will not find her path.
 - brenton: Therefore, behold, I hedge up her way with thorns, and will stop the ways, and she shall not find her path.
 
 ### Hosea 2:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And she will pursue her lovers and will not catch them, and she will seek them and will not find them, and she will say, I will go and return to my former husband, because it was well for me then more than now.
+- fresh: And she will pursue her lovers and will not catch them, and she will seek them and will not find them, and she will say, I will go and return to my former husband, because it was better for me then than now.
 - brenton: And she shall follow after her lovers, and shall not overtake them; and she shall seek them, but shall not find them: and she shall say, I will go, and return to my former husband; for it was better with me than now.
 
 ### Hosea 2:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And she did not know that I gave her grain and wine and oil, and I multiplied silver for her; but she made silver and gold for Baal.
@@ -196981,7 +196981,7 @@ Note:
 ### Hosea 2:11
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Therefore I will return and recover my grain in its season and my wine in its time, and I will take away my garments and my linens from covering her shame.
@@ -196990,7 +196990,7 @@ Note:
 ### Hosea 2:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And now I will uncover her uncleanness before her lovers, and no one will ever deliver her from my hand.
@@ -196999,7 +196999,7 @@ Note:
 ### Hosea 2:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will turn away all her gladness, her feasts and her new moons and her Sabbaths and all her festivals.
@@ -197008,25 +197008,25 @@ Note:
 ### Hosea 2:14
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will destroy her vine and her fig trees, of which she said, These are my wages that my lovers gave me, and I will turn them into a testimony, and beasts of the field and birds of heaven and reptiles of the earth will devour them.
+- fresh: And I will destroy her vine and her fig trees, of which she said, These are my wages that my lovers gave me, and I will turn them into a testimony, and the beasts of the field and the birds of heaven and the reptiles of the earth will devour them.
 - brenton: And I will utterly destroy her vines, and her fig-trees, all things of which she said, These are my hire which my lovers have given me: and I will make them a testimony, and the wild beasts of the field, and the birds of the sky, and the reptiles of the earth shall devour them.
 
 ### Hosea 2:15
 
 - importance: high
-- decisions: 0
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will avenge on her days of the Baals in which she burned sacrifice to them and put on her earrings and her necklaces and went after her lovers, but forgot me, says the Lord.
+- fresh: And I will avenge on her for the days of the Baals in which she sacrificed to them and put on her earrings and her necklaces and went after her lovers, but forgot me, says the Lord.
 - brenton: And I will recompense on her the days of Baalim, wherein she sacrificed to them, and put on her ear-rings, and her necklaces, and went after her lovers, and forgot me, saith the Lord.
 
 ### Hosea 2:16
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: Therefore behold, I will lead her astray and appoint her to the wilderness and speak to her heart.
@@ -197035,16 +197035,16 @@ Note:
 ### Hosea 2:17
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will give her her possessions from there and valley of Achor to open her understanding, and she will be humbled there as in the days of her childhood and as in the days of her coming up from the land of Egypt.
+- fresh: And I will give her her possessions from there and the valley of Achor to open her understanding, and she will be humbled there as in the days of her childhood and as in the days of her coming up from the land of Egypt.
 - brenton: And I will give her her possessions from thence, and the valley of Achor to open her understanding: and she shall be afflicted there according to the days of her infancy, and according to the days of her coming up out of the land of Egypt.
 
 ### Hosea 2:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And it will be in that day, says the Lord, she will call me My-Husband and will no longer call me Baalim.
@@ -197053,25 +197053,25 @@ Note:
 ### Hosea 2:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will remove names of the Baals from her mouth, and their names will no longer be remembered.
+- fresh: And I will remove the names of the Baals from her mouth, and their names will no longer be remembered.
 - brenton: And I will take away the names of Baalim out of her mouth, and their names shall be remembered no more at all.
 
 ### Hosea 2:20
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And in that day I will make covenant for them with the beasts of the field and birds of heaven and reptiles of the earth, and I will shatter bow and sword and war from the land and make you dwell in hope.
+- fresh: And in that day I will make a covenant for them with the beasts of the field and the birds of heaven and the reptiles of the earth, and I will shatter bow and sword and war from the land and make you dwell in hope.
 - brenton: And I will make for them in that day a covenant with the wild beasts of the field, and with the birds of the sky, and with the reptiles of the earth: and I will break the bow and the sword and the battle from off the earth, and will cause thee to dwell safely.
 
 ### Hosea 2:21
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will betroth you to myself forever, and I will betroth you to myself in righteousness and in judgment and in mercy and in compassions.
@@ -197080,7 +197080,7 @@ Note:
 ### Hosea 2:22
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will betroth you to myself in faithfulness, and you will know the Lord.
@@ -197089,25 +197089,25 @@ Note:
 ### Hosea 2:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, says the Lord, I will hear the heaven, and heaven will hear the earth,
+- fresh: And it will be in that day, says the Lord, I will hear the heaven, and the heaven will hear the earth,
 - brenton: And it shall come to pass in that day, saith the Lord, I will hearken to the heaven, and it shall hearken to the earth;
 
 ### Hosea 2:24
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: and earth will hear the grain and the wine and the oil, and these will hear Jezreel.
+- fresh: and the earth will hear the grain and the wine and the oil, and these will hear Jezreel.
 - brenton: and the earth shall hearken to the corn, and the wine, and the oil; and they shall hearken to Jezrael.
 
 ### Hosea 2:25
 
 - importance: high
-- decisions: 0
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
 - fresh: And I will sow her for myself upon the land, and I will show mercy to Not-Shown-Mercy, and I will say to Not-My-People, You are my people, and he himself will say, You are the Lord my God.
