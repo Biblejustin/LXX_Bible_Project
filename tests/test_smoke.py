@@ -2474,7 +2474,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Proverbs 15:25"]["draft_translation"].startswith("The Lord tears down")
     assert "which the Lord planted" in by_ref["Isaiah 44:14"]["draft_translation"]
     assert "the Lord of heaven has authority" in by_ref["Daniel 4:17"]["draft_translation"]
-    assert "relied on the Lord saying" in by_ref["Micah 3:11"]["draft_translation"]
+    assert "relied upon the Lord saying" in by_ref["Micah 3:11"]["draft_translation"]
     assert by_ref["Exodus 40:38"]["draft_translation"] == (
         "For the cloud was upon the tent by day, and fire upon it by night, "
         "before all Israel in all their journeys."
