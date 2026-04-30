@@ -205787,10 +205787,10 @@ Note:
 ### Malachi 1:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Oracle of the word of the Lord upon Israel by the hand of his messenger. Put this now on your hearts.
+- fresh: Oracle of the word of the Lord upon Israel by the hand of his messenger. Set this now upon your hearts.
 - brenton: The burden of the word of the Lord to Israel by the hand of his messenger. Lay it, I pray you, to heart.
 
 ### Malachi 1:2
@@ -205805,109 +205805,109 @@ Note:
 ### Malachi 1:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: but Esau I hated, and I appointed his borders for destruction and his inheritance for dwellings of desert.
+- fresh: but Esau I hated, and I appointed his borders for destruction and his inheritance for dwellings of the wilderness.
 - brenton: and hated Esau, and laid waste his borders, and made his heritage as dwellings of the wilderness?
 
 ### Malachi 1:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because Edom will say, It has been torn down, but let us return and rebuild wastes. Thus says the Lord Almighty: They will build, but I will tear down, and they will be called the border of lawlessness and a people against whom the Lord is arrayed forever.
+- fresh: Because Idumea will say, It has been torn down, but let us return and rebuild the desolate places. Thus says the Lord Almighty: They will build, but I will tear down, and they will be called borders of lawlessness and a people against whom the Lord has been arrayed forever.
 - brenton: Because one will say, Idumea has been overthrown, but let us return and rebuild the desolate places; thus saith the Lord Almighty, They shall build, but I will throw down; and they shall be called The borders of wickedness, and, The people against whom the Lord has set himself for ever.
 
 ### Malachi 1:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Your eyes will see, and you will say, The Lord has been magnified beyond borders of Israel.
+- fresh: And your eyes will see, and you will say, The Lord has been magnified beyond the borders of Israel.
 - brenton: And your eyes shall see, and ye shall say, The Lord has been magnified upon the borders of Israel.
 
 ### Malachi 1:6
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: A son honors a father and a servant his master. If I am a father, where is my honor? And if I am the Lord, where is my fear? says the Lord Almighty to you, priests despising my name. And you said, In what have we despised your name?
+- fresh: A son honors a father and a servant his master. If I am a father, where is my honor? And if I am a master, where is my fear? says the Lord Almighty to you, priests despising my name. And you said, In what have we despised your name?
 - brenton: A son honours his father, and a servant his master: if then I am a father, where is mine honour? and if I am a master, where is my fear? saith the Lord Almighty. Ye the priests are they that despise my name: yet ye said, Wherein have we despised thy name?
 
 ### Malachi 1:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Bringing defiled breads to my altar. And you said, In what have we defiled them? In your saying, Lord's table is despised, and foods placed on it are despised.
+- fresh: Bringing defiled loaves to my altar. And you said, In what have we defiled them? In your saying, The table of the Lord is despised, and the foods placed on it are despised.
 - brenton: In that ye bring to mine altar polluted bread; and ye said, Wherein have ye polluted it? In that ye say, The table of the Lord is polluted, and that which was set thereon ye have despised.
 
 ### Malachi 1:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: If you bring blind for sacrifice, is it not evil? And if you bring lame or sick, is it not evil? Present it now to your ruler; will he accept it or receive your face? says the Lord Almighty.
+- fresh: If you bring a blind one for sacrifice, is it not evil? And if you bring a lame or sick one, is it not evil? Present it now to your ruler; will he accept it, or will he receive your face? says the Lord Almighty.
 - brenton: For if ye bring a blind victim for sacrifices, is it not evil? and if ye bring the lame or the sick, is it not evil? offer it now to thy ruler, and see if he will receive thee, if he will accept thy person, saith the Lord Almighty.
 
 ### Malachi 1:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And now make atonement before the face of your God and beg him. These things came by your hands. Shall I receive your faces? says the Lord Almighty.
+- fresh: And now make atonement before the face of your God and plead with him. These things have happened by your hands. Shall I receive your faces from you? says the Lord Almighty.
 - brenton: And now intreat the face of your God, and make supplication to him. These things have been done by your hands; shall I accept you? saith the Lord Almighty.
 
 ### Malachi 1:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Even among you doors will be shut, and you will not kindle my altar for nothing. There is no delight of mine in you, says the Lord Almighty, and sacrifice I will not accept from your hands.
+- fresh: Because even among you the doors will be shut, and you will not kindle my altar for nothing. There is no delight of mine in you, says the Lord Almighty, and sacrifice I will not accept from your hands.
 - brenton: Because even among you the doors shall be shut, and one will not kindle the fire of mine altar for nothing, I have no pleasure in you, saith the Lord Almighty, and I will not accept a sacrifice at your hands.
 
 ### Malachi 1:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because from the rising of sun to setting my name has been glorified among nations, and in every place incense is brought to my name and pure sacrifice, because my name is great among nations, says the Lord Almighty.
+- fresh: Because from the rising of the sun to its setting, my name has been glorified among the nations, and in every place incense is brought to my name and a pure sacrifice, because my name is great among the nations, says the Lord Almighty.
 - brenton: For from the rising of the sun even to the going down thereof my name has been glorified among the Gentiles; and in every place incense is offered to my name, and a pure offering: for my name is great among the Gentiles, saith the Lord Almighty.
 
 ### Malachi 1:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But you profane it in your saying, Lord's table is defiled and foods placed there are despised.
+- fresh: But you profane it in your saying, The table of the Lord is defiled and the foods placed on it are despised.
 - brenton: But ye profane it, in that ye say, The table of the Lord is polluted, and his meats set thereon are despised.
 
 ### Malachi 1:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you said, These things are from hardship, and you snorted at them, says the Lord Almighty. You brought plunder and the lame and the afflicted, and if you bring that as sacrifice, shall I accept them from your hands? says the Lord Almighty.
+- fresh: And you said, These things are from hardship, and I blew them away, says the Lord Almighty. You brought plunder and the lame and the afflicted, and if you bring the sacrifice, shall I accept them from your hands? says the Lord Almighty.
 - brenton: And ye said, These services are troublesome: therefore I have utterly rejected them with scorn, saith the Lord Almighty: and ye brought in torn victims, and lame, and sick: if then ye should bring an offering, shall I accept them at your hands? saith the Lord Almighty.
 
 ### Malachi 1:14
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices to the Lord a spoiled thing. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
+- fresh: Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices a corrupted thing to the Lord. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
 - brenton: And cursed is the man who had the power, and possessed a male in his flock, and whose vow is upon him, and who sacrifices a corrupt thing to the Lord: for I am a great King, saith the Lord Almighty, and my name is glorious among the nations.
 
 ### Malachi 2:1

@@ -27,7 +27,7 @@ Policy:
 - `Egyptians` (people_group, 114x, first Genesis 12:12) — logos_primary_entity
 - `Assyrians` (people_group, 113x, first Genesis 2:14) — logos_primary_entity
 - `Ammon` (transliterated_form, 107x, first Numbers 21:24) — not_classified
-- `Edom` (place, 95x, first Genesis 25:30) — logos_primary_place_atlas_link_preserved
+- `Edom` (place, 94x, first Genesis 25:30) — logos_primary_place_atlas_link_preserved
 - `Jehoshaphat` (person, 90x, first 2 Samuel 8:16) — logos_alias_entity
 - `Pharisees` (people_group, 87x, first Matthew 3:7) — logos_primary_entity
 - `Moses` (person, 80x, first Matthew 8:4) — logos_primary_entity

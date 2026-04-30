@@ -93352,7 +93352,7 @@ And every pot in Jerusalem and in Judah will be holy to the Lord Almighty, and a
 
 **Malachi 1:1**
 
-Oracle of the word of the Lord upon Israel by the hand of his messenger. Put this now on your hearts.
+Oracle of the word of the Lord upon Israel by the hand of his messenger. Set this now upon your hearts.
 
 **Malachi 1:2**
 
@@ -93360,51 +93360,51 @@ I loved you, says the Lord. And you said, In what way did you love us? Was not E
 
 **Malachi 1:3**
 
-but Esau I hated, and I appointed his borders for destruction and his inheritance for dwellings of desert.
+but Esau I hated, and I appointed his borders for destruction and his inheritance for dwellings of the wilderness.
 
 **Malachi 1:4**
 
-Because Edom will say, It has been torn down, but let us return and rebuild wastes. Thus says the Lord Almighty: They will build, but I will tear down, and they will be called the border of lawlessness and a people against whom the Lord is arrayed forever.
+Because Idumea will say, It has been torn down, but let us return and rebuild the desolate places. Thus says the Lord Almighty: They will build, but I will tear down, and they will be called borders of lawlessness and a people against whom the Lord has been arrayed forever.
 
 **Malachi 1:5**
 
-Your eyes will see, and you will say, The Lord has been magnified beyond borders of Israel.
+And your eyes will see, and you will say, The Lord has been magnified beyond the borders of Israel.
 
 **Malachi 1:6**
 
-A son honors a father and a servant his master. If I am a father, where is my honor? And if I am the Lord, where is my fear? says the Lord Almighty to you, priests despising my name. And you said, In what have we despised your name?
+A son honors a father and a servant his master. If I am a father, where is my honor? And if I am a master, where is my fear? says the Lord Almighty to you, priests despising my name. And you said, In what have we despised your name?
 
 **Malachi 1:7**
 
-Bringing defiled breads to my altar. And you said, In what have we defiled them? In your saying, Lord's table is despised, and foods placed on it are despised.
+Bringing defiled loaves to my altar. And you said, In what have we defiled them? In your saying, The table of the Lord is despised, and the foods placed on it are despised.
 
 **Malachi 1:8**
 
-If you bring blind for sacrifice, is it not evil? And if you bring lame or sick, is it not evil? Present it now to your ruler; will he accept it or receive your face? says the Lord Almighty.
+If you bring a blind one for sacrifice, is it not evil? And if you bring a lame or sick one, is it not evil? Present it now to your ruler; will he accept it, or will he receive your face? says the Lord Almighty.
 
 **Malachi 1:9**
 
-And now make atonement before the face of your God and beg him. These things came by your hands. Shall I receive your faces? says the Lord Almighty.
+And now make atonement before the face of your God and plead with him. These things have happened by your hands. Shall I receive your faces from you? says the Lord Almighty.
 
 **Malachi 1:10**
 
-Even among you doors will be shut, and you will not kindle my altar for nothing. There is no delight of mine in you, says the Lord Almighty, and sacrifice I will not accept from your hands.
+Because even among you the doors will be shut, and you will not kindle my altar for nothing. There is no delight of mine in you, says the Lord Almighty, and sacrifice I will not accept from your hands.
 
 **Malachi 1:11**
 
-Because from the rising of sun to setting my name has been glorified among nations, and in every place incense is brought to my name and pure sacrifice, because my name is great among nations, says the Lord Almighty.
+Because from the rising of the sun to its setting, my name has been glorified among the nations, and in every place incense is brought to my name and a pure sacrifice, because my name is great among the nations, says the Lord Almighty.
 
 **Malachi 1:12**
 
-But you profane it in your saying, Lord's table is defiled and foods placed there are despised.
+But you profane it in your saying, The table of the Lord is defiled and the foods placed on it are despised.
 
 **Malachi 1:13**
 
-And you said, These things are from hardship, and you snorted at them, says the Lord Almighty. You brought plunder and the lame and the afflicted, and if you bring that as sacrifice, shall I accept them from your hands? says the Lord Almighty.
+And you said, These things are from hardship, and I blew them away, says the Lord Almighty. You brought plunder and the lame and the afflicted, and if you bring the sacrifice, shall I accept them from your hands? says the Lord Almighty.
 
 **Malachi 1:14**
 
-Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices to the Lord a spoiled thing. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
+Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices a corrupted thing to the Lord. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
 
 ### Chapter 2
 

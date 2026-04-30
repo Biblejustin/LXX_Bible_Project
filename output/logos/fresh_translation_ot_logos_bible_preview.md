@@ -650,8 +650,8 @@ This preview shows the first three verses of each book with note/cross-reference
 
 ## Malachi
 
-**Malachi 1:1** Oracle of the word of the Lord upon Israel by the hand of his messenger. Put this now on your hearts.
-- Translation/textual notes: 0
+**Malachi 1:1** Oracle of the word of the Lord upon Israel by the hand of his messenger. Set this now upon your hearts.
+- Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 6
 
@@ -660,7 +660,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 23
 
-**Malachi 1:3** but Esau I hated, and I appointed his borders for destruction and his inheritance for dwellings of desert.
-- Translation/textual notes: 0
+**Malachi 1:3** but Esau I hated, and I appointed his borders for destruction and his inheritance for dwellings of the wilderness.
+- Translation/textual notes: 1
 - Supplemental notes/links: 1
 - Cross-references: 19
