@@ -205922,37 +205922,37 @@ Note:
 ### Malachi 2:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: If you do not listen and do not set it on your hearts to give glory to my name, says the Lord Almighty, I will send curse upon you and curse your blessing and scatter your blessing, and it will not be among you, because you do not set it on your hearts.
+- fresh: If you do not listen and do not set it in your heart to give glory to my name, says the Lord Almighty, I will send the curse upon you and curse your blessing and scatter your blessing, and it will not be among you, because you do not set it in your heart.
 - brenton: If ye will not hearken, and if ye will not lay it to heart, to give glory to my name, saith the Lord Almighty, then I will send forth the curse upon you, and I will bring a curse upon your blessing: yea, I will curse it, and I will scatter your blessing, and it shall not exist among you, because ye lay not this to heart.
 
 ### Malachi 2:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, I separate for you the shoulder, and scatter stomach-content on your faces, stomach-content of your feasts, and I will take you with it.
+- fresh: Behold, I separate for you the shoulder, and I will scatter stomach content upon your faces, the stomach content of your feasts, and I will take you along with it.
 - brenton: Behold, I turn my back upon you, and I will scatter dung upon your faces, the dung of your feasts, and I will carry you away at the same time.
 
 ### Malachi 2:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will know that I sent this command to you, for my covenant to be with Levites, says the Lord Almighty.
+- fresh: And you will know that I have sent this command to you, so that my covenant may be with the Levites, says the Lord Almighty.
 - brenton: And ye shall know that I have sent this commandment to you, that my covenant might be with the sons of Levi, saith the Lord Almighty.
 
 ### Malachi 2:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: My covenant with him was of life and peace, and I gave it to him in fear, to fear me and to shrink before my name.
+- fresh: My covenant was with him, of life and of peace, and I gave it to him in fear, to fear me and to shrink from before the face of my name.
 - brenton: My covenant of life and peace was with him, and I gave it him that he might reverently fear me, and that he might be awe-struck at my name.
 
 ### Malachi 2:6
@@ -205967,64 +205967,64 @@ Note:
 ### Malachi 2:7
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Because the lips of a priest will guard knowledge, and the law they will seek from his mouth, because he is a messenger of the Lord Almighty.
+- fresh: Because the lips of a priest will guard knowledge, and they will seek the law from his mouth, because he is a messenger of the Lord Almighty.
 - brenton: For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord Almighty.
 
 ### Malachi 2:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But you turned aside from the way and made many falter in the law. You corrupted the covenant of Levi, says the Lord Almighty.
+- fresh: But you turned aside from the way and made many weak in the law. You corrupted the covenant of Levi, says the Lord Almighty.
 - brenton: But ye have turned aside from the way, and caused many to fail in following the law: ye have corrupted the covenant of Levi, saith the Lord Almighty.
 
 ### Malachi 2:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I made you despised and cast aside among all nations, because you did not guard my ways but received faces in law.
+- fresh: And I have made you despised and cast aside among all the nations, because you did not guard my ways but received faces in the law.
 - brenton: And I have made you despised and cast out among all the people, because ye have not kept my ways, but have been partial in the law.
 
 ### Malachi 2:10
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Did not one God create you? Is not one father of all you? Why does each abandon his brother, to profane the covenant of your fathers?
+- fresh: Did not one God create you? Is not one father of you all? Why did each abandon his brother, to profane the covenant of your fathers?
 - brenton: Have ye not all one father? Did not one God create you? why have ye forsaken every man his brother, to profane the covenant of your fathers?
 
 ### Malachi 2:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Judah was abandoned, and abomination happened in Israel and in Jerusalem, because Judah profaned holy things of the Lord which he loved and busied himself with foreign gods.
+- fresh: Judah was abandoned, and an abomination happened in Israel and in Jerusalem, because Judah profaned the holy things of the Lord which he loved, and he devoted himself to foreign gods.
 - brenton: Juda has been forsaken, and an abomination has been committed in Israel and in Jerusalem; for Juda has profaned the holy things of the Lord, which he delighted in, and has gone after other gods.
 
 ### Malachi 2:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The Lord will destroy man doing these, until he is humbled from tents of Jacob and from those bringing sacrifice to the Lord Almighty.
+- fresh: The Lord will destroy the man doing these things, until he is humbled from the tents of Jacob and from those who bring sacrifice to the Lord Almighty.
 - brenton: The Lord will utterly destroy the man that does these things, until he be even cast down from out of the tabernacles of Jacob, and from among them that offer sacrifice to the Lord Almighty.
 
 ### Malachi 2:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And this second thing you did: you covered the altar of the Lord with tears and with weeping and groaning from toil, so that it is no longer worthy to look upon sacrifice or receive what is acceptable from your hands.
+- fresh: And these things which I hated, you did: you covered the altar of the Lord with tears and with weeping and groaning from toil. Is it still worthy to look upon sacrifice or to receive what is acceptable from your hands?
 - brenton: And these things which I hated, ye did: ye covered with tears the altar of the Lord, and with weeping and groaning because of troubles: is it meet for me to have respect to your sacrifice, or to receive anything from your hands as welcome?
 
 ### Malachi 2:14
@@ -206039,28 +206039,28 @@ Note:
 ### Malachi 2:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Did not one make, while remnant of spirit was his? And you said, What else does God seek but seed? Guard yourselves in your spirit, and do not abandon wife of your youth.
+- fresh: And no other did this while a remnant of his spirit was his. And you said, What else does God seek but seed? Guard yourselves in your spirit, and do not abandon the wife of your youth.
 - brenton: And did he not do well? and there was the residue of his spirit. But ye said, What does God seek but a seed? But take ye heed to your spirit, and forsake not the wife of thy youth.
 
 ### Malachi 2:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: But if you hate and send away, says the Lord God of Israel, impiety will cover your thoughts, says the Lord Almighty. Guard yourselves in your spirit, and do not abandon.
+- fresh: But if you hate and send away, says the Lord, the God of Israel, impiety will cover your thoughts, says the Lord Almighty. Guard yourselves in your spirit, and do not abandon.
 - brenton: But if thou shouldest hate thy wife and put her away, saith the Lord God of Israel, then ungodliness shall cover thy thoughts, saith the Lord Almighty: therefore take ye heed to your spirit, and forsake them not,
 
 ### Malachi 2:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You provoke God in your words, and you said, In what have we provoked him? In your saying, Everyone doing evil is good before the Lord, and in them he took pleasure; and, Where is God of justice?
+- fresh: You provoke God in your words, and you said, In what have we provoked him? In your saying, Everyone doing evil is good before the Lord, and he himself took pleasure in them; and, Where is the God of justice?
 - brenton: ye that have provoked God with your words. But ye said, Wherein have we provoked him? In that ye say, Every one that does evil is a pleasing object in the sight of the Lord, and he takes pleasure in such; and where is the God of justice?
 
 ### Malachi 3:1

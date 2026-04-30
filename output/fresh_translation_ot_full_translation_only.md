@@ -93414,19 +93414,19 @@ And now this command is for you, priests.
 
 **Malachi 2:2**
 
-If you do not listen and do not set it on your hearts to give glory to my name, says the Lord Almighty, I will send curse upon you and curse your blessing and scatter your blessing, and it will not be among you, because you do not set it on your hearts.
+If you do not listen and do not set it in your heart to give glory to my name, says the Lord Almighty, I will send the curse upon you and curse your blessing and scatter your blessing, and it will not be among you, because you do not set it in your heart.
 
 **Malachi 2:3**
 
-Behold, I separate for you the shoulder, and scatter stomach-content on your faces, stomach-content of your feasts, and I will take you with it.
+Behold, I separate for you the shoulder, and I will scatter stomach content upon your faces, the stomach content of your feasts, and I will take you along with it.
 
 **Malachi 2:4**
 
-And you will know that I sent this command to you, for my covenant to be with Levites, says the Lord Almighty.
+And you will know that I have sent this command to you, so that my covenant may be with the Levites, says the Lord Almighty.
 
 **Malachi 2:5**
 
-My covenant with him was of life and peace, and I gave it to him in fear, to fear me and to shrink before my name.
+My covenant was with him, of life and of peace, and I gave it to him in fear, to fear me and to shrink from before the face of my name.
 
 **Malachi 2:6**
 
@@ -93434,31 +93434,31 @@ The law of truth was in his mouth, and injustice was not found on his lips. In p
 
 **Malachi 2:7**
 
-Because the lips of a priest will guard knowledge, and the law they will seek from his mouth, because he is a messenger of the Lord Almighty.
+Because the lips of a priest will guard knowledge, and they will seek the law from his mouth, because he is a messenger of the Lord Almighty.
 
 **Malachi 2:8**
 
-But you turned aside from the way and made many falter in the law. You corrupted the covenant of Levi, says the Lord Almighty.
+But you turned aside from the way and made many weak in the law. You corrupted the covenant of Levi, says the Lord Almighty.
 
 **Malachi 2:9**
 
-And I made you despised and cast aside among all nations, because you did not guard my ways but received faces in law.
+And I have made you despised and cast aside among all the nations, because you did not guard my ways but received faces in the law.
 
 **Malachi 2:10**
 
-Did not one God create you? Is not one father of all you? Why does each abandon his brother, to profane the covenant of your fathers?
+Did not one God create you? Is not one father of you all? Why did each abandon his brother, to profane the covenant of your fathers?
 
 **Malachi 2:11**
 
-Judah was abandoned, and abomination happened in Israel and in Jerusalem, because Judah profaned holy things of the Lord which he loved and busied himself with foreign gods.
+Judah was abandoned, and an abomination happened in Israel and in Jerusalem, because Judah profaned the holy things of the Lord which he loved, and he devoted himself to foreign gods.
 
 **Malachi 2:12**
 
-The Lord will destroy man doing these, until he is humbled from tents of Jacob and from those bringing sacrifice to the Lord Almighty.
+The Lord will destroy the man doing these things, until he is humbled from the tents of Jacob and from those who bring sacrifice to the Lord Almighty.
 
 **Malachi 2:13**
 
-And this second thing you did: you covered the altar of the Lord with tears and with weeping and groaning from toil, so that it is no longer worthy to look upon sacrifice or receive what is acceptable from your hands.
+And these things which I hated, you did: you covered the altar of the Lord with tears and with weeping and groaning from toil. Is it still worthy to look upon sacrifice or to receive what is acceptable from your hands?
 
 **Malachi 2:14**
 
@@ -93466,15 +93466,15 @@ And you said, For what reason? Because the Lord testified between you and the wi
 
 **Malachi 2:15**
 
-Did not one make, while remnant of spirit was his? And you said, What else does God seek but seed? Guard yourselves in your spirit, and do not abandon wife of your youth.
+And no other did this while a remnant of his spirit was his. And you said, What else does God seek but seed? Guard yourselves in your spirit, and do not abandon the wife of your youth.
 
 **Malachi 2:16**
 
-But if you hate and send away, says the Lord God of Israel, impiety will cover your thoughts, says the Lord Almighty. Guard yourselves in your spirit, and do not abandon.
+But if you hate and send away, says the Lord, the God of Israel, impiety will cover your thoughts, says the Lord Almighty. Guard yourselves in your spirit, and do not abandon.
 
 **Malachi 2:17**
 
-You provoke God in your words, and you said, In what have we provoked him? In your saying, Everyone doing evil is good before the Lord, and in them he took pleasure; and, Where is God of justice?
+You provoke God in your words, and you said, In what have we provoked him? In your saying, Everyone doing evil is good before the Lord, and he himself took pleasure in them; and, Where is the God of justice?
 
 ### Chapter 3
 
