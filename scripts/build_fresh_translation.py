@@ -15,15 +15,45 @@ RESEARCH = DATA / "research"
 LXX_GREEK = DATA / "raw" / "lxx_greek"
 OUTPUT = ROOT / "output"
 
-DEFAULT_SOURCE = LXX_GREEK / "genesis_1_3_pilot.csv"
+DEFAULT_SOURCE = LXX_GREEK / "ot_full.csv"
 DEFAULT_LOGOS_NOTES = RESEARCH / "logos_notes.csv"
 DEFAULT_DECISIONS = RESEARCH / "translation_decisions.csv"
 DEFAULT_FOOTNOTES = RESEARCH / "translation_footnotes.csv"
 DEFAULT_VARIANTS = RESEARCH / "variant_notes.csv"
 DEFAULT_STACK = RESEARCH / "logos_translation_stack.json"
-DEFAULT_OUTPUT = OUTPUT / "fresh_translation_genesis_1_3_pilot.md"
-DEFAULT_TRANSLATION_ONLY = OUTPUT / "fresh_translation_genesis_1_3_translation_only.md"
-DEFAULT_DIAGNOSTICS = OUTPUT / "fresh_translation_genesis_1_3_pilot_diagnostics.json"
+DEFAULT_OUTPUT = OUTPUT / "fresh_translation_ot_full.md"
+DEFAULT_TRANSLATION_ONLY = OUTPUT / "fresh_translation_ot_full_translation_only.md"
+DEFAULT_DIAGNOSTICS = OUTPUT / "fresh_translation_ot_full_diagnostics.json"
+
+NT_BOOK_NAMES = {
+    "Matthew",
+    "Mark",
+    "Luke",
+    "John",
+    "Acts",
+    "Romans",
+    "1 Corinthians",
+    "2 Corinthians",
+    "Galatians",
+    "Ephesians",
+    "Philippians",
+    "Colossians",
+    "1 Thessalonians",
+    "2 Thessalonians",
+    "1 Timothy",
+    "2 Timothy",
+    "Titus",
+    "Philemon",
+    "Hebrews",
+    "James",
+    "1 Peter",
+    "2 Peter",
+    "1 John",
+    "2 John",
+    "3 John",
+    "Jude",
+    "Revelation",
+}
 
 REQUIRED_SOURCE_COLUMNS = [
     "ref",
@@ -99,6 +129,35 @@ def describe_scope(source_rows: List[Dict[str, str]]) -> str:
     return f"{ordered_books[0]} {chapter_list}"
 
 
+def infer_testament(source_rows: List[Dict[str, str]]) -> str:
+    for row in source_rows:
+        book_name = row.get("book_name", "").strip()
+        if book_name:
+            return "nt" if book_name in NT_BOOK_NAMES else "ot"
+    return ""
+
+
+def preferred_resources_for_scope(
+    stack: Dict[str, object],
+    source_rows: List[Dict[str, str]],
+) -> List[Dict[str, object]]:
+    if not isinstance(stack, dict):
+        return []
+    preferred_resources = stack.get("preferred_resources", [])
+    if not isinstance(preferred_resources, list):
+        return []
+    testament = infer_testament(source_rows)
+    resources: List[Dict[str, object]] = []
+    for resource in preferred_resources:
+        if not isinstance(resource, dict):
+            continue
+        marker = str(resource.get("testament", "")).strip().lower()
+        markers = {part for part in marker.replace("/", " ").replace(",", " ").split() if part}
+        if not markers or "all" in markers or "both" in markers or testament in markers:
+            resources.append(resource)
+    return resources
+
+
 def filter_output_rows(source_rows: List[Dict[str, str]], skip_undrafted: bool) -> List[Dict[str, str]]:
     if not skip_undrafted:
         return source_rows
@@ -116,7 +175,7 @@ def build_markdown(
     drafted_only: bool = False,
 ) -> str:
     scope = describe_scope(scope_rows or source_rows)
-    preferred_resources = stack.get("preferred_resources", []) if isinstance(stack, dict) else []
+    preferred_resources = preferred_resources_for_scope(stack, scope_rows or source_rows)
     lines = [
         "# Fresh Translation Worksheet",
         "",
@@ -142,7 +201,7 @@ def build_markdown(
     )
 
     if preferred_resources:
-        lines.append("Preferred Logos stack:")
+        lines.append("Preferred research stack:")
         for resource in preferred_resources:
             if not isinstance(resource, dict):
                 continue
@@ -275,6 +334,7 @@ def build_diagnostics(
         current["verse_rows"] += 1
         if row.get("draft_translation", "").strip():
             current["drafted_rows"] += 1
+    preferred_resources = preferred_resources_for_scope(stack, selected_rows)
     return {
         "verse_rows": len(source_rows),
         "verses_with_greek_text": sum(1 for row in source_rows if row.get("greek_text", "").strip()),
@@ -306,8 +366,8 @@ def build_diagnostics(
         ),
         "preferred_resource_roles": [
             resource.get("role", "")
-            for resource in stack.get("preferred_resources", [])
-            if isinstance(resource, dict) and resource.get("role", "")
+            for resource in preferred_resources
+            if resource.get("role", "")
         ],
     }
 

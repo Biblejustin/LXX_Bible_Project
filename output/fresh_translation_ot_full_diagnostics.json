@@ -333,8 +333,8 @@
     "150"
   ],
   "preferred_resource_roles": [
-    "base_text_primary",
-    "base_text_fallback",
+    "source_workspace",
+    "base_text_reference",
     "morphology_text",
     "lexicon_primary",
     "apparatus_primary",

@@ -163,13 +163,8 @@
     "28"
   ],
   "preferred_resource_roles": [
-    "base_text_primary",
-    "base_text_fallback",
-    "morphology_text",
-    "lexicon_primary",
-    "apparatus_primary",
-    "interlinear_primary",
-    "grammar_primary",
+    "source_workspace",
+    "source_manifest",
     "manuscript_check"
   ]
 }

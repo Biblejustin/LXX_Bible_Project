@@ -8,15 +8,10 @@ Method:
 - Phrase-level decision logging
 - Variant-impact notes kept separate
 
-Preferred Logos stack:
-- base_text_primary | Genesis (Göttingen Septuagint I) | LLS:GSI01GE | Primary Greek base text for the Genesis pilot.
-- base_text_fallback | Septuaginta | LXXSESB | Fallback portable Greek base when Göttingen navigation is slower.
-- morphology_text | Septuagint with Logos Morphology | LLS:LOGOSLXX | Lemma and morphology support.
-- lexicon_primary | Lexham Research Lexicon of the Septuagint | LLS:FBLXXLEX | Primary lexical range and semantic guidance.
-- apparatus_primary | Septuaginta: Apparatus Criticus | LLS:LXXCAPP | Primary variant and textual evidence check.
-- interlinear_primary | The Lexham Greek-English Interlinear Septuagint: Rahlfs Edition | LLS:LLXXI | Gloss orientation only; not source for final English wording.
-- grammar_primary | Grammar of Septuagint Greek: Grammar | LLS:GRAMSPTGRK | Septuagint-specific syntax and idiom support.
-- manuscript_check | Codex Sinaiticus: Septuagint and New Testament | LLS:CODEXSINAI | Manual manuscript spot-checks when variants matter.
+Preferred research stack:
+- source_workspace | NT Scrivener 1894 TR source workspace | data/raw/tr_greek/nt_full.csv | Primary NT Greek source rows for fresh translation polish.
+- source_manifest | Scrivener 1894 Textus Receptus import manifest | data/raw/tr_greek/source_manifest.json | Pinned upstream commit and import diagnostics for NT source rows.
+- manuscript_check | Codex Sinaiticus: Septuagint and New Testament | LLS:CODEXSINAI | Manual OT/NT manuscript spot-checks when variants matter.
 
 # Matthew
 

@@ -1,5 +1,5 @@
 {
-  "pilot_scope": "Genesis 1-3",
+  "workspace_scope": "Fresh OT/NT translation polish",
   "policy": {
     "notes_private": true,
     "public_repo_stores": [
@@ -17,52 +17,74 @@
   },
   "preferred_resources": [
     {
-      "role": "base_text_primary",
-      "resource_id": "LLS:GSI01GE",
-      "title": "Genesis (G\u00f6ttingen Septuagint I)",
-      "purpose": "Primary Greek base text for the Genesis pilot."
+      "testament": "ot",
+      "role": "source_workspace",
+      "resource_id": "data/raw/lxx_greek/ot_full.csv",
+      "title": "OT LXX Greek source workspace",
+      "purpose": "Primary OT Greek source rows for fresh translation polish."
     },
     {
-      "role": "base_text_fallback",
+      "testament": "ot",
+      "role": "base_text_reference",
       "resource_id": "LXXSESB",
       "title": "Septuaginta",
-      "purpose": "Fallback portable Greek base when G\u00f6ttingen navigation is slower."
+      "purpose": "Portable LXX Greek reference text for source checks."
     },
     {
+      "testament": "ot",
       "role": "morphology_text",
       "resource_id": "LLS:LOGOSLXX",
       "title": "Septuagint with Logos Morphology",
-      "purpose": "Lemma and morphology support."
+      "purpose": "Lemma and morphology support for OT LXX rows."
     },
     {
+      "testament": "ot",
       "role": "lexicon_primary",
       "resource_id": "LLS:FBLXXLEX",
       "title": "Lexham Research Lexicon of the Septuagint",
-      "purpose": "Primary lexical range and semantic guidance."
+      "purpose": "Primary OT lexical range and semantic guidance."
     },
     {
+      "testament": "ot",
       "role": "apparatus_primary",
       "resource_id": "LLS:LXXCAPP",
       "title": "Septuaginta: Apparatus Criticus",
-      "purpose": "Primary variant and textual evidence check."
+      "purpose": "Primary OT variant and textual evidence check."
     },
     {
+      "testament": "ot",
       "role": "interlinear_primary",
       "resource_id": "LLS:LLXXI",
       "title": "The Lexham Greek-English Interlinear Septuagint: Rahlfs Edition",
-      "purpose": "Gloss orientation only; not source for final English wording."
+      "purpose": "OT gloss orientation only; not source for final English wording."
     },
     {
+      "testament": "ot",
       "role": "grammar_primary",
       "resource_id": "LLS:GRAMSPTGRK",
       "title": "Grammar of Septuagint Greek: Grammar",
       "purpose": "Septuagint-specific syntax and idiom support."
     },
     {
+      "testament": "nt",
+      "role": "source_workspace",
+      "resource_id": "data/raw/tr_greek/nt_full.csv",
+      "title": "NT Scrivener 1894 TR source workspace",
+      "purpose": "Primary NT Greek source rows for fresh translation polish."
+    },
+    {
+      "testament": "nt",
+      "role": "source_manifest",
+      "resource_id": "data/raw/tr_greek/source_manifest.json",
+      "title": "Scrivener 1894 Textus Receptus import manifest",
+      "purpose": "Pinned upstream commit and import diagnostics for NT source rows."
+    },
+    {
+      "testament": "both",
       "role": "manuscript_check",
       "resource_id": "LLS:CODEXSINAI",
       "title": "Codex Sinaiticus: Septuagint and New Testament",
-      "purpose": "Manual manuscript spot-checks when variants matter."
+      "purpose": "Manual OT/NT manuscript spot-checks when variants matter."
     }
   ]
 }

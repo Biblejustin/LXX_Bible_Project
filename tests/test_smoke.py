@@ -8923,6 +8923,23 @@ def test_root_readme_reflects_complete_fresh_workspace() -> None:
         assert stale_phrase not in readme
 
 
+def test_fresh_translation_research_stack_is_scope_specific() -> None:
+    stack_text = (ROOT / "data" / "research" / "logos_translation_stack.json").read_text(encoding="utf-8")
+    stack = json.loads(stack_text)
+    ot_header = (ROOT / "output" / "fresh_translation_ot_full.md").read_text(encoding="utf-8")[:1200]
+    nt_header = (ROOT / "output" / "fresh_translation_nt_tr_full.md").read_text(encoding="utf-8")[:1200]
+
+    assert "pilot_scope" not in stack
+    assert "Genesis pilot" not in stack_text
+    assert "Preferred research stack:" in ot_header
+    assert "Preferred research stack:" in nt_header
+    assert "OT LXX Greek source workspace" in ot_header
+    assert "NT Scrivener 1894 TR source workspace" in nt_header
+    assert "LLS:LOGOSLXX" not in nt_header
+    assert "Genesis pilot" not in ot_header
+    assert "Genesis pilot" not in nt_header
+
+
 def test_fresh_full_markdown_has_no_todo_placeholders() -> None:
     paths = [
         ROOT / "output" / "fresh_translation_ot_full.md",
