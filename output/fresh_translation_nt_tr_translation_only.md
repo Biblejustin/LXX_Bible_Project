@@ -31422,15 +31422,15 @@ Neither repented they of their murders, nor of their sorceries, nor of their sex
 
 **Revelation 10:1**
 
-And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as it were the sun, and his feet as pillars of fire:
+And I saw another mighty angel coming down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as the sun, and his feet as pillars of fire:
 
 **Revelation 10:2**
 
-And he had in his hand a little book open: and he set his right foot upon the sea, and his left foot on the earth,
+And he had in his hand a little scroll opened: and he set his right foot upon the sea, and the left upon the earth,
 
 **Revelation 10:3**
 
-And cried with a loud voice, as when a lion roars: and when he had cried, seven thunders uttered their voices.
+And he cried with a great voice, as a lion roars: and when he cried, the seven thunders spoke their own voices.
 
 **Revelation 10:4**
 
@@ -31458,7 +31458,7 @@ And I went to the angel, and said to him, Give me the little book. And he said t
 
 **Revelation 10:10**
 
-And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.
+And I took the little scroll out of the angel's hand, and ate it; and it was in my mouth sweet as honey: and when I had eaten it, my belly was made bitter.
 
 **Revelation 10:11**
 
@@ -31480,7 +31480,7 @@ And I will give power to my two witnesses, and they shall prophesy a thousand tw
 
 **Revelation 11:4**
 
-These are the two olive trees, and the two candlesticks standing before the God of the earth.
+These are the two olive trees, and the two lampstands standing before the God of the earth.
 
 **Revelation 11:5**
 
@@ -31488,11 +31488,11 @@ And if anyone will hurt them, fire proceeds out of their mouth, and devours thei
 
 **Revelation 11:6**
 
-These have power to shut heaven, that it rain not in the days of their prophecy: and have power over waters to turn them to blood, and to strike the earth with all plagues, as often as they will.
+These have authority to shut heaven, that no rain should rain in the days of their prophecy: and they have authority over the waters to turn them to blood, and to strike the earth with every plague, as often as they wish.
 
 **Revelation 11:7**
 
-And when they shall have finished their testimony, the beast that ascends out of the bottomless pit shall make war against them, and shall overcome them, and kill them.
+And when they finish their testimony, the beast that ascends out of the abyss shall make war with them, and shall overcome them, and kill them.
 
 **Revelation 11:8**
 

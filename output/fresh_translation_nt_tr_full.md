@@ -154922,7 +154922,7 @@ Greek: και ειδον αλλον αγγελον ισχυρον καταβαι
 Transliteration: kai eidon allon aggelon iscuron katabainonta ek tou ouranou peribeblhmenon nefelhn kai iriv epi thv kefalhv kai to proswpon autou wv o hliov kai oi podev autou wv stuloi purov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as it were the sun, and his feet as pillars of fire:
+Draft translation: And I saw another mighty angel coming down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as the sun, and his feet as pillars of fire:
 
 Decision rows:
 - [TODO add decision rows]
@@ -154942,7 +154942,7 @@ Greek: και ειχεν εν τη χειρι αυτου βιβλαριδιον 
 Transliteration: kai eicen en th ceiri autou biblaridion anewgmenon kai eyhken ton poda autou ton dexion epi thn yalassan ton de euwnumon epi thn ghn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he had in his hand a little book open: and he set his right foot upon the sea, and his left foot on the earth,
+Draft translation: And he had in his hand a little scroll opened: and he set his right foot upon the sea, and the left upon the earth,
 
 Decision rows:
 - [TODO add decision rows]
@@ -154962,7 +154962,7 @@ Greek: και εκραξεν φωνη μεγαλη ωσπερ λεων μυκα�
 Transliteration: kai ekraxen fwnh megalh wsper lewn mukatai kai ote ekraxen elalhsan ai epta brontai tav eautwn fwnav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And cried with a loud voice, as when a lion roars: and when he had cried, seven thunders uttered their voices.
+Draft translation: And he cried with a great voice, as a lion roars: and when he cried, the seven thunders spoke their own voices.
 
 Decision rows:
 - [TODO add decision rows]
@@ -155102,7 +155102,7 @@ Greek: και ελαβον το βιβλαριδιον εκ της χειρος 
 Transliteration: kai elabon to biblaridion ek thv ceirov tou aggelou kai katefagon auto kai hn en tw stomati mou wv meli gluku kai ote efagon auto epikranyh h koilia mou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.
+Draft translation: And I took the little scroll out of the angel's hand, and ate it; and it was in my mouth sweet as honey: and when I had eaten it, my belly was made bitter.
 
 Decision rows:
 - [TODO add decision rows]
@@ -155204,7 +155204,7 @@ Greek: ουτοι εισιν αι δυο ελαιαι και αι δυο λυχ�
 Transliteration: outoi eisin ai duo elaiai kai ai duo lucniai ai enwpion tou yeou thv ghv estwsai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: These are the two olive trees, and the two candlesticks standing before the God of the earth.
+Draft translation: These are the two olive trees, and the two lampstands standing before the God of the earth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -155244,7 +155244,7 @@ Greek: ουτοι εχουσιν εξουσιαν κλεισαι τον ουρα
 Transliteration: outoi ecousin exousian kleisai ton ouranon ina mh brech uetov en hmeraiv autwn thv profhteiav kai exousian ecousin epi twn udatwn strefein auta eiv aima kai pataxai thn ghn pash plhgh osakiv ean yelhswsin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: These have power to shut heaven, that it rain not in the days of their prophecy: and have power over waters to turn them to blood, and to strike the earth with all plagues, as often as they will.
+Draft translation: These have authority to shut heaven, that no rain should rain in the days of their prophecy: and they have authority over the waters to turn them to blood, and to strike the earth with every plague, as often as they wish.
 
 Decision rows:
 - [TODO add decision rows]
@@ -155264,7 +155264,7 @@ Greek: και οταν τελεσωσιν την μαρτυριαν αυτων �
 Transliteration: kai otan teleswsin thn marturian autwn to yhrion to anabainon ek thv abussou poihsei polemon met autwn kai nikhsei autouv kai apoktenei autouv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when they shall have finished their testimony, the beast that ascends out of the bottomless pit shall make war against them, and shall overcome them, and kill them.
+Draft translation: And when they finish their testimony, the beast that ascends out of the abyss shall make war with them, and shall overcome them, and kill them.
 
 Decision rows:
 - [TODO add decision rows]

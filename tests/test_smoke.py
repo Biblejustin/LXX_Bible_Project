@@ -8620,6 +8620,29 @@ def test_nt_revelation_9_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_revelation_10_to_11_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Revelation 10:1": "And I saw another mighty angel coming down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as the sun, and his feet as pillars of fire:",
+        "Revelation 10:2": "And he had in his hand a little scroll opened: and he set his right foot upon the sea, and the left upon the earth,",
+        "Revelation 10:3": "And he cried with a great voice, as a lion roars: and when he cried, the seven thunders spoke their own voices.",
+        "Revelation 10:10": "And I took the little scroll out of the angel's hand, and ate it; and it was in my mouth sweet as honey: and when I had eaten it, my belly was made bitter.",
+        "Revelation 11:4": "These are the two olive trees, and the two lampstands standing before the God of the earth.",
+        "Revelation 11:6": "These have authority to shut heaven, that no rain should rain in the days of their prophecy: and they have authority over the waters to turn them to blood, and to strike the earth with every plague, as often as they wish.",
+        "Revelation 11:7": "And when they finish their testimony, the beast that ascends out of the abyss shall make war with them, and shall overcome them, and kill them.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_195.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
