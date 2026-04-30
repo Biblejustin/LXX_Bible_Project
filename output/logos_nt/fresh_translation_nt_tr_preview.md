@@ -184,7 +184,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 3
 
-**Philippians 1:3** I thank my God upon every remembrance of you,
+**Philippians 1:3** I thank my God at every remembrance of you,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 10

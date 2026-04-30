@@ -124784,7 +124784,7 @@ Greek: ευχαριστω τω θεω μου επι παση τη μνεια υ�
 Transliteration: eucaristw tw yew mou epi pash th mneia umwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I thank my God upon every remembrance of you,
+Draft translation: I thank my God at every remembrance of you,
 
 Decision rows:
 - [TODO add decision rows]
@@ -124804,7 +124804,7 @@ Greek: παντοτε εν παση δεησει μου υπερ παντων υ
 Transliteration: pantote en pash dehsei mou uper pantwn umwn meta carav thn dehsin poioumenov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Always in every prayer of mine for you all making request with joy,
+Draft translation: always in every prayer of mine for you all, making my prayer with joy,
 
 Decision rows:
 - [TODO add decision rows]
@@ -124984,7 +124984,7 @@ Greek: ωστε τους δεσμους μου φανερους εν χριστ�
 Transliteration: wste touv desmouv mou fanerouv en cristw genesyai en olw tw praitwriw kai toiv loipoiv pasin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: So that my bonds in Christ are manifest in all the palace, and in all other places;
+Draft translation: so that my bonds became manifest in Christ in the whole praetorium, and to all the rest;
 
 Decision rows:
 - [TODO add decision rows]
@@ -125024,7 +125024,7 @@ Greek: τινες μεν και δια φθονον και εριν τινες �
 Transliteration: tinev men kai dia fyonon kai erin tinev de kai di eudokian ton criston khrussousin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Some indeed preach Christ even of envy and strife; and some also of good will:
+Draft translation: Some indeed also preach Christ through envy and strife, but some also through good will:
 
 Decision rows:
 - [TODO add decision rows]
@@ -125044,7 +125044,7 @@ Greek: οι μεν εξ εριθειας τον χριστον καταγγελ�
 Transliteration: oi men ex eriyeiav ton criston kataggellousin ouc agnwv oiomenoi yliqin epiferein toiv desmoiv mou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:
+Draft translation: Those from selfish ambition proclaim Christ, not sincerely, supposing to add affliction to my bonds:
 
 Decision rows:
 - [TODO add decision rows]
@@ -125144,7 +125144,7 @@ Greek: εμοι γαρ το ζην χριστος και το αποθανειν
 Transliteration: emoi gar to zhn cristov kai to apoyanein kerdov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: In order to me to live is Christ, and to die is gain.
+Draft translation: For to me to live is Christ, and to die is gain.
 
 Decision rows:
 - [TODO add decision rows]
@@ -125204,7 +125204,7 @@ Greek: το δε επιμενειν εν τη σαρκι αναγκαιοτερ�
 Transliteration: to de epimenein en th sarki anagkaioteron di umav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Nevertheless to abide in the flesh is more necessary for you.
+Draft translation: But to remain in the flesh is more necessary for you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -125224,7 +125224,7 @@ Greek: και τουτο πεποιθως οιδα οτι μενω και συμ
 Transliteration: kai touto pepoiywv oida oti menw kai sumparamenw pasin umin eiv thn umwn prokophn kai caran thv pistewv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;
+Draft translation: And being confident of this, I know that I shall remain and continue with you all for your progress and joy of the faith;
 
 Decision rows:
 - [TODO add decision rows]
@@ -125244,7 +125244,7 @@ Greek: ινα το καυχημα υμων περισσευη εν χριστω 
 Transliteration: ina to kauchma umwn perisseuh en cristw ihsou en emoi dia thv emhv parousiav palin prov umav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again.
+Draft translation: that your boasting may abound in Christ Jesus in me through my presence with you again.
 
 Decision rows:
 - [TODO add decision rows]

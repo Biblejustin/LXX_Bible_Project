@@ -25252,11 +25252,11 @@ Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.
 
 **Philippians 1:3**
 
-I thank my God upon every remembrance of you,
+I thank my God at every remembrance of you,
 
 **Philippians 1:4**
 
-Always in every prayer of mine for you all making request with joy,
+always in every prayer of mine for you all, making my prayer with joy,
 
 **Philippians 1:5**
 
@@ -25292,7 +25292,7 @@ But I would you should understand, brothers, that the things which happened to m
 
 **Philippians 1:13**
 
-So that my bonds in Christ are manifest in all the palace, and in all other places;
+so that my bonds became manifest in Christ in the whole praetorium, and to all the rest;
 
 **Philippians 1:14**
 
@@ -25300,11 +25300,11 @@ And many of the brothers in the Lord, waxing confident by my bonds, are much mor
 
 **Philippians 1:15**
 
-Some indeed preach Christ even of envy and strife; and some also of good will:
+Some indeed also preach Christ through envy and strife, but some also through good will:
 
 **Philippians 1:16**
 
-The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:
+Those from selfish ambition proclaim Christ, not sincerely, supposing to add affliction to my bonds:
 
 **Philippians 1:17**
 
@@ -25324,7 +25324,7 @@ According to my earnest expectation and my hope, that in nothing I shall be asha
 
 **Philippians 1:21**
 
-In order to me to live is Christ, and to die is gain.
+For to me to live is Christ, and to die is gain.
 
 **Philippians 1:22**
 
@@ -25336,15 +25336,15 @@ For I am pressed between two, having a desire to depart, and to be with Christ; 
 
 **Philippians 1:24**
 
-Nevertheless to abide in the flesh is more necessary for you.
+But to remain in the flesh is more necessary for you.
 
 **Philippians 1:25**
 
-And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;
+And being confident of this, I know that I shall remain and continue with you all for your progress and joy of the faith;
 
 **Philippians 1:26**
 
-That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again.
+that your boasting may abound in Christ Jesus in me through my presence with you again.
 
 **Philippians 1:27**
 

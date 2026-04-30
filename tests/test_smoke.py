@@ -7622,6 +7622,31 @@ def test_nt_ephesians_5_to_6_queue_revisions_and_keeps_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_philippians_1_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Philippians 1:3": "I thank my God at every remembrance of you,",
+        "Philippians 1:4": "always in every prayer of mine for you all, making my prayer with joy,",
+        "Philippians 1:13": "so that my bonds became manifest in Christ in the whole praetorium, and to all the rest;",
+        "Philippians 1:15": "Some indeed also preach Christ through envy and strife, but some also through good will:",
+        "Philippians 1:16": "Those from selfish ambition proclaim Christ, not sincerely, supposing to add affliction to my bonds:",
+        "Philippians 1:21": "For to me to live is Christ, and to die is gain.",
+        "Philippians 1:24": "But to remain in the flesh is more necessary for you.",
+        "Philippians 1:25": "And being confident of this, I know that I shall remain and continue with you all for your progress and joy of the faith;",
+        "Philippians 1:26": "that your boasting may abound in Christ Jesus in me through my presence with you again.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_160.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
