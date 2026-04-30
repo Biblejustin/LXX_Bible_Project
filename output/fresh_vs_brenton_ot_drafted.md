@@ -204282,37 +204282,37 @@ Note:
 ### Zechariah 4:1
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the angel speaking with me returned and woke me, like when a man is wakened from sleep.
+- fresh: And the angel speaking with me returned and woke me, as when a man is awakened from his sleep.
 - brenton: And the angel that talked with me returned, and awakened me, as when a man is awakened out of his sleep.
 
 ### Zechariah 4:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, What do you see? And I said, I saw, and behold, a lampstand, all golden, and lamp-bowl on top of it, and seven lamps upon it, and seven spouts for lamps upon it.
+- fresh: And he said to me, What do you see? And I said, I have seen, and behold, a lampstand all of gold, and its lamp-bowl on top of it, and seven lamps upon it, and seven spouts for the lamps upon it.
 - brenton: And he said to me, What seest thou? And I said, I have seen, and behold a candlestick all of gold, and its bowl upon it, and seven lamps upon it, and seven oil funnels to the lamps upon it:
 
 ### Zechariah 4:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And two olive trees above it, one at the right of lamp-bowl and one at left.
+- fresh: And two olive trees above it, one at the right of the lamp-bowl and one at the left.
 - brenton: and two olive-trees above it, one on the right of the bowl, and one on the left.
 
 ### Zechariah 4:4
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I asked and said to the angel speaking with me, What are these, lord?
+- fresh: And I asked and said to the angel speaking with me, saying, What are these, lord?
 - brenton: And I inquired, and spoke to the angel that talked with me, saying, What are these things, my lord?
 
 ### Zechariah 4:5
@@ -204336,10 +204336,10 @@ Note:
 ### Zechariah 4:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Who are you, great mountain, before the face of Zerubbabel to make things straight? And I will bring out stone of inheritance: equality of grace, grace to it.
+- fresh: Who are you, O great mountain before the face of Zerubbabel, that you should prosper? And I will bring out the stone of the inheritance: equality of grace, grace to it.
 - brenton: Who art thou, the great mountain before Zorobabel, that thou shouldest prosper? whereas I will bring out the stone of the inheritance, the grace of it the equal of my grace.
 
 ### Zechariah 4:8
@@ -204363,28 +204363,28 @@ Note:
 ### Zechariah 4:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because who despised days of small things? They will rejoice and see tin-stone in the hand of Zerubbabel. These seven are eyes of the Lord, looking over all the earth.
+- fresh: For who has despised the days of small things? And they will rejoice and see the tin-stone in the hand of Zerubbabel. These seven are the eyes of the Lord, looking over all the earth.
 - brenton: For who has despised the small days? surely they shall rejoice, and shall see the plummet of tin in the hand of Zorobabel: these are the seven eyes that look upon all the earth.
 
 ### Zechariah 4:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I answered and said to him, What are these two olive trees at the right of lampstand and at left?
+- fresh: And I answered and said to him, What are these two olive trees at the right of the lampstand and at the left?
 - brenton: And I answered, and said to him, What are these two olive-trees, which are on the right and left hand of the candlestick?
 
 ### Zechariah 4:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I asked a second time and said to him, What are two olive branches in the hands of two golden nozzles that pour out and bring back golden spouts?
+- fresh: And I asked a second time and said to him, What are the two branches of the olive trees in the hands of the two golden nozzles that pour out and bring back the golden spouts?
 - brenton: And I asked the second time, and said to him, What are the two branches of the olive-trees that are by the side of the two golden pipes that pour into and communicate with the golden oil funnels?
 
 ### Zechariah 4:13
@@ -204399,10 +204399,10 @@ Note:
 ### Zechariah 4:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, These are two sons of richness, standing beside Lord of all the earth.
+- fresh: And he said, These are the two sons of richness, standing beside the Lord of all the earth.
 - brenton: And he said, These are the two anointed ones that stand by the Lord of the whole earth.
 
 ### Zechariah 5:1

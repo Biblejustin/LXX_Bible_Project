@@ -92660,19 +92660,19 @@ In that day, says the Lord Almighty, each will call his neighbor under the vine 
 
 **Zechariah 4:1**
 
-And the angel speaking with me returned and woke me, like when a man is wakened from sleep.
+And the angel speaking with me returned and woke me, as when a man is awakened from his sleep.
 
 **Zechariah 4:2**
 
-And he said to me, What do you see? And I said, I saw, and behold, a lampstand, all golden, and lamp-bowl on top of it, and seven lamps upon it, and seven spouts for lamps upon it.
+And he said to me, What do you see? And I said, I have seen, and behold, a lampstand all of gold, and its lamp-bowl on top of it, and seven lamps upon it, and seven spouts for the lamps upon it.
 
 **Zechariah 4:3**
 
-And two olive trees above it, one at the right of lamp-bowl and one at left.
+And two olive trees above it, one at the right of the lamp-bowl and one at the left.
 
 **Zechariah 4:4**
 
-And I asked and said to the angel speaking with me, What are these, lord?
+And I asked and said to the angel speaking with me, saying, What are these, lord?
 
 **Zechariah 4:5**
 
@@ -92684,7 +92684,7 @@ And he answered and said to me: This is the word of the Lord to Zerubbabel, sayi
 
 **Zechariah 4:7**
 
-Who are you, great mountain, before the face of Zerubbabel to make things straight? And I will bring out stone of inheritance: equality of grace, grace to it.
+Who are you, O great mountain before the face of Zerubbabel, that you should prosper? And I will bring out the stone of the inheritance: equality of grace, grace to it.
 
 **Zechariah 4:8**
 
@@ -92696,15 +92696,15 @@ The hands of Zerubbabel founded this house, and his hands will complete it, and 
 
 **Zechariah 4:10**
 
-Because who despised days of small things? They will rejoice and see tin-stone in the hand of Zerubbabel. These seven are eyes of the Lord, looking over all the earth.
+For who has despised the days of small things? And they will rejoice and see the tin-stone in the hand of Zerubbabel. These seven are the eyes of the Lord, looking over all the earth.
 
 **Zechariah 4:11**
 
-And I answered and said to him, What are these two olive trees at the right of lampstand and at left?
+And I answered and said to him, What are these two olive trees at the right of the lampstand and at the left?
 
 **Zechariah 4:12**
 
-And I asked a second time and said to him, What are two olive branches in the hands of two golden nozzles that pour out and bring back golden spouts?
+And I asked a second time and said to him, What are the two branches of the olive trees in the hands of the two golden nozzles that pour out and bring back the golden spouts?
 
 **Zechariah 4:13**
 
@@ -92712,7 +92712,7 @@ And he said to me, Do you not know what these are? And I said, No, lord.
 
 **Zechariah 4:14**
 
-And he said, These are two sons of richness, standing beside Lord of all the earth.
+And he said, These are the two sons of richness, standing beside the Lord of all the earth.
 
 ### Chapter 5
 
