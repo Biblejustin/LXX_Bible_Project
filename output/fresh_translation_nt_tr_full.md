@@ -132228,7 +132228,7 @@ Greek: μη παροινον μη πληκτην μη αισχροκερδη α�
 Transliteration: mh paroinon mh plhkthn mh aiscrokerdh all epieikh amacon afilarguron
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Not given to wine, not an attacker, not greedy of filthy illegal gain; but patient, not a brawler, not covetous;
+Draft translation: not given to wine, not a striker, not greedy for shameful gain; but gentle, peaceable, not loving money;
 
 Decision rows:
 - [TODO add decision rows]
@@ -132248,7 +132248,7 @@ Greek: του ιδιου οικου καλως προισταμενον τεκν
 Transliteration: tou idiou oikou kalwv proistamenon tekna econta en upotagh meta pashv semnothtov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: One that rules well his own house, having his children in subjection with all gravity;
+Draft translation: One ruling well his own house, having his children in submission with all dignity;
 
 Decision rows:
 - [TODO add decision rows]
@@ -132388,7 +132388,7 @@ Greek: γυναικας ωσαυτως σεμνας μη διαβολους νη
 Transliteration: gunaikav wsautwv semnav mh diabolouv nhfaliouv pistav en pasin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Even so must their wives be grave, not slanderers, sober, faithful in all things.
+Draft translation: Women likewise must be dignified, not slanderers, sober, faithful in all things.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132530,7 +132530,7 @@ Greek: εν υποκρισει ψευδολογων κεκαυτηριασμεν
 Transliteration: en upokrisei qeudologwn kekauthriasmenwn thn idian suneidhsin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Speaking lies in hypocrisy; having their conscience seared with a hot iron;
+Draft translation: In hypocrisy of liars, having their own conscience seared;
 
 Decision rows:
 - [TODO add decision rows]
@@ -132570,7 +132570,7 @@ Greek: οτι παν κτισμα θεου καλον και ουδεν αποβ
 Transliteration: oti pan ktisma yeou kalon kai ouden apoblhton meta eucaristiav lambanomenon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For every creature of God is good, and nothing to be refused, if it be received with thanksgiving:
+Draft translation: For every creature of God is good, and nothing is to be rejected, being received with thanksgiving:
 
 Decision rows:
 - [TODO add decision rows]
@@ -132710,7 +132710,7 @@ Greek: παραγγελλε ταυτα και διδασκε
 Transliteration: paraggelle tauta kai didaske
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: These things command and teach.
+Draft translation: Command and teach these things.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132750,7 +132750,7 @@ Greek: εως ερχομαι προσεχε τη αναγνωσει τη παρ�
 Transliteration: ewv ercomai prosece th anagnwsei th paraklhsei th didaskalia
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Till I come, give attendance to reading, to exhortation, to doctrine.
+Draft translation: Until I come, give attention to reading, to exhortation, to teaching.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132770,7 +132770,7 @@ Greek: μη αμελει του εν σοι χαρισματος ο εδοθη �
 Transliteration: mh amelei tou en soi carismatov o edoyh soi dia profhteiav meta epiyesewv twn ceirwn tou presbuteriou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Neglect not the gift that is in you, which was given you by prophecy, with the laying on of the hands of the presbytery.
+Draft translation: Do not neglect the gift that is in you, which was given to you through prophecy, with laying on of the hands of the presbytery.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132790,7 +132790,7 @@ Greek: ταυτα μελετα εν τουτοις ισθι ινα σου η π�
 Transliteration: tauta meleta en toutoiv isyi ina sou h prokoph fanera h en pasin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Meditate upon these things; give yourself wholly to them; that your profiting may appear to all.
+Draft translation: Practice these things; be in them; that your progress may be manifest to all.
 
 Decision rows:
 - [TODO add decision rows]

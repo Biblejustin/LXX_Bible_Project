@@ -26776,11 +26776,11 @@ An overseer then must be blameless, the husband of one wife, vigilant, sober, of
 
 **1 Timothy 3:3**
 
-Not given to wine, not an attacker, not greedy of filthy illegal gain; but patient, not a brawler, not covetous;
+not given to wine, not a striker, not greedy for shameful gain; but gentle, peaceable, not loving money;
 
 **1 Timothy 3:4**
 
-One that rules well his own house, having his children in subjection with all gravity;
+One ruling well his own house, having his children in submission with all dignity;
 
 **1 Timothy 3:5**
 
@@ -26808,7 +26808,7 @@ And let these also first be proved; then let them serve, being found blameless.
 
 **1 Timothy 3:11**
 
-Even so must their wives be grave, not slanderers, sober, faithful in all things.
+Women likewise must be dignified, not slanderers, sober, faithful in all things.
 
 **1 Timothy 3:12**
 
@@ -26838,7 +26838,7 @@ Now the Spirit speaks expressly, that in the latter times some shall depart from
 
 **1 Timothy 4:2**
 
-Speaking lies in hypocrisy; having their conscience seared with a hot iron;
+In hypocrisy of liars, having their own conscience seared;
 
 **1 Timothy 4:3**
 
@@ -26846,7 +26846,7 @@ Forbidding to marry, and commanding to abstain from foods, which God has created
 
 **1 Timothy 4:4**
 
-For every creature of God is good, and nothing to be refused, if it be received with thanksgiving:
+For every creature of God is good, and nothing is to be rejected, being received with thanksgiving:
 
 **1 Timothy 4:5**
 
@@ -26874,7 +26874,7 @@ For therefore we both labor and suffer reproach, because we trust in the living 
 
 **1 Timothy 4:11**
 
-These things command and teach.
+Command and teach these things.
 
 **1 Timothy 4:12**
 
@@ -26882,15 +26882,15 @@ Let no one despise your youth; but be an example of the believers, in word, in c
 
 **1 Timothy 4:13**
 
-Till I come, give attendance to reading, to exhortation, to doctrine.
+Until I come, give attention to reading, to exhortation, to teaching.
 
 **1 Timothy 4:14**
 
-Neglect not the gift that is in you, which was given you by prophecy, with the laying on of the hands of the presbytery.
+Do not neglect the gift that is in you, which was given to you through prophecy, with laying on of the hands of the presbytery.
 
 **1 Timothy 4:15**
 
-Meditate upon these things; give yourself wholly to them; that your profiting may appear to all.
+Practice these things; be in them; that your progress may be manifest to all.
 
 **1 Timothy 4:16**
 

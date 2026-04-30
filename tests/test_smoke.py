@@ -7818,6 +7818,35 @@ def test_nt_first_timothy_1_to_2_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_first_timothy_3_to_4_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "1 Timothy 3:3": "not given to wine, not a striker, not greedy for shameful gain; but gentle, peaceable, not loving money;",
+        "1 Timothy 3:4": "One ruling well his own house, having his children in submission with all dignity;",
+        "1 Timothy 3:11": "Women likewise must be dignified, not slanderers, sober, faithful in all things.",
+        "1 Timothy 4:2": "In hypocrisy of liars, having their own conscience seared;",
+        "1 Timothy 4:4": "For every creature of God is good, and nothing is to be rejected, being received with thanksgiving:",
+        "1 Timothy 4:11": "Command and teach these things.",
+        "1 Timothy 4:13": "Until I come, give attention to reading, to exhortation, to teaching.",
+        "1 Timothy 4:14": "Do not neglect the gift that is in you, which was given to you through prophecy, with laying on of the hands of the presbytery.",
+        "1 Timothy 4:15": "Practice these things; be in them; that your progress may be manifest to all.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_167.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["1 Timothy 3:9"]["latest_review_status"] == "keep"
+    assert review_by_ref["1 Timothy 3:9"]["latest_review_pass"] == "nt_review_pass_167.md"
+    assert "1 Timothy 3:9" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
