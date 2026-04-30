@@ -145180,7 +145180,7 @@ Greek: εις κληρονομιαν αφθαρτον και αμιαντον κ
 Transliteration: eiv klhronomian afyarton kai amianton kai amaranton tethrhmenhn en ouranoiv eiv umav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: To an inheritance incorruptible, and undefiled, and that fades not away, reserved in heaven for you,
+Draft translation: To an incorruptible and undefiled and unfading inheritance, reserved in the heavens for you,
 
 Decision rows:
 - [TODO add decision rows]
@@ -145280,7 +145280,7 @@ Greek: κομιζομενοι το τελος της πιστεως υμων σ�
 Transliteration: komizomenoi to telov thv pistewv umwn swthrian qucwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Receiving the end of your faith, even the salvation of your souls.
+Draft translation: receiving the end of your faith, the salvation of your souls.
 
 Decision rows:
 - [TODO add decision rows]
@@ -145380,7 +145380,7 @@ Greek: ως τεκνα υπακοης μη συσχηματιζομενοι τα
 Transliteration: wv tekna upakohv mh suschmatizomenoi taiv proteron en th agnoia umwn epiyumiaiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: As obedient children, not fashioning yourselves according to the former lusts in your ignorance:
+Draft translation: As children of obedience, not conforming yourselves to the former desires in your ignorance:
 
 Decision rows:
 - [TODO add decision rows]
@@ -145480,7 +145480,7 @@ Greek: αλλα τιμιω αιματι ως αμνου αμωμου και ασ
 Transliteration: alla timiw aimati wv amnou amwmou kai aspilou cristou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But with the precious blood of Christ, as of a lamb without blemish and without spot:
+Draft translation: but with precious blood, as of a lamb without blemish and without spot, of Christ:
 
 Decision rows:
 - [TODO add decision rows]
@@ -145802,7 +145802,7 @@ Greek: οι ποτε ου λαος νυν δε λαος θεου οι ουκ η�
 Transliteration: oi pote ou laov nun de laov yeou oi ouk hlehmenoi nun de elehyentev
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.
+Draft translation: who once were not a people, but now are the people of God: who had not obtained mercy, but now have obtained mercy.
 
 Decision rows:
 - [TODO add decision rows]
@@ -145822,7 +145822,7 @@ Greek: αγαπητοι παρακαλω ως παροικους και παρε
 Transliteration: agaphtoi parakalw wv paroikouv kai parepidhmouv apecesyai twn sarkikwn epiyumiwn aitinev strateuontai kata thv quchv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Dearly beloved, I plead to you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
+Draft translation: Beloved, I exhort you as strangers and pilgrims to abstain from fleshly desires, which war against the soul;
 
 Decision rows:
 - [TODO add decision rows]
@@ -145962,7 +145962,7 @@ Greek: οι οικεται υποτασσομενοι εν παντι φοβω �
 Transliteration: oi oiketai upotassomenoi en panti fobw toiv despotaiv ou monon toiv agayoiv kai epieikesin alla kai toiv skolioiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the perverse.
+Draft translation: Household servants, be subject in all fear to your masters; not only to the good and gentle, but also to the perverse.
 
 Decision rows:
 - [TODO add decision rows]
@@ -145982,7 +145982,7 @@ Greek: τουτο γαρ χαρις ει δια συνειδησιν θεου υ
 Transliteration: touto gar cariv ei dia suneidhsin yeou upoferei tiv lupav pascwn adikwv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For this deserves giving of thanks, if a man for conscience toward God endure grief, suffering wrongfully.
+Draft translation: For this is grace, if because of conscience toward God someone endures griefs, suffering unjustly.
 
 Decision rows:
 - [TODO add decision rows]
@@ -146042,7 +146042,7 @@ Greek: ος αμαρτιαν ουκ εποιησεν ουδε ευρεθη δο�
 Transliteration: ov amartian ouk epoihsen oude eureyh dolov en tw stomati autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who did no sin, neither was guile found in his mouth:
+Draft translation: who did no sin, neither was deceit found in his mouth:
 
 Decision rows:
 - [TODO add decision rows]

@@ -29424,7 +29424,7 @@ Blessed be the God and Father of our Lord Jesus Christ, who according to his abu
 
 **1 Peter 1:4**
 
-To an inheritance incorruptible, and undefiled, and that fades not away, reserved in heaven for you,
+To an incorruptible and undefiled and unfading inheritance, reserved in the heavens for you,
 
 **1 Peter 1:5**
 
@@ -29444,7 +29444,7 @@ Whom having not seen, you love; in whom, though now you see him not, yet believi
 
 **1 Peter 1:9**
 
-Receiving the end of your faith, even the salvation of your souls.
+receiving the end of your faith, the salvation of your souls.
 
 **1 Peter 1:10**
 
@@ -29464,7 +29464,7 @@ Therefore gird up the loins of your mind, be sober, and hope to the end for the 
 
 **1 Peter 1:14**
 
-As obedient children, not fashioning yourselves according to the former lusts in your ignorance:
+As children of obedience, not conforming yourselves to the former desires in your ignorance:
 
 **1 Peter 1:15**
 
@@ -29484,7 +29484,7 @@ since you know that you were not redeemed with corruptible things, as silver and
 
 **1 Peter 1:19**
 
-But with the precious blood of Christ, as of a lamb without blemish and without spot:
+but with precious blood, as of a lamb without blemish and without spot, of Christ:
 
 **1 Peter 1:20**
 
@@ -29550,11 +29550,11 @@ But you are a chosen generation, a royal priesthood, a holy nation, an exclusive
 
 **1 Peter 2:10**
 
-Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.
+who once were not a people, but now are the people of God: who had not obtained mercy, but now have obtained mercy.
 
 **1 Peter 2:11**
 
-Dearly beloved, I plead to you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
+Beloved, I exhort you as strangers and pilgrims to abstain from fleshly desires, which war against the soul;
 
 **1 Peter 2:12**
 
@@ -29582,11 +29582,11 @@ Honor all men. Love the brotherhood. Fear God. Honor the king.
 
 **1 Peter 2:18**
 
-Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the perverse.
+Household servants, be subject in all fear to your masters; not only to the good and gentle, but also to the perverse.
 
 **1 Peter 2:19**
 
-For this deserves giving of thanks, if a man for conscience toward God endure grief, suffering wrongfully.
+For this is grace, if because of conscience toward God someone endures griefs, suffering unjustly.
 
 **1 Peter 2:20**
 
@@ -29598,7 +29598,7 @@ For even to this were you called: because Christ also suffered for us, leaving u
 
 **1 Peter 2:22**
 
-Who did no sin, neither was guile found in his mouth:
+who did no sin, neither was deceit found in his mouth:
 
 **1 Peter 2:23**
 
