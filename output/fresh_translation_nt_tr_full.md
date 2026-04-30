@@ -149806,7 +149806,7 @@ Greek: αυτοι εκ του κοσμου εισιν δια τουτο εκ τ�
 Transliteration: autoi ek tou kosmou eisin dia touto ek tou kosmou lalousin kai o kosmov autwn akouei
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: They are of the world: therefore speak they of the world, and the world hears them.
+Draft translation: They are from the world: therefore they speak from the world, and the world hears them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -150126,7 +150126,7 @@ Greek: και ταυτην την εντολην εχομεν απ αυτου ι
 Transliteration: kai tauthn thn entolhn ecomen ap autou ina o agapwn ton yeon agapa kai ton adelfon autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And this commandment have we from him, That he who loves God love his brother also.
+Draft translation: And this commandment we have from him, That he who loves God love his brother also.
 
 Decision rows:
 - [TODO add decision rows]
@@ -150348,7 +150348,7 @@ Greek: και αυτη εστιν η μαρτυρια οτι ζωην αιωνι
 Transliteration: kai auth estin h marturia oti zwhn aiwnion edwken hmin o yeov kai auth h zwh en tw uiw autou estin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And this is the record, that God has given to us eternal life, and this life is in his Son.
+Draft translation: And this is the testimony, that God has given to us eternal life, and this life is in his Son.
 
 Decision rows:
 - [TODO add decision rows]
@@ -150508,7 +150508,7 @@ Greek: οιδαμεν οτι εκ του θεου εσμεν και ο κοσμ�
 Transliteration: oidamen oti ek tou yeou esmen kai o kosmov olov en tw ponhrw keitai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And we know that we are of God, and the whole world lies in wickedness.
+Draft translation: And we know that we are from God, and the whole world lies in the evil one.
 
 Decision rows:
 - [TODO add decision rows]

@@ -30370,7 +30370,7 @@ You are of God, little children, and have overcome them: because greater is the 
 
 **1 John 4:5**
 
-They are of the world: therefore speak they of the world, and the world hears them.
+They are from the world: therefore they speak from the world, and the world hears them.
 
 **1 John 4:6**
 
@@ -30434,7 +30434,7 @@ If a man say, I love God, and hates his brother, he is a liar: for the one who d
 
 **1 John 4:21**
 
-And this commandment have we from him, That he who loves God love his brother also.
+And this commandment we have from him, That he who loves God love his brother also.
 
 ### Chapter 5
 
@@ -30480,7 +30480,7 @@ the one who believes on the Son of God has the witness in himself: the one who d
 
 **1 John 5:11**
 
-And this is the record, that God has given to us eternal life, and this life is in his Son.
+And this is the testimony, that God has given to us eternal life, and this life is in his Son.
 
 **1 John 5:12**
 
@@ -30512,7 +30512,7 @@ We know that whoever is born of God sins not; but the one who is begotten of God
 
 **1 John 5:19**
 
-And we know that we are of God, and the whole world lies in wickedness.
+And we know that we are from God, and the whole world lies in the evil one.
 
 **1 John 5:20**
 
