@@ -123056,7 +123056,7 @@ Greek: εις θεος και πατηρ παντων ο επι παντων κ�
 Transliteration: eiv yeov kai pathr pantwn o epi pantwn kai dia pantwn kai en pasin umin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: One God and Father of all, who is above all, and through all, and in you all.
+Draft translation: One God and Father of all, who is over all, and through all, and in you all.
 
 Decision rows:
 - [TODO add decision rows]
@@ -123116,7 +123116,7 @@ Greek: το δε ανεβη τι εστιν ει μη οτι και κατεβη
 Transliteration: to de anebh ti estin ei mh oti kai katebh prwton eiv ta katwtera merh thv ghv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: (Now that he ascended, what is it but that he also descended first into the lower parts of the earth?
+Draft translation: (Now this, he ascended, what is it except that he also first descended into the lower parts of the earth?
 
 Decision rows:
 - [TODO add decision rows]
@@ -123156,7 +123156,7 @@ Greek: και αυτος εδωκεν τους μεν αποστολους το�
 Transliteration: kai autov edwken touv men apostolouv touv de profhtav touv de euaggelistav touv de poimenav kai didaskalouv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;
+Draft translation: And he himself gave some as apostles, and some as prophets, and some as evangelists, and some as pastors and teachers;
 
 Decision rows:
 - [TODO add decision rows]
@@ -123296,7 +123296,7 @@ Greek: εσκοτισμενοι τη διανοια οντες απηλλοτρ�
 Transliteration: eskotismenoi th dianoia ontev aphllotriwmenoi thv zwhv tou yeou dia thn agnoian thn ousan en autoiv dia thn pwrwsin thv kardiav autwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:
+Draft translation: being darkened in understanding, being alienated from the life of God because of the ignorance that is in them, because of the hardness of their heart:
 
 Decision rows:
 - [TODO add decision rows]

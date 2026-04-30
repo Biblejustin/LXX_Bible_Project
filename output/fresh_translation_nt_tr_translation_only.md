@@ -24900,7 +24900,7 @@ One Lord, one faith, one baptism,
 
 **Ephesians 4:6**
 
-One God and Father of all, who is above all, and through all, and in you all.
+One God and Father of all, who is over all, and through all, and in you all.
 
 **Ephesians 4:7**
 
@@ -24912,7 +24912,7 @@ Therefore he says, When he ascended up on high, he led captivity captive, and ga
 
 **Ephesians 4:9**
 
-(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?
+(Now this, he ascended, what is it except that he also first descended into the lower parts of the earth?
 
 **Ephesians 4:10**
 
@@ -24920,7 +24920,7 @@ the one who descended is the same also that ascended up far above all heavens, t
 
 **Ephesians 4:11**
 
-And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;
+And he himself gave some as apostles, and some as prophets, and some as evangelists, and some as pastors and teachers;
 
 **Ephesians 4:12**
 
@@ -24948,7 +24948,7 @@ This I say therefore, and testify in the Lord, that you from now on walk not as 
 
 **Ephesians 4:18**
 
-Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:
+being darkened in understanding, being alienated from the life of God because of the ignorance that is in them, because of the hardness of their heart:
 
 **Ephesians 4:19**
 
