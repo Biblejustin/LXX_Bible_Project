@@ -28,8 +28,8 @@ Purpose: final automated release-readiness checks for the fresh OT translation o
 - repeated-word candidates: `0`
 
 ## Review Coverage
-- latest reviewed refs: `636`
-- `keep`: `308`
+- latest reviewed refs: `651`
+- `keep`: `323`
 - `revised`: `328`
 - priority rows still open: `0`
 

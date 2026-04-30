@@ -47,7 +47,7 @@ Rows: 8
 - current bucket: `other`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: And there is no one calling on your name and remembering to take hold of you, because you turned your face from us and gave us over because of our sins.
+- fresh: And there is no one calling on your name and no one remembering to take hold of you, because you turned your face away from us and gave us over because of our sins.
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord
@@ -60,7 +60,7 @@ Rows: 8
 - current bucket: `other`
 - latest review status: `revised`
 - needs followup: `no`
-- fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
+- fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be one who escapes, as the Lord said, and those receiving good news whom the Lord has called.
 - NT refs: Acts 2:21; Romans 10:13; 1 Corinthians 1:2; 2 Timothy 2:22
 - NT Greek: Acts 2:21: πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || Romans 10:13: πᾶς γὰρ ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου || 1 Corinthians 1:2: πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν || 2 Timothy 2:22: μετὰ τῶν ἐπικαλουμένων τὸν κύριον
 - NT gloss: Acts 2:21: everyone / whoever / might-call-upon / the name / of-Lord || Romans 10:13: everyone / for / whoever / might-call-upon / the name / of-Lord || 1 Corinthians 1:2: to all / the ones-calling-upon / the name / of the Lord / of-us || 2 Timothy 2:22: with / the ones-calling-upon / the Lord

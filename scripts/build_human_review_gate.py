@@ -57,7 +57,7 @@ def build_md(title: str, rows: list[dict[str, str]], intro: list[str]) -> str:
                 f"- english witness recommendation: `{row.get('english_witness_recommendation', '') or 'none'}`",
                 f"- consensus recommendation: `{row.get('consensus_recommendation', '') or 'none'}`",
                 f"- fresh: {row.get('fresh_translation', '[missing]')}",
-                f"- brenton: {row.get('brenton_translation', '[missing]')}",
+                f"- brenton: {row.get('brenton_translation') or '[missing]'}",
                 "",
             ]
         )

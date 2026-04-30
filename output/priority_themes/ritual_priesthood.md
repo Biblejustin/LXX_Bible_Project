@@ -2,7 +2,7 @@
 
 Altar, sacrifice, priesthood, holiness in cultic setting.
 
-Rows: 75
+Rows: 73
 Books: 32
 
 ## Exodus 3:18
@@ -314,151 +314,144 @@ Books: 32
 - brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.
 
 ## Isaiah 49:7
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, lord, servant, soul; crossref_top_vote=12; eng_reco=keep; reco=keep
+- score: 24
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, holy, lord, servant, soul; crossref_top_vote=12; eng_reco=keep; reco=keep
 - keywords: god, holy, lord, servant, soul
-- fresh: Thus says the Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to the servant of rulers: Kings will see and rise, rulers also, and will worship, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
+- fresh: Thus says the Lord, the one rescuing you, the God of Israel: Sanctify the one despising his soul, the one abhorred by the nations, the servant of rulers. Kings will see him and rise; rulers also will worship him, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
 - brenton: Thus saith the Lord that delivered thee, the God of Israel, Sanctify him that despises his life, him that is abhorred by the nations that are the servants of princes: kings shall behold him, and princes shall arise, and shall worship him, for the Lord's sake: for the Holy One of Israel is faithful, and I have chosen thee.
 
 ## Lamentations 2:6
 - score: 16
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, lord, priest; crossref_top_vote=5; reco=keep
 - keywords: king, lord, priest
-- fresh: He scattered his tent like a vine. He destroyed his feast. The Lord forgot feast and sabbath in Zion and provoked in crash of his anger king and priest and ruler.
+- fresh: He scattered his tent like a vine. He destroyed his feast. The Lord forgot feast and sabbath which he made in Zion, and in the outburst of his anger he provoked king and priest and ruler.
 - brenton: Vau. And he has scattered his tabernacle as a vine, he has marred his feast: the Lord has forgotten the feast and the sabbath which he appointed in Sion, and in the fury of his wrath has vexed the king, and priest, and prince.
 
-## Lamentations 3:26
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, salvation; crossref_top_vote=35; reco=keep
-- keywords: lord, salvation
-- fresh: And he waits and is quiet for the salvation of the Lord.
-- brenton: is good, and shall wait for, and quietly expect salvation of the Lord.
+## Lamentations 2:7
+- score: 17
+- reasons: decisions=1; footnotes=2; importance=high; keywords=altar, lord; crossref_top_vote=5
+- keywords: altar, lord
+- fresh: The Lord cast off his altar, shook off his sanctuary, and broke the wall of her palaces by the hand of the enemy. They gave voice in the house of the Lord as on a feast day.
+- brenton: Zain. The Lord has rejected his altar, he has cast off his sanctuary, he has broken by the hand of the enemy the wall of her palaces; they have uttered their voice in the house of the Lord as on a feast day.
 
 ## Ezekiel 20:39
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, lord, name; crossref_top_vote=3; reco=keep
+- score: 24
+- reasons: decisions=7; footnotes=7; reviewed_decisions=1; importance=high; keywords=god, holy, lord, name; crossref_top_vote=3; reco=keep
 - keywords: god, holy, lord, name
-- fresh: And you, house of Israel, thus says the Lord God: Each one, cast away his practices, and after these things, if you do not listen to me, you will no longer profane my holy name with your gifts and with your practices.
+- fresh: And you, house of Israel, thus says the Lord God: Each one, remove his practices, and after these things, if you do not listen to me, you will no longer profane my holy name with your gifts and with your practices.
 - brenton: And as to you, O house of Israel, thus saith the Lord, even the Lord; Put away each one his evil practices, and hereafter if ye hearken to me, then shall ye no more profane my holy name by your gifts and by devices.
 
 ## Ezekiel 39:25
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, lord, mercy, name; crossref_top_vote=6; eng_reco=keep; reco=keep
+- score: 23
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, holy, lord, mercy, name; crossref_top_vote=6; eng_reco=keep; reco=keep
 - keywords: god, holy, lord, mercy, name
-- fresh: Therefore thus says the Lord God: Now I will turn back captivity of Jacob and have mercy on the house of Israel and be jealous for my holy name.
+- fresh: Therefore thus says the Lord God: Now I will turn back captivity of Jacob and have mercy on the house of Israel and be zealous for my holy name.
 - brenton: Therefore thus saith the Lord God, Now will I turn back captivity in Jacob, and will have mercy on the house of Israel, and will be jealous for the sake of my holy name.
 
-## Ezekiel 43:19
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, seed, sin; crossref_top_vote=5; reco=keep
-- keywords: god, lord, seed, sin
-- fresh: And you will give to the Levitical priests, from the seed of Zadok, those drawing near to me to minister to me, says the Lord God, a young bull from the herd for sin.
-- brenton: And thou shalt appoint to the priests the Levites of the seed of Sadduc, that draw nigh to me, saith the Lord God, to minister to me, a calf of the herd for a sin-offering.
-
-## Ezekiel 44:15
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, lord, sacrifice; crossref_top_vote=5; reco=keep
-- keywords: god, holy, lord, sacrifice
-- fresh: But the Levitical priests, sons of Zadok, who kept the charges of my holy things when the house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says the Lord God.
-- brenton: The priests the Levites, the sons of Sadduc, who kept the charges of my sanctuary when the house of Israel went astray from me, these shall draw nigh to me to minister to me, and shall stand before my face, to offer sacrifice to me, the fat and the blood, saith the Lord God.
-
-## Daniel 4:22
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, god, holy, king; crossref_top_vote=4; eng_reco=keep; reco=keep
-- keywords: being, god, holy, king
-- fresh: And as for that tree being lifted up and coming near heaven and its trunk touching clouds, you, king, were exalted above all humans on the face of the whole earth. Your heart was lifted up in pride, and in strength your works were shown against the Holy One and his angels, because you laid waste the house of the living God because of the sins of his consecrated people.
-- brenton: [missing]
-
 ## Daniel 4:34
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, glory, god, holy; crossref_top_vote=9; reco=keep
+- score: 22
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=angel, glory, god, holy; crossref_top_vote=9; reco=keep
 - keywords: angel, glory, god, holy
-- fresh: And at the completion of the seven years, the time of my release came, and my sins and my ignorances were filled up before the God of heaven, and I prayed concerning my ignorances to the God of gods, the great one, and behold, an angel called to me from heaven, saying, Nebuchadnezzar, serve the God of heaven, the Holy One, and give glory to the Most High; the kingdom of your nation is restored to you.
+- fresh: And at the completion of the seven years, the time of my release came, and my sins and my ignorances were filled up before the God of heaven, and I prayed concerning my ignorances to the God of gods, the great one, and behold, one angel called to me from heaven, saying, Nebuchadnezzar, serve the God of heaven the Holy One, and give glory to the Most High; the kingdom of your nation is restored to you.
 - brenton: [missing]
 
 ## Daniel 4:37
-- score: 23
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, king, lord, sacrifice, soul; crossref_top_vote=16; eng_reco=keep; reco=keep
-- keywords: god, holy, king, lord, sacrifice, soul
-- fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all in them. I confess and praise because he is the God of gods and the Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing a kingdom from kings and setting others in their place. From now on I will serve him, and fear of him has seized me, and I praise all his holy ones. The gods of nations have no power in themselves to turn the kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as the God of heaven did in me and changed great things upon me. All the days of my kingdom I will offer sacrifices concerning my soul to the Most High as a sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against the God of heaven, and whoever is caught speaking, I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages dwelling in all regions and generations: Praise the Lord God of heaven and offer a sacrifice and an offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and my authority and kingdom were restored to me. It seemed good to me to show you and your wise men that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
+- score: 28
+- reasons: decisions=8; footnotes=1; reviewed_decisions=8; importance=high; keywords=god, holy, king, lord, peace, sacrifice; crossref_top_vote=16; eng_reco=keep; reco=keep
+- keywords: god, holy, king, lord, peace, sacrifice, soul
+- fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all things in them. I confess and praise because he is the God of gods and the Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing a kingdom from kings and setting others in their place. From now on I will serve him, and trembling from fear of him has seized me, and I praise all his holy ones. The gods of nations do not have power in themselves to turn the kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as the God of heaven did in me and changed great things upon me. All the days of my kingdom I will offer sacrifices concerning my soul to the Most High as a sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against the God of heaven, and whoever is caught speaking anything, these I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages, all those dwelling in all lands, in generations and generations: Praise the Lord God of heaven and offer a sacrifice and an offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and I held my authority and my kingdom among my people, and my greatness was restored to me. King Nebuchadnezzar, to all the nations and all the lands and all those dwelling in them: May peace be multiplied to you at every time. And now I will show you the deeds that the great God did with me. And it seemed good to me to show you and your sophists that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
+- brenton: [missing]
+
+## Daniel 6:4
+- score: 20
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=holy, king, spirit; crossref_top_vote=13; reco=keep
+- keywords: holy, king, spirit
+- fresh: Holding authority over everyone in the kingdom, Daniel was clothed in purple and was great and honored before King Darius, because he was honored and learned and intelligent, and holy spirit was in him, and he prospered in the king's affairs that he handled. Then the king determined to set Daniel over all his kingdom, together with the two men whom he appointed with him and the one hundred twenty-seven satraps.
+- brenton: [missing]
+
+## Daniel 6:23
+- score: 22
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, king, righteousness, sin; crossref_top_vote=9; reco=keep
+- keywords: god, king, righteousness, sin
+- fresh: And God saved me from the lions, because righteousness was found in me before him, and before you, O king, neither ignorance nor sin was found in me. But you listened to men who deceive kings and threw me into the lions' den for destruction.
 - brenton: [missing]
 
 ## Hosea 3:4
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, king, sacrifice; crossref_top_vote=6; reco=keep
+- score: 20
+- reasons: decisions=5; footnotes=1; reviewed_decisions=5; importance=high; keywords=altar, king, sacrifice; crossref_top_vote=6; reco=keep
 - keywords: altar, king, sacrifice
-- fresh: Because many days sons of Israel will sit without king and without ruler and without sacrifice and without altar and without priesthood and without disclosures.
+- fresh: Because many days the sons of Israel will sit without a king and without a ruler and without sacrifice and without an altar and without priesthood and without disclosures.
 - brenton: For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an altar, and without a priesthood, and without manifestations.
 
 ## Hosea 4:6
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, law, priest; crossref_top_vote=84; reco=keep
+- score: 22
+- reasons: decisions=4; footnotes=1; reviewed_decisions=4; importance=high; keywords=god, law, priest; crossref_top_vote=84; reco=keep
 - keywords: god, law, priest
 - fresh: My people became like those having no knowledge. Because you rejected knowledge, I also will reject you from serving as priest to me. And you forgot the law of your God; I also will forget your children.
 - brenton: My people are like as if they had no knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt not minister as priest to me: and as thou hast forgotten the law of thy God, I also will forget thy children.
 
 ## Hosea 6:6
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, mercy, sacrifice; crossref_top_vote=62; reco=keep
+- score: 22
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, mercy, sacrifice; crossref_top_vote=62; reco=keep
 - keywords: god, mercy, sacrifice
-- fresh: Because I want mercy and not sacrifice, and knowledge of God rather than burnt offerings.
+- fresh: Because I want mercy and not sacrifice, and knowledge of God rather than whole burnt offerings.
 - brenton: For I will have mercy rather than sacrifice, and the knowledge of God rather than whole-burnt-offerings.
 
+## Joel 1:9
+- score: 19
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=altar, lord, sacrifice; crossref_top_vote=5; reco=keep
+- keywords: altar, lord, sacrifice
+- fresh: Sacrifice and drink offering have been removed from the house of the Lord. Mourn, priests who serve at the altar.
+- brenton: The meat-offering and drink-offering are removed from the house of the Lord: mourn, ye priests that serve at the altar of the Lord.
+
 ## Joel 1:13
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, god, sacrifice; crossref_top_vote=7; reco=keep
+- score: 20
+- reasons: decisions=5; footnotes=1; reviewed_decisions=5; importance=high; keywords=altar, god, sacrifice; crossref_top_vote=7; reco=keep
 - keywords: altar, god, sacrifice
-- fresh: Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, spend the night in sackcloth, those serving God, because sacrifice and drink offering have been kept back from the house of your God.
+- fresh: Gird yourselves and beat yourselves, priests; lament, those who serve at the altar. Enter, spend the night in sackcloth, those who serve God, because sacrifice and drink offering have been kept back from the house of your God.
 - brenton: Gird yourselves with sackcloth, and lament, ye priests: mourn, ye that serve at the altar: go in, sleep in sackcloths, ye that minister to God: for the meat-offering and drink-offering are withheld from the house of your God.
 
-## Joel 2:14
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, repent, sacrifice; crossref_top_vote=11; reco=keep
-- keywords: god, lord, repent, sacrifice
-- fresh: Who knows whether he will turn and repent and leave behind him blessing, sacrifice, and drink offering to the Lord our God?
-- brenton: Who knows if he will return, and repent, and leave a blessing behind him, even a meat-offering and a drink-offering to the Lord your God?
+## Joel 2:17
+- score: 19
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=altar, god, lord; crossref_top_vote=9; reco=keep
+- keywords: altar, god, lord
+- fresh: At the base of the altar, the priests who serve the Lord will weep and say, Spare, O Lord, your people, and do not give your inheritance as a reproach, that nations should rule them, so that they may not say among the nations, Where is their God?
+- brenton: Between the porch and the altar let the priests that minister to the Lord weep, and say, Spare thy people, O Lord, and give not thine heritage to reproach, that the heathen should rule over them, lest they should say among the heathen, Where is their God?
 
 ## Amos 9:1
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, being, lord, mercy; crossref_top_vote=5; eng_reco=keep; reco=keep
+- score: 22
+- reasons: decisions=4; footnotes=1; reviewed_decisions=4; importance=high; keywords=altar, being, lord, mercy; crossref_top_vote=5; eng_reco=keep; reco=keep
 - keywords: altar, being, lord, mercy
-- fresh: I saw the Lord standing upon the altar, and he said, Strike upon the mercy-seat, and the foregates will be shaken; cut through into heads of all, and the remnant of them I will kill with sword. No one fleeing from them will flee away, and no one being rescued from them will be saved.
+- fresh: I saw the Lord standing upon the altar, and he said, Strike upon the mercy-seat, and the foregates will be shaken; cut through into heads of all, and the remnant of them I will kill with a sword. The one fleeing from them will certainly not escape, and the one being rescued from them will certainly not be saved.
 - brenton: I saw the Lord standing on the altar: and he said,
 
-## Obadiah 1:16
-- score: 13
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy; crossref_top_vote=5; reco=keep
-- keywords: holy
-- fresh: Because as you drank on my holy mountain, all nations will drink wine; they will drink and go down, and they will be as though not existing.
-- brenton: For as thou hast drunk upon my holy mountain, so shall all the nations drink wine; they shall drink, and go down, and be as if they were not.
-
 ## Obadiah 1:17
-- score: 15
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, salvation; crossref_top_vote=15; reco=keep
+- score: 18
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=holy, salvation; crossref_top_vote=15; reco=keep
 - keywords: holy, salvation
 - fresh: But on Mount Zion there will be salvation, and it will be holy, and the house of Jacob will inherit those who inherited them.
 - brenton: But on mount Sion there shall be deliverance, and there shall be a sanctuary; and the house of Jacob shall take for an inheritance those that took them for an inheritance.
 
 ## Jonah 2:8
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, lord, soul; crossref_top_vote=13; reco=keep
+- score: 19
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=holy, lord, soul; crossref_top_vote=13; reco=keep
 - keywords: holy, lord, soul
-- fresh: When my soul was failing from me, I remembered Lord, and may my prayer come to you, into your holy temple.
+- fresh: When my soul was failing from me, I remembered the Lord, and may my prayer come to you, into your holy temple.
 - brenton: When my soul was failing me, I remembered the Lord; and may my prayer come to thee into thy holy temple.
 
 ## Jonah 2:10
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, sacrifice, salvation; crossref_top_vote=10; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
+- score: 20
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=lord, sacrifice, salvation; crossref_top_vote=10; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - keywords: lord, sacrifice, salvation
 - fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
 - brenton: But I will sacrifice to thee with the voice of praise and thanksgiving: all that I have vowed I will pay to thee, the Lord of my salvation.
 
-## Micah 6:7
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=firstborn, lord, sin, soul; crossref_top_vote=7; reco=keep
-- keywords: firstborn, lord, sin, soul
-- fresh: Will the Lord accept thousands of rams or tens of thousands of torrents of fat? Shall I give my firstborn for impiety, the fruit of my womb for the sin of my soul?
-- brenton: Will the Lord accept thousands of rams, or ten thousands of fat goats? should I give my first-born for ungodliness, the fruit of my body for the sin of my soul?
+## Micah 1:2
+- score: 20
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, holy, lord; crossref_top_vote=5; reco=keep
+- keywords: god, holy, lord
+- fresh: Hear words, O peoples, and let the earth and all those in it pay attention; and the Lord will be among you for a testimony, the Lord from his holy house.
+- brenton: Hear these words, ye people; and let the earth give heed, and all that are in it: and the Lord God shall be among you for a testimony, the Lord out of his holy habitation.
 
 ## Habakkuk 1:12
 - score: 18
@@ -467,65 +460,58 @@ Books: 32
 - fresh: Are you not from the beginning, O Lord my God, my Holy One? And surely we shall not die. O Lord, you appointed him for judgment, and he formed me to reprove his discipline.
 - brenton: Art not thou from the beginning, O Lord God, my Holy One? and surely we shall not die. O Lord, thou hast established it for judgment, and he has formed me to chasten with his correction.
 
-## Zephaniah 1:7
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, sacrifice; crossref_top_vote=13; reco=keep
-- keywords: god, lord, sacrifice
-- fresh: Stand in awe before the Lord God, because the day of the Lord is near, because the Lord prepared his sacrifice; he consecrated his called ones.
-- brenton: Fear ye before the Lord God; for the day of the Lord is near; for the Lord has prepared his sacrifice, and has sanctified his guests.
-
 ## Zephaniah 1:8
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, lord, sacrifice; crossref_top_vote=6; reco=keep
+- score: 19
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=king, lord, sacrifice; crossref_top_vote=6; reco=keep
 - keywords: king, lord, sacrifice
-- fresh: And it will be in the day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all wearing foreign garments.
+- fresh: And it will be in the day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all those wearing foreign garments.
 - brenton: And it shall come to pass in the day of the Lord's sacrifice, that I will take vengeance on the princes, and on the king's house, and upon all that wear strange apparel.
 
 ## Zephaniah 3:4
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, law, spirit; crossref_top_vote=6; reco=keep
+- score: 19
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=holy, law, spirit; crossref_top_vote=6; reco=keep
 - keywords: holy, law, spirit
-- fresh: Her prophets are spirit-borne men, contemptuous; her priests profane holy things and act impiously against law.
+- fresh: Her prophets are spirit-borne men, despisers; her priests profane the holy things and act impiously against law.
 - brenton: Her prophets are light and scornful men: her priests profane the holy things, and sinfully transgress the law.
 
 ## Haggai 1:1
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, lord, priest; crossref_top_vote=6; reco=keep
+- score: 19
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=king, lord, priest; crossref_top_vote=6; reco=keep
 - keywords: king, lord, priest
-- fresh: In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet, saying: Speak now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech, the high priest, saying,
+- fresh: In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet, saying: Say now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech, the high priest, saying,
 - brenton: In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of the prophet Aggæus, saying, Speak to Zorobabel the son of Salathiel, of the tribe of Juda, and to Jesus the son of Josedec, the high priest, saying,
 
 ## Haggai 1:12
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, priest; crossref_top_vote=7; reco=keep
+- score: 19
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=god, lord, priest; crossref_top_vote=7; reco=keep
 - keywords: god, lord, priest
-- fresh: Zerubbabel son of Shealtiel, from the tribe of Judah, and Joshua son of Josedech, the high priest, and all remnant of the people, listened to the voice of the Lord their God and to the words of Haggai prophet, because the Lord their God sent him to them, and people feared before the Lord.
+- fresh: And Zerubbabel son of Shealtiel from the tribe of Judah, and Joshua son of Josedech the high priest, and all the remnant of the people, listened to the voice of the Lord their God and to the words of Haggai the prophet, just as the Lord their God sent him to them, and the people feared before the Lord.
 - brenton: And Zorobabel the son of Salathiel, of the tribe of Juda, and Jesus the son of Josedec, the high priest, and all the remnant of the people, hearkened to the voice of the Lord their God, and the words of the prophet Aggæus, according as the Lord their God had sent him to them, and the people feared before the Lord.
 
 ## Haggai 1:14
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, priest, spirit; crossref_top_vote=6; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; reco=keep
+- score: 22
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, lord, priest, spirit; crossref_top_vote=6; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - keywords: god, lord, priest, spirit
-- fresh: The Lord stirred the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
+- fresh: And the Lord stirred up the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
 - brenton: And the Lord stirred up the spirit of Zorobabel the son of Salathiel, of the tribe of Juda, and the spirit of Jesus the son of Josedec, the high priest, and the spirit of the remnant of all the people; and they went in, and wrought in the house of the Lord Almighty their God,
 
 ## Haggai 2:4
-- score: 15
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, priest; crossref_top_vote=14; reco=keep
+- score: 18
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=lord, priest; crossref_top_vote=14; reco=keep
 - keywords: lord, priest
-- fresh: But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the high priest, and let all the people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
+- fresh: And now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the high priest, and let all the people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
 - brenton: Yet now be strong, O Zorobabel, saith the Lord; and strengthen thyself, O Jesus the high priest, the son of Josedec; and let all the people of the land strengthen themselves, saith the Lord, and work, for I am with you, saith the Lord Almighty;
 
 ## Zechariah 14:5
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, king, lord; crossref_top_vote=9; reco=keep
+- score: 24
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=god, holy, king, lord; crossref_top_vote=9; reco=keep
 - keywords: god, holy, king, lord
-- fresh: And the ravine of my mountains will be blocked up, and the ravine of mountains will cling together as far as Azal, and it will be blocked as it was blocked in the days of earthquake in the days of Uzziah king of Judah, and the Lord my God will come and all holy ones with him.
+- fresh: And the ravine of my mountains will be blocked up, and the ravine of mountains will be joined together as far as Jasol, and it will be blocked as it was blocked in the days of the earthquake in the days of Uzziah king of Judah, and the Lord my God will come, and all the holy ones with him.
 - brenton: And the valley of my mountains shall be closed up, and the valley of the mountains shall be joined on to Jasod, and shall be blocked up as it was blocked up in the days of the earthquake, in the days of Ozias king of Juda; and the Lord my God shall come, and all the saints with him.
 
 ## Malachi 2:7
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=law, lord, messenger, priest; crossref_top_vote=13; reco=keep
+- score: 24
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=law, lord, messenger, priest; crossref_top_vote=13; reco=keep
 - keywords: law, lord, messenger, priest
-- fresh: Because the lips of a priest will guard knowledge, and the law they will seek from his mouth, because he is a messenger of the Lord Almighty.
+- fresh: Because the lips of a priest will guard knowledge, and they will seek the law from his mouth, because he is a messenger of the Lord Almighty.
 - brenton: For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord Almighty.

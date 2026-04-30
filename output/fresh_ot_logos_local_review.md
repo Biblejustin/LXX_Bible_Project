@@ -170,6 +170,20 @@ Rows: 16
 - fresh: And from the sacrifice of salvation he shall bring an offering to God: the fat and the unblemished hind-part, he shall remove it with the lower back, and the fat of the belly,
 - brenton: And he shall bring of the peace-offering a burnt-sacrifice to the Lord: the fat and the hinder part unblemished he shall take away with the loins, and having taken away all the fat that covers the belly, and all the fat that is on the belly,
 
+## Jonah 2:10
+- priority: `20`
+- importance: `high`
+- checked: `1`
+- scopes: soteria-sacrifice-formula
+- signals: lexical_support
+- supports: salvation-shaped rendering
+- recommendation: `keep`
+- confidence: `high`
+- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
+- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
+- fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
+- brenton: But I will sacrifice to thee with the voice of praise and thanksgiving: all that I have vowed I will pay to thee, the Lord of my salvation.
+
 ## Joshua 22:29
 - priority: `20`
 - importance: `high`
@@ -211,17 +225,3 @@ Rows: 16
 - summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
 - fresh: And it came to be on the next day, the people rose early and built there an altar and offered whole burnt offerings of salvation.
 - brenton: And it came to pass on the morrow that the people rose up early, and built there an altar, and offered up whole-burnt-offerings and peace-offerings.
-
-## Jonah 2:10
-- priority: `17`
-- importance: `high`
-- checked: `1`
-- scopes: soteria-sacrifice-formula
-- signals: lexical_support
-- supports: salvation-shaped rendering
-- recommendation: `keep`
-- confidence: `high`
-- tools: AutoComplete.db WordSense; Bible Word Study; Factbook; recent history
-- summary: Local Logos word-sense and Bible Word Study cluster soteria around salvation/deliverance. Peace/well-being appears, but not as the dominant controlling sense.
-- fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
-- brenton: But I will sacrifice to thee with the voice of praise and thanksgiving: all that I have vowed I will pay to thee, the Lord of my salvation.

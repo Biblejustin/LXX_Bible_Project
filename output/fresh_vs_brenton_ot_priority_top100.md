@@ -107,6 +107,13 @@ Rows: 100
 - fresh: Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
 - brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
 
+## Daniel 4:37
+- book: Daniel
+- score: 28
+- reasons: decisions=8; footnotes=1; reviewed_decisions=8; importance=high; keywords=god, holy, king, lord, peace, sacrifice; crossref_top_vote=16; eng_reco=keep; reco=keep
+- fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all things in them. I confess and praise because he is the God of gods and the Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing a kingdom from kings and setting others in their place. From now on I will serve him, and trembling from fear of him has seized me, and I praise all his holy ones. The gods of nations do not have power in themselves to turn the kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as the God of heaven did in me and changed great things upon me. All the days of my kingdom I will offer sacrifices concerning my soul to the Most High as a sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against the God of heaven, and whoever is caught speaking anything, these I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages, all those dwelling in all lands, in generations and generations: Praise the Lord God of heaven and offer a sacrifice and an offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and I held my authority and my kingdom among my people, and my greatness was restored to me. King Nebuchadnezzar, to all the nations and all the lands and all those dwelling in them: May peace be multiplied to you at every time. And now I will show you the deeds that the great God did with me. And it seemed good to me to show you and your sophists that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
+- brenton: [missing]
+
 ## Genesis 2:7
 - book: Genesis
 - score: 28
@@ -121,6 +128,41 @@ Rows: 100
 - fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 - brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.
 
+## Jeremiah 23:5
+- book: Jeremiah
+- score: 27
+- reasons: decisions=3; footnotes=2; reviewed_decisions=3; importance=high; keywords=judgment, king, lord, righteous, righteousness; crossref_top_vote=23; eng_reco=keep; reco=keep
+- fresh: Behold, days are coming, says the Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon the earth.
+- brenton: Behold, the days come, saith the Lord, when I will raise up to David a righteous branch, and a king shall reign and understand, and shall execute judgment and righteousness on the earth.
+
+## Micah 6:8
+- book: Micah
+- score: 27
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, judgment, justice, lord, mercy; crossref_top_vote=186; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- fresh: He told you, O human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
+- brenton: Has it not been told thee, O man, what is good? or what does the Lord require of thee, but to do justice, and love mercy, and be ready to walk with the Lord thy God?
+
+## Zechariah 12:10
+- book: Zechariah
+- score: 27
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=beloved, compassion, firstborn, grace, spirit; crossref_top_vote=34; eng_reco=keep; reco=keep
+- fresh: And I will pour out upon the house of David and upon the inhabitants of Jerusalem a spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for a beloved one and grieve over him as over a firstborn.
+- brenton: And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.
+
+## Amos 9:12
+- book: Amos
+- score: 26
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=7; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
+- fresh: so that the remnant of men and all nations upon whom my name has been called upon them may seek, says the Lord God who does these things.
+- brenton: that the remnant of men, and all the Gentiles upon whom my name is called, may earnestly seek me, saith the Lord who does all these things.
+
+## Jeremiah 9:23
+- book: Jeremiah
+- score: 26
+- reasons: decisions=1; footnotes=2; reviewed_decisions=1; importance=high; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57; eng=fresh:0/brenton:0/mt:2; eng_reco=keep; eng_flags=mt_leaning; reco=keep
+- fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
+- brenton: but let him that boasts boast in this, the understanding and knowing that I am the Lord that exercise mercy, and judgment, and righteousness, upon the earth; for in these things is my pleasure, saith the Lord.
+
 ## Leviticus 4:35
 - book: Leviticus
 - score: 26
@@ -128,12 +170,26 @@ Rows: 100
 - fresh: And he shall remove all its fat, just as the fat of a sheep is removed from the sacrifice of salvation, and the priest shall place it on the altar, on the Lord's whole burnt offering. And the priest shall make atonement for him for the sin that he sinned, and it shall be forgiven him.
 - brenton: And he shall take away all his fat, as the fat of the lamb of the sacrifice of peace-offering is taken away, and the priest shall put it on the altar for a whole-burnt-offering to the Lord; and the priest shall make atonement for him for the sin which he sinned, and it shall be forgiven him.
 
+## Isaiah 44:2
+- book: Isaiah
+- score: 25
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=beloved, god, lord, servant; crossref_top_vote=200; eng_reco=keep; reco=keep
+- fresh: Thus says the Lord God, the one making you and the one forming you from the womb: You will still be helped. Do not fear, my servant Jacob, beloved Israel whom I chose.
+- brenton: Thus saith the Lord God that made thee, and he that formed thee from the womb; Thou shalt yet be helped: fear not, my servant Jacob; and beloved Israel, whom I have chosen.
+
 ## Isaiah 54:10
 - book: Isaiah
 - score: 25
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, covenant, lord, mercy, peace; crossref_top_vote=56; eng=fresh:0/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 - brenton: shall the mountains depart, nor shall thy hills be removed: so neither shall my mercy fail thee, nor shall the covenant of thy peace be at all removed: for the Lord who is gracious to thee has spoken it.
+
+## Jeremiah 7:11
+- book: Jeremiah
+- score: 25
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=10; nt_eng=support:4/soften:6/mixed:5; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
+- fresh: Has my house over which my name has been called become a den of robbers there before you? And I, behold, have seen, says the Lord.
+- brenton: Is my house, whereon my name is called, a den of robbers in your eyes? And, behold, I have seen it, saith the Lord.
 
 ## Leviticus 5:15
 - book: Leviticus
@@ -170,6 +226,27 @@ Rows: 100
 - fresh: And you shall eat it before the Lord your God in the place where the Lord your God chooses for his name to be called there. You shall bring the tithes of your grain and your wine and your oil and the firstborn of your cattle and your sheep, so that you may learn to fear the Lord your God all the days.
 - brenton: And thou shalt eat it in the place which the Lord thy God shall choose to have his name called there; ye shall bring the tithe of thy corn and of thy wine, and of thine oil, the first-born of thy herd and of thy flock, that thou mayest learn to fear the Lord thy God always.
 
+## Ezekiel 18:27
+- book: Ezekiel
+- score: 24
+- reasons: decisions=3; footnotes=4; importance=high; keywords=judgment, justice, righteousness, soul; crossref_top_vote=7
+- fresh: And when the lawless one turns from the lawlessness that he committed and does judgment and righteousness, this one has preserved his soul.
+- brenton: And when the wicked man turns away from his wickedness that he has committed, and shall do judgment and justice, he has kept his soul,
+
+## Ezekiel 20:39
+- book: Ezekiel
+- score: 24
+- reasons: decisions=7; footnotes=7; reviewed_decisions=1; importance=high; keywords=god, holy, lord, name; crossref_top_vote=3; reco=keep
+- fresh: And you, house of Israel, thus says the Lord God: Each one, remove his practices, and after these things, if you do not listen to me, you will no longer profane my holy name with your gifts and with your practices.
+- brenton: And as to you, O house of Israel, thus saith the Lord, even the Lord; Put away each one his evil practices, and hereafter if ye hearken to me, then shall ye no more profane my holy name by your gifts and by devices.
+
+## Isaiah 49:7
+- book: Isaiah
+- score: 24
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, holy, lord, servant, soul; crossref_top_vote=12; eng_reco=keep; reco=keep
+- fresh: Thus says the Lord, the one rescuing you, the God of Israel: Sanctify the one despising his soul, the one abhorred by the nations, the servant of rulers. Kings will see him and rise; rulers also will worship him, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
+- brenton: Thus saith the Lord that delivered thee, the God of Israel, Sanctify him that despises his life, him that is abhorred by the nations that are the servants of princes: kings shall behold him, and princes shall arise, and shall worship him, for the Lord's sake: for the Holy One of Israel is faithful, and I have chosen thee.
+
 ## Isaiah 59:21
 - book: Isaiah
 - score: 24
@@ -184,19 +261,33 @@ Rows: 100
 - fresh: Great is his rule, and his peace has no boundary, upon the throne of David and his kingdom, to make it prosper and uphold it in righteousness and judgment from now and forever. The zeal of the Lord of hosts will do these things.
 - brenton: His government shall be great, and of his peace there is no end: it shall be upon the throne of David, and upon his kingdom, to establish it, and to support it with judgment and with righteousness, from henceforth and for ever. The zeal of the Lord of hosts shall perform this.
 
-## Jeremiah 9:23
+## Jeremiah 14:9
 - book: Jeremiah
 - score: 24
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57; eng=fresh:0/brenton:0/mt:2; eng_reco=keep; eng_flags=mt_leaning; reco=keep
-- fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
-- brenton: but let him that boasts boast in this, the understanding and knowing that I am the Lord that exercise mercy, and judgment, and righteousness, upon the earth; for in these things is my pleasure, saith the Lord.
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=5; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
+- fresh: Do not be like a sleeping man or like a man unable to save. And you are among us, Lord, and your name is called upon us; do not forget us.
+- brenton: Wilt thou be as a man asleep, or as a strong man that cannot save? yet thou art among us, O Lord, and thy name is called upon us; forget us not.
 
-## Micah 6:8
-- book: Micah
+## Malachi 1:6
+- book: Malachi
 - score: 24
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, justice, lord, mercy; crossref_top_vote=186; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
-- fresh: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
-- brenton: Has it not been told thee, O man, what is good? or what does the Lord require of thee, but to do justice, and love mercy, and be ready to walk with the Lord thy God?
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=lord, name, servant; crossref_top_vote=61; reco=keep
+- fresh: A son honors a father and a servant his master. If I am a father, where is my honor? And if I am a master, where is my fear? says the Lord Almighty to you, priests despising my name. And you said, In what have we despised your name?
+- brenton: A son honours his father, and a servant his master: if then I am a father, where is mine honour? and if I am a master, where is my fear? saith the Lord Almighty. Ye the priests are they that despise my name: yet ye said, Wherein have we despised thy name?
+
+## Malachi 2:7
+- book: Malachi
+- score: 24
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=law, lord, messenger, priest; crossref_top_vote=13; reco=keep
+- fresh: Because the lips of a priest will guard knowledge, and they will seek the law from his mouth, because he is a messenger of the Lord Almighty.
+- brenton: For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord Almighty.
+
+## Zechariah 14:5
+- book: Zechariah
+- score: 24
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=god, holy, king, lord; crossref_top_vote=9; reco=keep
+- fresh: And the ravine of my mountains will be blocked up, and the ravine of mountains will be joined together as far as Jasol, and it will be blocked as it was blocked in the days of the earthquake in the days of Uzziah king of Judah, and the Lord my God will come, and all the holy ones with him.
+- brenton: And the valley of my mountains shall be closed up, and the valley of the mountains shall be joined on to Jasod, and shall be blocked up as it was blocked up in the days of the earthquake, in the days of Ozias king of Juda; and the Lord my God shall come, and all the saints with him.
 
 ## 2 Kings 17:34
 - book: 2 Kings
@@ -205,18 +296,11 @@ Rows: 100
 - fresh: To this day they act according to their judgment. They fear, and they act according to their statutes and according to their judgment and according to the law and according to the commandment that the Lord commanded the sons of Jacob, whom he named Israel.
 - brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
-## Amos 9:12
-- book: Amos
-- score: 23
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=7; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
-- fresh: so that the remnant of men and all nations upon whom my name has been called may seek, says the Lord God who does these things.
-- brenton: that the remnant of men, and all the Gentiles upon whom my name is called, may earnestly seek me, saith the Lord who does all these things.
-
-## Daniel 4:37
+## Daniel 9:4
 - book: Daniel
 - score: 23
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, king, lord, sacrifice, soul; crossref_top_vote=16; eng_reco=keep; reco=keep
-- fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all in them. I confess and praise because he is the God of gods and the Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing a kingdom from kings and setting others in their place. From now on I will serve him, and fear of him has seized me, and I praise all his holy ones. The gods of nations have no power in themselves to turn the kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as the God of heaven did in me and changed great things upon me. All the days of my kingdom I will offer sacrifices concerning my soul to the Most High as a sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against the God of heaven, and whoever is caught speaking, I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages dwelling in all regions and generations: Praise the Lord God of heaven and offer a sacrifice and an offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and my authority and kingdom were restored to me. It seemed good to me to show you and your wise men that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=covenant, god, lord, mercy; crossref_top_vote=26; eng_reco=keep; reco=keep
+- fresh: And I prayed to the Lord God and confessed and said, Behold, Lord, you are the great and mighty and fearsome God, keeping covenant and mercy for those loving you and keeping your commands.
 - brenton: [missing]
 
 ## Ecclesiastes 11:5
@@ -225,6 +309,20 @@ Rows: 100
 - reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=god, spirit, wind; crossref_top_vote=22; reco=keep
 - fresh: As you do not know what the way of spirit is, as bones are in the womb of a pregnant woman, so you will not know the works of God, who will make all things.
 - brenton: Among whom none knows what is the way of the wind: as the bones are hid in the womb of a pregnant woman, so thou shalt not know the works of God, even all things whatsoever he shall do.
+
+## Ezekiel 18:20
+- book: Ezekiel
+- score: 23
+- reasons: decisions=5; footnotes=5; reviewed_decisions=1; importance=high; keywords=righteous, righteousness, soul; crossref_top_vote=39; reco=keep
+- fresh: And the soul sinning will die, but a son will not bear the injustice of his father, nor will a father bear the injustice of his son. The righteousness of a righteous one will be upon him, and the lawlessness of a lawless one will be upon him.
+- brenton: But the soul that sins shall die: and the son shall not bear the iniquity of the father, nor shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the iniquity of the transgressor shall be upon him.
+
+## Ezekiel 39:25
+- book: Ezekiel
+- score: 23
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, holy, lord, mercy, name; crossref_top_vote=6; eng_reco=keep; reco=keep
+- fresh: Therefore thus says the Lord God: Now I will turn back captivity of Jacob and have mercy on the house of Israel and be zealous for my holy name.
+- brenton: Therefore thus saith the Lord God, Now will I turn back captivity in Jacob, and will have mercy on the house of Israel, and will be jealous for the sake of my holy name.
 
 ## Jeremiah 15:16
 - book: Jeremiah
@@ -246,6 +344,20 @@ Rows: 100
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, peace, sacrifice, salvation; crossref_top_vote=4; crossref_shared_family=3; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
 - fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
 - brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
+
+## Malachi 2:10
+- book: Malachi
+- score: 23
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=covenant, create, god; crossref_top_vote=42; reco=keep
+- fresh: Did not one God create you? Is not one father of you all? Why did each abandon his brother, to profane the covenant of your fathers?
+- brenton: Have ye not all one father? Did not one God create you? why have ye forsaken every man his brother, to profane the covenant of your fathers?
+
+## Malachi 3:5
+- book: Malachi
+- score: 23
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=judgment, lord, name; crossref_top_vote=28; reco=keep
+- fresh: And I will come near to you in judgment, and I will be a swift witness against the sorceresses and against the adulteresses and against those swearing falsely by my name and against those withholding the wage of a hired worker, and those oppressing a widow and those striking orphans and those turning aside the judgment of a sojourner, and those not fearing me, says the Lord Almighty.
+- brenton: And I will draw near to you in judgment; and I will be a swift witness against the witches, and against the adulteresses, and against them that swear falsely by my name, and against them that keep back the hireling's wages, and them that oppress the widow, and afflict orphans, and that wrest the judgment of the stranger, and fear not me, saith the Lord Almighty.
 
 ## Zechariah 13:9
 - book: Zechariah
@@ -282,6 +394,41 @@ Rows: 100
 - fresh: And a horseman went to meet them and said, Thus says the king, Is it peace? And Jehu said, What is peace to you? Turn behind me. And the watchman reported, saying, The messenger came to them and did not return.
 - brenton: And there went a horseman to meet them, and said, Thus says the king, Peace. And Ju said, What hast thou to do with peace? turn behind me. And the watchman reported, saying, The messenger came up to them, and has not returned.
 
+## Amos 5:15
+- book: Amos
+- score: 22
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, judgment, lord, mercy; crossref_top_vote=11; reco=keep
+- fresh: We have hated evil things and loved good things, and restore judgment in the gates, so that the Lord God Almighty may show mercy to the remnant of Joseph.
+- brenton: We have hated evil, and loved good: and restore ye judgment in the gates; that the Lord God Almighty may have mercy on the remnant of Joseph.
+
+## Amos 9:1
+- book: Amos
+- score: 22
+- reasons: decisions=4; footnotes=1; reviewed_decisions=4; importance=high; keywords=altar, being, lord, mercy; crossref_top_vote=5; eng_reco=keep; reco=keep
+- fresh: I saw the Lord standing upon the altar, and he said, Strike upon the mercy-seat, and the foregates will be shaken; cut through into heads of all, and the remnant of them I will kill with a sword. The one fleeing from them will certainly not escape, and the one being rescued from them will certainly not be saved.
+- brenton: I saw the Lord standing on the altar: and he said,
+
+## Daniel 4:33
+- book: Daniel
+- score: 22
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=god, king, lord, soul; crossref_top_vote=3; eng_reco=keep; reco=keep
+- fresh: By morning all these things will be completed upon you, Nebuchadnezzar king of Babylon, and none of them will fail. I, Nebuchadnezzar king of Babylon, was bound for seven years; they fed me grass like an ox, and I ate from the herbs of the earth. And after seven years I gave my soul to prayer and begged concerning my sins before the Lord God of heaven, and concerning my ignorances I prayed to the God of gods, the great one. And my hair became like eagle feathers, and my nails like those of a lion. My flesh and my heart were changed; I walked naked among the beasts of the earth. I saw a dream, and thoughts seized me, and after a time much sleep took me and drowsiness fell upon me.
+- brenton: [missing]
+
+## Daniel 4:34
+- book: Daniel
+- score: 22
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=angel, glory, god, holy; crossref_top_vote=9; reco=keep
+- fresh: And at the completion of the seven years, the time of my release came, and my sins and my ignorances were filled up before the God of heaven, and I prayed concerning my ignorances to the God of gods, the great one, and behold, one angel called to me from heaven, saying, Nebuchadnezzar, serve the God of heaven the Holy One, and give glory to the Most High; the kingdom of your nation is restored to you.
+- brenton: [missing]
+
+## Daniel 6:23
+- book: Daniel
+- score: 22
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, king, righteousness, sin; crossref_top_vote=9; reco=keep
+- fresh: And God saved me from the lions, because righteousness was found in me before him, and before you, O king, neither ignorance nor sin was found in me. But you listened to men who deceive kings and threw me into the lions' den for destruction.
+- brenton: [missing]
+
 ## Exodus 14:31
 - book: Exodus
 - score: 22
@@ -296,6 +443,20 @@ Rows: 100
 - fresh: And he said, "If in hearing you hear the voice of the Lord your God and do the things pleasing before him and give ear to his commands and keep all his ordinances, every sickness that I brought upon the Egyptians I will not bring upon you, for I am the Lord who heals you."
 - brenton: and said, If thou wilt indeed hear the voice of the Lord thy God, and do things pleasing before him, and wilt hearken to his commands, and keep all his ordinances, no disease which I have brought upon the Egyptians will I bring upon thee, for I am the Lord thy God that heals thee.
 
+## Ezekiel 18:5
+- book: Ezekiel
+- score: 22
+- reasons: decisions=2; footnotes=3; importance=high; keywords=judgment, righteous, righteousness; crossref_top_vote=5
+- fresh: And the man who is righteous, who does judgment and righteousness,
+- brenton: But the man who shall be just, who executes judgment and righteousness,
+
+## Ezekiel 4:14
+- book: Ezekiel
+- score: 22
+- reasons: decisions=2; footnotes=3; importance=high; keywords=god, lord, soul; crossref_top_vote=6
+- fresh: And I said, No indeed, Lord God of Israel. Behold, my soul has not been defiled with uncleanness, and I have not eaten what died of itself or was torn by beasts from my birth until now, nor has any stale flesh entered into my mouth.
+- brenton: Then I said, Not so, Lord God of Israel: surely my soul has not been defiled with uncleanness; nor have I eaten that which died of itself or was torn of beasts from my birth until now; neither has any corrupt flesh entered into my mouth.
+
 ## Genesis 24:7
 - book: Genesis
 - score: 22
@@ -303,19 +464,40 @@ Rows: 100
 - fresh: The Lord, the God of heaven and the God of the earth, who took me from my father's house and from the land where I was born, who spoke to me and swore to me, saying, To you and to your seed I will give this land - he himself will send his angel ahead of you, and you shall take a wife for my son from there.
 - brenton: The Lord the God of heaven, and the God of the earth, who took me out of my father's house, and out of the land whence I sprang, who spoke to me, and who swore to me, saying, I will give this land to thee and to thy seed, he shall send his angel before thee, and thou shalt take a wife to my son from thence.
 
-## Isaiah 44:2
-- book: Isaiah
+## Haggai 1:14
+- book: Haggai
 - score: 22
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved, god, lord, servant; crossref_top_vote=200; eng_reco=keep; reco=keep
-- fresh: Thus says the Lord God, one making you and shaping you from womb: You will still be helped. Do not fear, my servant Jacob, beloved Israel whom I chose.
-- brenton: Thus saith the Lord God that made thee, and he that formed thee from the womb; Thou shalt yet be helped: fear not, my servant Jacob; and beloved Israel, whom I have chosen.
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, lord, priest, spirit; crossref_top_vote=6; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- fresh: And the Lord stirred up the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
+- brenton: And the Lord stirred up the spirit of Zorobabel the son of Salathiel, of the tribe of Juda, and the spirit of Jesus the son of Josedec, the high priest, and the spirit of the remnant of all the people; and they went in, and wrought in the house of the Lord Almighty their God,
 
-## Jeremiah 23:5
-- book: Jeremiah
+## Hosea 13:4
+- book: Hosea
 - score: 22
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, king, lord, righteous, righteousness; crossref_top_vote=23; eng_reco=keep; reco=keep
-- fresh: Behold, days come, says the Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
-- brenton: Behold, the days come, saith the Lord, when I will raise up to David a righteous branch, and a king shall reign and understand, and shall execute judgment and righteousness on the earth.
+- reasons: decisions=5; footnotes=1; reviewed_decisions=5; importance=high; keywords=created, god, lord, savior; crossref_top_vote=13; reco=keep
+- fresh: But I am the Lord your God, establishing heaven and creating earth, whose hands created all the army of heaven, and I did not show them to you for you to go after them. And I brought you up from the land of Egypt, and besides me you will know no god, and there is no savior except me.
+- brenton: But I am the Lord thy God that establishes the heaven, and creates the earth, whose hands have framed the whole host of heaven: but I shewed them not to thee that thou shouldest go after them: and I brought thee up out of the land of Egypt, and thou shalt know no God but me; and there is no Saviour beside me.
+
+## Hosea 4:1
+- book: Hosea
+- score: 22
+- reasons: decisions=4; footnotes=1; reviewed_decisions=4; importance=high; keywords=god, lord, mercy, truth; crossref_top_vote=7; reco=keep
+- fresh: Hear the word of the Lord, sons of Israel, because the Lord has a case against the inhabitants of the land, because there is no truth nor mercy nor knowledge of God upon the land.
+- brenton: Hear the word of the Lord, ye children of Israel: for the Lord has a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
+
+## Hosea 4:6
+- book: Hosea
+- score: 22
+- reasons: decisions=4; footnotes=1; reviewed_decisions=4; importance=high; keywords=god, law, priest; crossref_top_vote=84; reco=keep
+- fresh: My people became like those having no knowledge. Because you rejected knowledge, I also will reject you from serving as priest to me. And you forgot the law of your God; I also will forget your children.
+- brenton: My people are like as if they had no knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt not minister as priest to me: and as thou hast forgotten the law of thy God, I also will forget thy children.
+
+## Hosea 6:6
+- book: Hosea
+- score: 22
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, mercy, sacrifice; crossref_top_vote=62; reco=keep
+- fresh: Because I want mercy and not sacrifice, and knowledge of God rather than whole burnt offerings.
+- brenton: For I will have mercy rather than sacrifice, and the knowledge of God rather than whole-burnt-offerings.
 
 ## Joshua 22:23
 - book: Joshua
@@ -330,6 +512,20 @@ Rows: 100
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, forgive, god, holy, lord; crossref_top_vote=8; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
+
+## Malachi 1:14
+- book: Malachi
+- score: 22
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=king, lord, name; crossref_top_vote=8; reco=keep
+- fresh: Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices a corrupted thing to the Lord. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
+- brenton: And cursed is the man who had the power, and possessed a male in his flock, and whose vow is upon him, and who sacrifices a corrupt thing to the Lord: for I am a great King, saith the Lord Almighty, and my name is glorious among the nations.
+
+## Malachi 3:1
+- book: Malachi
+- score: 22
+- reasons: decisions=1; footnotes=2; reviewed_decisions=1; importance=high; keywords=angel, covenant, lord, messenger; crossref_top_vote=21; reco=keep
+- fresh: Behold, I send my messenger, and he will look upon a way before my face, and suddenly the Lord whom you seek will come into his own temple, and the messenger of the covenant whom you desire. Behold, he comes, says the Lord Almighty.
+- brenton: Behold, I send forth my messenger, and he shall survey the way before me: and the Lord, whom ye seek, shall suddenly come into his temple, even the angel of the covenant, whom ye take pleasure in: behold, he is coming, saith the Lord Almighty.
 
 ## Nehemiah 1:11
 - book: Nehemiah
@@ -373,12 +569,26 @@ Rows: 100
 - fresh: Mercy and truth met together; righteousness and peace kissed.
 - brenton: Mercy and truth are met together: righteousness and peace have kissed each other.
 
-## Zechariah 12:10
+## Zechariah 11:6
 - book: Zechariah
 - score: 22
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved, compassion, firstborn, grace, spirit; crossref_top_vote=34; eng_reco=keep; reco=keep
-- fresh: And I will pour out upon the house of David and upon the inhabitants of Jerusalem a spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
-- brenton: And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=king, lord, mercy; crossref_top_vote=5; reco=keep
+- fresh: Therefore I will no longer spare inhabitants of the land, says the Lord, and behold, I hand over humans, each into the hands of his neighbor and into the hands of his king, and they will cut down the land, and I will certainly not rescue from their hand.
+- brenton: Therefore I will no longer have mercy upon the inhabitants of the land, saith the Lord: but, behold, I will deliver up the men every one into the hand of his neighbour, and into the hand of his king; and they shall destroy the land, and I will not rescue out of their hand.
+
+## Zechariah 9:9
+- book: Zechariah
+- score: 22
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=king, righteous; crossref_top_vote=55; reco=keep
+- fresh: Rejoice greatly, O daughter of Zion; proclaim, O daughter of Jerusalem: behold, your king comes to you, righteous and saving, he himself meek and mounted upon a beast of burden and a young foal.
+- brenton: Rejoice greatly, O daughter of Sion; proclaim it aloud, O daughter of Jerusalem; behold, the King is coming to thee, just, and a Saviour; he is meek and riding on an ass, and a young foal.
+
+## Zephaniah 2:3
+- book: Zephaniah
+- score: 22
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=judgment, justice, lord, righteousness; crossref_top_vote=31; reco=keep
+- fresh: Seek the Lord, all humble of earth; work judgment and seek righteousness, and answer these things, so that you may be sheltered in the day of the Lord's wrath.
+- brenton: Seek ye the Lord, all ye meek of the earth; do judgment, and seek justice, and answer accordingly; that ye may be hid in the day of the wrath of the Lord.
 
 ## 1 Chronicles 16:35
 - book: 1 Chronicles
@@ -429,13 +639,6 @@ Rows: 100
 - fresh: And they will listen to your voice, and you and the elders of Israel shall go in to Pharaoh king of Egypt, and you shall say to him, 'The God of the Hebrews has summoned us. Let us go then a journey of three days into the wilderness so that we may sacrifice to our God.'
 - brenton: And they shall hearken to thy voice, and thou and the elders of Israel shall go in to Pharao king of Egypt, and thou shalt say to him, The God of the Hebrews has called us; we will go then a journey of three days into the wilderness, that we may sacrifice to our God.
 
-## Ezekiel 45:9
-- book: Ezekiel
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, justice, lord, righteousness; crossref_top_vote=6; reco=keep
-- fresh: Thus says the Lord God: Enough for you, rulers of Israel. Remove injustice and misery; do judgment and righteousness; remove oppression from my people, says the Lord God.
-- brenton: Thus saith the Lord God; Let it suffice you, ye princes of Israel: remove injustice and misery, execute judgment and justice; take away oppression from my people, saith the Lord God.
-
 ## Genesis 1:2
 - book: Genesis
 - score: 21
@@ -457,26 +660,12 @@ Rows: 100
 - fresh: And he said to me, The Lord God, before whom I have been well-pleasing, will himself send out his angel with you and prosper your way, and you shall take a wife for my son from my tribe and from my father's house.
 - brenton: And he said to me, The Lord God to whom I have been acceptable in his presence, himself shall send out his angel with thee, and shall prosper thy journey, and thou shalt take a wife for my son of my tribe, and of the house of my father.
 
-## Haggai 1:14
-- book: Haggai
+## Joel 2:23
+- book: Joel
 - score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, priest, spirit; crossref_top_vote=6; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; reco=keep
-- fresh: The Lord stirred the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
-- brenton: And the Lord stirred up the spirit of Zorobabel the son of Salathiel, of the tribe of Juda, and the spirit of Jesus the son of Josedec, the high priest, and the spirit of the remnant of all the people; and they went in, and wrought in the house of the Lord Almighty their God,
-
-## Isaiah 49:7
-- book: Isaiah
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, lord, servant, soul; crossref_top_vote=12; eng_reco=keep; reco=keep
-- fresh: Thus says the Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to the servant of rulers: Kings will see and rise, rulers also, and will worship, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
-- brenton: Thus saith the Lord that delivered thee, the God of Israel, Sanctify him that despises his life, him that is abhorred by the nations that are the servants of princes: kings shall behold him, and princes shall arise, and shall worship him, for the Lord's sake: for the Holy One of Israel is faithful, and I have chosen thee.
-
-## Jeremiah 14:9
-- book: Jeremiah
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name; nt=Acts 15:17, James 2:7; crossref_top_vote=5; crossref_shared_family=1; nt_eng=support:1/soften:3/mixed:2; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
-- fresh: Do not be like a sleeping man or like a man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
-- brenton: Wilt thou be as a man asleep, or as a strong man that cannot save? yet thou art among us, O Lord, and thy name is called upon us; forget us not.
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, lord, righteousness; crossref_top_vote=49; reco=keep
+- fresh: And children of Zion, rejoice and be glad in the Lord your God, because he gave you foods in righteousness, and he will rain on you the early and latter rain as before.
+- brenton: Rejoice then and be glad, ye children of Sion, in the Lord your God: for he has given you food fully, and he will rain on you the early and the latter rain, as before.
 
 ## Leviticus 3:9
 - book: Leviticus
@@ -492,6 +681,13 @@ Rows: 100
 - fresh: And the priest shall place some of the blood on the horns of the altar of the blended incense, which is before the Lord, which is in the tent of testimony, and he shall pour out all the blood at the base of the altar of offerings, the one by the door of the tent of testimony.
 - brenton: And the priest shall put some of the blood on the horns of the altar of the incense of composition, which is before the Lord, which is in the tabernacle of witness; and he shall pour out all the blood at the bottom of the altar of whole-burnt-offerings, which is by the door of the tabernacle of witness.
 
+## Micah 7:7
+- book: Micah
+- score: 21
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, lord, savior; crossref_top_vote=45; reco=keep
+- fresh: But I will look to the Lord; I will wait for God my savior; my God will hear me.
+- brenton: But I will look to the Lord; I will wait upon God my Saviour: my God will hearken to me.
+
 ## Psalms 113:9
 - book: Psalms
 - score: 21
@@ -505,199 +701,3 @@ Rows: 100
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, holy, lord, salvation; crossref_top_vote=52; eng_reco=keep; reco=keep
 - fresh: Now I knew that the Lord saved his Anointed; he will hear him from his holy heaven. Salvation of his right hand is in the acts of power.
 - brenton: Now I know that the Lord has saved his Christ: he shall hear him from his holy heaven: the salvation of his right hand is mighty.
-
-## Psalms 23:5
-- book: Psalms
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, mercy, savior; crossref_top_vote=84; eng_reco=keep; reco=keep
-- fresh: This one will receive blessing from the Lord and mercy from God his savior.
-- brenton: He shall receive a blessing from the Lord, and mercy from God his Saviour.
-
-## Zechariah 7:9
-- book: Zechariah
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=compassion, judgment, lord, mercy, righteous; crossref_top_vote=12; eng_reco=keep; reco=keep
-- fresh: Thus says the Lord Almighty: Judge righteous judgment, and do mercy and compassion, each toward his brother.
-- brenton: Thus saith the Lord Almighty;
-
-## 1 Chronicles 28:9
-- book: 1 Chronicles
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, soul; crossref_top_vote=326; eng_reco=keep; reco=keep
-- fresh: And now, Solomon my son, know God of your fathers and serve him with complete heart and willing soul, because the Lord examines all hearts and knows every thought. If you seek him, he will be found by you; and if you forsake him, he will forsake you to end.
-- brenton: And now, my son Solomon, know the God of thy fathers, and serve him with a perfect heart and willing soul: for the Lord searches all hearts, and knows every thought: if thou seek him, he will be found of thee; but if thou shouldest forsake him, he will forsake thee for ever.
-
-## 1 Chronicles 6:34
-- book: 1 Chronicles
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, god, holy, lord, servant; eng_reco=keep; reco=keep
-- fresh: And Aaron and his sons were burning incense upon the altar of the whole-burnt-offerings and upon the altar of incense for every work of the holy of holies and to make atonement for Israel, according to all that Moses child of God commanded.
-- brenton: And Aaron and his sons were to burn incense on the altar of whole-burnt-offerings, and on the altar of incense, for all the ministry in the holy of holies, and to make atonement for Israel, according to all things that Moses the servant of the Lord commanded.
-
-## 1 Kings 13:2
-- book: 1 Kings
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, being, lord, name, sacrifice; crossref_top_vote=4; reco=keep
-- fresh: And he cried against the altar by the word of the Lord and said, Altar, altar, thus says the Lord: Behold, a son is being born to the house of David, Josiah his name, and he will sacrifice upon you the priests of the high places who sacrifice upon you, and he will burn human bones upon you.
-- brenton: And he cried against the altar by the word of the Lord, and said, O altar, altar, thus saith the Lord, Behold, a son is to be born to the house of David, Josias by name; and he shall offer upon thee the priests of the high places, even of them that sacrifice upon thee, and he shall burn men's bones upon thee.
-
-## 1 Kings 20:10
-- book: 1 Kings
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, king; crossref_top_vote=5; reco=keep
-- fresh: And seat two men, sons of lawlessness, opposite him, and let them testify against him, saying, He blessed God and the king. And let them bring him out and stone him, and let him die.
-- brenton: And set two men, sons of transgressors, before him, and let them testify against him, saying, He blessed God and the king: and let them lead him forth, and stone him, and let him die.
-
-## 1 Kings 6:1
-- book: 1 Kings
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=king, lord; crossref_top_vote=5; reco=keep
-- fresh: And it came to be in the four hundred and fortieth year of the coming out of the sons of Israel from Egypt, in the fourth year, in the second month, of King Solomon reigning over Israel. And the king commanded, and they took great costly stones for the foundation of the house, and unhewn stones. And the sons of Solomon and the sons of Hiram dressed them and laid them. In the fourth year he founded the house of the Lord in the month Niso, the second month. In the eleventh year, in the month Baal, this is the eighth month, the house was completed in every word of it and in every arrangement of it.
-- brenton: And it came to pass in the four hundred and fortieth year after the departure of the children of Israel out of Egypt, in the fourth year and second month of the reign of king Solomon over Israel,
-
-## 1 Samuel 12:17
-- book: 1 Samuel
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=king, lord; crossref_top_vote=6; reco=keep
-- fresh: Is it not wheat harvest today? I will call upon the Lord, and he will give voices and rain, and know and see that your evil is great, which you did before the Lord, asking a king for yourselves.
-- brenton: Is it not wheat-harvest to-day? I will call upon the Lord, and he shall send thunder and rain; and know ye and see, that your wickedness is great which ye have wrought before the Lord, having asked for yourselves a king.
-
-## 1 Samuel 25:29
-- book: 1 Samuel
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=god, lord; crossref_top_vote=8; reco=keep
-- fresh: And a man will rise up pursuing you and seeking your life, and the life of my lord will be bound in the bundle of life with the Lord your God, and the life of your enemies you will sling out in the middle of the sling.
-- brenton: And if a man shall rise up persecuting thee and seeking thy life, yet shall the life of my lord be bound up in the bundle of life with the Lord God, and thou shalt whirl the life of thine enemies as in the midst of a sling.
-
-## 1 Samuel 2:2
-- book: 1 Samuel
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, lord, righteous; crossref_top_vote=34; reco=keep
-- fresh: Because there is no holy one like the Lord, and there is none righteous like our God; there is no holy one besides you.
-- brenton: For there is none holy as the Lord, and there is none righteous as our God: there is none holy beside thee.
-
-## 1 Samuel 4:3
-- book: 1 Samuel
-- score: 20
-- reasons: decisions=4; footnotes=4; reviewed_decisions=4; importance=high; keywords=god, lord; crossref_top_vote=4; reco=keep
-- fresh: And the people came into the camp, and the elders of Israel said, Why did the Lord make us stumble today before the foreigners? Let us take the ark of our God from Shiloh, and let it come out in our midst and save us from the hand of our enemies.
-- brenton: And the people came to the camp, and the elders of Israel said, Why has the Lord caused us to fall this day before the Philistines? let us take the ark of our God out of Selom, and let it proceed from the midst of us, and it shall save us from the hand of our enemies.
-
-## 2 Kings 23:24
-- book: 2 Kings
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=king, law, lord, priest, spirit; crossref_top_vote=7; eng_reco=keep; reco=keep
-- fresh: And indeed the spirit-mediums and the knowers and the theraphin and the idols and all the abominations that had appeared in the land of Judah and in Jerusalem King Josiah removed, to establish the words of the law written upon the book which Hilkiah the priest found in the house of the Lord.
-- brenton: Moreover Josias removed the sorcerers, and the wizards, and the theraphin, and the idols, and all the abominations that had been set up in the land of Juda and in Jerusalem, that he might keep the words of the law that were written in the book, which Chelcias the priest found in the house of the Lord.
-
-## 2 Samuel 19:28
-- book: 2 Samuel
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=angel, god, king, lord, servant; crossref_top_vote=6; reco=keep
-- fresh: And he schemed against your servant to my lord the king. But my lord the king is like an angel of God. So do what is good in your eyes.
-- brenton: And he has dealt deceitfully with thy servant to my lord the king: but my lord the king is as an angel of God, and do thou that which is good in thine eyes.
-
-## 2 Samuel 5:2
-- book: 2 Samuel
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, king, lord, shepherd; crossref_top_vote=32; reco=keep
-- fresh: And yesterday and the third day, while Saul was king over us, you were the one bringing out and bringing in Israel, and the Lord said to you, You will shepherd my people Israel, and you will be leader over Israel.
-- brenton: And heretofore Saul being king over us, thou wast he that didst lead out and bring in Israel: and the Lord said to thee, Thou shalt feed my people Israel, and thou shalt be for a leader to my people Israel.
-
-## Amos 4:13
-- book: Amos
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, god, lord, name, wind; crossref_top_vote=16; eng_reco=keep; reco=keep
-- fresh: For, behold, I am he that strengthens the thunder and creates the wind and proclaims to humans his anointed one, forming the morning and the darkness and mounting on the high places of the earth; the Lord God Almighty is his name.
-- brenton: For, behold, I am he that strengthens the thunder, and creates the wind, and proclaims to men his Christ, forming the morning and the darkness, and mounting on the high places of the earth, The Lord God Almighty is his name.
-
-## Daniel 9:4
-- book: Daniel
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, god, lord, mercy; crossref_top_vote=26; eng_reco=keep; reco=keep
-- fresh: And I prayed to the Lord God and confessed and said, Behold, the Lord, you are the great God and the mighty and fearsome one, keeping covenant and mercy for those loving you and keeping your commands.
-- brenton: [missing]
-
-## Ecclesiastes 5:7
-- book: Ecclesiastes
-- score: 20
-- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=judgment, justice, righteousness; crossref_top_vote=13; reco=keep
-- fresh: If you see slander of a poor man and robbery of judgment and righteousness in a province, do not marvel over the matter, because a high one watches over a high one, and high ones over them.
-- brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
-
-## Ezekiel 39:25
-- book: Ezekiel
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, lord, mercy, name; crossref_top_vote=6; eng_reco=keep; reco=keep
-- fresh: Therefore thus says the Lord God: Now I will turn back captivity of Jacob and have mercy on the house of Israel and be jealous for my holy name.
-- brenton: Therefore thus saith the Lord God, Now will I turn back captivity in Jacob, and will have mercy on the house of Israel, and will be jealous for the sake of my holy name.
-
-## Genesis 1:26
-- book: Genesis
-- score: 20
-- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, image; crossref_top_vote=82; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
-- fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
-- brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
-
-## Jeremiah 7:11
-- book: Jeremiah
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, name; nt=Acts 15:17, James 2:7, Romans 2:17; crossref_top_vote=10; nt_eng=support:4/soften:6/mixed:5; nt_eng_reco=keep; nt_eng_flags=literal_support, smoothing, translation_tradition; reco=keep
-- fresh: Has my house over which my name has been called become a den of robbers there before you? And I, behold, have seen, says the Lord.
-- brenton: Is my house, whereon my name is called, a den of robbers in your eyes? And, behold, I have seen it, saith the Lord.
-
-## Joshua 22:29
-- book: Joshua
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, lord, peace, sacrifice, salvation; crossref_top_vote=4; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
-- fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of salvation and the sacrifice of salvation besides the altar of the Lord that is before his tent.
-- brenton: Far be it from us therefore that we should turn away from the Lord this day so as to apostatize from the Lord, so as that we should build an altar for burnt-offerings, and for peace-offerings, besides the altar of the Lord which is before his tabernacle.
-
-## Nehemiah 1:5
-- book: Nehemiah
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, god, lord, mercy; crossref_top_vote=25; eng_reco=keep; reco=keep
-- fresh: And I said, Please, O Lord God of heaven, strong, great, and fearful, keeping the covenant and the mercy for those loving him and keeping his commandments,
-- brenton: And I said, Nay, I pray thee, O Lord God of heaven, the mighty, the great and terrible, keeping thy covenant and mercy to them that love him, and to those that keep his commandments:
-
-## Nehemiah 8:9
-- book: Nehemiah
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, law, lord, priest; crossref_top_vote=6; eng_reco=keep; reco=keep
-- fresh: And Nehemiah and Ezra the priest and scribe and the Levites teaching the people said to all the people, This day is holy to the Lord our God. Do not mourn and do not weep. For all the people were weeping as they heard the words of the law.
-- brenton: And Neemias, and Esdras the priest and scribe, and the Levites, and they that instructed the people, spoke and said to all the people, It is a holy day to the Lord our God; do not mourn, nor weep. For all the people wept when they heard the words of the law.
-
-## Numbers 16:3
-- book: Numbers
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=holy, lord; crossref_top_vote=7; reco=keep
-- fresh: They stood together against Moses and Aaron and said, Let it be enough for you, because the whole congregation, every one of them, is holy, and the Lord is among them. And why do you rise up against the congregation of the Lord?
-- brenton: They rose up against Moses and Aaron, and said, Let it be enough for you that all the congregation are holy, and the Lord is among them; and why do ye set up yourselves against the congregation of the Lord?
-
-## Numbers 19:13
-- book: Numbers
-- score: 20
-- reasons: decisions=2; footnotes=2; reviewed_decisions=1; importance=high; keywords=lord, soul; crossref_top_vote=5; reco=keep
-- fresh: Everyone touching the dead body of a human person who dies and not purifying himself has defiled the tent of the Lord. That person shall be cut off from Israel, because water of sprinkling was not sprinkled upon him. He is unclean; his uncleanness is still in him.
-- brenton: Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.
-
-## Numbers 7:88
-- book: Numbers
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, anointed, peace, sacrifice, salvation; crossref_top_vote=5; logos=1; logos_reco=keep; logos_flags=lexical_support; logos_support=salvation-shaped rendering; reco=keep
-- fresh: All the cattle for the sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
-- brenton: All the cattle for a sacrifice of peace-offering, twenty-four heifers, sixty rams, sixty he-goats of a year old, sixty ewe-lambs of a year old without blemish: this is the dedication of the altar, after that Moses consecrated Aaron, and after he anointed him.
-
-## 1 Chronicles 11:2
-- book: 1 Chronicles
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, shepherd; crossref_top_vote=6; reco=keep
-- fresh: Even yesterday and third day, when Saul was king, you were one bringing Israel out and bringing it in, and the Lord your God said to you, You shall shepherd my people Israel, and you shall be ruler over Israel.
-- brenton: And heretofore when Saul was king, thou wast he that led Israel in and out, and the Lord of Israel said to thee, Thou shalt feed my people Israel, and thou shalt be for a ruler over Israel.
-
-## 1 Kings 1:47
-- book: 1 Kings
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, name; crossref_top_vote=5; reco=keep
-- fresh: And the servants of the king entered to bless our lord King David, saying, May God make the name of Solomon your son better than your name, and may he enlarge his throne beyond your throne. And the king bowed on his bed.
-- brenton: And the servants of the king have gone in to bless our lord king David, saying, God make the name of Solomon better than thy name, and make his throne greater than thy throne; and the king worshipped upon his bed.

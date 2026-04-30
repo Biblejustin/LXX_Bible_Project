@@ -2,8 +2,8 @@
 
 Creation language, human nature, life-breath, image, seed, cosmic terms.
 
-Rows: 59
-Books: 31
+Rows: 54
+Books: 30
 
 ## Genesis 1:2
 - score: 21
@@ -230,10 +230,10 @@ Books: 31
 - brenton: I opened to my kinsman; my kinsman was gone: my soul failed at his speech: I sought him, but found him not; I called him, but he answered me not.
 
 ## Isaiah 49:7
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, lord, servant, soul; crossref_top_vote=12; eng_reco=keep; reco=keep
+- score: 24
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, holy, lord, servant, soul; crossref_top_vote=12; eng_reco=keep; reco=keep
 - keywords: god, holy, lord, servant, soul
-- fresh: Thus says the Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to the servant of rulers: Kings will see and rise, rulers also, and will worship, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
+- fresh: Thus says the Lord, the one rescuing you, the God of Israel: Sanctify the one despising his soul, the one abhorred by the nations, the servant of rulers. Kings will see him and rise; rulers also will worship him, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
 - brenton: Thus saith the Lord that delivered thee, the God of Israel, Sanctify him that despises his life, him that is abhorred by the nations that are the servants of princes: kings shall behold him, and princes shall arise, and shall worship him, for the Lord's sake: for the Holy One of Israel is faithful, and I have chosen thee.
 
 ## Isaiah 54:10
@@ -250,58 +250,58 @@ Books: 31
 - fresh: And this covenant from me with them, said the Lord: My Spirit which is on you and the words I put in your mouth will not fail from your mouth nor from the mouth of your seed, said the Lord, from now and forever.
 - brenton: And this shall be my covenant with them, said the Lord; My Spirit which is upon thee, and the words which I have put in thy mouth, shall never fail from thy mouth, nor from the mouth of thy seed, for the Lord has spoken it, henceforth and for ever.
 
-## Lamentations 3:25
+## Lamentations 1:11
 - score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, soul; crossref_top_vote=56; reco=keep
+- reasons: decisions=1; footnotes=2; importance=high; keywords=lord, soul; crossref_top_vote=6
 - keywords: lord, soul
-- fresh: The Lord is good to those waiting for him, soul that seeks him, good.
-- brenton: Teth. The Lord is good to them that wait for him: the soul which shall seek him
+- fresh: All her people groan, seeking bread. They gave their desirable things for food, to restore life. See, Lord, and look, because I became dishonored.
+- brenton: Chaph. All her people groan, seeking bread: they have given their desirable things for meat, to restore their soul: behold, Lord, and look; for she is become dishonoured.
+
+## Ezekiel 4:14
+- score: 22
+- reasons: decisions=2; footnotes=3; importance=high; keywords=god, lord, soul; crossref_top_vote=6
+- keywords: god, lord, soul
+- fresh: And I said, No indeed, Lord God of Israel. Behold, my soul has not been defiled with uncleanness, and I have not eaten what died of itself or was torn by beasts from my birth until now, nor has any stale flesh entered into my mouth.
+- brenton: Then I said, Not so, Lord God of Israel: surely my soul has not been defiled with uncleanness; nor have I eaten that which died of itself or was torn of beasts from my birth until now; neither has any corrupt flesh entered into my mouth.
 
 ## Ezekiel 18:20
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=righteous, righteousness, soul; crossref_top_vote=39; reco=keep
+- score: 23
+- reasons: decisions=5; footnotes=5; reviewed_decisions=1; importance=high; keywords=righteous, righteousness, soul; crossref_top_vote=39; reco=keep
 - keywords: righteous, righteousness, soul
-- fresh: And the soul sinning will die, but a son will not bear the injustice of his father, nor a father bear the injustice of his son. The righteousness of a righteous one will be upon him, and the lawlessness of a lawless one will be upon him.
+- fresh: And the soul sinning will die, but a son will not bear the injustice of his father, nor will a father bear the injustice of his son. The righteousness of a righteous one will be upon him, and the lawlessness of a lawless one will be upon him.
 - brenton: But the soul that sins shall die: and the son shall not bear the iniquity of the father, nor shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the iniquity of the transgressor shall be upon him.
 
-## Ezekiel 43:19
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, seed, sin; crossref_top_vote=5; reco=keep
-- keywords: god, lord, seed, sin
-- fresh: And you will give to the Levitical priests, from the seed of Zadok, those drawing near to me to minister to me, says the Lord God, a young bull from the herd for sin.
-- brenton: And thou shalt appoint to the priests the Levites of the seed of Sadduc, that draw nigh to me, saith the Lord God, to minister to me, a calf of the herd for a sin-offering.
-
-## Daniel 4:22
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, god, holy, king; crossref_top_vote=4; eng_reco=keep; reco=keep
-- keywords: being, god, holy, king
-- fresh: And as for that tree being lifted up and coming near heaven and its trunk touching clouds, you, king, were exalted above all humans on the face of the whole earth. Your heart was lifted up in pride, and in strength your works were shown against the Holy One and his angels, because you laid waste the house of the living God because of the sins of his consecrated people.
-- brenton: [missing]
+## Ezekiel 18:27
+- score: 24
+- reasons: decisions=3; footnotes=4; importance=high; keywords=judgment, justice, righteousness, soul; crossref_top_vote=7
+- keywords: judgment, justice, righteousness, soul
+- fresh: And when the lawless one turns from the lawlessness that he committed and does judgment and righteousness, this one has preserved his soul.
+- brenton: And when the wicked man turns away from his wickedness that he has committed, and shall do judgment and justice, he has kept his soul,
 
 ## Daniel 4:33
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, soul; crossref_top_vote=3; eng_reco=keep; reco=keep
+- score: 22
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=god, king, lord, soul; crossref_top_vote=3; eng_reco=keep; reco=keep
 - keywords: god, king, lord, soul
-- fresh: By morning all these things will be completed upon you, Nebuchadnezzar king of Babylon, and none of them will fail. I, Nebuchadnezzar king of Babylon, was bound for seven years; they fed me grass like an ox, and I ate from the herbs of the earth. And after seven years I gave my soul to prayer and begged concerning my sins before the Lord God of heaven, and concerning my ignorances I prayed to the God of gods, the great one. And my hair became like eagle feathers, and my nails like those of a lion. My flesh was changed, and my heart; I walked naked among beasts of the earth. I saw a dream, and thoughts seized me, and after a time much sleep took me and drowsiness fell upon me.
+- fresh: By morning all these things will be completed upon you, Nebuchadnezzar king of Babylon, and none of them will fail. I, Nebuchadnezzar king of Babylon, was bound for seven years; they fed me grass like an ox, and I ate from the herbs of the earth. And after seven years I gave my soul to prayer and begged concerning my sins before the Lord God of heaven, and concerning my ignorances I prayed to the God of gods, the great one. And my hair became like eagle feathers, and my nails like those of a lion. My flesh and my heart were changed; I walked naked among the beasts of the earth. I saw a dream, and thoughts seized me, and after a time much sleep took me and drowsiness fell upon me.
 - brenton: [missing]
 
 ## Daniel 4:37
-- score: 23
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, king, lord, sacrifice, soul; crossref_top_vote=16; eng_reco=keep; reco=keep
-- keywords: god, holy, king, lord, sacrifice, soul
-- fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all in them. I confess and praise because he is the God of gods and the Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing a kingdom from kings and setting others in their place. From now on I will serve him, and fear of him has seized me, and I praise all his holy ones. The gods of nations have no power in themselves to turn the kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as the God of heaven did in me and changed great things upon me. All the days of my kingdom I will offer sacrifices concerning my soul to the Most High as a sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against the God of heaven, and whoever is caught speaking, I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages dwelling in all regions and generations: Praise the Lord God of heaven and offer a sacrifice and an offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and my authority and kingdom were restored to me. It seemed good to me to show you and your wise men that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
+- score: 28
+- reasons: decisions=8; footnotes=1; reviewed_decisions=8; importance=high; keywords=god, holy, king, lord, peace, sacrifice; crossref_top_vote=16; eng_reco=keep; reco=keep
+- keywords: god, holy, king, lord, peace, sacrifice, soul
+- fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all things in them. I confess and praise because he is the God of gods and the Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing a kingdom from kings and setting others in their place. From now on I will serve him, and trembling from fear of him has seized me, and I praise all his holy ones. The gods of nations do not have power in themselves to turn the kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as the God of heaven did in me and changed great things upon me. All the days of my kingdom I will offer sacrifices concerning my soul to the Most High as a sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against the God of heaven, and whoever is caught speaking anything, these I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages, all those dwelling in all lands, in generations and generations: Praise the Lord God of heaven and offer a sacrifice and an offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and I held my authority and my kingdom among my people, and my greatness was restored to me. King Nebuchadnezzar, to all the nations and all the lands and all those dwelling in them: May peace be multiplied to you at every time. And now I will show you the deeds that the great God did with me. And it seemed good to me to show you and your sophists that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
 - brenton: [missing]
 
-## Hosea 5:4
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, spirit; crossref_top_vote=7; reco=keep
-- keywords: god, lord, spirit
-- fresh: They have not set their counsels toward returning to their God, because a spirit of whoredom is in them, and they did not know the Lord.
-- brenton: They have not framed their counsels to return to their God, for the spirit of fornication is in them, and they have not known the Lord.
+## Daniel 6:4
+- score: 20
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=holy, king, spirit; crossref_top_vote=13; reco=keep
+- keywords: holy, king, spirit
+- fresh: Holding authority over everyone in the kingdom, Daniel was clothed in purple and was great and honored before King Darius, because he was honored and learned and intelligent, and holy spirit was in him, and he prospered in the king's affairs that he handled. Then the king determined to set Daniel over all his kingdom, together with the two men whom he appointed with him and the one hundred twenty-seven satraps.
+- brenton: [missing]
 
 ## Hosea 13:4
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=created, god, lord, savior; crossref_top_vote=13; reco=keep
+- score: 22
+- reasons: decisions=5; footnotes=1; reviewed_decisions=5; importance=high; keywords=created, god, lord, savior; crossref_top_vote=13; reco=keep
 - keywords: created, god, lord, savior
 - fresh: But I am the Lord your God, establishing heaven and creating earth, whose hands created all the army of heaven, and I did not show them to you for you to go after them. And I brought you up from the land of Egypt, and besides me you will know no god, and there is no savior except me.
 - brenton: But I am the Lord thy God that establishes the heaven, and creates the earth, whose hands have framed the whole host of heaven: but I shewed them not to thee that thou shouldest go after them: and I brought thee up out of the land of Egypt, and thou shalt know no God but me; and there is no Saviour beside me.
@@ -314,46 +314,25 @@ Books: 31
 - brenton: For, behold, I am he that strengthens the thunder, and creates the wind, and proclaims to men his Christ, forming the morning and the darkness, and mounting on the high places of the earth, The Lord God Almighty is his name.
 
 ## Amos 9:1
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=altar, being, lord, mercy; crossref_top_vote=5; eng_reco=keep; reco=keep
+- score: 22
+- reasons: decisions=4; footnotes=1; reviewed_decisions=4; importance=high; keywords=altar, being, lord, mercy; crossref_top_vote=5; eng_reco=keep; reco=keep
 - keywords: altar, being, lord, mercy
-- fresh: I saw the Lord standing upon the altar, and he said, Strike upon the mercy-seat, and the foregates will be shaken; cut through into heads of all, and the remnant of them I will kill with sword. No one fleeing from them will flee away, and no one being rescued from them will be saved.
+- fresh: I saw the Lord standing upon the altar, and he said, Strike upon the mercy-seat, and the foregates will be shaken; cut through into heads of all, and the remnant of them I will kill with a sword. The one fleeing from them will certainly not escape, and the one being rescued from them will certainly not be saved.
 - brenton: I saw the Lord standing on the altar: and he said,
 
 ## Jonah 1:4
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, lord, wind; crossref_top_vote=10; reco=keep
+- score: 20
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=being, lord, wind; crossref_top_vote=10; reco=keep
 - keywords: being, lord, wind
-- fresh: The Lord stirred up a wind on sea, and a great surge happened on sea, and ship was in danger of being broken.
+- fresh: The Lord stirred up a wind on the sea, and a great surge happened on the sea, and the ship was in danger of being broken.
 - brenton: And the Lord raised up a wind on the sea; and there was a great storm on the sea, and the ship was in danger of being broken.
 
 ## Jonah 2:8
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, lord, soul; crossref_top_vote=13; reco=keep
+- score: 19
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=holy, lord, soul; crossref_top_vote=13; reco=keep
 - keywords: holy, lord, soul
-- fresh: When my soul was failing from me, I remembered Lord, and may my prayer come to you, into your holy temple.
+- fresh: When my soul was failing from me, I remembered the Lord, and may my prayer come to you, into your holy temple.
 - brenton: When my soul was failing me, I remembered the Lord; and may my prayer come to thee into thy holy temple.
-
-## Micah 3:8
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, lord, spirit; crossref_top_vote=11; reco=keep
-- keywords: judgment, lord, spirit
-- fresh: But I am filled with strength by the Spirit of the Lord and with judgment and power, to declare to Jacob his impiety and to Israel his sins.
-- brenton: Surely I will strengthen myself with the Spirit of the Lord, and of judgment, and of power, to declare to Jacob his transgressions, and to Israel his sins.
-
-## Micah 6:7
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=firstborn, lord, sin, soul; crossref_top_vote=7; reco=keep
-- keywords: firstborn, lord, sin, soul
-- fresh: Will the Lord accept thousands of rams or tens of thousands of torrents of fat? Shall I give my firstborn for impiety, the fruit of my womb for the sin of my soul?
-- brenton: Will the Lord accept thousands of rams, or ten thousands of fat goats? should I give my first-born for ungodliness, the fruit of my body for the sin of my soul?
-
-## Habakkuk 1:2
-- score: 15
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, lord; crossref_top_vote=9; reco=keep
-- keywords: being, lord
-- fresh: How long, Lord, will I cry out and you not hear? I will shout to you while being wronged, and you will not save.
-- brenton: How long, O Lord, shall I cry out, and thou wilt not hearken? how long shall I cry out to thee being injured, and thou wilt not save?
 
 ## Habakkuk 2:4
 - score: 19
@@ -363,57 +342,43 @@ Books: 31
 - brenton: If he should draw back, my soul has no pleasure in him: but the just shall live by my faith.
 
 ## Habakkuk 3:2
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, mercy, soul; crossref_top_vote=28; reco=keep
+- score: 20
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=lord, mercy, soul; crossref_top_vote=28; reco=keep
 - keywords: lord, mercy, soul
-- fresh: Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
+- fresh: O Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
 - brenton: O Lord, I have heard thy report, and was afraid: I considered thy works, and was amazed: thou shalt be known between the two living creatures, thou shalt be acknowledged when the years draw nigh; thou shalt be manifested when the time is come; when my soul is troubled, thou wilt in wrath remember mercy.
 
 ## Zephaniah 3:4
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, law, spirit; crossref_top_vote=6; reco=keep
+- score: 19
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=holy, law, spirit; crossref_top_vote=6; reco=keep
 - keywords: holy, law, spirit
-- fresh: Her prophets are spirit-borne men, contemptuous; her priests profane holy things and act impiously against law.
+- fresh: Her prophets are spirit-borne men, despisers; her priests profane the holy things and act impiously against law.
 - brenton: Her prophets are light and scornful men: her priests profane the holy things, and sinfully transgress the law.
 
 ## Haggai 1:14
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, priest, spirit; crossref_top_vote=6; eng=fresh:1/brenton:0/mt:0; eng_flags=unclear; reco=keep
+- score: 22
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, lord, priest, spirit; crossref_top_vote=6; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - keywords: god, lord, priest, spirit
-- fresh: The Lord stirred the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
+- fresh: And the Lord stirred up the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
 - brenton: And the Lord stirred up the spirit of Zorobabel the son of Salathiel, of the tribe of Juda, and the spirit of Jesus the son of Josedec, the high priest, and the spirit of the remnant of all the people; and they went in, and wrought in the house of the Lord Almighty their God,
 
 ## Haggai 2:9
 - score: 19
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, lord, peace, soul; crossref_top_vote=18; eng_reco=keep; reco=keep
 - keywords: glory, lord, peace, soul
-- fresh: The latter glory of this house will be greater than the first, says the Lord Almighty, and in this place I will give peace, says the Lord Almighty, and peace of soul for preservation to everyone building to raise this temple.
+- fresh: The latter glory of this house will be greater than the first, says the Lord Almighty, and in this place I will give peace, says the Lord Almighty, and peace of soul for preservation to everyone building, to raise up this temple.
 - brenton: For the glory of this house shall be great, the latter more than the former, saith the Lord Almighty: and in this place will I give peace, saith the Lord Almighty, even peace of soul for a possession to every one that builds, to raise up this temple.
 
-## Zechariah 4:6
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, spirit; crossref_top_vote=170; reco=keep
-- keywords: lord, spirit
-- fresh: And he answered and said to me: This is the word of the Lord to Zerubbabel, saying: Not by great power nor by might, but by my Spirit, says the Lord Almighty.
-- brenton: And he answered and spoke to me, saying, This is the word of the Lord to Zorobabel, saying,
-
-## Zechariah 7:12
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=law, lord, spirit; crossref_top_vote=7; reco=keep
-- keywords: law, lord, spirit
-- fresh: And they set their hearts in disobedience so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
-- brenton: And they made their heart disobedient, so as not to hearken to my law, and the words which the Lord Almighty sent forth by his Spirit by the former prophets: so there was great wrath from the Lord Almighty.
-
 ## Zechariah 12:10
-- score: 22
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved, compassion, firstborn, grace, spirit; crossref_top_vote=34; eng_reco=keep; reco=keep
+- score: 27
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=beloved, compassion, firstborn, grace, spirit; crossref_top_vote=34; eng_reco=keep; reco=keep
 - keywords: beloved, compassion, firstborn, grace, spirit
-- fresh: And I will pour out upon the house of David and upon the inhabitants of Jerusalem a spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
+- fresh: And I will pour out upon the house of David and upon the inhabitants of Jerusalem a spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for a beloved one and grieve over him as over a firstborn.
 - brenton: And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.
 
 ## Malachi 2:10
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, create, god; crossref_top_vote=42; reco=keep
+- score: 23
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=covenant, create, god; crossref_top_vote=42; reco=keep
 - keywords: covenant, create, god
-- fresh: Did not one God create you? Is not one father of all you? Why does each abandon his brother, to profane the covenant of your fathers?
+- fresh: Did not one God create you? Is not one father of you all? Why did each abandon his brother, to profane the covenant of your fathers?
 - brenton: Have ye not all one father? Did not one God create you? why have ye forsaken every man his brother, to profane the covenant of your fathers?

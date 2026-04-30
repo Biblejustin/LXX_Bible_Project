@@ -334,9 +334,9 @@
   "active_marker_hits": [],
   "blocking_text_artifacts": [],
   "repeated_word_candidates": [],
-  "review_status_total": 636,
+  "review_status_total": 651,
   "review_status_counts": {
-    "keep": 308,
+    "keep": 323,
     "revised": 328
   },
   "priority_open_count": 0,

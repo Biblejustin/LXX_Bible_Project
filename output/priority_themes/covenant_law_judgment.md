@@ -2,7 +2,7 @@
 
 Covenant, law, sin, justice, righteousness, repentance, judgment.
 
-Rows: 79
+Rows: 82
 Books: 35
 
 ## Exodus 28:30
@@ -363,18 +363,25 @@ Books: 35
 - brenton: The Lord lives, with truth, in judgment and righteousness, then shall nations bless by him, and by him they shall praise God in Jerusalem.
 
 ## Jeremiah 9:23
-- score: 24
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57; eng=fresh:0/brenton:0/mt:2; eng_reco=keep; eng_flags=mt_leaning; reco=keep
+- score: 26
+- reasons: decisions=1; footnotes=2; reviewed_decisions=1; importance=high; keywords=judgment, lord, mercy, righteousness; crossref_top_vote=57; eng=fresh:0/brenton:0/mt:2; eng_reco=keep; eng_flags=mt_leaning; reco=keep
 - keywords: judgment, lord, mercy, righteousness
 - fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
 - brenton: but let him that boasts boast in this, the understanding and knowing that I am the Lord that exercise mercy, and judgment, and righteousness, upon the earth; for in these things is my pleasure, saith the Lord.
 
 ## Jeremiah 23:5
-- score: 22
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, king, lord, righteous, righteousness; crossref_top_vote=23; eng_reco=keep; reco=keep
+- score: 27
+- reasons: decisions=3; footnotes=2; reviewed_decisions=3; importance=high; keywords=judgment, king, lord, righteous, righteousness; crossref_top_vote=23; eng_reco=keep; reco=keep
 - keywords: judgment, king, lord, righteous, righteousness
-- fresh: Behold, days come, says the Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
+- fresh: Behold, days are coming, says the Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon the earth.
 - brenton: Behold, the days come, saith the Lord, when I will raise up to David a righteous branch, and a king shall reign and understand, and shall execute judgment and righteousness on the earth.
+
+## Lamentations 1:18
+- score: 16
+- reasons: decisions=1; footnotes=2; importance=high; keywords=lord, righteous; crossref_top_vote=6
+- keywords: lord, righteous
+- fresh: The Lord is righteous, because I provoked his mouth. Hear now, all peoples, and see my pain. My virgins and my young men went into captivity.
+- brenton: Tsade. The Lord is righteous; for I have provoked his mouth: hear, I pray you, all people, and behold my grief: my virgins and my young men are gone into captivity.
 
 ## Lamentations 2:9
 - score: 16
@@ -383,103 +390,117 @@ Books: 35
 - fresh: Her gates sank into the ground. He destroyed and broke her bars. Her king and her rulers are among the nations. There is no law, and even her prophets did not see a vision from the Lord.
 - brenton: Teth. Her gates are sunk into the ground: he has destroyed and broken to pieces her bars, and her king and her prince among the Gentiles: there is no law, nay, her prophets have seen no vision from the Lord.
 
+## Ezekiel 18:5
+- score: 22
+- reasons: decisions=2; footnotes=3; importance=high; keywords=judgment, righteous, righteousness; crossref_top_vote=5
+- keywords: judgment, righteous, righteousness
+- fresh: And the man who is righteous, who does judgment and righteousness,
+- brenton: But the man who shall be just, who executes judgment and righteousness,
+
 ## Ezekiel 18:20
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=righteous, righteousness, soul; crossref_top_vote=39; reco=keep
+- score: 23
+- reasons: decisions=5; footnotes=5; reviewed_decisions=1; importance=high; keywords=righteous, righteousness, soul; crossref_top_vote=39; reco=keep
 - keywords: righteous, righteousness, soul
-- fresh: And the soul sinning will die, but a son will not bear the injustice of his father, nor a father bear the injustice of his son. The righteousness of a righteous one will be upon him, and the lawlessness of a lawless one will be upon him.
+- fresh: And the soul sinning will die, but a son will not bear the injustice of his father, nor will a father bear the injustice of his son. The righteousness of a righteous one will be upon him, and the lawlessness of a lawless one will be upon him.
 - brenton: But the soul that sins shall die: and the son shall not bear the iniquity of the father, nor shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the iniquity of the transgressor shall be upon him.
 
-## Ezekiel 43:19
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, seed, sin; crossref_top_vote=5; reco=keep
-- keywords: god, lord, seed, sin
-- fresh: And you will give to the Levitical priests, from the seed of Zadok, those drawing near to me to minister to me, says the Lord God, a young bull from the herd for sin.
-- brenton: And thou shalt appoint to the priests the Levites of the seed of Sadduc, that draw nigh to me, saith the Lord God, to minister to me, a calf of the herd for a sin-offering.
+## Ezekiel 18:27
+- score: 24
+- reasons: decisions=3; footnotes=4; importance=high; keywords=judgment, justice, righteousness, soul; crossref_top_vote=7
+- keywords: judgment, justice, righteousness, soul
+- fresh: And when the lawless one turns from the lawlessness that he committed and does judgment and righteousness, this one has preserved his soul.
+- brenton: And when the wicked man turns away from his wickedness that he has committed, and shall do judgment and justice, he has kept his soul,
 
-## Ezekiel 45:9
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, justice, lord, righteousness; crossref_top_vote=6; reco=keep
-- keywords: god, judgment, justice, lord, righteousness
-- fresh: Thus says the Lord God: Enough for you, rulers of Israel. Remove injustice and misery; do judgment and righteousness; remove oppression from my people, says the Lord God.
-- brenton: Thus saith the Lord God; Let it suffice you, ye princes of Israel: remove injustice and misery, execute judgment and justice; take away oppression from my people, saith the Lord God.
-
-## Daniel 9:4
-- score: 20
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, god, lord, mercy; crossref_top_vote=26; eng_reco=keep; reco=keep
-- keywords: covenant, god, lord, mercy
-- fresh: And I prayed to the Lord God and confessed and said, Behold, the Lord, you are the great God and the mighty and fearsome one, keeping covenant and mercy for those loving you and keeping your commands.
+## Daniel 6:23
+- score: 22
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, king, righteousness, sin; crossref_top_vote=9; reco=keep
+- keywords: god, king, righteousness, sin
+- fresh: And God saved me from the lions, because righteousness was found in me before him, and before you, O king, neither ignorance nor sin was found in me. But you listened to men who deceive kings and threw me into the lions' den for destruction.
 - brenton: [missing]
 
+## Daniel 9:4
+- score: 23
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=covenant, god, lord, mercy; crossref_top_vote=26; eng_reco=keep; reco=keep
+- keywords: covenant, god, lord, mercy
+- fresh: And I prayed to the Lord God and confessed and said, Behold, Lord, you are the great and mighty and fearsome God, keeping covenant and mercy for those loving you and keeping your commands.
+- brenton: [missing]
+
+## Hosea 2:21
+- score: 20
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=judgment, mercy, righteousness; crossref_top_vote=8; reco=keep
+- keywords: judgment, mercy, righteousness
+- fresh: And I will betroth you to myself forever, and I will betroth you to myself in righteousness and in judgment and in mercy and in compassions.
+- brenton: And I will betroth thee to myself for ever; yea, I will betroth thee to myself in righteousness, and in judgment, and in mercy, and in tender compassions;
+
 ## Hosea 4:6
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, law, priest; crossref_top_vote=84; reco=keep
+- score: 22
+- reasons: decisions=4; footnotes=1; reviewed_decisions=4; importance=high; keywords=god, law, priest; crossref_top_vote=84; reco=keep
 - keywords: god, law, priest
 - fresh: My people became like those having no knowledge. Because you rejected knowledge, I also will reject you from serving as priest to me. And you forgot the law of your God; I also will forget your children.
 - brenton: My people are like as if they had no knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt not minister as priest to me: and as thou hast forgotten the law of thy God, I also will forget thy children.
 
-## Joel 2:14
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, repent, sacrifice; crossref_top_vote=11; reco=keep
-- keywords: god, lord, repent, sacrifice
-- fresh: Who knows whether he will turn and repent and leave behind him blessing, sacrifice, and drink offering to the Lord our God?
-- brenton: Who knows if he will return, and repent, and leave a blessing behind him, even a meat-offering and a drink-offering to the Lord your God?
-
 ## Joel 2:23
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, lord, righteousness; crossref_top_vote=49; reco=keep
+- score: 21
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, lord, righteousness; crossref_top_vote=49; reco=keep
 - keywords: god, lord, righteousness
-- fresh: And children of Zion, rejoice and be glad in the Lord your God, because he gave you foods in righteousness, and he will rain on you early and latter rain as before.
+- fresh: And children of Zion, rejoice and be glad in the Lord your God, because he gave you foods in righteousness, and he will rain on you the early and latter rain as before.
 - brenton: Rejoice then and be glad, ye children of Sion, in the Lord your God: for he has given you food fully, and he will rain on you the early and the latter rain, as before.
 
+## Amos 4:5
+- score: 20
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, law, lord; crossref_top_vote=5; reco=keep
+- keywords: god, law, lord
+- fresh: And they read the law outside and called for confessions. Proclaim that the sons of Israel loved these things, says the Lord God.
+- brenton: And they read the law without, and called for public professions: proclaim aloud that the children of Israel have loved these things, saith the Lord.
+
 ## Amos 5:15
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, lord, mercy; crossref_top_vote=11; reco=keep
+- score: 22
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, judgment, lord, mercy; crossref_top_vote=11; reco=keep
 - keywords: god, judgment, lord, mercy
-- fresh: We hated evil things and loved good things, and restore judgment in the gates, so that the Lord God Almighty may show mercy to the remnant of Joseph.
+- fresh: We have hated evil things and loved good things, and restore judgment in the gates, so that the Lord God Almighty may show mercy to the remnant of Joseph.
 - brenton: We have hated evil, and loved good: and restore ye judgment in the gates; that the Lord God Almighty may have mercy on the remnant of Joseph.
 
 ## Obadiah 1:7
-- score: 13
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant; crossref_top_vote=6; reco=keep
+- score: 16
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=covenant; crossref_top_vote=6; reco=keep
 - keywords: covenant
-- fresh: To your borders they sent you away, all men of your covenant. Your peaceful men opposed you and prevailed against you. They set ambush under you; there is no understanding in them.
+- fresh: As far as your borders they sent you away, all the men of your covenant. Your peaceful men opposed you and prevailed against you. They set an ambush under you; there is no understanding in them.
 - brenton: They sent thee to thy coasts: all the men of thy covenant have withstood thee; thine allies have prevailed against thee, they have set snares under thee: they have no understanding.
 
 ## Jonah 1:14
-- score: 15
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=lord, righteous; crossref_top_vote=10; reco=keep
+- score: 18
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=lord, righteous; crossref_top_vote=10; reco=keep
 - keywords: lord, righteous
-- fresh: They cried to the Lord and said, By no means, Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
+- fresh: They cried to the Lord and said, By no means, O Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, O Lord, have done as you wished.
 - brenton: And they cried to the Lord, and said, Forbid it, Lord: let us not perish for the sake of this man's life, and bring not righteous blood upon us: for thou, Lord, hast done as thou wouldest.
 
-## Micah 3:8
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, lord, spirit; crossref_top_vote=11; reco=keep
-- keywords: judgment, lord, spirit
-- fresh: But I am filled with strength by the Spirit of the Lord and with judgment and power, to declare to Jacob his impiety and to Israel his sins.
-- brenton: Surely I will strengthen myself with the Spirit of the Lord, and of judgment, and of power, to declare to Jacob his transgressions, and to Israel his sins.
-
 ## Micah 4:2
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, law, lord; crossref_top_vote=13; reco=keep
+- score: 20
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, law, lord; crossref_top_vote=13; reco=keep
 - keywords: god, law, lord
-- fresh: And many nations will go and say, Come, let us go up to the mountain of the Lord and to the house of God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
+- fresh: And many nations will go and say, Come, let us go up to the mountain of the Lord and to the house of the God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
 - brenton: And many nations shall go, and say, Come, let us go up to the mountain of the Lord, and to the house of the God of Jacob; and they shall shew us his way, and we will walk in his paths: for out of Sion shall go forth a law, and the word of the Lord from Jerusalem.
 
-## Micah 6:7
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=firstborn, lord, sin, soul; crossref_top_vote=7; reco=keep
-- keywords: firstborn, lord, sin, soul
-- fresh: Will the Lord accept thousands of rams or tens of thousands of torrents of fat? Shall I give my firstborn for impiety, the fruit of my womb for the sin of my soul?
-- brenton: Will the Lord accept thousands of rams, or ten thousands of fat goats? should I give my first-born for ungodliness, the fruit of my body for the sin of my soul?
+## Micah 6:5
+- score: 20
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=king, lord, righteousness; crossref_top_vote=11; reco=keep
+- keywords: king, lord, righteousness
+- fresh: O my people, remember now what Balak king of Moab planned against you and what Balaam son of Beor answered him, from the reeds to Gilgal, so that the righteousness of the Lord may be known.
+- brenton: O my people, remember now, what counsel Balac king of Moab took against thee, and what Balaam the son of Beor answered him, from the reeds to Galgal; that the righteousness of the Lord might be known.
 
 ## Micah 6:8
-- score: 24
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, judgment, justice, lord, mercy; crossref_top_vote=186; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- score: 27
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, judgment, justice, lord, mercy; crossref_top_vote=186; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - keywords: god, judgment, justice, lord, mercy
-- fresh: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
+- fresh: He told you, O human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
 - brenton: Has it not been told thee, O man, what is good? or what does the Lord require of thee, but to do justice, and love mercy, and be ready to walk with the Lord thy God?
+
+## Habakkuk 1:4
+- score: 19
+- reasons: decisions=3; footnotes=1; reviewed_decisions=3; importance=high; keywords=judgment, law, righteous; crossref_top_vote=6; reco=keep
+- keywords: judgment, law, righteous
+- fresh: Because of this the law has ceased, and judgment does not go forth to the end, because the impious one overpowers the righteous one; because of this the judgment will go forth perverted.
+- brenton: Therefore the law is frustrated, and judgment proceeds not effectually, for the ungodly man prevails over the just; therefore perverse judgment will proceed.
 
 ## Habakkuk 1:12
 - score: 18
@@ -496,24 +517,24 @@ Books: 35
 - brenton: If he should draw back, my soul has no pleasure in him: but the just shall live by my faith.
 
 ## Zephaniah 2:3
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, justice, lord, righteousness; crossref_top_vote=31; reco=keep
+- score: 22
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=judgment, justice, lord, righteousness; crossref_top_vote=31; reco=keep
 - keywords: judgment, justice, lord, righteousness
-- fresh: Seek the Lord, all humble of earth, who have done his judgment. Seek righteousness; seek humility. It may be that you will be sheltered in the day of the Lord's wrath.
+- fresh: Seek the Lord, all humble of earth; work judgment and seek righteousness, and answer these things, so that you may be sheltered in the day of the Lord's wrath.
 - brenton: Seek ye the Lord, all ye meek of the earth; do judgment, and seek justice, and answer accordingly; that ye may be hid in the day of the wrath of the Lord.
 
 ## Zephaniah 3:4
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, law, spirit; crossref_top_vote=6; reco=keep
+- score: 19
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=holy, law, spirit; crossref_top_vote=6; reco=keep
 - keywords: holy, law, spirit
-- fresh: Her prophets are spirit-borne men, contemptuous; her priests profane holy things and act impiously against law.
+- fresh: Her prophets are spirit-borne men, despisers; her priests profane the holy things and act impiously against law.
 - brenton: Her prophets are light and scornful men: her priests profane the holy things, and sinfully transgress the law.
 
 ## Zephaniah 3:5
-- score: 16
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, lord, righteous; crossref_top_vote=11; reco=keep
+- score: 19
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=judgment, lord, righteous; crossref_top_vote=11; reco=keep
 - keywords: judgment, lord, righteous
-- fresh: But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he gives his judgment to the light; it does not fail, but unjust one knows no shame.
+- fresh: But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he will give his judgment to the light, and it was not hidden; and he did not know injustice in exaction nor injustice in strife.
 - brenton: But the just Lord is in the midst of her, and he will never do an unjust thing: morning by morning he will bring out his judgment to the light, and it is not hidden, and he knows not injustice by extortion, nor injustice in strife.
 
 ## Zechariah 7:9
@@ -523,37 +544,37 @@ Books: 35
 - fresh: Thus says the Lord Almighty: Judge righteous judgment, and do mercy and compassion, each toward his brother.
 - brenton: Thus saith the Lord Almighty;
 
-## Zechariah 7:12
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=law, lord, spirit; crossref_top_vote=7; reco=keep
-- keywords: law, lord, spirit
-- fresh: And they set their hearts in disobedience so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
-- brenton: And they made their heart disobedient, so as not to hearken to my law, and the words which the Lord Almighty sent forth by his Spirit by the former prophets: so there was great wrath from the Lord Almighty.
-
-## Malachi 2:6
-- score: 17
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=law, peace, truth; crossref_top_vote=12; reco=keep
-- keywords: law, peace, truth
-- fresh: The law of truth was in his mouth, and injustice was not found on his lips. In peace he walked straight with me and turned many from injustice.
-- brenton: The law of truth was in his mouth, and iniquity was not found in his lips: he walked before me directing his way in peace, and he turned many from unrighteousness.
+## Zechariah 9:9
+- score: 22
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=king, righteous; crossref_top_vote=55; reco=keep
+- keywords: king, righteous
+- fresh: Rejoice greatly, O daughter of Zion; proclaim, O daughter of Jerusalem: behold, your king comes to you, righteous and saving, he himself meek and mounted upon a beast of burden and a young foal.
+- brenton: Rejoice greatly, O daughter of Sion; proclaim it aloud, O daughter of Jerusalem; behold, the King is coming to thee, just, and a Saviour; he is meek and riding on an ass, and a young foal.
 
 ## Malachi 2:7
-- score: 19
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=law, lord, messenger, priest; crossref_top_vote=13; reco=keep
+- score: 24
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=law, lord, messenger, priest; crossref_top_vote=13; reco=keep
 - keywords: law, lord, messenger, priest
-- fresh: Because the lips of a priest will guard knowledge, and the law they will seek from his mouth, because he is a messenger of the Lord Almighty.
+- fresh: Because the lips of a priest will guard knowledge, and they will seek the law from his mouth, because he is a messenger of the Lord Almighty.
 - brenton: For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord Almighty.
 
 ## Malachi 2:10
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=covenant, create, god; crossref_top_vote=42; reco=keep
+- score: 23
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=covenant, create, god; crossref_top_vote=42; reco=keep
 - keywords: covenant, create, god
-- fresh: Did not one God create you? Is not one father of all you? Why does each abandon his brother, to profane the covenant of your fathers?
+- fresh: Did not one God create you? Is not one father of you all? Why did each abandon his brother, to profane the covenant of your fathers?
 - brenton: Have ye not all one father? Did not one God create you? why have ye forsaken every man his brother, to profane the covenant of your fathers?
 
+## Malachi 3:1
+- score: 22
+- reasons: decisions=1; footnotes=2; reviewed_decisions=1; importance=high; keywords=angel, covenant, lord, messenger; crossref_top_vote=21; reco=keep
+- keywords: angel, covenant, lord, messenger
+- fresh: Behold, I send my messenger, and he will look upon a way before my face, and suddenly the Lord whom you seek will come into his own temple, and the messenger of the covenant whom you desire. Behold, he comes, says the Lord Almighty.
+- brenton: Behold, I send forth my messenger, and he shall survey the way before me: and the Lord, whom ye seek, shall suddenly come into his temple, even the angel of the covenant, whom ye take pleasure in: behold, he is coming, saith the Lord Almighty.
+
 ## Malachi 3:5
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=judgment, lord, name; crossref_top_vote=28; reco=keep
+- score: 23
+- reasons: decisions=2; footnotes=2; reviewed_decisions=2; importance=high; keywords=judgment, lord, name; crossref_top_vote=28; reco=keep
 - keywords: judgment, lord, name
-- fresh: And I will come near to you in judgment and be swift witness against sorceresses and adulteresses and those swearing falsely by my name and those withholding wage of hired worker and oppressing widow and striking orphan and turning aside judgment of sojourner and not fearing me, says the Lord Almighty.
+- fresh: And I will come near to you in judgment, and I will be a swift witness against the sorceresses and against the adulteresses and against those swearing falsely by my name and against those withholding the wage of a hired worker, and those oppressing a widow and those striking orphans and those turning aside the judgment of a sojourner, and those not fearing me, says the Lord Almighty.
 - brenton: And I will draw near to you in judgment; and I will be a swift witness against the witches, and against the adulteresses, and against them that swear falsely by my name, and against them that keep back the hireling's wages, and them that oppress the widow, and afflict orphans, and that wrest the judgment of the stranger, and fear not me, saith the Lord Almighty.

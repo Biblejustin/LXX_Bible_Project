@@ -19,48 +19,48 @@ Only verses with tracked decision rows or footnotes.
 - 13. Joshua 22:5 | score 29 | decisions 2 | footnotes 2 | keep
 - 14. 2 Chronicles 7:14 | score 28 | decisions 2 | footnotes 2 | keep
 - 15. 2 Chronicles 9:8 | score 28 | decisions 2 | footnotes 2 | revised
-- 16. Genesis 2:7 | score 28 | decisions 4 | footnotes 3 | keep
-- 17. Isaiah 12:2 | score 27 | decisions 1 | footnotes 1 | revised
-- 18. Leviticus 4:35 | score 26 | decisions 1 | footnotes 1 | keep
-- 19. Isaiah 54:10 | score 25 | decisions 1 | footnotes 1 | revised
-- 20. Leviticus 5:15 | score 25 | decisions 3 | footnotes 3 | revised
-- 21. Micah 5:3 | score 25 | decisions 1 | footnotes 1 | revised
-- 22. 2 Chronicles 35:3 | score 24 | decisions 5 | footnotes 5 | keep
-- 23. 2 Chronicles 6:14 | score 24 | decisions 2 | footnotes 2 | keep
-- 24. Deuteronomy 14:23 | score 24 | decisions 1 | footnotes 1 | keep
-- 25. Isaiah 59:21 | score 24 | decisions 1 | footnotes 2 | keep
-- 26. Isaiah 9:6 | score 24 | decisions 1 | footnotes 2 | keep
-- 27. Jeremiah 9:23 | score 24 | decisions 1 | footnotes 1 | revised
-- 28. Micah 6:8 | score 24 | decisions 1 | footnotes 1 | revised
-- 29. 2 Kings 17:34 | score 23 | decisions 2 | footnotes 2 | revised
-- 30. Amos 9:12 | score 23 | decisions 1 | footnotes 1 | keep
-- 31. Daniel 4:37 | score 23 | decisions 1 | footnotes 1 | keep
-- 32. Ecclesiastes 11:5 | score 23 | decisions 2 | footnotes 2 | keep
-- 33. Jeremiah 15:16 | score 23 | decisions 1 | footnotes 1 | keep
-- 34. Jeremiah 4:2 | score 23 | decisions 1 | footnotes 1 | revised
-- 35. Leviticus 3:1 | score 23 | decisions 1 | footnotes 1 | keep
-- 36. Zechariah 13:9 | score 23 | decisions 1 | footnotes 1 | keep
-- 37. 1 Chronicles 16:40 | score 22 | decisions 1 | footnotes 1 | revised
-- 38. 1 Kings 12:24 | score 22 | decisions 1 | footnotes 1 | keep
-- 39. 1 Samuel 2:10 | score 22 | decisions 1 | footnotes 1 | keep
-- 40. 2 Kings 9:18 | score 22 | decisions 2 | footnotes 2 | keep
-- 41. Exodus 14:31 | score 22 | decisions 2 | footnotes 2 | keep
-- 42. Exodus 15:26 | score 22 | decisions 2 | footnotes 2 | keep
-- 43. Genesis 24:7 | score 22 | decisions 2 | footnotes 1 | keep
-- 44. Isaiah 44:2 | score 22 | decisions 1 | footnotes 1 | keep
-- 45. Jeremiah 23:5 | score 22 | decisions 1 | footnotes 1 | revised
-- 46. Joshua 22:23 | score 22 | decisions 1 | footnotes 1 | keep
-- 47. Joshua 24:19 | score 22 | decisions 1 | footnotes 1 | revised
-- 48. Nehemiah 1:11 | score 22 | decisions 1 | footnotes 1 | revised
-- 49. Numbers 35:25 | score 22 | decisions 2 | footnotes 2 | keep
-- 50. Numbers 6:14 | score 22 | decisions 1 | footnotes 1 | revised
-- 51. Numbers 6:18 | score 22 | decisions 4 | footnotes 4 | revised
-- 52. Psalms 83:12 | score 22 | decisions 1 | footnotes 1 | revised
-- 53. Psalms 84:11 | score 22 | decisions 1 | footnotes 1 | keep
-- 54. Zechariah 12:10 | score 22 | decisions 1 | footnotes 1 | revised
-- 55. 1 Chronicles 16:35 | score 21 | decisions 1 | footnotes 1 | keep
-- 56. 1 Samuel 26:19 | score 21 | decisions 1 | footnotes 1 | keep
-- 57. 2 Samuel 3:21 | score 21 | decisions 1 | footnotes 1 | keep
-- 58. Ecclesiastes 11:9 | score 21 | decisions 2 | footnotes 2 | keep
-- 59. Exodus 14:13 | score 21 | decisions 2 | footnotes 1 | keep
-- 60. Exodus 28:30 | score 21 | decisions 1 | footnotes 1 | keep
+- 16. Daniel 4:37 | score 28 | decisions 8 | footnotes 1 | keep
+- 17. Genesis 2:7 | score 28 | decisions 4 | footnotes 3 | keep
+- 18. Isaiah 12:2 | score 27 | decisions 1 | footnotes 1 | revised
+- 19. Jeremiah 23:5 | score 27 | decisions 3 | footnotes 2 | revised
+- 20. Micah 6:8 | score 27 | decisions 2 | footnotes 1 | revised
+- 21. Zechariah 12:10 | score 27 | decisions 2 | footnotes 2 | revised
+- 22. Amos 9:12 | score 26 | decisions 2 | footnotes 1 | keep
+- 23. Jeremiah 9:23 | score 26 | decisions 1 | footnotes 2 | revised
+- 24. Leviticus 4:35 | score 26 | decisions 1 | footnotes 1 | keep
+- 25. Isaiah 44:2 | score 25 | decisions 2 | footnotes 1 | keep
+- 26. Isaiah 54:10 | score 25 | decisions 1 | footnotes 1 | revised
+- 27. Jeremiah 7:11 | score 25 | decisions 2 | footnotes 2 | keep
+- 28. Leviticus 5:15 | score 25 | decisions 3 | footnotes 3 | revised
+- 29. Micah 5:3 | score 25 | decisions 1 | footnotes 1 | revised
+- 30. 2 Chronicles 35:3 | score 24 | decisions 5 | footnotes 5 | keep
+- 31. 2 Chronicles 6:14 | score 24 | decisions 2 | footnotes 2 | keep
+- 32. Deuteronomy 14:23 | score 24 | decisions 1 | footnotes 1 | keep
+- 33. Ezekiel 18:27 | score 24 | decisions 3 | footnotes 4 | revised
+- 34. Ezekiel 20:39 | score 24 | decisions 7 | footnotes 7 | keep
+- 35. Isaiah 49:7 | score 24 | decisions 2 | footnotes 1 | revised
+- 36. Isaiah 59:21 | score 24 | decisions 1 | footnotes 2 | keep
+- 37. Isaiah 9:6 | score 24 | decisions 1 | footnotes 2 | keep
+- 38. Jeremiah 14:9 | score 24 | decisions 2 | footnotes 1 | keep
+- 39. Malachi 1:6 | score 24 | decisions 2 | footnotes 2 | keep
+- 40. Malachi 2:7 | score 24 | decisions 2 | footnotes 2 | keep
+- 41. Zechariah 14:5 | score 24 | decisions 2 | footnotes 2 | keep
+- 42. 2 Kings 17:34 | score 23 | decisions 2 | footnotes 2 | revised
+- 43. Daniel 9:4 | score 23 | decisions 3 | footnotes 1 | keep
+- 44. Ecclesiastes 11:5 | score 23 | decisions 2 | footnotes 2 | keep
+- 45. Ezekiel 18:20 | score 23 | decisions 5 | footnotes 5 | keep
+- 46. Ezekiel 39:25 | score 23 | decisions 2 | footnotes 1 | keep
+- 47. Jeremiah 15:16 | score 23 | decisions 1 | footnotes 1 | keep
+- 48. Jeremiah 4:2 | score 23 | decisions 1 | footnotes 1 | revised
+- 49. Leviticus 3:1 | score 23 | decisions 1 | footnotes 1 | keep
+- 50. Malachi 2:10 | score 23 | decisions 2 | footnotes 2 | keep
+- 51. Malachi 3:5 | score 23 | decisions 2 | footnotes 2 | keep
+- 52. Zechariah 13:9 | score 23 | decisions 1 | footnotes 1 | keep
+- 53. 1 Chronicles 16:40 | score 22 | decisions 1 | footnotes 1 | revised
+- 54. 1 Kings 12:24 | score 22 | decisions 1 | footnotes 1 | keep
+- 55. 1 Samuel 2:10 | score 22 | decisions 1 | footnotes 1 | keep
+- 56. 2 Kings 9:18 | score 22 | decisions 2 | footnotes 2 | keep
+- 57. Amos 5:15 | score 22 | decisions 2 | footnotes 1 | keep
+- 58. Amos 9:1 | score 22 | decisions 4 | footnotes 1 | keep
+- 59. Daniel 4:33 | score 22 | decisions 3 | footnotes 1 | keep
+- 60. Daniel 4:34 | score 22 | decisions 3 | footnotes 1 | keep

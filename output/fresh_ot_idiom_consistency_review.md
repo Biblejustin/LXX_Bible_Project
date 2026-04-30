@@ -51,25 +51,25 @@ Unresolved outliers: 0
 ### name-upon-formula
 - description: Name formula with 'upon' language for house/people/object.
 - rows: 9
-- dominant bucket: `called-upon` (3)
-- buckets: other=6, called-upon=3
+- dominant bucket: `called-upon` (4)
+- buckets: other=5, called-upon=4
 
 - 1 Chronicles 28:3 [called-upon]
   - fresh: But God said, You shall not build me a house to have my name called upon it, because you are man of war and have poured out blood.
 - 2 Chronicles 7:14 [other]
   - fresh: and my people upon whom my name has been called are put to shame, and they pray and seek my face and turn from their evil ways, then I will hear from heaven and be merciful to their sins and heal their land.
-- Amos 9:12 [other]
-  - fresh: so that the remnant of men and all nations upon whom my name has been called may seek, says the Lord God who does these things.
+- Amos 9:12 [called-upon]
+  - fresh: so that the remnant of men and all nations upon whom my name has been called upon them may seek, says the Lord God who does these things.
 - Jeremiah 7:10 [other]
   - fresh: and you came and stood before me in the house over which my name has been called and said, We have held back from doing all these abominations—
 - Jeremiah 7:11 [other]
   - fresh: Has my house over which my name has been called become a den of robbers there before you? And I, behold, have seen, says the Lord.
 - Jeremiah 7:14 [other]
-  - fresh: I will do to this house over which my name has been called, on which you trust, and to place I gave to you and to your fathers, just as I did to Shiloh.
+  - fresh: I will do to this house over which my name has been called, on which you trust, and to the place I gave to you and to your fathers, just as I did to Shiloh.
 - Jeremiah 7:30 [other]
-  - fresh: Because sons of Judah did evil before me, says the Lord. They set their abominations in the house over which my name has been called, to defile it.
+  - fresh: Because the sons of Judah did evil before me, says the Lord. They set their abominations in the house over which my name has been called, to defile it.
 - Jeremiah 14:9 [called-upon]
-  - fresh: Do not be like a sleeping man or like a man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
+  - fresh: Do not be like a sleeping man or like a man unable to save. And you are among us, Lord, and your name is called upon us; do not forget us.
 - Jeremiah 15:16 [called-upon]
   - fresh: By those rejecting your words, consume them. And your word will be to me joy and gladness of my heart, because your name is called upon me, O Lord Almighty.
 
@@ -92,9 +92,9 @@ Unresolved outliers: 0
 - 2 Samuel 20:1 [other]
   - fresh: And there happened to be there a lawless man, and his name was Sheba son of Bichri, a Benjamite man. And he sounded the horn and said, We have no share in David, nor inheritance for us in the son of Jesse. Each man to your tents, O Israel.
 - Isaiah 64:6 [other]
-  - fresh: And there is no one calling on your name and remembering to take hold of you, because you turned your face from us and gave us over because of our sins.
+  - fresh: And there is no one calling on your name and no one remembering to take hold of you, because you turned your face away from us and gave us over because of our sins.
 - Joel 3:5 [other]
-  - fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
+  - fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be one who escapes, as the Lord said, and those receiving good news whom the Lord has called.
 - Psalms 74:2 [call-on-name]
   - fresh: We will confess to you, O God, we will confess, and we will call on your name.
 - Psalms 79:19 [call-on-name]
@@ -139,15 +139,15 @@ Unresolved outliers: 0
 - Exodus 32:6 [salvation]
   - fresh: And rising early the next day, he offered whole burnt offerings and brought sacrifices of salvation. And the people sat down to eat and drink and rose up to play.
 - Ezekiel 43:27 [salvation]
-  - fresh: And when the days are completed, from the eighth day and onward the priests will offer on the altar your burnt offerings and your offerings of salvation, and I will accept you, says the Lord.
+  - fresh: And from the eighth day and beyond, the priests will offer on the altar your whole burnt offerings and your offerings of salvation, and I will accept you, says the Lord.
 - Ezekiel 45:15 [salvation]
   - fresh: And one sheep from every ten sheep, an offering from all families of Israel, for sacrifices and burnt offerings and offerings of salvation, to make atonement for you, says the Lord God.
 - Ezekiel 45:17 [salvation]
-  - fresh: And it will be ruler's part to provide burnt offerings and sacrifices and drink offerings at feasts and new moons and Sabbaths and all festivals of the house of Israel; he will provide things for sin and sacrifice and burnt offerings and offerings of salvation, to make atonement for the house of Israel.
+  - fresh: And through the ruler will be the whole burnt offerings and the sacrifices and the libations at the feasts and at the new moons and on the Sabbaths and at all the feasts of the house of Israel; he will make the things for sin and the sacrifice and the whole burnt offerings and the offerings of salvation, to make atonement for the house of Israel.
 - Ezekiel 46:2 [salvation]
-  - fresh: And the ruler will enter by way of the porch of the outer gate and stand by the thresholds of the gate, and the priests will offer his burnt offerings and his offerings of salvation, and he will worship at threshold of the gate and go out, and the gate will not be shut until evening.
+  - fresh: And the ruler will enter by way of the porch of the outer gate and stand at the thresholds of the gate, and the priests will make his whole burnt offerings and his offerings of salvation, and he will worship at the threshold of the gate and go out, and the gate will not be shut until evening.
 - Ezekiel 46:12 [salvation]
-  - fresh: And if the ruler prepares a voluntary offering, a burnt offering, offerings of salvation to the Lord, they will open for him the gate facing east, and he will prepare his burnt offering and his offerings of salvation just as he does on Sabbath day, and he will go out, and they will shut the doors after he goes out.
+  - fresh: And if the ruler makes a confession offering, a whole burnt offering of salvation to the Lord, and opens for himself the gate facing east, he will make his whole burnt offering and his offerings of salvation just as he does on the day of the Sabbaths, and he will go out, and he will shut the doors after he has gone out.
 - Jonah 2:10 [salvation]
   - fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
 - Joshua 22:23 [salvation]

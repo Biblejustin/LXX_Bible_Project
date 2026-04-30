@@ -230,6 +230,21 @@ Rows: 234
 - fresh: Blessed be the Lord your God, who delighted in you to set you on his throne as king for the Lord your God. Because the Lord your God loved Israel to establish him forever, he gave you over them as king to do judgment and righteousness.
 - brenton: Blessed be the Lord thy God, who took pleasure in thee, to set thee upon his throne for a king, to the Lord thy God: forasmuch as the Lord thy God loved Israel to establish them for ever, therefore he has set thee over them for a king to execute judgment and justice.
 
+## Daniel 4:37
+- priority: `28`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=8; footnotes=1; eng_reco=keep; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all things in them. I confess and praise because he is the God of gods and the Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing a kingdom from kings and setting others in their place. From now on I will serve him, and trembling from fear of him has seized me, and I praise all his holy ones. The gods of nations do not have power in themselves to turn the kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as the God of heaven did in me and changed great things upon me. All the days of my kingdom I will offer sacrifices concerning my soul to the Most High as a sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against the God of heaven, and whoever is caught speaking anything, these I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages, all those dwelling in all lands, in generations and generations: Praise the Lord God of heaven and offer a sacrifice and an offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and I held my authority and my kingdom among my people, and my greatness was restored to me. King Nebuchadnezzar, to all the nations and all the lands and all those dwelling in them: May peace be multiplied to you at every time. And now I will show you the deeds that the great God did with me. And it seemed good to me to show you and your sophists that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
+- brenton: [missing]
+
 ## Genesis 2:7
 - priority: `28`
 - importance: `high`
@@ -260,6 +275,81 @@ Rows: 234
 - fresh: Behold, my God is my savior. I will trust in the Lord and be saved in him, and I will not fear, because the Lord is my glory and my praise, and he became salvation to me.
 - brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.
 
+## Jeremiah 23:5
+- priority: `27`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=3; footnotes=2; eng_reco=keep; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: Behold, days are coming, says the Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon the earth.
+- brenton: Behold, the days come, saith the Lord, when I will raise up to David a righteous branch, and a king shall reign and understand, and shall execute judgment and righteousness on the earth.
+
+## Micah 6:8
+- priority: `27`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; eng=2; eng_reco=keep; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `2`, fresh `2`, brenton `0`, mt `0`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: He told you, O human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
+- brenton: Has it not been told thee, O man, what is good? or what does the Lord require of thee, but to do justice, and love mercy, and be ready to walk with the Lord thy God?
+
+## Zechariah 12:10
+- priority: `27`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=2; eng_reco=keep; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: And I will pour out upon the house of David and upon the inhabitants of Jerusalem a spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for a beloved one and grieve over him as over a firstborn.
+- brenton: And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.
+
+## Amos 9:12
+- priority: `26`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; nt=2; nt_eng=6; nt_eng_reco=keep; reco=keep
+- nt refs: Acts 15:17, James 2:7
+- nt english witnesses: checked `6`, support `1`, soften `3`, mixed `2`
+- nt english recommendation: `keep`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: so that the remnant of men and all nations upon whom my name has been called upon them may seek, says the Lord God who does these things.
+- brenton: that the remnant of men, and all the Gentiles upon whom my name is called, may earnestly seek me, saith the Lord who does all these things.
+
+## Jeremiah 9:23
+- priority: `26`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=1; footnotes=2; eng=2; eng_reco=keep; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `2`, fresh `0`, brenton `0`, mt `2`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
+- brenton: but let him that boasts boast in this, the understanding and knowing that I am the Lord that exercise mercy, and judgment, and righteousness, upon the earth; for in these things is my pleasure, saith the Lord.
+
 ## Leviticus 4:35
 - priority: `26`
 - importance: `high`
@@ -275,6 +365,21 @@ Rows: 234
 - fresh: And he shall remove all its fat, just as the fat of a sheep is removed from the sacrifice of salvation, and the priest shall place it on the altar, on the Lord's whole burnt offering. And the priest shall make atonement for him for the sin that he sinned, and it shall be forgiven him.
 - brenton: And he shall take away all his fat, as the fat of the lamb of the sacrifice of peace-offering is taken away, and the priest shall put it on the altar for a whole-burnt-offering to the Lord; and the priest shall make atonement for him for the sin which he sinned, and it shall be forgiven him.
 
+## Isaiah 44:2
+- priority: `25`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; eng_reco=keep; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: Thus says the Lord God, the one making you and the one forming you from the womb: You will still be helped. Do not fear, my servant Jacob, beloved Israel whom I chose.
+- brenton: Thus saith the Lord God that made thee, and he that formed thee from the womb; Thou shalt yet be helped: fear not, my servant Jacob; and beloved Israel, whom I have chosen.
+
 ## Isaiah 54:10
 - priority: `25`
 - importance: `high`
@@ -289,6 +394,21 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: Mountains may be moved and your hills shaken, but my mercy for you will not fail, and the covenant of your peace will not be moved, says the Lord, being gracious to you.
 - brenton: shall the mountains depart, nor shall thy hills be removed: so neither shall my mercy fail thee, nor shall the covenant of thy peace be at all removed: for the Lord who is gracious to thee has spoken it.
+
+## Jeremiah 7:11
+- priority: `25`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=2; nt=3; nt_eng=15; nt_eng_reco=keep; reco=keep
+- nt refs: Acts 15:17, James 2:7, Romans 2:17
+- nt english witnesses: checked `15`, support `4`, soften `6`, mixed `5`
+- nt english recommendation: `keep`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Has my house over which my name has been called become a den of robbers there before you? And I, behold, have seen, says the Lord.
+- brenton: Is my house, whereon my name is called, a den of robbers in your eyes? And, behold, I have seen it, saith the Lord.
 
 ## Leviticus 5:15
 - priority: `25`
@@ -365,6 +485,51 @@ Rows: 234
 - fresh: And you shall eat it before the Lord your God in the place where the Lord your God chooses for his name to be called there. You shall bring the tithes of your grain and your wine and your oil and the firstborn of your cattle and your sheep, so that you may learn to fear the Lord your God all the days.
 - brenton: And thou shalt eat it in the place which the Lord thy God shall choose to have his name called there; ye shall bring the tithe of thy corn and of thy wine, and of thine oil, the first-born of thy herd and of thy flock, that thou mayest learn to fear the Lord thy God always.
 
+## Ezekiel 18:27
+- priority: `24`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=3; footnotes=4
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `none`
+- fresh: And when the lawless one turns from the lawlessness that he committed and does judgment and righteousness, this one has preserved his soul.
+- brenton: And when the wicked man turns away from his wickedness that he has committed, and shall do judgment and justice, he has kept his soul,
+
+## Ezekiel 20:39
+- priority: `24`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=7; footnotes=7; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: And you, house of Israel, thus says the Lord God: Each one, remove his practices, and after these things, if you do not listen to me, you will no longer profane my holy name with your gifts and with your practices.
+- brenton: And as to you, O house of Israel, thus saith the Lord, even the Lord; Put away each one his evil practices, and hereafter if ye hearken to me, then shall ye no more profane my holy name by your gifts and by devices.
+
+## Isaiah 49:7
+- priority: `24`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; eng_reco=keep; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: Thus says the Lord, the one rescuing you, the God of Israel: Sanctify the one despising his soul, the one abhorred by the nations, the servant of rulers. Kings will see him and rise; rulers also will worship him, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
+- brenton: Thus saith the Lord that delivered thee, the God of Israel, Sanctify him that despises his life, him that is abhorred by the nations that are the servants of princes: kings shall behold him, and princes shall arise, and shall worship him, for the Lord's sake: for the Holy One of Israel is faithful, and I have chosen thee.
+
 ## Isaiah 59:21
 - priority: `24`
 - importance: `high`
@@ -395,35 +560,65 @@ Rows: 234
 - fresh: Great is his rule, and his peace has no boundary, upon the throne of David and his kingdom, to make it prosper and uphold it in righteousness and judgment from now and forever. The zeal of the Lord of hosts will do these things.
 - brenton: His government shall be great, and of his peace there is no end: it shall be upon the throne of David, and upon his kingdom, to establish it, and to support it with judgment and with righteousness, from henceforth and for ever. The zeal of the Lord of hosts shall perform this.
 
-## Jeremiah 9:23
+## Jeremiah 14:9
 - priority: `24`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; eng=2; eng_reco=keep; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; nt=2; nt_eng=6; nt_eng_reco=keep; reco=keep
+- nt refs: Acts 15:17, James 2:7
+- nt english witnesses: checked `6`, support `1`, soften `3`, mixed `2`
+- nt english recommendation: `keep`
 - logos local: checked `0`, supports `none`, confidence `none`
 - logos local recommendation: `none`
-- english witnesses: checked `2`, fresh `0`, brenton `0`, mt `2`
-- english witness recommendation: `keep`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: but in this let the one boasting boast: to understand and know that I am the Lord, doing mercy and judgment and righteousness on the earth, because in these is my will, says the Lord.
-- brenton: but let him that boasts boast in this, the understanding and knowing that I am the Lord that exercise mercy, and judgment, and righteousness, upon the earth; for in these things is my pleasure, saith the Lord.
+- fresh: Do not be like a sleeping man or like a man unable to save. And you are among us, Lord, and your name is called upon us; do not forget us.
+- brenton: Wilt thou be as a man asleep, or as a strong man that cannot save? yet thou art among us, O Lord, and thy name is called upon us; forget us not.
 
-## Micah 6:8
+## Malachi 1:6
 - priority: `24`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; eng=2; eng_reco=keep; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=2; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
 - logos local: checked `0`, supports `none`, confidence `none`
 - logos local recommendation: `none`
-- english witnesses: checked `2`, fresh `2`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: He told you, human, what is good, or what the Lord seeks from you: but to do judgment and love mercy and be ready to walk with the Lord your God.
-- brenton: Has it not been told thee, O man, what is good? or what does the Lord require of thee, but to do justice, and love mercy, and be ready to walk with the Lord thy God?
+- fresh: A son honors a father and a servant his master. If I am a father, where is my honor? And if I am a master, where is my fear? says the Lord Almighty to you, priests despising my name. And you said, In what have we despised your name?
+- brenton: A son honours his father, and a servant his master: if then I am a father, where is mine honour? and if I am a master, where is my fear? saith the Lord Almighty. Ye the priests are they that despise my name: yet ye said, Wherein have we despised thy name?
+
+## Malachi 2:7
+- priority: `24`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=2; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Because the lips of a priest will guard knowledge, and they will seek the law from his mouth, because he is a messenger of the Lord Almighty.
+- brenton: For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord Almighty.
+
+## Zechariah 14:5
+- priority: `24`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=2; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: And the ravine of my mountains will be blocked up, and the ravine of mountains will be joined together as far as Jasol, and it will be blocked as it was blocked in the days of the earthquake in the days of Uzziah king of Judah, and the Lord my God will come, and all the holy ones with him.
+- brenton: And the valley of my mountains shall be closed up, and the valley of the mountains shall be joined on to Jasod, and shall be blocked up as it was blocked up in the days of the earthquake, in the days of Ozias king of Juda; and the Lord my God shall come, and all the saints with him.
 
 ## 2 Kings 17:34
 - priority: `23`
@@ -440,25 +635,10 @@ Rows: 234
 - fresh: To this day they act according to their judgment. They fear, and they act according to their statutes and according to their judgment and according to the law and according to the commandment that the Lord commanded the sons of Jacob, whom he named Israel.
 - brenton: Until this day they did according to their manner: they fear the Lord, and they do according to their customs, and according to their manner, and according to the law, and according to the commandment which the Lord commanded the sons of Jacob, whose name he made Israel.
 
-## Amos 9:12
+## Daniel 9:4
 - priority: `23`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; nt=2; nt_eng=6; nt_eng_reco=keep; reco=keep
-- nt refs: Acts 15:17, James 2:7
-- nt english witnesses: checked `6`, support `1`, soften `3`, mixed `2`
-- nt english recommendation: `keep`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: so that the remnant of men and all nations upon whom my name has been called may seek, says the Lord God who does these things.
-- brenton: that the remnant of men, and all the Gentiles upon whom my name is called, may earnestly seek me, saith the Lord who does all these things.
-
-## Daniel 4:37
-- priority: `23`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; eng_reco=keep; reco=keep
+- reason: score>=12; importance=high; decisions=3; footnotes=1; eng_reco=keep; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -467,8 +647,8 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `keep`
 - consensus recommendation: `keep`
-- fresh: I confess and praise the Most High, the one who made heaven and earth and seas and rivers and all in them. I confess and praise because he is the God of gods and the Lord of lords and King of kings, because he works signs and wonders and changes times and seasons, removing a kingdom from kings and setting others in their place. From now on I will serve him, and fear of him has seized me, and I praise all his holy ones. The gods of nations have no power in themselves to turn the kingdom of a king to another king, or to kill and make alive, or to do great and fearsome signs and wonders, or to change exceedingly great things, as the God of heaven did in me and changed great things upon me. All the days of my kingdom I will offer sacrifices concerning my soul to the Most High as a sweet smell to the Lord, and I and my people and my nation and my lands under my authority will do what is pleasing before him. And whoever speaks against the God of heaven, and whoever is caught speaking, I will condemn to death. King Nebuchadnezzar wrote a circular letter to all nations and lands and languages dwelling in all regions and generations: Praise the Lord God of heaven and offer a sacrifice and an offering to him gloriously. I, king of kings, confess him gloriously, because this day he has done thus with me and seated me on my throne, and my authority and kingdom were restored to me. It seemed good to me to show you and your wise men that there is a God and his wonders are great. His kingdom is a kingdom forever, his authority from generations to generations. And he sent letters concerning all things that happened to him in his kingdom to all nations under his kingdom.
-- brenton: 
+- fresh: And I prayed to the Lord God and confessed and said, Behold, Lord, you are the great and mighty and fearsome God, keeping covenant and mercy for those loving you and keeping your commands.
+- brenton: [missing]
 
 ## Ecclesiastes 11:5
 - priority: `23`
@@ -484,6 +664,36 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: As you do not know what the way of spirit is, as bones are in the womb of a pregnant woman, so you will not know the works of God, who will make all things.
 - brenton: Among whom none knows what is the way of the wind: as the bones are hid in the womb of a pregnant woman, so thou shalt not know the works of God, even all things whatsoever he shall do.
+
+## Ezekiel 18:20
+- priority: `23`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=5; footnotes=5; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: And the soul sinning will die, but a son will not bear the injustice of his father, nor will a father bear the injustice of his son. The righteousness of a righteous one will be upon him, and the lawlessness of a lawless one will be upon him.
+- brenton: But the soul that sins shall die: and the son shall not bear the iniquity of the father, nor shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the iniquity of the transgressor shall be upon him.
+
+## Ezekiel 39:25
+- priority: `23`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; eng_reco=keep; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: Therefore thus says the Lord God: Now I will turn back captivity of Jacob and have mercy on the house of Israel and be zealous for my holy name.
+- brenton: Therefore thus saith the Lord God, Now will I turn back captivity in Jacob, and will have mercy on the house of Israel, and will be jealous for the sake of my holy name.
 
 ## Jeremiah 15:16
 - priority: `23`
@@ -529,6 +739,36 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: And if his gift to the Lord is a sacrifice of salvation, if he brings it from the cattle, whether male or female, he shall bring it without blemish before the Lord.
 - brenton: And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.
+
+## Malachi 2:10
+- priority: `23`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=2; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Did not one God create you? Is not one father of you all? Why did each abandon his brother, to profane the covenant of your fathers?
+- brenton: Have ye not all one father? Did not one God create you? why have ye forsaken every man his brother, to profane the covenant of your fathers?
+
+## Malachi 3:5
+- priority: `23`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=2; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: And I will come near to you in judgment, and I will be a swift witness against the sorceresses and against the adulteresses and against those swearing falsely by my name and against those withholding the wage of a hired worker, and those oppressing a widow and those striking orphans and those turning aside the judgment of a sojourner, and those not fearing me, says the Lord Almighty.
+- brenton: And I will draw near to you in judgment; and I will be a swift witness against the witches, and against the adulteresses, and against them that swear falsely by my name, and against them that keep back the hireling's wages, and them that oppress the widow, and afflict orphans, and that wrest the judgment of the stranger, and fear not me, saith the Lord Almighty.
 
 ## Zechariah 13:9
 - priority: `23`
@@ -605,6 +845,81 @@ Rows: 234
 - fresh: And a horseman went to meet them and said, Thus says the king, Is it peace? And Jehu said, What is peace to you? Turn behind me. And the watchman reported, saying, The messenger came to them and did not return.
 - brenton: And there went a horseman to meet them, and said, Thus says the king, Peace. And Ju said, What hast thou to do with peace? turn behind me. And the watchman reported, saying, The messenger came up to them, and has not returned.
 
+## Amos 5:15
+- priority: `22`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: We have hated evil things and loved good things, and restore judgment in the gates, so that the Lord God Almighty may show mercy to the remnant of Joseph.
+- brenton: We have hated evil, and loved good: and restore ye judgment in the gates; that the Lord God Almighty may have mercy on the remnant of Joseph.
+
+## Amos 9:1
+- priority: `22`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=4; footnotes=1; eng_reco=keep; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: I saw the Lord standing upon the altar, and he said, Strike upon the mercy-seat, and the foregates will be shaken; cut through into heads of all, and the remnant of them I will kill with a sword. The one fleeing from them will certainly not escape, and the one being rescued from them will certainly not be saved.
+- brenton: I saw the Lord standing on the altar: and he said,
+
+## Daniel 4:33
+- priority: `22`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=3; footnotes=1; eng_reco=keep; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: By morning all these things will be completed upon you, Nebuchadnezzar king of Babylon, and none of them will fail. I, Nebuchadnezzar king of Babylon, was bound for seven years; they fed me grass like an ox, and I ate from the herbs of the earth. And after seven years I gave my soul to prayer and begged concerning my sins before the Lord God of heaven, and concerning my ignorances I prayed to the God of gods, the great one. And my hair became like eagle feathers, and my nails like those of a lion. My flesh and my heart were changed; I walked naked among the beasts of the earth. I saw a dream, and thoughts seized me, and after a time much sleep took me and drowsiness fell upon me.
+- brenton: [missing]
+
+## Daniel 4:34
+- priority: `22`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=3; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: And at the completion of the seven years, the time of my release came, and my sins and my ignorances were filled up before the God of heaven, and I prayed concerning my ignorances to the God of gods, the great one, and behold, one angel called to me from heaven, saying, Nebuchadnezzar, serve the God of heaven the Holy One, and give glory to the Most High; the kingdom of your nation is restored to you.
+- brenton: [missing]
+
+## Daniel 6:23
+- priority: `22`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: And God saved me from the lions, because righteousness was found in me before him, and before you, O king, neither ignorance nor sin was found in me. But you listened to men who deceive kings and threw me into the lions' den for destruction.
+- brenton: [missing]
+
 ## Exodus 14:31
 - priority: `22`
 - importance: `high`
@@ -635,6 +950,36 @@ Rows: 234
 - fresh: And he said, "If in hearing you hear the voice of the Lord your God and do the things pleasing before him and give ear to his commands and keep all his ordinances, every sickness that I brought upon the Egyptians I will not bring upon you, for I am the Lord who heals you."
 - brenton: and said, If thou wilt indeed hear the voice of the Lord thy God, and do things pleasing before him, and wilt hearken to his commands, and keep all his ordinances, no disease which I have brought upon the Egyptians will I bring upon thee, for I am the Lord thy God that heals thee.
 
+## Ezekiel 18:5
+- priority: `22`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=3
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `none`
+- fresh: And the man who is righteous, who does judgment and righteousness,
+- brenton: But the man who shall be just, who executes judgment and righteousness,
+
+## Ezekiel 4:14
+- priority: `22`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=3
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `none`
+- fresh: And I said, No indeed, Lord God of Israel. Behold, my soul has not been defiled with uncleanness, and I have not eaten what died of itself or was torn by beasts from my birth until now, nor has any stale flesh entered into my mouth.
+- brenton: Then I said, Not so, Lord God of Israel: surely my soul has not been defiled with uncleanness; nor have I eaten that which died of itself or was torn of beasts from my birth until now; neither has any corrupt flesh entered into my mouth.
+
 ## Genesis 24:7
 - priority: `22`
 - importance: `high`
@@ -650,35 +995,80 @@ Rows: 234
 - fresh: The Lord, the God of heaven and the God of the earth, who took me from my father's house and from the land where I was born, who spoke to me and swore to me, saying, To you and to your seed I will give this land - he himself will send his angel ahead of you, and you shall take a wife for my son from there.
 - brenton: The Lord the God of heaven, and the God of the earth, who took me out of my father's house, and out of the land whence I sprang, who spoke to me, and who swore to me, saying, I will give this land to thee and to thy seed, he shall send his angel before thee, and thou shalt take a wife to my son from thence.
 
-## Isaiah 44:2
+## Haggai 1:14
 - priority: `22`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; eng_reco=keep; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; eng=2; eng_reco=keep; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
 - logos local: checked `0`, supports `none`, confidence `none`
 - logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witnesses: checked `2`, fresh `2`, brenton `0`, mt `0`
 - english witness recommendation: `keep`
 - consensus recommendation: `keep`
-- fresh: Thus says the Lord God, one making you and shaping you from womb: You will still be helped. Do not fear, my servant Jacob, beloved Israel whom I chose.
-- brenton: Thus saith the Lord God that made thee, and he that formed thee from the womb; Thou shalt yet be helped: fear not, my servant Jacob; and beloved Israel, whom I have chosen.
+- fresh: And the Lord stirred up the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
+- brenton: And the Lord stirred up the spirit of Zorobabel the son of Salathiel, of the tribe of Juda, and the spirit of Jesus the son of Josedec, the high priest, and the spirit of the remnant of all the people; and they went in, and wrought in the house of the Lord Almighty their God,
 
-## Jeremiah 23:5
+## Hosea 13:4
 - priority: `22`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; eng_reco=keep; reco=keep
+- reason: score>=12; importance=high; decisions=5; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
 - logos local: checked `0`, supports `none`, confidence `none`
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
+- english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: Behold, days come, says the Lord, and I will raise up for David a righteous dawning, and a king will reign and understand and do judgment and righteousness upon earth.
-- brenton: Behold, the days come, saith the Lord, when I will raise up to David a righteous branch, and a king shall reign and understand, and shall execute judgment and righteousness on the earth.
+- fresh: But I am the Lord your God, establishing heaven and creating earth, whose hands created all the army of heaven, and I did not show them to you for you to go after them. And I brought you up from the land of Egypt, and besides me you will know no god, and there is no savior except me.
+- brenton: But I am the Lord thy God that establishes the heaven, and creates the earth, whose hands have framed the whole host of heaven: but I shewed them not to thee that thou shouldest go after them: and I brought thee up out of the land of Egypt, and thou shalt know no God but me; and there is no Saviour beside me.
+
+## Hosea 4:1
+- priority: `22`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=4; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Hear the word of the Lord, sons of Israel, because the Lord has a case against the inhabitants of the land, because there is no truth nor mercy nor knowledge of God upon the land.
+- brenton: Hear the word of the Lord, ye children of Israel: for the Lord has a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
+
+## Hosea 4:6
+- priority: `22`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=4; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: My people became like those having no knowledge. Because you rejected knowledge, I also will reject you from serving as priest to me. And you forgot the law of your God; I also will forget your children.
+- brenton: My people are like as if they had no knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt not minister as priest to me: and as thou hast forgotten the law of thy God, I also will forget thy children.
+
+## Hosea 6:6
+- priority: `22`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Because I want mercy and not sacrifice, and knowledge of God rather than whole burnt offerings.
+- brenton: For I will have mercy rather than sacrifice, and the knowledge of God rather than whole-burnt-offerings.
 
 ## Joshua 22:23
 - priority: `22`
@@ -709,6 +1099,36 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
+
+## Malachi 1:14
+- priority: `22`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=2; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices a corrupted thing to the Lord. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
+- brenton: And cursed is the man who had the power, and possessed a male in his flock, and whose vow is upon him, and who sacrifices a corrupt thing to the Lord: for I am a great King, saith the Lord Almighty, and my name is glorious among the nations.
+
+## Malachi 3:1
+- priority: `22`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=1; footnotes=2; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Behold, I send my messenger, and he will look upon a way before my face, and suddenly the Lord whom you seek will come into his own temple, and the messenger of the covenant whom you desire. Behold, he comes, says the Lord Almighty.
+- brenton: Behold, I send forth my messenger, and he shall survey the way before me: and the Lord, whom ye seek, shall suddenly come into his temple, even the angel of the covenant, whom ye take pleasure in: behold, he is coming, saith the Lord Almighty.
 
 ## Nehemiah 1:11
 - priority: `22`
@@ -800,20 +1220,50 @@ Rows: 234
 - fresh: Mercy and truth met together; righteousness and peace kissed.
 - brenton: Mercy and truth are met together: righteousness and peace have kissed each other.
 
-## Zechariah 12:10
+## Zechariah 11:6
 - priority: `22`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; eng_reco=keep; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=2; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
 - logos local: checked `0`, supports `none`, confidence `none`
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
+- english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And I will pour out upon the house of David and upon the inhabitants of Jerusalem a spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
-- brenton: And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.
+- fresh: Therefore I will no longer spare inhabitants of the land, says the Lord, and behold, I hand over humans, each into the hands of his neighbor and into the hands of his king, and they will cut down the land, and I will certainly not rescue from their hand.
+- brenton: Therefore I will no longer have mercy upon the inhabitants of the land, saith the Lord: but, behold, I will deliver up the men every one into the hand of his neighbour, and into the hand of his king; and they shall destroy the land, and I will not rescue out of their hand.
+
+## Zechariah 9:9
+- priority: `22`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=2; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Rejoice greatly, O daughter of Zion; proclaim, O daughter of Jerusalem: behold, your king comes to you, righteous and saving, he himself meek and mounted upon a beast of burden and a young foal.
+- brenton: Rejoice greatly, O daughter of Sion; proclaim it aloud, O daughter of Jerusalem; behold, the King is coming to thee, just, and a Saviour; he is meek and riding on an ass, and a young foal.
+
+## Zephaniah 2:3
+- priority: `22`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Seek the Lord, all humble of earth; work judgment and seek righteousness, and answer these things, so that you may be sheltered in the day of the Lord's wrath.
+- brenton: Seek ye the Lord, all ye meek of the earth; do judgment, and seek justice, and answer accordingly; that ye may be hid in the day of the wrath of the Lord.
 
 ## 1 Chronicles 16:35
 - priority: `21`
@@ -920,21 +1370,6 @@ Rows: 234
 - fresh: And they will listen to your voice, and you and the elders of Israel shall go in to Pharaoh king of Egypt, and you shall say to him, 'The God of the Hebrews has summoned us. Let us go then a journey of three days into the wilderness so that we may sacrifice to our God.'
 - brenton: And they shall hearken to thy voice, and thou and the elders of Israel shall go in to Pharao king of Egypt, and thou shalt say to him, The God of the Hebrews has called us; we will go then a journey of three days into the wilderness, that we may sacrifice to our God.
 
-## Ezekiel 45:9
-- priority: `21`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Thus says the Lord God: Enough for you, rulers of Israel. Remove injustice and misery; do judgment and righteousness; remove oppression from my people, says the Lord God.
-- brenton: Thus saith the Lord God; Let it suffice you, ye princes of Israel: remove injustice and misery, execute judgment and justice; take away oppression from my people, saith the Lord God.
-
 ## Genesis 1:2
 - priority: `21`
 - importance: `high`
@@ -980,50 +1415,20 @@ Rows: 234
 - fresh: And he said to me, The Lord God, before whom I have been well-pleasing, will himself send out his angel with you and prosper your way, and you shall take a wife for my son from my tribe and from my father's house.
 - brenton: And he said to me, The Lord God to whom I have been acceptable in his presence, himself shall send out his angel with thee, and shall prosper thy journey, and thou shalt take a wife for my son of my tribe, and of the house of my father.
 
-## Haggai 1:14
+## Joel 2:23
 - priority: `21`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; eng=2; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `2`, fresh `1`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: The Lord stirred the spirit of Zerubbabel son of Shealtiel from the tribe of Judah, and the spirit of Joshua son of Josedech the high priest, and the spirit of the remnant of all the people, and they entered and were doing work in the house of the Lord Almighty their God,
-- brenton: And the Lord stirred up the spirit of Zorobabel the son of Salathiel, of the tribe of Juda, and the spirit of Jesus the son of Josedec, the high priest, and the spirit of the remnant of all the people; and they went in, and wrought in the house of the Lord Almighty their God,
-
-## Isaiah 49:7
-- priority: `21`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; eng_reco=keep; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
 - logos local: checked `0`, supports `none`, confidence `none`
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
-- consensus recommendation: `keep`
-- fresh: Thus says the Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to the servant of rulers: Kings will see and rise, rulers also, and will worship, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
-- brenton: Thus saith the Lord that delivered thee, the God of Israel, Sanctify him that despises his life, him that is abhorred by the nations that are the servants of princes: kings shall behold him, and princes shall arise, and shall worship him, for the Lord's sake: for the Holy One of Israel is faithful, and I have chosen thee.
-
-## Jeremiah 14:9
-- priority: `21`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; nt=2; nt_eng=6; nt_eng_reco=keep; reco=keep
-- nt refs: Acts 15:17, James 2:7
-- nt english witnesses: checked `6`, support `1`, soften `3`, mixed `2`
-- nt english recommendation: `keep`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: Do not be like a sleeping man or like a man unable to save. And you are in us, Lord, and your name is called upon us; do not forget us.
-- brenton: Wilt thou be as a man asleep, or as a strong man that cannot save? yet thou art among us, O Lord, and thy name is called upon us; forget us not.
+- fresh: And children of Zion, rejoice and be glad in the Lord your God, because he gave you foods in righteousness, and he will rain on you the early and latter rain as before.
+- brenton: Rejoice then and be glad, ye children of Sion, in the Lord your God: for he has given you food fully, and he will rain on you the early and the latter rain, as before.
 
 ## Leviticus 3:9
 - priority: `21`
@@ -1054,6 +1459,21 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: And the priest shall place some of the blood on the horns of the altar of the blended incense, which is before the Lord, which is in the tent of testimony, and he shall pour out all the blood at the base of the altar of offerings, the one by the door of the tent of testimony.
 - brenton: And the priest shall put some of the blood on the horns of the altar of the incense of composition, which is before the Lord, which is in the tabernacle of witness; and he shall pour out all the blood at the bottom of the altar of whole-burnt-offerings, which is by the door of the tabernacle of witness.
+
+## Micah 7:7
+- priority: `21`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: But I will look to the Lord; I will wait for God my savior; my God will hear me.
+- brenton: But I will look to the Lord; I will wait upon God my Saviour: my God will hearken to me.
 
 ## Psalms 113:9
 - priority: `21`
@@ -1295,6 +1715,21 @@ Rows: 234
 - fresh: And yesterday and the third day, while Saul was king over us, you were the one bringing out and bringing in Israel, and the Lord said to you, You will shepherd my people Israel, and you will be leader over Israel.
 - brenton: And heretofore Saul being king over us, thou wast he that didst lead out and bring in Israel: and the Lord said to thee, Thou shalt feed my people Israel, and thou shalt be for a leader to my people Israel.
 
+## Amos 2:7
+- priority: `20`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=5; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Those trampling upon the dust of the earth struck upon the heads of the poor and turned aside the way of the humble; and a son and his father went in to the same servant-girl, so as to profane the name of their God.
+- brenton: wherewith to tread on the dust of the earth, and they have smitten upon the heads of the poor, and have perverted the way of the lowly: and a son and his father have gone in to the same maid, that they might profane the name of their God.
+
 ## Amos 4:13
 - priority: `20`
 - importance: `high`
@@ -1310,20 +1745,35 @@ Rows: 234
 - fresh: For, behold, I am he that strengthens the thunder and creates the wind and proclaims to humans his anointed one, forming the morning and the darkness and mounting on the high places of the earth; the Lord God Almighty is his name.
 - brenton: For, behold, I am he that strengthens the thunder, and creates the wind, and proclaims to men his Christ, forming the morning and the darkness, and mounting on the high places of the earth, The Lord God Almighty is his name.
 
-## Daniel 9:4
+## Amos 4:5
 - priority: `20`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; eng_reco=keep; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
 - logos local: checked `0`, supports `none`, confidence `none`
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
+- english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And I prayed to the Lord God and confessed and said, Behold, the Lord, you are the great God and the mighty and fearsome one, keeping covenant and mercy for those loving you and keeping your commands.
-- brenton: 
+- fresh: And they read the law outside and called for confessions. Proclaim that the sons of Israel loved these things, says the Lord God.
+- brenton: And they read the law without, and called for public professions: proclaim aloud that the children of Israel have loved these things, saith the Lord.
+
+## Daniel 6:4
+- priority: `20`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=3; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Holding authority over everyone in the kingdom, Daniel was clothed in purple and was great and honored before King Darius, because he was honored and learned and intelligent, and holy spirit was in him, and he prospered in the king's affairs that he handled. Then the king determined to set Daniel over all his kingdom, together with the two men whom he appointed with him and the one hundred twenty-seven satraps.
+- brenton: [missing]
 
 ## Ecclesiastes 5:7
 - priority: `20`
@@ -1340,21 +1790,6 @@ Rows: 234
 - fresh: If you see slander of a poor man and robbery of judgment and righteousness in a province, do not marvel over the matter, because a high one watches over a high one, and high ones over them.
 - brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
 
-## Ezekiel 39:25
-- priority: `20`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; eng_reco=keep; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
-- consensus recommendation: `keep`
-- fresh: Therefore thus says the Lord God: Now I will turn back captivity of Jacob and have mercy on the house of Israel and be jealous for my holy name.
-- brenton: Therefore thus saith the Lord God, Now will I turn back captivity in Jacob, and will have mercy on the house of Israel, and will be jealous for the sake of my holy name.
-
 ## Genesis 1:26
 - priority: `20`
 - importance: `high`
@@ -1370,20 +1805,125 @@ Rows: 234
 - fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
 - brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
 
-## Jeremiah 7:11
+## Habakkuk 3:2
 - priority: `20`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; nt=3; nt_eng=15; nt_eng_reco=keep; reco=keep
-- nt refs: Acts 15:17, James 2:7, Romans 2:17
-- nt english witnesses: checked `15`, support `4`, soften `6`, mixed `5`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: O Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
+- brenton: O Lord, I have heard thy report, and was afraid: I considered thy works, and was amazed: thou shalt be known between the two living creatures, thou shalt be acknowledged when the years draw nigh; thou shalt be manifested when the time is come; when my soul is troubled, thou wilt in wrath remember mercy.
+
+## Hosea 2:21
+- priority: `20`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: And I will betroth you to myself forever, and I will betroth you to myself in righteousness and in judgment and in mercy and in compassions.
+- brenton: And I will betroth thee to myself for ever; yea, I will betroth thee to myself in righteousness, and in judgment, and in mercy, and in tender compassions;
+
+## Hosea 3:4
+- priority: `20`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=5; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Because many days the sons of Israel will sit without a king and without a ruler and without sacrifice and without an altar and without priesthood and without disclosures.
+- brenton: For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an altar, and without a priesthood, and without manifestations.
+
+## Joel 1:13
+- priority: `20`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=5; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Gird yourselves and beat yourselves, priests; lament, those who serve at the altar. Enter, spend the night in sackcloth, those who serve God, because sacrifice and drink offering have been kept back from the house of your God.
+- brenton: Gird yourselves with sackcloth, and lament, ye priests: mourn, ye that serve at the altar: go in, sleep in sackcloths, ye that minister to God: for the meat-offering and drink-offering are withheld from the house of your God.
+
+## Joel 2:26
+- priority: `20`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: And eating, you will eat and be filled and praise the name of the Lord your God, who did wonders with you, and my people will never be put to shame forever.
+- brenton: And ye shall eat abundantly, and be satisfied, and shall praise the name of the Lord your God for the things which he has wrought wonderfully with you: and my people shall not be ashamed for ever.
+
+## Joel 3:5
+- priority: `20`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=3; footnotes=1; nt=4; nt_eng=12; nt_eng_reco=keep; reco=keep
+- nt refs: Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22
+- nt english witnesses: checked `12`, support `12`, soften `0`, mixed `0`
 - nt english recommendation: `keep`
 - logos local: checked `0`, supports `none`, confidence `none`
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: Has my house over which my name has been called become a den of robbers there before you? And I, behold, have seen, says the Lord.
-- brenton: Is my house, whereon my name is called, a den of robbers in your eyes? And, behold, I have seen it, saith the Lord.
+- fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be one who escapes, as the Lord said, and those receiving good news whom the Lord has called.
+- brenton: And it shall come to pass that whosoever shall call on the name of the Lord shall be saved: for in mount Sion and in Jerusalem shall the saved one be as the Lord has said, and they that have glad tidings preached to them, whom the Lord has called.
+
+## Jonah 1:4
+- priority: `20`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=3; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: The Lord stirred up a wind on the sea, and a great surge happened on the sea, and the ship was in danger of being broken.
+- brenton: And the Lord raised up a wind on the sea; and there was a great storm on the sea, and the ship was in danger of being broken.
+
+## Jonah 2:10
+- priority: `20`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; logos=1; logos_reco=keep; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `1`, supports `salvation-shaped rendering`, confidence `high`
+- logos local recommendation: `keep`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
+- brenton: But I will sacrifice to thee with the voice of praise and thanksgiving: all that I have vowed I will pay to thee, the Lord of my salvation.
 
 ## Joshua 22:29
 - priority: `20`
@@ -1399,6 +1939,51 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of salvation and the sacrifice of salvation besides the altar of the Lord that is before his tent.
 - brenton: Far be it from us therefore that we should turn away from the Lord this day so as to apostatize from the Lord, so as that we should build an altar for burnt-offerings, and for peace-offerings, besides the altar of the Lord which is before his tabernacle.
+
+## Micah 1:2
+- priority: `20`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Hear words, O peoples, and let the earth and all those in it pay attention; and the Lord will be among you for a testimony, the Lord from his holy house.
+- brenton: Hear these words, ye people; and let the earth give heed, and all that are in it: and the Lord God shall be among you for a testimony, the Lord out of his holy habitation.
+
+## Micah 4:2
+- priority: `20`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: And many nations will go and say, Come, let us go up to the mountain of the Lord and to the house of the God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
+- brenton: And many nations shall go, and say, Come, let us go up to the mountain of the Lord, and to the house of the God of Jacob; and they shall shew us his way, and we will walk in his paths: for out of Sion shall go forth a law, and the word of the Lord from Jerusalem.
+
+## Micah 6:5
+- priority: `20`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=3; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: O my people, remember now what Balak king of Moab planned against you and what Balaam son of Beor answered him, from the reeds to Gilgal, so that the righteousness of the Lord may be known.
+- brenton: O my people, remember now, what counsel Balac king of Moab took against thee, and what Balaam the son of Beor answered him, from the reeds to Galgal; that the righteousness of the Lord might be known.
 
 ## Nehemiah 1:5
 - priority: `20`
@@ -1474,6 +2059,21 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: All the cattle for the sacrifice of salvation were twenty-four cows, sixty rams, sixty goats, sixty unblemished yearling ewe lambs. This was the dedication of the altar after the filling of its hands and after he anointed it.
 - brenton: All the cattle for a sacrifice of peace-offering, twenty-four heifers, sixty rams, sixty he-goats of a year old, sixty ewe-lambs of a year old without blemish: this is the dedication of the altar, after that Moses consecrated Aaron, and after he anointed him.
+
+## Zephaniah 3:17
+- priority: `20`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: The Lord your God is in you, mighty; he will save you; he will bring joy upon you and renew you in his love and rejoice over you in delight as on a feast day.
+- brenton: The Lord thy God is in thee; the Mighty One shall save thee: he shall bring joy upon thee, and shall refresh thee with his love; and he shall rejoice over thee with delight as in a day of feasting.
 
 ## 1 Chronicles 11:2
 - priority: `19`
@@ -1565,141 +2165,6 @@ Rows: 234
 - fresh: And the woman said, Let the word of my lord the king now be as an offering, because as an angel of God so is my lord the king, to hear the good and the evil, and the Lord your God will be with you.
 - brenton: And the woman said, If now the word of my lord the king be gracious,—well: for as an angel of God, so is my lord the king, to hear good and evil: and the Lord thy God shall be with thee.
 
-## Amos 5:15
-- priority: `19`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: We hated evil things and loved good things, and restore judgment in the gates, so that the Lord God Almighty may show mercy to the remnant of Joseph.
-- brenton: We have hated evil, and loved good: and restore ye judgment in the gates; that the Lord God Almighty may have mercy on the remnant of Joseph.
-
-## Amos 9:1
-- priority: `19`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; eng_reco=keep; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
-- consensus recommendation: `keep`
-- fresh: I saw the Lord standing upon the altar, and he said, Strike upon the mercy-seat, and the foregates will be shaken; cut through into heads of all, and the remnant of them I will kill with sword. No one fleeing from them will flee away, and no one being rescued from them will be saved.
-- brenton: I saw the Lord standing on the altar: and he said,
-
-## Daniel 3:28
-- priority: `19`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; eng_reco=keep; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
-- consensus recommendation: `keep`
-- fresh: And King Nebuchadnezzar answered and said, Blessed is the Lord God of Shadrach, Meshach, and Abednego, who sent his angel and saved his servants who hoped in him. For they set aside the command of the king and gave their bodies over to burning so that they would not serve or worship another god except their own God.
-- brenton: 
-
-## Daniel 4:22
-- priority: `19`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; eng_reco=keep; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
-- consensus recommendation: `keep`
-- fresh: And as for that tree being lifted up and coming near heaven and its trunk touching clouds, you, king, were exalted above all humans on the face of the whole earth. Your heart was lifted up in pride, and in strength your works were shown against the Holy One and his angels, because you laid waste the house of the living God because of the sins of his consecrated people.
-- brenton: 
-
-## Daniel 4:33
-- priority: `19`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; eng_reco=keep; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
-- consensus recommendation: `keep`
-- fresh: By morning all these things will be completed upon you, Nebuchadnezzar king of Babylon, and none of them will fail. I, Nebuchadnezzar king of Babylon, was bound for seven years; they fed me grass like an ox, and I ate from the herbs of the earth. And after seven years I gave my soul to prayer and begged concerning my sins before the Lord God of heaven, and concerning my ignorances I prayed to the God of gods, the great one. And my hair became like eagle feathers, and my nails like those of a lion. My flesh was changed, and my heart; I walked naked among beasts of the earth. I saw a dream, and thoughts seized me, and after a time much sleep took me and drowsiness fell upon me.
-- brenton: 
-
-## Daniel 4:34
-- priority: `19`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: And at the completion of the seven years, the time of my release came, and my sins and my ignorances were filled up before the God of heaven, and I prayed concerning my ignorances to the God of gods, the great one, and behold, an angel called to me from heaven, saying, Nebuchadnezzar, serve the God of heaven, the Holy One, and give glory to the Most High; the kingdom of your nation is restored to you.
-- brenton: 
-
-## Ezekiel 20:39
-- priority: `19`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: And you, house of Israel, thus says the Lord God: Each one, cast away his practices, and after these things, if you do not listen to me, you will no longer profane my holy name with your gifts and with your practices.
-- brenton: And as to you, O house of Israel, thus saith the Lord, even the Lord; Put away each one his evil practices, and hereafter if ye hearken to me, then shall ye no more profane my holy name by your gifts and by devices.
-
-## Ezekiel 43:19
-- priority: `19`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: And you will give to the Levitical priests, from the seed of Zadok, those drawing near to me to minister to me, says the Lord God, a young bull from the herd for sin.
-- brenton: And thou shalt appoint to the priests the Levites of the seed of Sadduc, that draw nigh to me, saith the Lord God, to minister to me, a calf of the herd for a sin-offering.
-
-## Ezekiel 44:15
-- priority: `19`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: But the Levitical priests, sons of Zadok, who kept the charges of my holy things when the house of Israel went astray from me, they will come near me to minister to me and stand before me to offer me sacrifice, fat and blood, says the Lord God.
-- brenton: The priests the Levites, the sons of Sadduc, who kept the charges of my sanctuary when the house of Israel went astray from me, these shall draw nigh to me to minister to me, and shall stand before my face, to offer sacrifice to me, the fat and the blood, saith the Lord God.
-
 ## Ezra 10:3
 - priority: `19`
 - importance: `high`
@@ -1760,6 +2225,21 @@ Rows: 234
 - fresh: This Ezra came up from Babylon, and he was a quick scribe in the law of Moses, which the Lord God of Israel gave, and the king gave to him because the hand of the Lord his God was upon him in all he sought.
 - brenton: This Esdras went up out of Babylon; and he was a ready scribe in the law of Moses, which the Lord God of Israel gave: and the king gave him leave, for the hand of the Lord his God was upon him in all things which he sought.
 
+## Habakkuk 1:4
+- priority: `19`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=3; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Because of this the law has ceased, and judgment does not go forth to the end, because the impious one overpowers the righteous one; because of this the judgment will go forth perverted.
+- brenton: Therefore the law is frustrated, and judgment proceeds not effectually, for the ungodly man prevails over the just; therefore perverse judgment will proceed.
+
 ## Habakkuk 2:4
 - priority: `19`
 - importance: `high`
@@ -1775,6 +2255,36 @@ Rows: 234
 - fresh: If he should draw back, my soul has no pleasure in him; but the righteous one will live by my faith.
 - brenton: If he should draw back, my soul has no pleasure in him: but the just shall live by my faith.
 
+## Haggai 1:1
+- priority: `19`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet, saying: Say now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech, the high priest, saying,
+- brenton: In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of the prophet Aggæus, saying, Speak to Zorobabel the son of Salathiel, of the tribe of Juda, and to Jesus the son of Josedec, the high priest, saying,
+
+## Haggai 1:12
+- priority: `19`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=3; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: And Zerubbabel son of Shealtiel from the tribe of Judah, and Joshua son of Josedech the high priest, and all the remnant of the people, listened to the voice of the Lord their God and to the words of Haggai the prophet, just as the Lord their God sent him to them, and the people feared before the Lord.
+- brenton: And Zorobabel the son of Salathiel, of the tribe of Juda, and Jesus the son of Josedec, the high priest, and all the remnant of the people, hearkened to the voice of the Lord their God, and the words of the prophet Aggæus, according as the Lord their God had sent him to them, and the people feared before the Lord.
+
 ## Haggai 2:9
 - priority: `19`
 - importance: `high`
@@ -1787,68 +2297,8 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `keep`
 - consensus recommendation: `keep`
-- fresh: The latter glory of this house will be greater than the first, says the Lord Almighty, and in this place I will give peace, says the Lord Almighty, and peace of soul for preservation to everyone building to raise this temple.
+- fresh: The latter glory of this house will be greater than the first, says the Lord Almighty, and in this place I will give peace, says the Lord Almighty, and peace of soul for preservation to everyone building, to raise up this temple.
 - brenton: For the glory of this house shall be great, the latter more than the former, saith the Lord Almighty: and in this place will I give peace, saith the Lord Almighty, even peace of soul for a possession to every one that builds, to raise up this temple.
-
-## Hosea 13:4
-- priority: `19`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: But I am the Lord your God, establishing heaven and creating earth, whose hands created all the army of heaven, and I did not show them to you for you to go after them. And I brought you up from the land of Egypt, and besides me you will know no god, and there is no savior except me.
-- brenton: But I am the Lord thy God that establishes the heaven, and creates the earth, whose hands have framed the whole host of heaven: but I shewed them not to thee that thou shouldest go after them: and I brought thee up out of the land of Egypt, and thou shalt know no God but me; and there is no Saviour beside me.
-
-## Hosea 4:1
-- priority: `19`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Hear the word of the Lord, sons of Israel, because the Lord has a case against the inhabitants of the land, because there is no truth nor mercy nor knowledge of God upon the land.
-- brenton: Hear the word of the Lord, ye children of Israel: for the Lord has a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.
-
-## Hosea 4:6
-- priority: `19`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: My people became like those having no knowledge. Because you rejected knowledge, I also will reject you from serving as priest to me. And you forgot the law of your God; I also will forget your children.
-- brenton: My people are like as if they had no knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt not minister as priest to me: and as thou hast forgotten the law of thy God, I also will forget thy children.
-
-## Hosea 6:6
-- priority: `19`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Because I want mercy and not sacrifice, and knowledge of God rather than burnt offerings.
-- brenton: For I will have mercy rather than sacrifice, and the knowledge of God rather than whole-burnt-offerings.
 
 ## Job 1:1
 - priority: `19`
@@ -1865,6 +2315,66 @@ Rows: 234
 - fresh: There was a certain man in the land of Uz, whose name was Job, and that man was true, blameless, righteous, god-fearing, turning away from every evil thing.
 - brenton: There was a certain man in the land of Ausis, whose name was Job; and that man was true, blameless, righteous, and godly, abstaining from everything evil.
 
+## Joel 1:9
+- priority: `19`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Sacrifice and drink offering have been removed from the house of the Lord. Mourn, priests who serve at the altar.
+- brenton: The meat-offering and drink-offering are removed from the house of the Lord: mourn, ye priests that serve at the altar of the Lord.
+
+## Joel 2:17
+- priority: `19`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: At the base of the altar, the priests who serve the Lord will weep and say, Spare, O Lord, your people, and do not give your inheritance as a reproach, that nations should rule them, so that they may not say among the nations, Where is their God?
+- brenton: Between the porch and the altar let the priests that minister to the Lord weep, and say, Spare thy people, O Lord, and give not thine heritage to reproach, that the heathen should rule over them, lest they should say among the heathen, Where is their God?
+
+## Jonah 1:9
+- priority: `19`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=3; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: He said to them, I am a servant of the Lord, and I worship the Lord God of heaven, who made the sea and the dry land.
+- brenton: And he said to them, I am a servant of the Lord; and I worship the Lord God of heaven, who made the sea, and the dry land.
+
+## Jonah 2:8
+- priority: `19`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: When my soul was failing from me, I remembered the Lord, and may my prayer come to you, into your holy temple.
+- brenton: When my soul was failing me, I remembered the Lord; and may my prayer come to thee into thy holy temple.
+
 ## Joshua 22:34
 - priority: `19`
 - importance: `high`
@@ -1880,10 +2390,10 @@ Rows: 234
 - fresh: And Joshua named the altar of the Reubenites and the Gadites and the half tribe of Manasseh, and said, It is a witness between them that the Lord is their God.
 - brenton: And Joshua gave a name to the altar of the children of Ruben, and the children of Gad, and of the half tribe of Manasse; and said, It is a testimony in the midst of them, that the Lord is their God.
 
-## Malachi 1:6
+## Nahum 1:14
 - priority: `19`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -1892,23 +2402,8 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: A son honors a father and a servant his master. If I am a father, where is my honor? And if I am the Lord, where is my fear? says the Lord Almighty to you, priests despising my name. And you said, In what have we despised your name?
-- brenton: A son honours his father, and a servant his master: if then I am a father, where is mine honour? and if I am a master, where is my fear? saith the Lord Almighty. Ye the priests are they that despise my name: yet ye said, Wherein have we despised thy name?
-
-## Malachi 2:7
-- priority: `19`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Because the lips of a priest will guard knowledge, and the law they will seek from his mouth, because he is a messenger of the Lord Almighty.
-- brenton: For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord Almighty.
+- fresh: And the Lord will command concerning you: your name will no longer be sown. From the house of your god I will destroy carved and cast images. I will make your grave, because they are swift.
+- brenton: And the Lord shall give a command concerning thee; there shall no more of thy name be scattered: I will utterly destroy the graven images out of the house of thy god, and the molten images: I will make thy grave; for they are swift.
 
 ## Nehemiah 4:3
 - priority: `19`
@@ -1985,10 +2480,10 @@ Rows: 234
 - fresh: Psalm of David. To you, Lord, I lifted my soul, O my God.
 - brenton: A Psalm of David.
 
-## Zechariah 14:5
+## Zephaniah 1:8
 - priority: `19`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -1997,13 +2492,13 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And the ravine of my mountains will be blocked up, and the ravine of mountains will cling together as far as Azal, and it will be blocked as it was blocked in the days of earthquake in the days of Uzziah king of Judah, and the Lord my God will come and all holy ones with him.
-- brenton: And the valley of my mountains shall be closed up, and the valley of the mountains shall be joined on to Jasod, and shall be blocked up as it was blocked up in the days of the earthquake, in the days of Ozias king of Juda; and the Lord my God shall come, and all the saints with him.
+- fresh: And it will be in the day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all those wearing foreign garments.
+- brenton: And it shall come to pass in the day of the Lord's sacrifice, that I will take vengeance on the princes, and on the king's house, and upon all that wear strange apparel.
 
-## Zephaniah 2:3
+## Zephaniah 3:4
 - priority: `19`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2012,8 +2507,23 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: Seek the Lord, all humble of earth, who have done his judgment. Seek righteousness; seek humility. It may be that you will be sheltered in the day of the Lord's wrath.
-- brenton: Seek ye the Lord, all ye meek of the earth; do judgment, and seek justice, and answer accordingly; that ye may be hid in the day of the wrath of the Lord.
+- fresh: Her prophets are spirit-borne men, despisers; her priests profane the holy things and act impiously against law.
+- brenton: Her prophets are light and scornful men: her priests profane the holy things, and sinfully transgress the law.
+
+## Zephaniah 3:5
+- priority: `19`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he will give his judgment to the light, and it was not hidden; and he did not know injustice in exaction nor injustice in strife.
+- brenton: But the just Lord is in the midst of her, and he will never do an unjust thing: morning by morning he will bring out his judgment to the light, and it is not hidden, and he knows not injustice by extortion, nor injustice in strife.
 
 ## 2 Samuel 14:14
 - priority: `18`
@@ -2044,21 +2554,6 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: And the king said, Is the hand of Joab with you in all this? And the woman said to the king, As your life lives, my lord king, there is not to the right or to the left from all that my lord the king spoke, because your servant Joab, he himself commanded me, and he himself put in the mouth of your servant all these words.
 - brenton: And the king said, Is not the hand of Joab in all this matter with thee? and the woman said to the king, As thy soul lives, my lord, O king, there is no turning to the right hand or to the left from all that my lord the king has spoken; for thy servant Joab himself charged me, and he put all these words in the mouth of thine handmaid.
-
-## Ezekiel 18:20
-- priority: `18`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: And the soul sinning will die, but a son will not bear the injustice of his father, nor a father bear the injustice of his son. The righteousness of a righteous one will be upon him, and the lawlessness of a lawless one will be upon him.
-- brenton: But the soul that sins shall die: and the son shall not bear the iniquity of the father, nor shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the iniquity of the transgressor shall be upon him.
 
 ## Ezra 7:21
 - priority: `18`
@@ -2105,6 +2600,21 @@ Rows: 234
 - fresh: Are you not from the beginning, O Lord my God, my Holy One? And surely we shall not die. O Lord, you appointed him for judgment, and he formed me to reprove his discipline.
 - brenton: Art not thou from the beginning, O Lord God, my Holy One? and surely we shall not die. O Lord, thou hast established it for judgment, and he has formed me to chasten with his correction.
 
+## Habakkuk 2:2
+- priority: `18`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: And the Lord answered me and said, Write a vision clearly on a tablet, so that the one reading these things may run.
+- brenton: And the Lord answered me and said, Write the vision, and that plainly on a tablet, that he that reads it may run.
+
 ## Habakkuk 3:18
 - priority: `18`
 - importance: `high`
@@ -2120,10 +2630,10 @@ Rows: 234
 - fresh: But I will exult in the Lord; I will rejoice in God my savior.
 - brenton: yet I will exult in the Lord, I will joy in God my Saviour.
 
-## Joel 2:13
+## Haggai 1:13
 - priority: `18`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2132,13 +2642,13 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And tear your hearts and not your garments, and return to the Lord your God, because he is merciful and compassionate, long-suffering and rich in mercy and relenting over calamities.
-- brenton: and rend your hearts, and not your garments, and turn to the Lord your God: for he is merciful and compassionate, long-suffering, and plenteous in mercy, and repents of evils.
+- fresh: And Haggai, messenger of the Lord, said to the people, I am with you, says the Lord.
+- brenton: And Aggæus the Lord's messenger spoke among the messengers of the Lord to the people, saying, I am with you, saith the Lord.
 
-## Joel 2:14
+## Haggai 2:4
 - priority: `18`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2147,13 +2657,13 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: Who knows whether he will turn and repent and leave behind him blessing, sacrifice, and drink offering to the Lord our God?
-- brenton: Who knows if he will return, and repent, and leave a blessing behind him, even a meat-offering and a drink-offering to the Lord your God?
+- fresh: And now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the high priest, and let all the people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
+- brenton: Yet now be strong, O Zorobabel, saith the Lord; and strengthen thyself, O Jesus the high priest, the son of Josedec; and let all the people of the land strengthen themselves, saith the Lord, and work, for I am with you, saith the Lord Almighty;
 
-## Joel 2:23
+## Jonah 1:14
 - priority: `18`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=3; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2162,8 +2672,23 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And children of Zion, rejoice and be glad in the Lord your God, because he gave you foods in righteousness, and he will rain on you early and latter rain as before.
-- brenton: Rejoice then and be glad, ye children of Sion, in the Lord your God: for he has given you food fully, and he will rain on you the early and the latter rain, as before.
+- fresh: They cried to the Lord and said, By no means, O Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, O Lord, have done as you wished.
+- brenton: And they cried to the Lord, and said, Forbid it, Lord: let us not perish for the sake of this man's life, and bring not righteous blood upon us: for thou, Lord, hast done as thou wouldest.
+
+## Jonah 3:3
+- priority: `18`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: Jonah rose up and went to Nineveh, just as the Lord spoke. Nineveh was a great city to God, like a journey of a way of three days.
+- brenton: And Jonas arose, and went to Nineve, as the Lord had spoken. Now Nineve was an exceeding great city, of about three days' journey.
 
 ## Joshua 24:15
 - priority: `18`
@@ -2225,10 +2750,10 @@ Rows: 234
 - fresh: And the Spirit of God clothed Gideon, and he sounded the horn, and Abiezer cried out after him.
 - brenton: And the Spirit of the Lord came upon Gedeon, and he blew with the horn, and Abiezer came to help after him.
 
-## Malachi 2:10
+## Nahum 1:2
 - priority: `18`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2237,13 +2762,13 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: Did not one God create you? Is not one father of all you? Why does each abandon his brother, to profane the covenant of your fathers?
-- brenton: Have ye not all one father? Did not one God create you? why have ye forsaken every man his brother, to profane the covenant of your fathers?
+- fresh: God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his adversaries, and he himself removes his enemies.
+- brenton: God is jealous, and the Lord avenges; the Lord avenges with wrath; the Lord takes vengeance on his adversaries, and he cuts off his enemies.
 
-## Malachi 3:5
+## Nahum 1:7
 - priority: `18`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2252,13 +2777,13 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And I will come near to you in judgment and be swift witness against sorceresses and adulteresses and those swearing falsely by my name and those withholding wage of hired worker and oppressing widow and striking orphan and turning aside judgment of sojourner and not fearing me, says the Lord Almighty.
-- brenton: And I will draw near to you in judgment; and I will be a swift witness against the witches, and against the adulteresses, and against them that swear falsely by my name, and against them that keep back the hireling's wages, and them that oppress the widow, and afflict orphans, and that wrest the judgment of the stranger, and fear not me, saith the Lord Almighty.
+- fresh: The Lord is good to those waiting for him in the day of distress, and he knows those revering him.
+- brenton: The Lord is good to them that wait on him in the day of affliction; and he knows them that reverence him.
 
-## Micah 6:7
+## Obadiah 1:17
 - priority: `18`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2267,23 +2792,8 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: Will the Lord accept thousands of rams or tens of thousands of torrents of fat? Shall I give my firstborn for impiety, the fruit of my womb for the sin of my soul?
-- brenton: Will the Lord accept thousands of rams, or ten thousands of fat goats? should I give my first-born for ungodliness, the fruit of my body for the sin of my soul?
-
-## Micah 7:7
-- priority: `18`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: But I will look to the Lord; I will wait for God my savior; my God will hear me.
-- brenton: But I will look to the Lord; I will wait upon God my Saviour: my God will hearken to me.
+- fresh: But on Mount Zion there will be salvation, and it will be holy, and the house of Jacob will inherit those who inherited them.
+- brenton: But on mount Sion there shall be deliverance, and there shall be a sanctuary; and the house of Jacob shall take for an inheritance those that took them for an inheritance.
 
 ## Proverbs 10:3
 - priority: `18`
@@ -2345,10 +2855,10 @@ Rows: 234
 - fresh: Honor the Lord from your righteous labors and offer firstfruits to him from the fruits of your righteousness.
 - brenton: Honour the Lord with thy just labours, and give him the first of thy fruits of righteousness:
 
-## Zechariah 4:6
+## Zephaniah 1:9
 - priority: `18`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2357,38 +2867,8 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And he answered and said to me: This is the word of the Lord to Zerubbabel, saying: Not by great power nor by might, but by my Spirit, says the Lord Almighty.
-- brenton: And he answered and spoke to me, saying, This is the word of the Lord to Zorobabel, saying,
-
-## Amos 2:7
-- priority: `17`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Those trampling heads of the poor into the dust of the earth and turning aside way of humble, and son and father were going in to same servant-girl so as to profane the name of their God.
-- brenton: wherewith to tread on the dust of the earth, and they have smitten upon the heads of the poor, and have perverted the way of the lowly: and a son and his father have gone in to the same maid, that they might profane the name of their God.
-
-## Amos 3:7
-- priority: `17`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Because the Lord God will never do a thing unless he reveals his discipline to his servants the prophets.
-- brenton: For the Lord God will do nothing, without revealing instruction to his servants the prophets.
+- fresh: And I will take vengeance in that day openly at the foregates on all those filling the house of the Lord their God with impiety and deceit.
+- brenton: And I will openly take vengeance on the porches in that day, on the men that fill the house of the Lord their God with ungodliness and deceit.
 
 ## Ecclesiastes 6:2
 - priority: `17`
@@ -2418,67 +2898,7 @@ Rows: 234
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
 - fresh: And this was the time for a girl to go in to the king, when she completed twelve months, for thus the days of treatment are completed: six months being anointed with the oil of myrrh and six months with spices and with the women's cosmetics.
-- brenton: 
-
-## Habakkuk 2:14
-- priority: `17`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Because earth will be filled to know the glory of the Lord as water will cover them.
-- brenton: For the earth shall be filled with the knowledge of the glory of the Lord; it shall cover them as water.
-
-## Habakkuk 3:2
-- priority: `17`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Lord, I heard your report and feared. I considered your works and was astonished. You will be known between the two living creatures; you will be acknowledged when the years draw near; you will be manifested when the time is come. When my soul is troubled, in wrath you will remember mercy.
-- brenton: O Lord, I have heard thy report, and was afraid: I considered thy works, and was amazed: thou shalt be known between the two living creatures, thou shalt be acknowledged when the years draw nigh; thou shalt be manifested when the time is come; when my soul is troubled, thou wilt in wrath remember mercy.
-
-## Hosea 3:4
-- priority: `17`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Because many days sons of Israel will sit without king and without ruler and without sacrifice and without altar and without priesthood and without disclosures.
-- brenton: For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an altar, and without a priesthood, and without manifestations.
-
-## Hosea 5:4
-- priority: `17`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: They have not set their counsels toward returning to their God, because a spirit of whoredom is in them, and they did not know the Lord.
-- brenton: They have not framed their counsels to return to their God, for the spirit of fornication is in them, and they have not known the Lord.
+- brenton: [missing]
 
 ## Job 2:3
 - priority: `17`
@@ -2525,81 +2945,6 @@ Rows: 234
 - fresh: In truth I know that it is so; for how will a mortal be righteous before the Lord?
 - brenton: I know of a truth that it is so: for how shall a mortal man be just before the Lord?
 
-## Joel 1:13
-- priority: `17`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Gird yourselves and beat yourselves, priests; lament, those serving at altar. Enter, spend the night in sackcloth, those serving God, because sacrifice and drink offering have been kept back from the house of your God.
-- brenton: Gird yourselves with sackcloth, and lament, ye priests: mourn, ye that serve at the altar: go in, sleep in sackcloths, ye that minister to God: for the meat-offering and drink-offering are withheld from the house of your God.
-
-## Joel 2:26
-- priority: `17`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: And eating you will eat and be filled and praise the name of the Lord your God, who did wonders with you, and my people will never be put to shame forever.
-- brenton: And ye shall eat abundantly, and be satisfied, and shall praise the name of the Lord your God for the things which he has wrought wonderfully with you: and my people shall not be ashamed for ever.
-
-## Joel 3:5
-- priority: `17`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; nt=4; nt_eng=12; nt_eng_reco=keep; reco=keep
-- nt refs: Acts 2:21, Romans 10:13, 1 Corinthians 1:2, 2 Timothy 2:22
-- nt english witnesses: checked `12`, support `12`, soften `0`, mixed `0`
-- nt english recommendation: `keep`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
-- brenton: And it shall come to pass that whosoever shall call on the name of the Lord shall be saved: for in mount Sion and in Jerusalem shall the saved one be as the Lord has said, and they that have glad tidings preached to them, whom the Lord has called.
-
-## Jonah 1:4
-- priority: `17`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: The Lord stirred up a wind on sea, and a great surge happened on sea, and ship was in danger of being broken.
-- brenton: And the Lord raised up a wind on the sea; and there was a great storm on the sea, and the ship was in danger of being broken.
-
-## Jonah 2:10
-- priority: `17`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; logos=1; logos_reco=keep; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `1`, supports `salvation-shaped rendering`, confidence `high`
-- logos local recommendation: `keep`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
-- brenton: But I will sacrifice to thee with the voice of praise and thanksgiving: all that I have vowed I will pay to thee, the Lord of my salvation.
-
 ## Judges 13:6
 - priority: `17`
 - importance: `high`
@@ -2645,10 +2990,10 @@ Rows: 234
 - fresh: And the Lord burned with anger against Israel and gave them into the hand of plunderers, and they plundered them, and he sold them into the hand of their enemies all around, and they were not able to stand before their enemies.
 - brenton: And the Lord was very angry with Israel; and he gave them into the hands of the spoilers, and they spoiled them; and he sold them into the hands of their enemies round about, and they could not any longer resist their enemies,
 
-## Malachi 1:14
+## Lamentations 2:2
 - priority: `17`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=1; footnotes=2
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2656,14 +3001,14 @@ Rows: 234
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Cursed is one who was able, and there was a male in his flock, and his vow was upon him, yet he sacrifices to the Lord a spoiled thing. Because I am a great King, says the Lord Almighty, and my name is manifest among the nations.
-- brenton: And cursed is the man who had the power, and possessed a male in his flock, and whose vow is upon him, and who sacrifices a corrupt thing to the Lord: for I am a great King, saith the Lord Almighty, and my name is glorious among the nations.
+- consensus recommendation: `none`
+- fresh: The Lord submerged all the beautiful things of Jacob without sparing. He pulled down in his wrath the strongholds of daughter Judah. He stuck them to the ground. He profaned her king and her rulers.
+- brenton: Beth. In the day of his wrath the Lord has overwhelmed her as in the sea, and not spared: he has brought down in his fury all the beautiful things of Jacob; he has brought down to the ground the strong-holds of the daughter of Juda: he has profaned her king and her princes.
 
-## Malachi 2:6
+## Lamentations 2:7
 - priority: `17`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=1; footnotes=2
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2671,14 +3016,14 @@ Rows: 234
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: The law of truth was in his mouth, and injustice was not found on his lips. In peace he walked straight with me and turned many from injustice.
-- brenton: The law of truth was in his mouth, and iniquity was not found in his lips: he walked before me directing his way in peace, and he turned many from unrighteousness.
+- consensus recommendation: `none`
+- fresh: The Lord cast off his altar, shook off his sanctuary, and broke the wall of her palaces by the hand of the enemy. They gave voice in the house of the Lord as on a feast day.
+- brenton: Zain. The Lord has rejected his altar, he has cast off his sanctuary, he has broken by the hand of the enemy the wall of her palaces; they have uttered their voice in the house of the Lord as on a feast day.
 
-## Micah 3:8
+## Nahum 1:9
 - priority: `17`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2687,13 +3032,13 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: But I am filled with strength by the Spirit of the Lord and with judgment and power, to declare to Jacob his impiety and to Israel his sins.
-- brenton: Surely I will strengthen myself with the Spirit of the Lord, and of judgment, and of power, to declare to Jacob his transgressions, and to Israel his sins.
+- fresh: What do you plot against the Lord? He himself will make an end; he will not take vengeance twice upon the same thing in distress.
+- brenton: What do ye devise against the Lord? he will make a complete end: he will not take vengeance by affliction twice at the same time.
 
-## Micah 4:2
+## Obadiah 1:1
 - priority: `17`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=4; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2702,8 +3047,8 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And many nations will go and say, Come, let us go up to the mountain of the Lord and to the house of God of Jacob, and they will show us his way and we will walk in his paths, because law will go out from Zion and the word of the Lord from Jerusalem.
-- brenton: And many nations shall go, and say, Come, let us go up to the mountain of the Lord, and to the house of the God of Jacob; and they shall shew us his way, and we will walk in his paths: for out of Sion shall go forth a law, and the word of the Lord from Jerusalem.
+- fresh: The vision of Obadiah. Thus says the Lord God to Idumea: I heard a report from the Lord, and he sent out a message to the nations: Rise up, and let us rise up against her for war.
+- brenton: The vision of Obdias. Thus saith the Lord God to Idumea; I have heard a report from the Lord, and he has sent forth a message to the nations.
 
 ## Ruth 1:8
 - priority: `17`
@@ -2780,36 +3125,6 @@ Rows: 234
 - fresh: And may your house become like the house of Perez, whom Tamar bore to Judah, from the seed that the Lord will give you from this servant girl.
 - brenton: And let thy house be as the house of Phares, whom Thamar bore to Juda, of the seed which the Lord shall give thee of this handmaid.
 
-## Zechariah 7:12
-- priority: `17`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: And they set their hearts in disobedience so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
-- brenton: And they made their heart disobedient, so as not to hearken to my law, and the words which the Lord Almighty sent forth by his Spirit by the former prophets: so there was great wrath from the Lord Almighty.
-
-## Zephaniah 3:17
-- priority: `17`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: The Lord your God is in you, mighty; he will save you; he will bring joy upon you and renew you in his love and rejoice over you in delight as on feast day.
-- brenton: The Lord thy God is in thee; the Mighty One shall save thee: he shall bring joy upon thee, and shall refresh thee with his love; and he shall rejoice over thee with delight as in a day of feasting.
-
 ## Ecclesiastes 2:26
 - priority: `16`
 - importance: `high`
@@ -2839,36 +3154,6 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: Because there is not a righteous man on earth who will do good and not sin.
 - brenton: For there is not a righteous man in the earth, who will do good, and not sin.
-
-## Haggai 1:1
-- priority: `16`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet, saying: Speak now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech, the high priest, saying,
-- brenton: In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of the prophet Aggæus, saying, Speak to Zorobabel the son of Salathiel, of the tribe of Juda, and to Jesus the son of Josedec, the high priest, saying,
-
-## Haggai 1:12
-- priority: `16`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Zerubbabel son of Shealtiel, from the tribe of Judah, and Joshua son of Josedech, the high priest, and all remnant of the people, listened to the voice of the Lord their God and to the words of Haggai prophet, because the Lord their God sent him to them, and people feared before the Lord.
-- brenton: And Zorobabel the son of Salathiel, of the tribe of Juda, and Jesus the son of Josedec, the high priest, and all the remnant of the people, hearkened to the voice of the Lord their God, and the words of the prophet Aggæus, according as the Lord their God had sent him to them, and the people feared before the Lord.
 
 ## Job 1:8
 - priority: `16`
@@ -2900,10 +3185,10 @@ Rows: 234
 - fresh: And Job died old and full of days. And it is written that he will rise again with those whom the Lord raises up. This man, interpreted from the Syriac book, dwelt in the land of Uz on the borders of Idumaia and Arabia, and his former name was Jobab. Taking an Arabian wife, he fathered a son whose name was Ennon. And he himself was the son of Zerah, one of the sons of Esau, from his mother Bozrah, so as to be fifth from Abraham. And these were kings who reigned in Edom, over which he also first ruled: Balak son of Beor, and the name of his city was Dinhabah; after Balak, Jobab called Job; after him Husham, ruler from the country of Temanite; after him Hadad son of Bedad, who cut down Midian in the plain of Moab, and the name of his city was Gittaim. And friends coming to him were Eliphaz king of the sons of Esau from the Temanites, Bildad tyrant of the Sauchites, and Zophar king of the Naamathites.
 - brenton: And Job died, an old man and full of days:
 
-## Jonah 1:9
+## Lamentations 1:11
 - priority: `16`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=1; footnotes=2
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2911,14 +3196,14 @@ Rows: 234
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: He said to them, I am servant of the Lord, and I worship the Lord God of heaven, who made sea and dry land.
-- brenton: And he said to them, I am a servant of the Lord; and I worship the Lord God of heaven, who made the sea, and the dry land.
+- consensus recommendation: `none`
+- fresh: All her people groan, seeking bread. They gave their desirable things for food, to restore life. See, Lord, and look, because I became dishonored.
+- brenton: Chaph. All her people groan, seeking bread: they have given their desirable things for meat, to restore their soul: behold, Lord, and look; for she is become dishonoured.
 
-## Jonah 2:2
+## Lamentations 1:18
 - priority: `16`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=1; footnotes=2
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2926,24 +3211,9 @@ Rows: 234
 - logos local recommendation: `none`
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Jonah prayed to the Lord his God from the belly of sea-creature.
-- brenton: And Jonas prayed to the Lord his God out of the belly of the whale,
-
-## Jonah 2:8
-- priority: `16`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: When my soul was failing from me, I remembered Lord, and may my prayer come to you, into your holy temple.
-- brenton: When my soul was failing me, I remembered the Lord; and may my prayer come to thee into thy holy temple.
+- consensus recommendation: `none`
+- fresh: The Lord is righteous, because I provoked his mouth. Hear now, all peoples, and see my pain. My virgins and my young men went into captivity.
+- brenton: Tsade. The Lord is righteous; for I have provoked his mouth: hear, I pray you, all people, and behold my grief: my virgins and my young men are gone into captivity.
 
 ## Lamentations 2:6
 - priority: `16`
@@ -2957,7 +3227,7 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: He scattered his tent like a vine. He destroyed his feast. The Lord forgot feast and sabbath in Zion and provoked in crash of his anger king and priest and ruler.
+- fresh: He scattered his tent like a vine. He destroyed his feast. The Lord forgot feast and sabbath which he made in Zion, and in the outburst of his anger he provoked king and priest and ruler.
 - brenton: Vau. And he has scattered his tabernacle as a vine, he has marred his feast: the Lord has forgotten the feast and the sabbath which he appointed in Sion, and in the fury of his wrath has vexed the king, and priest, and prince.
 
 ## Lamentations 2:9
@@ -2975,10 +3245,10 @@ Rows: 234
 - fresh: Her gates sank into the ground. He destroyed and broke her bars. Her king and her rulers are among the nations. There is no law, and even her prophets did not see a vision from the Lord.
 - brenton: Teth. Her gates are sunk into the ground: he has destroyed and broken to pieces her bars, and her king and her prince among the Gentiles: there is no law, nay, her prophets have seen no vision from the Lord.
 
-## Lamentations 3:25
+## Nahum 1:3
 - priority: `16`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -2987,13 +3257,13 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: The Lord is good to those waiting for him, soul that seeks him, good.
-- brenton: Teth. The Lord is good to them that wait for him: the soul which shall seek him
+- fresh: The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in an end and in a shaking, and clouds are dust of his feet.
+- brenton: The Lord is long-suffering, and his power is great, and the Lord will not hold any guiltless: his way is in destruction and in the whirlwind, and the clouds are the dust of his feet.
 
-## Lamentations 3:26
+## Obadiah 1:15
 - priority: `16`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -3002,13 +3272,13 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And he waits and is quiet for the salvation of the Lord.
-- brenton: is good, and shall wait for, and quietly expect salvation of the Lord.
+- fresh: Because the day of the Lord is near upon all the nations. As you did, so it will be to you; your repayment will be returned on your head.
+- brenton: For the day of the Lord is near upon all the Gentiles: as thou hast done, so shall it be done to thee: thy recompense shall be returned on thine own head.
 
-## Nahum 1:14
+## Obadiah 1:18
 - priority: `16`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -3017,8 +3287,38 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: And the Lord will command concerning you: your name will no longer be sown. From the house of your god I will destroy carved and cast images. I will make your grave, because you are vile.
-- brenton: And the Lord shall give a command concerning thee; there shall no more of thy name be scattered: I will utterly destroy the graven images out of the house of thy god, and the molten images: I will make thy grave; for they are swift.
+- fresh: And the house of Jacob will be fire, and the house of Joseph a flame, and the house of Esau for stubble; they will burn among them and devour them, and there will be no grain-bearer in the house of Esau, because the Lord spoke.
+- brenton: And the house of Jacob shall be fire, and the house of Joseph a flame, and the house of Esau shall be for stubble; and Israel shall flame forth against them, and shall devour them, and there shall not be a corn-field left to the house of Esau; because the Lord has spoken.
+
+## Obadiah 1:7
+- priority: `16`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=3; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: As far as your borders they sent you away, all the men of your covenant. Your peaceful men opposed you and prevailed against you. They set an ambush under you; there is no understanding in them.
+- brenton: They sent thee to thy coasts: all the men of thy covenant have withstood thee; thine allies have prevailed against thee, they have set snares under thee: they have no understanding.
+
+## Obadiah 1:8
+- priority: `16`
+- importance: `high`
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
+- english witness recommendation: `none`
+- consensus recommendation: `keep`
+- fresh: In that day, says the Lord, I will destroy wise men from Idumea and understanding from the mount of Esau.
+- brenton: In that day, saith the Lord, I will destroy the wise men out of Idumea, and understanding out of the mount of Esau.
 
 ## Ruth 2:12
 - priority: `16`
@@ -3050,66 +3350,6 @@ Rows: 234
 - fresh: As an apple tree among the trees of the grove, so my beloved in the midst of the sons. In his shadow I desired and sat, and his fruit was sweet to my palate.
 - brenton: As the apple among the trees of the wood, so is my kinsman among the sons. I desired his shadow, and sat down, and his fruit was sweet in my throat.
 
-## Zephaniah 1:7
-- priority: `16`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Stand in awe before the Lord God, because the day of the Lord is near, because the Lord prepared his sacrifice; he consecrated his called ones.
-- brenton: Fear ye before the Lord God; for the day of the Lord is near; for the Lord has prepared his sacrifice, and has sanctified his guests.
-
-## Zephaniah 1:8
-- priority: `16`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: And it will be in the day of the Lord's sacrifice: I will take vengeance on the rulers and on the king's house and on all wearing foreign garments.
-- brenton: And it shall come to pass in the day of the Lord's sacrifice, that I will take vengeance on the princes, and on the king's house, and upon all that wear strange apparel.
-
-## Zephaniah 3:4
-- priority: `16`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Her prophets are spirit-borne men, contemptuous; her priests profane holy things and act impiously against law.
-- brenton: Her prophets are light and scornful men: her priests profane the holy things, and sinfully transgress the law.
-
-## Zephaniah 3:5
-- priority: `16`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: But the Lord is righteous in her midst and will certainly not do injustice. Morning by morning he gives his judgment to the light; it does not fail, but unjust one knows no shame.
-- brenton: But the just Lord is in the midst of her, and he will never do an unjust thing: morning by morning he will bring out his judgment to the light, and it is not hidden, and he knows not injustice by extortion, nor injustice in strife.
-
 ## Esther 1:13
 - priority: `15`
 - importance: `high`
@@ -3123,7 +3363,7 @@ Rows: 234
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
 - fresh: And he said to his friends, Thus Vashti has spoken. So make law and judgment concerning this.
-- brenton: 
+- brenton: [missing]
 
 ## Esther 1:20
 - priority: `15`
@@ -3138,7 +3378,7 @@ Rows: 234
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
 - fresh: And let the law which the king makes be heard in his kingdom, and thus all women will give honor to their husbands, from poor to rich.
-- brenton: 
+- brenton: [missing]
 
 ## Esther 4:11
 - priority: `15`
@@ -3153,7 +3393,7 @@ Rows: 234
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
 - fresh: all nations of the kingdom know that every man or woman who enters to the king in the inner court uncalled has no salvation, except the one to whom the king stretches out the golden scepter, that one will be saved. And I have not been called to go in to the king these thirty days.
-- brenton: 
+- brenton: [missing]
 
 ## Esther 4:8
 - priority: `15`
@@ -3168,7 +3408,7 @@ Rows: 234
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
 - fresh: And he gave him copy of the notice posted in Shushan for their destruction, to show Esther, and he told him to command her, after going in, to plead with the king and urge him for the people, remembering days of your humiliation, how you were nourished in my hand, because Aman, the second to the kingdom, has spoken against us for death. Call upon the Lord and speak to the king concerning us and rescue us from death.
-- brenton: 
+- brenton: [missing]
 
 ## Esther 8:8
 - priority: `15`
@@ -3183,12 +3423,12 @@ Rows: 234
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
 - fresh: Write also yourselves in my name as seems good to you, and seal it with my ring. For whatever is written when the king commands and sealed with my ring, there is no contradicting it.
-- brenton: 
+- brenton: [missing]
 
-## Habakkuk 1:2
+## Nahum 1:11
 - priority: `15`
 - importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
+- reason: score>=12; importance=high; decisions=2; footnotes=1; reco=keep
 - nt refs: [none]
 - nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
 - nt english recommendation: `none`
@@ -3197,128 +3437,8 @@ Rows: 234
 - english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
 - english witness recommendation: `none`
 - consensus recommendation: `keep`
-- fresh: How long, Lord, will I cry out and you not hear? I will shout to you while being wronged, and you will not save.
-- brenton: How long, O Lord, shall I cry out, and thou wilt not hearken? how long shall I cry out to thee being injured, and thou wilt not save?
-
-## Haggai 1:13
-- priority: `15`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Haggai, messenger of the Lord, said to the people, I am with you, says the Lord.
-- brenton: And Aggæus the Lord's messenger spoke among the messengers of the Lord to the people, saying, I am with you, saith the Lord.
-
-## Haggai 2:4
-- priority: `15`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: But now be strong, Zerubbabel, says the Lord, and be strong, Joshua son of Josedech, the high priest, and let all the people of the land be strong, says the Lord, and act, because I am with you, says the Lord Almighty.
-- brenton: Yet now be strong, O Zorobabel, saith the Lord; and strengthen thyself, O Jesus the high priest, the son of Josedec; and let all the people of the land strengthen themselves, saith the Lord, and work, for I am with you, saith the Lord Almighty;
-
-## Jonah 1:14
-- priority: `15`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: They cried to the Lord and said, By no means, Lord, let us not perish on account of the life of this man, and do not put righteous blood on us, because you, Lord, have done as you wished.
-- brenton: And they cried to the Lord, and said, Forbid it, Lord: let us not perish for the sake of this man's life, and bring not righteous blood upon us: for thou, Lord, hast done as thou wouldest.
-
-## Lamentations 1:15
-- priority: `15`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: The Lord took away all my mighty ones from the midst of me. He called time against me to crush my chosen ones. The Lord trod winepress for virgin daughter Judah. Over these things I weep.
-- brenton: Samech. The Lord has cut off all my strong men from the midst of me: he has summoned against me a time for crushing my choice men: the Lord has trodden a wine-press for the virgin daughter of Juda: for these things I weep.
-
-## Lamentations 2:1
-- priority: `15`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: How the Lord darkened daughter Zion in his anger. He cast down from heaven to earth the glory of Israel and did not remember footstool of his feet in the day of his anger.
-- brenton: Aleph. How has the Lord darkened in his wrath the daughter of Sion! he has cast down the glory of Israel from heaven to earth, and has not remembered his footstool.
-
-## Nahum 1:2
-- priority: `15`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: God is jealous and avenging; the Lord avenges with wrath. The Lord avenges his adversaries, and he removes his enemies.
-- brenton: God is jealous, and the Lord avenges; the Lord avenges with wrath; the Lord takes vengeance on his adversaries, and he cuts off his enemies.
-
-## Nahum 1:7
-- priority: `15`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: The Lord is good to those waiting for him in the day of distress, and knowing those revering him.
-- brenton: The Lord is good to them that wait on him in the day of affliction; and he knows them that reverence him.
-
-## Obadiah 1:17
-- priority: `15`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: But on Mount Zion there will be salvation, and it will be holy, and the house of Jacob will inherit those who inherited them.
-- brenton: But on mount Sion there shall be deliverance, and there shall be a sanctuary; and the house of Jacob shall take for an inheritance those that took them for an inheritance.
+- fresh: From you a plot against the Lord will come out, devising evil hostile things.
+- brenton: Out of thee shall proceed a device against the Lord, counselling evil things hostile to him.
 
 ## Song of Solomon 1:4
 - priority: `15`
@@ -3379,126 +3499,6 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: My beloved went down into his garden, into bowls of spice, to shepherd in gardens and gather lilies.
 - brenton: My kinsman is gone down to his garden, to the beds of spice, to feed his flock in the gardens, and to gather lilies.
-
-## Nahum 1:9
-- priority: `14`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: What do you plot against the Lord? He himself will make an end; he will not take vengeance twice upon same thing in distress.
-- brenton: What do ye devise against the Lord? he will make a complete end: he will not take vengeance by affliction twice at the same time.
-
-## Nahum 3:5
-- priority: `14`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Behold, I am against you, says the Lord God Almighty, and I will uncover your backside to your face and show nations your shame and kingdoms your dishonor.
-- brenton: Behold, I am against thee, saith the Lord God Almighty, and I will uncover thy skirts in thy presence, and I will shew the nations thy shame, and the kingdoms thy disgrace.
-
-## Obadiah 1:1
-- priority: `14`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: The vision of Obadiah. Thus says the Lord God to Edom: I heard a report from the Lord, and he sent a message to the nations: Rise, and let us rise against her for war.
-- brenton: The vision of Obdias. Thus saith the Lord God to Idumea; I have heard a report from the Lord, and he has sent forth a message to the nations.
-
-## Nahum 1:3
-- priority: `13`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in destruction and in the whirlwind, and clouds are dust of his feet.
-- brenton: The Lord is long-suffering, and his power is great, and the Lord will not hold any guiltless: his way is in destruction and in the whirlwind, and the clouds are the dust of his feet.
-
-## Obadiah 1:15
-- priority: `13`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Because the day of the Lord is near upon all nations. As you did, so it will be to you; your repayment will be returned on your head.
-- brenton: For the day of the Lord is near upon all the Gentiles: as thou hast done, so shall it be done to thee: thy recompense shall be returned on thine own head.
-
-## Obadiah 1:16
-- priority: `13`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: Because as you drank on my holy mountain, all nations will drink wine; they will drink and go down, and they will be as though not existing.
-- brenton: For as thou hast drunk upon my holy mountain, so shall all the nations drink wine; they shall drink, and go down, and be as if they were not.
-
-## Obadiah 1:7
-- priority: `13`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: To your borders they sent you away, all men of your covenant. Your peaceful men opposed you and prevailed against you. They set ambush under you; there is no understanding in them.
-- brenton: They sent thee to thy coasts: all the men of thy covenant have withstood thee; thine allies have prevailed against thee, they have set snares under thee: they have no understanding.
-
-## Obadiah 1:8
-- priority: `13`
-- importance: `high`
-- reason: score>=12; importance=high; decisions=1; footnotes=1; reco=keep
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: In that day, says the Lord, I will destroy wise men from Edom and understanding from the mount of Esau.
-- brenton: In that day, saith the Lord, I will destroy the wise men out of Idumea, and understanding out of the mount of Esau.
 
 ## Song of Solomon 1:3
 - priority: `13`

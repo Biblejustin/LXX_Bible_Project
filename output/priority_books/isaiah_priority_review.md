@@ -15,15 +15,15 @@ Selected verses: 6
 - brenton: Behold, my God is my Saviour; I will trust in him, and not be afraid: for the Lord is my glory and my praise, and is become my salvation.
 
 ## Isaiah 44:2
-- score: 22
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=beloved, god, lord, servant; crossref_top_vote=200; eng_reco=keep; reco=keep
-- fresh: Thus says the Lord God, one making you and shaping you from womb: You will still be helped. Do not fear, my servant Jacob, beloved Israel whom I chose.
+- score: 25
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=beloved, god, lord, servant; crossref_top_vote=200; eng_reco=keep; reco=keep
+- fresh: Thus says the Lord God, the one making you and the one forming you from the womb: You will still be helped. Do not fear, my servant Jacob, beloved Israel whom I chose.
 - brenton: Thus saith the Lord God that made thee, and he that formed thee from the womb; Thou shalt yet be helped: fear not, my servant Jacob; and beloved Israel, whom I have chosen.
 
 ## Isaiah 49:7
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, holy, lord, servant, soul; crossref_top_vote=12; eng_reco=keep; reco=keep
-- fresh: Thus says the Lord, the one rescuing you, the God of Israel: to the one despised in soul, to the one abhorred by nations, to the servant of rulers: Kings will see and rise, rulers also, and will worship, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
+- score: 24
+- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, holy, lord, servant, soul; crossref_top_vote=12; eng_reco=keep; reco=keep
+- fresh: Thus says the Lord, the one rescuing you, the God of Israel: Sanctify the one despising his soul, the one abhorred by the nations, the servant of rulers. Kings will see him and rise; rulers also will worship him, because of the Lord, because the Holy One of Israel is faithful, and he chose you.
 - brenton: Thus saith the Lord that delivered thee, the God of Israel, Sanctify him that despises his life, him that is abhorred by the nations that are the servants of princes: kings shall behold him, and princes shall arise, and shall worship him, for the Lord's sake: for the Holy One of Israel is faithful, and I have chosen thee.
 
 ## Isaiah 54:10

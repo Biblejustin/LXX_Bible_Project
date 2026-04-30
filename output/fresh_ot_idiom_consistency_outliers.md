@@ -35,7 +35,7 @@ Unresolved: 0
 - dominant bucket: `call-on-name`
 - latest review status: `keep`
 - needs followup: `no`
-- fresh: And there is no one calling on your name and remembering to take hold of you, because you turned your face from us and gave us over because of our sins.
+- fresh: And there is no one calling on your name and no one remembering to take hold of you, because you turned your face away from us and gave us over because of our sins.
 
 ## Joel 3:5
 - family: `call-on-name-formula`
@@ -43,7 +43,7 @@ Unresolved: 0
 - dominant bucket: `call-on-name`
 - latest review status: `revised`
 - needs followup: `no`
-- fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be survivors, as the Lord said, and those bearing good news whom the Lord has called.
+- fresh: And it will be that everyone who calls on the name of the Lord will be saved, because on Mount Zion and in Jerusalem there will be one who escapes, as the Lord said, and those receiving good news whom the Lord has called.
 
 ## Psalms 98:6
 - family: `call-on-name-formula`
