@@ -32212,7 +32212,7 @@ And whoever was not found written in the book of life was cast into the lake of 
 
 **Revelation 21:1**
 
-And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.
+And I saw a new heaven and a new earth: for the first heaven and the first earth had passed away; and the sea is no more.
 
 **Revelation 21:2**
 
@@ -32256,11 +32256,11 @@ Having the glory of God: and her light was like to a stone most precious, even l
 
 **Revelation 21:12**
 
-And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:
+having a great and high wall, having twelve gates, and at the gates twelve angels, and names written on them, which are the names of the twelve tribes of the sons of Israel:
 
 **Revelation 21:13**
 
-On the east three gates; on the north three gates; on the south three gates; and on the west three gates.
+From the east three gates; from the north three gates; from the south three gates; and from the west three gates.
 
 **Revelation 21:14**
 
@@ -32272,7 +32272,7 @@ And the one who talked with me had a golden reed to measure the city, and the ga
 
 **Revelation 21:16**
 
-And the city lies foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal.
+And the city lies square, and its length is as much as the breadth: and he measured the city with the reed at twelve thousand stadia. Its length and breadth and height are equal.
 
 **Revelation 21:17**
 
@@ -32284,11 +32284,11 @@ And the building of the wall of it was of jasper: and the city was pure gold, li
 
 **Revelation 21:19**
 
-And the foundations of the wall of the city were garnished with all manner of precious stones. The first foundation was jasper; the second, sapphire; the third, a chalcedony; the fourth, an emerald;
+And the foundations of the wall of the city were adorned with every precious stone. The first foundation was jasper; the second, sapphire; the third, chalcedony; the fourth, emerald;
 
 **Revelation 21:20**
 
-The fifth, sardonyx; the sixth, ruby; the seventh, chrysolyte; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst.
+The fifth, sardonyx; the sixth, sardius; the seventh, chrysolyte; the eighth, beryl; the ninth, topaz; the tenth, chrysoprase; the eleventh, jacinth; the twelfth, amethyst.
 
 **Revelation 21:21**
 
@@ -32308,7 +32308,7 @@ And the nations of those who are saved shall walk in the light of it: and the ki
 
 **Revelation 21:25**
 
-And the gates of it shall not be shut at all by day: for there shall be no night there.
+And its gates shall by no means be shut by day: for night shall not be there.
 
 **Revelation 21:26**
 
@@ -32322,7 +32322,7 @@ And there shall by no means enter into it anything that defiles, neither whateve
 
 **Revelation 22:1**
 
-And he showed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.
+And he showed me a pure river of water of life, bright as crystal, proceeding out of the throne of God and of the Lamb.
 
 **Revelation 22:2**
 
@@ -32334,7 +32334,7 @@ And there shall be no more curse: but the throne of God and of the Lamb shall be
 
 **Revelation 22:4**
 
-And they shall see his face; and his name shall be in their foreheads.
+And they shall see his face; and his name shall be on their foreheads.
 
 **Revelation 22:5**
 
@@ -32370,7 +32370,7 @@ And, look, I come quickly; and my reward is with me, to give every man according
 
 **Revelation 22:13**
 
-I am Alpha and Omega, the beginning and the end, the first and the last.
+I am the Alpha and the Omega, beginning and end, the first and the last.
 
 **Revelation 22:14**
 

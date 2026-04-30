@@ -158784,7 +158784,7 @@ Greek: και ειδον ουρανον καινον και γην καινην 
 Transliteration: kai eidon ouranon kainon kai ghn kainhn o gar prwtov ouranov kai h prwth gh parhlyen kai h yalassa ouk estin eti
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.
+Draft translation: And I saw a new heaven and a new earth: for the first heaven and the first earth had passed away; and the sea is no more.
 
 Decision rows:
 - [TODO add decision rows]
@@ -159004,7 +159004,7 @@ Greek: εχουσαν τε τειχος μεγα και υψηλον εχουσ�
 Transliteration: ecousan te teicov mega kai uqhlon ecousan pulwnav dwdeka kai epi toiv pulwsin aggelouv dwdeka kai onomata epigegrammena a estin twn dwdeka fulwn twn uiwn israhl
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:
+Draft translation: having a great and high wall, having twelve gates, and at the gates twelve angels, and names written on them, which are the names of the twelve tribes of the sons of Israel:
 
 Decision rows:
 - [TODO add decision rows]
@@ -159024,7 +159024,7 @@ Greek: απ ανατολης πυλωνες τρεις απο βορρα πυλ�
 Transliteration: ap anatolhv pulwnev treiv apo borra pulwnev treiv apo notou pulwnev treiv kai apo dusmwn pulwnev treiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: On the east three gates; on the north three gates; on the south three gates; and on the west three gates.
+Draft translation: From the east three gates; from the north three gates; from the south three gates; and from the west three gates.
 
 Decision rows:
 - [TODO add decision rows]
@@ -159084,7 +159084,7 @@ Greek: και η πολις τετραγωνος κειται και το μηκ
 Transliteration: kai h poliv tetragwnov keitai kai to mhkov authv tosouton estin oson kai to platov kai emetrhsen thn polin tw kalamw epi stadiwn dwdeka ciliadwn to mhkov kai to platov kai to uqov authv isa estin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the city lies foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal.
+Draft translation: And the city lies square, and its length is as much as the breadth: and he measured the city with the reed at twelve thousand stadia. Its length and breadth and height are equal.
 
 Decision rows:
 - [TODO add decision rows]
@@ -159144,7 +159144,7 @@ Greek: και οι θεμελιοι του τειχους της πολεως π
 Transliteration: kai oi yemelioi tou teicouv thv polewv panti liyw timiw kekosmhmenoi o yemeliov o prwtov iaspiv o deuterov sapfeirov o tritov calkhdwn o tetartov smaragdov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the foundations of the wall of the city were garnished with all manner of precious stones. The first foundation was jasper; the second, sapphire; the third, a chalcedony; the fourth, an emerald;
+Draft translation: And the foundations of the wall of the city were adorned with every precious stone. The first foundation was jasper; the second, sapphire; the third, chalcedony; the fourth, emerald;
 
 Decision rows:
 - [TODO add decision rows]
@@ -159164,7 +159164,7 @@ Greek: ο πεμπτος σαρδονυξ ο εκτος σαρδιος ο εβδ
 Transliteration: o pemptov sardonux o ektov sardiov o ebdomov crusoliyov o ogdoov bhrullov o ennatov topazion o dekatov crusoprasov o endekatov uakinyov o dwdekatov ameyustov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: The fifth, sardonyx; the sixth, ruby; the seventh, chrysolyte; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst.
+Draft translation: The fifth, sardonyx; the sixth, sardius; the seventh, chrysolyte; the eighth, beryl; the ninth, topaz; the tenth, chrysoprase; the eleventh, jacinth; the twelfth, amethyst.
 
 Decision rows:
 - [TODO add decision rows]
@@ -159264,7 +159264,7 @@ Greek: και οι πυλωνες αυτης ου μη κλεισθωσιν ημ
 Transliteration: kai oi pulwnev authv ou mh kleisywsin hmerav nux gar ouk estai ekei
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the gates of it shall not be shut at all by day: for there shall be no night there.
+Draft translation: And its gates shall by no means be shut by day: for night shall not be there.
 
 Decision rows:
 - [TODO add decision rows]
@@ -159326,7 +159326,7 @@ Greek: και εδειξεν μοι καθαρον ποταμον υδατος �
 Transliteration: kai edeixen moi kayaron potamon udatov zwhv lampron wv krustallon ekporeuomenon ek tou yronou tou yeou kai tou arniou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he showed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.
+Draft translation: And he showed me a pure river of water of life, bright as crystal, proceeding out of the throne of God and of the Lamb.
 
 Decision rows:
 - [TODO add decision rows]
@@ -159386,7 +159386,7 @@ Greek: και οψονται το προσωπον αυτου και το ονο
 Transliteration: kai oqontai to proswpon autou kai to onoma autou epi twn metwpwn autwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And they shall see his face; and his name shall be in their foreheads.
+Draft translation: And they shall see his face; and his name shall be on their foreheads.
 
 Decision rows:
 - [TODO add decision rows]
@@ -159566,7 +159566,7 @@ Greek: εγω ειμι το α και το ω αρχη και τελος ο πρ
 Transliteration: egw eimi to a kai to w arch kai telov o prwtov kai o escatov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I am Alpha and Omega, the beginning and the end, the first and the last.
+Draft translation: I am the Alpha and the Omega, beginning and end, the first and the last.
 
 Decision rows:
 - [TODO add decision rows]

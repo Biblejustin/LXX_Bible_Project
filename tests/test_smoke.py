@@ -8777,6 +8777,34 @@ def test_nt_revelation_19_to_20_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_revelation_21_to_22_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Revelation 21:1": "And I saw a new heaven and a new earth: for the first heaven and the first earth had passed away; and the sea is no more.",
+        "Revelation 21:2": "And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.",
+        "Revelation 21:12": "having a great and high wall, having twelve gates, and at the gates twelve angels, and names written on them, which are the names of the twelve tribes of the sons of Israel:",
+        "Revelation 21:13": "From the east three gates; from the north three gates; from the south three gates; and from the west three gates.",
+        "Revelation 21:14": "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.",
+        "Revelation 21:16": "And the city lies square, and its length is as much as the breadth: and he measured the city with the reed at twelve thousand stadia. Its length and breadth and height are equal.",
+        "Revelation 21:19": "And the foundations of the wall of the city were adorned with every precious stone. The first foundation was jasper; the second, sapphire; the third, chalcedony; the fourth, emerald;",
+        "Revelation 21:20": "The fifth, sardonyx; the sixth, sardius; the seventh, chrysolyte; the eighth, beryl; the ninth, topaz; the tenth, chrysoprase; the eleventh, jacinth; the twelfth, amethyst.",
+        "Revelation 21:25": "And its gates shall by no means be shut by day: for night shall not be there.",
+        "Revelation 22:1": "And he showed me a pure river of water of life, bright as crystal, proceeding out of the throne of God and of the Lamb.",
+        "Revelation 22:4": "And they shall see his face; and his name shall be on their foreheads.",
+        "Revelation 22:13": "I am the Alpha and the Omega, beginning and end, the first and the last.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_201.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
