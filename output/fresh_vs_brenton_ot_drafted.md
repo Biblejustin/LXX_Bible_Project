@@ -56684,7 +56684,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and Iron and Migdalel
+- fresh: and Iron and Migdalel, Horem and Baiththame and Thessamys.
 - brenton: and Keroe, and Megalaarim, and Bætthame, and Thessamys.
 
 ### Joshua 19:39

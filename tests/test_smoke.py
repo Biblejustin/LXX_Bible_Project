@@ -89,6 +89,34 @@ def test_review_csv_shapes() -> None:
     issues = [issue for path in paths for issue in csv_shape_issues(path)]
     assert not issues, "\n".join(format_csv_shape_issue(issue) for issue in issues[:10])
 
+    decision_statuses = {row["status"] for row in csv_rows("data/research/translation_decisions.csv")}
+    footnote_statuses = {row["status"] for row in csv_rows("data/research/translation_footnotes.csv")}
+    assert decision_statuses <= {"", "accepted", "drafted", "reviewed", "todo"}
+    assert footnote_statuses <= {"", "approved", "drafted", "reviewed", "todo"}
+
+
+def test_joshua_19_38_keeps_complete_lxx_name_list() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")}
+    decisions_by_ref = {
+        row["ref"]: row
+        for row in csv_rows("data/research/translation_decisions.csv")
+        if row["ref"] == "Joshua 19:38"
+    }
+    footnotes_by_ref = {
+        row["ref"]: row
+        for row in csv_rows("data/research/translation_footnotes.csv")
+        if row["ref"] == "Joshua 19:38"
+    }
+    expected = "and Iron and Migdalel, Horem and Baiththame and Thessamys."
+
+    assert source_by_ref["Joshua 19:38"]["draft_translation"] == expected
+    assert decisions_by_ref["Joshua 19:38"]["chosen_rendering"] == expected
+    assert decisions_by_ref["Joshua 19:38"]["status"] == "reviewed"
+    assert decisions_by_ref["Joshua 19:38"]["reviewer"] == "user"
+    assert footnotes_by_ref["Joshua 19:38"]["trigger_phrase"] == expected
+    assert footnotes_by_ref["Joshua 19:38"]["source_basis"] == "variant + witnesses"
+    assert footnotes_by_ref["Joshua 19:38"]["status"] == "reviewed"
+
 
 def test_safe_review_csv_append_quotes_commas(tmp_path: Path) -> None:
     target = tmp_path / "review.csv"

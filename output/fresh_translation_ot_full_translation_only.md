@@ -25604,7 +25604,7 @@ and Kedesh and Assari and the spring of Hazor,
 
 **Joshua 19:38**
 
-and Iron and Migdalel
+and Iron and Migdalel, Horem and Baiththame and Thessamys.
 
 **Joshua 19:39**
 
