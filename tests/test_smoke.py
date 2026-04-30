@@ -8060,6 +8060,35 @@ def test_nt_hebrews_3_to_4_queue_revisions_stay_reviewed() -> None:
     assert "Hebrews 3:11" not in queue_refs
 
 
+def test_nt_hebrews_5_to_6_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Hebrews 5:1": "For every high priest taken from among men is appointed on behalf of men in things pertaining to God, that he may offer both gifts and sacrifices for sins:",
+        "Hebrews 5:8": "Though he was a Son, he learned obedience from the things which he suffered;",
+        "Hebrews 6:2": "of teaching about baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.",
+        "Hebrews 6:3": "And this we will do, if God permits.",
+        "Hebrews 6:9": "But, beloved, we are persuaded concerning you of better things, and things belonging to salvation, though we speak thus.",
+        "Hebrews 6:13": "For when God promised Abraham, because he had no greater by whom to swear, he swore by himself,",
+        "Hebrews 6:15": "And so, having patiently endured, he obtained the promise.",
+        "Hebrews 6:18": "that by two immutable things, in which it is impossible for God to lie, we who have fled for refuge might have strong encouragement to lay hold of the hope set before us:",
+        "Hebrews 6:19": "which we have as an anchor of the soul, both sure and steadfast, and entering into the inner side of the veil;",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_175.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["Hebrews 6:14"]["latest_review_status"] == "keep"
+    assert review_by_ref["Hebrews 6:14"]["latest_review_pass"] == "nt_review_pass_175.md"
+    assert "Hebrews 6:14" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

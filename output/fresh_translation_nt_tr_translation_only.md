@@ -28004,7 +28004,7 @@ Let us therefore come boldly to the throne of grace, that we may obtain mercy, a
 
 **Hebrews 5:1**
 
-For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:
+For every high priest taken from among men is appointed on behalf of men in things pertaining to God, that he may offer both gifts and sacrifices for sins:
 
 **Hebrews 5:2**
 
@@ -28032,7 +28032,7 @@ Who in the days of his flesh, when he had offered up prayers and supplications w
 
 **Hebrews 5:8**
 
-Though he were a Son, yet learned he obedience by the things which he suffered;
+Though he was a Son, he learned obedience from the things which he suffered;
 
 **Hebrews 5:9**
 
@@ -28066,11 +28066,11 @@ Therefore leaving the principles of the doctrine of Christ, let us go on to perf
 
 **Hebrews 6:2**
 
-Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
+of teaching about baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
 
 **Hebrews 6:3**
 
-And this will we do, if God permit.
+And this we will do, if God permits.
 
 **Hebrews 6:4**
 
@@ -28094,7 +28094,7 @@ But that which bears thorns and briers is rejected, and is near to cursing; whos
 
 **Hebrews 6:9**
 
-But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak.
+But, beloved, we are persuaded concerning you of better things, and things belonging to salvation, though we speak thus.
 
 **Hebrews 6:10**
 
@@ -28110,7 +28110,7 @@ That you may not be slothful, but followers of them who through faith and patien
 
 **Hebrews 6:13**
 
-For when God made promise to Abraham, because he could swear by no greater, he swore by himself,
+For when God promised Abraham, because he had no greater by whom to swear, he swore by himself,
 
 **Hebrews 6:14**
 
@@ -28118,7 +28118,7 @@ Saying, Surely blessing I will bless you, and multiplying I will multiply you.
 
 **Hebrews 6:15**
 
-And so, after he had patiently endured, he obtained the promise.
+And so, having patiently endured, he obtained the promise.
 
 **Hebrews 6:16**
 
@@ -28130,11 +28130,11 @@ in which God, willing more abundantly to show to the heirs of promise the immuta
 
 **Hebrews 6:18**
 
-That by two immutable things, in which it was impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:
+that by two immutable things, in which it is impossible for God to lie, we who have fled for refuge might have strong encouragement to lay hold of the hope set before us:
 
 **Hebrews 6:19**
 
-Which hope we have as an anchor of the soul, both sure and steadfast, and which enters into that within the veil;
+which we have as an anchor of the soul, both sure and steadfast, and entering into the inner side of the veil;
 
 **Hebrews 6:20**
 

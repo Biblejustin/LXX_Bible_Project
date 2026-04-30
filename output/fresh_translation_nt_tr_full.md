@@ -138208,7 +138208,7 @@ Greek: πας γαρ αρχιερευς εξ ανθρωπων λαμβανομε
 Transliteration: pav gar arciereuv ex anyrwpwn lambanomenov uper anyrwpwn kayistatai ta prov ton yeon ina prosferh dwra te kai yusiav uper amartiwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:
+Draft translation: For every high priest taken from among men is appointed on behalf of men in things pertaining to God, that he may offer both gifts and sacrifices for sins:
 
 Decision rows:
 - [TODO add decision rows]
@@ -138348,7 +138348,7 @@ Greek: καιπερ ων υιος εμαθεν αφ ων επαθεν την υ�
 Transliteration: kaiper wn uiov emayen af wn epayen thn upakohn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Though he were a Son, yet learned he obedience by the things which he suffered;
+Draft translation: Though he was a Son, he learned obedience from the things which he suffered;
 
 Decision rows:
 - [TODO add decision rows]
@@ -138510,7 +138510,7 @@ Greek: βαπτισμων διδαχης επιθεσεως τε χειρων α
 Transliteration: baptismwn didachv epiyesewv te ceirwn anastasewv te nekrwn kai krimatov aiwniou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
+Draft translation: of teaching about baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
 
 Decision rows:
 - [TODO add decision rows]
@@ -138530,7 +138530,7 @@ Greek: και τουτο ποιησομεν εανπερ επιτρεπη ο θ�
 Transliteration: kai touto poihsomen eanper epitreph o yeov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And this will we do, if God permit.
+Draft translation: And this we will do, if God permits.
 
 Decision rows:
 - [TODO add decision rows]
@@ -138650,7 +138650,7 @@ Greek: πεπεισμεθα δε περι υμων αγαπητοι τα κρε�
 Transliteration: pepeismeya de peri umwn agaphtoi ta kreittona kai ecomena swthriav ei kai outwv laloumen
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak.
+Draft translation: But, beloved, we are persuaded concerning you of better things, and things belonging to salvation, though we speak thus.
 
 Decision rows:
 - [TODO add decision rows]
@@ -138730,7 +138730,7 @@ Greek: τω γαρ αβρααμ επαγγειλαμενος ο θεος επε�
 Transliteration: tw gar abraam epaggeilamenov o yeov epei kat oudenov eicen meizonov omosai wmosen kay eautou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For when God made promise to Abraham, because he could swear by no greater, he swore by himself,
+Draft translation: For when God promised Abraham, because he had no greater by whom to swear, he swore by himself,
 
 Decision rows:
 - [TODO add decision rows]
@@ -138770,7 +138770,7 @@ Greek: και ουτως μακροθυμησας επετυχεν της επα
 Transliteration: kai outwv makroyumhsav epetucen thv epaggeliav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And so, after he had patiently endured, he obtained the promise.
+Draft translation: And so, having patiently endured, he obtained the promise.
 
 Decision rows:
 - [TODO add decision rows]
@@ -138830,7 +138830,7 @@ Greek: ινα δια δυο πραγματων αμεταθετων εν οις 
 Transliteration: ina dia duo pragmatwn ametayetwn en oiv adunaton qeusasyai yeon iscuran paraklhsin ecwmen oi katafugontev krathsai thv prokeimenhv elpidov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: That by two immutable things, in which it was impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:
+Draft translation: that by two immutable things, in which it is impossible for God to lie, we who have fled for refuge might have strong encouragement to lay hold of the hope set before us:
 
 Decision rows:
 - [TODO add decision rows]
@@ -138850,7 +138850,7 @@ Greek: ην ως αγκυραν εχομεν της ψυχης ασφαλη τε
 Transliteration: hn wv agkuran ecomen thv quchv asfalh te kai bebaian kai eisercomenhn eiv to eswteron tou katapetasmatov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Which hope we have as an anchor of the soul, both sure and steadfast, and which enters into that within the veil;
+Draft translation: which we have as an anchor of the soul, both sure and steadfast, and entering into the inner side of the veil;
 
 Decision rows:
 - [TODO add decision rows]
