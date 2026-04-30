@@ -93048,7 +93048,7 @@ Because whatever is good is his, and whatever is beautiful is from him: grain fo
 
 **Zechariah 10:1**
 
-Ask rain from the Lord in season, early and late. The Lord made apparitions and will give winter rain to them, to each growth in the field.
+Ask rain from the Lord in season, early and late. The Lord made apparitions and will give winter rain to them, to each one, herbage in a field.
 
 **Zechariah 10:2**
 
@@ -93056,15 +93056,15 @@ Because omen-speakers spoke troubles, and diviners false visions, and dreams spo
 
 **Zechariah 10:3**
 
-Against shepherds my anger was provoked, and upon lambs I will visit, and the Lord God Almighty will visit his flock, the house of Judah, and set them like his splendid war horse.
+Against the shepherds my anger was provoked, and upon the lambs I will visit, and the Lord God Almighty will visit his flock, the house of Judah, and set them like his splendid horse in battle.
 
 **Zechariah 10:4**
 
-From him he looked out, and from him he arranged, and from him bow in wrath; from him every driver will go out together.
+From him he looked out, and from him he set in order, and from him came a bow in wrath; from him every one driving out will go out together.
 
 **Zechariah 10:5**
 
-And they will be like warriors trampling mud in roads in battle, and they will line up, because the Lord is with them, and riders of horses will be put to shame.
+And they will be like warriors trampling mud in the roads in battle, and they will line up, because the Lord is with them, and riders of horses will be put to shame.
 
 **Zechariah 10:6**
 
@@ -93072,7 +93072,7 @@ And I will strengthen the house of Judah, and the house of Joseph I will save an
 
 **Zechariah 10:7**
 
-And they will be like warrior of Ephraim, and their heart will rejoice as in wine, and their children will see and be glad, and their heart will rejoice in the Lord.
+And they will be like warriors of Ephraim, and their heart will rejoice as in wine, and their children will see and be glad, and their heart will rejoice in the Lord.
 
 **Zechariah 10:8**
 
@@ -93084,11 +93084,11 @@ And I will sow them among peoples, and those far away will remember me; they wil
 
 **Zechariah 10:10**
 
-And I will return them from the land of Egypt, and from Assyrians I will receive them, and into Gilead and Lebanon I will bring them in, and not even one from them will be left behind.
+And I will return them from the land of Egypt, and from Assyrians I will receive them, and into Gilead and Lebanon I will bring them in, and not even one of them will be left behind.
 
 **Zechariah 10:11**
 
-And they will pass through narrow sea and strike waves in sea, and all depths of rivers will dry up, and all arrogance of Assyrians will be removed, and scepter of Egypt taken away.
+And they will pass through a narrow sea and strike waves in a sea, and all the depths of rivers will dry up, and all arrogance of Assyrians will be removed, and the scepter of Egypt will be taken away.
 
 **Zechariah 10:12**
 

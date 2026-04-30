@@ -205128,10 +205128,10 @@ Note:
 ### Zechariah 10:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Ask rain from the Lord in season, early and late. The Lord made apparitions and will give winter rain to them, to each growth in the field.
+- fresh: Ask rain from the Lord in season, early and late. The Lord made apparitions and will give winter rain to them, to each one, herbage in a field.
 - brenton: Ask ye of the Lord rain in season, the early and the latter: the Lord has given bright signs, and will give them abundant rain, to every one grass in the field.
 
 ### Zechariah 10:2
@@ -205146,28 +205146,28 @@ Note:
 ### Zechariah 10:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Against shepherds my anger was provoked, and upon lambs I will visit, and the Lord God Almighty will visit his flock, the house of Judah, and set them like his splendid war horse.
+- fresh: Against the shepherds my anger was provoked, and upon the lambs I will visit, and the Lord God Almighty will visit his flock, the house of Judah, and set them like his splendid horse in battle.
 - brenton: Mine anger was kindled against the shepherds, and I will visit the lambs; and the Lord God Almighty shall visit his flock, the house of Juda, and he shall make them as his goodly horse in war.
 
 ### Zechariah 10:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 2
 - same_normalized: no
-- fresh: From him he looked out, and from him he arranged, and from him bow in wrath; from him every driver will go out together.
+- fresh: From him he looked out, and from him he set in order, and from him came a bow in wrath; from him every one driving out will go out together.
 - brenton: And from him he looked, and from him he set the battle in order, and from him came the bow in anger, and from him shall come forth every oppressor together.
 
 ### Zechariah 10:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they will be like warriors trampling mud in roads in battle, and they will line up, because the Lord is with them, and riders of horses will be put to shame.
+- fresh: And they will be like warriors trampling mud in the roads in battle, and they will line up, because the Lord is with them, and riders of horses will be put to shame.
 - brenton: And they shall be as warriors treading clay in the ways in war; and they shall set the battle in array, because the Lord is with them, and the riders on horses shall be put to shame.
 
 ### Zechariah 10:6
@@ -205182,10 +205182,10 @@ Note:
 ### Zechariah 10:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they will be like warrior of Ephraim, and their heart will rejoice as in wine, and their children will see and be glad, and their heart will rejoice in the Lord.
+- fresh: And they will be like warriors of Ephraim, and their heart will rejoice as in wine, and their children will see and be glad, and their heart will rejoice in the Lord.
 - brenton: And they shall be as the warriors of Ephraim, and their heart shall rejoice as with wine: and their children also shall see it, and be glad; and their heart shall rejoice in the Lord.
 
 ### Zechariah 10:8
@@ -205209,19 +205209,19 @@ Note:
 ### Zechariah 10:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will return them from the land of Egypt, and from Assyrians I will receive them, and into Gilead and Lebanon I will bring them in, and not even one from them will be left behind.
+- fresh: And I will return them from the land of Egypt, and from Assyrians I will receive them, and into Gilead and Lebanon I will bring them in, and not even one of them will be left behind.
 - brenton: And I will bring them again from the land of Egypt, and I will gather them in from among the Assyrians; and I will bring them into the land of Galaad and to Libanus; and there shall not even one of them be left behind.
 
 ### Zechariah 10:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 2
 - same_normalized: no
-- fresh: And they will pass through narrow sea and strike waves in sea, and all depths of rivers will dry up, and all arrogance of Assyrians will be removed, and scepter of Egypt taken away.
+- fresh: And they will pass through a narrow sea and strike waves in a sea, and all the depths of rivers will dry up, and all arrogance of Assyrians will be removed, and the scepter of Egypt will be taken away.
 - brenton: And they shall pass through a narrow sea, they shall smite the waves in the sea, and all the deep places of the rivers shall be dried up: and all the pride of the Assyrians shall be taken away, and the sceptre of Egypt shall be removed.
 
 ### Zechariah 10:12
