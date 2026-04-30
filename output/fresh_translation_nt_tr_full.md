@@ -136416,7 +136416,7 @@ Greek: ευχαριστω τω θεω μου παντοτε μνειαν σου 
 Transliteration: eucaristw tw yew mou pantote mneian sou poioumenov epi twn proseucwn mou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I thank my God, making mention of you always in my prayers,
+Draft translation: I thank my God, always making mention of you in my prayers,
 
 Decision rows:
 - [TODO add decision rows]
@@ -136456,7 +136456,7 @@ Greek: οπως η κοινωνια της πιστεως σου ενεργης 
 Transliteration: opwv h koinwnia thv pistewv sou energhv genhtai en epignwsei pantov agayou tou en umin eiv criston ihsoun
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: That the communication of your faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.
+Draft translation: that the fellowship of your faith may become effective in the knowledge of every good thing which is in you toward Christ Jesus.
 
 Decision rows:
 - [TODO add decision rows]
@@ -136536,7 +136536,7 @@ Greek: παρακαλω σε περι του εμου τεκνου ον εγεν
 Transliteration: parakalw se peri tou emou teknou on egennhsa en toiv desmoiv mou onhsimon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I plead to you for my son Onesimus, whom I have begotten in my bonds:
+Draft translation: I plead with you concerning my child Onesimus, whom I begot in my bonds:
 
 Decision rows:
 - [TODO add decision rows]
@@ -136556,7 +136556,7 @@ Greek: τον ποτε σοι αχρηστον νυνι δε σοι και εμ�
 Transliteration: ton pote soi acrhston nuni de soi kai emoi eucrhston on anepemqa
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Which in time past was to you useless, but now profitable to you and to me:
+Draft translation: who once was useless to you, but now useful to you and to me:
 
 Decision rows:
 - [TODO add decision rows]
@@ -136616,7 +136616,7 @@ Greek: χωρις δε της σης γνωμης ουδεν ηθελησα πο
 Transliteration: cwriv de thv shv gnwmhv ouden hyelhsa poihsai ina mh wv kata anagkhn to agayon sou h alla kata ekousion
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But without your mind would I do nothing; that your benefit should not be as it were of necessity, but willingly.
+Draft translation: But without your consent I wished to do nothing; that your good might not be as by necessity, but willingly.
 
 Decision rows:
 - [TODO add decision rows]
@@ -136676,7 +136676,7 @@ Greek: ει ουν εμε εχεις κοινωνον προσλαβου αυτ�
 Transliteration: ei oun eme eceiv koinwnon proslabou auton wv eme
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: If you count me therefore a partner, receive him as myself.
+Draft translation: If therefore you have me as a partner, receive him as me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -136796,7 +136796,7 @@ Greek: ασπαζονται σε επαφρας ο συναιχμαλωτος μ
 Transliteration: aspazontai se epafrav o sunaicmalwtov mou en cristw ihsou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: There salute you Epaphras, my fellow-prisoner in Christ Jesus;
+Draft translation: Epaphras, my fellow-prisoner in Christ Jesus, greets you;
 
 Decision rows:
 - [TODO add decision rows]

@@ -7983,6 +7983,29 @@ def test_nt_titus_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_philemon_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Philemon 1:4": "I thank my God, always making mention of you in my prayers,",
+        "Philemon 1:6": "that the fellowship of your faith may become effective in the knowledge of every good thing which is in you toward Christ Jesus.",
+        "Philemon 1:10": "I plead with you concerning my child Onesimus, whom I begot in my bonds:",
+        "Philemon 1:11": "who once was useless to you, but now useful to you and to me:",
+        "Philemon 1:14": "But without your consent I wished to do nothing; that your good might not be as by necessity, but willingly.",
+        "Philemon 1:17": "If therefore you have me as a partner, receive him as me.",
+        "Philemon 1:23": "Epaphras, my fellow-prisoner in Christ Jesus, greets you;",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_172.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

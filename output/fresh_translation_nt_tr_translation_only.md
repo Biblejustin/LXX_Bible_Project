@@ -27636,7 +27636,7 @@ Grace to you, and peace, from God our Father and the Lord Jesus Christ.
 
 **Philemon 1:4**
 
-I thank my God, making mention of you always in my prayers,
+I thank my God, always making mention of you in my prayers,
 
 **Philemon 1:5**
 
@@ -27644,7 +27644,7 @@ Hearing of your love and faith, which you have toward the Lord Jesus, and toward
 
 **Philemon 1:6**
 
-That the communication of your faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.
+that the fellowship of your faith may become effective in the knowledge of every good thing which is in you toward Christ Jesus.
 
 **Philemon 1:7**
 
@@ -27660,11 +27660,11 @@ Yet for love's sake I rather plead to you, being such a one as Paul the aged, an
 
 **Philemon 1:10**
 
-I plead to you for my son Onesimus, whom I have begotten in my bonds:
+I plead with you concerning my child Onesimus, whom I begot in my bonds:
 
 **Philemon 1:11**
 
-Which in time past was to you useless, but now profitable to you and to me:
+who once was useless to you, but now useful to you and to me:
 
 **Philemon 1:12**
 
@@ -27676,7 +27676,7 @@ Whom I would have retained with me, that in your position he might have minister
 
 **Philemon 1:14**
 
-But without your mind would I do nothing; that your benefit should not be as it were of necessity, but willingly.
+But without your consent I wished to do nothing; that your good might not be as by necessity, but willingly.
 
 **Philemon 1:15**
 
@@ -27688,7 +27688,7 @@ Not now as a slave, but above a slave, a brother beloved, specially to me, but h
 
 **Philemon 1:17**
 
-If you count me therefore a partner, receive him as myself.
+If therefore you have me as a partner, receive him as me.
 
 **Philemon 1:18**
 
@@ -27712,7 +27712,7 @@ But likewise prepare me also a lodging: for I trust that through your prayers I 
 
 **Philemon 1:23**
 
-There salute you Epaphras, my fellow-prisoner in Christ Jesus;
+Epaphras, my fellow-prisoner in Christ Jesus, greets you;
 
 **Philemon 1:24**
 
