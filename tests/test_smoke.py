@@ -306,6 +306,45 @@ def test_crossref_notes_use_fresh_language_and_drop_loose_single_word_links() ->
     assert "2Pet 2:14" not in display_text
 
 
+def test_crossref_phrase_anchors_match_fresh_text_and_broad_links_stay_local() -> None:
+    sys.path.insert(0, str(ROOT / "scripts"))
+    import build_fresh_logos_bible as logos_builder
+
+    sources = (
+        ("ot", ROOT / "data/raw/lxx_greek/ot_full.csv"),
+        ("nt", ROOT / "data/raw/tr_greek/nt_full.csv"),
+    )
+    for testament, path in sources:
+        verses = logos_builder.load_verses(path)
+        by_ref = {verse.ref: verse for verse in verses}
+        crossrefs, _diag = logos_builder.build_crossrefs_for_verses(
+            verses,
+            testament,
+            enabled=True,
+        )
+
+        for ref, notes in crossrefs.items():
+            verse = by_ref[ref]
+            source_book = verse.tsk_key[0]
+            for note in notes:
+                phrase = note.display_phrase
+                if not phrase:
+                    continue
+                assert phrase in verse.text, (testament, ref, phrase)
+
+                words = re.findall(r"[A-Za-z0-9]+", phrase.casefold())
+                if (
+                    len(words) == 1
+                    and words[0] in logos_builder.BROAD_SINGLE_WORD_CROSSREF_TRIGGERS
+                ):
+                    off_book = [
+                        crossref
+                        for crossref in note.refs
+                        if logos_builder.crossref_book_code(crossref) != source_book
+                    ]
+                    assert off_book == [], (testament, ref, phrase, off_book)
+
+
 def test_common_lord_article_formulas_are_normalized() -> None:
     ot_rows = csv_rows("data/raw/lxx_greek/ot_full.csv")
     formulas = (
