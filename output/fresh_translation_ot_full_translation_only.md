@@ -92986,55 +92986,55 @@ and Hamath at its borders, Tyre and Sidon, because they were very wise.
 
 **Zechariah 9:3**
 
-And Tyre built strongholds for herself and stored silver like dust and gathered gold like mud of roads.
+And Tyre built strongholds for herself and stored silver like dust and gathered gold like mud of the roads.
 
 **Zechariah 9:4**
 
-Therefore the Lord will inherit her and strike her strength into sea, and she will be consumed in fire.
+Therefore the Lord will inherit her and strike her strength into the sea, and she will be consumed in fire.
 
 **Zechariah 9:5**
 
-Ashkelon will see and fear, and Gaza will suffer greatly, and Ekron, because she was shamed by her downfall, and the king will perish from Gaza, and Ashkelon will certainly not be inhabited.
+Ashkelon will see and fear, and Gaza will suffer greatly, and Ekron, because she was shamed by her trespass, and the king will perish from Gaza, and Ashkelon will certainly not be inhabited.
 
 **Zechariah 9:6**
 
-And foreigners will dwell in Ashdod, and I will pull down arrogance of foreigners.
+And foreigners will dwell in Ashdod, and I will pull down the arrogance of foreigners.
 
 **Zechariah 9:7**
 
-And I will remove their blood from their mouth and their abominations from between their teeth, and he will be left also for our God, and they will be like chiliarch in Judah, and Ekron like Jebusite.
+And I will remove their blood from their mouth and their abominations from between their teeth, and he will be left also for our God, and they will be like a chiliarch in Judah, and Ekron like the Jebusite.
 
 **Zechariah 9:8**
 
-And I will stand by my house as guard, that no one may pass through or return, and oppressor will certainly not come upon them again, because now I have seen with my eyes.
+And I will stand by my house as a guard, that no one may pass through or return, and one driving out will certainly not come upon them again, because now I have seen with my eyes.
 
 **Zechariah 9:9**
 
-Rejoice greatly, daughter Zion; proclaim, daughter Jerusalem: behold, your king comes to you, righteous and saving, he himself meek and mounted upon beast of burden, a young foal.
+Rejoice greatly, O daughter of Zion; proclaim, O daughter of Jerusalem: behold, your king comes to you, righteous and saving, he himself meek and mounted upon a beast of burden and a young foal.
 
 **Zechariah 9:10**
 
-And he will destroy chariots from Ephraim and horse from Jerusalem, and war-bow will be destroyed, and abundance and peace from nations, and he will rule waters to sea and rivers to the ends of the earth.
+And he will destroy chariots from Ephraim and horse from Jerusalem, and a war-bow will be destroyed, and there will be abundance and peace from nations, and he will rule over waters as far as sea and rivers to the outlets of earth.
 
 **Zechariah 9:11**
 
-And you, by blood of your covenant, sent out your prisoners from pit having no water.
+And you, by blood of a covenant, sent out your prisoners from a pit having no water.
 
 **Zechariah 9:12**
 
-You prisoners of the congregation will sit in stronghold, and in place of one day of your sojourning I will repay you double.
+You will sit in a stronghold, prisoners of the congregation, and in place of one day of your sojourning I will repay you double.
 
 **Zechariah 9:13**
 
-Because I bent Judah for myself as bow, I filled Ephraim, and I will stir up your children, Zion, against children of Greeks, and handle you like a sword of warrior.
+Because I bent you, Judah, as a bow for myself; I filled Ephraim, and I will stir up your children, Zion, against the children of the Greeks, and handle you like a warrior's sword.
 
 **Zechariah 9:14**
 
-And the Lord will be over them, and his missile will go out like lightning, and the Lord Almighty will blow trumpet and go in storm of his threat.
+And the Lord will be over them, and his missile will go out like lightning, and the Lord Almighty will trumpet with a trumpet and go in a storm of his threat.
 
 **Zechariah 9:15**
 
-The Lord Almighty will shield them, and they will consume them and overwhelm them with sling-stones, and they will drink them like wine and be filled like bowls of altar.
+The Lord Almighty will shield them, and they will consume them and overwhelm them with sling-stones, and they will drink them like wine and be filled like bowls of an altar.
 
 **Zechariah 9:16**
 
@@ -93042,7 +93042,7 @@ And the Lord will save them in that day as sheep, his people, because holy stone
 
 **Zechariah 9:17**
 
-Because if anything good is his and anything beautiful from him, grain for young men and fragrant wine for virgins.
+Because whatever is good is his, and whatever is beautiful is from him: grain for young men and fragrant wine for virgins.
 
 ### Chapter 10
 

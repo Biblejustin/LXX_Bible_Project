@@ -204993,118 +204993,118 @@ Note:
 ### Zechariah 9:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Tyre built strongholds for herself and stored silver like dust and gathered gold like mud of roads.
+- fresh: And Tyre built strongholds for herself and stored silver like dust and gathered gold like mud of the roads.
 - brenton: And Tyrus built strong-holds for herself, and heaped up silver as dust, and gathered gold as the mire of the ways.
 
 ### Zechariah 9:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Therefore the Lord will inherit her and strike her strength into sea, and she will be consumed in fire.
+- fresh: Therefore the Lord will inherit her and strike her strength into the sea, and she will be consumed in fire.
 - brenton: And therefore the Lord will take them for a possession, and will smite her power in the sea; and she shall be consumed with fire.
 
 ### Zechariah 9:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Ashkelon will see and fear, and Gaza will suffer greatly, and Ekron, because she was shamed by her downfall, and the king will perish from Gaza, and Ashkelon will certainly not be inhabited.
+- fresh: Ashkelon will see and fear, and Gaza will suffer greatly, and Ekron, because she was shamed by her trespass, and the king will perish from Gaza, and Ashkelon will certainly not be inhabited.
 - brenton: Ascalon shall see, and fear; Gaza also, and shall be greatly pained, and Accaron; for she is ashamed at her trespass; and the king shall perish from Gaza, and Ascalon shall not be inhabited.
 
 ### Zechariah 9:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And foreigners will dwell in Ashdod, and I will pull down arrogance of foreigners.
+- fresh: And foreigners will dwell in Ashdod, and I will pull down the arrogance of foreigners.
 - brenton: And aliens shall dwell in Azotus, and I will bring down the pride of the Philistines.
 
 ### Zechariah 9:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will remove their blood from their mouth and their abominations from between their teeth, and he will be left also for our God, and they will be like chiliarch in Judah, and Ekron like Jebusite.
+- fresh: And I will remove their blood from their mouth and their abominations from between their teeth, and he will be left also for our God, and they will be like a chiliarch in Judah, and Ekron like the Jebusite.
 - brenton: And I will take their blood out of their mouth, and their abominations from between their teeth; and these also shall be left to our God, and they shall be as a captain of a thousand in Juda, and Accaron as a Jebusite.
 
 ### Zechariah 9:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will stand by my house as guard, that no one may pass through or return, and oppressor will certainly not come upon them again, because now I have seen with my eyes.
+- fresh: And I will stand by my house as a guard, that no one may pass through or return, and one driving out will certainly not come upon them again, because now I have seen with my eyes.
 - brenton: And I will set up a defence for my house, that they may not pass through, nor turn back, neither shall there any more come upon them one to drive them away: for now have I seen with mine eyes.
 
 ### Zechariah 9:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Rejoice greatly, daughter Zion; proclaim, daughter Jerusalem: behold, your king comes to you, righteous and saving, he himself meek and mounted upon beast of burden, a young foal.
+- fresh: Rejoice greatly, O daughter of Zion; proclaim, O daughter of Jerusalem: behold, your king comes to you, righteous and saving, he himself meek and mounted upon a beast of burden and a young foal.
 - brenton: Rejoice greatly, O daughter of Sion; proclaim it aloud, O daughter of Jerusalem; behold, the King is coming to thee, just, and a Saviour; he is meek and riding on an ass, and a young foal.
 
 ### Zechariah 9:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will destroy chariots from Ephraim and horse from Jerusalem, and war-bow will be destroyed, and abundance and peace from nations, and he will rule waters to sea and rivers to the ends of the earth.
+- fresh: And he will destroy chariots from Ephraim and horse from Jerusalem, and a war-bow will be destroyed, and there will be abundance and peace from nations, and he will rule over waters as far as sea and rivers to the outlets of earth.
 - brenton: And he shall destroy the chariots out of Ephraim, and the horse out of Jerusalem, and the bow of war shall be utterly destroyed; and there shall be abundance and peace out of the nations; and he shall rule over the waters as far as the sea, and the rivers to the ends of the earth.
 
 ### Zechariah 9:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you, by blood of your covenant, sent out your prisoners from pit having no water.
+- fresh: And you, by blood of a covenant, sent out your prisoners from a pit having no water.
 - brenton: And thou by the blood of thy covenant hast sent forth thy prisoners out of the pit that has no water.
 
 ### Zechariah 9:12
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You prisoners of the congregation will sit in stronghold, and in place of one day of your sojourning I will repay you double.
+- fresh: You will sit in a stronghold, prisoners of the congregation, and in place of one day of your sojourning I will repay you double.
 - brenton: Ye shall dwell in strongholds, ye prisoners of the congregation: and for one day of thy captivity I will recompense thee double.
 
 ### Zechariah 9:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 3
+- footnotes: 2
 - same_normalized: no
-- fresh: Because I bent Judah for myself as bow, I filled Ephraim, and I will stir up your children, Zion, against children of Greeks, and handle you like a sword of warrior.
+- fresh: Because I bent you, Judah, as a bow for myself; I filled Ephraim, and I will stir up your children, Zion, against the children of the Greeks, and handle you like a warrior's sword.
 - brenton: For I have bent thee, O Juda, for myself as a bow, I have filled Ephraim; and I will raise up thy children, O Sion, against the children of the Greeks, and I will handle thee as the sword of a warrior.
 
 ### Zechariah 9:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will be over them, and his missile will go out like lightning, and the Lord Almighty will blow trumpet and go in storm of his threat.
+- fresh: And the Lord will be over them, and his missile will go out like lightning, and the Lord Almighty will trumpet with a trumpet and go in a storm of his threat.
 - brenton: And the Lord shall be over them, and his arrow shall go forth as lightning: and the Lord Almighty shall blow with the trumpet; and shall proceed with the tumult of his threatening.
 
 ### Zechariah 9:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The Lord Almighty will shield them, and they will consume them and overwhelm them with sling-stones, and they will drink them like wine and be filled like bowls of altar.
+- fresh: The Lord Almighty will shield them, and they will consume them and overwhelm them with sling-stones, and they will drink them like wine and be filled like bowls of an altar.
 - brenton: The Lord Almighty shall protect them, and they shall destroy them, and overwhelm them with sling-stones; and they shall swallow them down as wine, and fill the bowls as the altar.
 
 ### Zechariah 9:16
@@ -205119,10 +205119,10 @@ Note:
 ### Zechariah 9:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because if anything good is his and anything beautiful from him, grain for young men and fragrant wine for virgins.
+- fresh: Because whatever is good is his, and whatever is beautiful is from him: grain for young men and fragrant wine for virgins.
 - brenton: For if he has anything good, and if he has anything fair, the young men shall have corn, and there shall be fragrant wine to the virgins.
 
 ### Zechariah 10:1
