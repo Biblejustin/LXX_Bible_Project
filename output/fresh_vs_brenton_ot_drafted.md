@@ -205524,10 +205524,10 @@ Note:
 ### Zechariah 13:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be in that day, says the Lord, I will destroy names of idols from the land, and there will no longer be remembrance of them, and false prophets and unclean spirit I will remove from the land.
+- fresh: And it will be in that day, says the Lord, I will destroy the names of the idols from the land, and there will no longer be remembrance of them, and the false prophets and the unclean spirit I will remove from the land.
 - brenton: And it shall come to pass in that day, saith the Lord of hosts, that I will utterly destroy the names of the idols from off the land, and there shall be no longer any remembrance of them: and I will cut off the false prophets and the evil spirit from the land.
 
 ### Zechariah 13:3
@@ -205542,46 +205542,46 @@ Note:
 ### Zechariah 13:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be in that day, prophets will each be put to shame by his vision when he prophesies, and they will put on hairy skin because they lied.
+- fresh: And it will be in that day, the prophets will each be put to shame by his vision when he prophesies, and they will put on a hairy skin because they lied.
 - brenton: And it shall come to pass in that day, that the prophets shall be ashamed every one of his vision when he prophesies; and they shall clothe themselves with a garment of hair, because they have lied.
 
 ### Zechariah 13:5
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he will say, I am not prophet; I am man working land, because a man begot me from my youth.
+- fresh: And he will say, I am not a prophet; I am a man working the land, because a man begot me from my youth.
 - brenton: And one shall say, I am not a prophet, for I am a tiller of the ground, for a man brought me up thus from my youth.
 
 ### Zechariah 13:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will say to him, What are these wounds between your hands? And he will say, Those with which I was struck in the house of my beloved.
+- fresh: And I will say to him, What are these wounds between your hands? And he will say, Those with which I was struck in my beloved house.
 - brenton: And I will say to him, What are these wounds between thine hands? and he shall say, Those with which I was wounded in my beloved house.
 
 ### Zechariah 13:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Sword, awake against my shepherds and against man my fellow-citizen, says the Lord Almighty. Strike shepherds, and draw out sheep, and I will bring my hand upon shepherds.
+- fresh: Sword, awake against my shepherds and against the man, my fellow-citizen, says the Lord Almighty. Strike the shepherds, and draw out the sheep, and I will bring my hand upon the shepherds.
 - brenton: Awake, O sword, against my shepherds, and against the man who is my citizen, saith the Lord Almighty: smite the shepherds, and draw out the sheep: and I will bring mine hand upon the little ones.
 
 ### Zechariah 13:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be in all the land, says the Lord, two parts will be destroyed and fail, but third will be left in it.
+- fresh: And it will be in all the land, says the Lord, the two parts will be destroyed and fail, but the third will be left in it.
 - brenton: And it shall come to pass, that in all the land, saith the Lord, two parts thereof shall be cut off and perish; but the third shall be left therein.
 
 ### Zechariah 13:9

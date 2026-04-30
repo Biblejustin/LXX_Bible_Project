@@ -93230,7 +93230,7 @@ In that day every place will be opened in the house of David.
 
 **Zechariah 13:2**
 
-And it will be in that day, says the Lord, I will destroy names of idols from the land, and there will no longer be remembrance of them, and false prophets and unclean spirit I will remove from the land.
+And it will be in that day, says the Lord, I will destroy the names of the idols from the land, and there will no longer be remembrance of them, and the false prophets and the unclean spirit I will remove from the land.
 
 **Zechariah 13:3**
 
@@ -93238,23 +93238,23 @@ And it will be, if a man still prophesies, his father and his mother who begot h
 
 **Zechariah 13:4**
 
-And it will be in that day, prophets will each be put to shame by his vision when he prophesies, and they will put on hairy skin because they lied.
+And it will be in that day, the prophets will each be put to shame by his vision when he prophesies, and they will put on a hairy skin because they lied.
 
 **Zechariah 13:5**
 
-And he will say, I am not prophet; I am man working land, because a man begot me from my youth.
+And he will say, I am not a prophet; I am a man working the land, because a man begot me from my youth.
 
 **Zechariah 13:6**
 
-And I will say to him, What are these wounds between your hands? And he will say, Those with which I was struck in the house of my beloved.
+And I will say to him, What are these wounds between your hands? And he will say, Those with which I was struck in my beloved house.
 
 **Zechariah 13:7**
 
-Sword, awake against my shepherds and against man my fellow-citizen, says the Lord Almighty. Strike shepherds, and draw out sheep, and I will bring my hand upon shepherds.
+Sword, awake against my shepherds and against the man, my fellow-citizen, says the Lord Almighty. Strike the shepherds, and draw out the sheep, and I will bring my hand upon the shepherds.
 
 **Zechariah 13:8**
 
-And it will be in all the land, says the Lord, two parts will be destroyed and fail, but third will be left in it.
+And it will be in all the land, says the Lord, the two parts will be destroyed and fail, but the third will be left in it.
 
 **Zechariah 13:9**
 
