@@ -136920,7 +136920,7 @@ Greek: τοσουτω κρειττων γενομενος των αγγελων 
 Transliteration: tosoutw kreittwn genomenov twn aggelwn osw diaforwteron par autouv keklhronomhken onoma
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Being made so much better than the angels, as he has by inheritance obtained a more excellent name than they.
+Draft translation: having become so much better than the angels, as he has inherited a more excellent name than they.
 
 Decision rows:
 - [TODO add decision rows]
@@ -136960,7 +136960,7 @@ Greek: οταν δε παλιν εισαγαγη τον πρωτοτοκον ε�
 Transliteration: otan de palin eisagagh ton prwtotokon eiv thn oikoumenhn legei kai proskunhsatwsan autw pantev aggeloi yeou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And again, when he brings in the First-Born into the world, he says, And let all the angels of God worship him.
+Draft translation: And again, when he brings the firstborn into the inhabited world, he says, And let all the angels of God worship him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -137020,7 +137020,7 @@ Greek: ηγαπησας δικαιοσυνην και εμισησας ανομ�
 Transliteration: hgaphsav dikaiosunhn kai emishsav anomian dia touto ecrisen se o yeov o yeov sou elaion agalliasewv para touv metocouv sou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: You have loved righteousness, and hated iniquity; therefore God, even your God, has anointed you with the oil of gladness above your fellows.
+Draft translation: You have loved righteousness, and hated lawlessness; because of this God, your God, has anointed you with the oil of gladness beyond your companions.
 
 Decision rows:
 - [TODO add decision rows]
@@ -137080,7 +137080,7 @@ Greek: και ωσει περιβολαιον ελιξεις αυτους και
 Transliteration: kai wsei peribolaion elixeiv autouv kai allaghsontai su de o autov ei kai ta eth sou ouk ekleiqousin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And as a vesture shall you fold them up, and they shall be changed: but you are the same, and your years shall not fail.
+Draft translation: And as a mantle you shall roll them up, and they shall be changed: but you are the same, and your years shall not fail.
 
 Decision rows:
 - [TODO add decision rows]
@@ -137242,7 +137242,7 @@ Greek: διεμαρτυρατο δε που τις λεγων τι εστιν α
 Transliteration: diemarturato de pou tiv legwn ti estin anyrwpov oti mimnhskh autou h uiov anyrwpou oti episkepth auton
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But one in a certain place testified, saying, What is man, that you are mindful of him? or the son of man that you visit him?
+Draft translation: But someone somewhere testified, saying, What is man, that you are mindful of him? or the son of man, that you visit him?
 
 Decision rows:
 - [TODO add decision rows]
@@ -137282,7 +137282,7 @@ Greek: παντα υπεταξας υποκατω των ποδων αυτου �
 Transliteration: panta upetaxav upokatw twn podwn autou en gar tw upotaxai autw ta panta ouden afhken autw anupotakton nun de oupw orwmen autw ta panta upotetagmena
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: You have put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him.
+Draft translation: You subjected all things under his feet. For in subjecting all things to him, he left nothing unsubjected to him. But now we do not yet see all things subjected to him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -137422,7 +137422,7 @@ Greek: και απαλλαξη τουτους οσοι φοβω θανατου �
 Transliteration: kai apallaxh toutouv osoi fobw yanatou dia pantov tou zhn enocoi hsan douleiav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And deliver them who through fear of death were all their lifetime subject to bondage.
+Draft translation: and deliver those who through fear of death were all their life subject to slavery.
 
 Decision rows:
 - [TODO add decision rows]

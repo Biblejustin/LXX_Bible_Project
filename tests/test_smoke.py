@@ -8006,6 +8006,29 @@ def test_nt_philemon_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_hebrews_1_to_2_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Hebrews 1:4": "having become so much better than the angels, as he has inherited a more excellent name than they.",
+        "Hebrews 1:6": "And again, when he brings the firstborn into the inhabited world, he says, And let all the angels of God worship him.",
+        "Hebrews 1:9": "You have loved righteousness, and hated lawlessness; because of this God, your God, has anointed you with the oil of gladness beyond your companions.",
+        "Hebrews 1:12": "And as a mantle you shall roll them up, and they shall be changed: but you are the same, and your years shall not fail.",
+        "Hebrews 2:6": "But someone somewhere testified, saying, What is man, that you are mindful of him? or the son of man, that you visit him?",
+        "Hebrews 2:8": "You subjected all things under his feet. For in subjecting all things to him, he left nothing unsubjected to him. But now we do not yet see all things subjected to him.",
+        "Hebrews 2:15": "and deliver those who through fear of death were all their life subject to slavery.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_173.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

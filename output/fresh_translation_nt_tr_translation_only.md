@@ -27740,7 +27740,7 @@ Who being the brightness of his glory, and the express image of his person, and 
 
 **Hebrews 1:4**
 
-Being made so much better than the angels, as he has by inheritance obtained a more excellent name than they.
+having become so much better than the angels, as he has inherited a more excellent name than they.
 
 **Hebrews 1:5**
 
@@ -27748,7 +27748,7 @@ For to which of the angels said he at any time, You are my Son, this day have I 
 
 **Hebrews 1:6**
 
-And again, when he brings in the First-Born into the world, he says, And let all the angels of God worship him.
+And again, when he brings the firstborn into the inhabited world, he says, And let all the angels of God worship him.
 
 **Hebrews 1:7**
 
@@ -27760,7 +27760,7 @@ But to the Son he says, Your throne, O God, is forever and ever: a sceptre of ri
 
 **Hebrews 1:9**
 
-You have loved righteousness, and hated iniquity; therefore God, even your God, has anointed you with the oil of gladness above your fellows.
+You have loved righteousness, and hated lawlessness; because of this God, your God, has anointed you with the oil of gladness beyond your companions.
 
 **Hebrews 1:10**
 
@@ -27772,7 +27772,7 @@ They shall perish; but you remain; and they all shall wax old as does a clothing
 
 **Hebrews 1:12**
 
-And as a vesture shall you fold them up, and they shall be changed: but you are the same, and your years shall not fail.
+And as a mantle you shall roll them up, and they shall be changed: but you are the same, and your years shall not fail.
 
 **Hebrews 1:13**
 
@@ -27806,7 +27806,7 @@ For to the angels has he not put in subjection the world to come, of which we sp
 
 **Hebrews 2:6**
 
-But one in a certain place testified, saying, What is man, that you are mindful of him? or the son of man that you visit him?
+But someone somewhere testified, saying, What is man, that you are mindful of him? or the son of man, that you visit him?
 
 **Hebrews 2:7**
 
@@ -27814,7 +27814,7 @@ You made him a little lower than the angels; you crowned him with glory and hono
 
 **Hebrews 2:8**
 
-You have put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him.
+You subjected all things under his feet. For in subjecting all things to him, he left nothing unsubjected to him. But now we do not yet see all things subjected to him.
 
 **Hebrews 2:9**
 
@@ -27842,7 +27842,7 @@ Since then the children are partakers of flesh and blood, he also himself likewi
 
 **Hebrews 2:15**
 
-And deliver them who through fear of death were all their lifetime subject to bondage.
+and deliver those who through fear of death were all their life subject to slavery.
 
 **Hebrews 2:16**
 
