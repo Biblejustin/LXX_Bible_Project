@@ -8490,6 +8490,27 @@ def test_nt_2_john_and_3_john_queue_revisions_stay_reviewed() -> None:
     assert "2 John 1:13" not in queue_refs
 
 
+def test_nt_jude_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Jude 1:8": "Likewise nevertheless these also, dreaming, defile the flesh, reject lordship, and blaspheme glories.",
+        "Jude 1:15": "to execute judgment against all, and to convict all the ungodly among them concerning all their works of ungodliness which they have ungodly committed, and concerning all the harsh things which ungodly sinners have spoken against him.",
+        "Jude 1:16": "These are murmurers, complainers, walking according to their own desires; and their mouth speaks swelling things, admiring persons for advantage.",
+        "Jude 1:18": "that they told you, In the last time there shall be mockers, walking according to their own ungodly desires.",
+        "Jude 1:22": "And on some have mercy, making a distinction:",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_190.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

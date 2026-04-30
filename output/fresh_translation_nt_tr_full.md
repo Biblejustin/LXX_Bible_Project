@@ -151260,7 +151260,7 @@ Greek: ομοιως μεντοι και ουτοι ενυπνιαζομενοι 
 Transliteration: omoiwv mentoi kai outoi enupniazomenoi sarka men miainousin kuriothta de ayetousin doxav de blasfhmousin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.
+Draft translation: Likewise nevertheless these also, dreaming, defile the flesh, reject lordship, and blaspheme glories.
 
 Decision rows:
 - [TODO add decision rows]
@@ -151400,7 +151400,7 @@ Greek: ποιησαι κρισιν κατα παντων και εξελεγξα
 Transliteration: poihsai krisin kata pantwn kai exelegxai pantav touv asebeiv autwn peri pantwn twn ergwn asebeiav autwn wn hsebhsan kai peri pantwn twn sklhrwn wn elalhsan kat autou amartwloi asebeiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard speeches which ungodly sinners have spoken against him.
+Draft translation: to execute judgment against all, and to convict all the ungodly among them concerning all their works of ungodliness which they have ungodly committed, and concerning all the harsh things which ungodly sinners have spoken against him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -151420,7 +151420,7 @@ Greek: ουτοι εισιν γογγυσται μεμψιμοιροι κατα 
 Transliteration: outoi eisin goggustai memqimoiroi kata tav epiyumiav autwn poreuomenoi kai to stoma autwn lalei uperogka yaumazontev proswpa wfeleiav carin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: These are murmurers, complainers, walking after their own lusts; and their mouth speaks great swelling words, having men's persons in admiration because of advantage.
+Draft translation: These are murmurers, complainers, walking according to their own desires; and their mouth speaks swelling things, admiring persons for advantage.
 
 Decision rows:
 - [TODO add decision rows]
@@ -151460,7 +151460,7 @@ Greek: οτι ελεγον υμιν οτι εν εσχατω χρονω εσον
 Transliteration: oti elegon umin oti en escatw cronw esontai empaiktai kata tav eautwn epiyumiav poreuomenoi twn asebeiwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: How that they told you there should be mockers in the last time, who should walk after their own ungodly lusts.
+Draft translation: that they told you, In the last time there shall be mockers, walking according to their own ungodly desires.
 
 Decision rows:
 - [TODO add decision rows]
@@ -151540,7 +151540,7 @@ Greek: και ους μεν ελεειτε διακρινομενοι
 Transliteration: kai ouv men eleeite diakrinomenoi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And of some have compassion, making a difference:
+Draft translation: And on some have mercy, making a distinction:
 
 Decision rows:
 - [TODO add decision rows]
