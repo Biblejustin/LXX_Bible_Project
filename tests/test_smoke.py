@@ -2487,7 +2487,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "from the mouth of Jeremiah" in by_ref["Ezra 1:1"]["draft_translation"]
     assert "by the mouth of Jeremiah" in by_ref["2 Chronicles 36:22"]["draft_translation"]
     assert "from the mouth of God" in by_ref["2 Chronicles 35:22"]["draft_translation"]
-    assert "from the mouth of prophets" in by_ref["Zechariah 8:9"]["draft_translation"]
+    assert "from the mouth of the prophets" in by_ref["Zechariah 8:9"]["draft_translation"]
     assert "by the hand of Samuel" in by_ref["1 Chronicles 11:3"]["draft_translation"]
     assert "in the days of Artaxerxes" in by_ref["Esther 1:1"]["draft_translation"]
     assert "in the land of Benjamin" in by_ref["Jeremiah 1:1"]["draft_translation"]
