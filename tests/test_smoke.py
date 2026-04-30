@@ -7429,6 +7429,26 @@ def test_nt_galatians_1_queue_revisions_and_keeps_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_galatians_2_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Galatians 2:1": "Then after fourteen years I went up again to Jerusalem with Barnabas, taking Titus also with me.",
+        "Galatians 2:3": "But not even Titus, who was with me, being Greek, was compelled to be circumcised:",
+        "Galatians 2:10": "Only that we should remember the poor, the very thing I also was eager to do.",
+        "Galatians 2:18": "For if I build again the things that I destroyed, I establish myself as a transgressor.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_152.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

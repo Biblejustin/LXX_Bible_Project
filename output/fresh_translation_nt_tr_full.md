@@ -119118,7 +119118,7 @@ Greek: επειτα δια δεκατεσσαρων ετων παλιν ανεβ
 Transliteration: epeita dia dekatessarwn etwn palin anebhn eiv ierosoluma meta barnaba sumparalabwn kai titon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.
+Draft translation: Then after fourteen years I went up again to Jerusalem with Barnabas, taking Titus also with me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -119158,7 +119158,7 @@ Greek: αλλ ουδε τιτος ο συν εμοι ελλην ων ηναγκ�
 Transliteration: all oude titov o sun emoi ellhn wn hnagkasyh peritmhyhnai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But neither Titus, who was with me, being a Greek, was compelled to be circumcised:
+Draft translation: But not even Titus, who was with me, being Greek, was compelled to be circumcised:
 
 Decision rows:
 - [TODO add decision rows]
@@ -119298,7 +119298,7 @@ Greek: μονον των πτωχων ινα μνημονευωμεν ο και 
 Transliteration: monon twn ptwcwn ina mnhmoneuwmen o kai espoudasa auto touto poihsai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Only they would that we should remember the poor; the same which I also was forward to do.
+Draft translation: Only that we should remember the poor, the very thing I also was eager to do.
 
 Decision rows:
 - [TODO add decision rows]
@@ -119458,7 +119458,7 @@ Greek: ει γαρ α κατελυσα ταυτα παλιν οικοδομω π
 Transliteration: ei gar a katelusa tauta palin oikodomw parabathn emauton sunisthmi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For if I build again the things which I destroyed, I make myself a transgressor.
+Draft translation: For if I build again the things that I destroyed, I establish myself as a transgressor.
 
 Decision rows:
 - [TODO add decision rows]

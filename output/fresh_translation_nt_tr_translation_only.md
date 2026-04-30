@@ -24098,7 +24098,7 @@ And they glorified God in me.
 
 **Galatians 2:1**
 
-Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.
+Then after fourteen years I went up again to Jerusalem with Barnabas, taking Titus also with me.
 
 **Galatians 2:2**
 
@@ -24106,7 +24106,7 @@ And I went up by revelation, and communicated to those who good news which I pre
 
 **Galatians 2:3**
 
-But neither Titus, who was with me, being a Greek, was compelled to be circumcised:
+But not even Titus, who was with me, being Greek, was compelled to be circumcised:
 
 **Galatians 2:4**
 
@@ -24134,7 +24134,7 @@ And when James, Cephas, and John, who seemed to be pillars, perceived the grace 
 
 **Galatians 2:10**
 
-Only they would that we should remember the poor; the same which I also was forward to do.
+Only that we should remember the poor, the very thing I also was eager to do.
 
 **Galatians 2:11**
 
@@ -24166,7 +24166,7 @@ But if, while seeking to be justified in Christ, we ourselves also were found si
 
 **Galatians 2:18**
 
-For if I build again the things which I destroyed, I make myself a transgressor.
+For if I build again the things that I destroyed, I establish myself as a transgressor.
 
 **Galatians 2:19**
 
