@@ -30792,7 +30792,7 @@ Saying, I am Alpha and Omega, the first and the last: and, What you see, write i
 
 **Revelation 1:12**
 
-And I turned to see the voice that spoke with me. And being turned, I saw seven golden candlesticks;
+And I turned to see the voice which spoke with me. And having turned, I saw seven golden lampstands;
 
 **Revelation 1:13**
 
@@ -30808,7 +30808,7 @@ And his feet like to fine brass, as if they burned in a furnace; and his voice a
 
 **Revelation 1:16**
 
-And he had in his right hand seven stars: and out of his mouth went a sharp two-edged sword: and his countenance was as the sun shines in his strength.
+And having in his right hand seven stars: and out of his mouth a sharp two-edged sword proceeding: and his appearance was as the sun shines in its strength.
 
 **Revelation 1:17**
 
@@ -30820,7 +30820,7 @@ I am the one who lives, and was dead; and, look, I am alive forevermore, Amen; a
 
 **Revelation 1:19**
 
-Write the things which you have seen, and the things which are, and the things which shall be hereafter;
+Write the things which you saw, and the things which are, and the things which are about to happen after these things;
 
 **Revelation 1:20**
 
@@ -30850,7 +30850,7 @@ Remember therefore from where you are fallen, and repent, and do the first works
 
 **Revelation 2:6**
 
-But this you have, that you hate the deeds of the Nicolaitanes, which I also hate.
+But this you have, that you hate the works of the Nicolaitanes, which I also hate.
 
 **Revelation 2:7**
 
@@ -30934,7 +30934,7 @@ And the one who overcomes, and keeps my works to the end, to him will I give pow
 
 **Revelation 2:27**
 
-And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.
+And he shall shepherd them with a rod of iron; as the vessels of a potter are broken to pieces: as I also have received from my Father.
 
 **Revelation 2:28**
 
@@ -30952,11 +30952,11 @@ And to the angel of the assembly in Sardis write; These things says the one who 
 
 **Revelation 3:2**
 
-Be watchful, and strengthen the things which remain, that are ready to die: for I have not found your works perfect before God.
+Become watchful, and strengthen the remaining things which are about to die: for I have not found your works fulfilled before God.
 
 **Revelation 3:3**
 
-Remember therefore how you have received and heard, and hold fast, and repent. If therefore you shall not watch, I will come on you as a thief, and you shall not know what hour I will come upon you.
+Remember therefore how you have received and heard, and keep, and repent. If therefore you shall not watch, I will come upon you as a thief, and you shall by no means know what hour I will come upon you.
 
 **Revelation 3:4**
 
@@ -31004,11 +31004,11 @@ And to the angel of the assembly of the Laodiceans write; These things says the 
 
 **Revelation 3:15**
 
-I know your works, that you are neither cold nor hot: I would you were cold or hot.
+I know your works, that you are neither cold nor hot: I wish you were cold or hot.
 
 **Revelation 3:16**
 
-So then because you are lukewarm, and neither cold nor hot, I will spew you out of my mouth.
+So then because you are lukewarm, and neither cold nor hot, I am about to vomit you out of my mouth.
 
 **Revelation 3:17**
 
@@ -31020,7 +31020,7 @@ I counsel you to buy of me gold tried in the fire, that you may be rich; and whi
 
 **Revelation 3:19**
 
-As many as I love, I rebuke and chasten: be zealous therefore, and repent.
+As many as I love, I reprove and discipline: be zealous therefore, and repent.
 
 **Revelation 3:20**
 

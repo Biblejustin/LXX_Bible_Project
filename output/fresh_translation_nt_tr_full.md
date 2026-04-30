@@ -151844,7 +151844,7 @@ Greek: και επεστρεψα βλεπειν την φωνην ητις ελ�
 Transliteration: kai epestreqa blepein thn fwnhn htiv elalhsen met emou kai epistreqav eidon epta lucniav crusav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I turned to see the voice that spoke with me. And being turned, I saw seven golden candlesticks;
+Draft translation: And I turned to see the voice which spoke with me. And having turned, I saw seven golden lampstands;
 
 Decision rows:
 - [TODO add decision rows]
@@ -151924,7 +151924,7 @@ Greek: και εχων εν τη δεξια αυτου χειρι αστερας
 Transliteration: kai ecwn en th dexia autou ceiri asterav epta kai ek tou stomatov autou romfaia distomov oxeia ekporeuomenh kai h oqiv autou wv o hliov fainei en th dunamei autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he had in his right hand seven stars: and out of his mouth went a sharp two-edged sword: and his countenance was as the sun shines in his strength.
+Draft translation: And having in his right hand seven stars: and out of his mouth a sharp two-edged sword proceeding: and his appearance was as the sun shines in its strength.
 
 Decision rows:
 - [TODO add decision rows]
@@ -151984,7 +151984,7 @@ Greek: γραψον α ειδες και α εισιν και α μελλει γ
 Transliteration: graqon a eidev kai a eisin kai a mellei ginesyai meta tauta
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Write the things which you have seen, and the things which are, and the things which shall be hereafter;
+Draft translation: Write the things which you saw, and the things which are, and the things which are about to happen after these things;
 
 Decision rows:
 - [TODO add decision rows]
@@ -152126,7 +152126,7 @@ Greek: αλλα τουτο εχεις οτι μισεις τα εργα των �
 Transliteration: alla touto eceiv oti miseiv ta erga twn nikolaitwn a kagw misw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But this you have, that you hate the deeds of the Nicolaitanes, which I also hate.
+Draft translation: But this you have, that you hate the works of the Nicolaitanes, which I also hate.
 
 Decision rows:
 - [TODO add decision rows]
@@ -152546,7 +152546,7 @@ Greek: και ποιμανει αυτους εν ραβδω σιδηρα ως τ
 Transliteration: kai poimanei autouv en rabdw sidhra wv ta skeuh ta keramika suntribetai wv kagw eilhfa para tou patrov mou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.
+Draft translation: And he shall shepherd them with a rod of iron; as the vessels of a potter are broken to pieces: as I also have received from my Father.
 
 Decision rows:
 - [TODO add decision rows]
@@ -152628,7 +152628,7 @@ Greek: γινου γρηγορων και στηριξον τα λοιπα α μ
 Transliteration: ginou grhgorwn kai sthrixon ta loipa a mellei apoyanein ou gar eurhka sou ta erga peplhrwmena enwpion tou yeou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Be watchful, and strengthen the things which remain, that are ready to die: for I have not found your works perfect before God.
+Draft translation: Become watchful, and strengthen the remaining things which are about to die: for I have not found your works fulfilled before God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -152648,7 +152648,7 @@ Greek: μνημονευε ουν πως ειληφας και ηκουσας κ�
 Transliteration: mnhmoneue oun pwv eilhfav kai hkousav kai threi kai metanohson ean oun mh grhgorhshv hxw epi se wv klepthv kai ou mh gnwv poian wran hxw epi se
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Remember therefore how you have received and heard, and hold fast, and repent. If therefore you shall not watch, I will come on you as a thief, and you shall not know what hour I will come upon you.
+Draft translation: Remember therefore how you have received and heard, and keep, and repent. If therefore you shall not watch, I will come upon you as a thief, and you shall by no means know what hour I will come upon you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -152888,7 +152888,7 @@ Greek: οιδα σου τα εργα οτι ουτε ψυχρος ει ουτε 
 Transliteration: oida sou ta erga oti oute qucrov ei oute zestov ofelon qucrov eihv h zestov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I know your works, that you are neither cold nor hot: I would you were cold or hot.
+Draft translation: I know your works, that you are neither cold nor hot: I wish you were cold or hot.
 
 Decision rows:
 - [TODO add decision rows]
@@ -152908,7 +152908,7 @@ Greek: ουτως οτι χλιαρος ει και ουτε ψυχρος ουτ
 Transliteration: outwv oti cliarov ei kai oute qucrov oute zestov mellw se emesai ek tou stomatov mou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: So then because you are lukewarm, and neither cold nor hot, I will spew you out of my mouth.
+Draft translation: So then because you are lukewarm, and neither cold nor hot, I am about to vomit you out of my mouth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -152968,7 +152968,7 @@ Greek: εγω οσους εαν φιλω ελεγχω και παιδευω ζη
 Transliteration: egw osouv ean filw elegcw kai paideuw zhlwson oun kai metanohson
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: As many as I love, I rebuke and chasten: be zealous therefore, and repent.
+Draft translation: As many as I love, I reprove and discipline: be zealous therefore, and repent.
 
 Decision rows:
 - [TODO add decision rows]

@@ -8511,6 +8511,37 @@ def test_nt_jude_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_revelation_1_to_3_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Revelation 1:12": "And I turned to see the voice which spoke with me. And having turned, I saw seven golden lampstands;",
+        "Revelation 1:16": "And having in his right hand seven stars: and out of his mouth a sharp two-edged sword proceeding: and his appearance was as the sun shines in its strength.",
+        "Revelation 1:19": "Write the things which you saw, and the things which are, and the things which are about to happen after these things;",
+        "Revelation 2:6": "But this you have, that you hate the works of the Nicolaitanes, which I also hate.",
+        "Revelation 2:27": "And he shall shepherd them with a rod of iron; as the vessels of a potter are broken to pieces: as I also have received from my Father.",
+        "Revelation 3:2": "Become watchful, and strengthen the remaining things which are about to die: for I have not found your works fulfilled before God.",
+        "Revelation 3:3": "Remember therefore how you have received and heard, and keep, and repent. If therefore you shall not watch, I will come upon you as a thief, and you shall by no means know what hour I will come upon you.",
+        "Revelation 3:15": "I know your works, that you are neither cold nor hot: I wish you were cold or hot.",
+        "Revelation 3:16": "So then because you are lukewarm, and neither cold nor hot, I am about to vomit you out of my mouth.",
+        "Revelation 3:19": "As many as I love, I reprove and discipline: be zealous therefore, and repent.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_191.md"
+        assert ref not in queue_refs
+
+    for ref in {"Revelation 1:14", "Revelation 2:28"}:
+        assert review_by_ref[ref]["latest_review_status"] == "keep"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_191.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
