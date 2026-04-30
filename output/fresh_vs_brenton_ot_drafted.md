@@ -204192,46 +204192,46 @@ Note:
 ### Zechariah 3:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he showed me Joshua the high priest standing before angel of the Lord, and slanderer stood at his right hand to oppose him.
+- fresh: And he showed me Joshua the high priest standing before the angel of the Lord, and the slanderer stood at his right hand to oppose him.
 - brenton: And the Lord shewed me Jesus the high priest standing before the angel of the Lord, and the Devil stood on his right hand to resist him. And the Lord said to the Devil,
 
 ### Zechariah 3:2
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to slanderer, Lord rebuke you, slanderer; yes, Lord rebuke you, he who chose Jerusalem. Is not this like a firebrand pulled from fire?
+- fresh: And the Lord said to the slanderer, The Lord rebuke you, O slanderer; yes, the Lord rebuke you, he who chose Jerusalem. Is not this like a firebrand pulled from the fire?
 - brenton: The Lord rebuke thee, O Devil, even the Lord that has chosen Jerusalem rebuke thee: behold! is not this as a brand plucked from the fire?
 
 ### Zechariah 3:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Joshua was clothed in filthy garments and stood before angel.
+- fresh: And Joshua was clothed in filthy garments and stood before the angel.
 - brenton: Now Jesus was clothed in filthy raiment, and stood before the angel.
 
 ### Zechariah 3:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he answered and said to those standing before him, saying, Take away filthy garments from him. And he said to him, Behold, I took away your lawless deeds, and clothe him in full robe.
+- fresh: And he answered and said to those standing before him, saying, Take away the filthy garments from him. And he said to him, Behold, I took away your lawless deeds, and clothe him in a full robe.
 - brenton: And the Lord answered and spoke to those who stood before him, saying, Take away the filthy raiment from him: and he said to him, Behold, I have taken away thine iniquities: and clothe ye him with a long robe,
 
 ### Zechariah 3:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And put clean turban on his head. And they clothed him with garments and put clean turban on his head, and angel of the Lord stood by.
+- fresh: And put a clean turban on his head. And they clothed him with garments and put a clean turban on his head, and the angel of the Lord stood by.
 - brenton: and place a pure mitre upon his head. So they placed a pure mitre upon his head, and clothed him with garments: and the angel of the Lord stood by.
 
 ### Zechariah 3:6
@@ -204255,28 +204255,28 @@ Note:
 ### Zechariah 3:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Hear now, Joshua the high priest, you and your companions sitting before your face, because they are men who observe signs. Because behold, I bring my servant Dawn.
+- fresh: Hear now, Joshua the high priest, you and your companions sitting before you, because they are men who observe signs. Because behold, I bring my servant Dawn.
 - brenton: Hear now, Jesus the high priest, thou, and thy neighbours that are sitting before thee: for they are diviners, for, behold, I bring forth my servant The Branch.
 
 ### Zechariah 3:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because stone that I gave before the face of Joshua—upon the one stone are seven eyes. Behold, I dig a pit, says the Lord Almighty, and I will search out all injustice of that land in one day.
+- fresh: Because the stone that I gave before the face of Joshua—upon the one stone are seven eyes. Behold, I dig a pit, says the Lord Almighty, and I will search out all the injustice of that land in one day.
 - brenton: For as for the stone which I have set before the face of Jesus, on the one stone are seven eyes: behold, I am digging a trench, saith the Lord Almighty, and I will search out all the iniquity of that land in one day.
 
 ### Zechariah 3:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day, says the Lord Almighty, each will call his neighbor under vine and under fig tree.
+- fresh: In that day, says the Lord Almighty, each will call his neighbor under the vine and under the fig tree.
 - brenton: In that day, saith the Lord Almighty, ye shall call together every man his neighbour under the vine and under the fig-tree.
 
 ### Zechariah 4:1

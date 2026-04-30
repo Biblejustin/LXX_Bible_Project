@@ -92618,23 +92618,23 @@ Let all flesh fear from the face of the Lord, because he has been roused from hi
 
 **Zechariah 3:1**
 
-And he showed me Joshua the high priest standing before angel of the Lord, and slanderer stood at his right hand to oppose him.
+And he showed me Joshua the high priest standing before the angel of the Lord, and the slanderer stood at his right hand to oppose him.
 
 **Zechariah 3:2**
 
-And the Lord said to slanderer, Lord rebuke you, slanderer; yes, Lord rebuke you, he who chose Jerusalem. Is not this like a firebrand pulled from fire?
+And the Lord said to the slanderer, The Lord rebuke you, O slanderer; yes, the Lord rebuke you, he who chose Jerusalem. Is not this like a firebrand pulled from the fire?
 
 **Zechariah 3:3**
 
-And Joshua was clothed in filthy garments and stood before angel.
+And Joshua was clothed in filthy garments and stood before the angel.
 
 **Zechariah 3:4**
 
-And he answered and said to those standing before him, saying, Take away filthy garments from him. And he said to him, Behold, I took away your lawless deeds, and clothe him in full robe.
+And he answered and said to those standing before him, saying, Take away the filthy garments from him. And he said to him, Behold, I took away your lawless deeds, and clothe him in a full robe.
 
 **Zechariah 3:5**
 
-And put clean turban on his head. And they clothed him with garments and put clean turban on his head, and angel of the Lord stood by.
+And put a clean turban on his head. And they clothed him with garments and put a clean turban on his head, and the angel of the Lord stood by.
 
 **Zechariah 3:6**
 
@@ -92646,15 +92646,15 @@ Thus says the Lord Almighty: If you walk in my ways and keep my commands, then y
 
 **Zechariah 3:8**
 
-Hear now, Joshua the high priest, you and your companions sitting before your face, because they are men who observe signs. Because behold, I bring my servant Dawn.
+Hear now, Joshua the high priest, you and your companions sitting before you, because they are men who observe signs. Because behold, I bring my servant Dawn.
 
 **Zechariah 3:9**
 
-Because stone that I gave before the face of Joshua—upon the one stone are seven eyes. Behold, I dig a pit, says the Lord Almighty, and I will search out all injustice of that land in one day.
+Because the stone that I gave before the face of Joshua—upon the one stone are seven eyes. Behold, I dig a pit, says the Lord Almighty, and I will search out all the injustice of that land in one day.
 
 **Zechariah 3:10**
 
-In that day, says the Lord Almighty, each will call his neighbor under vine and under fig tree.
+In that day, says the Lord Almighty, each will call his neighbor under the vine and under the fig tree.
 
 ### Chapter 4
 
