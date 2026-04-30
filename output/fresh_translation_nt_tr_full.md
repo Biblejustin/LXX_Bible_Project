@@ -155526,7 +155526,7 @@ Greek: και σημειον μεγα ωφθη εν τω ουρανω γυνη �
 Transliteration: kai shmeion mega wfyh en tw ouranw gunh peribeblhmenh ton hlion kai h selhnh upokatw twn podwn authv kai epi thv kefalhv authv stefanov asterwn dwdeka
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
+Draft translation: And a great sign was seen in heaven; a woman clothed with the sun, and the moon underneath her feet, and upon her head a crown of twelve stars:
 
 Decision rows:
 - [TODO add decision rows]
@@ -155546,7 +155546,7 @@ Greek: και εν γαστρι εχουσα κραζει ωδινουσα κα�
 Transliteration: kai en gastri ecousa krazei wdinousa kai basanizomenh tekein
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And she being with child cried, travailing in birth, and pained to be delivered.
+Draft translation: And having in the womb, she cries, being in labor and being tormented to give birth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -155626,7 +155626,7 @@ Greek: και η γυνη εφυγεν εις την ερημον οπου εχ�
 Transliteration: kai h gunh efugen eiv thn erhmon opou ecei topon htoimasmenon apo tou yeou ina ekei trefwsin authn hmerav ciliav diakosiav exhkonta
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the woman fled into the wilderness, where she has a place prepared of God, that they should feed her there a thousand two hundred and threescore days.
+Draft translation: And the woman fled into the wilderness, where she has a place prepared from God, that they should nourish her there a thousand two hundred sixty days.
 
 Decision rows:
 - [TODO add decision rows]
@@ -155646,7 +155646,7 @@ Greek: και εγενετο πολεμος εν τω ουρανω ο μιχαη
 Transliteration: kai egeneto polemov en tw ouranw o micahl kai oi aggeloi autou epolemhsan kata tou drakontov kai o drakwn epolemhsen kai oi aggeloi autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,
+Draft translation: And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought, and his angels,
 
 Decision rows:
 - [TODO add decision rows]
@@ -155686,7 +155686,7 @@ Greek: και εβληθη ο δρακων ο μεγας ο οφις ο αρχα
 Transliteration: kai eblhyh o drakwn o megav o ofiv o arcaiov o kaloumenov diabolov kai o satanav o planwn thn oikoumenhn olhn eblhyh eiv thn ghn kai oi aggeloi autou met autou eblhyhsan
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceives the whole world: he was cast out into the earth, and his angels were cast out with him.
+Draft translation: And the great dragon was cast down, the ancient serpent, called Devil and Satan, who deceives the whole inhabited world: he was cast down to the earth, and his angels were cast down with him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -155786,7 +155786,7 @@ Greek: και εδοθησαν τη γυναικι δυο πτερυγες το�
 Transliteration: kai edoyhsan th gunaiki duo pterugev tou aetou tou megalou ina pethtai eiv thn erhmon eiv ton topon authv opou trefetai ekei kairon kai kairouv kai hmisu kairou apo proswpou tou ofewv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.
+Draft translation: And to the woman were given the two wings of the great eagle, that she might fly into the wilderness, to her place, where she is nourished there for a time, and times, and half a time, from the face of the serpent.
 
 Decision rows:
 - [TODO add decision rows]
@@ -155806,7 +155806,7 @@ Greek: και εβαλεν ο οφις οπισω της γυναικος εκ �
 Transliteration: kai ebalen o ofiv opisw thv gunaikov ek tou stomatov autou udwr wv potamon ina tauthn potamoforhton poihsh
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.
+Draft translation: And the serpent cast out of his mouth water as a river after the woman, that he might make her carried away by the river.
 
 Decision rows:
 - [TODO add decision rows]
@@ -155826,7 +155826,7 @@ Greek: και εβοηθησεν η γη τη γυναικι και ηνοιξε
 Transliteration: kai ebohyhsen h gh th gunaiki kai hnoixen h gh to stoma authv kai katepien ton potamon on ebalen o drakwn ek tou stomatov autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.
+Draft translation: And the earth helped the woman, and the earth opened its mouth, and swallowed the river which the dragon cast out of his mouth.
 
 Decision rows:
 - [TODO add decision rows]

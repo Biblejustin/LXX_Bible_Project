@@ -8643,6 +8643,30 @@ def test_nt_revelation_10_to_11_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_revelation_12_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Revelation 12:1": "And a great sign was seen in heaven; a woman clothed with the sun, and the moon underneath her feet, and upon her head a crown of twelve stars:",
+        "Revelation 12:2": "And having in the womb, she cries, being in labor and being tormented to give birth.",
+        "Revelation 12:6": "And the woman fled into the wilderness, where she has a place prepared from God, that they should nourish her there a thousand two hundred sixty days.",
+        "Revelation 12:7": "And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought, and his angels,",
+        "Revelation 12:9": "And the great dragon was cast down, the ancient serpent, called Devil and Satan, who deceives the whole inhabited world: he was cast down to the earth, and his angels were cast down with him.",
+        "Revelation 12:14": "And to the woman were given the two wings of the great eagle, that she might fly into the wilderness, to her place, where she is nourished there for a time, and times, and half a time, from the face of the serpent.",
+        "Revelation 12:15": "And the serpent cast out of his mouth water as a river after the woman, that he might make her carried away by the river.",
+        "Revelation 12:16": "And the earth helped the woman, and the earth opened its mouth, and swallowed the river which the dragon cast out of his mouth.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_196.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
