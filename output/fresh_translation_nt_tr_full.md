@@ -138892,7 +138892,7 @@ Greek: ουτος γαρ ο μελχισεδεκ βασιλευς σαλημ ι�
 Transliteration: outov gar o melcisedek basileuv salhm iereuv tou yeou tou uqistou o sunanthsav abraam upostrefonti apo thv kophv twn basilewn kai euloghsav auton
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;
+Draft translation: For this Melchisedec, king of Salem, priest of the Most High God, who met Abraham returning from the slaughter of the kings, and blessed him;
 
 Decision rows:
 - [TODO add decision rows]
@@ -139012,7 +139012,7 @@ Greek: χωρις δε πασης αντιλογιας το ελαττον υπ�
 Transliteration: cwriv de pashv antilogiav to elatton upo tou kreittonov eulogeitai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And without all contradiction the less is blessed of the better.
+Draft translation: And without any dispute the lesser is blessed by the better.
 
 Decision rows:
 - [TODO add decision rows]
@@ -139032,7 +139032,7 @@ Greek: και ωδε μεν δεκατας αποθνησκοντες ανθρω
 Transliteration: kai wde men dekatav apoynhskontev anyrwpoi lambanousin ekei de marturoumenov oti zh
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And here men that die receive tithes; but there he receives them, of whom it is witnessed that he lives.
+Draft translation: And here dying men receive tithes; but there one receives them, of whom it is witnessed that he lives.
 
 Decision rows:
 - [TODO add decision rows]
@@ -139052,7 +139052,7 @@ Greek: και ως επος ειπειν δια αβρααμ και λευι ο 
 Transliteration: kai wv epov eipein dia abraam kai leui o dekatav lambanwn dedekatwtai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And as I may so say, Levi also, who receives tithes, paid tithes in Abraham.
+Draft translation: And, so to speak, through Abraham Levi also, who receives tithes, has paid tithes.
 
 Decision rows:
 - [TODO add decision rows]
@@ -139072,7 +139072,7 @@ Greek: ετι γαρ εν τη οσφυι του πατρος ην οτε συν
 Transliteration: eti gar en th osfui tou patrov hn ote sunhnthsen autw o melcisedek
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For he was yet in the loins of his father, when Melchisedec met him.
+Draft translation: For he was still in the loins of his father when Melchisedec met him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -139092,7 +139092,7 @@ Greek: ει μεν ουν τελειωσις δια της λευιτικης ι
 Transliteration: ei men oun teleiwsiv dia thv leuitikhv ierwsunhv hn o laov gar ep auth nenomoyethto tiv eti creia kata thn taxin melcisedek eteron anistasyai ierea kai ou kata thn taxin aarwn legesyai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need was there that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?
+Draft translation: If therefore perfection was through the Levitical priesthood, (for upon it the people received the law,) what further need was there for another priest to arise according to the order of Melchisedec, and not be called according to the order of Aaron?
 
 Decision rows:
 - [TODO add decision rows]
@@ -139112,7 +139112,7 @@ Greek: μετατιθεμενης γαρ της ιερωσυνης εξ αναγ
 Transliteration: metatiyemenhv gar thv ierwsunhv ex anagkhv kai nomou metayesiv ginetai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For the priesthood being changed, there is made of necessity a change also of the law.
+Draft translation: For when the priesthood is changed, of necessity a change of the law also takes place.
 
 Decision rows:
 - [TODO add decision rows]
@@ -139192,7 +139192,7 @@ Greek: ος ου κατα νομον εντολης σαρκικης γεγον�
 Transliteration: ov ou kata nomon entolhv sarkikhv gegonen alla kata dunamin zwhv akatalutou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who is made, not after the law of a carnal commandment, but after the power of an endless life.
+Draft translation: who has become, not according to the law of a fleshly commandment, but according to the power of an indestructible life.
 
 Decision rows:
 - [TODO add decision rows]
@@ -139272,7 +139272,7 @@ Greek: και καθ οσον ου χωρις ορκωμοσιας οι μεν �
 Transliteration: kai kay oson ou cwriv orkwmosiav oi men gar cwriv orkwmosiav eisin iereiv gegonotev
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And inasmuch as not without an oath he was made priest:
+Draft translation: And inasmuch as it was not without oath-taking:
 
 Decision rows:
 - [TODO add decision rows]
@@ -139352,7 +139352,7 @@ Greek: ο δε δια το μενειν αυτον εις τον αιωνα απ
 Transliteration: o de dia to menein auton eiv ton aiwna aparabaton ecei thn ierwsunhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But this man, because he continues ever, has an unchangeable priesthood.
+Draft translation: But he, because he remains forever, has the unchangeable priesthood.
 
 Decision rows:
 - [TODO add decision rows]
@@ -139412,7 +139412,7 @@ Greek: ος ουκ εχει καθ ημεραν αναγκην ωσπερ οι �
 Transliteration: ov ouk ecei kay hmeran anagkhn wsper oi arciereiv proteron uper twn idiwn amartiwn yusiav anaferein epeita twn tou laou touto gar epoihsen efapax eauton anenegkav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who needs not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people's: for this he did once, when he offered up himself.
+Draft translation: who does not have daily need, as those high priests, first to offer sacrifices for his own sins, then for the people's: for this he did once for all, having offered up himself.
 
 Decision rows:
 - [TODO add decision rows]
@@ -139514,7 +139514,7 @@ Greek: ει μεν γαρ ην επι γης ουδ αν ην ιερευς ον�
 Transliteration: ei men gar hn epi ghv oud an hn iereuv ontwn twn ierewn twn prosferontwn kata ton nomon ta dwra
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:
+Draft translation: For if he were on earth, he would not be a priest, there being priests who offer gifts according to the law:
 
 Decision rows:
 - [TODO add decision rows]
@@ -139554,7 +139554,7 @@ Greek: νυνι δε διαφορωτερας τετευχεν λειτουργ�
 Transliteration: nuni de diaforwterav teteucen leitourgiav osw kai kreittonov estin diayhkhv mesithv htiv epi kreittosin epaggeliaiv nenomoyethtai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But now has he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.
+Draft translation: But now he has obtained a more excellent ministry, by as much as he is mediator of a better covenant, which has been enacted upon better promises.
 
 Decision rows:
 - [TODO add decision rows]
@@ -139574,7 +139574,7 @@ Greek: ει γαρ η πρωτη εκεινη ην αμεμπτος ουκ αν 
 Transliteration: ei gar h prwth ekeinh hn amemptov ouk an deuterav ezhteito topov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For if that first covenant had been faultless, then should no place have been sought for the second.
+Draft translation: For if that first had been faultless, no place would have been sought for a second.
 
 Decision rows:
 - [TODO add decision rows]
@@ -139674,7 +139674,7 @@ Greek: οτι ιλεως εσομαι ταις αδικιαις αυτων κα�
 Transliteration: oti ilewv esomai taiv adikiaiv autwn kai twn amartiwn autwn kai twn anomiwn autwn ou mh mnhsyw eti
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For I will be merciful to their unrighteousness, and their sins and their iniquities will I remember no more.
+Draft translation: For I will be merciful to their unrighteousness, and their sins and their lawless deeds I will remember no more.
 
 Decision rows:
 - [TODO add decision rows]

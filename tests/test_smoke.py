@@ -8089,6 +8089,37 @@ def test_nt_hebrews_5_to_6_queue_revisions_stay_reviewed() -> None:
     assert "Hebrews 6:14" not in queue_refs
 
 
+def test_nt_hebrews_7_to_8_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Hebrews 7:1": "For this Melchisedec, king of Salem, priest of the Most High God, who met Abraham returning from the slaughter of the kings, and blessed him;",
+        "Hebrews 7:7": "And without any dispute the lesser is blessed by the better.",
+        "Hebrews 7:8": "And here dying men receive tithes; but there one receives them, of whom it is witnessed that he lives.",
+        "Hebrews 7:9": "And, so to speak, through Abraham Levi also, who receives tithes, has paid tithes.",
+        "Hebrews 7:10": "For he was still in the loins of his father when Melchisedec met him.",
+        "Hebrews 7:11": "If therefore perfection was through the Levitical priesthood, (for upon it the people received the law,) what further need was there for another priest to arise according to the order of Melchisedec, and not be called according to the order of Aaron?",
+        "Hebrews 7:12": "For when the priesthood is changed, of necessity a change of the law also takes place.",
+        "Hebrews 7:16": "who has become, not according to the law of a fleshly commandment, but according to the power of an indestructible life.",
+        "Hebrews 7:20": "And inasmuch as it was not without oath-taking:",
+        "Hebrews 7:24": "But he, because he remains forever, has the unchangeable priesthood.",
+        "Hebrews 7:27": "who does not have daily need, as those high priests, first to offer sacrifices for his own sins, then for the people's: for this he did once for all, having offered up himself.",
+        "Hebrews 8:4": "For if he were on earth, he would not be a priest, there being priests who offer gifts according to the law:",
+        "Hebrews 8:6": "But now he has obtained a more excellent ministry, by as much as he is mediator of a better covenant, which has been enacted upon better promises.",
+        "Hebrews 8:7": "For if that first had been faultless, no place would have been sought for a second.",
+        "Hebrews 8:12": "For I will be merciful to their unrighteousness, and their sins and their lawless deeds I will remember no more.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_176.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

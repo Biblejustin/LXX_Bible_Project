@@ -28144,7 +28144,7 @@ Where the forerunner is for us entered, even Jesus, made a high priest forever a
 
 **Hebrews 7:1**
 
-For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;
+For this Melchisedec, king of Salem, priest of the Most High God, who met Abraham returning from the slaughter of the kings, and blessed him;
 
 **Hebrews 7:2**
 
@@ -28168,27 +28168,27 @@ But he whose descent is not counted from them received tithes of Abraham, and bl
 
 **Hebrews 7:7**
 
-And without all contradiction the less is blessed of the better.
+And without any dispute the lesser is blessed by the better.
 
 **Hebrews 7:8**
 
-And here men that die receive tithes; but there he receives them, of whom it is witnessed that he lives.
+And here dying men receive tithes; but there one receives them, of whom it is witnessed that he lives.
 
 **Hebrews 7:9**
 
-And as I may so say, Levi also, who receives tithes, paid tithes in Abraham.
+And, so to speak, through Abraham Levi also, who receives tithes, has paid tithes.
 
 **Hebrews 7:10**
 
-For he was yet in the loins of his father, when Melchisedec met him.
+For he was still in the loins of his father when Melchisedec met him.
 
 **Hebrews 7:11**
 
-If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need was there that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?
+If therefore perfection was through the Levitical priesthood, (for upon it the people received the law,) what further need was there for another priest to arise according to the order of Melchisedec, and not be called according to the order of Aaron?
 
 **Hebrews 7:12**
 
-For the priesthood being changed, there is made of necessity a change also of the law.
+For when the priesthood is changed, of necessity a change of the law also takes place.
 
 **Hebrews 7:13**
 
@@ -28204,7 +28204,7 @@ And it is yet far more evident: for that after the likeness of Melchisedec there
 
 **Hebrews 7:16**
 
-Who is made, not after the law of a carnal commandment, but after the power of an endless life.
+who has become, not according to the law of a fleshly commandment, but according to the power of an indestructible life.
 
 **Hebrews 7:17**
 
@@ -28220,7 +28220,7 @@ For the law made nothing perfect, but the bringing in of a better hope did; by t
 
 **Hebrews 7:20**
 
-And inasmuch as not without an oath he was made priest:
+And inasmuch as it was not without oath-taking:
 
 **Hebrews 7:21**
 
@@ -28236,7 +28236,7 @@ And they truly were many priests, because they were hindered from continuing by 
 
 **Hebrews 7:24**
 
-But this man, because he continues ever, has an unchangeable priesthood.
+But he, because he remains forever, has the unchangeable priesthood.
 
 **Hebrews 7:25**
 
@@ -28248,7 +28248,7 @@ For such a high priest became us, who is holy, harmless, undefiled, separate fro
 
 **Hebrews 7:27**
 
-Who needs not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people's: for this he did once, when he offered up himself.
+who does not have daily need, as those high priests, first to offer sacrifices for his own sins, then for the people's: for this he did once for all, having offered up himself.
 
 **Hebrews 7:28**
 
@@ -28270,7 +28270,7 @@ For every high priest is ordained to offer gifts and sacrifices: therefore it is
 
 **Hebrews 8:4**
 
-For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:
+For if he were on earth, he would not be a priest, there being priests who offer gifts according to the law:
 
 **Hebrews 8:5**
 
@@ -28278,11 +28278,11 @@ Who serve to the example and shadow of heavenly things, as Moses was admonished 
 
 **Hebrews 8:6**
 
-But now has he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.
+But now he has obtained a more excellent ministry, by as much as he is mediator of a better covenant, which has been enacted upon better promises.
 
 **Hebrews 8:7**
 
-For if that first covenant had been faultless, then should no place have been sought for the second.
+For if that first had been faultless, no place would have been sought for a second.
 
 **Hebrews 8:8**
 
@@ -28302,7 +28302,7 @@ And they shall not teach every man his neighbor, and every man his brother, sayi
 
 **Hebrews 8:12**
 
-For I will be merciful to their unrighteousness, and their sins and their iniquities will I remember no more.
+For I will be merciful to their unrighteousness, and their sins and their lawless deeds I will remember no more.
 
 **Hebrews 8:13**
 
