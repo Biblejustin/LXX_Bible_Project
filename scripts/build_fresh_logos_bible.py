@@ -2801,6 +2801,7 @@ def build_readme(
     translation_decisions_path: Path,
     deuterocanonical_work: dict[str, object],
     crossrefs_enabled: bool,
+    place_links_enabled: bool,
 ) -> None:
     try:
         book_intros_display = book_intros_path.relative_to(ROOT).as_posix()
@@ -2837,7 +2838,23 @@ def build_readme(
     future_work_note = (
         f"- Future work: deuterocanonical/apocrypha intro rows exist, but current source text does not yet include these books: {missing_deuterocanon_display}."
         if testament == "ot"
-        else "- Future work: NT literal revision is seeded from the public-domain UKJV alignment and still needs verse-by-verse TR Greek review."
+        else "- Future polish: NT source rows are complete; continue copyediting, note hygiene, and Logos compile spot-checks."
+    )
+    verse_numbering_note = (
+        "- OT Logos files preserve LXX source ordering and visible LXX verse numbers by design, including places where LXX chapter/verse order differs from standard English/MT order."
+        if testament == "ot"
+        else "- NT Logos files use the standard NT chapter/verse order from the Scrivener TR source rows."
+    )
+    ot_shape_notes = (
+        "- MT-only completeness insertion: LXX-numbered Jeremiah 40:14-26 supplies MT Jeremiah 33:14-26 in brackets. The footnote marks these verses as present in the MT, absent from the LXX text used here, not quoted in the NT, and included for completeness.\n"
+        "- 1 Kings ordering: Naboth vineyard material appears at LXX-numbered 1 Kings 20, while Ben-Hadad battle material appears at LXX-numbered 1 Kings 21. This follows the source order and is not treated as a missing chapter."
+        if testament == "ot"
+        else "- NT source shape: source rows follow the Scrivener 1894 Textus Receptus chapter/verse sequence."
+    )
+    place_link_note = (
+        "- Place links: conservative Logos `BibleKnowledgebase` datatype links are added for unambiguous primary place labels found in the local Logos autocomplete database. These are clickable Factbook/place links; Personal Book source does not expose the same internal atlas-pin overlay used by Logos-edition Bibles."
+        if place_links_enabled
+        else "- Place links: disabled by default; generated DOCX keeps place names as plain text so Personal Book import remains stable."
     )
     bridge_heading = "MT-note bridge import" if testament == "ot" else "Reference-note bridge import"
     bridge_note = (
@@ -2886,7 +2903,7 @@ Logos import:
 
 Verse numbering:
 
-- OT Logos files preserve LXX source ordering and visible LXX verse numbers by design, including places where LXX chapter/verse order differs from standard English/MT order.
+{verse_numbering_note}
 
 Scope:
 
@@ -2897,12 +2914,11 @@ Scope:
 - Name meanings: `data/proper_names.csv`, `data/proper_name_transliteration_notes.csv`, and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
 - Name-meaning caution: many meanings are seeded from public-domain legacy sources such as Hitchcock's Bible Names Dictionary and are reader aids, not final etymological claims. Correct stronger lexical evidence should replace them as review continues.
 - Literal phrase convention: phrases such as `sons of Israel` and `sons of men` usually preserve Greek son-language intentionally rather than smoothing by default.
-- MT-only completeness insertion: LXX-numbered Jeremiah 40:14-26 supplies MT Jeremiah 33:14-26 in brackets. The footnote marks these verses as present in the MT, absent from the LXX text used here, not quoted in the NT, and included for completeness.
-- 1 Kings ordering: Naboth vineyard material appears at LXX-numbered 1 Kings 20, while Ben-Hadad battle material appears at LXX-numbered 1 Kings 21. This follows the source order and is not treated as a missing chapter.
+{ot_shape_notes}
 {source_note}
 - Local textual-note export: generated from `{textual_notes_display}` when present. Note text is embedded into this Personal Book as local `Textual note` footnotes; no `logosres:` links or external Logos resource layer are emitted.
 {future_work_note}
-- Place links: conservative Logos `BibleKnowledgebase` datatype links are added for unambiguous primary place labels found in the local Logos autocomplete database. These are clickable Factbook/place links; Personal Book source does not expose the same internal atlas-pin overlay used by Logos-edition Bibles.
+{place_link_note}
 {crossref_note}
 - Footnote numbering: one DOCX file with internal Word section metadata set to restart visible footnote numbering by `{footnote_number_restart}`. Cross-reference footnotes use normal numeric Word footnote references because Logos 49 Personal Book import crashes while converting large DOCX files that use custom footnote marks.
 
@@ -3230,6 +3246,7 @@ def main() -> None:
         translation_decisions_path=args.translation_decisions,
         deuterocanonical_work=deuterocanonical_work,
         crossrefs_enabled=not args.no_crossrefs,
+        place_links_enabled=bool(place_links),
     )
     if args.skip_docx_validation:
         validations = [

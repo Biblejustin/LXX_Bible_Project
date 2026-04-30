@@ -8887,6 +8887,23 @@ def test_no_raw_logos_bibleknowledgebase_markup_in_key_outputs() -> None:
         assert "[[" not in text or "BibleKnowledgebase@" not in text
 
 
+def test_logos_readmes_use_testament_specific_language() -> None:
+    ot_readme = (ROOT / "output" / "logos" / "README.md").read_text(encoding="utf-8")
+    nt_readme = (ROOT / "output" / "logos_nt" / "README.md").read_text(encoding="utf-8")
+
+    assert "OT Logos files preserve LXX source ordering" in ot_readme
+    assert "MT-only completeness insertion" in ot_readme
+    assert "1 Kings ordering" in ot_readme
+    assert "NT Logos files use the standard NT chapter/verse order" in nt_readme
+    assert "NT source rows are complete" in nt_readme
+    assert "OT Logos files preserve LXX source ordering" not in nt_readme
+    assert "MT-only completeness insertion" not in nt_readme
+    assert "1 Kings ordering" not in nt_readme
+    assert "still needs verse-by-verse TR Greek review" not in nt_readme
+    assert "Place links: disabled by default" in ot_readme
+    assert "Place links: disabled by default" in nt_readme
+
+
 def test_no_known_fixed_ot_name_leaks_in_outputs_or_support_tables() -> None:
     paths = [
         ROOT / "output" / "fresh_translation_ot_full_translation_only.md",
