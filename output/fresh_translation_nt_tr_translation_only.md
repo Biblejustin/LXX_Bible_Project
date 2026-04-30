@@ -25022,7 +25022,7 @@ But sexual immorality, and all uncleanness, or covetousness, let it not be once 
 
 **Ephesians 5:4**
 
-Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.
+And filthiness, and foolish talking, or jesting, which are not fitting: but rather thanksgiving.
 
 **Ephesians 5:5**
 
@@ -25050,11 +25050,11 @@ Proving what is acceptable to the Lord.
 
 **Ephesians 5:11**
 
-And have no fellowship with the unfruitful works of darkness, but rather reprove them.
+And do not have fellowship with the unfruitful works of darkness, but rather even reprove them.
 
 **Ephesians 5:12**
 
-For it is a shame even to speak of those things which are done of them in secret.
+For the secret things being done by them are shameful even to speak of.
 
 **Ephesians 5:13**
 
@@ -25090,7 +25090,7 @@ Giving thanks always for all things to God and the Father in the name of our Lor
 
 **Ephesians 5:21**
 
-Submitting yourselves one to another in the fear of God.
+Submitting to one another in the fear of God.
 
 **Ephesians 5:22**
 
@@ -25138,7 +25138,7 @@ This is a great mystery: but I speak concerning Christ and the assembly.
 
 **Ephesians 5:33**
 
-Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.
+Nevertheless also you, each one, let each love his own wife in this way as himself; and let the wife reverence her husband.
 
 ### Chapter 6
 
@@ -25196,7 +25196,7 @@ Therefore take to you the whole armour of God, that you may be able to withstand
 
 **Ephesians 6:14**
 
-Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;
+Stand therefore, having girded your loins with truth, and having put on the breastplate of righteousness;
 
 **Ephesians 6:15**
 

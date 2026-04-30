@@ -7595,6 +7595,33 @@ def test_nt_ephesians_4_queue_revisions_and_keep_stay_reviewed() -> None:
     assert "Ephesians 4:27" not in queue_refs
 
 
+def test_nt_ephesians_5_to_6_queue_revisions_and_keeps_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Ephesians 5:4": "And filthiness, and foolish talking, or jesting, which are not fitting: but rather thanksgiving.",
+        "Ephesians 5:11": "And do not have fellowship with the unfruitful works of darkness, but rather even reprove them.",
+        "Ephesians 5:12": "For the secret things being done by them are shameful even to speak of.",
+        "Ephesians 5:21": "Submitting to one another in the fear of God.",
+        "Ephesians 5:33": "Nevertheless also you, each one, let each love his own wife in this way as himself; and let the wife reverence her husband.",
+        "Ephesians 6:14": "Stand therefore, having girded your loins with truth, and having put on the breastplate of righteousness;",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_159.md"
+        assert ref not in queue_refs
+
+    for ref in ("Ephesians 5:16", "Ephesians 5:30", "Ephesians 6:3"):
+        assert review_by_ref[ref]["latest_review_status"] == "keep"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_159.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

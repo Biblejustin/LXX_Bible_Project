@@ -123658,7 +123658,7 @@ Greek: και αισχροτης και μωρολογια η ευτραπελι
 Transliteration: kai aiscrothv kai mwrologia h eutrapelia ta ouk anhkonta alla mallon eucaristia
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.
+Draft translation: And filthiness, and foolish talking, or jesting, which are not fitting: but rather thanksgiving.
 
 Decision rows:
 - [TODO add decision rows]
@@ -123798,7 +123798,7 @@ Greek: και μη συγκοινωνειτε τοις εργοις τοις α�
 Transliteration: kai mh sugkoinwneite toiv ergoiv toiv akarpoiv tou skotouv mallon de kai elegcete
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And have no fellowship with the unfruitful works of darkness, but rather reprove them.
+Draft translation: And do not have fellowship with the unfruitful works of darkness, but rather even reprove them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -123818,7 +123818,7 @@ Greek: τα γαρ κρυφη γινομενα υπ αυτων αισχρον ε
 Transliteration: ta gar krufh ginomena up autwn aiscron estin kai legein
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For it is a shame even to speak of those things which are done of them in secret.
+Draft translation: For the secret things being done by them are shameful even to speak of.
 
 Decision rows:
 - [TODO add decision rows]
@@ -123998,7 +123998,7 @@ Greek: υποτασσομενοι αλληλοις εν φοβω θεου
 Transliteration: upotassomenoi allhloiv en fobw yeou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Submitting yourselves one to another in the fear of God.
+Draft translation: Submitting to one another in the fear of God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -124238,7 +124238,7 @@ Greek: πλην και υμεις οι καθ ενα εκαστος την εα�
 Transliteration: plhn kai umeiv oi kay ena ekastov thn eautou gunaika outwv agapatw wv eauton h de gunh ina fobhtai ton andra
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.
+Draft translation: Nevertheless also you, each one, let each love his own wife in this way as himself; and let the wife reverence her husband.
 
 Decision rows:
 - [TODO add decision rows]
@@ -124520,7 +124520,7 @@ Greek: στητε ουν περιζωσαμενοι την οσφυν υμων �
 Transliteration: sthte oun perizwsamenoi thn osfun umwn en alhyeia kai endusamenoi ton ywraka thv dikaiosunhv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;
+Draft translation: Stand therefore, having girded your loins with truth, and having put on the breastplate of righteousness;
 
 Decision rows:
 - [TODO add decision rows]
