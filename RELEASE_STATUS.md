@@ -61,6 +61,8 @@ Primary committed outputs:
 
 - This is an OT release candidate, not a final typeset publication.
 - The output is Markdown/CSV, not a formatted print or app edition.
+- `data/research/variant_notes.csv` still has `50` non-blocking pending
+  apparatus rows: Genesis 1:1-3:21 plus Joshua 24:33 and Judges 6:34.
 - Brenton comparison coverage has known missing rows where the upstream Brenton source lacks a matched row; the fresh OT draft itself is complete.
 - Private Logos/local research data remains under `data/research/local/` and is intentionally not part of the public release package.
 - A final human editorial read-through is still recommended before public publication.

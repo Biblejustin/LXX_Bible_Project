@@ -9031,6 +9031,9 @@ def test_fresh_translation_research_stack_is_scope_specific() -> None:
 
 def test_release_status_distinguishes_ot_rc_from_complete_nt_workspace() -> None:
     status = (ROOT / "RELEASE_STATUS.md").read_text(encoding="utf-8")
+    pending_variant_refs = [
+        row["ref"] for row in csv_rows("data/research/variant_notes.csv") if row["status"] == "pending"
+    ]
 
     assert "Release candidate: `fresh-translation-ot-rc1`" in status
     assert "the NT TR fresh draft is also complete" in status
@@ -9038,6 +9041,8 @@ def test_release_status_distinguishes_ot_rc_from_complete_nt_workspace() -> None
     assert "`output/logos_nt/`" in status
     assert "existing OT RC1 package only" in status
     assert "combined OT/NT release package has not been cut" in status
+    assert f"`{len(pending_variant_refs)}` non-blocking pending" in status
+    assert "Genesis 1:1-3:21 plus Joshua 24:33 and Judges 6:34" in status
 
 
 def test_fresh_full_markdown_has_no_todo_placeholders() -> None:
