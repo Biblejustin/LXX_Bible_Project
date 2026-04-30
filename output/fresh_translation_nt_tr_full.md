@@ -132892,7 +132892,7 @@ Greek: ει δε τις χηρα τεκνα η εκγονα εχει μανθα�
 Transliteration: ei de tiv chra tekna h ekgona ecei manyanetwsan prwton ton idion oikon eusebein kai amoibav apodidonai toiv progonoiv touto gar estin kalon kai apodekton enwpion tou yeou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But if any widow have children or nephews, let them learn first to show piety at home, and to requite their parents: for that is good and acceptable before God.
+Draft translation: But if any widow has children or grandchildren, let them learn first to show piety toward their own house, and to give recompense to their parents: for this is good and acceptable before God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132912,7 +132912,7 @@ Greek: η δε οντως χηρα και μεμονωμενη ηλπικεν ε
 Transliteration: h de ontwv chra kai memonwmenh hlpiken epi ton yeon kai prosmenei taiv dehsesin kai taiv proseucaiv nuktov kai hmerav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Now she that is a widow indeed, and desolate, trusts in God, and continues in supplications and prayers night and day.
+Draft translation: Now she who is truly a widow, and left alone, has set her hope on God, and continues in supplications and prayers night and day.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132932,7 +132932,7 @@ Greek: η δε σπαταλωσα ζωσα τεθνηκεν
 Transliteration: h de spatalwsa zwsa teynhken
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But she that lives in pleasure is dead while she lives.
+Draft translation: But she who lives in self-indulgence is dead while she lives.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132952,7 +132952,7 @@ Greek: και ταυτα παραγγελλε ινα ανεπιληπτοι ωσ
 Transliteration: kai tauta paraggelle ina anepilhptoi wsin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And these things give in charge, that they may be blameless.
+Draft translation: And command these things, that they may be blameless.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132972,7 +132972,7 @@ Greek: ει δε τις των ιδιων και μαλιστα των οικε�
 Transliteration: ei de tiv twn idiwn kai malista twn oikeiwn ou pronoei thn pistin hrnhtai kai estin apistou ceirwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But if any provide not for his own, and specially for those of his own house, he has denied the faith, and is worse than an infidel.
+Draft translation: But if anyone does not provide for his own, and especially for those of his own household, he has denied the faith, and is worse than an unbeliever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132992,7 +132992,7 @@ Greek: χηρα καταλεγεσθω μη ελαττον ετων εξηκον
 Transliteration: chra katalegesyw mh elatton etwn exhkonta gegonuia enov androv gunh
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let not a widow be taken into the number under threescore years old, having been the wife of one man.
+Draft translation: Let a widow be enrolled not less than sixty years old, having been the wife of one man,
 
 Decision rows:
 - [TODO add decision rows]
@@ -133032,7 +133032,7 @@ Greek: νεωτερας δε χηρας παραιτου οταν γαρ κατ�
 Transliteration: newterav de chrav paraitou otan gar katastrhniaswsin tou cristou gamein yelousin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;
+Draft translation: But refuse younger widows: for when they grow wanton against Christ, they desire to marry;
 
 Decision rows:
 - [TODO add decision rows]
@@ -133072,7 +133072,7 @@ Greek: αμα δε και αργαι μανθανουσιν περιερχομε
 Transliteration: ama de kai argai manyanousin periercomenai tav oikiav ou monon de argai alla kai fluaroi kai periergoi lalousai ta mh deonta
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And likewise they learn to be idle, wandering about from house to house; and not only idle, but gossiping also and busybodies, speaking things which they ought not.
+Draft translation: And at the same time they also learn to be idle, going about the houses; and not only idle, but also gossips and busybodies, speaking things which they ought not.
 
 Decision rows:
 - [TODO add decision rows]
@@ -133092,7 +133092,7 @@ Greek: βουλομαι ουν νεωτερας γαμειν τεκνογονε�
 Transliteration: boulomai oun newterav gamein teknogonein oikodespotein mhdemian aformhn didonai tw antikeimenw loidoriav carin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully.
+Draft translation: Therefore I will that younger women marry, bear children, rule the house, give no occasion to the adversary for reproach.
 
 Decision rows:
 - [TODO add decision rows]
@@ -133192,7 +133192,7 @@ Greek: κατα πρεσβυτερου κατηγοριαν μη παραδεχ�
 Transliteration: kata presbuterou kathgorian mh paradecou ektov ei mh epi duo h triwn marturwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Against an elder receive not an accusation, but before two or three witnesses.
+Draft translation: Do not receive an accusation against an elder except upon two or three witnesses.
 
 Decision rows:
 - [TODO add decision rows]
@@ -133292,7 +133292,7 @@ Greek: τινων ανθρωπων αι αμαρτιαι προδηλοι εισ
 Transliteration: tinwn anyrwpwn ai amartiai prodhloi eisin proagousai eiv krisin tisin de kai epakolouyousin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Some men's sins are open beforehand, going before to judgment; and some men they follow after.
+Draft translation: Some men's sins are manifest beforehand, going before to judgment; and some also follow after.
 
 Decision rows:
 - [TODO add decision rows]
@@ -133334,7 +133334,7 @@ Greek: οσοι εισιν υπο ζυγον δουλοι τους ιδιους 
 Transliteration: osoi eisin upo zugon douloi touv idiouv despotav pashv timhv axiouv hgeisywsan ina mh to onoma tou yeou kai h didaskalia blasfhmhtai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let as many slaves as are under the yoke count their own teachers worthy of all honor, that the name of God and his doctrine be not blasphemed.
+Draft translation: Let as many slaves as are under the yoke count their own masters worthy of all honor, that the name of God and the teaching may not be blasphemed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -133414,7 +133414,7 @@ Greek: παραδιατριβαι διεφθαρμενων ανθρωπων το
 Transliteration: paradiatribai diefyarmenwn anyrwpwn ton noun kai apesterhmenwn thv alhyeiav nomizontwn porismon einai thn eusebeian afistaso apo twn toioutwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw yourself.
+Draft translation: constant disputes of men corrupted in mind and deprived of the truth, supposing godliness to be gain: from such withdraw yourself.
 
 Decision rows:
 - [TODO add decision rows]
@@ -133454,7 +133454,7 @@ Greek: ουδεν γαρ εισηνεγκαμεν εις τον κοσμον δ�
 Transliteration: ouden gar eishnegkamen eiv ton kosmon dhlon oti oude exenegkein ti dunameya
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For we brought nothing into this world, and it is certain we can carry nothing out.
+Draft translation: For we brought nothing into the world, and it is clear that we can carry nothing out.
 
 Decision rows:
 - [TODO add decision rows]
@@ -133514,7 +133514,7 @@ Greek: ριζα γαρ παντων των κακων εστιν η φιλαργ
 Transliteration: riza gar pantwn twn kakwn estin h filarguria hv tinev oregomenoi apeplanhyhsan apo thv pistewv kai eautouv periepeiran odunaiv pollaiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
+Draft translation: For the love of money is a root of all the evils: which some reaching after were led astray from the faith, and pierced themselves through with many pains.
 
 Decision rows:
 - [TODO add decision rows]
@@ -133654,7 +133654,7 @@ Greek: τοις πλουσιοις εν τω νυν αιωνι παραγγελ�
 Transliteration: toiv plousioiv en tw nun aiwni paraggelle mh uqhlofronein mhde hlpikenai epi ploutou adhlothti all en tw yew tw zwnti tw pareconti hmin plousiwv panta eiv apolausin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Charge those who are rich in this world, that they Do not be high-minded, nor trust in uncertain riches, but in the living God, who gives us richly all things to enjoy;
+Draft translation: Charge those who are rich in the present age not to be high-minded, nor to have hope in uncertain riches, but in the living God, who gives us richly all things to enjoy;
 
 Decision rows:
 - [TODO add decision rows]
@@ -133674,7 +133674,7 @@ Greek: αγαθοεργειν πλουτειν εν εργοις καλοις ε
 Transliteration: agayoergein ploutein en ergoiv kaloiv eumetadotouv einai koinwnikouv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: That they do good, that they be rich in good works, ready to distribute, willing to communicate;
+Draft translation: That they do good, that they be rich in good works, ready to share, generous;
 
 Decision rows:
 - [TODO add decision rows]
@@ -133694,7 +133694,7 @@ Greek: αποθησαυριζοντας εαυτοις θεμελιον καλο
 Transliteration: apoyhsaurizontav eautoiv yemelion kalon eiv to mellon ina epilabwntai thv aiwniou zwhv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.
+Draft translation: storing up for themselves a good foundation for the future, that they may lay hold on eternal life.
 
 Decision rows:
 - [TODO add decision rows]
@@ -133714,7 +133714,7 @@ Greek: ω τιμοθεε την παρακαταθηκην φυλαξον εκτ
 Transliteration: w timoyee thn parakatayhkhn fulaxon ektrepomenov tav bebhlouv kenofwniav kai antiyeseiv thv qeudwnumou gnwsewv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: O Timothy, keep that which is committed to your trust, avoiding profane and vain babblings, and oppositions of science falsely so called:
+Draft translation: O Timothy, guard the deposit, turning away from profane empty babblings and oppositions of falsely named knowledge:
 
 Decision rows:
 - [TODO add decision rows]
@@ -133734,7 +133734,7 @@ Greek: ην τινες επαγγελλομενοι περι την πιστιν
 Transliteration: hn tinev epaggellomenoi peri thn pistin hstochsan h cariv meta sou amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Which some professing have erred concerning the faith. Grace be with you. Amen.
+Draft translation: which some professing have missed the mark concerning the faith. Grace be with you. Amen.
 
 Decision rows:
 - [TODO add decision rows]

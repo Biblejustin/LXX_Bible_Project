@@ -3,9 +3,9 @@
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
   "status_counts": {
-    "tr_literal_manual": 3094,
-    "tr_literal_pass1": 3873,
-    "needs_focused_tr_review": 990
+    "tr_literal_manual": 3114,
+    "tr_literal_pass1": 3871,
+    "needs_focused_tr_review": 972
   },
   "changed_by_book": {
     "MAT": 913,
@@ -22,7 +22,7 @@
     "COL": 89,
     "1TH": 81,
     "2TH": 43,
-    "1TI": 84,
+    "1TI": 102,
     "2TI": 47,
     "TIT": 29,
     "PHM": 17,
@@ -37,7 +37,7 @@
     "REV": 300
   },
   "rule_counts": {
-    "manual TR literal override": 3094,
+    "manual TR literal override": 3114,
     "aligned gennao with fathered": 17,
     "rendered adelphoi-family wording as brothers": 149,
     "rendered general brings-forth as produces": 27,
@@ -56,7 +56,7 @@
     "standardized Judea spelling": 26,
     "modernized are-come perfect": 11,
     "modernized he-that relative": 166,
-    "UKJV seed retained; needs focused Greek review": 990,
+    "UKJV seed retained; needs focused Greek review": 972,
     "standardized Juda as Judah in tribe/land contexts": 8,
     "modernized enquired spelling": 4,
     "removed UKJV plural-expansion artifact": 721,
@@ -123,7 +123,7 @@
     "modernized any-man idiom": 56,
     "rendered chiton as tunic": 11,
     "modernized neighbour spelling": 15,
-    "modernized them-that relative": 139,
+    "modernized them-that relative": 138,
     "rendered telones as tax collector": 21,
     "modernized be-therefore order": 1,
     "modernized alms wording": 2,
@@ -135,7 +135,7 @@
     "fixed yours artifact": 3,
     "modernized forever spelling": 46,
     "modernized forgive-not wording": 2,
-    "modernized be-not imperative": 12,
+    "modernized be-not imperative": 11,
     "fixed does-corrupt agreement": 2,
     "modernized no-man idiom": 92,
     "modernized take-no-thought idiom": 5,
@@ -163,10 +163,10 @@
     "modernized was-come perfect": 35,
     "modernized beseeching": 3,
     "modernized sick-of wording": 5,
-    "rendered doulos-family wording as slave": 128,
+    "rendered doulos-family wording as slave": 127,
     "modernized marvelled spelling": 21,
     "modernized bare as bore": 8,
-    "rendered didaskalos as teacher": 27,
+    "rendered didaskalos as teacher": 26,
     "modernized nowhere wording": 1,
     "modernized suffer-as-permit wording": 5,
     "modernized insomuch-that idiom": 17,
@@ -211,7 +211,7 @@
     "rendered this aion as this age": 12,
     "modernized nay": 3,
     "rendered synteleia tou aionos as completion of the age": 4,
-    "modernized honour spelling": 39,
+    "modernized honour spelling": 38,
     "modernized save-in idiom": 2,
     "modernized charger as platter": 3,
     "modernized damsel": 10,
@@ -542,9 +542,9 @@
     "modernized lived-not wording": 1
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
-  "review_queue_rows": 344,
-  "needs_focused_tr_review_rows": 990,
-  "review_queue_resolved_by_pass": 646,
+  "review_queue_rows": 324,
+  "needs_focused_tr_review_rows": 972,
+  "review_queue_resolved_by_pass": 648,
   "examples": {
     "manual TR literal override": [
       {

@@ -7847,6 +7847,47 @@ def test_nt_first_timothy_3_to_4_queue_revisions_stay_reviewed() -> None:
     assert "1 Timothy 3:9" not in queue_refs
 
 
+def test_nt_first_timothy_5_to_6_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "1 Timothy 5:4": "But if any widow has children or grandchildren, let them learn first to show piety toward their own house, and to give recompense to their parents: for this is good and acceptable before God.",
+        "1 Timothy 5:5": "Now she who is truly a widow, and left alone, has set her hope on God, and continues in supplications and prayers night and day.",
+        "1 Timothy 5:6": "But she who lives in self-indulgence is dead while she lives.",
+        "1 Timothy 5:7": "And command these things, that they may be blameless.",
+        "1 Timothy 5:8": "But if anyone does not provide for his own, and especially for those of his own household, he has denied the faith, and is worse than an unbeliever.",
+        "1 Timothy 5:9": "Let a widow be enrolled not less than sixty years old, having been the wife of one man,",
+        "1 Timothy 5:11": "But refuse younger widows: for when they grow wanton against Christ, they desire to marry;",
+        "1 Timothy 5:13": "And at the same time they also learn to be idle, going about the houses; and not only idle, but also gossips and busybodies, speaking things which they ought not.",
+        "1 Timothy 5:14": "Therefore I will that younger women marry, bear children, rule the house, give no occasion to the adversary for reproach.",
+        "1 Timothy 5:19": "Do not receive an accusation against an elder except upon two or three witnesses.",
+        "1 Timothy 5:24": "Some men's sins are manifest beforehand, going before to judgment; and some also follow after.",
+        "1 Timothy 6:1": "Let as many slaves as are under the yoke count their own masters worthy of all honor, that the name of God and the teaching may not be blasphemed.",
+        "1 Timothy 6:5": "constant disputes of men corrupted in mind and deprived of the truth, supposing godliness to be gain: from such withdraw yourself.",
+        "1 Timothy 6:7": "For we brought nothing into the world, and it is clear that we can carry nothing out.",
+        "1 Timothy 6:10": "For the love of money is a root of all the evils: which some reaching after were led astray from the faith, and pierced themselves through with many pains.",
+        "1 Timothy 6:17": "Charge those who are rich in the present age not to be high-minded, nor to have hope in uncertain riches, but in the living God, who gives us richly all things to enjoy;",
+        "1 Timothy 6:18": "That they do good, that they be rich in good works, ready to share, generous;",
+        "1 Timothy 6:19": "storing up for themselves a good foundation for the future, that they may lay hold on eternal life.",
+        "1 Timothy 6:20": "O Timothy, guard the deposit, turning away from profane empty babblings and oppositions of falsely named knowledge:",
+        "1 Timothy 6:21": "which some professing have missed the mark concerning the faith. Grace be with you. Amen.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_168.md"
+        assert ref not in queue_refs
+
+    for ref in ("1 Timothy 5:2", "1 Timothy 5:15", "1 Timothy 6:6"):
+        assert review_by_ref[ref]["latest_review_status"] == "keep"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_168.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

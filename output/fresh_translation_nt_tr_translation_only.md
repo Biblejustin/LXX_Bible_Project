@@ -26912,27 +26912,27 @@ Honor widows that are widows indeed.
 
 **1 Timothy 5:4**
 
-But if any widow have children or nephews, let them learn first to show piety at home, and to requite their parents: for that is good and acceptable before God.
+But if any widow has children or grandchildren, let them learn first to show piety toward their own house, and to give recompense to their parents: for this is good and acceptable before God.
 
 **1 Timothy 5:5**
 
-Now she that is a widow indeed, and desolate, trusts in God, and continues in supplications and prayers night and day.
+Now she who is truly a widow, and left alone, has set her hope on God, and continues in supplications and prayers night and day.
 
 **1 Timothy 5:6**
 
-But she that lives in pleasure is dead while she lives.
+But she who lives in self-indulgence is dead while she lives.
 
 **1 Timothy 5:7**
 
-And these things give in charge, that they may be blameless.
+And command these things, that they may be blameless.
 
 **1 Timothy 5:8**
 
-But if any provide not for his own, and specially for those of his own house, he has denied the faith, and is worse than an infidel.
+But if anyone does not provide for his own, and especially for those of his own household, he has denied the faith, and is worse than an unbeliever.
 
 **1 Timothy 5:9**
 
-Let not a widow be taken into the number under threescore years old, having been the wife of one man.
+Let a widow be enrolled not less than sixty years old, having been the wife of one man,
 
 **1 Timothy 5:10**
 
@@ -26940,7 +26940,7 @@ Well reported of for good works; if she have brought up children, if she have lo
 
 **1 Timothy 5:11**
 
-But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;
+But refuse younger widows: for when they grow wanton against Christ, they desire to marry;
 
 **1 Timothy 5:12**
 
@@ -26948,11 +26948,11 @@ Having judgment, because they have cast off their first faith.
 
 **1 Timothy 5:13**
 
-And likewise they learn to be idle, wandering about from house to house; and not only idle, but gossiping also and busybodies, speaking things which they ought not.
+And at the same time they also learn to be idle, going about the houses; and not only idle, but also gossips and busybodies, speaking things which they ought not.
 
 **1 Timothy 5:14**
 
-I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully.
+Therefore I will that younger women marry, bear children, rule the house, give no occasion to the adversary for reproach.
 
 **1 Timothy 5:15**
 
@@ -26972,7 +26972,7 @@ For the scripture says, You shall not suppress the ox that treads out the grain.
 
 **1 Timothy 5:19**
 
-Against an elder receive not an accusation, but before two or three witnesses.
+Do not receive an accusation against an elder except upon two or three witnesses.
 
 **1 Timothy 5:20**
 
@@ -26992,7 +26992,7 @@ Drink no longer water, but use a little wine for your stomach's sake and your of
 
 **1 Timothy 5:24**
 
-Some men's sins are open beforehand, going before to judgment; and some men they follow after.
+Some men's sins are manifest beforehand, going before to judgment; and some also follow after.
 
 **1 Timothy 5:25**
 
@@ -27002,7 +27002,7 @@ Likewise also the good works of some are manifest beforehand; and those who are 
 
 **1 Timothy 6:1**
 
-Let as many slaves as are under the yoke count their own teachers worthy of all honor, that the name of God and his doctrine be not blasphemed.
+Let as many slaves as are under the yoke count their own masters worthy of all honor, that the name of God and the teaching may not be blasphemed.
 
 **1 Timothy 6:2**
 
@@ -27018,7 +27018,7 @@ He is proud, knowing nothing, but doting about questions and strifes of words, o
 
 **1 Timothy 6:5**
 
-Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw yourself.
+constant disputes of men corrupted in mind and deprived of the truth, supposing godliness to be gain: from such withdraw yourself.
 
 **1 Timothy 6:6**
 
@@ -27026,7 +27026,7 @@ But godliness with contentment is great gain.
 
 **1 Timothy 6:7**
 
-For we brought nothing into this world, and it is certain we can carry nothing out.
+For we brought nothing into the world, and it is clear that we can carry nothing out.
 
 **1 Timothy 6:8**
 
@@ -27038,7 +27038,7 @@ But those who will be rich fall into temptation and a snare, and into many fooli
 
 **1 Timothy 6:10**
 
-For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
+For the love of money is a root of all the evils: which some reaching after were led astray from the faith, and pierced themselves through with many pains.
 
 **1 Timothy 6:11**
 
@@ -27066,23 +27066,23 @@ Who only has immortality, dwelling in the light which no one can approach to; wh
 
 **1 Timothy 6:17**
 
-Charge those who are rich in this world, that they Do not be high-minded, nor trust in uncertain riches, but in the living God, who gives us richly all things to enjoy;
+Charge those who are rich in the present age not to be high-minded, nor to have hope in uncertain riches, but in the living God, who gives us richly all things to enjoy;
 
 **1 Timothy 6:18**
 
-That they do good, that they be rich in good works, ready to distribute, willing to communicate;
+That they do good, that they be rich in good works, ready to share, generous;
 
 **1 Timothy 6:19**
 
-Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.
+storing up for themselves a good foundation for the future, that they may lay hold on eternal life.
 
 **1 Timothy 6:20**
 
-O Timothy, keep that which is committed to your trust, avoiding profane and vain babblings, and oppositions of science falsely so called:
+O Timothy, guard the deposit, turning away from profane empty babblings and oppositions of falsely named knowledge:
 
 **1 Timothy 6:21**
 
-Which some professing have erred concerning the faith. Grace be with you. Amen.
+which some professing have missed the mark concerning the faith. Grace be with you. Amen.
 
 ## 2 Timothy
 
