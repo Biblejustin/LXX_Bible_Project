@@ -31792,7 +31792,7 @@ And after that I looked, and, look, the temple of the tabernacle of the testimon
 
 **Revelation 15:6**
 
-And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles.
+And the seven angels having the seven plagues came out of the temple, clothed in pure and bright linen, and girded around the breasts with golden belts.
 
 **Revelation 15:7**
 
@@ -31866,7 +31866,7 @@ Look, I come as a thief. Blessed is the one who watches, and keeps his clothes, 
 
 **Revelation 16:16**
 
-And he gathered them together into a place called in the Hebrew tongue Armageddon.
+And he gathered them together into the place called in Hebrew Armageddon.
 
 **Revelation 16:17**
 
@@ -31874,7 +31874,7 @@ And the seventh angel poured out his bowl into the air; and there came a great v
 
 **Revelation 16:18**
 
-And there were voices, and thunders, and lightnings; and there was a great earthquake, such as was not since men were upon the earth, so mighty an earthquake, and so great.
+And there were voices, and thunders, and lightnings; and there was a great earthquake, such as had not happened since men came to be upon the earth, so great an earthquake, so mighty.
 
 **Revelation 16:19**
 
@@ -31924,11 +31924,11 @@ The beast that you saw was, and is not; and shall ascend out of the bottomless p
 
 **Revelation 17:9**
 
-And here is the mind which has wisdom. The seven heads are seven mountains, on which the woman sits.
+Here is the mind which has wisdom. The seven heads are seven mountains, where the woman sits upon them.
 
 **Revelation 17:10**
 
-And there are seven kings: five are fallen, and one is, and the other is not yet come; and when he comes, he must continue a short space.
+And there are seven kings: five have fallen, and one is, the other has not yet come; and when he comes, he must remain a short time.
 
 **Revelation 17:11**
 
@@ -31936,7 +31936,7 @@ And the beast that was, and is not, even he is the eighth, and is of the seven, 
 
 **Revelation 17:12**
 
-And the ten horns which you saw are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast.
+And the ten horns which you saw are ten kings, who have not yet received a kingdom; but receive authority as kings for one hour with the beast.
 
 **Revelation 17:13**
 

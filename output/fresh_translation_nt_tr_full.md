@@ -156732,7 +156732,7 @@ Greek: και εξηλθον οι επτα αγγελοι εχοντες τας 
 Transliteration: kai exhlyon oi epta aggeloi econtev tav epta plhgav ek tou naou endedumenoi linon kayaron kai lampron kai periezwsmenoi peri ta sthyh zwnav crusav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles.
+Draft translation: And the seven angels having the seven plagues came out of the temple, clothed in pure and bright linen, and girded around the breasts with golden belts.
 
 Decision rows:
 - [TODO add decision rows]
@@ -157094,7 +157094,7 @@ Greek: και συνηγαγεν αυτους εις τον τοπον τον κ
 Transliteration: kai sunhgagen autouv eiv ton topon ton kaloumenon ebraisti armageddwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he gathered them together into a place called in the Hebrew tongue Armageddon.
+Draft translation: And he gathered them together into the place called in Hebrew Armageddon.
 
 Decision rows:
 - [TODO add decision rows]
@@ -157134,7 +157134,7 @@ Greek: και εγενοντο φωναι και βρονται και αστρ�
 Transliteration: kai egenonto fwnai kai brontai kai astrapai kai seismov egeneto megav oiov ouk egeneto af ou oi anyrwpoi egenonto epi thv ghv thlikoutov seismov outwv megav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And there were voices, and thunders, and lightnings; and there was a great earthquake, such as was not since men were upon the earth, so mighty an earthquake, and so great.
+Draft translation: And there were voices, and thunders, and lightnings; and there was a great earthquake, such as had not happened since men came to be upon the earth, so great an earthquake, so mighty.
 
 Decision rows:
 - [TODO add decision rows]
@@ -157376,7 +157376,7 @@ Greek: ωδε ο νους ο εχων σοφιαν αι επτα κεφαλαι 
 Transliteration: wde o nouv o ecwn sofian ai epta kefalai orh eisin epta opou h gunh kayhtai ep autwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And here is the mind which has wisdom. The seven heads are seven mountains, on which the woman sits.
+Draft translation: Here is the mind which has wisdom. The seven heads are seven mountains, where the woman sits upon them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -157396,7 +157396,7 @@ Greek: και βασιλεις επτα εισιν οι πεντε επεσαν 
 Transliteration: kai basileiv epta eisin oi pente epesan kai o eiv estin o allov oupw hlyen kai otan elyh oligon auton dei meinai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And there are seven kings: five are fallen, and one is, and the other is not yet come; and when he comes, he must continue a short space.
+Draft translation: And there are seven kings: five have fallen, and one is, the other has not yet come; and when he comes, he must remain a short time.
 
 Decision rows:
 - [TODO add decision rows]
@@ -157436,7 +157436,7 @@ Greek: και τα δεκα κερατα α ειδες δεκα βασιλεις
 Transliteration: kai ta deka kerata a eidev deka basileiv eisin oitinev basileian oupw elabon all exousian wv basileiv mian wran lambanousin meta tou yhriou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the ten horns which you saw are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast.
+Draft translation: And the ten horns which you saw are ten kings, who have not yet received a kingdom; but receive authority as kings for one hour with the beast.
 
 Decision rows:
 - [TODO add decision rows]

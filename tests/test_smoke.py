@@ -8691,6 +8691,32 @@ def test_nt_revelation_13_to_14_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_revelation_15_to_17_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Revelation 15:6": "And the seven angels having the seven plagues came out of the temple, clothed in pure and bright linen, and girded around the breasts with golden belts.",
+        "Revelation 16:16": "And he gathered them together into the place called in Hebrew Armageddon.",
+        "Revelation 16:18": "And there were voices, and thunders, and lightnings; and there was a great earthquake, such as had not happened since men came to be upon the earth, so great an earthquake, so mighty.",
+        "Revelation 17:9": "Here is the mind which has wisdom. The seven heads are seven mountains, where the woman sits upon them.",
+        "Revelation 17:10": "And there are seven kings: five have fallen, and one is, the other has not yet come; and when he comes, he must remain a short time.",
+        "Revelation 17:12": "And the ten horns which you saw are ten kings, who have not yet received a kingdom; but receive authority as kings for one hour with the beast.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_198.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["Revelation 16:20"]["latest_review_status"] == "keep"
+    assert review_by_ref["Revelation 16:20"]["latest_review_pass"] == "nt_review_pass_198.md"
+    assert "Revelation 16:20" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
