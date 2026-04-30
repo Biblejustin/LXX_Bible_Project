@@ -144132,7 +144132,7 @@ Greek: πασα γαρ φυσις θηριων τε και πετεινων ερ
 Transliteration: pasa gar fusiv yhriwn te kai peteinwn erpetwn te kai enaliwn damazetai kai dedamastai th fusei th anyrwpinh
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and has been tamed of mankind:
+Draft translation: For every kind of beasts and birds, of reptiles and sea creatures, is tamed and has been tamed by human nature:
 
 Decision rows:
 - [TODO add decision rows]
@@ -144212,7 +144212,7 @@ Greek: μητι η πηγη εκ της αυτης οπης βρυει το γλ
 Transliteration: mhti h phgh ek thv authv ophv bruei to gluku kai to pikron
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Does a fountain send forth at the same place sweet water and bitter?
+Draft translation: Does a spring pour forth from the same opening the sweet and the bitter?
 
 Decision rows:
 - [TODO add decision rows]
@@ -144292,7 +144292,7 @@ Greek: ουκ εστιν αυτη η σοφια ανωθεν κατερχομε�
 Transliteration: ouk estin auth h sofia anwyen katercomenh all epigeiov qucikh daimoniwdhv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: This wisdom descends not from above, but is earthly, sensual, devilish.
+Draft translation: This wisdom is not coming down from above, but is earthly, natural, demonic.
 
 Decision rows:
 - [TODO add decision rows]
@@ -144312,7 +144312,7 @@ Greek: οπου γαρ ζηλος και εριθεια εκει ακαταστ�
 Transliteration: opou gar zhlov kai eriyeia ekei akatastasia kai pan faulon pragma
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For where envying and strife is, there is confusion and every evil work.
+Draft translation: For where jealousy and strife are, there is disorder and every evil practice.
 
 Decision rows:
 - [TODO add decision rows]
@@ -144332,7 +144332,7 @@ Greek: η δε ανωθεν σοφια πρωτον μεν αγνη εστιν �
 Transliteration: h de anwyen sofia prwton men agnh estin epeita eirhnikh epieikhv eupeiyhv mesth eleouv kai karpwn agaywn adiakritov kai anupokritov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be implored, full of mercy and good fruits, without partiality, and without hypocrisy.
+Draft translation: But the wisdom from above is first pure, then peaceable, gentle, easily entreated, full of mercy and good fruits, impartial and without hypocrisy.
 
 Decision rows:
 - [TODO add decision rows]
@@ -144534,7 +144534,7 @@ Greek: ταλαιπωρησατε και πενθησατε και κλαυσα�
 Transliteration: talaipwrhsate kai penyhsate kai klausate o gelwv umwn eiv penyov metastrafhtw kai h cara eiv kathfeian
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness.
+Draft translation: Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to dejection.
 
 Decision rows:
 - [TODO add decision rows]
@@ -144956,7 +144956,7 @@ Greek: κακοπαθει τις εν υμιν προσευχεσθω ευθυμ
 Transliteration: kakopayei tiv en umin proseucesyw euyumei tiv qalletw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Is any among you afflicted? let him pray. Is any merry? let him sing psalms.
+Draft translation: Is anyone among you suffering? let him pray. Is anyone cheerful? let him sing praise.
 
 Decision rows:
 - [TODO add decision rows]
@@ -145036,7 +145036,7 @@ Greek: ηλιας ανθρωπος ην ομοιοπαθης ημιν και π�
 Transliteration: hliav anyrwpov hn omoiopayhv hmin kai proseuch proshuxato tou mh brexai kai ouk ebrexen epi thv ghv eniautouv treiv kai mhnav ex
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Elijah was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months.
+Draft translation: Elijah was a man of like nature with us, and he prayed earnestly that it might not rain: and it did not rain on the earth for three years and six months.
 
 Decision rows:
 - [TODO add decision rows]

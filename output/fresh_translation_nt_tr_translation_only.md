@@ -29208,7 +29208,7 @@ And the tongue is a fire, a world of iniquity: so is the tongue among our member
 
 **James 3:7**
 
-For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and has been tamed of mankind:
+For every kind of beasts and birds, of reptiles and sea creatures, is tamed and has been tamed by human nature:
 
 **James 3:8**
 
@@ -29224,7 +29224,7 @@ Out of the same mouth proceeds blessing and cursing. My brothers, these things o
 
 **James 3:11**
 
-Does a fountain send forth at the same place sweet water and bitter?
+Does a spring pour forth from the same opening the sweet and the bitter?
 
 **James 3:12**
 
@@ -29240,15 +29240,15 @@ But if you have bitter envying and strife in your hearts, glory not, and lie not
 
 **James 3:15**
 
-This wisdom descends not from above, but is earthly, sensual, devilish.
+This wisdom is not coming down from above, but is earthly, natural, demonic.
 
 **James 3:16**
 
-For where envying and strife is, there is confusion and every evil work.
+For where jealousy and strife are, there is disorder and every evil practice.
 
 **James 3:17**
 
-But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be implored, full of mercy and good fruits, without partiality, and without hypocrisy.
+But the wisdom from above is first pure, then peaceable, gentle, easily entreated, full of mercy and good fruits, impartial and without hypocrisy.
 
 **James 3:18**
 
@@ -29290,7 +29290,7 @@ Draw near to God, and he will draw near to you. Cleanse your hands, you sinners;
 
 **James 4:9**
 
-Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness.
+Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to dejection.
 
 **James 4:10**
 
@@ -29376,7 +29376,7 @@ But above all things, my brothers, do not swear, neither by heaven, neither by t
 
 **James 5:13**
 
-Is any among you afflicted? let him pray. Is any merry? let him sing psalms.
+Is anyone among you suffering? let him pray. Is anyone cheerful? let him sing praise.
 
 **James 5:14**
 
@@ -29392,7 +29392,7 @@ Confess your faults one to another, and pray one for another, that you may be he
 
 **James 5:17**
 
-Elijah was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months.
+Elijah was a man of like nature with us, and he prayed earnestly that it might not rain: and it did not rain on the earth for three years and six months.
 
 **James 5:18**
 

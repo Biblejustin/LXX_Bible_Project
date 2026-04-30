@@ -8302,6 +8302,35 @@ def test_nt_james_1_to_2_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_james_3_to_5_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "James 3:7": "For every kind of beasts and birds, of reptiles and sea creatures, is tamed and has been tamed by human nature:",
+        "James 3:11": "Does a spring pour forth from the same opening the sweet and the bitter?",
+        "James 3:15": "This wisdom is not coming down from above, but is earthly, natural, demonic.",
+        "James 3:16": "For where jealousy and strife are, there is disorder and every evil practice.",
+        "James 3:17": "But the wisdom from above is first pure, then peaceable, gentle, easily entreated, full of mercy and good fruits, impartial and without hypocrisy.",
+        "James 4:9": "Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to dejection.",
+        "James 5:13": "Is anyone among you suffering? let him pray. Is anyone cheerful? let him sing praise.",
+        "James 5:17": "Elijah was a man of like nature with us, and he prayed earnestly that it might not rain: and it did not rain on the earth for three years and six months.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_183.md"
+        assert ref not in queue_refs
+
+    for ref in {"James 4:7", "James 4:12"}:
+        assert review_by_ref[ref]["latest_review_status"] == "keep"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_183.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
