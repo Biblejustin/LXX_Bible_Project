@@ -2613,7 +2613,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "dishonors his father" in by_ref["Proverbs 28:7"]["draft_translation"]
     assert "a son dishonors his father" in by_ref["Micah 7:6"]["draft_translation"]
     assert "If I am a father" in by_ref["Malachi 1:6"]["draft_translation"]
-    assert "Because the lips of a priest will guard knowledge, and the law they will seek" in by_ref["Malachi 2:7"]["draft_translation"]
+    assert "Because the lips of a priest will guard knowledge, and they will seek the law" in by_ref["Malachi 2:7"]["draft_translation"]
     assert by_ref["Zechariah 14:5"]["draft_translation"].startswith("And the ravine of my mountains")
     assert "and the ravine of mountains" in by_ref["Zechariah 14:5"]["draft_translation"]
     assert "the face of the water" in by_ref["Ecclesiastes 11:1"]["draft_translation"]
