@@ -86,7 +86,7 @@ def main() -> None:
     if args.pass_id is not None:
         lines = [
             "Fast CSV shape check passed for source, footnotes, decisions, and reviewed phrase guards.",
-            f"`python3 scripts/run_fast_review_checkpoint.py --testament {args.testament} --refs '{args.refs}'` passed.",
+            f"`python scripts/run_fast_review_checkpoint.py --testament {args.testament} --refs '{args.refs}'` passed.",
         ]
         if not args.skip_pytest:
             lines.append("Focused smoke tests passed.")
