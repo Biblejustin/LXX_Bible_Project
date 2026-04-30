@@ -2,7 +2,7 @@
 
 Release candidate: `fresh-translation-ot-rc1`
 
-Date prepared: 2026-04-21
+Date prepared: 2026-04-30
 
 Branch: `fresh-translation-pilot`
 
@@ -13,16 +13,16 @@ Branch: `fresh-translation-pilot`
 ## Scope
 
 - Fresh OT translation output from Genesis through Malachi.
-- Greek source rows: `22,896`.
-- Drafted translation rows: `22,896`.
+- Greek source rows: `22,909`.
+- Drafted translation rows: `22,909`.
 - Book coverage: `39 / 39` books complete.
 - Reader-facing output: `output/fresh_translation_ot_full_translation_only.md`.
 - Full worksheet output: `output/fresh_translation_ot_full.md`.
 
 ## Verification Counts
 
-- Raw OT rows: `22,896`.
-- Drafted compare rows: `22,896`.
+- Raw OT rows: `22,909`.
+- Drafted compare rows: `22,909`.
 - Raw duplicate refs: `0`.
 - Drafted duplicate refs: `0`.
 - Missing draft translations: `0`.

@@ -2,7 +2,7 @@
 
 Release candidate: `fresh-translation-ot-rc1`
 
-Date prepared: 2026-04-21
+Date prepared: 2026-04-30
 
 This package is a lightweight manifest for the committed release artifacts. Large generated outputs remain in `output/` to avoid duplicating multi-megabyte files in git.
 
