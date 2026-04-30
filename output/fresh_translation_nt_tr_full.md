@@ -157578,7 +157578,7 @@ Greek: και μετα ταυτα ειδον αλλον αγγελον κατα�
 Transliteration: kai meta tauta eidon allon aggelon katabainonta ek tou ouranou econta exousian megalhn kai h gh efwtisyh ek thv doxhv autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.
+Draft translation: And after these things I saw another angel coming down from heaven, having great authority; and the earth was illuminated from his glory.
 
 Decision rows:
 - [TODO add decision rows]
@@ -157698,7 +157698,7 @@ Greek: οσα εδοξασεν εαυτην και εστρηνιασεν τοσ
 Transliteration: osa edoxasen eauthn kai estrhniasen tosouton dote auth basanismon kai penyov oti en th kardia authv legei kayhmai basilissa kai chra ouk eimi kai penyov ou mh idw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: How much she has glorified herself, and lived deliciously, so much torment and sorrow give her: for she says in her heart, I sit a queen, and am no widow, and shall see no sorrow.
+Draft translation: As much as she glorified herself, and lived luxuriously, so much torment and mourning give her: for she says in her heart, I sit as a queen, and am not a widow, and shall by no means see mourning.
 
 Decision rows:
 - [TODO add decision rows]
@@ -157758,7 +157758,7 @@ Greek: απο μακροθεν εστηκοτες δια τον φοβον το�
 Transliteration: apo makroyen esthkotev dia ton fobon tou basanismou authv legontev ouai ouai h poliv h megalh babulwn h poliv h iscura oti en mia wra hlyen h krisiv sou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Standing far off for the fear of her torment, saying, Alas, alas that great city Babylon, that mighty city! for in one hour is your judgment come.
+Draft translation: standing far off because of the fear of her torment, saying, Woe, woe, the great city Babylon, the mighty city! for in one hour your judgment has come.
 
 Decision rows:
 - [TODO add decision rows]
@@ -157798,7 +157798,7 @@ Greek: γομον χρυσου και αργυρου και λιθου τιμι�
 Transliteration: gomon crusou kai argurou kai liyou timiou kai margaritou kai bussou kai porfurav kai shrikou kai kokkinou kai pan xulon yuinon kai pan skeuov elefantinon kai pan skeuov ek xulou timiwtatou kai calkou kai sidhrou kai marmarou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: The merchandise of gold, and silver, and precious stones, and of pearls, and fine linen, and purple, and silk, and scarlet, and all thyine wood, and all manner vessels of ivory, and all manner vessels of most precious wood, and of brass, and iron, and marble,
+Draft translation: cargo of gold, and silver, and precious stone, and pearls, and fine linen, and purple, and silk, and scarlet, and every thyine wood, and every ivory vessel, and every vessel of most precious wood, and of bronze, and iron, and marble,
 
 Decision rows:
 - [TODO add decision rows]
@@ -157818,7 +157818,7 @@ Greek: και κιναμωμον και θυμιαματα και μυρον κ�
 Transliteration: kai kinamwmon kai yumiamata kai muron kai libanon kai oinon kai elaion kai semidalin kai siton kai kthnh kai probata kai ippwn kai redwn kai swmatwn kai qucav anyrwpwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And cinnamon, and odours, and ointments, and frankincense, and wine, and oil, and fine flour, and wheat, and beasts, and sheep, and horses, and chariots, and slaves, and souls of men.
+Draft translation: and cinnamon, and incense, and myrrh, and frankincense, and wine, and oil, and fine flour, and wheat, and cattle, and sheep, and horses, and wagons, and bodies, and souls of men.
 
 Decision rows:
 - [TODO add decision rows]
@@ -157858,7 +157858,7 @@ Greek: οι εμποροι τουτων οι πλουτησαντες απ αυ�
 Transliteration: oi emporoi toutwn oi plouthsantev ap authv apo makroyen sthsontai dia ton fobon tou basanismou authv klaiontev kai penyountev
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: The merchants of these things, which were made rich by her, shall stand far off for the fear of her torment, weeping and wailing,
+Draft translation: The merchants of these things, who were made rich from her, shall stand far off because of the fear of her torment, weeping and mourning,
 
 Decision rows:
 - [TODO add decision rows]
@@ -157878,7 +157878,7 @@ Greek: και λεγοντες ουαι ουαι η πολις η μεγαλη �
 Transliteration: kai legontev ouai ouai h poliv h megalh h peribeblhmenh bussinon kai porfuroun kai kokkinon kai kecruswmenh en crusw kai liyw timiw kai margaritaiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And saying, Alas, alas that great city, that was clothed in fine linen, and purple, and scarlet, and decked with gold, and precious stones, and pearls!
+Draft translation: and saying, Woe, woe, the great city, clothed in fine linen, and purple, and scarlet, and adorned with gold, and precious stone, and pearls!
 
 Decision rows:
 - [TODO add decision rows]
@@ -157898,7 +157898,7 @@ Greek: οτι μια ωρα ηρημωθη ο τοσουτος πλουτος κ
 Transliteration: oti mia wra hrhmwyh o tosoutov ploutov kai pav kubernhthv kai pav epi twn ploiwn o omilov kai nautai kai osoi thn yalassan ergazontai apo makroyen esthsan
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For in one hour so great riches has come to nothing. And every ship captain, and all the company in ships, and sailors, and as many as trade by sea, stood far off,
+Draft translation: For in one hour such great wealth was made desolate. And every ship captain, and all the company on the ships, and sailors, and as many as work the sea, stood far off,
 
 Decision rows:
 - [TODO add decision rows]

@@ -31966,7 +31966,7 @@ And the woman who you saw is that great city, which reigns over the kings of the
 
 **Revelation 18:1**
 
-And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.
+And after these things I saw another angel coming down from heaven, having great authority; and the earth was illuminated from his glory.
 
 **Revelation 18:2**
 
@@ -31990,7 +31990,7 @@ Reward her even as she rewarded you, and double to her double according to her w
 
 **Revelation 18:7**
 
-How much she has glorified herself, and lived deliciously, so much torment and sorrow give her: for she says in her heart, I sit a queen, and am no widow, and shall see no sorrow.
+As much as she glorified herself, and lived luxuriously, so much torment and mourning give her: for she says in her heart, I sit as a queen, and am not a widow, and shall by no means see mourning.
 
 **Revelation 18:8**
 
@@ -32002,7 +32002,7 @@ And the kings of the earth, who have committed sexual immorality and lived luxur
 
 **Revelation 18:10**
 
-Standing far off for the fear of her torment, saying, Alas, alas that great city Babylon, that mighty city! for in one hour is your judgment come.
+standing far off because of the fear of her torment, saying, Woe, woe, the great city Babylon, the mighty city! for in one hour your judgment has come.
 
 **Revelation 18:11**
 
@@ -32010,11 +32010,11 @@ And the merchants of the earth shall weep and mourn over her; for no one buys th
 
 **Revelation 18:12**
 
-The merchandise of gold, and silver, and precious stones, and of pearls, and fine linen, and purple, and silk, and scarlet, and all thyine wood, and all manner vessels of ivory, and all manner vessels of most precious wood, and of brass, and iron, and marble,
+cargo of gold, and silver, and precious stone, and pearls, and fine linen, and purple, and silk, and scarlet, and every thyine wood, and every ivory vessel, and every vessel of most precious wood, and of bronze, and iron, and marble,
 
 **Revelation 18:13**
 
-And cinnamon, and odours, and ointments, and frankincense, and wine, and oil, and fine flour, and wheat, and beasts, and sheep, and horses, and chariots, and slaves, and souls of men.
+and cinnamon, and incense, and myrrh, and frankincense, and wine, and oil, and fine flour, and wheat, and cattle, and sheep, and horses, and wagons, and bodies, and souls of men.
 
 **Revelation 18:14**
 
@@ -32022,15 +32022,15 @@ And the fruits that your soul lusted after are departed from you, and all things
 
 **Revelation 18:15**
 
-The merchants of these things, which were made rich by her, shall stand far off for the fear of her torment, weeping and wailing,
+The merchants of these things, who were made rich from her, shall stand far off because of the fear of her torment, weeping and mourning,
 
 **Revelation 18:16**
 
-And saying, Alas, alas that great city, that was clothed in fine linen, and purple, and scarlet, and decked with gold, and precious stones, and pearls!
+and saying, Woe, woe, the great city, clothed in fine linen, and purple, and scarlet, and adorned with gold, and precious stone, and pearls!
 
 **Revelation 18:17**
 
-For in one hour so great riches has come to nothing. And every ship captain, and all the company in ships, and sailors, and as many as trade by sea, stood far off,
+For in one hour such great wealth was made desolate. And every ship captain, and all the company on the ships, and sailors, and as many as work the sea, stood far off,
 
 **Revelation 18:18**
 

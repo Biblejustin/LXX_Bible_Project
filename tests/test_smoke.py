@@ -8717,6 +8717,30 @@ def test_nt_revelation_15_to_17_queue_revisions_stay_reviewed() -> None:
     assert "Revelation 16:20" not in queue_refs
 
 
+def test_nt_revelation_18_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Revelation 18:1": "And after these things I saw another angel coming down from heaven, having great authority; and the earth was illuminated from his glory.",
+        "Revelation 18:7": "As much as she glorified herself, and lived luxuriously, so much torment and mourning give her: for she says in her heart, I sit as a queen, and am not a widow, and shall by no means see mourning.",
+        "Revelation 18:10": "standing far off because of the fear of her torment, saying, Woe, woe, the great city Babylon, the mighty city! for in one hour your judgment has come.",
+        "Revelation 18:12": "cargo of gold, and silver, and precious stone, and pearls, and fine linen, and purple, and silk, and scarlet, and every thyine wood, and every ivory vessel, and every vessel of most precious wood, and of bronze, and iron, and marble,",
+        "Revelation 18:13": "and cinnamon, and incense, and myrrh, and frankincense, and wine, and oil, and fine flour, and wheat, and cattle, and sheep, and horses, and wagons, and bodies, and souls of men.",
+        "Revelation 18:15": "The merchants of these things, who were made rich from her, shall stand far off because of the fear of her torment, weeping and mourning,",
+        "Revelation 18:16": "and saying, Woe, woe, the great city, clothed in fine linen, and purple, and scarlet, and adorned with gold, and precious stone, and pearls!",
+        "Revelation 18:17": "For in one hour such great wealth was made desolate. And every ship captain, and all the company on the ships, and sailors, and as many as work the sea, stood far off,",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_199.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
