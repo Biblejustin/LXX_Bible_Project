@@ -24306,11 +24306,11 @@ Now I say, That the heir, as long as he is a child, differs nothing from a slave
 
 **Galatians 4:2**
 
-But is under tutors and governors until the time appointed of the father.
+But he is under guardians and stewards until the time appointed by the father.
 
 **Galatians 4:3**
 
-Even so we, when we were children, were in bondage under the elements of the world:
+So also we, when we were children, were enslaved under the elements of the world:
 
 **Galatians 4:4**
 
@@ -24362,7 +24362,7 @@ Where is then the blessedness you spoke of? for I bear you record, that, if it h
 
 **Galatians 4:16**
 
-Am I therefore become your enemy, because I tell you the truth?
+So then, have I become your enemy by telling you the truth?
 
 **Galatians 4:17**
 
@@ -24370,15 +24370,15 @@ They zealously affect you, but not well; yes, they would exclude you, that you m
 
 **Galatians 4:18**
 
-But it is good to be zealously affected always in a good thing, and not only when I am present with you.
+But it is good to be zealous always in a good thing, and not only when I am present with you.
 
 **Galatians 4:19**
 
-My little children, of whom I travail in birth again until Christ be formed in you,
+My little children, for whom I travail in birth again until Christ is formed in you,
 
 **Galatians 4:20**
 
-I desire to be present with you now, and to change my voice; for I stand in doubt of you.
+I desired to be present with you now, and to change my voice; for I am perplexed about you.
 
 **Galatians 4:21**
 
@@ -24386,11 +24386,11 @@ Tell me, you that desire to be under the law, do you not hear the law?
 
 **Galatians 4:22**
 
-For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.
+For it is written, that Abraham had two sons, one from the bondwoman and one from the freewoman.
 
 **Galatians 4:23**
 
-But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.
+But the one from the bondwoman was born according to flesh; but the one from the freewoman through promise.
 
 **Galatians 4:24**
 
@@ -24402,7 +24402,7 @@ For this Hagar is mount Sinai in Arabia, and answers to Jerusalem which now is, 
 
 **Galatians 4:26**
 
-But Jerusalem which is above is free, which is the mother of us all.
+But the Jerusalem above is free, which is mother of us all.
 
 **Galatians 4:27**
 
@@ -24418,7 +24418,7 @@ But as then the one who was born after the flesh persecuted him who was born aft
 
 **Galatians 4:30**
 
-Nevertheless what says the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.
+But what does the scripture say? Cast out the bondwoman and her son: for the son of the bondwoman shall not inherit with the son of the freewoman.
 
 **Galatians 4:31**
 

@@ -120142,7 +120142,7 @@ Greek: αλλα υπο επιτροπους εστιν και οικονομου
 Transliteration: alla upo epitropouv estin kai oikonomouv acri thv proyesmiav tou patrov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But is under tutors and governors until the time appointed of the father.
+Draft translation: But he is under guardians and stewards until the time appointed by the father.
 
 Decision rows:
 - [TODO add decision rows]
@@ -120162,7 +120162,7 @@ Greek: ουτως και ημεις οτε ημεν νηπιοι υπο τα σ�
 Transliteration: outwv kai hmeiv ote hmen nhpioi upo ta stoiceia tou kosmou hmen dedoulwmenoi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Even so we, when we were children, were in bondage under the elements of the world:
+Draft translation: So also we, when we were children, were enslaved under the elements of the world:
 
 Decision rows:
 - [TODO add decision rows]
@@ -120422,7 +120422,7 @@ Greek: ωστε εχθρος υμων γεγονα αληθευων υμιν
 Transliteration: wste ecyrov umwn gegona alhyeuwn umin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Am I therefore become your enemy, because I tell you the truth?
+Draft translation: So then, have I become your enemy by telling you the truth?
 
 Decision rows:
 - [TODO add decision rows]
@@ -120462,7 +120462,7 @@ Greek: καλον δε το ζηλουσθαι εν καλω παντοτε κα
 Transliteration: kalon de to zhlousyai en kalw pantote kai mh monon en tw pareinai me prov umav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But it is good to be zealously affected always in a good thing, and not only when I am present with you.
+Draft translation: But it is good to be zealous always in a good thing, and not only when I am present with you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -120482,7 +120482,7 @@ Greek: τεκνια μου ους παλιν ωδινω αχρις ου μορφ
 Transliteration: teknia mou ouv palin wdinw acriv ou morfwyh cristov en umin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: My little children, of whom I travail in birth again until Christ be formed in you,
+Draft translation: My little children, for whom I travail in birth again until Christ is formed in you,
 
 Decision rows:
 - [TODO add decision rows]
@@ -120502,7 +120502,7 @@ Greek: ηθελον δε παρειναι προς υμας αρτι και αλ
 Transliteration: hyelon de pareinai prov umav arti kai allaxai thn fwnhn mou oti aporoumai en umin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I desire to be present with you now, and to change my voice; for I stand in doubt of you.
+Draft translation: I desired to be present with you now, and to change my voice; for I am perplexed about you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -120542,7 +120542,7 @@ Greek: γεγραπται γαρ οτι αβρααμ δυο υιους εσχε�
 Transliteration: gegraptai gar oti abraam duo uiouv escen ena ek thv paidiskhv kai ena ek thv eleuyerav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.
+Draft translation: For it is written, that Abraham had two sons, one from the bondwoman and one from the freewoman.
 
 Decision rows:
 - [TODO add decision rows]
@@ -120562,7 +120562,7 @@ Greek: αλλ ο μεν εκ της παιδισκης κατα σαρκα γε�
 Transliteration: all o men ek thv paidiskhv kata sarka gegennhtai o de ek thv eleuyerav dia thv epaggeliav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.
+Draft translation: But the one from the bondwoman was born according to flesh; but the one from the freewoman through promise.
 
 Decision rows:
 - [TODO add decision rows]
@@ -120622,7 +120622,7 @@ Greek: η δε ανω ιερουσαλημ ελευθερα εστιν ητις 
 Transliteration: h de anw ierousalhm eleuyera estin htiv estin mhthr pantwn hmwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But Jerusalem which is above is free, which is the mother of us all.
+Draft translation: But the Jerusalem above is free, which is mother of us all.
 
 Decision rows:
 - [TODO add decision rows]
@@ -120702,7 +120702,7 @@ Greek: αλλα τι λεγει η γραφη εκβαλε την παιδισκ
 Transliteration: alla ti legei h grafh ekbale thn paidiskhn kai ton uion authv ou gar mh klhronomhsh o uiov thv paidiskhv meta tou uiou thv eleuyerav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Nevertheless what says the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.
+Draft translation: But what does the scripture say? Cast out the bondwoman and her son: for the son of the bondwoman shall not inherit with the son of the freewoman.
 
 Decision rows:
 - [TODO add decision rows]

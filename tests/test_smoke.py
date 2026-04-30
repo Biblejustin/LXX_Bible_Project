@@ -7476,6 +7476,32 @@ def test_nt_galatians_3_queue_revisions_and_keep_stay_reviewed() -> None:
     assert "Galatians 3:27" not in queue_refs
 
 
+def test_nt_galatians_4_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Galatians 4:2": "But he is under guardians and stewards until the time appointed by the father.",
+        "Galatians 4:3": "So also we, when we were children, were enslaved under the elements of the world:",
+        "Galatians 4:16": "So then, have I become your enemy by telling you the truth?",
+        "Galatians 4:18": "But it is good to be zealous always in a good thing, and not only when I am present with you.",
+        "Galatians 4:19": "My little children, for whom I travail in birth again until Christ is formed in you,",
+        "Galatians 4:20": "I desired to be present with you now, and to change my voice; for I am perplexed about you.",
+        "Galatians 4:22": "For it is written, that Abraham had two sons, one from the bondwoman and one from the freewoman.",
+        "Galatians 4:23": "But the one from the bondwoman was born according to flesh; but the one from the freewoman through promise.",
+        "Galatians 4:26": "But the Jerusalem above is free, which is mother of us all.",
+        "Galatians 4:30": "But what does the scripture say? Cast out the bondwoman and her son: for the son of the bondwoman shall not inherit with the son of the freewoman.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_154.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
