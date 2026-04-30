@@ -122352,7 +122352,7 @@ Greek: αυτος γαρ εστιν η ειρηνη ημων ο ποιησας �
 Transliteration: autov gar estin h eirhnh hmwn o poihsav ta amfotera en kai to mesotoicon tou fragmou lusav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For he is our peace, who has made both one, and has broken down the middle wall of partition between us;
+Draft translation: For he himself is our peace, who made both one, and broke down the middle wall of the partition;
 
 Decision rows:
 - [TODO add decision rows]
@@ -122472,7 +122472,7 @@ Greek: εποικοδομηθεντες επι τω θεμελιω των απο
 Transliteration: epoikodomhyentev epi tw yemeliw twn apostolwn kai profhtwn ontov akrogwniaiou autou ihsou cristou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;
+Draft translation: And are built upon the foundation of the apostles and prophets, Christ Jesus himself being the chief cornerstone;
 
 Decision rows:
 - [TODO add decision rows]
@@ -122694,7 +122694,7 @@ Greek: και φωτισαι παντας τις η κοινωνια του μυ
 Transliteration: kai fwtisai pantav tiv h koinwnia tou musthriou tou apokekrummenou apo twn aiwnwn en tw yew tw ta panta ktisanti dia ihsou cristou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And to make all men see what is the fellowship of the mystery, which from the beginning of the world has been hid in God, who created all things by Jesus Christ:
+Draft translation: And to make all see what is the fellowship of the mystery, which from the ages has been hidden in God, who created all things through Jesus Christ:
 
 Decision rows:
 - [TODO add decision rows]
@@ -122754,7 +122754,7 @@ Greek: εν ω εχομεν την παρρησιαν και την προσαγ
 Transliteration: en w ecomen thn parrhsian kai thn prosagwghn en pepoiyhsei dia thv pistewv autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: In whom we have boldness and access with confidence by the faith of him.
+Draft translation: In whom we have boldness and access with confidence through his faith.
 
 Decision rows:
 - [TODO add decision rows]
@@ -122814,7 +122814,7 @@ Greek: εξ ου πασα πατρια εν ουρανοις και επι γη�
 Transliteration: ex ou pasa patria en ouranoiv kai epi ghv onomazetai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Of whom the whole family in heaven and earth is named,
+Draft translation: From whom every family in the heavens and on earth is named,
 
 Decision rows:
 - [TODO add decision rows]

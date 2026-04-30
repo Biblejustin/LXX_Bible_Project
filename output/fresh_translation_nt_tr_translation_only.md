@@ -24756,7 +24756,7 @@ But now in Christ Jesus you who sometimes were far off are made near by the bloo
 
 **Ephesians 2:14**
 
-For he is our peace, who has made both one, and has broken down the middle wall of partition between us;
+For he himself is our peace, who made both one, and broke down the middle wall of the partition;
 
 **Ephesians 2:15**
 
@@ -24780,7 +24780,7 @@ Now therefore you are no more strangers and foreigners, but fellow citizens with
 
 **Ephesians 2:20**
 
-And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;
+And are built upon the foundation of the apostles and prophets, Christ Jesus himself being the chief cornerstone;
 
 **Ephesians 2:21**
 
@@ -24826,7 +24826,7 @@ To me, who am less than the least of all holy ones, is this grace given, that I 
 
 **Ephesians 3:9**
 
-And to make all men see what is the fellowship of the mystery, which from the beginning of the world has been hid in God, who created all things by Jesus Christ:
+And to make all see what is the fellowship of the mystery, which from the ages has been hidden in God, who created all things through Jesus Christ:
 
 **Ephesians 3:10**
 
@@ -24838,7 +24838,7 @@ According to the eternal purpose which he purposed in Christ Jesus our Lord:
 
 **Ephesians 3:12**
 
-In whom we have boldness and access with confidence by the faith of him.
+In whom we have boldness and access with confidence through his faith.
 
 **Ephesians 3:13**
 
@@ -24850,7 +24850,7 @@ For this cause I bow my knees to the Father of our Lord Jesus Christ,
 
 **Ephesians 3:15**
 
-Of whom the whole family in heaven and earth is named,
+From whom every family in the heavens and on earth is named,
 
 **Ephesians 3:16**
 
