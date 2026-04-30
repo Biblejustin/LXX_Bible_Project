@@ -2564,7 +2564,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "called a house of prayer" in by_ref["Isaiah 56:7"]["draft_translation"]
     assert "called the city of the Lord, Zion of the Holy One of Israel" in by_ref["Isaiah 60:14"]["draft_translation"]
     assert "called the city of truth and the mountain of the Lord Almighty, a holy mountain" in by_ref["Zechariah 8:3"]["draft_translation"]
-    assert "called the border of lawlessness and a people against whom" in by_ref["Malachi 1:4"]["draft_translation"]
+    assert "called borders of lawlessness and a people against whom" in by_ref["Malachi 1:4"]["draft_translation"]
     assert "eat the strength of nations" in by_ref["Isaiah 61:6"]["draft_translation"]
     assert "bring to you the strength of nations" in by_ref["Isaiah 60:11"]["draft_translation"]
     assert "the one rescuing you, the God of Israel, will be called the God of all the earth" in by_ref["Isaiah 54:5"]["draft_translation"]
