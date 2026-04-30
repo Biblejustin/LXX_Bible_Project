@@ -204642,46 +204642,46 @@ Note:
 ### Zechariah 7:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it happened in the fourth year of Darius king, the word of the Lord came to Zechariah on fourth day of the ninth month, which is Chisleu.
+- fresh: And it happened in the fourth year of Darius the king, the word of the Lord came to Zechariah on the fourth day of the ninth month, which is Chisleu.
 - brenton: And it came to pass in the fourth year of Darius the king, that the word of the Lord came to Zacharias on the fourth day of the ninth month, which is Chaseleu.
 
 ### Zechariah 7:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he sent to Bethel Sharezer and Arbeseer the king and his men to make atonement to the Lord,
+- fresh: And Sarasar and Arbeseer the king and his men sent to Bethel to make atonement to the Lord,
 - brenton: And Sarasar and Arbeseer the king and his men sent to Bæthel, and that to propitiate the Lord,
 
 ### Zechariah 7:3
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: saying to priests in the house of the Lord Almighty and to prophets, saying, Has sanctification entered here in the fifth month, as I have done already many years?
+- fresh: saying to the priests in the house of the Lord Almighty and to the prophets, saying, Has the sanctification entered here in the fifth month, as I have done already many years?
 - brenton: speaking to the priests that were in the house of the Lord Almighty, and to the prophets, saying, The holy offering has come in hither in the fifth month, as it has done already many years.
 
 ### Zechariah 7:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
-- same_normalized: no
-- fresh: And the word of the Lord of forces came to me, saying,
+- same_normalized: yes
+- fresh: And the word of the Lord of hosts came to me, saying,
 - brenton: And the word of the Lord of hosts came to me, saying,
 
 ### Zechariah 7:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Say to all the people of the land and to priests, saying: If you fasted or mourned in the fifth month or in seventh month, behold, for seventy years, was it for me you fasted?
+- fresh: Say to all the people of the land and to the priests, saying: If you fasted or mourned in the fifth month or in the seventh month, behold, for seventy years, was it for me you fasted?
 - brenton: Speak to the whole people of the land, and to the priests, saying, Though ye fasted or lamented in the fifth or seventh months (yea, behold, these seventy years) have ye at all fasted to me?
 
 ### Zechariah 7:6
@@ -204696,10 +204696,10 @@ Note:
 ### Zechariah 7:7
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Are not these words that the Lord spoke by the hand of former prophets, when Jerusalem was inhabited and prospering, and her cities round about, and hill-country and lowland were inhabited?
+- fresh: Are these not the words that the Lord spoke by the hand of the former prophets, when Jerusalem was inhabited and prospering, and her cities round about, and the hill-country and the lowland were inhabited?
 - brenton: Are not these the words which the Lord spoke by the former prophets, when Jerusalem was inhabited and in prosperity, and her cities round about her, and the hill country and the low country was inhabited?
 
 ### Zechariah 7:8
@@ -204723,46 +204723,46 @@ Note:
 ### Zechariah 7:10
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And do not oppress widow and orphan and sojourner and poor, and let none remember evil of his brother in your hearts.
+- fresh: And do not oppress widow and orphan and sojourner and poor, and let each not remember evil of his brother in your hearts.
 - brenton: and oppress not the widow, or the fatherless, or the stranger, or the poor; and let not one of you remember in his heart the injury of his brother.
 
 ### Zechariah 7:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they disobeyed paying attention and gave a rebellious back and made their ears heavy so as not to hear.
+- fresh: And they refused to pay attention and gave a rebellious back and made their ears heavy so as not to hear.
 - brenton: But they refused to attend, and madly turned their back, and made their ears heavy, so that they should not hear.
 
 ### Zechariah 7:12
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And they set their hearts in disobedience so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
+- fresh: And they set their heart as disobedient so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
 - brenton: And they made their heart disobedient, so as not to hearken to my law, and the words which the Lord Almighty sent forth by his Spirit by the former prophets: so there was great wrath from the Lord Almighty.
 
 ### Zechariah 7:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be, just as he spoke and they did not hear, so they will cry out and I will not hear, says the Lord Almighty.
+- fresh: And it will be: just as he spoke and they did not hear him, so they will cry out and I will not hear, says the Lord Almighty.
 - brenton: And it shall come to pass, that as he spoke, and they hearkened not, so they shall cry, and I will not hearken, saith the Lord Almighty.
 
 ### Zechariah 7:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will cast them out among all nations whom they did not know, and the land behind them will be made desolate, with no one passing through or returning, and they made the delightful land into destruction.
+- fresh: And I will cast them out into all the nations which they did not know, and the land behind them will be made a disappearance, with no one passing through or returning, and they made the chosen land into disappearance.
 - brenton: And I will cast them out among all the nations, whom they know not; and the land behind them shall be made utterly destitute of any going through or returning: yea they have made the choice land a desolation.
 
 ### Zechariah 8:1

@@ -92826,23 +92826,23 @@ And those far from them will come and build in the house of the Lord, and you wi
 
 **Zechariah 7:1**
 
-And it happened in the fourth year of Darius king, the word of the Lord came to Zechariah on fourth day of the ninth month, which is Chisleu.
+And it happened in the fourth year of Darius the king, the word of the Lord came to Zechariah on the fourth day of the ninth month, which is Chisleu.
 
 **Zechariah 7:2**
 
-And he sent to Bethel Sharezer and Arbeseer the king and his men to make atonement to the Lord,
+And Sarasar and Arbeseer the king and his men sent to Bethel to make atonement to the Lord,
 
 **Zechariah 7:3**
 
-saying to priests in the house of the Lord Almighty and to prophets, saying, Has sanctification entered here in the fifth month, as I have done already many years?
+saying to the priests in the house of the Lord Almighty and to the prophets, saying, Has the sanctification entered here in the fifth month, as I have done already many years?
 
 **Zechariah 7:4**
 
-And the word of the Lord of forces came to me, saying,
+And the word of the Lord of hosts came to me, saying,
 
 **Zechariah 7:5**
 
-Say to all the people of the land and to priests, saying: If you fasted or mourned in the fifth month or in seventh month, behold, for seventy years, was it for me you fasted?
+Say to all the people of the land and to the priests, saying: If you fasted or mourned in the fifth month or in the seventh month, behold, for seventy years, was it for me you fasted?
 
 **Zechariah 7:6**
 
@@ -92850,7 +92850,7 @@ And if you eat and if you drink, are you not eating and drinking for yourselves?
 
 **Zechariah 7:7**
 
-Are not these words that the Lord spoke by the hand of former prophets, when Jerusalem was inhabited and prospering, and her cities round about, and hill-country and lowland were inhabited?
+Are these not the words that the Lord spoke by the hand of the former prophets, when Jerusalem was inhabited and prospering, and her cities round about, and the hill-country and the lowland were inhabited?
 
 **Zechariah 7:8**
 
@@ -92862,23 +92862,23 @@ Thus says the Lord Almighty: Judge righteous judgment, and do mercy and compassi
 
 **Zechariah 7:10**
 
-And do not oppress widow and orphan and sojourner and poor, and let none remember evil of his brother in your hearts.
+And do not oppress widow and orphan and sojourner and poor, and let each not remember evil of his brother in your hearts.
 
 **Zechariah 7:11**
 
-And they disobeyed paying attention and gave a rebellious back and made their ears heavy so as not to hear.
+And they refused to pay attention and gave a rebellious back and made their ears heavy so as not to hear.
 
 **Zechariah 7:12**
 
-And they set their hearts in disobedience so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
+And they set their heart as disobedient so as not to hear my law and the words that the Lord Almighty sent by his Spirit through the former prophets, and great wrath came from the Lord Almighty.
 
 **Zechariah 7:13**
 
-And it will be, just as he spoke and they did not hear, so they will cry out and I will not hear, says the Lord Almighty.
+And it will be: just as he spoke and they did not hear him, so they will cry out and I will not hear, says the Lord Almighty.
 
 **Zechariah 7:14**
 
-And I will cast them out among all nations whom they did not know, and the land behind them will be made desolate, with no one passing through or returning, and they made the delightful land into destruction.
+And I will cast them out into all the nations which they did not know, and the land behind them will be made a disappearance, with no one passing through or returning, and they made the chosen land into disappearance.
 
 ### Chapter 8
 
