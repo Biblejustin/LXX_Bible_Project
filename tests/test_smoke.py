@@ -7325,6 +7325,32 @@ def test_nt_second_corinthians_8_to_9_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_second_corinthians_10_queue_revisions_and_keep_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "2 Corinthians 10:1": "Now I Paul myself plead with you through the meekness and gentleness of Christ, who in person am lowly among you, but being absent am bold toward you:",
+        "2 Corinthians 10:3": "For though we walk in flesh, we do not wage war according to flesh:",
+        "2 Corinthians 10:4": "For the weapons of our warfare are not fleshly, but powerful by God for pulling down strongholds;",
+        "2 Corinthians 10:5": "casting down reasonings, and every high thing lifted up against the knowledge of God, and taking every thought captive to the obedience of Christ;",
+        "2 Corinthians 10:6": "and being ready to avenge all disobedience, when your obedience is completed.",
+        "2 Corinthians 10:12": "For we do not dare to class or compare ourselves with some who commend themselves; but they, measuring themselves by themselves, and comparing themselves with themselves, do not understand.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_148.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["2 Corinthians 10:9"]["latest_review_status"] == "keep"
+    assert review_by_ref["2 Corinthians 10:9"]["latest_review_pass"] == "nt_review_pass_148.md"
+    assert "2 Corinthians 10:9" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

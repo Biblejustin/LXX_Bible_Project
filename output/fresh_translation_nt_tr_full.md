@@ -116906,7 +116906,7 @@ Greek: αυτος δε εγω παυλος παρακαλω υμας δια τη
 Transliteration: autov de egw paulov parakalw umav dia thv praothtov kai epieikeiav tou cristou ov kata proswpon men tapeinov en umin apwn de yarrw eiv umav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Now I Paul myself plead to you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:
+Draft translation: Now I Paul myself plead with you through the meekness and gentleness of Christ, who in person am lowly among you, but being absent am bold toward you:
 
 Decision rows:
 - [TODO add decision rows]
@@ -116946,7 +116946,7 @@ Greek: εν σαρκι γαρ περιπατουντες ου κατα σαρκ�
 Transliteration: en sarki gar peripatountev ou kata sarka strateuomeya
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For though we walk in the flesh, we do not war after the flesh:
+Draft translation: For though we walk in flesh, we do not wage war according to flesh:
 
 Decision rows:
 - [TODO add decision rows]
@@ -116966,7 +116966,7 @@ Greek: τα γαρ οπλα της στρατειας ημων ου σαρκικ
 Transliteration: ta gar opla thv strateiav hmwn ou sarkika alla dunata tw yew prov kayairesin ocurwmatwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)
+Draft translation: For the weapons of our warfare are not fleshly, but powerful by God for pulling down strongholds;
 
 Decision rows:
 - [TODO add decision rows]
@@ -116986,7 +116986,7 @@ Greek: λογισμους καθαιρουντες και παν υψωμα επ
 Transliteration: logismouv kayairountev kai pan uqwma epairomenon kata thv gnwsewv tou yeou kai aicmalwtizontev pan nohma eiv thn upakohn tou cristou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Casting down imaginations, and every high thing that exalts itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
+Draft translation: casting down reasonings, and every high thing lifted up against the knowledge of God, and taking every thought captive to the obedience of Christ;
 
 Decision rows:
 - [TODO add decision rows]
@@ -117006,7 +117006,7 @@ Greek: και εν ετοιμω εχοντες εκδικησαι πασαν π�
 Transliteration: kai en etoimw econtev ekdikhsai pasan parakohn otan plhrwyh umwn h upakoh
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And being alert to revenge all disobedience, when your obedience is fulfilled.
+Draft translation: and being ready to avenge all disobedience, when your obedience is completed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -117126,7 +117126,7 @@ Greek: ου γαρ τολμωμεν εγκριναι η συγκριναι εα�
 Transliteration: ou gar tolmwmen egkrinai h sugkrinai eautouv tisin twn eautouv sunistanontwn alla autoi en eautoiv eautouv metrountev kai sugkrinontev eautouv eautoiv ou suniousin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.
+Draft translation: For we do not dare to class or compare ourselves with some who commend themselves; but they, measuring themselves by themselves, and comparing themselves with themselves, do not understand.
 
 Decision rows:
 - [TODO add decision rows]

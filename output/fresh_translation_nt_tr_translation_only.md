@@ -23646,7 +23646,7 @@ Thanks be to God for his unspeakable gift.
 
 **2 Corinthians 10:1**
 
-Now I Paul myself plead to you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:
+Now I Paul myself plead with you through the meekness and gentleness of Christ, who in person am lowly among you, but being absent am bold toward you:
 
 **2 Corinthians 10:2**
 
@@ -23654,19 +23654,19 @@ But I plead to you, that I may not be bold when I am present with that confidenc
 
 **2 Corinthians 10:3**
 
-For though we walk in the flesh, we do not war after the flesh:
+For though we walk in flesh, we do not wage war according to flesh:
 
 **2 Corinthians 10:4**
 
-(For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)
+For the weapons of our warfare are not fleshly, but powerful by God for pulling down strongholds;
 
 **2 Corinthians 10:5**
 
-Casting down imaginations, and every high thing that exalts itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
+casting down reasonings, and every high thing lifted up against the knowledge of God, and taking every thought captive to the obedience of Christ;
 
 **2 Corinthians 10:6**
 
-And being alert to revenge all disobedience, when your obedience is fulfilled.
+and being ready to avenge all disobedience, when your obedience is completed.
 
 **2 Corinthians 10:7**
 
@@ -23690,7 +23690,7 @@ Let such a one think this, that, such as we are in word by letters when we are a
 
 **2 Corinthians 10:12**
 
-For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.
+For we do not dare to class or compare ourselves with some who commend themselves; but they, measuring themselves by themselves, and comparing themselves with themselves, do not understand.
 
 **2 Corinthians 10:13**
 
