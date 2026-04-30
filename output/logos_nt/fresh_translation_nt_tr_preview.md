@@ -417,7 +417,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 5
 
-**3 John 1:2** Beloved, I wish above all things that you may prosper and be in health, even as your soul prospers.
+**3 John 1:2** Beloved, concerning all things I pray that you prosper and be in health, just as your soul prospers.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 0

@@ -150632,7 +150632,7 @@ Greek: εχαρην λιαν οτι ευρηκα εκ των τεκνων σου
 Transliteration: ecarhn lian oti eurhka ek twn teknwn sou peripatountav en alhyeia kaywv entolhn elabomen para tou patrov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I rejoiced greatly that I found of your children walking in truth, as we have received a commandment from the Father.
+Draft translation: I rejoiced greatly because I have found some of your children walking in truth, as we received commandment from the Father.
 
 Decision rows:
 - [TODO add decision rows]
@@ -150856,7 +150856,7 @@ Greek: αγαπητε περι παντων ευχομαι σε ευοδουσθ
 Transliteration: agaphte peri pantwn eucomai se euodousyai kai ugiainein kaywv euodoutai sou h quch
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Beloved, I wish above all things that you may prosper and be in health, even as your soul prospers.
+Draft translation: Beloved, concerning all things I pray that you prosper and be in health, just as your soul prospers.
 
 Decision rows:
 - [TODO add decision rows]
@@ -150896,7 +150896,7 @@ Greek: μειζοτεραν τουτων ουκ εχω χαραν ινα ακο�
 Transliteration: meizoteran toutwn ouk ecw caran ina akouw ta ema tekna en alhyeia peripatounta
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I have no greater joy than to hear that my children walk in truth.
+Draft translation: I have no greater joy than these things, that I hear my children walking in truth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -150976,7 +150976,7 @@ Greek: ημεις ουν οφειλομεν απολαμβανειν τους τ
 Transliteration: hmeiv oun ofeilomen apolambanein touv toioutouv ina sunergoi ginwmeya th alhyeia
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: We therefore ought to receive such, that we might be fellow-helpers to the truth.
+Draft translation: We therefore ought to receive such, that we may become fellow-workers with the truth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -151096,7 +151096,7 @@ Greek: ελπιζω δε ευθεως ιδειν σε και στομα προς
 Transliteration: elpizw de euyewv idein se kai stoma prov stoma lalhsomen eirhnh soi aspazontai se oi filoi aspazou touv filouv kat onoma
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But I trust I shall shortly see you, and we shall speak face to face. Peace be to you. Our friends salute you. Greet the friends by name.
+Draft translation: But I hope to see you shortly, and we shall speak mouth to mouth. Peace to you. The friends greet you. Greet the friends by name.
 
 Decision rows:
 - [TODO add decision rows]

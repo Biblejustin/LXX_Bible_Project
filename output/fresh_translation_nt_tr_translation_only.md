@@ -30540,7 +30540,7 @@ Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesu
 
 **2 John 1:4**
 
-I rejoiced greatly that I found of your children walking in truth, as we have received a commandment from the Father.
+I rejoiced greatly because I have found some of your children walking in truth, as we received commandment from the Father.
 
 **2 John 1:5**
 
@@ -30588,7 +30588,7 @@ The elder to the beloved Gaius, whom I love in the truth.
 
 **3 John 1:2**
 
-Beloved, I wish above all things that you may prosper and be in health, even as your soul prospers.
+Beloved, concerning all things I pray that you prosper and be in health, just as your soul prospers.
 
 **3 John 1:3**
 
@@ -30596,7 +30596,7 @@ For I rejoiced greatly, when the brothers came and testified of the truth that i
 
 **3 John 1:4**
 
-I have no greater joy than to hear that my children walk in truth.
+I have no greater joy than these things, that I hear my children walking in truth.
 
 **3 John 1:5**
 
@@ -30612,7 +30612,7 @@ because for his name's sake they went forth, taking nothing of the nations.
 
 **3 John 1:8**
 
-We therefore ought to receive such, that we might be fellow-helpers to the truth.
+We therefore ought to receive such, that we may become fellow-workers with the truth.
 
 **3 John 1:9**
 
@@ -30636,7 +30636,7 @@ I had many things to write, but I will not with ink and pen write to you:
 
 **3 John 1:14**
 
-But I trust I shall shortly see you, and we shall speak face to face. Peace be to you. Our friends salute you. Greet the friends by name.
+But I hope to see you shortly, and we shall speak mouth to mouth. Peace to you. The friends greet you. Greet the friends by name.
 
 ## Jude
 

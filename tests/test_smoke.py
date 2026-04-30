@@ -8465,6 +8465,31 @@ def test_nt_1_john_4_to_5_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_2_john_and_3_john_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "2 John 1:4": "I rejoiced greatly because I have found some of your children walking in truth, as we received commandment from the Father.",
+        "3 John 1:2": "Beloved, concerning all things I pray that you prosper and be in health, just as your soul prospers.",
+        "3 John 1:4": "I have no greater joy than these things, that I hear my children walking in truth.",
+        "3 John 1:8": "We therefore ought to receive such, that we may become fellow-workers with the truth.",
+        "3 John 1:14": "But I hope to see you shortly, and we shall speak mouth to mouth. Peace to you. The friends greet you. Greet the friends by name.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_189.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["2 John 1:13"]["latest_review_status"] == "keep"
+    assert review_by_ref["2 John 1:13"]["latest_review_pass"] == "nt_review_pass_189.md"
+    assert "2 John 1:13" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
