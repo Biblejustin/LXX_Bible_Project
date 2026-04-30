@@ -205605,10 +205605,10 @@ Note:
 ### Zechariah 14:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will gather all nations against Jerusalem for war, and the city will be taken and houses plundered and women defiled, and half of the city will go out in captivity, but rest of my people will certainly not be destroyed from the city.
+- fresh: And I will gather all the nations against Jerusalem for war, and the city will be taken and the houses plundered and the women defiled, and half of the city will go out in captivity, but the rest of my people will certainly not be utterly destroyed from the city.
 - brenton: And I will gather all the Gentiles to Jerusalem to war, and the city shall be taken, and the houses plundered, and the women ravished; and half of the city shall go forth into captivity, but the rest of my people shall not be utterly cut off from the city.
 
 ### Zechariah 14:3
@@ -205617,25 +205617,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord will go out and line up against those nations, as day of his battle in the day of war.
+- fresh: And the Lord will go out and line up against those nations, as on a day of his battle in a day of war.
 - brenton: And the Lord shall go forth, and fight with those Gentiles as when he fought in the day of war.
 
 ### Zechariah 14:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And his feet will stand in that day on Mount of Olives opposite Jerusalem from east, and Mount of Olives will be split in half, half eastward and half seaward, a very great chasm, and half of mountain will slope north and half south.
+- fresh: And his feet will stand in that day on the Mount of Olives, opposite Jerusalem on the east, and the Mount of Olives will be split in half: half of it eastward and half of it toward the sea, a very great chasm, and half of the mountain will slope northward and half of it southward.
 - brenton: And his feet shall stand in that day on the mount of Olives, which is before Jerusalem on the east, and the mount of Olives shall cleave asunder, half of it toward the east and the west, a very great division; and half the mountain shall lean to the north, and half of it to the south.
 
 ### Zechariah 14:5
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And the ravine of my mountains will be blocked up, and the ravine of mountains will cling together as far as Azal, and it will be blocked as it was blocked in the days of earthquake in the days of Uzziah king of Judah, and the Lord my God will come and all holy ones with him.
+- fresh: And the ravine of my mountains will be blocked up, and the ravine of mountains will be joined together as far as Jasol, and it will be blocked as it was blocked in the days of the earthquake in the days of Uzziah king of Judah, and the Lord my God will come, and all the holy ones with him.
 - brenton: And the valley of my mountains shall be closed up, and the valley of the mountains shall be joined on to Jasod, and shall be blocked up as it was blocked up in the days of the earthquake, in the days of Ozias king of Juda; and the Lord my God shall come, and all the saints with him.
 
 ### Zechariah 14:6
@@ -205644,25 +205644,25 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day there will not be light and cold and frost.
+- fresh: In that day there will not be light, cold, and frost.
 - brenton: And it shall come to pass in that day that there shall be no light,
 
 ### Zechariah 14:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: It will be one day, and that day known to the Lord, and not day and not night, and toward evening there will be light.
+- fresh: It will be one day, and that day will be known to the Lord, not day and not night, and toward evening there will be light.
 - brenton: and there shall be for one day cold and frost, and that day shall be known to the Lord, and it shall not be day nor night: but towards evening it shall be light.
 
 ### Zechariah 14:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And in that day living water will go out from Jerusalem, half of it to first sea and half of it to last sea, and in summer and in spring it will be so.
+- fresh: And in that day living water will go out from Jerusalem, half of it to the first sea and half of it to the last sea, and in summer and in spring it will be so.
 - brenton: And in that day living water shall come forth out of Jerusalem; half of it toward the former sea, and half of it toward the latter sea: and so shall it be in summer and spring.
 
 ### Zechariah 14:9
@@ -205677,109 +205677,109 @@ Note:
 ### Zechariah 14:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Encircling all the land and wilderness from Gabe to Rimmon south of Jerusalem—but Ramah remains in its place—from the gate of Benjamin to place of first gate to the gate of corners and to tower of Hananeel to the king's wine-vats.
+- fresh: Encircling all the land and the wilderness from Gabe to Rimmon south of Jerusalem; but Ramah will remain in its place, from the gate of Benjamin to the place of the first gate, to the gate of the corners, and to the tower of Hananeel, to the king's wine-vats.
 - brenton: compassing all the earth, and the wilderness from Gabe unto Remmon south of Jerusalem. And Rama shall remain in its place. From the gate of Benjamin to the place of the first gate, to the gate of the corners, and to the tower of Anameel, as far as the king's wine-presses,
 
 ### Zechariah 14:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they will dwell in her, and there will no longer be curse, and Jerusalem will dwell in confidence.
+- fresh: And they will dwell in her, and there will no longer be a curse, and Jerusalem will dwell in confidence.
 - brenton: they shall dwell in the city; and there shall be no more any curse, and Jerusalem shall dwell securely.
 
 ### Zechariah 14:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And this will be downfall with which the Lord will strike all peoples who campaigned against Jerusalem: their flesh will melt while they stand on their feet, and their eyes will flow from their sockets, and their tongue will melt in their mouth.
+- fresh: And this will be the downfall with which the Lord will strike all the peoples who campaigned against Jerusalem: their flesh will melt while they stand on their feet, and their eyes will flow from their sockets, and their tongue will melt in their mouth.
 - brenton: And this shall be the overthrow with which the Lord will smite all the nations, as many as have fought against Jerusalem; their flesh shall consume away while they are standing upon their feet, and their eyes shall melt out of their holes, and their tongue shall consume away in their mouth.
 
 ### Zechariah 14:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be in that day, great astonishment of the Lord upon them, and each will seize hand of his neighbor, and his hand will tangle against the hand of his neighbor.
+- fresh: And it will be in that day: a great astonishment of the Lord will be upon them, and each will seize the hand of his neighbor, and his hand will be tangled with the hand of his neighbor.
 - brenton: And there shall be in that day a great panic from the Lord upon them; and they shall lay hold every man of the hand of his neighbour, and his hand shall be clasped with the hand of his neighbour.
 
 ### Zechariah 14:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And Judah will line up in Jerusalem and gather strength of all peoples round about, gold and silver and clothing in very great abundance.
+- fresh: And Judah will line up in Jerusalem and gather the strength of all the peoples round about: gold and silver and clothing in very great abundance.
 - brenton: Juda also shall fight in Jerusalem; and God shall gather the strength of all the nations round about, gold, and silver, and apparel, in great abundance.
 
 ### Zechariah 14:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And this will be the downfall of horses and mules and camels and donkeys and all cattle in those camps, according to this downfall.
+- fresh: And this will be the downfall of the horses and the mules and the camels and the donkeys and all the cattle that are in those camps, according to this downfall.
 - brenton: And this shall be the overthrow of the horses, and mules, and camels, and asses, and all the beasts that are in those camps, according to this overthrow.
 
 ### Zechariah 14:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be, whoever are left from all nations coming against Jerusalem will go up year by year to worship the King, the Lord Almighty, and to celebrate the feast of booths.
+- fresh: And it will be, as many as are left from all the nations that came against Jerusalem, they will go up year by year to worship the King, the Lord Almighty, and to celebrate the feast of booths.
 - brenton: And it shall come to pass, that whosoever shall be left of all the nations that came against Jerusalem, shall even come up every year to worship the king, the Lord Almighty, and to keep the feast of tabernacles.
 
 ### Zechariah 14:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be, whichever of all tribes of earth do not go up to Jerusalem to worship the King, the Lord Almighty, these things will be added upon them.
+- fresh: And it will be, as many as do not go up from all the tribes of the earth to Jerusalem to worship the King, the Lord Almighty, these also will be added to those.
 - brenton: And it shall come to pass, that whosoever of all the families of the earth shall not come up to Jerusalem to worship the king, the Lord Almighty, even these shall be added to the others.
 
 ### Zechariah 14:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And if tribe of Egypt does not go up nor come there, then upon them will be downfall with which the Lord will strike all nations that do not go up to celebrate the feast of booths.
+- fresh: And if the tribe of Egypt does not go up nor come there, then upon these will be the downfall with which the Lord will strike all the nations, as many as do not go up to celebrate the feast of booths.
 - brenton: And if the family of Egypt shall not go up, nor come; then upon them shall be the overthrow with which the Lord shall smite all the nations, whichever of them shall not come up to keep the feast of tabernacles.
 
 ### Zechariah 14:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: This will be the sin of Egypt and the sin of all nations, whichever do not go up to celebrate the feast of booths.
+- fresh: This will be the sin of Egypt and the sin of all the nations, as many as do not go up to celebrate the feast of booths.
 - brenton: This shall be the sin of Egypt, and the sin of all the nations, whosoever shall not come up to keep the feast of tabernacles.
 
 ### Zechariah 14:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: On that day, there will be on the horse's bridle: 'Holy to the Lord Almighty,' and the pots in the house of the Lord will be like bowls before the altar.
+- fresh: On that day, what is on the bridle of the horse will be holy to the Lord Almighty, and the pots that are in the house of the Lord will be like bowls before the face of the altar.
 - brenton: In that day there shall be upon the bridle of every horse Holiness to the Lord Almighty; and the caldrons in the house of the Lord shall be as bowls before the altar.
 
 ### Zechariah 14:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And every pot in Jerusalem and in Judah will be holy to the Lord Almighty, and all sacrificing will come and take from them and cook in them, and there will no longer be a Canaanite in the house of the Lord Almighty in that day.
+- fresh: And every pot in Jerusalem and in Judah will be holy to the Lord Almighty, and all those who sacrifice will come and take from them and cook in them, and there will no longer be a Canaanite in the house of the Lord Almighty in that day.
 - brenton: And every pot in Jerusalem and in Juda shall be holy to the Lord Almighty: and all that sacrifice shall come and take of them, and shall seethe meat in them: and in that day there shall be no more the Chananite in the house of the Lord Almighty.
 
 ## Malachi

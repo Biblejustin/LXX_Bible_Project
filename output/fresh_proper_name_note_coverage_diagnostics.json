@@ -5,18 +5,18 @@
   "logos_db": "/Users/justinscaggs/Library/Application Support/Logos4/Data/5gtnpjgs.gns/AutoComplete/AutoComplete.db",
   "ukjv_witness_rows": 31102,
   "hitchcock_meaning_rows": 2731,
-  "note_rows": 2508,
+  "note_rows": 2507,
   "source_counts": {
     "ot_rows": 22909,
     "nt_rows": 7957
   },
   "counts": {
     "skipped_stopword": 425,
-    "skipped_not_classified": 2213,
-    "equivalent_aligned": 815,
+    "skipped_not_classified": 2214,
+    "equivalent_aligned": 814,
     "included_unclassified_resolved_source_form": 486,
     "included_transliterated_form": 493,
-    "included_place": 516,
+    "included_place": 515,
     "equivalent_alias": 62,
     "equivalent_direct": 1399,
     "included_people_group": 221,

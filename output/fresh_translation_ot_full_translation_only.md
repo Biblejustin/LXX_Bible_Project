@@ -93268,31 +93268,31 @@ Behold, days of the Lord are coming, and your spoils will be divided in you.
 
 **Zechariah 14:2**
 
-And I will gather all nations against Jerusalem for war, and the city will be taken and houses plundered and women defiled, and half of the city will go out in captivity, but rest of my people will certainly not be destroyed from the city.
+And I will gather all the nations against Jerusalem for war, and the city will be taken and the houses plundered and the women defiled, and half of the city will go out in captivity, but the rest of my people will certainly not be utterly destroyed from the city.
 
 **Zechariah 14:3**
 
-And the Lord will go out and line up against those nations, as day of his battle in the day of war.
+And the Lord will go out and line up against those nations, as on a day of his battle in a day of war.
 
 **Zechariah 14:4**
 
-And his feet will stand in that day on Mount of Olives opposite Jerusalem from east, and Mount of Olives will be split in half, half eastward and half seaward, a very great chasm, and half of mountain will slope north and half south.
+And his feet will stand in that day on the Mount of Olives, opposite Jerusalem on the east, and the Mount of Olives will be split in half: half of it eastward and half of it toward the sea, a very great chasm, and half of the mountain will slope northward and half of it southward.
 
 **Zechariah 14:5**
 
-And the ravine of my mountains will be blocked up, and the ravine of mountains will cling together as far as Azal, and it will be blocked as it was blocked in the days of earthquake in the days of Uzziah king of Judah, and the Lord my God will come and all holy ones with him.
+And the ravine of my mountains will be blocked up, and the ravine of mountains will be joined together as far as Jasol, and it will be blocked as it was blocked in the days of the earthquake in the days of Uzziah king of Judah, and the Lord my God will come, and all the holy ones with him.
 
 **Zechariah 14:6**
 
-In that day there will not be light and cold and frost.
+In that day there will not be light, cold, and frost.
 
 **Zechariah 14:7**
 
-It will be one day, and that day known to the Lord, and not day and not night, and toward evening there will be light.
+It will be one day, and that day will be known to the Lord, not day and not night, and toward evening there will be light.
 
 **Zechariah 14:8**
 
-And in that day living water will go out from Jerusalem, half of it to first sea and half of it to last sea, and in summer and in spring it will be so.
+And in that day living water will go out from Jerusalem, half of it to the first sea and half of it to the last sea, and in summer and in spring it will be so.
 
 **Zechariah 14:9**
 
@@ -93300,51 +93300,51 @@ And the Lord will be king over all the earth; in that day the Lord will be one, 
 
 **Zechariah 14:10**
 
-Encircling all the land and wilderness from Gabe to Rimmon south of Jerusalem—but Ramah remains in its place—from the gate of Benjamin to place of first gate to the gate of corners and to tower of Hananeel to the king's wine-vats.
+Encircling all the land and the wilderness from Gabe to Rimmon south of Jerusalem; but Ramah will remain in its place, from the gate of Benjamin to the place of the first gate, to the gate of the corners, and to the tower of Hananeel, to the king's wine-vats.
 
 **Zechariah 14:11**
 
-And they will dwell in her, and there will no longer be curse, and Jerusalem will dwell in confidence.
+And they will dwell in her, and there will no longer be a curse, and Jerusalem will dwell in confidence.
 
 **Zechariah 14:12**
 
-And this will be downfall with which the Lord will strike all peoples who campaigned against Jerusalem: their flesh will melt while they stand on their feet, and their eyes will flow from their sockets, and their tongue will melt in their mouth.
+And this will be the downfall with which the Lord will strike all the peoples who campaigned against Jerusalem: their flesh will melt while they stand on their feet, and their eyes will flow from their sockets, and their tongue will melt in their mouth.
 
 **Zechariah 14:13**
 
-And it will be in that day, great astonishment of the Lord upon them, and each will seize hand of his neighbor, and his hand will tangle against the hand of his neighbor.
+And it will be in that day: a great astonishment of the Lord will be upon them, and each will seize the hand of his neighbor, and his hand will be tangled with the hand of his neighbor.
 
 **Zechariah 14:14**
 
-And Judah will line up in Jerusalem and gather strength of all peoples round about, gold and silver and clothing in very great abundance.
+And Judah will line up in Jerusalem and gather the strength of all the peoples round about: gold and silver and clothing in very great abundance.
 
 **Zechariah 14:15**
 
-And this will be the downfall of horses and mules and camels and donkeys and all cattle in those camps, according to this downfall.
+And this will be the downfall of the horses and the mules and the camels and the donkeys and all the cattle that are in those camps, according to this downfall.
 
 **Zechariah 14:16**
 
-And it will be, whoever are left from all nations coming against Jerusalem will go up year by year to worship the King, the Lord Almighty, and to celebrate the feast of booths.
+And it will be, as many as are left from all the nations that came against Jerusalem, they will go up year by year to worship the King, the Lord Almighty, and to celebrate the feast of booths.
 
 **Zechariah 14:17**
 
-And it will be, whichever of all tribes of earth do not go up to Jerusalem to worship the King, the Lord Almighty, these things will be added upon them.
+And it will be, as many as do not go up from all the tribes of the earth to Jerusalem to worship the King, the Lord Almighty, these also will be added to those.
 
 **Zechariah 14:18**
 
-And if tribe of Egypt does not go up nor come there, then upon them will be downfall with which the Lord will strike all nations that do not go up to celebrate the feast of booths.
+And if the tribe of Egypt does not go up nor come there, then upon these will be the downfall with which the Lord will strike all the nations, as many as do not go up to celebrate the feast of booths.
 
 **Zechariah 14:19**
 
-This will be the sin of Egypt and the sin of all nations, whichever do not go up to celebrate the feast of booths.
+This will be the sin of Egypt and the sin of all the nations, as many as do not go up to celebrate the feast of booths.
 
 **Zechariah 14:20**
 
-On that day, there will be on the horse's bridle: 'Holy to the Lord Almighty,' and the pots in the house of the Lord will be like bowls before the altar.
+On that day, what is on the bridle of the horse will be holy to the Lord Almighty, and the pots that are in the house of the Lord will be like bowls before the face of the altar.
 
 **Zechariah 14:21**
 
-And every pot in Jerusalem and in Judah will be holy to the Lord Almighty, and all sacrificing will come and take from them and cook in them, and there will no longer be a Canaanite in the house of the Lord Almighty in that day.
+And every pot in Jerusalem and in Judah will be holy to the Lord Almighty, and all those who sacrifice will come and take from them and cook in them, and there will no longer be a Canaanite in the house of the Lord Almighty in that day.
 
 ## Malachi
 
