@@ -11,6 +11,7 @@ DATA = ROOT / "data"
 OUTPUT = ROOT / "output"
 RESEARCH = DATA / "research"
 RAW_OT = DATA / "raw" / "lxx_greek" / "ot_full.csv"
+TRANSLATION_DECISIONS = RESEARCH / "translation_decisions.csv"
 DRAFTED_CSV = OUTPUT / "fresh_vs_brenton_ot_drafted.csv"
 REPORT_MD = OUTPUT / "release_hardening_report.md"
 REPORT_JSON = OUTPUT / "release_hardening_report.json"
@@ -173,7 +174,33 @@ def active_marker_hits() -> list[dict[str, str]]:
     return hits
 
 
-def scan_translation_text(rows: list[dict[str, str]]) -> tuple[list[dict[str, str]], list[dict[str, str]]]:
+def reviewed_repeated_word_allowlist(rows: list[dict[str, str]]) -> set[tuple[str, str]]:
+    allowed: set[tuple[str, str]] = set()
+    for row in rows:
+        if row.get("status", "").strip().casefold() != "reviewed":
+            continue
+        rendering = row.get("chosen_rendering", "")
+        match = REPEATED_WORD_RE.search(rendering)
+        if match:
+            allowed.add((row.get("ref", ""), match.group(1).casefold()))
+    return allowed
+
+
+def repeated_word_candidate(text: str, ref: str, reviewed_allowlist: set[tuple[str, str]]) -> str:
+    match = REPEATED_WORD_RE.search(text)
+    if not match:
+        return ""
+    word = match.group(1)
+    word_key = word.casefold()
+    if word_key in REPEATED_WORD_ALLOWLIST or (ref, word_key) in reviewed_allowlist:
+        return ""
+    return word
+
+
+def scan_translation_text(
+    rows: list[dict[str, str]],
+    reviewed_repeated_words: set[tuple[str, str]],
+) -> tuple[list[dict[str, str]], list[dict[str, str]]]:
     blocking_hits: list[dict[str, str]] = []
     repeated_word_candidates: list[dict[str, str]] = []
     for row in rows:
@@ -190,19 +217,22 @@ def scan_translation_text(rows: list[dict[str, str]]) -> tuple[list[dict[str, st
                         "text": text,
                     }
                 )
-        match = REPEATED_WORD_RE.search(text)
-        if match and match.group(1).lower() not in REPEATED_WORD_ALLOWLIST:
+        repeated_word = repeated_word_candidate(text, ref, reviewed_repeated_words)
+        if repeated_word:
             repeated_word_candidates.append(
                 {
                     "ref": ref,
-                    "word": match.group(1),
+                    "word": repeated_word,
                     "text": text,
                 }
             )
     return blocking_hits, repeated_word_candidates
 
 
-def deterministic_samples(rows: list[dict[str, str]]) -> list[dict[str, str]]:
+def deterministic_samples(
+    rows: list[dict[str, str]],
+    reviewed_repeated_words: set[tuple[str, str]],
+) -> list[dict[str, str]]:
     by_book: dict[str, list[dict[str, str]]] = defaultdict(list)
     for row in rows:
         by_book[row.get("book_name", "")].append(row)
@@ -225,8 +255,7 @@ def deterministic_samples(rows: list[dict[str, str]]) -> list[dict[str, str]]:
                 for name, pattern in BLOCKING_PATTERNS.items()
                 if pattern.search(text)
             ]
-            repeated = REPEATED_WORD_RE.search(text)
-            repeated_word = repeated.group(1) if repeated and repeated.group(1).lower() not in REPEATED_WORD_ALLOWLIST else ""
+            repeated_word = repeated_word_candidate(text, row["ref"], reviewed_repeated_words)
             samples.append(
                 {
                     "book_name": book,
@@ -286,6 +315,7 @@ def build_markdown(report: dict[str, object]) -> str:
 def main() -> None:
     raw_rows = load_csv(RAW_OT)
     drafted_rows = load_csv(DRAFTED_CSV)
+    decisions = load_csv(TRANSLATION_DECISIONS)
     statuses = latest_review_statuses()
     priority_rows = load_csv(OUTPUT / "fresh_vs_brenton_ot_priority_review.csv")
 
@@ -293,8 +323,9 @@ def main() -> None:
     drafted_counts = row_count_and_duplicates(DRAFTED_CSV)
     queues = watch_queue_counts()
     active_hits = active_marker_hits()
-    blocking_hits, repeated_word_candidates = scan_translation_text(raw_rows)
-    samples = deterministic_samples(raw_rows)
+    reviewed_repeated_words = reviewed_repeated_word_allowlist(decisions)
+    blocking_hits, repeated_word_candidates = scan_translation_text(raw_rows, reviewed_repeated_words)
+    samples = deterministic_samples(raw_rows, reviewed_repeated_words)
     sample_artifact_hits = sum(1 for row in samples if row["artifact_checks"] or row["repeated_word_candidate"])
 
     resolved_statuses = {"keep", "revised"}

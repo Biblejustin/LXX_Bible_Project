@@ -345,6 +345,25 @@ def test_crossref_phrase_anchors_match_fresh_text_and_broad_links_stay_local() -
                     assert off_book == [], (testament, ref, phrase, off_book)
 
 
+def test_release_hardening_ignores_reviewed_cognate_repetitions() -> None:
+    sys.path.insert(0, str(ROOT / "scripts"))
+    import build_release_hardening_report as hardening
+
+    decisions = hardening.load_csv(hardening.TRANSLATION_DECISIONS)
+    reviewed_repeated_words = hardening.reviewed_repeated_word_allowlist(decisions)
+    assert ("Ezekiel 38:12", "plunder") in reviewed_repeated_words
+
+    raw_rows = hardening.load_csv(hardening.RAW_OT)
+    _blocking_hits, repeated = hardening.scan_translation_text(
+        raw_rows,
+        reviewed_repeated_words,
+    )
+    assert not any(
+        row["ref"] == "Ezekiel 38:12" and row["word"].casefold() == "plunder"
+        for row in repeated
+    )
+
+
 def test_common_lord_article_formulas_are_normalized() -> None:
     ot_rows = csv_rows("data/raw/lxx_greek/ot_full.csv")
     formulas = (
