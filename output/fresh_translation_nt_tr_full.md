@@ -116542,7 +116542,7 @@ Greek: συνεπεμψαμεν δε αυτοις τον αδελφον ημων
 Transliteration: sunepemqamen de autoiv ton adelfon hmwn on edokimasamen en polloiv pollakiv spoudaion onta nuni de polu spoudaioteron pepoiyhsei pollh th eiv umav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you.
+Draft translation: And we sent with them our brother, whom we often proved in many things to be diligent, but now much more diligent by great confidence toward you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -116624,7 +116624,7 @@ Greek: οιδα γαρ την προθυμιαν υμων ην υπερ υμων
 Transliteration: oida gar thn proyumian umwn hn uper umwn kaucwmai makedosin oti acaia pareskeuastai apo perusi kai o ex umwn zhlov hreyisen touv pleionav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal has provoked very many.
+Draft translation: For I know your readiness, for which I boast about you to Macedonians, that Achaia has been ready since last year; and your zeal stirred up the majority.
 
 Decision rows:
 - [TODO add decision rows]
@@ -116724,7 +116724,7 @@ Greek: εκαστος καθως προαιρειται τη καρδια μη �
 Transliteration: ekastov kaywv proaireitai th kardia mh ek luphv h ex anagkhv ilaron gar dothn agapa o yeov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Every man according as he purposes in his heart, so let him give; not grudgingly, or of necessity: for God loves a cheerful giver.
+Draft translation: Let each one give as he purposes in the heart, not from sorrow or from necessity: for God loves a cheerful giver.
 
 Decision rows:
 - [TODO add decision rows]
@@ -116864,7 +116864,7 @@ Greek: και αυτων δεησει υπερ υμων επιποθουντων
 Transliteration: kai autwn dehsei uper umwn epipoyountwn umav dia thn uperballousan carin tou yeou ef umin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And by their prayer for you, which long after you for the exceeding grace of God in you.
+Draft translation: and in their prayer for you, longing for you because of the surpassing grace of God upon you.
 
 Decision rows:
 - [TODO add decision rows]

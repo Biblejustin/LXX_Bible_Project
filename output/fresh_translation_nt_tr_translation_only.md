@@ -23570,7 +23570,7 @@ Providing for honest things, not only in the sight of the Lord, but also in the 
 
 **2 Corinthians 8:22**
 
-And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you.
+And we sent with them our brother, whom we often proved in many things to be diligent, but now much more diligent by great confidence toward you.
 
 **2 Corinthians 8:23**
 
@@ -23588,7 +23588,7 @@ For as concerning the ministering to the holy ones, it is superfluous for me to 
 
 **2 Corinthians 9:2**
 
-For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal has provoked very many.
+For I know your readiness, for which I boast about you to Macedonians, that Achaia has been ready since last year; and your zeal stirred up the majority.
 
 **2 Corinthians 9:3**
 
@@ -23608,7 +23608,7 @@ But this I say, the one who sows sparingly shall reap also sparingly; and the on
 
 **2 Corinthians 9:7**
 
-Every man according as he purposes in his heart, so let him give; not grudgingly, or of necessity: for God loves a cheerful giver.
+Let each one give as he purposes in the heart, not from sorrow or from necessity: for God loves a cheerful giver.
 
 **2 Corinthians 9:8**
 
@@ -23636,7 +23636,7 @@ While by the experiment of this ministration they glorify God for your professed
 
 **2 Corinthians 9:14**
 
-And by their prayer for you, which long after you for the exceeding grace of God in you.
+and in their prayer for you, longing for you because of the surpassing grace of God upon you.
 
 **2 Corinthians 9:15**
 

@@ -7305,6 +7305,26 @@ def test_nt_second_corinthians_6_to_8_queue_revisions_and_keeps_stay_reviewed() 
         assert ref not in queue_refs
 
 
+def test_nt_second_corinthians_8_to_9_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected = {
+        "2 Corinthians 8:22": "And we sent with them our brother, whom we often proved in many things to be diligent, but now much more diligent by great confidence toward you.",
+        "2 Corinthians 9:2": "For I know your readiness, for which I boast about you to Macedonians, that Achaia has been ready since last year; and your zeal stirred up the majority.",
+        "2 Corinthians 9:7": "Let each one give as he purposes in the heart, not from sorrow or from necessity: for God loves a cheerful giver.",
+        "2 Corinthians 9:14": "and in their prayer for you, longing for you because of the surpassing grace of God upon you.",
+    }
+    for ref, draft_translation in expected.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_147.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
