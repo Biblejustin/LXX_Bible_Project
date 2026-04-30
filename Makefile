@@ -1,6 +1,6 @@
 .PHONY: setup test csv-check build-ot checkpoint-ot review-ot-fast build-ot-review build-nt build-nt-fast build-nt-book review-nt-fast clean-working
 
-PYTHON ?= python3
+PYTHON ?= python
 CHANGES ?= Reviewed article and readability cleanup.
 GUARD_NOTE ?= review chunk
 

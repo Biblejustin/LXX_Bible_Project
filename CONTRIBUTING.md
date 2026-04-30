@@ -38,8 +38,8 @@ is intended to be readable, not an unbounded TSK dump.
 ## Build And Test
 
 ```bash
-python3 -m pip install -r requirements.txt
-python3 -m compileall -q scripts
+python -m pip install -r requirements.txt
+python -m compileall -q scripts
 pytest -q
 ```
 

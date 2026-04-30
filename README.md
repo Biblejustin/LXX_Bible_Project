@@ -34,9 +34,9 @@ text and source evidence to see whether these things are correct.
 - Install local dependencies with:
 
 ```bash
-python3 -m venv .venv
+python -m venv .venv
 source .venv/bin/activate
-python3 -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 The legacy LaTeX output is written as `.tex`; compiling it requires a Unicode
@@ -59,7 +59,7 @@ standard system fonts such as Baskerville and Times New Roman.
 ## Quick Start
 
 ```bash
-python3 -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
 make test
 make build-ot
 make build-nt
@@ -102,7 +102,7 @@ If `make` is unavailable, run the commands listed in `Makefile` directly.
 ## Reproducibility Checks
 
 ```bash
-python3 -m compileall -q scripts
+python -m compileall -q scripts
 pytest -q
 ```
 
@@ -188,7 +188,7 @@ make build-nt
 Scoped day-to-day workflow:
 
 ```bash
-python3 scripts/build_fresh_translation.py \
+python scripts/build_fresh_translation.py \
   --source data/raw/lxx_greek/ot_full.csv \
   --book Exodus \
   --chapter-start 32 \
@@ -198,7 +198,7 @@ python3 scripts/build_fresh_translation.py \
   --translation-only-output output/working/exodus_32_34_translation_only.md \
   --diagnostics output/working/exodus_32_34_diagnostics.json
 
-python3 scripts/build_fresh_vs_brenton_compare.py \
+python scripts/build_fresh_vs_brenton_compare.py \
   --source data/raw/lxx_greek/ot_full.csv \
   --book Exodus \
   --chapter-start 32 \
@@ -212,7 +212,7 @@ python3 scripts/build_fresh_vs_brenton_compare.py \
 One-command scoped review pack:
 
 ```bash
-python3 scripts/run_translation_review.py \
+python scripts/run_translation_review.py \
   --book Deuteronomy \
   --chapter-start 3 \
   --chapter-end 5 \
@@ -229,7 +229,7 @@ This writes:
 OT book-checkpoint rebuild:
 
 ```bash
-python3 scripts/run_book_checkpoint.py
+python scripts/run_book_checkpoint.py
 ```
 
 This enforces contextual proper-name decisions, syncs support notes, refreshes proper-name note coverage, and rebuilds consolidated outputs:
@@ -242,7 +242,7 @@ This enforces contextual proper-name decisions, syncs support notes, refreshes p
 Priority-review suite:
 
 ```bash
-python3 scripts/run_priority_review_suite.py
+python scripts/run_priority_review_suite.py
 ```
 
 This rebuilds:
@@ -290,13 +290,13 @@ Existing OT release-candidate package:
 Private witness matrix:
 
 ```bash
-python3 scripts/build_private_witness_matrix.py
+python scripts/build_private_witness_matrix.py
 ```
 
 Private English witness worksheet for NETS / LES / SAAS:
 
 ```bash
-python3 scripts/build_private_english_witness_observations.py
+python scripts/build_private_english_witness_observations.py
 ```
 
 This writes:
@@ -310,7 +310,7 @@ Do not store long copyrighted text.
 Private NT English witness worksheet for LSB / ESV / KJV:
 
 ```bash
-python3 scripts/build_private_nt_english_witness_observations.py
+python scripts/build_private_nt_english_witness_observations.py
 ```
 
 This writes:
@@ -324,7 +324,7 @@ Do not store long copyrighted text.
 Private Logos-local observation worksheet:
 
 ```bash
-python3 scripts/build_private_logos_local_observations.py
+python scripts/build_private_logos_local_observations.py
 ```
 
 This writes:
@@ -338,7 +338,7 @@ Do not store copyrighted book text.
 Public Logos-local review summary:
 
 ```bash
-python3 scripts/build_logos_local_review.py
+python scripts/build_logos_local_review.py
 ```
 
 This writes:
@@ -351,7 +351,7 @@ This writes:
 Proper-name watch:
 
 ```bash
-python3 scripts/build_proper_name_watch.py
+python scripts/build_proper_name_watch.py
 ```
 
 This writes:
@@ -365,12 +365,12 @@ Use this for normalizing Greekized OT names toward familiar MT-based English for
 Apply approved proper-name normalizations:
 
 ```bash
-python3 scripts/apply_contextual_proper_name_decisions.py --dry-run
-python3 scripts/apply_contextual_proper_name_decisions.py --summary-only
-python3 scripts/apply_proper_name_decisions.py --dry-run
-python3 scripts/apply_proper_name_decisions.py --rebuild-watch
-python3 scripts/apply_proper_name_decisions.py --forms "Ierousalem,Roboam" --rebuild-watch
-python3 scripts/apply_proper_name_decisions.py --checkpoint
+python scripts/apply_contextual_proper_name_decisions.py --dry-run
+python scripts/apply_contextual_proper_name_decisions.py --summary-only
+python scripts/apply_proper_name_decisions.py --dry-run
+python scripts/apply_proper_name_decisions.py --rebuild-watch
+python scripts/apply_proper_name_decisions.py --forms "Ierousalem,Roboam" --rebuild-watch
+python scripts/apply_proper_name_decisions.py --checkpoint
 ```
 
 Contextual decisions read:
@@ -389,8 +389,8 @@ And writes private summaries:
 Apply witness decisions back into source:
 
 ```bash
-python3 scripts/apply_witness_decisions.py --dry-run
-python3 scripts/apply_witness_decisions.py --rebuild-scoped
+python scripts/apply_witness_decisions.py --dry-run
+python scripts/apply_witness_decisions.py --rebuild-scoped
 ```
 
 This reads:
@@ -418,7 +418,7 @@ Recommended rhythm:
 Scan local Logos library into ignored private outputs:
 
 ```bash
-python3 scripts/scan_logos_library.py
+python scripts/scan_logos_library.py
 ```
 
 This produces:
@@ -431,10 +431,10 @@ Options:
 
 ```bash
 # scan a specific Logos account
-python3 scripts/scan_logos_library.py --account fuwvxxd2.2xq
+python scripts/scan_logos_library.py --account fuwvxxd2.2xq
 
 # merge all Logos accounts into one union inventory
-python3 scripts/scan_logos_library.py --all-accounts --output-dir data/research/local/logos_scan_merged
+python scripts/scan_logos_library.py --all-accounts --output-dir data/research/local/logos_scan_merged
 ```
 
 Merged output adds account metadata columns:
@@ -452,10 +452,10 @@ Local Logos state inspection:
 
 ```bash
 # inspect one account
-python3 scripts/inspect_logos_local_state.py --account fuwvxxd2.2xq
+python scripts/inspect_logos_local_state.py --account fuwvxxd2.2xq
 
 # inspect every account
-python3 scripts/inspect_logos_local_state.py --all-accounts --output-dir data/research/local/logos_state_merged
+python scripts/inspect_logos_local_state.py --all-accounts --output-dir data/research/local/logos_state_merged
 ```
 
 This writes:
@@ -469,8 +469,8 @@ This writes:
 Local Logos index query:
 
 ```bash
-python3 scripts/query_logos_local_index.py salvation --account fuwvxxd2.2xq
-python3 scripts/query_logos_local_index.py σωτηρία --account fuwvxxd2.2xq
+python scripts/query_logos_local_index.py salvation --account fuwvxxd2.2xq
+python scripts/query_logos_local_index.py σωτηρία --account fuwvxxd2.2xq
 ```
 
 This queries:

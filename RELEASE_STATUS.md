@@ -70,8 +70,8 @@ Primary committed outputs:
 ## Rebuild Commands
 
 ```bash
-python3 scripts/run_book_checkpoint.py
-python3 scripts/run_priority_review_suite.py
+python scripts/run_book_checkpoint.py
+python scripts/run_priority_review_suite.py
 ```
 
 The priority suite now includes the release-hardening report.

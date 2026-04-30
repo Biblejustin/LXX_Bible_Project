@@ -8956,6 +8956,8 @@ def test_logos_readmes_use_testament_specific_language() -> None:
 
 def test_root_readme_reflects_complete_fresh_workspace() -> None:
     readme = (ROOT / "README.md").read_text(encoding="utf-8")
+    contributing = (ROOT / "CONTRIBUTING.md").read_text(encoding="utf-8")
+    makefile = (ROOT / "Makefile").read_text(encoding="utf-8")
     translation_rules = (ROOT / "data" / "research" / "translation_rules.md").read_text(encoding="utf-8")
     research_readme = (ROOT / "data" / "research" / "README.md").read_text(encoding="utf-8")
     architecture = (ROOT / "docs" / "ARCHITECTURE.md").read_text(encoding="utf-8")
@@ -8984,6 +8986,9 @@ def test_root_readme_reflects_complete_fresh_workspace() -> None:
     assert "Phrase and verse decisions used by the fresh output pipeline" in architecture
     assert "not aggregate output rebuilds" in architecture_flat
     assert "`make build-nt` before NT release-facing commits" in architecture_flat
+    assert "PYTHON ?= python" in makefile
+    assert "python3" not in readme
+    assert "python3" not in contributing
 
 
 def test_data_dictionary_matches_current_editable_schemas() -> None:
@@ -9043,6 +9048,7 @@ def test_release_status_distinguishes_ot_rc_from_complete_nt_workspace() -> None
     assert "combined OT/NT release package has not been cut" in status
     assert f"`{len(pending_variant_refs)}` non-blocking pending" in status
     assert "Genesis 1:1-3:21 plus Joshua 24:33 and Judges 6:34" in status
+    assert "python3" not in status
 
 
 def test_fresh_full_markdown_has_no_todo_placeholders() -> None:
