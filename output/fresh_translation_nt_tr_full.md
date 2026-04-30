@@ -155868,7 +155868,7 @@ Greek: και εσταθην επι την αμμον της θαλασσης κ
 Transliteration: kai estayhn epi thn ammon thv yalasshv kai eidon ek thv yalasshv yhrion anabainon econ kefalav epta kai kerata deka kai epi twn keratwn autou deka diadhmata kai epi tav kefalav autou onoma blasfhmiav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
+Draft translation: And I stood upon the sand of the sea, and saw a beast ascending out of the sea, having seven heads and ten horns, and upon his horns ten diadems, and upon his heads a name of blasphemy.
 
 Decision rows:
 - [TODO add decision rows]
@@ -155908,7 +155908,7 @@ Greek: και ειδον μιαν των κεφαλων αυτου ως εσφα
 Transliteration: kai eidon mian twn kefalwn autou wv esfagmenhn eiv yanaton kai h plhgh tou yanatou autou eyerapeuyh kai eyaumasen olh h gh opisw tou yhriou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
+Draft translation: And I saw one of his heads as having been slain to death; and the wound of his death was healed: and the whole earth marveled after the beast.
 
 Decision rows:
 - [TODO add decision rows]
@@ -156068,7 +156068,7 @@ Greek: και ειδον αλλο θηριον αναβαινον εκ της γ
 Transliteration: kai eidon allo yhrion anabainon ek thv ghv kai eicen kerata duo omoia arniw kai elalei wv drakwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spoke as a dragon.
+Draft translation: And I saw another beast ascending out of the earth; and he had two horns like a lamb, and he spoke as a dragon.
 
 Decision rows:
 - [TODO add decision rows]
@@ -156108,7 +156108,7 @@ Greek: και ποιει σημεια μεγαλα ινα και πυρ ποιη
 Transliteration: kai poiei shmeia megala ina kai pur poih katabainein ek tou ouranou eiv thn ghn enwpion twn anyrwpwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he does great wonders, so that he makes fire come down from heaven on the earth in the sight of men,
+Draft translation: And he does great signs, so that he even makes fire come down from heaven to the earth before men,
 
 Decision rows:
 - [TODO add decision rows]
@@ -156250,7 +156250,7 @@ Greek: και ηκουσα φωνην εκ του ουρανου ως φωνην
 Transliteration: kai hkousa fwnhn ek tou ouranou wv fwnhn udatwn pollwn kai wv fwnhn bronthv megalhv kai fwnhn hkousa kiyarwdwn kiyarizontwn en taiv kiyaraiv autwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps:
+Draft translation: And I heard a voice from heaven, as a voice of many waters, and as a voice of great thunder: and I heard a voice of harpists playing on their harps:
 
 Decision rows:
 - [TODO add decision rows]
@@ -156310,7 +156310,7 @@ Greek: και εν τω στοματι αυτων ουχ ευρεθη δολος
 Transliteration: kai en tw stomati autwn ouc eureyh dolov amwmoi gar eisin enwpion tou yronou tou yeou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And in their mouth was found no guile: for they are without fault before the throne of God.
+Draft translation: And in their mouth no deceit was found: for they are blameless before the throne of God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -156590,7 +156590,7 @@ Greek: και εβαλεν ο αγγελος το δρεπανον αυτου ε
 Transliteration: kai ebalen o aggelov to drepanon autou eiv thn ghn kai etrughsen thn ampelon thv ghv kai ebalen eiv thn lhnon tou yumou tou yeou thn megalhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast it into the great winepress of the wrath of God.
+Draft translation: And the angel cast his sickle into the earth, and harvested the vine of the earth, and cast it into the great winepress of the wrath of God.
 
 Decision rows:
 - [TODO add decision rows]

@@ -31616,7 +31616,7 @@ And the dragon was angry with the woman, and went to make war with the remnant o
 
 **Revelation 13:1**
 
-And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
+And I stood upon the sand of the sea, and saw a beast ascending out of the sea, having seven heads and ten horns, and upon his horns ten diadems, and upon his heads a name of blasphemy.
 
 **Revelation 13:2**
 
@@ -31624,7 +31624,7 @@ And the beast which I saw was like to a leopard, and his feet were as the feet o
 
 **Revelation 13:3**
 
-And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
+And I saw one of his heads as having been slain to death; and the wound of his death was healed: and the whole earth marveled after the beast.
 
 **Revelation 13:4**
 
@@ -31656,7 +31656,7 @@ the one who leads into captivity shall go into captivity: the one who kills with
 
 **Revelation 13:11**
 
-And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spoke as a dragon.
+And I saw another beast ascending out of the earth; and he had two horns like a lamb, and he spoke as a dragon.
 
 **Revelation 13:12**
 
@@ -31664,7 +31664,7 @@ And he execises all the power of the first beast before him, and causes the eart
 
 **Revelation 13:13**
 
-And he does great wonders, so that he makes fire come down from heaven on the earth in the sight of men,
+And he does great signs, so that he even makes fire come down from heaven to the earth before men,
 
 **Revelation 13:14**
 
@@ -31694,7 +31694,7 @@ And I looked, and, look, a Lamb stood on the mount Zion, and with him a hundred 
 
 **Revelation 14:2**
 
-And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps:
+And I heard a voice from heaven, as a voice of many waters, and as a voice of great thunder: and I heard a voice of harpists playing on their harps:
 
 **Revelation 14:3**
 
@@ -31706,7 +31706,7 @@ These are those who were not defiled with women; for they are virgins. These are
 
 **Revelation 14:5**
 
-And in their mouth was found no guile: for they are without fault before the throne of God.
+And in their mouth no deceit was found: for they are blameless before the throne of God.
 
 **Revelation 14:6**
 
@@ -31762,7 +31762,7 @@ And another angel came out from the altar, which had power over fire; and cried 
 
 **Revelation 14:19**
 
-And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast it into the great winepress of the wrath of God.
+And the angel cast his sickle into the earth, and harvested the vine of the earth, and cast it into the great winepress of the wrath of God.
 
 **Revelation 14:20**
 

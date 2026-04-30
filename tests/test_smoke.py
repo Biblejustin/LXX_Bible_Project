@@ -8667,6 +8667,30 @@ def test_nt_revelation_12_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_revelation_13_to_14_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Revelation 13:1": "And I stood upon the sand of the sea, and saw a beast ascending out of the sea, having seven heads and ten horns, and upon his horns ten diadems, and upon his heads a name of blasphemy.",
+        "Revelation 13:3": "And I saw one of his heads as having been slain to death; and the wound of his death was healed: and the whole earth marveled after the beast.",
+        "Revelation 13:11": "And I saw another beast ascending out of the earth; and he had two horns like a lamb, and he spoke as a dragon.",
+        "Revelation 13:13": "And he does great signs, so that he even makes fire come down from heaven to the earth before men,",
+        "Revelation 14:2": "And I heard a voice from heaven, as a voice of many waters, and as a voice of great thunder: and I heard a voice of harpists playing on their harps:",
+        "Revelation 14:5": "And in their mouth no deceit was found: for they are blameless before the throne of God.",
+        "Revelation 14:17": "And another angel came out of the temple which is in heaven, he also having a sharp sickle.",
+        "Revelation 14:19": "And the angel cast his sickle into the earth, and harvested the vine of the earth, and cast it into the great winepress of the wrath of God.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_197.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

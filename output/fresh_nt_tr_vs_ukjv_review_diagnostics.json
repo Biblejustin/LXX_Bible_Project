@@ -2,21 +2,21 @@
   "method": "TR literal draft is primary; UKJV is witness only.",
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
-  "same_normalized": 2020,
-  "different_normalized": 5937,
+  "same_normalized": 2013,
+  "different_normalized": 5944,
   "priority_rows": 0,
   "queue_rows": 0,
   "status_counts": {
-    "tr_literal_manual": 3376,
+    "tr_literal_manual": 3384,
     "tr_literal_pass1": 3869,
-    "needs_focused_tr_review": 712
+    "needs_focused_tr_review": 704
   },
   "latest_review_status_counts": {
     "keep": 3327,
-    "revised": 3432,
-    "unreviewed": 1198
+    "revised": 3440,
+    "unreviewed": 1190
   },
-  "resolved_review_rows": 6759,
+  "resolved_review_rows": 6767,
   "importance_counts": {
     "none": 7957
   },
