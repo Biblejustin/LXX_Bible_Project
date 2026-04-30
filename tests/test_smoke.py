@@ -8566,6 +8566,19 @@ def test_nt_revelation_4_to_6_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_revelation_zoon_rows_use_living_creature_language() -> None:
+    zoon_re = re.compile(r"(?<!\S)ζω(?:ον|ου|α|ων)(?!\S)")
+    offenders = {
+        row["ref"]: row["draft_translation"]
+        for row in csv_rows("data/raw/tr_greek/nt_full.csv")
+        if row["book_name"] == "Revelation"
+        and zoon_re.search(row["greek_text"])
+        and re.search(r"\bbeasts?\b", row["draft_translation"], re.I)
+    }
+
+    assert offenders == {}
+
+
 def test_nt_revelation_7_to_8_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
     review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
@@ -8738,6 +8751,29 @@ def test_nt_revelation_18_queue_revisions_stay_reviewed() -> None:
         assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
         assert review_by_ref[ref]["latest_review_status"] == "revised"
         assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_199.md"
+        assert ref not in queue_refs
+
+
+def test_nt_revelation_19_to_20_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Revelation 19:14": "And the armies which were in heaven followed him on white horses, clothed in fine linen, white and clean.",
+        "Revelation 19:15": "And out of his mouth goes a sharp sword, that with it he should strike the nations: and he shall shepherd them with a rod of iron: and he treads the winepress of the wine of the fury and wrath of God Almighty.",
+        "Revelation 20:1": "And I saw an angel coming down from heaven, having the key of the abyss and a great chain in his hand.",
+        "Revelation 20:2": "And he laid hold of the dragon, the ancient serpent, who is Devil and Satan, and bound him a thousand years,",
+        "Revelation 20:3": "And cast him into the abyss, and shut him up, and sealed over him, that he should deceive the nations no longer, until the thousand years should be fulfilled: and after these things he must be loosed a little time.",
+        "Revelation 20:7": "And when the thousand years are fulfilled, Satan shall be loosed out of his prison,",
+        "Revelation 20:12": "And I saw the dead, small and great, standing before God; and books were opened: and another book was opened, which is the book of life: and the dead were judged from the things written in the books, according to their works.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_200.md"
         assert ref not in queue_refs
 
 

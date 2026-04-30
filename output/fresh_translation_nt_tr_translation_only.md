@@ -30680,7 +30680,7 @@ Yet Michael the archangel, when contending with the devil he disputed about the 
 
 **Jude 1:10**
 
-But these speak evil of those things which they do not know: but what they know naturally, as brute beasts, in those things they corrupt themselves.
+But these speak evil of those things which they do not know: but what they know naturally, as brute living creatures, in those things they corrupt themselves.
 
 **Jude 1:11**
 
@@ -31058,7 +31058,7 @@ And out of the throne proceeded lightnings and thunderings and voices: and there
 
 **Revelation 4:6**
 
-And before the throne there was a sea of glass like to crystal: and in the midst of the throne, and round about the throne, were four beasts full of eyes before and behind.
+And before the throne there was a sea of glass like to crystal: and in the midst of the throne, and round about the throne, were four living creatures full of eyes before and behind.
 
 **Revelation 4:7**
 
@@ -31066,11 +31066,11 @@ And the first living creature was like a lion, and the second living creature li
 
 **Revelation 4:8**
 
-And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.
+And the four living creatures had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.
 
 **Revelation 4:9**
 
-And when those beasts give glory and honor and thanks to him who sat on the throne, who lives forever and ever,
+And when those living creatures give glory and honor and thanks to him who sat on the throne, who lives forever and ever,
 
 **Revelation 4:10**
 
@@ -31104,7 +31104,7 @@ And one of the elders says to me, Weep not: look, the Lion of the tribe of Judah
 
 **Revelation 5:6**
 
-And I beheld, and, look, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been killed, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.
+And I beheld, and, look, in the midst of the throne and of the four living creatures, and in the midst of the elders, stood a Lamb as it had been killed, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.
 
 **Revelation 5:7**
 
@@ -31112,7 +31112,7 @@ And he came and took the book out of the right hand of him who sat upon the thro
 
 **Revelation 5:8**
 
-And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden bowls full of incense, which are the prayers of holy ones.
+And when he had taken the book, the four living creatures and four and twenty elders fell down before the Lamb, each having harps, and golden bowls full of incense, which are the prayers of holy ones.
 
 **Revelation 5:9**
 
@@ -31136,7 +31136,7 @@ And every creature which is in heaven, and on the earth, and under the earth, an
 
 **Revelation 5:14**
 
-And the four beasts said, Amen. And the four and twenty elders fell down and worshiped him who lives forever and ever.
+And the four living creatures said, Amen. And the four and twenty elders fell down and worshiped him who lives forever and ever.
 
 ### Chapter 6
 
@@ -31158,11 +31158,11 @@ And there went out another horse that was red: and power was given to him who sa
 
 **Revelation 6:5**
 
-And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and look a black horse; and the one who sat on him had a pair of balances in his hand.
+And when he had opened the third seal, I heard the third living creature saying, Come and see. And I beheld, and look a black horse; and the one who sat on him had a pair of balances in his hand.
 
 **Revelation 6:6**
 
-And I heard a voice in the midst of the four beasts say, A measure of wheat for a denarius, and three measures of barley for a denarius; and see you do not harm the oil and the wine.
+And I heard a voice in the midst of the four living creatures saying, A measure of wheat for a denarius, and three measures of barley for a denarius; and see you do not harm the oil and the wine.
 
 **Revelation 6:7**
 
@@ -31252,7 +31252,7 @@ And cried with a loud voice, saying, Salvation to our God who sits upon the thro
 
 **Revelation 7:11**
 
-And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshiped God,
+And all the angels stood round about the throne, and about the elders and the four living creatures, and fell before the throne on their faces, and worshiped God,
 
 **Revelation 7:12**
 
@@ -31698,7 +31698,7 @@ And I heard a voice from heaven, as a voice of many waters, and as a voice of gr
 
 **Revelation 14:3**
 
-And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no one could learn that song but the hundred and forty and four thousand, which were redeemed from the earth.
+And they sung as it were a new song before the throne, and before the four living creatures, and the elders: and no one could learn that song but the hundred and forty and four thousand, which were redeemed from the earth.
 
 **Revelation 14:4**
 
@@ -31796,7 +31796,7 @@ And the seven angels having the seven plagues came out of the temple, clothed in
 
 **Revelation 15:7**
 
-And one of the four beasts gave to the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.
+And one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.
 
 **Revelation 15:8**
 
@@ -32076,7 +32076,7 @@ And again they said, Alleluia And her smoke rose up forever and ever.
 
 **Revelation 19:4**
 
-And the four and twenty elders and the four beasts fell down and worshiped God that sat on the throne, saying, Amen; Alleluia.
+And the four and twenty elders and the four living creatures fell down and worshiped God that sat on the throne, saying, Amen; Alleluia.
 
 **Revelation 19:5**
 
@@ -32116,11 +32116,11 @@ And he was clothed with a vesture dipped in blood: and his name is called The Wo
 
 **Revelation 19:14**
 
-And the armies which were in heaven followed him upon white horses, clothed in fine linen, white and clean.
+And the armies which were in heaven followed him on white horses, clothed in fine linen, white and clean.
 
 **Revelation 19:15**
 
-And out of his mouth goes a sharp sword, that with it he should strike the nations: and he shall rule them with a rod of iron: and he treads the winepress of the fierceness and wrath of Almighty God.
+And out of his mouth goes a sharp sword, that with it he should strike the nations: and he shall shepherd them with a rod of iron: and he treads the winepress of the wine of the fury and wrath of God Almighty.
 
 **Revelation 19:16**
 
@@ -32150,15 +32150,15 @@ And the remnant were killed with the sword of him who sat upon the horse, which 
 
 **Revelation 20:1**
 
-And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.
+And I saw an angel coming down from heaven, having the key of the abyss and a great chain in his hand.
 
 **Revelation 20:2**
 
-And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,
+And he laid hold of the dragon, the ancient serpent, who is Devil and Satan, and bound him a thousand years,
 
 **Revelation 20:3**
 
-And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season.
+And cast him into the abyss, and shut him up, and sealed over him, that he should deceive the nations no longer, until the thousand years should be fulfilled: and after these things he must be loosed a little time.
 
 **Revelation 20:4**
 
@@ -32174,7 +32174,7 @@ Blessed and holy is the one who has part in the first resurrection: on such the 
 
 **Revelation 20:7**
 
-And when the thousand years are expired, Satan shall be loosed out of his prison,
+And when the thousand years are fulfilled, Satan shall be loosed out of his prison,
 
 **Revelation 20:8**
 
@@ -32194,7 +32194,7 @@ And I saw a great white throne, and him who sat on it, from whose face the earth
 
 **Revelation 20:12**
 
-And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.
+And I saw the dead, small and great, standing before God; and books were opened: and another book was opened, which is the book of life: and the dead were judged from the things written in the books, according to their works.
 
 **Revelation 20:13**
 

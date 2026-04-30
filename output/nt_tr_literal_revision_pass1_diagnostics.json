@@ -3,9 +3,9 @@
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
   "status_counts": {
-    "tr_literal_manual": 3398,
+    "tr_literal_manual": 3405,
     "tr_literal_pass1": 3869,
-    "needs_focused_tr_review": 690
+    "needs_focused_tr_review": 683
   },
   "changed_by_book": {
     "MAT": 913,
@@ -34,10 +34,10 @@
     "2JN": 11,
     "3JN": 14,
     "JUD": 24,
-    "REV": 372
+    "REV": 379
   },
   "rule_counts": {
-    "manual TR literal override": 3398,
+    "manual TR literal override": 3405,
     "aligned gennao with fathered": 17,
     "rendered adelphoi-family wording as brothers": 149,
     "rendered general brings-forth as produces": 27,
@@ -56,7 +56,7 @@
     "standardized Judea spelling": 26,
     "modernized are-come perfect": 11,
     "modernized he-that relative": 165,
-    "UKJV seed retained; needs focused Greek review": 690,
+    "UKJV seed retained; needs focused Greek review": 683,
     "standardized Juda as Judah in tribe/land contexts": 8,
     "modernized enquired spelling": 4,
     "removed UKJV plural-expansion artifact": 721,
@@ -531,7 +531,9 @@
     "aligned peri relative wording": 1,
     "modernized hears-not wording": 1,
     "fixed non-person relative after witness": 1,
+    "rendered zoon as living creature": 12,
     "fixed clothing-down-to-foot artifact": 1,
+    "normalized living-creature participle": 2,
     "modernized prevailed-not wording": 1,
     "rendered phiale as bowl": 11,
     "modernized colour spelling": 1,
@@ -542,8 +544,8 @@
     "modernized lived-not wording": 1
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
-  "review_queue_rows": 19,
-  "needs_focused_tr_review_rows": 690,
+  "review_queue_rows": 12,
+  "needs_focused_tr_review_rows": 683,
   "review_queue_resolved_by_pass": 671,
   "examples": {
     "manual TR literal override": [
@@ -6784,11 +6786,40 @@
         "draft_translation": "If we receive the witness of men, the witness of God is greater: for this is the witness of God which he has testified of his Son."
       }
     ],
+    "rendered zoon as living creature": [
+      {
+        "ref": "Jude 1:10",
+        "book_code": "JUD",
+        "draft_translation": "But these speak evil of those things which they do not know: but what they know naturally, as brute living creatures, in those things they corrupt themselves."
+      },
+      {
+        "ref": "Revelation 4:6",
+        "book_code": "REV",
+        "draft_translation": "And before the throne there was a sea of glass like to crystal: and in the midst of the throne, and round about the throne, were four living creatures full of eyes before and behind."
+      },
+      {
+        "ref": "Revelation 4:8",
+        "book_code": "REV",
+        "draft_translation": "And the four living creatures had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come."
+      }
+    ],
     "fixed clothing-down-to-foot artifact": [
       {
         "ref": "Revelation 1:13",
         "book_code": "REV",
         "draft_translation": "And in the midst of the seven candlesticks one like to the Son of man, clothed with a garment reaching to the feet, and girt about the breast with a golden girdle."
+      }
+    ],
+    "normalized living-creature participle": [
+      {
+        "ref": "Revelation 6:5",
+        "book_code": "REV",
+        "draft_translation": "And when he had opened the third seal, I heard the third living creature saying, Come and see. And I beheld, and look a black horse; and the one who sat on him had a pair of balances in his hand."
+      },
+      {
+        "ref": "Revelation 6:6",
+        "book_code": "REV",
+        "draft_translation": "And I heard a voice in the midst of the four living creatures saying, A measure of wheat for a denarius, and three measures of barley for a denarius; and see you do not harm the oil and the wine."
       }
     ],
     "modernized prevailed-not wording": [
@@ -6802,7 +6833,7 @@
       {
         "ref": "Revelation 15:7",
         "book_code": "REV",
-        "draft_translation": "And one of the four beasts gave to the seven angels seven golden bowls full of the wrath of God, who lives forever and ever."
+        "draft_translation": "And one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God, who lives forever and ever."
       },
       {
         "ref": "Revelation 16:1",

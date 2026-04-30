@@ -155,6 +155,10 @@ def greek_has_phrase(greek: str, phrase: str) -> bool:
     return cached_regex(rf"(?<!\S){re.escape(phrase)}(?!\S)").search(greek) is not None
 
 
+def greek_has_zoon_creature(greek: str) -> bool:
+    return cached_regex(r"(?<!\S)ζω(?:ον|ου|α|ων)(?!\S)").search(greek) is not None
+
+
 def load_rows(path: Path) -> tuple[list[dict[str, str]], list[str]]:
     with path.open("r", encoding="utf-8", newline="") as handle:
         reader = csv.DictReader(handle)
@@ -893,6 +897,41 @@ def apply_greek_triggered_revisions(row: dict[str, str], text: str, notes: list[
     if greek_has_stem(greek, "φιαλ"):
         text = replace_word(text, "vials", "bowls", "rendered phiale as bowl", notes)
         text = replace_word(text, "vial", "bowl", "rendered phiale as bowl", notes)
+    if greek_has_zoon_creature(greek):
+        text = replace_literal(
+            text,
+            r"\bfour beasts\b",
+            "four living creatures",
+            "rendered zoon as living creature",
+            notes,
+            flags=re.I,
+        )
+        text = replace_literal(
+            text,
+            r"\b(the (?:first|second|third|fourth)) beast\b",
+            r"\1 living creature",
+            "rendered zoon as living creature",
+            notes,
+            flags=re.I,
+        )
+        text = replace_word(text, "beasts", "living creatures", "rendered zoon as living creature", notes)
+        text = replace_word(text, "beast", "living creature", "rendered zoon as living creature", notes)
+        text = replace_literal(
+            text,
+            r"\b(the (?:first|second|third|fourth) living creature) say,",
+            r"\1 saying,",
+            "normalized living-creature participle",
+            notes,
+            flags=re.I,
+        )
+        text = replace_literal(
+            text,
+            r"\b(a voice in the midst of the four living creatures) say,",
+            r"\1 saying,",
+            "normalized living-creature participle",
+            notes,
+            flags=re.I,
+        )
     if greek_has_stem(greek, "ζωντ") or greek_has_stem(greek, "ζωσι"):
         text = replace_literal(text, r"\bquick and dead\b", "living and dead", "rendered living/dead idiom", notes, flags=re.I)
     if greek_has_phrase(greek, "μη γενοιτο"):
@@ -4818,9 +4857,16 @@ MANUAL_OVERRIDES = {
     "1 Timothy 2:9": "Likewise also, that women adorn themselves in modest apparel, with reverence and sobriety; not with braided hair, or gold, or pearls, or costly array;",
     "1 Timothy 6:9": "But those who will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and ruin.",
     "Jude 1:11": "Woe to them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the rebellion of Korah.",
-    "Revelation 5:8": "And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden bowls full of incense, which are the prayers of holy ones.",
+    "Revelation 5:8": "And when he had taken the book, the four living creatures and four and twenty elders fell down before the Lamb, each having harps, and golden bowls full of incense, which are the prayers of holy ones.",
     "Revelation 17:8": "The beast that you saw was, and is not; and shall ascend out of the bottomless pit, and go into destruction: and those who dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.",
     "Revelation 19:8": "And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteous acts of holy ones.",
+    "Revelation 19:14": "And the armies which were in heaven followed him on white horses, clothed in fine linen, white and clean.",
+    "Revelation 19:15": "And out of his mouth goes a sharp sword, that with it he should strike the nations: and he shall shepherd them with a rod of iron: and he treads the winepress of the wine of the fury and wrath of God Almighty.",
+    "Revelation 20:1": "And I saw an angel coming down from heaven, having the key of the abyss and a great chain in his hand.",
+    "Revelation 20:2": "And he laid hold of the dragon, the ancient serpent, who is Devil and Satan, and bound him a thousand years,",
+    "Revelation 20:3": "And cast him into the abyss, and shut him up, and sealed over him, that he should deceive the nations no longer, until the thousand years should be fulfilled: and after these things he must be loosed a little time.",
+    "Revelation 20:7": "And when the thousand years are fulfilled, Satan shall be loosed out of his prison,",
+    "Revelation 20:12": "And I saw the dead, small and great, standing before God; and books were opened: and another book was opened, which is the book of life: and the dead were judged from the things written in the books, according to their works.",
     "Revelation 18:9": "And the kings of the earth, who have committed sexual immorality and lived luxuriously with her, shall mourn for her, and lament for her, when they shall see the smoke of her burning,",
     "Romans 1:2": "which he promised beforehand through his prophets in holy Scriptures,",
     "Romans 1:3": "concerning his Son, who came from David's seed according to flesh,",

@@ -151300,7 +151300,7 @@ Greek: ουτοι δε οσα μεν ουκ οιδασιν βλασφημουσ�
 Transliteration: outoi de osa men ouk oidasin blasfhmousin osa de fusikwv wv ta aloga zwa epistantai en toutoiv fyeirontai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But these speak evil of those things which they do not know: but what they know naturally, as brute beasts, in those things they corrupt themselves.
+Draft translation: But these speak evil of those things which they do not know: but what they know naturally, as brute living creatures, in those things they corrupt themselves.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153150,7 +153150,7 @@ Greek: και ενωπιον του θρονου θαλασσα υαλινη ο�
 Transliteration: kai enwpion tou yronou yalassa ualinh omoia krustallw kai en mesw tou yronou kai kuklw tou yronou tessara zwa gemonta ofyalmwn emprosyen kai opisyen
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And before the throne there was a sea of glass like to crystal: and in the midst of the throne, and round about the throne, were four beasts full of eyes before and behind.
+Draft translation: And before the throne there was a sea of glass like to crystal: and in the midst of the throne, and round about the throne, were four living creatures full of eyes before and behind.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153190,7 +153190,7 @@ Greek: και τεσσαρα ζωα εν καθ εαυτο ειχον ανα π�
 Transliteration: kai tessara zwa en kay eauto eicon ana pterugav ex kukloyen kai eswyen gemonta ofyalmwn kai anapausin ouk ecousin hmerav kai nuktov legonta agiov agiov agiov kuriov o yeov o pantokratwr o hn kai o wn kai o ercomenov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.
+Draft translation: And the four living creatures had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153210,7 +153210,7 @@ Greek: και οταν δωσουσιν τα ζωα δοξαν και τιμην
 Transliteration: kai otan dwsousin ta zwa doxan kai timhn kai eucaristian tw kayhmenw epi tou yronou tw zwnti eiv touv aiwnav twn aiwnwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when those beasts give glory and honor and thanks to him who sat on the throne, who lives forever and ever,
+Draft translation: And when those living creatures give glory and honor and thanks to him who sat on the throne, who lives forever and ever,
 
 Decision rows:
 - [TODO add decision rows]
@@ -153372,7 +153372,7 @@ Greek: και ειδον και ιδου εν μεσω του θρονου κα�
 Transliteration: kai eidon kai idou en mesw tou yronou kai twn tessarwn zwwn kai en mesw twn presbuterwn arnion esthkov wv esfagmenon econ kerata epta kai ofyalmouv epta oi eisin ta epta tou yeou pneumata ta apestalmena eiv pasan thn ghn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I beheld, and, look, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been killed, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.
+Draft translation: And I beheld, and, look, in the midst of the throne and of the four living creatures, and in the midst of the elders, stood a Lamb as it had been killed, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153412,7 +153412,7 @@ Greek: και οτε ελαβεν το βιβλιον τα τεσσαρα ζωα
 Transliteration: kai ote elaben to biblion ta tessara zwa kai oi eikositessarev presbuteroi epeson enwpion tou arniou econtev ekastov kiyarav kai fialav crusav gemousav yumiamatwn ai eisin ai proseucai twn agiwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden bowls full of incense, which are the prayers of holy ones.
+Draft translation: And when he had taken the book, the four living creatures and four and twenty elders fell down before the Lamb, each having harps, and golden bowls full of incense, which are the prayers of holy ones.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153532,7 +153532,7 @@ Greek: και τα τεσσαρα ζωα ελεγον αμην και οι ει�
 Transliteration: kai ta tessara zwa elegon amhn kai oi eikositessarev presbuteroi epesan kai prosekunhsan zwnti eiv touv aiwnav twn aiwnwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the four beasts said, Amen. And the four and twenty elders fell down and worshiped him who lives forever and ever.
+Draft translation: And the four living creatures said, Amen. And the four and twenty elders fell down and worshiped him who lives forever and ever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153634,7 +153634,7 @@ Greek: και οτε ηνοιξεν την τριτην σφραγιδα ηκο�
 Transliteration: kai ote hnoixen thn trithn sfragida hkousa tou tritou zwou legontov ercou kai blepe kai eidon kai idou ippov melav kai o kayhmenov ep autw ecwn zugon en th ceiri autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and look a black horse; and the one who sat on him had a pair of balances in his hand.
+Draft translation: And when he had opened the third seal, I heard the third living creature saying, Come and see. And I beheld, and look a black horse; and the one who sat on him had a pair of balances in his hand.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153654,7 +153654,7 @@ Greek: και ηκουσα φωνην εν μεσω των τεσσαρων ζω
 Transliteration: kai hkousa fwnhn en mesw twn tessarwn zwwn legousan coinix sitou dhnariou kai treiv coinikev kriyhv dhnariou kai to elaion kai ton oinon mh adikhshv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I heard a voice in the midst of the four beasts say, A measure of wheat for a denarius, and three measures of barley for a denarius; and see you do not harm the oil and the wine.
+Draft translation: And I heard a voice in the midst of the four living creatures saying, A measure of wheat for a denarius, and three measures of barley for a denarius; and see you do not harm the oil and the wine.
 
 Decision rows:
 - [TODO add decision rows]
@@ -154096,7 +154096,7 @@ Greek: και παντες οι αγγελοι εστηκεσαν κυκλω τ�
 Transliteration: kai pantev oi aggeloi esthkesan kuklw tou yronou kai twn presbuterwn kai twn tessarwn zwwn kai epeson enwpion tou yronou epi proswpon autwn kai prosekunhsan tw yew
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshiped God,
+Draft translation: And all the angels stood round about the throne, and about the elders and the four living creatures, and fell before the throne on their faces, and worshiped God,
 
 Decision rows:
 - [TODO add decision rows]
@@ -156270,7 +156270,7 @@ Greek: και αδουσιν ως ωδην καινην ενωπιον του θ
 Transliteration: kai adousin wv wdhn kainhn enwpion tou yronou kai enwpion twn tessarwn zwwn kai twn presbuterwn kai oudeiv hdunato mayein thn wdhn ei mh ai ekaton tessarakonta tessarev ciliadev oi hgorasmenoi apo thv ghv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no one could learn that song but the hundred and forty and four thousand, which were redeemed from the earth.
+Draft translation: And they sung as it were a new song before the throne, and before the four living creatures, and the elders: and no one could learn that song but the hundred and forty and four thousand, which were redeemed from the earth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -156752,7 +156752,7 @@ Greek: και εν εκ των τεσσαρων ζωων εδωκεν τοις �
 Transliteration: kai en ek twn tessarwn zwwn edwken toiv epta aggeloiv epta fialav crusav gemousav tou yumou tou yeou tou zwntov eiv touv aiwnav twn aiwnwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And one of the four beasts gave to the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.
+Draft translation: And one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.
 
 Decision rows:
 - [TODO add decision rows]
@@ -158120,7 +158120,7 @@ Greek: και επεσαν οι πρεσβυτεροι οι εικοσι και 
 Transliteration: kai epesan oi presbuteroi oi eikosi kai tessarev kai ta tessara zwa kai prosekunhsan tw yew tw kayhmenw epi tou yronou legontev amhn allhlouia
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the four and twenty elders and the four beasts fell down and worshiped God that sat on the throne, saying, Amen; Alleluia.
+Draft translation: And the four and twenty elders and the four living creatures fell down and worshiped God that sat on the throne, saying, Amen; Alleluia.
 
 Decision rows:
 - [TODO add decision rows]
@@ -158320,7 +158320,7 @@ Greek: και τα στρατευματα τα εν τω ουρανω ηκολο
 Transliteration: kai ta strateumata ta en tw ouranw hkolouyei autw ef ippoiv leukoiv endedumenoi bussinon leukon kai kayaron
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the armies which were in heaven followed him upon white horses, clothed in fine linen, white and clean.
+Draft translation: And the armies which were in heaven followed him on white horses, clothed in fine linen, white and clean.
 
 Decision rows:
 - [TODO add decision rows]
@@ -158340,7 +158340,7 @@ Greek: και εκ του στοματος αυτου εκπορευεται ρ�
 Transliteration: kai ek tou stomatov autou ekporeuetai romfaia oxeia ina en auth patassh ta eynh kai autov poimanei autouv en rabdw sidhra kai autov patei thn lhnon tou oinou tou yumou kai thv orghv tou yeou tou pantokratorov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And out of his mouth goes a sharp sword, that with it he should strike the nations: and he shall rule them with a rod of iron: and he treads the winepress of the fierceness and wrath of Almighty God.
+Draft translation: And out of his mouth goes a sharp sword, that with it he should strike the nations: and he shall shepherd them with a rod of iron: and he treads the winepress of the wine of the fury and wrath of God Almighty.
 
 Decision rows:
 - [TODO add decision rows]
@@ -158482,7 +158482,7 @@ Greek: και ειδον αγγελον καταβαινοντα εκ του ο�
 Transliteration: kai eidon aggelon katabainonta ek tou ouranou econta thn kleida thv abussou kai alusin megalhn epi thn ceira autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.
+Draft translation: And I saw an angel coming down from heaven, having the key of the abyss and a great chain in his hand.
 
 Decision rows:
 - [TODO add decision rows]
@@ -158502,7 +158502,7 @@ Greek: και εκρατησεν τον δρακοντα τον οφιν τον 
 Transliteration: kai ekrathsen ton drakonta ton ofin ton arcaion ov estin diabolov kai satanav kai edhsen auton cilia eth
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,
+Draft translation: And he laid hold of the dragon, the ancient serpent, who is Devil and Satan, and bound him a thousand years,
 
 Decision rows:
 - [TODO add decision rows]
@@ -158522,7 +158522,7 @@ Greek: και εβαλεν αυτον εις την αβυσσον και εκλ
 Transliteration: kai ebalen auton eiv thn abusson kai ekleisen auton kai esfragisen epanw autou ina mh planhsh ta eynh eti acri telesyh ta cilia eth kai meta tauta dei auton luyhnai mikron cronon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season.
+Draft translation: And cast him into the abyss, and shut him up, and sealed over him, that he should deceive the nations no longer, until the thousand years should be fulfilled: and after these things he must be loosed a little time.
 
 Decision rows:
 - [TODO add decision rows]
@@ -158602,7 +158602,7 @@ Greek: και οταν τελεσθη τα χιλια ετη λυθησεται 
 Transliteration: kai otan telesyh ta cilia eth luyhsetai o satanav ek thv fulakhv autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when the thousand years are expired, Satan shall be loosed out of his prison,
+Draft translation: And when the thousand years are fulfilled, Satan shall be loosed out of his prison,
 
 Decision rows:
 - [TODO add decision rows]
@@ -158702,7 +158702,7 @@ Greek: και ειδον τους νεκρους μικρους και μεγα�
 Transliteration: kai eidon touv nekrouv mikrouv kai megalouv estwtav enwpion tou yeou kai biblia hnewcyhsan kai biblion allo hnewcyh o estin thv zwhv kai ekriyhsan oi nekroi ek twn gegrammenwn en toiv biblioiv kata ta erga autwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.
+Draft translation: And I saw the dead, small and great, standing before God; and books were opened: and another book was opened, which is the book of life: and the dead were judged from the things written in the books, according to their works.
 
 Decision rows:
 - [TODO add decision rows]
