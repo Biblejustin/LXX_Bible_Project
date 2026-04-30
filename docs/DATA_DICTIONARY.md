@@ -37,9 +37,27 @@ Applies to `data/research/translation_footnotes.csv`.
 | Column | Meaning |
 | --- | --- |
 | `ref` | Verse reference |
-| `anchor` | Word or phrase where the note should attach |
 | `note_type` | Note category, such as translation, name, place, or textual |
-| `note` | Public note text |
+| `trigger_phrase` | Word or phrase where the note should attach |
+| `footnote_text` | Public note text |
+| `source_basis` | Short evidence or source category behind the note |
+| `status` | Review state, such as `drafted`, `reviewed`, or `approved` |
+
+## Translation Decisions
+
+Applies to `data/research/translation_decisions.csv`.
+
+| Column | Meaning |
+| --- | --- |
+| `ref` | Verse reference |
+| `greek_phrase` | Source phrase or verse span under review |
+| `lemma` | Lemma support field when available |
+| `morphology` | Morphology support field when available |
+| `chosen_rendering` | Reviewed English rendering used by the fresh output |
+| `alternate_renderings` | Other renderings considered during review |
+| `rationale` | Short reason for the chosen rendering |
+| `status` | Review state, such as `drafted`, `reviewed`, or `accepted` |
+| `reviewer` | Reviewer/source marker for the decision |
 
 ## Variant Notes
 
@@ -48,10 +66,24 @@ Applies to `data/research/variant_notes.csv`.
 | Column | Meaning |
 | --- | --- |
 | `ref` | Verse reference |
-| `anchor` | Word or phrase where the note should attach |
-| `variant_type` | Local category for the textual issue |
-| `note` | Reader-facing note text |
-| `source` | Witness or review source used for the note |
+| `witnesses` | Witnesses or source tradition named for the variant |
+| `reading` | Variant reading or textual issue under review |
+| `translation_impact` | Plain-language effect on translation, if any |
+| `decision` | Current editorial decision for the note |
+| `status` | Review state, such as `pending` or `reviewed` |
+
+## Reviewed Phrase Guards
+
+Applies to `data/research/reviewed_phrase_guards.csv`.
+
+| Column | Meaning |
+| --- | --- |
+| `testament` | Source workspace scope, such as `ot` or `nt` |
+| `ref` | Verse reference |
+| `mode` | Guard mode, such as `contains` or `equals` |
+| `phrase` | Reviewed phrase that must remain in the source output |
+| `note` | Short reason for the guard |
+| `status` | Review state for the guard row |
 
 ## Proper Name Notes
 
@@ -59,12 +91,32 @@ Applies to `data/proper_name_transliteration_notes.csv`.
 
 | Column | Meaning |
 | --- | --- |
-| `scope` | Testament/book scope for the note |
-| `ref` | Reference where the name occurs |
 | `name` | Source transliterated form found in the draft/source layer |
+| `kind` | Name category, such as transliterated form or place name |
+| `first_reference` | First reference where the name note applies |
+| `source` | Testament or source scope for the note |
 | `english_equivalent` | Familiar English equivalent used or recommended in the main text |
+| `source_form` | Source-form spelling found in the draft/source layer |
+| `greek_form` | Greek spelling tied to the source form |
 | `name_meaning` | Meaning supplied from public-domain name sources or manual research |
-| `note` | Reader-facing note text |
+| `equivalent_source` | Source or rule used to choose the English equivalent |
+| `equivalent_confidence` | Confidence category for the chosen equivalent |
+| `footnote` | Reader-facing note text |
+
+## Contextual Proper Name Decisions
+
+Applies to `data/research/contextual_proper_name_decisions.csv`.
+
+| Column | Meaning |
+| --- | --- |
+| `ref` | Verse reference |
+| `current_form` | Form currently found in the source draft |
+| `preferred_form` | Context-specific English form to use |
+| `match_text` | Optional exact text to replace |
+| `replacement_text` | Optional exact replacement text |
+| `reason` | Short reason for the contextual decision |
+| `status` | Review or application state |
+| `notes` | Application notes or extra review details |
 
 ## Diagnostics JSON
 

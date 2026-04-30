@@ -48,6 +48,11 @@ def csv_rows(relative_path: str) -> list[dict[str, str]]:
         return list(csv.DictReader(handle))
 
 
+def csv_header(relative_path: str) -> list[str]:
+    with (ROOT / relative_path).open("r", encoding="utf-8", newline="") as handle:
+        return next(csv.reader(handle))
+
+
 def sha256(relative_path: str) -> str:
     return hashlib.sha256((ROOT / relative_path).read_bytes()).hexdigest()
 
@@ -8962,6 +8967,32 @@ def test_root_readme_reflects_complete_fresh_workspace() -> None:
     assert "Phrase and verse decisions used by the fresh output pipeline" in architecture
     assert "not aggregate output rebuilds" in architecture_flat
     assert "`make build-nt` before NT release-facing commits" in architecture_flat
+
+
+def test_data_dictionary_matches_current_editable_schemas() -> None:
+    dictionary = (ROOT / "docs" / "DATA_DICTIONARY.md").read_text(encoding="utf-8")
+    expected_paths = [
+        "data/research/translation_footnotes.csv",
+        "data/research/translation_decisions.csv",
+        "data/research/variant_notes.csv",
+        "data/research/reviewed_phrase_guards.csv",
+        "data/proper_name_transliteration_notes.csv",
+        "data/research/contextual_proper_name_decisions.csv",
+    ]
+
+    for relative_path in expected_paths:
+        assert f"`{relative_path}`" in dictionary
+        for column in csv_header(relative_path):
+            assert f"`{column}`" in dictionary
+
+    for stale_phrase in (
+        "`anchor`",
+        "`variant_type`",
+        "`note` | Public note text",
+        "`source` | Witness or review source used for the note",
+        "`scope` | Testament/book scope for the note",
+    ):
+        assert stale_phrase not in dictionary
 
 
 def test_fresh_translation_research_stack_is_scope_specific() -> None:
