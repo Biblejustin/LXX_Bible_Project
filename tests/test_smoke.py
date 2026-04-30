@@ -7502,6 +7502,33 @@ def test_nt_galatians_4_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_galatians_5_to_6_queue_revisions_and_keep_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Galatians 5:3": "And I testify again to every man who is circumcised, that he is a debtor to do the whole law.",
+        "Galatians 5:12": "I wish those who unsettle you would even cut themselves off.",
+        "Galatians 5:23": "Meekness, self-control: against such there is no law.",
+        "Galatians 5:26": "Let us not become vain-glorious, provoking one another, envying one another.",
+        "Galatians 6:3": "For if anyone thinks himself to be something, being nothing, he deceives himself.",
+        "Galatians 6:4": "But let each one prove his own work, and then he shall have boasting in himself alone, and not in another.",
+        "Galatians 6:5": "For each one shall bear his own load.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_155.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["Galatians 5:9"]["latest_review_status"] == "keep"
+    assert review_by_ref["Galatians 5:9"]["latest_review_pass"] == "nt_review_pass_155.md"
+    assert "Galatians 5:9" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

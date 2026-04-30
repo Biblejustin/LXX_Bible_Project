@@ -24436,7 +24436,7 @@ Look, I Paul say to you, that if you are circumcised, Christ shall profit you no
 
 **Galatians 5:3**
 
-For I testify again to every man that is circumcised, that he is a debtor to do the whole law.
+And I testify again to every man who is circumcised, that he is a debtor to do the whole law.
 
 **Galatians 5:4**
 
@@ -24472,7 +24472,7 @@ And I, brothers, if I yet preach circumcision, why do I yet suffer persecution? 
 
 **Galatians 5:12**
 
-I would they were even cut off which trouble you.
+I wish those who unsettle you would even cut themselves off.
 
 **Galatians 5:13**
 
@@ -24516,7 +24516,7 @@ But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, good
 
 **Galatians 5:23**
 
-Meekness, wilful restrain: against such there is no law.
+Meekness, self-control: against such there is no law.
 
 **Galatians 5:24**
 
@@ -24528,7 +24528,7 @@ If we live in the Spirit, let us also walk in the Spirit.
 
 **Galatians 5:26**
 
-Let us not be desirous of vain glory, provoking one another, envying one another.
+Let us not become vain-glorious, provoking one another, envying one another.
 
 ### Chapter 6
 
@@ -24542,15 +24542,15 @@ Bear you one another's burdens, and so fulfill the law of Christ.
 
 **Galatians 6:3**
 
-For if a man think himself to be something, when he is nothing, he deceives himself.
+For if anyone thinks himself to be something, being nothing, he deceives himself.
 
 **Galatians 6:4**
 
-But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.
+But let each one prove his own work, and then he shall have boasting in himself alone, and not in another.
 
 **Galatians 6:5**
 
-For every man shall bear his own burden.
+For each one shall bear his own load.
 
 **Galatians 6:6**
 

@@ -120784,7 +120784,7 @@ Greek: μαρτυρομαι δε παλιν παντι ανθρωπω περιτ
 Transliteration: marturomai de palin panti anyrwpw peritemnomenw oti ofeilethv estin olon ton nomon poihsai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For I testify again to every man that is circumcised, that he is a debtor to do the whole law.
+Draft translation: And I testify again to every man who is circumcised, that he is a debtor to do the whole law.
 
 Decision rows:
 - [TODO add decision rows]
@@ -120964,7 +120964,7 @@ Greek: οφελον και αποκοψονται οι αναστατουντε�
 Transliteration: ofelon kai apokoqontai oi anastatountev umav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I would they were even cut off which trouble you.
+Draft translation: I wish those who unsettle you would even cut themselves off.
 
 Decision rows:
 - [TODO add decision rows]
@@ -121184,7 +121184,7 @@ Greek: πραοτης εγκρατεια κατα των τοιουτων ουκ
 Transliteration: praothv egkrateia kata twn toioutwn ouk estin nomov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Meekness, wilful restrain: against such there is no law.
+Draft translation: Meekness, self-control: against such there is no law.
 
 Decision rows:
 - [TODO add decision rows]
@@ -121244,7 +121244,7 @@ Greek: μη γινωμεθα κενοδοξοι αλληλους προκαλο�
 Transliteration: mh ginwmeya kenodoxoi allhlouv prokaloumenoi allhloiv fyonountev
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let us not be desirous of vain glory, provoking one another, envying one another.
+Draft translation: Let us not become vain-glorious, provoking one another, envying one another.
 
 Decision rows:
 - [TODO add decision rows]
@@ -121306,7 +121306,7 @@ Greek: ει γαρ δοκει τις ειναι τι μηδεν ων εαυτο�
 Transliteration: ei gar dokei tiv einai ti mhden wn eauton frenapata
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For if a man think himself to be something, when he is nothing, he deceives himself.
+Draft translation: For if anyone thinks himself to be something, being nothing, he deceives himself.
 
 Decision rows:
 - [TODO add decision rows]
@@ -121326,7 +121326,7 @@ Greek: το δε εργον εαυτου δοκιμαζετω εκαστος κ�
 Transliteration: to de ergon eautou dokimazetw ekastov kai tote eiv eauton monon to kauchma exei kai ouk eiv ton eteron
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.
+Draft translation: But let each one prove his own work, and then he shall have boasting in himself alone, and not in another.
 
 Decision rows:
 - [TODO add decision rows]
@@ -121346,7 +121346,7 @@ Greek: εκαστος γαρ το ιδιον φορτιον βαστασει
 Transliteration: ekastov gar to idion fortion bastasei
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For every man shall bear his own burden.
+Draft translation: For each one shall bear his own load.
 
 Decision rows:
 - [TODO add decision rows]
