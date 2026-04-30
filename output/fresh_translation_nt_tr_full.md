@@ -137644,7 +137644,7 @@ Greek: μη σκληρυνητε τας καρδιας υμων ως εν τω �
 Transliteration: mh sklhrunhte tav kardiav umwn wv en tw parapikrasmw kata thn hmeran tou peirasmou en th erhmw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:
+Draft translation: Do not harden your hearts, as in the provocation, in the day of testing in the wilderness:
 
 Decision rows:
 - [TODO add decision rows]
@@ -137664,7 +137664,7 @@ Greek: ου επειρασαν με οι πατερες υμων εδοκιμα�
 Transliteration: ou epeirasan me oi paterev umwn edokimasan me kai eidon ta erga mou tessarakonta eth
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: When your fathers tempted me, proved me, and saw my works forty years.
+Draft translation: where your fathers tested me, proved me, and saw my works forty years.
 
 Decision rows:
 - [TODO add decision rows]
@@ -137804,7 +137804,7 @@ Greek: τινες γαρ ακουσαντες παρεπικραναν αλλ ο
 Transliteration: tinev gar akousantev parepikranan all ou pantev oi exelyontev ex aiguptou dia mwsewv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For some, when they had heard, did provoke: nevertheless not all that came out of Egypt by Moses.
+Draft translation: For who, when they heard, provoked? was it not all who came out of Egypt by Moses?
 
 Decision rows:
 - [TODO add decision rows]
@@ -137844,7 +137844,7 @@ Greek: τισιν δε ωμοσεν μη εισελευσεσθαι εις τη�
 Transliteration: tisin de wmosen mh eiseleusesyai eiv thn katapausin autou ei mh toiv apeiyhsasin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And to whom swore the one who they should not enter into his rest, but to those who did not believe?
+Draft translation: And to whom did he swear that they should not enter into his rest, but to those who disobeyed?
 
 Decision rows:
 - [TODO add decision rows]
@@ -137864,7 +137864,7 @@ Greek: και βλεπομεν οτι ουκ ηδυνηθησαν εισελθε
 Transliteration: kai blepomen oti ouk hdunhyhsan eiselyein di apistian
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: So we see that they could not enter in because of unbelief.
+Draft translation: And we see that they could not enter because of unbelief.
 
 Decision rows:
 - [TODO add decision rows]
@@ -137886,7 +137886,7 @@ Greek: φοβηθωμεν ουν μηποτε καταλειπομενης επ�
 Transliteration: fobhywmen oun mhpote kataleipomenhv epaggeliav eiselyein eiv thn katapausin autou dokh tiv ex umwn usterhkenai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.
+Draft translation: Let us therefore fear, lest, a promise remaining of entering into his rest, any of you should seem to have come short.
 
 Decision rows:
 - [TODO add decision rows]
@@ -137926,7 +137926,7 @@ Greek: εισερχομεθα γαρ εις την καταπαυσιν οι π�
 Transliteration: eisercomeya gar eiv thn katapausin oi pisteusantev kaywv eirhken wv wmosa en th orgh mou ei eiseleusontai eiv thn katapausin mou kaitoi twn ergwn apo katabolhv kosmou genhyentwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.
+Draft translation: For we who have believed enter into the rest, as he said, As I swore in my wrath, They shall not enter into my rest: although the works were finished from the foundation of the world.
 
 Decision rows:
 - [TODO add decision rows]
@@ -137946,7 +137946,7 @@ Greek: ειρηκεν γαρ που περι της εβδομης ουτως κ
 Transliteration: eirhken gar pou peri thv ebdomhv outwv kai katepausen o yeov en th hmera th ebdomh apo pantwn twn ergwn autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For he spoke in a certain place of the seventh day likewise, And God did rest the seventh day from all his works.
+Draft translation: For he spoke somewhere concerning the seventh day in this way, And God rested on the seventh day from all his works.
 
 Decision rows:
 - [TODO add decision rows]
@@ -137966,7 +137966,7 @@ Greek: και εν τουτω παλιν ει εισελευσονται εις 
 Transliteration: kai en toutw palin ei eiseleusontai eiv thn katapausin mou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And in this place again, If they shall enter into my rest.
+Draft translation: And in this place again, They shall not enter into my rest.
 
 Decision rows:
 - [TODO add decision rows]
@@ -138026,7 +138026,7 @@ Greek: ει γαρ αυτους ιησους κατεπαυσεν ουκ αν π
 Transliteration: ei gar autouv ihsouv katepausen ouk an peri allhv elalei meta tauta hmerav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For if Jesus had given them rest, then would he not afterward have spoken of another day.
+Draft translation: For if Joshua had given them rest, he would not afterward have spoken of another day.
 
 Decision rows:
 - [TODO add decision rows]
@@ -138046,7 +138046,7 @@ Greek: αρα απολειπεται σαββατισμος τω λαω του �
 Transliteration: ara apoleipetai sabbatismov tw law tou yeou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: There remains therefore a rest to the people of God.
+Draft translation: There remains therefore a Sabbath rest for the people of God.
 
 Decision rows:
 - [TODO add decision rows]

@@ -8029,6 +8029,37 @@ def test_nt_hebrews_1_to_2_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_hebrews_3_to_4_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Hebrews 3:8": "Do not harden your hearts, as in the provocation, in the day of testing in the wilderness:",
+        "Hebrews 3:9": "where your fathers tested me, proved me, and saw my works forty years.",
+        "Hebrews 3:16": "For who, when they heard, provoked? was it not all who came out of Egypt by Moses?",
+        "Hebrews 3:18": "And to whom did he swear that they should not enter into his rest, but to those who disobeyed?",
+        "Hebrews 3:19": "And we see that they could not enter because of unbelief.",
+        "Hebrews 4:1": "Let us therefore fear, lest, a promise remaining of entering into his rest, any of you should seem to have come short.",
+        "Hebrews 4:3": "For we who have believed enter into the rest, as he said, As I swore in my wrath, They shall not enter into my rest: although the works were finished from the foundation of the world.",
+        "Hebrews 4:4": "For he spoke somewhere concerning the seventh day in this way, And God rested on the seventh day from all his works.",
+        "Hebrews 4:5": "And in this place again, They shall not enter into my rest.",
+        "Hebrews 4:8": "For if Joshua had given them rest, he would not afterward have spoken of another day.",
+        "Hebrews 4:9": "There remains therefore a Sabbath rest for the people of God.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_174.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["Hebrews 3:11"]["latest_review_status"] == "keep"
+    assert review_by_ref["Hebrews 3:11"]["latest_review_pass"] == "nt_review_pass_174.md"
+    assert "Hebrews 3:11" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

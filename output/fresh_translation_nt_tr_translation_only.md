@@ -27888,11 +27888,11 @@ Therefore (as the Holy Spirit says, today if you will hear his voice,
 
 **Hebrews 3:8**
 
-Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:
+Do not harden your hearts, as in the provocation, in the day of testing in the wilderness:
 
 **Hebrews 3:9**
 
-When your fathers tempted me, proved me, and saw my works forty years.
+where your fathers tested me, proved me, and saw my works forty years.
 
 **Hebrews 3:10**
 
@@ -27920,7 +27920,7 @@ While it is said, today if you will hear his voice, harden not your hearts, as i
 
 **Hebrews 3:16**
 
-For some, when they had heard, did provoke: nevertheless not all that came out of Egypt by Moses.
+For who, when they heard, provoked? was it not all who came out of Egypt by Moses?
 
 **Hebrews 3:17**
 
@@ -27928,17 +27928,17 @@ But with whom was he grieved forty years? was it not with those who had sinned, 
 
 **Hebrews 3:18**
 
-And to whom swore the one who they should not enter into his rest, but to those who did not believe?
+And to whom did he swear that they should not enter into his rest, but to those who disobeyed?
 
 **Hebrews 3:19**
 
-So we see that they could not enter in because of unbelief.
+And we see that they could not enter because of unbelief.
 
 ### Chapter 4
 
 **Hebrews 4:1**
 
-Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.
+Let us therefore fear, lest, a promise remaining of entering into his rest, any of you should seem to have come short.
 
 **Hebrews 4:2**
 
@@ -27946,15 +27946,15 @@ For to us was the good news preached, as well as to them: but the word preached 
 
 **Hebrews 4:3**
 
-For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.
+For we who have believed enter into the rest, as he said, As I swore in my wrath, They shall not enter into my rest: although the works were finished from the foundation of the world.
 
 **Hebrews 4:4**
 
-For he spoke in a certain place of the seventh day likewise, And God did rest the seventh day from all his works.
+For he spoke somewhere concerning the seventh day in this way, And God rested on the seventh day from all his works.
 
 **Hebrews 4:5**
 
-And in this place again, If they shall enter into my rest.
+And in this place again, They shall not enter into my rest.
 
 **Hebrews 4:6**
 
@@ -27966,11 +27966,11 @@ Again, he limits a certain day, saying in David, today, after so long a time; as
 
 **Hebrews 4:8**
 
-For if Jesus had given them rest, then would he not afterward have spoken of another day.
+For if Joshua had given them rest, he would not afterward have spoken of another day.
 
 **Hebrews 4:9**
 
-There remains therefore a rest to the people of God.
+There remains therefore a Sabbath rest for the people of God.
 
 **Hebrews 4:10**
 

@@ -3,9 +3,9 @@
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
   "status_counts": {
-    "tr_literal_manual": 3171,
-    "tr_literal_pass1": 3871,
-    "needs_focused_tr_review": 915
+    "tr_literal_manual": 3182,
+    "tr_literal_pass1": 3870,
+    "needs_focused_tr_review": 905
   },
   "changed_by_book": {
     "MAT": 913,
@@ -26,7 +26,7 @@
     "2TI": 74,
     "TIT": 45,
     "PHM": 24,
-    "HEB": 207,
+    "HEB": 217,
     "JAS": 81,
     "1PE": 83,
     "2PE": 49,
@@ -37,7 +37,7 @@
     "REV": 300
   },
   "rule_counts": {
-    "manual TR literal override": 3171,
+    "manual TR literal override": 3182,
     "aligned gennao with fathered": 17,
     "rendered adelphoi-family wording as brothers": 149,
     "rendered general brings-forth as produces": 27,
@@ -55,8 +55,8 @@
     "rendered magoi as Magi": 3,
     "standardized Judea spelling": 26,
     "modernized are-come perfect": 11,
-    "modernized he-that relative": 166,
-    "UKJV seed retained; needs focused Greek review": 915,
+    "modernized he-that relative": 165,
+    "UKJV seed retained; needs focused Greek review": 905,
     "standardized Juda as Judah in tribe/land contexts": 8,
     "modernized enquired spelling": 4,
     "removed UKJV plural-expansion artifact": 721,
@@ -123,7 +123,7 @@
     "modernized any-man idiom": 56,
     "rendered chiton as tunic": 11,
     "modernized neighbour spelling": 15,
-    "modernized them-that relative": 138,
+    "modernized them-that relative": 137,
     "rendered telones as tax collector": 21,
     "modernized be-therefore order": 1,
     "modernized alms wording": 2,
@@ -361,7 +361,7 @@
     "modernized enter-not wording": 1,
     "modernized be-you question": 1,
     "modernized whereof": 15,
-    "modernized believed-not wording": 7,
+    "modernized believed-not wording": 6,
     "fixed him-that-day artifact": 1,
     "modernized whence-question idiom": 1,
     "fixed whence casing after know": 5,
@@ -542,9 +542,9 @@
     "modernized lived-not wording": 1
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
-  "review_queue_rows": 267,
-  "needs_focused_tr_review_rows": 915,
-  "review_queue_resolved_by_pass": 648,
+  "review_queue_rows": 256,
+  "needs_focused_tr_review_rows": 905,
+  "review_queue_resolved_by_pass": 649,
   "examples": {
     "manual TR literal override": [
       {
