@@ -205236,37 +205236,37 @@ Note:
 ### Zechariah 11:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Open your doors, Lebanon, and let fire devour your cedars.
+- fresh: Open your doors, O Lebanon, and let fire devour your cedars.
 - brenton: Open thy doors, O Libanus, and let the fire devour thy cedars.
 
 ### Zechariah 11:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Let pine howl, because cedar has fallen, because nobles suffered greatly. Howl, oaks of Bashan, because dense forest was torn down.
+- fresh: Let the pine howl, because the cedar has fallen, because nobles suffered greatly. Howl, oaks of Bashan, because the close-grown forest was torn down.
 - brenton: Let the pine howl, because the cedar has fallen; for the mighty men have been greatly afflicted: howl, ye oaks of the land of Basan; for the thickly planted forest has been torn down.
 
 ### Zechariah 11:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The sound of shepherds mourning, because their greatness has suffered; the sound of lions roaring, because Jordan's swelling has suffered.
+- fresh: The sound of shepherds mourning, because their greatness has suffered; the sound of lions roaring, because the pride of Jordan has suffered.
 - brenton: There is a voice of the shepherds mourning; for their greatness is brought low: a voice of roaring lions; for the pride of Jordan is brought down.
 
 ### Zechariah 11:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: Shepherd sheep of slaughter,
+- fresh: Thus says the Lord Almighty: Shepherd the sheep of slaughter,
 - brenton: Thus saith the Lord Almighty, Feed the sheep of the slaughter;
 
 ### Zechariah 11:5
@@ -205275,115 +205275,115 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: which their buyers slaughtered and felt no remorse, and those selling them said, Blessed be the Lord, and we have grown rich, and their shepherds suffered nothing over them.
+- fresh: which their buyers slaughtered and felt no remorse, and those selling them said, Blessed be the Lord, for we have grown rich, and their shepherds suffered nothing over them.
 - brenton: which their possessors have slain, and have not repented: and they that sold them said, Blessed be the Lord; for we have become rich: and their shepherds have suffered no sorrow for them.
 
 ### Zechariah 11:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Therefore I will no longer spare inhabitants of earth, says the Lord, and behold, I hand over humans, each into the hand of his neighbor and into the hand of his king, and they will cut down earth, and I will certainly not rescue from their hand.
+- fresh: Therefore I will no longer spare inhabitants of the land, says the Lord, and behold, I hand over humans, each into the hands of his neighbor and into the hands of his king, and they will cut down the land, and I will certainly not rescue from their hand.
 - brenton: Therefore I will no longer have mercy upon the inhabitants of the land, saith the Lord: but, behold, I will deliver up the men every one into the hand of his neighbour, and into the hand of his king; and they shall destroy the land, and I will not rescue out of their hand.
 
 ### Zechariah 11:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will shepherd sheep of slaughter for Canaanitis, and I took for myself two staffs, one I named Beauty, the other I named Measure-line, and I shepherded sheep.
+- fresh: And I will shepherd the sheep of slaughter in the Canaanite land, and I will take for myself two staffs; one I called Beauty, and the other I called Measure-line; and I will shepherd the sheep.
 - brenton: And I will tend the flock of slaughter in the land of Chanaan: and I will take for myself two rods; the one I called Beauty, and the other I called Line; and I will tend the flock.
 
 ### Zechariah 11:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I removed the three shepherds in one month, and my soul grew heavy upon them, for their souls kept roaring against me.
+- fresh: And I will remove the three shepherds in one month, and my soul will grow heavy upon them, for their souls kept roaring against me.
 - brenton: And I will cut off three shepherds in one month; and my soul shall grieve over them, for their souls cried out against me.
 
 ### Zechariah 11:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, I will not shepherd you. What is dying, let it die; what is failing, let it fail; and those left, let each eat flesh of his neighbor.
+- fresh: And I said, I will not shepherd you. What is dying, let it die; what is failing, let it fail; and those left, let each eat the flesh of his neighbor.
 - brenton: And I said, I will not tend you: that which dies, let it die; and that which falls off, let it fall off; and let the rest eat every one the flesh of his neighbour.
 
 ### Zechariah 11:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I took my staff, the beautiful one, and threw it away to scatter my covenant that I had arranged with all peoples.
+- fresh: And I will take my staff, the beautiful one, and throw it away to scatter my covenant that I arranged with all the peoples.
 - brenton: And I will take my beautiful staff, and cast it away, that I may break my covenant which I made with all the people.
 
 ### Zechariah 11:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be scattered in that day, and Canaanite sheep being kept will know that it is the word of the Lord.
+- fresh: And it will be scattered in that day, and the Canaanites, the sheep being kept, will know that it is the word of the Lord.
 - brenton: And it shall be broken in that day; and the Chananites, the sheep that are kept for me, shall know that it is the word of the Lord.
 
 ### Zechariah 11:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will say to them, If it is good before you, give, setting out my wages; or refuse. And they set my wages at thirty silver pieces.
+- fresh: And I will say to them, If it is good before you, give, setting my wage; or refuse. And they set my wage at thirty silver pieces.
 - brenton: And I will say to them, If it be good in your eyes, give me my price, or refuse it. And they weighed for my price thirty pieces of silver.
 
 ### Zechariah 11:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the Lord said to me, Put them into smelting-place, and consider if it is approved, in manner that I was tested for them. And I took thirty silver pieces and threw them into the house of the Lord, into smelting-place.
+- fresh: And the Lord said to me, Put them into the smelting furnace, and consider if it is approved, in the manner that I was tested for them. And I took the thirty silver pieces and threw them into the house of the Lord, into the smelting furnace.
 - brenton: And the Lord said to me, Drop them into the furnace, and I will see if it is good metal, as I was proved for their sakes. And I took the thirty pieces of silver, and cast them into the furnace in the house of the Lord.
 
 ### Zechariah 11:14
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I threw away second staff, Measure-line, to scatter possession between Judah and Israel.
+- fresh: And I threw away the second staff, Measure-line, to scatter the possession between Judah and Israel.
 - brenton: And I cast away my second rod, even Line, that I might break the possession between Juda and Israel.
 
 ### Zechariah 11:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the Lord said to me, Still take for yourself shepherding gear of foolish shepherd,
+- fresh: And the Lord said to me, Still take for yourself shepherding gear of an unskilled shepherd,
 - brenton: And the Lord said to me, Take yet to thee shepherd's implements belonging to an unskilful shepherd.
 
 ### Zechariah 11:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: because behold, I raise up a shepherd on earth: what is failing he will certainly not visit, what is scattered he will certainly not seek, what is broken he will certainly not heal, what is whole he will certainly not guide, and he will eat flesh of chosen ones and wrench out their ankles.
+- fresh: because behold, I raise up a shepherd against the land: what is failing he will certainly not visit, what is scattered he will certainly not seek, what is broken he will certainly not heal, what is whole he will certainly not guide, and he will eat the flesh of the chosen ones and wrench out their ankles.
 - brenton: For, behold, I will raise up a shepherd against the land: he shall not visit that which is perishing, and he shall not seek that which is scattered, and he shall not heal that which is bruised, nor guide that which is whole: but he shall devour the flesh of the choice ones, and shall dislocate the joints of their necks.
 
 ### Zechariah 11:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Woe, shepherding vanities and abandoning sheep. Sword upon his arms and upon his right eye. His arm, drying, will dry up, and his right eye, blinded, will be blinded.
+- fresh: Woe to those shepherding vain things and those having abandoned the sheep. A sword upon his arms and upon his right eye. His arm, drying up, will dry up, and his right eye, being blinded, will be blinded.
 - brenton: Alas for the vain shepherds that have forsaken the sheep! the sword shall be upon the arms of such a one, and upon his right eye: his arm shall be completely withered, and his right eye shall be utterly darkened.
 
 ### Zechariah 12:1

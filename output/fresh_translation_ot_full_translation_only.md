@@ -93098,71 +93098,71 @@ And I will strengthen them in the Lord their God, and in his name they will boas
 
 **Zechariah 11:1**
 
-Open your doors, Lebanon, and let fire devour your cedars.
+Open your doors, O Lebanon, and let fire devour your cedars.
 
 **Zechariah 11:2**
 
-Let pine howl, because cedar has fallen, because nobles suffered greatly. Howl, oaks of Bashan, because dense forest was torn down.
+Let the pine howl, because the cedar has fallen, because nobles suffered greatly. Howl, oaks of Bashan, because the close-grown forest was torn down.
 
 **Zechariah 11:3**
 
-The sound of shepherds mourning, because their greatness has suffered; the sound of lions roaring, because Jordan's swelling has suffered.
+The sound of shepherds mourning, because their greatness has suffered; the sound of lions roaring, because the pride of Jordan has suffered.
 
 **Zechariah 11:4**
 
-Thus says the Lord Almighty: Shepherd sheep of slaughter,
+Thus says the Lord Almighty: Shepherd the sheep of slaughter,
 
 **Zechariah 11:5**
 
-which their buyers slaughtered and felt no remorse, and those selling them said, Blessed be the Lord, and we have grown rich, and their shepherds suffered nothing over them.
+which their buyers slaughtered and felt no remorse, and those selling them said, Blessed be the Lord, for we have grown rich, and their shepherds suffered nothing over them.
 
 **Zechariah 11:6**
 
-Therefore I will no longer spare inhabitants of earth, says the Lord, and behold, I hand over humans, each into the hand of his neighbor and into the hand of his king, and they will cut down earth, and I will certainly not rescue from their hand.
+Therefore I will no longer spare inhabitants of the land, says the Lord, and behold, I hand over humans, each into the hands of his neighbor and into the hands of his king, and they will cut down the land, and I will certainly not rescue from their hand.
 
 **Zechariah 11:7**
 
-And I will shepherd sheep of slaughter for Canaanitis, and I took for myself two staffs, one I named Beauty, the other I named Measure-line, and I shepherded sheep.
+And I will shepherd the sheep of slaughter in the Canaanite land, and I will take for myself two staffs; one I called Beauty, and the other I called Measure-line; and I will shepherd the sheep.
 
 **Zechariah 11:8**
 
-And I removed the three shepherds in one month, and my soul grew heavy upon them, for their souls kept roaring against me.
+And I will remove the three shepherds in one month, and my soul will grow heavy upon them, for their souls kept roaring against me.
 
 **Zechariah 11:9**
 
-And I said, I will not shepherd you. What is dying, let it die; what is failing, let it fail; and those left, let each eat flesh of his neighbor.
+And I said, I will not shepherd you. What is dying, let it die; what is failing, let it fail; and those left, let each eat the flesh of his neighbor.
 
 **Zechariah 11:10**
 
-And I took my staff, the beautiful one, and threw it away to scatter my covenant that I had arranged with all peoples.
+And I will take my staff, the beautiful one, and throw it away to scatter my covenant that I arranged with all the peoples.
 
 **Zechariah 11:11**
 
-And it will be scattered in that day, and Canaanite sheep being kept will know that it is the word of the Lord.
+And it will be scattered in that day, and the Canaanites, the sheep being kept, will know that it is the word of the Lord.
 
 **Zechariah 11:12**
 
-And I will say to them, If it is good before you, give, setting out my wages; or refuse. And they set my wages at thirty silver pieces.
+And I will say to them, If it is good before you, give, setting my wage; or refuse. And they set my wage at thirty silver pieces.
 
 **Zechariah 11:13**
 
-And the Lord said to me, Put them into smelting-place, and consider if it is approved, in manner that I was tested for them. And I took thirty silver pieces and threw them into the house of the Lord, into smelting-place.
+And the Lord said to me, Put them into the smelting furnace, and consider if it is approved, in the manner that I was tested for them. And I took the thirty silver pieces and threw them into the house of the Lord, into the smelting furnace.
 
 **Zechariah 11:14**
 
-And I threw away second staff, Measure-line, to scatter possession between Judah and Israel.
+And I threw away the second staff, Measure-line, to scatter the possession between Judah and Israel.
 
 **Zechariah 11:15**
 
-And the Lord said to me, Still take for yourself shepherding gear of foolish shepherd,
+And the Lord said to me, Still take for yourself shepherding gear of an unskilled shepherd,
 
 **Zechariah 11:16**
 
-because behold, I raise up a shepherd on earth: what is failing he will certainly not visit, what is scattered he will certainly not seek, what is broken he will certainly not heal, what is whole he will certainly not guide, and he will eat flesh of chosen ones and wrench out their ankles.
+because behold, I raise up a shepherd against the land: what is failing he will certainly not visit, what is scattered he will certainly not seek, what is broken he will certainly not heal, what is whole he will certainly not guide, and he will eat the flesh of the chosen ones and wrench out their ankles.
 
 **Zechariah 11:17**
 
-Woe, shepherding vanities and abandoning sheep. Sword upon his arms and upon his right eye. His arm, drying, will dry up, and his right eye, blinded, will be blinded.
+Woe to those shepherding vain things and those having abandoned the sheep. A sword upon his arms and upon his right eye. His arm, drying up, will dry up, and his right eye, being blinded, will be blinded.
 
 ### Chapter 12
 
