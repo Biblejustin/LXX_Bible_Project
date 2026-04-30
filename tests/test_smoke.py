@@ -2543,8 +2543,8 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert by_ref["Jeremiah 40:11"]["draft_translation"].startswith("The voice of gladness and the voice of joy")
     assert "because no one lays it to heart" in by_ref["Jeremiah 12:11"]["draft_translation"]
     assert "shut a house so as not to enter" in by_ref["Isaiah 24:10"]["draft_translation"]
-    assert "the land behind them will be made desolate, with no one passing through or returning" in by_ref["Zechariah 7:14"]["draft_translation"]
-    assert "they made the delightful land into destruction" in by_ref["Zechariah 7:14"]["draft_translation"]
+    assert "the land behind them will be made a disappearance, with no one passing through or returning" in by_ref["Zechariah 7:14"]["draft_translation"]
+    assert "they made the chosen land into disappearance" in by_ref["Zechariah 7:14"]["draft_translation"]
     assert "mother, that you bore me, a man being judged" in by_ref["Jeremiah 15:10"]["draft_translation"]
     assert "from his seed will grow up to sit" in by_ref["Jeremiah 22:30"]["draft_translation"]
     assert "became a lion" in by_ref["Ezekiel 19:3"]["draft_translation"]
