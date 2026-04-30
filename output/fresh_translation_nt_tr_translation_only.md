@@ -23724,7 +23724,7 @@ Would to God you could bear with me a little in my folly: and indeed bear with m
 
 **2 Corinthians 11:2**
 
-For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ.
+For I am jealous for you with God's jealousy: for I joined you to one husband, to present a pure virgin to Christ.
 
 **2 Corinthians 11:3**
 
@@ -23768,15 +23768,15 @@ But what I do, that I will do, that I may cut off occasion from those who desire
 
 **2 Corinthians 11:13**
 
-For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.
+For such ones are false apostles, deceitful workers, transforming themselves into apostles of Christ.
 
 **2 Corinthians 11:14**
 
-And no marvel; for Satan himself is transformed into an angel of light.
+And no wonder; for Satan himself transforms himself into an angel of light.
 
 **2 Corinthians 11:15**
 
-Therefore it is no great thing if his ministers also be transformed as the ministers of righteousness; whose end shall be according to their works.
+Therefore it is no great thing if his servants also transform themselves as servants of righteousness; whose end shall be according to their works.
 
 **2 Corinthians 11:16**
 
@@ -23800,7 +23800,7 @@ For you bear with it, if a man bring you into bondage, if a man devour you, if a
 
 **2 Corinthians 11:21**
 
-I speak as concerning reproach, as though we had been weak. Nevertheless whatever that anyone is bold, (I speak foolishly,) I am bold also.
+I speak according to dishonor, as though we had been weak. But in whatever anyone is bold, I speak in foolishness, I also am bold.
 
 **2 Corinthians 11:22**
 
@@ -23812,11 +23812,11 @@ Are they ministers of Christ? (I speak as a fool) I am more; in labors more abun
 
 **2 Corinthians 11:24**
 
-Of the Jews five times received I forty stripes save one.
+By Jews five times I received forty stripes minus one.
 
 **2 Corinthians 11:25**
 
-Three times was I beaten with rods, once was I stoned, three times I suffered shipwreck, a night and a day I have been in the deep;
+Three times I was beaten with rods; once I was stoned; three times I was shipwrecked; I have spent a night and a day in the deep;
 
 **2 Corinthians 11:26**
 
@@ -23824,7 +23824,7 @@ In journeys often, in perils of waters, in perils of robbers, in perils by my ow
 
 **2 Corinthians 11:27**
 
-In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.
+In labor and hardship, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.
 
 **2 Corinthians 11:28**
 
@@ -23844,11 +23844,11 @@ The God and Father of our Lord Jesus Christ, who is blessed forevermore, knows t
 
 **2 Corinthians 11:32**
 
-In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:
+In Damascus, the governor under Aretas the king guarded the city of the Damascenes, wanting to seize me:
 
 **2 Corinthians 11:33**
 
-And through a window in a basket was I let down by the wall, and escaped his hands.
+and through a window I was let down in a basket through the wall, and escaped his hands.
 
 ### Chapter 12
 

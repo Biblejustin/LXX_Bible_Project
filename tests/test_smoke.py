@@ -7351,6 +7351,36 @@ def test_nt_second_corinthians_10_queue_revisions_and_keep_stay_reviewed() -> No
     assert "2 Corinthians 10:9" not in queue_refs
 
 
+def test_nt_second_corinthians_11_queue_revisions_and_keep_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "2 Corinthians 11:2": "For I am jealous for you with God's jealousy: for I joined you to one husband, to present a pure virgin to Christ.",
+        "2 Corinthians 11:13": "For such ones are false apostles, deceitful workers, transforming themselves into apostles of Christ.",
+        "2 Corinthians 11:14": "And no wonder; for Satan himself transforms himself into an angel of light.",
+        "2 Corinthians 11:15": "Therefore it is no great thing if his servants also transform themselves as servants of righteousness; whose end shall be according to their works.",
+        "2 Corinthians 11:21": "I speak according to dishonor, as though we had been weak. But in whatever anyone is bold, I speak in foolishness, I also am bold.",
+        "2 Corinthians 11:24": "By Jews five times I received forty stripes minus one.",
+        "2 Corinthians 11:25": "Three times I was beaten with rods; once I was stoned; three times I was shipwrecked; I have spent a night and a day in the deep;",
+        "2 Corinthians 11:27": "In labor and hardship, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.",
+        "2 Corinthians 11:32": "In Damascus, the governor under Aretas the king guarded the city of the Damascenes, wanting to seize me:",
+        "2 Corinthians 11:33": "and through a window I was let down in a basket through the wall, and escaped his hands.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_149.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["2 Corinthians 11:22"]["latest_review_status"] == "keep"
+    assert review_by_ref["2 Corinthians 11:22"]["latest_review_pass"] == "nt_review_pass_149.md"
+    assert "2 Corinthians 11:22" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

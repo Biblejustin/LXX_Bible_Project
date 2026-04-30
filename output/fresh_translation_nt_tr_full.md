@@ -117288,7 +117288,7 @@ Greek: ζηλω γαρ υμας θεου ζηλω ηρμοσαμην γαρ υμ
 Transliteration: zhlw gar umav yeou zhlw hrmosamhn gar umav eni andri paryenon agnhn parasthsai tw cristw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ.
+Draft translation: For I am jealous for you with God's jealousy: for I joined you to one husband, to present a pure virgin to Christ.
 
 Decision rows:
 - [TODO add decision rows]
@@ -117508,7 +117508,7 @@ Greek: οι γαρ τοιουτοι ψευδαποστολοι εργαται δ
 Transliteration: oi gar toioutoi qeudapostoloi ergatai dolioi metaschmatizomenoi eiv apostolouv cristou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.
+Draft translation: For such ones are false apostles, deceitful workers, transforming themselves into apostles of Christ.
 
 Decision rows:
 - [TODO add decision rows]
@@ -117528,7 +117528,7 @@ Greek: και ου θαυμαστον αυτος γαρ ο σατανας μετ
 Transliteration: kai ou yaumaston autov gar o satanav metaschmatizetai eiv aggelon fwtov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And no marvel; for Satan himself is transformed into an angel of light.
+Draft translation: And no wonder; for Satan himself transforms himself into an angel of light.
 
 Decision rows:
 - [TODO add decision rows]
@@ -117548,7 +117548,7 @@ Greek: ου μεγα ουν ει και οι διακονοι αυτου μετ�
 Transliteration: ou mega oun ei kai oi diakonoi autou metaschmatizontai wv diakonoi dikaiosunhv wn to telov estai kata ta erga autwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Therefore it is no great thing if his ministers also be transformed as the ministers of righteousness; whose end shall be according to their works.
+Draft translation: Therefore it is no great thing if his servants also transform themselves as servants of righteousness; whose end shall be according to their works.
 
 Decision rows:
 - [TODO add decision rows]
@@ -117668,7 +117668,7 @@ Greek: κατα ατιμιαν λεγω ως οτι ημεις ησθενησα�
 Transliteration: kata atimian legw wv oti hmeiv hsyenhsamen en w d an tiv tolma en afrosunh legw tolmw kagw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I speak as concerning reproach, as though we had been weak. Nevertheless whatever that anyone is bold, (I speak foolishly,) I am bold also.
+Draft translation: I speak according to dishonor, as though we had been weak. But in whatever anyone is bold, I speak in foolishness, I also am bold.
 
 Decision rows:
 - [TODO add decision rows]
@@ -117728,7 +117728,7 @@ Greek: υπο ιουδαιων πεντακις τεσσαρακοντα παρ�
 Transliteration: upo ioudaiwn pentakiv tessarakonta para mian elabon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Of the Jews five times received I forty stripes save one.
+Draft translation: By Jews five times I received forty stripes minus one.
 
 Decision rows:
 - [TODO add decision rows]
@@ -117748,7 +117748,7 @@ Greek: τρις ερραβδισθην απαξ ελιθασθην τρις εν
 Transliteration: triv errabdisyhn apax eliyasyhn triv enauaghsa nucyhmeron en tw buyw pepoihka
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Three times was I beaten with rods, once was I stoned, three times I suffered shipwreck, a night and a day I have been in the deep;
+Draft translation: Three times I was beaten with rods; once I was stoned; three times I was shipwrecked; I have spent a night and a day in the deep;
 
 Decision rows:
 - [TODO add decision rows]
@@ -117788,7 +117788,7 @@ Greek: εν κοπω και μοχθω εν αγρυπνιαις πολλακι�
 Transliteration: en kopw kai mocyw en agrupniaiv pollakiv en limw kai diqei en nhsteiaiv pollakiv en qucei kai gumnothti
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.
+Draft translation: In labor and hardship, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -117888,7 +117888,7 @@ Greek: εν δαμασκω ο εθναρχης αρετα του βασιλεω�
 Transliteration: en damaskw o eynarchv areta tou basilewv efrourei thn damaskhnwn polin piasai me yelwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:
+Draft translation: In Damascus, the governor under Aretas the king guarded the city of the Damascenes, wanting to seize me:
 
 Decision rows:
 - [TODO add decision rows]
@@ -117908,7 +117908,7 @@ Greek: και δια θυριδος εν σαργανη εχαλασθην δι�
 Transliteration: kai dia yuridov en sarganh ecalasyhn dia tou teicouv kai exefugon tav ceirav autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And through a window in a basket was I let down by the wall, and escaped his hands.
+Draft translation: and through a window I was let down in a basket through the wall, and escaped his hands.
 
 Decision rows:
 - [TODO add decision rows]
