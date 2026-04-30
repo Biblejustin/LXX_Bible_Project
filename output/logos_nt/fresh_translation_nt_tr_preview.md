@@ -337,7 +337,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 16
 
-**James 1:3** Knowing this, that the trying of your faith works patience.
+**James 1:3** Knowing that the testing of your faith works endurance.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 9

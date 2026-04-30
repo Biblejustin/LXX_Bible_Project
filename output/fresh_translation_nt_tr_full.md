@@ -142988,7 +142988,7 @@ Greek: γινωσκοντες οτι το δοκιμιον υμων της πι�
 Transliteration: ginwskontev oti to dokimion umwn thv pistewv katergazetai upomonhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Knowing this, that the trying of your faith works patience.
+Draft translation: Knowing that the testing of your faith works endurance.
 
 Decision rows:
 - [TODO add decision rows]
@@ -143028,7 +143028,7 @@ Greek: ει δε τις υμων λειπεται σοφιας αιτειτω π
 Transliteration: ei de tiv umwn leipetai sofiav aiteitw para tou didontov yeou pasin aplwv kai mh oneidizontov kai doyhsetai autw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: If any of you lack wisdom, let him ask of God, that gives to all men liberally, and reproaches not; and it shall be given him.
+Draft translation: But if any of you lacks wisdom, let him ask from God, who gives to all generously and does not reproach; and it shall be given to him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -143088,7 +143088,7 @@ Greek: ανηρ διψυχος ακαταστατος εν πασαις ταις
 Transliteration: anhr diqucov akatastatov en pasaiv taiv odoiv autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: A double minded man is unstable in all his ways.
+Draft translation: A double-minded man is unstable in all his ways.
 
 Decision rows:
 - [TODO add decision rows]
@@ -143108,7 +143108,7 @@ Greek: καυχασθω δε ο αδελφος ο ταπεινος εν τω υ�
 Transliteration: kaucasyw de o adelfov o tapeinov en tw uqei autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let the brother of low degree rejoice in that he is exalted:
+Draft translation: But let the lowly brother boast in his exaltation:
 
 Decision rows:
 - [TODO add decision rows]
@@ -143128,7 +143128,7 @@ Greek: ο δε πλουσιος εν τη ταπεινωσει αυτου οτι
 Transliteration: o de plousiov en th tapeinwsei autou oti wv anyov cortou pareleusetai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But the rich, in that he is made low: because as the flower of the grass he shall pass away.
+Draft translation: But the rich in his humiliation, because as a flower of grass he shall pass away.
 
 Decision rows:
 - [TODO add decision rows]
@@ -143208,7 +143208,7 @@ Greek: εκαστος δε πειραζεται υπο της ιδιας επι�
 Transliteration: ekastov de peirazetai upo thv idiav epiyumiav exelkomenov kai deleazomenov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But every man is tempted, when he is drawn away of his own lust, and enticed.
+Draft translation: But each one is tempted by his own desire, being drawn away and enticed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -143268,7 +143268,7 @@ Greek: πασα δοσις αγαθη και παν δωρημα τελειον 
 Transliteration: pasa dosiv agayh kai pan dwrhma teleion anwyen estin katabainon apo tou patrov twn fwtwn par w ouk eni parallagh h trophv aposkiasma
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Every good gift and every perfect gift is from above, and comes down from the Father of lights, with whom is no variableness, neither shadow of turning.
+Draft translation: Every good giving and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow of turning.
 
 Decision rows:
 - [TODO add decision rows]
@@ -143328,7 +143328,7 @@ Greek: οργη γαρ ανδρος δικαιοσυνην θεου ου κατ�
 Transliteration: orgh gar androv dikaiosunhn yeou ou katergazetai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For the wrath of man works not the righteousness of God.
+Draft translation: For the wrath of man does not work the righteousness of God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -143408,7 +143408,7 @@ Greek: κατενοησεν γαρ εαυτον και απεληλυθεν κα
 Transliteration: katenohsen gar eauton kai apelhluyen kai euyewv epelayeto opoiov hn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For he beholds himself, and goes his way, and immediately forgets what manner of man he was.
+Draft translation: For he observed himself, and has gone away, and immediately forgot what kind he was.
 
 Decision rows:
 - [TODO add decision rows]
@@ -143468,7 +143468,7 @@ Greek: θρησκεια καθαρα και αμιαντος παρα τω θε�
 Transliteration: yrhskeia kayara kai amiantov para tw yew kai patri auth estin episkeptesyai orfanouv kai chrav en th yliqei autwn aspilon eauton threin apo tou kosmou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.
+Draft translation: Pure and undefiled religion before God and the Father is this, to visit orphans and widows in their affliction, to keep oneself unstained from the world.
 
 Decision rows:
 - [TODO add decision rows]
@@ -143730,7 +143730,7 @@ Greek: η γαρ κρισις ανιλεως τω μη ποιησαντι ελε
 Transliteration: h gar krisiv anilewv tw mh poihsanti eleov kai katakaucatai eleov krisewv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For he shall have judgment without mercy, that has showed no mercy; and mercy rejoices against judgment.
+Draft translation: For judgment is without mercy to the one who has done no mercy; and mercy boasts over judgment.
 
 Decision rows:
 - [TODO add decision rows]
@@ -143770,7 +143770,7 @@ Greek: εαν δε αδελφος η αδελφη γυμνοι υπαρχωσι�
 Transliteration: ean de adelfov h adelfh gumnoi uparcwsin kai leipomenoi wsin thv efhmerou trofhv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: If a brother or sister be naked, and destitute of daily food,
+Draft translation: If a brother or sister is naked, and lacking daily food,
 
 Decision rows:
 - [TODO add decision rows]
@@ -143810,7 +143810,7 @@ Greek: ουτως και η πιστις εαν μη εργα εχη νεκρα 
 Transliteration: outwv kai h pistiv ean mh erga ech nekra estin kay eauthn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Even so faith, if it has not works, is dead, being alone.
+Draft translation: So also faith, if it does not have works, is dead by itself.
 
 Decision rows:
 - [TODO add decision rows]
@@ -143870,7 +143870,7 @@ Greek: θελεις δε γνωναι ω ανθρωπε κενε οτι η πι�
 Transliteration: yeleiv de gnwnai w anyrwpe kene oti h pistiv cwriv twn ergwn nekra estin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But will you know, O vain man, that faith without works is dead?
+Draft translation: But do you want to know, O empty man, that faith without works is dead?
 
 Decision rows:
 - [TODO add decision rows]
@@ -143890,7 +143890,7 @@ Greek: αβρααμ ο πατηρ ημων ουκ εξ εργων εδικαιω
 Transliteration: abraam o pathr hmwn ouk ex ergwn edikaiwyh anenegkav isaak ton uion autou epi to yusiasthrion
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?
+Draft translation: Was not Abraham our father justified by works, having offered Isaac his son upon the altar?
 
 Decision rows:
 - [TODO add decision rows]

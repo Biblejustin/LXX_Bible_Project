@@ -8271,6 +8271,37 @@ def test_nt_hebrews_12_to_13_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_james_1_to_2_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "James 1:3": "Knowing that the testing of your faith works endurance.",
+        "James 1:5": "But if any of you lacks wisdom, let him ask from God, who gives to all generously and does not reproach; and it shall be given to him.",
+        "James 1:8": "A double-minded man is unstable in all his ways.",
+        "James 1:9": "But let the lowly brother boast in his exaltation:",
+        "James 1:10": "But the rich in his humiliation, because as a flower of grass he shall pass away.",
+        "James 1:14": "But each one is tempted by his own desire, being drawn away and enticed.",
+        "James 1:17": "Every good giving and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow of turning.",
+        "James 1:20": "For the wrath of man does not work the righteousness of God.",
+        "James 1:24": "For he observed himself, and has gone away, and immediately forgot what kind he was.",
+        "James 1:27": "Pure and undefiled religion before God and the Father is this, to visit orphans and widows in their affliction, to keep oneself unstained from the world.",
+        "James 2:13": "For judgment is without mercy to the one who has done no mercy; and mercy boasts over judgment.",
+        "James 2:15": "If a brother or sister is naked, and lacking daily food,",
+        "James 2:17": "So also faith, if it does not have works, is dead by itself.",
+        "James 2:20": "But do you want to know, O empty man, that faith without works is dead?",
+        "James 2:21": "Was not Abraham our father justified by works, having offered Isaac his son upon the altar?",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_182.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

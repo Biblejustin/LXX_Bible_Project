@@ -28976,7 +28976,7 @@ My brothers, count it all joy when you fall into various temptations;
 
 **James 1:3**
 
-Knowing this, that the trying of your faith works patience.
+Knowing that the testing of your faith works endurance.
 
 **James 1:4**
 
@@ -28984,7 +28984,7 @@ But let patience have her perfect work, that you may be perfect and entire, lack
 
 **James 1:5**
 
-If any of you lack wisdom, let him ask of God, that gives to all men liberally, and reproaches not; and it shall be given him.
+But if any of you lacks wisdom, let him ask from God, who gives to all generously and does not reproach; and it shall be given to him.
 
 **James 1:6**
 
@@ -28996,15 +28996,15 @@ For let not that man think that he shall receive anything of the Lord.
 
 **James 1:8**
 
-A double minded man is unstable in all his ways.
+A double-minded man is unstable in all his ways.
 
 **James 1:9**
 
-Let the brother of low degree rejoice in that he is exalted:
+But let the lowly brother boast in his exaltation:
 
 **James 1:10**
 
-But the rich, in that he is made low: because as the flower of the grass he shall pass away.
+But the rich in his humiliation, because as a flower of grass he shall pass away.
 
 **James 1:11**
 
@@ -29020,7 +29020,7 @@ Let no one say when he is tempted, I am tempted of God: for God cannot be tempte
 
 **James 1:14**
 
-But every man is tempted, when he is drawn away of his own lust, and enticed.
+But each one is tempted by his own desire, being drawn away and enticed.
 
 **James 1:15**
 
@@ -29032,7 +29032,7 @@ Do not go astray, my beloved brothers.
 
 **James 1:17**
 
-Every good gift and every perfect gift is from above, and comes down from the Father of lights, with whom is no variableness, neither shadow of turning.
+Every good giving and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow of turning.
 
 **James 1:18**
 
@@ -29044,7 +29044,7 @@ Therefore, my beloved brothers, let every man be swift to hear, slow to speak, s
 
 **James 1:20**
 
-For the wrath of man works not the righteousness of God.
+For the wrath of man does not work the righteousness of God.
 
 **James 1:21**
 
@@ -29060,7 +29060,7 @@ For if any be a hearer of the word, and not a doer, he is like to a man beholdin
 
 **James 1:24**
 
-For he beholds himself, and goes his way, and immediately forgets what manner of man he was.
+For he observed himself, and has gone away, and immediately forgot what kind he was.
 
 **James 1:25**
 
@@ -29072,7 +29072,7 @@ If anyone among you seem to be religious, and bridles not his tongue, but deceiv
 
 **James 1:27**
 
-Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.
+Pure and undefiled religion before God and the Father is this, to visit orphans and widows in their affliction, to keep oneself unstained from the world.
 
 ### Chapter 2
 
@@ -29126,7 +29126,7 @@ So speak you, and so do, as those who shall be judged by the law of liberty.
 
 **James 2:13**
 
-For he shall have judgment without mercy, that has showed no mercy; and mercy rejoices against judgment.
+For judgment is without mercy to the one who has done no mercy; and mercy boasts over judgment.
 
 **James 2:14**
 
@@ -29134,7 +29134,7 @@ What does it profit, my brothers, though a man say he has faith, and have not wo
 
 **James 2:15**
 
-If a brother or sister be naked, and destitute of daily food,
+If a brother or sister is naked, and lacking daily food,
 
 **James 2:16**
 
@@ -29142,7 +29142,7 @@ And one of you say to them, Depart in peace, be warmed and filled; notwithstandi
 
 **James 2:17**
 
-Even so faith, if it has not works, is dead, being alone.
+So also faith, if it does not have works, is dead by itself.
 
 **James 2:18**
 
@@ -29154,11 +29154,11 @@ You believe that there is one God; you do well: the demons also believe, and tre
 
 **James 2:20**
 
-But will you know, O vain man, that faith without works is dead?
+But do you want to know, O empty man, that faith without works is dead?
 
 **James 2:21**
 
-Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?
+Was not Abraham our father justified by works, having offered Isaac his son upon the altar?
 
 **James 2:22**
 
