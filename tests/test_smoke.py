@@ -3948,7 +3948,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
         "And the measuring-line of the sea will belong"
     )
     assert by_ref["Zechariah 9:12"]["draft_translation"].startswith(
-        "You prisoners of the congregation will sit"
+        "You will sit in a stronghold"
     )
     assert by_ref["Psalms 7:8"]["draft_translation"].startswith(
         "And a gathering of peoples will encircle you"
