@@ -115498,7 +115498,7 @@ Greek: αλλ εν παντι συνιστωντες εαυτους ως θεο�
 Transliteration: all en panti sunistwntev eautouv wv yeou diakonoi en upomonh pollh en yliqesin en anagkaiv en stenocwriaiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,
+Draft translation: But in everything commending ourselves as servants of God, in much endurance, in afflictions, in necessities, in distresses,
 
 Decision rows:
 - [TODO add decision rows]
@@ -115900,7 +115900,7 @@ Greek: αλλ ο παρακαλων τους ταπεινους παρεκαλε
 Transliteration: all o parakalwn touv tapeinouv parekalesen hmav o yeov en th parousia titou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Nevertheless God, that comforts those that are cast down, comforted us by the coming of Titus;
+Draft translation: But God, who comforts the lowly, comforted us by the presence of Titus;
 
 Decision rows:
 - [TODO add decision rows]
@@ -115940,7 +115940,7 @@ Greek: οτι ει και ελυπησα υμας εν τη επιστολη ο�
 Transliteration: oti ei kai eluphsa umav en th epistolh ou metamelomai ei kai metemelomhn blepw gar oti h epistolh ekeinh ei kai prov wran eluphsen umav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle has made you sorry, though it were but for a season.
+Draft translation: For even if I grieved you with the letter, I do not regret it, though I did regret it: for I see that that letter grieved you, even if for a short time.
 
 Decision rows:
 - [TODO add decision rows]
@@ -115980,7 +115980,7 @@ Greek: η γαρ κατα θεον λυπη μετανοιαν εις σωτηρ
 Transliteration: h gar kata yeon luph metanoian eiv swthrian ametamelhton katergazetai h de tou kosmou luph yanaton katergazetai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For godly sorrow works repentance to salvation not to be repented of: but the sorrow of the world works death.
+Draft translation: For sorrow according to God works repentance to salvation without regret, but the sorrow of the world works death.
 
 Decision rows:
 - [TODO add decision rows]
@@ -116362,7 +116362,7 @@ Greek: ου γαρ ινα αλλοις ανεσις υμιν δε θλιψις �
 Transliteration: ou gar ina alloiv anesiv umin de yliqiv all ex isothtov en tw nun kairw to umwn perisseuma eiv to ekeinwn usterhma
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For I mean not that other men be eased, and you burdened:
+Draft translation: For it is not that others have relief and you affliction, but by equality; at the present time your abundance is for their lack,
 
 Decision rows:
 - [TODO add decision rows]
@@ -116382,7 +116382,7 @@ Greek: ινα και το εκεινων περισσευμα γενηται ε�
 Transliteration: ina kai to ekeinwn perisseuma genhtai eiv to umwn usterhma opwv genhtai isothv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But by an equality, that now at this time your abundance may be a supply for their lack, that their abundance also may be a supply for your lack: that there may be equality:
+Draft translation: so that also their abundance may be for your lack, so that there may be equality:
 
 Decision rows:
 - [TODO add decision rows]

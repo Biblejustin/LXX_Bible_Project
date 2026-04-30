@@ -7278,6 +7278,33 @@ def test_nt_second_corinthians_5_focused_queue_revisions_stay_reviewed() -> None
         assert by_ref[ref]["review_notes"] == "manual TR literal override"
 
 
+def test_nt_second_corinthians_6_to_8_queue_revisions_and_keeps_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "2 Corinthians 6:4": "But in everything commending ourselves as servants of God, in much endurance, in afflictions, in necessities, in distresses,",
+        "2 Corinthians 7:6": "But God, who comforts the lowly, comforted us by the presence of Titus;",
+        "2 Corinthians 7:8": "For even if I grieved you with the letter, I do not regret it, though I did regret it: for I see that that letter grieved you, even if for a short time.",
+        "2 Corinthians 7:10": "For sorrow according to God works repentance to salvation without regret, but the sorrow of the world works death.",
+        "2 Corinthians 8:13": "For it is not that others have relief and you affliction, but by equality; at the present time your abundance is for their lack,",
+        "2 Corinthians 8:14": "so that also their abundance may be for your lack, so that there may be equality:",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_146.md"
+        assert ref not in queue_refs
+
+    for ref in ("2 Corinthians 6:10", "2 Corinthians 7:16"):
+        assert review_by_ref[ref]["latest_review_status"] == "keep"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_146.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

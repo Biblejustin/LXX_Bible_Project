@@ -23358,7 +23358,7 @@ Giving no offense in anything, that the ministry not be blamed:
 
 **2 Corinthians 6:4**
 
-But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,
+But in everything commending ourselves as servants of God, in much endurance, in afflictions, in necessities, in distresses,
 
 **2 Corinthians 6:5**
 
@@ -23440,7 +23440,7 @@ For, when we had come into Macedonia, our flesh had no rest, but we were trouble
 
 **2 Corinthians 7:6**
 
-Nevertheless God, that comforts those that are cast down, comforted us by the coming of Titus;
+But God, who comforts the lowly, comforted us by the presence of Titus;
 
 **2 Corinthians 7:7**
 
@@ -23448,7 +23448,7 @@ And not by his coming only, but by the consolation with which he was comforted i
 
 **2 Corinthians 7:8**
 
-For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle has made you sorry, though it were but for a season.
+For even if I grieved you with the letter, I do not regret it, though I did regret it: for I see that that letter grieved you, even if for a short time.
 
 **2 Corinthians 7:9**
 
@@ -23456,7 +23456,7 @@ Now I rejoice, not that you were made sorry, but that you sorrowed to repentance
 
 **2 Corinthians 7:10**
 
-For godly sorrow works repentance to salvation not to be repented of: but the sorrow of the world works death.
+For sorrow according to God works repentance to salvation without regret, but the sorrow of the world works death.
 
 **2 Corinthians 7:11**
 
@@ -23534,11 +23534,11 @@ For if there is first a willing mind, it is accepted according to that a man has
 
 **2 Corinthians 8:13**
 
-For I mean not that other men be eased, and you burdened:
+For it is not that others have relief and you affliction, but by equality; at the present time your abundance is for their lack,
 
 **2 Corinthians 8:14**
 
-But by an equality, that now at this time your abundance may be a supply for their lack, that their abundance also may be a supply for your lack: that there may be equality:
+so that also their abundance may be for your lack, so that there may be equality:
 
 **2 Corinthians 8:15**
 
