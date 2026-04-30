@@ -27270,19 +27270,19 @@ and they may come to themselves out of the devil's snare, having been taken capt
 
 **2 Timothy 3:1**
 
-This know also, that in the last days dangerous times shall come.
+But know this, that in the last days difficult times shall come.
 
 **2 Timothy 3:2**
 
-For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
+For men shall be lovers of themselves, lovers of money, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
 
 **2 Timothy 3:3**
 
-Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,
+without natural affection, implacable, slanderers, without self-control, savage, not lovers of good,
 
 **2 Timothy 3:4**
 
-Traitors, rebellious, high-minded, lovers of pleasures more than lovers of God;
+traitors, reckless, puffed up, lovers of pleasure rather than lovers of God;
 
 **2 Timothy 3:5**
 
@@ -27294,11 +27294,11 @@ For of this sort are those who creep into houses, and lead captive silly women l
 
 **2 Timothy 3:7**
 
-Ever learning, and never able to come to the knowledge of the truth.
+always learning, and never able to come to the knowledge of the truth.
 
 **2 Timothy 3:8**
 
-Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.
+Now in the same way that Jannes and Jambres resisted Moses, so these also resist the truth: men corrupted in mind, unapproved concerning the faith.
 
 **2 Timothy 3:9**
 
@@ -27318,11 +27318,11 @@ Yes, and all that will live godly in Christ Jesus shall suffer persecution.
 
 **2 Timothy 3:13**
 
-But evil men and seducers shall wax worse and worse, deceiving, and being deceived.
+But evil men and impostors will advance to worse, deceiving and being deceived.
 
 **2 Timothy 3:14**
 
-But continue you in the things which you have learned and have been assured of, knowing of whom you have learned them;
+But you continue in the things which you learned and were assured of, knowing from whom you learned them;
 
 **2 Timothy 3:15**
 
@@ -27330,7 +27330,7 @@ And that from a child you have known the holy scriptures, which are able to make
 
 **2 Timothy 3:16**
 
-All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:
+All scripture is God-breathed and profitable for teaching, for reproof, for correction, for instruction in righteousness:
 
 **2 Timothy 3:17**
 
@@ -27348,7 +27348,7 @@ Preach the word; be instant in season, out of season; reprove, rebuke, exhort wi
 
 **2 Timothy 4:3**
 
-For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;
+For the time will come when they will not endure sound teaching; but according to their own lusts they shall heap up teachers to themselves, having itching ears;
 
 **2 Timothy 4:4**
 
@@ -27356,15 +27356,15 @@ And they shall turn away their ears from the truth, and shall be turned to fable
 
 **2 Timothy 4:5**
 
-But watch you in all things, endure afflictions, do the work of an evangelist, make full proof of your ministry.
+But you be sober in all things, endure hardship, do the work of an evangelist, fulfill your ministry.
 
 **2 Timothy 4:6**
 
-For I am now ready to be offered, and the time of my departure is at hand.
+For I am already being poured out, and the time of my departure has come.
 
 **2 Timothy 4:7**
 
-I have fought a good fight, I have finished my course, I have kept the faith:
+I have fought the good fight, I have finished the course, I have kept the faith:
 
 **2 Timothy 4:8**
 
@@ -27380,11 +27380,11 @@ For Demas has forsaken me, having loved this present world, and is departed to T
 
 **2 Timothy 4:11**
 
-Only Luke is with me. Take Mark, and bring him with you: for he is profitable to me for the ministry.
+Only Luke is with me. Take Mark, and bring him with you: for he is useful to me for ministry.
 
 **2 Timothy 4:12**
 
-And Tychicus have I sent to Ephesus.
+But Tychicus I sent to Ephesus.
 
 **2 Timothy 4:13**
 
@@ -27412,7 +27412,7 @@ And the Lord shall deliver me from every evil work, and will preserve me to his 
 
 **2 Timothy 4:19**
 
-Salute Prisca and Aquila, and the household of Onesiphorus.
+Greet Prisca and Aquila, and the household of Onesiphorus.
 
 **2 Timothy 4:20**
 

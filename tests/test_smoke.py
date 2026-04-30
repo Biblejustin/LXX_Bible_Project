@@ -7919,6 +7919,38 @@ def test_nt_second_timothy_1_to_2_queue_revisions_stay_reviewed() -> None:
     assert "2 Timothy 1:3" not in queue_refs
 
 
+def test_nt_second_timothy_3_to_4_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "2 Timothy 3:1": "But know this, that in the last days difficult times shall come.",
+        "2 Timothy 3:2": "For men shall be lovers of themselves, lovers of money, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,",
+        "2 Timothy 3:3": "without natural affection, implacable, slanderers, without self-control, savage, not lovers of good,",
+        "2 Timothy 3:4": "traitors, reckless, puffed up, lovers of pleasure rather than lovers of God;",
+        "2 Timothy 3:7": "always learning, and never able to come to the knowledge of the truth.",
+        "2 Timothy 3:8": "Now in the same way that Jannes and Jambres resisted Moses, so these also resist the truth: men corrupted in mind, unapproved concerning the faith.",
+        "2 Timothy 3:13": "But evil men and impostors will advance to worse, deceiving and being deceived.",
+        "2 Timothy 3:14": "But you continue in the things which you learned and were assured of, knowing from whom you learned them;",
+        "2 Timothy 3:16": "All scripture is God-breathed and profitable for teaching, for reproof, for correction, for instruction in righteousness:",
+        "2 Timothy 4:3": "For the time will come when they will not endure sound teaching; but according to their own lusts they shall heap up teachers to themselves, having itching ears;",
+        "2 Timothy 4:5": "But you be sober in all things, endure hardship, do the work of an evangelist, fulfill your ministry.",
+        "2 Timothy 4:6": "For I am already being poured out, and the time of my departure has come.",
+        "2 Timothy 4:7": "I have fought the good fight, I have finished the course, I have kept the faith:",
+        "2 Timothy 4:11": "Only Luke is with me. Take Mark, and bring him with you: for he is useful to me for ministry.",
+        "2 Timothy 4:12": "But Tychicus I sent to Ephesus.",
+        "2 Timothy 4:19": "Greet Prisca and Aquila, and the household of Onesiphorus.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_170.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

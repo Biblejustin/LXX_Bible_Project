@@ -134642,7 +134642,7 @@ Greek: τουτο δε γινωσκε οτι εν εσχαταις ημεραι�
 Transliteration: touto de ginwske oti en escataiv hmeraiv ensthsontai kairoi calepoi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: This know also, that in the last days dangerous times shall come.
+Draft translation: But know this, that in the last days difficult times shall come.
 
 Decision rows:
 - [TODO add decision rows]
@@ -134662,7 +134662,7 @@ Greek: εσονται γαρ οι ανθρωποι φιλαυτοι φιλαργ
 Transliteration: esontai gar oi anyrwpoi filautoi filarguroi alazonev uperhfanoi blasfhmoi goneusin apeiyeiv acaristoi anosioi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
+Draft translation: For men shall be lovers of themselves, lovers of money, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
 
 Decision rows:
 - [TODO add decision rows]
@@ -134682,7 +134682,7 @@ Greek: αστοργοι ασπονδοι διαβολοι ακρατεις αν�
 Transliteration: astorgoi aspondoi diaboloi akrateiv anhmeroi afilagayoi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,
+Draft translation: without natural affection, implacable, slanderers, without self-control, savage, not lovers of good,
 
 Decision rows:
 - [TODO add decision rows]
@@ -134702,7 +134702,7 @@ Greek: προδοται προπετεις τετυφωμενοι φιληδον
 Transliteration: prodotai propeteiv tetufwmenoi filhdonoi mallon h filoyeoi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Traitors, rebellious, high-minded, lovers of pleasures more than lovers of God;
+Draft translation: traitors, reckless, puffed up, lovers of pleasure rather than lovers of God;
 
 Decision rows:
 - [TODO add decision rows]
@@ -134762,7 +134762,7 @@ Greek: παντοτε μανθανοντα και μηδεποτε εις επι
 Transliteration: pantote manyanonta kai mhdepote eiv epignwsin alhyeiav elyein dunamena
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Ever learning, and never able to come to the knowledge of the truth.
+Draft translation: always learning, and never able to come to the knowledge of the truth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -134782,7 +134782,7 @@ Greek: ον τροπον δε ιαννης και ιαμβρης αντεστη�
 Transliteration: on tropon de iannhv kai iambrhv antesthsan mwusei outwv kai outoi anyistantai th alhyeia anyrwpoi katefyarmenoi ton noun adokimoi peri thn pistin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.
+Draft translation: Now in the same way that Jannes and Jambres resisted Moses, so these also resist the truth: men corrupted in mind, unapproved concerning the faith.
 
 Decision rows:
 - [TODO add decision rows]
@@ -134882,7 +134882,7 @@ Greek: πονηροι δε ανθρωποι και γοητες προκοψου
 Transliteration: ponhroi de anyrwpoi kai gohtev prokoqousin epi to ceiron planwntev kai planwmenoi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But evil men and seducers shall wax worse and worse, deceiving, and being deceived.
+Draft translation: But evil men and impostors will advance to worse, deceiving and being deceived.
 
 Decision rows:
 - [TODO add decision rows]
@@ -134902,7 +134902,7 @@ Greek: συ δε μενε εν οις εμαθες και επιστωθης ε�
 Transliteration: su de mene en oiv emayev kai epistwyhv eidwv para tinov emayev
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But continue you in the things which you have learned and have been assured of, knowing of whom you have learned them;
+Draft translation: But you continue in the things which you learned and were assured of, knowing from whom you learned them;
 
 Decision rows:
 - [TODO add decision rows]
@@ -134942,7 +134942,7 @@ Greek: πασα γραφη θεοπνευστος και ωφελιμος προ
 Transliteration: pasa grafh yeopneustov kai wfelimov prov didaskalian prov elegcon prov epanorywsin prov paideian thn en dikaiosunh
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:
+Draft translation: All scripture is God-breathed and profitable for teaching, for reproof, for correction, for instruction in righteousness:
 
 Decision rows:
 - [TODO add decision rows]
@@ -135024,7 +135024,7 @@ Greek: εσται γαρ καιρος οτε της υγιαινουσης δι�
 Transliteration: estai gar kairov ote thv ugiainoushv didaskaliav ouk anexontai alla kata tav epiyumiav tav idiav eautoiv episwreusousin didaskalouv knhyomenoi thn akohn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;
+Draft translation: For the time will come when they will not endure sound teaching; but according to their own lusts they shall heap up teachers to themselves, having itching ears;
 
 Decision rows:
 - [TODO add decision rows]
@@ -135064,7 +135064,7 @@ Greek: συ δε νηφε εν πασιν κακοπαθησον εργον πο
 Transliteration: su de nhfe en pasin kakopayhson ergon poihson euaggelistou thn diakonian sou plhroforhson
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But watch you in all things, endure afflictions, do the work of an evangelist, make full proof of your ministry.
+Draft translation: But you be sober in all things, endure hardship, do the work of an evangelist, fulfill your ministry.
 
 Decision rows:
 - [TODO add decision rows]
@@ -135084,7 +135084,7 @@ Greek: εγω γαρ ηδη σπενδομαι και ο καιρος της ε�
 Transliteration: egw gar hdh spendomai kai o kairov thv emhv analusewv efesthken
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For I am now ready to be offered, and the time of my departure is at hand.
+Draft translation: For I am already being poured out, and the time of my departure has come.
 
 Decision rows:
 - [TODO add decision rows]
@@ -135104,7 +135104,7 @@ Greek: τον αγωνα τον καλον ηγωνισμαι τον δρομο�
 Transliteration: ton agwna ton kalon hgwnismai ton dromon teteleka thn pistin tethrhka
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I have fought a good fight, I have finished my course, I have kept the faith:
+Draft translation: I have fought the good fight, I have finished the course, I have kept the faith:
 
 Decision rows:
 - [TODO add decision rows]
@@ -135184,7 +135184,7 @@ Greek: λουκας εστιν μονος μετ εμου μαρκον αναλ�
 Transliteration: loukav estin monov met emou markon analabwn age meta seautou estin gar moi eucrhstov eiv diakonian
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Only Luke is with me. Take Mark, and bring him with you: for he is profitable to me for the ministry.
+Draft translation: Only Luke is with me. Take Mark, and bring him with you: for he is useful to me for ministry.
 
 Decision rows:
 - [TODO add decision rows]
@@ -135204,7 +135204,7 @@ Greek: τυχικον δε απεστειλα εις εφεσον
 Transliteration: tucikon de apesteila eiv efeson
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And Tychicus have I sent to Ephesus.
+Draft translation: But Tychicus I sent to Ephesus.
 
 Decision rows:
 - [TODO add decision rows]
@@ -135344,7 +135344,7 @@ Greek: ασπασαι πρισκαν και ακυλαν και τον ονησ�
 Transliteration: aspasai priskan kai akulan kai ton onhsiforou oikon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Salute Prisca and Aquila, and the household of Onesiphorus.
+Draft translation: Greet Prisca and Aquila, and the household of Onesiphorus.
 
 Decision rows:
 - [TODO add decision rows]
