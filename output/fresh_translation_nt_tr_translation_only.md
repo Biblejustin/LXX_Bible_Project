@@ -25726,7 +25726,7 @@ In whom we have redemption through his blood, even the forgiveness of sins:
 
 **Colossians 1:15**
 
-Who is the image of the invisible God, the firstborn of every creature:
+Who is the image of the invisible God, the firstborn of all creation:
 
 **Colossians 1:16**
 
@@ -25734,7 +25734,7 @@ For by him were all things created, that are in heaven, and that are on earth, v
 
 **Colossians 1:17**
 
-And he is before all things, and by him all things consist.
+And he is before all things, and all things hold together in him.
 
 **Colossians 1:18**
 
@@ -25742,7 +25742,7 @@ And he is the head of the body, the assembly: who is the beginning, the firstbor
 
 **Colossians 1:19**
 
-For it pleased the Father that in him should all fullness dwell;
+For in him all the fullness was pleased to dwell;
 
 **Colossians 1:20**
 
@@ -25750,7 +25750,7 @@ And, having made peace through the blood of his cross, by him to reconcile all t
 
 **Colossians 1:21**
 
-And you, that were sometime alienated and enemies in your mind by wicked works, yet now has he reconciled
+And you, once being alienated and enemies in mind in wicked works, yet now he has reconciled
 
 **Colossians 1:22**
 
@@ -25778,7 +25778,7 @@ To whom God would make known what is the riches of the glory of this mystery amo
 
 **Colossians 1:28**
 
-Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:
+Whom we proclaim, admonishing every man, and teaching every man in all wisdom; that we may present every man complete in Christ Jesus:
 
 **Colossians 1:29**
 
@@ -25796,7 +25796,7 @@ That their hearts might be comforted, being knit together in love, and to all ri
 
 **Colossians 2:3**
 
-In whom are hid all the treasures of wisdom and knowledge.
+In whom all the treasures of wisdom and knowledge are hidden.
 
 **Colossians 2:4**
 
@@ -25820,7 +25820,7 @@ Beware lest anyone spoil you through philosophy and vain deceit, after the tradi
 
 **Colossians 2:9**
 
-For in him dwells all the fullness of the Godhead bodily.
+For in him dwells all the fullness of the Deity bodily.
 
 **Colossians 2:10**
 
@@ -25840,11 +25840,11 @@ And you, being dead in your sins and the uncircumcision of your flesh, he made a
 
 **Colossians 2:14**
 
-Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;
+Having blotted out the handwriting in ordinances that was against us, which was contrary to us, and he has taken it out of the midst, nailing it to the cross;
 
 **Colossians 2:15**
 
-And having spoiled principalities and powers, he made a show of them openly, triumphing over them in it.
+And having stripped off principalities and powers, he made a public show of them, triumphing over them in it.
 
 **Colossians 2:16**
 
@@ -25872,7 +25872,7 @@ Therefore if you be dead with Christ from the rudiments of the world, why, as th
 
 **Colossians 2:22**
 
-Which all are to perish with the using;) after the commandments and doctrines of men?
+which all are for corruption with use), according to the commandments and teachings of men?
 
 **Colossians 2:23**
 
@@ -25886,7 +25886,7 @@ If you then be risen with Christ, seek those things which are above, where Chris
 
 **Colossians 3:2**
 
-Set your affection on things above, not on things on the earth.
+Mind the things above, not the things on the earth.
 
 **Colossians 3:3**
 
@@ -25902,7 +25902,7 @@ Put to death therefore your members which are upon the earth; sexual immorality,
 
 **Colossians 3:6**
 
-For which things' sake the wrath of God comes on the children of disobedience:
+Because of these things the wrath of God comes upon the children of disobedience:
 
 **Colossians 3:7**
 
@@ -25962,7 +25962,7 @@ Children, obey your parents in all things: for this is well pleasing to the Lord
 
 **Colossians 3:21**
 
-Fathers, provoke not your children to anger, lest they be discouraged.
+Fathers, do not provoke your children, lest they be discouraged.
 
 **Colossians 3:22**
 
@@ -25988,7 +25988,7 @@ Masters, give to your slaves that which is just and equal; knowing that you also
 
 **Colossians 4:2**
 
-Continue in prayer, and watch in the same with thanksgiving;
+Continue steadfastly in prayer, watching in it with thanksgiving;
 
 **Colossians 4:3**
 
@@ -26052,7 +26052,7 @@ And say to Archippus, Take heed to the ministry which you have received in the L
 
 **Colossians 4:18**
 
-The salutation by the hand of me Paul. Remember my bonds. Grace be with you. Amen.
+The greeting by my hand, Paul. Remember my bonds. Grace be with you. Amen.
 
 ## 1 Thessalonians
 

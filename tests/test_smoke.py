@@ -7696,6 +7696,42 @@ def test_nt_philippians_3_to_4_queue_revisions_stay_reviewed() -> None:
     assert "Philippians 3:19" not in queue_refs
 
 
+def test_nt_colossians_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Colossians 1:15": "Who is the image of the invisible God, the firstborn of all creation:",
+        "Colossians 1:17": "And he is before all things, and all things hold together in him.",
+        "Colossians 1:19": "For in him all the fullness was pleased to dwell;",
+        "Colossians 1:21": "And you, once being alienated and enemies in mind in wicked works, yet now he has reconciled",
+        "Colossians 1:28": "Whom we proclaim, admonishing every man, and teaching every man in all wisdom; that we may present every man complete in Christ Jesus:",
+        "Colossians 2:3": "In whom all the treasures of wisdom and knowledge are hidden.",
+        "Colossians 2:9": "For in him dwells all the fullness of the Deity bodily.",
+        "Colossians 2:14": "Having blotted out the handwriting in ordinances that was against us, which was contrary to us, and he has taken it out of the midst, nailing it to the cross;",
+        "Colossians 2:15": "And having stripped off principalities and powers, he made a public show of them, triumphing over them in it.",
+        "Colossians 2:22": "which all are for corruption with use), according to the commandments and teachings of men?",
+        "Colossians 3:2": "Mind the things above, not the things on the earth.",
+        "Colossians 3:6": "Because of these things the wrath of God comes upon the children of disobedience:",
+        "Colossians 3:21": "Fathers, do not provoke your children, lest they be discouraged.",
+        "Colossians 4:2": "Continue steadfastly in prayer, watching in it with thanksgiving;",
+        "Colossians 4:18": "The greeting by my hand, Paul. Remember my bonds. Grace be with you. Amen.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_163.md"
+        assert ref not in queue_refs
+
+    for ref in ("Colossians 2:17", "Colossians 4:4", "Colossians 4:14"):
+        assert review_by_ref[ref]["latest_review_status"] == "keep"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_163.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

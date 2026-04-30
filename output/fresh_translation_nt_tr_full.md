@@ -127114,7 +127114,7 @@ Greek: ος εστιν εικων του θεου του αορατου πρωτ
 Transliteration: ov estin eikwn tou yeou tou aoratou prwtotokov pashv ktisewv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who is the image of the invisible God, the firstborn of every creature:
+Draft translation: Who is the image of the invisible God, the firstborn of all creation:
 
 Decision rows:
 - [TODO add decision rows]
@@ -127154,7 +127154,7 @@ Greek: και αυτος εστιν προ παντων και τα παντα �
 Transliteration: kai autov estin pro pantwn kai ta panta en autw sunesthken
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he is before all things, and by him all things consist.
+Draft translation: And he is before all things, and all things hold together in him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -127194,7 +127194,7 @@ Greek: οτι εν αυτω ευδοκησεν παν το πληρωμα κατ
 Transliteration: oti en autw eudokhsen pan to plhrwma katoikhsai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For it pleased the Father that in him should all fullness dwell;
+Draft translation: For in him all the fullness was pleased to dwell;
 
 Decision rows:
 - [TODO add decision rows]
@@ -127234,7 +127234,7 @@ Greek: και υμας ποτε οντας απηλλοτριωμενους κα
 Transliteration: kai umav pote ontav aphllotriwmenouv kai ecyrouv th dianoia en toiv ergoiv toiv ponhroiv nuni de apokathllaxen
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And you, that were sometime alienated and enemies in your mind by wicked works, yet now has he reconciled
+Draft translation: And you, once being alienated and enemies in mind in wicked works, yet now he has reconciled
 
 Decision rows:
 - [TODO add decision rows]
@@ -127374,7 +127374,7 @@ Greek: ον ημεις καταγγελλομεν νουθετουντες πα�
 Transliteration: on hmeiv kataggellomen nouyetountev panta anyrwpon kai didaskontev panta anyrwpon en pash sofia ina parasthswmen panta anyrwpon teleion en cristw ihsou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:
+Draft translation: Whom we proclaim, admonishing every man, and teaching every man in all wisdom; that we may present every man complete in Christ Jesus:
 
 Decision rows:
 - [TODO add decision rows]
@@ -127456,7 +127456,7 @@ Greek: εν ω εισιν παντες οι θησαυροι της σοφιας
 Transliteration: en w eisin pantev oi yhsauroi thv sofiav kai thv gnwsewv apokrufoi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: In whom are hid all the treasures of wisdom and knowledge.
+Draft translation: In whom all the treasures of wisdom and knowledge are hidden.
 
 Decision rows:
 - [TODO add decision rows]
@@ -127576,7 +127576,7 @@ Greek: οτι εν αυτω κατοικει παν το πληρωμα της �
 Transliteration: oti en autw katoikei pan to plhrwma thv yeothtov swmatikwv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For in him dwells all the fullness of the Godhead bodily.
+Draft translation: For in him dwells all the fullness of the Deity bodily.
 
 Decision rows:
 - [TODO add decision rows]
@@ -127676,7 +127676,7 @@ Greek: εξαλειψας το καθ ημων χειρογραφον τοις �
 Transliteration: exaleiqav to kay hmwn ceirografon toiv dogmasin o hn upenantion hmin kai auto hrken ek tou mesou proshlwsav auto tw staurw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;
+Draft translation: Having blotted out the handwriting in ordinances that was against us, which was contrary to us, and he has taken it out of the midst, nailing it to the cross;
 
 Decision rows:
 - [TODO add decision rows]
@@ -127696,7 +127696,7 @@ Greek: απεκδυσαμενος τας αρχας και τας εξουσια
 Transliteration: apekdusamenov tav arcav kai tav exousiav edeigmatisen en parrhsia yriambeusav autouv en autw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And having spoiled principalities and powers, he made a show of them openly, triumphing over them in it.
+Draft translation: And having stripped off principalities and powers, he made a public show of them, triumphing over them in it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -127836,7 +127836,7 @@ Greek: α εστιν παντα εις φθοραν τη αποχρησει κα
 Transliteration: a estin panta eiv fyoran th apocrhsei kata ta entalmata kai didaskaliav twn anyrwpwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Which all are to perish with the using;) after the commandments and doctrines of men?
+Draft translation: which all are for corruption with use), according to the commandments and teachings of men?
 
 Decision rows:
 - [TODO add decision rows]
@@ -127898,7 +127898,7 @@ Greek: τα ανω φρονειτε μη τα επι της γης
 Transliteration: ta anw froneite mh ta epi thv ghv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Set your affection on things above, not on things on the earth.
+Draft translation: Mind the things above, not the things on the earth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -127978,7 +127978,7 @@ Greek: δι α ερχεται η οργη του θεου επι τους υιο
 Transliteration: di a ercetai h orgh tou yeou epi touv uiouv thv apeiyeiav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For which things' sake the wrath of God comes on the children of disobedience:
+Draft translation: Because of these things the wrath of God comes upon the children of disobedience:
 
 Decision rows:
 - [TODO add decision rows]
@@ -128278,7 +128278,7 @@ Greek: οι πατερες μη ερεθιζετε τα τεκνα υμων ιν
 Transliteration: oi paterev mh ereyizete ta tekna umwn ina mh ayumwsin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Fathers, provoke not your children to anger, lest they be discouraged.
+Draft translation: Fathers, do not provoke your children, lest they be discouraged.
 
 Decision rows:
 - [TODO add decision rows]
@@ -128400,7 +128400,7 @@ Greek: τη προσευχη προσκαρτερειτε γρηγορουντε
 Transliteration: th proseuch proskartereite grhgorountev en auth en eucaristia
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Continue in prayer, and watch in the same with thanksgiving;
+Draft translation: Continue steadfastly in prayer, watching in it with thanksgiving;
 
 Decision rows:
 - [TODO add decision rows]
@@ -128720,7 +128720,7 @@ Greek: ο ασπασμος τη εμη χειρι παυλου μνημονευ�
 Transliteration: o aspasmov th emh ceiri paulou mnhmoneuete mou twn desmwn h cariv mey umwn amhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: The salutation by the hand of me Paul. Remember my bonds. Grace be with you. Amen.
+Draft translation: The greeting by my hand, Paul. Remember my bonds. Grace be with you. Amen.
 
 Decision rows:
 - [TODO add decision rows]
