@@ -8411,6 +8411,35 @@ def test_nt_2_peter_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_1_john_1_to_3_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "1 John 1:6": "If we say that we have fellowship with him, and walk in darkness, we lie, and do not practice the truth:",
+        "1 John 2:16": "For everything in the world, the desire of the flesh, and the desire of the eyes, and the pride of life, is not from the Father, but is from the world.",
+        "1 John 2:25": "And this is the promise which he promised us, the eternal life.",
+        "1 John 2:28": "And now, little children, remain in him; that, when he is manifested, we may have confidence, and not be ashamed before him at his coming.",
+        "1 John 3:2": "Beloved, now we are children of God, and it has not yet been manifested what we shall be: but we know that, when he is manifested, we shall be like him; for we shall see him as he is.",
+        "1 John 3:3": "And everyone who has this hope set on him purifies himself, even as he is pure.",
+        "1 John 3:20": "For if our heart condemns us, God is greater than our heart, and knows all things.",
+        "1 John 3:21": "Beloved, if our heart does not condemn us, we have confidence toward God.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_187.md"
+        assert ref not in queue_refs
+
+    for ref in {"1 John 1:8", "1 John 1:9"}:
+        assert review_by_ref[ref]["latest_review_status"] == "keep"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_187.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

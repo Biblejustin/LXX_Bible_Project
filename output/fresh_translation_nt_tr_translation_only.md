@@ -30116,7 +30116,7 @@ This then is the message which we have heard of him, and declare to you, that Go
 
 **1 John 1:6**
 
-If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:
+If we say that we have fellowship with him, and walk in darkness, we lie, and do not practice the truth:
 
 **1 John 1:7**
 
@@ -30198,7 +30198,7 @@ Love not the world, neither the things that are in the world. If anyone love the
 
 **1 John 2:16**
 
-For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.
+For everything in the world, the desire of the flesh, and the desire of the eyes, and the pride of life, is not from the Father, but is from the world.
 
 **1 John 2:17**
 
@@ -30234,7 +30234,7 @@ Let that therefore abide in you, which you have heard from the beginning. If tha
 
 **1 John 2:25**
 
-And this is the promise that he has promised us, even eternal life.
+And this is the promise which he promised us, the eternal life.
 
 **1 John 2:26**
 
@@ -30246,7 +30246,7 @@ But the anointing which you have received of him abides in you, and you need not
 
 **1 John 2:28**
 
-And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.
+And now, little children, remain in him; that, when he is manifested, we may have confidence, and not be ashamed before him at his coming.
 
 **1 John 2:29**
 
@@ -30260,11 +30260,11 @@ Look, what manner of love the Father has bestowed upon us, that we should be cal
 
 **1 John 3:2**
 
-Beloved, now are we the sons of God, and it does not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
+Beloved, now we are children of God, and it has not yet been manifested what we shall be: but we know that, when he is manifested, we shall be like him; for we shall see him as he is.
 
 **1 John 3:3**
 
-And every man that has this hope in him purifies himself, even as he is pure.
+And everyone who has this hope set on him purifies himself, even as he is pure.
 
 **1 John 3:4**
 
@@ -30332,11 +30332,11 @@ And by this we know that we are of the truth, and shall assure our hearts before
 
 **1 John 3:20**
 
-For if our heart condemn us, God is greater than our heart, and knows all things.
+For if our heart condemns us, God is greater than our heart, and knows all things.
 
 **1 John 3:21**
 
-Beloved, if our heart condemn us not, then have we confidence toward God.
+Beloved, if our heart does not condemn us, we have confidence toward God.
 
 **1 John 3:22**
 

@@ -148560,7 +148560,7 @@ Greek: εαν ειπωμεν οτι κοινωνιαν εχομεν μετ αυ�
 Transliteration: ean eipwmen oti koinwnian ecomen met autou kai en tw skotei peripatwmen qeudomeya kai ou poioumen thn alhyeian
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:
+Draft translation: If we say that we have fellowship with him, and walk in darkness, we lie, and do not practice the truth:
 
 Decision rows:
 - [TODO add decision rows]
@@ -148962,7 +148962,7 @@ Greek: οτι παν το εν τω κοσμω η επιθυμια της σαρ
 Transliteration: oti pan to en tw kosmw h epiyumia thv sarkov kai h epiyumia twn ofyalmwn kai h alazoneia tou biou ouk estin ek tou patrov all ek tou kosmou estin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.
+Draft translation: For everything in the world, the desire of the flesh, and the desire of the eyes, and the pride of life, is not from the Father, but is from the world.
 
 Decision rows:
 - [TODO add decision rows]
@@ -149142,7 +149142,7 @@ Greek: και αυτη εστιν η επαγγελια ην αυτος επηγ
 Transliteration: kai auth estin h epaggelia hn autov ephggeilato hmin thn zwhn thn aiwnion
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And this is the promise that he has promised us, even eternal life.
+Draft translation: And this is the promise which he promised us, the eternal life.
 
 Decision rows:
 - [TODO add decision rows]
@@ -149202,7 +149202,7 @@ Greek: και νυν τεκνια μενετε εν αυτω ινα οταν φ�
 Transliteration: kai nun teknia menete en autw ina otan fanerwyh ecwmen parrhsian kai mh aiscunywmen ap autou en th parousia autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.
+Draft translation: And now, little children, remain in him; that, when he is manifested, we may have confidence, and not be ashamed before him at his coming.
 
 Decision rows:
 - [TODO add decision rows]
@@ -149264,7 +149264,7 @@ Greek: αγαπητοι νυν τεκνα θεου εσμεν και ουπω ε
 Transliteration: agaphtoi nun tekna yeou esmen kai oupw efanerwyh ti esomeya oidamen de oti ean fanerwyh omoioi autw esomeya oti oqomeya auton kaywv estin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Beloved, now are we the sons of God, and it does not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
+Draft translation: Beloved, now we are children of God, and it has not yet been manifested what we shall be: but we know that, when he is manifested, we shall be like him; for we shall see him as he is.
 
 Decision rows:
 - [TODO add decision rows]
@@ -149284,7 +149284,7 @@ Greek: και πας ο εχων την ελπιδα ταυτην επ αυτω 
 Transliteration: kai pav o ecwn thn elpida tauthn ep autw agnizei eauton kaywv ekeinov agnov estin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And every man that has this hope in him purifies himself, even as he is pure.
+Draft translation: And everyone who has this hope set on him purifies himself, even as he is pure.
 
 Decision rows:
 - [TODO add decision rows]
@@ -149624,7 +149624,7 @@ Greek: οτι εαν καταγινωσκη ημων η καρδια οτι με
 Transliteration: oti ean kataginwskh hmwn h kardia oti meizwn estin o yeov thv kardiav hmwn kai ginwskei panta
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For if our heart condemn us, God is greater than our heart, and knows all things.
+Draft translation: For if our heart condemns us, God is greater than our heart, and knows all things.
 
 Decision rows:
 - [TODO add decision rows]
@@ -149644,7 +149644,7 @@ Greek: αγαπητοι εαν η καρδια ημων μη καταγινωσ�
 Transliteration: agaphtoi ean h kardia hmwn mh kataginwskh hmwn parrhsian ecomen prov ton yeon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Beloved, if our heart condemn us not, then have we confidence toward God.
+Draft translation: Beloved, if our heart does not condemn us, we have confidence toward God.
 
 Decision rows:
 - [TODO add decision rows]
