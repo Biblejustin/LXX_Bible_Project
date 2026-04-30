@@ -3,16 +3,16 @@
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
   "status_counts": {
-    "tr_literal_manual": 3417,
-    "tr_literal_pass1": 3869,
-    "needs_focused_tr_review": 671
+    "tr_literal_manual": 3420,
+    "tr_literal_pass1": 3868,
+    "tr_literal_reviewed_keep": 669
   },
   "changed_by_book": {
     "MAT": 913,
     "MRK": 587,
     "LUK": 999,
     "JHN": 759,
-    "ACT": 877,
+    "ACT": 878,
     "ROM": 407,
     "1CO": 423,
     "2CO": 242,
@@ -37,7 +37,7 @@
     "REV": 389
   },
   "rule_counts": {
-    "manual TR literal override": 3417,
+    "manual TR literal override": 3420,
     "aligned gennao with fathered": 17,
     "rendered adelphoi-family wording as brothers": 149,
     "rendered general brings-forth as produces": 27,
@@ -56,7 +56,7 @@
     "standardized Judea spelling": 26,
     "modernized are-come perfect": 11,
     "modernized he-that relative": 165,
-    "UKJV seed retained; needs focused Greek review": 671,
+    "UKJV seed retained; needs focused Greek review": 669,
     "standardized Juda as Judah in tribe/land contexts": 8,
     "modernized enquired spelling": 4,
     "removed UKJV plural-expansion artifact": 721,
@@ -255,7 +255,7 @@
     "modernized mine-own idiom": 12,
     "modernized worshipping spelling": 2,
     "modernized what-will-you question": 1,
-    "modernized know-not idiom": 24,
+    "modernized know-not idiom": 23,
     "modernized hold-their-peace idiom": 3,
     "modernized what-will-you idiom": 4,
     "modernized garments where not contextually technical": 15,
@@ -531,8 +531,8 @@
     "aligned peri relative wording": 1,
     "modernized hears-not wording": 1,
     "fixed non-person relative after witness": 1,
-    "rendered zoon as living creature": 12,
     "fixed clothing-down-to-foot artifact": 1,
+    "rendered zoon as living creature": 11,
     "normalized living-creature participle": 2,
     "modernized prevailed-not wording": 1,
     "rendered phiale as bowl": 11,
@@ -545,8 +545,12 @@
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
   "review_queue_rows": 0,
-  "needs_focused_tr_review_rows": 671,
-  "review_queue_resolved_by_pass": 671,
+  "needs_focused_tr_review_rows": 0,
+  "initial_needs_focused_tr_review_rows": 669,
+  "review_queue_resolved_by_pass": 669,
+  "source_review_status_synced": {
+    "keep": 669
+  },
   "examples": {
     "manual TR literal override": [
       {
@@ -6786,12 +6790,14 @@
         "draft_translation": "If we receive the witness of men, the witness of God is greater: for this is the witness of God which he has testified of his Son."
       }
     ],
-    "rendered zoon as living creature": [
+    "fixed clothing-down-to-foot artifact": [
       {
-        "ref": "Jude 1:10",
-        "book_code": "JUD",
-        "draft_translation": "But these speak evil of those things which they do not know: but what they know naturally, as brute living creatures, in those things they corrupt themselves."
-      },
+        "ref": "Revelation 1:13",
+        "book_code": "REV",
+        "draft_translation": "And in the midst of the seven candlesticks one like to the Son of man, clothed with a garment reaching to the feet, and girt about the breast with a golden girdle."
+      }
+    ],
+    "rendered zoon as living creature": [
       {
         "ref": "Revelation 4:6",
         "book_code": "REV",
@@ -6801,13 +6807,11 @@
         "ref": "Revelation 4:8",
         "book_code": "REV",
         "draft_translation": "And the four living creatures had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come."
-      }
-    ],
-    "fixed clothing-down-to-foot artifact": [
+      },
       {
-        "ref": "Revelation 1:13",
+        "ref": "Revelation 4:9",
         "book_code": "REV",
-        "draft_translation": "And in the midst of the seven candlesticks one like to the Son of man, clothed with a garment reaching to the feet, and girt about the breast with a golden girdle."
+        "draft_translation": "And when those living creatures give glory and honor and thanks to him who sat on the throne, who lives forever and ever,"
       }
     ],
     "normalized living-creature participle": [

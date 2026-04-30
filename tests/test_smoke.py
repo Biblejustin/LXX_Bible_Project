@@ -7262,6 +7262,38 @@ def test_nt_literal_revision_queue_excludes_reviewed_pass_refs() -> None:
     assert diagnostics["review_queue_resolved_by_pass"] >= 600
 
 
+def test_nt_review_metadata_cleanup_has_no_stale_queue_markers() -> None:
+    source_rows = csv_rows("data/raw/tr_greek/nt_full.csv")
+    review_rows = csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")
+    diagnostics = json.loads(
+        (ROOT / "output/nt_tr_literal_revision_pass1_diagnostics.json").read_text(encoding="utf-8")
+    )
+    review_diagnostics = json.loads(
+        (ROOT / "output/fresh_nt_tr_vs_ukjv_review_diagnostics.json").read_text(encoding="utf-8")
+    )
+
+    assert not [row["ref"] for row in source_rows if row["review_status"] == "needs_focused_tr_review"]
+    assert not [row["ref"] for row in review_rows if not row["latest_review_status"]]
+    assert diagnostics["needs_focused_tr_review_rows"] == 0
+    assert diagnostics["source_review_status_synced"]["keep"] >= 600
+    assert "unreviewed" not in review_diagnostics["latest_review_status_counts"]
+
+
+def test_nt_old_revised_pass_rows_match_source_text() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+
+    expected = {
+        "Acts 7:19": "This one dealt craftily with our kindred, and mistreated our fathers, by making them expose their infants, so that they might not be kept alive.",
+        "1 Timothy 3:14": "I write these things to you, hoping to come to you shortly:",
+    }
+    for ref, draft_translation in expected.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+
+
 def test_nt_second_corinthians_5_focused_queue_revisions_stay_reviewed() -> None:
     by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
 
@@ -8509,6 +8541,22 @@ def test_nt_jude_queue_revisions_stay_reviewed() -> None:
         assert review_by_ref[ref]["latest_review_status"] == "revised"
         assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_190.md"
         assert ref not in queue_refs
+
+
+def test_nt_jude_living_creature_cleanup_stays_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    assert (
+        source_by_ref["Jude 1:10"]["draft_translation"]
+        == "But these speak evil of as many things as they do not know: but what things they understand naturally, as irrational living creatures, in these things they corrupt themselves."
+    )
+    assert source_by_ref["Jude 1:10"]["review_status"] == "tr_literal_manual"
+    assert source_by_ref["Jude 1:10"]["review_notes"] == "manual TR literal override"
+    assert review_by_ref["Jude 1:10"]["latest_review_status"] == "revised"
+    assert review_by_ref["Jude 1:10"]["latest_review_pass"] == "nt_review_pass_202.md"
+    assert "Jude 1:10" not in queue_refs
 
 
 def test_nt_revelation_1_to_3_queue_revisions_stay_reviewed() -> None:

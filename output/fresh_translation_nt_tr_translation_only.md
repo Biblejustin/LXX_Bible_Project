@@ -16166,7 +16166,7 @@ Till another king arose, which did not know Joseph.
 
 **Acts 7:19**
 
-The same dealt subtlely with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live.
+This one dealt craftily with our kindred, and mistreated our fathers, by making them expose their infants, so that they might not be kept alive.
 
 **Acts 7:20**
 
@@ -26820,7 +26820,7 @@ For those who have served well purchase to themselves a good degree, and great b
 
 **1 Timothy 3:14**
 
-hoping to come to you shortly:
+I write these things to you, hoping to come to you shortly:
 
 **1 Timothy 3:15**
 
@@ -30680,7 +30680,7 @@ Yet Michael the archangel, when contending with the devil he disputed about the 
 
 **Jude 1:10**
 
-But these speak evil of those things which they do not know: but what they know naturally, as brute living creatures, in those things they corrupt themselves.
+But these speak evil of as many things as they do not know: but what things they understand naturally, as irrational living creatures, in these things they corrupt themselves.
 
 **Jude 1:11**
 

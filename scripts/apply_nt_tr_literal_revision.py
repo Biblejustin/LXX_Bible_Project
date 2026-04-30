@@ -20,6 +20,10 @@ REVIEW_DIR = ROOT / "data" / "research"
 
 REVIEW_COLUMNS = ["ukjv_translation", "review_status", "review_notes"]
 RESOLVED_REVIEW_STATUSES = {"keep", "revised"}
+RESOLVED_SOURCE_STATUSES = {
+    "keep": "tr_literal_reviewed_keep",
+    "revised": "tr_literal_reviewed_revised",
+}
 REVIEW_PASS_RE = re.compile(r"nt_review_pass_(\d+)\.md$")
 STRONGS_MARKER_RE = re.compile(r"\s*\([a-z]\.\s*[^)]*\)")
 SPACE_RE = re.compile(r"\s+")
@@ -4827,6 +4831,7 @@ MANUAL_OVERRIDES = {
     "John 3:8": "The wind blows where it wills, and you hear the sound of it, but cannot tell from where it comes, and where it goes: so is every one that is born of the Spirit.",
     "John 7:27": "Nevertheless we know this man from where he is: but when Christ comes, no one knows from where he is.",
     "Acts 5:39": "But if it is of God, you cannot overthrow it; lest by any means you be found even to fight against God.",
+    "Acts 7:19": "This one dealt craftily with our kindred, and mistreated our fathers, by making them expose their infants, so that they might not be kept alive.",
     "Acts 12:13": "And as Peter knocked at the door of the gate, a girl came to listen, named Rhoda.",
     "Acts 19:32": "Some therefore cried one thing, and some another: for the assembly was confused: and most did not know why they had come together.",
     "Acts 20:13": "And we went on board the boat, and sailed to Assos, there intending to take in Paul: for so had he appointed, minding himself to go on foot.",
@@ -4848,6 +4853,7 @@ MANUAL_OVERRIDES = {
     "2 Corinthians 11:5": "For I suppose I was not behind the foremost apostles.",
     "1 Thessalonians 2:5": "For neither at any time used we flattering words, as you know, nor a pretext of covetousness; God is witness:",
     "1 Timothy 1:19": "Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:",
+    "1 Timothy 3:14": "I write these things to you, hoping to come to you shortly:",
     "1 Peter 2:7": "To you therefore who believe belongs honor: but to those who are disobedient, the stone which the builders disallowed, the same is made the head of the corner,",
     "1 Peter 2:8": "And a stone of stumbling, and a rock of stumbling, even to those who stumble at the word, being disobedient: to which also they were appointed.",
     "1 Peter 2:12": "Having your conduct honest among the nations: that, whereas they speak against you as evildoers, they may by your good works, which they observe, glorify God in the day of visitation.",
@@ -4856,6 +4862,7 @@ MANUAL_OVERRIDES = {
     "Hebrews 10:13": "From now on expecting till his enemies be made his footstool.",
     "1 Timothy 2:9": "Likewise also, that women adorn themselves in modest apparel, with reverence and sobriety; not with braided hair, or gold, or pearls, or costly array;",
     "1 Timothy 6:9": "But those who will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and ruin.",
+    "Jude 1:10": "But these speak evil of as many things as they do not know: but what things they understand naturally, as irrational living creatures, in these things they corrupt themselves.",
     "Jude 1:11": "Woe to them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the rebellion of Korah.",
     "Revelation 5:8": "And when he had taken the book, the four living creatures and four and twenty elders fell down before the Lamb, each having harps, and golden bowls full of incense, which are the prayers of holy ones.",
     "Revelation 17:8": "The beast that you saw was, and is not; and shall ascend out of the bottomless pit, and go into destruction: and those who dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.",
@@ -4951,6 +4958,24 @@ def write_review_queue(
     return {"written": written, "resolved_by_pass": resolved_by_pass}
 
 
+def sync_resolved_review_metadata(
+    rows: list[dict[str, str]],
+    latest_review_statuses: dict[str, str],
+) -> dict[str, int]:
+    counts: Counter[str] = Counter()
+    for row in rows:
+        if row.get("review_status") != "needs_focused_tr_review":
+            continue
+        latest_status = latest_review_statuses.get(row.get("ref", ""))
+        source_status = RESOLVED_SOURCE_STATUSES.get(latest_status)
+        if not source_status:
+            continue
+        row["review_status"] = source_status
+        row["review_notes"] = f"focused TR review resolved as {latest_status}"
+        counts[latest_status] += 1
+    return dict(counts)
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--source", type=Path, default=DEFAULT_SOURCE)
@@ -4959,7 +4984,7 @@ def main() -> None:
     args = parser.parse_args()
 
     rows, fieldnames = load_rows(args.source)
-    status_counts: Counter[str] = Counter()
+    initial_status_counts: Counter[str] = Counter()
     rule_counts: Counter[str] = Counter()
     changed_by_book: Counter[str] = Counter()
     examples: dict[str, list[dict[str, str]]] = defaultdict(list)
@@ -4975,7 +5000,7 @@ def main() -> None:
         row["draft_translation"] = revised
         row["review_status"] = status
         row["review_notes"] = "; ".join(notes)
-        status_counts[status] += 1
+        initial_status_counts[status] += 1
         if revised != seed:
             changed_by_book[row.get("book_code", "")] += 1
         for note in notes:
@@ -4990,8 +5015,10 @@ def main() -> None:
                 )
 
     latest_review_statuses = load_latest_review_statuses()
-    write_rows(args.source, rows, fieldnames)
     queue_counts = write_review_queue(args.review_queue, rows, latest_review_statuses)
+    synced_resolved_statuses = sync_resolved_review_metadata(rows, latest_review_statuses)
+    status_counts: Counter[str] = Counter(row.get("review_status", "") for row in rows)
+    write_rows(args.source, rows, fieldnames)
     diagnostics = {
         "method": "TR literal draft is primary in draft_translation; UKJV is preserved only as ukjv_translation witness.",
         "source": str(args.source),
@@ -5002,7 +5029,9 @@ def main() -> None:
         "review_queue": str(args.review_queue),
         "review_queue_rows": queue_counts["written"],
         "needs_focused_tr_review_rows": status_counts.get("needs_focused_tr_review", 0),
+        "initial_needs_focused_tr_review_rows": initial_status_counts.get("needs_focused_tr_review", 0),
         "review_queue_resolved_by_pass": queue_counts["resolved_by_pass"],
+        "source_review_status_synced": synced_resolved_statuses,
         "examples": examples,
     }
     args.report.parent.mkdir(parents=True, exist_ok=True)

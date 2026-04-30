@@ -547,6 +547,10 @@ def score_row(row: dict[str, str], latest_review_statuses: dict[str, dict[str, s
         and all(note in STYLE_ONLY_NOTES for note in review_notes)
     )
     requires_review = has_text_gap or (has_meaningful_difference and not style_only_difference)
+    auto_resolved_keep = not latest_status and not requires_review
+    if auto_resolved_keep:
+        latest_status = "keep"
+        latest_pass = "auto_no_meaningful_ukjv_difference"
     score = 0
     reasons: list[str] = []
 
@@ -578,9 +582,13 @@ def score_row(row: dict[str, str], latest_review_statuses: dict[str, dict[str, s
         score += min(12, len(keyword_hits) * 2)
         reasons.append("theology/literal keyword hit")
 
+    resolved = latest_status in RESOLVED_REVIEW_STATUSES
     if resolved:
         importance = "none"
-        reasons.append(f"resolved:{latest_status}")
+        if auto_resolved_keep:
+            reasons.append("auto-resolved:keep")
+        else:
+            reasons.append(f"resolved:{latest_status}")
     elif not requires_review:
         importance = "none"
     elif status == "needs_focused_tr_review" or score >= 18:
@@ -592,7 +600,9 @@ def score_row(row: dict[str, str], latest_review_statuses: dict[str, dict[str, s
     else:
         importance = "none"
 
-    if resolved:
+    if auto_resolved_keep:
+        decision = "auto keep: no meaningful UKJV difference"
+    elif resolved:
         decision = f"resolved in {latest_pass}: {latest_status}"
     elif not requires_review:
         decision = "no meaningful UKJV difference"

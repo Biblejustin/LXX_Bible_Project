@@ -80033,7 +80033,7 @@ Greek: ουτος κατασοφισαμενος το γενος ημων εκα
 Transliteration: outov katasofisamenov to genov hmwn ekakwsen touv paterav hmwn tou poiein ekyeta ta brefh autwn eiv to mh zwogoneisyai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: The same dealt subtlely with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live.
+Draft translation: This one dealt craftily with our kindred, and mistreated our fathers, by making them expose their infants, so that they might not be kept alive.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132448,7 +132448,7 @@ Greek: ταυτα σοι γραφω ελπιζων ελθειν προς σε τ
 Transliteration: tauta soi grafw elpizwn elyein prov se tacion
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: hoping to come to you shortly:
+Draft translation: I write these things to you, hoping to come to you shortly:
 
 Decision rows:
 - [TODO add decision rows]
@@ -151300,7 +151300,7 @@ Greek: ουτοι δε οσα μεν ουκ οιδασιν βλασφημουσ�
 Transliteration: outoi de osa men ouk oidasin blasfhmousin osa de fusikwv wv ta aloga zwa epistantai en toutoiv fyeirontai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But these speak evil of those things which they do not know: but what they know naturally, as brute living creatures, in those things they corrupt themselves.
+Draft translation: But these speak evil of as many things as they do not know: but what things they understand naturally, as irrational living creatures, in these things they corrupt themselves.
 
 Decision rows:
 - [TODO add decision rows]
