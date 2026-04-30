@@ -31212,11 +31212,11 @@ For the great day of his wrath has come; and who is able to stand?
 
 **Revelation 7:1**
 
-And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.
+And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that no wind should blow on the earth, nor on the sea, nor on any tree.
 
 **Revelation 7:2**
 
-And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea,
+And I saw another angel ascending from the rising of the sun, having the seal of the living God: and he cried with a great voice to the four angels, to whom it was given to harm the earth and the sea,
 
 **Revelation 7:3**
 
@@ -31272,7 +31272,7 @@ Therefore are they before the throne of God, and serve him day and night in his 
 
 **Revelation 7:16**
 
-They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat.
+They shall hunger no more, neither thirst anymore; neither shall the sun fall upon them, nor any burning heat.
 
 **Revelation 7:17**
 
@@ -31282,7 +31282,7 @@ For the Lamb which is in the midst of the throne shall feed them, and shall lead
 
 **Revelation 8:1**
 
-And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.
+And when he opened the seventh seal, there was silence in heaven about half an hour.
 
 **Revelation 8:2**
 
@@ -31298,7 +31298,7 @@ And the smoke of the incense, which came with the prayers of the holy ones, asce
 
 **Revelation 8:5**
 
-And the angel took the censer, and filled it with fire of the altar, and cast it into the earth: and there were voices, and thunderings, and lightnings, and an earthquake.
+And the angel took the censer, and filled it from the fire of the altar, and cast it to the earth: and there were voices, and thunders, and lightnings, and an earthquake.
 
 **Revelation 8:6**
 
@@ -31314,19 +31314,19 @@ And the second angel sounded, and as it were a great mountain burning with fire 
 
 **Revelation 8:9**
 
-And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed.
+And the third of the creatures in the sea, those having life, died; and the third of the ships were destroyed.
 
 **Revelation 8:10**
 
-And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;
+And the third angel sounded, and a great star fell from heaven, burning as a lamp, and it fell upon the third of the rivers, and upon the springs of waters;
 
 **Revelation 8:11**
 
-And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter.
+And the name of the star is called Wormwood: and the third of the waters became wormwood; and many of men died from the waters, because they were made bitter.
 
 **Revelation 8:12**
 
-And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise.
+And the fourth angel sounded, and the third of the sun was struck, and the third of the moon, and the third of the stars; so that the third of them might be darkened, and the day might not shine for a third of it, and the night likewise.
 
 **Revelation 8:13**
 

@@ -153896,7 +153896,7 @@ Greek: και μετα ταυτα ειδον τεσσαρας αγγελους �
 Transliteration: kai meta tauta eidon tessarav aggelouv estwtav epi tav tessarav gwniav thv ghv kratountav touv tessarav anemouv thv ghv ina mh pneh anemov epi thv ghv mhte epi thv yalasshv mhte epi pan dendron
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.
+Draft translation: And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that no wind should blow on the earth, nor on the sea, nor on any tree.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153916,7 +153916,7 @@ Greek: και ειδον αλλον αγγελον αναβαινοντα απο
 Transliteration: kai eidon allon aggelon anabainonta apo anatolhv hliou econta sfragida yeou zwntov kai ekraxen fwnh megalh toiv tessarsin aggeloiv oiv edoyh autoiv adikhsai thn ghn kai thn yalassan
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea,
+Draft translation: And I saw another angel ascending from the rising of the sun, having the seal of the living God: and he cried with a great voice to the four angels, to whom it was given to harm the earth and the sea,
 
 Decision rows:
 - [TODO add decision rows]
@@ -154196,7 +154196,7 @@ Greek: ου πεινασουσιν ετι ουδε διψησουσιν ετι �
 Transliteration: ou peinasousin eti oude diqhsousin eti oude mh pesh ep autouv o hliov oude pan kauma
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat.
+Draft translation: They shall hunger no more, neither thirst anymore; neither shall the sun fall upon them, nor any burning heat.
 
 Decision rows:
 - [TODO add decision rows]
@@ -154238,7 +154238,7 @@ Greek: και οτε ηνοιξεν την σφραγιδα την εβδομη�
 Transliteration: kai ote hnoixen thn sfragida thn ebdomhn egeneto sigh en tw ouranw wv hmiwrion
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.
+Draft translation: And when he opened the seventh seal, there was silence in heaven about half an hour.
 
 Decision rows:
 - [TODO add decision rows]
@@ -154318,7 +154318,7 @@ Greek: και ειληφεν ο αγγελος το λιβανωτον και ε
 Transliteration: kai eilhfen o aggelov to libanwton kai egemisen auto ek tou purov tou yusiasthriou kai ebalen eiv thn ghn kai egenonto fwnai kai brontai kai astrapai kai seismov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the angel took the censer, and filled it with fire of the altar, and cast it into the earth: and there were voices, and thunderings, and lightnings, and an earthquake.
+Draft translation: And the angel took the censer, and filled it from the fire of the altar, and cast it to the earth: and there were voices, and thunders, and lightnings, and an earthquake.
 
 Decision rows:
 - [TODO add decision rows]
@@ -154398,7 +154398,7 @@ Greek: και απεθανεν το τριτον των κτισματων τω�
 Transliteration: kai apeyanen to triton twn ktismatwn twn en th yalassh ta econta qucav kai to triton twn ploiwn diefyarh
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed.
+Draft translation: And the third of the creatures in the sea, those having life, died; and the third of the ships were destroyed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -154418,7 +154418,7 @@ Greek: και ο τριτος αγγελος εσαλπισεν και επεσ�
 Transliteration: kai o tritov aggelov esalpisen kai epesen ek tou ouranou asthr megav kaiomenov wv lampav kai epesen epi to triton twn potamwn kai epi tav phgav udatwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;
+Draft translation: And the third angel sounded, and a great star fell from heaven, burning as a lamp, and it fell upon the third of the rivers, and upon the springs of waters;
 
 Decision rows:
 - [TODO add decision rows]
@@ -154438,7 +154438,7 @@ Greek: και το ονομα του αστερος λεγεται αψινθο�
 Transliteration: kai to onoma tou asterov legetai aqinyov kai ginetai to triton twn udatwn eiv aqinyon kai polloi anyrwpwn apeyanon ek twn udatwn oti epikranyhsan
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter.
+Draft translation: And the name of the star is called Wormwood: and the third of the waters became wormwood; and many of men died from the waters, because they were made bitter.
 
 Decision rows:
 - [TODO add decision rows]
@@ -154458,7 +154458,7 @@ Greek: και ο τεταρτος αγγελος εσαλπισεν και επ�
 Transliteration: kai o tetartov aggelov esalpisen kai eplhgh to triton tou hliou kai to triton thv selhnhv kai to triton twn asterwn ina skotisyh to triton autwn kai h hmera mh fainh to triton authv kai h nux omoiwv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise.
+Draft translation: And the fourth angel sounded, and the third of the sun was struck, and the third of the moon, and the third of the stars; so that the third of them might be darkened, and the day might not shine for a third of it, and the night likewise.
 
 Decision rows:
 - [TODO add decision rows]

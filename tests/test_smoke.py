@@ -8566,6 +8566,35 @@ def test_nt_revelation_4_to_6_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_revelation_7_to_8_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Revelation 7:1": "And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that no wind should blow on the earth, nor on the sea, nor on any tree.",
+        "Revelation 7:2": "And I saw another angel ascending from the rising of the sun, having the seal of the living God: and he cried with a great voice to the four angels, to whom it was given to harm the earth and the sea,",
+        "Revelation 7:16": "They shall hunger no more, neither thirst anymore; neither shall the sun fall upon them, nor any burning heat.",
+        "Revelation 8:1": "And when he opened the seventh seal, there was silence in heaven about half an hour.",
+        "Revelation 8:5": "And the angel took the censer, and filled it from the fire of the altar, and cast it to the earth: and there were voices, and thunders, and lightnings, and an earthquake.",
+        "Revelation 8:9": "And the third of the creatures in the sea, those having life, died; and the third of the ships were destroyed.",
+        "Revelation 8:10": "And the third angel sounded, and a great star fell from heaven, burning as a lamp, and it fell upon the third of the rivers, and upon the springs of waters;",
+        "Revelation 8:11": "And the name of the star is called Wormwood: and the third of the waters became wormwood; and many of men died from the waters, because they were made bitter.",
+        "Revelation 8:12": "And the fourth angel sounded, and the third of the sun was struck, and the third of the moon, and the third of the stars; so that the third of them might be darkened, and the day might not shine for a third of it, and the night likewise.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_193.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["Revelation 7:7"]["latest_review_status"] == "keep"
+    assert review_by_ref["Revelation 7:7"]["latest_review_pass"] == "nt_review_pass_193.md"
+    assert "Revelation 7:7" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
