@@ -27436,7 +27436,7 @@ Paul, a slave of God, and an apostle of Jesus Christ, according to the faith of 
 
 **Titus 1:2**
 
-In hope of eternal life, which God, that cannot lie, promised before the world began;
+in hope of eternal life, which God, who cannot lie, promised before eternal times;
 
 **Titus 1:3**
 
@@ -27448,11 +27448,11 @@ To Titus, my own son after the common faith: Grace, mercy, and peace, from God t
 
 **Titus 1:5**
 
-For this cause left I you in Crete, that you should set in order the things that are lacking, and ordain elders in every city, as I had appointed you:
+For this cause I left you in Crete, that you should set in order the things that are lacking, and appoint elders in every city, as I directed you:
 
 **Titus 1:6**
 
-If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.
+if anyone is blameless, the husband of one wife, having faithful children not accused of dissipation or insubordination.
 
 **Titus 1:7**
 
@@ -27460,7 +27460,7 @@ For an overseer must be blameless, as the steward of God; not self-willed, not s
 
 **Titus 1:8**
 
-But a lover of hospitality, a lover of good men, sober, just, holy, temperate;
+but hospitable, a lover of good, sober-minded, just, holy, self-controlled;
 
 **Titus 1:9**
 
@@ -27468,15 +27468,15 @@ Holding fast the faithful word as he has been taught, that he may be able by sou
 
 **Titus 1:10**
 
-For there are many unruly and vain talkers and deceivers, specially they of the circumcision:
+For there are many unruly men, vain talkers and deceivers, especially those of the circumcision:
 
 **Titus 1:11**
 
-Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy illegal gain's sake.
+whose mouths must be stopped, who overturn whole houses, teaching things which they ought not, for shameful gain's sake.
 
 **Titus 1:12**
 
-One of themselves, even a prophet of their own, said, The Cretians are always liars, evil beasts, sluggards.
+One of themselves, a prophet of their own, said, Cretans are always liars, evil beasts, idle bellies.
 
 **Titus 1:13**
 
@@ -27484,7 +27484,7 @@ This witness is true. Therefore rebuke them sharply, that they may be sound in t
 
 **Titus 1:14**
 
-Not giving heed to Jewish fables, and commandments of men, that turn from the truth.
+not giving heed to Jewish fables, and commandments of men who turn away from the truth.
 
 **Titus 1:15**
 
@@ -27498,7 +27498,7 @@ They profess that they know God; but in works they deny him, being abominable, a
 
 **Titus 2:1**
 
-But speak you the things which become sound doctrine:
+But speak the things which befit sound teaching:
 
 **Titus 2:2**
 
@@ -27510,7 +27510,7 @@ The aged women likewise, that they be in behavior as becomes holiness, not false
 
 **Titus 2:4**
 
-That they may teach the young women to be sober, to love their husbands, to love their children,
+that they may train the young women to love their husbands, to love their children,
 
 **Titus 2:5**
 
@@ -27518,11 +27518,11 @@ To be discreet, chaste, keepers at home, good, obedient to their own husbands, t
 
 **Titus 2:6**
 
-Young men likewise exhort to be sober minded.
+The younger men likewise exhort to be sober-minded.
 
 **Titus 2:7**
 
-In all things showing yourself a pattern of good works: in doctrine showing incorruptness, gravity, sincerity,
+in all things showing yourself a pattern of good works: in teaching, incorruptness, dignity, sincerity,
 
 **Titus 2:8**
 
@@ -27538,11 +27538,11 @@ Not embezzling, but showing all good fidelity; that they may adorn the doctrine 
 
 **Titus 2:11**
 
-For the grace of God that brings salvation has appeared to all men,
+For the saving grace of God has appeared to all men,
 
 **Titus 2:12**
 
-Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;
+teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly in the present age;
 
 **Titus 2:13**
 
@@ -27560,7 +27560,7 @@ These things speak, and exhort, and rebuke with all authority. Let no one despis
 
 **Titus 3:1**
 
-Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,
+Remind them to be subject to rulers and authorities, to obey, to be ready for every good work,
 
 **Titus 3:2**
 
@@ -27592,7 +27592,7 @@ This is a faithful saying, and these things I will that you affirm constantly, t
 
 **Titus 3:9**
 
-But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are useless and vain.
+But avoid foolish questions, and genealogies, and contentions, and fights about the law; for they are unprofitable and vain.
 
 **Titus 3:10**
 

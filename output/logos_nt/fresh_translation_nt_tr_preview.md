@@ -281,7 +281,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Supplemental notes/links: 0
 - Cross-references: 12
 
-**Titus 1:2** In hope of eternal life, which God, that cannot lie, promised before the world began;
+**Titus 1:2** in hope of eternal life, which God, who cannot lie, promised before eternal times;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 37

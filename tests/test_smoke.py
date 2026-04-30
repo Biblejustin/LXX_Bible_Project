@@ -7951,6 +7951,38 @@ def test_nt_second_timothy_3_to_4_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_titus_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Titus 1:2": "in hope of eternal life, which God, who cannot lie, promised before eternal times;",
+        "Titus 1:5": "For this cause I left you in Crete, that you should set in order the things that are lacking, and appoint elders in every city, as I directed you:",
+        "Titus 1:6": "if anyone is blameless, the husband of one wife, having faithful children not accused of dissipation or insubordination.",
+        "Titus 1:8": "but hospitable, a lover of good, sober-minded, just, holy, self-controlled;",
+        "Titus 1:10": "For there are many unruly men, vain talkers and deceivers, especially those of the circumcision:",
+        "Titus 1:11": "whose mouths must be stopped, who overturn whole houses, teaching things which they ought not, for shameful gain's sake.",
+        "Titus 1:12": "One of themselves, a prophet of their own, said, Cretans are always liars, evil beasts, idle bellies.",
+        "Titus 1:14": "not giving heed to Jewish fables, and commandments of men who turn away from the truth.",
+        "Titus 2:1": "But speak the things which befit sound teaching:",
+        "Titus 2:4": "that they may train the young women to love their husbands, to love their children,",
+        "Titus 2:6": "The younger men likewise exhort to be sober-minded.",
+        "Titus 2:7": "in all things showing yourself a pattern of good works: in teaching, incorruptness, dignity, sincerity,",
+        "Titus 2:11": "For the saving grace of God has appeared to all men,",
+        "Titus 2:12": "teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly in the present age;",
+        "Titus 3:1": "Remind them to be subject to rulers and authorities, to obey, to be ready for every good work,",
+        "Titus 3:9": "But avoid foolish questions, and genealogies, and contentions, and fights about the law; for they are unprofitable and vain.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_171.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

@@ -135448,7 +135448,7 @@ Greek: επ ελπιδι ζωης αιωνιου ην επηγγειλατο ο 
 Transliteration: ep elpidi zwhv aiwniou hn ephggeilato o aqeudhv yeov pro cronwn aiwniwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: In hope of eternal life, which God, that cannot lie, promised before the world began;
+Draft translation: in hope of eternal life, which God, who cannot lie, promised before eternal times;
 
 Decision rows:
 - [TODO add decision rows]
@@ -135508,7 +135508,7 @@ Greek: τουτου χαριν κατελιπον σε εν κρητη ινα τ
 Transliteration: toutou carin katelipon se en krhth ina ta leiponta epidiorywsh kai katasthshv kata polin presbuterouv wv egw soi dietaxamhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For this cause left I you in Crete, that you should set in order the things that are lacking, and ordain elders in every city, as I had appointed you:
+Draft translation: For this cause I left you in Crete, that you should set in order the things that are lacking, and appoint elders in every city, as I directed you:
 
 Decision rows:
 - [TODO add decision rows]
@@ -135528,7 +135528,7 @@ Greek: ει τις εστιν ανεγκλητος μιας γυναικος α�
 Transliteration: ei tiv estin anegklhtov miav gunaikov anhr tekna ecwn pista mh en kathgoria aswtiav h anupotakta
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.
+Draft translation: if anyone is blameless, the husband of one wife, having faithful children not accused of dissipation or insubordination.
 
 Decision rows:
 - [TODO add decision rows]
@@ -135568,7 +135568,7 @@ Greek: αλλα φιλοξενον φιλαγαθον σωφρονα δικαι�
 Transliteration: alla filoxenon filagayon swfrona dikaion osion egkrath
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But a lover of hospitality, a lover of good men, sober, just, holy, temperate;
+Draft translation: but hospitable, a lover of good, sober-minded, just, holy, self-controlled;
 
 Decision rows:
 - [TODO add decision rows]
@@ -135608,7 +135608,7 @@ Greek: εισιν γαρ πολλοι και ανυποτακτοι ματαιο
 Transliteration: eisin gar polloi kai anupotaktoi mataiologoi kai frenapatai malista oi ek peritomhv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For there are many unruly and vain talkers and deceivers, specially they of the circumcision:
+Draft translation: For there are many unruly men, vain talkers and deceivers, especially those of the circumcision:
 
 Decision rows:
 - [TODO add decision rows]
@@ -135628,7 +135628,7 @@ Greek: ους δει επιστομιζειν οιτινες ολους οικο
 Transliteration: ouv dei epistomizein oitinev olouv oikouv anatrepousin didaskontev a mh dei aiscrou kerdouv carin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy illegal gain's sake.
+Draft translation: whose mouths must be stopped, who overturn whole houses, teaching things which they ought not, for shameful gain's sake.
 
 Decision rows:
 - [TODO add decision rows]
@@ -135648,7 +135648,7 @@ Greek: ειπεν τις εξ αυτων ιδιος αυτων προφητης 
 Transliteration: eipen tiv ex autwn idiov autwn profhthv krhtev aei qeustai kaka yhria gasterev argai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: One of themselves, even a prophet of their own, said, The Cretians are always liars, evil beasts, sluggards.
+Draft translation: One of themselves, a prophet of their own, said, Cretans are always liars, evil beasts, idle bellies.
 
 Decision rows:
 - [TODO add decision rows]
@@ -135688,7 +135688,7 @@ Greek: μη προσεχοντες ιουδαικοις μυθοις και εν
 Transliteration: mh prosecontev ioudaikoiv muyoiv kai entolaiv anyrwpwn apostrefomenwn thn alhyeian
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Not giving heed to Jewish fables, and commandments of men, that turn from the truth.
+Draft translation: not giving heed to Jewish fables, and commandments of men who turn away from the truth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -135750,7 +135750,7 @@ Greek: συ δε λαλει α πρεπει τη υγιαινουση διδασ
 Transliteration: su de lalei a prepei th ugiainoush didaskalia
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But speak you the things which become sound doctrine:
+Draft translation: But speak the things which befit sound teaching:
 
 Decision rows:
 - [TODO add decision rows]
@@ -135810,7 +135810,7 @@ Greek: ινα σωφρονιζωσιν τας νεας φιλανδρους ει
 Transliteration: ina swfronizwsin tav neav filandrouv einai filoteknouv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: That they may teach the young women to be sober, to love their husbands, to love their children,
+Draft translation: that they may train the young women to love their husbands, to love their children,
 
 Decision rows:
 - [TODO add decision rows]
@@ -135850,7 +135850,7 @@ Greek: τους νεωτερους ωσαυτως παρακαλει σωφρο�
 Transliteration: touv newterouv wsautwv parakalei swfronein
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Young men likewise exhort to be sober minded.
+Draft translation: The younger men likewise exhort to be sober-minded.
 
 Decision rows:
 - [TODO add decision rows]
@@ -135870,7 +135870,7 @@ Greek: περι παντα σεαυτον παρεχομενος τυπον κα
 Transliteration: peri panta seauton parecomenov tupon kalwn ergwn en th didaskalia adiafyorian semnothta afyarsian
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: In all things showing yourself a pattern of good works: in doctrine showing incorruptness, gravity, sincerity,
+Draft translation: in all things showing yourself a pattern of good works: in teaching, incorruptness, dignity, sincerity,
 
 Decision rows:
 - [TODO add decision rows]
@@ -135950,7 +135950,7 @@ Greek: επεφανη γαρ η χαρις του θεου η σωτηριος �
 Transliteration: epefanh gar h cariv tou yeou h swthriov pasin anyrwpoiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For the grace of God that brings salvation has appeared to all men,
+Draft translation: For the saving grace of God has appeared to all men,
 
 Decision rows:
 - [TODO add decision rows]
@@ -135970,7 +135970,7 @@ Greek: παιδευουσα ημας ινα αρνησαμενοι την ασε
 Transliteration: paideuousa hmav ina arnhsamenoi thn asebeian kai tav kosmikav epiyumiav swfronwv kai dikaiwv kai eusebwv zhswmen en tw nun aiwni
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;
+Draft translation: teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly in the present age;
 
 Decision rows:
 - [TODO add decision rows]
@@ -136052,7 +136052,7 @@ Greek: υπομιμνησκε αυτους αρχαις και εξουσιαι�
 Transliteration: upomimnhske autouv arcaiv kai exousiaiv upotassesyai peiyarcein prov pan ergon agayon etoimouv einai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,
+Draft translation: Remind them to be subject to rulers and authorities, to obey, to be ready for every good work,
 
 Decision rows:
 - [TODO add decision rows]
@@ -136212,7 +136212,7 @@ Greek: μωρας δε ζητησεις και γενεαλογιας και ε�
 Transliteration: mwrav de zhthseiv kai genealogiav kai ereiv kai macav nomikav periistaso eisin gar anwfeleiv kai mataioi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are useless and vain.
+Draft translation: But avoid foolish questions, and genealogies, and contentions, and fights about the law; for they are unprofitable and vain.
 
 Decision rows:
 - [TODO add decision rows]
