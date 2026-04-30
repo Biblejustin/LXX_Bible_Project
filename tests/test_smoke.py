@@ -313,6 +313,16 @@ def test_crossref_notes_use_fresh_language_and_drop_loose_single_word_links() ->
     )
     assert not crossrefs.get("Genesis 1:4")
 
+    nt_verses = logos_builder.load_verses(ROOT / "data/raw/tr_greek/nt_full.csv")
+    matthew_4_4 = next(verse for verse in nt_verses if verse.ref == "Matthew 4:4")
+    crossrefs, _diag = logos_builder.build_crossrefs_for_verses(
+        [matthew_4_4],
+        "nt",
+        enabled=True,
+    )
+    display_text = "\n".join(note.display_text for note in crossrefs["Matthew 4:4"])
+    assert 'Cross-references for "It is"' not in display_text
+
 
 def test_crossref_phrase_anchors_match_fresh_text_and_broad_links_stay_local() -> None:
     sys.path.insert(0, str(ROOT / "scripts"))
@@ -341,10 +351,11 @@ def test_crossref_phrase_anchors_match_fresh_text_and_broad_links_stay_local() -
                 assert phrase in verse.text, (testament, ref, phrase)
 
                 words = re.findall(r"[A-Za-z0-9]+", phrase.casefold())
-                if len(words) == 1:
-                    assert (
-                        words[0] not in logos_builder.UNINFORMATIVE_SINGLE_WORD_CROSSREF_TRIGGERS
-                    ), (testament, ref, phrase)
+                assert not logos_builder.uninformative_crossref_trigger(phrase), (
+                    testament,
+                    ref,
+                    phrase,
+                )
                 if (
                     len(words) == 1
                     and words[0] in logos_builder.BROAD_SINGLE_WORD_CROSSREF_TRIGGERS

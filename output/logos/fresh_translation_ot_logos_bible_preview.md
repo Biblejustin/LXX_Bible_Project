@@ -153,7 +153,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **1 Samuel 1:3** And the man went up from days to days from his city, from Ramathaim-Zophim, to bow down and sacrifice to the Lord God of hosts at Shiloh, and there were Eli and his two sons, Hophni and Phinehas, priests of the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 1
-- Cross-references: 19
+- Cross-references: 12
 
 ## 2 Samuel
 
@@ -386,7 +386,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Isaiah 1:2** Hear, heaven, and give ear, earth, because the Lord spoke: Sons I begot and raised high, but they rejected me.
 - Translation/textual notes: 0
 - Supplemental notes/links: 1
-- Cross-references: 27
+- Cross-references: 18
 
 **Isaiah 1:3** The ox knew the one acquiring it, and the donkey the manger of its master; but Israel did not know me, and the people did not understand me.
 - Translation/textual notes: 0
@@ -432,7 +432,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Ezekiel 1:1** And it happened in the thirtieth year, in the fourth month, on the fifth of the month, and I was in the midst of captivity by the river Chebar, and the heavens were opened and I saw visions of God.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 31
+- Cross-references: 29
 
 **Ezekiel 1:2** On the fifth of the month, this was the fifth year of the captivity of King Joakim,
 - Translation/textual notes: 0
@@ -442,7 +442,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Ezekiel 1:3** and the word of the Lord came to Ezekiel son of Buzi the priest in the land of the Chaldeans by the river Chebar, and the hand of the Lord came upon me.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 8
+- Cross-references: 0
 
 ## Daniel
 
@@ -454,7 +454,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Daniel 1:2** And the Lord gave it into his hands: Jehoiakim king of Judah, and some of the holy vessels of the Lord; and he carried them to Babylon and placed them in his idol-house.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 23
+- Cross-references: 16
 
 **Daniel 1:3** And the king said to Ashpenaz, his own chief eunuch, to bring him some from the sons of the leading men of Israel and from the royal line and from the chosen ones,
 - Translation/textual notes: 0
@@ -500,7 +500,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Amos 1:1** The words of Amos, which came in Nakkarim from Tekoa, which he saw concerning Jerusalem in the days of Uzziah king of Judah and in the days of Jeroboam son of Joash king of Israel, two years before the earthquake.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 22
+- Cross-references: 17
 
 **Amos 1:2** And he said, The Lord spoke out from Zion and gave his voice from Jerusalem; the pastures of the shepherds mourned, and the top of Carmel dried up.
 - Translation/textual notes: 0
@@ -607,12 +607,12 @@ This preview shows the first three verses of each book with note/cross-reference
 **Zephaniah 1:2** Let all things utterly fail from the face of the earth, says the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 9
+- Cross-references: 0
 
 **Zephaniah 1:3** Let human and cattle fail; let the birds of heaven and the fish of the sea fail, and I will take humans away from the face of the earth, says the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 15
+- Cross-references: 13
 
 ## Haggai
 
@@ -658,7 +658,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Malachi 1:2** I loved you, says the Lord. And you said, In what way did you love us? Was not Esau brother of Jacob? says the Lord. Yet I loved Jacob,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 23
+- Cross-references: 15
 
 **Malachi 1:3** but Esau I hated, and I appointed his borders for destruction and his inheritance for dwellings of the wilderness.
 - Translation/textual notes: 1

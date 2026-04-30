@@ -1801,14 +1801,68 @@ UNINFORMATIVE_SINGLE_WORD_CROSSREF_TRIGGERS = {
 }
 
 
+UNINFORMATIVE_CROSSREF_TRIGGER_PHRASES = {
+    ("a", "certain"),
+    ("all", "that"),
+    ("all", "the"),
+    ("and", "all"),
+    ("and", "have"),
+    ("and", "he"),
+    ("and", "his"),
+    ("and", "i"),
+    ("and", "the"),
+    ("and", "they"),
+    ("and", "to"),
+    ("and", "was"),
+    ("as", "i"),
+    ("by", "the"),
+    ("for", "the"),
+    ("he", "is"),
+    ("he", "was"),
+    ("he", "went"),
+    ("he", "will"),
+    ("i", "am"),
+    ("i", "have"),
+    ("i", "know"),
+    ("i", "say"),
+    ("i", "will"),
+    ("in", "the"),
+    ("is", "not"),
+    ("it", "is"),
+    ("let", "the"),
+    ("of", "whom"),
+    ("that", "he"),
+    ("that", "i"),
+    ("that", "the"),
+    ("that", "they"),
+    ("the", "same"),
+    ("they", "shall"),
+    ("to", "the"),
+    ("we", "have"),
+    ("we", "know"),
+}
+
+
+def crossref_trigger_words(trigger: str) -> tuple[str, ...]:
+    return tuple(re.findall(r"[A-Za-z0-9]+", trigger.casefold()))
+
+
 def broad_single_word_crossref_trigger(trigger: str) -> bool:
-    words = re.findall(r"[A-Za-z0-9]+", trigger.casefold())
+    words = crossref_trigger_words(trigger)
     return len(words) == 1 and words[0] in BROAD_SINGLE_WORD_CROSSREF_TRIGGERS
 
 
 def uninformative_single_word_crossref_trigger(trigger: str) -> bool:
-    words = re.findall(r"[A-Za-z0-9]+", trigger.casefold())
+    words = crossref_trigger_words(trigger)
     return len(words) == 1 and words[0] in UNINFORMATIVE_SINGLE_WORD_CROSSREF_TRIGGERS
+
+
+def uninformative_crossref_trigger(trigger: str) -> bool:
+    words = crossref_trigger_words(trigger)
+    return (
+        (len(words) == 1 and words[0] in UNINFORMATIVE_SINGLE_WORD_CROSSREF_TRIGGERS)
+        or words in UNINFORMATIVE_CROSSREF_TRIGGER_PHRASES
+    )
 
 
 def crossref_book_code(ref: str) -> str:
@@ -1822,7 +1876,7 @@ def thin_broad_single_word_crossref_note(
 ) -> CrossReferenceNote | None:
     if note.source != "tsk":
         return note
-    if uninformative_single_word_crossref_trigger(note.trigger_phrase):
+    if uninformative_crossref_trigger(note.trigger_phrase):
         return None
     if not broad_single_word_crossref_trigger(note.trigger_phrase):
         return note

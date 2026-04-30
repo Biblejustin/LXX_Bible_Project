@@ -221,7 +221,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **1 Thessalonians 1:3** Remembering without ceasing your work of faith, and labor of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 39
+- Cross-references: 31
 
 ## 2 Thessalonians
 
@@ -449,7 +449,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Revelation 1:1** Revelation of Jesus Christ, which God gave him to show his slaves what must happen quickly; and he signified it, sending through his angel to his slave John,
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 24
+- Cross-references: 19
 
 **Revelation 1:2** Who bore record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
 - Translation/textual notes: 0
