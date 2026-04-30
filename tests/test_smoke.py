@@ -8904,6 +8904,19 @@ def test_logos_readmes_use_testament_specific_language() -> None:
     assert "Place links: disabled by default" in nt_readme
 
 
+def test_fresh_full_markdown_has_no_todo_placeholders() -> None:
+    paths = [
+        ROOT / "output" / "fresh_translation_ot_full.md",
+        ROOT / "output" / "fresh_translation_ot_full_translation_only.md",
+        ROOT / "output" / "fresh_translation_nt_tr_full.md",
+        ROOT / "output" / "fresh_translation_nt_tr_translation_only.md",
+    ]
+    for path in paths:
+        text = path.read_text(encoding="utf-8")
+        assert "[TODO" not in text
+        assert "TODO" not in text
+
+
 def test_no_known_fixed_ot_name_leaks_in_outputs_or_support_tables() -> None:
     paths = [
         ROOT / "output" / "fresh_translation_ot_full_translation_only.md",

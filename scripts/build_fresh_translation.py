@@ -74,6 +74,10 @@ def bullet_lines(rows: List[Dict[str, str]], fields: List[str]) -> List[str]:
     return lines
 
 
+def recorded_text(row: Dict[str, str], field: str, fallback: str = "Not recorded.") -> str:
+    return row.get(field, "").strip() or fallback
+
+
 def describe_scope(source_rows: List[Dict[str, str]]) -> str:
     if not source_rows:
         return "Unknown scope"
@@ -168,11 +172,11 @@ def build_markdown(
             lines.append("")
         lines.append(f"### {ref}")
         lines.append("")
-        lines.append(f"Greek: {row.get('greek_text', '').strip() or '[TODO add Greek text]'}")
-        lines.append(f"Transliteration: {row.get('transliteration', '').strip() or '[TODO]'}")
-        lines.append(f"Literal gloss: {row.get('literal_gloss', '').strip() or '[TODO]'}")
-        lines.append(f"Syntax notes: {row.get('syntax_notes', '').strip() or '[TODO]'}")
-        lines.append(f"Draft translation: {row.get('draft_translation', '').strip() or '[TODO]'}")
+        lines.append(f"Greek: {recorded_text(row, 'greek_text')}")
+        lines.append(f"Transliteration: {recorded_text(row, 'transliteration')}")
+        lines.append(f"Literal gloss: {recorded_text(row, 'literal_gloss')}")
+        lines.append(f"Syntax notes: {recorded_text(row, 'syntax_notes')}")
+        lines.append(f"Draft translation: {recorded_text(row, 'draft_translation', 'No draft translation recorded.')}")
         lines.append("")
 
         decision_lines = bullet_lines(
@@ -180,7 +184,7 @@ def build_markdown(
             ["greek_phrase", "lemma", "morphology", "chosen_rendering", "alternate_renderings", "rationale", "status"],
         )
         lines.append("Decision rows:")
-        lines.extend(decision_lines or ["- [TODO add decision rows]"])
+        lines.extend(decision_lines or ["- None recorded."])
         lines.append("")
 
         footnote_lines = bullet_lines(
@@ -188,7 +192,7 @@ def build_markdown(
             ["note_type", "trigger_phrase", "footnote_text", "source_basis", "status"],
         )
         lines.append("Publishable footnotes:")
-        lines.extend(footnote_lines or ["- [TODO add footnote draft if needed]"])
+        lines.extend(footnote_lines or ["- None recorded."])
         lines.append("")
 
         logos_lines = bullet_lines(
@@ -196,7 +200,7 @@ def build_markdown(
             ["greek_phrase", "lemma", "resource", "location", "claim_paraphrase", "usage_note", "confidence", "next_action"],
         )
         lines.append("Logos research:")
-        lines.extend(logos_lines or ["- [TODO add Logos note]"])
+        lines.extend(logos_lines or ["- None recorded."])
         lines.append("")
 
         variant_lines = bullet_lines(
@@ -204,7 +208,7 @@ def build_markdown(
             ["witnesses", "reading", "translation_impact", "decision", "status"],
         )
         lines.append("Variant notes:")
-        lines.extend(variant_lines or ["- [TODO add variant note]"])
+        lines.extend(variant_lines or ["- None recorded."])
         lines.append("")
 
     return "\n".join(lines).strip() + "\n"
@@ -248,7 +252,7 @@ def build_translation_only_markdown(
             lines.append("")
         lines.append(f"**{ref}**")
         lines.append("")
-        lines.append(draft or "[TODO]")
+        lines.append(draft or "No draft translation recorded.")
         lines.append("")
 
     return "\n".join(lines).strip() + "\n"
