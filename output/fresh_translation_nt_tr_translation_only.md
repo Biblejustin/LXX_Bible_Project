@@ -29624,7 +29624,7 @@ While they look your chaste conduct coupled with fear.
 
 **1 Peter 3:3**
 
-Whose adorning let it not be that outward adorning of braiding the hair, and of wearing of gold, or of putting on of apparel;
+whose adornment let it not be outward, in braiding hair and wearing gold, or putting on garments;
 
 **1 Peter 3:4**
 
@@ -29656,7 +29656,7 @@ For the one who will love life, and see good days, let him refrain his tongue fr
 
 **1 Peter 3:11**
 
-Let him shun evil, and do good; let him seek peace, and pursue it.
+Let him turn away from evil, and do good; let him seek peace, and pursue it.
 
 **1 Peter 3:12**
 
@@ -29710,7 +29710,7 @@ Since then Christ has suffered for us in the flesh, arm yourselves likewise with
 
 **1 Peter 4:2**
 
-That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.
+so that he no longer should live the remaining time in the flesh to the desires of men, but to the will of God.
 
 **1 Peter 4:3**
 
@@ -29738,7 +29738,7 @@ And above all things have fervent love among yourselves: for love shall cover th
 
 **1 Peter 4:9**
 
-Use hospitality one to another without grudging.
+Be hospitable to one another without grumblings.
 
 **1 Peter 4:10**
 
@@ -29762,7 +29762,7 @@ If you be reproached for the name of Christ, happy are you; for the spirit of gl
 
 **1 Peter 4:15**
 
-But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men's matters.
+But let none of you suffer as a murderer, or thief, or evildoer, or as a meddler in others' matters.
 
 **1 Peter 4:16**
 
@@ -29774,7 +29774,7 @@ For the time has come that judgment must begin at the house of God: and if it fi
 
 **1 Peter 4:18**
 
-And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?
+And if the righteous is saved with difficulty, where shall the ungodly and sinner appear?
 
 **1 Peter 4:19**
 
@@ -29792,7 +29792,7 @@ Feed the flock of God who is among you, taking the oversight of it, not by const
 
 **1 Peter 5:3**
 
-Neither as being lords over God's heritage, but being ensamples to the flock.
+not as lording it over the allotted portions, but becoming examples to the flock.
 
 **1 Peter 5:4**
 
@@ -29808,11 +29808,11 @@ Humble yourselves therefore under the mighty hand of God, that he may exalt you 
 
 **1 Peter 5:7**
 
-Casting all your care upon him; for he cares for you.
+Casting all your anxiety upon him; for he cares for you.
 
 **1 Peter 5:8**
 
-Be sober, be vigilant; because your adversary the devil, as a roaring lion, walks about, seeking whom he may devour:
+Be sober, watch; because your adversary the devil walks about as a roaring lion, seeking whom he may devour:
 
 **1 Peter 5:9**
 

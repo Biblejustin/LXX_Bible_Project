@@ -146164,7 +146164,7 @@ Greek: ων εστω ουχ ο εξωθεν εμπλοκης τριχων και
 Transliteration: wn estw ouc o exwyen emplokhv tricwn kai periyesewv crusiwn h endusewv imatiwn kosmov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Whose adorning let it not be that outward adorning of braiding the hair, and of wearing of gold, or of putting on of apparel;
+Draft translation: whose adornment let it not be outward, in braiding hair and wearing gold, or putting on garments;
 
 Decision rows:
 - [TODO add decision rows]
@@ -146324,7 +146324,7 @@ Greek: εκκλινατω απο κακου και ποιησατω αγαθον
 Transliteration: ekklinatw apo kakou kai poihsatw agayon zhthsatw eirhnhn kai diwxatw authn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let him shun evil, and do good; let him seek peace, and pursue it.
+Draft translation: Let him turn away from evil, and do good; let him seek peace, and pursue it.
 
 Decision rows:
 - [TODO add decision rows]
@@ -146586,7 +146586,7 @@ Greek: εις το μηκετι ανθρωπων επιθυμιαις αλλα �
 Transliteration: eiv to mhketi anyrwpwn epiyumiaiv alla yelhmati yeou ton epiloipon en sarki biwsai cronon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.
+Draft translation: so that he no longer should live the remaining time in the flesh to the desires of men, but to the will of God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -146726,7 +146726,7 @@ Greek: φιλοξενοι εις αλληλους ανευ γογγυσμων
 Transliteration: filoxenoi eiv allhlouv aneu goggusmwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Use hospitality one to another without grudging.
+Draft translation: Be hospitable to one another without grumblings.
 
 Decision rows:
 - [TODO add decision rows]
@@ -146846,7 +146846,7 @@ Greek: μη γαρ τις υμων πασχετω ως φονευς η κλεπ�
 Transliteration: mh gar tiv umwn pascetw wv foneuv h klepthv h kakopoiov h wv allotrioepiskopov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men's matters.
+Draft translation: But let none of you suffer as a murderer, or thief, or evildoer, or as a meddler in others' matters.
 
 Decision rows:
 - [TODO add decision rows]
@@ -146906,7 +146906,7 @@ Greek: και ει ο δικαιος μολις σωζεται ο ασεβης �
 Transliteration: kai ei o dikaiov moliv swzetai o asebhv kai amartwlov pou faneitai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?
+Draft translation: And if the righteous is saved with difficulty, where shall the ungodly and sinner appear?
 
 Decision rows:
 - [TODO add decision rows]
@@ -146988,7 +146988,7 @@ Greek: μηδ ως κατακυριευοντες των κληρων αλλα �
 Transliteration: mhd wv katakurieuontev twn klhrwn alla tupoi ginomenoi tou poimniou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Neither as being lords over God's heritage, but being ensamples to the flock.
+Draft translation: not as lording it over the allotted portions, but becoming examples to the flock.
 
 Decision rows:
 - [TODO add decision rows]
@@ -147068,7 +147068,7 @@ Greek: πασαν την μεριμναν υμων επιρριψαντες επ
 Transliteration: pasan thn merimnan umwn epirriqantev ep auton oti autw melei peri umwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Casting all your care upon him; for he cares for you.
+Draft translation: Casting all your anxiety upon him; for he cares for you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -147088,7 +147088,7 @@ Greek: νηψατε γρηγορησατε οτι ο αντιδικος υμων
 Transliteration: nhqate grhgorhsate oti o antidikov umwn diabolov wv lewn wruomenov peripatei zhtwn tina katapih
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Be sober, be vigilant; because your adversary the devil, as a roaring lion, walks about, seeking whom he may devour:
+Draft translation: Be sober, watch; because your adversary the devil walks about as a roaring lion, seeking whom he may devour:
 
 Decision rows:
 - [TODO add decision rows]

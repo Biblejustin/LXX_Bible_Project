@@ -8356,6 +8356,35 @@ def test_nt_1_peter_1_to_2_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_1_peter_3_to_5_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "1 Peter 3:3": "whose adornment let it not be outward, in braiding hair and wearing gold, or putting on garments;",
+        "1 Peter 3:11": "Let him turn away from evil, and do good; let him seek peace, and pursue it.",
+        "1 Peter 4:2": "so that he no longer should live the remaining time in the flesh to the desires of men, but to the will of God.",
+        "1 Peter 4:9": "Be hospitable to one another without grumblings.",
+        "1 Peter 4:15": "But let none of you suffer as a murderer, or thief, or evildoer, or as a meddler in others' matters.",
+        "1 Peter 4:18": "And if the righteous is saved with difficulty, where shall the ungodly and sinner appear?",
+        "1 Peter 5:3": "not as lording it over the allotted portions, but becoming examples to the flock.",
+        "1 Peter 5:7": "Casting all your anxiety upon him; for he cares for you.",
+        "1 Peter 5:8": "Be sober, watch; because your adversary the devil walks about as a roaring lion, seeking whom he may devour:",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_185.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["1 Peter 5:6"]["latest_review_status"] == "keep"
+    assert review_by_ref["1 Peter 5:6"]["latest_review_pass"] == "nt_review_pass_185.md"
+    assert "1 Peter 5:6" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
