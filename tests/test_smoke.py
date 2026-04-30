@@ -7449,6 +7449,33 @@ def test_nt_galatians_2_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_galatians_3_queue_revisions_and_keep_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Galatians 3:6": "Just as Abraham believed God, and it was reckoned to him for righteousness.",
+        "Galatians 3:10": "For as many as are from works of law are under a curse: for it is written, Cursed is everyone who does not continue in all things written in the book of the law, to do them.",
+        "Galatians 3:12": "And the law is not from faith: but, The man who does them shall live in them.",
+        "Galatians 3:13": "Christ redeemed us from the curse of the law, having become a curse for us: for it is written, Cursed is everyone who hangs on a tree:",
+        "Galatians 3:18": "For if the inheritance is from law, it is no longer from promise: but God has graciously granted it to Abraham through promise.",
+        "Galatians 3:20": "Now a mediator is not of one, but God is one.",
+        "Galatians 3:25": "But after faith came, we are no longer under a schoolmaster.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_153.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["Galatians 3:27"]["latest_review_status"] == "keep"
+    assert review_by_ref["Galatians 3:27"]["latest_review_pass"] == "nt_review_pass_153.md"
+    assert "Galatians 3:27" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

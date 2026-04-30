@@ -119640,7 +119640,7 @@ Greek: καθως αβρααμ επιστευσεν τω θεω και ελογ�
 Transliteration: kaywv abraam episteusen tw yew kai elogisyh autw eiv dikaiosunhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Even as Abraham believed God, and it was accounted to him for righteousness.
+Draft translation: Just as Abraham believed God, and it was reckoned to him for righteousness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -119720,7 +119720,7 @@ Greek: οσοι γαρ εξ εργων νομου εισιν υπο καταρα
 Transliteration: osoi gar ex ergwn nomou eisin upo kataran eisin gegraptai gar epikataratov pav ov ouk emmenei en pasin toiv gegrammenoiv en tw bibliw tou nomou tou poihsai auta
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continues not in all things which are written in the book of the law to do them.
+Draft translation: For as many as are from works of law are under a curse: for it is written, Cursed is everyone who does not continue in all things written in the book of the law, to do them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -119760,7 +119760,7 @@ Greek: ο δε νομος ουκ εστιν εκ πιστεως αλλ ο ποι
 Transliteration: o de nomov ouk estin ek pistewv all o poihsav auta anyrwpov zhsetai en autoiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the law is not of faith: but, The man that does them shall live in them.
+Draft translation: And the law is not from faith: but, The man who does them shall live in them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -119780,7 +119780,7 @@ Greek: χριστος ημας εξηγορασεν εκ της καταρας �
 Transliteration: cristov hmav exhgorasen ek thv katarav tou nomou genomenov uper hmwn katara gegraptai gar epikataratov pav o kremamenov epi xulou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Christ has redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangs on a tree:
+Draft translation: Christ redeemed us from the curse of the law, having become a curse for us: for it is written, Cursed is everyone who hangs on a tree:
 
 Decision rows:
 - [TODO add decision rows]
@@ -119880,7 +119880,7 @@ Greek: ει γαρ εκ νομου η κληρονομια ουκετι εξ ε�
 Transliteration: ei gar ek nomou h klhronomia ouketi ex epaggeliav tw de abraam di epaggeliav kecaristai o yeov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.
+Draft translation: For if the inheritance is from law, it is no longer from promise: but God has graciously granted it to Abraham through promise.
 
 Decision rows:
 - [TODO add decision rows]
@@ -119920,7 +119920,7 @@ Greek: ο δε μεσιτης ενος ουκ εστιν ο δε θεος εις
 Transliteration: o de mesithv enov ouk estin o de yeov eiv estin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Now a mediator is not a mediator of one, but God is one.
+Draft translation: Now a mediator is not of one, but God is one.
 
 Decision rows:
 - [TODO add decision rows]
@@ -120020,7 +120020,7 @@ Greek: ελθουσης δε της πιστεως ουκετι υπο παιδ�
 Transliteration: elyoushv de thv pistewv ouketi upo paidagwgon esmen
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But after that faith has come, we are no longer under a schoolmaster.
+Draft translation: But after faith came, we are no longer under a schoolmaster.
 
 Decision rows:
 - [TODO add decision rows]

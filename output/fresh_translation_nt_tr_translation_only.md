@@ -24204,7 +24204,7 @@ He therefore that supplies to you the Spirit, and works miracles among you, does
 
 **Galatians 3:6**
 
-Even as Abraham believed God, and it was accounted to him for righteousness.
+Just as Abraham believed God, and it was reckoned to him for righteousness.
 
 **Galatians 3:7**
 
@@ -24220,7 +24220,7 @@ So then those who are of faith are blessed with faithful Abraham.
 
 **Galatians 3:10**
 
-For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continues not in all things which are written in the book of the law to do them.
+For as many as are from works of law are under a curse: for it is written, Cursed is everyone who does not continue in all things written in the book of the law, to do them.
 
 **Galatians 3:11**
 
@@ -24228,11 +24228,11 @@ But that no one is justified by the law in the sight of God, it is evident: for,
 
 **Galatians 3:12**
 
-And the law is not of faith: but, The man that does them shall live in them.
+And the law is not from faith: but, The man who does them shall live in them.
 
 **Galatians 3:13**
 
-Christ has redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangs on a tree:
+Christ redeemed us from the curse of the law, having become a curse for us: for it is written, Cursed is everyone who hangs on a tree:
 
 **Galatians 3:14**
 
@@ -24252,7 +24252,7 @@ And this I say, that the covenant, that was confirmed before of God in Christ, t
 
 **Galatians 3:18**
 
-For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.
+For if the inheritance is from law, it is no longer from promise: but God has graciously granted it to Abraham through promise.
 
 **Galatians 3:19**
 
@@ -24260,7 +24260,7 @@ Therefore then serves the law? It was added because of transgressions, till the 
 
 **Galatians 3:20**
 
-Now a mediator is not a mediator of one, but God is one.
+Now a mediator is not of one, but God is one.
 
 **Galatians 3:21**
 
@@ -24280,7 +24280,7 @@ Therefore the law was our schoolmaster to bring us to Christ, that we might be j
 
 **Galatians 3:25**
 
-But after that faith has come, we are no longer under a schoolmaster.
+But after faith came, we are no longer under a schoolmaster.
 
 **Galatians 3:26**
 
