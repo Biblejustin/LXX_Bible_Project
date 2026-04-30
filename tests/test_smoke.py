@@ -6637,7 +6637,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "against the sons of your people" in by_ref["Daniel 8:19"]["draft_translation"]
     assert "on the fallow ground of a field" in by_ref["Hosea 10:4"]["draft_translation"]
     assert "from the mount of Esau" in by_ref["Obadiah 1:8"]["draft_translation"]
-    assert "at the right of lamp-bowl" in by_ref["Zechariah 4:3"]["draft_translation"]
+    assert "at the right of the lamp-bowl" in by_ref["Zechariah 4:3"]["draft_translation"]
     assert "And for the sons of Aaron" in by_ref["1 Chronicles 24:1"]["draft_translation"]
     assert "for the sacrifice of salvation" in by_ref["Numbers 7:17"]["draft_translation"]
     assert "for the service of God" in by_ref["Ezra 6:18"]["draft_translation"]
