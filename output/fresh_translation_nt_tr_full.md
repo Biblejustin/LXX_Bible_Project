@@ -147312,7 +147312,7 @@ Greek: και αυτο τουτο δε σπουδην πασαν παρεισε�
 Transliteration: kai auto touto de spoudhn pasan pareisenegkantev epicorhghsate en th pistei umwn thn arethn en de th areth thn gnwsin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;
+Draft translation: And for this very thing, bringing in all diligence, supply virtue in your faith; and in virtue knowledge;
 
 Decision rows:
 - [TODO add decision rows]
@@ -147332,7 +147332,7 @@ Greek: εν δε τη γνωσει την εγκρατειαν εν δε τη ε
 Transliteration: en de th gnwsei thn egkrateian en de th egkrateia thn upomonhn en de th upomonh thn eusebeian
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And to knowledge wilful restrain; and to wilful restrain patience; and to patience godliness;
+Draft translation: and in knowledge self-control; and in self-control endurance; and in endurance godliness;
 
 Decision rows:
 - [TODO add decision rows]
@@ -147572,7 +147572,7 @@ Greek: και ταυτην την φωνην ημεις ηκουσαμεν εξ 
 Transliteration: kai tauthn thn fwnhn hmeiv hkousamen ex ouranou enecyeisan sun autw ontev en tw orei tw agiw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And this voice which came from heaven we heard, when we were with him in the holy mount.
+Draft translation: And we heard this voice brought from heaven, being with him on the holy mountain.
 
 Decision rows:
 - [TODO add decision rows]
@@ -147612,7 +147612,7 @@ Greek: τουτο πρωτον γινωσκοντες οτι πασα προφη
 Transliteration: touto prwton ginwskontev oti pasa profhteia grafhv idiav epilusewv ou ginetai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Knowing this first, that no prophecy of the scripture is of any private interpretation.
+Draft translation: Knowing this first, that no prophecy of Scripture comes from one's own interpretation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -147674,7 +147674,7 @@ Greek: και πολλοι εξακολουθησουσιν αυτων ταις 
 Transliteration: kai polloi exakolouyhsousin autwn taiv apwleiaiv di ouv h odov thv alhyeiav blasfhmhyhsetai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of.
+Draft translation: And many shall follow their destructive ways; because of whom the way of truth shall be blasphemed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -147734,7 +147734,7 @@ Greek: και αρχαιου κοσμου ουκ εφεισατο αλλ ογδ�
 Transliteration: kai arcaiou kosmou ouk efeisato all ogdoon nwe dikaiosunhv khruka efulaxen kataklusmon kosmw asebwn epaxav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;
+Draft translation: And he did not spare the ancient world, but preserved Noah, the eighth, a preacher of righteousness, having brought a flood upon the world of the ungodly;
 
 Decision rows:
 - [TODO add decision rows]
@@ -147874,7 +147874,7 @@ Greek: ουτοι δε ως αλογα ζωα φυσικα γεγενημενα 
 Transliteration: outoi de wv aloga zwa fusika gegenhmena eiv alwsin kai fyoran en oiv agnoousin blasfhmountev en th fyora autwn katafyarhsontai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption;
+Draft translation: But these, as irrational natural animals, born for capture and corruption, blaspheming in things they are ignorant of, shall be utterly corrupted in their own corruption;
 
 Decision rows:
 - [TODO add decision rows]
@@ -147934,7 +147934,7 @@ Greek: καταλιποντες την ευθειαν οδον επλανηθη�
 Transliteration: katalipontev thn euyeian odon eplanhyhsan exakolouyhsantev th odw tou balaam tou bosor ov misyon adikiav hgaphsen
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness;
+Draft translation: having left the straight way, they went astray, following the way of Balaam the son of Bosor, who loved the wage of unrighteousness;
 
 Decision rows:
 - [TODO add decision rows]
@@ -148136,7 +148136,7 @@ Greek: τουτο πρωτον γινωσκοντες οτι ελευσοντα�
 Transliteration: touto prwton ginwskontev oti eleusontai ep escatou twn hmerwn empaiktai kata tav idiav autwn epiyumiav poreuomenoi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,
+Draft translation: Knowing this first, that in the last days scoffers shall come, walking according to their own desires,
 
 Decision rows:
 - [TODO add decision rows]
@@ -148156,7 +148156,7 @@ Greek: και λεγοντες που εστιν η επαγγελια της π
 Transliteration: kai legontev pou estin h epaggelia thv parousiav autou af hv gar oi paterev ekoimhyhsan panta outwv diamenei ap archv ktisewv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation.
+Draft translation: and saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue thus from the beginning of creation.
 
 Decision rows:
 - [TODO add decision rows]

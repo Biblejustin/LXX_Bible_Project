@@ -8385,6 +8385,32 @@ def test_nt_1_peter_3_to_5_queue_revisions_stay_reviewed() -> None:
     assert "1 Peter 5:6" not in queue_refs
 
 
+def test_nt_2_peter_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "2 Peter 1:5": "And for this very thing, bringing in all diligence, supply virtue in your faith; and in virtue knowledge;",
+        "2 Peter 1:6": "and in knowledge self-control; and in self-control endurance; and in endurance godliness;",
+        "2 Peter 1:18": "And we heard this voice brought from heaven, being with him on the holy mountain.",
+        "2 Peter 1:20": "Knowing this first, that no prophecy of Scripture comes from one's own interpretation.",
+        "2 Peter 2:2": "And many shall follow their destructive ways; because of whom the way of truth shall be blasphemed.",
+        "2 Peter 2:5": "And he did not spare the ancient world, but preserved Noah, the eighth, a preacher of righteousness, having brought a flood upon the world of the ungodly;",
+        "2 Peter 2:12": "But these, as irrational natural animals, born for capture and corruption, blaspheming in things they are ignorant of, shall be utterly corrupted in their own corruption;",
+        "2 Peter 2:15": "having left the straight way, they went astray, following the way of Balaam the son of Bosor, who loved the wage of unrighteousness;",
+        "2 Peter 3:3": "Knowing this first, that in the last days scoffers shall come, walking according to their own desires,",
+        "2 Peter 3:4": "and saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue thus from the beginning of creation.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_186.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

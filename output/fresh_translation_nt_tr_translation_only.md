@@ -29860,11 +29860,11 @@ by which are given to us exceeding great and precious promises: that by these yo
 
 **2 Peter 1:5**
 
-And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;
+And for this very thing, bringing in all diligence, supply virtue in your faith; and in virtue knowledge;
 
 **2 Peter 1:6**
 
-And to knowledge wilful restrain; and to wilful restrain patience; and to patience godliness;
+and in knowledge self-control; and in self-control endurance; and in endurance godliness;
 
 **2 Peter 1:7**
 
@@ -29912,7 +29912,7 @@ For he received from God the Father honor and glory, when there came such a voic
 
 **2 Peter 1:18**
 
-And this voice which came from heaven we heard, when we were with him in the holy mount.
+And we heard this voice brought from heaven, being with him on the holy mountain.
 
 **2 Peter 1:19**
 
@@ -29920,7 +29920,7 @@ We have also a more sure word of prophecy; to which you do well that you take he
 
 **2 Peter 1:20**
 
-Knowing this first, that no prophecy of the scripture is of any private interpretation.
+Knowing this first, that no prophecy of Scripture comes from one's own interpretation.
 
 **2 Peter 1:21**
 
@@ -29934,7 +29934,7 @@ But there were false prophets also among the people, even as there shall be fals
 
 **2 Peter 2:2**
 
-And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of.
+And many shall follow their destructive ways; because of whom the way of truth shall be blasphemed.
 
 **2 Peter 2:3**
 
@@ -29946,7 +29946,7 @@ For if God spared not the angels that sinned, but cast them down to Tartarus, an
 
 **2 Peter 2:5**
 
-And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;
+And he did not spare the ancient world, but preserved Noah, the eighth, a preacher of righteousness, having brought a flood upon the world of the ungodly;
 
 **2 Peter 2:6**
 
@@ -29974,7 +29974,7 @@ Whereas angels, who are greater in power and might, bring not railing accusation
 
 **2 Peter 2:12**
 
-But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption;
+But these, as irrational natural animals, born for capture and corruption, blaspheming in things they are ignorant of, shall be utterly corrupted in their own corruption;
 
 **2 Peter 2:13**
 
@@ -29986,7 +29986,7 @@ Having eyes full of adultery, and that cannot cease from sin; beguiling unstable
 
 **2 Peter 2:15**
 
-Which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness;
+having left the straight way, they went astray, following the way of Balaam the son of Bosor, who loved the wage of unrighteousness;
 
 **2 Peter 2:16**
 
@@ -30028,11 +30028,11 @@ That you may be mindful of the words which were spoken before by the holy prophe
 
 **2 Peter 3:3**
 
-Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,
+Knowing this first, that in the last days scoffers shall come, walking according to their own desires,
 
 **2 Peter 3:4**
 
-And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation.
+and saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue thus from the beginning of creation.
 
 **2 Peter 3:5**
 
