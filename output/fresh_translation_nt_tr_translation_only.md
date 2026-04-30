@@ -24012,7 +24012,7 @@ Grace be to you and peace from God the Father, and from our Lord Jesus Christ,
 
 **Galatians 1:4**
 
-Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:
+Who gave himself for our sins, that he might deliver us out of this present evil age, according to the will of our God and Father:
 
 **Galatians 1:5**
 
@@ -24044,7 +24044,7 @@ But I certify you, brothers, that the good news which was preached of me is not 
 
 **Galatians 1:12**
 
-For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.
+For I neither received it from man, nor was I taught it, but by revelation of Jesus Christ.
 
 **Galatians 1:13**
 

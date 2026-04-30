@@ -118696,7 +118696,7 @@ Greek: του δοντος εαυτον υπερ των αμαρτιων ημω�
 Transliteration: tou dontov eauton uper twn amartiwn hmwn opwv exelhtai hmav ek tou enestwtov aiwnov ponhrou kata to yelhma tou yeou kai patrov hmwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:
+Draft translation: Who gave himself for our sins, that he might deliver us out of this present evil age, according to the will of our God and Father:
 
 Decision rows:
 - [TODO add decision rows]
@@ -118856,7 +118856,7 @@ Greek: ουδε γαρ εγω παρα ανθρωπου παρελαβον αυ�
 Transliteration: oude gar egw para anyrwpou parelabon auto oute edidacyhn alla di apokaluqewv ihsou cristou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.
+Draft translation: For I neither received it from man, nor was I taught it, but by revelation of Jesus Christ.
 
 Decision rows:
 - [TODO add decision rows]

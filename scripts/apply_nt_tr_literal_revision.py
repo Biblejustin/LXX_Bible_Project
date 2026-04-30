@@ -4341,6 +4341,8 @@ MANUAL_OVERRIDES = {
     "2 Corinthians 12:10": "Therefore I take pleasure in weaknesses, in reproaches, in necessities, in persecutions, in distresses for Christ: for when I am weak, then I am strong.",
     "2 Corinthians 12:15": "And I will very gladly spend and be fully spent for your souls; though the more abundantly I love you, the less I am loved.",
     "2 Corinthians 12:16": "But be it so, I did not burden you: but, being crafty, I took you by deceit.",
+    "Galatians 1:4": "Who gave himself for our sins, that he might deliver us out of this present evil age, according to the will of our God and Father:",
+    "Galatians 1:12": "For I neither received it from man, nor was I taught it, but by revelation of Jesus Christ.",
     "Matthew 15:39": "And he sent away the crowd, and got into the boat, and came into the borders of Magdala.",
     "Matthew 24:10": "And then many shall be stumbled, and shall betray one another, and shall hate one another.",
     "Mark 1:1": "Beginning of the good news of Jesus Christ, Son of God.",
