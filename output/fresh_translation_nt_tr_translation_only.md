@@ -28826,7 +28826,7 @@ And the sound of a trumpet, and the voice of words; which voice those who heard 
 
 **Hebrews 12:21**
 
-And so terrible was the sight, that Moses said, I exceedingly fear and quake:)
+And so fearful was the appearance that Moses said, I am terrified and trembling:)
 
 **Hebrews 12:22**
 
@@ -28850,7 +28850,7 @@ Whose voice then shook the earth: but now he has promised, saying, Yet once more
 
 **Hebrews 12:27**
 
-And this word, Yet once more, signifies the removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain.
+And this, Yet once more, signifies the removal of the things being shaken, as of things made, that the things not being shaken may remain.
 
 **Hebrews 12:28**
 
@@ -28904,7 +28904,7 @@ We have an altar, of which they have no right to eat which serve the tabernacle.
 
 **Hebrews 13:11**
 
-For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp.
+For the bodies of those animals whose blood is brought into the holy places by the high priest for sin are burned outside the camp.
 
 **Hebrews 13:12**
 
@@ -28916,15 +28916,15 @@ Let us go forth therefore to him without the camp, bearing his reproach.
 
 **Hebrews 13:14**
 
-For here have we no continuing city, but we seek one to come.
+For here we have no continuing city, but we seek the one to come.
 
 **Hebrews 13:15**
 
-By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.
+Through him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips confessing his name.
 
 **Hebrews 13:16**
 
-But to do good and to communicate forget not: for with such sacrifices God is well pleased.
+But do not forget doing good and sharing: for with such sacrifices God is well pleased.
 
 **Hebrews 13:17**
 
@@ -28932,11 +28932,11 @@ Obey those who have the rule over you, and submit yourselves: for they watch for
 
 **Hebrews 13:18**
 
-Pray for us: for we trust we have a good conscience, in all things willing to live honestly.
+Pray for us: for we are persuaded that we have a good conscience, desiring in all things to conduct ourselves well.
 
 **Hebrews 13:19**
 
-But I plead to you the rather to do this, that I may be restored to you the sooner.
+But I more earnestly plead that you do this, that I may be restored to you sooner.
 
 **Hebrews 13:20**
 

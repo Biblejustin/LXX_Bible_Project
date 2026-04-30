@@ -142262,7 +142262,7 @@ Greek: και ουτως φοβερον ην το φανταζομενον μω�
 Transliteration: kai outwv foberon hn to fantazomenon mwshv eipen ekfobov eimi kai entromov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And so terrible was the sight, that Moses said, I exceedingly fear and quake:)
+Draft translation: And so fearful was the appearance that Moses said, I am terrified and trembling:)
 
 Decision rows:
 - [TODO add decision rows]
@@ -142382,7 +142382,7 @@ Greek: το δε ετι απαξ δηλοι των σαλευομενων την
 Transliteration: to de eti apax dhloi twn saleuomenwn thn metayesin wv pepoihmenwn ina meinh ta mh saleuomena
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And this word, Yet once more, signifies the removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain.
+Draft translation: And this, Yet once more, signifies the removal of the things being shaken, as of things made, that the things not being shaken may remain.
 
 Decision rows:
 - [TODO add decision rows]
@@ -142644,7 +142644,7 @@ Greek: ων γαρ εισφερεται ζωων το αιμα περι αμαρ
 Transliteration: wn gar eisferetai zwwn to aima peri amartiav eiv ta agia dia tou arcierewv toutwn ta swmata katakaietai exw thv parembolhv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp.
+Draft translation: For the bodies of those animals whose blood is brought into the holy places by the high priest for sin are burned outside the camp.
 
 Decision rows:
 - [TODO add decision rows]
@@ -142704,7 +142704,7 @@ Greek: ου γαρ εχομεν ωδε μενουσαν πολιν αλλα τη
 Transliteration: ou gar ecomen wde menousan polin alla thn mellousan epizhtoumen
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For here have we no continuing city, but we seek one to come.
+Draft translation: For here we have no continuing city, but we seek the one to come.
 
 Decision rows:
 - [TODO add decision rows]
@@ -142724,7 +142724,7 @@ Greek: δι αυτου ουν αναφερωμεν θυσιαν αινεσεως
 Transliteration: di autou oun anaferwmen yusian ainesewv dia pantov tw yew tout estin karpon ceilewn omologountwn tw onomati autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.
+Draft translation: Through him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips confessing his name.
 
 Decision rows:
 - [TODO add decision rows]
@@ -142744,7 +142744,7 @@ Greek: της δε ευποιιας και κοινωνιας μη επιλαν�
 Transliteration: thv de eupoiiav kai koinwniav mh epilanyanesye toiautaiv gar yusiaiv euaresteitai o yeov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But to do good and to communicate forget not: for with such sacrifices God is well pleased.
+Draft translation: But do not forget doing good and sharing: for with such sacrifices God is well pleased.
 
 Decision rows:
 - [TODO add decision rows]
@@ -142784,7 +142784,7 @@ Greek: προσευχεσθε περι ημων πεποιθαμεν γαρ οτ
 Transliteration: proseucesye peri hmwn pepoiyamen gar oti kalhn suneidhsin ecomen en pasin kalwv yelontev anastrefesyai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Pray for us: for we trust we have a good conscience, in all things willing to live honestly.
+Draft translation: Pray for us: for we are persuaded that we have a good conscience, desiring in all things to conduct ourselves well.
 
 Decision rows:
 - [TODO add decision rows]
@@ -142804,7 +142804,7 @@ Greek: περισσοτερως δε παρακαλω τουτο ποιησαι 
 Transliteration: perissoterwv de parakalw touto poihsai ina tacion apokatastayw umin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But I plead to you the rather to do this, that I may be restored to you the sooner.
+Draft translation: But I more earnestly plead that you do this, that I may be restored to you sooner.
 
 Decision rows:
 - [TODO add decision rows]

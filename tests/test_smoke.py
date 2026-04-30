@@ -8234,6 +8234,43 @@ def test_nt_hebrews_11_20_to_40_queue_revisions_stay_reviewed() -> None:
     assert "Hebrews 11:20" not in queue_refs
 
 
+def test_nt_hebrews_12_to_13_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Hebrews 12:21": "And so fearful was the appearance that Moses said, I am terrified and trembling:)",
+        "Hebrews 12:27": "And this, Yet once more, signifies the removal of the things being shaken, as of things made, that the things not being shaken may remain.",
+        "Hebrews 13:11": "For the bodies of those animals whose blood is brought into the holy places by the high priest for sin are burned outside the camp.",
+        "Hebrews 13:14": "For here we have no continuing city, but we seek the one to come.",
+        "Hebrews 13:15": "Through him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips confessing his name.",
+        "Hebrews 13:16": "But do not forget doing good and sharing: for with such sacrifices God is well pleased.",
+        "Hebrews 13:18": "Pray for us: for we are persuaded that we have a good conscience, desiring in all things to conduct ourselves well.",
+        "Hebrews 13:19": "But I more earnestly plead that you do this, that I may be restored to you sooner.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_181.md"
+        assert ref not in queue_refs
+
+    expected_keep = {
+        "Hebrews 12:13",
+        "Hebrews 12:20",
+        "Hebrews 12:26",
+        "Hebrews 12:29",
+        "Hebrews 13:1",
+        "Hebrews 13:25",
+    }
+    for ref in expected_keep:
+        assert review_by_ref[ref]["latest_review_status"] == "keep"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_181.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
