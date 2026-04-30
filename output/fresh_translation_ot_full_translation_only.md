@@ -93176,51 +93176,51 @@ Behold, I make Jerusalem like shaken thresholds to all peoples round about, and 
 
 **Zechariah 12:3**
 
-And it will be in that day, I will make Jerusalem a trampled stone to all nations. Everyone trampling her will surely be mocked, and all nations of the earth will be gathered against her.
+And it will be in that day, I will make Jerusalem a trampled stone to all the nations. Everyone trampling her will mock with mockery, and all the nations of the earth will be gathered against her.
 
 **Zechariah 12:4**
 
-In that day, says the Lord Almighty, I will strike every horse with astonishment and its rider with madness, but upon the house of Judah I will open my eyes, and every horse of peoples I will strike with blindness.
+In that day, says the Lord Almighty, I will strike every horse with astonishment and its rider with madness, but upon the house of Judah I will open my eyes, and all the horses of the peoples I will strike with blindness.
 
 **Zechariah 12:5**
 
-And chiliarchs of Judah will say in their hearts, We will find for ourselves those inhabiting Jerusalem in the Lord Almighty their God.
+And the chiliarchs of Judah will say in their hearts, We will find for ourselves the inhabitants of Jerusalem in the Lord Almighty their God.
 
 **Zechariah 12:6**
 
-In that day I will make chiliarchs of Judah like a firebrand in wood and like a torch of fire in stubble, and they will devour on right and left all peoples round about, and Jerusalem will still dwell by herself.
+In that day I will make the chiliarchs of Judah like a firebrand in wood and like a torch of fire in stubble, and they will devour on the right and on the left all the peoples round about, and Jerusalem will still dwell by herself.
 
 **Zechariah 12:7**
 
-And the Lord will save tents of Judah as from the beginning, so that boast of the house of David and uplift of the inhabitants of Jerusalem may not magnify against Judah.
+And the Lord will save the tents of Judah as from the beginning, so that the boast of the house of David and the pride of the inhabitants of Jerusalem may not be magnified against Judah.
 
 **Zechariah 12:8**
 
-In that day the Lord will shield the inhabitants of Jerusalem, and weak one among them in that day will be like the house of David, and the house of David like the house of God, like an angel of the Lord before them.
+In that day the Lord will shield the inhabitants of Jerusalem, and the weak one among them in that day will be like the house of David, and the house of David like the house of God, like an angel of the Lord before them.
 
 **Zechariah 12:9**
 
-And it will be in that day, I will seek to remove all nations coming against Jerusalem.
+And it will be in that day, I will seek to remove all the nations coming against Jerusalem.
 
 **Zechariah 12:10**
 
-And I will pour out upon the house of David and upon the inhabitants of Jerusalem a spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
+And I will pour out upon the house of David and upon the inhabitants of Jerusalem a spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for a beloved one and grieve over him as over a firstborn.
 
 **Zechariah 12:11**
 
-In that day mourning in Jerusalem will be magnified, like mourning of pomegranate-grove in the plain being cut down.
+In that day the mourning in Jerusalem will be magnified, like the mourning of a pomegranate grove in the plain being cut down.
 
 **Zechariah 12:12**
 
-And the land will mourn tribe by tribe, tribe by itself and their women by themselves: tribe of the house of David by itself and their women by themselves, tribe of the house of Nathan by itself and their women by themselves,
+And the land will mourn tribe by tribe, each tribe by itself and their women by themselves: the tribe of the house of David by itself and their women by themselves, the tribe of the house of Nathan by itself and their women by themselves,
 
 **Zechariah 12:13**
 
-tribe of the house of Levi by itself and their women by themselves, tribe of Simeon by itself and their women by themselves,
+the tribe of the house of Levi by itself and their women by themselves, the tribe of Simeon by itself and their women by themselves,
 
 **Zechariah 12:14**
 
-all tribes left behind, tribe by itself and their women by themselves.
+all the tribes left behind, each tribe by itself and their women by themselves.
 
 ### Chapter 13
 

@@ -205407,109 +205407,109 @@ Note:
 ### Zechariah 12:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be in that day, I will make Jerusalem a trampled stone to all nations. Everyone trampling her will surely be mocked, and all nations of the earth will be gathered against her.
+- fresh: And it will be in that day, I will make Jerusalem a trampled stone to all the nations. Everyone trampling her will mock with mockery, and all the nations of the earth will be gathered against her.
 - brenton: And it shall come to pass in that day that I will make Jerusalem a trodden stone to all the nations: every one that tramples on it shall utterly mock at it, and all the nations of the earth shall be gathered together against it.
 
 ### Zechariah 12:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: In that day, says the Lord Almighty, I will strike every horse with astonishment and its rider with madness, but upon the house of Judah I will open my eyes, and every horse of peoples I will strike with blindness.
+- fresh: In that day, says the Lord Almighty, I will strike every horse with astonishment and its rider with madness, but upon the house of Judah I will open my eyes, and all the horses of the peoples I will strike with blindness.
 - brenton: In that day, saith the Lord Almighty, I will smite every horse with amazement, and his rider with madness: but I will open mine eyes upon the house of Juda, and I will smite all the horses of the nations with blindness.
 
 ### Zechariah 12:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And chiliarchs of Judah will say in their hearts, We will find for ourselves those inhabiting Jerusalem in the Lord Almighty their God.
+- fresh: And the chiliarchs of Judah will say in their hearts, We will find for ourselves the inhabitants of Jerusalem in the Lord Almighty their God.
 - brenton: And the captains of thousands of Juda shall say in their hearts, We shall find for ourselves the inhabitants of Jerusalem in the Lord Almighty their God.
 
 ### Zechariah 12:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: In that day I will make chiliarchs of Judah like a firebrand in wood and like a torch of fire in stubble, and they will devour on right and left all peoples round about, and Jerusalem will still dwell by herself.
+- fresh: In that day I will make the chiliarchs of Judah like a firebrand in wood and like a torch of fire in stubble, and they will devour on the right and on the left all the peoples round about, and Jerusalem will still dwell by herself.
 - brenton: In that day I will make the captains of thousands of Juda as a firebrand among wood, and as a torch of fire in stubble; and they shall devour on the right hand and on the left all the nations round about: and Jerusalem shall dwell again by herself, even in Jerusalem.
 
 ### Zechariah 12:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the Lord will save tents of Judah as from the beginning, so that boast of the house of David and uplift of the inhabitants of Jerusalem may not magnify against Judah.
+- fresh: And the Lord will save the tents of Judah as from the beginning, so that the boast of the house of David and the pride of the inhabitants of Jerusalem may not be magnified against Judah.
 - brenton: And the Lord shall save the tabernacles of Juda as at the beginning, that the boast of the house of David, and the pride of the inhabitants of Jerusalem, may not magnify themselves against Juda.
 
 ### Zechariah 12:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: In that day the Lord will shield the inhabitants of Jerusalem, and weak one among them in that day will be like the house of David, and the house of David like the house of God, like an angel of the Lord before them.
+- fresh: In that day the Lord will shield the inhabitants of Jerusalem, and the weak one among them in that day will be like the house of David, and the house of David like the house of God, like an angel of the Lord before them.
 - brenton: And it shall come to pass in that day, that the Lord shall defend the inhabitants of Jerusalem; and the weak one among them in that day shall be as David, and the house of David as the house of God, as the angel of the Lord before them.
 
 ### Zechariah 12:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And it will be in that day, I will seek to remove all nations coming against Jerusalem.
+- fresh: And it will be in that day, I will seek to remove all the nations coming against Jerusalem.
 - brenton: And it shall come to pass in that day, that I will seek to destroy all the nations that come against Jerusalem.
 
 ### Zechariah 12:10
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will pour out upon the house of David and upon the inhabitants of Jerusalem a spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for beloved one and grieve over him as over firstborn.
+- fresh: And I will pour out upon the house of David and upon the inhabitants of Jerusalem a spirit of grace and compassion, and they will look toward me because they mocked, and they will mourn for him with mourning as for a beloved one and grieve over him as over a firstborn.
 - brenton: And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.
 
 ### Zechariah 12:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: In that day mourning in Jerusalem will be magnified, like mourning of pomegranate-grove in the plain being cut down.
+- fresh: In that day the mourning in Jerusalem will be magnified, like the mourning of a pomegranate grove in the plain being cut down.
 - brenton: In that day the lamentation in Jerusalem shall be very great, as the mourning for the pomegranate grove cut down in the plain.
 
 ### Zechariah 12:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And the land will mourn tribe by tribe, tribe by itself and their women by themselves: tribe of the house of David by itself and their women by themselves, tribe of the house of Nathan by itself and their women by themselves,
+- fresh: And the land will mourn tribe by tribe, each tribe by itself and their women by themselves: the tribe of the house of David by itself and their women by themselves, the tribe of the house of Nathan by itself and their women by themselves,
 - brenton: And the land shall lament in separate families, the family of the house of David by itself, and their wives by themselves; the family of the house of Nathan by itself, and their wives by themselves;
 
 ### Zechariah 12:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: tribe of the house of Levi by itself and their women by themselves, tribe of Simeon by itself and their women by themselves,
+- fresh: the tribe of the house of Levi by itself and their women by themselves, the tribe of Simeon by itself and their women by themselves,
 - brenton: the family of the house of Levi by itself, and their wives by themselves; the family of Symeon by itself, and their wives by themselves;
 
 ### Zechariah 12:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: all tribes left behind, tribe by itself and their women by themselves.
+- fresh: all the tribes left behind, each tribe by itself and their women by themselves.
 - brenton: all the families that are left, each family by itself, and their wives by themselves.
 
 ### Zechariah 13:1
