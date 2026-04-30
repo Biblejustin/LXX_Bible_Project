@@ -139756,7 +139756,7 @@ Greek: μετα δε το δευτερον καταπετασμα σκηνη η 
 Transliteration: meta de to deuteron katapetasma skhnh h legomenh agia agiwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And after the second veil, the tabernacle which is called the Holiest of all;
+Draft translation: And after the second veil, the tabernacle which is called Holy of Holies;
 
 Decision rows:
 - [TODO add decision rows]
@@ -139796,7 +139796,7 @@ Greek: υπερανω δε αυτης χερουβιμ δοξης κατασκι
 Transliteration: uperanw de authv ceroubim doxhv kataskiazonta to ilasthrion peri wn ouk estin nun legein kata merov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And over it the cherubims of glory shadowing the mercy seat; of which we cannot now speak particularly.
+Draft translation: And over it the cherubim of glory overshadowing the mercy seat; concerning which we cannot now speak in detail.
 
 Decision rows:
 - [TODO add decision rows]
@@ -139816,7 +139816,7 @@ Greek: τουτων δε ουτως κατεσκευασμενων εις μεν
 Transliteration: toutwn de outwv kateskeuasmenwn eiv men thn prwthn skhnhn dia pantov eisiasin oi iereiv tav latreiav epitelountev
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service of God.
+Draft translation: Now these things having been thus prepared, the priests always enter into the first tabernacle, performing the services.
 
 Decision rows:
 - [TODO add decision rows]
@@ -139836,7 +139836,7 @@ Greek: εις δε την δευτεραν απαξ του ενιαυτου μο
 Transliteration: eiv de thn deuteran apax tou eniautou monov o arciereuv ou cwriv aimatov o prosferei uper eautou kai twn tou laou agnohmatwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But into the second went the high priest alone once every year, not without blood, which he offered for himself, and for the errors of the people:
+Draft translation: But into the second the high priest alone enters once every year, not without blood, which he offers for himself, and for the ignorances of the people:
 
 Decision rows:
 - [TODO add decision rows]
@@ -139936,7 +139936,7 @@ Greek: ουδε δι αιματος τραγων και μοσχων δια δε
 Transliteration: oude di aimatov tragwn kai moscwn dia de tou idiou aimatov eishlyen efapax eiv ta agia aiwnian lutrwsin euramenov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us.
+Draft translation: nor by blood of goats and calves, but by his own blood he entered once for all into the holy places, having obtained eternal redemption.
 
 Decision rows:
 - [TODO add decision rows]
@@ -140076,7 +140076,7 @@ Greek: λαληθεισης γαρ πασης εντολης κατα νομον
 Transliteration: lalhyeishv gar pashv entolhv kata nomon upo mwusewv panti tw law labwn to aima twn moscwn kai tragwn meta udatov kai eriou kokkinou kai usswpou auto te to biblion kai panta ton laon errantisen
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,
+Draft translation: For when every commandment had been spoken by Moses to all the people according to the law, he took the blood of calves and goats, with water, and scarlet wool, and hyssop, and sprinkled both the book itself, and all the people,
 
 Decision rows:
 - [TODO add decision rows]
@@ -140096,7 +140096,7 @@ Greek: λεγων τουτο το αιμα της διαθηκης ης ενετ
 Transliteration: legwn touto to aima thv diayhkhv hv eneteilato prov umav o yeov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Saying, This is the blood of the covenant which God has commanded with authority to you.
+Draft translation: saying, This is the blood of the covenant which God commanded to you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -140116,7 +140116,7 @@ Greek: και την σκηνην δε και παντα τα σκευη της 
 Transliteration: kai thn skhnhn de kai panta ta skeuh thv leitourgiav tw aimati omoiwv errantisen
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry.
+Draft translation: Moreover he sprinkled with the blood both the tabernacle, and all the vessels of the service.
 
 Decision rows:
 - [TODO add decision rows]
@@ -140156,7 +140156,7 @@ Greek: αναγκη ουν τα μεν υποδειγματα των εν τοι
 Transliteration: anagkh oun ta men upodeigmata twn en toiv ouranoiv toutoiv kayarizesyai auta de ta epourania kreittosin yusiaiv para tautav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: It was therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these.
+Draft translation: It was therefore necessary that the copies of the things in the heavens be purified with these; but the heavenly things themselves with better sacrifices than these.
 
 Decision rows:
 - [TODO add decision rows]
@@ -140176,7 +140176,7 @@ Greek: ου γαρ εις χειροποιητα αγια εισηλθεν ο χ
 Transliteration: ou gar eiv ceiropoihta agia eishlyen o cristov antitupa twn alhyinwn all eiv auton ton ouranon nun emfanisyhnai tw proswpw tou yeou uper hmwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us:
+Draft translation: For Christ did not enter into holy places made with hands, copies of the true, but into heaven itself, now to appear before the face of God for us:
 
 Decision rows:
 - [TODO add decision rows]
@@ -140196,7 +140196,7 @@ Greek: ουδ ινα πολλακις προσφερη εαυτον ωσπερ �
 Transliteration: oud ina pollakiv prosferh eauton wsper o arciereuv eisercetai eiv ta agia kat eniauton en aimati allotriw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Nor yet that he should offer himself often, as the high priest enters into the holy place every year with blood of others;
+Draft translation: Nor yet that he should offer himself often, as the high priest enters into the holy places every year with another's blood;
 
 Decision rows:
 - [TODO add decision rows]

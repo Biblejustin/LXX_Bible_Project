@@ -3,9 +3,9 @@
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
   "status_counts": {
-    "tr_literal_manual": 3206,
-    "tr_literal_pass1": 3870,
-    "needs_focused_tr_review": 881
+    "tr_literal_manual": 3217,
+    "tr_literal_pass1": 3869,
+    "needs_focused_tr_review": 871
   },
   "changed_by_book": {
     "MAT": 913,
@@ -26,7 +26,7 @@
     "2TI": 74,
     "TIT": 45,
     "PHM": 24,
-    "HEB": 241,
+    "HEB": 251,
     "JAS": 81,
     "1PE": 83,
     "2PE": 49,
@@ -37,13 +37,13 @@
     "REV": 300
   },
   "rule_counts": {
-    "manual TR literal override": 3206,
+    "manual TR literal override": 3217,
     "aligned gennao with fathered": 17,
     "rendered adelphoi-family wording as brothers": 149,
     "rendered general brings-forth as produces": 27,
     "standardized contextual NT proper-name English equivalent": 3,
     "standardized NT proper-name English equivalent": 61,
-    "modernized archaic directional unto": 1259,
+    "modernized archaic directional unto": 1258,
     "aligned apoluo with release": 15,
     "modernized was-minded idiom": 2,
     "modernized behold": 124,
@@ -56,7 +56,7 @@
     "standardized Judea spelling": 26,
     "modernized are-come perfect": 11,
     "modernized he-that relative": 165,
-    "UKJV seed retained; needs focused Greek review": 881,
+    "UKJV seed retained; needs focused Greek review": 871,
     "standardized Juda as Judah in tribe/land contexts": 8,
     "modernized enquired spelling": 4,
     "removed UKJV plural-expansion artifact": 721,
@@ -280,7 +280,7 @@
     "capitalized Passover": 17,
     "modernized where-will-you idiom": 3,
     "rendered aphesis as forgiveness": 9,
-    "rendered diatheke as covenant": 10,
+    "rendered diatheke as covenant": 9,
     "modernized answered-not wording": 1,
     "modernized will-you-that idiom": 4,
     "modernized you-that relative": 1,
@@ -542,8 +542,8 @@
     "modernized lived-not wording": 1
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
-  "review_queue_rows": 231,
-  "needs_focused_tr_review_rows": 881,
+  "review_queue_rows": 221,
+  "needs_focused_tr_review_rows": 871,
   "review_queue_resolved_by_pass": 650,
   "examples": {
     "manual TR literal override": [

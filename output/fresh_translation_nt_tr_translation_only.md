@@ -28320,7 +28320,7 @@ For there was a tabernacle made; the first, in which was the candlestick, and th
 
 **Hebrews 9:3**
 
-And after the second veil, the tabernacle which is called the Holiest of all;
+And after the second veil, the tabernacle which is called Holy of Holies;
 
 **Hebrews 9:4**
 
@@ -28328,15 +28328,15 @@ Which had the golden censer, and the ark of the covenant overlaid round about wi
 
 **Hebrews 9:5**
 
-And over it the cherubims of glory shadowing the mercy seat; of which we cannot now speak particularly.
+And over it the cherubim of glory overshadowing the mercy seat; concerning which we cannot now speak in detail.
 
 **Hebrews 9:6**
 
-Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service of God.
+Now these things having been thus prepared, the priests always enter into the first tabernacle, performing the services.
 
 **Hebrews 9:7**
 
-But into the second went the high priest alone once every year, not without blood, which he offered for himself, and for the errors of the people:
+But into the second the high priest alone enters once every year, not without blood, which he offers for himself, and for the ignorances of the people:
 
 **Hebrews 9:8**
 
@@ -28356,7 +28356,7 @@ But Christ being come a high priest of good things to come, by a greater and mor
 
 **Hebrews 9:12**
 
-Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us.
+nor by blood of goats and calves, but by his own blood he entered once for all into the holy places, having obtained eternal redemption.
 
 **Hebrews 9:13**
 
@@ -28384,15 +28384,15 @@ Therefore neither was the first covenant inaugurated without blood.
 
 **Hebrews 9:19**
 
-For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,
+For when every commandment had been spoken by Moses to all the people according to the law, he took the blood of calves and goats, with water, and scarlet wool, and hyssop, and sprinkled both the book itself, and all the people,
 
 **Hebrews 9:20**
 
-Saying, This is the blood of the covenant which God has commanded with authority to you.
+saying, This is the blood of the covenant which God commanded to you.
 
 **Hebrews 9:21**
 
-Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry.
+Moreover he sprinkled with the blood both the tabernacle, and all the vessels of the service.
 
 **Hebrews 9:22**
 
@@ -28400,15 +28400,15 @@ And almost all things are by the law purged with blood; and without shedding of 
 
 **Hebrews 9:23**
 
-It was therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these.
+It was therefore necessary that the copies of the things in the heavens be purified with these; but the heavenly things themselves with better sacrifices than these.
 
 **Hebrews 9:24**
 
-For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us:
+For Christ did not enter into holy places made with hands, copies of the true, but into heaven itself, now to appear before the face of God for us:
 
 **Hebrews 9:25**
 
-Nor yet that he should offer himself often, as the high priest enters into the holy place every year with blood of others;
+Nor yet that he should offer himself often, as the high priest enters into the holy places every year with another's blood;
 
 **Hebrews 9:26**
 

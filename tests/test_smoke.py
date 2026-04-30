@@ -8120,6 +8120,33 @@ def test_nt_hebrews_7_to_8_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_hebrews_9_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Hebrews 9:3": "And after the second veil, the tabernacle which is called Holy of Holies;",
+        "Hebrews 9:5": "And over it the cherubim of glory overshadowing the mercy seat; concerning which we cannot now speak in detail.",
+        "Hebrews 9:6": "Now these things having been thus prepared, the priests always enter into the first tabernacle, performing the services.",
+        "Hebrews 9:7": "But into the second the high priest alone enters once every year, not without blood, which he offers for himself, and for the ignorances of the people:",
+        "Hebrews 9:12": "nor by blood of goats and calves, but by his own blood he entered once for all into the holy places, having obtained eternal redemption.",
+        "Hebrews 9:19": "For when every commandment had been spoken by Moses to all the people according to the law, he took the blood of calves and goats, with water, and scarlet wool, and hyssop, and sprinkled both the book itself, and all the people,",
+        "Hebrews 9:20": "saying, This is the blood of the covenant which God commanded to you.",
+        "Hebrews 9:21": "Moreover he sprinkled with the blood both the tabernacle, and all the vessels of the service.",
+        "Hebrews 9:23": "It was therefore necessary that the copies of the things in the heavens be purified with these; but the heavenly things themselves with better sacrifices than these.",
+        "Hebrews 9:24": "For Christ did not enter into holy places made with hands, copies of the true, but into heaven itself, now to appear before the face of God for us:",
+        "Hebrews 9:25": "Nor yet that he should offer himself often, as the high priest enters into the holy places every year with another's blood;",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_177.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
