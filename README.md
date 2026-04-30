@@ -1,6 +1,6 @@
 # LXX Bible Project
 
-Fresh-translation pilot branch for Greek-to-English work using:
+Fresh translation workspace for Greek-to-English OT/NT polish using:
 
 - Greek source text
 - Logos-based lexical and apparatus review
@@ -12,7 +12,7 @@ Fresh-translation pilot branch for Greek-to-English work using:
 - Scripture received here as inerrant, word-for-word inspired in original writings.
 - Fresh translation aims to work from Greek source text directly instead of reusing older English wording.
 - Local Logos resources serve as research tools, while private notes stay private.
-- This branch removes inherited study-bible output artifacts and keeps only fresh-translation outputs.
+- This branch keeps fresh-translation outputs first; inherited study-bible variants are outside the current polish scope.
 
 ## Reader Disclaimer And Review Request
 
@@ -61,6 +61,7 @@ standard system fonts such as Baskerville and Times New Roman.
 ```bash
 python3 -m pip install -r requirements.txt
 make test
+make build-ot
 make build-nt
 ```
 
@@ -109,18 +110,21 @@ CI runs the same smoke checks in `.github/workflows/smoke.yml`.
 
 ## Branch Strategy
 
-`fresh-translation-pilot` is the active working branch for the new Greek-source
-translation pipeline. Future public release branches should describe their
-source-text pairing and output target in the branch name; default branch naming
-can be normalized separately when the project is ready for broader contributors.
+`fresh-translation-pilot` is the active working branch for complete fresh OT/NT
+polish from Greek source text. Future public release branches should describe
+their source-text pairing and output target in the branch name; default branch
+naming can be normalized separately when the project is ready for broader
+contributors.
 
 ## Current Outputs
 
 - `RELEASE_STATUS.md`
 - `output/fresh_translation_ot_full.md`
 - `output/fresh_translation_ot_full_translation_only.md`
+- `output/fresh_translation_ot_full_diagnostics.json`
 - `output/fresh_translation_nt_tr_full.md`
 - `output/fresh_translation_nt_tr_translation_only.md`
+- `output/fresh_translation_nt_tr_diagnostics.json`
 - `output/fresh_vs_brenton_ot_drafted.md`
 - `output/fresh_vs_brenton_ot_priority_review.md`
 - `output/fresh_nt_tr_vs_ukjv_priority_review.md`
@@ -131,19 +135,28 @@ can be normalized separately when the project is ready for broader contributors.
 - `output/fresh_human_review_core.md`
 - `output/release_hardening_report.md`
 - `output/logos/fresh_translation_ot_logos_bible.docx`
+- `output/logos/fresh_translation_ot_logos_bible_mt_notes.docx`
+- `output/logos/fresh_translation_ot_logos_bible_preview.md`
 - `output/logos/fresh_translation_ot_proofreading.docx`
 - `output/logos/fresh_translation_ot_logos_bible_diagnostics.json`
+- `output/logos/README.md`
 - `output/logos_nt/fresh_translation_nt_tr_logos_bible.docx`
+- `output/logos_nt/fresh_translation_nt_tr_reference_notes.docx`
+- `output/logos_nt/fresh_translation_nt_tr_preview.md`
 - `output/logos_nt/fresh_translation_nt_tr_proofreading.docx`
 - `output/logos_nt/fresh_translation_nt_tr_diagnostics.json`
+- `output/logos_nt/README.md`
 - `release/fresh-translation-ot-rc1/MANIFEST.md`
 
-## Fresh Translation Pilot
+## Fresh Translation Workspace
 
-Fresh Greek-to-English pilot workspace now scaffolded for a new translation that does not copy existing English versions.
+Fresh Greek-to-English workspace for completed OT and NT drafts. Current work
+focuses on polish, notes, Logos outputs, and validation.
 
-Tracked research tables:
+Tracked source and research tables:
 
+- `data/raw/lxx_greek/ot_full.csv`
+- `data/raw/tr_greek/nt_full.csv`
 - `data/research/logos_notes.csv`
 - `data/research/translation_decisions.csv`
 - `data/research/translation_footnotes.csv`
@@ -151,7 +164,6 @@ Tracked research tables:
 - `data/research/translation_rules.md`
 - `data/research/logos_translation_stack.json`
 - `data/research/genesis_1_3_workflow.md`
-- `data/raw/lxx_greek/genesis_1_3_pilot.csv`
 
 Safe local-only space:
 
@@ -159,16 +171,18 @@ Safe local-only space:
 - `data/private/`
 - `data/raw/private/`
 
-Build pilot worksheet:
+Build full fresh outputs:
 
 ```bash
-python3 scripts/build_fresh_translation.py
+make build-ot
+make build-nt
 ```
 
 Build Logos/import and proofreading DOCX files:
 
 ```bash
-python3 scripts/build_fresh_logos_bible.py
+make build-ot
+make build-nt
 ```
 
 Scoped day-to-day workflow:
@@ -212,7 +226,7 @@ This writes:
 - `output/working/deuteronomy_3_5_compare.md`
 - `output/working/deuteronomy_3_5_compare.csv`
 
-Book-checkpoint rebuild:
+OT book-checkpoint rebuild:
 
 ```bash
 python3 scripts/run_book_checkpoint.py
@@ -267,7 +281,7 @@ This rebuilds:
 - `output/release_hardening_report.json`
 - `output/release_hardening_samples.csv`
 
-Release-candidate package:
+Existing OT release-candidate package:
 
 - `RELEASE_STATUS.md`
 - `release/fresh-translation-ot-rc1/MANIFEST.md`
@@ -395,10 +409,11 @@ Optional:
 
 Recommended rhythm:
 
-- draft in `data/raw/lxx_greek/ot_full.csv`
-- rebuild scoped working files while drafting
-- rebuild full OT outputs only at book checkpoints
-- commit full outputs at checkpoint, not every chapter
+- polish OT source in `data/raw/lxx_greek/ot_full.csv`
+- polish NT source in `data/raw/tr_greek/nt_full.csv`
+- rebuild scoped working files while polishing
+- refresh committed full outputs and Logos files before release-facing commits
+- commit full outputs at coherent checkpoints, not every small wording pass
 
 Scan local Logos library into ignored private outputs:
 

@@ -8904,6 +8904,25 @@ def test_logos_readmes_use_testament_specific_language() -> None:
     assert "Place links: disabled by default" in nt_readme
 
 
+def test_root_readme_reflects_complete_fresh_workspace() -> None:
+    readme = (ROOT / "README.md").read_text(encoding="utf-8")
+
+    assert "Fresh translation workspace for Greek-to-English OT/NT polish" in readme
+    assert "## Fresh Translation Workspace" in readme
+    assert "`data/raw/lxx_greek/ot_full.csv`" in readme
+    assert "`data/raw/tr_greek/nt_full.csv`" in readme
+    assert "`output/logos/fresh_translation_ot_logos_bible_mt_notes.docx`" in readme
+    assert "`output/logos_nt/fresh_translation_nt_tr_reference_notes.docx`" in readme
+    assert "Existing OT release-candidate package" in readme
+    for stale_phrase in (
+        "Fresh Translation Pilot",
+        "pilot workspace",
+        "Build pilot worksheet",
+        "`data/raw/lxx_greek/genesis_1_3_pilot.csv`",
+    ):
+        assert stale_phrase not in readme
+
+
 def test_fresh_full_markdown_has_no_todo_placeholders() -> None:
     paths = [
         ROOT / "output" / "fresh_translation_ot_full.md",
