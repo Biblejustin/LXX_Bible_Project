@@ -26652,11 +26652,11 @@ Desiring to be teachers of the law; understanding neither what they say, nor of 
 
 **1 Timothy 1:8**
 
-But we know that the law is good, if a man use it lawfully;
+But we know that the law is good, if anyone uses it lawfully;
 
 **1 Timothy 1:9**
 
-Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,
+Knowing this, that law is not laid down for a righteous one, but for lawless and unruly, for ungodly and sinners, for unholy and profane, for father-killers and mother-killers, for murderers,
 
 **1 Timothy 1:10**
 
@@ -26672,7 +26672,7 @@ And I thank Christ Jesus our Lord, who has enabled me, for that he counted me fa
 
 **1 Timothy 1:13**
 
-Who was before a blasphemer, and a persecutor, and prone to cause hurt: but I obtained mercy, because I did it ignorantly in unbelief.
+I who was formerly a blasphemer, and a persecutor, and an insolent man: but I obtained mercy, because being ignorant I acted in unbelief.
 
 **1 Timothy 1:14**
 
@@ -26706,11 +26706,11 @@ Of whom is Hymenaeus and Alexander; whom I have delivered to Satan, that they ma
 
 **1 Timothy 2:1**
 
-I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;
+I exhort therefore, first of all, that supplications, prayers, intercessions, and thanksgivings be made for all men;
 
 **1 Timothy 2:2**
 
-For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.
+For kings, and for all who are in authority; that we may lead a quiet and tranquil life in all godliness and dignity.
 
 **1 Timothy 2:3**
 
@@ -26726,7 +26726,7 @@ For there is one God, and one mediator between God and men, the man Christ Jesus
 
 **1 Timothy 2:6**
 
-Who gave himself a ransom for all, to be testified in due time.
+Who gave himself a ransom for all, the testimony in its own times.
 
 **1 Timothy 2:7**
 
@@ -26742,15 +26742,15 @@ Likewise also, that women adorn themselves in modest apparel, with reverence and
 
 **1 Timothy 2:10**
 
-But (which becomes women professing godliness) with good works.
+but with what befits women professing godliness, through good works.
 
 **1 Timothy 2:11**
 
-Let the woman learn in silence with all subjection.
+Let a woman learn in quietness with all submission.
 
 **1 Timothy 2:12**
 
-But I do not permit a woman to teach, nor to usurp authority over the man, but to be in silence.
+But I do not permit a woman to teach, nor to exercise authority over a man, but to be in quietness.
 
 **1 Timothy 2:13**
 
@@ -26758,7 +26758,7 @@ For Adam was first formed, then Eve.
 
 **1 Timothy 2:14**
 
-And Adam was not deceived, but the woman being deceived was in the transgression.
+And Adam was not deceived, but the woman, having been deceived, came to be in transgression.
 
 **1 Timothy 2:15**
 

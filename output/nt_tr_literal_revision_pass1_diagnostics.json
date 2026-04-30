@@ -3,9 +3,9 @@
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
   "status_counts": {
-    "tr_literal_manual": 3075,
-    "tr_literal_pass1": 3874,
-    "needs_focused_tr_review": 1008
+    "tr_literal_manual": 3085,
+    "tr_literal_pass1": 3873,
+    "needs_focused_tr_review": 999
   },
   "changed_by_book": {
     "MAT": 913,
@@ -22,7 +22,7 @@
     "COL": 89,
     "1TH": 81,
     "2TH": 43,
-    "1TI": 66,
+    "1TI": 75,
     "2TI": 47,
     "TIT": 29,
     "PHM": 17,
@@ -37,7 +37,7 @@
     "REV": 300
   },
   "rule_counts": {
-    "manual TR literal override": 3075,
+    "manual TR literal override": 3085,
     "aligned gennao with fathered": 17,
     "rendered adelphoi-family wording as brothers": 149,
     "rendered general brings-forth as produces": 27,
@@ -56,7 +56,7 @@
     "standardized Judea spelling": 26,
     "modernized are-come perfect": 11,
     "modernized he-that relative": 166,
-    "UKJV seed retained; needs focused Greek review": 1008,
+    "UKJV seed retained; needs focused Greek review": 999,
     "standardized Juda as Judah in tribe/land contexts": 8,
     "modernized enquired spelling": 4,
     "removed UKJV plural-expansion artifact": 721,
@@ -221,7 +221,7 @@
     "modernized be-not-afraid imperative": 6,
     "modernized good-cheer idiom": 4,
     "modernized if-it-be wording": 1,
-    "modernized residual verb-not wording": 15,
+    "modernized residual verb-not wording": 14,
     "modernized nigh": 26,
     "rendered draught as latrine": 2,
     "modernized meet-as-fitting": 6,
@@ -542,9 +542,9 @@
     "modernized lived-not wording": 1
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
-  "review_queue_rows": 365,
-  "needs_focused_tr_review_rows": 1008,
-  "review_queue_resolved_by_pass": 643,
+  "review_queue_rows": 354,
+  "needs_focused_tr_review_rows": 999,
+  "review_queue_resolved_by_pass": 645,
   "examples": {
     "manual TR literal override": [
       {

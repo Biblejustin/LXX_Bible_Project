@@ -131624,7 +131624,7 @@ Greek: οιδαμεν δε οτι καλος ο νομος εαν τις αυτ�
 Transliteration: oidamen de oti kalov o nomov ean tiv autw nomimwv crhtai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But we know that the law is good, if a man use it lawfully;
+Draft translation: But we know that the law is good, if anyone uses it lawfully;
 
 Decision rows:
 - [TODO add decision rows]
@@ -131644,7 +131644,7 @@ Greek: ειδως τουτο οτι δικαιω νομος ου κειται α
 Transliteration: eidwv touto oti dikaiw nomov ou keitai anomoiv de kai anupotaktoiv asebesin kai amartwloiv anosioiv kai bebhloiv patralwaiv kai mhtralwaiv androfonoiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,
+Draft translation: Knowing this, that law is not laid down for a righteous one, but for lawless and unruly, for ungodly and sinners, for unholy and profane, for father-killers and mother-killers, for murderers,
 
 Decision rows:
 - [TODO add decision rows]
@@ -131724,7 +131724,7 @@ Greek: τον προτερον οντα βλασφημον και διωκτην
 Transliteration: ton proteron onta blasfhmon kai diwkthn kai ubristhn all hlehyhn oti agnown epoihsa en apistia
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who was before a blasphemer, and a persecutor, and prone to cause hurt: but I obtained mercy, because I did it ignorantly in unbelief.
+Draft translation: I who was formerly a blasphemer, and a persecutor, and an insolent man: but I obtained mercy, because being ignorant I acted in unbelief.
 
 Decision rows:
 - [TODO add decision rows]
@@ -131886,7 +131886,7 @@ Greek: παρακαλω ουν πρωτον παντων ποιεισθαι δε
 Transliteration: parakalw oun prwton pantwn poieisyai dehseiv proseucav enteuxeiv eucaristiav uper pantwn anyrwpwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;
+Draft translation: I exhort therefore, first of all, that supplications, prayers, intercessions, and thanksgivings be made for all men;
 
 Decision rows:
 - [TODO add decision rows]
@@ -131906,7 +131906,7 @@ Greek: υπερ βασιλεων και παντων των εν υπεροχη 
 Transliteration: uper basilewn kai pantwn twn en uperoch ontwn ina hremon kai hsucion bion diagwmen en pash eusebeia kai semnothti
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.
+Draft translation: For kings, and for all who are in authority; that we may lead a quiet and tranquil life in all godliness and dignity.
 
 Decision rows:
 - [TODO add decision rows]
@@ -131986,7 +131986,7 @@ Greek: ο δους εαυτον αντιλυτρον υπερ παντων το 
 Transliteration: o douv eauton antilutron uper pantwn to marturion kairoiv idioiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who gave himself a ransom for all, to be testified in due time.
+Draft translation: Who gave himself a ransom for all, the testimony in its own times.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132066,7 +132066,7 @@ Greek: αλλ ο πρεπει γυναιξιν επαγγελλομεναις θ
 Transliteration: all o prepei gunaixin epaggellomenaiv yeosebeian di ergwn agaywn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But (which becomes women professing godliness) with good works.
+Draft translation: but with what befits women professing godliness, through good works.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132086,7 +132086,7 @@ Greek: γυνη εν ησυχια μανθανετω εν παση υποταγ�
 Transliteration: gunh en hsucia manyanetw en pash upotagh
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let the woman learn in silence with all subjection.
+Draft translation: Let a woman learn in quietness with all submission.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132106,7 +132106,7 @@ Greek: γυναικι δε διδασκειν ουκ επιτρεπω ουδε �
 Transliteration: gunaiki de didaskein ouk epitrepw oude auyentein androv all einai en hsucia
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But I do not permit a woman to teach, nor to usurp authority over the man, but to be in silence.
+Draft translation: But I do not permit a woman to teach, nor to exercise authority over a man, but to be in quietness.
 
 Decision rows:
 - [TODO add decision rows]
@@ -132146,7 +132146,7 @@ Greek: και αδαμ ουκ ηπατηθη η δε γυνη απατηθεισ
 Transliteration: kai adam ouk hpathyh h de gunh apathyeisa en parabasei gegonen
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And Adam was not deceived, but the woman being deceived was in the transgression.
+Draft translation: And Adam was not deceived, but the woman, having been deceived, came to be in transgression.
 
 Decision rows:
 - [TODO add decision rows]

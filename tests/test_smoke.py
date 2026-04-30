@@ -7787,6 +7787,37 @@ def test_nt_second_thessalonians_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_first_timothy_1_to_2_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "1 Timothy 1:8": "But we know that the law is good, if anyone uses it lawfully;",
+        "1 Timothy 1:9": "Knowing this, that law is not laid down for a righteous one, but for lawless and unruly, for ungodly and sinners, for unholy and profane, for father-killers and mother-killers, for murderers,",
+        "1 Timothy 1:13": "I who was formerly a blasphemer, and a persecutor, and an insolent man: but I obtained mercy, because being ignorant I acted in unbelief.",
+        "1 Timothy 2:1": "I exhort therefore, first of all, that supplications, prayers, intercessions, and thanksgivings be made for all men;",
+        "1 Timothy 2:2": "For kings, and for all who are in authority; that we may lead a quiet and tranquil life in all godliness and dignity.",
+        "1 Timothy 2:6": "Who gave himself a ransom for all, the testimony in its own times.",
+        "1 Timothy 2:10": "but with what befits women professing godliness, through good works.",
+        "1 Timothy 2:11": "Let a woman learn in quietness with all submission.",
+        "1 Timothy 2:12": "But I do not permit a woman to teach, nor to exercise authority over a man, but to be in quietness.",
+        "1 Timothy 2:14": "And Adam was not deceived, but the woman, having been deceived, came to be in transgression.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_166.md"
+        assert ref not in queue_refs
+
+    for ref in ("1 Timothy 2:5", "1 Timothy 2:13"):
+        assert review_by_ref[ref]["latest_review_status"] == "keep"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_166.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
