@@ -8907,6 +8907,9 @@ def test_logos_readmes_use_testament_specific_language() -> None:
 def test_root_readme_reflects_complete_fresh_workspace() -> None:
     readme = (ROOT / "README.md").read_text(encoding="utf-8")
     translation_rules = (ROOT / "data" / "research" / "translation_rules.md").read_text(encoding="utf-8")
+    research_readme = (ROOT / "data" / "research" / "README.md").read_text(encoding="utf-8")
+    architecture = (ROOT / "docs" / "ARCHITECTURE.md").read_text(encoding="utf-8")
+    architecture_flat = " ".join(architecture.split())
 
     assert "Fresh translation workspace for Greek-to-English OT/NT polish" in readme
     assert "## Fresh Translation Workspace" in readme
@@ -8923,8 +8926,14 @@ def test_root_readme_reflects_complete_fresh_workspace() -> None:
     ):
         assert stale_phrase not in readme
         assert stale_phrase not in translation_rules
+        assert stale_phrase not in research_readme
     assert "Treat fresh output as draft until phrase-level decisions are reviewed." in translation_rules
     assert "base Greek edition" not in translation_rules
+    assert "Suggested pilot" not in research_readme
+    assert "complete NT Scrivener TR source workspace" in research_readme
+    assert "Phrase and verse decisions used by the fresh output pipeline" in architecture
+    assert "not aggregate output rebuilds" in architecture_flat
+    assert "`make build-nt` before NT release-facing commits" in architecture_flat
 
 
 def test_fresh_translation_research_stack_is_scope_specific() -> None:

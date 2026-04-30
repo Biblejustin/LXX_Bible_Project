@@ -17,13 +17,15 @@ Tracked files:
 
 - `logos_notes.csv` = paraphrased lexicon / encyclopedia / apparatus notes
 - `translation_decisions.csv` = chosen renderings by verse or phrase
+- `translation_footnotes.csv` = public translation, textual, and comparison notes
 - `variant_notes.csv` = textual variant impact notes
+- `logos_translation_stack.json` = scoped OT/NT research-resource stack
 - `translation_rules.md` = living style guide for the new translation
 
-Suggested pilot:
+Current review scope:
 
-- `Genesis 1-3`
-- one Greek base text
-- 2-3 lexicons
-- 1 textual apparatus source
-- one decision row per meaningful phrase
+- `data/raw/lxx_greek/ot_full.csv` = complete OT LXX source workspace
+- `data/raw/tr_greek/nt_full.csv` = complete NT Scrivener TR source workspace
+- record phrase-level decisions where wording is non-obvious or reused
+- record public notes only when they help readers inspect the translation
+- keep private Logos/local observations under ignored `data/research/local/`

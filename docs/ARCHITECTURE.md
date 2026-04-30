@@ -24,7 +24,7 @@ raw source archives/files
 | --- | --- |
 | `data/raw/lxx_greek/ot_full.csv` | OT LXX fresh translation workspace |
 | `data/raw/tr_greek/nt_full.csv` | NT Scrivener TR fresh translation workspace with UKJV witness columns |
-| `data/research/translation_decisions.csv` | Phrase and verse decisions used by the OT pipeline |
+| `data/research/translation_decisions.csv` | Phrase and verse decisions used by the fresh output pipeline |
 | `data/research/translation_footnotes.csv` | Public translation footnotes |
 | `data/research/variant_notes.csv` | Selective textual notes |
 | `data/proper_name_transliteration_notes.csv` | Generated proper-name and place-name note data |
@@ -64,7 +64,7 @@ change. Cache state is intentionally omitted from generated diagnostics so
 tracked outputs stay deterministic. Set `FRESH_BIBLE_DISABLE_CACHE=1` to force
 uncached ingest.
 
-`make build-nt-fast` is the ignored working-output loop for NT development. It
+`make build-nt-fast` is the ignored working-output loop for NT polish. It
 keeps the same source/review steps, writes generated files under
 `output/working/`, lowers DOCX compression, skips DOCX validation, and emits only
 the Logos Bible-source DOCX. It is for iteration only; release artifacts still
@@ -77,8 +77,8 @@ first so script-level wording changes are reflected before the scoped build.
 
 ## Fast Review Checkpoint
 
-Daily translation review should use the scoped fast checkpoint, not the full OT
-checkpoint:
+Daily translation review should use the scoped fast checkpoint, not aggregate
+output rebuilds:
 
 ```bash
 make review-ot-fast REFS="Isaiah 44:24-28" PASS=262 CHANGES="Reviewed final Isaiah 44 wording."
@@ -94,9 +94,9 @@ This path:
 - runs focused smoke tests;
 - updates the review-pass validation block automatically.
 
-It deliberately skips aggregate Markdown, Logos DOCX, and full diagnostics.
-Run `make checkpoint-ot` only at chapter/book boundaries, before commits that
-need generated output refreshes, or before release tags.
+It deliberately skips aggregate Markdown, Logos DOCX, and full diagnostics. Run
+`make checkpoint-ot` for OT chapter/book boundaries and `make build-nt` before
+NT release-facing commits that need generated output or Logos DOCX refreshes.
 
 ## Private Research Boundary
 
