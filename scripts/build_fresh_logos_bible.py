@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build Logos Personal Book and proofreading DOCX files for the fresh OT."""
+"""Build Logos Personal Book and proofreading DOCX files for fresh sources."""
 
 from __future__ import annotations
 
