@@ -8542,6 +8542,30 @@ def test_nt_revelation_1_to_3_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_revelation_4_to_6_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Revelation 4:7": "And the first living creature was like a lion, and the second living creature like a calf, and the third living creature having the face as a man, and the fourth living creature like a flying eagle.",
+        "Revelation 5:11": "And I saw, and I heard a voice of many angels around the throne and the living creatures and the elders: and their number was myriads of myriads, and thousands of thousands;",
+        "Revelation 6:1": "And I saw when the Lamb opened one of the seals, and I heard one of the four living creatures saying, as with a voice of thunder, Come and see.",
+        "Revelation 6:3": "And when he opened the second seal, I heard the second living creature saying, Come and see.",
+        "Revelation 6:7": "And when he opened the fourth seal, I heard a voice of the fourth living creature saying, Come and see.",
+        "Revelation 6:14": "And the heaven was separated as a scroll being rolled up; and every mountain and island were moved out of their places.",
+        "Revelation 6:15": "And the kings of the earth, and the great ones, and the rich, and the commanders of thousands, and the mighty, and every slave, and every free man, hid themselves in the caves and in the rocks of the mountains;",
+        "Revelation 6:17": "For the great day of his wrath has come; and who is able to stand?",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_192.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

@@ -153170,7 +153170,7 @@ Greek: και το ζωον το πρωτον ομοιον λεοντι και �
 Transliteration: kai to zwon to prwton omoion leonti kai to deuteron zwon omoion moscw kai to triton zwon econ to proswpon wv anyrwpov kai to tetarton zwon omoion aetw petwmenw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle.
+Draft translation: And the first living creature was like a lion, and the second living creature like a calf, and the third living creature having the face as a man, and the fourth living creature like a flying eagle.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153472,7 +153472,7 @@ Greek: και ειδον και ηκουσα φωνην αγγελων πολλ�
 Transliteration: kai eidon kai hkousa fwnhn aggelwn pollwn kukloyen tou yronou kai twn zwwn kai twn presbuterwn kai hn o ariymov autwn muriadev muriadwn kai ciliadev ciliadwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;
+Draft translation: And I saw, and I heard a voice of many angels around the throne and the living creatures and the elders: and their number was myriads of myriads, and thousands of thousands;
 
 Decision rows:
 - [TODO add decision rows]
@@ -153554,7 +153554,7 @@ Greek: και ειδον οτε ηνοιξεν το αρνιον μιαν εκ �
 Transliteration: kai eidon ote hnoixen to arnion mian ek twn sfragidwn kai hkousa enov ek twn tessarwn zwwn legontov wv fwnhv bronthv ercou kai blepe
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.
+Draft translation: And I saw when the Lamb opened one of the seals, and I heard one of the four living creatures saying, as with a voice of thunder, Come and see.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153594,7 +153594,7 @@ Greek: και οτε ηνοιξεν την δευτεραν σφραγιδα η�
 Transliteration: kai ote hnoixen thn deuteran sfragida hkousa tou deuterou zwou legontov ercou kai blepe
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when he had opened the second seal, I heard the second beast say, Come and see.
+Draft translation: And when he opened the second seal, I heard the second living creature saying, Come and see.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153674,7 +153674,7 @@ Greek: και οτε ηνοιξεν την σφραγιδα την τεταρτ�
 Transliteration: kai ote hnoixen thn sfragida thn tetarthn hkousa fwnhn tou tetartou zwou legousan ercou kai blepe
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.
+Draft translation: And when he opened the fourth seal, I heard a voice of the fourth living creature saying, Come and see.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153814,7 +153814,7 @@ Greek: και ουρανος απεχωρισθη ως βιβλιον ειλισ
 Transliteration: kai ouranov apecwrisyh wv biblion eilissomenon kai pan orov kai nhsov ek twn topwn autwn ekinhyhsan
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
+Draft translation: And the heaven was separated as a scroll being rolled up; and every mountain and island were moved out of their places.
 
 Decision rows:
 - [TODO add decision rows]
@@ -153834,7 +153834,7 @@ Greek: και οι βασιλεις της γης και οι μεγιστανε
 Transliteration: kai oi basileiv thv ghv kai oi megistanev kai oi plousioi kai oi ciliarcoi kai oi dunatoi kai pav doulov kai pav eleuyerov ekruqan eautouv eiv ta sphlaia kai eiv tav petrav twn orewn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;
+Draft translation: And the kings of the earth, and the great ones, and the rich, and the commanders of thousands, and the mighty, and every slave, and every free man, hid themselves in the caves and in the rocks of the mountains;
 
 Decision rows:
 - [TODO add decision rows]
@@ -153874,7 +153874,7 @@ Greek: οτι ηλθεν η ημερα η μεγαλη της οργης αυτ�
 Transliteration: oti hlyen h hmera h megalh thv orghv autou kai tiv dunatai stayhnai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For the great day of his wrath has come; and who shall be able to stand?
+Draft translation: For the great day of his wrath has come; and who is able to stand?
 
 Decision rows:
 - [TODO add decision rows]

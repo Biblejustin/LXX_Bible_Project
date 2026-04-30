@@ -31062,7 +31062,7 @@ And before the throne there was a sea of glass like to crystal: and in the midst
 
 **Revelation 4:7**
 
-And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle.
+And the first living creature was like a lion, and the second living creature like a calf, and the third living creature having the face as a man, and the fourth living creature like a flying eagle.
 
 **Revelation 4:8**
 
@@ -31124,7 +31124,7 @@ And have made us to our God kings and priests: and we shall reign on the earth.
 
 **Revelation 5:11**
 
-And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;
+And I saw, and I heard a voice of many angels around the throne and the living creatures and the elders: and their number was myriads of myriads, and thousands of thousands;
 
 **Revelation 5:12**
 
@@ -31142,7 +31142,7 @@ And the four beasts said, Amen. And the four and twenty elders fell down and wor
 
 **Revelation 6:1**
 
-And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.
+And I saw when the Lamb opened one of the seals, and I heard one of the four living creatures saying, as with a voice of thunder, Come and see.
 
 **Revelation 6:2**
 
@@ -31150,7 +31150,7 @@ And I saw, and look a white horse: and the one who sat on him had a bow; and a c
 
 **Revelation 6:3**
 
-And when he had opened the second seal, I heard the second beast say, Come and see.
+And when he opened the second seal, I heard the second living creature saying, Come and see.
 
 **Revelation 6:4**
 
@@ -31166,7 +31166,7 @@ And I heard a voice in the midst of the four beasts say, A measure of wheat for 
 
 **Revelation 6:7**
 
-And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.
+And when he opened the fourth seal, I heard a voice of the fourth living creature saying, Come and see.
 
 **Revelation 6:8**
 
@@ -31194,11 +31194,11 @@ And the stars of heaven fell to the earth, even as a fig tree casts her untimely
 
 **Revelation 6:14**
 
-And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
+And the heaven was separated as a scroll being rolled up; and every mountain and island were moved out of their places.
 
 **Revelation 6:15**
 
-And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;
+And the kings of the earth, and the great ones, and the rich, and the commanders of thousands, and the mighty, and every slave, and every free man, hid themselves in the caves and in the rocks of the mountains;
 
 **Revelation 6:16**
 
@@ -31206,7 +31206,7 @@ And said to the mountains and rocks, Fall on us, and hide us from the face of hi
 
 **Revelation 6:17**
 
-For the great day of his wrath has come; and who shall be able to stand?
+For the great day of his wrath has come; and who is able to stand?
 
 ### Chapter 7
 
