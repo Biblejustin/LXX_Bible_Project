@@ -1687,44 +1687,128 @@ def should_anchor_crossref_trigger(trigger: str) -> bool:
 
 
 BROAD_SINGLE_WORD_CROSSREF_TRIGGERS = {
+    "about",
+    "above",
+    "according",
+    "after",
     "beginning",
+    "before",
+    "because",
+    "being",
     "child",
     "children",
     "city",
+    "come",
+    "came",
     "day",
     "days",
     "daughter",
     "daughters",
     "earth",
+    "even",
+    "every",
     "face",
+    "from",
     "god",
+    "great",
     "hand",
+    "have",
     "heart",
     "house",
+    "into",
     "king",
     "land",
+    "like",
     "lord",
+    "many",
     "man",
     "men",
     "mouth",
     "name",
+    "neither",
+    "then",
     "people",
+    "shall",
     "son",
     "sons",
     "soul",
     "spirit",
+    "that",
+    "there",
+    "this",
+    "through",
+    "until",
     "way",
     "ways",
+    "what",
+    "when",
+    "where",
+    "which",
+    "while",
+    "whom",
+    "whose",
+    "with",
     "wife",
     "wives",
     "word",
     "words",
+    "your",
+}
+
+
+UNINFORMATIVE_SINGLE_WORD_CROSSREF_TRIGGERS = {
+    "about",
+    "above",
+    "according",
+    "after",
+    "all",
+    "any",
+    "before",
+    "because",
+    "being",
+    "came",
+    "come",
+    "even",
+    "every",
+    "from",
+    "having",
+    "have",
+    "into",
+    "lest",
+    "like",
+    "many",
+    "neither",
+    "some",
+    "shall",
+    "that",
+    "there",
+    "these",
+    "then",
+    "this",
+    "through",
+    "until",
+    "what",
+    "when",
+    "where",
+    "which",
+    "while",
+    "whom",
+    "whose",
+    "with",
+    "without",
+    "would",
+    "your",
 }
 
 
 def broad_single_word_crossref_trigger(trigger: str) -> bool:
     words = re.findall(r"[A-Za-z0-9]+", trigger.casefold())
     return len(words) == 1 and words[0] in BROAD_SINGLE_WORD_CROSSREF_TRIGGERS
+
+
+def uninformative_single_word_crossref_trigger(trigger: str) -> bool:
+    words = re.findall(r"[A-Za-z0-9]+", trigger.casefold())
+    return len(words) == 1 and words[0] in UNINFORMATIVE_SINGLE_WORD_CROSSREF_TRIGGERS
 
 
 def crossref_book_code(ref: str) -> str:
@@ -1736,7 +1820,11 @@ def thin_broad_single_word_crossref_note(
     note: CrossReferenceNote,
     verse: Verse,
 ) -> CrossReferenceNote | None:
-    if note.source != "tsk" or not broad_single_word_crossref_trigger(note.trigger_phrase):
+    if note.source != "tsk":
+        return note
+    if uninformative_single_word_crossref_trigger(note.trigger_phrase):
+        return None
+    if not broad_single_word_crossref_trigger(note.trigger_phrase):
         return note
     verse_book_code = verse.tsk_key[0]
     kept_refs = tuple(ref for ref in note.refs if crossref_book_code(ref) == verse_book_code)

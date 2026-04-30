@@ -12,7 +12,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Genesis 1:2** But the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 4
+- Cross-references: 0
 
 **Genesis 1:3** And God said, 'Let light come to be.' And light came to be.
 - Translation/textual notes: 0
@@ -63,7 +63,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Numbers 1:2** Take the headcount of the whole congregation of the sons of Israel by their families, by the houses of their fathers, by the number of their names, by their heads, every male,
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 13
+- Cross-references: 9
 
 **Numbers 1:3** from twenty years old and upward, every one going out in force in Israel. You and Aaron shall count them with their strength.
 - Translation/textual notes: 0
@@ -170,7 +170,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **2 Samuel 1:3** And David said to him, From where do you come? And he said to him, I have escaped from the camp of Israel.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 2
+- Cross-references: 1
 
 ## 1 Kings
 
@@ -420,7 +420,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Lamentations 1:1** How the city sat alone, she who had been filled with peoples. She became like a widow, she who had been great among the nations; ruler among regions, she became subject to tribute.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 28
+- Cross-references: 25
 
 **Lamentations 1:2** Weeping, she wept in the night, and her tears are on her cheeks; there is no one comforting her among all who love her. All her friends acted faithlessly toward her; they became enemies to her.
 - Translation/textual notes: 0
@@ -510,7 +510,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Amos 1:3** And the Lord said, For three impieties of Damascus and for four I will not turn him away, because they sawed open with iron saws those pregnant among the Gileadites.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 23
+- Cross-references: 17
 
 ## Obadiah
 
@@ -544,14 +544,14 @@ This preview shows the first three verses of each book with note/cross-reference
 **Jonah 1:3** Jonah rose up to flee to Tarshish from the face of the Lord, went down to Joppa, found a ship going to Tarshish, paid its fare, and went up into it to sail with them to Tarshish from the face of the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 25
+- Cross-references: 19
 
 ## Micah
 
 **Micah 1:1** And the word of the Lord came to Micah the Morasthite in the days of Jotham and Ahaz and Hezekiah, kings of Judah, concerning what he saw about Samaria and Jerusalem.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 15
+- Cross-references: 13
 
 **Micah 1:2** Hear words, O peoples, and let the earth and all those in it pay attention; and the Lord will be among you for a testimony, the Lord from his holy house.
 - Translation/textual notes: 1
@@ -578,7 +578,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Nahum 1:3** The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in an end and in a shaking, and clouds are dust of his feet.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 29
+- Cross-references: 24
 
 ## Habakkuk
 
@@ -624,7 +624,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Haggai 1:2** Thus says the Lord Almighty, saying: This people says, The time has not come to build the house of the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 10
+- Cross-references: 0
 
 **Haggai 1:3** And the word of the Lord came by the hand of Haggai the prophet, saying,
 - Translation/textual notes: 0

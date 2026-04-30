@@ -46,7 +46,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Luke 1:2** Even as they delivered them to us, who from the beginning were eyewitnesses, and servants of the word;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 16
+- Cross-references: 5
 
 **Luke 1:3** It seemed good to me also, having closely followed all things from the first, to write to you in order, most excellent Theophilus,
 - Translation/textual notes: 0
@@ -58,7 +58,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **John 1:1** In the beginning was the Word, and the Word was with God, and the Word was God.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 38
+- Cross-references: 33
 
 **John 1:2** This one was in the beginning with God.
 - Translation/textual notes: 0
@@ -80,7 +80,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Acts 1:2** Until the day in which he was taken up, after that he through the Holy Spirit had given commandments to the apostles whom he had chosen:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 48
+- Cross-references: 30
 
 **Acts 1:3** To whom also he showed himself alive after his suffering by many proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
 - Translation/textual notes: 0
@@ -97,24 +97,24 @@ This preview shows the first three verses of each book with note/cross-reference
 **Romans 1:2** which he promised beforehand through his prophets in holy Scriptures,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 6
+- Cross-references: 2
 
 **Romans 1:3** concerning his Son, who came from David's seed according to flesh,
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 64
+- Cross-references: 34
 
 ## 1 Corinthians
 
 **1 Corinthians 1:1** Paul called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 24
+- Cross-references: 18
 
 **1 Corinthians 1:2** To the assembly of God who is at Corinth, to those who are sanctified in Christ Jesus, called to be holy ones, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 41
+- Cross-references: 35
 
 **1 Corinthians 1:3** Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.
 - Translation/textual notes: 0
@@ -143,7 +143,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Galatians 1:1** Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 32
+- Cross-references: 30
 
 **Galatians 1:2** And all the brothers who are with me, to the assemblies of Galatia:
 - Translation/textual notes: 0
@@ -160,7 +160,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Ephesians 1:1** Paul, an apostle of Jesus Christ by the will of God, to the holy ones who are at Ephesus, and to the faithful in Christ Jesus:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 17
+- Cross-references: 6
 
 **Ephesians 1:2** Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.
 - Translation/textual notes: 0
@@ -221,7 +221,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **1 Thessalonians 1:3** Remembering without ceasing your work of faith, and labor of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 52
+- Cross-references: 39
 
 ## 2 Thessalonians
 
@@ -238,7 +238,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **2 Thessalonians 1:3** We are bound to thank God always for you, brothers, as it is fitting, because your faith grows exceedingly, and the love of every one of you all toward each other abounds;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 25
+- Cross-references: 12
 
 ## 1 Timothy
 
@@ -255,7 +255,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **1 Timothy 1:3** As I begged you to abide still at Ephesus, when I went into Macedonia, that you might charge some that they teach no other doctrine,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 18
+- Cross-references: 16
 
 ## 2 Timothy
 
@@ -272,24 +272,24 @@ This preview shows the first three verses of each book with note/cross-reference
 **2 Timothy 1:3** I thank God, whom I serve from my forefathers with pure conscience, that without ceasing I have remembrance of you in my prayers night and day;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 21
+- Cross-references: 3
 
 ## Titus
 
 **Titus 1:1** Paul, a slave of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 18
+- Cross-references: 12
 
 **Titus 1:2** In hope of eternal life, which God, that cannot lie, promised before the world began;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 44
+- Cross-references: 37
 
 **Titus 1:3** But has in due times manifested his word through preaching, which is committed to me according to the commandment of God our Savior;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 38
+- Cross-references: 33
 
 ## Philemon
 
@@ -318,7 +318,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Hebrews 1:2** Has in these last days spoken to us by his Son, whom he has appointed heir of all things, by whom also he made the worlds;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 58
+- Cross-references: 40
 
 **Hebrews 1:3** Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high:
 - Translation/textual notes: 0
@@ -340,7 +340,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **James 1:3** Knowing this, that the trying of your faith works patience.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 12
+- Cross-references: 9
 
 ## 1 Peter
 
@@ -357,14 +357,14 @@ This preview shows the first three verses of each book with note/cross-reference
 **1 Peter 1:3** Blessed be the God and Father of our Lord Jesus Christ, who according to his abundant mercy has begotten us again to a lively hope by the resurrection of Jesus Christ from the dead,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 50
+- Cross-references: 40
 
 ## 2 Peter
 
 **2 Peter 1:1** Simon Peter, a slave and an apostle of Jesus Christ, to those who have obtained like precious faith with us through the righteousness of God and our Savior Jesus Christ:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 37
+- Cross-references: 20
 
 **2 Peter 1:2** Grace and peace be multiplied to you through the knowledge of God, and of Jesus our Lord,
 - Translation/textual notes: 0
@@ -374,7 +374,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **2 Peter 1:3** According as his divine power has given to us all things that pertain to life and godliness, through the knowledge of him who has called us to glory and virtue:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 33
+- Cross-references: 31
 
 ## 1 John
 
@@ -391,19 +391,19 @@ This preview shows the first three verses of each book with note/cross-reference
 **1 John 1:3** That which we have seen and heard declare we to you, that you also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 35
+- Cross-references: 33
 
 ## 2 John
 
 **2 John 1:1** The elder to the elect lady and her children, whom I love in the truth; and not I only, but also all those who have known the truth;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 23
+- Cross-references: 19
 
 **2 John 1:2** For the truth's sake, which dwells in us, and shall be with us forever.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 8
+- Cross-references: 2
 
 **2 John 1:3** Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.
 - Translation/textual notes: 0
@@ -415,17 +415,17 @@ This preview shows the first three verses of each book with note/cross-reference
 **3 John 1:1** The elder to the beloved Gaius, whom I love in the truth.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 7
+- Cross-references: 5
 
 **3 John 1:2** Beloved, I wish above all things that you may prosper and be in health, even as your soul prospers.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 17
+- Cross-references: 0
 
 **3 John 1:3** For I rejoiced greatly, when the brothers came and testified of the truth that is in you, even as you walk in the truth.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 12
+- Cross-references: 7
 
 ## Jude
 
@@ -442,7 +442,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Jude 1:3** Beloved, when I gave all diligence to write to you of the common salvation, it was necessary for me to write to you, and exhort you that you should earnestly contend for the faith which was once delivered to the holy ones.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 38
+- Cross-references: 26
 
 ## Revelation
 

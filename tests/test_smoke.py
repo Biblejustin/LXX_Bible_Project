@@ -305,6 +305,14 @@ def test_crossref_notes_use_fresh_language_and_drop_loose_single_word_links() ->
     assert 'Cross-references for "children": Hos 2:4.' in display_text
     assert "2Pet 2:14" not in display_text
 
+    genesis_1_4 = next(verse for verse in verses if verse.ref == "Genesis 1:4")
+    crossrefs, _diag = logos_builder.build_crossrefs_for_verses(
+        [genesis_1_4],
+        "ot",
+        enabled=True,
+    )
+    assert not crossrefs.get("Genesis 1:4")
+
 
 def test_crossref_phrase_anchors_match_fresh_text_and_broad_links_stay_local() -> None:
     sys.path.insert(0, str(ROOT / "scripts"))
@@ -333,6 +341,10 @@ def test_crossref_phrase_anchors_match_fresh_text_and_broad_links_stay_local() -
                 assert phrase in verse.text, (testament, ref, phrase)
 
                 words = re.findall(r"[A-Za-z0-9]+", phrase.casefold())
+                if len(words) == 1:
+                    assert (
+                        words[0] not in logos_builder.UNINFORMATIVE_SINGLE_WORD_CROSSREF_TRIGGERS
+                    ), (testament, ref, phrase)
                 if (
                     len(words) == 1
                     and words[0] in logos_builder.BROAD_SINGLE_WORD_CROSSREF_TRIGGERS
