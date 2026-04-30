@@ -93480,83 +93480,83 @@ You provoke God in your words, and you said, In what have we provoked him? In yo
 
 **Malachi 3:1**
 
-Behold, I send my messenger, and he will look on way before my face, and suddenly Lord whom you seek will come into his own temple, and messenger of covenant whom you want. Behold, he comes, says the Lord Almighty.
+Behold, I send my messenger, and he will look upon a way before my face, and suddenly the Lord whom you seek will come into his own temple, and the messenger of the covenant whom you desire. Behold, he comes, says the Lord Almighty.
 
 **Malachi 3:2**
 
-And who will endure day of his coming? And who will stand in his appearance? Because he enters like fire of a smelter and like herb of washers.
+And who will endure the day of his coming? Or who will stand in his appearance? Because he enters like the fire of a smelting furnace and like the herb of washers.
 
 **Malachi 3:3**
 
-And he will sit refining and cleansing like silver and gold and will cleanse sons of Levi and pour them out like gold and like silver, and they will be to the Lord bringing sacrifice in righteousness.
+And he will sit refining and cleansing like silver and like gold, and he will cleanse the sons of Levi and pour them out like gold and like silver, and they will be to the Lord, bringing sacrifice in righteousness.
 
 **Malachi 3:4**
 
-The sacrifice of Judah and Jerusalem will please Lord as days of age and as former years.
+And the sacrifice of Judah and Jerusalem will be pleasing to the Lord, as the days of old and as the former years.
 
 **Malachi 3:5**
 
-And I will come near to you in judgment and be swift witness against sorceresses and adulteresses and those swearing falsely by my name and those withholding wage of hired worker and oppressing widow and striking orphan and turning aside judgment of sojourner and not fearing me, says the Lord Almighty.
+And I will come near to you in judgment, and I will be a swift witness against the sorceresses and against the adulteresses and against those swearing falsely by my name and against those withholding the wage of a hired worker, and those oppressing a widow and those striking orphans and those turning aside the judgment of a sojourner, and those not fearing me, says the Lord Almighty.
 
 **Malachi 3:6**
 
-Because I am the Lord your God and do not change, and you sons of Jacob have not ceased.
+Because I am the Lord your God, and I have not changed, and you sons of Jacob have not ceased.
 
 **Malachi 3:7**
 
-From injustices of your fathers you turned aside from my statutes and did not keep them. Return to me and I will return to you, says the Lord Almighty. And you said, In what shall we return?
+from the injustices of your fathers. You turned aside my statutes and did not keep them. Return to me, and I will return to you, says the Lord Almighty. And you said, In what shall we return?
 
 **Malachi 3:8**
 
-Will a human trick God? Yet you trick me. And you say, In what did we trick you? Because tenths and firstfruits are with you.
+Will a human trick God? For you trick me. And you will say, In what have we tricked you? Because the tenths and the firstfruits are with you.
 
 **Malachi 3:9**
 
-Looking, you keep looking away, and me you keep tricking. Nation has been brought to an end.
+Looking away, you keep looking away, and you trick me; the nation has been brought to an end.
 
 **Malachi 3:10**
 
-Bring all produce into storehouses, and in his house there will be provision. Test me in this, says the Lord Almighty, if I will not open to you cataracts of heaven and pour out my blessing for you until enough.
+Bring all the produce into the storehouses, and in his house there will be its plunder. Test me now in this, says the Lord Almighty, if I do not open for you the cataracts of heaven and pour out my blessing for you until it is enough.
 
 **Malachi 3:11**
 
-And I will appoint one against devouring for you, and he will not destroy fruit of your land, and vine in the field will not grow weak for you, says the Lord Almighty.
+And I will appoint food for you, and I will not destroy the fruit of your land, and your vine in the field will not grow weak, says the Lord Almighty.
 
 **Malachi 3:12**
 
-And all nations will call you blessed, because you will be desired land, says the Lord Almighty.
+And all the nations will call you blessed, because you will be a desired land, says the Lord Almighty.
 
 **Malachi 3:13**
 
-Your words were made heavy against me, says the Lord. And you said, In what did we speak against you?
+You have made your words heavy against me, says the Lord. And you said, In what have we spoken against you?
 
 **Malachi 3:14**
 
-You said, Serving God is vain. And what more is it that we kept his charges and that we walked as suppliants before the Lord Almighty?
+You said, Vain is the one serving God. And what surplus is it that we kept his charges and that we walked as suppliants before the face of the Lord Almighty?
 
 **Malachi 3:15**
 
-And now we call strangers blessed, and all doing unlawful things are built up, and they stood against God and were saved.
+And now we call strangers blessed, and all those doing lawless things are built up, and they resisted God and were saved.
 
 **Malachi 3:16**
 
-These things those fearing the Lord spoke, each to his neighbor, and the Lord paid attention and heard, and he wrote book of remembrance before him for those fearing the Lord and revering his name.
+These things those fearing the Lord spoke, each to his neighbor; and the Lord paid attention and listened, and he wrote a book of remembrance before him for those fearing the Lord and revering his name.
 
 **Malachi 3:17**
 
-And they will be mine, says the Lord Almighty, on the day I make for possession, and I will choose them as man chooses his son serving him.
+And they will be mine, says the Lord Almighty, on the day that I make for possession, and I will choose them as a man chooses his son who serves him.
 
 **Malachi 3:18**
 
-And you will turn and see between righteous and lawless, and between one serving God and one not serving.
+And you will return and see between a righteous one and a lawless one, and between the one serving God and the one not serving.
 
 **Malachi 3:19**
 
-Because behold, the day of the Lord comes, burning like a furnace, and it will burn them, and all strangers and all doing unlawful things will be stubble, and coming day will kindle them, says the Lord Almighty, and root and branch will not be left from them.
+Because behold, the day of the Lord comes, burning like a furnace, and it will burn them, and all the foreigners and all those doing lawless things will be stubble, and the coming day will kindle them, says the Lord Almighty, and neither root nor branch will be left from them.
 
 **Malachi 3:20**
 
-And for you fearing my name, sun of righteousness will rise, and healing in its wings, and you will go out and skip like calves let loose from bonds.
+And for you who fear my name, a sun of righteousness will rise, and healing will be in its wings, and you will go out and skip like calves let loose from bonds.
 
 **Malachi 3:21**
 
@@ -93564,11 +93564,11 @@ And you will trample lawless ones, because they will be ashes under your feet on
 
 **Malachi 3:22**
 
-And behold, I send Elijah the Tishbite to you before great and manifest the day of the Lord comes,
+And behold, I send Elijah the Tishbite to you before the great and manifest day of the Lord comes,
 
 **Malachi 3:23**
 
-who will restore the heart of father to son and the heart of man to his neighbor, lest I come and strike earth utterly.
+who will restore the heart of a father to a son and the heart of a man to his neighbor, lest I come and strike the earth utterly.
 
 **Malachi 3:24**
 

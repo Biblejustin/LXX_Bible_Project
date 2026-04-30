@@ -206066,188 +206066,188 @@ Note:
 ### Malachi 3:1
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Behold, I send my messenger, and he will look on way before my face, and suddenly Lord whom you seek will come into his own temple, and messenger of covenant whom you want. Behold, he comes, says the Lord Almighty.
+- fresh: Behold, I send my messenger, and he will look upon a way before my face, and suddenly the Lord whom you seek will come into his own temple, and the messenger of the covenant whom you desire. Behold, he comes, says the Lord Almighty.
 - brenton: Behold, I send forth my messenger, and he shall survey the way before me: and the Lord, whom ye seek, shall suddenly come into his temple, even the angel of the covenant, whom ye take pleasure in: behold, he is coming, saith the Lord Almighty.
 
 ### Malachi 3:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And who will endure day of his coming? And who will stand in his appearance? Because he enters like fire of a smelter and like herb of washers.
+- fresh: And who will endure the day of his coming? Or who will stand in his appearance? Because he enters like the fire of a smelting furnace and like the herb of washers.
 - brenton: And who will abide the day of his coming? or who will withstand at his appearing? for he is coming in as the fire of a furnace and as the herb of fullers.
 
 ### Malachi 3:3
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And he will sit refining and cleansing like silver and gold and will cleanse sons of Levi and pour them out like gold and like silver, and they will be to the Lord bringing sacrifice in righteousness.
+- fresh: And he will sit refining and cleansing like silver and like gold, and he will cleanse the sons of Levi and pour them out like gold and like silver, and they will be to the Lord, bringing sacrifice in righteousness.
 - brenton: He shall sit to melt and purify as it were silver, and as it were gold: and he shall purify the sons of Levi, and refine them as gold and silver, and they shall offer to the Lord an offering in righteousness.
 
 ### Malachi 3:4
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: The sacrifice of Judah and Jerusalem will please Lord as days of age and as former years.
+- fresh: And the sacrifice of Judah and Jerusalem will be pleasing to the Lord, as the days of old and as the former years.
 - brenton: And the sacrifice of Juda and Jerusalem shall be pleasing to the Lord, according to the former days, and according to the former years.
 
 ### Malachi 3:5
 
 - importance: high
-- decisions: 1
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will come near to you in judgment and be swift witness against sorceresses and adulteresses and those swearing falsely by my name and those withholding wage of hired worker and oppressing widow and striking orphan and turning aside judgment of sojourner and not fearing me, says the Lord Almighty.
+- fresh: And I will come near to you in judgment, and I will be a swift witness against the sorceresses and against the adulteresses and against those swearing falsely by my name and against those withholding the wage of a hired worker, and those oppressing a widow and those striking orphans and those turning aside the judgment of a sojourner, and those not fearing me, says the Lord Almighty.
 - brenton: And I will draw near to you in judgment; and I will be a swift witness against the witches, and against the adulteresses, and against them that swear falsely by my name, and against them that keep back the hireling's wages, and them that oppress the widow, and afflict orphans, and that wrest the judgment of the stranger, and fear not me, saith the Lord Almighty.
 
 ### Malachi 3:6
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because I am the Lord your God and do not change, and you sons of Jacob have not ceased.
+- fresh: Because I am the Lord your God, and I have not changed, and you sons of Jacob have not ceased.
 - brenton: For I am the Lord your God, and I am not changed:
 
 ### Malachi 3:7
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: From injustices of your fathers you turned aside from my statutes and did not keep them. Return to me and I will return to you, says the Lord Almighty. And you said, In what shall we return?
+- fresh: from the injustices of your fathers. You turned aside my statutes and did not keep them. Return to me, and I will return to you, says the Lord Almighty. And you said, In what shall we return?
 - brenton: but ye, the sons of Jacob, have not refrained from the iniquities of your fathers: ye have perverted my statutes, and have not kept them.
 
 ### Malachi 3:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Will a human trick God? Yet you trick me. And you say, In what did we trick you? Because tenths and firstfruits are with you.
+- fresh: Will a human trick God? For you trick me. And you will say, In what have we tricked you? Because the tenths and the firstfruits are with you.
 - brenton: Will a man insult God? for ye insult me. But ye say, Wherein have we insulted thee? In that the tithes and first-fruits are with you still.
 
 ### Malachi 3:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Looking, you keep looking away, and me you keep tricking. Nation has been brought to an end.
+- fresh: Looking away, you keep looking away, and you trick me; the nation has been brought to an end.
 - brenton: And ye do surely look off from me, and ye insult me.
 
 ### Malachi 3:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Bring all produce into storehouses, and in his house there will be provision. Test me in this, says the Lord Almighty, if I will not open to you cataracts of heaven and pour out my blessing for you until enough.
+- fresh: Bring all the produce into the storehouses, and in his house there will be its plunder. Test me now in this, says the Lord Almighty, if I do not open for you the cataracts of heaven and pour out my blessing for you until it is enough.
 - brenton: The year is completed, and ye have brought all the produce into the storehouses; but there shall be the plunder thereof in its house: return now on this behalf, saith the Lord Almighty, see if I will not open to you the torrents of heaven, and pour out my blessing upon you, until ye are satisfied.
 
 ### Malachi 3:11
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And I will appoint one against devouring for you, and he will not destroy fruit of your land, and vine in the field will not grow weak for you, says the Lord Almighty.
+- fresh: And I will appoint food for you, and I will not destroy the fruit of your land, and your vine in the field will not grow weak, says the Lord Almighty.
 - brenton: And I will appoint food for you, and I will not destroy the fruit of your land; and your vine in the field shall not fail, saith the Lord Almighty.
 
 ### Malachi 3:12
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And all nations will call you blessed, because you will be desired land, says the Lord Almighty.
+- fresh: And all the nations will call you blessed, because you will be a desired land, says the Lord Almighty.
 - brenton: And all nations shall call you blessed: for ye shall be a desirable land, saith the Lord Almighty.
 
 ### Malachi 3:13
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Your words were made heavy against me, says the Lord. And you said, In what did we speak against you?
+- fresh: You have made your words heavy against me, says the Lord. And you said, In what have we spoken against you?
 - brenton: Ye have spoken grievous words against me, saith the Lord. Yet ye said, Wherein have we spoken against thee?
 
 ### Malachi 3:14
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: You said, Serving God is vain. And what more is it that we kept his charges and that we walked as suppliants before the Lord Almighty?
+- fresh: You said, Vain is the one serving God. And what surplus is it that we kept his charges and that we walked as suppliants before the face of the Lord Almighty?
 - brenton: Ye said, He that serves God labours in vain: and what have we gained in that we have kept his ordinances, and in that we have walked as suppliants before the face of the Lord Almighty?
 
 ### Malachi 3:15
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And now we call strangers blessed, and all doing unlawful things are built up, and they stood against God and were saved.
+- fresh: And now we call strangers blessed, and all those doing lawless things are built up, and they resisted God and were saved.
 - brenton: And now we pronounce strangers blessed; and all they who act unlawfully are built up; and they have resisted God, and yet have been delivered.
 
 ### Malachi 3:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: These things those fearing the Lord spoke, each to his neighbor, and the Lord paid attention and heard, and he wrote book of remembrance before him for those fearing the Lord and revering his name.
+- fresh: These things those fearing the Lord spoke, each to his neighbor; and the Lord paid attention and listened, and he wrote a book of remembrance before him for those fearing the Lord and revering his name.
 - brenton: Thus spoke they that feared the Lord, every one to his neighbour: and the Lord gave heed, and hearkened, and he wrote a book of remembrance before him for them that feared the Lord and reverenced his name.
 
 ### Malachi 3:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And they will be mine, says the Lord Almighty, on the day I make for possession, and I will choose them as man chooses his son serving him.
+- fresh: And they will be mine, says the Lord Almighty, on the day that I make for possession, and I will choose them as a man chooses his son who serves him.
 - brenton: And they shall be mine, saith the Lord Almighty, in the day which I appoint for a peculiar possession; and I will make choice of them, as a man makes choice of his son that serves him.
 
 ### Malachi 3:18
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And you will turn and see between righteous and lawless, and between one serving God and one not serving.
+- fresh: And you will return and see between a righteous one and a lawless one, and between the one serving God and the one not serving.
 - brenton: Then shall ye return, and discern between the righteous and the wicked, and between him that serves God, and him that serves him not.
 
 ### Malachi 3:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Because behold, the day of the Lord comes, burning like a furnace, and it will burn them, and all strangers and all doing unlawful things will be stubble, and coming day will kindle them, says the Lord Almighty, and root and branch will not be left from them.
+- fresh: Because behold, the day of the Lord comes, burning like a furnace, and it will burn them, and all the foreigners and all those doing lawless things will be stubble, and the coming day will kindle them, says the Lord Almighty, and neither root nor branch will be left from them.
 - brenton: For, behold, a day comes burning as an oven, and it shall consume them; and all the aliens, and all that do wickedly, shall be stubble: and the day that is coming shall set them on fire, saith the Lord Almighty, and there shall not be left of them root or branch.
 
 ### Malachi 3:20
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And for you fearing my name, sun of righteousness will rise, and healing in its wings, and you will go out and skip like calves let loose from bonds.
+- fresh: And for you who fear my name, a sun of righteousness will rise, and healing will be in its wings, and you will go out and skip like calves let loose from bonds.
 - brenton: But to you that fear my name shall the Sun of righteousness arise, and healing shall be in his wings: and ye shall go forth, and bound as young calves let loose from bonds.
 
 ### Malachi 3:21
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And you will trample lawless ones, because they will be ashes under your feet on the day that I make, says the Lord Almighty.
 - brenton: And ye shall trample the wicked; for they shall be ashes underneath your feet in the day which I appoint, saith the Lord Almighty.
@@ -206255,26 +206255,26 @@ Note:
 ### Malachi 3:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And behold, I send Elijah the Tishbite to you before great and manifest the day of the Lord comes,
+- fresh: And behold, I send Elijah the Tishbite to you before the great and manifest day of the Lord comes,
 - brenton: And, behold, I will send to you Elias the Thesbite, before the great and glorious day of the Lord comes;
 
 ### Malachi 3:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: who will restore the heart of father to son and the heart of man to his neighbor, lest I come and strike earth utterly.
+- fresh: who will restore the heart of a father to a son and the heart of a man to his neighbor, lest I come and strike the earth utterly.
 - brenton: who shall turn again the heart of the father to the son, and the heart of a man to his neighbour, lest I come and smite the earth grievously.
 
 ### Malachi 3:24
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Remember the law of Moses my servant, as I commanded him in Horeb for all Israel, ordinances and judgments.
 - brenton: Remember the law of my servant Moses, accordingly as I charged him with it in Choreb for all Israel, even the commandments and ordinances.
