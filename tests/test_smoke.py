@@ -4165,7 +4165,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "if the foundation of the earth" in by_ref["Jeremiah 38:35"][
         "draft_translation"
     ]
-    assert "all nations of the earth" in by_ref["Zechariah 12:3"]["draft_translation"]
+    assert "all the nations of the earth" in by_ref["Zechariah 12:3"]["draft_translation"]
     assert by_ref["Psalms 10:4"]["draft_translation"].startswith(
         "The Lord is in his holy temple; the Lord's throne is in heaven."
     )
