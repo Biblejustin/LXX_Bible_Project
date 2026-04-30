@@ -71,7 +71,7 @@ RAW = DATA / "raw"
 RESEARCH = DATA / "research"
 OUTPUT = ROOT / "output" / "logos"
 CACHE_DIR = ROOT / "output" / "working" / "cache"
-INGEST_CACHE_VERSION = "fresh-logos-ingest-v1"
+INGEST_CACHE_VERSION = "fresh-logos-ingest-v2"
 
 csv.field_size_limit(sys.maxsize)
 
@@ -2091,7 +2091,7 @@ def format_openbible_ref(ref: str) -> str:
     match = OPENBIBLE_TARGET_RE.match(ref.strip())
     if not match:
         return ref
-    start_book, start_chapter, start_verse, end_book, end_chapter, end_verse, votes = match.groups()
+    start_book, start_chapter, start_verse, end_book, end_chapter, end_verse, _votes = match.groups()
     start_code = OPENBIBLE_BOOK_MAP.get(start_book)
     if not start_code:
         return ref
@@ -2104,8 +2104,6 @@ def format_openbible_ref(ref: str) -> str:
             label += f"-{int(end_verse)}"
         else:
             label += f"-{end_label} {int(end_chapter)}:{int(end_verse)}"
-    if votes:
-        label += f" ({votes})"
     return label
 
 

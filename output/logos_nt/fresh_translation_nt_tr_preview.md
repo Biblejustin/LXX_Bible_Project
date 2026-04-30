@@ -41,7 +41,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Luke 1:1** Since many took in hand to arrange an account concerning the matters fulfilled among us,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 6
+- Cross-references: 4
 
 **Luke 1:2** Even as they delivered them to us, who from the beginning were eyewitnesses, and servants of the word;
 - Translation/textual notes: 0
@@ -114,7 +114,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **1 Corinthians 1:2** To the assembly of God who is at Corinth, to those who are sanctified in Christ Jesus, called to be holy ones, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 35
+- Cross-references: 34
 
 **1 Corinthians 1:3** Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.
 - Translation/textual notes: 0
@@ -238,7 +238,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **2 Thessalonians 1:3** We are bound to thank God always for you, brothers, as it is fitting, because your faith grows exceedingly, and the love of every one of you all toward each other abounds;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 12
+- Cross-references: 9
 
 ## 1 Timothy
 
@@ -296,7 +296,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Philemon 1:1** Paul, a prisoner of Jesus Christ, and Timothy our brother, to Philemon our dearly beloved, and fellow laborer,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 18
+- Cross-references: 14
 
 **Philemon 1:2** And to our beloved Apphia, and Archippus our fellow soldier, and to the assembly in your house:
 - Translation/textual notes: 0

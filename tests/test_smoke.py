@@ -346,6 +346,11 @@ def test_crossref_phrase_anchors_match_fresh_text_and_broad_links_stay_local() -
             source_book = verse.tsk_key[0]
             for note in notes:
                 phrase = note.display_phrase
+                for crossref in note.refs:
+                    assert not re.fullmatch(r"[HG]\d+", crossref), (testament, ref, crossref)
+                    assert not re.search(r"\(\d+\)$", crossref), (testament, ref, crossref)
+                    parsed = logos_builder.parse_cross_reference(crossref)
+                    assert parsed and parsed[0], (testament, ref, crossref)
                 if not phrase:
                     continue
                 assert phrase in verse.text, (testament, ref, phrase)

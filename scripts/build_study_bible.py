@@ -302,6 +302,25 @@ REF_BOOK_ALIASES = {
     "3 John": "3JN", "3John": "3JN", "III John": "3JN",
     "Jude": "JUD",
     "Revelation": "REV", "Rev": "REV",
+    "Tobit": "TOB", "Tob": "TOB",
+    "Judith": "JDT", "Jdt": "JDT", "Jdth": "JDT",
+    "Wisdom": "WIS", "Wis": "WIS", "Wisdom of Solomon": "WIS",
+    "Sirach": "SIR", "Sir": "SIR", "Ecclesiasticus": "SIR",
+    "Baruch": "BAR", "Bar": "BAR",
+    "Letter of Jeremiah": "LJE", "Epistle of Jeremiah": "LJE", "Ep Jer": "LJE",
+    "Song of the Three": "S3Y", "Song of Three": "S3Y",
+    "Susanna": "SUS", "Sus": "SUS",
+    "Bel and the Dragon": "BEL", "Bel": "BEL",
+    "1 Maccabees": "1MA", "1Macc": "1MA", "1 Macc": "1MA", "1Mac": "1MA",
+    "2 Maccabees": "2MA", "2Macc": "2MA", "2 Macc": "2MA", "2Mac": "2MA",
+    "3 Maccabees": "3MA", "3Macc": "3MA", "3 Macc": "3MA", "3Mac": "3MA",
+    "4 Maccabees": "4MA", "4Macc": "4MA", "4 Macc": "4MA", "4Mac": "4MA",
+    "1 Esdras": "1ES", "1Esd": "1ES", "1 Esd": "1ES",
+    "Prayer of Manasseh": "MAN", "Pr Man": "MAN",
+    "Psalm 151": "PS2", "Ps 151": "PS2",
+    "Odes": "ODA", "Ode": "ODA",
+    "Psalms of Solomon": "PSS", "Pss Sol": "PSS",
+    "1 Enoch": "ENO", "1Enoch": "ENO", "1 Enoch": "ENO",
 }
 
 SUPERSCRIPTS = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
@@ -333,6 +352,11 @@ DUPLICATE_SEMICOLON_RE = re.compile(r"(?:;\s*){2,}")
 DUPLICATE_WORD_RE = re.compile(r"\b([A-Za-z]+)(?:\s+\1\b)+")
 ALPHA_WORD_RE = re.compile(r"[A-Za-z][A-Za-z'/-]*")
 OPENBIBLE_REF_RE = re.compile(r"([1-3]?[A-Za-z]+)\.(\d+)\.(\d+)$")
+OPENBIBLE_TARGET_REF_RE = re.compile(
+    r"^([1-3]?[A-Za-z]+)\.(\d+)\.(\d+)"
+    r"(?:-([1-3]?[A-Za-z]+)\.(\d+)\.(\d+))?(?: \((\d+)\))?$"
+)
+CROSS_REFERENCE_VOTE_SUFFIX_RE = re.compile(r"\s+\(\d+\)$")
 LATEX_REPLACEMENTS = {
     "\\": r"\textbackslash{}",
     "&": r"\&",
@@ -779,7 +803,7 @@ def parse_openbible_crossrefs(limit_per_verse: int = 8) -> Tuple[Dict[Tuple[str,
     cooked: Dict[Tuple[str, int, int], List[str]] = {}
     for key, values in refs.items():
         ranked = sorted(values, key=lambda item: (-item[0], item[1]))
-        cooked[key] = [f"{target} ({votes})" for votes, target in ranked[:limit_per_verse]]
+        cooked[key] = [format_cross_reference_ref(f"{target} ({votes})") for votes, target in ranked[:limit_per_verse]]
     diagnostics["verses_with_refs"] = len(cooked)
     return cooked, diagnostics
 
@@ -957,12 +981,72 @@ def sort_records(records: List[VerseRecord]) -> List[VerseRecord]:
 
 
 REF_BOOK_ORDER = {code: idx for idx, code in enumerate(FINAL_BOOK_ORDER)}
-CROSS_REFERENCE_RE = re.compile(r"^((?:[1-3]\s*)?[A-Za-z]+(?:\s+[A-Za-z]+)*)\s+(\d+)(?::(\d+)(?:-(\d+))?)?$")
+CROSS_REFERENCE_BOOK_PATTERN = r"(?:[1-3]\s*)?[A-Za-z]+(?:\s+[A-Za-z]+)*"
+CROSS_REFERENCE_FULL_RANGE_RE = re.compile(
+    rf"^({CROSS_REFERENCE_BOOK_PATTERN})\s+(\d+):(\d+)-({CROSS_REFERENCE_BOOK_PATTERN})\s+(\d+):(\d+)$"
+)
+CROSS_REFERENCE_CHAPTER_RANGE_RE = re.compile(
+    rf"^({CROSS_REFERENCE_BOOK_PATTERN})\s+(\d+):(\d+)-(\d+):(\d+)$"
+)
+CROSS_REFERENCE_RE = re.compile(
+    rf"^({CROSS_REFERENCE_BOOK_PATTERN})\s+(\d+)(?::(\d+)(?:-(\d+))?)?$"
+)
+
+
+def cross_reference_book_code(book_label: str) -> str:
+    book_label = normalize_space(book_label)
+    book_code = REF_BOOK_ALIASES.get(book_label)
+    if not book_code:
+        compact = book_label.replace(" ", "")
+        book_code = REF_BOOK_ALIASES.get(compact, "")
+    return book_code
+
+
+def format_cross_reference_ref(ref: str) -> str:
+    ref = CROSS_REFERENCE_VOTE_SUFFIX_RE.sub("", normalize_space(ref.strip()))
+    match = OPENBIBLE_TARGET_REF_RE.match(ref)
+    if not match:
+        return ref
+    start_book, start_chapter, start_verse, end_book, end_chapter, end_verse, _votes = match.groups()
+    start_code = OPENBIBLE_BOOK_MAP.get(start_book)
+    if not start_code:
+        return ref
+    start_label = STANDARD_BOOK_NAMES.get(start_code, start_book)
+    label = f"{start_label} {int(start_chapter)}:{int(start_verse)}"
+    if end_book and end_chapter and end_verse:
+        end_code = OPENBIBLE_BOOK_MAP.get(end_book)
+        if not end_code:
+            return ref
+        if end_code == start_code and end_chapter == start_chapter:
+            label += f"-{int(end_verse)}"
+        elif end_code == start_code:
+            label += f"-{int(end_chapter)}:{int(end_verse)}"
+        else:
+            end_label = STANDARD_BOOK_NAMES.get(end_code, end_book)
+            label += f"-{end_label} {int(end_chapter)}:{int(end_verse)}"
+    return label
 
 
 @lru_cache(maxsize=None)
 def parse_cross_reference(ref: str) -> Optional[Tuple[str, str, int, Optional[int], Optional[int], str]]:
-    ref = ref.strip()
+    ref = format_cross_reference_ref(ref)
+    match = CROSS_REFERENCE_FULL_RANGE_RE.match(ref)
+    if match:
+        book_label, chapter, verse, end_book_label, _end_chapter, _end_verse = match.groups()
+        book_label = normalize_space(book_label)
+        book_code = cross_reference_book_code(book_label)
+        end_book_code = cross_reference_book_code(end_book_label)
+        if not book_code or not end_book_code:
+            return None
+        return (book_code, book_label, int(chapter), int(verse), -1, ref)
+    match = CROSS_REFERENCE_CHAPTER_RANGE_RE.match(ref)
+    if match:
+        book_label, chapter, verse, _end_chapter, _end_verse = match.groups()
+        book_label = normalize_space(book_label)
+        book_code = cross_reference_book_code(book_label)
+        if not book_code:
+            return None
+        return (book_code, book_label, int(chapter), int(verse), -1, ref)
     match = CROSS_REFERENCE_RE.match(ref)
     if not match:
         return None
@@ -970,10 +1054,9 @@ def parse_cross_reference(ref: str) -> Optional[Tuple[str, str, int, Optional[in
     chapter = int(match.group(2))
     verse = int(match.group(3)) if match.group(3) else None
     verse_end = int(match.group(4)) if match.group(4) else verse
-    book_code = REF_BOOK_ALIASES.get(book_label)
+    book_code = cross_reference_book_code(book_label)
     if not book_code:
-        compact = book_label.replace(" ", "")
-        book_code = REF_BOOK_ALIASES.get(compact, "")
+        return None
     return (book_code, book_label, chapter, verse, verse_end, ref)
 
 
@@ -1043,7 +1126,12 @@ def compress_cross_reference_ranges(refs: List[str]) -> List[str]:
 
 
 def canonicalize_cross_references(refs: List[str]) -> List[str]:
-    unique = list(dict.fromkeys(ref.strip() for ref in refs if ref.strip()))
+    cleaned = []
+    for ref in refs:
+        normalized = format_cross_reference_ref(ref)
+        if parse_cross_reference(normalized):
+            cleaned.append(normalized)
+    unique = list(dict.fromkeys(cleaned))
     return compress_cross_reference_ranges(sorted(unique, key=sort_cross_reference_key))
 
 
