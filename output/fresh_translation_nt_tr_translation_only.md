@@ -27102,11 +27102,11 @@ I thank God, whom I serve from my forefathers with pure conscience, that without
 
 **2 Timothy 1:4**
 
-Greatly desiring to see you, being mindful of your tears, that I may be filled with joy;
+longing to see you, remembering your tears, that I may be filled with joy;
 
 **2 Timothy 1:5**
 
-When I call to remembrance the sincere faith that is in you, which dwelt first in your grandmother Lois, and your mother Eunice; and I am persuaded that in you also.
+being reminded of the sincere faith in you, which dwelt first in your grandmother Lois and your mother Eunice; and I am persuaded that it is also in you.
 
 **2 Timothy 1:6**
 
@@ -27154,7 +27154,7 @@ The Lord give mercy to the house of Onesiphorus; for he often refreshed me, and 
 
 **2 Timothy 1:17**
 
-But, when he was in Rome, he sought me out very diligently, and found me.
+but when he came to Rome, he sought me very diligently, and found me.
 
 **2 Timothy 1:18**
 
@@ -27168,11 +27168,11 @@ You therefore, my son, be strong in the grace that is in Christ Jesus.
 
 **2 Timothy 2:2**
 
-And the things that you have heard of me among many witnesses, the same commit you to faithful men, who shall be able to teach others also.
+And the things that you heard from me among many witnesses, entrust these to faithful men, who shall be able to teach others also.
 
 **2 Timothy 2:3**
 
-You therefore endure hardness, as a good soldier of Jesus Christ.
+You therefore endure hardship as a good soldier of Jesus Christ.
 
 **2 Timothy 2:4**
 
@@ -27180,7 +27180,7 @@ No one that wars entangles himself with the affairs of this life; that he may pl
 
 **2 Timothy 2:5**
 
-And if a man also strive for masteries, yet is he not crowned, except he strive lawfully.
+And if anyone also competes, he is not crowned unless he competes lawfully.
 
 **2 Timothy 2:6**
 
@@ -27208,7 +27208,7 @@ It is a faithful saying: For if we died with him, we shall also live with him:
 
 **2 Timothy 2:12**
 
-If we suffer, we shall also reign with him: if we deny him, he also will deny us:
+If we endure, we shall also reign with him: if we deny him, he also will deny us:
 
 **2 Timothy 2:13**
 
@@ -27232,7 +27232,7 @@ And their word will eat as does a canker: of whom is Hymenaeus and Philetus;
 
 **2 Timothy 2:18**
 
-Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.
+who concerning the truth have missed the mark, saying that the resurrection has already happened, and overthrow the faith of some.
 
 **2 Timothy 2:19**
 
@@ -27252,7 +27252,7 @@ Flee also youthful lusts: but follow righteousness, faith, love, peace, with tho
 
 **2 Timothy 2:23**
 
-But foolish and unlearned questions avoid, knowing that they do gender strifes.
+But refuse foolish and uninstructed questions, knowing that they beget strifes.
 
 **2 Timothy 2:24**
 
@@ -27260,11 +27260,11 @@ And the slave of the Lord must not strive; but be gentle to all men, able to tea
 
 **2 Timothy 2:25**
 
-In meekness instructing those that oppose themselves; if God possibly will give them repentance to the acknowledging of the truth;
+in meekness instructing those who oppose, if perhaps God may give them repentance to the knowledge of the truth;
 
 **2 Timothy 2:26**
 
-And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.
+and they may come to themselves out of the devil's snare, having been taken captive by him to his will.
 
 ### Chapter 3
 

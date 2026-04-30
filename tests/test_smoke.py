@@ -7888,6 +7888,37 @@ def test_nt_first_timothy_5_to_6_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_second_timothy_1_to_2_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "2 Timothy 1:4": "longing to see you, remembering your tears, that I may be filled with joy;",
+        "2 Timothy 1:5": "being reminded of the sincere faith in you, which dwelt first in your grandmother Lois and your mother Eunice; and I am persuaded that it is also in you.",
+        "2 Timothy 1:17": "but when he came to Rome, he sought me very diligently, and found me.",
+        "2 Timothy 2:2": "And the things that you heard from me among many witnesses, entrust these to faithful men, who shall be able to teach others also.",
+        "2 Timothy 2:3": "You therefore endure hardship as a good soldier of Jesus Christ.",
+        "2 Timothy 2:5": "And if anyone also competes, he is not crowned unless he competes lawfully.",
+        "2 Timothy 2:12": "If we endure, we shall also reign with him: if we deny him, he also will deny us:",
+        "2 Timothy 2:18": "who concerning the truth have missed the mark, saying that the resurrection has already happened, and overthrow the faith of some.",
+        "2 Timothy 2:23": "But refuse foolish and uninstructed questions, knowing that they beget strifes.",
+        "2 Timothy 2:25": "in meekness instructing those who oppose, if perhaps God may give them repentance to the knowledge of the truth;",
+        "2 Timothy 2:26": "and they may come to themselves out of the devil's snare, having been taken captive by him to his will.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_169.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["2 Timothy 1:3"]["latest_review_status"] == "keep"
+    assert review_by_ref["2 Timothy 1:3"]["latest_review_pass"] == "nt_review_pass_169.md"
+    assert "2 Timothy 1:3" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

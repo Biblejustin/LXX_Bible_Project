@@ -133818,7 +133818,7 @@ Greek: επιποθων σε ιδειν μεμνημενος σου των δα�
 Transliteration: epipoywn se idein memnhmenov sou twn dakruwn ina carav plhrwyw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Greatly desiring to see you, being mindful of your tears, that I may be filled with joy;
+Draft translation: longing to see you, remembering your tears, that I may be filled with joy;
 
 Decision rows:
 - [TODO add decision rows]
@@ -133838,7 +133838,7 @@ Greek: υπομνησιν λαμβανων της εν σοι ανυποκριτ
 Transliteration: upomnhsin lambanwn thv en soi anupokritou pistewv htiv enwkhsen prwton en th mammh sou lwidi kai th mhtri sou eunikh pepeismai de oti kai en soi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: When I call to remembrance the sincere faith that is in you, which dwelt first in your grandmother Lois, and your mother Eunice; and I am persuaded that in you also.
+Draft translation: being reminded of the sincere faith in you, which dwelt first in your grandmother Lois and your mother Eunice; and I am persuaded that it is also in you.
 
 Decision rows:
 - [TODO add decision rows]
@@ -134078,7 +134078,7 @@ Greek: αλλα γενομενος εν ρωμη σπουδαιοτερον εζ
 Transliteration: alla genomenov en rwmh spoudaioteron ezhthsen me kai euren
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But, when he was in Rome, he sought me out very diligently, and found me.
+Draft translation: but when he came to Rome, he sought me very diligently, and found me.
 
 Decision rows:
 - [TODO add decision rows]
@@ -134140,7 +134140,7 @@ Greek: και α ηκουσας παρ εμου δια πολλων μαρτυρ
 Transliteration: kai a hkousav par emou dia pollwn marturwn tauta parayou pistoiv anyrwpoiv oitinev ikanoi esontai kai eterouv didaxai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the things that you have heard of me among many witnesses, the same commit you to faithful men, who shall be able to teach others also.
+Draft translation: And the things that you heard from me among many witnesses, entrust these to faithful men, who shall be able to teach others also.
 
 Decision rows:
 - [TODO add decision rows]
@@ -134160,7 +134160,7 @@ Greek: συ ουν κακοπαθησον ως καλος στρατιωτης �
 Transliteration: su oun kakopayhson wv kalov stratiwthv ihsou cristou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: You therefore endure hardness, as a good soldier of Jesus Christ.
+Draft translation: You therefore endure hardship as a good soldier of Jesus Christ.
 
 Decision rows:
 - [TODO add decision rows]
@@ -134200,7 +134200,7 @@ Greek: εαν δε και αθλη τις ου στεφανουται εαν μ�
 Transliteration: ean de kai aylh tiv ou stefanoutai ean mh nomimwv aylhsh
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And if a man also strive for masteries, yet is he not crowned, except he strive lawfully.
+Draft translation: And if anyone also competes, he is not crowned unless he competes lawfully.
 
 Decision rows:
 - [TODO add decision rows]
@@ -134340,7 +134340,7 @@ Greek: ει υπομενομεν και συμβασιλευσομεν ει αρ
 Transliteration: ei upomenomen kai sumbasileusomen ei arnoumeya kakeinov arnhsetai hmav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: If we suffer, we shall also reign with him: if we deny him, he also will deny us:
+Draft translation: If we endure, we shall also reign with him: if we deny him, he also will deny us:
 
 Decision rows:
 - [TODO add decision rows]
@@ -134460,7 +134460,7 @@ Greek: οιτινες περι την αληθειαν ηστοχησαν λεγ
 Transliteration: oitinev peri thn alhyeian hstochsan legontev thn anastasin hdh gegonenai kai anatrepousin thn tinwn pistin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.
+Draft translation: who concerning the truth have missed the mark, saying that the resurrection has already happened, and overthrow the faith of some.
 
 Decision rows:
 - [TODO add decision rows]
@@ -134560,7 +134560,7 @@ Greek: τας δε μωρας και απαιδευτους ζητησεις π�
 Transliteration: tav de mwrav kai apaideutouv zhthseiv paraitou eidwv oti gennwsin macav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But foolish and unlearned questions avoid, knowing that they do gender strifes.
+Draft translation: But refuse foolish and uninstructed questions, knowing that they beget strifes.
 
 Decision rows:
 - [TODO add decision rows]
@@ -134600,7 +134600,7 @@ Greek: εν πραοτητι παιδευοντα τους αντιδιατιθ�
 Transliteration: en praothti paideuonta touv antidiatiyemenouv mhpote dw autoiv o yeov metanoian eiv epignwsin alhyeiav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: In meekness instructing those that oppose themselves; if God possibly will give them repentance to the acknowledging of the truth;
+Draft translation: in meekness instructing those who oppose, if perhaps God may give them repentance to the knowledge of the truth;
 
 Decision rows:
 - [TODO add decision rows]
@@ -134620,7 +134620,7 @@ Greek: και ανανηψωσιν εκ της του διαβολου παγι�
 Transliteration: kai ananhqwsin ek thv tou diabolou pagidov ezwgrhmenoi up autou eiv to ekeinou yelhma
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.
+Draft translation: and they may come to themselves out of the devil's snare, having been taken captive by him to his will.
 
 Decision rows:
 - [TODO add decision rows]
