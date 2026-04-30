@@ -7381,6 +7381,31 @@ def test_nt_second_corinthians_11_queue_revisions_and_keep_stay_reviewed() -> No
     assert "2 Corinthians 11:22" not in queue_refs
 
 
+def test_nt_second_corinthians_12_to_13_queue_revisions_and_keeps_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "2 Corinthians 12:7": "And by the surpassing greatness of the revelations, lest I should be exalted above measure, a thorn in the flesh was given to me, a messenger of Satan, that he might buffet me, lest I should be exalted above measure.",
+        "2 Corinthians 12:10": "Therefore I take pleasure in weaknesses, in reproaches, in necessities, in persecutions, in distresses for Christ: for when I am weak, then I am strong.",
+        "2 Corinthians 12:15": "And I will very gladly spend and be fully spent for your souls; though the more abundantly I love you, the less I am loved.",
+        "2 Corinthians 12:16": "But be it so, I did not burden you: but, being crafty, I took you by deceit.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_150.md"
+        assert ref not in queue_refs
+
+    for ref in ("2 Corinthians 12:3", "2 Corinthians 13:4", "2 Corinthians 13:8"):
+        assert review_by_ref[ref]["latest_review_status"] == "keep"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_150.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

@@ -23878,7 +23878,7 @@ For though I would desire to glory, I shall not be a fool; for I will say the tr
 
 **2 Corinthians 12:7**
 
-And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
+And by the surpassing greatness of the revelations, lest I should be exalted above measure, a thorn in the flesh was given to me, a messenger of Satan, that he might buffet me, lest I should be exalted above measure.
 
 **2 Corinthians 12:8**
 
@@ -23890,7 +23890,7 @@ And he said to me, My grace is sufficient for you: for my strength is made perfe
 
 **2 Corinthians 12:10**
 
-Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake: for when I am weak, then am I strong.
+Therefore I take pleasure in weaknesses, in reproaches, in necessities, in persecutions, in distresses for Christ: for when I am weak, then I am strong.
 
 **2 Corinthians 12:11**
 
@@ -23910,11 +23910,11 @@ Look, the third time I am ready to come to you; and I will not be burdensome to 
 
 **2 Corinthians 12:15**
 
-And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.
+And I will very gladly spend and be fully spent for your souls; though the more abundantly I love you, the less I am loved.
 
 **2 Corinthians 12:16**
 
-But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.
+But be it so, I did not burden you: but, being crafty, I took you by deceit.
 
 **2 Corinthians 12:17**
 

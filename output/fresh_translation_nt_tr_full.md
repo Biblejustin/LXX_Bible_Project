@@ -118050,7 +118050,7 @@ Greek: και τη υπερβολη των αποκαλυψεων ινα μη υ
 Transliteration: kai th uperbolh twn apokaluqewn ina mh uperairwmai edoyh moi skoloq th sarki aggelov satan ina me kolafizh ina mh uperairwmai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
+Draft translation: And by the surpassing greatness of the revelations, lest I should be exalted above measure, a thorn in the flesh was given to me, a messenger of Satan, that he might buffet me, lest I should be exalted above measure.
 
 Decision rows:
 - [TODO add decision rows]
@@ -118110,7 +118110,7 @@ Greek: διο ευδοκω εν ασθενειαις εν υβρεσιν εν α
 Transliteration: dio eudokw en asyeneiaiv en ubresin en anagkaiv en diwgmoiv en stenocwriaiv uper cristou otan gar asyenw tote dunatov eimi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake: for when I am weak, then am I strong.
+Draft translation: Therefore I take pleasure in weaknesses, in reproaches, in necessities, in persecutions, in distresses for Christ: for when I am weak, then I am strong.
 
 Decision rows:
 - [TODO add decision rows]
@@ -118210,7 +118210,7 @@ Greek: εγω δε ηδιστα δαπανησω και εκδαπανηθησο
 Transliteration: egw de hdista dapanhsw kai ekdapanhyhsomai uper twn qucwn umwn ei kai perissoterwv umav agapwn htton agapwmai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.
+Draft translation: And I will very gladly spend and be fully spent for your souls; though the more abundantly I love you, the less I am loved.
 
 Decision rows:
 - [TODO add decision rows]
@@ -118230,7 +118230,7 @@ Greek: εστω δε εγω ου κατεβαρησα υμας αλλ υπαρχ
 Transliteration: estw de egw ou katebarhsa umav all uparcwn panourgov dolw umav elabon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.
+Draft translation: But be it so, I did not burden you: but, being crafty, I took you by deceit.
 
 Decision rows:
 - [TODO add decision rows]
