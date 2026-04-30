@@ -128986,7 +128986,7 @@ Greek: η γαρ παρακλησις ημων ουκ εκ πλανης ουδε
 Transliteration: h gar paraklhsiv hmwn ouk ek planhv oude ex akayarsiav oute en dolw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For our exhortation was not of deceit, nor of uncleanness, nor in guile:
+Draft translation: For our exhortation was not from error, nor from uncleanness, nor in deceit:
 
 Decision rows:
 - [TODO add decision rows]
@@ -129046,7 +129046,7 @@ Greek: ουτε ζητουντες εξ ανθρωπων δοξαν ουτε α�
 Transliteration: oute zhtountev ex anyrwpwn doxan oute af umwn oute ap allwn dunamenoi en barei einai wv cristou apostoloi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ.
+Draft translation: Nor seeking glory from men, neither from you nor from others, though we could be burdensome as apostles of Christ.
 
 Decision rows:
 - [TODO add decision rows]
@@ -129066,7 +129066,7 @@ Greek: αλλ εγενηθημεν ηπιοι εν μεσω υμων ως αν �
 Transliteration: all egenhyhmen hpioi en mesw umwn wv an trofov yalph ta eauthv tekna
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But we were gentle among you, even as a nurse cherishes her children:
+Draft translation: But we were gentle among you, as a nursing mother cherishes her own children:
 
 Decision rows:
 - [TODO add decision rows]
@@ -129528,7 +129528,7 @@ Greek: νυκτος και ημερας υπερ εκπερισσου δεομε
 Transliteration: nuktov kai hmerav uper ekperissou deomenoi eiv to idein umwn to proswpon kai katartisai ta usterhmata thv pistewv umwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?
+Draft translation: Night and day praying exceedingly to see your face, and to complete the things lacking in your faith?
 
 Decision rows:
 - [TODO add decision rows]
@@ -130012,7 +130012,7 @@ Greek: οταν γαρ λεγωσιν ειρηνη και ασφαλεια το�
 Transliteration: otan gar legwsin eirhnh kai asfaleia tote aifnidiov autoiv efistatai oleyrov wsper h wdin th en gastri ecoush kai ou mh ekfugwsin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For when they shall say, Peace and safety; then sudden destruction comes upon them, as travail upon a woman with child; and they shall not escape.
+Draft translation: For when they say, Peace and safety; then sudden destruction comes upon them, as birth pains upon a pregnant woman; and they shall not escape.
 
 Decision rows:
 - [TODO add decision rows]
@@ -130072,7 +130072,7 @@ Greek: αρα ουν μη καθευδωμεν ως και οι λοιποι α�
 Transliteration: ara oun mh kayeudwmen wv kai oi loipoi alla grhgorwmen kai nhfwmen
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Therefore let us not sleep, as do others; but let us watch and be sober.
+Draft translation: Therefore let us not sleep, as the rest do; but let us watch and be sober.
 
 Decision rows:
 - [TODO add decision rows]
@@ -130152,7 +130152,7 @@ Greek: του αποθανοντος υπερ ημων ινα ειτε γρηγ�
 Transliteration: tou apoyanontov uper hmwn ina eite grhgorwmen eite kayeudwmen ama sun autw zhswmen
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who died for us, that, whether we wake or sleep, we should live together with him.
+Draft translation: Who died for us, that, whether we watch or sleep, we should live together with him.
 
 Decision rows:
 - [TODO add decision rows]
@@ -130272,7 +130272,7 @@ Greek: παντοτε χαιρετε
 Transliteration: pantote cairete
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Rejoice evermore.
+Draft translation: Rejoice always.
 
 Decision rows:
 - [TODO add decision rows]
@@ -130352,7 +130352,7 @@ Greek: προφητειας μη εξουθενειτε
 Transliteration: profhteiav mh exouyeneite
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Despise not prophesyings.
+Draft translation: Do not despise prophecies.
 
 Decision rows:
 - [TODO add decision rows]
@@ -130372,7 +130372,7 @@ Greek: παντα δοκιμαζετε το καλον κατεχετε
 Transliteration: panta dokimazete to kalon katecete
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Prove all things; hold fast that which is good.
+Draft translation: Test all things; hold fast the good.
 
 Decision rows:
 - [TODO add decision rows]
@@ -130392,7 +130392,7 @@ Greek: απο παντος ειδους πονηρου απεχεσθε
 Transliteration: apo pantov eidouv ponhrou apecesye
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Abstain from all appearance of evil.
+Draft translation: Abstain from every form of evil.
 
 Decision rows:
 - [TODO add decision rows]

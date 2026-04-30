@@ -7732,6 +7732,38 @@ def test_nt_colossians_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_first_thessalonians_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "1 Thessalonians 2:3": "For our exhortation was not from error, nor from uncleanness, nor in deceit:",
+        "1 Thessalonians 2:6": "Nor seeking glory from men, neither from you nor from others, though we could be burdensome as apostles of Christ.",
+        "1 Thessalonians 2:7": "But we were gentle among you, as a nursing mother cherishes her own children:",
+        "1 Thessalonians 3:10": "Night and day praying exceedingly to see your face, and to complete the things lacking in your faith?",
+        "1 Thessalonians 5:3": "For when they say, Peace and safety; then sudden destruction comes upon them, as birth pains upon a pregnant woman; and they shall not escape.",
+        "1 Thessalonians 5:6": "Therefore let us not sleep, as the rest do; but let us watch and be sober.",
+        "1 Thessalonians 5:10": "Who died for us, that, whether we watch or sleep, we should live together with him.",
+        "1 Thessalonians 5:16": "Rejoice always.",
+        "1 Thessalonians 5:20": "Do not despise prophecies.",
+        "1 Thessalonians 5:21": "Test all things; hold fast the good.",
+        "1 Thessalonians 5:22": "Abstain from every form of evil.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_164.md"
+        assert ref not in queue_refs
+
+    for ref in ("1 Thessalonians 1:2", "1 Thessalonians 5:17"):
+        assert review_by_ref[ref]["latest_review_status"] == "keep"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_164.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

@@ -26110,7 +26110,7 @@ But even after that we had suffered before, and were shamefully entreated, as yo
 
 **1 Thessalonians 2:3**
 
-For our exhortation was not of deceit, nor of uncleanness, nor in guile:
+For our exhortation was not from error, nor from uncleanness, nor in deceit:
 
 **1 Thessalonians 2:4**
 
@@ -26122,11 +26122,11 @@ For neither at any time used we flattering words, as you know, nor a pretext of 
 
 **1 Thessalonians 2:6**
 
-Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ.
+Nor seeking glory from men, neither from you nor from others, though we could be burdensome as apostles of Christ.
 
 **1 Thessalonians 2:7**
 
-But we were gentle among you, even as a nurse cherishes her children:
+But we were gentle among you, as a nursing mother cherishes her own children:
 
 **1 Thessalonians 2:8**
 
@@ -26220,7 +26220,7 @@ For what thanks can we render to God again for you, for all the joy with which w
 
 **1 Thessalonians 3:10**
 
-Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?
+Night and day praying exceedingly to see your face, and to complete the things lacking in your faith?
 
 **1 Thessalonians 3:11**
 
@@ -26320,7 +26320,7 @@ For yourselves know perfectly that the day of the Lord so comes as a thief in th
 
 **1 Thessalonians 5:3**
 
-For when they shall say, Peace and safety; then sudden destruction comes upon them, as travail upon a woman with child; and they shall not escape.
+For when they say, Peace and safety; then sudden destruction comes upon them, as birth pains upon a pregnant woman; and they shall not escape.
 
 **1 Thessalonians 5:4**
 
@@ -26332,7 +26332,7 @@ You are all the children of light, and the children of the day: we are not of th
 
 **1 Thessalonians 5:6**
 
-Therefore let us not sleep, as do others; but let us watch and be sober.
+Therefore let us not sleep, as the rest do; but let us watch and be sober.
 
 **1 Thessalonians 5:7**
 
@@ -26348,7 +26348,7 @@ For God has not appointed us to wrath, but to obtain salvation by our Lord Jesus
 
 **1 Thessalonians 5:10**
 
-Who died for us, that, whether we wake or sleep, we should live together with him.
+Who died for us, that, whether we watch or sleep, we should live together with him.
 
 **1 Thessalonians 5:11**
 
@@ -26372,7 +26372,7 @@ See that none render evil for evil to anyone; but ever follow that which is good
 
 **1 Thessalonians 5:16**
 
-Rejoice evermore.
+Rejoice always.
 
 **1 Thessalonians 5:17**
 
@@ -26388,15 +26388,15 @@ Quench not the Spirit.
 
 **1 Thessalonians 5:20**
 
-Despise not prophesyings.
+Do not despise prophecies.
 
 **1 Thessalonians 5:21**
 
-Prove all things; hold fast that which is good.
+Test all things; hold fast the good.
 
 **1 Thessalonians 5:22**
 
-Abstain from all appearance of evil.
+Abstain from every form of evil.
 
 **1 Thessalonians 5:23**
 
