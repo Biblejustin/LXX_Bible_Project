@@ -205,9 +205,9 @@
       "tsk": 20497,
       "openbible_fallback": 116
     },
-    "verses_with_crossrefs": 20351,
-    "crossref_note_groups": 41116,
-    "total_crossrefs_after_canonicalization": 197107,
+    "verses_with_crossrefs": 20322,
+    "crossref_note_groups": 40908,
+    "total_crossrefs_after_canonicalization": 196197,
     "tsk": {
       "archive_present": true,
       "testament": "ot",
@@ -243,8 +243,8 @@
     "output_kind": "logos",
     "milestone_mode": "lxx",
     "paragraph_count": 24462,
-    "footnote_count": 60230,
-    "crossref_footnotes": 41110,
+    "footnote_count": 60022,
+    "crossref_footnotes": 40902,
     "translation_note_footnotes": 3920,
     "section_break_count": 929,
     "footnote_number_restart": "chapter",
@@ -258,8 +258,8 @@
     "textual_note_export_footnotes": 0,
     "phrase_anchored_name_meaning_notes": 11357,
     "verse_anchored_name_meaning_notes": 1322,
-    "phrase_anchored_crossref_notes": 8446,
-    "verse_anchored_crossref_notes": 32664,
+    "phrase_anchored_crossref_notes": 8299,
+    "verse_anchored_crossref_notes": 32603,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
@@ -272,8 +272,8 @@
     "output_kind": "logos",
     "milestone_mode": "mt",
     "paragraph_count": 24462,
-    "footnote_count": 60230,
-    "crossref_footnotes": 41110,
+    "footnote_count": 60022,
+    "crossref_footnotes": 40902,
     "translation_note_footnotes": 3920,
     "section_break_count": 929,
     "footnote_number_restart": "chapter",
@@ -287,8 +287,8 @@
     "textual_note_export_footnotes": 0,
     "phrase_anchored_name_meaning_notes": 11357,
     "verse_anchored_name_meaning_notes": 1322,
-    "phrase_anchored_crossref_notes": 8446,
-    "verse_anchored_crossref_notes": 32664,
+    "phrase_anchored_crossref_notes": 8299,
+    "verse_anchored_crossref_notes": 32603,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
@@ -301,8 +301,8 @@
     "output_kind": "proofreading",
     "milestone_mode": "lxx",
     "paragraph_count": 24462,
-    "footnote_count": 60230,
-    "crossref_footnotes": 41110,
+    "footnote_count": 60022,
+    "crossref_footnotes": 40902,
     "translation_note_footnotes": 3920,
     "section_break_count": 929,
     "footnote_number_restart": "chapter",
@@ -316,8 +316,8 @@
     "textual_note_export_footnotes": 0,
     "phrase_anchored_name_meaning_notes": 11357,
     "verse_anchored_name_meaning_notes": 1322,
-    "phrase_anchored_crossref_notes": 8446,
-    "verse_anchored_crossref_notes": 32664,
+    "phrase_anchored_crossref_notes": 8299,
+    "verse_anchored_crossref_notes": 32603,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
@@ -344,8 +344,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 60230,
-      "footnote_body_count": 60230
+      "footnote_reference_count": 60022,
+      "footnote_body_count": 60022
     },
     {
       "path": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_logos_bible_mt_notes.docx",
@@ -364,8 +364,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 60230,
-      "footnote_body_count": 60230
+      "footnote_reference_count": 60022,
+      "footnote_body_count": 60022
     },
     {
       "path": "/Users/justinscaggs/Documents/Codex_bible/output/logos/fresh_translation_ot_proofreading.docx",
@@ -384,8 +384,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 60230,
-      "footnote_body_count": 60230
+      "footnote_reference_count": 60022,
+      "footnote_body_count": 60022
     }
   ],
   "outputs": {

@@ -80,7 +80,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Acts 1:2** Until the day in which he was taken up, after that he through the Holy Spirit had given commandments to the apostles whom he had chosen:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 30
+- Cross-references: 15
 
 **Acts 1:3** To whom also he showed himself alive after his suffering by many proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
 - Translation/textual notes: 0
