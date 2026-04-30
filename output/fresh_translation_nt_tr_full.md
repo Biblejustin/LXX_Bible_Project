@@ -125968,7 +125968,7 @@ Greek: βλεπετε τους κυνας βλεπετε τους κακους �
 Transliteration: blepete touv kunav blepete touv kakouv ergatav blepete thn katatomhn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Beware of dogs, beware of evil workers, beware of the concision.
+Draft translation: Beware of dogs, beware of evil workers, beware of the mutilation.
 
 Decision rows:
 - [TODO add decision rows]
@@ -126068,7 +126068,7 @@ Greek: αλλ ατινα ην μοι κερδη ταυτα ηγημαι δια �
 Transliteration: all atina hn moi kerdh tauta hghmai dia ton criston zhmian
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But what things were gain to me, those I counted loss for Christ.
+Draft translation: But whatever things were gains to me, these I have counted loss because of Christ.
 
 Decision rows:
 - [TODO add decision rows]
@@ -126168,7 +126168,7 @@ Greek: ουχ οτι ηδη ελαβον η ηδη τετελειωμαι διω
 Transliteration: ouc oti hdh elabon h hdh teteleiwmai diwkw de ei kai katalabw ef w kai katelhfyhn upo tou cristou ihsou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus.
+Draft translation: Not that I already obtained, or have already been perfected: but I press on, if also I may lay hold of that for which also I was laid hold of by Christ Jesus.
 
 Decision rows:
 - [TODO add decision rows]
@@ -126208,7 +126208,7 @@ Greek: κατα σκοπον διωκω επι το βραβειον της αν
 Transliteration: kata skopon diwkw epi to brabeion thv anw klhsewv tou yeou en cristw ihsou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: I press toward the mark for the prize of the high calling of God in Christ Jesus.
+Draft translation: I press toward the goal for the prize of the upward calling of God in Christ Jesus.
 
 Decision rows:
 - [TODO add decision rows]
@@ -126248,7 +126248,7 @@ Greek: πλην εις ο εφθασαμεν τω αυτω στοιχειν κα
 Transliteration: plhn eiv o efyasamen tw autw stoicein kanoni to auto fronein
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing.
+Draft translation: Nevertheless, to what we have attained, let us walk by the same rule, let us mind the same thing.
 
 Decision rows:
 - [TODO add decision rows]
@@ -126288,7 +126288,7 @@ Greek: πολλοι γαρ περιπατουσιν ους πολλακις ελ
 Transliteration: polloi gar peripatousin ouv pollakiv elegon umin nun de kai klaiwn legw touv ecyrouv tou staurou tou cristou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: (For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
+Draft translation: (For many walk, of whom I told you often, and now also tell you weeping, as enemies of the cross of Christ:
 
 Decision rows:
 - [TODO add decision rows]
@@ -126710,7 +126710,7 @@ Greek: απεχω δε παντα και περισσευω πεπληρωμαι
 Transliteration: apecw de panta kai perisseuw peplhrwmai dexamenov para epafroditou ta par umwn osmhn euwdiav yusian dekthn euareston tw yew
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, well-pleasing to God.
+Draft translation: But I have all things, and abound: I am full, having received from Epaphroditus the things from you, an aroma of sweet smell, an acceptable sacrifice, well-pleasing to God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -126730,7 +126730,7 @@ Greek: ο δε θεος μου πληρωσει πασαν χρειαν υμων
 Transliteration: o de yeov mou plhrwsei pasan creian umwn kata ton plouton autou en doxh en cristw ihsou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But my God shall supply all your need according to his riches in glory by Christ Jesus.
+Draft translation: But my God shall fill every need of yours according to his riches in glory in Christ Jesus.
 
 Decision rows:
 - [TODO add decision rows]

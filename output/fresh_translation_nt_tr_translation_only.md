@@ -25492,7 +25492,7 @@ Finally, my brothers, rejoice in the Lord. To write the same things to you, to m
 
 **Philippians 3:2**
 
-Beware of dogs, beware of evil workers, beware of the concision.
+Beware of dogs, beware of evil workers, beware of the mutilation.
 
 **Philippians 3:3**
 
@@ -25512,7 +25512,7 @@ Concerning zeal, persecuting the assembly; concerning the righteousness which is
 
 **Philippians 3:7**
 
-But what things were gain to me, those I counted loss for Christ.
+But whatever things were gains to me, these I have counted loss because of Christ.
 
 **Philippians 3:8**
 
@@ -25532,7 +25532,7 @@ If by any means I might attain to the resurrection of the dead.
 
 **Philippians 3:12**
 
-Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus.
+Not that I already obtained, or have already been perfected: but I press on, if also I may lay hold of that for which also I was laid hold of by Christ Jesus.
 
 **Philippians 3:13**
 
@@ -25540,7 +25540,7 @@ Brothers, I count not myself to have apprehended: but this one thing I do, forge
 
 **Philippians 3:14**
 
-I press toward the mark for the prize of the high calling of God in Christ Jesus.
+I press toward the goal for the prize of the upward calling of God in Christ Jesus.
 
 **Philippians 3:15**
 
@@ -25548,7 +25548,7 @@ Let us therefore, as many as are perfect, be thus minded: and if in anything you
 
 **Philippians 3:16**
 
-Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing.
+Nevertheless, to what we have attained, let us walk by the same rule, let us mind the same thing.
 
 **Philippians 3:17**
 
@@ -25556,7 +25556,7 @@ Brothers, be followers together of me, and mark those who walk so as you have us
 
 **Philippians 3:18**
 
-(For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
+(For many walk, of whom I told you often, and now also tell you weeping, as enemies of the cross of Christ:
 
 **Philippians 3:19**
 
@@ -25642,11 +25642,11 @@ Not because I desire a gift: but I desire fruit that may abound to your account.
 
 **Philippians 4:18**
 
-But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, well-pleasing to God.
+But I have all things, and abound: I am full, having received from Epaphroditus the things from you, an aroma of sweet smell, an acceptable sacrifice, well-pleasing to God.
 
 **Philippians 4:19**
 
-But my God shall supply all your need according to his riches in glory by Christ Jesus.
+But my God shall fill every need of yours according to his riches in glory in Christ Jesus.
 
 **Philippians 4:20**
 

@@ -7668,6 +7668,34 @@ def test_nt_philippians_2_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_philippians_3_to_4_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Philippians 3:2": "Beware of dogs, beware of evil workers, beware of the mutilation.",
+        "Philippians 3:7": "But whatever things were gains to me, these I have counted loss because of Christ.",
+        "Philippians 3:12": "Not that I already obtained, or have already been perfected: but I press on, if also I may lay hold of that for which also I was laid hold of by Christ Jesus.",
+        "Philippians 3:14": "I press toward the goal for the prize of the upward calling of God in Christ Jesus.",
+        "Philippians 3:16": "Nevertheless, to what we have attained, let us walk by the same rule, let us mind the same thing.",
+        "Philippians 3:18": "(For many walk, of whom I told you often, and now also tell you weeping, as enemies of the cross of Christ:",
+        "Philippians 4:18": "But I have all things, and abound: I am full, having received from Epaphroditus the things from you, an aroma of sweet smell, an acceptable sacrifice, well-pleasing to God.",
+        "Philippians 4:19": "But my God shall fill every need of yours according to his riches in glory in Christ Jesus.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_162.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["Philippians 3:19"]["latest_review_status"] == "keep"
+    assert review_by_ref["Philippians 3:19"]["latest_review_pass"] == "nt_review_pass_162.md"
+    assert "Philippians 3:19" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
