@@ -92722,15 +92722,15 @@ And I turned and lifted my eyes and saw, and behold, a flying sickle.
 
 **Zechariah 5:2**
 
-And he said to me, What do you see? And I said, I see a flying sickle, twenty cubits its length and ten cubits its width.
+And he said to me, What do you see? And I said, I see a flying sickle, its length twenty cubits and its width ten cubits.
 
 **Zechariah 5:3**
 
-And he said to me, This is curse going out over the face of all the earth, because every thief will be avenged from this unto death, and every perjurer will be avenged from this unto death.
+And he said to me, This is the curse going out over the face of all the earth, because every thief will be avenged from this unto death, and every perjurer will be avenged from this unto death.
 
 **Zechariah 5:4**
 
-And I will bring it out, says the Lord Almighty, and it will enter the house of the thief and the house of the one swearing falsely by my name, and it will lodge in the midst of his house and consume it, its timbers and its stones.
+And I will bring it forth, says the Lord Almighty, and it will enter the house of the thief and the house of the one swearing falsely by my name, and it will lodge in the midst of his house and consume it, its timbers and its stones.
 
 **Zechariah 5:5**
 
@@ -92738,23 +92738,23 @@ And the angel speaking with me went out and said to me, Lift up your eyes and se
 
 **Zechariah 5:6**
 
-And I said, What is it? And he said, This is measure that goes out. And he said, This is their injustice in all the earth.
+And I said, What is it? And he said, This is the measure that goes out. And he said, This is their injustice in all the earth.
 
 **Zechariah 5:7**
 
-And behold, a talent of lead being lifted, and behold, one woman sat in the midst of measure.
+And behold, a talent of lead was being lifted, and behold, one woman was sitting in the midst of the measure.
 
 **Zechariah 5:8**
 
-And he said, This is lawlessness. And he threw her into the midst of measure and threw lead stone onto its mouth.
+And he said, This is the lawlessness. And he threw her into the midst of the measure and threw the lead stone onto its mouth.
 
 **Zechariah 5:9**
 
-And I lifted my eyes and saw, and behold, two women coming out, and wind in their wings, and they had wings like wings of hoopoe, and they lifted measure between earth and sky.
+And I lifted my eyes and saw, and behold, two women coming out, and wind was in their wings, and they had wings like wings of a hoopoe, and they lifted the measure between the earth and heaven.
 
 **Zechariah 5:10**
 
-And I said to the angel speaking with me, Where are they carrying the measure?
+And I said to the angel speaking with me, Where are they carrying away the measure?
 
 **Zechariah 5:11**
 

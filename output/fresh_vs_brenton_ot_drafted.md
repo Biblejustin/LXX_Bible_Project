@@ -204408,7 +204408,7 @@ Note:
 ### Zechariah 5:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And I turned and lifted my eyes and saw, and behold, a flying sickle.
@@ -204417,28 +204417,28 @@ Note:
 ### Zechariah 5:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, What do you see? And I said, I see a flying sickle, twenty cubits its length and ten cubits its width.
+- fresh: And he said to me, What do you see? And I said, I see a flying sickle, its length twenty cubits and its width ten cubits.
 - brenton: And he said to me, What seest thou? And I said, I see a flying sickle, of the length of twenty cubits, and of the breadth of ten cubits.
 
 ### Zechariah 5:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to me, This is curse going out over the face of all the earth, because every thief will be avenged from this unto death, and every perjurer will be avenged from this unto death.
+- fresh: And he said to me, This is the curse going out over the face of all the earth, because every thief will be avenged from this unto death, and every perjurer will be avenged from this unto death.
 - brenton: And he said to me,
 
 ### Zechariah 5:4
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will bring it out, says the Lord Almighty, and it will enter the house of the thief and the house of the one swearing falsely by my name, and it will lodge in the midst of his house and consume it, its timbers and its stones.
+- fresh: And I will bring it forth, says the Lord Almighty, and it will enter the house of the thief and the house of the one swearing falsely by my name, and it will lodge in the midst of his house and consume it, its timbers and its stones.
 - brenton: And I will bring it forth, saith the Lord Almighty, and it shall enter into the house of the thief, and into the house of him that swears falsely by my name: and it shall rest in the midst of his house, and shall consume it, and the timber of it, and the stones of it.
 
 ### Zechariah 5:5
@@ -204453,52 +204453,52 @@ Note:
 ### Zechariah 5:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said, What is it? And he said, This is measure that goes out. And he said, This is their injustice in all the earth.
+- fresh: And I said, What is it? And he said, This is the measure that goes out. And he said, This is their injustice in all the earth.
 - brenton: And I said, What is it? And he said, This is the measure that goes forth. And he said, This is their iniquity in all the earth.
 
 ### Zechariah 5:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And behold, a talent of lead being lifted, and behold, one woman sat in the midst of measure.
+- fresh: And behold, a talent of lead was being lifted, and behold, one woman was sitting in the midst of the measure.
 - brenton: And behold a talent of lead lifted up: and behold a woman sat in the midst of the measure.
 
 ### Zechariah 5:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, This is lawlessness. And he threw her into the midst of measure and threw lead stone onto its mouth.
+- fresh: And he said, This is the lawlessness. And he threw her into the midst of the measure and threw the lead stone onto its mouth.
 - brenton: And he said, This is iniquity. And he cast it into the midst of the measure, and cast the weight of lead on the mouth of it.
 
 ### Zechariah 5:9
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I lifted my eyes and saw, and behold, two women coming out, and wind in their wings, and they had wings like wings of hoopoe, and they lifted measure between earth and sky.
+- fresh: And I lifted my eyes and saw, and behold, two women coming out, and wind was in their wings, and they had wings like wings of a hoopoe, and they lifted the measure between the earth and heaven.
 - brenton: And I lifted up mine eyes, and saw, and, behold, two women coming forth, and the wind was in their wings; and they had stork's wings: and they lifted up the measure between the earth and the sky.
 
 ### Zechariah 5:10
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said to the angel speaking with me, Where are they carrying the measure?
+- fresh: And I said to the angel speaking with me, Where are they carrying away the measure?
 - brenton: And I said to the angel that spoke with me, Whither do these carry away the measure?
 
 ### Zechariah 5:11
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And he said to me, To build a house for it in the land of Babylon, and prepare it, and they will set it there on its prepared base.
