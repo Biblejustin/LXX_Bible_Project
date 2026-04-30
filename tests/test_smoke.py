@@ -7529,6 +7529,27 @@ def test_nt_galatians_5_to_6_queue_revisions_and_keep_stay_reviewed() -> None:
     assert "Galatians 5:9" not in queue_refs
 
 
+def test_nt_ephesians_1_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Ephesians 1:10": "For the dispensation of the fullness of the times, to sum up all things in Christ, the things in the heavens and the things on the earth, in him:",
+        "Ephesians 1:11": "In whom also we obtained an inheritance, being predestined according to the purpose of him who works all things according to the counsel of his will:",
+        "Ephesians 1:12": "that we should be to the praise of his glory, we who first hoped in Christ.",
+        "Ephesians 1:16": "I do not cease giving thanks for you, making mention of you in my prayers;",
+        "Ephesians 1:19": "And what is the surpassing greatness of his power toward us who believe, according to the working of the might of his strength,",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_156.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

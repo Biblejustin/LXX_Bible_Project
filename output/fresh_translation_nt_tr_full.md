@@ -121810,7 +121810,7 @@ Greek: εις οικονομιαν του πληρωματος των καιρω
 Transliteration: eiv oikonomian tou plhrwmatov twn kairwn anakefalaiwsasyai ta panta en tw cristw ta te en toiv ouranoiv kai ta epi thv ghv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: That in the dispensation of the fullness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:
+Draft translation: For the dispensation of the fullness of the times, to sum up all things in Christ, the things in the heavens and the things on the earth, in him:
 
 Decision rows:
 - [TODO add decision rows]
@@ -121830,7 +121830,7 @@ Greek: εν αυτω εν ω και εκληρωθημεν προορισθεν�
 Transliteration: en autw en w kai eklhrwyhmen proorisyentev kata proyesin tou ta panta energountov kata thn boulhn tou yelhmatov autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: In whom also we have obtained an inheritance, being predestinated according to the purpose of him who works all things after the counsel of his own will:
+Draft translation: In whom also we obtained an inheritance, being predestined according to the purpose of him who works all things according to the counsel of his will:
 
 Decision rows:
 - [TODO add decision rows]
@@ -121850,7 +121850,7 @@ Greek: εις το ειναι ημας εις επαινον της δοξης �
 Transliteration: eiv to einai hmav eiv epainon thv doxhv autou touv prohlpikotav en tw cristw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: That we should be to the praise of his glory, who first trusted in Christ.
+Draft translation: that we should be to the praise of his glory, we who first hoped in Christ.
 
 Decision rows:
 - [TODO add decision rows]
@@ -121930,7 +121930,7 @@ Greek: ου παυομαι ευχαριστων υπερ υμων μνειαν �
 Transliteration: ou pauomai eucaristwn uper umwn mneian umwn poioumenov epi twn proseucwn mou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Cease not to give thanks for you, making mention of you in my prayers;
+Draft translation: I do not cease giving thanks for you, making mention of you in my prayers;
 
 Decision rows:
 - [TODO add decision rows]
@@ -121990,7 +121990,7 @@ Greek: και τι το υπερβαλλον μεγεθος της δυναμε�
 Transliteration: kai ti to uperballon megeyov thv dunamewv autou eiv hmav touv pisteuontav kata thn energeian tou kratouv thv iscuov autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And what is the exceeding greatness of his power toward us who believe, according to the working of his mighty power,
+Draft translation: And what is the surpassing greatness of his power toward us who believe, according to the working of the might of his strength,
 
 Decision rows:
 - [TODO add decision rows]

@@ -24646,15 +24646,15 @@ Having made known to us the mystery of his will, according to his good pleasure 
 
 **Ephesians 1:10**
 
-That in the dispensation of the fullness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:
+For the dispensation of the fullness of the times, to sum up all things in Christ, the things in the heavens and the things on the earth, in him:
 
 **Ephesians 1:11**
 
-In whom also we have obtained an inheritance, being predestinated according to the purpose of him who works all things after the counsel of his own will:
+In whom also we obtained an inheritance, being predestined according to the purpose of him who works all things according to the counsel of his will:
 
 **Ephesians 1:12**
 
-That we should be to the praise of his glory, who first trusted in Christ.
+that we should be to the praise of his glory, we who first hoped in Christ.
 
 **Ephesians 1:13**
 
@@ -24670,7 +24670,7 @@ Therefore I also, after I heard of your faith in the Lord Jesus, and love to all
 
 **Ephesians 1:16**
 
-Cease not to give thanks for you, making mention of you in my prayers;
+I do not cease giving thanks for you, making mention of you in my prayers;
 
 **Ephesians 1:17**
 
@@ -24682,7 +24682,7 @@ The eyes of your understanding being enlightened; that you may know what is the 
 
 **Ephesians 1:19**
 
-And what is the exceeding greatness of his power toward us who believe, according to the working of his mighty power,
+And what is the surpassing greatness of his power toward us who believe, according to the working of the might of his strength,
 
 **Ephesians 1:20**
 
