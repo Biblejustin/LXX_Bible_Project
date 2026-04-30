@@ -92888,7 +92888,7 @@ And the word of the Lord Almighty came, saying,
 
 **Zechariah 8:2**
 
-Thus says the Lord Almighty: I have been jealous for Zion with great jealousy, and in great wrath I was jealous for her.
+Thus says the Lord Almighty: I have been jealous for Jerusalem and for Zion with great jealousy, and with great wrath I was jealous for her.
 
 **Zechariah 8:3**
 
@@ -92896,11 +92896,11 @@ Thus says the Lord: I will return to Zion and dwell in the midst of Jerusalem, a
 
 **Zechariah 8:4**
 
-Thus says the Lord Almighty: Old men and old women will again dwell in the streets of Jerusalem, each with staff in hand because of multitude of days.
+Thus says the Lord Almighty: Old men and old women will again dwell in the streets of Jerusalem, each having his staff in his hand because of multitude of days.
 
 **Zechariah 8:5**
 
-And city's streets will be filled with boys and girls playing in its streets.
+And the streets of the city will be filled with boys and girls playing in its streets.
 
 **Zechariah 8:6**
 
@@ -92908,19 +92908,19 @@ Thus says the Lord Almighty: If this is impossible before the remnant of this pe
 
 **Zechariah 8:7**
 
-Thus says the Lord Almighty: Behold, I save my people from the land of east and from the land of setting sun,
+Thus says the Lord Almighty: Behold, I save my people from the land of the east and from the land of the west,
 
 **Zechariah 8:8**
 
-and I will bring them in, and they will dwell in the midst of Jerusalem, and they will be my people, and I will be their God in truth and righteousness.
+and I will bring them in, and I will dwell in the midst of Jerusalem, and they will be my people, and I will be their God in truth and righteousness.
 
 **Zechariah 8:9**
 
-Thus says the Lord Almighty: Let your hands be strengthened, you hearing in these days these words from the mouth of prophets, from days when house of the Lord Almighty was founded and temple was for building.
+Thus says the Lord Almighty: Let your hands be strengthened, you who hear in these days these words from the mouth of the prophets, from the day when the house of the Lord Almighty was founded, and from when the temple was built.
 
 **Zechariah 8:10**
 
-Because before those days wages of humans were not for profit, and wages of cattle were not, and for one going out and coming in there was no peace from enemy, and I sent all humans, each against his neighbor.
+Because before those days the wage of humans was not for profit, and the wage of cattle did not exist, and for the one going out and the one coming in there was no peace from the affliction, and I will send out all humans, each against his neighbor.
 
 **Zechariah 8:11**
 
@@ -92928,11 +92928,11 @@ And now I will not be to the remnant of this people as in former days, says the 
 
 **Zechariah 8:12**
 
-Because I will show peace: the vine will give its fruit, the land will give its produce, and heaven will give its dew, and I will give all these things to the remnant of my people to inherit.
+But I will show peace: the vine will give its fruit, the land will give its produce, and the heaven will give its dew, and I will cause the remnant of my people to inherit all these things.
 
 **Zechariah 8:13**
 
-And it will be, just as you were a curse among nations, house of Judah and house of Israel, so I will save you and you will be a blessing. Take courage, and let your hands be strengthened.
+And it will be, just as you were a curse among the nations, O house of Judah and house of Israel, so I will save you and you will be a blessing. Take courage, and let your hands be strengthened.
 
 **Zechariah 8:14**
 
@@ -92940,15 +92940,15 @@ Because thus says the Lord Almighty: Just as I purposed to afflict you when your
 
 **Zechariah 8:15**
 
-so I have turned and purposed in these days to do good to Jerusalem and the house of Judah. Take courage.
+so I have set myself and purposed in these days to do good to Jerusalem and to the house of Judah. Take courage.
 
 **Zechariah 8:16**
 
-These are things you must do: Speak truth, each to his neighbor; judge truth and judgment of peace in your gates.
+These are the words you shall do: Speak truth, each to his neighbor, and judge peaceful judgment in your gates.
 
 **Zechariah 8:17**
 
-And let none remember evil of his neighbor in your hearts, and do not love false oath, because all these I hated, says the Lord Almighty.
+And let each not reckon evil against his neighbor in your hearts, and do not love a false oath, because all these things I hated, says the Lord Almighty.
 
 **Zechariah 8:18**
 
@@ -92956,11 +92956,11 @@ And the word of the Lord Almighty came to me, saying,
 
 **Zechariah 8:19**
 
-Thus says the Lord Almighty: The fast of the fourth and the fast of the fifth and the fast of the seventh and the fast of the tenth will be to the house of Judah for joy and gladness and good feasts; and love truth and peace.
+Thus says the Lord Almighty: The fast of the fourth and the fast of the fifth and the fast of the seventh and the fast of the tenth will be to the house of Judah for joy and gladness and good feasts, and you will rejoice; and love truth and peace.
 
 **Zechariah 8:20**
 
-Thus says the Lord Almighty: Peoples will still come, and inhabitants of many cities.
+Thus says the Lord Almighty: Many peoples will still come, and those inhabiting many cities.
 
 **Zechariah 8:21**
 
@@ -92968,11 +92968,11 @@ And inhabitants of five cities will come together to one city, saying, Let us go
 
 **Zechariah 8:22**
 
-And many peoples and many nations will come to seek the face of the Lord Almighty in Jerusalem and to make supplication before the Lord.
+And many peoples and many nations will come to seek the face of the Lord Almighty in Jerusalem and to make atonement before the Lord.
 
 **Zechariah 8:23**
 
-Thus says the Lord Almighty: In those days ten men from every language of nations will seize hem of a Jewish man, saying, We will go with you, because we heard that God is with you.
+Thus says the Lord Almighty: In those days, if ten men from all the languages of the nations take hold, they will take hold of the hem of a Jewish man, saying, We will go with you, because we heard that God is with you.
 
 ### Chapter 9
 

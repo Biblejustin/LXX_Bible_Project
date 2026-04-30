@@ -11,7 +11,7 @@ Policy:
 
 ## Included Top Rows
 
-- `Jerusalem` (place, 657x, first Joshua 10:1) — logos_primary_place_atlas_link_preserved
+- `Jerusalem` (place, 658x, first Joshua 10:1) — logos_primary_place_atlas_link_preserved
 - `Egypt` (transliterated_form, 587x, first Genesis 12:10) — not_classified
 - `Christ` (person, 571x, first Matthew 1:1) — logos_primary_entity
 - `Babylon` (place, 249x, first Genesis 10:10) — logos_primary_place_atlas_link_preserved

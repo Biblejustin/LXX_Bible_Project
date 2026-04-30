@@ -204777,10 +204777,10 @@ Note:
 ### Zechariah 8:2
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: I have been jealous for Zion with great jealousy, and in great wrath I was jealous for her.
+- fresh: Thus says the Lord Almighty: I have been jealous for Jerusalem and for Zion with great jealousy, and with great wrath I was jealous for her.
 - brenton: Thus saith the Lord Almighty; I have been jealous for Jerusalem and for Sion with great jealousy, and I have been jealous for her with great fury.
 
 ### Zechariah 8:3
@@ -204795,19 +204795,19 @@ Note:
 ### Zechariah 8:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: Old men and old women will again dwell in the streets of Jerusalem, each with staff in hand because of multitude of days.
+- fresh: Thus says the Lord Almighty: Old men and old women will again dwell in the streets of Jerusalem, each having his staff in his hand because of multitude of days.
 - brenton: Thus saith the Lord Almighty; There shall yet dwell old men and old women in the streets of Jerusalem, every one holding his staff in his hand for age.
 
 ### Zechariah 8:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And city's streets will be filled with boys and girls playing in its streets.
+- fresh: And the streets of the city will be filled with boys and girls playing in its streets.
 - brenton: And the broad places of the city shall be filled with boys and girls playing in the streets thereof.
 
 ### Zechariah 8:6
@@ -204822,37 +204822,37 @@ Note:
 ### Zechariah 8:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: Behold, I save my people from the land of east and from the land of setting sun,
+- fresh: Thus says the Lord Almighty: Behold, I save my people from the land of the east and from the land of the west,
 - brenton: Thus saith the Lord Almighty; Behold, I will save my people from the east country, and the west country;
 
 ### Zechariah 8:8
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: and I will bring them in, and they will dwell in the midst of Jerusalem, and they will be my people, and I will be their God in truth and righteousness.
+- fresh: and I will bring them in, and I will dwell in the midst of Jerusalem, and they will be my people, and I will be their God in truth and righteousness.
 - brenton: and I will bring them in, and cause them to dwell in the midst of Jerusalem: and they shall be to me a people, and I will be to them a God, in truth and in righteousness.
 
 ### Zechariah 8:9
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: Let your hands be strengthened, you hearing in these days these words from the mouth of prophets, from days when house of the Lord Almighty was founded and temple was for building.
+- fresh: Thus says the Lord Almighty: Let your hands be strengthened, you who hear in these days these words from the mouth of the prophets, from the day when the house of the Lord Almighty was founded, and from when the temple was built.
 - brenton: Thus saith the Lord Almighty; Let your hands be strong, ye that hear in these days these words out of the mouth of the prophets, from the day that the house of the Lord Almighty was founded, and from the time that the temple was built.
 
 ### Zechariah 8:10
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Because before those days wages of humans were not for profit, and wages of cattle were not, and for one going out and coming in there was no peace from enemy, and I sent all humans, each against his neighbor.
+- fresh: Because before those days the wage of humans was not for profit, and the wage of cattle did not exist, and for the one going out and the one coming in there was no peace from the affliction, and I will send out all humans, each against his neighbor.
 - brenton: For before those days the wages of men could not be profitable, and there could be no hire of cattle, and there could be no peace by reason of the affliction to him that went out or to him that came in: for I would have let loose all men, every one against his neighbour.
 
 ### Zechariah 8:11
@@ -204867,19 +204867,19 @@ Note:
 ### Zechariah 8:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Because I will show peace: the vine will give its fruit, the land will give its produce, and heaven will give its dew, and I will give all these things to the remnant of my people to inherit.
+- fresh: But I will show peace: the vine will give its fruit, the land will give its produce, and the heaven will give its dew, and I will cause the remnant of my people to inherit all these things.
 - brenton: But I will shew peace: the vine shall yield her fruit, and the land shall yield her produce, and the heaven shall give its dew: and I will give as an inheritance all these things to the remnant of my people.
 
 ### Zechariah 8:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it will be, just as you were a curse among nations, house of Judah and house of Israel, so I will save you and you will be a blessing. Take courage, and let your hands be strengthened.
+- fresh: And it will be, just as you were a curse among the nations, O house of Judah and house of Israel, so I will save you and you will be a blessing. Take courage, and let your hands be strengthened.
 - brenton: And it shall come to pass, as ye were a curse among the nations, O house of Juda, and house of Israel; so will I save you, and ye shall be a blessing: be of good courage, and strengthen your hands.
 
 ### Zechariah 8:14
@@ -204894,28 +204894,28 @@ Note:
 ### Zechariah 8:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: so I have turned and purposed in these days to do good to Jerusalem and the house of Judah. Take courage.
+- fresh: so I have set myself and purposed in these days to do good to Jerusalem and to the house of Judah. Take courage.
 - brenton: so have I prepared and taken counsel in these days to do good to Jerusalem and to the house of Juda: be ye of good courage.
 
 ### Zechariah 8:16
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: These are things you must do: Speak truth, each to his neighbor; judge truth and judgment of peace in your gates.
+- fresh: These are the words you shall do: Speak truth, each to his neighbor, and judge peaceful judgment in your gates.
 - brenton: These are the things which ye shall do; speak truth every one with his neighbour; judge truth and peaceable judgment in your gates:
 
 ### Zechariah 8:17
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: And let none remember evil of his neighbor in your hearts, and do not love false oath, because all these I hated, says the Lord Almighty.
+- fresh: And let each not reckon evil against his neighbor in your hearts, and do not love a false oath, because all these things I hated, says the Lord Almighty.
 - brenton: and let none of you devise evil in his heart against his neighbour; and love not a false oath: for all these things I hate, saith the Lord Almighty.
 
 ### Zechariah 8:18
@@ -204930,19 +204930,19 @@ Note:
 ### Zechariah 8:19
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: The fast of the fourth and the fast of the fifth and the fast of the seventh and the fast of the tenth will be to the house of Judah for joy and gladness and good feasts; and love truth and peace.
+- fresh: Thus says the Lord Almighty: The fast of the fourth and the fast of the fifth and the fast of the seventh and the fast of the tenth will be to the house of Judah for joy and gladness and good feasts, and you will rejoice; and love truth and peace.
 - brenton: Thus saith the Lord Almighty, The fourth fast, and the fifth fast, and the seventh fast, and the tenth fast, shall be to the house of Juda for joy and gladness, and for good feasts; and ye shall rejoice; and love ye the truth and peace.
 
 ### Zechariah 8:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: Peoples will still come, and inhabitants of many cities.
+- fresh: Thus says the Lord Almighty: Many peoples will still come, and those inhabiting many cities.
 - brenton: Thus saith the Lord Almighty; Yet shall many peoples come, and the inhabitants of many cities;
 
 ### Zechariah 8:21
@@ -204957,19 +204957,19 @@ Note:
 ### Zechariah 8:22
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 1
+- footnotes: 2
 - same_normalized: no
-- fresh: And many peoples and many nations will come to seek the face of the Lord Almighty in Jerusalem and to make supplication before the Lord.
+- fresh: And many peoples and many nations will come to seek the face of the Lord Almighty in Jerusalem and to make atonement before the Lord.
 - brenton: And many peoples and many nations shall come to seek earnestly the face of the Lord Almighty in Jerusalem, and to obtain favour of the Lord.
 
 ### Zechariah 8:23
 
 - importance: high
-- decisions: 0
-- footnotes: 1
+- decisions: 2
+- footnotes: 2
 - same_normalized: no
-- fresh: Thus says the Lord Almighty: In those days ten men from every language of nations will seize hem of a Jewish man, saying, We will go with you, because we heard that God is with you.
+- fresh: Thus says the Lord Almighty: In those days, if ten men from all the languages of the nations take hold, they will take hold of the hem of a Jewish man, saying, We will go with you, because we heard that God is with you.
 - brenton: Thus saith the Lord Almighty; In those days my word shall be fulfilled if ten men of all the languages of the nations should take hold—even take hold of the hem of a Jew, saying, We will go with thee; for we have heard that God is with you.
 
 ### Zechariah 9:1
