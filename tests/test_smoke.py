@@ -4060,7 +4060,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     )
     assert "became a torment of their injustices" in by_ref["Ezekiel 7:19"]["draft_translation"]
     assert by_ref["Zechariah 14:15"]["draft_translation"].startswith(
-        "And this will be the downfall of horses"
+        "And this will be the downfall of the horses"
     )
     assert "which is a city of Scythians" in by_ref["Judges 1:27"]["draft_translation"]
     assert "She is the mother of Onam" in by_ref["1 Chronicles 2:26"]["draft_translation"]
