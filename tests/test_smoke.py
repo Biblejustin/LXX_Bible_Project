@@ -100,6 +100,23 @@ def test_review_csv_shapes() -> None:
     assert footnote_statuses <= {"", "approved", "drafted", "reviewed", "todo"}
 
 
+def test_tracked_text_files_use_lf_line_endings() -> None:
+    result = subprocess.run(
+        ["git", "ls-files", "--eol"],
+        cwd=ROOT,
+        text=True,
+        capture_output=True,
+        check=True,
+    )
+    offenders = [
+        line
+        for line in result.stdout.splitlines()
+        if " w/mixed " in line or " w/crlf " in line or line.startswith("i/mixed ")
+    ]
+    assert not offenders
+    assert "*.csv text eol=lf" in (ROOT / ".gitattributes").read_text(encoding="utf-8")
+
+
 def test_joshua_19_38_keeps_complete_lxx_name_list() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")}
     decisions_by_ref = {
