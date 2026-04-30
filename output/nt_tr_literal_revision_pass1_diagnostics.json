@@ -542,7 +542,9 @@
     "modernized lived-not wording": 1
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
-  "review_queue_rows": 1147,
+  "review_queue_rows": 526,
+  "needs_focused_tr_review_rows": 1147,
+  "review_queue_resolved_by_pass": 621,
   "examples": {
     "manual TR literal override": [
       {

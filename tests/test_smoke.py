@@ -7242,6 +7242,26 @@ def test_nt_review_priority_queue_is_empty() -> None:
     assert diagnostics["queue_rows"] == 0
 
 
+def test_nt_literal_revision_queue_excludes_reviewed_pass_refs() -> None:
+    script_path = ROOT / "scripts" / "apply_nt_tr_literal_revision.py"
+    spec = importlib.util.spec_from_file_location("apply_nt_tr_literal_revision", script_path)
+    module = importlib.util.module_from_spec(spec)
+    assert spec.loader is not None
+    sys.modules[spec.name] = module
+    spec.loader.exec_module(module)
+
+    latest_statuses = module.load_latest_review_statuses()
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    diagnostics = json.loads(
+        (ROOT / "output/nt_tr_literal_revision_pass1_diagnostics.json").read_text(encoding="utf-8")
+    )
+
+    assert latest_statuses["Matthew 2:3"] == "keep"
+    assert "Matthew 2:3" not in queue_refs
+    assert diagnostics["review_queue_rows"] == len(queue_refs)
+    assert diagnostics["review_queue_resolved_by_pass"] >= 600
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

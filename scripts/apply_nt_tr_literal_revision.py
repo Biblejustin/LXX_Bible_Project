@@ -16,8 +16,11 @@ ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SOURCE = ROOT / "data" / "raw" / "tr_greek" / "nt_full.csv"
 DEFAULT_REPORT = ROOT / "output" / "nt_tr_literal_revision_pass1_diagnostics.json"
 DEFAULT_REVIEW_QUEUE = ROOT / "output" / "nt_tr_literal_revision_review_queue.csv"
+REVIEW_DIR = ROOT / "data" / "research"
 
 REVIEW_COLUMNS = ["ukjv_translation", "review_status", "review_notes"]
+RESOLVED_REVIEW_STATUSES = {"keep", "revised"}
+REVIEW_PASS_RE = re.compile(r"nt_review_pass_(\d+)\.md$")
 STRONGS_MARKER_RE = re.compile(r"\s*\([a-z]\.\s*[^)]*\)")
 SPACE_RE = re.compile(r"\s+")
 SPACE_BEFORE_PUNCT_RE = re.compile(r"\s+([,.;:?!])")
@@ -167,6 +170,25 @@ def write_rows(path: Path, rows: list[dict[str, str]], fieldnames: list[str]) ->
         writer.writeheader()
         for row in rows:
             writer.writerow({field: row.get(field, "") for field in fieldnames})
+
+
+def review_pass_sort_key(path: Path) -> tuple[int, str]:
+    match = REVIEW_PASS_RE.search(path.name)
+    return (int(match.group(1)), path.name) if match else (0, path.name)
+
+
+def load_latest_review_statuses() -> dict[str, str]:
+    statuses: dict[str, str] = {}
+    for path in sorted(REVIEW_DIR.glob("nt_review_pass_*.md"), key=review_pass_sort_key):
+        ref = ""
+        for raw in path.read_text(encoding="utf-8").splitlines():
+            line = raw.strip()
+            if line.startswith("## "):
+                ref = line[3:].strip()
+            elif ref and line.startswith("- status:"):
+                match = re.search(r"`([^`]+)`", line)
+                statuses[ref] = match.group(1) if match else line.split(":", 1)[1].strip()
+    return statuses
 
 
 def replace_literal(
@@ -4377,7 +4399,11 @@ def revise_row(row: dict[str, str]) -> tuple[str, list[str], str]:
     return text, ["UKJV seed retained; needs focused Greek review"], "needs_focused_tr_review"
 
 
-def write_review_queue(path: Path, rows: list[dict[str, str]]) -> None:
+def write_review_queue(
+    path: Path,
+    rows: list[dict[str, str]],
+    latest_review_statuses: dict[str, str],
+) -> dict[str, int]:
     path.parent.mkdir(parents=True, exist_ok=True)
     fieldnames = [
         "ref",
@@ -4388,13 +4414,20 @@ def write_review_queue(path: Path, rows: list[dict[str, str]]) -> None:
         "review_status",
         "review_notes",
     ]
+    written = 0
+    resolved_by_pass = 0
     with path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         for row in rows:
             if row.get("review_status") != "needs_focused_tr_review":
                 continue
+            if latest_review_statuses.get(row.get("ref", "")) in RESOLVED_REVIEW_STATUSES:
+                resolved_by_pass += 1
+                continue
             writer.writerow({field: row.get(field, "") for field in fieldnames})
+            written += 1
+    return {"written": written, "resolved_by_pass": resolved_by_pass}
 
 
 def main() -> None:
@@ -4435,8 +4468,9 @@ def main() -> None:
                     }
                 )
 
+    latest_review_statuses = load_latest_review_statuses()
     write_rows(args.source, rows, fieldnames)
-    write_review_queue(args.review_queue, rows)
+    queue_counts = write_review_queue(args.review_queue, rows, latest_review_statuses)
     diagnostics = {
         "method": "TR literal draft is primary in draft_translation; UKJV is preserved only as ukjv_translation witness.",
         "source": str(args.source),
@@ -4445,7 +4479,9 @@ def main() -> None:
         "changed_by_book": dict(changed_by_book),
         "rule_counts": dict(rule_counts),
         "review_queue": str(args.review_queue),
-        "review_queue_rows": status_counts.get("needs_focused_tr_review", 0),
+        "review_queue_rows": queue_counts["written"],
+        "needs_focused_tr_review_rows": status_counts.get("needs_focused_tr_review", 0),
+        "review_queue_resolved_by_pass": queue_counts["resolved_by_pass"],
         "examples": examples,
     }
     args.report.parent.mkdir(parents=True, exist_ok=True)
