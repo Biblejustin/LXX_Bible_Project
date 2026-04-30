@@ -8205,6 +8205,35 @@ def test_nt_hebrews_11_1_to_18_queue_revisions_stay_reviewed() -> None:
     assert "Hebrews 11:1" not in queue_refs
 
 
+def test_nt_hebrews_11_20_to_40_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Hebrews 11:22": "By faith Joseph, when dying, made mention concerning the exodus of the children of Israel; and gave command concerning his bones.",
+        "Hebrews 11:23": "By faith Moses, when he was born, was hidden three months by his parents, because they saw he was a beautiful child; and they were not afraid of the king's decree.",
+        "Hebrews 11:25": "choosing rather to suffer affliction with the people of God than to have temporary enjoyment of sin;",
+        "Hebrews 11:27": "By faith he left Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.",
+        "Hebrews 11:29": "By faith they passed through the Red Sea as through dry land: which the Egyptians, attempting, were swallowed.",
+        "Hebrews 11:30": "By faith the walls of Jericho fell, having been encircled for seven days.",
+        "Hebrews 11:35": "Women received their dead by resurrection: and others were tortured, not accepting release; that they might obtain a better resurrection:",
+        "Hebrews 11:38": "of whom the world was not worthy, wandering in deserts, and mountains, and caves, and holes of the earth.",
+        "Hebrews 11:40": "God having provided something better concerning us, that they should not be made perfect without us.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_180.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["Hebrews 11:20"]["latest_review_status"] == "keep"
+    assert review_by_ref["Hebrews 11:20"]["latest_review_pass"] == "nt_review_pass_180.md"
+    assert "Hebrews 11:20" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

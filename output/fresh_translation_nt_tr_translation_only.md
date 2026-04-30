@@ -28668,11 +28668,11 @@ By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshi
 
 **Hebrews 11:22**
 
-By faith Joseph, when he died, made mention of the departing of the children of Israel; and gave commandment concerning his bones.
+By faith Joseph, when dying, made mention concerning the exodus of the children of Israel; and gave command concerning his bones.
 
 **Hebrews 11:23**
 
-By faith Moses, when he was born, was hid three months of his parents, because they saw he was a proper child; and they were not afraid of the king's commandment.
+By faith Moses, when he was born, was hidden three months by his parents, because they saw he was a beautiful child; and they were not afraid of the king's decree.
 
 **Hebrews 11:24**
 
@@ -28680,7 +28680,7 @@ By faith Moses, when he had come to years, refused to be called the son of Phara
 
 **Hebrews 11:25**
 
-Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;
+choosing rather to suffer affliction with the people of God than to have temporary enjoyment of sin;
 
 **Hebrews 11:26**
 
@@ -28688,7 +28688,7 @@ Esteeming the reproach of Christ greater riches than the treasures in Egypt: for
 
 **Hebrews 11:27**
 
-By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.
+By faith he left Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.
 
 **Hebrews 11:28**
 
@@ -28696,11 +28696,11 @@ Through faith he kept the Passover, and the sprinkling of blood, lest the one wh
 
 **Hebrews 11:29**
 
-By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were drowned.
+By faith they passed through the Red Sea as through dry land: which the Egyptians, attempting, were swallowed.
 
 **Hebrews 11:30**
 
-By faith the walls of Jericho fell down, after they were compassed about seven days.
+By faith the walls of Jericho fell, having been encircled for seven days.
 
 **Hebrews 11:31**
 
@@ -28720,7 +28720,7 @@ Quenched the violence of fire, escaped the edge of the sword, out of weakness we
 
 **Hebrews 11:35**
 
-Women received their dead raised to life again: and others were tortured, not accepting deliverance; that they might obtain a better resurrection:
+Women received their dead by resurrection: and others were tortured, not accepting release; that they might obtain a better resurrection:
 
 **Hebrews 11:36**
 
@@ -28732,7 +28732,7 @@ They were stoned, they were sawn asunder, were tempted, were killed with the swo
 
 **Hebrews 11:38**
 
-(Of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth.
+of whom the world was not worthy, wandering in deserts, and mountains, and caves, and holes of the earth.
 
 **Hebrews 11:39**
 
@@ -28740,7 +28740,7 @@ And these all, having obtained a good report through faith, did not receive the 
 
 **Hebrews 11:40**
 
-God having provided some better thing for us, that they without us should not be made perfect.
+God having provided something better concerning us, that they should not be made perfect without us.
 
 ### Chapter 12
 

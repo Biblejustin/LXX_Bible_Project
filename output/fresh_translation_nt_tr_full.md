@@ -141480,7 +141480,7 @@ Greek: πιστει ιωσηφ τελευτων περι της εξοδου τ�
 Transliteration: pistei iwshf teleutwn peri thv exodou twn uiwn israhl emnhmoneusen kai peri twn ostewn autou eneteilato
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: By faith Joseph, when he died, made mention of the departing of the children of Israel; and gave commandment concerning his bones.
+Draft translation: By faith Joseph, when dying, made mention concerning the exodus of the children of Israel; and gave command concerning his bones.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141500,7 +141500,7 @@ Greek: πιστει μωσης γεννηθεις εκρυβη τριμηνον 
 Transliteration: pistei mwshv gennhyeiv ekrubh trimhnon upo twn paterwn autou dioti eidon asteion to paidion kai ouk efobhyhsan to diatagma tou basilewv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: By faith Moses, when he was born, was hid three months of his parents, because they saw he was a proper child; and they were not afraid of the king's commandment.
+Draft translation: By faith Moses, when he was born, was hidden three months by his parents, because they saw he was a beautiful child; and they were not afraid of the king's decree.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141540,7 +141540,7 @@ Greek: μαλλον ελομενος συγκακουχεισθαι τω λαω 
 Transliteration: mallon elomenov sugkakouceisyai tw law tou yeou h proskairon ecein amartiav apolausin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;
+Draft translation: choosing rather to suffer affliction with the people of God than to have temporary enjoyment of sin;
 
 Decision rows:
 - [TODO add decision rows]
@@ -141580,7 +141580,7 @@ Greek: πιστει κατελιπεν αιγυπτον μη φοβηθεις τ
 Transliteration: pistei katelipen aigupton mh fobhyeiv ton yumon tou basilewv ton gar aoraton wv orwn ekarterhsen
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.
+Draft translation: By faith he left Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141620,7 +141620,7 @@ Greek: πιστει διεβησαν την ερυθραν θαλασσαν ως
 Transliteration: pistei diebhsan thn eruyran yalassan wv dia xhrav hv peiran labontev oi aiguptioi katepoyhsan
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were drowned.
+Draft translation: By faith they passed through the Red Sea as through dry land: which the Egyptians, attempting, were swallowed.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141640,7 +141640,7 @@ Greek: πιστει τα τειχη ιεριχω επεσεν κυκλωθεντ
 Transliteration: pistei ta teich iericw epesen kuklwyenta epi epta hmerav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: By faith the walls of Jericho fell down, after they were compassed about seven days.
+Draft translation: By faith the walls of Jericho fell, having been encircled for seven days.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141740,7 +141740,7 @@ Greek: ελαβον γυναικες εξ αναστασεως τους νεκρ
 Transliteration: elabon gunaikev ex anastasewv touv nekrouv autwn alloi de etumpanisyhsan ou prosdexamenoi thn apolutrwsin ina kreittonov anastasewv tucwsin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Women received their dead raised to life again: and others were tortured, not accepting deliverance; that they might obtain a better resurrection:
+Draft translation: Women received their dead by resurrection: and others were tortured, not accepting release; that they might obtain a better resurrection:
 
 Decision rows:
 - [TODO add decision rows]
@@ -141800,7 +141800,7 @@ Greek: ων ουκ ην αξιος ο κοσμος εν ερημιαις πλα�
 Transliteration: wn ouk hn axiov o kosmov en erhmiaiv planwmenoi kai oresin kai sphlaioiv kai taiv opaiv thv ghv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: (Of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth.
+Draft translation: of whom the world was not worthy, wandering in deserts, and mountains, and caves, and holes of the earth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141840,7 +141840,7 @@ Greek: του θεου περι ημων κρειττον τι προβλεψα�
 Transliteration: tou yeou peri hmwn kreitton ti probleqamenou ina mh cwriv hmwn teleiwywsin
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: God having provided some better thing for us, that they without us should not be made perfect.
+Draft translation: God having provided something better concerning us, that they should not be made perfect without us.
 
 Decision rows:
 - [TODO add decision rows]
