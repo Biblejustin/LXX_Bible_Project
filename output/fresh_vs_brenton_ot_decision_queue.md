@@ -1,8 +1,8 @@
-# OT Decision Queue
+# OT Decision Audit
 
 Rows: 234
 
-Only verses with tracked decision rows or footnotes.
+These rows are retained as a reviewed decision/footnote audit trail, not an open blocker queue.
 
 - 1. Exodus 20:24 | score 35 | decisions 3 | footnotes 3 | keep
 - 2. Leviticus 4:31 | score 34 | decisions 2 | footnotes 2 | keep

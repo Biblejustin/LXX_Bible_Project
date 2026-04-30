@@ -65,12 +65,12 @@ def build_markdown(rows: list[dict[str, str]]) -> str:
                 by_theme[theme].append(row)
 
     lines = [
-        "# OT Review Queue",
+        "# OT Priority Review Audit",
         "",
         f"Rows: {len(rows)}",
         "",
-        "Use CSV for edits.",
-        "Use MD for reading order.",
+        "These rows are retained as a high-priority audit trail, not an open blocker queue.",
+        "Open blockers are tracked by the watch files and release-hardening report.",
         "",
         "## Theme Counts",
     ]
@@ -78,7 +78,7 @@ def build_markdown(rows: list[dict[str, str]]) -> str:
         lines.append(f"- {theme}: {len(theme_rows)}")
 
     lines.append("")
-    lines.append("## Top 50")
+    lines.append("## Top 50 Resolved Priority Rows")
     for row in rows[:50]:
         lines.append(
             f"- {row['order']}. {row['ref']} | score {row['priority_score']} | "

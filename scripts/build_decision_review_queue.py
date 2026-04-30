@@ -62,11 +62,11 @@ def write_csv(path: Path, rows: list[dict[str, str]]) -> None:
 
 def build_markdown(rows: list[dict[str, str]]) -> str:
     lines = [
-        "# OT Decision Queue",
+        "# OT Decision Audit",
         "",
         f"Rows: {len(rows)}",
         "",
-        "Only verses with tracked decision rows or footnotes.",
+        "These rows are retained as a reviewed decision/footnote audit trail, not an open blocker queue.",
         "",
     ]
     for row in rows[:60]:

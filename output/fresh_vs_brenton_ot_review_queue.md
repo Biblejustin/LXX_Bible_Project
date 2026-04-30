@@ -1,9 +1,9 @@
-# OT Review Queue
+# OT Priority Review Audit
 
 Rows: 234
 
-Use CSV for edits.
-Use MD for reading order.
+These rows are retained as a high-priority audit trail, not an open blocker queue.
+Open blockers are tracked by the watch files and release-hardening report.
 
 ## Theme Counts
 - anthropology: 54
@@ -14,7 +14,7 @@ Use MD for reading order.
 - textual/lexical: 137
 - theology: 105
 
-## Top 50
+## Top 50 Resolved Priority Rows
 - 1. Exodus 20:24 | score 35 | theology, ritual, kingship, textual/lexical | keep
 - 2. Leviticus 4:31 | score 34 | covenant/law, ritual, kingship, textual/lexical | keep
 - 3. 1 Kings 2:35 | score 32 | anthropology, ritual, kingship, death/afterlife, textual/lexical | keep

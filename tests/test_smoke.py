@@ -9051,6 +9051,18 @@ def test_release_status_distinguishes_ot_rc_from_complete_nt_workspace() -> None
     assert "python3" not in status
 
 
+def test_resolved_ot_priority_audits_are_not_open_blocker_queues() -> None:
+    review_audit = (ROOT / "output" / "fresh_vs_brenton_ot_review_queue.md").read_text(encoding="utf-8")
+    decision_audit = (ROOT / "output" / "fresh_vs_brenton_ot_decision_queue.md").read_text(encoding="utf-8")
+    review_rows = csv_rows("output/fresh_vs_brenton_ot_review_queue.csv")
+    decision_rows = csv_rows("output/fresh_vs_brenton_ot_decision_queue.csv")
+
+    assert "not an open blocker queue" in review_audit
+    assert "not an open blocker queue" in decision_audit
+    assert {row["review_status"] for row in review_rows} <= {"keep", "revised"}
+    assert {row["review_status"] for row in decision_rows} <= {"keep", "revised"}
+
+
 def test_fresh_full_markdown_has_no_todo_placeholders() -> None:
     paths = [
         ROOT / "output" / "fresh_translation_ot_full.md",
