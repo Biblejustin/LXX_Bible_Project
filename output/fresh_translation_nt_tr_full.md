@@ -125406,7 +125406,7 @@ Greek: μη τα εαυτων εκαστος σκοπειτε αλλα και τ
 Transliteration: mh ta eautwn ekastov skopeite alla kai ta eterwn ekastov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Look not every man on his own things, but every man also on the things of others.
+Draft translation: Let each not look to his own things, but each also to the things of others.
 
 Decision rows:
 - [TODO add decision rows]
@@ -125426,7 +125426,7 @@ Greek: τουτο γαρ φρονεισθω εν υμιν ο και εν χρι�
 Transliteration: touto gar froneisyw en umin o kai en cristw ihsou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let this mind be in you, which was also in Christ Jesus:
+Draft translation: For let this mind be in you, which was also in Christ Jesus:
 
 Decision rows:
 - [TODO add decision rows]
@@ -125446,7 +125446,7 @@ Greek: ος εν μορφη θεου υπαρχων ουχ αρπαγμον ηγ
 Transliteration: ov en morfh yeou uparcwn ouc arpagmon hghsato to einai isa yew
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Who, being in the form of God, thought it not robbery to be equal with God:
+Draft translation: who, existing in the form of God, did not consider being equal with God a thing to be seized:
 
 Decision rows:
 - [TODO add decision rows]
@@ -125606,7 +125606,7 @@ Greek: παντα ποιειτε χωρις γογγυσμων και διαλο
 Transliteration: panta poieite cwriv goggusmwn kai dialogismwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Do all things without murmurings and disputings:
+Draft translation: Do all things without grumblings and reasonings:
 
 Decision rows:
 - [TODO add decision rows]
@@ -125746,7 +125746,7 @@ Greek: οι παντες γαρ τα εαυτων ζητουσιν ου τα τ�
 Transliteration: oi pantev gar ta eautwn zhtousin ou ta tou cristou ihsou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For all seek their own, not the things which are Jesus Christ's.
+Draft translation: For all seek their own things, not the things of Christ Jesus.
 
 Decision rows:
 - [TODO add decision rows]

@@ -25378,15 +25378,15 @@ Let nothing be done through strife or conceit; but in lowliness of mind let each
 
 **Philippians 2:4**
 
-Look not every man on his own things, but every man also on the things of others.
+Let each not look to his own things, but each also to the things of others.
 
 **Philippians 2:5**
 
-Let this mind be in you, which was also in Christ Jesus:
+For let this mind be in you, which was also in Christ Jesus:
 
 **Philippians 2:6**
 
-Who, being in the form of God, thought it not robbery to be equal with God:
+who, existing in the form of God, did not consider being equal with God a thing to be seized:
 
 **Philippians 2:7**
 
@@ -25418,7 +25418,7 @@ For it is God who works in you both to will and to do of his good pleasure.
 
 **Philippians 2:14**
 
-Do all things without murmurings and disputings:
+Do all things without grumblings and reasonings:
 
 **Philippians 2:15**
 
@@ -25446,7 +25446,7 @@ For I have no one likeminded, who will naturally care for your state.
 
 **Philippians 2:21**
 
-For all seek their own, not the things which are Jesus Christ's.
+For all seek their own things, not the things of Christ Jesus.
 
 **Philippians 2:22**
 
