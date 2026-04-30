@@ -8906,6 +8906,7 @@ def test_logos_readmes_use_testament_specific_language() -> None:
 
 def test_root_readme_reflects_complete_fresh_workspace() -> None:
     readme = (ROOT / "README.md").read_text(encoding="utf-8")
+    translation_rules = (ROOT / "data" / "research" / "translation_rules.md").read_text(encoding="utf-8")
 
     assert "Fresh translation workspace for Greek-to-English OT/NT polish" in readme
     assert "## Fresh Translation Workspace" in readme
@@ -8921,6 +8922,9 @@ def test_root_readme_reflects_complete_fresh_workspace() -> None:
         "`data/raw/lxx_greek/genesis_1_3_pilot.csv`",
     ):
         assert stale_phrase not in readme
+        assert stale_phrase not in translation_rules
+    assert "Treat fresh output as draft until phrase-level decisions are reviewed." in translation_rules
+    assert "base Greek edition" not in translation_rules
 
 
 def test_fresh_translation_research_stack_is_scope_specific() -> None:
