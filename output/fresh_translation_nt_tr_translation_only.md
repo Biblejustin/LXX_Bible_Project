@@ -31340,7 +31340,7 @@ And the fifth angel sounded, and I saw a star fall from heaven to the earth: and
 
 **Revelation 9:2**
 
-And he opened the bottomless pit; and there arose a smoke out of the pit, as the smoke of a great furnace; and the sun and the air were darkened by reason of the smoke of the pit.
+And he opened the pit of the abyss; and smoke arose out of the pit, as smoke of a great furnace; and the sun and the air were darkened from the smoke of the pit.
 
 **Revelation 9:3**
 
@@ -31352,11 +31352,11 @@ And it was commanded them that they should not hurt the grass of the earth, neit
 
 **Revelation 9:5**
 
-And to them it was given that they should not kill them, but that they should be tormented five months: and their torment was as the torment of a scorpion, when he strikes a man.
+And it was given to them that they should not kill them, but that they should be tormented five months: and their torment was as the torment of a scorpion, when it strikes a man.
 
 **Revelation 9:6**
 
-And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them.
+And in those days men shall seek death, and shall not find it; and they shall desire to die, and death shall flee from them.
 
 **Revelation 9:7**
 
@@ -31364,11 +31364,11 @@ And the shapes of the locusts were like to horses prepared to battle; and on the
 
 **Revelation 9:8**
 
-And they had hair as the hair of women, and their teeth were as the teeth of lions.
+And they had hair like women's hair, and their teeth were as lions' teeth.
 
 **Revelation 9:9**
 
-And they had breastplates, as it were breastplates of iron; and the sound of their wings was as the sound of chariots of many horses running to battle.
+And they had breastplates as breastplates of iron; and the sound of their wings was as the sound of chariots of many horses running to war.
 
 **Revelation 9:10**
 
@@ -31376,7 +31376,7 @@ And they had tails like to scorpions, and there were stings in their tails: and 
 
 **Revelation 9:11**
 
-And they had a king over them, which is the angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue has his name Apollyon.
+And they have over them a king, the angel of the abyss; his name in Hebrew is Abaddon, and in Greek he has the name Apollyon.
 
 **Revelation 9:12**
 
@@ -31384,7 +31384,7 @@ One woe is past; and, look, there come two woes more hereafter.
 
 **Revelation 9:13**
 
-And the sixth angel sounded, and I heard a voice from the four horns of the golden altar which is before God,
+And the sixth angel sounded, and I heard one voice from the four horns of the golden altar before God,
 
 **Revelation 9:14**
 
@@ -31396,7 +31396,7 @@ And the four angels were loosed, which were prepared for an hour, and a day, and
 
 **Revelation 9:16**
 
-And the number of the army of the horsemen were two hundred thousand thousand: and I heard the number of them.
+And the number of the armies of the cavalry was two myriads of myriads: and I heard their number.
 
 **Revelation 9:17**
 
@@ -31404,7 +31404,7 @@ And thus I saw the horses in the vision, and those who sat on them, having breas
 
 **Revelation 9:18**
 
-By these three was the third part of men killed, by the fire, and by the smoke, and by the brimstone, which issued out of their mouths.
+By these three the third of men were killed, by the fire, and by the smoke, and by the brimstone, which proceeded out of their mouths.
 
 **Revelation 9:19**
 

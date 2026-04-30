@@ -154520,7 +154520,7 @@ Greek: και ηνοιξεν το φρεαρ της αβυσσου και ανε
 Transliteration: kai hnoixen to frear thv abussou kai anebh kapnov ek tou freatov wv kapnov kaminou megalhv kai eskotisyh o hliov kai o ahr ek tou kapnou tou freatov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And he opened the bottomless pit; and there arose a smoke out of the pit, as the smoke of a great furnace; and the sun and the air were darkened by reason of the smoke of the pit.
+Draft translation: And he opened the pit of the abyss; and smoke arose out of the pit, as smoke of a great furnace; and the sun and the air were darkened from the smoke of the pit.
 
 Decision rows:
 - [TODO add decision rows]
@@ -154580,7 +154580,7 @@ Greek: και εδοθη αυταις ινα μη αποκτεινωσιν αυ�
 Transliteration: kai edoyh autaiv ina mh apokteinwsin autouv all ina basanisywsin mhnav pente kai o basanismov autwn wv basanismov skorpiou otan paish anyrwpon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And to them it was given that they should not kill them, but that they should be tormented five months: and their torment was as the torment of a scorpion, when he strikes a man.
+Draft translation: And it was given to them that they should not kill them, but that they should be tormented five months: and their torment was as the torment of a scorpion, when it strikes a man.
 
 Decision rows:
 - [TODO add decision rows]
@@ -154600,7 +154600,7 @@ Greek: και εν ταις ημεραις εκειναις ζητησουσιν
 Transliteration: kai en taiv hmeraiv ekeinaiv zhthsousin oi anyrwpoi ton yanaton kai ouc eurhsousin auton kai epiyumhsousin apoyanein kai feuxetai o yanatov ap autwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them.
+Draft translation: And in those days men shall seek death, and shall not find it; and they shall desire to die, and death shall flee from them.
 
 Decision rows:
 - [TODO add decision rows]
@@ -154640,7 +154640,7 @@ Greek: και ειχον τριχας ως τριχας γυναικων και 
 Transliteration: kai eicon tricav wv tricav gunaikwn kai oi odontev autwn wv leontwn hsan
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And they had hair as the hair of women, and their teeth were as the teeth of lions.
+Draft translation: And they had hair like women's hair, and their teeth were as lions' teeth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -154660,7 +154660,7 @@ Greek: και ειχον θωρακας ως θωρακας σιδηρους κ�
 Transliteration: kai eicon ywrakav wv ywrakav sidhrouv kai h fwnh twn pterugwn autwn wv fwnh armatwn ippwn pollwn trecontwn eiv polemon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And they had breastplates, as it were breastplates of iron; and the sound of their wings was as the sound of chariots of many horses running to battle.
+Draft translation: And they had breastplates as breastplates of iron; and the sound of their wings was as the sound of chariots of many horses running to war.
 
 Decision rows:
 - [TODO add decision rows]
@@ -154700,7 +154700,7 @@ Greek: και εχουσιν επ αυτων βασιλεα τον αγγελο�
 Transliteration: kai ecousin ep autwn basilea ton aggelon thv abussou onoma autw ebraisti abaddwn kai en th ellhnikh onoma ecei apolluwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And they had a king over them, which is the angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue has his name Apollyon.
+Draft translation: And they have over them a king, the angel of the abyss; his name in Hebrew is Abaddon, and in Greek he has the name Apollyon.
 
 Decision rows:
 - [TODO add decision rows]
@@ -154740,7 +154740,7 @@ Greek: και ο εκτος αγγελος εσαλπισεν και ηκουσ�
 Transliteration: kai o ektov aggelov esalpisen kai hkousa fwnhn mian ek twn tessarwn keratwn tou yusiasthriou tou crusou tou enwpion tou yeou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the sixth angel sounded, and I heard a voice from the four horns of the golden altar which is before God,
+Draft translation: And the sixth angel sounded, and I heard one voice from the four horns of the golden altar before God,
 
 Decision rows:
 - [TODO add decision rows]
@@ -154800,7 +154800,7 @@ Greek: και ο αριθμος στρατευματων του ιππικου �
 Transliteration: kai o ariymov strateumatwn tou ippikou duo muriadev muriadwn kai hkousa ton ariymon autwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And the number of the army of the horsemen were two hundred thousand thousand: and I heard the number of them.
+Draft translation: And the number of the armies of the cavalry was two myriads of myriads: and I heard their number.
 
 Decision rows:
 - [TODO add decision rows]
@@ -154840,7 +154840,7 @@ Greek: υπο των τριων τουτων απεκτανθησαν το τρ�
 Transliteration: upo twn triwn toutwn apektanyhsan to triton twn anyrwpwn ek tou purov kai ek tou kapnou kai ek tou yeiou tou ekporeuomenou ek twn stomatwn autwn
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: By these three was the third part of men killed, by the fire, and by the smoke, and by the brimstone, which issued out of their mouths.
+Draft translation: By these three the third of men were killed, by the fire, and by the smoke, and by the brimstone, which proceeded out of their mouths.
 
 Decision rows:
 - [TODO add decision rows]

@@ -8595,6 +8595,31 @@ def test_nt_revelation_7_to_8_queue_revisions_stay_reviewed() -> None:
     assert "Revelation 7:7" not in queue_refs
 
 
+def test_nt_revelation_9_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Revelation 9:2": "And he opened the pit of the abyss; and smoke arose out of the pit, as smoke of a great furnace; and the sun and the air were darkened from the smoke of the pit.",
+        "Revelation 9:5": "And it was given to them that they should not kill them, but that they should be tormented five months: and their torment was as the torment of a scorpion, when it strikes a man.",
+        "Revelation 9:6": "And in those days men shall seek death, and shall not find it; and they shall desire to die, and death shall flee from them.",
+        "Revelation 9:8": "And they had hair like women's hair, and their teeth were as lions' teeth.",
+        "Revelation 9:9": "And they had breastplates as breastplates of iron; and the sound of their wings was as the sound of chariots of many horses running to war.",
+        "Revelation 9:11": "And they have over them a king, the angel of the abyss; his name in Hebrew is Abaddon, and in Greek he has the name Apollyon.",
+        "Revelation 9:13": "And the sixth angel sounded, and I heard one voice from the four horns of the golden altar before God,",
+        "Revelation 9:16": "And the number of the armies of the cavalry was two myriads of myriads: and I heard their number.",
+        "Revelation 9:18": "By these three the third of men were killed, by the fire, and by the smoke, and by the brimstone, which proceeded out of their mouths.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_194.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
