@@ -92764,15 +92764,15 @@ And he said to me, To build a house for it in the land of Babylon, and prepare i
 
 **Zechariah 6:1**
 
-And I turned and lifted my eyes and saw, and behold, four chariots going out from between two mountains, and mountains were bronze mountains.
+And I turned and lifted my eyes and saw, and behold, four chariots going out from between two mountains, and the mountains were bronze mountains.
 
 **Zechariah 6:2**
 
-In first chariot were red horses, and in second chariot black horses,
+In the first chariot were red horses, and in the second chariot black horses,
 
 **Zechariah 6:3**
 
-and in third chariot white horses, and in fourth chariot varied dappled horses.
+and in the third chariot white horses, and in the fourth chariot varied dappled horses.
 
 **Zechariah 6:4**
 
@@ -92780,19 +92780,19 @@ And I answered and said to the angel speaking with me, What are these, lord?
 
 **Zechariah 6:5**
 
-And the angel speaking with me answered and said, These are four winds of heaven, going out to stand before the Lord of all the earth.
+And the angel speaking with me answered and said, These are the four winds of heaven, going out to stand before the Lord of all the earth.
 
 **Zechariah 6:6**
 
-Where black horses were, they went out to the land of the north, and white went out behind them, and varied went out to the land of south.
+The black horses went out to the land of the north, and the white went out behind them, and the varied went out to the land of the south.
 
 **Zechariah 6:7**
 
-And dappled went out and looked to go, to patrol earth. And he said, Go, patrol earth. And they patrolled earth.
+And the dappled went out and looked to go, to patrol the earth. And he said, Go, patrol the earth. And they patrolled the earth.
 
 **Zechariah 6:8**
 
-And he cried out and spoke to me, saying, Behold, those going out to the land of the north gave rest to my wrath in the land of the north.
+And he cried out and spoke to me, saying, Behold, those going out to the land of the north have given rest to my wrath in the land of the north.
 
 **Zechariah 6:9**
 
@@ -92800,7 +92800,7 @@ And the word of the Lord came to me, saying,
 
 **Zechariah 6:10**
 
-Take from captivity, from its rulers and from its useful men and from those knowing it, and you shall enter on that day into the house of Josiah son of Zephaniah, who came from Babylon.
+Take the things from the captivity, from its rulers and from its useful men and from those who know it, and you shall enter on that day into the house of Josiah son of Zephaniah, who came from Babylon.
 
 **Zechariah 6:11**
 
@@ -92812,11 +92812,11 @@ And you shall say to him, Thus says the Lord Almighty: Behold, a man—Dawn is h
 
 **Zechariah 6:13**
 
-And he will receive excellence and sit and rule on his throne, and priest will be at his right, and peaceful counsel will be between both.
+And he will receive excellence and sit and rule on his throne, and the priest will be at his right, and peaceful counsel will be between them both.
 
 **Zechariah 6:14**
 
-And crown will belong to those waiting and to its useful ones and to those knowing it and for favor to son of Zephaniah and for memorial in the house of the Lord.
+And the crown will belong to those waiting and to its useful ones and to those who know it and for favor of the son of Zephaniah and for a psalm in the house of the Lord.
 
 **Zechariah 6:15**
 

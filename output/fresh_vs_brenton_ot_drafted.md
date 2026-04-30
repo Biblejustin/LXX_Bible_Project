@@ -204507,28 +204507,28 @@ Note:
 ### Zechariah 6:1
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I turned and lifted my eyes and saw, and behold, four chariots going out from between two mountains, and mountains were bronze mountains.
+- fresh: And I turned and lifted my eyes and saw, and behold, four chariots going out from between two mountains, and the mountains were bronze mountains.
 - brenton: And I turned, and lifted up mine eyes, and looked, and, behold, four chariots coming out from between two mountains; and the mountains were brazen mountains.
 
 ### Zechariah 6:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
-- same_normalized: no
-- fresh: In first chariot were red horses, and in second chariot black horses,
+- same_normalized: yes
+- fresh: In the first chariot were red horses, and in the second chariot black horses,
 - brenton: In the first chariot were red horses; and in the second chariot black horses;
 
 ### Zechariah 6:3
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: and in third chariot white horses, and in fourth chariot varied dappled horses.
+- fresh: and in the third chariot white horses, and in the fourth chariot varied dappled horses.
 - brenton: and in the third chariot white horses; and in the fourth chariot piebald and ash-coloured horses.
 
 ### Zechariah 6:4
@@ -204543,37 +204543,37 @@ Note:
 ### Zechariah 6:5
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And the angel speaking with me answered and said, These are four winds of heaven, going out to stand before the Lord of all the earth.
+- fresh: And the angel speaking with me answered and said, These are the four winds of heaven, going out to stand before the Lord of all the earth.
 - brenton: And the angel that talked with me answered and said, These are the four winds of heaven, and they are going forth to stand before the Lord of all the earth.
 
 ### Zechariah 6:6
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Where black horses were, they went out to the land of the north, and white went out behind them, and varied went out to the land of south.
+- fresh: The black horses went out to the land of the north, and the white went out behind them, and the varied went out to the land of the south.
 - brenton: As for the chariot in which were the black horses, they went out to the land of the north; and the white went out after them; and the piebald went out to the land of the south.
 
 ### Zechariah 6:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And dappled went out and looked to go, to patrol earth. And he said, Go, patrol earth. And they patrolled earth.
+- fresh: And the dappled went out and looked to go, to patrol the earth. And he said, Go, patrol the earth. And they patrolled the earth.
 - brenton: And the ash-coloured went out, and looked to go and compass the earth: and he said, Go, and compass the earth. And they compassed the earth.
 
 ### Zechariah 6:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he cried out and spoke to me, saying, Behold, those going out to the land of the north gave rest to my wrath in the land of the north.
+- fresh: And he cried out and spoke to me, saying, Behold, those going out to the land of the north have given rest to my wrath in the land of the north.
 - brenton: And he cried out and spoke to me, saying, Behold, these go out to the land of the north, and they have quieted mine anger in the land of the north.
 
 ### Zechariah 6:9
@@ -204588,10 +204588,10 @@ Note:
 ### Zechariah 6:10
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: Take from captivity, from its rulers and from its useful men and from those knowing it, and you shall enter on that day into the house of Josiah son of Zephaniah, who came from Babylon.
+- fresh: Take the things from the captivity, from its rulers and from its useful men and from those who know it, and you shall enter on that day into the house of Josiah son of Zephaniah, who came from Babylon.
 - brenton: Take the things of the captivity from the chief men, and from the useful men of it, and from them that have understood it; and thou shalt enter in that day into the house of Josias the son of Sophonias that came out of Babylon.
 
 ### Zechariah 6:11
@@ -204606,7 +204606,7 @@ Note:
 ### Zechariah 6:12
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
 - fresh: And you shall say to him, Thus says the Lord Almighty: Behold, a man—Dawn is his name—and from beneath him he will rise, and he will build the house of the Lord.
@@ -204615,25 +204615,25 @@ Note:
 ### Zechariah 6:13
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he will receive excellence and sit and rule on his throne, and priest will be at his right, and peaceful counsel will be between both.
+- fresh: And he will receive excellence and sit and rule on his throne, and the priest will be at his right, and peaceful counsel will be between them both.
 - brenton: And he shall receive power, and shall sit and rule upon his throne; and there shall be a priest on his right hand, and a peaceable counsel shall be between them both.
 
 ### Zechariah 6:14
 
 - importance: high
-- decisions: 0
+- decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And crown will belong to those waiting and to its useful ones and to those knowing it and for favor to son of Zephaniah and for memorial in the house of the Lord.
+- fresh: And the crown will belong to those waiting and to its useful ones and to those who know it and for favor of the son of Zephaniah and for a psalm in the house of the Lord.
 - brenton: And the crown shall be to them that wait patiently, and to the useful men of the captivity, and to them that have known it, and for the favour of the son of Sophonias, and for a psalm in the house of the Lord.
 
 ### Zechariah 6:15
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And those far from them will come and build in the house of the Lord, and you will know that the Lord Almighty sent me to you. And it will be, if hearing you hear the voice of the Lord your God.
