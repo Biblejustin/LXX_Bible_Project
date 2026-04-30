@@ -7262,6 +7262,22 @@ def test_nt_literal_revision_queue_excludes_reviewed_pass_refs() -> None:
     assert diagnostics["review_queue_resolved_by_pass"] >= 600
 
 
+def test_nt_second_corinthians_5_focused_queue_revisions_stay_reviewed() -> None:
+    by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+
+    expected = {
+        "2 Corinthians 5:2": "For also in this we groan, longing to be clothed over with our dwelling which is from heaven:",
+        "2 Corinthians 5:4": "For also we who are in this tent groan, being burdened, because we do not wish to be unclothed, but to be clothed over, so that the mortal may be swallowed up by life.",
+        "2 Corinthians 5:7": "For we walk by faith, not by appearance.",
+        "2 Corinthians 5:18": "But all things are from God, who reconciled us to himself through Jesus Christ, and gave to us the ministry of reconciliation;",
+        "2 Corinthians 5:21": "For he made the one who did not know sin to be sin for us, so that we might become righteousness of God in him.",
+    }
+    for ref, draft_translation in expected.items():
+        assert by_ref[ref]["draft_translation"] == draft_translation
+        assert by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert by_ref[ref]["review_notes"] == "manual TR literal override"
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

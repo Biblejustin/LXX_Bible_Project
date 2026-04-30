@@ -23264,7 +23264,7 @@ For we know that if our earthly house of this tabernacle were dissolved, we have
 
 **2 Corinthians 5:2**
 
-For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:
+For also in this we groan, longing to be clothed over with our dwelling which is from heaven:
 
 **2 Corinthians 5:3**
 
@@ -23272,7 +23272,7 @@ If indeed being clothed we shall not be found naked.
 
 **2 Corinthians 5:4**
 
-For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.
+For also we who are in this tent groan, being burdened, because we do not wish to be unclothed, but to be clothed over, so that the mortal may be swallowed up by life.
 
 **2 Corinthians 5:5**
 
@@ -23284,7 +23284,7 @@ Therefore we are always confident, knowing that, while we are at home in the bod
 
 **2 Corinthians 5:7**
 
-(For we walk by faith, not by sight:)
+For we walk by faith, not by appearance.
 
 **2 Corinthians 5:8**
 
@@ -23328,7 +23328,7 @@ Therefore if anyone be in Christ, he is a new creature: old things are passed aw
 
 **2 Corinthians 5:18**
 
-And all things are of God, who has reconciled us to himself by Jesus Christ, and has given to us the ministry of reconciliation;
+But all things are from God, who reconciled us to himself through Jesus Christ, and gave to us the ministry of reconciliation;
 
 **2 Corinthians 5:19**
 
@@ -23340,7 +23340,7 @@ Now then we are ambassadors for Christ, as though God did plead to you by us: we
 
 **2 Corinthians 5:21**
 
-For he has made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.
+For he made the one who did not know sin to be sin for us, so that we might become righteousness of God in him.
 
 ### Chapter 6
 

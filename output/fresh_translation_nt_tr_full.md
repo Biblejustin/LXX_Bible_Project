@@ -115036,7 +115036,7 @@ Greek: και γαρ εν τουτω στεναζομεν το οικητηρι�
 Transliteration: kai gar en toutw stenazomen to oikhthrion hmwn to ex ouranou ependusasyai epipoyountev
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:
+Draft translation: For also in this we groan, longing to be clothed over with our dwelling which is from heaven:
 
 Decision rows:
 - [TODO add decision rows]
@@ -115076,7 +115076,7 @@ Greek: και γαρ οι οντες εν τω σκηνει στεναζομεν
 Transliteration: kai gar oi ontev en tw skhnei stenazomen baroumenoi ef w ou yelomen ekdusasyai all ependusasyai ina katapoyh to ynhton upo thv zwhv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.
+Draft translation: For also we who are in this tent groan, being burdened, because we do not wish to be unclothed, but to be clothed over, so that the mortal may be swallowed up by life.
 
 Decision rows:
 - [TODO add decision rows]
@@ -115136,7 +115136,7 @@ Greek: δια πιστεως γαρ περιπατουμεν ου δια ειδ�
 Transliteration: dia pistewv gar peripatoumen ou dia eidouv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: (For we walk by faith, not by sight:)
+Draft translation: For we walk by faith, not by appearance.
 
 Decision rows:
 - [TODO add decision rows]
@@ -115356,7 +115356,7 @@ Greek: τα δε παντα εκ του θεου του καταλλαξαντο
 Transliteration: ta de panta ek tou yeou tou katallaxantov hmav eautw dia ihsou cristou kai dontov hmin thn diakonian thv katallaghv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And all things are of God, who has reconciled us to himself by Jesus Christ, and has given to us the ministry of reconciliation;
+Draft translation: But all things are from God, who reconciled us to himself through Jesus Christ, and gave to us the ministry of reconciliation;
 
 Decision rows:
 - [TODO add decision rows]
@@ -115416,7 +115416,7 @@ Greek: τον γαρ μη γνοντα αμαρτιαν υπερ ημων αμα
 Transliteration: ton gar mh gnonta amartian uper hmwn amartian epoihsen ina hmeiv ginwmeya dikaiosunh yeou en autw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For he has made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.
+Draft translation: For he made the one who did not know sin to be sin for us, so that we might become righteousness of God in him.
 
 Decision rows:
 - [TODO add decision rows]
