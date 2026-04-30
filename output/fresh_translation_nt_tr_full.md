@@ -141080,7 +141080,7 @@ Greek: εν ταυτη γαρ εμαρτυρηθησαν οι πρεσβυτερ
 Transliteration: en tauth gar emarturhyhsan oi presbuteroi
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For by it the elders obtained a good report.
+Draft translation: For by it the elders obtained testimony.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141140,7 +141140,7 @@ Greek: πιστει ενωχ μετετεθη του μη ιδειν θανατ�
 Transliteration: pistei enwc meteteyh tou mh idein yanaton kai ouc eurisketo dioti meteyhken auton o yeov pro gar thv metayesewv autou memarturhtai euhresthkenai tw yew
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.
+Draft translation: By faith Enoch was translated so that he should not see death; and was not found, because God had translated him: for before his translation he had testimony that he pleased God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141180,7 +141180,7 @@ Greek: πιστει χρηματισθεις νωε περι των μηδεπω
 Transliteration: pistei crhmatisyeiv nwe peri twn mhdepw blepomenwn eulabhyeiv kateskeuasen kibwton eiv swthrian tou oikou autou di hv katekrinen ton kosmon kai thv kata pistin dikaiosunhv egeneto klhronomov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.
+Draft translation: By faith Noah, being warned of God concerning things not yet seen, moved with fear, prepared an ark for the salvation of his house; through which he condemned the world, and became heir of the righteousness which is by faith.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141200,7 +141200,7 @@ Greek: πιστει καλουμενος αβρααμ υπηκουσεν εξε�
 Transliteration: pistei kaloumenov abraam uphkousen exelyein eiv ton topon on hmellen lambanein eiv klhronomian kai exhlyen mh epistamenov pou ercetai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing where he went.
+Draft translation: By faith Abraham, when called, obeyed to go out to the place which he was about to receive for an inheritance; and he went out, not knowing where he was going.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141220,7 +141220,7 @@ Greek: πιστει παρωκησεν εις την γην της επαγγε�
 Transliteration: pistei parwkhsen eiv thn ghn thv epaggeliav wv allotrian en skhnaiv katoikhsav meta isaak kai iakwb twn sugklhronomwn thv epaggeliav thv authv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:
+Draft translation: By faith he sojourned in the land of promise, as in a foreign land, dwelling in tents with Isaac and Jacob, co-heirs of the same promise:
 
 Decision rows:
 - [TODO add decision rows]
@@ -141240,7 +141240,7 @@ Greek: εξεδεχετο γαρ την τους θεμελιους εχουσα
 Transliteration: exedeceto gar thn touv yemeliouv ecousan polin hv tecnithv kai dhmiourgov o yeov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For he looked for a city which has foundations, whose builder and maker is God.
+Draft translation: For he waited for the city which has foundations, whose builder and maker is God.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141280,7 +141280,7 @@ Greek: διο και αφ ενος εγεννηθησαν και ταυτα νε
 Transliteration: dio kai af enov egennhyhsan kai tauta nenekrwmenou kaywv ta astra tou ouranou tw plhyei kai wsei ammov h para to ceilov thv yalasshv h anariymhtov
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Therefore sprang there even of one, and him as good as dead, so many as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable.
+Draft translation: Therefore also from one, and him as good as dead, were begotten as many as the stars of heaven in multitude, and as the sand which is by the seashore innumerable.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141300,7 +141300,7 @@ Greek: κατα πιστιν απεθανον ουτοι παντες μη λα�
 Transliteration: kata pistin apeyanon outoi pantev mh labontev tav epaggeliav alla porrwyen autav idontev kai peisyentev kai aspasamenoi kai omologhsantev oti xenoi kai parepidhmoi eisin epi thv ghv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: These all died in faith, not having received the promises, but having seen them far off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth.
+Draft translation: These all died according to faith, not having received the promises, but having seen them afar off, and been persuaded, and greeted them, and confessed that they were strangers and pilgrims on the earth.
 
 Decision rows:
 - [TODO add decision rows]
@@ -141400,7 +141400,7 @@ Greek: προς ον ελαληθη οτι εν ισαακ κληθησεται 
 Transliteration: prov on elalhyh oti en isaak klhyhsetai soi sperma
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Of whom it was said, That in Isaac shall your seed be called:
+Draft translation: to whom it was said, In Isaac shall your seed be called:
 
 Decision rows:
 - [TODO add decision rows]

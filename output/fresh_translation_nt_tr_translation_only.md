@@ -28588,7 +28588,7 @@ Now faith is the substance of things hoped for, the evidence of things not seen.
 
 **Hebrews 11:2**
 
-For by it the elders obtained a good report.
+For by it the elders obtained testimony.
 
 **Hebrews 11:3**
 
@@ -28600,7 +28600,7 @@ By faith Abel offered to God a more excellent sacrifice than Cain, by which he o
 
 **Hebrews 11:5**
 
-By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.
+By faith Enoch was translated so that he should not see death; and was not found, because God had translated him: for before his translation he had testimony that he pleased God.
 
 **Hebrews 11:6**
 
@@ -28608,19 +28608,19 @@ But without faith it is impossible to please him: for the one who comes to God m
 
 **Hebrews 11:7**
 
-By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.
+By faith Noah, being warned of God concerning things not yet seen, moved with fear, prepared an ark for the salvation of his house; through which he condemned the world, and became heir of the righteousness which is by faith.
 
 **Hebrews 11:8**
 
-By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing where he went.
+By faith Abraham, when called, obeyed to go out to the place which he was about to receive for an inheritance; and he went out, not knowing where he was going.
 
 **Hebrews 11:9**
 
-By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:
+By faith he sojourned in the land of promise, as in a foreign land, dwelling in tents with Isaac and Jacob, co-heirs of the same promise:
 
 **Hebrews 11:10**
 
-For he looked for a city which has foundations, whose builder and maker is God.
+For he waited for the city which has foundations, whose builder and maker is God.
 
 **Hebrews 11:11**
 
@@ -28628,11 +28628,11 @@ Through faith also Sarah herself received strength to conceive seed, and was del
 
 **Hebrews 11:12**
 
-Therefore sprang there even of one, and him as good as dead, so many as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable.
+Therefore also from one, and him as good as dead, were begotten as many as the stars of heaven in multitude, and as the sand which is by the seashore innumerable.
 
 **Hebrews 11:13**
 
-These all died in faith, not having received the promises, but having seen them far off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth.
+These all died according to faith, not having received the promises, but having seen them afar off, and been persuaded, and greeted them, and confessed that they were strangers and pilgrims on the earth.
 
 **Hebrews 11:14**
 
@@ -28652,7 +28652,7 @@ By faith Abraham, when he was tried, offered up Isaac: and the one who had recei
 
 **Hebrews 11:18**
 
-Of whom it was said, That in Isaac shall your seed be called:
+to whom it was said, In Isaac shall your seed be called:
 
 **Hebrews 11:19**
 
