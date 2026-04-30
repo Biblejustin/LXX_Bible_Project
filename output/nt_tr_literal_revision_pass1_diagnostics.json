@@ -3,9 +3,9 @@
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
   "status_counts": {
-    "tr_literal_manual": 3217,
+    "tr_literal_manual": 3226,
     "tr_literal_pass1": 3869,
-    "needs_focused_tr_review": 871
+    "needs_focused_tr_review": 862
   },
   "changed_by_book": {
     "MAT": 913,
@@ -26,7 +26,7 @@
     "2TI": 74,
     "TIT": 45,
     "PHM": 24,
-    "HEB": 251,
+    "HEB": 260,
     "JAS": 81,
     "1PE": 83,
     "2PE": 49,
@@ -37,7 +37,7 @@
     "REV": 300
   },
   "rule_counts": {
-    "manual TR literal override": 3217,
+    "manual TR literal override": 3226,
     "aligned gennao with fathered": 17,
     "rendered adelphoi-family wording as brothers": 149,
     "rendered general brings-forth as produces": 27,
@@ -56,7 +56,7 @@
     "standardized Judea spelling": 26,
     "modernized are-come perfect": 11,
     "modernized he-that relative": 165,
-    "UKJV seed retained; needs focused Greek review": 871,
+    "UKJV seed retained; needs focused Greek review": 862,
     "standardized Juda as Judah in tribe/land contexts": 8,
     "modernized enquired spelling": 4,
     "removed UKJV plural-expansion artifact": 721,
@@ -542,9 +542,9 @@
     "modernized lived-not wording": 1
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
-  "review_queue_rows": 221,
-  "needs_focused_tr_review_rows": 871,
-  "review_queue_resolved_by_pass": 650,
+  "review_queue_rows": 211,
+  "needs_focused_tr_review_rows": 862,
+  "review_queue_resolved_by_pass": 651,
   "examples": {
     "manual TR literal override": [
       {

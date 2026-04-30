@@ -140318,7 +140318,7 @@ Greek: αλλ εν αυταις αναμνησις αμαρτιων κατ εν�
 Transliteration: all en autaiv anamnhsiv amartiwn kat eniauton
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But in those sacrifices there is a remembrance again made of sins every year.
+Draft translation: But in them there is a remembrance of sins every year.
 
 Decision rows:
 - [TODO add decision rows]
@@ -140338,7 +140338,7 @@ Greek: αδυνατον γαρ αιμα ταυρων και τραγων αφα�
 Transliteration: adunaton gar aima taurwn kai tragwn afairein amartiav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For it is not possible that the blood of bulls and of goats should take away sins.
+Draft translation: For it is impossible for blood of bulls and goats to take away sins.
 
 Decision rows:
 - [TODO add decision rows]
@@ -140378,7 +140378,7 @@ Greek: ολοκαυτωματα και περι αμαρτιας ουκ ευδο
 Transliteration: olokautwmata kai peri amartiav ouk eudokhsav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: In burnt offerings and sacrifices for sin you have had no pleasure.
+Draft translation: In burnt offerings and offerings for sin you had no pleasure.
 
 Decision rows:
 - [TODO add decision rows]
@@ -140478,7 +140478,7 @@ Greek: και πας μεν ιερευς εστηκεν καθ ημεραν λε
 Transliteration: kai pav men iereuv esthken kay hmeran leitourgwn kai tav autav pollakiv prosferwn yusiav aitinev oudepote dunantai perielein amartiav
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And every priest stands daily ministering and offering oftentimes the same sacrifices, which can never take away sins:
+Draft translation: And every priest stands daily ministering and often offering the same sacrifices, which can never take away sins:
 
 Decision rows:
 - [TODO add decision rows]
@@ -140598,7 +140598,7 @@ Greek: και των αμαρτιων αυτων και των ανομιων α
 Transliteration: kai twn amartiwn autwn kai twn anomiwn autwn ou mh mnhsyw eti
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And their sins and iniquities will I remember no more.
+Draft translation: And their sins and their lawless deeds I will remember no more.
 
 Decision rows:
 - [TODO add decision rows]
@@ -140658,7 +140658,7 @@ Greek: ην ενεκαινισεν ημιν οδον προσφατον και �
 Transliteration: hn enekainisen hmin odon prosfaton kai zwsan dia tou katapetasmatov tout estin thv sarkov autou
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: By a new and living way, which he has consecrated for us, through the veil, that is to say, his flesh;
+Draft translation: by a new and living way, which he inaugurated for us, through the veil, that is, his flesh;
 
 Decision rows:
 - [TODO add decision rows]
@@ -140698,7 +140698,7 @@ Greek: προσερχωμεθα μετα αληθινης καρδιας εν π
 Transliteration: prosercwmeya meta alhyinhv kardiav en plhroforia pistewv errantismenoi tav kardiav apo suneidhsewv ponhrav kai leloumenoi to swma udati kayarw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.
+Draft translation: Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our body washed with pure water.
 
 Decision rows:
 - [TODO add decision rows]
@@ -140778,7 +140778,7 @@ Greek: εκουσιως γαρ αμαρτανοντων ημων μετα το �
 Transliteration: ekousiwv gar amartanontwn hmwn meta to labein thn epignwsin thv alhyeiav ouketi peri amartiwn apoleipetai yusia
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For if we sin willfully after that we have received the knowledge of the truth, there remains no more sacrifice for sins,
+Draft translation: For if we sin willingly after receiving the knowledge of the truth, there remains no more sacrifice for sins,
 
 Decision rows:
 - [TODO add decision rows]
@@ -140798,7 +140798,7 @@ Greek: φοβερα δε τις εκδοχη κρισεως και πυρος ζ
 Transliteration: fobera de tiv ekdoch krisewv kai purov zhlov esyiein mellontov touv upenantiouv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries.
+Draft translation: But a certain fearful expectation of judgment and fiery zeal, about to devour the adversaries.
 
 Decision rows:
 - [TODO add decision rows]

@@ -8147,6 +8147,35 @@ def test_nt_hebrews_9_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_hebrews_10_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "Hebrews 10:3": "But in them there is a remembrance of sins every year.",
+        "Hebrews 10:4": "For it is impossible for blood of bulls and goats to take away sins.",
+        "Hebrews 10:6": "In burnt offerings and offerings for sin you had no pleasure.",
+        "Hebrews 10:11": "And every priest stands daily ministering and often offering the same sacrifices, which can never take away sins:",
+        "Hebrews 10:17": "And their sins and their lawless deeds I will remember no more.",
+        "Hebrews 10:20": "by a new and living way, which he inaugurated for us, through the veil, that is, his flesh;",
+        "Hebrews 10:22": "Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our body washed with pure water.",
+        "Hebrews 10:26": "For if we sin willingly after receiving the knowledge of the truth, there remains no more sacrifice for sins,",
+        "Hebrews 10:27": "But a certain fearful expectation of judgment and fiery zeal, about to devour the adversaries.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_178.md"
+        assert ref not in queue_refs
+
+    assert review_by_ref["Hebrews 10:31"]["latest_review_status"] == "keep"
+    assert review_by_ref["Hebrews 10:31"]["latest_review_pass"] == "nt_review_pass_178.md"
+    assert "Hebrews 10:31" not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

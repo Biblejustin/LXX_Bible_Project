@@ -28434,11 +28434,11 @@ For then would they not have ceased to be offered? because the worshippers once 
 
 **Hebrews 10:3**
 
-But in those sacrifices there is a remembrance again made of sins every year.
+But in them there is a remembrance of sins every year.
 
 **Hebrews 10:4**
 
-For it is not possible that the blood of bulls and of goats should take away sins.
+For it is impossible for blood of bulls and goats to take away sins.
 
 **Hebrews 10:5**
 
@@ -28446,7 +28446,7 @@ Therefore when he comes into the world, he says, Sacrifice and offering you woul
 
 **Hebrews 10:6**
 
-In burnt offerings and sacrifices for sin you have had no pleasure.
+In burnt offerings and offerings for sin you had no pleasure.
 
 **Hebrews 10:7**
 
@@ -28466,7 +28466,7 @@ By the which will we are sanctified through the offering of the body of Jesus Ch
 
 **Hebrews 10:11**
 
-And every priest stands daily ministering and offering oftentimes the same sacrifices, which can never take away sins:
+And every priest stands daily ministering and often offering the same sacrifices, which can never take away sins:
 
 **Hebrews 10:12**
 
@@ -28490,7 +28490,7 @@ This is the covenant that I will make with them after those days, says the Lord,
 
 **Hebrews 10:17**
 
-And their sins and iniquities will I remember no more.
+And their sins and their lawless deeds I will remember no more.
 
 **Hebrews 10:18**
 
@@ -28502,7 +28502,7 @@ Having therefore, brothers, boldness to enter into the holiest by the blood of J
 
 **Hebrews 10:20**
 
-By a new and living way, which he has consecrated for us, through the veil, that is to say, his flesh;
+by a new and living way, which he inaugurated for us, through the veil, that is, his flesh;
 
 **Hebrews 10:21**
 
@@ -28510,7 +28510,7 @@ And having a high priest over the house of God;
 
 **Hebrews 10:22**
 
-Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.
+Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our body washed with pure water.
 
 **Hebrews 10:23**
 
@@ -28526,11 +28526,11 @@ Not forsaking the assembling of ourselves together, as the manner of some is; bu
 
 **Hebrews 10:26**
 
-For if we sin willfully after that we have received the knowledge of the truth, there remains no more sacrifice for sins,
+For if we sin willingly after receiving the knowledge of the truth, there remains no more sacrifice for sins,
 
 **Hebrews 10:27**
 
-But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries.
+But a certain fearful expectation of judgment and fiery zeal, about to devour the adversaries.
 
 **Hebrews 10:28**
 
