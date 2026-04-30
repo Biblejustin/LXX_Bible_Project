@@ -8953,6 +8953,17 @@ def test_fresh_translation_research_stack_is_scope_specific() -> None:
     assert "Genesis pilot" not in nt_header
 
 
+def test_release_status_distinguishes_ot_rc_from_complete_nt_workspace() -> None:
+    status = (ROOT / "RELEASE_STATUS.md").read_text(encoding="utf-8")
+
+    assert "Release candidate: `fresh-translation-ot-rc1`" in status
+    assert "the NT TR fresh draft is also complete" in status
+    assert "`output/fresh_translation_nt_tr_full.md`" in status
+    assert "`output/logos_nt/`" in status
+    assert "existing OT RC1 package only" in status
+    assert "combined OT/NT release package has not been cut" in status
+
+
 def test_fresh_full_markdown_has_no_todo_placeholders() -> None:
     paths = [
         ROOT / "output" / "fresh_translation_ot_full.md",

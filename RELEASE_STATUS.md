@@ -19,6 +19,12 @@ Branch: `fresh-translation-pilot`
 - Reader-facing output: `output/fresh_translation_ot_full_translation_only.md`.
 - Full worksheet output: `output/fresh_translation_ot_full.md`.
 
+Current workspace note: the NT TR fresh draft is also complete in
+`output/fresh_translation_nt_tr_full.md`,
+`output/fresh_translation_nt_tr_translation_only.md`, and the `output/logos_nt/`
+Logos files. This status file records the existing OT RC1 package only; a
+combined OT/NT release package has not been cut.
+
 ## Verification Counts
 
 - Raw OT rows: `22,909`.
@@ -53,7 +59,7 @@ Primary committed outputs:
 
 ## Known Limitations
 
-- This is a release candidate, not a final typeset publication.
+- This is an OT release candidate, not a final typeset publication.
 - The output is Markdown/CSV, not a formatted print or app edition.
 - Brenton comparison coverage has known missing rows where the upstream Brenton source lacks a matched row; the fresh OT draft itself is complete.
 - Private Logos/local research data remains under `data/research/local/` and is intentionally not part of the public release package.
