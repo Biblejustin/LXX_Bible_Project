@@ -7764,6 +7764,29 @@ def test_nt_first_thessalonians_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_nt_second_thessalonians_queue_revisions_stay_reviewed() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+
+    expected_manual = {
+        "2 Thessalonians 2:7": "For the mystery of iniquity already works: only there is the one restraining now, until he comes out of the midst.",
+        "2 Thessalonians 2:9": "whose coming is according to the working of Satan with all power and signs and wonders of falsehood,",
+        "2 Thessalonians 2:11": "And because of this God shall send them a working of error, that they should believe the lie:",
+        "2 Thessalonians 3:2": "And that we may be delivered from unreasonable and evil men: for the faith is not of all.",
+        "2 Thessalonians 3:10": "For even when we were with you, this we commanded you, that if anyone is not willing to work, neither let him eat.",
+        "2 Thessalonians 3:11": "For we hear that some walk among you disorderly, not working at all, but being busybodies.",
+        "2 Thessalonians 3:15": "And do not regard him as an enemy, but admonish him as a brother.",
+    }
+    for ref, draft_translation in expected_manual.items():
+        assert source_by_ref[ref]["draft_translation"] == draft_translation
+        assert source_by_ref[ref]["review_status"] == "tr_literal_manual"
+        assert source_by_ref[ref]["review_notes"] == "manual TR literal override"
+        assert review_by_ref[ref]["latest_review_status"] == "revised"
+        assert review_by_ref[ref]["latest_review_pass"] == "nt_review_pass_165.md"
+        assert ref not in queue_refs
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}

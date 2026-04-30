@@ -26502,7 +26502,7 @@ And now you know what withholds that he might be revealed in his time.
 
 **2 Thessalonians 2:7**
 
-For the mystery of iniquity does already work: only he who now lets will let, until he be taken out of the way.
+For the mystery of iniquity already works: only there is the one restraining now, until he comes out of the midst.
 
 **2 Thessalonians 2:8**
 
@@ -26510,7 +26510,7 @@ And then shall that Wicked be revealed, whom the Lord shall consume with the spi
 
 **2 Thessalonians 2:9**
 
-Even him, whose coming is after the working of Satan with all power and signs and lying wonders,
+whose coming is according to the working of Satan with all power and signs and wonders of falsehood,
 
 **2 Thessalonians 2:10**
 
@@ -26518,7 +26518,7 @@ And with all deceivableness of unrighteousness in those who perish; because they
 
 **2 Thessalonians 2:11**
 
-And for this cause God shall send them strong delusion, that they should believe a lie:
+And because of this God shall send them a working of error, that they should believe the lie:
 
 **2 Thessalonians 2:12**
 
@@ -26552,7 +26552,7 @@ Finally, brothers, pray for us, that the word of the Lord may have free course, 
 
 **2 Thessalonians 3:2**
 
-And that we may be delivered from unreasonable and wicked men: for all men have not faith.
+And that we may be delivered from unreasonable and evil men: for the faith is not of all.
 
 **2 Thessalonians 3:3**
 
@@ -26584,11 +26584,11 @@ Not because we have not power, but to make ourselves an example to you to follow
 
 **2 Thessalonians 3:10**
 
-For even when we were with you, this we commanded you, that if any would not work, neither should he eat.
+For even when we were with you, this we commanded you, that if anyone is not willing to work, neither let him eat.
 
 **2 Thessalonians 3:11**
 
-For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.
+For we hear that some walk among you disorderly, not working at all, but being busybodies.
 
 **2 Thessalonians 3:12**
 
@@ -26604,7 +26604,7 @@ And if anyone obey not our word by this epistle, note that man, and have no comp
 
 **2 Thessalonians 3:15**
 
-Yet count him not as an enemy, but admonish him as a brother.
+And do not regard him as an enemy, but admonish him as a brother.
 
 **2 Thessalonians 3:16**
 

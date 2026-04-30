@@ -130898,7 +130898,7 @@ Greek: το γαρ μυστηριον ηδη ενεργειται της ανο�
 Transliteration: to gar musthrion hdh energeitai thv anomiav monon o katecwn arti ewv ek mesou genhtai
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For the mystery of iniquity does already work: only he who now lets will let, until he be taken out of the way.
+Draft translation: For the mystery of iniquity already works: only there is the one restraining now, until he comes out of the midst.
 
 Decision rows:
 - [TODO add decision rows]
@@ -130938,7 +130938,7 @@ Greek: ου εστιν η παρουσια κατ ενεργειαν του σα
 Transliteration: ou estin h parousia kat energeian tou satana en pash dunamei kai shmeioiv kai terasin qeudouv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Even him, whose coming is after the working of Satan with all power and signs and lying wonders,
+Draft translation: whose coming is according to the working of Satan with all power and signs and wonders of falsehood,
 
 Decision rows:
 - [TODO add decision rows]
@@ -130978,7 +130978,7 @@ Greek: και δια τουτο πεμψει αυτοις ο θεος ενεργ
 Transliteration: kai dia touto pemqei autoiv o yeov energeian planhv eiv to pisteusai autouv tw qeudei
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And for this cause God shall send them strong delusion, that they should believe a lie:
+Draft translation: And because of this God shall send them a working of error, that they should believe the lie:
 
 Decision rows:
 - [TODO add decision rows]
@@ -131140,7 +131140,7 @@ Greek: και ινα ρυσθωμεν απο των ατοπων και πονη
 Transliteration: kai ina rusywmen apo twn atopwn kai ponhrwn anyrwpwn ou gar pantwn h pistiv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: And that we may be delivered from unreasonable and wicked men: for all men have not faith.
+Draft translation: And that we may be delivered from unreasonable and evil men: for the faith is not of all.
 
 Decision rows:
 - [TODO add decision rows]
@@ -131300,7 +131300,7 @@ Greek: και γαρ οτε ημεν προς υμας τουτο παρηγγε
 Transliteration: kai gar ote hmen prov umav touto parhggellomen umin oti ei tiv ou yelei ergazesyai mhde esyietw
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For even when we were with you, this we commanded you, that if any would not work, neither should he eat.
+Draft translation: For even when we were with you, this we commanded you, that if anyone is not willing to work, neither let him eat.
 
 Decision rows:
 - [TODO add decision rows]
@@ -131320,7 +131320,7 @@ Greek: ακουομεν γαρ τινας περιπατουντας εν υμι
 Transliteration: akouomen gar tinav peripatountav en umin ataktwv mhden ergazomenouv alla periergazomenouv
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.
+Draft translation: For we hear that some walk among you disorderly, not working at all, but being busybodies.
 
 Decision rows:
 - [TODO add decision rows]
@@ -131400,7 +131400,7 @@ Greek: και μη ως εχθρον ηγεισθε αλλα νουθετειτ�
 Transliteration: kai mh wv ecyron hgeisye alla nouyeteite wv adelfon
 Literal gloss: [TODO]
 Syntax notes: [TODO]
-Draft translation: Yet count him not as an enemy, but admonish him as a brother.
+Draft translation: And do not regard him as an enemy, but admonish him as a brother.
 
 Decision rows:
 - [TODO add decision rows]
