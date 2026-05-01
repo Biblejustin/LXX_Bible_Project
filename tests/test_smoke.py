@@ -8987,6 +8987,56 @@ def test_mt_bridge_docx_has_no_consecutive_duplicate_bible_milestones() -> None:
     assert not duplicates
 
 
+def test_print_proof_profile_is_compact_and_excludes_study_layers() -> None:
+    diagnostics = json.loads(
+        (
+            ROOT
+            / "output"
+            / "print"
+            / "the_greek_heritage_study_bible_print_proof_diagnostics.json"
+        ).read_text(encoding="utf-8")
+    )
+    stats = diagnostics["print_docx"]
+    minimal_crossrefs = diagnostics["minimal_crossrefs"]
+
+    assert diagnostics["print_profile"]["layout"] == "compact_two_column"
+    assert diagnostics["print_profile"]["book_prefaces"] == "excluded"
+    assert diagnostics["print_profile"]["brenton_supplemental_notes"] == "excluded"
+    assert diagnostics["print_profile"]["openbible_fallback"] == "excluded"
+    assert diagnostics["print_profile"]["name_meanings"] == "listed_first_source_occurrence_only"
+    assert stats["output_kind"] == "print_proof"
+    assert stats["book_preface_pages"] == 0
+    assert stats["supplemental_note_footnotes"] == 0
+    assert stats["brenton_supplemental_footnotes"] == 0
+    assert stats["translation_note_footnotes"] > 0
+    assert 0 < stats["name_meaning_footnotes"] <= 3100
+    assert 0 < stats["crossref_footnotes"] <= 13000
+    assert stats["crossref_footnotes"] == minimal_crossrefs["output_groups"]
+    assert minimal_crossrefs["source_policy"] == "TSK only; OpenBible fallback omitted."
+    assert minimal_crossrefs["max_groups_per_verse"] == 1
+    assert minimal_crossrefs["max_refs_per_note"] == 2
+    assert minimal_crossrefs["output_refs"] <= 26000
+
+
+def test_print_proof_docx_uses_compact_layout_and_no_brenton_footnotes() -> None:
+    docx_path = (
+        ROOT
+        / "output"
+        / "print"
+        / "the_greek_heritage_study_bible_print_proof.docx"
+    )
+    with zipfile.ZipFile(docx_path) as zf:
+        document_xml = zf.read("word/document.xml").decode("utf-8")
+        footnotes_xml = zf.read("word/footnotes.xml").decode("utf-8")
+
+    assert '<w:cols w:space="360" w:num="2"/>' in document_xml
+    assert 'w:left="540"' in document_xml
+    assert "Brenton note:" not in footnotes_xml
+    assert "Book preface pages are excluded to keep this copy shorter." in document_xml
+    assert "Name-meaning notes are included only at their listed first/source occurrence" in document_xml
+    assert "Minimal cross-reference layer" in document_xml
+
+
 def test_logos_readmes_use_testament_specific_language() -> None:
     ot_readme = (ROOT / "output" / "logos" / "README.md").read_text(encoding="utf-8")
     nt_readme = (ROOT / "output" / "logos_nt" / "README.md").read_text(encoding="utf-8")

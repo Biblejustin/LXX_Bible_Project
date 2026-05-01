@@ -430,9 +430,10 @@ class MilestoneResolution:
 class MinimalDocx:
     """Small WordprocessingML writer with real footnote support."""
 
-    def __init__(self, title: str, subject: str) -> None:
+    def __init__(self, title: str, subject: str, *, compact_print: bool = False) -> None:
         self.title = title
         self.subject = subject
+        self.compact_print = compact_print
         self.body: list[str] = []
         self.footnotes: list[FootnoteEntry] = []
 
@@ -447,7 +448,7 @@ class MinimalDocx:
         if style != "Normal":
             ppr_parts.append(f'<w:pStyle w:val="{attr(style)}"/>')
         if section_break_after:
-            ppr_parts.append(section_properties_xml(section_type="continuous"))
+            ppr_parts.append(section_properties_xml(section_type="continuous", compact_print=self.compact_print))
         ppr = f"<w:pPr>{''.join(ppr_parts)}</w:pPr>" if ppr_parts else ""
         self.body.append(f"<w:p>{ppr}{''.join(runs)}</w:p>")
 
@@ -464,7 +465,7 @@ class MinimalDocx:
 
     def save(self, path: Path, *, compresslevel: int = DOCX_DEFAULT_COMPRESSLEVEL) -> None:
         path.parent.mkdir(parents=True, exist_ok=True)
-        document_xml = build_document_xml("\n".join(self.body))
+        document_xml = build_document_xml("\n".join(self.body), compact_print=self.compact_print)
         footnotes_xml = build_footnotes_xml(self.footnotes)
         files = {
             "[Content_Types].xml": content_types_xml(),
@@ -473,7 +474,7 @@ class MinimalDocx:
             "docProps/app.xml": app_props_xml(),
             "word/document.xml": document_xml,
             "word/_rels/document.xml.rels": document_rels_xml(),
-            "word/styles.xml": styles_xml(),
+            "word/styles.xml": styles_xml(compact_print=self.compact_print),
             "word/settings.xml": settings_xml(),
             "word/footnotes.xml": footnotes_xml,
         }
@@ -777,21 +778,29 @@ def footnote_ref_run(note_id: int) -> str:
     )
 
 
-def section_properties_xml(*, section_type: str | None = None) -> str:
+def section_properties_xml(*, section_type: str | None = None, compact_print: bool = False) -> str:
     section_type_xml = f'<w:type w:val="{attr(section_type)}"/>' if section_type else ""
+    margins = (
+        '<w:pgMar w:top="720" w:right="540" w:bottom="720" w:left="540" '
+        'w:header="360" w:footer="360" w:gutter="0"/>'
+        if compact_print
+        else '<w:pgMar w:top="1080" w:right="1080" w:bottom="1080" w:left="1080" '
+        'w:header="720" w:footer="720" w:gutter="0"/>'
+    )
+    columns = '<w:cols w:space="360" w:num="2"/>' if compact_print else ""
     return (
         "<w:sectPr>"
         '<w:footnotePr><w:numRestart w:val="eachSect"/><w:numFmt w:val="decimal"/></w:footnotePr>'
         f"{section_type_xml}"
         '<w:pgSz w:w="12240" w:h="15840"/>'
-        '<w:pgMar w:top="1080" w:right="1080" w:bottom="1080" w:left="1080" '
-        'w:header="720" w:footer="720" w:gutter="0"/>'
+        f"{margins}"
+        f"{columns}"
         "</w:sectPr>"
     )
 
 
-def build_document_xml(body_xml: str) -> str:
-    section = section_properties_xml()
+def build_document_xml(body_xml: str, *, compact_print: bool = False) -> str:
+    section = section_properties_xml(compact_print=compact_print)
     return (
         '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
         f'<w:document xmlns:w="{DOCX_W_NS}" xmlns:r="{DOCX_R_NS}">'
@@ -912,18 +921,24 @@ def settings_xml() -> str:
     )
 
 
-def styles_xml() -> str:
+def styles_xml(*, compact_print: bool = False) -> str:
+    normal_size = "19" if compact_print else "22"
+    title_size = "32" if compact_print else "40"
+    heading1_size = "24" if compact_print else "32"
+    heading2_size = "21" if compact_print else "26"
+    footnote_size = "15" if compact_print else "18"
     return (
         '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
         f'<w:styles xmlns:w="{DOCX_W_NS}">'
         '<w:style w:type="paragraph" w:default="1" w:styleId="Normal">'
         '<w:name w:val="Normal"/><w:qFormat/>'
-        '<w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/><w:sz w:val="22"/></w:rPr>'
+        '<w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>'
+        f'<w:sz w:val="{normal_size}"/></w:rPr>'
         "</w:style>"
         '<w:style w:type="paragraph" w:styleId="Title">'
         '<w:name w:val="Title"/><w:basedOn w:val="Normal"/><w:qFormat/>'
         '<w:pPr><w:spacing w:after="240"/></w:pPr>'
-        '<w:rPr><w:b/><w:sz w:val="40"/></w:rPr>'
+        f'<w:rPr><w:b/><w:sz w:val="{title_size}"/></w:rPr>'
         "</w:style>"
         '<w:style w:type="paragraph" w:styleId="Subtitle">'
         '<w:name w:val="Subtitle"/><w:basedOn w:val="Normal"/><w:qFormat/>'
@@ -934,13 +949,13 @@ def styles_xml() -> str:
         '<w:name w:val="heading 1"/><w:basedOn w:val="Normal"/><w:qFormat/>'
         '<w:pPr><w:keepNext/><w:spacing w:before="420" w:after="180"/>'
         '<w:outlineLvl w:val="0"/></w:pPr>'
-        '<w:rPr><w:b/><w:sz w:val="32"/></w:rPr>'
+        f'<w:rPr><w:b/><w:sz w:val="{heading1_size}"/></w:rPr>'
         "</w:style>"
         '<w:style w:type="paragraph" w:styleId="Heading2">'
         '<w:name w:val="heading 2"/><w:basedOn w:val="Normal"/><w:qFormat/>'
         '<w:pPr><w:keepNext/><w:spacing w:before="240" w:after="120"/>'
         '<w:outlineLvl w:val="1"/></w:pPr>'
-        '<w:rPr><w:b/><w:sz w:val="26"/></w:rPr>'
+        f'<w:rPr><w:b/><w:sz w:val="{heading2_size}"/></w:rPr>'
         "</w:style>"
         '<w:style w:type="character" w:styleId="FootnoteReference">'
         '<w:name w:val="Footnote Reference"/><w:semiHidden/><w:unhideWhenUsed/>'
@@ -949,7 +964,7 @@ def styles_xml() -> str:
         '<w:style w:type="paragraph" w:styleId="FootnoteText">'
         '<w:name w:val="Footnote Text"/><w:basedOn w:val="Normal"/>'
         '<w:pPr><w:spacing w:after="0"/></w:pPr>'
-        '<w:rPr><w:sz w:val="18"/></w:rPr>'
+        f'<w:rPr><w:sz w:val="{footnote_size}"/></w:rPr>'
         "</w:style>"
         "</w:styles>"
     )
@@ -2509,6 +2524,12 @@ def build_docx(
     place_link_pattern: re.Pattern[str] | None = None,
     crossrefs_enabled: bool = False,
     docx_compresslevel: int = DOCX_DEFAULT_COMPRESSLEVEL,
+    compact_print: bool = False,
+    output_kind: str | None = None,
+    subtitle: str | None = None,
+    crossref_policy: str | None = None,
+    name_policy: str | None = None,
+    supplemental_policy: str | None = None,
 ) -> BuildStats:
     doc = MinimalDocx(
         title=title,
@@ -2517,9 +2538,10 @@ def build_docx(
             if crossrefs_enabled
             else f"{description} with translation, textual, supplemental, and name notes"
         ),
+        compact_print=compact_print,
     )
     stats = BuildStats(
-        output_kind="logos" if logos else "proofreading",
+        output_kind=output_kind or ("logos" if logos else "proofreading"),
         milestone_mode=milestone_mode,
         footnote_number_restart=footnote_number_restart,
     )
@@ -2533,6 +2555,11 @@ def build_docx(
         milestone_mode=milestone_mode,
         footnote_number_restart=footnote_number_restart,
         crossrefs_enabled=crossrefs_enabled,
+        book_prefaces_enabled=bool(book_intros),
+        subtitle=subtitle,
+        crossref_policy=crossref_policy,
+        name_policy=name_policy,
+        supplemental_policy=supplemental_policy,
     )
 
     current_book = ""
@@ -2611,37 +2638,53 @@ def add_title_page(
     milestone_mode: str,
     footnote_number_restart: str,
     crossrefs_enabled: bool,
+    book_prefaces_enabled: bool,
+    subtitle: str | None = None,
+    crossref_policy: str | None = None,
+    name_policy: str | None = None,
+    supplemental_policy: str | None = None,
 ) -> None:
     doc.add_paragraph([run(title)], style="Title")
-    subtitle = "Logos Personal Book source" if logos else "Proofreading and print copy"
-    doc.add_paragraph([run(subtitle)], style="Subtitle")
+    subtitle_text = subtitle or ("Logos Personal Book source" if logos else "Proofreading and print copy")
+    doc.add_paragraph([run(subtitle_text)], style="Subtitle")
     if testament == "ot":
         note_policy = "Includes reviewed translation/textual notes. Generic MT/LXX boilerplate is omitted unless a concrete local difference can be stated."
-        supplemental_policy = "Includes supplemental Brenton USFM footnotes."
+        default_supplemental_policy = "Includes supplemental Brenton USFM footnotes."
         vocab_policy = "Hebrew/Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately."
     elif testament == "nt":
         note_policy = "Includes reviewed translation/textual notes that match NT references. OT-specific MT/LXX boilerplate is omitted."
-        supplemental_policy = "Includes no NT supplemental source-note layer yet."
+        default_supplemental_policy = "Includes no NT supplemental source-note layer yet."
         vocab_policy = "Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately."
     else:
         note_policy = "Includes reviewed OT and NT translation/textual notes. Generic MT/LXX boilerplate is omitted unless a concrete local difference can be stated."
-        supplemental_policy = "Includes OT supplemental Brenton USFM footnotes where available; no NT supplemental source-note layer yet."
+        default_supplemental_policy = "Includes OT supplemental Brenton USFM footnotes where available; no NT supplemental source-note layer yet."
         vocab_policy = "Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately."
+    supplemental_policy_text = supplemental_policy or default_supplemental_policy
+    name_policy_text = name_policy or "Includes name-meaning notes at first exact occurrence per chapter."
+    crossref_policy_text = crossref_policy or (
+        "Includes full available cross-reference set from TSK, with OpenBible fallback where TSK has no row."
+        if crossrefs_enabled
+        else "Cross-reference footnote layer is excluded because --no-crossrefs was used."
+    )
     lines = [
         description,
         note_policy,
-        "Includes book preface pages before each book's chapter text.",
         (
-            "Includes full available cross-reference set from TSK, with OpenBible fallback where TSK has no row."
-            if crossrefs_enabled
-            else "Cross-reference footnote layer is excluded because --no-crossrefs was used."
+            "Includes book preface pages before each book's chapter text."
+            if book_prefaces_enabled
+            else "Book preface pages are excluded to keep this copy shorter."
         ),
-        "Includes name-meaning notes at first exact occurrence per chapter.",
-        supplemental_policy,
+        crossref_policy_text,
+        name_policy_text,
+        supplemental_policy_text,
         vocab_policy,
         (
             f"Regular footnote numbering restarts by {footnote_number_restart}. "
-            "Cross-reference footnotes use normal numeric Word footnote references for Logos Personal Book compatibility when enabled."
+            + (
+                "Cross-reference footnotes use normal numeric Word footnote references for Logos Personal Book compatibility when enabled."
+                if logos
+                else "Cross-reference footnotes use normal numeric Word footnote references when enabled."
+            )
         ),
     ]
     if logos:

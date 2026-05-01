@@ -74,8 +74,21 @@ make build-ot
 make build-nt
 make build-combined
 make build-combined-logos
+make build-print-proof
 make release-combined
 ```
+
+For a compact physical proofreading copy, run:
+
+```bash
+make build-print-proof
+```
+
+That target writes a two-column DOCX under `output/print/` with the combined
+fresh translation, reviewed translation notes, source-occurrence name meanings,
+and a minimal TSK-only cross-reference layer. It excludes book prefaces, Brenton/source
+supplemental notes, OpenBible fallback cross-references, and TSK study-note
+text.
 
 For fast NT iteration without touching committed release outputs:
 
@@ -169,6 +182,9 @@ contributors.
 - `output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx`
 - `output/logos_greek_heritage/the_greek_heritage_study_bible_diagnostics.json`
 - `output/logos_greek_heritage/README.md`
+- `output/print/the_greek_heritage_study_bible_print_proof.docx`
+- `output/print/the_greek_heritage_study_bible_print_proof_diagnostics.json`
+- `output/print/README.md`
 - `release/fresh-translation-ot-rc1/MANIFEST.md`
 - `release/greek-heritage-study-bible-rc1/MANIFEST.md`
 

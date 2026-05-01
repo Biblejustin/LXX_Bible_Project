@@ -60,6 +60,7 @@ Primary committed outputs:
 - `output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx`
 - `output/logos_greek_heritage/the_greek_heritage_study_bible_reference_notes.docx`
 - `output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx`
+- `output/print/the_greek_heritage_study_bible_print_proof.docx`
 - `output/fresh_vs_brenton_ot_drafted.csv`
 - `output/fresh_vs_brenton_ot_priority_review.csv`
 - `output/fresh_human_review_core.csv`
@@ -70,7 +71,7 @@ Primary committed outputs:
 ## Known Limitations
 
 - This is an OT release candidate, not a final typeset publication.
-- The output is Markdown/CSV, not a formatted print or app edition.
+- The compact print proof is a proofreading DOCX, not a final typeset print edition.
 - `data/research/variant_notes.csv` has `0` non-blocking pending
   apparatus rows.
 - Brenton comparison coverage has known missing rows where the upstream Brenton source lacks a matched row; the fresh OT draft itself is complete.

@@ -1,0 +1,31 @@
+# Print Proof Files
+
+Generated files:
+
+- `the_greek_heritage_study_bible_print_proof.docx`: compact DOCX for inexpensive physical proofreading.
+- `the_greek_heritage_study_bible_print_proof_diagnostics.json`: build counts and DOCX validation details.
+
+Profile:
+
+- Combined Genesis-Revelation text.
+- Compact two-column DOCX layout with narrow margins.
+- Reviewed translation/textual notes included.
+- Name-meaning notes are included only at their listed first/source occurrence to keep the physical proof shorter.
+- Book preface pages excluded.
+- Brenton/source supplemental notes excluded.
+- Minimal cross-reference layer: TSK phrase-anchored references only, no OpenBible fallback, capped to one cross-reference footnote per verse and two references per footnote.
+
+Counts:
+
+- Verses: `30866`
+- Translation/textual note footnotes: `3987`
+- Name-meaning footnotes: `2816`
+- Cross-reference footnotes: `12902`
+- Cross-reference refs kept: `24110`
+- Supplemental/Brenton footnotes: `0`
+
+Rebuild:
+
+```bash
+make build-print-proof
+```

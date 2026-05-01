@@ -1,0 +1,189 @@
+{
+  "verse_rows": 30866,
+  "book_count": 66,
+  "translation_note_filter": {
+    "rows": 25247,
+    "included": 3992,
+    "included_mt_lxx_difference_notes": 320,
+    "skipped_unreviewed": 1893,
+    "skipped_generic_mt_lxx_without_concrete_detail": 9163,
+    "included_concrete_mt_lxx_details": 3,
+    "skipped_generic_or_brenton_only": 10090,
+    "skipped_note_type": 109
+  },
+  "translation_decision_filter": {
+    "present": 1,
+    "rows": 12393,
+    "skipped_non_variant": 7759,
+    "skipped_unreviewed": 2736,
+    "included": 1898,
+    "included_refs": 1898
+  },
+  "textual_note_export": {
+    "present": false,
+    "path": "/Users/justinscaggs/Documents/Codex_bible/data/research/textual_notes_export.html",
+    "included_refs": 0,
+    "included_total": 0
+  },
+  "included_translation_note_refs": 3878,
+  "included_translation_note_total": 3987,
+  "name_meaning_note_filter": {
+    "proper_name_rows": 215,
+    "proper_name_included": 215,
+    "transliterated_proper_name_rows": 2510,
+    "transliterated_proper_name_included": 2510,
+    "transliterated_proper_name_alternate_triggers": 259,
+    "name_of_god_rows": 92,
+    "name_of_god_included": 92,
+    "included": 2817,
+    "refs": 1763,
+    "placement_input_refs": 1763,
+    "placement_input_notes": 3076,
+    "placement_output_refs": 1762,
+    "placement_output_notes": 2816,
+    "placement_deduplicated_alternate_triggers": 259,
+    "placement_skipped_missing_source_ref": 1,
+    "placement_enabled": true,
+    "placement_profile": "source_ref_only",
+    "placement_selection_policy": "Listed first/source occurrence only; repeated chapter placements omitted."
+  },
+  "included_name_meaning_note_refs": 1762,
+  "included_name_meaning_note_total": 2816,
+  "supplemental_notes": {
+    "enabled": false,
+    "reason": "Excluded for compact print proof.",
+    "included_refs": 0,
+    "included_total": 0
+  },
+  "full_crossrefs": {
+    "source_counts": {
+      "tsk": 28268,
+      "openbible_fallback": 161
+    },
+    "verses_with_crossrefs": 27830,
+    "crossref_note_groups": 56757,
+    "total_crossrefs_after_canonicalization": 291870,
+    "tsk": {
+      "testament": "combined",
+      "status": "parsed",
+      "ot": {
+        "archive_present": true,
+        "testament": "ot",
+        "status": "parsed",
+        "ot_entries": 24115,
+        "verses_with_refs": 21849,
+        "crossref_groups": 46592,
+        "phrase_anchor_candidates": 40890,
+        "total_crossrefs": 226754
+      },
+      "nt": {
+        "archive_present": true,
+        "testament": "nt",
+        "status": "parsed",
+        "nt_entries": 8246,
+        "verses_with_refs": 7773,
+        "crossref_groups": 18652,
+        "phrase_anchor_candidates": 14454,
+        "total_crossrefs": 112720
+      },
+      "verses_with_refs": 29622,
+      "crossref_groups": 65244,
+      "total_crossrefs": 339474
+    },
+    "openbible": {
+      "archive_present": true,
+      "license": "CC-BY 2026-04-06 via openbible.info",
+      "rows": 344799,
+      "usable_rows": 341316,
+      "verses_with_refs": 29318
+    }
+  },
+  "minimal_crossrefs": {
+    "input_groups": 56757,
+    "input_refs": 291870,
+    "verses_with_only_unselected_crossrefs": 14928,
+    "output_groups": 12902,
+    "output_refs": 24110,
+    "truncated_refs": 42942,
+    "enabled": true,
+    "profile": "minimal_print",
+    "source_policy": "TSK only; OpenBible fallback omitted.",
+    "selection_policy": "First phrase-anchored TSK group per verse.",
+    "max_groups_per_verse": 1,
+    "max_refs_per_note": 2,
+    "verses_with_crossrefs": 12902
+  },
+  "versification_map": {
+    "present": true,
+    "path": "/Users/justinscaggs/Documents/Codex_bible/data/versification/lxx_to_eng_map.json",
+    "source": "versification-utils 0.0.1 standard_mappings lxx.json + eng.json",
+    "source_url": "https://github.com/jcuenod/versification_utils",
+    "license": "MIT",
+    "mapped_refs": 5944
+  },
+  "print_profile": {
+    "layout": "compact_two_column",
+    "book_prefaces": "excluded",
+    "brenton_supplemental_notes": "excluded",
+    "openbible_fallback": "excluded",
+    "name_meanings": "listed_first_source_occurrence_only",
+    "tsk_study_note_text": "excluded"
+  },
+  "print_docx": {
+    "output_kind": "print_proof",
+    "milestone_mode": "lxx",
+    "paragraph_count": 32121,
+    "footnote_count": 19705,
+    "crossref_footnotes": 12902,
+    "translation_note_footnotes": 3987,
+    "section_break_count": 1189,
+    "footnote_number_restart": "chapter",
+    "crossref_marker_mode": "numeric",
+    "crossref_marker_restart": "none",
+    "phrase_anchored_translation_notes": 3127,
+    "verse_anchored_translation_notes": 860,
+    "name_meaning_footnotes": 2816,
+    "supplemental_note_footnotes": 0,
+    "brenton_supplemental_footnotes": 0,
+    "textual_note_export_footnotes": 0,
+    "phrase_anchored_name_meaning_notes": 2674,
+    "verse_anchored_name_meaning_notes": 142,
+    "phrase_anchored_crossref_notes": 12194,
+    "verse_anchored_crossref_notes": 708,
+    "custom_marked_crossref_notes": 0,
+    "max_crossref_marker_index_in_chapter": 0,
+    "place_link_count": 0,
+    "book_preface_pages": 0,
+    "mapped_milestone_refs": 0,
+    "fallback_milestone_refs": 0,
+    "duplicate_milestone_refs": 0,
+    "suppressed_duplicate_milestone_refs": 0
+  },
+  "validations": [
+    {
+      "path": "/Users/justinscaggs/Documents/Codex_bible/output/print/the_greek_heritage_study_bible_print_proof.docx",
+      "zip_ok": true,
+      "xml_ok": true,
+      "entries": [
+        "[Content_Types].xml",
+        "_rels/.rels",
+        "docProps/core.xml",
+        "docProps/app.xml",
+        "word/document.xml",
+        "word/_rels/document.xml.rels",
+        "word/styles.xml",
+        "word/settings.xml",
+        "word/footnotes.xml"
+      ],
+      "bad_entry": null,
+      "xml_errors": [],
+      "footnote_reference_count": 19705,
+      "footnote_body_count": 19705
+    }
+  ],
+  "outputs": {
+    "print_docx": "/Users/justinscaggs/Documents/Codex_bible/output/print/the_greek_heritage_study_bible_print_proof.docx",
+    "diagnostics": "/Users/justinscaggs/Documents/Codex_bible/output/print/the_greek_heritage_study_bible_print_proof_diagnostics.json",
+    "readme": "/Users/justinscaggs/Documents/Codex_bible/output/print/README.md"
+  }
+}
