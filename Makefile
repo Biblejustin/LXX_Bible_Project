@@ -1,4 +1,4 @@
-.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review build-nt build-nt-fast build-nt-book review-nt-fast build-combined clean-working
+.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review build-nt build-nt-fast build-nt-book review-nt-fast build-combined build-combined-logos release-combined clean-working
 
 PYTHON ?= python
 CHANGES ?= Reviewed article and readability cleanup.
@@ -15,7 +15,7 @@ test:
 csv-check:
 	$(PYTHON) scripts/check_csv_shapes.py
 
-build-fresh: build-ot build-nt build-combined
+build-fresh: build-ot build-nt release-combined
 
 build-ot:
 	$(PYTHON) scripts/run_book_checkpoint.py
@@ -56,6 +56,12 @@ review-nt-fast:
 
 build-combined:
 	$(PYTHON) scripts/build_combined_fresh_translation.py
+
+build-combined-logos:
+	$(PYTHON) scripts/build_fresh_logos_bible.py --testament combined --source data/raw/lxx_greek/ot_full.csv --nt-source data/raw/tr_greek/nt_full.csv --logos-docx output/logos_full/fresh_translation_full_bible_logos_bible.docx --mt-bridge-docx output/logos_full/fresh_translation_full_bible_reference_notes.docx --proof-docx output/logos_full/fresh_translation_full_bible_proofreading.docx --diagnostics output/logos_full/fresh_translation_full_bible_diagnostics.json --readme output/logos_full/README.md --preview output/logos_full/fresh_translation_full_bible_preview.md
+
+release-combined: build-combined build-combined-logos
+	$(PYTHON) scripts/build_combined_release_package.py
 
 clean-working:
 	rm -rf output/working

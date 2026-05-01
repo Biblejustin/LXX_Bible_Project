@@ -76,6 +76,7 @@ INGEST_CACHE_VERSION = "fresh-logos-ingest-v2"
 csv.field_size_limit(sys.maxsize)
 
 DEFAULT_SOURCE = RAW / "lxx_greek" / "ot_full.csv"
+DEFAULT_NT_SOURCE = RAW / "tr_greek" / "nt_full.csv"
 DEFAULT_FOOTNOTES = RESEARCH / "translation_footnotes.csv"
 DEFAULT_TRANSLATION_DECISIONS = RESEARCH / "translation_decisions.csv"
 DEFAULT_PROPER_NAMES = DATA / "proper_names.csv"
@@ -134,6 +135,15 @@ TESTAMENT_CONFIG = {
         "bridge_label": "Reference Notes Bridge",
         "preview_title": "Fresh Translation NT TR Logos Bible Preview",
         "description": "Fresh New Testament Textus Receptus translation draft.",
+    },
+    "combined": {
+        "label": "Full Bible",
+        "full_label": "Old and New Testaments",
+        "source_text": "OT LXX Greek and NT Scrivener 1894 Textus Receptus Greek",
+        "title_prefix": "Fresh Translation Full Bible",
+        "bridge_label": "Reference Notes Bridge",
+        "preview_title": "Fresh Translation Full Bible Logos Bible Preview",
+        "description": "Fresh Old and New Testament translation draft.",
     },
 }
 
@@ -2037,7 +2047,24 @@ def build_crossrefs_for_verses(
             "crossref_note_groups": 0,
             "total_crossrefs_after_canonicalization": 0,
         }
-    tsk_refs, tsk_diag = cached_tsk_crossref_groups(testament)
+    if testament == "combined":
+        ot_tsk_refs, ot_tsk_diag = cached_tsk_crossref_groups("ot")
+        nt_tsk_refs, nt_tsk_diag = cached_tsk_crossref_groups("nt")
+        tsk_refs: dict[tuple[str, int, int], list[CrossReferenceNote]] = {
+            **ot_tsk_refs,
+            **nt_tsk_refs,
+        }
+        tsk_diag: dict[str, object] = {
+            "testament": "combined",
+            "status": "parsed",
+            "ot": ot_tsk_diag,
+            "nt": nt_tsk_diag,
+            "verses_with_refs": len(tsk_refs),
+            "crossref_groups": sum(len(items) for items in tsk_refs.values()),
+            "total_crossrefs": sum(len(item.refs) for items in tsk_refs.values() for item in items),
+        }
+    else:
+        tsk_refs, tsk_diag = cached_tsk_crossref_groups(testament)
     open_refs, open_diag = cached_openbible_crossrefs(limit_per_verse=9999)
     by_ref: dict[str, list[CrossReferenceNote]] = {}
     source_counts = Counter()
@@ -2522,21 +2549,18 @@ def add_title_page(
     doc.add_paragraph([run(title)], style="Title")
     subtitle = "Logos Personal Book source" if logos else "Proofreading and print copy"
     doc.add_paragraph([run(subtitle)], style="Subtitle")
-    note_policy = (
-        "Includes reviewed translation/textual notes. Generic MT/LXX boilerplate is omitted unless a concrete local difference can be stated."
-        if testament == "ot"
-        else "Includes reviewed translation/textual notes that match NT references. OT-specific MT/LXX boilerplate is omitted."
-    )
-    supplemental_policy = (
-        "Includes supplemental Brenton USFM footnotes."
-        if testament == "ot"
-        else "Includes no NT supplemental source-note layer yet."
-    )
-    vocab_policy = (
-        "Hebrew/Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately."
-        if testament == "ot"
-        else "Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately."
-    )
+    if testament == "ot":
+        note_policy = "Includes reviewed translation/textual notes. Generic MT/LXX boilerplate is omitted unless a concrete local difference can be stated."
+        supplemental_policy = "Includes supplemental Brenton USFM footnotes."
+        vocab_policy = "Hebrew/Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately."
+    elif testament == "nt":
+        note_policy = "Includes reviewed translation/textual notes that match NT references. OT-specific MT/LXX boilerplate is omitted."
+        supplemental_policy = "Includes no NT supplemental source-note layer yet."
+        vocab_policy = "Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately."
+    else:
+        note_policy = "Includes reviewed OT and NT translation/textual notes. Generic MT/LXX boilerplate is omitted unless a concrete local difference can be stated."
+        supplemental_policy = "Includes OT supplemental Brenton USFM footnotes where available; no NT supplemental source-note layer yet."
+        vocab_policy = "Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately."
     lines = [
         description,
         note_policy,
@@ -2789,6 +2813,7 @@ def build_readme(
     testament: str,
     config: dict[str, str],
     source_path: Path,
+    nt_source_path: Path | None,
     logos_docx: Path,
     mt_bridge_docx: Path,
     proof_docx: Path,
@@ -2825,53 +2850,56 @@ def build_readme(
         source_display = source_path.relative_to(ROOT).as_posix()
     except ValueError:
         source_display = str(source_path)
-    source_note = (
-        "- Supplemental Brenton notes: Brenton USFM footnotes are included. TSK study-note text is intentionally excluded because it is too large for this Logos source. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes."
-        if testament == "ot"
-        else "- Supplemental source notes: no NT supplemental source-note layer is currently enabled. TSK study-note text is intentionally excluded because it is too large for this Logos source. Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes."
-    )
-    variant_note = (
-        f"- Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Generic MT/LXX difference rows are skipped unless `{translation_decisions_display}` supports a concrete local detail, such as a substantive number/unit difference. Those concrete rows are labeled `MT/LXX note`."
-        if testament == "ot"
-        else "- Translation notes: reviewed rows from `data/research/translation_footnotes.csv` plus any local textual-note export entries matching NT references. OT-specific MT/LXX rows are ignored for this NT source."
-    )
-    future_work_note = (
-        f"- Future work: deuterocanonical/apocrypha intro rows exist, but current source text does not yet include these books: {missing_deuterocanon_display}."
-        if testament == "ot"
-        else "- Future polish: NT source rows are complete; continue copyediting, note hygiene, and Logos compile spot-checks."
-    )
-    verse_numbering_note = (
-        "- OT Logos files preserve LXX source ordering and visible LXX verse numbers by design, including places where LXX chapter/verse order differs from standard English/MT order."
-        if testament == "ot"
-        else "- NT Logos files use the standard NT chapter/verse order from the Scrivener TR source rows."
-    )
-    ot_shape_notes = (
-        "- MT-only completeness insertion: LXX-numbered Jeremiah 40:14-26 supplies MT Jeremiah 33:14-26 in brackets. The footnote marks these verses as present in the MT, absent from the LXX text used here, not quoted in the NT, and included for completeness.\n"
-        "- 1 Kings ordering: Naboth vineyard material appears at LXX-numbered 1 Kings 20, while Ben-Hadad battle material appears at LXX-numbered 1 Kings 21. This follows the source order and is not treated as a missing chapter."
-        if testament == "ot"
-        else "- NT source shape: source rows follow the Scrivener 1894 Textus Receptus chapter/verse sequence."
-    )
+    if nt_source_path is not None:
+        try:
+            nt_source_display = nt_source_path.relative_to(ROOT).as_posix()
+        except ValueError:
+            nt_source_display = str(nt_source_path)
+    else:
+        nt_source_display = ""
+    if testament == "ot":
+        source_note = "- Supplemental Brenton notes: Brenton USFM footnotes are included. TSK study-note text is intentionally excluded because it is too large for this Logos source. Hebrew and Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes."
+        variant_note = f"- Translation notes: reviewed rows from `data/research/translation_footnotes.csv`. Generic MT/LXX difference rows are skipped unless `{translation_decisions_display}` supports a concrete local detail, such as a substantive number/unit difference. Those concrete rows are labeled `MT/LXX note`."
+        future_work_note = f"- Future work: deuterocanonical/apocrypha intro rows exist, but current source text does not yet include these books: {missing_deuterocanon_display}."
+        verse_numbering_note = "- OT Logos files preserve LXX source ordering and visible LXX verse numbers by design, including places where LXX chapter/verse order differs from standard English/MT order."
+        ot_shape_notes = (
+            "- MT-only completeness insertion: LXX-numbered Jeremiah 40:14-26 supplies MT Jeremiah 33:14-26 in brackets. The footnote marks these verses as present in the MT, absent from the LXX text used here, not quoted in the NT, and included for completeness.\n"
+            "- 1 Kings ordering: Naboth vineyard material appears at LXX-numbered 1 Kings 20, while Ben-Hadad battle material appears at LXX-numbered 1 Kings 21. This follows the source order and is not treated as a missing chapter."
+        )
+    elif testament == "nt":
+        source_note = "- Supplemental source notes: no NT supplemental source-note layer is currently enabled. TSK study-note text is intentionally excluded because it is too large for this Logos source. Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes."
+        variant_note = "- Translation notes: reviewed rows from `data/research/translation_footnotes.csv` plus any local textual-note export entries matching NT references. OT-specific MT/LXX rows are ignored for this NT source."
+        future_work_note = "- Future polish: NT source rows are complete; continue copyediting, note hygiene, and Logos compile spot-checks."
+        verse_numbering_note = "- NT Logos files use the standard NT chapter/verse order from the Scrivener TR source rows."
+        ot_shape_notes = "- NT source shape: source rows follow the Scrivener 1894 Textus Receptus chapter/verse sequence."
+    else:
+        source_note = "- Supplemental source notes: OT Brenton USFM footnotes are included where available; no NT supplemental source-note layer is currently enabled. TSK study-note text is intentionally excluded because it is too large for this Logos source. Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes."
+        variant_note = f"- Translation notes: reviewed rows from `data/research/translation_footnotes.csv` plus any local textual-note export entries matching included references. Generic MT/LXX difference rows are skipped unless `{translation_decisions_display}` supports a concrete local detail."
+        future_work_note = f"- Future work: deuterocanonical/apocrypha intro rows exist, but current source text does not yet include these books: {missing_deuterocanon_display}. NT source rows are complete; continue copyediting, note hygiene, and Logos compile spot-checks."
+        verse_numbering_note = "- Combined Logos files preserve OT LXX source ordering and visible LXX verse numbers, while NT rows use the standard Scrivener TR chapter/verse sequence."
+        ot_shape_notes = (
+            "- MT-only completeness insertion: LXX-numbered Jeremiah 40:14-26 supplies MT Jeremiah 33:14-26 in brackets. The footnote marks these verses as present in the MT, absent from the LXX text used here, not quoted in the NT, and included for completeness.\n"
+            "- 1 Kings ordering: Naboth vineyard material appears at LXX-numbered 1 Kings 20, while Ben-Hadad battle material appears at LXX-numbered 1 Kings 21. This follows the source order and is not treated as a missing chapter.\n"
+            "- NT source shape: source rows follow the Scrivener 1894 Textus Receptus chapter/verse sequence."
+        )
     place_link_note = (
         "- Place links: conservative Logos `BibleKnowledgebase` datatype links are added for unambiguous primary place labels found in the local Logos autocomplete database. These are clickable Factbook/place links; Personal Book source does not expose the same internal atlas-pin overlay used by Logos-edition Bibles."
         if place_links_enabled
         else "- Place links: disabled by default; generated DOCX keeps place names as plain text so Personal Book import remains stable."
     )
     bridge_heading = "MT-note bridge import" if testament == "ot" else "Reference-note bridge import"
-    bridge_note = (
-        f"Use `{mt_bridge_docx.name}` instead of `{logos_docx.name}` when the goal is to surface notes already anchored to standard MT/English Bible references. The visible verse numbers remain from the LXX source rows, but hidden milestones are remapped to standard Bible references where a reliable mapping is available."
-        if testament == "ot"
-        else f"`{mt_bridge_docx.name}` is emitted for parity with the OT build. NT TR source rows already use standard NT versification, so this bridge should normally match the main Logos source."
-    )
-    source_basis_note = (
-        f"- Source text: `{source_display}`."
-        if testament == "ot"
-        else f"- Source text: `{source_display}`, imported from byztxt/greektext-scrivener Scrivener 1894 Textus Receptus text-only files."
-    )
-    bridge_file_note = (
-        "Logos Personal Book source with verse milestones remapped to standard English/MT references so existing reference-anchored Logos notes from MT-based Bibles can show. Compile as resource type `Bible`."
-        if testament == "ot"
-        else "Logos Personal Book source emitted for parity with the OT reference-bridge output. NT TR source rows already use standard NT milestones. Compile as resource type `Bible`."
-    )
+    if testament == "ot":
+        bridge_note = f"Use `{mt_bridge_docx.name}` instead of `{logos_docx.name}` when the goal is to surface notes already anchored to standard MT/English Bible references. The visible verse numbers remain from the LXX source rows, but hidden milestones are remapped to standard Bible references where a reliable mapping is available."
+        source_basis_note = f"- Source text: `{source_display}`."
+        bridge_file_note = "Logos Personal Book source with verse milestones remapped to standard English/MT references so existing reference-anchored Logos notes from MT-based Bibles can show. Compile as resource type `Bible`."
+    elif testament == "nt":
+        bridge_note = f"`{mt_bridge_docx.name}` is emitted for parity with the OT build. NT TR source rows already use standard NT versification, so this bridge should normally match the main Logos source."
+        source_basis_note = f"- Source text: `{source_display}`, imported from byztxt/greektext-scrivener Scrivener 1894 Textus Receptus text-only files."
+        bridge_file_note = "Logos Personal Book source emitted for parity with the OT reference-bridge output. NT TR source rows already use standard NT milestones. Compile as resource type `Bible`."
+    else:
+        bridge_note = f"`{mt_bridge_docx.name}` remaps OT milestones to standard English/MT references where a reliable mapping is available. NT TR source rows already use standard NT versification."
+        source_basis_note = f"- Source text: `{source_display}` plus `{nt_source_display}`."
+        bridge_file_note = "Combined Logos Personal Book source with OT milestones remapped to standard English/MT references where possible and NT milestones left on their standard references. Compile as resource type `Bible`."
     crossref_note = (
         "- Cross-references: TSK primary set from `data/raw/TSK.zip`; OpenBible fallback from `data/raw/cross-references.zip` where TSK has no verse row. TSK catchwords are used as word/phrase anchors only when they exactly match the fresh translation; otherwise cross-references remain verse-anchored. Broad single-word catchword groups are thinned to same-book links or dropped to avoid loose thematic jumps. See root `NOTICE.md` for public-domain/CC-BY attribution details."
         if crossrefs_enabled
@@ -3025,6 +3053,7 @@ def build_diagnostics(
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--source", type=Path, default=DEFAULT_SOURCE)
+    parser.add_argument("--nt-source", type=Path, default=DEFAULT_NT_SOURCE)
     parser.add_argument("--footnotes", type=Path, default=DEFAULT_FOOTNOTES)
     parser.add_argument("--translation-decisions", type=Path, default=DEFAULT_TRANSLATION_DECISIONS)
     parser.add_argument("--proper-names", type=Path, default=DEFAULT_PROPER_NAMES)
@@ -3083,8 +3112,13 @@ def main() -> None:
     args = parser.parse_args()
     config = TESTAMENT_CONFIG[args.testament]
 
+    source_verses = (
+        [*load_verses(args.source), *load_verses(args.nt_source)]
+        if args.testament == "combined"
+        else load_verses(args.source)
+    )
     verses = filter_items_by_book(
-        load_verses(args.source),
+        source_verses,
         args.book,
         book_name=lambda verse: verse.book_name,
         book_code=lambda verse: verse.book_code,
@@ -3105,14 +3139,14 @@ def main() -> None:
     book_intros, book_intro_diag = load_book_intros(args.book_intros)
     deuterocanonical_work = (
         deuterocanonical_future_work(book_intros, verses)
-        if args.testament == "ot"
+        if args.testament in {"ot", "combined"}
         else {"enabled": False, "reason": "Not applicable to NT build.", "missing_book_count": 0, "missing_books": []}
     )
     source_name_notes, name_note_counts = load_name_meaning_notes(
         proper_names_path=args.proper_names,
         transliterated_proper_names_path=args.transliterated_proper_names,
         names_of_god_path=args.names_of_god,
-        source_filter=args.testament,
+        source_filter=None if args.testament == "combined" else args.testament,
     )
     name_notes, name_note_placement_counts = place_name_meaning_notes_by_chapter(verses, source_name_notes)
     name_note_counts = {
@@ -3134,7 +3168,7 @@ def main() -> None:
     else:
         place_links, place_link_diag = load_logos_place_links(args.logos_root, args.proper_names)
     place_link_pattern = build_place_link_pattern(place_links)
-    if args.testament == "ot":
+    if args.testament in {"ot", "combined"}:
         brenton_supplemental_notes, brenton_supplemental_counts = load_brenton_supplemental_notes(verses)
     else:
         brenton_supplemental_notes = {}
@@ -3234,6 +3268,7 @@ def main() -> None:
         testament=args.testament,
         config=config,
         source_path=args.source,
+        nt_source_path=args.nt_source if args.testament == "combined" else None,
         logos_docx=args.logos_docx,
         mt_bridge_docx=args.mt_bridge_docx,
         proof_docx=args.proof_docx,

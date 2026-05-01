@@ -8931,6 +8931,7 @@ def test_no_raw_logos_bibleknowledgebase_markup_in_key_outputs() -> None:
         ROOT / "output" / "fresh_translation_full_bible_translation_only.md",
         ROOT / "output" / "logos" / "fresh_translation_ot_logos_bible_preview.md",
         ROOT / "output" / "logos_nt" / "fresh_translation_nt_tr_preview.md",
+        ROOT / "output" / "logos_full" / "fresh_translation_full_bible_preview.md",
     ]
 
     for path in paths:
@@ -8972,8 +8973,12 @@ def test_root_readme_reflects_complete_fresh_workspace() -> None:
     assert "`output/logos_nt/fresh_translation_nt_tr_reference_notes.docx`" in readme
     assert "`output/fresh_translation_full_bible.md`" in readme
     assert "`output/fresh_translation_full_bible_translation_only.md`" in readme
+    assert "`output/logos_full/fresh_translation_full_bible_logos_bible.docx`" in readme
+    assert "`release/fresh-translation-full-bible-rc1/MANIFEST.md`" in readme
     assert "make build-fresh" in readme
     assert "make build-combined" in readme
+    assert "make build-combined-logos" in readme
+    assert "make release-combined" in readme
     assert "Existing OT release-candidate package" in readme
     for stale_phrase in (
         "Fresh Translation Pilot",
@@ -8992,7 +8997,8 @@ def test_root_readme_reflects_complete_fresh_workspace() -> None:
     assert "not aggregate output rebuilds" in architecture_flat
     assert "`make build-nt` before NT release-facing commits" in architecture_flat
     assert "`make build-combined` refreshes the single-file OT/NT Markdown outputs" in architecture_flat
-    assert "build-fresh: build-ot build-nt build-combined" in makefile
+    assert "build-fresh: build-ot build-nt release-combined" in makefile
+    assert "release-combined: build-combined build-combined-logos" in makefile
     assert "PYTHON ?= python" in makefile
     assert "python3" not in readme
     assert "python3" not in contributing
@@ -9053,8 +9059,10 @@ def test_release_status_distinguishes_ot_rc_from_complete_nt_workspace() -> None
     assert "`output/logos_nt/`" in status
     assert "`output/fresh_translation_full_bible.md`" in status
     assert "`output/fresh_translation_full_bible_translation_only.md`" in status
-    assert "existing OT RC1 package only" in status
-    assert "packaged combined release bundle has not been cut" in status
+    assert "`output/logos_full/fresh_translation_full_bible_logos_bible.docx`" in status
+    assert "`release/fresh-translation-full-bible-rc1/`" in status
+    assert "`release/fresh-translation-ot-rc1/MANIFEST.md`" in status
+    assert "packaged combined release bundle has not been cut" not in status
     assert f"`{len(pending_variant_refs)}` non-blocking pending" in status
     assert "apparatus rows." in status
     assert "python3" not in status
@@ -9122,6 +9130,30 @@ def test_combined_fresh_translation_contains_ot_then_nt() -> None:
     assert diagnostics["total_book_count"] == 66
     assert diagnostics["output"].endswith("fresh_translation_full_bible.md")
     assert diagnostics["translation_only_output"].endswith("fresh_translation_full_bible_translation_only.md")
+
+
+def test_combined_release_manifest_and_checksums_cover_outputs() -> None:
+    manifest = (ROOT / "release/fresh-translation-full-bible-rc1/MANIFEST.md").read_text(encoding="utf-8")
+    checksum_lines = (
+        ROOT / "release/fresh-translation-full-bible-rc1/CHECKSUMS.sha256"
+    ).read_text(encoding="utf-8").splitlines()
+    checksums = {line.split("  ", 1)[1]: line.split("  ", 1)[0] for line in checksum_lines}
+    expected_paths = [
+        "output/fresh_translation_full_bible_translation_only.md",
+        "output/fresh_translation_full_bible.md",
+        "output/logos_full/fresh_translation_full_bible_logos_bible.docx",
+        "output/logos_full/fresh_translation_full_bible_reference_notes.docx",
+        "output/logos_full/fresh_translation_full_bible_proofreading.docx",
+        "output/logos_full/README.md",
+    ]
+
+    assert "Release candidate: `fresh-translation-full-bible-rc1`" in manifest
+    assert "make release-combined" in manifest
+    assert "python3" not in manifest
+    for relative_path in expected_paths:
+        assert f"`{relative_path}`" in manifest
+        assert relative_path in checksums
+        assert checksums[relative_path] == sha256(relative_path)
 
 
 def test_no_known_fixed_ot_name_leaks_in_outputs_or_support_tables() -> None:
@@ -9452,6 +9484,9 @@ def test_generated_docx_files_are_valid_when_present() -> None:
         ROOT / "output/logos_nt/fresh_translation_nt_tr_logos_bible.docx",
         ROOT / "output/logos_nt/fresh_translation_nt_tr_reference_notes.docx",
         ROOT / "output/logos_nt/fresh_translation_nt_tr_proofreading.docx",
+        ROOT / "output/logos_full/fresh_translation_full_bible_logos_bible.docx",
+        ROOT / "output/logos_full/fresh_translation_full_bible_reference_notes.docx",
+        ROOT / "output/logos_full/fresh_translation_full_bible_proofreading.docx",
     ]
 
     for path in paths:

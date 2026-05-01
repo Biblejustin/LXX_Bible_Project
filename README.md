@@ -64,13 +64,16 @@ make test
 make build-fresh
 ```
 
-`make build-fresh` refreshes the OT outputs, NT outputs, Logos-facing files, and
-combined OT/NT Markdown files. To rebuild only part of that set:
+`make build-fresh` refreshes the OT outputs, NT outputs, Logos-facing files,
+combined OT/NT Markdown files, combined Logos DOCX files, and combined release
+manifest/checksums. To rebuild only part of that set:
 
 ```bash
 make build-ot
 make build-nt
 make build-combined
+make build-combined-logos
+make release-combined
 ```
 
 For fast NT iteration without touching committed release outputs:
@@ -159,7 +162,14 @@ contributors.
 - `output/logos_nt/fresh_translation_nt_tr_proofreading.docx`
 - `output/logos_nt/fresh_translation_nt_tr_diagnostics.json`
 - `output/logos_nt/README.md`
+- `output/logos_full/fresh_translation_full_bible_logos_bible.docx`
+- `output/logos_full/fresh_translation_full_bible_reference_notes.docx`
+- `output/logos_full/fresh_translation_full_bible_preview.md`
+- `output/logos_full/fresh_translation_full_bible_proofreading.docx`
+- `output/logos_full/fresh_translation_full_bible_diagnostics.json`
+- `output/logos_full/README.md`
 - `release/fresh-translation-ot-rc1/MANIFEST.md`
+- `release/fresh-translation-full-bible-rc1/MANIFEST.md`
 
 ## Fresh Translation Workspace
 
@@ -298,6 +308,8 @@ Existing OT release-candidate package:
 - `RELEASE_STATUS.md`
 - `release/fresh-translation-ot-rc1/MANIFEST.md`
 - `release/fresh-translation-ot-rc1/CHECKSUMS.sha256`
+- `release/fresh-translation-full-bible-rc1/MANIFEST.md`
+- `release/fresh-translation-full-bible-rc1/CHECKSUMS.sha256`
 
 Private witness matrix:
 
