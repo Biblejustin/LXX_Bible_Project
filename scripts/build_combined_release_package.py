@@ -7,23 +7,25 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-RELEASE_DIR = ROOT / "release" / "fresh-translation-full-bible-rc1"
+PUBLICATION_TITLE = "The Greek Heritage Study Bible"
+RELEASE_SLUG = "greek-heritage-study-bible-rc1"
+RELEASE_DIR = ROOT / "release" / RELEASE_SLUG
 MANIFEST = RELEASE_DIR / "MANIFEST.md"
 CHECKSUMS = RELEASE_DIR / "CHECKSUMS.sha256"
 
 READER_ARTIFACTS = [
-    "output/fresh_translation_full_bible_translation_only.md",
-    "output/fresh_translation_full_bible.md",
-    "output/fresh_translation_full_bible_diagnostics.json",
+    "output/the_greek_heritage_study_bible_translation_only.md",
+    "output/the_greek_heritage_study_bible.md",
+    "output/the_greek_heritage_study_bible_diagnostics.json",
 ]
 
 LOGOS_ARTIFACTS = [
-    "output/logos_full/fresh_translation_full_bible_logos_bible.docx",
-    "output/logos_full/fresh_translation_full_bible_reference_notes.docx",
-    "output/logos_full/fresh_translation_full_bible_proofreading.docx",
-    "output/logos_full/fresh_translation_full_bible_diagnostics.json",
-    "output/logos_full/fresh_translation_full_bible_preview.md",
-    "output/logos_full/README.md",
+    "output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx",
+    "output/logos_greek_heritage/the_greek_heritage_study_bible_reference_notes.docx",
+    "output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx",
+    "output/logos_greek_heritage/the_greek_heritage_study_bible_diagnostics.json",
+    "output/logos_greek_heritage/the_greek_heritage_study_bible_preview.md",
+    "output/logos_greek_heritage/README.md",
 ]
 
 VERIFICATION_ARTIFACTS = [
@@ -52,13 +54,13 @@ def bullet_list(paths: list[str]) -> str:
 
 
 def build_manifest(date_prepared: str) -> str:
-    return f"""# Fresh Translation Full Bible RC1 Manifest
+    return f"""# {PUBLICATION_TITLE} RC1 Manifest
 
-Release candidate: `fresh-translation-full-bible-rc1`
+Release candidate: `{RELEASE_SLUG}`
 
 Date prepared: {date_prepared}
 
-This package is a lightweight manifest for the committed full OT/NT release artifacts. Large generated outputs remain in `output/` to avoid duplicating multi-megabyte files in git.
+This package is a lightweight manifest for committed release artifacts for {PUBLICATION_TITLE}. Large generated outputs remain in `output/` to avoid duplicating multi-megabyte files in git.
 
 ## Primary Reader Artifacts
 
@@ -76,8 +78,8 @@ This package is a lightweight manifest for the committed full OT/NT release arti
 
 - OT source: `data/raw/lxx_greek/ot_full.csv`
 - NT source: `data/raw/tr_greek/nt_full.csv`
-- Combined reader draft: Genesis through Revelation, 66 books.
-- Combined Logos DOCX: compile `output/logos_full/fresh_translation_full_bible_logos_bible.docx` in Logos Personal Books as resource type `Bible`.
+- Reader draft: Genesis through Revelation, 66 books.
+- Logos DOCX: compile `output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx` in Logos Personal Books as resource type `Bible`.
 
 ## Checksums
 

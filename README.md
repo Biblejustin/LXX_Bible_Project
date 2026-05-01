@@ -1,6 +1,7 @@
-# LXX Bible Project
+# The Greek Heritage Study Bible
 
-Fresh translation workspace for Greek-to-English OT/NT polish using:
+Fresh translation workspace for Greek-to-English OT/NT polish behind The Greek
+Heritage Study Bible, using:
 
 - Greek source text
 - Logos-based lexical and apparatus review
@@ -138,9 +139,9 @@ contributors.
 - `output/fresh_translation_nt_tr_full.md`
 - `output/fresh_translation_nt_tr_translation_only.md`
 - `output/fresh_translation_nt_tr_diagnostics.json`
-- `output/fresh_translation_full_bible.md`
-- `output/fresh_translation_full_bible_translation_only.md`
-- `output/fresh_translation_full_bible_diagnostics.json`
+- `output/the_greek_heritage_study_bible.md`
+- `output/the_greek_heritage_study_bible_translation_only.md`
+- `output/the_greek_heritage_study_bible_diagnostics.json`
 - `output/fresh_vs_brenton_ot_drafted.md`
 - `output/fresh_vs_brenton_ot_priority_review.md`
 - `output/fresh_nt_tr_vs_ukjv_priority_review.md`
@@ -162,14 +163,14 @@ contributors.
 - `output/logos_nt/fresh_translation_nt_tr_proofreading.docx`
 - `output/logos_nt/fresh_translation_nt_tr_diagnostics.json`
 - `output/logos_nt/README.md`
-- `output/logos_full/fresh_translation_full_bible_logos_bible.docx`
-- `output/logos_full/fresh_translation_full_bible_reference_notes.docx`
-- `output/logos_full/fresh_translation_full_bible_preview.md`
-- `output/logos_full/fresh_translation_full_bible_proofreading.docx`
-- `output/logos_full/fresh_translation_full_bible_diagnostics.json`
-- `output/logos_full/README.md`
+- `output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx`
+- `output/logos_greek_heritage/the_greek_heritage_study_bible_reference_notes.docx`
+- `output/logos_greek_heritage/the_greek_heritage_study_bible_preview.md`
+- `output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx`
+- `output/logos_greek_heritage/the_greek_heritage_study_bible_diagnostics.json`
+- `output/logos_greek_heritage/README.md`
 - `release/fresh-translation-ot-rc1/MANIFEST.md`
-- `release/fresh-translation-full-bible-rc1/MANIFEST.md`
+- `release/greek-heritage-study-bible-rc1/MANIFEST.md`
 
 ## Fresh Translation Workspace
 
@@ -307,8 +308,8 @@ Existing OT release-candidate package:
 - `RELEASE_STATUS.md`
 - `release/fresh-translation-ot-rc1/MANIFEST.md`
 - `release/fresh-translation-ot-rc1/CHECKSUMS.sha256`
-- `release/fresh-translation-full-bible-rc1/MANIFEST.md`
-- `release/fresh-translation-full-bible-rc1/CHECKSUMS.sha256`
+- `release/greek-heritage-study-bible-rc1/MANIFEST.md`
+- `release/greek-heritage-study-bible-rc1/CHECKSUMS.sha256`
 
 Private witness matrix:
 

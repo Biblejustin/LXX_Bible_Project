@@ -18,6 +18,7 @@ from fresh_bible.pipeline_common import load_csv
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "output"
+PUBLICATION_TITLE = "The Greek Heritage Study Bible"
 DEFAULT_OT_SOURCE = ROOT / "data" / "raw" / "lxx_greek" / "ot_full.csv"
 DEFAULT_NT_SOURCE = ROOT / "data" / "raw" / "tr_greek" / "nt_full.csv"
 DEFAULT_LOGOS_NOTES = ROOT / "data" / "research" / "logos_notes.csv"
@@ -25,9 +26,9 @@ DEFAULT_DECISIONS = ROOT / "data" / "research" / "translation_decisions.csv"
 DEFAULT_FOOTNOTES = ROOT / "data" / "research" / "translation_footnotes.csv"
 DEFAULT_VARIANTS = ROOT / "data" / "research" / "variant_notes.csv"
 DEFAULT_STACK = ROOT / "data" / "research" / "logos_translation_stack.json"
-DEFAULT_OUTPUT = OUTPUT / "fresh_translation_full_bible.md"
-DEFAULT_TRANSLATION_ONLY = OUTPUT / "fresh_translation_full_bible_translation_only.md"
-DEFAULT_DIAGNOSTICS = OUTPUT / "fresh_translation_full_bible_diagnostics.json"
+DEFAULT_OUTPUT = OUTPUT / "the_greek_heritage_study_bible.md"
+DEFAULT_TRANSLATION_ONLY = OUTPUT / "the_greek_heritage_study_bible_translation_only.md"
+DEFAULT_DIAGNOSTICS = OUTPUT / "the_greek_heritage_study_bible_diagnostics.json"
 
 
 def ordered_books(rows: List[Dict[str, str]]) -> List[str]:
@@ -75,7 +76,7 @@ def build_combined_translation_only_markdown(
     nt_rows: List[Dict[str, str]],
 ) -> str:
     lines = [
-        "# Fresh Translation Draft",
+        f"# {PUBLICATION_TITLE}",
         "",
         f"Scope: {combined_scope(ot_rows, nt_rows)}",
         "",
@@ -204,7 +205,7 @@ def build_combined_worksheet_markdown(
     stack: Dict[str, object],
 ) -> str:
     lines = [
-        "# Fresh Translation Worksheet",
+        f"# {PUBLICATION_TITLE} Worksheet",
         "",
         f"Scope: {combined_scope(ot_rows, nt_rows)}",
         "",

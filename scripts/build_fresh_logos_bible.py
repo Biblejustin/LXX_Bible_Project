@@ -137,13 +137,13 @@ TESTAMENT_CONFIG = {
         "description": "Fresh New Testament Textus Receptus translation draft.",
     },
     "combined": {
-        "label": "Full Bible",
+        "label": "Greek Heritage Study Bible",
         "full_label": "Old and New Testaments",
         "source_text": "OT LXX Greek and NT Scrivener 1894 Textus Receptus Greek",
-        "title_prefix": "Fresh Translation Full Bible",
+        "title_prefix": "The Greek Heritage Study Bible",
         "bridge_label": "Reference Notes Bridge",
-        "preview_title": "Fresh Translation Full Bible Logos Bible Preview",
-        "description": "Fresh Old and New Testament translation draft.",
+        "preview_title": "The Greek Heritage Study Bible Logos Bible Preview",
+        "description": "The Greek Heritage Study Bible draft from OT LXX Greek and NT Scrivener 1894 Textus Receptus Greek.",
     },
 }
 
@@ -2905,7 +2905,8 @@ def build_readme(
         if crossrefs_enabled
         else "- Cross-references: omitted because `--no-crossrefs` was used."
     )
-    content = f"""# Fresh Translation {config["label"]} Logos/Proofreading Files
+    title = config["title_prefix"] if testament == "combined" else f"Fresh Translation {config['label']}"
+    content = f"""# {title} Logos/Proofreading Files
 
 Generated files:
 

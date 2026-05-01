@@ -58,7 +58,7 @@ build-combined:
 	$(PYTHON) scripts/build_combined_fresh_translation.py
 
 build-combined-logos:
-	$(PYTHON) scripts/build_fresh_logos_bible.py --testament combined --source data/raw/lxx_greek/ot_full.csv --nt-source data/raw/tr_greek/nt_full.csv --logos-docx output/logos_full/fresh_translation_full_bible_logos_bible.docx --mt-bridge-docx output/logos_full/fresh_translation_full_bible_reference_notes.docx --proof-docx output/logos_full/fresh_translation_full_bible_proofreading.docx --diagnostics output/logos_full/fresh_translation_full_bible_diagnostics.json --readme output/logos_full/README.md --preview output/logos_full/fresh_translation_full_bible_preview.md
+	$(PYTHON) scripts/build_fresh_logos_bible.py --testament combined --source data/raw/lxx_greek/ot_full.csv --nt-source data/raw/tr_greek/nt_full.csv --logos-docx output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx --mt-bridge-docx output/logos_greek_heritage/the_greek_heritage_study_bible_reference_notes.docx --proof-docx output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx --diagnostics output/logos_greek_heritage/the_greek_heritage_study_bible_diagnostics.json --readme output/logos_greek_heritage/README.md --preview output/logos_greek_heritage/the_greek_heritage_study_bible_preview.md
 
 release-combined: build-combined build-combined-logos
 	$(PYTHON) scripts/build_combined_release_package.py

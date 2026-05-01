@@ -23,10 +23,10 @@ Current workspace note: the NT TR fresh draft is also complete in
 `output/fresh_translation_nt_tr_full.md`,
 `output/fresh_translation_nt_tr_translation_only.md`, and the `output/logos_nt/`
 Logos files. Combined OT/NT Markdown drafts are generated at
-`output/fresh_translation_full_bible.md` and
-`output/fresh_translation_full_bible_translation_only.md`. Combined Logos DOCX
-files are generated under `output/logos_full/`. The combined OT/NT release
-package is cut at `release/fresh-translation-full-bible-rc1/`.
+`output/the_greek_heritage_study_bible.md` and
+`output/the_greek_heritage_study_bible_translation_only.md`. Combined Logos DOCX
+files are generated under `output/logos_greek_heritage/`. The combined OT/NT release
+package is cut at `release/greek-heritage-study-bible-rc1/`.
 
 ## Verification Counts
 
@@ -48,18 +48,18 @@ The release package manifest is in:
 
 - `release/fresh-translation-ot-rc1/MANIFEST.md`
 - `release/fresh-translation-ot-rc1/CHECKSUMS.sha256`
-- `release/fresh-translation-full-bible-rc1/MANIFEST.md`
-- `release/fresh-translation-full-bible-rc1/CHECKSUMS.sha256`
+- `release/greek-heritage-study-bible-rc1/MANIFEST.md`
+- `release/greek-heritage-study-bible-rc1/CHECKSUMS.sha256`
 
 Primary committed outputs:
 
 - `output/fresh_translation_ot_full_translation_only.md`
 - `output/fresh_translation_ot_full.md`
-- `output/fresh_translation_full_bible.md`
-- `output/fresh_translation_full_bible_translation_only.md`
-- `output/logos_full/fresh_translation_full_bible_logos_bible.docx`
-- `output/logos_full/fresh_translation_full_bible_reference_notes.docx`
-- `output/logos_full/fresh_translation_full_bible_proofreading.docx`
+- `output/the_greek_heritage_study_bible.md`
+- `output/the_greek_heritage_study_bible_translation_only.md`
+- `output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx`
+- `output/logos_greek_heritage/the_greek_heritage_study_bible_reference_notes.docx`
+- `output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx`
 - `output/fresh_vs_brenton_ot_drafted.csv`
 - `output/fresh_vs_brenton_ot_priority_review.csv`
 - `output/fresh_human_review_core.csv`

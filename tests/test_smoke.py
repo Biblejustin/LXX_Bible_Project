@@ -8928,10 +8928,10 @@ def test_no_raw_logos_bibleknowledgebase_markup_in_key_outputs() -> None:
         ROOT / "data" / "research" / "translation_footnotes.csv",
         ROOT / "output" / "fresh_translation_ot_full_translation_only.md",
         ROOT / "output" / "fresh_translation_nt_tr_translation_only.md",
-        ROOT / "output" / "fresh_translation_full_bible_translation_only.md",
+        ROOT / "output" / "the_greek_heritage_study_bible_translation_only.md",
         ROOT / "output" / "logos" / "fresh_translation_ot_logos_bible_preview.md",
         ROOT / "output" / "logos_nt" / "fresh_translation_nt_tr_preview.md",
-        ROOT / "output" / "logos_full" / "fresh_translation_full_bible_preview.md",
+        ROOT / "output" / "logos_greek_heritage" / "the_greek_heritage_study_bible_preview.md",
     ]
 
     for path in paths:
@@ -8971,10 +8971,10 @@ def test_root_readme_reflects_complete_fresh_workspace() -> None:
     assert "`data/raw/tr_greek/nt_full.csv`" in readme
     assert "`output/logos/fresh_translation_ot_logos_bible_mt_notes.docx`" in readme
     assert "`output/logos_nt/fresh_translation_nt_tr_reference_notes.docx`" in readme
-    assert "`output/fresh_translation_full_bible.md`" in readme
-    assert "`output/fresh_translation_full_bible_translation_only.md`" in readme
-    assert "`output/logos_full/fresh_translation_full_bible_logos_bible.docx`" in readme
-    assert "`release/fresh-translation-full-bible-rc1/MANIFEST.md`" in readme
+    assert "`output/the_greek_heritage_study_bible.md`" in readme
+    assert "`output/the_greek_heritage_study_bible_translation_only.md`" in readme
+    assert "`output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx`" in readme
+    assert "`release/greek-heritage-study-bible-rc1/MANIFEST.md`" in readme
     assert "make build-fresh" in readme
     assert "make build-combined" in readme
     assert "make build-combined-logos" in readme
@@ -9060,10 +9060,10 @@ def test_release_status_distinguishes_ot_rc_from_complete_nt_workspace() -> None
     assert "the NT TR fresh draft is also complete" in status
     assert "`output/fresh_translation_nt_tr_full.md`" in status
     assert "`output/logos_nt/`" in status
-    assert "`output/fresh_translation_full_bible.md`" in status
-    assert "`output/fresh_translation_full_bible_translation_only.md`" in status
-    assert "`output/logos_full/fresh_translation_full_bible_logos_bible.docx`" in status
-    assert "`release/fresh-translation-full-bible-rc1/`" in status
+    assert "`output/the_greek_heritage_study_bible.md`" in status
+    assert "`output/the_greek_heritage_study_bible_translation_only.md`" in status
+    assert "`output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx`" in status
+    assert "`release/greek-heritage-study-bible-rc1/`" in status
     assert "`release/fresh-translation-ot-rc1/MANIFEST.md`" in status
     assert "packaged combined release bundle has not been cut" not in status
     assert f"`{len(pending_variant_refs)}` non-blocking pending" in status
@@ -9089,8 +9089,8 @@ def test_fresh_full_markdown_has_no_todo_placeholders() -> None:
         ROOT / "output" / "fresh_translation_ot_full_translation_only.md",
         ROOT / "output" / "fresh_translation_nt_tr_full.md",
         ROOT / "output" / "fresh_translation_nt_tr_translation_only.md",
-        ROOT / "output" / "fresh_translation_full_bible.md",
-        ROOT / "output" / "fresh_translation_full_bible_translation_only.md",
+        ROOT / "output" / "the_greek_heritage_study_bible.md",
+        ROOT / "output" / "the_greek_heritage_study_bible_translation_only.md",
     ]
     for path in paths:
         text = path.read_text(encoding="utf-8")
@@ -9099,22 +9099,22 @@ def test_fresh_full_markdown_has_no_todo_placeholders() -> None:
 
 
 def test_combined_fresh_translation_contains_ot_then_nt() -> None:
-    worksheet = (ROOT / "output" / "fresh_translation_full_bible.md").read_text(encoding="utf-8")
-    text = (ROOT / "output" / "fresh_translation_full_bible_translation_only.md").read_text(encoding="utf-8")
+    worksheet = (ROOT / "output" / "the_greek_heritage_study_bible.md").read_text(encoding="utf-8")
+    text = (ROOT / "output" / "the_greek_heritage_study_bible_translation_only.md").read_text(encoding="utf-8")
     diagnostics = json.loads(
-        (ROOT / "output" / "fresh_translation_full_bible_diagnostics.json").read_text(
+        (ROOT / "output" / "the_greek_heritage_study_bible_diagnostics.json").read_text(
             encoding="utf-8"
         )
     )
 
-    assert worksheet.startswith("# Fresh Translation Worksheet\n\nScope: Genesis-Revelation (66 books)")
+    assert worksheet.startswith("# The Greek Heritage Study Bible Worksheet\n\nScope: Genesis-Revelation (66 books)")
     assert "## Old Testament" in worksheet
     assert "## New Testament" in worksheet
     assert "##### Genesis 1:1" in worksheet
     assert "##### Matthew 1:1" in worksheet
     assert "Greek:" in worksheet
     assert "Decision rows:" in worksheet
-    assert text.startswith("# Fresh Translation Draft\n\nScope: Genesis-Revelation (66 books)")
+    assert text.startswith("# The Greek Heritage Study Bible\n\nScope: Genesis-Revelation (66 books)")
     for marker in (
         "## Old Testament",
         "### Genesis",
@@ -9131,26 +9131,26 @@ def test_combined_fresh_translation_contains_ot_then_nt() -> None:
     assert diagnostics["ot_book_count"] == 39
     assert diagnostics["nt_book_count"] == 27
     assert diagnostics["total_book_count"] == 66
-    assert diagnostics["output"].endswith("fresh_translation_full_bible.md")
-    assert diagnostics["translation_only_output"].endswith("fresh_translation_full_bible_translation_only.md")
+    assert diagnostics["output"].endswith("the_greek_heritage_study_bible.md")
+    assert diagnostics["translation_only_output"].endswith("the_greek_heritage_study_bible_translation_only.md")
 
 
 def test_combined_release_manifest_and_checksums_cover_outputs() -> None:
-    manifest = (ROOT / "release/fresh-translation-full-bible-rc1/MANIFEST.md").read_text(encoding="utf-8")
+    manifest = (ROOT / "release/greek-heritage-study-bible-rc1/MANIFEST.md").read_text(encoding="utf-8")
     checksum_lines = (
-        ROOT / "release/fresh-translation-full-bible-rc1/CHECKSUMS.sha256"
+        ROOT / "release/greek-heritage-study-bible-rc1/CHECKSUMS.sha256"
     ).read_text(encoding="utf-8").splitlines()
     checksums = {line.split("  ", 1)[1]: line.split("  ", 1)[0] for line in checksum_lines}
     expected_paths = [
-        "output/fresh_translation_full_bible_translation_only.md",
-        "output/fresh_translation_full_bible.md",
-        "output/logos_full/fresh_translation_full_bible_logos_bible.docx",
-        "output/logos_full/fresh_translation_full_bible_reference_notes.docx",
-        "output/logos_full/fresh_translation_full_bible_proofreading.docx",
-        "output/logos_full/README.md",
+        "output/the_greek_heritage_study_bible_translation_only.md",
+        "output/the_greek_heritage_study_bible.md",
+        "output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx",
+        "output/logos_greek_heritage/the_greek_heritage_study_bible_reference_notes.docx",
+        "output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx",
+        "output/logos_greek_heritage/README.md",
     ]
 
-    assert "Release candidate: `fresh-translation-full-bible-rc1`" in manifest
+    assert "Release candidate: `greek-heritage-study-bible-rc1`" in manifest
     assert "make release-combined" in manifest
     assert "python3" not in manifest
     for relative_path in expected_paths:
@@ -9487,9 +9487,9 @@ def test_generated_docx_files_are_valid_when_present() -> None:
         ROOT / "output/logos_nt/fresh_translation_nt_tr_logos_bible.docx",
         ROOT / "output/logos_nt/fresh_translation_nt_tr_reference_notes.docx",
         ROOT / "output/logos_nt/fresh_translation_nt_tr_proofreading.docx",
-        ROOT / "output/logos_full/fresh_translation_full_bible_logos_bible.docx",
-        ROOT / "output/logos_full/fresh_translation_full_bible_reference_notes.docx",
-        ROOT / "output/logos_full/fresh_translation_full_bible_proofreading.docx",
+        ROOT / "output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx",
+        ROOT / "output/logos_greek_heritage/the_greek_heritage_study_bible_reference_notes.docx",
+        ROOT / "output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx",
     ]
 
     for path in paths:
