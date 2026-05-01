@@ -40,6 +40,7 @@ raw source archives/files
 | `scripts/apply_witness_decisions.py` | Applies reviewed OT translation decisions |
 | `scripts/apply_nt_tr_literal_revision.py` | Applies reviewed NT TR literal-translation decisions |
 | `scripts/build_fresh_translation.py` | Builds Markdown worksheet and translation-only outputs |
+| `scripts/build_combined_fresh_translation.py` | Builds combined OT/NT worksheet, translation-only Markdown, and diagnostics |
 | `scripts/build_fresh_logos_bible.py` | Builds Logos Personal Book DOCX outputs and diagnostics |
 | `scripts/build_nt_tr_vs_ukjv_review.py` | Builds NT TR-vs-UKJV review queues |
 | `scripts/run_book_checkpoint.py` | Rebuilds consolidated OT checkpoint outputs |
@@ -70,6 +71,11 @@ keeps the same source/review steps, writes generated files under
 the Logos Bible-source DOCX. It is for iteration only; release artifacts still
 come from `make build-nt`.
 
+`make build-combined` refreshes the single-file OT/NT Markdown outputs from the
+current OT LXX and NT TR source CSVs. `make build-fresh` runs `make build-ot`,
+`make build-nt`, and `make build-combined` in order when all committed fresh
+translation outputs should be synchronized.
+
 `make build-nt-book BOOK=Matthew` narrows that loop to one NT book and writes
 ignored outputs under `output/working/nt_book/` and
 `output/working/logos_nt_book/`. It still refreshes the generated NT source CSV
@@ -97,6 +103,9 @@ This path:
 It deliberately skips aggregate Markdown, Logos DOCX, and full diagnostics. Run
 `make checkpoint-ot` for OT chapter/book boundaries and `make build-nt` before
 NT release-facing commits that need generated output or Logos DOCX refreshes.
+Run `make build-combined` after either testament changes when the single-file
+OT/NT Markdown outputs need to be current, or `make build-fresh` when all
+committed fresh outputs need a full refresh.
 
 ## Private Research Boundary
 

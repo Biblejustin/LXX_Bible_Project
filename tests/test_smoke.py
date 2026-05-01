@@ -8972,6 +8972,7 @@ def test_root_readme_reflects_complete_fresh_workspace() -> None:
     assert "`output/logos_nt/fresh_translation_nt_tr_reference_notes.docx`" in readme
     assert "`output/fresh_translation_full_bible.md`" in readme
     assert "`output/fresh_translation_full_bible_translation_only.md`" in readme
+    assert "make build-fresh" in readme
     assert "make build-combined" in readme
     assert "Existing OT release-candidate package" in readme
     for stale_phrase in (
@@ -8990,6 +8991,8 @@ def test_root_readme_reflects_complete_fresh_workspace() -> None:
     assert "Phrase and verse decisions used by the fresh output pipeline" in architecture
     assert "not aggregate output rebuilds" in architecture_flat
     assert "`make build-nt` before NT release-facing commits" in architecture_flat
+    assert "`make build-combined` refreshes the single-file OT/NT Markdown outputs" in architecture_flat
+    assert "build-fresh: build-ot build-nt build-combined" in makefile
     assert "PYTHON ?= python" in makefile
     assert "python3" not in readme
     assert "python3" not in contributing

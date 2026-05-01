@@ -61,6 +61,13 @@ standard system fonts such as Baskerville and Times New Roman.
 ```bash
 python -m pip install -r requirements.txt
 make test
+make build-fresh
+```
+
+`make build-fresh` refreshes the OT outputs, NT outputs, Logos-facing files, and
+combined OT/NT Markdown files. To rebuild only part of that set:
+
+```bash
 make build-ot
 make build-nt
 make build-combined
@@ -180,8 +187,7 @@ Safe local-only space:
 Build full fresh outputs:
 
 ```bash
-make build-ot
-make build-nt
+make build-fresh
 ```
 
 Build Logos/import and proofreading DOCX files:

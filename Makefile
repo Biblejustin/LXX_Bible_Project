@@ -1,4 +1,4 @@
-.PHONY: setup test csv-check build-ot checkpoint-ot review-ot-fast build-ot-review build-nt build-nt-fast build-nt-book review-nt-fast build-combined clean-working
+.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review build-nt build-nt-fast build-nt-book review-nt-fast build-combined clean-working
 
 PYTHON ?= python
 CHANGES ?= Reviewed article and readability cleanup.
@@ -14,6 +14,8 @@ test:
 
 csv-check:
 	$(PYTHON) scripts/check_csv_shapes.py
+
+build-fresh: build-ot build-nt build-combined
 
 build-ot:
 	$(PYTHON) scripts/run_book_checkpoint.py
