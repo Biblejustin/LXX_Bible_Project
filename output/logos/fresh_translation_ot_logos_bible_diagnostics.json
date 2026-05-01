@@ -266,7 +266,8 @@
     "book_preface_pages": 39,
     "mapped_milestone_refs": 0,
     "fallback_milestone_refs": 0,
-    "duplicate_milestone_refs": 0
+    "duplicate_milestone_refs": 0,
+    "suppressed_duplicate_milestone_refs": 0
   },
   "mt_notes_bridge_docx": {
     "output_kind": "logos",
@@ -295,7 +296,8 @@
     "book_preface_pages": 39,
     "mapped_milestone_refs": 4523,
     "fallback_milestone_refs": 78,
-    "duplicate_milestone_refs": 129
+    "duplicate_milestone_refs": 51,
+    "suppressed_duplicate_milestone_refs": 78
   },
   "proofreading_docx": {
     "output_kind": "proofreading",
@@ -324,7 +326,8 @@
     "book_preface_pages": 39,
     "mapped_milestone_refs": 0,
     "fallback_milestone_refs": 0,
-    "duplicate_milestone_refs": 0
+    "duplicate_milestone_refs": 0,
+    "suppressed_duplicate_milestone_refs": 0
   },
   "validations": [
     {

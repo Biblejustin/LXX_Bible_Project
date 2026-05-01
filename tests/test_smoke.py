@@ -8939,6 +8939,54 @@ def test_no_raw_logos_bibleknowledgebase_markup_in_key_outputs() -> None:
         assert "[[" not in text or "BibleKnowledgebase@" not in text
 
 
+def test_logos_docx_hebrew_runs_are_language_tagged_without_custom_class() -> None:
+    docx_path = (
+        ROOT
+        / "output"
+        / "logos_greek_heritage"
+        / "the_greek_heritage_study_bible_reference_notes.docx"
+    )
+    with zipfile.ZipFile(docx_path) as zf:
+        footnotes_xml = zf.read("word/footnotes.xml").decode("utf-8")
+        document_xml = zf.read("word/document.xml").decode("utf-8")
+        styles_xml = zf.read("word/styles.xml").decode("utf-8")
+
+    combined_xml = footnotes_xml + document_xml + styles_xml
+    assert "HebrewText" not in combined_xml
+    assert "אֱלֹהִים" in footnotes_xml
+
+    hebrew_runs = [
+        match.group(0)
+        for match in re.finditer(r"<w:r>.*?</w:r>", combined_xml, flags=re.DOTALL)
+        if re.search(r"[\u0590-\u05ff]", match.group(0))
+    ]
+    assert hebrew_runs
+    assert not [
+        run_xml
+        for run_xml in hebrew_runs
+        if 'w:lang w:val="he-IL" w:bidi="he-IL"' not in run_xml
+    ]
+
+
+def test_mt_bridge_docx_has_no_consecutive_duplicate_bible_milestones() -> None:
+    docx_path = (
+        ROOT
+        / "output"
+        / "logos_greek_heritage"
+        / "the_greek_heritage_study_bible_reference_notes.docx"
+    )
+    with zipfile.ZipFile(docx_path) as zf:
+        document_xml = zf.read("word/document.xml").decode("utf-8")
+
+    milestones = re.findall(r"\[\[@Bible:([^]]+)\]\]", document_xml)
+    duplicates = [
+        (left, right)
+        for left, right in zip(milestones, milestones[1:])
+        if left == right
+    ]
+    assert not duplicates
+
+
 def test_logos_readmes_use_testament_specific_language() -> None:
     ot_readme = (ROOT / "output" / "logos" / "README.md").read_text(encoding="utf-8")
     nt_readme = (ROOT / "output" / "logos_nt" / "README.md").read_text(encoding="utf-8")

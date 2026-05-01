@@ -416,6 +416,7 @@ class BuildStats:
     mapped_milestone_refs: int = 0
     fallback_milestone_refs: int = 0
     duplicate_milestone_refs: int = 0
+    suppressed_duplicate_milestone_refs: int = 0
 
 
 @dataclass(frozen=True)
@@ -490,6 +491,60 @@ def attr(text: str) -> str:
 
 def text(text_value: str) -> str:
     return escape(str(text_value))
+
+
+HEBREW_CLUSTER_RE = re.compile(r"[\u0590-\u05ff]+(?:\s+[\u0590-\u05ff]+)*")
+
+
+def runs_for_plain_text(
+    value: str,
+    *,
+    bold: bool = False,
+    italic: bool = False,
+    style: str | None = None,
+    small: bool = False,
+    color: str | None = None,
+) -> list[str]:
+    """Split Hebrew spans into language-tagged RTL runs for Logos import."""
+    output: list[str] = []
+    cursor = 0
+    for match in HEBREW_CLUSTER_RE.finditer(value):
+        if cursor < match.start():
+            output.append(
+                run(
+                    value[cursor : match.start()],
+                    bold=bold,
+                    italic=italic,
+                    style=style,
+                    small=small,
+                    color=color,
+                )
+            )
+        output.append(
+            run(
+                match.group(0),
+                bold=bold,
+                italic=italic,
+                style=style,
+                small=small,
+                color=color,
+                language="he-IL",
+                rtl=True,
+            )
+        )
+        cursor = match.end()
+    if cursor < len(value):
+        output.append(
+            run(
+                value[cursor:],
+                bold=bold,
+                italic=italic,
+                style=style,
+                small=small,
+                color=color,
+            )
+        )
+    return output
 
 
 def normalize_space(value: str) -> str:
@@ -689,6 +744,8 @@ def run(
     style: str | None = None,
     small: bool = False,
     color: str | None = None,
+    language: str | None = None,
+    rtl: bool = False,
 ) -> str:
     props: list[str] = []
     if style:
@@ -701,6 +758,10 @@ def run(
         props.append('<w:sz w:val="18"/>')
     if color:
         props.append(f'<w:color w:val="{attr(color)}"/>')
+    if language:
+        props.append(f'<w:lang w:val="{attr(language)}" w:bidi="{attr(language)}"/>')
+    if rtl:
+        props.append("<w:rtl/>")
     rpr = f"<w:rPr>{''.join(props)}</w:rPr>" if props else ""
     return f'<w:r>{rpr}<w:t xml:space="preserve">{text(value)}</w:t></w:r>'
 
@@ -749,7 +810,7 @@ def build_footnotes_xml(notes: list[FootnoteEntry]) -> str:
             f'<w:footnote w:id="{index}">'
             '<w:p><w:pPr><w:pStyle w:val="FootnoteText"/></w:pPr>'
             f"{marker_run}"
-            f'<w:r><w:t xml:space="preserve"> {text(note.text)}</w:t></w:r>'
+            f"{''.join(runs_for_plain_text(' ' + note.text))}"
             "</w:p></w:footnote>"
         )
     return (
@@ -2477,6 +2538,7 @@ def build_docx(
     current_book = ""
     current_chapter = -1
     milestone_ref_counts: Counter[str] = Counter()
+    previous_milestone_ref: str | None = None
     versification_map = versification_map or {}
     verse_counts = verse_counts or {}
     place_links = place_links or {}
@@ -2484,6 +2546,7 @@ def build_docx(
         if verse.book_name != current_book:
             current_book = verse.book_name
             current_chapter = -1
+            previous_milestone_ref = None
             if stats.paragraph_count:
                 doc.add_page_break()
             book_section_break = footnote_number_restart == "book"
@@ -2506,7 +2569,7 @@ def build_docx(
                 stats.section_break_count += 1
             stats.paragraph_count += 1
 
-        runs, milestone_ref = build_verse_runs(
+        runs, milestone_ref, emitted_milestone = build_verse_runs(
             doc=doc,
             verse=verse,
             notes=translation_notes.get(verse.ref, []),
@@ -2520,10 +2583,13 @@ def build_docx(
             milestone_mode=milestone_mode,
             versification_map=versification_map,
             verse_counts=verse_counts,
+            previous_milestone_ref=previous_milestone_ref,
             stats=stats,
         )
         if logos and milestone_ref:
-            milestone_ref_counts[milestone_ref] += 1
+            previous_milestone_ref = milestone_ref
+            if emitted_milestone:
+                milestone_ref_counts[milestone_ref] += 1
         doc.add_paragraph(runs)
         stats.paragraph_count += 1
 
@@ -2614,10 +2680,12 @@ def build_verse_runs(
     milestone_mode: str,
     versification_map: dict[str, str],
     verse_counts: dict[str, list[int]],
+    previous_milestone_ref: str | None,
     stats: BuildStats,
-) -> tuple[list[str], str | None]:
+) -> tuple[list[str], str | None, bool]:
     runs: list[str] = []
     milestone_ref: str | None = None
+    emitted_milestone = False
     if logos:
         milestone = resolve_milestone(
             verse,
@@ -2630,7 +2698,11 @@ def build_verse_runs(
             stats.mapped_milestone_refs += 1
         elif milestone.status in {"fallback", "unmapped"}:
             stats.fallback_milestone_refs += 1
-        runs.append(run(f"[[@{datatype}:{milestone.logos_ref}]] ", small=True, color="777777"))
+        if milestone_mode == "mt" and milestone.logos_ref == previous_milestone_ref:
+            stats.suppressed_duplicate_milestone_refs += 1
+        else:
+            runs.append(run(f"[[@{datatype}:{milestone.logos_ref}]] ", small=True, color="777777"))
+            emitted_milestone = True
     runs.append(run(f"{verse.verse} ", bold=True))
     if logos:
         runs.append(run(" {{field-on:Bible}}"))
@@ -2669,7 +2741,7 @@ def build_verse_runs(
         stats.verse_anchored_crossref_notes += 1
     if logos:
         runs.append(run("{{field-off:Bible}}"))
-    return runs, milestone_ref
+    return runs, milestone_ref, emitted_milestone
 
 
 def add_crossref_footnote(
