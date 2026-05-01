@@ -186,7 +186,6 @@ Tracked source and research tables:
 - `data/research/variant_notes.csv`
 - `data/research/translation_rules.md`
 - `data/research/logos_translation_stack.json`
-- `data/research/genesis_1_3_workflow.md`
 
 Safe local-only space:
 

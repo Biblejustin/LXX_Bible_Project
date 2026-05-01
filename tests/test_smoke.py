@@ -8985,10 +8985,13 @@ def test_root_readme_reflects_complete_fresh_workspace() -> None:
         "pilot workspace",
         "Build pilot worksheet",
         "`data/raw/lxx_greek/genesis_1_3_pilot.csv`",
+        "`data/research/genesis_1_3_workflow.md`",
     ):
         assert stale_phrase not in readme
         assert stale_phrase not in translation_rules
         assert stale_phrase not in research_readme
+    assert not (ROOT / "data" / "raw" / "lxx_greek" / "genesis_1_3_pilot.csv").exists()
+    assert not (ROOT / "data" / "research" / "genesis_1_3_workflow.md").exists()
     assert "Treat fresh output as draft until phrase-level decisions are reviewed." in translation_rules
     assert "base Greek edition" not in translation_rules
     assert "Suggested pilot" not in research_readme

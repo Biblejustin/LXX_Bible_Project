@@ -15,9 +15,10 @@ Suggested fields for source CSV rows:
 - `syntax_notes`
 - `draft_translation`
 
-Pilot file:
+Active source files:
 
-- `genesis_1_3_pilot.csv`
+- `ot_full.csv`
+- `genesis_full.csv`
 
 Keep copyrighted exports or sensitive local experiments out of tracked files.
 Use ignored paths for anything private.

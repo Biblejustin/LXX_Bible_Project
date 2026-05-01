@@ -30,9 +30,8 @@ it updated whenever raw source archives or imported CSV files change.
 
 | Path | Role | Rows |
 | --- | --- | ---: |
-| `data/raw/lxx_greek/ot_full.csv` | LXX Greek OT fresh translation workspace | 22,896 |
+| `data/raw/lxx_greek/ot_full.csv` | LXX Greek OT fresh translation workspace | 22,909 |
 | `data/raw/lxx_greek/genesis_full.csv` | Genesis fresh translation workspace | 1,533 |
-| `data/raw/lxx_greek/genesis_1_3_pilot.csv` | Genesis 1-3 pilot worksheet | 80 |
 | `data/raw/tr_greek/nt_full.csv` | TR Greek NT fresh translation workspace with UKJV witness column | 7,957 |
 
 ## Apparatus And Review Data
