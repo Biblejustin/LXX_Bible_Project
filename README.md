@@ -128,8 +128,9 @@ contributors.
 - `output/fresh_translation_nt_tr_full.md`
 - `output/fresh_translation_nt_tr_translation_only.md`
 - `output/fresh_translation_nt_tr_diagnostics.json`
+- `output/fresh_translation_full_bible.md`
 - `output/fresh_translation_full_bible_translation_only.md`
-- `output/fresh_translation_full_bible_translation_only_diagnostics.json`
+- `output/fresh_translation_full_bible_diagnostics.json`
 - `output/fresh_vs_brenton_ot_drafted.md`
 - `output/fresh_vs_brenton_ot_priority_review.md`
 - `output/fresh_nt_tr_vs_ukjv_priority_review.md`

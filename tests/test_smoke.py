@@ -8970,6 +8970,7 @@ def test_root_readme_reflects_complete_fresh_workspace() -> None:
     assert "`data/raw/tr_greek/nt_full.csv`" in readme
     assert "`output/logos/fresh_translation_ot_logos_bible_mt_notes.docx`" in readme
     assert "`output/logos_nt/fresh_translation_nt_tr_reference_notes.docx`" in readme
+    assert "`output/fresh_translation_full_bible.md`" in readme
     assert "`output/fresh_translation_full_bible_translation_only.md`" in readme
     assert "make build-combined" in readme
     assert "Existing OT release-candidate package" in readme
@@ -9047,6 +9048,7 @@ def test_release_status_distinguishes_ot_rc_from_complete_nt_workspace() -> None
     assert "the NT TR fresh draft is also complete" in status
     assert "`output/fresh_translation_nt_tr_full.md`" in status
     assert "`output/logos_nt/`" in status
+    assert "`output/fresh_translation_full_bible.md`" in status
     assert "`output/fresh_translation_full_bible_translation_only.md`" in status
     assert "existing OT RC1 package only" in status
     assert "packaged combined release bundle has not been cut" in status
@@ -9073,6 +9075,7 @@ def test_fresh_full_markdown_has_no_todo_placeholders() -> None:
         ROOT / "output" / "fresh_translation_ot_full_translation_only.md",
         ROOT / "output" / "fresh_translation_nt_tr_full.md",
         ROOT / "output" / "fresh_translation_nt_tr_translation_only.md",
+        ROOT / "output" / "fresh_translation_full_bible.md",
         ROOT / "output" / "fresh_translation_full_bible_translation_only.md",
     ]
     for path in paths:
@@ -9082,13 +9085,21 @@ def test_fresh_full_markdown_has_no_todo_placeholders() -> None:
 
 
 def test_combined_fresh_translation_contains_ot_then_nt() -> None:
+    worksheet = (ROOT / "output" / "fresh_translation_full_bible.md").read_text(encoding="utf-8")
     text = (ROOT / "output" / "fresh_translation_full_bible_translation_only.md").read_text(encoding="utf-8")
     diagnostics = json.loads(
-        (ROOT / "output" / "fresh_translation_full_bible_translation_only_diagnostics.json").read_text(
+        (ROOT / "output" / "fresh_translation_full_bible_diagnostics.json").read_text(
             encoding="utf-8"
         )
     )
 
+    assert worksheet.startswith("# Fresh Translation Worksheet\n\nScope: Genesis-Revelation (66 books)")
+    assert "## Old Testament" in worksheet
+    assert "## New Testament" in worksheet
+    assert "##### Genesis 1:1" in worksheet
+    assert "##### Matthew 1:1" in worksheet
+    assert "Greek:" in worksheet
+    assert "Decision rows:" in worksheet
     assert text.startswith("# Fresh Translation Draft\n\nScope: Genesis-Revelation (66 books)")
     for marker in (
         "## Old Testament",
@@ -9106,6 +9117,8 @@ def test_combined_fresh_translation_contains_ot_then_nt() -> None:
     assert diagnostics["ot_book_count"] == 39
     assert diagnostics["nt_book_count"] == 27
     assert diagnostics["total_book_count"] == 66
+    assert diagnostics["output"].endswith("fresh_translation_full_bible.md")
+    assert diagnostics["translation_only_output"].endswith("fresh_translation_full_bible_translation_only.md")
 
 
 def test_no_known_fixed_ot_name_leaks_in_outputs_or_support_tables() -> None:
