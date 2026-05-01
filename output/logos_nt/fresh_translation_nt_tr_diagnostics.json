@@ -167,7 +167,8 @@
     "mapped_milestone_refs": 0,
     "fallback_milestone_refs": 0,
     "duplicate_milestone_refs": 0,
-    "suppressed_duplicate_milestone_refs": 0
+    "suppressed_duplicate_milestone_refs": 0,
+    "superscription_line_count": 0
   },
   "mt_notes_bridge_docx": {
     "output_kind": "logos",
@@ -197,7 +198,8 @@
     "mapped_milestone_refs": 0,
     "fallback_milestone_refs": 0,
     "duplicate_milestone_refs": 0,
-    "suppressed_duplicate_milestone_refs": 0
+    "suppressed_duplicate_milestone_refs": 0,
+    "superscription_line_count": 0
   },
   "proofreading_docx": {
     "output_kind": "proofreading",
@@ -227,7 +229,8 @@
     "mapped_milestone_refs": 0,
     "fallback_milestone_refs": 0,
     "duplicate_milestone_refs": 0,
-    "suppressed_duplicate_milestone_refs": 0
+    "suppressed_duplicate_milestone_refs": 0,
+    "superscription_line_count": 0
   },
   "validations": [
     {

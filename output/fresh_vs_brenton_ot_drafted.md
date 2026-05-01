@@ -46,7 +46,7 @@ Note:
 - decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Let light come to be.' And light came to be.
+- fresh: And God said, "Let light come to be." And light came to be.
 - brenton: And God said, Let there be light, and there was light.
 
 ### Genesis 1:4
@@ -73,7 +73,7 @@ Note:
 - decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Let a firm span come to be in the middle of the water, and let it divide water from water.' And it came to be so.
+- fresh: And God said, "Let a firm span come to be in the middle of the water, and let it divide water from water." And it came to be so.
 - brenton: And God said, Let there be a firmament in the midst of the water, and let it be a division between water and water, and it was so.
 
 ### Genesis 1:7
@@ -100,7 +100,7 @@ Note:
 - decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Let the water below Heaven be gathered into one gathering, and let the dry land appear.' And it came to be so. And the water below Heaven was gathered into their gatherings, and the dry land appeared.
+- fresh: And God said, "Let the water below Heaven be gathered into one gathering, and let the dry land appear." And it came to be so. And the water below Heaven was gathered into their gatherings, and the dry land appeared.
 - brenton: And God said, Let the water which is under the heaven be collected into one place, and let the dry land appear, and it was so. And the water which was under the heaven was collected into its places, and the dry land appeared.
 
 ### Genesis 1:10
@@ -118,7 +118,7 @@ Note:
 - decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Let the earth sprout herb of grass sowing seed according to kind and according to likeness, and a fruit-bearing tree making fruit, whose seed is in it according to kind upon the earth.' And it came to be so.
+- fresh: And God said, "Let the earth sprout herb of grass sowing seed according to kind and according to likeness, and a fruit-bearing tree making fruit, whose seed is in it according to kind upon the earth." And it came to be so.
 - brenton: And God said, Let the earth bring forth the herb of grass bearing seed according to its kind and according to its likeness, and the fruit-tree bearing fruit whose seed is in it, according to its kind on the earth, and it was so.
 
 ### Genesis 1:12
@@ -145,7 +145,7 @@ Note:
 - decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Let light-bearers come to be in the firm span of Heaven for shining upon the earth, for dividing between the day and between the night. And let them be for signs and for seasons and for days and for years.'
+- fresh: And God said, "Let light-bearers come to be in the firm span of Heaven for shining upon the earth, for dividing between the day and between the night. And let them be for signs and for seasons and for days and for years."
 - brenton: And God said, Let there be lights in the firmament of the heaven to give light upon the earth, to divide between day and night, and let them be for signs and for seasons and for days and for years.
 
 ### Genesis 1:15
@@ -199,7 +199,7 @@ Note:
 - decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Let the waters bring forth crawling things of living souls and winged creatures flying upon the earth across the firm span of Heaven.' And it came to be so.
+- fresh: And God said, "Let the waters bring forth crawling things of living souls and winged creatures flying upon the earth across the firm span of Heaven." And it came to be so.
 - brenton: And God said, Let the waters bring forth reptiles having life, and winged creatures flying above the earth in the firmament of heaven, and it was so.
 
 ### Genesis 1:21
@@ -217,7 +217,7 @@ Note:
 - decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And God blessed them, saying, 'Increase and multiply and fill the waters in the seas, and let the winged creatures be multiplied upon the earth.'
+- fresh: And God blessed them, saying, "Increase and multiply and fill the waters in the seas, and let the winged creatures be multiplied upon the earth."
 - brenton: And God blessed them, saying, Increase and multiply and fill the waters in the seas, and let the creatures that fly be multiplied on the earth.
 
 ### Genesis 1:23
@@ -235,7 +235,7 @@ Note:
 - decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Let the earth bring forth living soul according to kind: four-footed animals and creeping things and wild beasts of the earth according to kind.' And it came to be so.
+- fresh: And God said, "Let the earth bring forth living soul according to kind: four-footed animals and creeping things and wild beasts of the earth according to kind." And it came to be so.
 - brenton: And God said, Let the earth bring forth the living creature according to its kind, quadrupeds and reptiles and wild beasts of the earth according to their kind, and it was so.
 
 ### Genesis 1:25
@@ -253,7 +253,7 @@ Note:
 - decisions: 6
 - footnotes: 2
 - same_normalized: no
-- fresh: And God said, 'Let us make man according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the cattle and all the earth and all the creeping things creeping upon the earth.'
+- fresh: And God said, "Let us make man according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the cattle and all the earth and all the creeping things creeping upon the earth."
 - brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
 
 ### Genesis 1:27
@@ -271,7 +271,7 @@ Note:
 - decisions: 2
 - footnotes: 2
 - same_normalized: no
-- fresh: And God blessed them, saying, 'Increase and multiply and fill the earth and subdue it, and rule the fish of the sea and the birds of Heaven and all the cattle and all the earth and all the creeping things creeping upon the earth.'
+- fresh: And God blessed them, saying, "Increase and multiply and fill the earth and subdue it, and rule the fish of the sea and the birds of Heaven and all the cattle and all the earth and all the creeping things creeping upon the earth."
 - brenton: And God blessed them, saying, Increase and multiply, and fill the earth and subdue it, and have dominion over the fish of the seas and flying creatures of heaven, and all the cattle and all the earth, and all the reptiles that creep on the earth.
 
 ### Genesis 1:29
@@ -280,7 +280,7 @@ Note:
 - decisions: 5
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Behold, I have given you every seed-bearing plant sowing seed, which is upon all the earth, and every tree that has in itself fruit of sowable seed. To you it shall be for food.'
+- fresh: And God said, "Behold, I have given you every seed-bearing plant sowing seed, which is upon all the earth, and every tree that has in itself fruit of sowable seed. To you it shall be for food."
 - brenton: And God said, Behold I have given to you every seed-bearing herb sowing seed which is upon all the earth, and every tree which has in itself the fruit of seed that is sown, to you it shall be for food.
 
 ### Genesis 1:30
@@ -460,7 +460,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord God said, 'It is not good for the human to be alone. Let us make for him a helper corresponding to him.'
+- fresh: And the Lord God said, "It is not good for the human to be alone. Let us make for him a helper corresponding to him."
 - brenton: And the Lord God said, It is not good that the man should be alone, let us make for him a help suitable to him.
 
 ### Genesis 2:19
@@ -505,7 +505,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Adam said, 'This now is bone from my bones and flesh from my flesh. She shall be called woman, because she was taken from her man.'
+- fresh: And Adam said, "This now is bone from my bones and flesh from my flesh. She shall be called woman, because she was taken from her man."
 - brenton: And Adam said, This now is bone of my bones, and flesh of my flesh; she shall be called woman, because she was taken out of her husband.
 
 ### Genesis 2:24
@@ -532,7 +532,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Now the serpent was the most shrewd of all the beasts on the earth that the Lord God had made. And the serpent said to the woman, 'Why is it that God said, "You shall not eat from every tree of the garden"?'
+- fresh: Now the serpent was the most shrewd of all the beasts on the earth that the Lord God had made. And the serpent said to the woman, "Why is it that God said, 'You shall not eat from every tree of the garden'?"
 - brenton: Now the serpent was the most crafty of all the brutes on the earth, which the Lord God made, and the serpent said to the woman, Wherefore has God said, Eat not of every tree of the garden?
 
 ### Genesis 3:2
@@ -604,7 +604,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord God called Adam and said to him, 'Adam, where are you?'
+- fresh: And the Lord God called Adam and said to him, "Adam, where are you?"
 - brenton: And the Lord God called Adam and said to him, Adam, where art thou?
 
 ### Genesis 3:10
@@ -613,7 +613,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to him, 'I heard your sound as you were walking in the garden, and I was afraid because I am naked, and I hid myself.'
+- fresh: And he said to him, "I heard your sound as you were walking in the garden, and I was afraid because I am naked, and I hid myself."
 - brenton: And he said to him, I heard thy voice as thou walkedst in the garden, and I feared because I was naked and I hid myself.
 
 ### Genesis 3:11
@@ -622,7 +622,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said to him, 'Who told you that you are naked, unless you have eaten from the tree from which alone I commanded you not to eat?'
+- fresh: And God said to him, "Who told you that you are naked, unless you have eaten from the tree from which alone I commanded you not to eat?"
 - brenton: And God said to him, Who told thee that thou wast naked, unless thou hast eaten of the tree concerning which I charged thee of it alone not to eat?
 
 ### Genesis 3:12
@@ -631,7 +631,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Adam said, 'The woman whom you gave with me, she gave me from the tree, and I ate.'
+- fresh: And Adam said, "The woman whom you gave with me, she gave me from the tree, and I ate."
 - brenton: And Adam said, The woman whom thou gavest to be with me—she gave me of the tree and I ate.
 
 ### Genesis 3:13
@@ -640,7 +640,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord God said to the woman, 'What is this you have done?' And the woman said, 'The serpent deceived me, and I ate.'
+- fresh: And the Lord God said to the woman, "What is this you have done?" And the woman said, "The serpent deceived me, and I ate."
 - brenton: And the Lord God said to the woman, Why hast thou done this? And the woman said, The serpent deceived me and I ate.
 
 ### Genesis 3:14
@@ -667,7 +667,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And to the woman he said, 'Multiplying I will multiply your pains and your groaning. In pains you will bear children, and your turning will be toward your husband, and he will rule over you.'
+- fresh: And to the woman he said, "Multiplying I will multiply your pains and your groaning. In pains you will bear children, and your turning will be toward your husband, and he will rule over you."
 - brenton: And to the woman he said, I will greatly multiply thy pains and thy groanings; in pain thou shalt bring forth children, and thy submission shall be to thy husband, and he shall rule over thee.
 
 ### Genesis 3:17
@@ -721,7 +721,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Look, Adam has become like one of us, to know good and evil. And now, lest perhaps he stretch out his hand and take from the tree of life and eat and live forever.'
+- fresh: And God said, "Look, Adam has become like one of us, to know good and evil. And now, lest perhaps he stretch out his hand and take from the tree of life and eat and live forever."
 - brenton: And God said, Behold, Adam is become as one of us, to know good and evil, and now lest at any time he stretch forth his hand, and take of the tree of life and eat, and so he shall live for ever—
 
 ### Genesis 3:23
@@ -748,7 +748,7 @@ Note:
 - decisions: 1
 - footnotes: 0
 - same_normalized: no
-- fresh: And Adam knew Eve his wife, and having conceived she bore Cain and said, 'I have acquired a man through God.'
+- fresh: And Adam knew Eve his wife, and having conceived she bore Cain and said, "I have acquired a man through God."
 - brenton: And Adam knew Eve his wife, and she conceived and brought forth Cain and said, I have gained a man through God.
 
 ### Genesis 4:2
@@ -793,7 +793,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord God said to Cain, 'Why did you become deeply grieved, and why did your face fall?'
+- fresh: And the Lord God said to Cain, "Why did you become deeply grieved, and why did your face fall?"
 - brenton: And the Lord God said to Cain, Why art thou become very sorrowful and why is thy countenance fallen?
 
 ### Genesis 4:7
@@ -802,7 +802,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: 'If you offered rightly, but did not divide rightly, did you not sin? Be still. Toward you is its turning, and you shall rule it.'
+- fresh: "If you offered rightly, but did not divide rightly, did you not sin? Be still. Toward you is its turning, and you shall rule it."
 - brenton: Hast thou not sinned if thou hast brought it rightly, but not rightly divided it? be still, to thee shall be his submission, and thou shalt rule over him.
 
 ### Genesis 4:8
@@ -811,7 +811,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Cain said to Abel his brother, 'Let us go through into the field.' And it came to be while they were in the field that Cain rose against Abel his brother and killed him.
+- fresh: And Cain said to Abel his brother, "Let us go through into the field." And it came to be while they were in the field that Cain rose against Abel his brother and killed him.
 - brenton: And Cain said to Abel his brother, Let us go out into the plain; and it came to pass that when they were in the plain Cain rose up against Abel his brother, and slew him.
 
 ### Genesis 4:9
@@ -820,7 +820,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord God said to Cain, 'Where is Abel your brother?' And he said, 'I do not know. Am I my brother's keeper?'
+- fresh: And the Lord God said to Cain, "Where is Abel your brother?" And he said, "I do not know. Am I my brother's keeper?"
 - brenton: And the Lord God said to Cain, Where is Abel thy brother? and he said, I know not, am I my brother's keeper?
 
 ### Genesis 4:10
@@ -829,7 +829,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said, 'What have you done? A voice of your brother's blood cries out to me from the earth.'
+- fresh: And the Lord said, "What have you done? A voice of your brother's blood cries out to me from the earth."
 - brenton: And the Lord said, What hast thou done? the voice of thy brother's blood cries to me out of the ground.
 
 ### Genesis 4:11
@@ -856,7 +856,7 @@ Note:
 - decisions: 1
 - footnotes: 0
 - same_normalized: no
-- fresh: And Cain said to the Lord God, 'Greater is my charge than for me to be forgiven.'
+- fresh: And Cain said to the Lord God, "Greater is my charge than for me to be forgiven."
 - brenton: And Cain said to the Lord God, My crime is too great for me to be forgiven.
 
 ### Genesis 4:14
@@ -874,7 +874,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord God said to him, 'Not so. Everyone who kills Cain will pay sevenfold.' And the Lord God set a sign for Cain, so that none finding him should kill him.
+- fresh: And the Lord God said to him, "Not so. Everyone who kills Cain will pay sevenfold." And the Lord God set a sign for Cain, so that none finding him should kill him.
 - brenton: And the Lord God said to him, Not so, any one that slays Cain shall suffer seven-fold vengeance; and the Lord God set a mark upon Cain that no one that found him might slay him.
 
 ### Genesis 4:16
@@ -946,7 +946,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Lamech said to his wives, 'Adah and Zillah, hear my voice; wives of Lamech, listen to my words. For I killed a man for a wound to me, and a young man for a welt to me.'
+- fresh: And Lamech said to his wives, "Adah and Zillah, hear my voice; wives of Lamech, listen to my words. For I killed a man for a wound to me, and a young man for a welt to me."
 - brenton: And Lamech said to his wives, Ada and Sella, Hear my voice, ye wives of Lamech, consider my words, because I have slain a man to my sorrow and a youth to my grief.
 
 ### Genesis 4:24
@@ -964,7 +964,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Adam knew Eve his wife, and having conceived she bore a son, and named his name Seth, saying, 'For God raised up for me another seed instead of Abel, whom Cain killed.'
+- fresh: And Adam knew Eve his wife, and having conceived she bore a son, and named his name Seth, saying, "For God raised up for me another seed instead of Abel, whom Cain killed."
 - brenton: And Adam knew Eve his wife, and she conceived and bore a son, and called his name Seth, saying, For God has raised up to me another seed instead of Abel, whom Cain slew.
 
 ### Genesis 4:26
@@ -1234,7 +1234,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he named his name Noah, saying, 'This one will give us rest from our works and from the pains of our hands and from the earth, which the Lord God cursed.'
+- fresh: And he named his name Noah, saying, "This one will give us rest from our works and from the pains of our hands and from the earth, which the Lord God cursed."
 - brenton: And he called his name Noe, saying, This one will cause us to cease from our works, and from the toils of our hands, and from the earth, which the Lord God has cursed.
 
 ### Genesis 5:30
@@ -1288,7 +1288,7 @@ Note:
 - decisions: 1
 - footnotes: 0
 - same_normalized: no
-- fresh: And the Lord God said, 'My spirit shall certainly not remain in these humans forever, because they are flesh, but their days shall be one hundred and twenty years.'
+- fresh: And the Lord God said, "My spirit shall certainly not remain in these humans forever, because they are flesh, but their days shall be one hundred and twenty years."
 - brenton: And the Lord God said, My Spirit shall certainly not remain among these men for ever, because they are flesh, but their days shall be an hundred and twenty years.
 
 ### Genesis 6:4
@@ -1324,7 +1324,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'I will wipe away the human whom I made from the face of the earth, from human to cattle and from creeping things to the birds of heaven, because I regret that I made them.'
+- fresh: And God said, "I will wipe away the human whom I made from the face of the earth, from human to cattle and from creeping things to the birds of heaven, because I regret that I made them."
 - brenton: And God said, I will blot out man whom I have made from the face of the earth, even man with cattle, and reptiles with flying creatures of the sky, for I am grieved that I have made them.
 
 ### Genesis 6:8
@@ -1378,7 +1378,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord God said to Noah, 'The end of every human has come before me, because the earth is filled with injustice from them, and look, I am destroying them and the earth.'
+- fresh: And the Lord God said to Noah, "The end of every human has come before me, because the earth is filled with injustice from them, and look, I am destroying them and the earth."
 - brenton: And the Lord God said to Noe, A period of all men is come before me; because the earth has been filled with iniquity by them, and, behold, I destroy them and the earth.
 
 ### Genesis 6:14
@@ -1387,7 +1387,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: 'So make for yourself an ark from squared timbers. You shall make nesting compartments in the ark, and you shall pitch it inside and outside with pitch.'
+- fresh: "So make for yourself an ark from squared timbers. You shall make nesting compartments in the ark, and you shall pitch it inside and outside with pitch."
 - brenton: Make therefore for thyself an ark of square timber; thou shalt make the ark in compartments, and thou shalt pitch it within and without with pitch.
 
 ### Genesis 6:15
@@ -13881,7 +13881,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to his people, 'Look, the race of the sons of Israel is a great multitude and stronger than we are.'
+- fresh: And he said to his people, "Look, the race of the sons of Israel is a great multitude and stronger than we are."
 - brenton: And he said to his nation, Behold, the race of the children of Israel is a great multitude, and is stronger than we:
 
 ### Exodus 1:10
@@ -13944,7 +13944,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, 'When you serve as midwives for the Hebrew women and they are at the time of giving birth, if it is a male, kill it; but if a female, keep it alive.'
+- fresh: And he said, "When you serve as midwives for the Hebrew women and they are at the time of giving birth, if it is a male, kill it; but if a female, keep it alive."
 - brenton: And he said, When ye do the office of midwives to the Hebrew women, and they are about to be delivered, if it be a male, kill it; but if a female, save it.
 
 ### Exodus 1:17
@@ -13962,7 +13962,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: So the king of Egypt called the midwives and said to them, 'Why have you done this thing and kept the male children alive?'
+- fresh: So the king of Egypt called the midwives and said to them, "Why have you done this thing and kept the male children alive?"
 - brenton: And the king of Egypt called the midwives, and said to them, Why is it that ye have done this thing, and saved the male children alive?
 
 ### Exodus 1:19
@@ -13971,7 +13971,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the midwives said to Pharaoh, 'The Hebrew women are not like the women of Egypt, for before the midwives can go in to them, they give birth.'
+- fresh: And the midwives said to Pharaoh, "The Hebrew women are not like the women of Egypt, for before the midwives can go in to them, they give birth."
 - brenton: And the midwives said to Pharao, The Hebrew women are not as the women of Egypt, for they are delivered before the midwives go in to them. So they bore children.
 
 ### Exodus 1:20
@@ -13998,7 +13998,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then Pharaoh charged all his people, saying, 'Every male that is born to the Hebrews, throw it into the river; but keep every female alive.'
+- fresh: Then Pharaoh charged all his people, saying, "Every male that is born to the Hebrews, throw it into the river; but keep every female alive."
 - brenton: And Pharao charged all his people, saying, Whatever male child shall be born to the Hebrews, cast into the river; and every female, save it alive.
 
 ### Exodus 2:1
@@ -14052,7 +14052,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And when she opened it, she sees a child crying in the basket. And Pharaoh's daughter had compassion on him and said, 'This is one of the Hebrews' children.'
+- fresh: And when she opened it, she sees a child crying in the basket. And Pharaoh's daughter had compassion on him and said, "This is one of the Hebrews" children.'
 - brenton: And having opened it, she sees the babe weeping in the ark: and the daughter of Pharao had compassion on it, and said, This is one of the Hebrews' children.
 
 ### Exodus 2:7
@@ -14061,7 +14061,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then his sister said to Pharaoh's daughter, 'Do you want me to call a nursing woman from the Hebrews, and she will nurse the child for you?'
+- fresh: Then his sister said to Pharaoh's daughter, "Do you want me to call a nursing woman from the Hebrews, and she will nurse the child for you?"
 - brenton: And his sister said to the daughter of Pharao, Wilt thou that I call to thee a nurse of the Hebrews, and shall she suckle the child for thee?
 
 ### Exodus 2:8
@@ -14070,7 +14070,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Pharaoh's daughter said to her, 'Go.' So the young woman went and called the child's mother.
+- fresh: And Pharaoh's daughter said to her, "Go." So the young woman went and called the child's mother.
 - brenton: And the daughter of Pharao said, Go: and the young woman went, and called the mother of the child.
 
 ### Exodus 2:9
@@ -14079,7 +14079,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Pharaoh's daughter said to her, 'Keep this child for me and nurse him for me, and I will give you your wages.' So the woman took the child and nursed him.
+- fresh: And Pharaoh's daughter said to her, "Keep this child for me and nurse him for me, and I will give you your wages." So the woman took the child and nursed him.
 - brenton: And the daughter of Pharao said to her, Take care of this child, and suckle it for me, and I will give thee the wages; and the woman took the child, and suckled it.
 
 ### Exodus 2:10
@@ -14088,7 +14088,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And when the child grew strong, she brought him to Pharaoh's daughter, and he became her son. And she called his name Moses, saying, 'For I drew him out of the water.'
+- fresh: And when the child grew strong, she brought him to Pharaoh's daughter, and he became her son. And she called his name Moses, saying, "For I drew him out of the water."
 - brenton: And when the boy was grown, she brought him to the daughter of Pharao, and he became her son; and she called his name, Moses, saying, I took him out of the water.
 
 ### Exodus 2:11
@@ -14115,7 +14115,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And going out on the second day, he saw two Hebrew men fighting, and he says to the one doing wrong, 'Why are you striking your neighbor?'
+- fresh: And going out on the second day, he saw two Hebrew men fighting, and he says to the one doing wrong, "Why are you striking your neighbor?"
 - brenton: And having gone out the second day he sees two Hebrew men fighting; and he says to the injurer, Wherefore smitest thou thy neighbour?
 
 ### Exodus 2:14
@@ -14124,7 +14124,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: But he said, 'Who made you ruler and judge over us? Do you mean to kill me as you killed the Egyptian yesterday?' Then Moses became afraid and said, 'So then this matter has become known.'
+- fresh: But he said, "Who made you ruler and judge over us? Do you mean to kill me as you killed the Egyptian yesterday?" Then Moses became afraid and said, "So then this matter has become known."
 - brenton: And he said, Who made thee a ruler and a judge over us? wilt thou slay me as thou yesterday slewest the Egyptian? Then Moses was alarmed, and said, If it be thus, this matter has become known.
 
 ### Exodus 2:15
@@ -14160,7 +14160,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then they came to Raguel their father, and he said to them, 'Why have you come so quickly today?'
+- fresh: Then they came to Raguel their father, and he said to them, "Why have you come so quickly today?"
 - brenton: And they came to Raguel their father; and he said to them, Why have ye come so quickly to-day?
 
 ### Exodus 2:19
@@ -14169,7 +14169,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And they said, 'An Egyptian man rescued us from the shepherds, and he also drew water for us and watered our flock.'
+- fresh: And they said, "An Egyptian man rescued us from the shepherds, and he also drew water for us and watered our flock."
 - brenton: And they said, An Egyptian delivered us from the shepherds, and drew water for us and watered our sheep.
 
 ### Exodus 2:20
@@ -14178,7 +14178,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to his daughters, 'Then where is he? And why have you left the man like this? Call him then, so that he may eat bread.'
+- fresh: And he said to his daughters, "Then where is he? And why have you left the man like this? Call him then, so that he may eat bread."
 - brenton: And he said to his daughters, And where is he? and why have ye left the man? call him therefore, that he may eat bread.
 
 ### Exodus 2:21
@@ -14196,7 +14196,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the woman conceived and bore a son, and Moses called his name Gershom, saying, 'Because I am a sojourner in a foreign land.'
+- fresh: And the woman conceived and bore a son, and Moses called his name Gershom, saying, "Because I am a sojourner in a foreign land."
 - brenton: And the woman conceived and bore a son, and Moses called his name Gersam, saying, I am a sojourner in a strange land.
 
 ### Exodus 2:23
@@ -14250,7 +14250,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moses said, 'I will go over now and see this great sight, why the bush is not burned up.'
+- fresh: And Moses said, "I will go over now and see this great sight, why the bush is not burned up."
 - brenton: And Moses said, I will go near and see this great sight, why the bush is not consumed.
 
 ### Exodus 3:4
@@ -14259,7 +14259,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And when the Lord saw that he was coming near to see, the Lord called to him from the bush, saying, 'Moses, Moses.' And he said, 'What is it?'
+- fresh: And when the Lord saw that he was coming near to see, the Lord called to him from the bush, saying, "Moses, Moses." And he said, "What is it?"
 - brenton: And when the Lord saw that he drew nigh to see, the Lord called him out of the bush, saying, Moses, Moses; and he said, What is it?
 
 ### Exodus 3:5
@@ -14268,7 +14268,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, 'Do not come near here. Untie your sandals from your feet, for the place on which you stand is holy ground.'
+- fresh: And he said, "Do not come near here. Untie your sandals from your feet, for the place on which you stand is holy ground."
 - brenton: And he said, Draw not nigh hither: loose thy sandals from off thy feet, for the place whereon thou standest is holy ground.
 
 ### Exodus 3:6
@@ -14277,7 +14277,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to him, 'I am the God of your father, the God of Abraham and the God of Isaac and the God of Jacob.' Then Moses turned away his face, for he feared to gaze before God.
+- fresh: And he said to him, "I am the God of your father, the God of Abraham and the God of Isaac and the God of Jacob." Then Moses turned away his face, for he feared to gaze before God.
 - brenton: And he said, I am the God of thy father, the God of Abraam, and the God of Isaac, and the God of Jacob; and Moses turned away his face, for he was afraid to gaze at God.
 
 ### Exodus 3:7
@@ -14286,7 +14286,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to Moses, 'I have surely seen the affliction of my people in Egypt, and I have heard their cry from the taskmasters, for I know their pain.'
+- fresh: And the Lord said to Moses, "I have surely seen the affliction of my people in Egypt, and I have heard their cry from the taskmasters, for I know their pain."
 - brenton: And the Lord said to Moses, I have surely seen the affliction of my people that is in Egypt, and I have heard their cry caused by their task-masters; for I know their affliction.
 
 ### Exodus 3:8
@@ -14322,7 +14322,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moses said to God, 'Who am I, that I should go to Pharaoh king of Egypt and that I should bring out the sons of Israel from the land of Egypt?'
+- fresh: And Moses said to God, "Who am I, that I should go to Pharaoh king of Egypt and that I should bring out the sons of Israel from the land of Egypt?"
 - brenton: And Moses said to God, Who am I, that I should go to Pharao king of Egypt, and that I should bring out the children of Israel from the land of Egypt?
 
 ### Exodus 3:12
@@ -14331,7 +14331,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said to Moses, saying, 'For I will be with you, and this will be the sign for you that I am the one sending you: when you bring out my people from Egypt, you will serve God on this mountain.'
+- fresh: And God said to Moses, saying, "For I will be with you, and this will be the sign for you that I am the one sending you: when you bring out my people from Egypt, you will serve God on this mountain."
 - brenton: And God spoke to Moses, saying, I will be with thee, and this shall be the sign to thee that I shall send thee forth,—when thou bringest out my people out of Egypt, then ye shall serve God in this mountain.
 
 ### Exodus 3:13
@@ -14340,7 +14340,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moses said to God, 'Look, I will come to the sons of Israel and say to them, The God of your fathers has sent me to you. And they will ask me, What is his name? What should I say to them?'
+- fresh: And Moses said to God, "Look, I will come to the sons of Israel and say to them, The God of your fathers has sent me to you. And they will ask me, What is his name? What should I say to them?"
 - brenton: And Moses said to God, Behold, I shall go forth to the children of Israel, and shall say to them, The God of our fathers has sent me to you; and they will ask me, What is his name? What shall I say to them?
 
 ### Exodus 3:14
@@ -14349,7 +14349,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said to Moses, 'I am the One who is.' And he said, 'Thus shall you say to the sons of Israel: The One who is has sent me to you.'
+- fresh: And God said to Moses, "I am the One who is." And he said, "Thus shall you say to the sons of Israel: The One who is has sent me to you."
 - brenton: And God spoke to Moses, saying, I am THE BEING; and he said, Thus shall ye say to the children of Israel, THE BEING has sent me to you.
 
 ### Exodus 3:15
@@ -14358,7 +14358,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said again to Moses, 'Thus shall you say to the sons of Israel: The Lord, the God of your fathers, the God of Abraham and the God of Isaac and the God of Jacob, has sent me to you. This is my eternal name and my memorial from generation to generation.'
+- fresh: And God said again to Moses, "Thus shall you say to the sons of Israel: The Lord, the God of your fathers, the God of Abraham and the God of Isaac and the God of Jacob, has sent me to you. This is my eternal name and my memorial from generation to generation."
 - brenton: And God said again to Moses, Thus shalt thou say to the sons of Israel, The Lord God of our fathers, the God of Abraam, and God of Isaac, and God of Jacob, has sent me to you: this is my name for ever, and my memorial to generations of generations.
 
 ### Exodus 3:16
@@ -14367,7 +14367,7 @@ Note:
 - decisions: 2
 - footnotes: 2
 - same_normalized: no
-- fresh: Go then, gather the elders of the sons of Israel and say to them, 'The Lord, the God of your fathers, has appeared to me, the God of Abraham and the God of Isaac and the God of Jacob, saying, I have surely visited you and the things that have happened to you in Egypt.'
+- fresh: Go then, gather the elders of the sons of Israel and say to them, "The Lord, the God of your fathers, has appeared to me, the God of Abraham and the God of Isaac and the God of Jacob, saying, I have surely visited you and the things that have happened to you in Egypt."
 - brenton: Go then and gather the elders of the children of Israel, and thou shalt say to them, The Lord God of our fathers has appeared to me, the God of Abraam, and God of Isaac, and God of Jacob, saying, I have surely looked upon you, and upon all the things which have happened to you in Egypt.
 
 ### Exodus 3:17
@@ -14385,7 +14385,7 @@ Note:
 - decisions: 2
 - footnotes: 2
 - same_normalized: no
-- fresh: And they will listen to your voice, and you and the elders of Israel shall go in to Pharaoh king of Egypt, and you shall say to him, 'The God of the Hebrews has summoned us. Let us go then a journey of three days into the wilderness so that we may sacrifice to our God.'
+- fresh: And they will listen to your voice, and you and the elders of Israel shall go in to Pharaoh king of Egypt, and you shall say to him, "The God of the Hebrews has summoned us. Let us go then a journey of three days into the wilderness so that we may sacrifice to our God."
 - brenton: And they shall hearken to thy voice, and thou and the elders of Israel shall go in to Pharao king of Egypt, and thou shalt say to him, The God of the Hebrews has called us; we will go then a journey of three days into the wilderness, that we may sacrifice to our God.
 
 ### Exodus 3:19
@@ -14430,7 +14430,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moses answered and said, 'What if they do not believe me or listen to my voice? For they will say, God has not appeared to you. What shall I say to them?'
+- fresh: And Moses answered and said, "What if they do not believe me or listen to my voice? For they will say, God has not appeared to you. What shall I say to them?"
 - brenton: And Moses answered and said, If they believe me not, and do not hearken to my voice (for they will say, God has not appeared to thee), what shall I say to them?
 
 ### Exodus 4:2
@@ -14439,7 +14439,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to him, 'What is this in your hand?' And he said, 'A staff.'
+- fresh: And the Lord said to him, "What is this in your hand?" And he said, "A staff."
 - brenton: And the Lord said to him, What is this thing that is in thine hand? and he said, A rod.
 
 ### Exodus 4:3
@@ -14448,7 +14448,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said, 'Throw it on the ground.' And he threw it on the ground, and it became a serpent, and Moses fled from it.
+- fresh: And he said, "Throw it on the ground." And he threw it on the ground, and it became a serpent, and Moses fled from it.
 - brenton: And he said, Cast it on the ground: and he cast it on the ground, and it became a serpent, and Moses fled from it.
 
 ### Exodus 4:4
@@ -14457,7 +14457,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to Moses, 'Stretch out your hand and seize its tail.' So stretching out his hand, he seized its tail, and it became a staff in his hand.
+- fresh: And the Lord said to Moses, "Stretch out your hand and seize its tail." So stretching out his hand, he seized its tail, and it became a staff in his hand.
 - brenton: And the Lord said to Moses, Stretch forth thine hand, and take hold of its tail: so he stretched forth his hand and took hold of the tail,
 
 ### Exodus 4:5
@@ -14475,7 +14475,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to him again, 'Put your hand into your bosom.' And he put his hand into his bosom, and he brought his hand out of his bosom, and his hand became like snow.
+- fresh: And the Lord said to him again, "Put your hand into your bosom." And he put his hand into his bosom, and he brought his hand out of his bosom, and his hand became like snow.
 - brenton: And the Lord said again to him, Put thine hand into thy bosom; and he put his hand into his bosom, and brought his hand out of his bosom, and his hand became as snow.
 
 ### Exodus 4:7
@@ -14484,7 +14484,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said again, 'Put your hand into your bosom.' And he put his hand into his bosom and brought it out of his bosom, and it was restored again to the color of his flesh.
+- fresh: And he said again, "Put your hand into your bosom." And he put his hand into his bosom and brought it out of his bosom, and it was restored again to the color of his flesh.
 - brenton: And he said again, Put thy hand into thy bosom; and he put his hand into his bosom, and brought his hand out of his bosom, and it was again restored to the complexion of his other flesh.
 
 ### Exodus 4:8
@@ -14511,7 +14511,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moses said to the Lord, 'I beg you, Lord, I have not been adequate before, neither yesterday nor the day before, nor since you began speaking to your servant. I am weak-voiced and slow-tongued.'
+- fresh: And Moses said to the Lord, "I beg you, Lord, I have not been adequate before, neither yesterday nor the day before, nor since you began speaking to your servant. I am weak-voiced and slow-tongued."
 - brenton: And Moses said to the Lord, I pray, Lord, I have not been sufficient in former times, neither from the time that thou hast begun to speak to thy servant: I am weak in speech, and slow-tongued.
 
 ### Exodus 4:11
@@ -14520,7 +14520,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to Moses, 'Who gave a mouth to a human being? And who made one hard of hearing and deaf, seeing and blind? Is it not I, God?'
+- fresh: And the Lord said to Moses, "Who gave a mouth to a human being? And who made one hard of hearing and deaf, seeing and blind? Is it not I, God?"
 - brenton: And the Lord said to Moses, Who has given a mouth to man, and who has made the very hard of hearing, and the deaf, the seeing and the blind? have not I, God?
 
 ### Exodus 4:12
@@ -14538,7 +14538,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moses said, 'I beg you, Lord, appoint another capable one whom you will send.'
+- fresh: And Moses said, "I beg you, Lord, appoint another capable one whom you will send."
 - brenton: And Moses said, I pray thee, Lord, appoint another able person whom thou shalt send.
 
 ### Exodus 4:14
@@ -14547,7 +14547,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord, angered with wrath against Moses, said, 'Look, is not Aaron the Levite your brother? I know that speaking he will speak for you. And look, he himself will come out to meet you, and seeing you, he will rejoice within himself.'
+- fresh: And the Lord, angered with wrath against Moses, said, "Look, is not Aaron the Levite your brother? I know that speaking he will speak for you. And look, he himself will come out to meet you, and seeing you, he will rejoice within himself."
 - brenton: And the Lord was greatly angered against Moses, and said, Lo! is not Aaron the Levite thy brother? I know that he will surely speak to thee; and, behold, he will come forth to meet thee, and beholding thee he will rejoice within himself.
 
 ### Exodus 4:15
@@ -14583,7 +14583,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moses went and returned to Jethro his father-in-law and said, 'I will go now and return to my brothers in Egypt and see whether they are still alive.' And Jethro said to Moses, 'Go in health.'
+- fresh: And Moses went and returned to Jethro his father-in-law and said, "I will go now and return to my brothers in Egypt and see whether they are still alive." And Jethro said to Moses, "Go in health."
 - brenton: And Moses went and returned to Jothor his father-in-law, and says, I will go and return to my brethren in Egypt, and will see if they are yet living. And Jothor said to Moses, Go in health. And in those days after some time, the king of Egypt died.
 
 ### Exodus 4:19
@@ -14592,7 +14592,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Now after those many days the king of Egypt died. And the Lord said to Moses in Midian, 'Go, depart into Egypt, for all seeking your life have died.'
+- fresh: Now after those many days the king of Egypt died. And the Lord said to Moses in Midian, "Go, depart into Egypt, for all seeking your life have died."
 - brenton: And the Lord said to Moses in Madiam, Go, depart into Egypt, for all that sought thy life are dead.
 
 ### Exodus 4:20
@@ -14610,7 +14610,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to Moses, 'When you go and return to Egypt, see that you do all the wonders that I gave into your hands before Pharaoh. But I will harden his heart, and he will certainly not send out the people.'
+- fresh: And the Lord said to Moses, "When you go and return to Egypt, see that you do all the wonders that I gave into your hands before Pharaoh. But I will harden his heart, and he will certainly not send out the people."
 - brenton: And the Lord said to Moses, When thou goest and returnest to Egypt, see—all the miracles I have charged thee with, thou shalt work before Pharao: and I will harden his heart, and he shall certainly not send away the people.
 
 ### Exodus 4:22
@@ -14619,7 +14619,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you shall say to Pharaoh, 'These things says the Lord: Israel is my firstborn son.'
+- fresh: And you shall say to Pharaoh, "These things says the Lord: Israel is my firstborn son."
 - brenton: And thou shalt say to Pharao, These things saith the Lord, Israel is my first-born.
 
 ### Exodus 4:23
@@ -14646,7 +14646,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Shiphrah, taking a stone, circumcised the foreskin of her son and fell at his feet and said, 'The blood of my child's circumcision stands.'
+- fresh: And Shiphrah, taking a stone, circumcised the foreskin of her son and fell at his feet and said, "The blood of my child's circumcision stands."
 - brenton: And Sepphora having taken a stone cut off the foreskin of her son, and fell at his feet and said, The blood of the circumcision of my son is staunched:
 
 ### Exodus 4:26
@@ -14655,7 +14655,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he departed from him, because she said, 'The blood of my child's circumcision stands.'
+- fresh: And he departed from him, because she said, "The blood of my child's circumcision stands."
 - brenton: and he departed from him, because she said, The blood of the circumcision of my son is staunched.
 
 ### Exodus 4:27
@@ -14664,7 +14664,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to Aaron, 'Go into the wilderness to meet Moses.' And he went and met him at the mountain of God, and they kissed one another.
+- fresh: And the Lord said to Aaron, "Go into the wilderness to meet Moses." And he went and met him at the mountain of God, and they kissed one another.
 - brenton: And the Lord said to Aaron, Go into the wilderness to meet Moses; and he went and met him in the mount of God, and they kissed each other.
 
 ### Exodus 4:28
@@ -14709,7 +14709,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And after these things Moses and Aaron went in to Pharaoh and said to him, 'These things says the Lord, the God of Israel: Send out my people so that they may hold a feast to me in the wilderness.'
+- fresh: And after these things Moses and Aaron went in to Pharaoh and said to him, "These things says the Lord, the God of Israel: Send out my people so that they may hold a feast to me in the wilderness."
 - brenton: And after this went in Moses and Aaron to Pharao, and they said to him, These things says the Lord God of Israel, Send my people away, that they may keep a feast to me in the wilderness.
 
 ### Exodus 5:2
@@ -14718,7 +14718,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Pharaoh said, 'Who is this, whose voice I should listen to so as to send out the sons of Israel? I do not know the Lord, and I will not send Israel out.'
+- fresh: And Pharaoh said, "Who is this, whose voice I should listen to so as to send out the sons of Israel? I do not know the Lord, and I will not send Israel out."
 - brenton: And Pharao said, Who is he that I should hearken to his voice, so that I should send away the children of Israel? I do not know the Lord, and I will not let Israel go.
 
 ### Exodus 5:3
@@ -14727,7 +14727,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they say to him, 'The God of the Hebrews has summoned us. Let us go then a journey of three days into the wilderness so that we may sacrifice to our God, lest death or slaughter meet us.'
+- fresh: And they say to him, "The God of the Hebrews has summoned us. Let us go then a journey of three days into the wilderness so that we may sacrifice to our God, lest death or slaughter meet us."
 - brenton: And they say to him, The God of the Hebrews has called us to him: we will go therefore a three days' journey into the wilderness, that we may sacrifice to the Lord our God, lest at any time death or slaughter happen to us.
 
 ### Exodus 5:4
@@ -14736,7 +14736,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the king of Egypt said to them, 'Why, Moses and Aaron, do you turn my people away from their works? Go away, each of you, to his work.'
+- fresh: And the king of Egypt said to them, "Why, Moses and Aaron, do you turn my people away from their works? Go away, each of you, to his work."
 - brenton: And the king of Egypt said to them, Why do ye, Moses and Aaron, turn the people from their works? depart each of you to your works.
 
 ### Exodus 5:5
@@ -14745,7 +14745,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Pharaoh said, 'Look now, the people are numerous. Should we then give them rest from their works?'
+- fresh: And Pharaoh said, "Look now, the people are numerous. Should we then give them rest from their works?"
 - brenton: And Pharao said, Behold now, the people is very numerous; let us not then give them rest from their work.
 
 ### Exodus 5:6
@@ -14790,7 +14790,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the taskmasters and the scribes hurried them and spoke to the people, saying, 'These things says Pharaoh: I no longer give you straw.'
+- fresh: And the taskmasters and the scribes hurried them and spoke to the people, saying, "These things says Pharaoh: I no longer give you straw."
 - brenton: And the taskmasters and the accountants hastened them, and they spoke to the people, saying, Thus says Pharao, I will give you straw no longer.
 
 ### Exodus 5:11
@@ -14817,7 +14817,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the taskmasters hurried them, saying, 'Finish the works assigned each day, just as when the straw was being given to you.'
+- fresh: And the taskmasters hurried them, saying, "Finish the works assigned each day, just as when the straw was being given to you."
 - brenton: And the taskmasters hastened them, saying, Fulfil your regular daily tasks, even as when straw was given you.
 
 ### Exodus 5:14
@@ -14826,7 +14826,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the scribes from the race of the sons of Israel, those appointed over them by Pharaoh's overseers, were beaten, saying, 'Why have you not completed your quotas of brick-making as yesterday and the day before, and now today as well?'
+- fresh: And the scribes from the race of the sons of Israel, those appointed over them by Pharaoh's overseers, were beaten, saying, "Why have you not completed your quotas of brick-making as yesterday and the day before, and now today as well?"
 - brenton: And the accountants of the race of the children of Israel, who were set over them by the masters of Pharao, were scourged, [and questioned,] men saying, Why have ye not fulfilled your rates of brick-work as yesterday and the third day, to-day also?
 
 ### Exodus 5:15
@@ -14835,7 +14835,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then the scribes of the sons of Israel went in and cried out to Pharaoh, saying, 'Why do you act this way toward your servants?'
+- fresh: Then the scribes of the sons of Israel went in and cried out to Pharaoh, saying, "Why do you act this way toward your servants?"
 - brenton: And the accountants of the children of Israel went in and cried to Pharao, saying, Why dost thou act thus to thy servants?
 
 ### Exodus 5:16
@@ -14853,7 +14853,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And he said to them, 'You are idle; you are idlers. Because of this you say, Let us go sacrifice to our God.'
+- fresh: And he said to them, "You are idle; you are idlers. Because of this you say, Let us go sacrifice to our God."
 - brenton: And he said to them, Ye are idle, ye are idlers: therefore ye say, Let us go and do sacrifice to our God.
 
 ### Exodus 5:18
@@ -14871,7 +14871,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the scribes of the sons of Israel saw themselves in trouble, as it was said, 'You shall not leave off from the bricks assigned each day.'
+- fresh: And the scribes of the sons of Israel saw themselves in trouble, as it was said, "You shall not leave off from the bricks assigned each day."
 - brenton: And the accountants of the children of Israel saw themselves in an evil plight, men saying, Ye shall not fail to deliver the daily rate of the brick-making.
 
 ### Exodus 5:20
@@ -14889,7 +14889,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they said to them, 'May God look upon you and judge, because you have made our smell abhorrent before Pharaoh and before his servants, putting a sword into his hands to kill us.'
+- fresh: And they said to them, "May God look upon you and judge, because you have made our smell abhorrent before Pharaoh and before his servants, putting a sword into his hands to kill us."
 - brenton: And they said to them, The Lord look upon you and judge you, for ye have made our savour abominable before Pharao, and before his servants, to put a sword into his hands to slay us.
 
 ### Exodus 5:22
@@ -14898,7 +14898,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Then Moses turned back to the Lord and said, 'Lord, why have you afflicted this people, and why have you sent me?'
+- fresh: Then Moses turned back to the Lord and said, "Lord, why have you afflicted this people, and why have you sent me?"
 - brenton: And Moses turned to the Lord, and said, I pray, Lord, why hast thou afflicted this people? and wherefore hast thou sent me?
 
 ### Exodus 5:23
@@ -14916,7 +14916,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to Moses, 'Now you will see what I will do to Pharaoh. For with a mighty hand he will send them out, and with a high arm he will cast them out of his land.'
+- fresh: And the Lord said to Moses, "Now you will see what I will do to Pharaoh. For with a mighty hand he will send them out, and with a high arm he will cast them out of his land."
 - brenton: And the Lord said to Moses, Now thou shalt see what I will do to Pharao; for he shall send them forth with a mighty hand, and with a high arm shall he cast them out of his land.
 
 ### Exodus 6:2
@@ -14925,7 +14925,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: yes
-- fresh: And God spoke to Moses and said to him, 'I am the Lord.'
+- fresh: And God spoke to Moses and said to him, "I am the Lord."
 - brenton: And God spoke to Moses and said to him, I am the Lord.
 
 ### Exodus 6:3
@@ -15015,7 +15015,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But Moses spoke before the Lord, saying, 'Look, the sons of Israel did not listen to me; so how will Pharaoh listen to me? And I am without speech.'
+- fresh: But Moses spoke before the Lord, saying, "Look, the sons of Israel did not listen to me; so how will Pharaoh listen to me? And I am without speech."
 - brenton: And Moses spoke before the Lord, saying, Behold, the children of Israel hearkened not to me, and how shall Pharao hearken to me? and I am not eloquent.
 
 ### Exodus 6:13
@@ -15168,7 +15168,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: that the Lord spoke to Moses, saying, 'I am the Lord. Speak to Pharaoh king of Egypt all that I speak to you.'
+- fresh: that the Lord spoke to Moses, saying, "I am the Lord. Speak to Pharaoh king of Egypt all that I speak to you."
 - brenton: then the Lord spoke to Moses, saying, I am the Lord: speak to Pharao king of Egypt whatsoever I say to thee.
 
 ### Exodus 6:30
@@ -15177,7 +15177,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moses said before the Lord, 'Look, I am weak-voiced, and how will Pharaoh listen to me?'
+- fresh: And Moses said before the Lord, "Look, I am weak-voiced, and how will Pharaoh listen to me?"
 - brenton: And Moses said before the Lord, Behold, I am not able in speech, and how shall Pharao hearken to me?
 
 ### Exodus 7:1
@@ -15186,7 +15186,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to Moses, saying, 'See, I have given you as god to Pharaoh, and Aaron your brother shall be your prophet.'
+- fresh: And the Lord said to Moses, saying, "See, I have given you as god to Pharaoh, and Aaron your brother shall be your prophet."
 - brenton: And the Lord spoke to Moses, saying, Behold, I have made thee a god to Pharao, and Aaron thy brother shall be thy prophet.
 
 ### Exodus 7:2
@@ -15303,7 +15303,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to Moses, 'Pharaoh's heart has become heavy, so that he will not send out the people.'
+- fresh: And the Lord said to Moses, "Pharaoh's heart has become heavy, so that he will not send out the people."
 - brenton: And the Lord said to Moses, The heart of Pharao is made hard, so that he should not let the people go.
 
 ### Exodus 7:15
@@ -21963,7 +21963,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: They have quickly turned aside from the way that I commanded them. They have made for themselves a calf and have worshiped it and sacrificed to it and said, 'These are your gods, Israel, who brought you up from Egypt.'"
+- fresh: They have quickly turned aside from the way that I commanded them. They have made for themselves a calf and have worshiped it and sacrificed to it and said, "These are your gods, Israel, who brought you up from Egypt.""
 - brenton: they have quickly gone out of the way which thou commandedst; they have made for themselves a calf, and worshipped it, and sacrificed to it, and said, These are thy gods, O Israel, who brought thee up out of the land of Egypt.
 
 ### Exodus 32:10
@@ -21990,7 +21990,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Let not the Egyptians ever say, 'He brought them out with evil intent, to kill them in the mountains and consume them from the earth.' Stop from the anger of your wrath and be merciful concerning the evil of your people.
+- fresh: Let not the Egyptians ever say, "He brought them out with evil intent, to kill them in the mountains and consume them from the earth." Stop from the anger of your wrath and be merciful concerning the evil of your people.
 - brenton: Take heed lest at any time the Egyptians speak, saying, With evil intent he brought them out to slay them in the mountains, and to consume them from off the earth; cease from thy wrathful anger, and be merciful to the sin of thy people,
 
 ### Exodus 32:13
@@ -21999,7 +21999,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Remember Abraham and Isaac and Jacob your servants, to whom you swore by yourself and spoke to them, saying, 'I will greatly multiply your seed like the stars of heaven in multitude, and all this land that I said I would give to your seed, and they shall possess it forever.'"
+- fresh: Remember Abraham and Isaac and Jacob your servants, to whom you swore by yourself and spoke to them, saying, "I will greatly multiply your seed like the stars of heaven in multitude, and all this land that I said I would give to your seed, and they shall possess it forever.""
 - brenton: remembering Abraam and Isaac and Jacob thy servants, to whom thou hast sworn by thyself, and hast spoken to them, saying, I will greatly multiply your seed as the stars of heaven for multitude, and all this land which thou spokest of to give to them, so that they shall possess it for ever.
 
 ### Exodus 32:14
@@ -22089,7 +22089,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: For they say to me, 'Make gods for us who will go before us. For as for this Moses, the man who brought us up from Egypt, we do not know what has happened to him.'
+- fresh: For they say to me, "Make gods for us who will go before us. For as for this Moses, the man who brought us up from Egypt, we do not know what has happened to him."
 - brenton: For they say to me, Make us gods, which shall go before us; for as for this man Moses, who brought us out of Egypt, we do not know what is become of him.
 
 ### Exodus 32:24
@@ -22098,7 +22098,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And I said to them, 'Whoever has gold ornaments, strip them off.' And they gave them to me, and I threw them into the fire, and out came this calf."
+- fresh: And I said to them, "Whoever has gold ornaments, strip them off." And they gave them to me, and I threw them into the fire, and out came this calf."
 - brenton: And I said to them, If any one has golden ornaments, take them off; and they gave them me, and I cast them into the fire, and there came out this calf.
 
 ### Exodus 32:25
@@ -189753,7 +189753,7 @@ Note:
 - decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: When I say to the righteous one, 'He will surely live,' and he trusts in his righteousness and does lawlessness, all his righteous deeds will not be remembered; in the injustice that he did, in it he will die.
+- fresh: When I say to the righteous one, "He will surely live," and he trusts in his righteousness and does lawlessness, all his righteous deeds will not be remembered; in the injustice that he did, in it he will die.
 - brenton: When I say to the righteous, Thou shalt live; and he trusts in his righteousness, and shall commit iniquity, none of his righteousnesses shall be remembered; in his unrighteousness which he has wrought, in it shall he die.
 
 ### Ezekiel 33:14
@@ -189762,7 +189762,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And when I say to the impious one, 'By death you will be put to death,' and he turns from his sin and does judgment and righteousness,
+- fresh: And when I say to the impious one, "By death you will be put to death," and he turns from his sin and does judgment and righteousness,
 - brenton: And when I say to the ungodly, Thou shalt surely die; and he shall turn from his sin, and do judgment and justice,
 
 ### Ezekiel 33:15

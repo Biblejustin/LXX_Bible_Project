@@ -8,6 +8,7 @@ Generated files:
 Profile:
 
 - Combined Genesis-Revelation text.
+- OT source: LXX Greek source rows; NT source: Scrivener 1894 Textus Receptus Greek source rows.
 - Compact two-column DOCX layout with narrow margins.
 - Front matter includes an LXX-to-English numbering guide for major reader-facing divergences.
 - Reviewed translation/textual notes included.

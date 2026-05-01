@@ -3,7 +3,7 @@
 Fresh translation workspace for Greek-to-English OT/NT polish behind The Greek
 Heritage Study Bible, using:
 
-- Greek source text
+- OT LXX Greek source rows and NT Scrivener 1894 Textus Receptus Greek source rows
 - Logos-based lexical and apparatus review
 - phrase-level decision tracking
 - publishable footnote drafting
@@ -12,6 +12,7 @@ Heritage Study Bible, using:
 
 - Scripture received here as inerrant, word-for-word inspired in original writings.
 - Fresh translation aims to work from Greek source text directly instead of reusing older English wording.
+- Deuterocanonical LXX books are planned as a separate workstream/output, not folded into this Protestant-canon branch.
 - Local Logos resources serve as research tools, while private notes stay private.
 - This branch keeps fresh-translation outputs first; inherited study-bible variants are outside the current polish scope.
 
@@ -87,9 +88,8 @@ make build-print-proof
 That target writes a two-column DOCX under `output/print/` with the combined
 fresh translation, reviewed translation notes, source-occurrence name meanings,
 an LXX-to-English numbering guide, and a minimal TSK-only cross-reference layer.
-It excludes book prefaces, Brenton/source
-supplemental notes, OpenBible fallback cross-references, and TSK study-note
-text.
+It excludes book prefaces, Brenton/source supplemental notes, OpenBible fallback
+cross-references, and TSK study-note text.
 
 For fast NT iteration without touching committed release outputs:
 
@@ -139,10 +139,11 @@ CI runs the same smoke checks in `.github/workflows/smoke.yml`.
 ## Branch Strategy
 
 `fresh-translation-pilot` is the active working branch for complete fresh OT/NT
-polish from Greek source text. Future public release branches should describe
-their source-text pairing and output target in the branch name; default branch
-naming can be normalized separately when the project is ready for broader
-contributors.
+polish from Greek source text. The OT work translates the normalized LXX Greek
+source workspace; the NT work translates the Scrivener 1894 Textus Receptus
+stream. Future public release branches should describe their source-text pairing
+and output target in the branch name; default branch naming can be normalized
+separately when the project is ready for broader contributors.
 
 ## Current Outputs
 

@@ -127,6 +127,7 @@
     "brenton_supplemental_notes": "excluded",
     "openbible_fallback": "excluded",
     "name_meanings": "listed_first_source_occurrence_only",
+    "source_policy": "OT LXX Greek rows plus NT Scrivener 1894 Textus Receptus Greek rows.",
     "tsk_study_note_text": "excluded"
   },
   "print_docx": {
@@ -140,16 +141,16 @@
     "footnote_number_restart": "chapter",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
-    "phrase_anchored_translation_notes": 3141,
-    "verse_anchored_translation_notes": 860,
+    "phrase_anchored_translation_notes": 3138,
+    "verse_anchored_translation_notes": 863,
     "name_meaning_footnotes": 2816,
     "supplemental_note_footnotes": 0,
     "brenton_supplemental_footnotes": 0,
     "textual_note_export_footnotes": 0,
     "phrase_anchored_name_meaning_notes": 2671,
     "verse_anchored_name_meaning_notes": 145,
-    "phrase_anchored_crossref_notes": 12194,
-    "verse_anchored_crossref_notes": 708,
+    "phrase_anchored_crossref_notes": 12192,
+    "verse_anchored_crossref_notes": 710,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
@@ -157,7 +158,8 @@
     "mapped_milestone_refs": 0,
     "fallback_milestone_refs": 0,
     "duplicate_milestone_refs": 0,
-    "suppressed_duplicate_milestone_refs": 0
+    "suppressed_duplicate_milestone_refs": 0,
+    "superscription_line_count": 142
   },
   "validations": [
     {

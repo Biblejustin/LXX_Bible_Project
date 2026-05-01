@@ -86,6 +86,8 @@ def test_fresh_source_csv_shapes() -> None:
 
 
 def test_review_feedback_high_traffic_wording_stays_fixed() -> None:
+    import build_fresh_logos_bible as logos_builder
+
     ot_by_ref = {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")}
     nt_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
     notes_by_ref = {
@@ -95,6 +97,11 @@ def test_review_feedback_high_traffic_wording_stays_fixed() -> None:
 
     assert "lie in wait for your head" in ot_by_ref["Genesis 3:15"]["draft_translation"]
     assert "nothing will be lacking to me" in ot_by_ref["Psalms 22:1"]["draft_translation"]
+    assert '"Let light come to be."' in ot_by_ref["Genesis 1:3"]["draft_translation"]
+    assert "'Let light come to be.'" not in ot_by_ref["Genesis 1:3"]["draft_translation"]
+    assert '"Why is it that God said, \'You shall not eat from every tree of the garden\'?"' in (
+        ot_by_ref["Genesis 3:1"]["draft_translation"]
+    )
     assert nt_by_ref["Matthew 1:23"]["draft_translation"].count("Immanuel") == 1
     assert "Emmanuel" not in nt_by_ref["Matthew 1:23"]["draft_translation"]
     assert "The first man, Adam" in nt_by_ref["1 Corinthians 15:45"]["draft_translation"]
@@ -104,6 +111,20 @@ def test_review_feedback_high_traffic_wording_stays_fixed() -> None:
     assert "Jeremiah 38:31" in notes_by_ref[("Hebrews 8:8", "textual", "new covenant")][
         "footnote_text"
     ]
+    assert "separate workstream" in (ROOT / "docs" / "CANON_POLICY.md").read_text(encoding="utf-8")
+
+    psalm_22 = logos_builder.Verse(
+        ref="Psalms 22:1",
+        book_code="PSA",
+        book_name="Psalms",
+        chapter=22,
+        verse=1,
+        text=ot_by_ref["Psalms 22:1"]["draft_translation"],
+    )
+    assert logos_builder.split_psalm_superscription(psalm_22) == (
+        "Psalm of David.",
+        "The Lord shepherds me, and nothing will be lacking to me.",
+    )
 
 
 def test_review_csv_shapes() -> None:
@@ -9027,8 +9048,10 @@ def test_print_proof_profile_is_compact_and_excludes_study_layers() -> None:
     assert diagnostics["print_profile"]["brenton_supplemental_notes"] == "excluded"
     assert diagnostics["print_profile"]["openbible_fallback"] == "excluded"
     assert diagnostics["print_profile"]["name_meanings"] == "listed_first_source_occurrence_only"
+    assert diagnostics["print_profile"]["source_policy"].startswith("OT LXX Greek rows")
     assert stats["output_kind"] == "print_proof"
     assert stats["book_preface_pages"] == 0
+    assert stats["superscription_line_count"] > 0
     assert stats["supplemental_note_footnotes"] == 0
     assert stats["brenton_supplemental_footnotes"] == 0
     assert stats["translation_note_footnotes"] > 0
@@ -9058,8 +9081,11 @@ def test_print_proof_docx_uses_compact_layout_and_no_brenton_footnotes() -> None
     assert "Book preface pages are excluded to keep this copy shorter." in document_xml
     assert "Name-meaning notes are included only at their listed first/source occurrence" in document_xml
     assert "Minimal cross-reference layer" in document_xml
+    assert "Source Basis" in document_xml
+    assert "OT source basis" in document_xml
     assert "Reference Numbering Guide" in document_xml
     assert "English Psalm 23:1: see Psalms 22:1 here." in document_xml
+    assert "<w:br/>" in document_xml
 
 
 def test_logos_readmes_use_testament_specific_language() -> None:

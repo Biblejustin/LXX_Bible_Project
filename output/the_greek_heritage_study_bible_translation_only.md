@@ -18,7 +18,7 @@ But the earth was unseen and unformed, darkness was over the abyss, and the Spir
 
 **Genesis 1:3**
 
-And God said, 'Let light come to be.' And light came to be.
+And God said, "Let light come to be." And light came to be.
 
 **Genesis 1:4**
 
@@ -30,7 +30,7 @@ And God called the light Day, and the darkness he called Night. And evening came
 
 **Genesis 1:6**
 
-And God said, 'Let a firm span come to be in the middle of the water, and let it divide water from water.' And it came to be so.
+And God said, "Let a firm span come to be in the middle of the water, and let it divide water from water." And it came to be so.
 
 **Genesis 1:7**
 
@@ -42,7 +42,7 @@ And God called the firm span Heaven. And God saw that it was good. And evening c
 
 **Genesis 1:9**
 
-And God said, 'Let the water below Heaven be gathered into one gathering, and let the dry land appear.' And it came to be so. And the water below Heaven was gathered into their gatherings, and the dry land appeared.
+And God said, "Let the water below Heaven be gathered into one gathering, and let the dry land appear." And it came to be so. And the water below Heaven was gathered into their gatherings, and the dry land appeared.
 
 **Genesis 1:10**
 
@@ -50,7 +50,7 @@ And God called the dry land Earth, and the gathered bodies of the waters he call
 
 **Genesis 1:11**
 
-And God said, 'Let the earth sprout herb of grass sowing seed according to kind and according to likeness, and a fruit-bearing tree making fruit, whose seed is in it according to kind upon the earth.' And it came to be so.
+And God said, "Let the earth sprout herb of grass sowing seed according to kind and according to likeness, and a fruit-bearing tree making fruit, whose seed is in it according to kind upon the earth." And it came to be so.
 
 **Genesis 1:12**
 
@@ -62,7 +62,7 @@ And evening came, and morning came: third day.
 
 **Genesis 1:14**
 
-And God said, 'Let light-bearers come to be in the firm span of Heaven for shining upon the earth, for dividing between the day and between the night. And let them be for signs and for seasons and for days and for years.'
+And God said, "Let light-bearers come to be in the firm span of Heaven for shining upon the earth, for dividing between the day and between the night. And let them be for signs and for seasons and for days and for years."
 
 **Genesis 1:15**
 
@@ -86,7 +86,7 @@ And evening came, and morning came: fourth day.
 
 **Genesis 1:20**
 
-And God said, 'Let the waters bring forth crawling things of living souls and winged creatures flying upon the earth across the firm span of Heaven.' And it came to be so.
+And God said, "Let the waters bring forth crawling things of living souls and winged creatures flying upon the earth across the firm span of Heaven." And it came to be so.
 
 **Genesis 1:21**
 
@@ -94,7 +94,7 @@ And God made the great sea-monsters and every soul of living creeping things, wh
 
 **Genesis 1:22**
 
-And God blessed them, saying, 'Increase and multiply and fill the waters in the seas, and let the winged creatures be multiplied upon the earth.'
+And God blessed them, saying, "Increase and multiply and fill the waters in the seas, and let the winged creatures be multiplied upon the earth."
 
 **Genesis 1:23**
 
@@ -102,7 +102,7 @@ And evening came, and morning came: fifth day.
 
 **Genesis 1:24**
 
-And God said, 'Let the earth bring forth living soul according to kind: four-footed animals and creeping things and wild beasts of the earth according to kind.' And it came to be so.
+And God said, "Let the earth bring forth living soul according to kind: four-footed animals and creeping things and wild beasts of the earth according to kind." And it came to be so.
 
 **Genesis 1:25**
 
@@ -110,7 +110,7 @@ And God made the wild beasts of the earth according to kind, and the cattle acco
 
 **Genesis 1:26**
 
-And God said, 'Let us make man according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the cattle and all the earth and all the creeping things creeping upon the earth.'
+And God said, "Let us make man according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the cattle and all the earth and all the creeping things creeping upon the earth."
 
 **Genesis 1:27**
 
@@ -118,11 +118,11 @@ And God made the man; according to the image of God he made him. Male and female
 
 **Genesis 1:28**
 
-And God blessed them, saying, 'Increase and multiply and fill the earth and subdue it, and rule the fish of the sea and the birds of Heaven and all the cattle and all the earth and all the creeping things creeping upon the earth.'
+And God blessed them, saying, "Increase and multiply and fill the earth and subdue it, and rule the fish of the sea and the birds of Heaven and all the cattle and all the earth and all the creeping things creeping upon the earth."
 
 **Genesis 1:29**
 
-And God said, 'Behold, I have given you every seed-bearing plant sowing seed, which is upon all the earth, and every tree that has in itself fruit of sowable seed. To you it shall be for food.'
+And God said, "Behold, I have given you every seed-bearing plant sowing seed, which is upon all the earth, and every tree that has in itself fruit of sowable seed. To you it shall be for food."
 
 **Genesis 1:30**
 
@@ -204,7 +204,7 @@ but from the tree of knowing good and evil, he was not to eat from it; on the da
 
 **Genesis 2:18**
 
-And the Lord God said, 'It is not good for the human to be alone. Let us make for him a helper corresponding to him.'
+And the Lord God said, "It is not good for the human to be alone. Let us make for him a helper corresponding to him."
 
 **Genesis 2:19**
 
@@ -224,7 +224,7 @@ And God built the side that he had taken from Adam into a woman and brought her 
 
 **Genesis 2:23**
 
-And Adam said, 'This now is bone from my bones and flesh from my flesh. She shall be called woman, because she was taken from her man.'
+And Adam said, "This now is bone from my bones and flesh from my flesh. She shall be called woman, because she was taken from her man."
 
 **Genesis 2:24**
 
@@ -238,7 +238,7 @@ And the two were naked, Adam and his wife, and they were not ashamed.
 
 **Genesis 3:1**
 
-Now the serpent was the most shrewd of all the beasts on the earth that the Lord God had made. And the serpent said to the woman, 'Why is it that God said, "You shall not eat from every tree of the garden"?'
+Now the serpent was the most shrewd of all the beasts on the earth that the Lord God had made. And the serpent said to the woman, "Why is it that God said, 'You shall not eat from every tree of the garden'?"
 
 **Genesis 3:2**
 
@@ -270,23 +270,23 @@ And they heard the sound of the Lord God walking in the garden at evening, and A
 
 **Genesis 3:9**
 
-And the Lord God called Adam and said to him, 'Adam, where are you?'
+And the Lord God called Adam and said to him, "Adam, where are you?"
 
 **Genesis 3:10**
 
-And he said to him, 'I heard your sound as you were walking in the garden, and I was afraid because I am naked, and I hid myself.'
+And he said to him, "I heard your sound as you were walking in the garden, and I was afraid because I am naked, and I hid myself."
 
 **Genesis 3:11**
 
-And God said to him, 'Who told you that you are naked, unless you have eaten from the tree from which alone I commanded you not to eat?'
+And God said to him, "Who told you that you are naked, unless you have eaten from the tree from which alone I commanded you not to eat?"
 
 **Genesis 3:12**
 
-And Adam said, 'The woman whom you gave with me, she gave me from the tree, and I ate.'
+And Adam said, "The woman whom you gave with me, she gave me from the tree, and I ate."
 
 **Genesis 3:13**
 
-And the Lord God said to the woman, 'What is this you have done?' And the woman said, 'The serpent deceived me, and I ate.'
+And the Lord God said to the woman, "What is this you have done?" And the woman said, "The serpent deceived me, and I ate."
 
 **Genesis 3:14**
 
@@ -298,7 +298,7 @@ And I will put enmity between you and between the woman, and between your seed a
 
 **Genesis 3:16**
 
-And to the woman he said, 'Multiplying I will multiply your pains and your groaning. In pains you will bear children, and your turning will be toward your husband, and he will rule over you.'
+And to the woman he said, "Multiplying I will multiply your pains and your groaning. In pains you will bear children, and your turning will be toward your husband, and he will rule over you."
 
 **Genesis 3:17**
 
@@ -322,7 +322,7 @@ And the Lord God made skin tunics for Adam and for his wife, and clothed them.
 
 **Genesis 3:22**
 
-And God said, 'Look, Adam has become like one of us, to know good and evil. And now, lest perhaps he stretch out his hand and take from the tree of life and eat and live forever.'
+And God said, "Look, Adam has become like one of us, to know good and evil. And now, lest perhaps he stretch out his hand and take from the tree of life and eat and live forever."
 
 **Genesis 3:23**
 
@@ -336,7 +336,7 @@ And he cast Adam out and settled him opposite the garden of delight, and he stat
 
 **Genesis 4:1**
 
-And Adam knew Eve his wife, and having conceived she bore Cain and said, 'I have acquired a man through God.'
+And Adam knew Eve his wife, and having conceived she bore Cain and said, "I have acquired a man through God."
 
 **Genesis 4:2**
 
@@ -356,23 +356,23 @@ but upon Cain and upon his sacrifices he gave no heed. And Cain was greatly grie
 
 **Genesis 4:6**
 
-And the Lord God said to Cain, 'Why did you become deeply grieved, and why did your face fall?'
+And the Lord God said to Cain, "Why did you become deeply grieved, and why did your face fall?"
 
 **Genesis 4:7**
 
-'If you offered rightly, but did not divide rightly, did you not sin? Be still. Toward you is its turning, and you shall rule it.'
+"If you offered rightly, but did not divide rightly, did you not sin? Be still. Toward you is its turning, and you shall rule it."
 
 **Genesis 4:8**
 
-And Cain said to Abel his brother, 'Let us go through into the field.' And it came to be while they were in the field that Cain rose against Abel his brother and killed him.
+And Cain said to Abel his brother, "Let us go through into the field." And it came to be while they were in the field that Cain rose against Abel his brother and killed him.
 
 **Genesis 4:9**
 
-And the Lord God said to Cain, 'Where is Abel your brother?' And he said, 'I do not know. Am I my brother's keeper?'
+And the Lord God said to Cain, "Where is Abel your brother?" And he said, "I do not know. Am I my brother's keeper?"
 
 **Genesis 4:10**
 
-And the Lord said, 'What have you done? A voice of your brother's blood cries out to me from the earth.'
+And the Lord said, "What have you done? A voice of your brother's blood cries out to me from the earth."
 
 **Genesis 4:11**
 
@@ -384,7 +384,7 @@ When you work the earth, it shall not continue to give you its strength. Groanin
 
 **Genesis 4:13**
 
-And Cain said to the Lord God, 'Greater is my charge than for me to be forgiven.'
+And Cain said to the Lord God, "Greater is my charge than for me to be forgiven."
 
 **Genesis 4:14**
 
@@ -392,7 +392,7 @@ If you cast me out today from the face of the earth and I am hidden from your fa
 
 **Genesis 4:15**
 
-And the Lord God said to him, 'Not so. Everyone who kills Cain will pay sevenfold.' And the Lord God set a sign for Cain, so that none finding him should kill him.
+And the Lord God said to him, "Not so. Everyone who kills Cain will pay sevenfold." And the Lord God set a sign for Cain, so that none finding him should kill him.
 
 **Genesis 4:16**
 
@@ -424,7 +424,7 @@ And Zillah also bore Tubal, and he was a hammering smith of bronze and iron. And
 
 **Genesis 4:23**
 
-And Lamech said to his wives, 'Adah and Zillah, hear my voice; wives of Lamech, listen to my words. For I killed a man for a wound to me, and a young man for a welt to me.'
+And Lamech said to his wives, "Adah and Zillah, hear my voice; wives of Lamech, listen to my words. For I killed a man for a wound to me, and a young man for a welt to me."
 
 **Genesis 4:24**
 
@@ -432,7 +432,7 @@ Because Cain has been avenged sevenfold, but Lamech seventy times seven.'
 
 **Genesis 4:25**
 
-And Adam knew Eve his wife, and having conceived she bore a son, and named his name Seth, saying, 'For God raised up for me another seed instead of Abel, whom Cain killed.'
+And Adam knew Eve his wife, and having conceived she bore a son, and named his name Seth, saying, "For God raised up for me another seed instead of Abel, whom Cain killed."
 
 **Genesis 4:26**
 
@@ -554,7 +554,7 @@ And Lamech lived one hundred and eighty-eight years and begot a son.
 
 **Genesis 5:29**
 
-And he named his name Noah, saying, 'This one will give us rest from our works and from the pains of our hands and from the earth, which the Lord God cursed.'
+And he named his name Noah, saying, "This one will give us rest from our works and from the pains of our hands and from the earth, which the Lord God cursed."
 
 **Genesis 5:30**
 
@@ -580,7 +580,7 @@ that the sons of God, seeing the daughters of humans that they are beautiful, to
 
 **Genesis 6:3**
 
-And the Lord God said, 'My spirit shall certainly not remain in these humans forever, because they are flesh, but their days shall be one hundred and twenty years.'
+And the Lord God said, "My spirit shall certainly not remain in these humans forever, because they are flesh, but their days shall be one hundred and twenty years."
 
 **Genesis 6:4**
 
@@ -596,7 +596,7 @@ considered that he had made the human on the earth, and he thought it through.
 
 **Genesis 6:7**
 
-And God said, 'I will wipe away the human whom I made from the face of the earth, from human to cattle and from creeping things to the birds of heaven, because I regret that I made them.'
+And God said, "I will wipe away the human whom I made from the face of the earth, from human to cattle and from creeping things to the birds of heaven, because I regret that I made them."
 
 **Genesis 6:8**
 
@@ -620,11 +620,11 @@ And the Lord God saw the earth, and it was corrupted, because all flesh had corr
 
 **Genesis 6:13**
 
-And the Lord God said to Noah, 'The end of every human has come before me, because the earth is filled with injustice from them, and look, I am destroying them and the earth.'
+And the Lord God said to Noah, "The end of every human has come before me, because the earth is filled with injustice from them, and look, I am destroying them and the earth."
 
 **Genesis 6:14**
 
-'So make for yourself an ark from squared timbers. You shall make nesting compartments in the ark, and you shall pitch it inside and outside with pitch.'
+"So make for yourself an ark from squared timbers. You shall make nesting compartments in the ark, and you shall pitch it inside and outside with pitch."
 
 **Genesis 6:15**
 
@@ -6268,7 +6268,7 @@ Then another king arose over Egypt who did not know Joseph.
 
 **Exodus 1:9**
 
-And he said to his people, 'Look, the race of the sons of Israel is a great multitude and stronger than we are.'
+And he said to his people, "Look, the race of the sons of Israel is a great multitude and stronger than we are."
 
 **Exodus 1:10**
 
@@ -6296,7 +6296,7 @@ And the king of Egypt spoke to the Hebrew midwives; the name of the one was Ship
 
 **Exodus 1:16**
 
-And he said, 'When you serve as midwives for the Hebrew women and they are at the time of giving birth, if it is a male, kill it; but if a female, keep it alive.'
+And he said, "When you serve as midwives for the Hebrew women and they are at the time of giving birth, if it is a male, kill it; but if a female, keep it alive."
 
 **Exodus 1:17**
 
@@ -6304,11 +6304,11 @@ But the midwives feared God and did not do as the king of Egypt ordered them, an
 
 **Exodus 1:18**
 
-So the king of Egypt called the midwives and said to them, 'Why have you done this thing and kept the male children alive?'
+So the king of Egypt called the midwives and said to them, "Why have you done this thing and kept the male children alive?"
 
 **Exodus 1:19**
 
-And the midwives said to Pharaoh, 'The Hebrew women are not like the women of Egypt, for before the midwives can go in to them, they give birth.'
+And the midwives said to Pharaoh, "The Hebrew women are not like the women of Egypt, for before the midwives can go in to them, they give birth."
 
 **Exodus 1:20**
 
@@ -6320,7 +6320,7 @@ And because the midwives feared God, they established households for themselves.
 
 **Exodus 1:22**
 
-Then Pharaoh charged all his people, saying, 'Every male that is born to the Hebrews, throw it into the river; but keep every female alive.'
+Then Pharaoh charged all his people, saying, "Every male that is born to the Hebrews, throw it into the river; but keep every female alive."
 
 #### Chapter 2
 
@@ -6346,23 +6346,23 @@ Then Pharaoh's daughter came down to bathe at the river, and her young women wer
 
 **Exodus 2:6**
 
-And when she opened it, she sees a child crying in the basket. And Pharaoh's daughter had compassion on him and said, 'This is one of the Hebrews' children.'
+And when she opened it, she sees a child crying in the basket. And Pharaoh's daughter had compassion on him and said, "This is one of the Hebrews" children.'
 
 **Exodus 2:7**
 
-Then his sister said to Pharaoh's daughter, 'Do you want me to call a nursing woman from the Hebrews, and she will nurse the child for you?'
+Then his sister said to Pharaoh's daughter, "Do you want me to call a nursing woman from the Hebrews, and she will nurse the child for you?"
 
 **Exodus 2:8**
 
-And Pharaoh's daughter said to her, 'Go.' So the young woman went and called the child's mother.
+And Pharaoh's daughter said to her, "Go." So the young woman went and called the child's mother.
 
 **Exodus 2:9**
 
-And Pharaoh's daughter said to her, 'Keep this child for me and nurse him for me, and I will give you your wages.' So the woman took the child and nursed him.
+And Pharaoh's daughter said to her, "Keep this child for me and nurse him for me, and I will give you your wages." So the woman took the child and nursed him.
 
 **Exodus 2:10**
 
-And when the child grew strong, she brought him to Pharaoh's daughter, and he became her son. And she called his name Moses, saying, 'For I drew him out of the water.'
+And when the child grew strong, she brought him to Pharaoh's daughter, and he became her son. And she called his name Moses, saying, "For I drew him out of the water."
 
 **Exodus 2:11**
 
@@ -6374,11 +6374,11 @@ And looking this way and that way, he saw no one, so he struck the Egyptian and 
 
 **Exodus 2:13**
 
-And going out on the second day, he saw two Hebrew men fighting, and he says to the one doing wrong, 'Why are you striking your neighbor?'
+And going out on the second day, he saw two Hebrew men fighting, and he says to the one doing wrong, "Why are you striking your neighbor?"
 
 **Exodus 2:14**
 
-But he said, 'Who made you ruler and judge over us? Do you mean to kill me as you killed the Egyptian yesterday?' Then Moses became afraid and said, 'So then this matter has become known.'
+But he said, "Who made you ruler and judge over us? Do you mean to kill me as you killed the Egyptian yesterday?" Then Moses became afraid and said, "So then this matter has become known."
 
 **Exodus 2:15**
 
@@ -6394,15 +6394,15 @@ But when the shepherds came, they drove them away. Then Moses rose and rescued t
 
 **Exodus 2:18**
 
-Then they came to Raguel their father, and he said to them, 'Why have you come so quickly today?'
+Then they came to Raguel their father, and he said to them, "Why have you come so quickly today?"
 
 **Exodus 2:19**
 
-And they said, 'An Egyptian man rescued us from the shepherds, and he also drew water for us and watered our flock.'
+And they said, "An Egyptian man rescued us from the shepherds, and he also drew water for us and watered our flock."
 
 **Exodus 2:20**
 
-And he said to his daughters, 'Then where is he? And why have you left the man like this? Call him then, so that he may eat bread.'
+And he said to his daughters, "Then where is he? And why have you left the man like this? Call him then, so that he may eat bread."
 
 **Exodus 2:21**
 
@@ -6410,7 +6410,7 @@ And Moses settled with the man, and he gave Shiphrah his daughter to Moses as a 
 
 **Exodus 2:22**
 
-And the woman conceived and bore a son, and Moses called his name Gershom, saying, 'Because I am a sojourner in a foreign land.'
+And the woman conceived and bore a son, and Moses called his name Gershom, saying, "Because I am a sojourner in a foreign land."
 
 **Exodus 2:23**
 
@@ -6436,23 +6436,23 @@ Then an angel of the Lord appeared to him in a flame of fire out of the bush. An
 
 **Exodus 3:3**
 
-And Moses said, 'I will go over now and see this great sight, why the bush is not burned up.'
+And Moses said, "I will go over now and see this great sight, why the bush is not burned up."
 
 **Exodus 3:4**
 
-And when the Lord saw that he was coming near to see, the Lord called to him from the bush, saying, 'Moses, Moses.' And he said, 'What is it?'
+And when the Lord saw that he was coming near to see, the Lord called to him from the bush, saying, "Moses, Moses." And he said, "What is it?"
 
 **Exodus 3:5**
 
-And he said, 'Do not come near here. Untie your sandals from your feet, for the place on which you stand is holy ground.'
+And he said, "Do not come near here. Untie your sandals from your feet, for the place on which you stand is holy ground."
 
 **Exodus 3:6**
 
-And he said to him, 'I am the God of your father, the God of Abraham and the God of Isaac and the God of Jacob.' Then Moses turned away his face, for he feared to gaze before God.
+And he said to him, "I am the God of your father, the God of Abraham and the God of Isaac and the God of Jacob." Then Moses turned away his face, for he feared to gaze before God.
 
 **Exodus 3:7**
 
-And the Lord said to Moses, 'I have surely seen the affliction of my people in Egypt, and I have heard their cry from the taskmasters, for I know their pain.'
+And the Lord said to Moses, "I have surely seen the affliction of my people in Egypt, and I have heard their cry from the taskmasters, for I know their pain."
 
 **Exodus 3:8**
 
@@ -6468,27 +6468,27 @@ And now come, I will send you to Pharaoh king of Egypt, and you shall bring out 
 
 **Exodus 3:11**
 
-And Moses said to God, 'Who am I, that I should go to Pharaoh king of Egypt and that I should bring out the sons of Israel from the land of Egypt?'
+And Moses said to God, "Who am I, that I should go to Pharaoh king of Egypt and that I should bring out the sons of Israel from the land of Egypt?"
 
 **Exodus 3:12**
 
-And God said to Moses, saying, 'For I will be with you, and this will be the sign for you that I am the one sending you: when you bring out my people from Egypt, you will serve God on this mountain.'
+And God said to Moses, saying, "For I will be with you, and this will be the sign for you that I am the one sending you: when you bring out my people from Egypt, you will serve God on this mountain."
 
 **Exodus 3:13**
 
-And Moses said to God, 'Look, I will come to the sons of Israel and say to them, The God of your fathers has sent me to you. And they will ask me, What is his name? What should I say to them?'
+And Moses said to God, "Look, I will come to the sons of Israel and say to them, The God of your fathers has sent me to you. And they will ask me, What is his name? What should I say to them?"
 
 **Exodus 3:14**
 
-And God said to Moses, 'I am the One who is.' And he said, 'Thus shall you say to the sons of Israel: The One who is has sent me to you.'
+And God said to Moses, "I am the One who is." And he said, "Thus shall you say to the sons of Israel: The One who is has sent me to you."
 
 **Exodus 3:15**
 
-And God said again to Moses, 'Thus shall you say to the sons of Israel: The Lord, the God of your fathers, the God of Abraham and the God of Isaac and the God of Jacob, has sent me to you. This is my eternal name and my memorial from generation to generation.'
+And God said again to Moses, "Thus shall you say to the sons of Israel: The Lord, the God of your fathers, the God of Abraham and the God of Isaac and the God of Jacob, has sent me to you. This is my eternal name and my memorial from generation to generation."
 
 **Exodus 3:16**
 
-Go then, gather the elders of the sons of Israel and say to them, 'The Lord, the God of your fathers, has appeared to me, the God of Abraham and the God of Isaac and the God of Jacob, saying, I have surely visited you and the things that have happened to you in Egypt.'
+Go then, gather the elders of the sons of Israel and say to them, "The Lord, the God of your fathers, has appeared to me, the God of Abraham and the God of Isaac and the God of Jacob, saying, I have surely visited you and the things that have happened to you in Egypt."
 
 **Exodus 3:17**
 
@@ -6496,7 +6496,7 @@ And I said, I will bring you up out of the affliction of the Egyptians into the 
 
 **Exodus 3:18**
 
-And they will listen to your voice, and you and the elders of Israel shall go in to Pharaoh king of Egypt, and you shall say to him, 'The God of the Hebrews has summoned us. Let us go then a journey of three days into the wilderness so that we may sacrifice to our God.'
+And they will listen to your voice, and you and the elders of Israel shall go in to Pharaoh king of Egypt, and you shall say to him, "The God of the Hebrews has summoned us. Let us go then a journey of three days into the wilderness so that we may sacrifice to our God."
 
 **Exodus 3:19**
 
@@ -6518,19 +6518,19 @@ Each woman shall ask from her neighbor and her fellow-dweller articles of silver
 
 **Exodus 4:1**
 
-And Moses answered and said, 'What if they do not believe me or listen to my voice? For they will say, God has not appeared to you. What shall I say to them?'
+And Moses answered and said, "What if they do not believe me or listen to my voice? For they will say, God has not appeared to you. What shall I say to them?"
 
 **Exodus 4:2**
 
-And the Lord said to him, 'What is this in your hand?' And he said, 'A staff.'
+And the Lord said to him, "What is this in your hand?" And he said, "A staff."
 
 **Exodus 4:3**
 
-And he said, 'Throw it on the ground.' And he threw it on the ground, and it became a serpent, and Moses fled from it.
+And he said, "Throw it on the ground." And he threw it on the ground, and it became a serpent, and Moses fled from it.
 
 **Exodus 4:4**
 
-And the Lord said to Moses, 'Stretch out your hand and seize its tail.' So stretching out his hand, he seized its tail, and it became a staff in his hand.
+And the Lord said to Moses, "Stretch out your hand and seize its tail." So stretching out his hand, he seized its tail, and it became a staff in his hand.
 
 **Exodus 4:5**
 
@@ -6538,11 +6538,11 @@ So that they may believe you that the Lord, the God of their fathers, the God of
 
 **Exodus 4:6**
 
-And the Lord said to him again, 'Put your hand into your bosom.' And he put his hand into his bosom, and he brought his hand out of his bosom, and his hand became like snow.
+And the Lord said to him again, "Put your hand into your bosom." And he put his hand into his bosom, and he brought his hand out of his bosom, and his hand became like snow.
 
 **Exodus 4:7**
 
-And he said again, 'Put your hand into your bosom.' And he put his hand into his bosom and brought it out of his bosom, and it was restored again to the color of his flesh.
+And he said again, "Put your hand into your bosom." And he put his hand into his bosom and brought it out of his bosom, and it was restored again to the color of his flesh.
 
 **Exodus 4:8**
 
@@ -6554,11 +6554,11 @@ And it will be, if they do not believe you by these two signs and do not listen 
 
 **Exodus 4:10**
 
-And Moses said to the Lord, 'I beg you, Lord, I have not been adequate before, neither yesterday nor the day before, nor since you began speaking to your servant. I am weak-voiced and slow-tongued.'
+And Moses said to the Lord, "I beg you, Lord, I have not been adequate before, neither yesterday nor the day before, nor since you began speaking to your servant. I am weak-voiced and slow-tongued."
 
 **Exodus 4:11**
 
-And the Lord said to Moses, 'Who gave a mouth to a human being? And who made one hard of hearing and deaf, seeing and blind? Is it not I, God?'
+And the Lord said to Moses, "Who gave a mouth to a human being? And who made one hard of hearing and deaf, seeing and blind? Is it not I, God?"
 
 **Exodus 4:12**
 
@@ -6566,11 +6566,11 @@ And now go, and I will open your mouth and instruct you in what you are about to
 
 **Exodus 4:13**
 
-And Moses said, 'I beg you, Lord, appoint another capable one whom you will send.'
+And Moses said, "I beg you, Lord, appoint another capable one whom you will send."
 
 **Exodus 4:14**
 
-And the Lord, angered with wrath against Moses, said, 'Look, is not Aaron the Levite your brother? I know that speaking he will speak for you. And look, he himself will come out to meet you, and seeing you, he will rejoice within himself.'
+And the Lord, angered with wrath against Moses, said, "Look, is not Aaron the Levite your brother? I know that speaking he will speak for you. And look, he himself will come out to meet you, and seeing you, he will rejoice within himself."
 
 **Exodus 4:15**
 
@@ -6586,11 +6586,11 @@ And this staff, the one turned into a serpent, you shall take in your hand, with
 
 **Exodus 4:18**
 
-And Moses went and returned to Jethro his father-in-law and said, 'I will go now and return to my brothers in Egypt and see whether they are still alive.' And Jethro said to Moses, 'Go in health.'
+And Moses went and returned to Jethro his father-in-law and said, "I will go now and return to my brothers in Egypt and see whether they are still alive." And Jethro said to Moses, "Go in health."
 
 **Exodus 4:19**
 
-Now after those many days the king of Egypt died. And the Lord said to Moses in Midian, 'Go, depart into Egypt, for all seeking your life have died.'
+Now after those many days the king of Egypt died. And the Lord said to Moses in Midian, "Go, depart into Egypt, for all seeking your life have died."
 
 **Exodus 4:20**
 
@@ -6598,11 +6598,11 @@ And Moses, taking his wife and his children, mounted them on the pack animals an
 
 **Exodus 4:21**
 
-And the Lord said to Moses, 'When you go and return to Egypt, see that you do all the wonders that I gave into your hands before Pharaoh. But I will harden his heart, and he will certainly not send out the people.'
+And the Lord said to Moses, "When you go and return to Egypt, see that you do all the wonders that I gave into your hands before Pharaoh. But I will harden his heart, and he will certainly not send out the people."
 
 **Exodus 4:22**
 
-And you shall say to Pharaoh, 'These things says the Lord: Israel is my firstborn son.'
+And you shall say to Pharaoh, "These things says the Lord: Israel is my firstborn son."
 
 **Exodus 4:23**
 
@@ -6614,15 +6614,15 @@ And it happened on the way, at the lodging place, that an angel of the Lord met 
 
 **Exodus 4:25**
 
-And Shiphrah, taking a stone, circumcised the foreskin of her son and fell at his feet and said, 'The blood of my child's circumcision stands.'
+And Shiphrah, taking a stone, circumcised the foreskin of her son and fell at his feet and said, "The blood of my child's circumcision stands."
 
 **Exodus 4:26**
 
-And he departed from him, because she said, 'The blood of my child's circumcision stands.'
+And he departed from him, because she said, "The blood of my child's circumcision stands."
 
 **Exodus 4:27**
 
-And the Lord said to Aaron, 'Go into the wilderness to meet Moses.' And he went and met him at the mountain of God, and they kissed one another.
+And the Lord said to Aaron, "Go into the wilderness to meet Moses." And he went and met him at the mountain of God, and they kissed one another.
 
 **Exodus 4:28**
 
@@ -6644,23 +6644,23 @@ And the people believed and rejoiced because God had visited the sons of Israel 
 
 **Exodus 5:1**
 
-And after these things Moses and Aaron went in to Pharaoh and said to him, 'These things says the Lord, the God of Israel: Send out my people so that they may hold a feast to me in the wilderness.'
+And after these things Moses and Aaron went in to Pharaoh and said to him, "These things says the Lord, the God of Israel: Send out my people so that they may hold a feast to me in the wilderness."
 
 **Exodus 5:2**
 
-And Pharaoh said, 'Who is this, whose voice I should listen to so as to send out the sons of Israel? I do not know the Lord, and I will not send Israel out.'
+And Pharaoh said, "Who is this, whose voice I should listen to so as to send out the sons of Israel? I do not know the Lord, and I will not send Israel out."
 
 **Exodus 5:3**
 
-And they say to him, 'The God of the Hebrews has summoned us. Let us go then a journey of three days into the wilderness so that we may sacrifice to our God, lest death or slaughter meet us.'
+And they say to him, "The God of the Hebrews has summoned us. Let us go then a journey of three days into the wilderness so that we may sacrifice to our God, lest death or slaughter meet us."
 
 **Exodus 5:4**
 
-And the king of Egypt said to them, 'Why, Moses and Aaron, do you turn my people away from their works? Go away, each of you, to his work.'
+And the king of Egypt said to them, "Why, Moses and Aaron, do you turn my people away from their works? Go away, each of you, to his work."
 
 **Exodus 5:5**
 
-And Pharaoh said, 'Look now, the people are numerous. Should we then give them rest from their works?'
+And Pharaoh said, "Look now, the people are numerous. Should we then give them rest from their works?"
 
 **Exodus 5:6**
 
@@ -6680,7 +6680,7 @@ Let the works of these men be made heavy, and let them attend to these things, a
 
 **Exodus 5:10**
 
-And the taskmasters and the scribes hurried them and spoke to the people, saying, 'These things says Pharaoh: I no longer give you straw.'
+And the taskmasters and the scribes hurried them and spoke to the people, saying, "These things says Pharaoh: I no longer give you straw."
 
 **Exodus 5:11**
 
@@ -6692,15 +6692,15 @@ So the people were scattered through all Egypt to gather stubble for straw.
 
 **Exodus 5:13**
 
-And the taskmasters hurried them, saying, 'Finish the works assigned each day, just as when the straw was being given to you.'
+And the taskmasters hurried them, saying, "Finish the works assigned each day, just as when the straw was being given to you."
 
 **Exodus 5:14**
 
-And the scribes from the race of the sons of Israel, those appointed over them by Pharaoh's overseers, were beaten, saying, 'Why have you not completed your quotas of brick-making as yesterday and the day before, and now today as well?'
+And the scribes from the race of the sons of Israel, those appointed over them by Pharaoh's overseers, were beaten, saying, "Why have you not completed your quotas of brick-making as yesterday and the day before, and now today as well?"
 
 **Exodus 5:15**
 
-Then the scribes of the sons of Israel went in and cried out to Pharaoh, saying, 'Why do you act this way toward your servants?'
+Then the scribes of the sons of Israel went in and cried out to Pharaoh, saying, "Why do you act this way toward your servants?"
 
 **Exodus 5:16**
 
@@ -6708,7 +6708,7 @@ Straw is not given to your servants, and they tell us, Make bricks. And look, yo
 
 **Exodus 5:17**
 
-And he said to them, 'You are idle; you are idlers. Because of this you say, Let us go sacrifice to our God.'
+And he said to them, "You are idle; you are idlers. Because of this you say, Let us go sacrifice to our God."
 
 **Exodus 5:18**
 
@@ -6716,7 +6716,7 @@ Now then, go work. For straw will not be given to you, yet you must deliver the 
 
 **Exodus 5:19**
 
-And the scribes of the sons of Israel saw themselves in trouble, as it was said, 'You shall not leave off from the bricks assigned each day.'
+And the scribes of the sons of Israel saw themselves in trouble, as it was said, "You shall not leave off from the bricks assigned each day."
 
 **Exodus 5:20**
 
@@ -6724,11 +6724,11 @@ Then they met Moses and Aaron, who were standing to meet them as they came out f
 
 **Exodus 5:21**
 
-And they said to them, 'May God look upon you and judge, because you have made our smell abhorrent before Pharaoh and before his servants, putting a sword into his hands to kill us.'
+And they said to them, "May God look upon you and judge, because you have made our smell abhorrent before Pharaoh and before his servants, putting a sword into his hands to kill us."
 
 **Exodus 5:22**
 
-Then Moses turned back to the Lord and said, 'Lord, why have you afflicted this people, and why have you sent me?'
+Then Moses turned back to the Lord and said, "Lord, why have you afflicted this people, and why have you sent me?"
 
 **Exodus 5:23**
 
@@ -6738,11 +6738,11 @@ For from the time I went to Pharaoh to speak in your name, he has afflicted this
 
 **Exodus 6:1**
 
-And the Lord said to Moses, 'Now you will see what I will do to Pharaoh. For with a mighty hand he will send them out, and with a high arm he will cast them out of his land.'
+And the Lord said to Moses, "Now you will see what I will do to Pharaoh. For with a mighty hand he will send them out, and with a high arm he will cast them out of his land."
 
 **Exodus 6:2**
 
-And God spoke to Moses and said to him, 'I am the Lord.'
+And God spoke to Moses and said to him, "I am the Lord."
 
 **Exodus 6:3**
 
@@ -6782,7 +6782,7 @@ Go in, speak to Pharaoh king of Egypt, so that he may send out the sons of Israe
 
 **Exodus 6:12**
 
-But Moses spoke before the Lord, saying, 'Look, the sons of Israel did not listen to me; so how will Pharaoh listen to me? And I am without speech.'
+But Moses spoke before the Lord, saying, "Look, the sons of Israel did not listen to me; so how will Pharaoh listen to me? And I am without speech."
 
 **Exodus 6:13**
 
@@ -6850,17 +6850,17 @@ Now it happened on the day the Lord spoke to Moses in the land of Egypt,
 
 **Exodus 6:29**
 
-that the Lord spoke to Moses, saying, 'I am the Lord. Speak to Pharaoh king of Egypt all that I speak to you.'
+that the Lord spoke to Moses, saying, "I am the Lord. Speak to Pharaoh king of Egypt all that I speak to you."
 
 **Exodus 6:30**
 
-And Moses said before the Lord, 'Look, I am weak-voiced, and how will Pharaoh listen to me?'
+And Moses said before the Lord, "Look, I am weak-voiced, and how will Pharaoh listen to me?"
 
 #### Chapter 7
 
 **Exodus 7:1**
 
-And the Lord said to Moses, saying, 'See, I have given you as god to Pharaoh, and Aaron your brother shall be your prophet.'
+And the Lord said to Moses, saying, "See, I have given you as god to Pharaoh, and Aaron your brother shall be your prophet."
 
 **Exodus 7:2**
 
@@ -6912,7 +6912,7 @@ And Pharaoh's heart grew strong, and he did not listen to them, just as the Lord
 
 **Exodus 7:14**
 
-And the Lord said to Moses, 'Pharaoh's heart has become heavy, so that he will not send out the people.'
+And the Lord said to Moses, "Pharaoh's heart has become heavy, so that he will not send out the people."
 
 **Exodus 7:15**
 
@@ -9922,7 +9922,7 @@ And the Lord spoke to Moses, saying, "Go, hurry down from here, for your people 
 
 **Exodus 32:8**
 
-They have quickly turned aside from the way that I commanded them. They have made for themselves a calf and have worshiped it and sacrificed to it and said, 'These are your gods, Israel, who brought you up from Egypt.'"
+They have quickly turned aside from the way that I commanded them. They have made for themselves a calf and have worshiped it and sacrificed to it and said, "These are your gods, Israel, who brought you up from Egypt.""
 
 **Exodus 32:10**
 
@@ -9934,11 +9934,11 @@ And Moses entreated before the Lord God and said, "Why, Lord, does angry wrath b
 
 **Exodus 32:12**
 
-Let not the Egyptians ever say, 'He brought them out with evil intent, to kill them in the mountains and consume them from the earth.' Stop from the anger of your wrath and be merciful concerning the evil of your people.
+Let not the Egyptians ever say, "He brought them out with evil intent, to kill them in the mountains and consume them from the earth." Stop from the anger of your wrath and be merciful concerning the evil of your people.
 
 **Exodus 32:13**
 
-Remember Abraham and Isaac and Jacob your servants, to whom you swore by yourself and spoke to them, saying, 'I will greatly multiply your seed like the stars of heaven in multitude, and all this land that I said I would give to your seed, and they shall possess it forever.'"
+Remember Abraham and Isaac and Jacob your servants, to whom you swore by yourself and spoke to them, saying, "I will greatly multiply your seed like the stars of heaven in multitude, and all this land that I said I would give to your seed, and they shall possess it forever.""
 
 **Exodus 32:14**
 
@@ -9978,11 +9978,11 @@ And Aaron said to Moses, "Do not be angry, my lord. You know the rush of this pe
 
 **Exodus 32:23**
 
-For they say to me, 'Make gods for us who will go before us. For as for this Moses, the man who brought us up from Egypt, we do not know what has happened to him.'
+For they say to me, "Make gods for us who will go before us. For as for this Moses, the man who brought us up from Egypt, we do not know what has happened to him."
 
 **Exodus 32:24**
 
-And I said to them, 'Whoever has gold ornaments, strip them off.' And they gave them to me, and I threw them into the fire, and out came this calf."
+And I said to them, "Whoever has gold ornaments, strip them off." And they gave them to me, and I threw them into the fire, and out came this calf."
 
 **Exodus 32:25**
 
@@ -86028,11 +86028,11 @@ Say to the sons of your people, The righteousness of a righteous one will not re
 
 **Ezekiel 33:13**
 
-When I say to the righteous one, 'He will surely live,' and he trusts in his righteousness and does lawlessness, all his righteous deeds will not be remembered; in the injustice that he did, in it he will die.
+When I say to the righteous one, "He will surely live," and he trusts in his righteousness and does lawlessness, all his righteous deeds will not be remembered; in the injustice that he did, in it he will die.
 
 **Ezekiel 33:14**
 
-And when I say to the impious one, 'By death you will be put to death,' and he turns from his sin and does judgment and righteousness,
+And when I say to the impious one, "By death you will be put to death," and he turns from his sin and does judgment and righteousness,
 
 **Ezekiel 33:15**
 
