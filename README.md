@@ -86,7 +86,8 @@ make build-print-proof
 
 That target writes a two-column DOCX under `output/print/` with the combined
 fresh translation, reviewed translation notes, source-occurrence name meanings,
-and a minimal TSK-only cross-reference layer. It excludes book prefaces, Brenton/source
+an LXX-to-English numbering guide, and a minimal TSK-only cross-reference layer.
+It excludes book prefaces, Brenton/source
 supplemental notes, OpenBible fallback cross-references, and TSK study-note
 text.
 

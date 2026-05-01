@@ -96,7 +96,7 @@ Now all this was done, that it might be fulfilled which was spoken of the Lord b
 
 **Matthew 1:23**
 
-Look, a virgin shall be with child, and shall bear a son, and they shall call his name Emmanuel, which being interpreted is, God with us.
+Look, a virgin shall be with child, and shall bear a son, and they shall call his name Immanuel, which being interpreted is, God with us.
 
 **Matthew 1:24**
 
@@ -22786,7 +22786,7 @@ It is sown a natural body; it is raised a spiritual body. There is a natural bod
 
 **1 Corinthians 15:45**
 
-And so it is written, The first human, Adam, became a living soul; the last Adam became a life-giving spirit.
+And so it is written, The first man, Adam, became a living soul; the last Adam became a life-giving spirit.
 
 **1 Corinthians 15:46**
 
@@ -22794,7 +22794,7 @@ But not first the spiritual, but the natural; afterward the spiritual.
 
 **1 Corinthians 15:47**
 
-The first human is from earth, made of dust; the second human is the Lord from heaven.
+The first man is from earth, made of dust; the second man is the Lord from heaven.
 
 **1 Corinthians 15:48**
 

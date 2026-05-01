@@ -25,6 +25,9 @@ Reference-note bridge import:
 Verse numbering:
 
 - NT Logos files use the standard NT chapter/verse order from the Scrivener TR source rows.
+Key examples:
+
+- No OT LXX/English numbering guide is needed for the NT-only file.
 
 Scope:
 

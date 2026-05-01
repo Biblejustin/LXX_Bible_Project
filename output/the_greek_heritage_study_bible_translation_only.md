@@ -294,7 +294,7 @@ And the Lord God said to the serpent that because you did this, you are cursed a
 
 **Genesis 3:15**
 
-And I will put enmity between you and between the woman, and between your seed and between her seed. He will keep watch for your head, and you will keep watch for his heel.
+And I will put enmity between you and between the woman, and between your seed and between her seed. He will lie in wait for your head, and you will lie in wait for his heel.
 
 **Genesis 3:16**
 
@@ -57252,7 +57252,7 @@ And they will announce his righteousness to people being born, because the Lord 
 
 **Psalms 22:1**
 
-Psalm of David. The Lord shepherds me, and nothing will fail me.
+Psalm of David. The Lord shepherds me, and nothing will be lacking to me.
 
 **Psalms 22:2**
 
@@ -65436,7 +65436,7 @@ The Lord will bless you from Zion, maker of heaven and earth.
 
 **Psalms 134:1**
 
-Hallelujah. Praise the name of the Lord; praise the Lord, servants.
+Alleluia. Praise the name of the Lord; praise the Lord, servants.
 
 **Psalms 134:2**
 
@@ -65522,7 +65522,7 @@ Blessed is the Lord from Zion, one dwelling in Jerusalem.
 
 **Psalms 135:1**
 
-Hallelujah. Give thanks to the Lord, because kind, because his mercy forever.
+Alleluia. Give thanks to the Lord, because kind, because his mercy forever.
 
 **Psalms 135:2**
 
@@ -66130,7 +66130,7 @@ The praise of the Lord my mouth will speak, and let all flesh bless his holy nam
 
 **Psalms 145:1**
 
-Hallelujah. Of Haggai and Zechariah. Praise the Lord, my soul.
+Alleluia. Of Haggai and Zechariah. Praise the Lord, my soul.
 
 **Psalms 145:2**
 
@@ -66172,7 +66172,7 @@ The Lord will reign forever, your God, Zion, to generation and generation.
 
 **Psalms 146:1**
 
-Hallelujah. Of Haggai and Zechariah. Praise the Lord, because psalm to our God good; let praise be sweet.
+Alleluia. Of Haggai and Zechariah. Praise the Lord, because psalm to our God good; let praise be sweet.
 
 **Psalms 146:2**
 
@@ -66218,7 +66218,7 @@ The Lord delights in those fearing him and hoping upon his mercy.
 
 **Psalms 147:1**
 
-Hallelujah. Of Haggai and Zechariah. Praise, Jerusalem, Lord; praise your God, Zion.
+Alleluia. Of Haggai and Zechariah. Praise, Jerusalem, Lord; praise your God, Zion.
 
 **Psalms 147:2**
 
@@ -66256,7 +66256,7 @@ He did not do thus to every nation, and his judgments he did not show to them.
 
 **Psalms 148:1**
 
-Hallelujah. Of Haggai and Zechariah. Praise the Lord from heavens; praise him in highest places.
+Alleluia. Of Haggai and Zechariah. Praise the Lord from heavens; praise him in highest places.
 
 **Psalms 148:2**
 
@@ -66314,7 +66314,7 @@ And he will exalt horn of his people, hymn for all his holy ones, sons of Israel
 
 **Psalms 149:1**
 
-Hallelujah. Sing to the Lord new song; his praise in the assembly of holy ones.
+Alleluia. Sing to the Lord new song; his praise in the assembly of holy ones.
 
 **Psalms 149:2**
 
@@ -66352,7 +66352,7 @@ to do among them judgment written. This glory for all his holy ones.
 
 **Psalms 150:1**
 
-Hallelujah. Praise God in his holy ones; praise him in firmament of his power.
+Alleluia. Praise God in his holy ones; praise him in firmament of his power.
 
 **Psalms 150:2**
 
@@ -66372,7 +66372,7 @@ Praise him in clear-sounding cymbals; praise him in cymbals of shout.
 
 **Psalms 150:6**
 
-Every breath let it praise the Lord. Hallelujah.
+Every breath let it praise the Lord. Alleluia.
 
 ### Proverbs
 
@@ -93672,7 +93672,7 @@ Now all this was done, that it might be fulfilled which was spoken of the Lord b
 
 **Matthew 1:23**
 
-Look, a virgin shall be with child, and shall bear a son, and they shall call his name Emmanuel, which being interpreted is, God with us.
+Look, a virgin shall be with child, and shall bear a son, and they shall call his name Immanuel, which being interpreted is, God with us.
 
 **Matthew 1:24**
 
@@ -116362,7 +116362,7 @@ It is sown a natural body; it is raised a spiritual body. There is a natural bod
 
 **1 Corinthians 15:45**
 
-And so it is written, The first human, Adam, became a living soul; the last Adam became a life-giving spirit.
+And so it is written, The first man, Adam, became a living soul; the last Adam became a life-giving spirit.
 
 **1 Corinthians 15:46**
 
@@ -116370,7 +116370,7 @@ But not first the spiritual, but the natural; afterward the spiritual.
 
 **1 Corinthians 15:47**
 
-The first human is from earth, made of dust; the second human is the Lord from heaven.
+The first man is from earth, made of dust; the second man is the Lord from heaven.
 
 **1 Corinthians 15:48**
 

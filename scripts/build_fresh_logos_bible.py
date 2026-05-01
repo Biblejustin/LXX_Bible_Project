@@ -97,6 +97,17 @@ DOCX_CORE_TIMESTAMP = "2000-01-01T00:00:00Z"
 DOCX_ZIP_TIMESTAMP = (2000, 1, 1, 0, 0, 0)
 DOCX_DEFAULT_COMPRESSLEVEL = 9
 
+REFERENCE_NUMBERING_GUIDE = [
+    ("English Psalm 22:1", "Psalms 21:2 here"),
+    ("English Psalm 23:1", "Psalms 22:1 here"),
+    ("English Psalm 110:1", "Psalms 109:1 here"),
+    ("English Psalm 119:1", "Psalms 118:1 here"),
+    ("English Jeremiah 31:31", "Jeremiah 38:31 here"),
+    ("English Isaiah 9:6", "Isaiah 9:5 here"),
+    ("English Micah 5:2", "Micah 5:1 here"),
+    ("English Malachi 4:5", "Malachi 3:22-23 here"),
+]
+
 T = TypeVar("T")
 
 
@@ -2695,6 +2706,27 @@ def add_title_page(
             lines.append("Milestones are remapped to standard English/MT Bible references for Logos note sharing.")
     for line in lines:
         doc.add_paragraph([run(line)])
+    if testament in {"ot", "combined"}:
+        doc.add_heading("Reference Numbering Guide", level=2)
+        doc.add_paragraph(
+            [
+                run(
+                    "Visible OT chapter and verse numbers follow the LXX source rows. "
+                    "Many familiar English references, especially in Psalms and Jeremiah, "
+                    "therefore land at different places in this edition."
+                )
+            ]
+        )
+        for english_ref, local_ref in REFERENCE_NUMBERING_GUIDE:
+            doc.add_paragraph([run(f"{english_ref}: see {local_ref}.")])
+        doc.add_paragraph(
+            [
+                run(
+                    "This branch is a Protestant-canon LXX-based edition. Psalm 151 and "
+                    "other deuterocanonical or apocryphal books remain future-work scope."
+                )
+            ]
+        )
     doc.add_page_break()
 
 
@@ -3048,6 +3080,9 @@ Logos import:
 Verse numbering:
 
 {verse_numbering_note}
+Key examples:
+
+{chr(10).join(f"- {english_ref}: see {local_ref}." for english_ref, local_ref in REFERENCE_NUMBERING_GUIDE) if testament in {"ot", "combined"} else "- No OT LXX/English numbering guide is needed for the NT-only file."}
 
 Scope:
 

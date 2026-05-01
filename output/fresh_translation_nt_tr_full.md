@@ -463,13 +463,13 @@ Greek: ιδου η παρθενος εν γαστρι εξει και τεξετ
 Transliteration: idou h paryenov en gastri exei kai texetai uion kai kalesousin to onoma autou emmanouhl o estin meyermhneuomenon mey hmwn o yeov
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Look, a virgin shall be with child, and shall bear a son, and they shall call his name Emmanuel, which being interpreted is, God with us.
+Draft translation: Look, a virgin shall be with child, and shall bear a son, and they shall call his name Immanuel, which being interpreted is, God with us.
 
 Decision rows:
 - None recorded.
 
 Publishable footnotes:
-- None recorded.
+- note_type: translation | trigger_phrase: Immanuel | footnote_text: The main text standardizes this name as Immanuel to match Isaiah 7:14 in this edition. The Greek form is Emmanouel, traditionally rendered Emmanuel in many NT English witnesses. | source_basis: name consistency + Greek form | status: reviewed
 
 Logos research:
 - None recorded.
@@ -74554,7 +74554,7 @@ Decision rows:
 - None recorded.
 
 Publishable footnotes:
-- None recorded.
+- note_type: textual | trigger_phrase: whom they pierced | footnote_text: John cites the pierced wording. The LXX source row at Zechariah 12:10 reads because they mocked, so this note marks the textual difference instead of silently harmonizing the OT wording. | source_basis: NT citation + textual difference | status: reviewed
 
 Logos research:
 - None recorded.
@@ -112697,7 +112697,7 @@ Greek: ουτως και γεγραπται εγενετο ο πρωτος αν�
 Transliteration: outwv kai gegraptai egeneto o prwtov anyrwpov adam eiv quchn zwsan o escatov adam eiv pneuma zwopoioun
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And so it is written, The first human, Adam, became a living soul; the last Adam became a life-giving spirit.
+Draft translation: And so it is written, The first man, Adam, became a living soul; the last Adam became a life-giving spirit.
 
 Decision rows:
 - None recorded.
@@ -112737,7 +112737,7 @@ Greek: ο πρωτος ανθρωπος εκ γης χοικος ο δευτερ
 Transliteration: o prwtov anyrwpov ek ghv coikov o deuterov anyrwpov o kuriov ex ouranou
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The first human is from earth, made of dust; the second human is the Lord from heaven.
+Draft translation: The first man is from earth, made of dust; the second man is the Lord from heaven.
 
 Decision rows:
 - None recorded.
@@ -139595,7 +139595,7 @@ Decision rows:
 - None recorded.
 
 Publishable footnotes:
-- None recorded.
+- note_type: textual | trigger_phrase: new covenant | footnote_text: Hebrews quotes the new-covenant promise; in this LXX-numbered edition the corresponding Jeremiah passage is Jeremiah 38:31 rather than standard English Jeremiah 31:31. | source_basis: NT citation + English numbering | status: reviewed
 
 Logos research:
 - None recorded.

@@ -7,8 +7,8 @@
   "priority_rows": 0,
   "queue_rows": 0,
   "status_counts": {
-    "tr_literal_manual": 3420,
-    "tr_literal_pass1": 3868,
+    "tr_literal_manual": 3421,
+    "tr_literal_pass1": 3867,
     "tr_literal_reviewed_keep": 669
   },
   "latest_review_status_counts": {

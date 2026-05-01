@@ -157,6 +157,7 @@ def write_readme(
         "",
         "- Combined Genesis-Revelation text.",
         "- Compact two-column DOCX layout with narrow margins.",
+        "- Front matter includes an LXX-to-English numbering guide for major reader-facing divergences.",
         "- Reviewed translation/textual notes included.",
         f"- {NAME_MEANING_POLICY}",
         "- Book preface pages excluded.",

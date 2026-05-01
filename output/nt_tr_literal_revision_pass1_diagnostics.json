@@ -3,8 +3,8 @@
   "source": "/Users/justinscaggs/Documents/Codex_bible/data/raw/tr_greek/nt_full.csv",
   "rows": 7957,
   "status_counts": {
-    "tr_literal_manual": 3420,
-    "tr_literal_pass1": 3868,
+    "tr_literal_manual": 3421,
+    "tr_literal_pass1": 3867,
     "tr_literal_reviewed_keep": 669
   },
   "changed_by_book": {
@@ -37,7 +37,7 @@
     "REV": 389
   },
   "rule_counts": {
-    "manual TR literal override": 3420,
+    "manual TR literal override": 3421,
     "aligned gennao with fathered": 17,
     "rendered adelphoi-family wording as brothers": 149,
     "rendered general brings-forth as produces": 27,
@@ -46,11 +46,11 @@
     "modernized archaic directional unto": 1258,
     "aligned apoluo with release": 15,
     "modernized was-minded idiom": 2,
-    "modernized behold": 124,
+    "modernized behold": 123,
     "modernized fear-not imperative": 8,
     "normalized NT kurios as Lord": 521,
     "removed UKJV inline Strong-style lexical marker": 529,
-    "modernized childbirth bring-forth idiom": 13,
+    "modernized childbirth bring-forth idiom": 12,
     "fixed borne grammar": 1,
     "rendered magoi as Magi": 3,
     "standardized Judea spelling": 26,
@@ -564,9 +564,9 @@
         "draft_translation": "Now the birth of Jesus Christ was this way: after his mother Mary was betrothed to Joseph, before they came together, she was found having in womb from Holy Spirit."
       },
       {
-        "ref": "Matthew 2:10",
+        "ref": "Matthew 1:23",
         "book_code": "MAT",
-        "draft_translation": "When they saw the star, they rejoiced with very great joy."
+        "draft_translation": "Look, a virgin shall be with child, and shall bear a son, and they shall call his name Immanuel, which being interpreted is, God with us."
       }
     ],
     "aligned gennao with fathered": [
@@ -707,14 +707,14 @@
         "draft_translation": "But while he thought on these things, look, the angel of the Lord appeared to him in a dream, saying, Joseph, you son of David, do not fear to take to you Mary your wife: for that which is conceived in her is of the Holy Spirit."
       },
       {
-        "ref": "Matthew 1:23",
-        "book_code": "MAT",
-        "draft_translation": "Look, a virgin shall be with child, and shall bear a son, and they shall call his name Emmanuel, which being interpreted is, God with us."
-      },
-      {
         "ref": "Matthew 2:1",
         "book_code": "MAT",
         "draft_translation": "Now when Jesus was born in Bethlehem of Judea in the days of Herod the king, look, there came Magi from the east to Jerusalem,"
+      },
+      {
+        "ref": "Matthew 2:13",
+        "book_code": "MAT",
+        "draft_translation": "And when they were departed, look, the angel of the Lord appears to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and stay there until I bring you word: for Herod will seek the young child to destroy him."
       }
     ],
     "modernized fear-not imperative": [
@@ -775,14 +775,14 @@
         "draft_translation": "And she shall bear a son, and you shall call his name JESUS: for he shall save his people from their sins."
       },
       {
-        "ref": "Matthew 1:23",
-        "book_code": "MAT",
-        "draft_translation": "Look, a virgin shall be with child, and shall bear a son, and they shall call his name Emmanuel, which being interpreted is, God with us."
-      },
-      {
         "ref": "Matthew 1:25",
         "book_code": "MAT",
         "draft_translation": "And did not know her until she had borne her firstborn son: and he called his name JESUS."
+      },
+      {
+        "ref": "Matthew 7:18",
+        "book_code": "MAT",
+        "draft_translation": "A good tree cannot bear evil fruit, neither can a corrupt tree bear good fruit."
       }
     ],
     "fixed borne grammar": [

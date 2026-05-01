@@ -9,6 +9,7 @@ Profile:
 
 - Combined Genesis-Revelation text.
 - Compact two-column DOCX layout with narrow margins.
+- Front matter includes an LXX-to-English numbering guide for major reader-facing divergences.
 - Reviewed translation/textual notes included.
 - Name-meaning notes are included only at their listed first/source occurrence to keep the physical proof shorter.
 - Book preface pages excluded.
@@ -18,7 +19,7 @@ Profile:
 Counts:
 
 - Verses: `30866`
-- Translation/textual note footnotes: `3987`
+- Translation/textual note footnotes: `4001`
 - Name-meaning footnotes: `2816`
 - Cross-reference footnotes: `12902`
 - Cross-reference refs kept: `24110`

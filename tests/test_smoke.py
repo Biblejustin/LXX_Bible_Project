@@ -85,6 +85,27 @@ def test_fresh_source_csv_shapes() -> None:
     ]
 
 
+def test_review_feedback_high_traffic_wording_stays_fixed() -> None:
+    ot_by_ref = {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")}
+    nt_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    notes_by_ref = {
+        (row["ref"], row["note_type"], row["trigger_phrase"]): row
+        for row in csv_rows("data/research/translation_footnotes.csv")
+    }
+
+    assert "lie in wait for your head" in ot_by_ref["Genesis 3:15"]["draft_translation"]
+    assert "nothing will be lacking to me" in ot_by_ref["Psalms 22:1"]["draft_translation"]
+    assert nt_by_ref["Matthew 1:23"]["draft_translation"].count("Immanuel") == 1
+    assert "Emmanuel" not in nt_by_ref["Matthew 1:23"]["draft_translation"]
+    assert "The first man, Adam" in nt_by_ref["1 Corinthians 15:45"]["draft_translation"]
+    assert "John 19:37 cites the pierced wording" in notes_by_ref[
+        ("Zechariah 12:10", "textual", "because they mocked")
+    ]["footnote_text"]
+    assert "Jeremiah 38:31" in notes_by_ref[("Hebrews 8:8", "textual", "new covenant")][
+        "footnote_text"
+    ]
+
+
 def test_review_csv_shapes() -> None:
     paths = [
         ROOT / "data" / "research" / "translation_footnotes.csv",
@@ -259,7 +280,7 @@ def test_reviewed_ot_rendering_cleanup_stays_in_source_and_notes() -> None:
     by_ref = {row["ref"]: row for row in ot_rows}
 
     assert "cast a trance on Adam" in by_ref["Genesis 2:21"]["draft_translation"]
-    assert "keep watch for your head" in by_ref["Genesis 3:15"]["draft_translation"]
+    assert "lie in wait for your head" in by_ref["Genesis 3:15"]["draft_translation"]
     assert by_ref["Job 19:25"]["draft_translation"] == "For I know that eternal is the one who is about to free me upon earth."
     assert "The gods who did not make" in by_ref["Jeremiah 10:11"]["draft_translation"]
     assert "The gods of nations" in by_ref["Daniel 4:37"]["draft_translation"]
@@ -271,7 +292,7 @@ def test_reviewed_ot_rendering_cleanup_stays_in_source_and_notes() -> None:
     assert not [row["ref"] for row in notes if "Direct Logos export" in row["footnote_text"]]
     notes_by_ref = {(row["ref"], row["note_type"]): row for row in notes}
     assert "modern English connotations of ecstasy" in notes_by_ref[("Genesis 2:21", "translation")]["footnote_text"]
-    assert "watch/guard language" in notes_by_ref[("Genesis 3:15", "translation")]["footnote_text"]
+    assert "hostile force" in notes_by_ref[("Genesis 3:15", "translation")]["footnote_text"]
     assert "making the English sentence complete" in notes_by_ref[("Job 19:25", "translation")]["footnote_text"]
     assert "Psalm 22:16 with pierced language" in notes_by_ref[("Psalms 21:17", "translation")]["footnote_text"]
     assert "Ancient of Days" in notes_by_ref[("Daniel 7:13", "textual")]["footnote_text"]
@@ -2588,6 +2609,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
 
     by_ref = {row["ref"]: row for row in ot_rows}
     assert "The Lord shepherds me" in by_ref["Psalms 22:1"]["draft_translation"]
+    assert "nothing will be lacking to me" in by_ref["Psalms 22:1"]["draft_translation"]
     assert "The Lord said to my Lord" in by_ref["Psalms 109:1"]["draft_translation"]
     assert "forsook the Lord God of their fathers" in by_ref["2 Chronicles 7:22"]["draft_translation"]
     assert "The Lord God of heaven gave me" in by_ref["2 Chronicles 36:23"]["draft_translation"]
@@ -5030,6 +5052,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the Lord stirred the spirit of Cyrus" in by_ref["Ezra 1:1"]["draft_translation"]
     assert "build for him a house in Jerusalem" in by_ref["2 Chronicles 36:23"]["draft_translation"]
     assert by_ref["Psalms 111:1"]["draft_translation"].startswith("Alleluia. Blessed is the man fearing the Lord")
+    assert by_ref["Psalms 150:6"]["draft_translation"].endswith("Alleluia.")
     assert by_ref["Isaiah 31:9"]["draft_translation"].endswith(
         "Blessed is the one having seed in Zion and a household in Jerusalem."
     )
@@ -9035,6 +9058,8 @@ def test_print_proof_docx_uses_compact_layout_and_no_brenton_footnotes() -> None
     assert "Book preface pages are excluded to keep this copy shorter." in document_xml
     assert "Name-meaning notes are included only at their listed first/source occurrence" in document_xml
     assert "Minimal cross-reference layer" in document_xml
+    assert "Reference Numbering Guide" in document_xml
+    assert "English Psalm 23:1: see Psalms 22:1 here." in document_xml
 
 
 def test_logos_readmes_use_testament_specific_language() -> None:

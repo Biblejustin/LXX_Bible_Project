@@ -658,7 +658,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And I will put enmity between you and between the woman, and between your seed and between her seed. He will keep watch for your head, and you will keep watch for his heel.
+- fresh: And I will put enmity between you and between the woman, and between your seed and between her seed. He will lie in wait for your head, and you will lie in wait for his heel.
 - brenton: And I will put enmity between thee and the woman and between thy seed and her seed, he shall watch against thy head, and thou shalt watch against his heel.
 
 ### Genesis 3:16
@@ -126251,7 +126251,7 @@ Note:
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: God, my God, attend to me. Why did you forsake me? Far from my salvation are words of my trespasses.
 - brenton: O God, my God, attend to me: why hast thou forsaken me? the account of my transgressions is far from my salvation.
@@ -126532,7 +126532,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Psalm of David. The Lord shepherds me, and nothing will fail me.
+- fresh: Psalm of David. The Lord shepherds me, and nothing will be lacking to me.
 - brenton: A Psalm of David.
 
 ### Psalms 22:2
@@ -140948,7 +140948,7 @@ Note:
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Of David. Psalm. The Lord said to my Lord, Sit at my right hand until I place your enemies footstool of your feet.
 - brenton: A Psalm of David.
@@ -141947,7 +141947,7 @@ Note:
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: Alleluia. Aleph. Blessed blameless ones in way, those walking in the law of the Lord.
 - brenton: Alleluia.
@@ -144442,7 +144442,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hallelujah. Praise the name of the Lord; praise the Lord, servants.
+- fresh: Alleluia. Praise the name of the Lord; praise the Lord, servants.
 - brenton: Alleluia.
 
 ### Psalms 134:2
@@ -144631,7 +144631,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hallelujah. Give thanks to the Lord, because kind, because his mercy forever.
+- fresh: Alleluia. Give thanks to the Lord, because kind, because his mercy forever.
 - brenton: Alleluia.
 
 ### Psalms 135:2
@@ -145954,7 +145954,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hallelujah. Of Haggai and Zechariah. Praise the Lord, my soul.
+- fresh: Alleluia. Of Haggai and Zechariah. Praise the Lord, my soul.
 - brenton: Alleluia, a Psalm of Aggæus and Zacharias.
 
 ### Psalms 145:2
@@ -146044,7 +146044,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hallelujah. Of Haggai and Zechariah. Praise the Lord, because psalm to our God good; let praise be sweet.
+- fresh: Alleluia. Of Haggai and Zechariah. Praise the Lord, because psalm to our God good; let praise be sweet.
 - brenton: Alleluia, a Psalm of Aggæus and Zacharias.
 
 ### Psalms 146:2
@@ -146143,7 +146143,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hallelujah. Of Haggai and Zechariah. Praise, Jerusalem, Lord; praise your God, Zion.
+- fresh: Alleluia. Of Haggai and Zechariah. Praise, Jerusalem, Lord; praise your God, Zion.
 - brenton: Alleluia, a Psalm of Aggæus and Zacharias.
 
 ### Psalms 147:2
@@ -146224,7 +146224,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hallelujah. Of Haggai and Zechariah. Praise the Lord from heavens; praise him in highest places.
+- fresh: Alleluia. Of Haggai and Zechariah. Praise the Lord from heavens; praise him in highest places.
 - brenton: Alleluia, a Psalm of Aggæus and Zacharias.
 
 ### Psalms 148:2
@@ -146350,7 +146350,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hallelujah. Sing to the Lord new song; his praise in the assembly of holy ones.
+- fresh: Alleluia. Sing to the Lord new song; his praise in the assembly of holy ones.
 - brenton: Alleluia.
 
 ### Psalms 149:2
@@ -146431,7 +146431,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Hallelujah. Praise God in his holy ones; praise him in firmament of his power.
+- fresh: Alleluia. Praise God in his holy ones; praise him in firmament of his power.
 - brenton: Alleluia.
 
 ### Psalms 150:2
@@ -146476,7 +146476,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Every breath let it praise the Lord. Hallelujah.
+- fresh: Every breath let it praise the Lord. Alleluia.
 - brenton: Let every thing that has breath praise the Lord.
 
 ## Proverbs
@@ -177894,7 +177894,7 @@ Note:
 
 - importance: high
 - decisions: 1
-- footnotes: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: Behold, days are coming, says the Lord, and I will make with the house of Israel and the house of Judah a new covenant,
 - brenton: Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel, and with the house of Juda:
@@ -201681,7 +201681,7 @@ Note:
 
 - importance: high
 - decisions: 0
-- footnotes: 1
+- footnotes: 2
 - same_normalized: no
 - fresh: And you, Bethlehem, house of Ephrathah, few are you to be among thousands of Judah; from you one will go out to me to be ruler in Israel, and his goings out are from the beginning, from the days of age.
 - brenton: And thou, Bethleem, house of Ephratha, art few in number to be reckoned among the thousands of Juda; yet out of thee shall one come forth to me, to be a ruler of Israel; and his goings forth were from the beginning, even from eternity.
@@ -206256,7 +206256,7 @@ Note:
 
 - importance: high
 - decisions: 1
-- footnotes: 2
+- footnotes: 3
 - same_normalized: no
 - fresh: And behold, I send Elijah the Tishbite to you before the great and manifest day of the Lord comes,
 - brenton: And, behold, I will send to you Elias the Thesbite, before the great and glorious day of the Lord comes;
