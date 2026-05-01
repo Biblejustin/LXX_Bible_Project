@@ -22,8 +22,9 @@ Branch: `fresh-translation-pilot`
 Current workspace note: the NT TR fresh draft is also complete in
 `output/fresh_translation_nt_tr_full.md`,
 `output/fresh_translation_nt_tr_translation_only.md`, and the `output/logos_nt/`
-Logos files. This status file records the existing OT RC1 package only; a
-combined OT/NT release package has not been cut.
+Logos files. A combined reader-facing OT/NT Markdown draft is generated at
+`output/fresh_translation_full_bible_translation_only.md`. This status file
+records the existing OT RC1 package only; a packaged combined release bundle has not been cut.
 
 ## Verification Counts
 
@@ -50,6 +51,7 @@ Primary committed outputs:
 
 - `output/fresh_translation_ot_full_translation_only.md`
 - `output/fresh_translation_ot_full.md`
+- `output/fresh_translation_full_bible_translation_only.md`
 - `output/fresh_vs_brenton_ot_drafted.csv`
 - `output/fresh_vs_brenton_ot_priority_review.csv`
 - `output/fresh_human_review_core.csv`

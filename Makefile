@@ -1,4 +1,4 @@
-.PHONY: setup test csv-check build-ot checkpoint-ot review-ot-fast build-ot-review build-nt build-nt-fast build-nt-book review-nt-fast clean-working
+.PHONY: setup test csv-check build-ot checkpoint-ot review-ot-fast build-ot-review build-nt build-nt-fast build-nt-book review-nt-fast build-combined clean-working
 
 PYTHON ?= python
 CHANGES ?= Reviewed article and readability cleanup.
@@ -51,6 +51,9 @@ build-nt-book:
 review-nt-fast:
 	@test -n "$(REFS)" || (echo 'Usage: make review-nt-fast REFS="Matthew 1:1-5" [PASS=262] [CHANGES="..."]'; exit 1)
 	$(PYTHON) scripts/run_fast_review_checkpoint.py --testament nt --refs "$(REFS)" --sync-footnotes --add-full-verse-guards --guard-note "$(GUARD_NOTE)" $(if $(PASS),--pass-id $(PASS),) --changes "$(CHANGES)"
+
+build-combined:
+	$(PYTHON) scripts/build_combined_fresh_translation.py
 
 clean-working:
 	rm -rf output/working

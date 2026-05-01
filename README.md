@@ -63,6 +63,7 @@ python -m pip install -r requirements.txt
 make test
 make build-ot
 make build-nt
+make build-combined
 ```
 
 For fast NT iteration without touching committed release outputs:
@@ -85,7 +86,9 @@ make review-nt-fast REFS="Matthew 1:1-5" PASS=120 CHANGES="Reviewed genealogy op
 ```
 
 Use the fast review targets while editing. Use `make checkpoint-ot` at
-chapter/book boundaries or before release output refreshes.
+chapter/book boundaries or before release output refreshes. Use
+`make build-combined` after OT or NT source/output edits when the single-file
+reader draft should be refreshed.
 
 If `make` is unavailable, run the commands listed in `Makefile` directly.
 
@@ -125,6 +128,8 @@ contributors.
 - `output/fresh_translation_nt_tr_full.md`
 - `output/fresh_translation_nt_tr_translation_only.md`
 - `output/fresh_translation_nt_tr_diagnostics.json`
+- `output/fresh_translation_full_bible_translation_only.md`
+- `output/fresh_translation_full_bible_translation_only_diagnostics.json`
 - `output/fresh_vs_brenton_ot_drafted.md`
 - `output/fresh_vs_brenton_ot_priority_review.md`
 - `output/fresh_nt_tr_vs_ukjv_priority_review.md`
