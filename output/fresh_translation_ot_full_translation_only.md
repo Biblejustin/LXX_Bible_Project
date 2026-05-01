@@ -20,7 +20,7 @@ And God said, 'Let light come to be.' And light came to be.
 
 **Genesis 1:4**
 
-And God saw the light, that it was good. And God separated the light from the darkness.
+And God saw the light, that it was good. And God separated between the light and between the darkness.
 
 **Genesis 1:5**
 
@@ -40,19 +40,19 @@ And God called the firm span Heaven. And God saw that it was good. And evening c
 
 **Genesis 1:9**
 
-And God said, 'Let the water below Heaven be gathered into one gathering, and let the dry land appear.' And it came to be so. And the water below Heaven was gathered into collections, and the dry land appeared.
+And God said, 'Let the water below Heaven be gathered into one gathering, and let the dry land appear.' And it came to be so. And the water below Heaven was gathered into their gatherings, and the dry land appeared.
 
 **Genesis 1:10**
 
-And God called the dry land Earth, and the gathered waters he called Seas. And God saw that it was good.
+And God called the dry land Earth, and the gathered bodies of the waters he called Seas. And God saw that it was good.
 
 **Genesis 1:11**
 
-And God said, 'Let the earth sprout seed-bearing grass and herb according to kind and likeness, and fruit-bearing trees making fruit with their seed in them according to kind upon the earth.' And it came to be so.
+And God said, 'Let the earth sprout herb of grass sowing seed according to kind and according to likeness, and a fruit-bearing tree making fruit, whose seed is in it according to kind upon the earth.' And it came to be so.
 
 **Genesis 1:12**
 
-And the earth brought forth seed-bearing grass and herb according to kind and likeness, and fruit-bearing trees making fruit with their seed in them according to kind upon the earth. And God saw that it was good.
+And the earth brought forth herb of grass sowing seed according to kind and according to likeness, and a fruit-bearing tree making fruit, whose seed is in it according to kind upon the earth. And God saw that it was good.
 
 **Genesis 1:13**
 
@@ -60,23 +60,23 @@ And evening came, and morning came: third day.
 
 **Genesis 1:14**
 
-And God said, 'Let light-bearers come to be in the firm span of Heaven for shining on the earth, to divide day from night. And let them be for signs and for seasons and for days and for years.'
+And God said, 'Let light-bearers come to be in the firm span of Heaven for shining upon the earth, for dividing between the day and between the night. And let them be for signs and for seasons and for days and for years.'
 
 **Genesis 1:15**
 
-And let them be for shining in the firm span of Heaven so as to shine on the earth. And it came to be so.
+And let them be for shining in the firm span of Heaven, so as to shine upon the earth. And it came to be so.
 
 **Genesis 1:16**
 
-And God made the two great light-bearers, the greater light-bearer for the dominion of the day and the lesser light-bearer for the dominion of the night, and the stars.
+And God made the two great light-bearers, the great light-bearer for the dominions of the day and the lesser light-bearer for the dominions of the night, and the stars.
 
 **Genesis 1:17**
 
-And God placed them in the firm span of Heaven so as to shine on the earth.
+And God placed them in the firm span of Heaven, so as to shine upon the earth.
 
 **Genesis 1:18**
 
-And they were to rule day and night and to divide light from darkness. And God saw that it was good.
+And to rule the day and the night and to divide between the light and between the darkness. And God saw that it was good.
 
 **Genesis 1:19**
 
@@ -84,15 +84,15 @@ And evening came, and morning came: fourth day.
 
 **Genesis 1:20**
 
-And God said, 'Let the waters bring forth swarming living creatures and winged birds flying over the earth across the firm span of Heaven.' And it came to be so.
+And God said, 'Let the waters bring forth crawling things of living souls and winged creatures flying upon the earth across the firm span of Heaven.' And it came to be so.
 
 **Genesis 1:21**
 
-And God made the great sea-creatures and every living creature among the swarming things that the waters brought forth according to their kinds, and every winged bird according to kind. And God saw that they were good.
+And God made the great sea-monsters and every soul of living creeping things, which the waters brought forth according to their kinds, and every winged creature according to kind. And God saw that they were good.
 
 **Genesis 1:22**
 
-And God blessed them, saying, 'Increase and multiply and fill the waters in the seas, and let the birds multiply on the earth.'
+And God blessed them, saying, 'Increase and multiply and fill the waters in the seas, and let the winged creatures be multiplied upon the earth.'
 
 **Genesis 1:23**
 
@@ -100,35 +100,35 @@ And evening came, and morning came: fifth day.
 
 **Genesis 1:24**
 
-And God said, 'Let the earth bring forth living creatures according to kind: four-footed animals and creeping things and wild beasts of the earth according to kind.' And it came to be so.
+And God said, 'Let the earth bring forth living soul according to kind: four-footed animals and creeping things and wild beasts of the earth according to kind.' And it came to be so.
 
 **Genesis 1:25**
 
-And God made the wild beasts of the earth according to kind, and the livestock according to their kind, and every creeping thing of the earth according to its kind. And God saw that they were good.
+And God made the wild beasts of the earth according to kind, and the cattle according to their kind, and all the creeping things of the earth according to their kind. And God saw that they were good.
 
 **Genesis 1:26**
 
-And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
+And God said, 'Let us make man according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the cattle and all the earth and all the creeping things creeping upon the earth.'
 
 **Genesis 1:27**
 
-And God made humankind; according to God's image he made humankind. Male and female he made them.
+And God made the man; according to the image of God he made him. Male and female he made them.
 
 **Genesis 1:28**
 
-And God blessed them, saying, 'Increase and multiply and fill the earth and subdue it, and rule the fish of the sea and the birds of Heaven and all the livestock and all the earth and every creeping thing that creeps on the earth.'
+And God blessed them, saying, 'Increase and multiply and fill the earth and subdue it, and rule the fish of the sea and the birds of Heaven and all the cattle and all the earth and all the creeping things creeping upon the earth.'
 
 **Genesis 1:29**
 
-And God said, 'Look, I have given you every seed-bearing plant that sows seed on all the earth, and every tree that has in itself fruit with seed for sowing. It will be food for you.'
+And God said, 'Behold, I have given you every seed-bearing plant sowing seed, which is upon all the earth, and every tree that has in itself fruit of sowable seed. To you it shall be for food.'
 
 **Genesis 1:30**
 
-And to every wild beast of the earth and every bird of Heaven and every creeping thing that creeps on the earth, everything that has in itself living breath, I have given every green plant for food. And it came to be so.
+And to all the wild beasts of the earth and to all the birds of Heaven and to every creeping thing creeping upon the earth, which has in itself soul of life, I have given every green plant for food. And it came to be so.
 
 **Genesis 1:31**
 
-And God saw all that he had made, and look, it was very good. And evening came, and morning came: sixth day.
+And God saw all things, as many as he made, and behold, they were very good. And evening came, and morning came: sixth day.
 
 ### Chapter 2
 
@@ -138,7 +138,7 @@ And Heaven and Earth were completed, and all their ordered array.
 
 **Genesis 2:2**
 
-And God completed his works, the works he had made, on the sixth day, and he rested on the seventh day from all his works that he had made.
+And God completed on the sixth day his works, which he made, and he rested on the seventh day from all his works, which he made.
 
 **Genesis 2:3**
 
@@ -146,7 +146,7 @@ And God blessed the seventh day and made it holy, because on it he rested from a
 
 **Genesis 2:4**
 
-This is the book of the origin of Heaven and Earth, when they came to be, on the day the Lord God made Heaven and Earth.
+This is the book of the genesis of Heaven and Earth, when they came to be, on the day the Lord God made Heaven and Earth.
 
 **Genesis 2:5**
 
@@ -292,11 +292,11 @@ And the Lord God said to the serpent that because you did this, you are cursed a
 
 **Genesis 3:15**
 
-And he would put enmity between you and the woman, and between your seed and her seed. He will keep watch for your head, and you will keep watch for his heel.
+And I will put enmity between you and between the woman, and between your seed and between her seed. He will keep watch for your head, and you will keep watch for his heel.
 
 **Genesis 3:16**
 
-And to the woman he said that multiplying he would multiply your pains and your groaning. In pains you will bear children, and your turning will be toward your husband, and he will rule over you.
+And to the woman he said, 'Multiplying I will multiply your pains and your groaning. In pains you will bear children, and your turning will be toward your husband, and he will rule over you.'
 
 **Genesis 3:17**
 
@@ -26202,7 +26202,7 @@ And the sons of Israel brought up the bones of Joseph out of Egypt, and they bur
 
 **Joshua 24:33**
 
-And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim.
+And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. [33a: On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. 33b: And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.]
 
 ## Judges
 

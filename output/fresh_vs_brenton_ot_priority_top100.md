@@ -457,6 +457,13 @@ Rows: 100
 - fresh: And I said, No indeed, Lord God of Israel. Behold, my soul has not been defiled with uncleanness, and I have not eaten what died of itself or was torn by beasts from my birth until now, nor has any stale flesh entered into my mouth.
 - brenton: Then I said, Not so, Lord God of Israel: surely my soul has not been defiled with uncleanness; nor have I eaten that which died of itself or was torn of beasts from my birth until now; neither has any corrupt flesh entered into my mouth.
 
+## Genesis 1:26
+- book: Genesis
+- score: 22
+- reasons: decisions=6; footnotes=2; reviewed_decisions=6; importance=high; keywords=god, image; crossref_top_vote=82; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- fresh: And God said, 'Let us make man according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the cattle and all the earth and all the creeping things creeping upon the earth.'
+- brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
+
 ## Genesis 24:7
 - book: Genesis
 - score: 22
@@ -694,10 +701,3 @@ Rows: 100
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=glory, lord, mercy, name, truth; crossref_top_vote=15; eng_reco=keep; reco=keep
 - fresh: Not to us, Lord, not to us, but to your name give glory, upon your mercy and your truth.
 - brenton: Not to us, O Lord, not to us, but to thy name give glory, because of thy mercy and thy truth;
-
-## Psalms 19:7
-- book: Psalms
-- score: 21
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=anointed, holy, lord, salvation; crossref_top_vote=52; eng_reco=keep; reco=keep
-- fresh: Now I knew that the Lord saved his Anointed; he will hear him from his holy heaven. Salvation of his right hand is in the acts of power.
-- brenton: Now I know that the Lord has saved his Christ: he shall hear him from his holy heaven: the salvation of his right hand is mighty.

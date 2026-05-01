@@ -9,9 +9,9 @@ Selected verses: 6
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
 
 ## Genesis 1:26
-- score: 20
-- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, image; crossref_top_vote=82; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
-- fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
+- score: 22
+- reasons: decisions=6; footnotes=2; reviewed_decisions=6; importance=high; keywords=god, image; crossref_top_vote=82; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- fresh: And God said, 'Let us make man according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the cattle and all the earth and all the creeping things creeping upon the earth.'
 - brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
 
 ## Genesis 2:7

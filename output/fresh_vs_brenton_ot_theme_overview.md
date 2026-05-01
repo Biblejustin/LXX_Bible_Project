@@ -29,7 +29,7 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Daniel 4:37 → score 28
 
 ## Theology / Divine Identity
-- rows: 105
+- rows: 104
 - Exodus 20:24 → score 35
 - Deuteronomy 16:2 → score 31
 - 2 Chronicles 12:13 → score 30
@@ -42,7 +42,7 @@ Theme-first review pack for highest-value Brenton vs fresh translation differenc
 - Jeremiah 9:23 → score 26
 
 ## Kingship / Messianic
-- rows: 105
+- rows: 106
 - Exodus 20:24 → score 35
 - Leviticus 4:31 → score 34
 - 1 Kings 2:35 → score 32

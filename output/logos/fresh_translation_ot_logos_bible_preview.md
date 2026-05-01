@@ -15,7 +15,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Cross-references: 0
 
 **Genesis 1:3** And God said, 'Let light come to be.' And light came to be.
-- Translation/textual notes: 0
+- Translation/textual notes: 1
 - Supplemental notes/links: 0
 - Cross-references: 21
 

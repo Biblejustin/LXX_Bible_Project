@@ -980,6 +980,21 @@ Rows: 234
 - fresh: And I said, No indeed, Lord God of Israel. Behold, my soul has not been defiled with uncleanness, and I have not eaten what died of itself or was torn by beasts from my birth until now, nor has any stale flesh entered into my mouth.
 - brenton: Then I said, Not so, Lord God of Israel: surely my soul has not been defiled with uncleanness; nor have I eaten that which died of itself or was torn of beasts from my birth until now; neither has any corrupt flesh entered into my mouth.
 
+## Genesis 1:26
+- priority: `22`
+- importance: `high`
+- reason: score>=16; high+tracked
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `2`, fresh `2`, brenton `0`, mt `0`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: And God said, 'Let us make man according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the cattle and all the earth and all the creeping things creeping upon the earth.'
+- brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
+
 ## Genesis 24:7
 - priority: `22`
 - importance: `high`
@@ -1790,21 +1805,6 @@ Rows: 234
 - fresh: If you see slander of a poor man and robbery of judgment and righteousness in a province, do not marvel over the matter, because a high one watches over a high one, and high ones over them.
 - brenton: If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.
 
-## Genesis 1:26
-- priority: `20`
-- importance: `high`
-- reason: score>=16; high+tracked
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `2`, fresh `2`, brenton `0`, mt `0`
-- english witness recommendation: `keep`
-- consensus recommendation: `keep`
-- fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
-- brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
-
 ## Habakkuk 3:2
 - priority: `20`
 - importance: `high`
@@ -2390,6 +2390,21 @@ Rows: 234
 - fresh: And Joshua named the altar of the Reubenites and the Gadites and the half tribe of Manasseh, and said, It is a witness between them that the Lord is their God.
 - brenton: And Joshua gave a name to the altar of the children of Ruben, and the children of Gad, and of the half tribe of Manasse; and said, It is a testimony in the midst of them, that the Lord is their God.
 
+## Joshua 24:33
+- priority: `19`
+- importance: `high`
+- reason: score>=16; high+tracked
+- nt refs: [none]
+- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
+- nt english recommendation: `none`
+- logos local: checked `0`, supports `none`, confidence `none`
+- logos local recommendation: `none`
+- english witnesses: checked `3`, fresh `3`, brenton `0`, mt `0`
+- english witness recommendation: `keep`
+- consensus recommendation: `keep`
+- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. [33a: On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. 33b: And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.]
+- brenton: And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
+
 ## Nahum 1:14
 - priority: `19`
 - importance: `high`
@@ -2689,21 +2704,6 @@ Rows: 234
 - consensus recommendation: `keep`
 - fresh: Jonah rose up and went to Nineveh, just as the Lord spoke. Nineveh was a great city to God, like a journey of a way of three days.
 - brenton: And Jonas arose, and went to Nineve, as the Lord had spoken. Now Nineve was an exceeding great city, of about three days' journey.
-
-## Joshua 24:15
-- priority: `18`
-- importance: `high`
-- reason: score>=16; high+tracked
-- nt refs: [none]
-- nt english witnesses: checked `0`, support `0`, soften `0`, mixed `0`
-- nt english recommendation: `none`
-- logos local: checked `0`, supports `none`, confidence `none`
-- logos local recommendation: `none`
-- english witnesses: checked `0`, fresh `0`, brenton `0`, mt `0`
-- english witness recommendation: `none`
-- consensus recommendation: `keep`
-- fresh: But if it does not please you to serve the Lord, choose for yourselves today whom you will serve, whether the gods of your fathers beyond the river or the gods of the Amorites among whom you dwell on their land. But I and my house will serve the Lord, because he is holy.
-- brenton: But if it seem not good to you to serve the Lord, choose to yourselves this day whom ye will serve, whether the gods of your fathers that were on the other side of the river, or the gods of the Amorites, among whom ye dwell upon their land: but I and my house will serve the Lord, for he is holy.
 
 ## Judges 15:6
 - priority: `18`

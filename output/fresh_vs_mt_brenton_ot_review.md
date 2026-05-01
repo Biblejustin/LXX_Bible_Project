@@ -7375,6 +7375,15 @@ Method:
 - mt: And said, If you will diligently hearken to the voice of the LORD your God, and will do that which is right in his sight, and will give ear to his commandments, and keep all his statutes, I will put none of these diseases upon you, which I have brought upon the Egyptians: for I am the LORD that heals you.
 - brenton: and said, If thou wilt indeed hear the voice of the Lord thy God, and do things pleasing before him, and wilt hearken to his commands, and keep all his ordinances, no disease which I have brought upon the Egyptians will I bring upon thee, for I am the Lord thy God that heals thee.
 
+### Genesis 1:26
+- priority: `22`
+- importance: `high`
+- fresh_mt_ratio: `0.159`
+- fresh_brenton_ratio: `0.372`
+- fresh: And God said, 'Let us make man according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the cattle and all the earth and all the creeping things creeping upon the earth.'
+- mt: And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creeps upon the earth.
+- brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
+
 ### Malachi 3:1
 - priority: `22`
 - importance: `high`
@@ -7789,15 +7798,6 @@ Method:
 - mt: The son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,
 - brenton: And Aaron and his sons were to burn incense on the altar of whole-burnt-offerings, and on the altar of incense, for all the ministry in the holy of holies, and to make atonement for Israel, according to all things that Moses the servant of the Lord commanded.
 
-### Genesis 1:26
-- priority: `20`
-- importance: `high`
-- fresh_mt_ratio: `0.144`
-- fresh_brenton_ratio: `0.177`
-- fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
-- mt: And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creeps upon the earth.
-- brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
-
 ### Amos 4:13
 - priority: `20`
 - importance: `high`
@@ -8113,6 +8113,15 @@ Method:
 - mt: Now Tobiah the Ammonite was by him, and he said, Even that which they build, if a fox go up, he shall even break down their stone wall.
 - brenton: And Tobias the Ammanite came near to him, and said to them, Do they sacrifice or eat in their place? shall not a fox go up and pull down their wall of stones?
 
+### Joshua 24:33
+- priority: `19`
+- importance: `high`
+- fresh_mt_ratio: `0.276`
+- fresh_brenton_ratio: `0.290`
+- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. [33a: On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. 33b: And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.]
+- mt: And Eleazar the son of Aaron died; and they buried him in a hill that pertained to Phinehas his son, which was given him in mount Ephraim.
+- brenton: And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
+
 ### Jonah 2:8
 - priority: `19`
 - importance: `high`
@@ -8292,15 +8301,6 @@ Method:
 - fresh: because they did not listen to the voice of the Lord their God and transgressed his covenant, all that Moses the servant of the Lord commanded, and they did not listen and did not do it.
 - mt: Because they obeyed not the voice of the LORD their God, but transgressed his covenant, and all that Moses the servant of the LORD commanded, and would not hear them, nor do them.
 - brenton: because they hearkened not to the voice of the Lord their God, and transgressed his covenant, even in all things that Moses the servant of the Lord commanded, and hearkened not to them, nor did them.
-
-### Joshua 24:15
-- priority: `18`
-- importance: `high`
-- fresh_mt_ratio: `0.014`
-- fresh_brenton_ratio: `0.047`
-- fresh: But if it does not please you to serve the Lord, choose for yourselves today whom you will serve, whether the gods of your fathers beyond the river or the gods of the Amorites among whom you dwell on their land. But I and my house will serve the Lord, because he is holy.
-- mt: And if it seem evil unto you to serve the LORD, choose you this day whom all of you will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land all of you dwell: but as for me and my house, we will serve the LORD.
-- brenton: But if it seem not good to you to serve the Lord, choose to yourselves this day whom ye will serve, whether the gods of your fathers that were on the other side of the river, or the gods of the Amorites, among whom ye dwell upon their land: but I and my house will serve the Lord, for he is holy.
 
 ### 2 Samuel 14:14
 - priority: `18`
@@ -9534,6 +9534,15 @@ Method:
 - fresh: Your plaything deceived you, the insolence of your heart, dwelling in holes of rocks, holding strength of high hill. Because he raised his nest like an eagle, from there I will bring you down.
 - mt: Therefore fear you not, O my servant Jacob, says the LORD; neither be dismayed, O Israel: for, lo, I will save you from far, and your seed from the land of their captivity; and Jacob shall return, and shall be in rest, and be quiet, and none shall make him afraid.
 - brenton: Thine insolence has risen up against thee, the fierceness of thine heart has burst the holes of the rocks, it has seized upon the strength of a lofty hill; for as an eagle he set his nest on high: thence will I bring thee down.
+
+### Joshua 24:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.014`
+- fresh_brenton_ratio: `0.047`
+- fresh: But if it does not please you to serve the Lord, choose for yourselves today whom you will serve, whether the gods of your fathers beyond the river or the gods of the Amorites among whom you dwell on their land. But I and my house will serve the Lord, because he is holy.
+- mt: And if it seem evil unto you to serve the LORD, choose you this day whom all of you will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land all of you dwell: but as for me and my house, we will serve the LORD.
+- brenton: But if it seem not good to you to serve the Lord, choose to yourselves this day whom ye will serve, whether the gods of your fathers that were on the other side of the river, or the gods of the Amorites, among whom ye dwell upon their land: but I and my house will serve the Lord, for he is holy.
 
 ### Habakkuk 3:17
 - priority: `0`
@@ -21154,6 +21163,15 @@ Method:
 - mt: The LORD is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation.
 - brenton: The Lord is long-suffering and merciful, and true, removing transgressions and iniquities and sins, and he will by no means clear the guilty, visiting the sins of the fathers upon the children to the third and fourth generation.
 
+### Genesis 1:28
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.118`
+- fresh_brenton_ratio: `0.423`
+- fresh: And God blessed them, saying, 'Increase and multiply and fill the earth and subdue it, and rule the fish of the sea and the birds of Heaven and all the cattle and all the earth and all the creeping things creeping upon the earth.'
+- mt: And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moves upon the earth.
+- brenton: And God blessed them, saying, Increase and multiply, and fill the earth and subdue it, and have dominion over the fish of the seas and flying creatures of heaven, and all the cattle and all the earth, and all the reptiles that creep on the earth.
+
 ### Ezekiel 47:1
 - priority: `0`
 - importance: `none`
@@ -21162,15 +21180,6 @@ Method:
 - fresh: And he brought me to the thresholds of the house, and behold, water was coming out from beneath the vestibule toward the east, because the face of the house faced east, and the water came down from the right side, from the south, toward the altar.
 - mt: Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar.
 - brenton: And he brought me to the entrance of the house; and, behold, water issued from under the porch eastward, for the front of the house looked eastward; and the water came down from the right side, from the south to the altar.
-
-### Genesis 1:28
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.118`
-- fresh_brenton_ratio: `0.461`
-- fresh: And God blessed them, saying, 'Increase and multiply and fill the earth and subdue it, and rule the fish of the sea and the birds of Heaven and all the livestock and all the earth and every creeping thing that creeps on the earth.'
-- mt: And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moves upon the earth.
-- brenton: And God blessed them, saying, Increase and multiply, and fill the earth and subdue it, and have dominion over the fish of the seas and flying creatures of heaven, and all the cattle and all the earth, and all the reptiles that creep on the earth.
 
 ### 2 Chronicles 20:21
 - priority: `0`
@@ -56614,15 +56623,6 @@ Method:
 - mt: They turn the needy out of the way: the poor of the earth hide themselves together.
 - brenton: They have turned aside the weak from the right way: and the meek of the earth have hidden themselves together.
 
-### Joshua 19:38
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.368`
-- fresh_brenton_ratio: `0.444`
-- fresh: and Iron and Migdalel
-- mt: And Iron, and Migdalel, Horem, and Bethanath, and Bethshemesh; nineteen cities with their villages.
-- brenton: and Keroe, and Megalaarim, and Bætthame, and Thessamys.
-
 ### Proverbs 14:22
 - priority: `0`
 - importance: `none`
@@ -90085,15 +90085,6 @@ Method:
 - mt: And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, which is by the gate!
 - brenton: And David longed, and said, Who will give me water to drink out of the well that is in Bethleem by the gate? now the band of the Philistines was then in Bethleem.
 
-### Genesis 1:27
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.585`
-- fresh_brenton_ratio: `0.844`
-- fresh: And God made humankind; according to God's image he made humankind. Male and female he made them.
-- mt: So God created man in his own image, in the image of God created he him; male and female created he them.
-- brenton: And God made man, according to the image of God he made him, male and female he made them.
-
 ### Genesis 41:16
 - priority: `0`
 - importance: `none`
@@ -93964,6 +93955,15 @@ Method:
 - mt: And he sprinkled thereof upon the altar seven times, and anointed the altar and all his vessels, both the vessel that holds water and his foot, to sanctify them.
 - brenton: and sprinkled of it seven times on the altar; and anointed the altar, and hallowed it, and all things on it, and the laver, and its foot, and sanctified them; and anointed the tabernacle and all its furniture, and hallowed it.
 
+### Genesis 1:9
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.602`
+- fresh_brenton_ratio: `0.268`
+- fresh: And God said, 'Let the water below Heaven be gathered into one gathering, and let the dry land appear.' And it came to be so. And the water below Heaven was gathered into their gatherings, and the dry land appeared.
+- mt: And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.
+- brenton: And God said, Let the water which is under the heaven be collected into one place, and let the dry land appear, and it was so. And the water which was under the heaven was collected into its places, and the dry land appeared.
+
 ### Joshua 21:4
 - priority: `0`
 - importance: `none`
@@ -94764,6 +94764,15 @@ Method:
 - fresh: And they took captive all their persons and all their baggage and their wives, and they plundered whatever was in the city and whatever was in the houses.
 - mt: And all their wealth, and all their little ones, and their wives took they captive, and spoiled even all that was in the house.
 - brenton: And they took captive all the persons of them, and all their store, and their wives, and plundered both whatever things there were in the city, and whatever things there were in the houses.
+
+### Joshua 19:38
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.604`
+- fresh_brenton_ratio: `0.804`
+- fresh: and Iron and Migdalel, Horem and Baiththame and Thessamys.
+- mt: And Iron, and Migdalel, Horem, and Bethanath, and Bethshemesh; nineteen cities with their villages.
+- brenton: and Keroe, and Megalaarim, and Bætthame, and Thessamys.
 
 ### Nehemiah 11:24
 - priority: `0`
@@ -96600,15 +96609,6 @@ Method:
 - fresh: so will my word be, whatever goes out from my mouth: it will not return until all I desired is accomplished, and I will prosper your ways and my commandments.
 - mt: So shall my word be that goes forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.
 - brenton: so shall my word be, whatever shall proceed out of my mouth, it shall by no means turn back, until all the things which I willed shall have been accomplished; and I will make thy ways prosperous, and will effect my commands.
-
-### Genesis 1:9
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.611`
-- fresh_brenton_ratio: `0.271`
-- fresh: And God said, 'Let the water below Heaven be gathered into one gathering, and let the dry land appear.' And it came to be so. And the water below Heaven was gathered into collections, and the dry land appeared.
-- mt: And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.
-- brenton: And God said, Let the water which is under the heaven be collected into one place, and let the dry land appear, and it was so. And the water which was under the heaven was collected into its places, and the dry land appeared.
 
 ### Song of Solomon 1:15
 - priority: `0`
@@ -99111,6 +99111,15 @@ Method:
 - fresh: May the name of Jonathan be removed from the house of David, and may the Lord seek out the enemies of David.
 - mt: So Jonathan made a covenant with the house of David, saying, Let the LORD even require it at the hand of David's enemies.
 - brenton: should it happen that the name of Jonathan be discovered by the house of David, then let the Lord seek out the enemies of David.
+
+### Genesis 1:20
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.619`
+- fresh_brenton_ratio: `0.797`
+- fresh: And God said, 'Let the waters bring forth crawling things of living souls and winged creatures flying upon the earth across the firm span of Heaven.' And it came to be so.
+- mt: And God said, Let the waters bring forth abundantly the moving creature that has life, and fowl that may fly above the earth in the open firmament of heaven.
+- brenton: And God said, Let the waters bring forth reptiles having life, and winged creatures flying above the earth in the firmament of heaven, and it was so.
 
 ### Joshua 13:1
 - priority: `0`
@@ -102199,6 +102208,15 @@ Method:
 - mt: And if a stranger sojourn with you, or whosoever be among you in your generations, and will offer an offering made by fire, of a sweet savour unto the LORD; as all of you do, so he shall do.
 - brenton: And if there should be a stranger among you in your land, or one who should be born to you among your generations, and he will offer a sacrifice, a smell of sweet savour to the Lord—as ye do, so the whole congregation shall offer to the Lord.
 
+### Genesis 1:11
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.630`
+- fresh_brenton_ratio: `0.178`
+- fresh: And God said, 'Let the earth sprout herb of grass sowing seed according to kind and according to likeness, and a fruit-bearing tree making fruit, whose seed is in it according to kind upon the earth.' And it came to be so.
+- mt: And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.
+- brenton: And God said, Let the earth bring forth the herb of grass bearing seed according to its kind and according to its likeness, and the fruit-tree bearing fruit whose seed is in it, according to its kind on the earth, and it was so.
+
 ### Genesis 30:38
 - priority: `0`
 - importance: `none`
@@ -104997,15 +105015,6 @@ Method:
 - fresh: And the crown will belong to those waiting and to its useful ones and to those who know it and for favor of the son of Zephaniah and for a psalm in the house of the Lord.
 - mt: And the crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the temple of the LORD.
 - brenton: And the crown shall be to them that wait patiently, and to the useful men of the captivity, and to them that have known it, and for the favour of the son of Sophonias, and for a psalm in the house of the Lord.
-
-### Genesis 1:11
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.638`
-- fresh_brenton_ratio: `0.177`
-- fresh: And God said, 'Let the earth sprout seed-bearing grass and herb according to kind and likeness, and fruit-bearing trees making fruit with their seed in them according to kind upon the earth.' And it came to be so.
-- mt: And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.
-- brenton: And God said, Let the earth bring forth the herb of grass bearing seed according to its kind and according to its likeness, and the fruit-tree bearing fruit whose seed is in it, according to its kind on the earth, and it was so.
 
 ### 1 Chronicles 1:53
 - priority: `0`
@@ -107878,15 +107887,6 @@ Method:
 - mt: And when the camp sets forward, Aaron shall come, and his sons, and they shall take down the covering vail, and cover the ark of testimony with it:
 - brenton: And Aaron and his sons shall go in, when the camp is about to move, and shall take down the shadowing veil, and shall cover with it the ark of the testimony.
 
-### Genesis 2:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.646`
-- fresh_brenton_ratio: `0.827`
-- fresh: This is the book of the origin of Heaven and Earth, when they came to be, on the day the Lord God made Heaven and Earth.
-- mt: These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens,
-- brenton: This is the book of the generation of heaven and earth, when they were made, in the day in which the Lord God made the heaven and the earth,
-
 ### 1 Chronicles 2:55
 - priority: `0`
 - importance: `none`
@@ -109362,6 +109362,15 @@ Method:
 - fresh: The lips of righteous men drip graces, but the mouth of the ungodly turns aside.
 - mt: The lips of the righteous know what is acceptable: but the mouth of the wicked speaks perverseness.
 - brenton: The lips of just men drop grace: but the mouth of the ungodly is perverse.
+
+### Genesis 2:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.651`
+- fresh_brenton_ratio: `0.847`
+- fresh: This is the book of the genesis of Heaven and Earth, when they came to be, on the day the Lord God made Heaven and Earth.
+- mt: These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens,
+- brenton: This is the book of the generation of heaven and earth, when they were made, in the day in which the Lord God made the heaven and the earth,
 
 ### Exodus 19:21
 - priority: `0`
@@ -113368,6 +113377,15 @@ Method:
 - mt: As they were increased, so they sinned against me: therefore will I change their glory into shame.
 - brenton: According to their multitude, so they sinned against me: I will turn their glory into shame.
 
+### Genesis 1:27
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.663`
+- fresh_brenton_ratio: `0.978`
+- fresh: And God made the man; according to the image of God he made him. Male and female he made them.
+- mt: So God created man in his own image, in the image of God created he him; male and female created he them.
+- brenton: And God made man, according to the image of God he made him, male and female he made them.
+
 ### 1 Samuel 19:11
 - priority: `0`
 - importance: `none`
@@ -113817,15 +113835,6 @@ Method:
 - fresh: And this was made a very small thing before you, my Lord, O Lord, and you spoke concerning the house of your servant for a long time to come. And this is the law of the human, my Lord, O Lord.
 - mt: And this was yet a small thing in your sight, O Lord GOD; but you have spoken also of your servant's house for a great while to come. And is this the manner of man, O Lord GOD?
 - brenton: Whereas I was very little before thee, O Lord, my Lord, yet thou spokest concerning the house of thy servant for a long time to come. And is this the law of man, O Lord, my Lord?
-
-### Genesis 1:20
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.665`
-- fresh_brenton_ratio: `0.784`
-- fresh: And God said, 'Let the waters bring forth swarming living creatures and winged birds flying over the earth across the firm span of Heaven.' And it came to be so.
-- mt: And God said, Let the waters bring forth abundantly the moving creature that has life, and fowl that may fly above the earth in the open firmament of heaven.
-- brenton: And God said, Let the waters bring forth reptiles having life, and winged creatures flying above the earth in the firmament of heaven, and it was so.
 
 ### Exodus 29:1
 - priority: `0`
@@ -116203,15 +116212,6 @@ Method:
 - mt: So the children of Benjamin saw that they were smitten: for the men of Israel gave place to the Benjamites, because they trusted unto the hidden attackers in wait which they had set beside Gibeah.
 - brenton: And the children of Benjamin saw that they were smitten; and the men of Israel gave place to Benjamin, because they trusted in the ambuscade which they had prepared against Gabaa.
 
-### Genesis 1:29
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.672`
-- fresh_brenton_ratio: `0.767`
-- fresh: And God said, 'Look, I have given you every seed-bearing plant that sows seed on all the earth, and every tree that has in itself fruit with seed for sowing. It will be food for you.'
-- mt: And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for food.
-- brenton: And God said, Behold I have given to you every seed-bearing herb sowing seed which is upon all the earth, and every tree which has in itself the fruit of seed that is sown, to you it shall be for food.
-
 ### Ezekiel 44:9
 - priority: `0`
 - importance: `none`
@@ -117129,6 +117129,15 @@ Method:
 - fresh: Seek the Lord and live, lest the house of Joseph blaze like fire and it devour him, and there will be no one to quench it for the house of Israel.
 - mt: Seek the LORD, and all of you shall live; lest he break out like fire in the house of Joseph, and devour it, and there be none to quench it in Bethel.
 - brenton: Seek ye the Lord, and ye shall live; lest the house of Joseph blaze as fire, and it devour him, and there shall be none to quench it for the house of Israel.
+
+### Genesis 1:12
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.675`
+- fresh_brenton_ratio: `0.167`
+- fresh: And the earth brought forth herb of grass sowing seed according to kind and according to likeness, and a fruit-bearing tree making fruit, whose seed is in it according to kind upon the earth. And God saw that it was good.
+- mt: And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.
+- brenton: And the earth brought forth the herb of grass bearing seed according to its kind and according to its likeness, and the fruit tree bearing fruit whose seed is in it, according to its kind on the earth, and God saw that it was good.
 
 ### Numbers 22:32
 - priority: `0`
@@ -118443,15 +118452,6 @@ Method:
 - fresh: And he charged the first and the second and the third and all those going before behind these herds, saying, According to this word speak to Esau when you find him,
 - mt: And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall all of you speak unto Esau, when all of you find him.
 - brenton: Thou shalt say, Thy servant Jacob's; he hath sent gifts to my lord Esau, and lo! he is behind us.
-
-### Genesis 1:12
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.679`
-- fresh_brenton_ratio: `0.284`
-- fresh: And the earth brought forth seed-bearing grass and herb according to kind and likeness, and fruit-bearing trees making fruit with their seed in them according to kind upon the earth. And God saw that it was good.
-- mt: And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.
-- brenton: And the earth brought forth the herb of grass bearing seed according to its kind and according to its likeness, and the fruit tree bearing fruit whose seed is in it, according to its kind on the earth, and God saw that it was good.
 
 ### Isaiah 28:16
 - priority: `0`
@@ -125383,6 +125383,15 @@ Method:
 - mt: Nevertheless for David's sake did the LORD his God give him a lamp in Jerusalem, to set up his son after him, and to establish Jerusalem:
 - brenton: Howbeit for David's sake the Lord gave him a remnant, that he might establish his children after him, and might establish Jerusalem.
 
+### Genesis 1:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.697`
+- fresh_brenton_ratio: `0.760`
+- fresh: And God made the two great light-bearers, the great light-bearer for the dominions of the day and the lesser light-bearer for the dominions of the night, and the stars.
+- mt: And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.
+- brenton: And God made the two great lights, the greater light for regulating the day and the lesser light for regulating the night, the stars also.
+
 ### Deuteronomy 19:9
 - priority: `0`
 - importance: `none`
@@ -128740,15 +128749,6 @@ Method:
 - mt: And wherefore have all of you made us to come up out of Egypt, to bring us in unto this evil place? it is no place of seed, or of figs, or of vines, or of pomegranates; neither is there any water to drink.
 - brenton: And wherefore is this? Ye have brought us up out of Egypt, that we should come into this evil place; a place where there is no sowing, neither figs, nor vines, nor pomegranates, neither is there water to drink.
 
-### Genesis 1:30
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.705`
-- fresh_brenton_ratio: `0.094`
-- fresh: And to every wild beast of the earth and every bird of Heaven and every creeping thing that creeps on the earth, everything that has in itself living breath, I have given every green plant for food. And it came to be so.
-- mt: And to every beast of the earth, and to every fowl of the air, and to every thing that creeps upon the earth, wherein there is life, I have given every green herb for food: and it was so.
-- brenton: And to all the wild beasts of the earth, and to all the flying creatures of heaven, and to every reptile creeping on the earth, which has in itself the breath of life, even every green plant for food; and it was so.
-
 ### Numbers 5:20
 - priority: `0`
 - importance: `none`
@@ -129243,15 +129243,6 @@ Method:
 - fresh: In the day whenever the guards of the house will be shaken and the men of strength twisted and the grinders cease because they became few and those seeing through the openings grow dark,
 - mt: In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,
 - brenton: in the day wherein the keepers of the house shall tremble, and the mighty men shall become bent, and the grinding women cease because they have become few, and the women looking out at the windows be dark;
-
-### Genesis 1:21
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.706`
-- fresh_brenton_ratio: `0.221`
-- fresh: And God made the great sea-creatures and every living creature among the swarming things that the waters brought forth according to their kinds, and every winged bird according to kind. And God saw that they were good.
-- mt: And God created great whales, and every living creature that moves, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.
-- brenton: And God made great whales, and every living reptile, which the waters brought forth according to their kinds, and every creature that flies with wings according to its kind, and God saw that they were good.
 
 ### Deuteronomy 20:2
 - priority: `0`
@@ -130657,15 +130648,6 @@ Method:
 - mt: Therefore now let your hands be strengthened, and be all of you valiant: for your master Saul is dead, and also the house of Judah have anointed me king over them.
 - brenton: And now let your hands be made strong, and be valiant; for your master Saul is dead, and moreover the house of Juda have anointed me to be king over them.
 
-### Joshua 24:33
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.709`
-- fresh_brenton_ratio: `0.710`
-- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim.
-- mt: And Eleazar the son of Aaron died; and they buried him in a hill that pertained to Phinehas his son, which was given him in mount Ephraim.
-- brenton: And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
-
 ### 1 Samuel 15:19
 - priority: `0`
 - importance: `none`
@@ -131160,15 +131142,6 @@ Method:
 - fresh: and for the sacrifice of salvation, two cows, five rams, five goats, five yearling ewe lambs. This was the gift of Eliab son of Helon.
 - mt: And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Eliab the son of Helon.
 - brenton: And for a sacrifice of peace-offering, two heifers, five rams, five he-goats, five ewe-lambs of a year old: this was the gift of Eliab the son of Chælon.
-
-### Genesis 1:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.710`
-- fresh_brenton_ratio: `0.773`
-- fresh: And God made the two great light-bearers, the greater light-bearer for the dominion of the day and the lesser light-bearer for the dominion of the night, and the stars.
-- mt: And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.
-- brenton: And God made the two great lights, the greater light for regulating the day and the lesser light for regulating the night, the stars also.
 
 ### Jeremiah 52:9
 - priority: `0`
@@ -134473,6 +134446,15 @@ Method:
 - mt: The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.
 - brenton: The words of Amos which came to him in Accarim out of Thecue, which he saw concerning Jerusalem, in the days of Ozias king of Juda, and in the days of Jeroboam the son of Joas king of Israel, two years before the earthquake.
 
+### Genesis 1:21
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.719`
+- fresh_brenton_ratio: `0.200`
+- fresh: And God made the great sea-monsters and every soul of living creeping things, which the waters brought forth according to their kinds, and every winged creature according to kind. And God saw that they were good.
+- mt: And God created great whales, and every living creature that moves, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.
+- brenton: And God made great whales, and every living reptile, which the waters brought forth according to their kinds, and every creature that flies with wings according to its kind, and God saw that they were good.
+
 ### 1 Kings 2:1
 - priority: `0`
 - importance: `none`
@@ -135624,15 +135606,6 @@ Method:
 - fresh: And they shall keep your charges and the charges of the tent, only they shall not approach the holy vessels and the altar, and they shall not die, both they and you.
 - mt: And they shall keep your charge, and the charge of all the tabernacle: only they shall not come nigh the vessels of the sanctuary and the altar, that neither they, nor all of you also, die.
 - brenton: And they shall keep thy charges, and the charges of the tabernacle; only they shall not approach the holy vessels and the altar, so both they and you shall not die.
-
-### Genesis 1:25
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.721`
-- fresh_brenton_ratio: `0.856`
-- fresh: And God made the wild beasts of the earth according to kind, and the livestock according to their kind, and every creeping thing of the earth according to its kind. And God saw that they were good.
-- mt: And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creeps upon the earth after his kind: and God saw that it was good.
-- brenton: And God made the wild beasts of the earth according to their kind, and cattle according to their kind, and all the reptiles of the earth according to their kind, and God saw that they were good.
 
 ### Leviticus 27:7
 - priority: `0`
@@ -136894,6 +136867,15 @@ Method:
 - mt: One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sins: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.
 - brenton: One witness shall not stand to testify against a man for any iniquity, or for any fault, or for any sin which he may commit; by the mouth of two witnesses, or by the mouth of three witnesses, shall every word be established.
 
+### Genesis 1:30
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.725`
+- fresh_brenton_ratio: `0.311`
+- fresh: And to all the wild beasts of the earth and to all the birds of Heaven and to every creeping thing creeping upon the earth, which has in itself soul of life, I have given every green plant for food. And it came to be so.
+- mt: And to every beast of the earth, and to every fowl of the air, and to every thing that creeps upon the earth, wherein there is life, I have given every green herb for food: and it was so.
+- brenton: And to all the wild beasts of the earth, and to all the flying creatures of heaven, and to every reptile creeping on the earth, which has in itself the breath of life, even every green plant for food; and it was so.
+
 ### Deuteronomy 14:11
 - priority: `0`
 - importance: `none`
@@ -137001,15 +136983,6 @@ Method:
 - fresh: All those counted whom Moses and Aaron and the chiefs of Israel counted, the Levites by their clans, by the houses of their fathers,
 - mt: All those that were numbered of the Levites, whom Moses and Aaron and the chief of Israel numbered, after their families, and after the house of their fathers,
 - brenton: All that were numbered, whom Moses and Aaron and the rulers of Israel numbered, namely, the Levites, according to their families and according to the houses of their lineage,
-
-### Genesis 3:16
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.725`
-- fresh_brenton_ratio: `0.704`
-- fresh: And to the woman he said that multiplying he would multiply your pains and your groaning. In pains you will bear children, and your turning will be toward your husband, and he will rule over you.
-- mt: Unto the woman he said, I will greatly multiply your sorrow and your conception; in sorrow you shall bring forth children; and your desire shall be to your husband, and he shall rule over you.
-- brenton: And to the woman he said, I will greatly multiply thy pains and thy groanings; in pain thou shalt bring forth children, and thy submission shall be to thy husband, and he shall rule over thee.
 
 ### Ruth 4:21
 - priority: `0`
@@ -138459,6 +138432,15 @@ Method:
 - fresh: And two olive trees above it, one at the right of the lamp-bowl and one at the left.
 - mt: And two olive trees by it, one upon the right side of the bowl, and the other upon the left side thereof.
 - brenton: and two olive-trees above it, one on the right of the bowl, and one on the left.
+
+### Genesis 1:25
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.728`
+- fresh_brenton_ratio: `0.935`
+- fresh: And God made the wild beasts of the earth according to kind, and the cattle according to their kind, and all the creeping things of the earth according to their kind. And God saw that they were good.
+- mt: And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creeps upon the earth after his kind: and God saw that it was good.
+- brenton: And God made the wild beasts of the earth according to their kind, and cattle according to their kind, and all the reptiles of the earth according to their kind, and God saw that they were good.
 
 ### Genesis 46:28
 - priority: `0`
@@ -145309,6 +145291,15 @@ Method:
 - mt: And the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramothgilead? And one said on this manner, and another said on that manner.
 - brenton: And the Lord said, Who will deceive Achaab king of Israel, that he may go up and fall in Remmath Galaad? and one spoke one way, and another another way.
 
+### Genesis 1:14
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.745`
+- fresh_brenton_ratio: `0.809`
+- fresh: And God said, 'Let light-bearers come to be in the firm span of Heaven for shining upon the earth, for dividing between the day and between the night. And let them be for signs and for seasons and for days and for years.'
+- mt: And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
+- brenton: And God said, Let there be lights in the firmament of the heaven to give light upon the earth, to divide between day and night, and let them be for signs and for seasons and for days and for years.
+
 ### Genesis 24:8
 - priority: `0`
 - importance: `none`
@@ -145641,6 +145632,15 @@ Method:
 - fresh: And Ishbosheth was no longer able to answer Abner a word, because he feared him.
 - mt: And he could not answer Abner a word again, because he feared him.
 - brenton: And Jebosthe could not any longer answer Abenner a word, because he feared him.
+
+### Genesis 1:24
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.746`
+- fresh_brenton_ratio: `0.801`
+- fresh: And God said, 'Let the earth bring forth living soul according to kind: four-footed animals and creeping things and wild beasts of the earth according to kind.' And it came to be so.
+- mt: And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.
+- brenton: And God said, Let the earth bring forth the living creature according to its kind, quadrupeds and reptiles and wild beasts of the earth according to their kind, and it was so.
 
 ### Joel 2:5
 - priority: `0`
@@ -146695,6 +146695,15 @@ Method:
 - mt: And he called the name of the place Taberah: because the fire of the LORD burnt among them.
 - brenton: And the name of that place was called Burning; for a fire was kindled among them from the Lord.
 
+### Genesis 3:16
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.749`
+- fresh_brenton_ratio: `0.728`
+- fresh: And to the woman he said, 'Multiplying I will multiply your pains and your groaning. In pains you will bear children, and your turning will be toward your husband, and he will rule over you.'
+- mt: Unto the woman he said, I will greatly multiply your sorrow and your conception; in sorrow you shall bring forth children; and your desire shall be to your husband, and he shall rule over you.
+- brenton: And to the woman he said, I will greatly multiply thy pains and thy groanings; in pain thou shalt bring forth children, and thy submission shall be to thy husband, and he shall rule over thee.
+
 ### 1 Kings 18:17
 - priority: `0`
 - importance: `none`
@@ -146937,15 +146946,6 @@ Method:
 - fresh: All the counting of the Levites whom Moses and Aaron counted by the word of the Lord, by their clans, every male from a month old and upward, was twenty-two thousand.
 - mt: All that were numbered of the Levites, which Moses and Aaron numbered at the commandment of the LORD, throughout their families, all the males from a month old and upward, were twenty and two thousand.
 - brenton: All the numbering of the Levites, whom Moses and Aaron numbered by the word of the Lord, according to their families, every male from a month old and upwards, were two and twenty thousand.
-
-### Genesis 1:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.749`
-- fresh_brenton_ratio: `0.837`
-- fresh: And let them be for shining in the firm span of Heaven so as to shine on the earth. And it came to be so.
-- mt: And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.
-- brenton: And let them be for light in the firmament of the heaven, so as to shine upon the earth, and it was so.
 
 ### 2 Kings 10:8
 - priority: `0`
@@ -147856,6 +147856,15 @@ Method:
 - mt: And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)
 - brenton: And they went up by the wilderness, and departed as far as Chebron; and there was Achiman, and Sessi, and Thelami, the progeny of Enach. Now Chebron was built seven years before Tanin of Egypt.
 
+### Genesis 1:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.751`
+- fresh_brenton_ratio: `0.849`
+- fresh: And let them be for shining in the firm span of Heaven, so as to shine upon the earth. And it came to be so.
+- mt: And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.
+- brenton: And let them be for light in the firmament of the heaven, so as to shine upon the earth, and it was so.
+
 ### Ezekiel 43:4
 - priority: `0`
 - importance: `none`
@@ -148341,15 +148350,6 @@ Method:
 - fresh: Because my people did two evils: they abandoned me, a fountain of living water, and dug for themselves broken cisterns that cannot hold water.
 - mt: For my people have committed two evils; they have forsaken me the fountain of living waters, and hewed them out cisterns, broken cisterns, that can hold no water.
 - brenton: For my people has committed two faults, and evil ones: they have forsaken me, the fountain of water of life, and hewn out for themselves broken cisterns, which will not be able to hold water.
-
-### Genesis 2:2
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.753`
-- fresh_brenton_ratio: `0.674`
-- fresh: And God completed his works, the works he had made, on the sixth day, and he rested on the seventh day from all his works that he had made.
-- mt: And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.
-- brenton: And God finished on the sixth day his works which he made, and he ceased on the seventh day from all his works which he made.
 
 ### Ecclesiastes 1:15
 - priority: `0`
@@ -150277,6 +150277,15 @@ Method:
 - mt: But the houses of the villages which have no wall round about them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the jubile.
 - brenton: But the houses in the villages which have not a wall round about them, shall be reckoned as the fields of the country: they shall always be redeemable, and they shall go out in the release.
 
+### Genesis 1:31
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.757`
+- fresh_brenton_ratio: `0.798`
+- fresh: And God saw all things, as many as he made, and behold, they were very good. And evening came, and morning came: sixth day.
+- mt: And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.
+- brenton: And God saw all the things that he had made, and, behold, they were very good. And there was evening and there was morning, the sixth day.
+
 ### Genesis 41:45
 - priority: `0`
 - importance: `none`
@@ -151690,15 +151699,6 @@ Method:
 - mt: And Moses made haste, and bowed his head toward the earth, and worshipped.
 - brenton: And Moses hasted, and bowed to the earth and worshipped;
 
-### Genesis 1:17
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.760`
-- fresh_brenton_ratio: `0.922`
-- fresh: And God placed them in the firm span of Heaven so as to shine on the earth.
-- mt: And God set them in the firmament of the heaven to give light upon the earth,
-- brenton: And God placed them in the firmament of the heaven, so as to shine upon the earth,
-
 ### 2 Kings 25:14
 - priority: `0`
 - importance: `none`
@@ -152859,6 +152859,15 @@ Method:
 - fresh: And he said, Come, see where this man is, and I will send and take him. And they reported to him, saying, Behold, he is in Dothan.
 - mt: And he said, Go and spy where he is, that I may send and fetch him. And it was told him, saying, Behold, he is in Dothan.
 - brenton: And he said, Go, see where this man is, and I will send and take him. And they sent word to him, saying, Behold, he is in Dothaim.
+
+### Genesis 1:17
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.763`
+- fresh_brenton_ratio: `0.936`
+- fresh: And God placed them in the firm span of Heaven, so as to shine upon the earth.
+- mt: And God set them in the firmament of the heaven to give light upon the earth,
+- brenton: And God placed them in the firmament of the heaven, so as to shine upon the earth,
 
 ### Proverbs 15:20
 - priority: `0`
@@ -158224,15 +158233,6 @@ Method:
 - mt: And king Solomon sent by the hand of Benaiah the son of Jehoiada; and he fell upon him that he died.
 - brenton: So king Solomon sent by the hand of Banæas the son of Jodae, and he slew him, and Adonias died in that day.
 
-### Genesis 1:24
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.777`
-- fresh_brenton_ratio: `0.830`
-- fresh: And God said, 'Let the earth bring forth living creatures according to kind: four-footed animals and creeping things and wild beasts of the earth according to kind.' And it came to be so.
-- mt: And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.
-- brenton: And God said, Let the earth bring forth the living creature according to its kind, quadrupeds and reptiles and wild beasts of the earth according to their kind, and it was so.
-
 ### Isaiah 4:4
 - priority: `0`
 - importance: `none`
@@ -160681,6 +160681,15 @@ Method:
 - mt: And they departed from Zalmonah, and pitched in Punon.
 - brenton: And they departed from Selmona, and encamped in Phino.
 
+### Genesis 3:15
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.784`
+- fresh_brenton_ratio: `0.756`
+- fresh: And I will put enmity between you and between the woman, and between your seed and between her seed. He will keep watch for your head, and you will keep watch for his heel.
+- mt: And I will put enmity between you and the woman, and between your seed and her seed; it shall bruise your head, and you shall bruise his heel.
+- brenton: And I will put enmity between thee and the woman and between thy seed and her seed, he shall watch against thy head, and thou shalt watch against his heel.
+
 ### 2 Kings 18:6
 - priority: `0`
 - importance: `none`
@@ -161850,15 +161859,6 @@ Method:
 - fresh: Thus you will say to them: The gods who did not make heaven and earth, let them perish from the earth and from under this heaven.
 - mt: Thus shall all of you say unto them, The gods that have not made the heavens and the earth, even they shall perish from the earth, and from under these heavens.
 - brenton: Thus shall ye say to them, Let the gods which have not made heaven and earth perish from off the earth, and from under this sky.
-
-### Genesis 1:14
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.787`
-- fresh_brenton_ratio: `0.811`
-- fresh: And God said, 'Let light-bearers come to be in the firm span of Heaven for shining on the earth, to divide day from night. And let them be for signs and for seasons and for days and for years.'
-- mt: And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
-- brenton: And God said, Let there be lights in the firmament of the heaven to give light upon the earth, to divide between day and night, and let them be for signs and for seasons and for days and for years.
 
 ### Joel 2:24
 - priority: `0`
@@ -165091,15 +165091,6 @@ Method:
 - mt: But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy.
 - brenton: Nevertheless they sneered at his messengers, and set at nought his words, and mocked his prophets, until the wrath of the Lord rose up against his people, till there was no remedy.
 
-### Genesis 1:31
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.796`
-- fresh_brenton_ratio: `0.752`
-- fresh: And God saw all that he had made, and look, it was very good. And evening came, and morning came: sixth day.
-- mt: And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.
-- brenton: And God saw all the things that he had made, and, behold, they were very good. And there was evening and there was morning, the sixth day.
-
 ### Genesis 24:23
 - priority: `0`
 - importance: `none`
@@ -167062,15 +167053,6 @@ Method:
 - mt: And he placed forces in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim, which Asa his father had taken.
 - brenton: And he put garrisons in all the strong cities of Juda, and appointed captains in all the cities of Juda, and in the cities of Ephraim, which Asa his father had taken.
 
-### Genesis 3:15
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.801`
-- fresh_brenton_ratio: `0.771`
-- fresh: And he would put enmity between you and the woman, and between your seed and her seed. He will keep watch for your head, and you will keep watch for his heel.
-- mt: And I will put enmity between you and the woman, and between your seed and her seed; it shall bruise your head, and you shall bruise his heel.
-- brenton: And I will put enmity between thee and the woman and between thy seed and her seed, he shall watch against thy head, and thou shalt watch against his heel.
-
 ### Numbers 33:8
 - priority: `0`
 - importance: `none`
@@ -168430,6 +168412,15 @@ Method:
 - mt: Some of them also were appointed to oversee the vessels, and all the instruments of the sanctuary, and the fine flour, and the wine, and the oil, and the frankincense, and the spices.
 - brenton: And some of them were appointed over the furniture, and over all the holy vessels, and over the fine flour, the wine, the oil, the frankincense, and the spices.
 
+### Genesis 1:29
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.804`
+- fresh_brenton_ratio: `0.885`
+- fresh: And God said, 'Behold, I have given you every seed-bearing plant sowing seed, which is upon all the earth, and every tree that has in itself fruit of sowable seed. To you it shall be for food.'
+- mt: And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for food.
+- brenton: And God said, Behold I have given to you every seed-bearing herb sowing seed which is upon all the earth, and every tree which has in itself the fruit of seed that is sown, to you it shall be for food.
+
 ### Exodus 3:6
 - priority: `0`
 - importance: `none`
@@ -169060,6 +169051,15 @@ Method:
 - mt: And the name of the other was Eliezer; for the God of my father, said he, was mine help, and delivered me from the sword of Pharaoh:
 - brenton: and the name of the second Eliezer, saying, For the God of my father is my helper, and he has rescued me out of the hand of Pharao.
 
+### Genesis 1:22
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.806`
+- fresh_brenton_ratio: `0.935`
+- fresh: And God blessed them, saying, 'Increase and multiply and fill the waters in the seas, and let the winged creatures be multiplied upon the earth.'
+- mt: And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.
+- brenton: And God blessed them, saying, Increase and multiply and fill the waters in the seas, and let the creatures that fly be multiplied on the earth.
+
 ### Numbers 21:32
 - priority: `0`
 - importance: `none`
@@ -169311,6 +169311,15 @@ Method:
 - fresh: And Joseph came in to them in the morning and saw them, and they were troubled.
 - mt: And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad.
 - brenton: Joseph went in to them in the morning, and saw them, and they had been troubled.
+
+### Genesis 1:4
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.807`
+- fresh_brenton_ratio: `0.894`
+- fresh: And God saw the light, that it was good. And God separated between the light and between the darkness.
+- mt: And God saw the light, that it was good: and God divided the light from the darkness.
+- brenton: And God saw the light that it was good, and God divided between the light and the darkness.
 
 ### Deuteronomy 26:7
 - priority: `0`
@@ -176035,15 +176044,6 @@ Method:
 - mt: And the LORD said unto Abram, after that Lot was separated from him, Lift up now yours eyes, and look from the place where you are northward, and southward, and eastward, and westward:
 - brenton: And God said to Abram after Lot was separated from him, Look up with thine eyes, and behold from the place where thou now art northward and southward, and eastward and seaward;
 
-### Genesis 1:18
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.830`
-- fresh_brenton_ratio: `0.820`
-- fresh: And they were to rule day and night and to divide light from darkness. And God saw that it was good.
-- mt: And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.
-- brenton: and to regulate day and night, and to divide between the light and the darkness. And God saw that it was good.
-
 ### 2 Kings 15:24
 - priority: `0`
 - importance: `none`
@@ -179013,6 +179013,15 @@ Method:
 - fresh: And the Lord said to Moses, Go in to Pharaoh, and you shall say to him, These things says the Lord, the God of the Hebrews: Send out my people so that they may serve me.
 - mt: Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus says the LORD God of the Hebrews, Let my people go, that they may serve me.
 - brenton: And the Lord said to Moses, Go in to Pharao, and thou shalt say to him, These things saith the Lord God of the Hebrews; Send my people away that they may serve me.
+
+### Genesis 2:2
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.841`
+- fresh_brenton_ratio: `0.931`
+- fresh: And God completed on the sixth day his works, which he made, and he rested on the seventh day from all his works, which he made.
+- mt: And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.
+- brenton: And God finished on the sixth day his works which he made, and he ceased on the seventh day from all his works which he made.
 
 ### Numbers 22:9
 - priority: `0`
@@ -183199,6 +183208,15 @@ Method:
 - mt: And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman: these are the families of Simeon.
 - brenton: And the sons of Symeon, Jemuel and Jamin, and Aod, and Jachin and Saar, and Saul the son of a Phœnician woman, these are the families of the sons of Symeon.
 
+### Genesis 1:18
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.858`
+- fresh_brenton_ratio: `0.920`
+- fresh: And to rule the day and the night and to divide between the light and between the darkness. And God saw that it was good.
+- mt: And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.
+- brenton: and to regulate day and night, and to divide between the light and the darkness. And God saw that it was good.
+
 ### 1 Chronicles 8:33
 - priority: `0`
 - importance: `none`
@@ -184980,15 +184998,6 @@ Method:
 - fresh: And Abishai brother of Joab son of Zeruiah, he was chief among the three, and he lifted his spear against three hundred wounded, and he had a name among the three.
 - mt: And Abishai, the brother of Joab, the son of Zeruiah, was chief among three. And he lifted up his spear against three hundred, and slew them, and had the name among three.
 - brenton: And Abessa the brother of Joab the son of Saruia, he was chief among the three, and he lifted up his spear against three hundred whom he slew; and he had a name among three.
-
-### Genesis 1:22
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.867`
-- fresh_brenton_ratio: `0.892`
-- fresh: And God blessed them, saying, 'Increase and multiply and fill the waters in the seas, and let the birds multiply on the earth.'
-- mt: And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.
-- brenton: And God blessed them, saying, Increase and multiply and fill the waters in the seas, and let the creatures that fly be multiplied on the earth.
 
 ### Deuteronomy 2:33
 - priority: `0`
@@ -188203,15 +188212,6 @@ Method:
 - mt: All the cities of the plain, and all Gilead, and all Bashan, unto Salchah and Edrei, cities of the kingdom of Og in Bashan.
 - brenton: All the cities of Misor, and all Galaad, and all Basan as far as Elcha and Edraim, cities of the kingdom of Og in Basan.
 
-### Genesis 1:10
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.886`
-- fresh_brenton_ratio: `0.948`
-- fresh: And God called the dry land Earth, and the gathered waters he called Seas. And God saw that it was good.
-- mt: And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.
-- brenton: And God called the dry land Earth, and the gatherings of the waters he called Seas, and God saw that it was good.
-
 ### 2 Samuel 22:29
 - priority: `0`
 - importance: `none`
@@ -190290,6 +190290,15 @@ Method:
 - fresh: And she went down to the threshing floor and did according to all that her mother-in-law commanded her.
 - mt: And she went down unto the floor, and did according to all that her mother in law bade her.
 - brenton: And she went down to the threshing-floor, and did according to all that her mother-in-law enjoined her.
+
+### Genesis 1:10
+- priority: `0`
+- importance: `none`
+- fresh_mt_ratio: `0.901`
+- fresh_brenton_ratio: `0.960`
+- fresh: And God called the dry land Earth, and the gathered bodies of the waters he called Seas. And God saw that it was good.
+- mt: And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.
+- brenton: And God called the dry land Earth, and the gatherings of the waters he called Seas, and God saw that it was good.
 
 ### Genesis 7:10
 - priority: `0`
@@ -192846,15 +192855,6 @@ Method:
 - fresh: And Abraham prayed to God, and God healed Abimelech and his wife and his female-servants, and they bore children.
 - mt: So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare children.
 - brenton: And Abraam prayed to God, and God healed Abimelech, and his wife, and his women servants, and they bore children.
-
-### Genesis 1:4
-- priority: `0`
-- importance: `none`
-- fresh_mt_ratio: `0.928`
-- fresh_brenton_ratio: `0.844`
-- fresh: And God saw the light, that it was good. And God separated the light from the darkness.
-- mt: And God saw the light, that it was good: and God divided the light from the darkness.
-- brenton: And God saw the light that it was good, and God divided between the light and the darkness.
 
 ### Deuteronomy 26:4
 - priority: `0`

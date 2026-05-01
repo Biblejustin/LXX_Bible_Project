@@ -9,10 +9,10 @@ Open blockers are tracked by the watch files and release-hardening report.
 - anthropology: 54
 - covenant/law: 82
 - death/afterlife: 1
-- kingship: 105
+- kingship: 106
 - ritual: 73
 - textual/lexical: 137
-- theology: 105
+- theology: 104
 
 ## Top 50 Resolved Priority Rows
 - 1. Exodus 20:24 | score 35 | theology, ritual, kingship, textual/lexical | keep

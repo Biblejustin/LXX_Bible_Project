@@ -705,6 +705,17 @@ Rows: 233
 - OT clues: Ezek.9.8 (5) -> And it happened while they were striking that I fell on my face and cried out and said, Alas, Lord, do you wipe out the remnant of Israel when you pour out your wrath upon Jerusalem? || Deut.14.3 (4) -> You shall not eat any abomination. || Isa.65.4 (4) -> And among the tombs and in the caves they sleep because of dreams, eating pig flesh and broth of polluted sacrifices; all their vessels are polluted. || Jer.1.6 (4) -> And I said, O Master Lord, behold, I do not know how to speak, because I am too young.
 - NT clues: Acts.10.14 (6) -> But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean. || Ezek.20.49 (5) -> Then said I, Ah Lord GOD! they say of me, Does he not speak parables? || Exod.22.31 (3) -> And all of you shall be holy men unto me: neither shall all of you eat any flesh that is torn of beasts in the field; all of you shall cast it to the dogs.
 
+## Genesis 1:26
+- score: 22
+- latest review status: keep
+- top vote: 82
+- OT crossrefs: 5
+- NT crossrefs: 3
+- shared-family hits: 0
+- fresh: And God said, 'Let us make man according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the cattle and all the earth and all the creeping things creeping upon the earth.'
+- OT clues: Ps.8.4-Ps.8.8 (49) -> Because I will see heavens, works of your fingers, moon and stars which you founded. || Gen.3.22 (42) -> And God said, 'Look, Adam has become like one of us, to know good and evil. And now, lest perhaps he stretch out his hand and take from the tree of life and eat and live forever.' || Gen.5.1 (40) -> This is the book of the origin of humans. On the day God made Adam, according to the image of God he made him. || Ps.100.3 (39) -> I did not set before my eyes lawless thing; those doing transgressions I hated.
+- NT clues: Col.3.10 (82) -> And have put on the new man, which is renewed in knowledge after the image of him that created him: || Eph.4.24 (75) -> And that all of you put on the new man, which after God is created in righteousness and true holiness. || 2Cor.3.18 (38) -> But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit (o. pneuma) of the LORD.
+
 ## Genesis 24:7
 - score: 22
 - latest review status: keep
@@ -1274,17 +1285,6 @@ Rows: 233
 - OT clues: Eccl.12.13 (13) -> The end of the matter, all is heard: fear God and keep his commandments, because this is the whole man. || Eccl.8.12 (10) -> The one who sinned did evil from then and from length to him; yet I know that good will be for those fearing God, so that they may fear before his face. || Eccl.5.3 (9) -> Just as if you vow a vow to God, do not delay to pay it, because there is no pleasure in fools; whatever you vow, pay. || Isa.50.10-Isa.50.11 (9) -> Who among you fears the Lord? Let him hear the voice of his servant. You who walk in darkness and have no light, trust in the name of the Lord and lean on God.
 - NT clues: Matt.12.36 (13) -> But I say unto you, That every idle word (o. rhema) that men shall speak, they shall give account (o. logos) thereof in the day of judgment.
 
-## Genesis 1:26
-- score: 20
-- latest review status: keep
-- top vote: 82
-- OT crossrefs: 5
-- NT crossrefs: 3
-- shared-family hits: 0
-- fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
-- OT clues: Ps.8.4-Ps.8.8 (49) -> Because I will see heavens, works of your fingers, moon and stars which you founded. || Gen.3.22 (42) -> And God said, 'Look, Adam has become like one of us, to know good and evil. And now, lest perhaps he stretch out his hand and take from the tree of life and eat and live forever.' || Gen.5.1 (40) -> This is the book of the origin of humans. On the day God made Adam, according to the image of God he made him. || Ps.100.3 (39) -> I did not set before my eyes lawless thing; those doing transgressions I hated.
-- NT clues: Col.3.10 (82) -> And have put on the new man, which is renewed in knowledge after the image of him that created him: || Eph.4.24 (75) -> And that all of you put on the new man, which after God is created in righteousness and true holiness. || 2Cor.3.18 (38) -> But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit (o. pneuma) of the LORD.
-
 ## Habakkuk 3:2
 - score: 20
 - latest review status: revised
@@ -1368,7 +1368,7 @@ Rows: 233
 - NT crossrefs: 3
 - shared-family hits: 0
 - fresh: But I, with a voice of praise and confession, will sacrifice to you. Whatever I vowed I will repay to you. Salvation belongs to the Lord.
-- OT clues: Ps.33.9 (8) -> Taste and see that the Lord is good; blessed is the man who hopes upon him. || Gen.1.3 (5) -> And God said, 'Let light come to be.' And light came to be. || Isa.50.2 (5) -> Why was there no man when I came? I called, and there was no one obeying. Is my hand not strong enough to rescue, or am I not strong enough to deliver? See, by my threat I will desolate the sea and make rivers deserts; their fish will dry up because there is no water and will die in thirst. || Gen.1.11 (3) -> And God said, 'Let the earth sprout seed-bearing grass and herb according to kind and likeness, and fruit-bearing trees making fruit with their seed in them according to kind upon the earth.' And it came to be so.
+- OT clues: Ps.33.9 (8) -> Taste and see that the Lord is good; blessed is the man who hopes upon him. || Gen.1.3 (5) -> And God said, 'Let light come to be.' And light came to be. || Isa.50.2 (5) -> Why was there no man when I came? I called, and there was no one obeying. Is my hand not strong enough to rescue, or am I not strong enough to deliver? See, by my threat I will desolate the sea and make rivers deserts; their fish will dry up because there is no water and will die in thirst. || Gen.1.11 (3) -> And God said, 'Let the earth sprout herb of grass sowing seed according to kind and according to likeness, and a fruit-bearing tree making fruit, whose seed is in it according to kind upon the earth.' And it came to be so.
 - NT clues: Matt.8.26-Matt.8.27 (10) -> And he says unto them, Why are all of you fearful, O all of you of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm. || Matt.8.8-Matt.8.9 (5) -> The centurion answered and said, Lord, I am not worthy that you should come under my roof: but speak the word (o. logos) only, and my servant shall be healed. || Jonah.1.17 (4) -> Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.
 
 ## Joshua 22:29
@@ -1705,6 +1705,17 @@ Rows: 233
 - OT clues: Josh.22.27 (4) -> but so that this may be a witness between us and you and between our generations after us, to render service to the Lord before him in our offerings and in our sacrifices and in our sacrifices of salvation, and your children will not say to our children tomorrow, You have no share in the Lord. || Isa.43.10 (3) -> Become witnesses to me, and I witness, says the Lord God, and the servant whom I chose, so that you may know and believe and understand that I am. Before me no other god came to be, and after me there will not be. || 1Kgs.18.39 (2) -> And all the people fell on their faces and said, Truly the Lord, he is God, he is God. || Josh.24.27 (2) -> And Joshua said to the people, Behold, this stone shall be among you as a witness, because it has heard all that was spoken to it by the Lord, whatever he spoke to us today, and it shall be among you as a witness at the last days, whenever you lie against the Lord my God.
 - NT clues: Matt.4.10 (3) -> Then says Jesus unto him, Get you behind, Satan: for it is written, You shall worship the Lord your God, and him only shall you serve.
 
+## Joshua 24:33
+- score: 19
+- latest review status: keep
+- top vote: 3
+- OT crossrefs: 5
+- NT crossrefs: 3
+- shared-family hits: 0
+- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. [33a: On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. 33b: And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.]
+- OT clues: Exod.6.25 (3) -> And Eleazar son of Aaron took for himself as wife one of the daughters of Putiel, and she bore to him Phinehas. These are the heads of the fathers of the Levites according to their generations. || Josh.22.13 (3) -> And the sons of Israel sent to the sons of Reuben and to the sons of Gad and to the half tribe of Manasseh in the land of Gilead Phinehas son of Eleazar son of Aaron the high priest, || Exod.6.23 (2) -> And Aaron took Elizabeth daughter of Amminadab, sister of Nahshon, as wife to himself, and she bore to him Nadab and Abiud and Eleazar and Ithamar. || Isa.57.1-Isa.57.2 (2) -> See how a righteous man perished and no one takes it to heart, and righteous men are taken away and no one understands, because from the face of injustice a righteous man is taken away.
+- NT clues: Acts.13.36 (2) -> For David, after he had served his own generation by the will of God, fell asleep, and was laid unto his fathers, and saw corruption: || Heb.7.24 (2) -> But this man, because he continues ever, has an unchangeable priesthood. || Heb.9.26-Heb.9.27 (2) -> For then must he often have suffered since the foundation of the world: but now once in the end of the world has he appeared to put away sin by the sacrifice of himself.
+
 ## Nahum 1:14
 - score: 19
 - latest review status: revised
@@ -1919,17 +1930,6 @@ Rows: 233
 - fresh: Jonah rose up and went to Nineveh, just as the Lord spoke. Nineveh was a great city to God, like a journey of a way of three days.
 - OT clues: Gen.22.3 (1) -> And Abraham rose early in the morning and saddled his donkey, and took with himself two servants and Isaac his son, and splitting wood for a whole-burnt offering, he rose and went and came to the place that God told him, on the third day. || Ps.80.10 (1) -> there will not be in you recent god, nor will you worship strange god.
 - NT clues: Matt.21.28-Matt.21.29 (1) -> But what think all of you? A certain man had two sons; and he came to the first, and said, Son, go work to day in my vineyard.
-
-## Joshua 24:15
-- score: 18
-- latest review status: keep
-- top vote: 150
-- OT crossrefs: 6
-- NT crossrefs: 2
-- shared-family hits: 0
-- fresh: But if it does not please you to serve the Lord, choose for yourselves today whom you will serve, whether the gods of your fathers beyond the river or the gods of the Amorites among whom you dwell on their land. But I and my house will serve the Lord, because he is holy.
-- OT clues: 1Kgs.18.21 (150) -> And Elijah came near to all and said to them, How long will you limp on both knees? If the Lord is God, go after him; but if Baal is, go after him. And the people did not answer a word. || Ruth.1.15-Ruth.1.16 (69) -> And Naomi said to Ruth, Behold, your fellow daughter-in-law turned back to her people and to her gods. Turn back now, you also, after your fellow daughter-in-law. || Deut.29.18 (50) -> and it shall be, if he hears the words of this curse and congratulates himself in his heart, saying, Holy things shall be mine, because in the wandering of my heart I will walk, so that the sinner may not destroy the sinless, || Ezek.20.39 (48) -> And you, house of Israel, thus says the Lord God: Each one, remove his practices, and after these things, if you do not listen to me, you will no longer profane my holy name with your gifts and with your practices.
-- NT clues: John.6.67-John.6.68 (101) -> Then said Jesus unto the twelve, Will all of you also go away? || Acts.11.23 (44) -> Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord.
 
 ## Judges 15:6
 - score: 18

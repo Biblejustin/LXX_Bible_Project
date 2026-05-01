@@ -55,7 +55,7 @@ Note:
 - decisions: 2
 - footnotes: 0
 - same_normalized: no
-- fresh: And God saw the light, that it was good. And God separated the light from the darkness.
+- fresh: And God saw the light, that it was good. And God separated between the light and between the darkness.
 - brenton: And God saw the light that it was good, and God divided between the light and the darkness.
 
 ### Genesis 1:5
@@ -97,10 +97,10 @@ Note:
 ### Genesis 1:9
 
 - importance: high
-- decisions: 2
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Let the water below Heaven be gathered into one gathering, and let the dry land appear.' And it came to be so. And the water below Heaven was gathered into collections, and the dry land appeared.
+- fresh: And God said, 'Let the water below Heaven be gathered into one gathering, and let the dry land appear.' And it came to be so. And the water below Heaven was gathered into their gatherings, and the dry land appeared.
 - brenton: And God said, Let the water which is under the heaven be collected into one place, and let the dry land appear, and it was so. And the water which was under the heaven was collected into its places, and the dry land appeared.
 
 ### Genesis 1:10
@@ -109,25 +109,25 @@ Note:
 - decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And God called the dry land Earth, and the gathered waters he called Seas. And God saw that it was good.
+- fresh: And God called the dry land Earth, and the gathered bodies of the waters he called Seas. And God saw that it was good.
 - brenton: And God called the dry land Earth, and the gatherings of the waters he called Seas, and God saw that it was good.
 
 ### Genesis 1:11
 
 - importance: high
-- decisions: 1
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Let the earth sprout seed-bearing grass and herb according to kind and likeness, and fruit-bearing trees making fruit with their seed in them according to kind upon the earth.' And it came to be so.
+- fresh: And God said, 'Let the earth sprout herb of grass sowing seed according to kind and according to likeness, and a fruit-bearing tree making fruit, whose seed is in it according to kind upon the earth.' And it came to be so.
 - brenton: And God said, Let the earth bring forth the herb of grass bearing seed according to its kind and according to its likeness, and the fruit-tree bearing fruit whose seed is in it, according to its kind on the earth, and it was so.
 
 ### Genesis 1:12
 
 - importance: high
-- decisions: 1
-- footnotes: 0
+- decisions: 5
+- footnotes: 1
 - same_normalized: no
-- fresh: And the earth brought forth seed-bearing grass and herb according to kind and likeness, and fruit-bearing trees making fruit with their seed in them according to kind upon the earth. And God saw that it was good.
+- fresh: And the earth brought forth herb of grass sowing seed according to kind and according to likeness, and a fruit-bearing tree making fruit, whose seed is in it according to kind upon the earth. And God saw that it was good.
 - brenton: And the earth brought forth the herb of grass bearing seed according to its kind and according to its likeness, and the fruit tree bearing fruit whose seed is in it, according to its kind on the earth, and God saw that it was good.
 
 ### Genesis 1:13
@@ -142,10 +142,10 @@ Note:
 ### Genesis 1:14
 
 - importance: high
-- decisions: 1
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Let light-bearers come to be in the firm span of Heaven for shining on the earth, to divide day from night. And let them be for signs and for seasons and for days and for years.'
+- fresh: And God said, 'Let light-bearers come to be in the firm span of Heaven for shining upon the earth, for dividing between the day and between the night. And let them be for signs and for seasons and for days and for years.'
 - brenton: And God said, Let there be lights in the firmament of the heaven to give light upon the earth, to divide between day and night, and let them be for signs and for seasons and for days and for years.
 
 ### Genesis 1:15
@@ -154,40 +154,40 @@ Note:
 - decisions: 1
 - footnotes: 0
 - same_normalized: no
-- fresh: And let them be for shining in the firm span of Heaven so as to shine on the earth. And it came to be so.
+- fresh: And let them be for shining in the firm span of Heaven, so as to shine upon the earth. And it came to be so.
 - brenton: And let them be for light in the firmament of the heaven, so as to shine upon the earth, and it was so.
 
 ### Genesis 1:16
 
 - importance: high
-- decisions: 1
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And God made the two great light-bearers, the greater light-bearer for the dominion of the day and the lesser light-bearer for the dominion of the night, and the stars.
+- fresh: And God made the two great light-bearers, the great light-bearer for the dominions of the day and the lesser light-bearer for the dominions of the night, and the stars.
 - brenton: And God made the two great lights, the greater light for regulating the day and the lesser light for regulating the night, the stars also.
 
 ### Genesis 1:17
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 0
 - same_normalized: no
-- fresh: And God placed them in the firm span of Heaven so as to shine on the earth.
+- fresh: And God placed them in the firm span of Heaven, so as to shine upon the earth.
 - brenton: And God placed them in the firmament of the heaven, so as to shine upon the earth,
 
 ### Genesis 1:18
 
 - importance: high
-- decisions: 1
+- decisions: 2
 - footnotes: 0
 - same_normalized: no
-- fresh: And they were to rule day and night and to divide light from darkness. And God saw that it was good.
+- fresh: And to rule the day and the night and to divide between the light and between the darkness. And God saw that it was good.
 - brenton: and to regulate day and night, and to divide between the light and the darkness. And God saw that it was good.
 
 ### Genesis 1:19
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And evening came, and morning came: fourth day.
@@ -196,34 +196,34 @@ Note:
 ### Genesis 1:20
 
 - importance: high
-- decisions: 1
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Let the waters bring forth swarming living creatures and winged birds flying over the earth across the firm span of Heaven.' And it came to be so.
+- fresh: And God said, 'Let the waters bring forth crawling things of living souls and winged creatures flying upon the earth across the firm span of Heaven.' And it came to be so.
 - brenton: And God said, Let the waters bring forth reptiles having life, and winged creatures flying above the earth in the firmament of heaven, and it was so.
 
 ### Genesis 1:21
 
 - importance: high
-- decisions: 1
-- footnotes: 0
+- decisions: 3
+- footnotes: 1
 - same_normalized: no
-- fresh: And God made the great sea-creatures and every living creature among the swarming things that the waters brought forth according to their kinds, and every winged bird according to kind. And God saw that they were good.
+- fresh: And God made the great sea-monsters and every soul of living creeping things, which the waters brought forth according to their kinds, and every winged creature according to kind. And God saw that they were good.
 - brenton: And God made great whales, and every living reptile, which the waters brought forth according to their kinds, and every creature that flies with wings according to its kind, and God saw that they were good.
 
 ### Genesis 1:22
 
 - importance: high
-- decisions: 1
-- footnotes: 0
+- decisions: 3
+- footnotes: 1
 - same_normalized: no
-- fresh: And God blessed them, saying, 'Increase and multiply and fill the waters in the seas, and let the birds multiply on the earth.'
+- fresh: And God blessed them, saying, 'Increase and multiply and fill the waters in the seas, and let the winged creatures be multiplied upon the earth.'
 - brenton: And God blessed them, saying, Increase and multiply and fill the waters in the seas, and let the creatures that fly be multiplied on the earth.
 
 ### Genesis 1:23
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And evening came, and morning came: fifth day.
@@ -232,37 +232,37 @@ Note:
 ### Genesis 1:24
 
 - importance: high
-- decisions: 1
-- footnotes: 0
+- decisions: 2
+- footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Let the earth bring forth living creatures according to kind: four-footed animals and creeping things and wild beasts of the earth according to kind.' And it came to be so.
+- fresh: And God said, 'Let the earth bring forth living soul according to kind: four-footed animals and creeping things and wild beasts of the earth according to kind.' And it came to be so.
 - brenton: And God said, Let the earth bring forth the living creature according to its kind, quadrupeds and reptiles and wild beasts of the earth according to their kind, and it was so.
 
 ### Genesis 1:25
 
 - importance: high
-- decisions: 1
-- footnotes: 0
+- decisions: 3
+- footnotes: 1
 - same_normalized: no
-- fresh: And God made the wild beasts of the earth according to kind, and the livestock according to their kind, and every creeping thing of the earth according to its kind. And God saw that they were good.
+- fresh: And God made the wild beasts of the earth according to kind, and the cattle according to their kind, and all the creeping things of the earth according to their kind. And God saw that they were good.
 - brenton: And God made the wild beasts of the earth according to their kind, and cattle according to their kind, and all the reptiles of the earth according to their kind, and God saw that they were good.
 
 ### Genesis 1:26
 
 - importance: high
-- decisions: 2
-- footnotes: 1
+- decisions: 6
+- footnotes: 2
 - same_normalized: no
-- fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
+- fresh: And God said, 'Let us make man according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the cattle and all the earth and all the creeping things creeping upon the earth.'
 - brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
 
 ### Genesis 1:27
 
 - importance: high
-- decisions: 1
-- footnotes: 0
+- decisions: 3
+- footnotes: 1
 - same_normalized: no
-- fresh: And God made humankind; according to God's image he made humankind. Male and female he made them.
+- fresh: And God made the man; according to the image of God he made him. Male and female he made them.
 - brenton: And God made man, according to the image of God he made him, male and female he made them.
 
 ### Genesis 1:28
@@ -271,34 +271,34 @@ Note:
 - decisions: 2
 - footnotes: 2
 - same_normalized: no
-- fresh: And God blessed them, saying, 'Increase and multiply and fill the earth and subdue it, and rule the fish of the sea and the birds of Heaven and all the livestock and all the earth and every creeping thing that creeps on the earth.'
+- fresh: And God blessed them, saying, 'Increase and multiply and fill the earth and subdue it, and rule the fish of the sea and the birds of Heaven and all the cattle and all the earth and all the creeping things creeping upon the earth.'
 - brenton: And God blessed them, saying, Increase and multiply, and fill the earth and subdue it, and have dominion over the fish of the seas and flying creatures of heaven, and all the cattle and all the earth, and all the reptiles that creep on the earth.
 
 ### Genesis 1:29
 
 - importance: high
-- decisions: 1
-- footnotes: 0
+- decisions: 5
+- footnotes: 1
 - same_normalized: no
-- fresh: And God said, 'Look, I have given you every seed-bearing plant that sows seed on all the earth, and every tree that has in itself fruit with seed for sowing. It will be food for you.'
+- fresh: And God said, 'Behold, I have given you every seed-bearing plant sowing seed, which is upon all the earth, and every tree that has in itself fruit of sowable seed. To you it shall be for food.'
 - brenton: And God said, Behold I have given to you every seed-bearing herb sowing seed which is upon all the earth, and every tree which has in itself the fruit of seed that is sown, to you it shall be for food.
 
 ### Genesis 1:30
 
 - importance: high
-- decisions: 1
+- decisions: 4
 - footnotes: 1
 - same_normalized: no
-- fresh: And to every wild beast of the earth and every bird of Heaven and every creeping thing that creeps on the earth, everything that has in itself living breath, I have given every green plant for food. And it came to be so.
+- fresh: And to all the wild beasts of the earth and to all the birds of Heaven and to every creeping thing creeping upon the earth, which has in itself soul of life, I have given every green plant for food. And it came to be so.
 - brenton: And to all the wild beasts of the earth, and to all the flying creatures of heaven, and to every reptile creeping on the earth, which has in itself the breath of life, even every green plant for food; and it was so.
 
 ### Genesis 1:31
 
 - importance: high
-- decisions: 1
+- decisions: 3
 - footnotes: 1
 - same_normalized: no
-- fresh: And God saw all that he had made, and look, it was very good. And evening came, and morning came: sixth day.
+- fresh: And God saw all things, as many as he made, and behold, they were very good. And evening came, and morning came: sixth day.
 - brenton: And God saw all the things that he had made, and, behold, they were very good. And there was evening and there was morning, the sixth day.
 
 ### Genesis 2:1
@@ -316,7 +316,7 @@ Note:
 - decisions: 2
 - footnotes: 1
 - same_normalized: no
-- fresh: And God completed his works, the works he had made, on the sixth day, and he rested on the seventh day from all his works that he had made.
+- fresh: And God completed on the sixth day his works, which he made, and he rested on the seventh day from all his works, which he made.
 - brenton: And God finished on the sixth day his works which he made, and he ceased on the seventh day from all his works which he made.
 
 ### Genesis 2:3
@@ -334,7 +334,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: This is the book of the origin of Heaven and Earth, when they came to be, on the day the Lord God made Heaven and Earth.
+- fresh: This is the book of the genesis of Heaven and Earth, when they came to be, on the day the Lord God made Heaven and Earth.
 - brenton: This is the book of the generation of heaven and earth, when they were made, in the day in which the Lord God made the heaven and the earth,
 
 ### Genesis 2:5
@@ -658,7 +658,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And he would put enmity between you and the woman, and between your seed and her seed. He will keep watch for your head, and you will keep watch for his heel.
+- fresh: And I will put enmity between you and between the woman, and between your seed and between her seed. He will keep watch for your head, and you will keep watch for his heel.
 - brenton: And I will put enmity between thee and the woman and between thy seed and her seed, he shall watch against thy head, and thou shalt watch against his heel.
 
 ### Genesis 3:16
@@ -667,7 +667,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And to the woman he said that multiplying he would multiply your pains and your groaning. In pains you will bear children, and your turning will be toward your husband, and he will rule over you.
+- fresh: And to the woman he said, 'Multiplying I will multiply your pains and your groaning. In pains you will bear children, and your turning will be toward your husband, and he will rule over you.'
 - brenton: And to the woman he said, I will greatly multiply thy pains and thy groanings; in pain thou shalt bring forth children, and thy submission shall be to thy husband, and he shall rule over thee.
 
 ### Genesis 3:17
@@ -58007,7 +58007,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim.
+- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. [33a: On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. 33b: And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.]
 - brenton: And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
 
 ## Judges

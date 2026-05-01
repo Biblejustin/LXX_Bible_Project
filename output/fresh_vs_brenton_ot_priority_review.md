@@ -63,12 +63,12 @@ Use:
 - brenton: But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.
 
 ### Genesis 1:26
-- score: 20
-- reasons: decisions=2; footnotes=1; reviewed_decisions=2; importance=high; keywords=god, image; crossref_top_vote=82; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
+- score: 22
+- reasons: decisions=6; footnotes=2; reviewed_decisions=6; importance=high; keywords=god, image; crossref_top_vote=82; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; reco=keep
 - crossref top vote: 82
 - english witnesses: checked 2, fresh 2, brenton 0, mt 0, differs all 0
 - english witness recommendation: keep
-- fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
+- fresh: And God said, 'Let us make man according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the cattle and all the earth and all the creeping things creeping upon the earth.'
 - brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
 
 ### Genesis 2:7
@@ -408,13 +408,6 @@ Use:
 - fresh: And Joshua named the altar of the Reubenites and the Gadites and the half tribe of Manasseh, and said, It is a witness between them that the Lord is their God.
 - brenton: And Joshua gave a name to the altar of the children of Ruben, and the children of Gad, and of the half tribe of Manasse; and said, It is a testimony in the midst of them, that the Lord is their God.
 
-### Joshua 24:15
-- score: 18
-- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=holy, lord; crossref_top_vote=150; reco=keep
-- crossref top vote: 150
-- fresh: But if it does not please you to serve the Lord, choose for yourselves today whom you will serve, whether the gods of your fathers beyond the river or the gods of the Amorites among whom you dwell on their land. But I and my house will serve the Lord, because he is holy.
-- brenton: But if it seem not good to you to serve the Lord, choose to yourselves this day whom ye will serve, whether the gods of your fathers that were on the other side of the river, or the gods of the Amorites, among whom ye dwell upon their land: but I and my house will serve the Lord, for he is holy.
-
 ### Joshua 24:19
 - score: 22
 - reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=being, forgive, god, holy, lord; crossref_top_vote=8; eng=fresh:2/brenton:0/mt:0; eng_reco=keep; eng_flags=unclear; reco=keep
@@ -424,6 +417,15 @@ Use:
 - english witness signals: unclear
 - fresh: And Joshua said to the people, You will not be able to serve the Lord, because he is a holy and jealous God; he will not forgive your sins and your lawless deeds.
 - brenton: And Joshua said to the people, Indeed ye will not be able to serve the Lord, for God is holy; and he being jealous will not forgive your sins and your transgressions.
+
+### Joshua 24:33
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, priest; crossref_top_vote=3; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
+- crossref top vote: 3
+- english witnesses: checked 3, fresh 3, brenton 0, mt 0, differs all 0
+- english witness recommendation: keep
+- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. [33a: On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. 33b: And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.]
+- brenton: And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
 
 ## Judges
 

@@ -9047,7 +9047,7 @@ def test_release_status_distinguishes_ot_rc_from_complete_nt_workspace() -> None
     assert "existing OT RC1 package only" in status
     assert "combined OT/NT release package has not been cut" in status
     assert f"`{len(pending_variant_refs)}` non-blocking pending" in status
-    assert "Genesis 1:1-3:21 plus Joshua 24:33 and Judges 6:34" in status
+    assert "apparatus rows." in status
     assert "python3" not in status
 
 

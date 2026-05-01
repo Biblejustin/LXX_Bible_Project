@@ -1,6 +1,6 @@
 # Proper Name Note Coverage
 
-- supplemental note rows: `2509`
+- supplemental note rows: `2510`
 - Logos autocomplete DB: `/Users/justinscaggs/Library/Application Support/Logos4/Data/5gtnpjgs.gns/AutoComplete/AutoComplete.db`
 
 Policy:
@@ -18,7 +18,7 @@ Policy:
 - `Levites` (people_group, 243x, first Exodus 6:25) — manual_high_frequency_people_group
 - `Jordan` (place, 195x, first Genesis 13:10) — logos_primary_place_atlas_link_preserved
 - `Jews` (people_group, 171x, first Matthew 2:2) — logos_primary_entity
-- `Moab` (place, 168x, first Genesis 19:37) — logos_primary_place_atlas_link_preserved
+- `Moab` (place, 169x, first Genesis 19:37) — logos_primary_place_atlas_link_preserved
 - `Zion` (transliterated_form, 167x, first Deuteronomy 4:48) — not_classified
 - `Jerusalem` (place, 144x, first Matthew 2:1) — logos_primary_place_atlas_link_preserved
 - `Gilead` (transliterated_form, 125x, first Genesis 31:21) — not_classified
@@ -36,7 +36,7 @@ Policy:
 - `Chaldeans` (people_group, 75x, first Genesis 11:28) — logos_primary_entity
 - `Israel` (place, 75x, first Matthew 2:6) — logos_primary_place_atlas_link_preserved
 - `Abraham` (person, 74x, first Matthew 1:1) — logos_primary_entity
-- `Eleazar` (person, 73x, first Exodus 6:23) — logos_alias_entity
+- `Eleazar` (person, 74x, first Exodus 6:23) — logos_alias_entity
 - `Lebanon` (place, 71x, first Deuteronomy 1:7) — logos_primary_place_atlas_link_preserved
 - `Joash` (person, 69x, first Judges 6:11) — logos_alias_entity
 - `Baal` (transliterated_form, 68x, first Numbers 22:41) — not_classified

@@ -332,6 +332,21 @@ Rows: 49
 - fresh: Thus says the Lord: You shall not go up nor fight with your brothers, sons of Israel. Let each return to his own house, because this word has happened from me. And they heard the word of the Lord and stopped from going according to the word of the Lord. And King Solomon sleeps with his fathers and is buried with his fathers in the City of David, and Rehoboam his son reigned in his place in Jerusalem, being sixteen years old when he began to reign, and he reigned twelve years in Jerusalem, and the name of his mother was Naanan daughter of Anan son of Nahash king of the sons of Ammon, and he did evil before the Lord and did not walk in the way of David his father. And there was a man from the hill country of Ephraim, servant to Solomon, and his name was Jeroboam, and his mother's name was Zereda, a prostitute woman, and Solomon gave him as chief officer of the staff over the burdens of the house of Joseph, and he built for Solomon Zereda in the hill country of Ephraim, and he had three hundred chariots of horses. This one built the citadel among the burdens of the house of Ephraim. This one closed up the City of David and was being lifted up against the kingdom. And Solomon sought to put him to death, and he feared and fled to Shishak king of Egypt and was with him until Solomon died. And Jeroboam heard in Egypt that Solomon died, and he spoke into the ears of Shishak king of Egypt, saying, Send me away, and I will depart to my land. And Shishak said to him, Ask what request and I will give it to you. And Shishak gave to Jeroboam the elder sister of Tahpenes, his own wife, for a wife. She was great among the daughters of the king and bore to Jeroboam Abijah his son. And Jeroboam said to Shishak, Truly send me away, and I will depart. And Jeroboam went out from Egypt and came to the land of Zereda in the hill country of Ephraim and gathered there all the scepter of Ephraim and built a fort there. And his young child became very sick with a very severe sickness, and Jeroboam went to inquire concerning the child, and he said to Ano his wife, Rise and go inquire of God concerning the child, whether he will live from his sickness. And there was a man in Shallum, and his name was Ahijah, and he was sixty years old, and the word of the Lord was with him. And Jeroboam said to his wife, Rise and take in your hand to the man of God loaves and cakes for his children and grapes and a jar of honey. And the woman rose and took in her hand loaves and two cakes and grapes and a jar of honey for Ahijah, and the man was old and his eyes were dim from seeing. And she rose from Zereda and went. And it came to be when she entered the city to Ahijah the Shilonite, Ahijah said to his young servant, Go out now to meet Ano wife of Jeroboam and say to her, Come in and do not stand still, because thus says the Lord: Hard things I am sending upon you. And Ano entered to the man of God, and Ahijah said to her, Why have you brought me loaves and grapes and cakes and a jar of honey? Thus says the Lord: Behold, you will depart from me, and it will be when you enter the gate into Zereda and your maidens come out to meet you and say to you, The child has died, because thus says the Lord: Behold, I will destroy from Jeroboam one urinating against a wall, and those dying of Jeroboam in the city dogs will devour, and the one dying in the field the birds of heaven will devour, and for the child they will mourn. Alas, Lord, because a good word concerning the Lord was found in him. And the woman departed when she heard, and it came to be when she entered into Zereda, the child died and the cry went out to meet her. And Jeroboam went to Shechem in the hill country of Ephraim and gathered there the tribes of Israel, and Rehoboam son of Solomon went up there. And the word of the Lord came to Shemaiah the Elamite, saying, Take for yourself a new garment not yet entered into water and tear it into twelve pieces, and give them to Jeroboam and say to him, Thus says the Lord: Take for yourself ten pieces to put on, and Jeroboam took them, and Shemaiah said, Thus says the Lord concerning the ten tribes of Israel. And the people said to Rehoboam son of Solomon, Your father made his yoke heavy upon us and made the foods of his table heavy. And now, if you lighten things upon us, we will serve you. And Rehoboam said to the people, In three days I will answer you a word. And he said, Bring in to me the elders and I will take counsel with them what word I should answer the people on the third day. And Rehoboam spoke into their ears, just as the people sent to him, and the elders said, Thus the people spoke to you. And Rehoboam scattered their counsel, and it was not pleasing before him, and he sent and brought in his companions and spoke these same things to them: Thus the people sent to me. And his companions said, Thus you will speak to the people, saying, My littleness is thicker than my father's loin. My father whipped you with whips, but I will rule you with scorpions. And the word was pleasing before Rehoboam, and he answered the people just as his companions, the young men, counseled him. And all the people cried out as one man, each to his neighbor, and they all cried aloud, saying, There is no share for us in David and no inheritance in the son of Jesse. To your tents, Israel, because this man is not for ruler nor for leader. And all the people were scattered from Sikim and each went to his tent, and Rehoboam prevailed and went and mounted his chariot and entered into Jerusalem, and all the scepter of Judah and all the scepter of Benjamin went after him. And it came to be at the turn of the year, and Rehoboam gathered all the men of Judah and Benjamin and went up to war against Jeroboam at Shechem. And the word of the Lord came to Shemaiah the man of God, saying, Speak to Rehoboam king of Judah and to all the house of Judah and Benjamin and to the remnant of the people, saying, Thus says the Lord: You shall not go up nor fight against your brothers the sons of Israel. Return each to his house, because this word has happened from me. And they heard the word of the Lord and held back from going according to the word of the Lord.
 - brenton: Thus saith the Lord, Ye shall not go up, neither shall ye fight with your brethren the sons of Israel: return each man to his own home; for this thing is from me; and they hearkened to the word of the Lord, and they ceased from going up, according to the word of the Lord.
 
+## Genesis 1:26
+- priority: `22`
+- importance: `high`
+- checked witnesses: `2`
+- fresh support: `2`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `0`
+- signals: [none]
+- recommendation: `keep`
+- latest review status: `keep`
+- fresh: And God said, 'Let us make man according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the cattle and all the earth and all the creeping things creeping upon the earth.'
+- brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
+
 ## Haggai 1:14
 - priority: `22`
 - importance: `high`
@@ -422,21 +437,6 @@ Rows: 49
 - fresh: And I appeared to Abraham and Isaac and Jacob as their God, but my name, Lord, I did not make known to them.
 - brenton: And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.
 
-## Genesis 1:26
-- priority: `20`
-- importance: `high`
-- checked witnesses: `2`
-- fresh support: `2`
-- brenton support: `0`
-- mt support: `0`
-- differs all: `0`
-- split/mixed: `0`
-- signals: [none]
-- recommendation: `keep`
-- latest review status: `keep`
-- fresh: And God said, 'Let us make humankind according to our image and according to likeness, and let them rule the fish of the sea and the birds of Heaven and the livestock and all the earth and every creeping thing that creeps on the earth.'
-- brenton: And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.
-
 ## 2 Samuel 14:17
 - priority: `19`
 - importance: `high`
@@ -511,6 +511,21 @@ Rows: 49
 - latest review status: `keep`
 - fresh: And Joshua named the altar of the Reubenites and the Gadites and the half tribe of Manasseh, and said, It is a witness between them that the Lord is their God.
 - brenton: And Joshua gave a name to the altar of the children of Ruben, and the children of Gad, and of the half tribe of Manasse; and said, It is a testimony in the midst of them, that the Lord is their God.
+
+## Joshua 24:33
+- priority: `19`
+- importance: `high`
+- checked witnesses: `3`
+- fresh support: `3`
+- brenton support: `0`
+- mt support: `0`
+- differs all: `0`
+- split/mixed: `0`
+- signals: [none]
+- recommendation: `keep`
+- latest review status: `keep`
+- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. [33a: On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. 33b: And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.]
+- brenton: And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
 
 ## Deuteronomy 5:11
 - priority: `18`
@@ -721,18 +736,3 @@ Rows: 49
 - latest review status: `revised`
 - fresh: And it came to be when they crossed over, Elijah said to Elisaie, Ask what I should do for you before I am taken up from you. And Elisaie said, Let a double share of your spirit now be upon me.
 - brenton: And it came to pass while they were crossing over, that Eliu said to Elisaie, Ask what I shall do for thee before I am taken up from thee. And Elisaie said, Let there be, I pray thee, a double portion of thy spirit upon me.
-
-## Joshua 24:33
-- priority: `13`
-- importance: `high`
-- checked witnesses: `3`
-- fresh support: `3`
-- brenton support: `0`
-- mt support: `0`
-- differs all: `0`
-- split/mixed: `0`
-- signals: [none]
-- recommendation: `keep`
-- latest review status: `keep`
-- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim.
-- brenton: And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.

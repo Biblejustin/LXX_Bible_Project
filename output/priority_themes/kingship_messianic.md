@@ -2,7 +2,7 @@
 
 Royal, shepherd, servant, anointed, peace, savior language.
 
-Rows: 105
+Rows: 106
 Books: 35
 
 ## Genesis 24:7
@@ -130,6 +130,13 @@ Books: 35
 - keywords: altar, lord, peace, sacrifice, salvation
 - fresh: May it never be for us to turn away from the Lord in these days, to revolt from the Lord, so as to build for ourselves an altar for offerings and sacrifices of salvation and the sacrifice of salvation besides the altar of the Lord that is before his tent.
 - brenton: Far be it from us therefore that we should turn away from the Lord this day so as to apostatize from the Lord, so as that we should build an altar for burnt-offerings, and for peace-offerings, besides the altar of the Lord which is before his tabernacle.
+
+## Joshua 24:33
+- score: 19
+- reasons: decisions=1; footnotes=1; reviewed_decisions=1; importance=high; keywords=god, king, lord, priest; crossref_top_vote=3; eng=fresh:3/brenton:0/mt:0; eng_reco=keep; reco=keep
+- keywords: god, king, lord, priest
+- fresh: And after these things Eleazar son of Aaron the high priest died, and they buried him in Gabaath of Phinehas his son, which he gave him in the hill-country of Ephraim. [33a: On that day the sons of Israel took the ark of God and carried it among themselves, and Phinehas served as priest in place of Eleazar his father until he died, and he was buried in his own Gabaath. 33b: And the sons of Israel went away each to his own place and to his own city, and the sons of Israel worshiped Astarte and Astaroth and the gods of the nations around them, and the Lord gave them into the hands of Eglom king of Moab, and he ruled over them eighteen years.]
+- brenton: And it came to pass afterwards that Eleazar the high-priest the son of Aaron died, and was buried in Gabaar of Phinees his son, which he gave him in mount Ephraim.
 
 ## Judges 21:4
 - score: 18
