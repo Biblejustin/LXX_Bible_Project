@@ -1,0 +1,142 @@
+{
+  "verse_rows": 5065,
+  "verses_with_greek_text": 5065,
+  "verses_with_draft_translation": 0,
+  "selected_scope": "Tobit-Psalms (15 books)",
+  "selected_verse_rows": 5065,
+  "selected_drafted_rows": 0,
+  "output_verse_rows": 5065,
+  "output_drafted_rows": 0,
+  "book_count": 15,
+  "book_rows": {
+    "Tobit": {
+      "verse_rows": 245,
+      "drafted_rows": 0
+    },
+    "Judith": {
+      "verse_rows": 339,
+      "drafted_rows": 0
+    },
+    "Greek Esther": {
+      "verse_rows": 219,
+      "drafted_rows": 0
+    },
+    "Wisdom": {
+      "verse_rows": 437,
+      "drafted_rows": 0
+    },
+    "Sirach": {
+      "verse_rows": 1378,
+      "drafted_rows": 0
+    },
+    "Baruch": {
+      "verse_rows": 141,
+      "drafted_rows": 0
+    },
+    "Letter of Jeremiah": {
+      "verse_rows": 72,
+      "drafted_rows": 0
+    },
+    "Song of the Three Young Men": {
+      "verse_rows": 66,
+      "drafted_rows": 0
+    },
+    "Susanna": {
+      "verse_rows": 64,
+      "drafted_rows": 0
+    },
+    "Bel and the Dragon": {
+      "verse_rows": 42,
+      "drafted_rows": 0
+    },
+    "1 Maccabees": {
+      "verse_rows": 917,
+      "drafted_rows": 0
+    },
+    "1 Esdras": {
+      "verse_rows": 430,
+      "drafted_rows": 0
+    },
+    "3 Maccabees": {
+      "verse_rows": 227,
+      "drafted_rows": 0
+    },
+    "4 Maccabees": {
+      "verse_rows": 481,
+      "drafted_rows": 0
+    },
+    "Psalms": {
+      "verse_rows": 7,
+      "drafted_rows": 0
+    }
+  },
+  "logos_note_rows": 0,
+  "decision_rows": 0,
+  "footnote_rows": 0,
+  "variant_rows": 0,
+  "decision_status_counts": {
+    "todo": 0,
+    "drafted": 0,
+    "reviewed": 0
+  },
+  "footnote_status_counts": {
+    "todo": 0,
+    "drafted": 0,
+    "reviewed": 0
+  },
+  "chapters": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "151"
+  ],
+  "preferred_resource_roles": []
+}

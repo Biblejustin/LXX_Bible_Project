@@ -13,6 +13,7 @@ from fresh_bible.csv_shape import assert_csv_shapes
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_PATHS = [
     ROOT / "data/raw/lxx_greek/ot_full.csv",
+    ROOT / "data/raw/lxx_deuterocanon/deuterocanon_full.csv",
     ROOT / "data/raw/tr_greek/nt_full.csv",
     ROOT / "data/research/translation_footnotes.csv",
     ROOT / "data/research/translation_decisions.csv",

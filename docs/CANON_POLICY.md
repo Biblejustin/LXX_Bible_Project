@@ -7,11 +7,10 @@ This branch currently builds a Protestant-canon fresh translation:
 
 The project is LXX-based for the OT text it currently translates, but this
 branch remains the Protestant-canon edition. Deuterocanonical and apocryphal LXX
-books should be handled as a separate workstream and separate output, not folded
-into this branch by accident. Current source text does not yet include Tobit,
-Judith, Wisdom, Sirach, Baruch, Letter of Jeremiah, Susanna, Bel and the Dragon,
-Maccabees, 1 Esdras, Prayer of Manasseh, or Psalm 151. Their absence is a
-branch-scope decision, not a claim that they are absent from every LXX tradition.
+books are handled as a separate workstream and separate output, not folded into
+the 66-book outputs by accident. The separate workspace begins at
+`data/raw/lxx_deuterocanon/deuterocanon_full.csv`; the main Protestant-canon OT
+source remains `data/raw/lxx_greek/ot_full.csv`.
 
 ## Source Policy
 
@@ -22,6 +21,18 @@ notes or source checks, but they are not the translation base.
 
 The NT translation is made from the Scrivener 1894 Textus Receptus Greek stream
 imported from byztxt/greektext-scrivener text-only files.
+
+The separate deuterocanon/additions workspace imports Greek rows from the eBible
+GRCLXX Septuaginta USFM archive pinned at
+`data/raw/lxx_deuterocanon/grclxx_usfm.zip`. Its `draft_translation` column is
+intentionally blank until each book is translated from the Greek source rows;
+USFM source descriptors and footnotes are preserved as `syntax_notes`.
+That workspace currently includes Tobit, Judith, Greek Esther, Wisdom, Sirach,
+Baruch, Letter of Jeremiah, Song of the Three Young Men, Susanna, Bel and the
+Dragon, 1 Maccabees, 1 Esdras, 3-4 Maccabees, and Psalm 151. Prayer of
+Manasseh and 2 Maccabees still need a lawful Greek source if they remain in
+scope. The pinned GRCLXX package contains a file named 2MA, but its title and
+content identify it as 4 Maccabees, so this workspace labels it by content.
 
 Daniel follows the Greek Daniel rows currently present in this branch's LXX
 source workspace. It should not be silently replaced with Theodotion- or
@@ -60,8 +71,6 @@ included for completeness.
 
 Future branches or separate release artifacts may add:
 
-- A separate LXX deuterocanon edition.
 - A full LXX-canon edition after the separate deuterocanon work is mature.
-- Deuterocanonical/apocryphal books and Greek additions.
 - Separate release artifacts for Protestant-canon, full-LXX-canon, and study
   editions.

@@ -358,13 +358,17 @@ class TranslationNote:
 
     @property
     def display_text(self) -> str:
-        if self.note_type == "mt_lxx":
-            prefix = "MT/LXX note"
-        elif self.note_type == "textual":
-            prefix = "Textual note"
-        else:
-            prefix = "Translation note"
-        return f"{prefix}: {reader_facing_note_text(self.text)}"
+        return translation_note_display_text(self)
+
+
+def translation_note_display_text(note: TranslationNote, *, compact_label: bool = False) -> str:
+    if note.note_type == "mt_lxx":
+        prefix = "MT/LXX" if compact_label else "MT/LXX note"
+    elif note.note_type == "textual":
+        prefix = "Txt" if compact_label else "Textual note"
+    else:
+        prefix = "T" if compact_label else "Translation note"
+    return f"{prefix}: {reader_facing_note_text(note.text)}"
 
 
 @dataclass(frozen=True)
@@ -395,7 +399,37 @@ class NameMeaningNote:
 
     @property
     def display_text(self) -> str:
-        return reader_facing_note_text(self.text)
+        return name_note_display_text(self)
+
+
+COMPACT_NAME_NOTE_REPLACEMENTS = (
+    ("Hebrew divine name/title:", "Heb:"),
+    ("Greek LXX divine name/title:", "Gk:"),
+    ("Divine or supernatural name:", "Div:"),
+    ("Divine/supernatural-name meaning:", "Nm:"),
+    ("Transliterated proper noun:", "Tr:"),
+    ("Standard English equivalent:", "Std:"),
+    ("Common English rendering:", "Eng:"),
+    ("UKJV form:", "UKJV:"),
+    ("Personal-name meaning:", "Nm:"),
+    ("Personal name:", "Pn:"),
+    ("Place-name meaning:", "Nm:"),
+    ("Place name:", "Pl:"),
+    ("People-name meaning:", "Nm:"),
+    ("People-name:", "Ppl:"),
+    ("Name meaning:", "Nm:"),
+    ("Source form:", "Src:"),
+    ("Greek form:", "Gk:"),
+)
+
+
+def name_note_display_text(note: NameMeaningNote, *, compact_label: bool = False) -> str:
+    text_value = reader_facing_note_text(note.text)
+    if not compact_label:
+        return text_value
+    for verbose, compact in COMPACT_NAME_NOTE_REPLACEMENTS:
+        text_value = text_value.replace(verbose, compact)
+    return text_value
 
 
 @dataclass(frozen=True)
@@ -472,13 +506,32 @@ class MilestoneResolution:
     status: str
 
 
+def footnote_restart_xml_value(scope: str) -> str:
+    return {
+        "book": "eachSect",
+        "chapter": "eachSect",
+        "continuous": "continuous",
+        "page": "eachPage",
+    }.get(scope, "eachSect")
+
+
 class MinimalDocx:
     """Small WordprocessingML writer with real footnote support."""
 
-    def __init__(self, title: str, subject: str, *, compact_print: bool = False) -> None:
+    def __init__(
+        self,
+        title: str,
+        subject: str,
+        *,
+        compact_print: bool = False,
+        lulu_pod_margins: bool = False,
+        footnote_number_restart: str = "chapter",
+    ) -> None:
         self.title = title
         self.subject = subject
         self.compact_print = compact_print
+        self.lulu_pod_margins = lulu_pod_margins
+        self.footnote_restart_value = footnote_restart_xml_value(footnote_number_restart)
         self.body: list[str] = []
         self.footnotes: list[FootnoteEntry] = []
 
@@ -493,7 +546,14 @@ class MinimalDocx:
         if style != "Normal":
             ppr_parts.append(f'<w:pStyle w:val="{attr(style)}"/>')
         if section_break_after:
-            ppr_parts.append(section_properties_xml(section_type="continuous", compact_print=self.compact_print))
+            ppr_parts.append(
+                section_properties_xml(
+                    section_type="continuous",
+                    compact_print=self.compact_print,
+                    lulu_pod_margins=self.lulu_pod_margins,
+                    footnote_restart_value=self.footnote_restart_value,
+                )
+            )
         ppr = f"<w:pPr>{''.join(ppr_parts)}</w:pPr>" if ppr_parts else ""
         self.body.append(f"<w:p>{ppr}{''.join(runs)}</w:p>")
 
@@ -510,7 +570,12 @@ class MinimalDocx:
 
     def save(self, path: Path, *, compresslevel: int = DOCX_DEFAULT_COMPRESSLEVEL) -> None:
         path.parent.mkdir(parents=True, exist_ok=True)
-        document_xml = build_document_xml("\n".join(self.body), compact_print=self.compact_print)
+        document_xml = build_document_xml(
+            "\n".join(self.body),
+            compact_print=self.compact_print,
+            lulu_pod_margins=self.lulu_pod_margins,
+            footnote_restart_value=self.footnote_restart_value,
+        )
         footnotes_xml = build_footnotes_xml(self.footnotes)
         files = {
             "[Content_Types].xml": content_types_xml(),
@@ -519,8 +584,14 @@ class MinimalDocx:
             "docProps/app.xml": app_props_xml(),
             "word/document.xml": document_xml,
             "word/_rels/document.xml.rels": document_rels_xml(),
-            "word/styles.xml": styles_xml(compact_print=self.compact_print),
-            "word/settings.xml": settings_xml(),
+            "word/styles.xml": styles_xml(
+                compact_print=self.compact_print,
+                lulu_pod_margins=self.lulu_pod_margins,
+            ),
+            "word/settings.xml": settings_xml(
+                footnote_restart_value=self.footnote_restart_value,
+                mirror_margins=self.lulu_pod_margins,
+            ),
             "word/footnotes.xml": footnotes_xml,
         }
         with zipfile.ZipFile(path, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=compresslevel) as zf:
@@ -827,19 +898,33 @@ def footnote_ref_run(note_id: int) -> str:
     )
 
 
-def section_properties_xml(*, section_type: str | None = None, compact_print: bool = False) -> str:
+def section_properties_xml(
+    *,
+    section_type: str | None = None,
+    compact_print: bool = False,
+    lulu_pod_margins: bool = False,
+    footnote_restart_value: str = "eachSect",
+) -> str:
     section_type_xml = f'<w:type w:val="{attr(section_type)}"/>' if section_type else ""
-    margins = (
-        '<w:pgMar w:top="720" w:right="540" w:bottom="720" w:left="540" '
-        'w:header="360" w:footer="360" w:gutter="0"/>'
-        if compact_print
-        else '<w:pgMar w:top="1080" w:right="1080" w:bottom="1080" w:left="1080" '
-        'w:header="720" w:footer="720" w:gutter="0"/>'
-    )
-    columns = '<w:cols w:space="360" w:num="2"/>' if compact_print else ""
+    if lulu_pod_margins:
+        margins = (
+            '<w:pgMar w:top="720" w:right="1080" w:bottom="720" w:left="1440" '
+            'w:header="360" w:footer="360" w:gutter="0"/>'
+        )
+    elif compact_print:
+        margins = (
+            '<w:pgMar w:top="720" w:right="540" w:bottom="720" w:left="540" '
+            'w:header="360" w:footer="360" w:gutter="0"/>'
+        )
+    else:
+        margins = (
+            '<w:pgMar w:top="1080" w:right="1080" w:bottom="1080" w:left="1080" '
+            'w:header="720" w:footer="720" w:gutter="0"/>'
+        )
+    columns = '<w:cols w:space="720" w:num="1"/>' if compact_print else ""
     return (
         "<w:sectPr>"
-        '<w:footnotePr><w:numRestart w:val="eachSect"/><w:numFmt w:val="decimal"/></w:footnotePr>'
+        f'<w:footnotePr><w:numRestart w:val="{attr(footnote_restart_value)}"/><w:numFmt w:val="decimal"/></w:footnotePr>'
         f"{section_type_xml}"
         '<w:pgSz w:w="12240" w:h="15840"/>'
         f"{margins}"
@@ -848,8 +933,18 @@ def section_properties_xml(*, section_type: str | None = None, compact_print: bo
     )
 
 
-def build_document_xml(body_xml: str, *, compact_print: bool = False) -> str:
-    section = section_properties_xml(compact_print=compact_print)
+def build_document_xml(
+    body_xml: str,
+    *,
+    compact_print: bool = False,
+    lulu_pod_margins: bool = False,
+    footnote_restart_value: str = "eachSect",
+) -> str:
+    section = section_properties_xml(
+        compact_print=compact_print,
+        lulu_pod_margins=lulu_pod_margins,
+        footnote_restart_value=footnote_restart_value,
+    )
     return (
         '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
         f'<w:document xmlns:w="{DOCX_W_NS}" xmlns:r="{DOCX_R_NS}">'
@@ -961,26 +1056,35 @@ def app_props_xml() -> str:
     )
 
 
-def settings_xml() -> str:
+def settings_xml(*, footnote_restart_value: str = "eachSect", mirror_margins: bool = False) -> str:
+    mirror_margins_xml = "<w:mirrorMargins/>" if mirror_margins else ""
     return (
         '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
         f'<w:settings xmlns:w="{DOCX_W_NS}">'
-        '<w:footnotePr><w:numRestart w:val="eachSect"/><w:numFmt w:val="decimal"/></w:footnotePr>'
+        f"{mirror_margins_xml}"
+        f'<w:footnotePr><w:numRestart w:val="{attr(footnote_restart_value)}"/><w:numFmt w:val="decimal"/></w:footnotePr>'
         "</w:settings>"
     )
 
 
-def styles_xml(*, compact_print: bool = False) -> str:
+def styles_xml(*, compact_print: bool = False, lulu_pod_margins: bool = False) -> str:
     normal_size = "19" if compact_print else "22"
     title_size = "32" if compact_print else "40"
     heading1_size = "24" if compact_print else "32"
     heading2_size = "21" if compact_print else "26"
     footnote_size = "15" if compact_print else "18"
+    normal_line = "205" if lulu_pod_margins else "220"
+    normal_spacing = (
+        f'<w:pPr><w:spacing w:before="0" w:after="0" w:line="{normal_line}" w:lineRule="auto"/></w:pPr>'
+        if compact_print
+        else ""
+    )
     return (
         '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
         f'<w:styles xmlns:w="{DOCX_W_NS}">'
         '<w:style w:type="paragraph" w:default="1" w:styleId="Normal">'
         '<w:name w:val="Normal"/><w:qFormat/>'
+        f"{normal_spacing}"
         '<w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>'
         f'<w:sz w:val="{normal_size}"/></w:rPr>'
         "</w:style>"
@@ -2609,13 +2713,17 @@ def build_docx(
     place_links: dict[str, PlaceLink] | None = None,
     place_link_pattern: re.Pattern[str] | None = None,
     crossrefs_enabled: bool = False,
+    compact_translation_note_labels: bool = False,
+    compact_name_note_labels: bool = False,
     docx_compresslevel: int = DOCX_DEFAULT_COMPRESSLEVEL,
     compact_print: bool = False,
+    lulu_pod_margins: bool = False,
     output_kind: str | None = None,
     subtitle: str | None = None,
     crossref_policy: str | None = None,
     name_policy: str | None = None,
     supplemental_policy: str | None = None,
+    note_label_legend: str | None = None,
 ) -> BuildStats:
     doc = MinimalDocx(
         title=title,
@@ -2625,6 +2733,8 @@ def build_docx(
             else f"{description} with translation, textual, supplemental, and name notes"
         ),
         compact_print=compact_print,
+        lulu_pod_margins=lulu_pod_margins,
+        footnote_number_restart=footnote_number_restart,
     )
     stats = BuildStats(
         output_kind=output_kind or ("logos" if logos else "proofreading"),
@@ -2646,6 +2756,7 @@ def build_docx(
         crossref_policy=crossref_policy,
         name_policy=name_policy,
         supplemental_policy=supplemental_policy,
+        note_label_legend=note_label_legend,
     )
 
     current_book = ""
@@ -2698,6 +2809,8 @@ def build_docx(
             verse_counts=verse_counts,
             previous_milestone_ref=previous_milestone_ref,
             stats=stats,
+            compact_translation_note_labels=compact_translation_note_labels,
+            compact_name_note_labels=compact_name_note_labels,
         )
         if logos and milestone_ref:
             previous_milestone_ref = milestone_ref
@@ -2729,6 +2842,7 @@ def add_title_page(
     crossref_policy: str | None = None,
     name_policy: str | None = None,
     supplemental_policy: str | None = None,
+    note_label_legend: str | None = None,
 ) -> None:
     doc.add_paragraph([run(title)], style="Title")
     subtitle_text = subtitle or ("Logos Personal Book source" if logos else "Proofreading and print copy")
@@ -2781,6 +2895,10 @@ def add_title_page(
             lines.append("Milestones are remapped to standard English/MT Bible references for Logos note sharing.")
     for line in lines:
         doc.add_paragraph([run(line)])
+    if note_label_legend:
+        doc.add_heading("Note Label Legend", level=2)
+        for legend_line in note_label_legend_lines(note_label_legend):
+            doc.add_paragraph([run(legend_line)])
     if testament in SOURCE_BASIS_GUIDE:
         doc.add_heading("Source Basis", level=2)
         for source_line in SOURCE_BASIS_GUIDE[testament]:
@@ -2810,6 +2928,15 @@ def add_title_page(
     doc.add_page_break()
 
 
+def note_label_legend_lines(note_label_legend: str) -> list[str]:
+    legend = note_label_legend.removeprefix("Print note label legend:").strip()
+    parts = [part.strip().rstrip(".") for part in legend.split(";") if part.strip()]
+    if len(parts) < 4:
+        return [note_label_legend]
+    groups = (parts[:3], parts[3:8], parts[8:])
+    return ["; ".join(group) + "." for group in groups if group]
+
+
 def add_book_preface_page(doc: MinimalDocx, fallback_book_name: str, intro: dict[str, str]) -> int:
     title = intro.get("intro_title", "").strip() or intro.get("book_name", "").strip() or fallback_book_name
     doc.add_heading(f"{title} Preface", level=2)
@@ -2837,6 +2964,8 @@ def build_verse_runs(
     verse_counts: dict[str, list[int]],
     previous_milestone_ref: str | None,
     stats: BuildStats,
+    compact_translation_note_labels: bool = False,
+    compact_name_note_labels: bool = False,
 ) -> tuple[list[str], str | None, bool]:
     runs: list[str] = []
     milestone_ref: str | None = None
@@ -2881,17 +3010,21 @@ def build_verse_runs(
         place_links,
         place_link_pattern,
         stats,
+        compact_translation_note_labels=compact_translation_note_labels,
+        compact_name_note_labels=compact_name_note_labels,
     )
     runs.extend(text_runs)
     for note in verse_level_notes:
-        note_id = doc.add_footnote(note.display_text)
+        note_id = doc.add_footnote(
+            translation_note_display_text(note, compact_label=compact_translation_note_labels)
+        )
         runs.append(footnote_ref_run(note_id))
         stats.translation_note_footnotes += 1
         if note.source_basis == TEXTUAL_NOTE_SOURCE_BASIS:
             stats.textual_note_export_footnotes += 1
         stats.verse_anchored_translation_notes += 1
     for name_note in verse_level_names:
-        note_id = doc.add_footnote(name_note.display_text)
+        note_id = doc.add_footnote(name_note_display_text(name_note, compact_label=compact_name_note_labels))
         runs.append(footnote_ref_run(note_id))
         stats.name_meaning_footnotes += 1
         stats.verse_anchored_name_meaning_notes += 1
@@ -2928,6 +3061,8 @@ def runs_for_text_with_phrase_notes(
     place_links: dict[str, PlaceLink],
     place_link_pattern: re.Pattern[str] | None,
     stats: BuildStats,
+    compact_translation_note_labels: bool = False,
+    compact_name_note_labels: bool = False,
 ) -> tuple[list[str], list[TranslationNote], list[NameMeaningNote], list[CrossReferenceNote]]:
     anchors: dict[int, list[tuple[str, TranslationNote | NameMeaningNote | CrossReferenceNote]]] = defaultdict(list)
     verse_level: list[TranslationNote] = []
@@ -2999,12 +3134,16 @@ def runs_for_text_with_phrase_notes(
                 output.append(footnote_ref_run(note_id))
                 stats.phrase_anchored_crossref_notes += 1
             elif kind == "name":
-                note_id = doc.add_footnote(item.display_text)
+                note_id = doc.add_footnote(
+                    name_note_display_text(item, compact_label=compact_name_note_labels)
+                )
                 output.append(footnote_ref_run(note_id))
                 stats.name_meaning_footnotes += 1
                 stats.phrase_anchored_name_meaning_notes += 1
             else:
-                note_id = doc.add_footnote(item.display_text)
+                note_id = doc.add_footnote(
+                    translation_note_display_text(item, compact_label=compact_translation_note_labels)
+                )
                 output.append(footnote_ref_run(note_id))
                 stats.translation_note_footnotes += 1
                 stats.phrase_anchored_translation_notes += 1
@@ -3324,7 +3463,7 @@ def main() -> None:
     parser.add_argument("--datatype", default="Bible")
     parser.add_argument(
         "--footnote-number-restart",
-        choices=("chapter", "book", "continuous"),
+        choices=("chapter", "book", "page", "continuous"),
         default="chapter",
         help="Visible footnote numbering restart scope inside the single DOCX file.",
     )

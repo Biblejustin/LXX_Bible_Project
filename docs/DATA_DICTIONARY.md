@@ -7,6 +7,7 @@ This file documents the CSV columns most likely to be edited or reviewed.
 Applies to:
 
 - `data/raw/lxx_greek/ot_full.csv`
+- `data/raw/lxx_deuterocanon/deuterocanon_full.csv`
 - `data/raw/tr_greek/nt_full.csv`
 
 | Column | Meaning |

@@ -12,7 +12,7 @@ Heritage Study Bible, using:
 
 - Scripture received here as inerrant, word-for-word inspired in original writings.
 - Fresh translation aims to work from Greek source text directly instead of reusing older English wording.
-- Deuterocanonical LXX books are planned as a separate workstream/output, not folded into this Protestant-canon branch.
+- Deuterocanonical LXX books are kept in a separate source workspace/output, not folded into this Protestant-canon branch.
 - Local Logos resources serve as research tools, while private notes stay private.
 - This branch keeps fresh-translation outputs first; inherited study-bible variants are outside the current polish scope.
 
@@ -76,6 +76,7 @@ make build-nt
 make build-combined
 make build-combined-logos
 make build-print-proof
+make build-deuterocanon
 make release-combined
 ```
 
@@ -85,11 +86,23 @@ For a compact physical proofreading copy, run:
 make build-print-proof
 ```
 
-That target writes a two-column DOCX under `output/print/` with the combined
+That target writes a single-column DOCX under `output/print/` with the combined
 fresh translation, reviewed translation notes, source-occurrence name meanings,
-an LXX-to-English numbering guide, and a minimal TSK-only cross-reference layer.
-It excludes book prefaces, Brenton/source supplemental notes, OpenBible fallback
-cross-references, and TSK study-note text.
+book prefaces, and an LXX-to-English numbering guide.
+It excludes Brenton/source supplemental notes, OpenBible fallback cross-references,
+generated TSK cross-reference footnotes, and TSK study-note text.
+Print footnotes use compact labels such as `T`, `Txt`, `MT/LXX`, `Heb`, `Gk`,
+`Tr`, `Std`, `Src`, `Nm`, `Pn`, `Pl`, `Ppl`, `Div`, and `Eng`; the print front
+matter includes the legend.
+
+For a Lulu/POD upload proof that stays under common 800-page limits, run:
+
+```bash
+make build-print-proof-lulu-pdf
+```
+
+That target omits book preface pages and writes a Letter-size PDF under
+`output/print/`.
 
 For fast NT iteration without touching committed release outputs:
 
@@ -114,6 +127,22 @@ Use the fast review targets while editing. Use `make checkpoint-ot` at
 chapter/book boundaries or before release output refreshes. Use
 `make build-combined` after OT or NT source/output edits when the single-file
 reader draft should be refreshed.
+
+For the separate LXX deuterocanon/additions workspace, run:
+
+```bash
+make import-deuterocanon
+make build-deuterocanon
+make build-deuterocanon-book BOOK=Tobit
+```
+
+That imports the pinned eBible GRCLXX USFM archive into
+`data/raw/lxx_deuterocanon/deuterocanon_full.csv` and writes separate review
+artifacts and a progress dashboard under `output/deuterocanon/`. Draft
+translations stay blank until the books are translated from Greek one at a time.
+The deuterocanon worksheet uses `--no-review-data` so pre-existing OT/NT note
+tables do not appear as if they belong to this separate workspace. Use
+`build-deuterocanon-book` for ignored one-book working outputs while translating.
 
 If `make` is unavailable, run the commands listed in `Makefile` directly.
 

@@ -1,0 +1,337 @@
+{
+  "source_title": "eBible GRCLXX Septuaginta USFM",
+  "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+  "details_url": "https://ebible.org/details.php?id=grclxx",
+  "source_status": "eBible details page labels the source public domain; package includes Orthodox Media Network notice text.",
+  "source_last_updated": "2026-02-13",
+  "source_verified_date": "2026-05-01",
+  "archive": "data/raw/lxx_deuterocanon/grclxx_usfm.zip",
+  "archive_sha256": "ecb6be2ca5e31098f6699df538158f2ca05f557bb4e31cf6bf7ad5d8f4c7b7c8",
+  "imported_csv": "data/raw/lxx_deuterocanon/deuterocanon_full.csv",
+  "imported_csv_sha256": "bab25274ba02c00d09c8b440fdafc7412e2f57ba4ab758b23a47de8cc66666ac",
+  "csv_columns": [
+    "ref",
+    "book_code",
+    "book_name",
+    "chapter",
+    "verse",
+    "greek_text",
+    "transliteration",
+    "literal_gloss",
+    "syntax_notes",
+    "draft_translation"
+  ],
+  "translation_policy": "draft_translation is intentionally blank; this workspace starts from Greek source rows, not from Brenton or another English base.",
+  "diagnostics": {
+    "rows": 5065,
+    "book_count": 15,
+    "source_note_rows": 2,
+    "source_validation": {
+      "checked_books": 15,
+      "source_id_mismatches": [],
+      "source_title_mismatches": [],
+      "needs_source_review": []
+    },
+    "books": {
+      "TOB": {
+        "book_name": "Tobit",
+        "source_file": "41-TOBgrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "TOB",
+        "expected_usfm_id": "TOB",
+        "source_titles": [
+          "ΤΩΒΙΤ"
+        ],
+        "expected_title": "ΤΩΒΙΤ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 245,
+        "source_note_rows": 1,
+        "note": "",
+        "status": "imported"
+      },
+      "JDT": {
+        "book_name": "Judith",
+        "source_file": "42-JDTgrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "JDT",
+        "expected_usfm_id": "JDT",
+        "source_titles": [
+          "ΙΟΥΔΙΘ"
+        ],
+        "expected_title": "ΙΟΥΔΙΘ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 339,
+        "source_note_rows": 0,
+        "note": "",
+        "status": "imported"
+      },
+      "ESG": {
+        "book_name": "Greek Esther",
+        "source_file": "43-ESGgrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "ESG",
+        "expected_usfm_id": "ESG",
+        "source_titles": [
+          "ΕΣΘΗΡ"
+        ],
+        "expected_title": "ΕΣΘΗΡ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 219,
+        "source_note_rows": 0,
+        "note": "Imported as full Greek Esther for now; additions-only slicing remains a later editorial step.",
+        "status": "imported"
+      },
+      "WIS": {
+        "book_name": "Wisdom",
+        "source_file": "45-WISgrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "WIS",
+        "expected_usfm_id": "WIS",
+        "source_titles": [
+          "ΣΟΦΙΑ",
+          "ΣΟΦΙΑ ΣΟΛΟΜΩΝΤΟΣ"
+        ],
+        "expected_title": "ΣΟΦΙΑ ΣΟΛΟΜΩΝΤΟΣ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 437,
+        "source_note_rows": 0,
+        "note": "",
+        "status": "imported"
+      },
+      "SIR": {
+        "book_name": "Sirach",
+        "source_file": "46-SIRgrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "SIR",
+        "expected_usfm_id": "SIR",
+        "source_titles": [
+          "ΣΕΙΡΑΧ",
+          "ΣΟΦΙΑ ΣΕΙΡΑΧ"
+        ],
+        "expected_title": "ΣΟΦΙΑ ΣΕΙΡΑΧ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 1378,
+        "source_note_rows": 0,
+        "note": "",
+        "status": "imported"
+      },
+      "BAR": {
+        "book_name": "Baruch",
+        "source_file": "47-BARgrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "BAR",
+        "expected_usfm_id": "BAR",
+        "source_titles": [
+          "ΒΑΡΟΥΧ"
+        ],
+        "expected_title": "ΒΑΡΟΥΧ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 141,
+        "source_note_rows": 0,
+        "note": "",
+        "status": "imported"
+      },
+      "LJE": {
+        "book_name": "Letter of Jeremiah",
+        "source_file": "48-LJEgrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "LJE",
+        "expected_usfm_id": "LJE",
+        "source_titles": [
+          "ΕΠΙΣΤΟΛΗ ΙΕΡΕΜΙΟΥ"
+        ],
+        "expected_title": "ΕΠΙΣΤΟΛΗ ΙΕΡΕΜΙΟΥ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 72,
+        "source_note_rows": 0,
+        "note": "",
+        "status": "imported"
+      },
+      "S3Y": {
+        "book_name": "Song of the Three Young Men",
+        "source_file": "49-S3Ygrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "S3Y",
+        "expected_usfm_id": "S3Y",
+        "source_titles": [
+          "ΑΖΑΡΙΟΥ",
+          "ΠΡΟΣΕΥΧΗ ΑΖΑΡΙΟΥ ΚΑΙ ΥΜΝΟΣ ΤΩΝ ΤΡΙΩΝ"
+        ],
+        "expected_title": "ΠΡΟΣΕΥΧΗ ΑΖΑΡΙΟΥ ΚΑΙ ΥΜΝΟΣ ΤΩΝ ΤΡΙΩΝ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 66,
+        "source_note_rows": 0,
+        "note": "",
+        "status": "imported"
+      },
+      "SUS": {
+        "book_name": "Susanna",
+        "source_file": "50-SUSgrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "SUS",
+        "expected_usfm_id": "SUS",
+        "source_titles": [
+          "ΣΩΣΑΝΝΑ"
+        ],
+        "expected_title": "ΣΩΣΑΝΝΑ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 64,
+        "source_note_rows": 0,
+        "note": "",
+        "status": "imported"
+      },
+      "BEL": {
+        "book_name": "Bel and the Dragon",
+        "source_file": "51-BELgrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "BEL",
+        "expected_usfm_id": "BEL",
+        "source_titles": [
+          "ΒΗΛ",
+          "ΒΗΛ ΚΑΙ ΔΡΑΚΩΝ"
+        ],
+        "expected_title": "ΒΗΛ ΚΑΙ ΔΡΑΚΩΝ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 42,
+        "source_note_rows": 0,
+        "note": "",
+        "status": "imported"
+      },
+      "1MA": {
+        "book_name": "1 Maccabees",
+        "source_file": "52-1MAgrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "1MA",
+        "expected_usfm_id": "1MA",
+        "source_titles": [
+          "ΜΑΚΚΑΒΑΙΩΝ Α"
+        ],
+        "expected_title": "ΜΑΚΚΑΒΑΙΩΝ Α",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 917,
+        "source_note_rows": 0,
+        "note": "",
+        "status": "imported"
+      },
+      "1ES": {
+        "book_name": "1 Esdras",
+        "source_file": "54-1ESgrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "1ES",
+        "expected_usfm_id": "1ES",
+        "source_titles": [
+          "ΕΣΔΡΑΣ Α"
+        ],
+        "expected_title": "ΕΣΔΡΑΣ Α",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 430,
+        "source_note_rows": 0,
+        "note": "",
+        "status": "imported"
+      },
+      "3MA": {
+        "book_name": "3 Maccabees",
+        "source_file": "57-3MAgrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "3MA",
+        "expected_usfm_id": "3MA",
+        "source_titles": [
+          "ΜΑΚΚΑΒΑΙΩΝ Γ"
+        ],
+        "expected_title": "ΜΑΚΚΑΒΑΙΩΝ Γ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 227,
+        "source_note_rows": 0,
+        "note": "",
+        "status": "imported"
+      },
+      "4MA": {
+        "book_name": "4 Maccabees",
+        "source_file": "53-2MAgrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "2MA",
+        "expected_usfm_id": "2MA",
+        "source_titles": [
+          "ΜΑΚΚΑΒΑΙΩΝ Δ",
+          "ΠΑΡΑΡΤΗΜΑ: ΜΑΚΚΑΒΑΙΩΝ Δ"
+        ],
+        "expected_title": "ΜΑΚΚΑΒΑΙΩΝ Δ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 481,
+        "source_note_rows": 0,
+        "note": "The source package filename/id says 2MA, but the book title is ΜΑΚΚΑΒΑΙΩΝ Δ / 4 Maccabees.",
+        "status": "imported"
+      },
+      "PSA": {
+        "book_name": "Psalms",
+        "source_file": "20-PSAgrclxx.usfm",
+        "source_scope": "chapter",
+        "chapter_filter": "151",
+        "source_usfm_id": "PSA",
+        "expected_usfm_id": "PSA",
+        "source_titles": [
+          "ΨΑΛΜΟΙ"
+        ],
+        "expected_title": "ΨΑΛΜΟΙ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 7,
+        "source_note_rows": 1,
+        "note": "Imported only Psalm 151 from the full Psalms source file.",
+        "status": "imported"
+      }
+    },
+    "missing_targets": [
+      {
+        "book_code": "MAN",
+        "book_name": "Prayer of Manasseh",
+        "reason": "Not present in the pinned GRCLXX USFM package."
+      },
+      {
+        "book_code": "2MA",
+        "book_name": "2 Maccabees",
+        "reason": "Not present as 2 Maccabees in the pinned GRCLXX USFM package; the package file named 2MA contains 4 Maccabees by title and content."
+      }
+    ],
+    "excluded_package_files": [
+      {
+        "book_code": "2ES",
+        "book_name": "2 Esdras / Greek Ezra B",
+        "reason": "In this package this is the Greek Ezra-Nehemiah stream, not the separate deuterocanon work target."
+      },
+      {
+        "book_code": "DAG",
+        "book_name": "Greek Daniel",
+        "reason": "Canonical Daniel is handled by the main OT source; Daniel additions are imported from S3Y, SUS, and BEL."
+      }
+    ]
+  }
+}

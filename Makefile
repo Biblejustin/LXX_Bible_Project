@@ -1,6 +1,7 @@
-.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review build-nt build-nt-fast build-nt-book review-nt-fast build-combined build-combined-logos build-print-proof release-combined clean-working
+.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review import-deuterocanon build-deuterocanon build-deuterocanon-book build-nt build-nt-fast build-nt-book review-nt-fast build-combined build-combined-logos build-print-proof build-print-proof-lulu-pdf release-combined clean-working
 
 PYTHON ?= python
+SOFFICE ?= /Applications/LibreOffice.app/Contents/MacOS/soffice
 CHANGES ?= Reviewed article and readability cleanup.
 GUARD_NOTE ?= review chunk
 
@@ -29,6 +30,18 @@ review-ot-fast:
 
 build-ot-review:
 	$(PYTHON) scripts/run_priority_review_suite.py
+
+import-deuterocanon:
+	$(PYTHON) scripts/import_lxx_deuterocanon_from_grclxx.py
+
+build-deuterocanon: import-deuterocanon
+	$(PYTHON) scripts/build_fresh_translation.py --source data/raw/lxx_deuterocanon/deuterocanon_full.csv --output output/deuterocanon/lxx_deuterocanon_worksheet.md --translation-only-output output/deuterocanon/lxx_deuterocanon_translation_only.md --diagnostics output/deuterocanon/lxx_deuterocanon_diagnostics.json --no-review-data
+	$(PYTHON) scripts/build_deuterocanon_progress.py
+
+build-deuterocanon-book: import-deuterocanon
+	@test -n "$(BOOK)" || (echo 'Usage: make build-deuterocanon-book BOOK=Tobit'; exit 1)
+	rm -rf output/working/deuterocanon_book
+	$(PYTHON) scripts/build_fresh_translation.py --source data/raw/lxx_deuterocanon/deuterocanon_full.csv --book "$(BOOK)" --output output/working/deuterocanon_book/lxx_deuterocanon_worksheet.md --translation-only-output output/working/deuterocanon_book/lxx_deuterocanon_translation_only.md --diagnostics output/working/deuterocanon_book/lxx_deuterocanon_diagnostics.json --no-review-data
 
 build-nt:
 	$(PYTHON) scripts/apply_nt_tr_literal_revision.py
@@ -62,6 +75,10 @@ build-combined-logos:
 
 build-print-proof:
 	$(PYTHON) scripts/build_print_proof_bible.py
+
+build-print-proof-lulu-pdf:
+	$(PYTHON) scripts/build_print_proof_bible.py --no-book-prefaces --lulu-pod-margins --output output/print/the_greek_heritage_study_bible_lulu_print_proof.docx --diagnostics output/print/the_greek_heritage_study_bible_lulu_print_proof_diagnostics.json --readme output/print/README_lulu.md
+	$(SOFFICE) -env:UserInstallation=file:///tmp/lo_lulu_print_proof_$$$$ --headless --convert-to pdf --outdir output/print output/print/the_greek_heritage_study_bible_lulu_print_proof.docx
 
 release-combined: build-combined build-combined-logos
 	$(PYTHON) scripts/build_combined_release_package.py

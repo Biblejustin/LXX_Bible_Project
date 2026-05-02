@@ -23,6 +23,7 @@ raw source archives/files
 | Path | Purpose |
 | --- | --- |
 | `data/raw/lxx_greek/ot_full.csv` | OT LXX fresh translation workspace |
+| `data/raw/lxx_deuterocanon/deuterocanon_full.csv` | Separate LXX deuterocanon/additions Greek source workspace |
 | `data/raw/tr_greek/nt_full.csv` | NT Scrivener TR fresh translation workspace with UKJV witness columns |
 | `data/research/translation_decisions.csv` | Phrase and verse decisions used by the fresh output pipeline |
 | `data/research/translation_footnotes.csv` | Public translation footnotes |
@@ -36,6 +37,7 @@ raw source archives/files
 | Script | Role |
 | --- | --- |
 | `scripts/import_ot_from_utf8_lxx.py` | Imports OT LXX source data into normalized CSV form |
+| `scripts/import_lxx_deuterocanon_from_grclxx.py` | Imports the separate eBible GRCLXX deuterocanon/additions source workspace |
 | `scripts/import_nt_from_scrivener.py` | Imports Scrivener TR NT source files |
 | `scripts/apply_witness_decisions.py` | Applies reviewed OT translation decisions |
 | `scripts/apply_nt_tr_literal_revision.py` | Applies reviewed NT TR literal-translation decisions |
@@ -75,6 +77,15 @@ come from `make build-nt`.
 current OT LXX and NT TR source CSVs. `make build-fresh` runs `make build-ot`,
 `make build-nt`, and `make build-combined` in order when all committed fresh
 translation outputs should be synchronized.
+
+`make import-deuterocanon` refreshes the separate deuterocanon/additions source
+workspace from the pinned eBible GRCLXX archive without touching
+`ot_full.csv`. `make build-deuterocanon` additionally writes isolated review
+artifacts and a progress dashboard under `output/deuterocanon/`; it passes
+`--no-review-data` so the shared OT/NT note tables are not counted as
+deuterocanon review material.
+`make build-deuterocanon-book BOOK=Tobit` writes scoped working artifacts under
+`output/working/deuterocanon_book/` for one-book translation loops.
 
 `make build-nt-book BOOK=Matthew` narrows that loop to one NT book and writes
 ignored outputs under `output/working/nt_book/` and

@@ -3,6 +3,8 @@ __pycache__/
 .DS_Store
 .env
 .env.*
+~$*
+.~lock.*#
 data/private/
 data/raw/private/
 data/research/local/

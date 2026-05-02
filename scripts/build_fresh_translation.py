@@ -388,6 +388,11 @@ def main() -> None:
     parser.add_argument("--chapter-start", type=int)
     parser.add_argument("--chapter-end", type=int)
     parser.add_argument("--skip-undrafted", action="store_true")
+    parser.add_argument(
+        "--no-review-data",
+        action="store_true",
+        help="Build only from source rows, ignoring shared notes/decisions/research tables.",
+    )
     args = parser.parse_args()
 
     source_path = Path(args.source)
@@ -411,11 +416,18 @@ def main() -> None:
     )
     if not selected_rows:
         raise ValueError("No source rows matched requested scope.")
-    logos_rows = load_csv(logos_path)
-    decisions_rows = load_csv(decisions_path)
-    footnote_rows = load_csv(footnotes_path)
-    variant_rows = load_csv(variants_path)
-    stack = load_json(stack_path)
+    if args.no_review_data:
+        logos_rows: List[Dict[str, str]] = []
+        decisions_rows: List[Dict[str, str]] = []
+        footnote_rows: List[Dict[str, str]] = []
+        variant_rows: List[Dict[str, str]] = []
+        stack: Dict[str, object] = {}
+    else:
+        logos_rows = load_csv(logos_path)
+        decisions_rows = load_csv(decisions_path)
+        footnote_rows = load_csv(footnotes_path)
+        variant_rows = load_csv(variants_path)
+        stack = load_json(stack_path)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     translation_only_output_path.parent.mkdir(parents=True, exist_ok=True)

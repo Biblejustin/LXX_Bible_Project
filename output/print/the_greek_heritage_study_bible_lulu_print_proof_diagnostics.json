@@ -30,8 +30,10 @@
   "book_prefaces": {
     "present": true,
     "path": "/Users/justinscaggs/Documents/Codex_bible/data/book_intros_template.csv",
-    "rows": 81,
-    "usable_rows": 81
+    "rows": 0,
+    "usable_rows": 0,
+    "included": false,
+    "reason": "Omitted by --no-book-prefaces for POD page-count limits."
   },
   "name_meaning_note_filter": {
     "proper_name_rows": 215,
@@ -89,7 +91,11 @@
   },
   "print_profile": {
     "layout": "compact_single_column",
-    "book_prefaces": "included",
+    "margin_profile": "lulu_pod_safe",
+    "page_size": "US Letter 8.5 x 11 in",
+    "type_profile": "lulu_tight_leading_9_5pt",
+    "margins": "mirrored; inside 1.0 in; outside 0.75 in; top/bottom 0.5 in",
+    "book_prefaces": "excluded",
     "brenton_supplemental_notes": "excluded",
     "openbible_fallback": "excluded",
     "generated_crossrefs": "excluded",
@@ -103,7 +109,7 @@
   "print_docx": {
     "output_kind": "print_proof",
     "milestone_mode": "lxx",
-    "paragraph_count": 33111,
+    "paragraph_count": 32121,
     "footnote_count": 6817,
     "crossref_footnotes": 0,
     "translation_note_footnotes": 4001,
@@ -124,7 +130,7 @@
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
-    "book_preface_pages": 66,
+    "book_preface_pages": 0,
     "mapped_milestone_refs": 0,
     "fallback_milestone_refs": 0,
     "duplicate_milestone_refs": 0,
@@ -133,7 +139,7 @@
   },
   "validations": [
     {
-      "path": "/Users/justinscaggs/Documents/Codex_bible/output/print/the_greek_heritage_study_bible_print_proof.docx",
+      "path": "output/print/the_greek_heritage_study_bible_lulu_print_proof.docx",
       "zip_ok": true,
       "xml_ok": true,
       "entries": [
@@ -154,8 +160,8 @@
     }
   ],
   "outputs": {
-    "print_docx": "/Users/justinscaggs/Documents/Codex_bible/output/print/the_greek_heritage_study_bible_print_proof.docx",
-    "diagnostics": "/Users/justinscaggs/Documents/Codex_bible/output/print/the_greek_heritage_study_bible_print_proof_diagnostics.json",
-    "readme": "/Users/justinscaggs/Documents/Codex_bible/output/print/README.md"
+    "print_docx": "output/print/the_greek_heritage_study_bible_lulu_print_proof.docx",
+    "diagnostics": "output/print/the_greek_heritage_study_bible_lulu_print_proof_diagnostics.json",
+    "readme": "output/print/README_lulu.md"
   }
 }

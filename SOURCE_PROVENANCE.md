@@ -11,6 +11,7 @@ it updated whenever raw source archives or imported CSV files change.
 | `data/raw/SF_2009-01-20_ENG_UKJV_(UPDATED KING JAMES VERSION).zip` | UKJV XML witness and NT seed text | SourceForge Zefania path `https://sourceforge.net/projects/zefania-sharp/files/Bibles/ENG/King%20James/Updated%20King%20James%20Version/`; verified 2026-04-22 | Public domain; credit line in `NOTICE.md` | `c4e998d53e595d317d60893accb0298ccef20f9a544ee8f7af85c84eca8987cf` |
 | `data/raw/TSK.zip` | Treasury of Scripture Knowledge cross-reference apparatus | CrossWire beta module page `https://www2.crosswire.org/sword/modules/ModInfo.jsp?beta=true&modName=TSK`; raw download servlet `https://www.crosswire.org/sword/servlet/SwordMod.Verify?beta=true&modName=TSK&pkgType=raw`; verified 2026-04-22 | Public-domain CrossWire module distribution, version 1.5 | `53a94765a3b5a528249990a552aa639f00bb265548b84214343fb8de9db27557` |
 | `data/raw/cross-references.zip` | OpenBible cross-reference support layer | `https://a.openbible.info/data/cross-references.zip`; page `https://www.openbible.info/labs/cross-references/`; verified 2026-04-22 | CC-BY data layer; TSK remains primary public output layer | `a4636893d50cae6191ca35a07bb65b2091a6d97990f61c169ee43d01af7b943c` |
+| `data/raw/lxx_deuterocanon/grclxx_usfm.zip` | Greek LXX deuterocanon/additions source archive for the separate workstream | `https://ebible.org/Scriptures/grclxx_usfm.zip`; details page `https://ebible.org/details.php?id=grclxx`; source last updated 2026-02-13; verified 2026-05-01 | eBible details page labels the source public domain; package includes Orthodox Media Network notice text | `ecb6be2ca5e31098f6699df538158f2ca05f557bb4e31cf6bf7ad5d8f4c7b7c8` |
 | `data/raw/1_enoch_charles_1917.txt` | R. H. Charles 1917 1 Enoch source | Local public-domain text file; upstream URL not pinned yet | Public domain in the United States | `54ef78037e6ff4fb9831a5278c8c0e0d77622e4edc5325a080808efa66605c37` |
 | `data/raw/hitchcock_bible_names.txt` | Hitchcock name meanings | CCEL public-domain text; upstream URL not pinned yet | Public domain CCEL text | `95d6eb253e4237ba198bb4ee92b4de9bccfab69fe7775eb82134444d44b2e850` |
 
@@ -31,6 +32,7 @@ it updated whenever raw source archives or imported CSV files change.
 | Path | Role | Rows |
 | --- | --- | ---: |
 | `data/raw/lxx_greek/ot_full.csv` | LXX Greek OT fresh translation workspace | 22,909 |
+| `data/raw/lxx_deuterocanon/deuterocanon_full.csv` | Separate LXX deuterocanon/additions Greek source workspace | 5,065 |
 | `data/raw/lxx_greek/genesis_full.csv` | Genesis fresh translation workspace | 1,533 |
 | `data/raw/tr_greek/nt_full.csv` | TR Greek NT fresh translation workspace with UKJV witness column | 7,957 |
 

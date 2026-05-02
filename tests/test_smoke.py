@@ -39,6 +39,7 @@ PINNED_RAW_SHA256 = {
     "data/raw/SF_2009-01-20_ENG_UKJV_(UPDATED KING JAMES VERSION).zip": "c4e998d53e595d317d60893accb0298ccef20f9a544ee8f7af85c84eca8987cf",
     "data/raw/TSK.zip": "53a94765a3b5a528249990a552aa639f00bb265548b84214343fb8de9db27557",
     "data/raw/cross-references.zip": "a4636893d50cae6191ca35a07bb65b2091a6d97990f61c169ee43d01af7b943c",
+    "data/raw/lxx_deuterocanon/grclxx_usfm.zip": "ecb6be2ca5e31098f6699df538158f2ca05f557bb4e31cf6bf7ad5d8f4c7b7c8",
     "data/raw/hitchcock_bible_names.txt": "95d6eb253e4237ba198bb4ee92b4de9bccfab69fe7775eb82134444d44b2e850",
 }
 
@@ -83,6 +84,66 @@ def test_fresh_source_csv_shapes() -> None:
     assert [row["ref"] for row in ot_rows if row["greek_text"] == "MT-only insertion; no LXX Greek row"] == [
         f"Jeremiah 40:{verse}" for verse in range(14, 27)
     ]
+
+
+def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
+    rows = csv_rows("data/raw/lxx_deuterocanon/deuterocanon_full.csv")
+    progress_rows = csv_rows("output/deuterocanon/lxx_deuterocanon_progress.csv")
+    manifest = json.loads((ROOT / "data/raw/lxx_deuterocanon/source_manifest.json").read_text(encoding="utf-8"))
+    diagnostics = json.loads(
+        (ROOT / "output/deuterocanon/lxx_deuterocanon_diagnostics.json").read_text(encoding="utf-8")
+    )
+    by_ref = {row["ref"]: row for row in rows}
+    codes = {row["book_code"] for row in rows}
+
+    assert len(rows) == 5065
+    assert SOURCE_COLUMNS <= set(rows[0])
+    assert all(not row["draft_translation"].strip() for row in rows)
+    assert rows[0]["ref"] == "Tobit 1:1"
+    assert "Source footnote:" in by_ref["Tobit 1:1"]["syntax_notes"]
+    assert "ΚΑΤΑ ΤΟΥΣ ΚΩΔΙΚΕΣ" in by_ref["Tobit 1:1"]["syntax_notes"]
+    assert "Psalms 151:1" in by_ref
+    assert by_ref["Psalms 151:1"]["chapter"] == "151"
+    assert by_ref["Psalms 151:7"]["verse"] == "7"
+    assert "Source descriptor:" in by_ref["Psalms 151:1"]["syntax_notes"]
+    assert "ἔξωθεν τοῦ ἀριθμοῦ" in by_ref["Psalms 151:1"]["syntax_notes"]
+    assert "Genesis 1:1" not in by_ref
+    assert {
+        "TOB",
+        "JDT",
+        "ESG",
+        "WIS",
+        "SIR",
+        "BAR",
+        "LJE",
+        "S3Y",
+        "SUS",
+        "BEL",
+        "1MA",
+        "1ES",
+        "3MA",
+        "4MA",
+        "PSA",
+    } <= codes
+    assert manifest["archive_sha256"] == PINNED_RAW_SHA256["data/raw/lxx_deuterocanon/grclxx_usfm.zip"]
+    assert manifest["translation_policy"].startswith("draft_translation is intentionally blank")
+    assert manifest["diagnostics"]["rows"] == len(rows)
+    assert manifest["diagnostics"]["source_note_rows"] == 2
+    assert {item["book_code"] for item in manifest["diagnostics"]["missing_targets"]} == {"MAN", "2MA"}
+    assert manifest["diagnostics"]["source_validation"]["source_id_mismatches"] == []
+    assert manifest["diagnostics"]["source_validation"]["source_title_mismatches"] == []
+    assert manifest["diagnostics"]["books"]["4MA"]["source_file"] == "53-2MAgrclxx.usfm"
+    assert manifest["diagnostics"]["books"]["4MA"]["source_usfm_id"] == "2MA"
+    assert manifest["diagnostics"]["books"]["4MA"]["expected_title"] == "ΜΑΚΚΑΒΑΙΩΝ Δ"
+    assert "ΜΑΚΚΑΒΑΙΩΝ Δ" in manifest["diagnostics"]["books"]["4MA"]["note"]
+    assert diagnostics["verse_rows"] == len(rows)
+    assert diagnostics["verses_with_draft_translation"] == 0
+    assert diagnostics["decision_rows"] == 0
+    assert diagnostics["footnote_rows"] == 0
+    assert diagnostics["preferred_resource_roles"] == []
+    assert {row["book_code"] for row in progress_rows} == codes
+    assert sum(int(row["drafted_rows"]) for row in progress_rows) == 0
+    assert next(row for row in progress_rows if row["book_code"] == "4MA")["source_validation"] == "imported"
 
 
 def test_review_feedback_high_traffic_wording_stays_fixed() -> None:
@@ -9043,28 +9104,35 @@ def test_print_proof_profile_is_compact_and_excludes_study_layers() -> None:
     stats = diagnostics["print_docx"]
     minimal_crossrefs = diagnostics["minimal_crossrefs"]
 
-    assert diagnostics["print_profile"]["layout"] == "compact_two_column"
-    assert diagnostics["print_profile"]["book_prefaces"] == "excluded"
+    assert diagnostics["print_profile"]["layout"] == "compact_single_column"
+    assert diagnostics["print_profile"]["book_prefaces"] == "included"
     assert diagnostics["print_profile"]["brenton_supplemental_notes"] == "excluded"
     assert diagnostics["print_profile"]["openbible_fallback"] == "excluded"
+    assert diagnostics["print_profile"]["generated_crossrefs"] == "excluded"
     assert diagnostics["print_profile"]["name_meanings"] == "listed_first_source_occurrence_only"
     assert diagnostics["print_profile"]["source_policy"].startswith("OT LXX Greek rows")
+    assert diagnostics["print_profile"]["translation_note_labels"] == "compact"
+    assert diagnostics["print_profile"]["name_note_labels"] == "compact"
+    assert diagnostics["print_profile"]["note_label_legend"].startswith("Print note label legend:")
     assert stats["output_kind"] == "print_proof"
-    assert stats["book_preface_pages"] == 0
+    assert stats["footnote_number_restart"] == "page"
+    assert stats["section_break_count"] == 0
+    assert stats["book_preface_pages"] > 0
     assert stats["superscription_line_count"] > 0
     assert stats["supplemental_note_footnotes"] == 0
     assert stats["brenton_supplemental_footnotes"] == 0
     assert stats["translation_note_footnotes"] > 0
     assert 0 < stats["name_meaning_footnotes"] <= 3100
-    assert 0 < stats["crossref_footnotes"] <= 13000
+    assert stats["crossref_footnotes"] == 0
     assert stats["crossref_footnotes"] == minimal_crossrefs["output_groups"]
-    assert minimal_crossrefs["source_policy"] == "TSK only; OpenBible fallback omitted."
-    assert minimal_crossrefs["max_groups_per_verse"] == 1
-    assert minimal_crossrefs["max_refs_per_note"] == 2
-    assert minimal_crossrefs["output_refs"] <= 26000
+    assert minimal_crossrefs["enabled"] is False
+    assert minimal_crossrefs["source_policy"] == "TSK/OpenBible omitted."
+    assert minimal_crossrefs["max_groups_per_verse"] == 0
+    assert minimal_crossrefs["max_refs_per_note"] == 0
+    assert minimal_crossrefs["output_refs"] == 0
 
 
-def test_print_proof_docx_uses_compact_layout_and_no_brenton_footnotes() -> None:
+def test_print_proof_docx_uses_single_column_compact_layout_and_no_brenton_footnotes() -> None:
     docx_path = (
         ROOT
         / "output"
@@ -9074,18 +9142,84 @@ def test_print_proof_docx_uses_compact_layout_and_no_brenton_footnotes() -> None
     with zipfile.ZipFile(docx_path) as zf:
         document_xml = zf.read("word/document.xml").decode("utf-8")
         footnotes_xml = zf.read("word/footnotes.xml").decode("utf-8")
+        styles_xml = zf.read("word/styles.xml").decode("utf-8")
 
-    assert '<w:cols w:space="360" w:num="2"/>' in document_xml
+    assert '<w:cols w:space="720" w:num="1"/>' in document_xml
+    assert '<w:cols w:space="360" w:num="2"/>' not in document_xml
+    assert '<w:numRestart w:val="eachPage"/>' in document_xml
+    assert '<w:type w:val="continuous"/>' not in document_xml
+    assert document_xml.count("<w:sectPr>") == 1
     assert 'w:left="540"' in document_xml
+    assert '<w:spacing w:before="0" w:after="0" w:line="220" w:lineRule="auto"/>' in styles_xml
+    assert '<w:pStyle w:val="Heading2"/>' in document_xml
     assert "Brenton note:" not in footnotes_xml
-    assert "Book preface pages are excluded to keep this copy shorter." in document_xml
+    assert "Cross-references for " not in footnotes_xml
+    assert "Translation note:" not in footnotes_xml
+    assert "Textual note:" not in footnotes_xml
+    assert "Hebrew divine name/title:" not in footnotes_xml
+    assert "Greek LXX divine name/title:" not in footnotes_xml
+    assert "Transliterated proper noun:" not in footnotes_xml
+    assert "Standard English equivalent:" not in footnotes_xml
+    assert "Source form:" not in footnotes_xml
+    assert "Greek form:" not in footnotes_xml
+    assert "Name meaning:" not in footnotes_xml
+    assert "Personal name:" not in footnotes_xml
+    assert "Place-name meaning:" not in footnotes_xml
+    assert "People-name meaning:" not in footnotes_xml
+    assert "> T:" in footnotes_xml
+    assert "Heb:" in footnotes_xml
+    assert "Gk:" in footnotes_xml
+    assert "Tr:" in footnotes_xml
+    assert "Src:" in footnotes_xml
+    assert "Nm:" in footnotes_xml
+    assert "Pn:" in footnotes_xml
+    assert "Note Label Legend" in document_xml
+    assert "T = translation note; Txt = textual note; MT/LXX = Masoretic/LXX difference." in document_xml
+    assert "Pn = personal name" in document_xml
+    assert "Includes book preface pages before each book" in document_xml
+    assert "Genesis Preface" in document_xml
     assert "Name-meaning notes are included only at their listed first/source occurrence" in document_xml
-    assert "Minimal cross-reference layer" in document_xml
+    assert "Generated TSK/OpenBible cross-reference footnotes are excluded" in document_xml
     assert "Source Basis" in document_xml
     assert "OT source basis" in document_xml
     assert "Reference Numbering Guide" in document_xml
     assert "English Psalm 23:1: see Psalms 22:1 here." in document_xml
     assert "<w:br/>" in document_xml
+
+
+def test_lulu_print_proof_pdf_profile_omits_prefaces() -> None:
+    output_dir = ROOT / "output" / "print"
+    docx_path = output_dir / "the_greek_heritage_study_bible_lulu_print_proof.docx"
+    diagnostics = json.loads(
+        (output_dir / "the_greek_heritage_study_bible_lulu_print_proof_diagnostics.json").read_text(
+            encoding="utf-8"
+        )
+    )
+    pdf_path = output_dir / "the_greek_heritage_study_bible_lulu_print_proof.pdf"
+    readme = (output_dir / "README_lulu.md").read_text(encoding="utf-8")
+    with zipfile.ZipFile(docx_path) as zf:
+        document_xml = zf.read("word/document.xml").decode("utf-8")
+        settings_xml = zf.read("word/settings.xml").decode("utf-8")
+        styles_xml = zf.read("word/styles.xml").decode("utf-8")
+
+    assert pdf_path.exists()
+    assert diagnostics["print_profile"]["book_prefaces"] == "excluded"
+    assert diagnostics["print_profile"]["margin_profile"] == "lulu_pod_safe"
+    assert diagnostics["print_profile"]["type_profile"] == "lulu_tight_leading_9_5pt"
+    assert "inside 1.0 in" in diagnostics["print_profile"]["margins"]
+    assert diagnostics["book_prefaces"]["included"] is False
+    assert diagnostics["print_docx"]["book_preface_pages"] == 0
+    assert diagnostics["print_profile"]["layout"] == "compact_single_column"
+    assert diagnostics["print_profile"]["name_note_labels"] == "compact"
+    assert diagnostics["print_docx"]["crossref_footnotes"] == 0
+    assert 'w:left="1440"' in document_xml
+    assert 'w:right="1080"' in document_xml
+    assert 'w:top="720"' in document_xml
+    assert 'w:bottom="720"' in document_xml
+    assert "<w:mirrorMargins/>" in settings_xml
+    assert '<w:spacing w:before="0" w:after="0" w:line="205" w:lineRule="auto"/>' in styles_xml
+    assert "Lulu-safe mirrored POD margins" in readme
+    assert "Book preface pages excluded for POD page-count limits." in readme
 
 
 def test_logos_readmes_use_testament_specific_language() -> None:

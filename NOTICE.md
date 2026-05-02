@@ -11,6 +11,9 @@ This repository contains mixed public-domain and separately-noticed material.
 - Scrivener 1894 Textus Receptus Greek NT text-only files from
   `byztxt/greektext-scrivener`: upstream README states `Public Domain. Copy
   freely.`
+- eBible GRCLXX Septuaginta Greek LXX USFM archive: eBible details page marks
+  the source text public domain; package includes Orthodox Media Network notice
+  text.
 - Treasury of Scripture Knowledge (TSK): treated here as public-domain source
   apparatus via CrossWire module distribution.
 - R. H. Charles, *The Book of Enoch* (1917): public domain in the United
