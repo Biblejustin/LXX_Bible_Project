@@ -79,13 +79,19 @@ current OT LXX and NT TR source CSVs. `make build-fresh` runs `make build-ot`,
 translation outputs should be synchronized.
 
 `make import-deuterocanon` refreshes the separate deuterocanon/additions source
-workspace from the pinned eBible GRCLXX archive without touching
-`ot_full.csv`. `make build-deuterocanon` additionally writes isolated review
-artifacts and a progress dashboard under `output/deuterocanon/`; it passes
+workspace from the pinned eBible GRCLXX archive plus the pinned public-domain
+eBible Brenton Greek supplement for Prayer of Manasseh and true 2 Maccabees.
+The primary GRCLXX import also includes Greek Ezra B / 2 Esdras as a broad-EO
+appendix stream without touching `ot_full.csv`. `make build-deuterocanon` additionally writes
+isolated review artifacts and a progress dashboard under `output/deuterocanon/`;
+it passes
 `--no-review-data` so the shared OT/NT note tables are not counted as
 deuterocanon review material.
 `make build-deuterocanon-book BOOK=Tobit` writes scoped working artifacts under
-`output/working/deuterocanon_book/` for one-book translation loops.
+`output/working/deuterocanon_book/` for one-book review or polish loops.
+`make validate-deuterocanon` rebuilds that separate workspace, runs script
+compilation, CSV shape checks, `git diff --check`, and the focused
+deuterocanon smoke test.
 
 `make build-nt-book BOOK=Matthew` narrows that loop to one NT book and writes
 ignored outputs under `output/working/nt_book/` and

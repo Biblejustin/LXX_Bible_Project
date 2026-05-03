@@ -1,4 +1,4 @@
-.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review import-deuterocanon build-deuterocanon build-deuterocanon-book build-nt build-nt-fast build-nt-book review-nt-fast build-combined build-combined-logos build-print-proof build-print-proof-lulu-pdf release-combined clean-working
+.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review import-deuterocanon build-deuterocanon validate-deuterocanon build-deuterocanon-book build-nt build-nt-fast build-nt-book review-nt-fast build-combined build-combined-logos build-print-proof build-print-proof-lulu-pdf release-combined clean-working
 
 PYTHON ?= python
 SOFFICE ?= /Applications/LibreOffice.app/Contents/MacOS/soffice
@@ -37,6 +37,12 @@ import-deuterocanon:
 build-deuterocanon: import-deuterocanon
 	$(PYTHON) scripts/build_fresh_translation.py --source data/raw/lxx_deuterocanon/deuterocanon_full.csv --output output/deuterocanon/lxx_deuterocanon_worksheet.md --translation-only-output output/deuterocanon/lxx_deuterocanon_translation_only.md --diagnostics output/deuterocanon/lxx_deuterocanon_diagnostics.json --no-review-data
 	$(PYTHON) scripts/build_deuterocanon_progress.py
+
+validate-deuterocanon: build-deuterocanon
+	$(PYTHON) -m compileall -q scripts
+	$(PYTHON) scripts/check_csv_shapes.py
+	git diff --check
+	$(PYTHON) -m pytest -q tests/test_smoke.py::test_deuterocanon_source_workspace_is_separate_and_sourced
 
 build-deuterocanon-book: import-deuterocanon
 	@test -n "$(BOOK)" || (echo 'Usage: make build-deuterocanon-book BOOK=Tobit'; exit 1)

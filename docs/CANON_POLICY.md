@@ -22,17 +22,29 @@ notes or source checks, but they are not the translation base.
 The NT translation is made from the Scrivener 1894 Textus Receptus Greek stream
 imported from byztxt/greektext-scrivener text-only files.
 
-The separate deuterocanon/additions workspace imports Greek rows from the eBible
-GRCLXX Septuaginta USFM archive pinned at
-`data/raw/lxx_deuterocanon/grclxx_usfm.zip`. Its `draft_translation` column is
-intentionally blank until each book is translated from the Greek source rows;
-USFM source descriptors and footnotes are preserved as `syntax_notes`.
+The separate deuterocanon/additions workspace imports Greek rows primarily from
+the eBible GRCLXX Septuaginta USFM archive pinned at
+`data/raw/lxx_deuterocanon/grclxx_usfm.zip`. It also uses the public-domain
+eBible Brenton Greek Septuagint archive pinned at
+`data/raw/lxx_deuterocanon/grcbrent_usfm.zip` for Prayer of Manasseh and true
+2 Maccabees, because those rows are absent from the GRCLXX package. Its
+`draft_translation` column starts blank on first import, then importer reruns
+preserve existing draft rows when the reference and Greek source text still
+match. USFM source descriptors and footnotes are preserved as `syntax_notes`.
 That workspace currently includes Tobit, Judith, Greek Esther, Wisdom, Sirach,
 Baruch, Letter of Jeremiah, Song of the Three Young Men, Susanna, Bel and the
-Dragon, 1 Maccabees, 1 Esdras, 3-4 Maccabees, and Psalm 151. Prayer of
-Manasseh and 2 Maccabees still need a lawful Greek source if they remain in
-scope. The pinned GRCLXX package contains a file named 2MA, but its title and
-content identify it as 4 Maccabees, so this workspace labels it by content.
+Dragon, 1-4 Maccabees, 1 Esdras, Greek Ezra B / 2 Esdras, Prayer of Manasseh,
+Psalm 151, and a separate Greek Esther Additions view derived from the suffixed
+GRCLXX Greek Esther rows.
+The pinned GRCLXX package contains a file named 2MA, but its title and content
+identify it as 4 Maccabees, so this workspace labels it by content and imports
+true 2 Maccabees from the Brenton Greek supplement.
+Checked source candidates and final source choice are recorded in
+`docs/DEUTEROCANON_MISSING_SOURCES.md`.
+Resolved and remaining review decisions are tracked in
+`docs/DEUTEROCANON_PENDING_DECISIONS.md`.
+Use `make validate-deuterocanon` for focused rebuild and smoke validation of
+this separate workstream.
 
 Daniel follows the Greek Daniel rows currently present in this branch's LXX
 source workspace. It should not be silently replaced with Theodotion- or

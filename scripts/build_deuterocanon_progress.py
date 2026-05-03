@@ -111,7 +111,7 @@ def write_progress_csv(path: Path, rows: list[dict[str, str]]) -> None:
         "note",
     ]
     with path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fieldnames)
+        writer = csv.DictWriter(handle, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
 
@@ -124,6 +124,9 @@ def write_progress_markdown(path: Path, rows: list[dict[str, str]], manifest: di
     if isinstance(diagnostics, dict) and isinstance(diagnostics.get("missing_targets"), list):
         missing_targets = diagnostics["missing_targets"]
     source_validation = diagnostics.get("source_validation", {}) if isinstance(diagnostics, dict) else {}
+    missing_source_doc = str(manifest.get("missing_source_candidates_doc", "docs/DEUTEROCANON_MISSING_SOURCES.md"))
+    pending_decisions_doc = str(manifest.get("pending_decisions_doc", "docs/DEUTEROCANON_PENDING_DECISIONS.md"))
+    validation_command = str(manifest.get("validation_command", "make validate-deuterocanon"))
 
     lines = [
         "# LXX Deuterocanon Progress",
@@ -163,13 +166,20 @@ def write_progress_markdown(path: Path, rows: list[dict[str, str]], manifest: di
         if not isinstance(item, dict):
             continue
         lines.append(f"| {item.get('book_code', '')} | {item.get('book_name', '')} | {item.get('reason', '')} |")
+    lines.extend(
+        [
+            "",
+            f"Checked source candidates: `{missing_source_doc}`",
+            f"Pending decisions: `{pending_decisions_doc}`",
+        ]
+    )
 
     lines.extend(
         [
             "",
-            "## Translation Loop",
+            "## Review Loop",
             "",
-            "Use ignored one-book working output while translating:",
+            "Use ignored one-book working output while reviewing or polishing:",
             "",
             "```bash",
             "make build-deuterocanon-book BOOK=Tobit",
@@ -178,7 +188,7 @@ def write_progress_markdown(path: Path, rows: list[dict[str, str]], manifest: di
             "Use full output before handoff or commit:",
             "",
             "```bash",
-            "make build-deuterocanon",
+            validation_command,
             "```",
         ]
     )

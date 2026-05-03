@@ -133,16 +133,24 @@ For the separate LXX deuterocanon/additions workspace, run:
 ```bash
 make import-deuterocanon
 make build-deuterocanon
+make validate-deuterocanon
 make build-deuterocanon-book BOOK=Tobit
 ```
 
-That imports the pinned eBible GRCLXX USFM archive into
+That imports the pinned eBible GRCLXX USFM archive, plus the public-domain
+eBible Brenton Greek supplement for Prayer of Manasseh and true 2 Maccabees, into
 `data/raw/lxx_deuterocanon/deuterocanon_full.csv` and writes separate review
-artifacts and a progress dashboard under `output/deuterocanon/`. Draft
-translations stay blank until the books are translated from Greek one at a time.
+artifacts and a progress dashboard under `output/deuterocanon/`. The existing
+GRCLXX rows, Greek Ezra B / 2 Esdras, Prayer of Manasseh, Greek Esther
+Additions, and true 2 Maccabees are drafted; review and polish remain separate
+from the source import.
+Importer reruns preserve existing draft translations when the reference and
+Greek source text still match.
 The deuterocanon worksheet uses `--no-review-data` so pre-existing OT/NT note
 tables do not appear as if they belong to this separate workspace. Use
-`build-deuterocanon-book` for ignored one-book working outputs while translating.
+`build-deuterocanon-book` for ignored one-book working outputs while reviewing
+or polishing a single book. Use `validate-deuterocanon` before handoff when
+only this workstream needs a focused rebuild and smoke check.
 
 If `make` is unavailable, run the commands listed in `Makefile` directly.
 

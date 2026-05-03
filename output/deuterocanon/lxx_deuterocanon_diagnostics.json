@@ -1,73 +1,89 @@
 {
-  "verse_rows": 5065,
-  "verses_with_greek_text": 5065,
-  "verses_with_draft_translation": 0,
-  "selected_scope": "Tobit-Psalms (15 books)",
-  "selected_verse_rows": 5065,
-  "selected_drafted_rows": 0,
-  "output_verse_rows": 5065,
-  "output_drafted_rows": 0,
-  "book_count": 15,
+  "verse_rows": 5970,
+  "verses_with_greek_text": 5970,
+  "verses_with_draft_translation": 5970,
+  "selected_scope": "Tobit-Psalms (19 books)",
+  "selected_verse_rows": 5970,
+  "selected_drafted_rows": 5970,
+  "output_verse_rows": 5970,
+  "output_drafted_rows": 5970,
+  "book_count": 19,
   "book_rows": {
     "Tobit": {
       "verse_rows": 245,
-      "drafted_rows": 0
+      "drafted_rows": 245
     },
     "Judith": {
       "verse_rows": 339,
-      "drafted_rows": 0
+      "drafted_rows": 339
     },
     "Greek Esther": {
       "verse_rows": 219,
-      "drafted_rows": 0
+      "drafted_rows": 219
+    },
+    "Greek Esther Additions": {
+      "verse_rows": 55,
+      "drafted_rows": 55
     },
     "Wisdom": {
       "verse_rows": 437,
-      "drafted_rows": 0
+      "drafted_rows": 437
     },
     "Sirach": {
       "verse_rows": 1378,
-      "drafted_rows": 0
+      "drafted_rows": 1378
     },
     "Baruch": {
       "verse_rows": 141,
-      "drafted_rows": 0
+      "drafted_rows": 141
     },
     "Letter of Jeremiah": {
       "verse_rows": 72,
-      "drafted_rows": 0
+      "drafted_rows": 72
     },
     "Song of the Three Young Men": {
       "verse_rows": 66,
-      "drafted_rows": 0
+      "drafted_rows": 66
     },
     "Susanna": {
       "verse_rows": 64,
-      "drafted_rows": 0
+      "drafted_rows": 64
     },
     "Bel and the Dragon": {
       "verse_rows": 42,
-      "drafted_rows": 0
+      "drafted_rows": 42
     },
     "1 Maccabees": {
       "verse_rows": 917,
-      "drafted_rows": 0
+      "drafted_rows": 917
+    },
+    "2 Maccabees": {
+      "verse_rows": 555,
+      "drafted_rows": 555
     },
     "1 Esdras": {
       "verse_rows": 430,
-      "drafted_rows": 0
+      "drafted_rows": 430
+    },
+    "2 Esdras": {
+      "verse_rows": 280,
+      "drafted_rows": 280
+    },
+    "Prayer of Manasseh": {
+      "verse_rows": 15,
+      "drafted_rows": 15
     },
     "3 Maccabees": {
       "verse_rows": 227,
-      "drafted_rows": 0
+      "drafted_rows": 227
     },
     "4 Maccabees": {
       "verse_rows": 481,
-      "drafted_rows": 0
+      "drafted_rows": 481
     },
     "Psalms": {
       "verse_rows": 7,
-      "drafted_rows": 0
+      "drafted_rows": 7
     }
   },
   "logos_note_rows": 0,

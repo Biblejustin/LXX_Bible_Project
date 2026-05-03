@@ -7,8 +7,40 @@
   "source_verified_date": "2026-05-01",
   "archive": "data/raw/lxx_deuterocanon/grclxx_usfm.zip",
   "archive_sha256": "ecb6be2ca5e31098f6699df538158f2ca05f557bb4e31cf6bf7ad5d8f4c7b7c8",
+  "supplemental_source_title": "eBible GRCBRE Brenton Septuagint USFM",
+  "supplemental_source_url": "https://ebible.org/Scriptures/grcbrent_usfm.zip",
+  "supplemental_details_url": "https://ebible.org/details.php?id=grcbrent",
+  "supplemental_source_status": "eBible details page labels the Brenton Greek Septuagint source public domain.",
+  "supplemental_source_last_updated": "2026-04-08",
+  "supplemental_source_verified_date": "2026-05-03",
+  "supplemental_archive": "data/raw/lxx_deuterocanon/grcbrent_usfm.zip",
+  "supplemental_archive_sha256": "8fa575a5d1565ae2ceb0d7cabac251ff460242eab823f4ebd40d8eefdeaf6881",
+  "source_archives": [
+    {
+      "key": "grclxx",
+      "source_title": "eBible GRCLXX Septuaginta USFM",
+      "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+      "details_url": "https://ebible.org/details.php?id=grclxx",
+      "source_status": "eBible details page labels the source public domain; package includes Orthodox Media Network notice text.",
+      "source_last_updated": "2026-02-13",
+      "source_verified_date": "2026-05-01",
+      "archive": "data/raw/lxx_deuterocanon/grclxx_usfm.zip",
+      "archive_sha256": "ecb6be2ca5e31098f6699df538158f2ca05f557bb4e31cf6bf7ad5d8f4c7b7c8"
+    },
+    {
+      "key": "grcbrent",
+      "source_title": "eBible GRCBRE Brenton Septuagint USFM",
+      "source_url": "https://ebible.org/Scriptures/grcbrent_usfm.zip",
+      "details_url": "https://ebible.org/details.php?id=grcbrent",
+      "source_status": "eBible details page labels the Brenton Greek Septuagint source public domain.",
+      "source_last_updated": "2026-04-08",
+      "source_verified_date": "2026-05-03",
+      "archive": "data/raw/lxx_deuterocanon/grcbrent_usfm.zip",
+      "archive_sha256": "8fa575a5d1565ae2ceb0d7cabac251ff460242eab823f4ebd40d8eefdeaf6881"
+    }
+  ],
   "imported_csv": "data/raw/lxx_deuterocanon/deuterocanon_full.csv",
-  "imported_csv_sha256": "bab25274ba02c00d09c8b440fdafc7412e2f57ba4ab758b23a47de8cc66666ac",
+  "imported_csv_sha256": "e5d8f42a5222bd9d3fe7d3e82815d0740e566bc9b4a93f3cf365f1cd14cd9cd0",
   "csv_columns": [
     "ref",
     "book_code",
@@ -21,13 +53,16 @@
     "syntax_notes",
     "draft_translation"
   ],
-  "translation_policy": "draft_translation is intentionally blank; this workspace starts from Greek source rows, not from Brenton or another English base.",
+  "missing_source_candidates_doc": "docs/DEUTEROCANON_MISSING_SOURCES.md",
+  "pending_decisions_doc": "docs/DEUTEROCANON_PENDING_DECISIONS.md",
+  "validation_command": "make validate-deuterocanon",
+  "translation_policy": "Importer-created rows start with blank draft_translation; reruns preserve existing draft translations when the reference and Greek source text still match. The GRCLXX package is the primary source; the public-domain eBible Brenton Greek package supplies Prayer of Manasseh and true 2 Maccabees rows absent from GRCLXX. Greek Ezra B / 2 Esdras is a canonical-overlap appendix stream and reuses the current Ezra draft text for its first draft while preserving its separate Greek source rows for review. This workspace starts from Greek source rows, not from an English base.",
   "diagnostics": {
-    "rows": 5065,
-    "book_count": 15,
-    "source_note_rows": 2,
+    "rows": 5970,
+    "book_count": 19,
+    "source_note_rows": 4,
     "source_validation": {
-      "checked_books": 15,
+      "checked_books": 19,
       "source_id_mismatches": [],
       "source_title_mismatches": [],
       "needs_source_review": []
@@ -35,6 +70,10 @@
     "books": {
       "TOB": {
         "book_name": "Tobit",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "41-TOBgrclxx.usfm",
         "source_scope": "all",
         "chapter_filter": null,
@@ -53,6 +92,10 @@
       },
       "JDT": {
         "book_name": "Judith",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "42-JDTgrclxx.usfm",
         "source_scope": "all",
         "chapter_filter": null,
@@ -71,6 +114,10 @@
       },
       "ESG": {
         "book_name": "Greek Esther",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "43-ESGgrclxx.usfm",
         "source_scope": "all",
         "chapter_filter": null,
@@ -84,11 +131,37 @@
         "source_title_match": true,
         "rows": 219,
         "source_note_rows": 0,
-        "note": "Imported as full Greek Esther for now; additions-only slicing remains a later editorial step.",
+        "note": "Imported as full Greek Esther; `ESGA` separately provides an additions-only view from the suffixed rows.",
+        "status": "imported"
+      },
+      "ESGA": {
+        "book_name": "Greek Esther Additions",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
+        "source_file": "43-ESGgrclxx.usfm",
+        "source_scope": "verse_suffix",
+        "chapter_filter": null,
+        "source_usfm_id": "ESG",
+        "expected_usfm_id": "ESG",
+        "source_titles": [
+          "ΕΣΘΗΡ"
+        ],
+        "expected_title": "ΕΣΘΗΡ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 55,
+        "source_note_rows": 0,
+        "note": "Additions-only view derived from the suffixed rows in the full GRCLXX Greek Esther source; full Greek Esther remains imported as ESG.",
         "status": "imported"
       },
       "WIS": {
         "book_name": "Wisdom",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "45-WISgrclxx.usfm",
         "source_scope": "all",
         "chapter_filter": null,
@@ -108,6 +181,10 @@
       },
       "SIR": {
         "book_name": "Sirach",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "46-SIRgrclxx.usfm",
         "source_scope": "all",
         "chapter_filter": null,
@@ -121,12 +198,16 @@
         "source_id_match": true,
         "source_title_match": true,
         "rows": 1378,
-        "source_note_rows": 0,
+        "source_note_rows": 1,
         "note": "",
         "status": "imported"
       },
       "BAR": {
         "book_name": "Baruch",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "47-BARgrclxx.usfm",
         "source_scope": "all",
         "chapter_filter": null,
@@ -145,6 +226,10 @@
       },
       "LJE": {
         "book_name": "Letter of Jeremiah",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "48-LJEgrclxx.usfm",
         "source_scope": "all",
         "chapter_filter": null,
@@ -163,6 +248,10 @@
       },
       "S3Y": {
         "book_name": "Song of the Three Young Men",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "49-S3Ygrclxx.usfm",
         "source_scope": "all",
         "chapter_filter": null,
@@ -182,6 +271,10 @@
       },
       "SUS": {
         "book_name": "Susanna",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "50-SUSgrclxx.usfm",
         "source_scope": "all",
         "chapter_filter": null,
@@ -200,6 +293,10 @@
       },
       "BEL": {
         "book_name": "Bel and the Dragon",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "51-BELgrclxx.usfm",
         "source_scope": "all",
         "chapter_filter": null,
@@ -219,6 +316,10 @@
       },
       "1MA": {
         "book_name": "1 Maccabees",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "52-1MAgrclxx.usfm",
         "source_scope": "all",
         "chapter_filter": null,
@@ -235,8 +336,34 @@
         "note": "",
         "status": "imported"
       },
+      "2MA": {
+        "book_name": "2 Maccabees",
+        "source_key": "grcbrent",
+        "source_title": "eBible GRCBRE Brenton Septuagint USFM",
+        "source_url": "https://ebible.org/Scriptures/grcbrent_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grcbrent",
+        "source_file": "53-2MAgrcbrent.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "2MA",
+        "expected_usfm_id": "2MA",
+        "source_titles": [
+          "ΜΑΚΚΑΒΑΙΩΝ Βʹ"
+        ],
+        "expected_title": "ΜΑΚΚΑΒΑΙΩΝ Βʹ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 555,
+        "source_note_rows": 0,
+        "note": "Imported from the public-domain eBible Brenton Greek Septuagint package because the pinned GRCLXX package's 2MA file contains 4 Maccabees.",
+        "status": "imported"
+      },
       "1ES": {
         "book_name": "1 Esdras",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "54-1ESgrclxx.usfm",
         "source_scope": "all",
         "chapter_filter": null,
@@ -253,8 +380,57 @@
         "note": "",
         "status": "imported"
       },
+      "2ES": {
+        "book_name": "2 Esdras",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
+        "source_file": "58-2ESgrclxx.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "2ES",
+        "expected_usfm_id": "2ES",
+        "source_titles": [
+          "ΕΣΔΡΑΣ Β"
+        ],
+        "expected_title": "ΕΣΔΡΑΣ Β",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 280,
+        "source_note_rows": 0,
+        "note": "Greek Ezra B / 2 Esdras from the primary GRCLXX package; this overlaps canonical Ezra and is included for broad EO appendix coverage.",
+        "status": "imported"
+      },
+      "MAN": {
+        "book_name": "Prayer of Manasseh",
+        "source_key": "grcbrent",
+        "source_title": "eBible GRCBRE Brenton Septuagint USFM",
+        "source_url": "https://ebible.org/Scriptures/grcbrent_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grcbrent",
+        "source_file": "55-MANgrcbrent.usfm",
+        "source_scope": "all",
+        "chapter_filter": null,
+        "source_usfm_id": "MAN",
+        "expected_usfm_id": "MAN",
+        "source_titles": [
+          "ΠΡΟΣΕΥΧΗ",
+          "ΠΡΟΣΕΥΧΗ ΜΑΝΑΣΣΗ ΥΙΟΥ ΕΖΕΚΙΟΥ"
+        ],
+        "expected_title": "ΠΡΟΣΕΥΧΗ ΜΑΝΑΣΣΗ ΥΙΟΥ ΕΖΕΚΙΟΥ",
+        "source_id_match": true,
+        "source_title_match": true,
+        "rows": 15,
+        "source_note_rows": 0,
+        "note": "Imported from the public-domain eBible Brenton Greek Septuagint package because Prayer of Manasseh is absent from the pinned GRCLXX package.",
+        "status": "imported"
+      },
       "3MA": {
         "book_name": "3 Maccabees",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "57-3MAgrclxx.usfm",
         "source_scope": "all",
         "chapter_filter": null,
@@ -273,6 +449,10 @@
       },
       "4MA": {
         "book_name": "4 Maccabees",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "53-2MAgrclxx.usfm",
         "source_scope": "all",
         "chapter_filter": null,
@@ -286,12 +466,16 @@
         "source_id_match": true,
         "source_title_match": true,
         "rows": 481,
-        "source_note_rows": 0,
+        "source_note_rows": 1,
         "note": "The source package filename/id says 2MA, but the book title is ΜΑΚΚΑΒΑΙΩΝ Δ / 4 Maccabees.",
         "status": "imported"
       },
       "PSA": {
         "book_name": "Psalms",
+        "source_key": "grclxx",
+        "source_title": "eBible GRCLXX Septuaginta USFM",
+        "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "20-PSAgrclxx.usfm",
         "source_scope": "chapter",
         "chapter_filter": "151",
@@ -309,29 +493,20 @@
         "status": "imported"
       }
     },
-    "missing_targets": [
-      {
-        "book_code": "MAN",
-        "book_name": "Prayer of Manasseh",
-        "reason": "Not present in the pinned GRCLXX USFM package."
-      },
-      {
-        "book_code": "2MA",
-        "book_name": "2 Maccabees",
-        "reason": "Not present as 2 Maccabees in the pinned GRCLXX USFM package; the package file named 2MA contains 4 Maccabees by title and content."
-      }
-    ],
+    "missing_targets": [],
     "excluded_package_files": [
-      {
-        "book_code": "2ES",
-        "book_name": "2 Esdras / Greek Ezra B",
-        "reason": "In this package this is the Greek Ezra-Nehemiah stream, not the separate deuterocanon work target."
-      },
       {
         "book_code": "DAG",
         "book_name": "Greek Daniel",
         "reason": "Canonical Daniel is handled by the main OT source; Daniel additions are imported from S3Y, SUS, and BEL."
       }
-    ]
+    ],
+    "draft_preservation": {
+      "candidate_rows": 5970,
+      "preserved_rows": 5970,
+      "preserved_esther_additions_rows": 55,
+      "preserved_canonical_overlap_rows": 280,
+      "existing_draft_rows": 28879
+    }
   }
 }

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Import a separate LXX deuterocanon workspace from eBible GRCLXX USFM."""
+"""Import a separate LXX deuterocanon workspace from eBible Greek USFM."""
 
 from __future__ import annotations
 
@@ -9,6 +9,7 @@ import hashlib
 import json
 import re
 import zipfile
+from collections import Counter
 from dataclasses import dataclass
 from io import BytesIO
 from pathlib import Path
@@ -20,6 +21,9 @@ RAW = ROOT / "data" / "raw"
 DEUTEROCANON_RAW = RAW / "lxx_deuterocanon"
 OUTPUT_DIR = ROOT / "output" / "deuterocanon"
 
+PRIMARY_SOURCE_KEY = "grclxx"
+SUPPLEMENTAL_SOURCE_KEY = "grcbrent"
+
 SOURCE_URL = "https://ebible.org/Scriptures/grclxx_usfm.zip"
 DETAILS_URL = "https://ebible.org/details.php?id=grclxx"
 SOURCE_TITLE = "eBible GRCLXX Septuaginta USFM"
@@ -27,10 +31,22 @@ SOURCE_STATUS = "eBible details page labels the source public domain; package in
 SOURCE_LAST_UPDATED = "2026-02-13"
 SOURCE_VERIFIED_DATE = "2026-05-01"
 
+SUPPLEMENTAL_SOURCE_URL = "https://ebible.org/Scriptures/grcbrent_usfm.zip"
+SUPPLEMENTAL_DETAILS_URL = "https://ebible.org/details.php?id=grcbrent"
+SUPPLEMENTAL_SOURCE_TITLE = "eBible GRCBRE Brenton Septuagint USFM"
+SUPPLEMENTAL_SOURCE_STATUS = "eBible details page labels the Brenton Greek Septuagint source public domain."
+SUPPLEMENTAL_SOURCE_LAST_UPDATED = "2026-04-08"
+SUPPLEMENTAL_SOURCE_VERIFIED_DATE = "2026-05-03"
+
 DEFAULT_ARCHIVE = DEUTEROCANON_RAW / "grclxx_usfm.zip"
+DEFAULT_SUPPLEMENTAL_ARCHIVE = DEUTEROCANON_RAW / "grcbrent_usfm.zip"
 DEFAULT_OUTPUT = DEUTEROCANON_RAW / "deuterocanon_full.csv"
 DEFAULT_MANIFEST = DEUTEROCANON_RAW / "source_manifest.json"
 DEFAULT_INVENTORY = OUTPUT_DIR / "lxx_deuterocanon_source_inventory.md"
+
+CANONICAL_OVERLAP_DRAFT_ALIASES = {
+    "2ES": "Ezra",
+}
 
 CSV_COLUMNS = [
     "ref",
@@ -53,6 +69,7 @@ class SourceBook:
     book_name: str
     expected_usfm_id: str
     expected_title: str
+    source_key: str = PRIMARY_SOURCE_KEY
     source_scope: str = "all"
     chapter_filter: str | None = None
     note: str = ""
@@ -67,7 +84,16 @@ SOURCE_BOOKS = [
         "Greek Esther",
         "ESG",
         "ΕΣΘΗΡ",
-        note="Imported as full Greek Esther for now; additions-only slicing remains a later editorial step.",
+        note="Imported as full Greek Esther; `ESGA` separately provides an additions-only view from the suffixed rows.",
+    ),
+    SourceBook(
+        "43-ESGgrclxx.usfm",
+        "ESGA",
+        "Greek Esther Additions",
+        "ESG",
+        "ΕΣΘΗΡ",
+        source_scope="verse_suffix",
+        note="Additions-only view derived from the suffixed rows in the full GRCLXX Greek Esther source; full Greek Esther remains imported as ESG.",
     ),
     SourceBook("45-WISgrclxx.usfm", "WIS", "Wisdom", "WIS", "ΣΟΦΙΑ ΣΟΛΟΜΩΝΤΟΣ"),
     SourceBook("46-SIRgrclxx.usfm", "SIR", "Sirach", "SIR", "ΣΟΦΙΑ ΣΕΙΡΑΧ"),
@@ -77,7 +103,33 @@ SOURCE_BOOKS = [
     SourceBook("50-SUSgrclxx.usfm", "SUS", "Susanna", "SUS", "ΣΩΣΑΝΝΑ"),
     SourceBook("51-BELgrclxx.usfm", "BEL", "Bel and the Dragon", "BEL", "ΒΗΛ ΚΑΙ ΔΡΑΚΩΝ"),
     SourceBook("52-1MAgrclxx.usfm", "1MA", "1 Maccabees", "1MA", "ΜΑΚΚΑΒΑΙΩΝ Α"),
+    SourceBook(
+        "53-2MAgrcbrent.usfm",
+        "2MA",
+        "2 Maccabees",
+        "2MA",
+        "ΜΑΚΚΑΒΑΙΩΝ Βʹ",
+        source_key=SUPPLEMENTAL_SOURCE_KEY,
+        note="Imported from the public-domain eBible Brenton Greek Septuagint package because the pinned GRCLXX package's 2MA file contains 4 Maccabees.",
+    ),
     SourceBook("54-1ESgrclxx.usfm", "1ES", "1 Esdras", "1ES", "ΕΣΔΡΑΣ Α"),
+    SourceBook(
+        "58-2ESgrclxx.usfm",
+        "2ES",
+        "2 Esdras",
+        "2ES",
+        "ΕΣΔΡΑΣ Β",
+        note="Greek Ezra B / 2 Esdras from the primary GRCLXX package; this overlaps canonical Ezra and is included for broad EO appendix coverage.",
+    ),
+    SourceBook(
+        "55-MANgrcbrent.usfm",
+        "MAN",
+        "Prayer of Manasseh",
+        "MAN",
+        "ΠΡΟΣΕΥΧΗ ΜΑΝΑΣΣΗ ΥΙΟΥ ΕΖΕΚΙΟΥ",
+        source_key=SUPPLEMENTAL_SOURCE_KEY,
+        note="Imported from the public-domain eBible Brenton Greek Septuagint package because Prayer of Manasseh is absent from the pinned GRCLXX package.",
+    ),
     SourceBook("57-3MAgrclxx.usfm", "3MA", "3 Maccabees", "3MA", "ΜΑΚΚΑΒΑΙΩΝ Γ"),
     SourceBook(
         "53-2MAgrclxx.usfm",
@@ -99,25 +151,9 @@ SOURCE_BOOKS = [
     ),
 ]
 
-MISSING_TARGETS = [
-    {
-        "book_code": "MAN",
-        "book_name": "Prayer of Manasseh",
-        "reason": "Not present in the pinned GRCLXX USFM package.",
-    },
-    {
-        "book_code": "2MA",
-        "book_name": "2 Maccabees",
-        "reason": "Not present as 2 Maccabees in the pinned GRCLXX USFM package; the package file named 2MA contains 4 Maccabees by title and content.",
-    },
-]
+MISSING_TARGETS: list[dict[str, str]] = []
 
 EXCLUDED_PACKAGE_FILES = [
-    {
-        "book_code": "2ES",
-        "book_name": "2 Esdras / Greek Ezra B",
-        "reason": "In this package this is the Greek Ezra-Nehemiah stream, not the separate deuterocanon work target.",
-    },
     {
         "book_code": "DAG",
         "book_name": "Greek Daniel",
@@ -131,14 +167,34 @@ FOOTNOTE_RE = re.compile(r"\\f\s+.*?\\f\*", flags=re.S)
 CROSSREF_RE = re.compile(r"\\x\s+.*?\\x\*", flags=re.S)
 USFM_MARKER_RE = re.compile(r"\\[a-zA-Z0-9]+\\*?")
 USFM_METADATA_RE = re.compile(r"^\\(id|h|toc1|toc2|toc3|mt1)\s+(.+?)\s*$")
+VERSE_SUFFIX_RE = re.compile(r"[A-Za-zΑ-Ωα-ω]$")
+
+SOURCE_METADATA = {
+    PRIMARY_SOURCE_KEY: {
+        "source_title": SOURCE_TITLE,
+        "source_url": SOURCE_URL,
+        "details_url": DETAILS_URL,
+        "source_status": SOURCE_STATUS,
+        "source_last_updated": SOURCE_LAST_UPDATED,
+        "source_verified_date": SOURCE_VERIFIED_DATE,
+    },
+    SUPPLEMENTAL_SOURCE_KEY: {
+        "source_title": SUPPLEMENTAL_SOURCE_TITLE,
+        "source_url": SUPPLEMENTAL_SOURCE_URL,
+        "details_url": SUPPLEMENTAL_DETAILS_URL,
+        "source_status": SUPPLEMENTAL_SOURCE_STATUS,
+        "source_last_updated": SUPPLEMENTAL_SOURCE_LAST_UPDATED,
+        "source_verified_date": SUPPLEMENTAL_SOURCE_VERIFIED_DATE,
+    },
+}
 
 
 def sha256_bytes(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
-def download_archive(path: Path) -> bytes:
-    request = Request(SOURCE_URL, headers={"User-Agent": "Codex Bible source importer"})
+def download_archive(path: Path, url: str) -> bytes:
+    request = Request(url, headers={"User-Agent": "Codex Bible source importer"})
     with urlopen(request, timeout=60) as response:
         data = response.read()
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -146,10 +202,14 @@ def download_archive(path: Path) -> bytes:
     return data
 
 
-def load_archive(path: Path, refresh: bool) -> bytes:
+def load_archive(path: Path, url: str, refresh: bool) -> bytes:
     if refresh or not path.exists():
-        return download_archive(path)
+        return download_archive(path, url)
     return path.read_bytes()
+
+
+def verse_has_suffix(verse: str) -> bool:
+    return bool(VERSE_SUFFIX_RE.search(verse.strip()))
 
 
 def clean_usfm_text(text: str) -> str:
@@ -251,6 +311,12 @@ def parse_usfm_verses(usfm_text: str) -> list[tuple[str, str, str, str]]:
                 pending_descriptors.append(descriptor)
             continue
 
+        if line.startswith("\\ip "):
+            descriptor = clean_usfm_text(line)
+            if descriptor:
+                pending_descriptors.append(descriptor)
+            continue
+
         if current_verse and not line.startswith("\\"):
             current_parts.append(line)
             continue
@@ -262,15 +328,28 @@ def parse_usfm_verses(usfm_text: str) -> list[tuple[str, str, str, str]]:
     return rows
 
 
-def import_rows(archive_data: bytes) -> tuple[list[dict[str, str]], dict[str, object]]:
+def import_rows(source_archives: dict[str, bytes]) -> tuple[list[dict[str, str]], dict[str, object]]:
     rows: list[dict[str, str]] = []
     book_stats: dict[str, dict[str, object]] = {}
-    with zipfile.ZipFile(BytesIO(archive_data)) as archive:
-        available_files = set(archive.namelist())
+    with zipfile.ZipFile(BytesIO(source_archives[PRIMARY_SOURCE_KEY])) as primary_archive, zipfile.ZipFile(
+        BytesIO(source_archives[SUPPLEMENTAL_SOURCE_KEY])
+    ) as supplemental_archive:
+        archives = {
+            PRIMARY_SOURCE_KEY: primary_archive,
+            SUPPLEMENTAL_SOURCE_KEY: supplemental_archive,
+        }
+        available_files_by_source = {key: set(archive.namelist()) for key, archive in archives.items()}
         for source_book in SOURCE_BOOKS:
+            archive = archives[source_book.source_key]
+            available_files = available_files_by_source[source_book.source_key]
+            source_metadata = SOURCE_METADATA[source_book.source_key]
             if source_book.source_file not in available_files:
                 book_stats[source_book.book_code] = {
                     "book_name": source_book.book_name,
+                    "source_key": source_book.source_key,
+                    "source_title": source_metadata["source_title"],
+                    "source_url": source_metadata["source_url"],
+                    "details_url": source_metadata["details_url"],
                     "source_file": source_book.source_file,
                     "source_usfm_id": "",
                     "expected_usfm_id": source_book.expected_usfm_id,
@@ -294,6 +373,8 @@ def import_rows(archive_data: bytes) -> tuple[list[dict[str, str]], dict[str, ob
                 parsed_rows = [
                     row for row in parsed_rows if row[0] == source_book.chapter_filter
                 ]
+            elif source_book.source_scope == "verse_suffix":
+                parsed_rows = [row for row in parsed_rows if verse_has_suffix(row[1])]
             source_note_count = sum(1 for row in parsed_rows if row[3])
             for chapter, verse, greek_text, syntax_notes in parsed_rows:
                 rows.append(
@@ -312,6 +393,10 @@ def import_rows(archive_data: bytes) -> tuple[list[dict[str, str]], dict[str, ob
                 )
             book_stats[source_book.book_code] = {
                 "book_name": source_book.book_name,
+                "source_key": source_book.source_key,
+                "source_title": source_metadata["source_title"],
+                "source_url": source_metadata["source_url"],
+                "details_url": source_metadata["details_url"],
                 "source_file": source_book.source_file,
                 "source_scope": source_book.source_scope,
                 "chapter_filter": source_book.chapter_filter,
@@ -353,15 +438,77 @@ def import_rows(archive_data: bytes) -> tuple[list[dict[str, str]], dict[str, ob
 def write_rows(path: Path, rows: list[dict[str, str]]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=CSV_COLUMNS)
+        writer = csv.DictWriter(handle, fieldnames=CSV_COLUMNS, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
+
+
+def load_existing_drafts(path: Path) -> dict[str, dict[str, str]]:
+    if not path.exists():
+        return {}
+    with path.open(newline="", encoding="utf-8-sig") as handle:
+        reader = csv.DictReader(handle)
+        rows = {}
+        for row in reader:
+            draft = row.get("draft_translation", "").strip()
+            ref = row.get("ref", "").strip()
+            if ref and draft:
+                rows[ref] = {
+                    "draft_translation": draft,
+                    "greek_text": row.get("greek_text", ""),
+                }
+        return rows
+
+
+def preserve_existing_drafts(
+    rows: list[dict[str, str]],
+    existing_drafts: dict[str, dict[str, str]],
+) -> dict[str, int]:
+    counts: Counter[str] = Counter()
+    for row in rows:
+        ref = row["ref"]
+        existing = existing_drafts.get(ref)
+        canonical_overlap = False
+        if not existing and row.get("book_code") == "ESGA":
+            source_ref = ref.replace("Greek Esther Additions", "Greek Esther", 1)
+            existing = existing_drafts.get(source_ref)
+            if existing:
+                counts["candidate_esther_additions_rows"] += 1
+        if not existing and row.get("book_code") in CANONICAL_OVERLAP_DRAFT_ALIASES:
+            source_book = CANONICAL_OVERLAP_DRAFT_ALIASES[row["book_code"]]
+            source_ref = f"{source_book} {row['chapter']}:{row['verse']}"
+            existing = existing_drafts.get(source_ref)
+            if existing:
+                canonical_overlap = True
+                counts["candidate_canonical_overlap_rows"] += 1
+        if not existing:
+            continue
+        counts["candidate_rows"] += 1
+        if not canonical_overlap and existing.get("greek_text", "") != row.get("greek_text", ""):
+            counts["skipped_source_text_changed"] += 1
+            continue
+        row["draft_translation"] = existing["draft_translation"]
+        counts["preserved_rows"] += 1
+        if row.get("book_code") == "ESGA":
+            counts["preserved_esther_additions_rows"] += 1
+        if canonical_overlap or row.get("book_code") in CANONICAL_OVERLAP_DRAFT_ALIASES:
+            counts["preserved_canonical_overlap_rows"] += 1
+    counts["existing_draft_rows"] = len(existing_drafts)
+    return dict(counts)
+
+
+def load_preservation_drafts(output_path: Path) -> dict[str, dict[str, str]]:
+    drafts = load_existing_drafts(RAW / "lxx_greek" / "ot_full.csv")
+    drafts.update(load_existing_drafts(output_path))
+    return drafts
 
 
 def build_manifest(
     *,
     archive_path: Path,
     archive_sha256: str,
+    supplemental_archive_path: Path,
+    supplemental_archive_sha256: str,
     output_path: Path,
     output_sha256: str,
     diagnostics: dict[str, object],
@@ -375,10 +522,45 @@ def build_manifest(
         "source_verified_date": SOURCE_VERIFIED_DATE,
         "archive": str(archive_path.relative_to(ROOT)),
         "archive_sha256": archive_sha256,
+        "supplemental_source_title": SUPPLEMENTAL_SOURCE_TITLE,
+        "supplemental_source_url": SUPPLEMENTAL_SOURCE_URL,
+        "supplemental_details_url": SUPPLEMENTAL_DETAILS_URL,
+        "supplemental_source_status": SUPPLEMENTAL_SOURCE_STATUS,
+        "supplemental_source_last_updated": SUPPLEMENTAL_SOURCE_LAST_UPDATED,
+        "supplemental_source_verified_date": SUPPLEMENTAL_SOURCE_VERIFIED_DATE,
+        "supplemental_archive": str(supplemental_archive_path.relative_to(ROOT)),
+        "supplemental_archive_sha256": supplemental_archive_sha256,
+        "source_archives": [
+            {
+                "key": PRIMARY_SOURCE_KEY,
+                "source_title": SOURCE_TITLE,
+                "source_url": SOURCE_URL,
+                "details_url": DETAILS_URL,
+                "source_status": SOURCE_STATUS,
+                "source_last_updated": SOURCE_LAST_UPDATED,
+                "source_verified_date": SOURCE_VERIFIED_DATE,
+                "archive": str(archive_path.relative_to(ROOT)),
+                "archive_sha256": archive_sha256,
+            },
+            {
+                "key": SUPPLEMENTAL_SOURCE_KEY,
+                "source_title": SUPPLEMENTAL_SOURCE_TITLE,
+                "source_url": SUPPLEMENTAL_SOURCE_URL,
+                "details_url": SUPPLEMENTAL_DETAILS_URL,
+                "source_status": SUPPLEMENTAL_SOURCE_STATUS,
+                "source_last_updated": SUPPLEMENTAL_SOURCE_LAST_UPDATED,
+                "source_verified_date": SUPPLEMENTAL_SOURCE_VERIFIED_DATE,
+                "archive": str(supplemental_archive_path.relative_to(ROOT)),
+                "archive_sha256": supplemental_archive_sha256,
+            },
+        ],
         "imported_csv": str(output_path.relative_to(ROOT)),
         "imported_csv_sha256": output_sha256,
         "csv_columns": CSV_COLUMNS,
-        "translation_policy": "draft_translation is intentionally blank; this workspace starts from Greek source rows, not from Brenton or another English base.",
+        "missing_source_candidates_doc": "docs/DEUTEROCANON_MISSING_SOURCES.md",
+        "pending_decisions_doc": "docs/DEUTEROCANON_PENDING_DECISIONS.md",
+        "validation_command": "make validate-deuterocanon",
+        "translation_policy": "Importer-created rows start with blank draft_translation; reruns preserve existing draft translations when the reference and Greek source text still match. The GRCLXX package is the primary source; the public-domain eBible Brenton Greek package supplies Prayer of Manasseh and true 2 Maccabees rows absent from GRCLXX. Greek Ezra B / 2 Esdras is a canonical-overlap appendix stream and reuses the current Ezra draft text for its first draft while preserving its separate Greek source rows for review. This workspace starts from Greek source rows, not from an English base.",
         "diagnostics": diagnostics,
     }
 
@@ -392,7 +574,7 @@ def write_inventory(path: Path, manifest: dict[str, object]) -> None:
         "This is a separate source workspace for the LXX deuterocanon/additions workstream.",
         "It is not folded into the current 66-book Greek Heritage Study Bible outputs.",
         "",
-        "## Source",
+        "## Sources",
         "",
         f"- Source: {manifest['source_title']}",
         f"- Details: {manifest['details_url']}",
@@ -401,31 +583,41 @@ def write_inventory(path: Path, manifest: dict[str, object]) -> None:
         f"- Source last updated: {manifest['source_last_updated']}",
         f"- Verified for this repo: {manifest['source_verified_date']}",
         f"- Archive SHA-256: `{manifest['archive_sha256']}`",
+        f"- Supplemental source: {manifest['supplemental_source_title']}",
+        f"- Supplemental details: {manifest['supplemental_details_url']}",
+        f"- Supplemental archive: {manifest['supplemental_source_url']}",
+        f"- Supplemental status: {manifest['supplemental_source_status']}",
+        f"- Supplemental source last updated: {manifest['supplemental_source_last_updated']}",
+        f"- Supplemental verified for this repo: {manifest['supplemental_source_verified_date']}",
+        f"- Supplemental archive SHA-256: `{manifest['supplemental_archive_sha256']}`",
         "",
         "## Import Policy",
         "",
         "- Imported rows preserve Greek source text by verse.",
         "- USFM source descriptors and footnotes are preserved as `syntax_notes`.",
-        "- `draft_translation` is intentionally blank.",
-        "- Brenton and other English witnesses are not used as the translation base.",
-        "- Greek Esther is imported as the full Greek Esther source for now; additions-only slicing remains a later editorial step.",
+        "- `draft_translation` starts blank on first import; importer reruns preserve existing drafts when the reference and Greek source text still match.",
+        "- Brenton English and other English witnesses are not used as the translation base.",
+        "- The public-domain eBible Brenton Greek package is used only as a supplemental Greek source for Prayer of Manasseh and true 2 Maccabees.",
+        "- Greek Esther is imported twice: `ESG` is full Greek Esther, and `ESGA` is an additions-only view made from suffixed GRCLXX Greek Esther rows.",
+        "- `2ES` is Greek Ezra B / 2 Esdras from GRCLXX; it overlaps canonical Ezra and reuses the current Ezra draft text for its first draft while keeping separate Greek rows for audit.",
         "- Importer validates source USFM IDs and Greek title lines before accepting source rows.",
         "- Psalm 151 is imported from the Psalms source file as Psalms 151.",
         "",
         "## Imported Books",
         "",
-        "| Code | Book | Rows | Source file | Source ID | Expected title | Validation | Note |",
-        "| --- | --- | ---: | --- | --- | --- | --- | --- |",
+        "| Code | Book | Rows | Source | Source file | Source ID | Expected title | Validation | Note |",
+        "| --- | --- | ---: | --- | --- | --- | --- | --- | --- |",
     ]
     for source_book in SOURCE_BOOKS:
         stat = books.get(source_book.book_code, {})
         rows = stat.get("rows", 0) if isinstance(stat, dict) else 0
+        source_key = stat.get("source_key", source_book.source_key) if isinstance(stat, dict) else source_book.source_key
         source_id = stat.get("source_usfm_id", "") if isinstance(stat, dict) else ""
         expected_title = stat.get("expected_title", source_book.expected_title) if isinstance(stat, dict) else source_book.expected_title
         validation = stat.get("status", "") if isinstance(stat, dict) else ""
         note = source_book.note or ""
         lines.append(
-            f"| {source_book.book_code} | {source_book.book_name} | {rows} | "
+            f"| {source_book.book_code} | {source_book.book_name} | {rows} | {source_key} | "
             f"`{source_book.source_file}` | {source_id} | {expected_title} | {validation} | {note} |"
         )
 
@@ -460,17 +652,23 @@ def write_inventory(path: Path, manifest: dict[str, object]) -> None:
             "",
             f"- Imported verse rows: {diagnostics['rows']}",
             f"- Imported book/addition groups: {diagnostics['book_count']}",
-            f"- Rows with source footnotes: {diagnostics['source_note_rows']}",
+            f"- Rows with source notes/descriptors: {diagnostics['source_note_rows']}",
+            f"- Preserved draft translation rows: {diagnostics.get('draft_preservation', {}).get('preserved_rows', 0)}",
             f"- Source ID mismatches: {len(diagnostics['source_validation']['source_id_mismatches'])}",
             f"- Source title mismatches: {len(diagnostics['source_validation']['source_title_mismatches'])}",
             f"- Imported CSV: `{manifest['imported_csv']}`",
+            f"- Missing source candidates: `{manifest['missing_source_candidates_doc']}`",
+            f"- Pending decisions: `{manifest['pending_decisions_doc']}`",
+            f"- Validation command: `{manifest['validation_command']}`",
             "",
             "## Next Work",
             "",
-            "- Translate one book/addition at a time from the Greek rows.",
-            "- Decide whether Greek Esther should remain full Greek Esther here or be split into additions-only ranges.",
-            "- Add lawful Greek source rows for Prayer of Manasseh and 2 Maccabees if those remain in scope.",
-            "- See `output/deuterocanon/missing_source_candidates.md` for checked-but-not-imported source candidates.",
+            "- Review and polish one book/addition at a time against the Greek rows.",
+            "- Review the drafted Prayer of Manasseh, true 2 Maccabees, and 2 Esdras rows against the Greek.",
+            "- Audit whether the `ESGA` additions-only view needs additional slicing beyond suffixed verse rows.",
+            "- See `docs/DEUTEROCANON_MISSING_SOURCES.md` for checked source candidates and final source choice.",
+            "- See `docs/DEUTEROCANON_PENDING_DECISIONS.md` for resolved decisions and remaining review notes.",
+            "- Use `make validate-deuterocanon` before handoff or commit.",
             "- Decide later whether this workstream gets Markdown-only, Logos DOCX, print proof, or full-LXX merged outputs.",
         ]
     )
@@ -481,25 +679,49 @@ def write_inventory(path: Path, manifest: dict[str, object]) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--archive", type=Path, default=DEFAULT_ARCHIVE)
+    parser.add_argument("--supplemental-archive", type=Path, default=DEFAULT_SUPPLEMENTAL_ARCHIVE)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
     parser.add_argument("--manifest", type=Path, default=DEFAULT_MANIFEST)
     parser.add_argument("--inventory", type=Path, default=DEFAULT_INVENTORY)
     parser.add_argument("--refresh-source", action="store_true")
+    parser.add_argument(
+        "--reset-drafts",
+        action="store_true",
+        help="Do not preserve existing draft_translation values when reimporting.",
+    )
     args = parser.parse_args()
 
     archive_path = args.archive if args.archive.is_absolute() else ROOT / args.archive
+    supplemental_archive_path = (
+        args.supplemental_archive if args.supplemental_archive.is_absolute() else ROOT / args.supplemental_archive
+    )
     output_path = args.output if args.output.is_absolute() else ROOT / args.output
     manifest_path = args.manifest if args.manifest.is_absolute() else ROOT / args.manifest
     inventory_path = args.inventory if args.inventory.is_absolute() else ROOT / args.inventory
 
-    archive_data = load_archive(archive_path, refresh=args.refresh_source)
+    archive_data = load_archive(archive_path, SOURCE_URL, refresh=args.refresh_source)
+    supplemental_archive_data = load_archive(
+        supplemental_archive_path,
+        SUPPLEMENTAL_SOURCE_URL,
+        refresh=args.refresh_source,
+    )
     archive_sha256 = sha256_bytes(archive_data)
-    rows, diagnostics = import_rows(archive_data)
+    supplemental_archive_sha256 = sha256_bytes(supplemental_archive_data)
+    rows, diagnostics = import_rows(
+        {
+            PRIMARY_SOURCE_KEY: archive_data,
+            SUPPLEMENTAL_SOURCE_KEY: supplemental_archive_data,
+        }
+    )
+    existing_drafts = {} if args.reset_drafts else load_preservation_drafts(output_path)
+    diagnostics["draft_preservation"] = preserve_existing_drafts(rows, existing_drafts)
     write_rows(output_path, rows)
     output_sha256 = hashlib.sha256(output_path.read_bytes()).hexdigest()
     manifest = build_manifest(
         archive_path=archive_path,
         archive_sha256=archive_sha256,
+        supplemental_archive_path=supplemental_archive_path,
+        supplemental_archive_sha256=supplemental_archive_sha256,
         output_path=output_path,
         output_sha256=output_sha256,
         diagnostics=diagnostics,
@@ -513,6 +735,8 @@ def main() -> int:
             {
                 "archive": str(archive_path),
                 "archive_sha256": archive_sha256,
+                "supplemental_archive": str(supplemental_archive_path),
+                "supplemental_archive_sha256": supplemental_archive_sha256,
                 "output": str(output_path),
                 "rows": diagnostics["rows"],
                 "book_count": diagnostics["book_count"],

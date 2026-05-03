@@ -40,6 +40,7 @@ PINNED_RAW_SHA256 = {
     "data/raw/TSK.zip": "53a94765a3b5a528249990a552aa639f00bb265548b84214343fb8de9db27557",
     "data/raw/cross-references.zip": "a4636893d50cae6191ca35a07bb65b2091a6d97990f61c169ee43d01af7b943c",
     "data/raw/lxx_deuterocanon/grclxx_usfm.zip": "ecb6be2ca5e31098f6699df538158f2ca05f557bb4e31cf6bf7ad5d8f4c7b7c8",
+    "data/raw/lxx_deuterocanon/grcbrent_usfm.zip": "8fa575a5d1565ae2ceb0d7cabac251ff460242eab823f4ebd40d8eefdeaf6881",
     "data/raw/hitchcock_bible_names.txt": "95d6eb253e4237ba198bb4ee92b4de9bccfab69fe7775eb82134444d44b2e850",
 }
 
@@ -90,15 +91,75 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     rows = csv_rows("data/raw/lxx_deuterocanon/deuterocanon_full.csv")
     progress_rows = csv_rows("output/deuterocanon/lxx_deuterocanon_progress.csv")
     manifest = json.loads((ROOT / "data/raw/lxx_deuterocanon/source_manifest.json").read_text(encoding="utf-8"))
+    missing_sources = (ROOT / "docs/DEUTEROCANON_MISSING_SOURCES.md").read_text(encoding="utf-8")
+    pending_decisions = (ROOT / "docs/DEUTEROCANON_PENDING_DECISIONS.md").read_text(encoding="utf-8")
     diagnostics = json.loads(
         (ROOT / "output/deuterocanon/lxx_deuterocanon_diagnostics.json").read_text(encoding="utf-8")
     )
+    progress_markdown = (ROOT / "output/deuterocanon/lxx_deuterocanon_progress.md").read_text(encoding="utf-8")
+    inventory_markdown = (ROOT / "output/deuterocanon/lxx_deuterocanon_source_inventory.md").read_text(
+        encoding="utf-8"
+    )
     by_ref = {row["ref"]: row for row in rows}
+    drafted_refs = [row["ref"] for row in rows if row["draft_translation"].strip()]
+    undrafted_refs = [row["ref"] for row in rows if not row["draft_translation"].strip()]
+    tobit_drafted_refs = [
+        row["ref"] for row in rows if row["book_code"] == "TOB" and row["draft_translation"].strip()
+    ]
     codes = {row["book_code"] for row in rows}
+    progress_by_code = {row["book_code"]: row for row in progress_rows}
 
-    assert len(rows) == 5065
+    assert len(rows) == 5970
     assert SOURCE_COLUMNS <= set(rows[0])
-    assert all(not row["draft_translation"].strip() for row in rows)
+    assert manifest["missing_source_candidates_doc"] == "docs/DEUTEROCANON_MISSING_SOURCES.md"
+    assert manifest["pending_decisions_doc"] == "docs/DEUTEROCANON_PENDING_DECISIONS.md"
+    assert manifest["validation_command"] == "make validate-deuterocanon"
+    assert manifest["supplemental_archive_sha256"] == PINNED_RAW_SHA256[
+        "data/raw/lxx_deuterocanon/grcbrent_usfm.zip"
+    ]
+    assert any(source["key"] == "grcbrent" for source in manifest["source_archives"])
+    assert "`docs/DEUTEROCANON_MISSING_SOURCES.md`" in progress_markdown
+    assert "`docs/DEUTEROCANON_PENDING_DECISIONS.md`" in progress_markdown
+    assert "make validate-deuterocanon" in progress_markdown
+    assert "`docs/DEUTEROCANON_MISSING_SOURCES.md`" in inventory_markdown
+    assert "`docs/DEUTEROCANON_PENDING_DECISIONS.md`" in inventory_markdown
+    assert "`make validate-deuterocanon`" in inventory_markdown
+    assert len(drafted_refs) == 5970
+    assert len(undrafted_refs) == 0
+    assert {row["book_code"] for row in rows if not row["draft_translation"].strip()} == set()
+    assert not [
+        row["ref"]
+        for row in rows
+        if re.search(r"Source (?:descriptor|footnote)|Draft translation:|Greek:", row["draft_translation"])
+    ]
+    assert not [row["ref"] for row in rows if re.search(r"\\[a-z0-9]+", row["draft_translation"])]
+    assert not [
+        row["ref"]
+        for row in rows
+        if re.search(r"[\u0370-\u03ff]", re.sub(r"\[[0-9]+[α-ω]\]", "", row["draft_translation"]))
+    ]
+    for relative_path in [
+        "data/raw/lxx_deuterocanon/deuterocanon_full.csv",
+        "data/raw/lxx_deuterocanon/source_manifest.json",
+        "output/deuterocanon/lxx_deuterocanon_progress.csv",
+        "output/deuterocanon/lxx_deuterocanon_progress.md",
+        "output/deuterocanon/lxx_deuterocanon_source_inventory.md",
+        "output/deuterocanon/lxx_deuterocanon_translation_only.md",
+        "output/deuterocanon/lxx_deuterocanon_worksheet.md",
+    ]:
+        content = (ROOT / relative_path).read_bytes()
+        assert b"\r" not in content, relative_path
+    assert drafted_refs[:8] == [f"Tobit 1:{verse}" for verse in range(1, 9)]
+    assert by_ref["Tobit 1:1"]["draft_translation"].startswith("Book of the words of Tobit")
+    assert "ways of truth and righteousness" in by_ref["Tobit 1:2"]["draft_translation"]
+    assert "Baal the heifer" in by_ref["Tobit 1:5"]["draft_translation"]
+    assert "the third tithe" in by_ref["Tobit 1:8"]["draft_translation"]
+    assert "[22]" in by_ref["Sirach 28:21"]["draft_translation"]
+    assert by_ref["4 Maccabees 18:24"]["draft_translation"] == (
+        "to whom be the glory into the ages of the ages. Amen."
+    )
+    assert "Source descriptor:" in by_ref["4 Maccabees 18:24"]["syntax_notes"]
+    assert "ἀπόκρυφον" in by_ref["4 Maccabees 18:24"]["syntax_notes"]
     assert rows[0]["ref"] == "Tobit 1:1"
     assert "Source footnote:" in by_ref["Tobit 1:1"]["syntax_notes"]
     assert "ΚΑΤΑ ΤΟΥΣ ΚΩΔΙΚΕΣ" in by_ref["Tobit 1:1"]["syntax_notes"]
@@ -107,11 +168,39 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     assert by_ref["Psalms 151:7"]["verse"] == "7"
     assert "Source descriptor:" in by_ref["Psalms 151:1"]["syntax_notes"]
     assert "ἔξωθεν τοῦ ἀριθμοῦ" in by_ref["Psalms 151:1"]["syntax_notes"]
+    assert by_ref["Greek Esther Additions 1:1α"]["draft_translation"] == by_ref["Greek Esther 1:1α"][
+        "draft_translation"
+    ]
+    assert by_ref["Greek Esther Additions 10:3λ"]["draft_translation"] == by_ref["Greek Esther 10:3λ"][
+        "draft_translation"
+    ]
+    assert by_ref["Prayer of Manasseh 1:1"]["greek_text"].startswith("ΚΥΡΙΕ παντοκράτωπ")
+    assert by_ref["Prayer of Manasseh 1:15"]["draft_translation"].endswith("into the ages. Amen.")
+    assert by_ref["2 Maccabees 1:1"]["greek_text"].startswith("ΤΟΙΣ ἀδελφοῖς")
+    assert by_ref["2 Maccabees 1:1"]["draft_translation"].startswith("To the brothers")
+    assert by_ref["2 Maccabees 2:32"]["draft_translation"].startswith("Therefore from here")
+    assert by_ref["2 Maccabees 3:40"]["draft_translation"].endswith("proceeded in this way.")
+    assert by_ref["2 Maccabees 4:50"]["draft_translation"].startswith("But Menelaus")
+    assert by_ref["2 Maccabees 5:27"]["draft_translation"].startswith("But Judas Maccabeus")
+    assert by_ref["2 Maccabees 6:31"]["draft_translation"].startswith("And therefore this one")
+    assert by_ref["2 Maccabees 7:42"]["draft_translation"].startswith("Therefore let the things")
+    assert by_ref["2 Maccabees 8:36"]["draft_translation"].startswith("And the one who had undertaken")
+    assert by_ref["2 Maccabees 9:29"]["draft_translation"].startswith("And Philip")
+    assert by_ref["2 Maccabees 10:38"]["draft_translation"].startswith("And having accomplished")
+    assert by_ref["2 Maccabees 11:38"]["draft_translation"].startswith("Be healthy")
+    assert by_ref["2 Maccabees 12:45"]["draft_translation"].startswith("then looking")
+    assert by_ref["2 Maccabees 13:26"]["draft_translation"].startswith("Lysias went up")
+    assert by_ref["2 Maccabees 14:46"]["draft_translation"].startswith("already having become")
+    assert by_ref["2 Maccabees 15:39"]["draft_translation"].endswith("here will be the end.")
+    assert by_ref["2 Esdras 1:1"]["greek_text"].startswith("ΚΑΙ ἐν τῷ πρώτῳ")
+    assert by_ref["2 Esdras 1:1"]["draft_translation"].startswith("And in the first year of Cyrus")
+    assert by_ref["2 Esdras 10:44"]["draft_translation"].startswith("All these took foreign women")
     assert "Genesis 1:1" not in by_ref
     assert {
         "TOB",
         "JDT",
         "ESG",
+        "ESGA",
         "WIS",
         "SIR",
         "BAR",
@@ -120,30 +209,81 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
         "SUS",
         "BEL",
         "1MA",
+        "2MA",
         "1ES",
+        "2ES",
+        "MAN",
         "3MA",
         "4MA",
         "PSA",
     } <= codes
     assert manifest["archive_sha256"] == PINNED_RAW_SHA256["data/raw/lxx_deuterocanon/grclxx_usfm.zip"]
-    assert manifest["translation_policy"].startswith("draft_translation is intentionally blank")
+    assert manifest["translation_policy"].startswith("Importer-created rows start with blank")
+    assert manifest["diagnostics"]["draft_preservation"]["preserved_rows"] == len(drafted_refs)
+    assert manifest["diagnostics"]["draft_preservation"]["preserved_canonical_overlap_rows"] == 280
     assert manifest["diagnostics"]["rows"] == len(rows)
-    assert manifest["diagnostics"]["source_note_rows"] == 2
-    assert {item["book_code"] for item in manifest["diagnostics"]["missing_targets"]} == {"MAN", "2MA"}
+    assert manifest["diagnostics"]["source_note_rows"] == 4
+    assert manifest["diagnostics"]["missing_targets"] == []
+    assert "CrossWire LXX module" in missing_sources
+    assert "CC-BY/open repo output" in missing_sources
+    assert "eBible Brenton Greek" in missing_sources
+    assert "Prayer of Manasseh and true 2 Maccabees" in pending_decisions
+    assert "Greek Esther Scope" in pending_decisions
+    assert "Greek Ezra B / 2 Esdras Scope" in pending_decisions
     assert manifest["diagnostics"]["source_validation"]["source_id_mismatches"] == []
     assert manifest["diagnostics"]["source_validation"]["source_title_mismatches"] == []
+    assert manifest["diagnostics"]["books"]["2MA"]["source_key"] == "grcbrent"
+    assert manifest["diagnostics"]["books"]["2MA"]["source_file"] == "53-2MAgrcbrent.usfm"
+    assert manifest["diagnostics"]["books"]["MAN"]["source_key"] == "grcbrent"
+    assert manifest["diagnostics"]["books"]["MAN"]["source_file"] == "55-MANgrcbrent.usfm"
+    assert manifest["diagnostics"]["books"]["ESGA"]["source_scope"] == "verse_suffix"
+    assert manifest["diagnostics"]["books"]["ESGA"]["rows"] == 55
+    assert manifest["diagnostics"]["books"]["2ES"]["source_file"] == "58-2ESgrclxx.usfm"
+    assert manifest["diagnostics"]["books"]["2ES"]["expected_title"] == "ΕΣΔΡΑΣ Β"
+    assert manifest["diagnostics"]["books"]["2ES"]["rows"] == 280
     assert manifest["diagnostics"]["books"]["4MA"]["source_file"] == "53-2MAgrclxx.usfm"
     assert manifest["diagnostics"]["books"]["4MA"]["source_usfm_id"] == "2MA"
     assert manifest["diagnostics"]["books"]["4MA"]["expected_title"] == "ΜΑΚΚΑΒΑΙΩΝ Δ"
     assert "ΜΑΚΚΑΒΑΙΩΝ Δ" in manifest["diagnostics"]["books"]["4MA"]["note"]
     assert diagnostics["verse_rows"] == len(rows)
-    assert diagnostics["verses_with_draft_translation"] == 0
+    assert diagnostics["verses_with_draft_translation"] == len(drafted_refs)
+    assert diagnostics["book_rows"]["2 Maccabees"]["drafted_rows"] == 555
+    assert diagnostics["book_rows"]["2 Esdras"]["drafted_rows"] == 280
+    assert diagnostics["book_rows"]["Prayer of Manasseh"]["drafted_rows"] == 15
     assert diagnostics["decision_rows"] == 0
     assert diagnostics["footnote_rows"] == 0
     assert diagnostics["preferred_resource_roles"] == []
     assert {row["book_code"] for row in progress_rows} == codes
-    assert sum(int(row["drafted_rows"]) for row in progress_rows) == 0
-    assert next(row for row in progress_rows if row["book_code"] == "4MA")["source_validation"] == "imported"
+    assert sum(int(row["drafted_rows"]) for row in progress_rows) == len(drafted_refs)
+    assert {row["book_code"] for row in progress_rows if row["status"] == "in_progress"} == set()
+    assert all(row["status"] == "drafted" for row in progress_rows)
+    assert progress_by_code["TOB"]["status"] == "drafted"
+    assert int(progress_by_code["TOB"]["drafted_rows"]) == len(tobit_drafted_refs)
+    assert int(progress_by_code["TOB"]["remaining_rows"]) == 0
+    assert progress_by_code["ESGA"]["status"] == "drafted"
+    assert progress_by_code["2MA"]["status"] == "drafted"
+    assert int(progress_by_code["2MA"]["drafted_rows"]) == 555
+    assert int(progress_by_code["2MA"]["remaining_rows"]) == 0
+    assert progress_by_code["2ES"]["status"] == "drafted"
+    assert int(progress_by_code["2ES"]["drafted_rows"]) == 280
+    assert int(progress_by_code["2ES"]["remaining_rows"]) == 0
+    assert progress_by_code["MAN"]["status"] == "drafted"
+    assert int(progress_by_code["MAN"]["remaining_rows"]) == 0
+    assert progress_by_code["4MA"]["source_validation"] == "imported"
+    for book_code in sorted(codes):
+        balance = 0
+        quote_open = False
+        for row in [row for row in rows if row["book_code"] == book_code]:
+            for char in row["draft_translation"]:
+                if char == "[":
+                    balance += 1
+                elif char == "]":
+                    balance -= 1
+                elif char == '"':
+                    quote_open = not quote_open
+                assert balance >= 0, row["ref"]
+        assert balance == 0, book_code
+        assert not quote_open, book_code
 
 
 def test_review_feedback_high_traffic_wording_stays_fixed() -> None:

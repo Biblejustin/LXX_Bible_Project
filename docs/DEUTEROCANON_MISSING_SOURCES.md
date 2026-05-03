@@ -1,0 +1,27 @@
+# Deuterocanon Missing Source Check
+
+This note records source candidates checked for books previously missing from
+the separate Greek deuterocanon workspace.
+
+## Current Missing Targets
+
+| Code | Book | Current status |
+| --- | --- | --- |
+| MAN | Prayer of Manasseh | Added from the public-domain eBible Brenton Greek Septuagint USFM archive. |
+| 2MA | 2 Maccabees | Added from the public-domain eBible Brenton Greek Septuagint USFM archive. The pinned GRCLXX package file named `53-2MAgrclxx.usfm` identifies itself by title/content as 4 Maccabees. |
+| 2ES | 2 Esdras / Greek Ezra B | Added from the pinned eBible GRCLXX USFM archive as `58-2ESgrclxx.usfm`; included for broad-EO appendix coverage and drafted from the current Ezra overlap text. |
+
+## Sources Checked
+
+| Source | Result | Decision |
+| --- | --- | --- |
+| eBible GRCLXX details page, `https://ebible.org/details.php?id=grclxx` | The details page labels the text public domain and links the USFM archive used here. The package includes Prayer of Azariah/Song of the Three, Susanna, Bel, Psalm 151, 4 Maccabees, and `58-2ESgrclxx.usfm` / Greek Ezra B, but not a separate Prayer of Manasseh or true 2 Maccabees file. | Keep as the pinned primary deuterocanon source and import 2 Esdras / Greek Ezra B from it. |
+| eBible Brenton Greek details page, `https://ebible.org/details.php?id=grcbrent` | The details page labels the Brenton Greek Septuagint public domain and links the USFM archive. The archive includes `55-MANgrcbrent.usfm` and true `53-2MAgrcbrent.usfm`. | Import as a pinned supplemental Greek source for Prayer of Manasseh and true 2 Maccabees. |
+| CrossWire LXX module, `https://crosswire.org/sword/modules/ModInfo.jsp?modName=LXX` | Module notes say Prayer of Manasseh is in Odes 12, but distribution license is `Copyrighted; Free non-commercial distribution`. | Do not import into this CC-BY/open repo output without a clearer compatible source/license. |
+| HakkaAC LXX Prayer of Manasses page, `https://hakkaac.org/Bible/Bible/ap/LXX/LXX-AP/LXX_Prayer-of-Manasses.html` | Page is English LXX2012 text, not Greek source rows. | Do not use as Greek source. |
+| CCEL Swete volume 3 page, `https://www.ccel.org/ccel/swete/lxx3/htm/iii.htm` | Public-domain Swete volume metadata is available, but the accessible HTML page checked is front matter/page links rather than clean machine-readable Greek verse text. | Candidate only if we later build an OCR/page extraction path and verify rights and text quality. |
+| OpenGreekAndLatin Swete XML, `https://github.com/OpenGreekAndLatin/septuagint-dev` | The XML header marks the digital file CC BY-SA 4.0, and the checked volume 3 XML only exposed a partial 2 Maccabees stream. | Do not import for this pass; use the eBible public-domain Brenton Greek supplement instead. |
+
+## Next Work
+
+Review and polish MAN, 2MA, and 2ES from the imported Greek rows.

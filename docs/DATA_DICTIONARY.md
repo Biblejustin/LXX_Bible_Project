@@ -12,7 +12,7 @@ Applies to:
 
 | Column | Meaning |
 | --- | --- |
-| `ref` | Canonical English reference, such as `Genesis 1:1` or `Matthew 1:1` |
+| `ref` | Project reference, such as `Genesis 1:1`, `Matthew 1:1`, or source-specific labels like `Greek Esther 1:1α` |
 | `book_code` | Short source/import code for the book |
 | `book_name` | English book name used by output builders |
 | `chapter` | Chapter number as text |
@@ -30,6 +30,11 @@ NT rows also include:
 | `ukjv_translation` | UKJV witness text used for review comparison, not as the source text |
 | `review_status` | NT review state, such as `tr_literal_pass1` or `needs_focused_tr_review` |
 | `review_notes` | Short audit notes from NT revision scripts |
+
+Deuterocanon rows are isolated from the 66-book OT/NT outputs. Their source
+manifest is `data/raw/lxx_deuterocanon/source_manifest.json`; source candidates
+and the supplemental-source choice for Prayer of Manasseh and 2 Maccabees are
+tracked in `docs/DEUTEROCANON_MISSING_SOURCES.md`.
 
 ## Translation Footnotes
 
