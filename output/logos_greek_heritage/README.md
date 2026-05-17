@@ -34,7 +34,8 @@ Key examples:
 - English Jeremiah 31:31: see Jeremiah 38:31 here.
 - English Isaiah 9:6: see Isaiah 9:5 here.
 - English Micah 5:2: see Micah 5:1 here.
-- English Malachi 4:5: see Malachi 3:22-23 here.
+- English Malachi 4:5: see Malachi 3:22 here.
+- English Malachi 4:6: see Malachi 3:23 here.
 
 Scope:
 

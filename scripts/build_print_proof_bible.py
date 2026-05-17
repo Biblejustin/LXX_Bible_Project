@@ -305,16 +305,18 @@ def write_readme(
         f"- `{diagnostics_path.name}`: build counts and DOCX validation details.",
     ]
     if lulu_profile:
-        generated_files.append(f"- `{docx_path.with_suffix('.pdf').name}`: Lulu-ready upload PDF.")
         generated_files.append(
-            f"- `{docx_path.with_name(docx_path.stem + '_pdf_headers.json').name}`: PDF page-header diagnostics."
+            f"- `{docx_path.with_name(docx_path.stem + '_pandoc_pdf_headers.json').name}`: active Pandoc PDF page-header diagnostics."
         )
         generated_files.append(
-            f"- `{docx_path.with_name(docx_path.stem + '_pandoc.pdf').name}`: optional Pandoc/XeLaTeX PDF with two-column footnotes."
+            f"- `{docx_path.with_name(docx_path.stem + '_pandoc.pdf').name}`: active full-size Pandoc/XeLaTeX proof PDF with two-column footnotes."
         )
+    if minimal.get("enabled"):
+        crossref_line = f"- {diagnostics['print_profile'].get('crossref_policy', OPENBIBLE_TOP_CROSSREF_POLICY)}"
+    else:
+        crossref_line = f"- {CROSSREF_EXCLUSION_POLICY}"
     rebuild_commands = (
         [
-            "make build-print-proof-lulu-pdf",
             "make build-print-proof-lulu-pandoc-pdf",
         ]
         if lulu_profile
@@ -356,7 +358,7 @@ def write_readme(
         f"- {NAME_MEANING_POLICY}",
         preface_line,
         "- Brenton/source supplemental notes excluded.",
-        f"- {CROSSREF_EXCLUSION_POLICY}",
+        crossref_line,
         "",
         "Counts:",
         "",
@@ -620,13 +622,12 @@ def main() -> None:
                 else "one verse per paragraph"
             ),
             "footnote_layout": (
-                "compact single-column PDF footnotes; 7.5pt Latin text; "
-                "6.5pt complex-script text; 8.5pt note markers; DOCX includes "
-                "a Word-only two-column footnote hint"
+                "active Pandoc PDF uses two-column footnotes; TeX-side page-local note "
+                "numbers; green cross-reference letters; 7.5pt Latin text; "
+                "6.5pt complex-script text; 8.5pt note markers"
             ),
             "alternate_pdf_renderer": (
-                "Pandoc/XeLaTeX target renders two-column footnotes; PDF stamping resets visible "
-                "blue note numbers by page because TeX-side per-page reset exceeds XeTeX capacity"
+                "Pandoc/XeLaTeX is the active full-size print proof renderer; LibreOffice PDF output is disabled for print proof"
             ),
             "pericope_headings": f"{len(pericope_headings)} BSB-placement original headings included",
             "margins": (
@@ -646,6 +647,7 @@ def main() -> None:
                 if args.include_openbible_crossrefs
                 else ("minimal_tsk" if args.include_tsk_crossrefs else "excluded")
             ),
+            "crossref_policy": crossref_policy,
             "name_meanings": "listed_first_source_occurrence_only",
             "source_policy": "OT LXX Greek rows plus NT Scrivener 1894 Textus Receptus Greek rows.",
             "translation_note_labels": "compact",

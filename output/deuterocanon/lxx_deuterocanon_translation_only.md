@@ -22588,7 +22588,7 @@ And he accepted that they spoke the truth and consented, giving them full permis
 
 **3 Maccabees 7:13**
 
-Then, having acclaimed him as was fitting, their priests and the whole multitude, shouting Hallelujah, departed with joy.
+Then, having acclaimed him as was fitting, their priests and the whole multitude, shouting Alleluia, departed with joy.
 
 **3 Maccabees 7:14**
 

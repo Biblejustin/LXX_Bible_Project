@@ -1,6 +1,6 @@
 \defaultfontfeatures[\rmfamily]{Ligatures=NoCommon}
 \setmainfont[Ligatures=NoCommon]{Times New Roman}
-\newcommand{\RL}[1]{#1}
+\providecommand{\RL}[1]{#1}
 \usepackage{xcolor}
 \usepackage{ragged2e}
 \definecolor{GHSBRed}{HTML}{9B1C1C}
@@ -25,6 +25,15 @@
 \renewcommand{\footnotesize}{\fontsize{7.5pt}{8.1pt}\selectfont}
 \setlength{\footnotesep}{0pt}
 \renewcommand{\footnoterule}{}
+\newlength{\GHSBFootnoteLabelWidth}
+\setlength{\GHSBFootnoteLabelWidth}{1.75em}
 \makeatletter
+\long\def\@makefntext#1{%
+  \parindent 0pt%
+  \noindent
+  \hangindent \GHSBFootnoteLabelWidth%
+  \hangafter 1%
+  \hb@xt@\GHSBFootnoteLabelWidth{\@makefnmark\hss}#1%
+}
 \let\dfn@footnoterule\footnoterule
 \makeatother

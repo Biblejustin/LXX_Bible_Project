@@ -4,9 +4,8 @@ Generated files:
 
 - `the_greek_heritage_study_bible_lulu_print_proof.docx`: compact DOCX for inexpensive physical proofreading.
 - `the_greek_heritage_study_bible_lulu_print_proof_diagnostics.json`: build counts and DOCX validation details.
-- `the_greek_heritage_study_bible_lulu_print_proof.pdf`: Lulu-ready upload PDF.
-- `the_greek_heritage_study_bible_lulu_print_proof_pdf_headers.json`: PDF page-header diagnostics.
-- `the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf`: optional Pandoc/XeLaTeX PDF with two-column footnotes.
+- `the_greek_heritage_study_bible_lulu_print_proof_pandoc_pdf_headers.json`: active Pandoc PDF page-header diagnostics.
+- `the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf`: active full-size Pandoc/XeLaTeX proof PDF with two-column footnotes.
 
 Profile:
 
@@ -19,8 +18,8 @@ Profile:
 - Reviewed translation/textual notes included.
 - Type profile: docx_9_5pt; pandoc_pdf_8_75pt.
 - Verse layout: chapter-continuous run-in paragraphs.
-- Footnote layout: compact single-column PDF footnotes; 7.5pt Latin text; 6.5pt complex-script text; 8.5pt note markers; DOCX includes a Word-only two-column footnote hint.
-- Alternate PDF renderer: Pandoc/XeLaTeX target renders two-column footnotes; PDF stamping resets visible blue note numbers by page because TeX-side per-page reset exceeds XeTeX capacity.
+- Footnote layout: active Pandoc PDF uses two-column footnotes; TeX-side page-local note numbers; green cross-reference letters; 7.5pt Latin text; 6.5pt complex-script text; 8.5pt note markers.
+- Alternate PDF renderer: Pandoc/XeLaTeX is the active full-size print proof renderer; LibreOffice PDF output is disabled for print proof.
 - Pericope headings: 3040 BSB-placement original headings included.
 - Front preface pages discuss the purpose of the draft and rough translation methodology.
 - Executive PDF profile abandoned; it did not save enough size versus Letter to justify maintaining.
@@ -29,14 +28,14 @@ Profile:
 - Name-meaning notes are included only at their listed first/source occurrence to keep the physical proof shorter.
 - Book preface pages included.
 - Brenton/source supplemental notes excluded.
-- Generated TSK/OpenBible cross-reference footnotes are excluded from the physical proof; use the Logos/reference-note edition for dense cross-references.
+- Modest cross-reference layer: OpenBible.info verse-level cross-references, ranked by OpenBible vote count and capped per verse. Used by attribution under the OpenBible CC-BY dataset license.
 
 Counts:
 
 - Verses: `30866`
 - Book preface pages: `66`
-- Translation/textual note footnotes: `4001`
-- Name-meaning footnotes: `2816`
+- Translation/textual note footnotes: `4012`
+- Name-meaning footnotes: `2812`
 - Cross-reference footnotes: `27820`
 - Cross-reference refs kept: `104121`
 - Supplemental/Brenton footnotes: `0`
@@ -44,6 +43,5 @@ Counts:
 Rebuild:
 
 ```bash
-make build-print-proof-lulu-pdf
 make build-print-proof-lulu-pandoc-pdf
 ```

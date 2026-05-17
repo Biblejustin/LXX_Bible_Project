@@ -8,6 +8,8 @@ import sys
 import zipfile
 from pathlib import Path
 
+import fitz
+
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -332,7 +334,7 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     assert deuterocanon_by_ref["Greek Esther 1:1α"].logos_ref == "Esther 1:1"
     assert deuterocanon_by_ref["Greek Esther Additions 4:17ω"].logos_ref == "Esther 4:17"
     assert deuterocanon_by_ref["2 Esdras 1:1"].logos_ref == "2 Esdras 1:1"
-    assert deuterocanon_by_ref["Letter of Jeremiah 1:1"].logos_ref == "LJe 1:1"
+    assert deuterocanon_by_ref["Letter of Jeremiah 1:1"].logos_ref == "Letter of Jeremiah 1:1"
     assert logos_builder.should_suppress_logos_bible_milestone(deuterocanon_by_ref["2 Esdras 1:1"])
     assert logos_builder.should_suppress_logos_bible_milestone(deuterocanon_by_ref["Tobit 6:19"])
     assert logos_builder.should_suppress_logos_bible_milestone(deuterocanon_by_ref["4 Maccabees 12:20"])
@@ -599,6 +601,12 @@ def test_known_release_blocker_fixes_stay_fixed() -> None:
     for ref in gen5_refs:
         assert "Methuselah" in by_ref[ref]["draft_translation"]
         assert "Methusael" not in by_ref[ref]["draft_translation"]
+
+    assert "Mehujael" in by_ref["Genesis 4:18"]["draft_translation"]
+    assert "Mahalaleel" not in by_ref["Genesis 4:18"]["draft_translation"]
+    assert "Methusael" in by_ref["Genesis 4:18"]["draft_translation"]
+    assert "blameless in his generation" in by_ref["Genesis 6:9"]["draft_translation"]
+    assert "blameless in his generations" not in by_ref["Genesis 6:9"]["draft_translation"]
 
     assert "God's" in by_ref["Deuteronomy 1:17"]["draft_translation"]
     assert "Gods" not in by_ref["Deuteronomy 1:17"]["draft_translation"]
@@ -9231,11 +9239,11 @@ def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     expected = {
         ("JESUS", "Matthew 1:21"): "Jesus",
         ("NAZARETH", "John 19:19"): "Nazareth",
-        ("GOD", "Acts 17:23"): "God",
         ("BABYLON", "Revelation 17:5"): "Babylon",
     }
     for key, equivalent in expected.items():
         assert by_name[key]["english_equivalent"] == equivalent
+    assert ("GOD", "Acts 17:23") not in by_name
 
 
 def test_no_raw_logos_bibleknowledgebase_markup_in_key_outputs() -> None:
@@ -9406,7 +9414,7 @@ def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
             encoding="utf-8"
         )
     )
-    pdf_path = output_dir / "the_greek_heritage_study_bible_lulu_print_proof.pdf"
+    pandoc_pdf_path = output_dir / "the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf"
     readme = (output_dir / "README_lulu.md").read_text(encoding="utf-8")
     with zipfile.ZipFile(docx_path) as zf:
         document_xml = zf.read("word/document.xml").decode("utf-8")
@@ -9414,7 +9422,7 @@ def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
         styles_xml = zf.read("word/styles.xml").decode("utf-8")
         footnotes_xml = zf.read("word/footnotes.xml").decode("utf-8")
 
-    assert pdf_path.exists()
+    assert pandoc_pdf_path.exists()
     assert diagnostics["print_profile"]["book_prefaces"] == "included"
     assert diagnostics["print_profile"]["margin_profile"] == "lulu_pod_safe"
     assert diagnostics["print_profile"]["type_profile"] == "docx_9_5pt; pandoc_pdf_8_75pt"
@@ -9429,9 +9437,10 @@ def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
     assert 2900 <= diagnostics["print_docx"]["pericope_heading_count"] <= 3100
     assert 2900 <= diagnostics["pericope_headings"]["included"] <= 3100
     assert diagnostics["print_profile"]["layout"] == "compact_single_column"
-    assert diagnostics["print_profile"]["footnote_layout"].startswith("compact single-column PDF footnotes")
-    assert "Word-only two-column footnote hint" in diagnostics["print_profile"]["footnote_layout"]
-    assert "PDF stamping resets visible blue note numbers by page" in diagnostics["print_profile"]["alternate_pdf_renderer"]
+    assert diagnostics["print_profile"]["footnote_layout"].startswith("active Pandoc PDF uses two-column footnotes")
+    assert "Pandoc/XeLaTeX is the active full-size print proof renderer" in diagnostics["print_profile"][
+        "alternate_pdf_renderer"
+    ]
     assert "BSB-placement original headings included" in diagnostics["print_profile"]["pericope_headings"]
     assert "Why This Draft Exists" in document_xml
     assert "Rough Methodology" in document_xml
@@ -9459,10 +9468,56 @@ def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
     assert "Std: Gomer. Src: Gomer." not in footnotes_xml
     assert "Lulu-safe mirrored POD margins" in readme
     assert "Lulu PDF build stamps page numbers and chapter/verse ranges" in readme
-    assert "the_greek_heritage_study_bible_lulu_print_proof_pdf_headers.json" in readme
+    assert "the_greek_heritage_study_bible_lulu_print_proof_pandoc_pdf_headers.json" in readme
     assert "the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf" in readme
-    assert "Pandoc/XeLaTeX PDF with two-column footnotes" in readme
+    assert "active full-size Pandoc/XeLaTeX proof PDF with two-column footnotes" in readme
+    assert "`the_greek_heritage_study_bible_lulu_print_proof.pdf`" not in readme
+    assert "make build-print-proof-lulu-pdf" not in readme
+    assert "make build-print-proof-lulu-pandoc-pdf" in readme
     assert "Book preface pages included." in readme
+
+
+def test_lulu_pandoc_pdf_preserves_green_crossref_letters() -> None:
+    output_dir = ROOT / "output" / "print"
+    pdf_path = output_dir / "the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf"
+    diagnostics = json.loads(
+        (output_dir / "the_greek_heritage_study_bible_lulu_print_proof_diagnostics.json").read_text(
+            encoding="utf-8"
+        )
+    )
+    header_diagnostics = json.loads(
+        (output_dir / "the_greek_heritage_study_bible_lulu_print_proof_pandoc_pdf_headers.json").read_text(
+            encoding="utf-8"
+        )
+    )
+
+    document = fitz.open(pdf_path)
+    green_letters: list[str] = []
+    blue_note_numbers: list[str] = []
+    for page_index in (1, 9):
+        page = document[page_index]
+        for block in page.get_text("dict")["blocks"]:
+            if block.get("type") != 0:
+                continue
+            for line in block.get("lines", []):
+                for span in line.get("spans", []):
+                    text = span.get("text", "").strip()
+                    color = int(span.get("color", 0))
+                    size = float(span.get("size", 0))
+                    if color == 0x26704A and re.fullmatch(r"[a-z]+", text):
+                        green_letters.append(text)
+                    if color == 0x1F4E79 and text.isdigit() and 5.0 <= size <= 8.5:
+                        blue_note_numbers.append(text)
+
+    assert header_diagnostics["page_count"] == len(document)
+    assert 690 <= header_diagnostics["page_count"] <= 720
+    assert green_letters[:8] == ["b", "c", "d", "e", "f", "g", "h", "a"]
+    assert len(green_letters) >= 70
+    assert diagnostics["print_docx"]["crossref_footnotes"] > 27000
+    assert header_diagnostics["reset_blue_footnote_markers"] < (
+        diagnostics["print_docx"]["footnote_count"] * 2
+    )
+    assert "1" in blue_note_numbers
 
 
 def test_logos_readmes_use_testament_specific_language() -> None:

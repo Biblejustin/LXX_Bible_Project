@@ -111334,7 +111334,7 @@ Greek: τότε κατευφημήσαντες αὐτόν, ὡς πρέπον �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then, having acclaimed him as was fitting, their priests and the whole multitude, shouting Hallelujah, departed with joy.
+Draft translation: Then, having acclaimed him as was fitting, their priests and the whole multitude, shouting Alleluia, departed with joy.
 
 Decision rows:
 - None recorded.

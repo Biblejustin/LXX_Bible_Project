@@ -384,7 +384,7 @@ When you work the earth, it shall not continue to give you its strength. Groanin
 
 **Genesis 4:13**
 
-And Cain said to the Lord God, "Greater is my charge than for me to be forgiven."
+And Cain said to the Lord God, "My guilt is too great for me to be forgiven."
 
 **Genesis 4:14**
 
@@ -404,7 +404,7 @@ And Cain knew his wife, and having conceived she bore Enoch. And he was building
 
 **Genesis 4:18**
 
-And to Enoch was born Irad, and Irad begot Mahalaleel, and Mahalaleel begot Methusael, and Methusael begot Lamech.
+And to Enoch was born Irad, and Irad begot Mehujael, and Mehujael begot Methusael, and Methusael begot Lamech.
 
 **Genesis 4:19**
 
@@ -604,7 +604,7 @@ But Noah found favor before the Lord God.
 
 **Genesis 6:9**
 
-Now these are the generations of Noah. Noah was a righteous man, complete in his generation. Noah was well-pleasing to God.
+Now these are the generations of Noah. Noah was a righteous man, blameless in his generation. Noah was well-pleasing to God.
 
 **Genesis 6:10**
 
@@ -23622,7 +23622,7 @@ And the book of this law shall not depart from your mouth, and you shall meditat
 
 **Joshua 1:9**
 
-Behold, I have commanded you: be strong and act like a man. Do not be cowardly, nor fear, because the Lord your God is with you in everything you may do.
+Behold, I have commanded you: be strong and be courageous. Do not be cowardly, nor fear, because the Lord your God is with you in everything you may do.
 
 **Joshua 1:10**
 
@@ -24024,11 +24024,11 @@ And let the warriors pass by in front, and the priests bringing up the rear behi
 
 **Joshua 6:10**
 
-And Joshua commanded the people, saying, Do not shout, and let none of you be heard by voice until the day when he himself reports to shout, and then you shall shout.
+And Joshua commanded the people, saying, Do not shout, and let no one among you make his voice heard until the day when he himself announces the shout; then you shall shout.
 
 **Joshua 6:11**
 
-And the ark of the covenant of God went around the city and straightway went away into the camp and slept there.
+And the ark of the covenant of God, having gone around the city, immediately returned into the camp and lodged there.
 
 **Joshua 6:12**
 
@@ -57268,7 +57268,7 @@ For even if I walk in the midst of the shadow of death, I will not fear evils, b
 
 **Psalms 22:5**
 
-You prepared table before me opposite those afflicting me; you anointed my head with oil, and your cup intoxicating like strongest wine.
+You prepared table before me opposite those afflicting me; you anointed my head with oil, and your cup intoxicates me, how excellent.
 
 **Psalms 22:6**
 
@@ -66620,7 +66620,7 @@ And plan good things before the Lord and men.
 
 **Proverbs 3:5**
 
-Be trusting in God with all your heart, and do not exalt yourself on your own wisdom.
+Trust in God with all your heart, and do not exalt yourself on your own wisdom.
 
 **Proverbs 3:6**
 
@@ -74666,7 +74666,7 @@ For the young men will hunger and grow weary, and the chosen youths will be weak
 
 **Isaiah 40:31**
 
-But those enduring for God will change strength, they will grow wings like eagles, they will run and not grow weary, they will walk and not hunger.
+But those enduring for God will renew their strength, they will grow wings like eagles, they will run and not grow weary, they will walk and not hunger.
 
 #### Chapter 41
 

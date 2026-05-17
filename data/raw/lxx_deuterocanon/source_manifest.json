@@ -40,7 +40,7 @@
     }
   ],
   "imported_csv": "data/raw/lxx_deuterocanon/deuterocanon_full.csv",
-  "imported_csv_sha256": "5b44aca812c57c86ddac9fd7fe89631e73cd8f1969855eae3ed4d320c9e3fe94",
+  "imported_csv_sha256": "6ace94d52b277cf379f3ddca55239eece062e224c99a57920493a59a2acbd007",
   "csv_columns": [
     "ref",
     "book_code",

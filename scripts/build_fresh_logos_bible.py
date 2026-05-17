@@ -107,13 +107,14 @@ REFERENCE_NUMBERING_GUIDE = [
     ("English Jeremiah 31:31", "Jeremiah 38:31 here"),
     ("English Isaiah 9:6", "Isaiah 9:5 here"),
     ("English Micah 5:2", "Micah 5:1 here"),
-    ("English Malachi 4:5", "Malachi 3:22-23 here"),
+    ("English Malachi 4:5", "Malachi 3:22 here"),
+    ("English Malachi 4:6", "Malachi 3:23 here"),
 ]
 
 SOURCE_BASIS_GUIDE = {
     "ot": [
         "OT source basis: this branch translates the normalized LXX Greek source rows in data/raw/lxx_greek/ot_full.csv; it does not revise an English base text.",
-        "Daniel source basis: Daniel follows the Greek Daniel rows currently present in that source workspace. It is not silently replaced with Theodotion- or MT/Aramaic-shaped wording.",
+        "Daniel source basis: Daniel follows the Greek Daniel rows present in the Protestant-canon OT source workspace; the Greek additions (Song of the Three Young Men; Susanna; Bel and the Dragon) are emitted in the separate Deuterocanon edition. Daniel is not silently replaced with Theodotion- or MT/Aramaic-shaped wording.",
         "Canon scope: deuterocanonical and apocryphal LXX books are planned as a separate workstream, not folded into this Protestant-canon branch.",
     ],
     "nt": [
@@ -122,7 +123,7 @@ SOURCE_BASIS_GUIDE = {
     "combined": [
         "OT source basis: this branch translates the normalized LXX Greek source rows in data/raw/lxx_greek/ot_full.csv; it does not revise an English base text.",
         "NT source basis: this branch translates the Scrivener 1894 Textus Receptus stream imported from byztxt/greektext-scrivener text-only files.",
-        "Daniel source basis: Daniel follows the Greek Daniel rows currently present in the OT source workspace. It is not silently replaced with Theodotion- or MT/Aramaic-shaped wording.",
+        "Daniel source basis: Daniel follows the Greek Daniel rows present in the Protestant-canon OT source workspace; the Greek additions (Song of the Three Young Men; Susanna; Bel and the Dragon) are emitted in the separate Deuterocanon edition. Daniel is not silently replaced with Theodotion- or MT/Aramaic-shaped wording.",
         "Canon scope: deuterocanonical and apocryphal LXX books are planned as a separate workstream, not folded into this Protestant-canon branch.",
     ],
     "deuterocanon": [
@@ -225,7 +226,7 @@ LEADING_INT_RE = re.compile(r"^(\d+)")
 
 LOGOS_BOOK_NAME_OVERRIDES = {
     "ESGA": "Esther",
-    "LJE": "LJe",
+    "LJE": "Letter of Jeremiah",
 }
 
 LOGOS_DEUTEROCANON_SUPPRESSED_BOOK_CODES = {
@@ -893,21 +894,32 @@ def text_runs_with_place_links(
     end: int,
     place_spans: list[PlaceLinkSpan],
 ) -> list[str]:
+    def verse_run(value: str) -> str:
+        return run(normalize_bible_text_for_output(value))
+
     relevant = [span for span in place_spans if start <= span.start and span.end <= end]
     if not relevant:
-        return [run(verse_text[start:end])]
+        return [verse_run(verse_text[start:end])]
 
     output: list[str] = []
     cursor = start
     for span in relevant:
         if cursor < span.start:
-            output.append(run(verse_text[cursor:span.start]))
-        label = verse_text[span.start:span.end]
+            output.append(verse_run(verse_text[cursor:span.start]))
+        label = normalize_bible_text_for_output(verse_text[span.start:span.end])
         output.append(run(f"[[{label} >> BibleKnowledgebase:{span.link.pb_reference}]]"))
         cursor = span.end
     if cursor < end:
-        output.append(run(verse_text[cursor:end]))
+        output.append(verse_run(verse_text[cursor:end]))
     return output
+
+
+def normalize_bible_text_for_output(value: str) -> str:
+    """Use KJV-style unmarked speech in the published Bible text."""
+    value = value.replace('"', "")
+    value = re.sub(r"(?<![A-Za-z0-9])'|'(?![A-Za-z0-9])", "", value)
+    value = re.sub(r"\s+([,.;:!?])", r"\1", value)
+    return value
 
 
 def find_trigger_span(
@@ -1122,7 +1134,7 @@ def build_footnotes_xml(notes: list[FootnoteEntry], *, compact_print: bool = Fal
             f'<w:footnote w:id="{index}">'
             '<w:p><w:pPr><w:pStyle w:val="FootnoteText"/></w:pPr>'
             f"{marker_run}"
-            f"{''.join(runs_for_plain_text(' ' + note_text, size=footnote_text_size, complex_size=footnote_complex_size))}"
+            f"{''.join(runs_for_plain_text(note_text, size=footnote_text_size, complex_size=footnote_complex_size))}"
             "</w:p></w:footnote>"
         )
     return (
@@ -3317,7 +3329,7 @@ def build_verse_runs(
     superscription = split_psalm_superscription(verse)
     if superscription:
         superscription_text, body_text = superscription
-        runs.append(run(superscription_text, italic=True))
+        runs.append(run(f"{superscription_text} ", italic=True))
         stats.superscription_line_count += 1
         text_for_notes = body_text
         if body_text:

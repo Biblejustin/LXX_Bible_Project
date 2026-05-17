@@ -403,19 +403,35 @@ def xref_footnote_originals_fitz(text_dict: dict[str, object]) -> set[int]:
     for block in text_dict.get("blocks", []):
         if block.get("type") != 0:
             continue
-        for line in block.get("lines", []):
+        lines = block.get("lines", [])
+        for line_index, line in enumerate(lines):
             spans = [span for span in line.get("spans", []) if span.get("text", "")]
             if len(spans) < 2:
+                if len(spans) == 1:
+                    marker = spans[0].get("text", "").strip()
+                    if (
+                        FOOTNOTE_MARKER_SPAN_RE.fullmatch(marker)
+                        and int(spans[0].get("color", 0)) == NOTE_BLUE_INT
+                        and line_index + 1 < len(lines)
+                    ):
+                        next_line = lines[line_index + 1]
+                        next_text = "".join(
+                            span.get("text", "") for span in next_line.get("spans", [])
+                        ).lstrip()
+                        if (
+                            next_text.startswith("X:")
+                            and abs(float(next_line["bbox"][1]) - float(line["bbox"][1])) < 1.0
+                        ):
+                            originals.add(int(marker))
                 continue
             marker = spans[0].get("text", "").strip()
             if (
-                not FOOTNOTE_MARKER_SPAN_RE.fullmatch(marker)
-                or int(spans[0].get("color", 0)) != NOTE_BLUE_INT
+                FOOTNOTE_MARKER_SPAN_RE.fullmatch(marker)
+                and int(spans[0].get("color", 0)) == NOTE_BLUE_INT
             ):
-                continue
-            line_text = "".join(span.get("text", "") for span in spans[1:]).lstrip()
-            if line_text.startswith("X:"):
-                originals.add(int(marker))
+                line_text = "".join(span.get("text", "") for span in spans[1:]).lstrip()
+                if line_text.startswith("X:"):
+                    originals.add(int(marker))
     return originals
 
 
@@ -456,6 +472,8 @@ def reset_and_embolden_blue_footnote_markers_fitz(
                     expected_original=expected_original,
                     local_by_original=local_by_original,
                 )
+                if not any(original in xref_originals for original in originals):
+                    continue
                 local_parts: list[str] = []
                 for original in originals:
                     if original in xref_originals:
@@ -464,39 +482,22 @@ def reset_and_embolden_blue_footnote_markers_fitz(
                             next_xref += 1
                         local_parts.append(xref_by_original[original])
                     else:
-                        if original not in local_by_original:
-                            local_by_original[original] = next_local
-                            next_local += 1
-                        local_parts.append(str(local_by_original[original]))
+                        local_parts.append(str(original))
                 local_text = "".join(local_parts)
-                marker_color = (
-                    NOTE_GREEN_RGB
-                    if originals and all(original in xref_originals for original in originals)
-                    else NOTE_BLUE_RGB
-                )
-                if originals and any(original in xref_originals for original in originals) and not all(
-                    original in xref_originals for original in originals
-                ):
-                    marker_color = NOTE_GREEN_RGB
+                marker_color = NOTE_GREEN_RGB
                 origin = span.get("origin")
                 rect = fitz.Rect(span["bbox"])
                 if origin is None:
                     origin = (rect.x0, rect.y1 - 1.0)
                 note_block_marker = size >= 7.0
-                marker_right = float(rect.x1)
                 rect.x0 -= 0.3
                 rect.y0 -= 0.3
-                rect.x1 += 0.0 if note_block_marker else 0.9
+                rect.x1 += 0.0 if note_block_marker else 0.2
                 rect.y1 += 0.9
                 rect_shape.draw_rect(rect)
                 insert_x = float(origin[0])
                 if note_block_marker:
-                    local_width = fitz.get_text_length(
-                        local_text,
-                        fontname="Times-Bold",
-                        fontsize=size,
-                    )
-                    insert_x = marker_right - local_width - 2.0
+                    insert_x = float(origin[0])
                 text_shape.insert_text(
                     (insert_x, float(origin[1])),
                     local_text,

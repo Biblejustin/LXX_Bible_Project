@@ -99,11 +99,11 @@ matter includes the legend.
 For a Lulu/POD upload proof that stays under common 800-page limits, run:
 
 ```bash
-make build-print-proof-lulu-pdf
+make build-print-proof-lulu-pandoc-pdf
 ```
 
 That target includes the compact front matter and book preface pages, then writes
-a Letter-size PDF under `output/print/`.
+a Letter-size Pandoc/XeLaTeX PDF under `output/print/`.
 
 For fast NT iteration without touching committed release outputs:
 

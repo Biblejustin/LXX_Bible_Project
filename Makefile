@@ -3,6 +3,7 @@
 PYTHON ?= python
 SOFFICE ?= /Applications/LibreOffice.app/Contents/MacOS/soffice
 PANDOC ?= pandoc
+XELATEX ?= xelatex
 CHANGES ?= Reviewed article and readability cleanup.
 GUARD_NOTE ?= review chunk
 
@@ -89,20 +90,22 @@ generate-print-pericopes:
 build-print-proof: generate-print-pericopes
 	$(PYTHON) scripts/build_print_proof_bible.py
 
-build-print-proof-lulu-pdf: generate-print-pericopes
-	$(PYTHON) scripts/build_print_proof_bible.py --lulu-pod-margins --run-in-verse-paragraphs --run-in-group-size 0 --output output/print/the_greek_heritage_study_bible_lulu_print_proof.docx --diagnostics output/print/the_greek_heritage_study_bible_lulu_print_proof_diagnostics.json --readme output/print/README_lulu.md
-	$(SOFFICE) -env:UserInstallation=file:///tmp/lo_lulu_print_proof_$$$$ --headless --convert-to pdf --outdir output/print output/print/the_greek_heritage_study_bible_lulu_print_proof.docx
-	$(PYTHON) scripts/stamp_print_pdf_headers.py --input output/print/the_greek_heritage_study_bible_lulu_print_proof.pdf --output output/print/the_greek_heritage_study_bible_lulu_print_proof.pdf --source data/raw/lxx_greek/ot_full.csv --nt-source data/raw/tr_greek/nt_full.csv --diagnostics output/print/the_greek_heritage_study_bible_lulu_print_proof_pdf_headers.json
+build-print-proof-lulu-pdf: build-print-proof-lulu-pandoc-pdf
 
 build-print-proof-lulu-pandoc-pdf: generate-print-pericopes
 	$(PYTHON) scripts/build_print_proof_bible.py --lulu-pod-margins --run-in-verse-paragraphs --run-in-group-size 0 --include-openbible-crossrefs --max-crossref-refs 4 --output output/print/the_greek_heritage_study_bible_lulu_print_proof.docx --diagnostics output/print/the_greek_heritage_study_bible_lulu_print_proof_diagnostics.json --readme output/print/README_lulu.md
-	$(PANDOC) output/print/the_greek_heritage_study_bible_lulu_print_proof.docx -o output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.pdf --pdf-engine=xelatex --lua-filter scripts/pandoc_pericope_keep.lua -H scripts/pandoc_print_header_8_75_green_xrefs.tex -V documentclass=extarticle -V papersize=letter -V classoption=twoside -V geometry:inner=0.55in -V geometry:outer=0.40in -V geometry:top=0.45in -V geometry:bottom=0.45in -V mainfont="Times New Roman" -V mainfontoptions=Ligatures=NoCommon
+	$(PANDOC) output/print/the_greek_heritage_study_bible_lulu_print_proof.docx -s -o output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.tex --lua-filter scripts/pandoc_pericope_keep.lua -H scripts/pandoc_print_header_8_75_green_xrefs.tex -V documentclass=extarticle -V papersize=letter -V classoption=twoside -V geometry:inner=0.55in -V geometry:outer=0.40in -V geometry:top=0.45in -V geometry:bottom=0.45in -V mainfont="Times New Roman" -V mainfontoptions=Ligatures=NoCommon
+	cd output/print && $(XELATEX) -interaction=nonstopmode -halt-on-error -cnf-line=stack_size=500000 the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.tex
+	cd output/print && $(XELATEX) -interaction=nonstopmode -halt-on-error -cnf-line=stack_size=500000 the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.tex
+	cd output/print && $(XELATEX) -interaction=nonstopmode -halt-on-error -cnf-line=stack_size=500000 the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.tex
+	rm -f output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.aux output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.log output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.out output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.tex
 	$(PYTHON) scripts/stamp_print_pdf_headers.py --input output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.pdf --output output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf --source data/raw/lxx_greek/ot_full.csv --nt-source data/raw/tr_greek/nt_full.csv --diagnostics output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_pdf_headers.json
+	rm -f output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.pdf
 
 build-print-proof-handy-pandoc-pdf: generate-print-pericopes
 	mkdir -p output/print/size_sweep/handy_6_39x9_46
 	$(PYTHON) scripts/build_print_proof_bible.py --lulu-pod-margins --run-in-verse-paragraphs --run-in-group-size 0 --include-openbible-crossrefs --max-crossref-refs 3 --output output/print/size_sweep/handy_6_39x9_46/the_greek_heritage_study_bible_handy_6_39x9_46.docx --diagnostics output/print/size_sweep/handy_6_39x9_46/the_greek_heritage_study_bible_handy_6_39x9_46_diagnostics.json --readme output/print/size_sweep/handy_6_39x9_46/README.md
-	$(PANDOC) output/print/size_sweep/handy_6_39x9_46/the_greek_heritage_study_bible_handy_6_39x9_46.docx -o output/print/size_sweep/handy_6_39x9_46/the_greek_heritage_study_bible_handy_6_39x9_46_raw.pdf --pdf-engine=xelatex --lua-filter scripts/pandoc_pericope_keep.lua -H scripts/pandoc_print_header_8_75_green_xrefs.tex -V documentclass=extarticle -V geometry:paperwidth=6.39in -V geometry:paperheight=9.46in -V classoption=twoside -V geometry:inner=0.50in -V geometry:outer=0.35in -V geometry:top=0.42in -V geometry:bottom=0.42in -V mainfont="Times New Roman" -V mainfontoptions=Ligatures=NoCommon
+	$(PANDOC) output/print/size_sweep/handy_6_39x9_46/the_greek_heritage_study_bible_handy_6_39x9_46.docx -o output/print/size_sweep/handy_6_39x9_46/the_greek_heritage_study_bible_handy_6_39x9_46_raw.pdf --pdf-engine=xelatex --pdf-engine-opt=-cnf-line=stack_size=500000 --lua-filter scripts/pandoc_pericope_keep.lua -H scripts/pandoc_print_header_8_75_green_xrefs.tex -V documentclass=extarticle -V geometry:paperwidth=6.39in -V geometry:paperheight=9.46in -V classoption=twoside -V geometry:inner=0.50in -V geometry:outer=0.35in -V geometry:top=0.42in -V geometry:bottom=0.42in -V mainfont="Times New Roman" -V mainfontoptions=Ligatures=NoCommon
 	$(PYTHON) scripts/stamp_print_pdf_headers.py --input output/print/size_sweep/handy_6_39x9_46/the_greek_heritage_study_bible_handy_6_39x9_46_raw.pdf --output output/print/size_sweep/handy_6_39x9_46/the_greek_heritage_study_bible_handy_6_39x9_46.pdf --source data/raw/lxx_greek/ot_full.csv --nt-source data/raw/tr_greek/nt_full.csv --diagnostics output/print/size_sweep/handy_6_39x9_46/the_greek_heritage_study_bible_handy_6_39x9_46_headers.json
 
 release-combined: build-combined build-combined-logos
