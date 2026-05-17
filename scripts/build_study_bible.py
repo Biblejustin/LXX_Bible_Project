@@ -1451,9 +1451,56 @@ def book_intro_has_content(row: Optional[Dict[str, str]]) -> bool:
     return False
 
 
+INTRO_DATE_RANGES = {
+    "Hasmonean period": "Hasmonean period, ca. 140-37 BC",
+    "Herodian period": "Herodian period, ca. 37 BC-AD 70",
+    "Hasmonean-Herodian periods": "Hasmonean-Herodian periods, ca. 140 BC-AD 70",
+    "Second Temple period": "Second Temple period, ca. 516 BC-AD 70",
+    "Late Second Temple period": "Late Second Temple period, ca. 200 BC-AD 70",
+    "Hellenistic period": "Hellenistic period, ca. 332-63 BC",
+    "Hellenistic and later": "Hellenistic and later, ca. 332 BC-AD 700",
+    "Roman period": "Roman period, ca. 63 BC-AD 324",
+    "Second Temple and medieval periods": "Second Temple and medieval periods, ca. 516 BC-AD 1500",
+    "late antiquity": "late antiquity, ca. AD 300-700",
+    "late antique and later": "late antique and later, ca. AD 300 and later",
+    "late antique and medieval": "late antique and medieval, ca. AD 300-1500",
+    "late antique and medieval periods": "late antique and medieval periods, ca. AD 300-1500",
+    "medieval Ethiopic manuscripts": "medieval Ethiopic manuscripts, ca. AD 500-1500",
+    "Second Temple and early Christian periods": "Second Temple and early Christian periods, ca. 516 BC-AD 400",
+    "later Second Temple and early Christian periods": "later Second Temple and early Christian periods, ca. 200 BC-AD 400",
+    "later Second Temple and after": "later Second Temple and after, ca. 200 BC-AD 400+",
+    "Second Temple and later": "Second Temple and later, ca. 516 BC-AD 400+",
+    "later biblical and post-biblical reception": "later biblical and post-biblical reception, ca. 7th century BC-AD 400+",
+    "Persian period narrative and later canon": "Persian period narrative and later canon, ca. 539-332 BC and later",
+    "exilic or late pre-exilic composition using earlier royal records": "exilic or late pre-exilic composition, ca. 7th-6th century BC, using earlier royal records",
+    "exilic composition using earlier records and prophetic material": "exilic composition, ca. 6th century BC, using earlier records and prophetic material",
+    "patriarchal-era setting; composition date debated": "patriarchal-era setting; composition date debated, broadly ca. 2nd-1st millennium BC",
+    "date debated; conservative options range from early monarchy to post-exilic": "date debated; conservative options range from early monarchy to post-exilic, ca. 10th-5th century BC",
+    "Hellenistic period composition using earlier story traditions": "Hellenistic period, ca. 332-63 BC, composition using earlier story traditions",
+    "exilic frame; likely later composition history": "exilic frame, ca. 6th century BC; likely later composition history, ca. 3rd-1st century BC",
+    "Hellenistic period or earlier tradition": "Hellenistic period or earlier tradition, ca. 332-63 BC or earlier",
+    "Hellenistic or later": "Hellenistic or later, ca. 332 BC-AD 400",
+}
+
+
+def expand_intro_date(value: str) -> str:
+    stripped = value.strip()
+    if stripped.lower() == "n/a":
+        return ""
+    return INTRO_DATE_RANGES.get(stripped, stripped)
+
+
 def compact_intro_groups(row: Dict[str, str]) -> List[Tuple[str, str]]:
+    def cell(key: str) -> str:
+        value = row.get(key, "").strip()
+        if value.lower() == "n/a":
+            return ""
+        if key.endswith("_date"):
+            return expand_intro_date(value)
+        return value
+
     def parts(*keys: str) -> str:
-        values = [row.get(key, "").strip() for key in keys if row.get(key, "").strip()]
+        values = [cell(key) for key in keys if cell(key)]
         return " ".join(values).strip()
 
     witnesses = []
@@ -1472,7 +1519,7 @@ def compact_intro_groups(row: Dict[str, str]) -> List[Tuple[str, str]]:
     if row.get("oldest_external_reference_author", "").strip():
         external.append("by " + row["oldest_external_reference_author"].strip())
     if row.get("oldest_external_reference_date", "").strip():
-        external.append("(" + row["oldest_external_reference_date"].strip() + ")")
+        external.append("(" + expand_intro_date(row["oldest_external_reference_date"]) + ")")
 
     groups = [
         ("Author and Attribution", parts("traditional_author")),

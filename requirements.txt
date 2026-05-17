@@ -2,5 +2,11 @@
 # reportlab is optional, used only for the PDF excerpt from build_study_bible.py.
 reportlab>=4.2,<5
 
+# Optional but strongly preferred for fast PDF header stamping.
+PyMuPDF>=1.27,<2
+
+# Optional cover/background rendering dependency.
+Pillow>=12,<13
+
 # Test dependency.
 pytest>=8.2,<9

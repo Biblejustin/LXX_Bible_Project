@@ -84,7 +84,7 @@ SOURCE_BOOKS = [
         "Greek Esther",
         "ESG",
         "ΕΣΘΗΡ",
-        note="Imported as full Greek Esther; `ESGA` separately provides an additions-only view from the suffixed rows.",
+        note="Imported as full Greek Esther; `ESGA` separately provides an additions-only view from the suffixed and inline-labeled rows.",
     ),
     SourceBook(
         "43-ESGgrclxx.usfm",
@@ -92,8 +92,8 @@ SOURCE_BOOKS = [
         "Greek Esther Additions",
         "ESG",
         "ΕΣΘΗΡ",
-        source_scope="verse_suffix",
-        note="Additions-only view derived from the suffixed rows in the full GRCLXX Greek Esther source; full Greek Esther remains imported as ESG.",
+        source_scope="esther_additions",
+        note="Additions-only view derived from the suffixed and inline-labeled rows in the full GRCLXX Greek Esther source; full Greek Esther remains imported as ESG.",
     ),
     SourceBook("45-WISgrclxx.usfm", "WIS", "Wisdom", "WIS", "ΣΟΦΙΑ ΣΟΛΟΜΩΝΤΟΣ"),
     SourceBook("46-SIRgrclxx.usfm", "SIR", "Sirach", "SIR", "ΣΟΦΙΑ ΣΕΙΡΑΧ"),
@@ -119,7 +119,7 @@ SOURCE_BOOKS = [
         "2 Esdras",
         "2ES",
         "ΕΣΔΡΑΣ Β",
-        note="Greek Ezra B / 2 Esdras from the primary GRCLXX package; this overlaps canonical Ezra and is included for broad EO appendix coverage.",
+        note="Greek Ezra B / 2 Esdras from the primary GRCLXX package; this overlaps canonical Ezra and is included for broad EO appendix coverage. This is not the Latin apocalypse commonly titled 2 Esdras / 4 Ezra in some English traditions.",
     ),
     SourceBook(
         "55-MANgrcbrent.usfm",
@@ -168,6 +168,10 @@ CROSSREF_RE = re.compile(r"\\x\s+.*?\\x\*", flags=re.S)
 USFM_MARKER_RE = re.compile(r"\\[a-zA-Z0-9]+\\*?")
 USFM_METADATA_RE = re.compile(r"^\\(id|h|toc1|toc2|toc3|mt1)\s+(.+?)\s*$")
 VERSE_SUFFIX_RE = re.compile(r"[A-Za-zΑ-Ωα-ω]$")
+PLAIN_INLINE_VERSE_RE = re.compile(r"(?<!\S)(\d+(?:[A-Za-zΑ-Ωα-ω])?)\s+")
+GREEK_INLINE_VERSE_RE = re.compile(r"(?<!\S)(\d+[Α-Ωα-ω])\s+")
+DRAFT_INLINE_VERSE_RE = re.compile(r"\[(\d+(?:[A-Za-zΑ-Ωα-ω])?)\]\s+")
+REF_RE = re.compile(r"^(?P<book>.+) (?P<chapter>[^:]+):(?P<verse>\S+)$")
 
 SOURCE_METADATA = {
     PRIMARY_SOURCE_KEY: {
@@ -187,6 +191,10 @@ SOURCE_METADATA = {
         "source_verified_date": SUPPLEMENTAL_SOURCE_VERIFIED_DATE,
     },
 }
+
+
+def normalize_source_encoding(text: str) -> str:
+    return text.replace("ῃ£", "ῄ").replace("υ±", "ΰ")
 
 
 def sha256_bytes(data: bytes) -> str:
@@ -212,12 +220,74 @@ def verse_has_suffix(verse: str) -> bool:
     return bool(VERSE_SUFFIX_RE.search(verse.strip()))
 
 
+def split_inline_verse_markers(text: str, pattern: re.Pattern[str]) -> tuple[str, dict[str, str]]:
+    matches = list(pattern.finditer(text))
+    if not matches:
+        return text.strip(), {}
+    leading = text[: matches[0].start()].strip()
+    segments: dict[str, str] = {}
+    for index, match in enumerate(matches):
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(text)
+        segment = text[match.end() : end].strip()
+        if segment:
+            segments[match.group(1)] = segment
+    return leading, segments
+
+
+def expand_esther_addition_rows(
+    parsed_rows: list[tuple[str, str, str, str]]
+) -> list[tuple[str, str, str, str]]:
+    expanded: list[tuple[str, str, str, str]] = []
+    for chapter, verse, greek_text, syntax_notes in parsed_rows:
+        leading, segments = split_inline_verse_markers(greek_text, GREEK_INLINE_VERSE_RE)
+        if verse_has_suffix(verse):
+            if leading:
+                expanded.append((chapter, verse, leading, syntax_notes))
+            elif not segments:
+                expanded.append((chapter, verse, greek_text, syntax_notes))
+            for inline_verse, segment in segments.items():
+                expanded.append((chapter, inline_verse, segment, syntax_notes))
+        elif segments:
+            for inline_verse, segment in segments.items():
+                expanded.append((chapter, inline_verse, segment, syntax_notes))
+    return expanded
+
+
+def expand_plain_inline_verse_rows(
+    parsed_rows: list[tuple[str, str, str, str]]
+) -> list[tuple[str, str, str, str]]:
+    expanded: list[tuple[str, str, str, str]] = []
+    for chapter, verse, greek_text, syntax_notes in parsed_rows:
+        leading, segments = split_inline_verse_markers(greek_text, PLAIN_INLINE_VERSE_RE)
+        if not segments:
+            expanded.append((chapter, verse, greek_text, syntax_notes))
+            continue
+        if leading:
+            expanded.append((chapter, verse, leading, syntax_notes))
+        else:
+            expanded.append((chapter, verse, greek_text, syntax_notes))
+        for inline_verse, segment in segments.items():
+            expanded.append((chapter, inline_verse, segment, syntax_notes))
+    return expanded
+
+
+def inline_verse_label_count(
+    parsed_rows: list[tuple[str, str, str, str]],
+    pattern: re.Pattern[str],
+) -> int:
+    return sum(
+        len(split_inline_verse_markers(greek_text, pattern)[1])
+        for _chapter, _verse, greek_text, _syntax_notes in parsed_rows
+    )
+
+
 def clean_usfm_text(text: str) -> str:
     text = FOOTNOTE_RE.sub(" ", text)
     text = CROSSREF_RE.sub(" ", text)
     text = USFM_MARKER_RE.sub(" ", text)
     text = text.replace("\ufeff", "")
     text = text.replace("\xa0", " ")
+    text = normalize_source_encoding(text)
     text = re.sub(r"\s+", " ", text)
     return text.strip()
 
@@ -229,6 +299,7 @@ def clean_source_note(text: str) -> str:
     text = re.sub(r"\\f[qkva-z0-9]*\s*", " ", text, flags=re.I)
     text = USFM_MARKER_RE.sub(" ", text)
     text = text.replace("\xa0", " ")
+    text = normalize_source_encoding(text)
     text = re.sub(r"\s+", " ", text)
     return text.strip()
 
@@ -369,13 +440,29 @@ def import_rows(source_archives: dict[str, bytes]) -> tuple[list[dict[str, str]]
             id_match = source_usfm_id == source_book.expected_usfm_id
             title_match = source_book.expected_title in title_haystack
             parsed_rows = parse_usfm_verses(text)
+            raw_parsed_rows = parsed_rows
+            plain_inline_verse_labels_split = 0
+            esther_addition_inline_labels_selected = 0
             if source_book.source_scope == "chapter":
                 parsed_rows = [
                     row for row in parsed_rows if row[0] == source_book.chapter_filter
                 ]
             elif source_book.source_scope == "verse_suffix":
                 parsed_rows = [row for row in parsed_rows if verse_has_suffix(row[1])]
+            elif source_book.source_scope == "esther_additions":
+                esther_addition_inline_labels_selected = inline_verse_label_count(
+                    raw_parsed_rows,
+                    GREEK_INLINE_VERSE_RE,
+                )
+                parsed_rows = expand_esther_addition_rows(parsed_rows)
+            else:
+                plain_inline_verse_labels_split = inline_verse_label_count(
+                    raw_parsed_rows,
+                    PLAIN_INLINE_VERSE_RE,
+                )
+                parsed_rows = expand_plain_inline_verse_rows(parsed_rows)
             source_note_count = sum(1 for row in parsed_rows if row[3])
+            bracketed_source_text_rows = sum(1 for row in parsed_rows if "[" in row[2] or "]" in row[2])
             for chapter, verse, greek_text, syntax_notes in parsed_rows:
                 rows.append(
                     {
@@ -408,6 +495,9 @@ def import_rows(source_archives: dict[str, bytes]) -> tuple[list[dict[str, str]]
                 "source_title_match": title_match,
                 "rows": len(parsed_rows),
                 "source_note_rows": source_note_count,
+                "plain_inline_verse_labels_split": plain_inline_verse_labels_split,
+                "esther_addition_inline_labels_selected": esther_addition_inline_labels_selected,
+                "bracketed_source_text_rows": bracketed_source_text_rows,
                 "note": source_book.note,
                 "status": "imported" if parsed_rows and id_match and title_match else "needs_source_review",
             }
@@ -416,6 +506,15 @@ def import_rows(source_archives: dict[str, bytes]) -> tuple[list[dict[str, str]]
         "rows": len(rows),
         "book_count": len({row["book_code"] for row in rows}),
         "source_note_rows": sum(1 for row in rows if row.get("syntax_notes", "").strip()),
+        "plain_inline_verse_labels_split": sum(
+            int(stat.get("plain_inline_verse_labels_split", 0)) for stat in book_stats.values()
+        ),
+        "esther_addition_inline_labels_selected": sum(
+            int(stat.get("esther_addition_inline_labels_selected", 0)) for stat in book_stats.values()
+        ),
+        "bracketed_source_text_rows": sum(
+            int(stat.get("bracketed_source_text_rows", 0)) for stat in book_stats.values()
+        ),
         "source_validation": {
             "checked_books": len(book_stats),
             "source_id_mismatches": [
@@ -455,9 +554,83 @@ def load_existing_drafts(path: Path) -> dict[str, dict[str, str]]:
             if ref and draft:
                 rows[ref] = {
                     "draft_translation": draft,
-                    "greek_text": row.get("greek_text", ""),
+                    "greek_text": normalize_source_encoding(row.get("greek_text", "")),
                 }
         return rows
+
+
+def esther_addition_segment_drafts(
+    existing_drafts: dict[str, dict[str, str]]
+) -> dict[str, dict[str, str]]:
+    segments: dict[str, dict[str, str]] = {}
+    for ref, data in existing_drafts.items():
+        match = REF_RE.match(ref)
+        if not match or match.group("book") != "Greek Esther":
+            continue
+        chapter = match.group("chapter")
+        verse = match.group("verse")
+        greek_text = data.get("greek_text", "")
+        draft = data.get("draft_translation", "")
+        greek_leading, greek_segments = split_inline_verse_markers(
+            greek_text, GREEK_INLINE_VERSE_RE
+        )
+        draft_leading, draft_segments = split_inline_verse_markers(
+            draft, DRAFT_INLINE_VERSE_RE
+        )
+
+        def add_segment(target_verse: str, target_greek: str, target_draft: str) -> None:
+            target_ref = f"Greek Esther Additions {chapter}:{target_verse}"
+            if target_greek and target_draft:
+                segments[target_ref] = {
+                    "greek_text": target_greek,
+                    "draft_translation": target_draft,
+                }
+
+        if verse_has_suffix(verse):
+            if greek_leading and draft_leading:
+                add_segment(verse, greek_leading, draft_leading)
+            elif not greek_segments and not draft_segments:
+                add_segment(verse, greek_text, draft)
+            for inline_verse, target_greek in greek_segments.items():
+                add_segment(inline_verse, target_greek, draft_segments.get(inline_verse, ""))
+        else:
+            for inline_verse, target_greek in greek_segments.items():
+                add_segment(inline_verse, target_greek, draft_segments.get(inline_verse, ""))
+    return segments
+
+
+def plain_inline_segment_drafts(
+    existing_drafts: dict[str, dict[str, str]]
+) -> dict[str, dict[str, str]]:
+    segments: dict[str, dict[str, str]] = {}
+    for ref, data in existing_drafts.items():
+        match = REF_RE.match(ref)
+        if not match:
+            continue
+        book = match.group("book")
+        chapter = match.group("chapter")
+        greek_text = data.get("greek_text", "")
+        draft = data.get("draft_translation", "")
+        greek_leading, greek_segments = split_inline_verse_markers(
+            greek_text, PLAIN_INLINE_VERSE_RE
+        )
+        draft_leading, draft_segments = split_inline_verse_markers(
+            draft, DRAFT_INLINE_VERSE_RE
+        )
+        if greek_segments and greek_leading and draft_leading:
+            segments[ref] = {
+                "greek_text": greek_leading,
+                "draft_translation": draft_leading,
+            }
+        for inline_verse, target_greek in greek_segments.items():
+            target_draft = draft_segments.get(inline_verse, "")
+            target_ref = f"{book} {chapter}:{inline_verse}"
+            if target_greek and target_draft:
+                segments[target_ref] = {
+                    "greek_text": target_greek,
+                    "draft_translation": target_draft,
+                }
+    return segments
 
 
 def preserve_existing_drafts(
@@ -465,15 +638,26 @@ def preserve_existing_drafts(
     existing_drafts: dict[str, dict[str, str]],
 ) -> dict[str, int]:
     counts: Counter[str] = Counter()
+    esther_segments = esther_addition_segment_drafts(existing_drafts)
+    plain_segments = plain_inline_segment_drafts(existing_drafts)
     for row in rows:
         ref = row["ref"]
         existing = existing_drafts.get(ref)
         canonical_overlap = False
+        if row.get("book_code") == "ESGA":
+            segment_existing = esther_segments.get(ref)
+            if segment_existing:
+                existing = segment_existing
+                counts["candidate_esther_additions_segment_rows"] += 1
         if not existing and row.get("book_code") == "ESGA":
             source_ref = ref.replace("Greek Esther Additions", "Greek Esther", 1)
             existing = existing_drafts.get(source_ref)
             if existing:
                 counts["candidate_esther_additions_rows"] += 1
+        segment_existing = plain_segments.get(ref)
+        if segment_existing:
+            existing = segment_existing
+            counts["candidate_plain_inline_segment_rows"] += 1
         if not existing and row.get("book_code") in CANONICAL_OVERLAP_DRAFT_ALIASES:
             source_book = CANONICAL_OVERLAP_DRAFT_ALIASES[row["book_code"]]
             source_ref = f"{source_book} {row['chapter']}:{row['verse']}"
@@ -560,7 +744,7 @@ def build_manifest(
         "missing_source_candidates_doc": "docs/DEUTEROCANON_MISSING_SOURCES.md",
         "pending_decisions_doc": "docs/DEUTEROCANON_PENDING_DECISIONS.md",
         "validation_command": "make validate-deuterocanon",
-        "translation_policy": "Importer-created rows start with blank draft_translation; reruns preserve existing draft translations when the reference and Greek source text still match. The GRCLXX package is the primary source; the public-domain eBible Brenton Greek package supplies Prayer of Manasseh and true 2 Maccabees rows absent from GRCLXX. Greek Ezra B / 2 Esdras is a canonical-overlap appendix stream and reuses the current Ezra draft text for its first draft while preserving its separate Greek source rows for review. This workspace starts from Greek source rows, not from an English base.",
+        "translation_policy": "Importer-created rows start with blank draft_translation; reruns preserve existing draft translations when the reference and Greek source text still match. The GRCLXX package is the primary source; the public-domain eBible Brenton Greek package supplies Prayer of Manasseh and true 2 Maccabees rows absent from GRCLXX. Greek Ezra B / 2 Esdras is a canonical-overlap appendix stream and preserves its separate Greek source rows for review. This workspace starts from Greek source rows, not from an English base. Additional appendix material is skipped unless a Greek source is present, or unless strong evidence for a Greek source behind the extant text is documented.",
         "diagnostics": diagnostics,
     }
 
@@ -598,8 +782,10 @@ def write_inventory(path: Path, manifest: dict[str, object]) -> None:
         "- `draft_translation` starts blank on first import; importer reruns preserve existing drafts when the reference and Greek source text still match.",
         "- Brenton English and other English witnesses are not used as the translation base.",
         "- The public-domain eBible Brenton Greek package is used only as a supplemental Greek source for Prayer of Manasseh and true 2 Maccabees.",
-        "- Greek Esther is imported twice: `ESG` is full Greek Esther, and `ESGA` is an additions-only view made from suffixed GRCLXX Greek Esther rows.",
-        "- `2ES` is Greek Ezra B / 2 Esdras from GRCLXX; it overlaps canonical Ezra and reuses the current Ezra draft text for its first draft while keeping separate Greek rows for audit.",
+        "- Plain embedded verse labels in source rows are split into separate rows; bracketed source-text sections remain bracketed.",
+        "- Greek Esther is imported twice: `ESG` is full Greek Esther, and `ESGA` is an additions-only view made from suffixed and inline-labeled GRCLXX Greek Esther rows.",
+        "- `2ES` is Greek Ezra B / 2 Esdras from GRCLXX; it overlaps canonical Ezra and keeps separate Greek rows for audit. It is not the Latin apocalypse commonly titled 2 Esdras / 4 Ezra in some English traditions.",
+        "- Additional appendix material is skipped unless a Greek source is present, or unless strong evidence for a Greek source behind the extant text is documented.",
         "- Importer validates source USFM IDs and Greek title lines before accepting source rows.",
         "- Psalm 151 is imported from the Psalms source file as Psalms 151.",
         "",
@@ -653,6 +839,9 @@ def write_inventory(path: Path, manifest: dict[str, object]) -> None:
             f"- Imported verse rows: {diagnostics['rows']}",
             f"- Imported book/addition groups: {diagnostics['book_count']}",
             f"- Rows with source notes/descriptors: {diagnostics['source_note_rows']}",
+            f"- Plain embedded verse labels split into rows: {diagnostics['plain_inline_verse_labels_split']}",
+            f"- Greek Esther addition inline labels selected: {diagnostics['esther_addition_inline_labels_selected']}",
+            f"- Rows preserving bracketed source text: {diagnostics['bracketed_source_text_rows']}",
             f"- Preserved draft translation rows: {diagnostics.get('draft_preservation', {}).get('preserved_rows', 0)}",
             f"- Source ID mismatches: {len(diagnostics['source_validation']['source_id_mismatches'])}",
             f"- Source title mismatches: {len(diagnostics['source_validation']['source_title_mismatches'])}",
@@ -663,9 +852,8 @@ def write_inventory(path: Path, manifest: dict[str, object]) -> None:
             "",
             "## Next Work",
             "",
-            "- Review and polish one book/addition at a time against the Greek rows.",
-            "- Review the drafted Prayer of Manasseh, true 2 Maccabees, and 2 Esdras rows against the Greek.",
-            "- Audit whether the `ESGA` additions-only view needs additional slicing beyond suffixed verse rows.",
+            "- Continue proofreading one book/addition at a time against the Greek rows.",
+            "- Do not add further appendix material unless it meets the Greek-source threshold documented above.",
             "- See `docs/DEUTEROCANON_MISSING_SOURCES.md` for checked source candidates and final source choice.",
             "- See `docs/DEUTEROCANON_PENDING_DECISIONS.md` for resolved decisions and remaining review notes.",
             "- Use `make validate-deuterocanon` before handoff or commit.",

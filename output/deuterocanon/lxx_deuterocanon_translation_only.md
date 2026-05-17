@@ -56,7 +56,7 @@ because I remembered God with my whole soul.
 
 **Tobit 1:13**
 
-And the Most High gave favor and form before Enemessar, and I was his buyer;
+And the Most High gave favor and good appearance before Enemessar, and I was his buyer;
 
 **Tobit 1:14**
 
@@ -88,11 +88,11 @@ And all my possessions were plundered, and nothing was left to me except Anna my
 
 **Tobit 1:21**
 
-And fifty days did not pass until his two sons killed him and fled into the mountains of Ararat, and Sacherdonos his son reigned instead of him, and he appointed Achiacharos, Anael son of my brother, over all the accounting of his kingdom and over all the administration.
+And fifty days did not pass until his two sons killed him and fled into the mountains of Ararat, and Sacherdonos his son reigned in his place, and he appointed Achiacharos, Anael son of my brother, over all the accounting of his kingdom and over all the administration.
 
 **Tobit 1:22**
 
-And Achiacharos made request concerning me, and I came to Nineveh. Now Achiacharos was the cupbearer and over the ring and administrator and accountant, and Sacherdonos appointed him second; and he was my cousin.
+And Achiacharos made request concerning me, and I came to Nineveh. Now Achiacharos was the cupbearer and in charge of the ring and administrator and accountant, and Sacherdonos appointed him second; and he was my cousin.
 
 ### Chapter 2
 
@@ -146,11 +146,11 @@ and she sent it to the owners, and they paid her the wage, adding also a young g
 
 **Tobit 2:13**
 
-But when it came to me, it began to cry out; and I said to her, From where is the young goat? Is it not stolen? Return it to the owners; for it is not lawful to eat what is stolen.
+But when it came to me, it began to bleat; and I said to her, From where is the young goat? Is it not stolen? Return it to the owners; for it is not lawful to eat what is stolen.
 
 **Tobit 2:14**
 
-But she said, A gift has been given to me in addition to the wage. And I did not believe her and kept telling her to return it to the owners, and I was ashamed before her. But answering, she said to me, Where are your acts of mercy and your righteousness? Behold, all things are known with you.
+But she said, A gift has been given to me in addition to the wage. And I did not believe her and kept telling her to return it to the owners, and I was ashamed before her. But answering, she said to me, Where are your acts of mercy and your righteousness? Behold, everything about you is known.
 
 ### Chapter 3
 
@@ -164,7 +164,7 @@ You are righteous, Lord, and all your works and all your ways are acts of mercy 
 
 **Tobit 3:3**
 
-Remember me and look upon me; do not take vengeance on me for my sins and my ignorances and those of my fathers, which they sinned before you;
+Remember me and look upon me; do not take vengeance on me for my sins and my sins of ignorance and those of my fathers, which they sinned before you;
 
 **Tobit 3:4**
 
@@ -250,11 +250,11 @@ because when you do the truth, there will be good success in your works and for 
 
 **Tobit 4:7**
 
-From the things that exist to you, do mercy, and let your eye not be grudging when you do mercy. Do not turn your face away from every poor person, and the face of God will certainly not be turned away from you.
+From your possessions, do almsgiving, and let your eye not be grudging when you do almsgiving. Do not turn your face away from every poor person, and the face of God will certainly not be turned away from you.
 
 **Tobit 4:8**
 
-As things exist to you according to abundance, do mercy from them; if little exists to you, according to the little do not fear to do mercy.
+According to your abundance, do almsgiving from them; if little belongs to you, according to the little do not fear to do almsgiving.
 
 **Tobit 4:9**
 
@@ -262,11 +262,11 @@ For you are treasuring a good deposit for yourself for a day of distress;
 
 **Tobit 4:10**
 
-because mercy rescues from death and does not allow one to enter into darkness;
+because almsgiving rescues from death and does not allow one to enter into darkness;
 
 **Tobit 4:11**
 
-for mercy is a good gift to all those who do it before the Most High.
+for almsgiving is a good gift to all those who do it before the Most High.
 
 **Tobit 4:12**
 
@@ -286,7 +286,7 @@ And what you hate, do to no one. Do not drink wine to drunkenness, and let drunk
 
 **Tobit 4:16**
 
-From your bread give to the hungry, and from your garments to the naked; everything, whatever abounds to you, do as mercy, and let your eye not be grudging when you do mercy.
+From your bread give to the hungry, and from your garments to the naked; everything, whatever abounds to you, do as almsgiving, and let your eye not be grudging when you do almsgiving.
 
 **Tobit 4:17**
 
@@ -306,7 +306,7 @@ And now I disclose to you the ten talents of silver that I deposited with Gabael
 
 **Tobit 4:21**
 
-And do not fear, child, because we became poor; many things exist for you if you fear God and depart from every sin and do what is pleasing before him.
+And do not fear, child, because we became poor; much belongs to you if you fear God and depart from every sin and do what is pleasing before him.
 
 ### Chapter 5
 
@@ -364,7 +364,7 @@ And he said, I am Azarias, son of Ananias the Great, from your brothers.
 
 **Tobit 5:14**
 
-And he said to him, May you come in health, brother, and do not be angry with me because I sought to know your tribe and your father's house. And you happen to be my brother from the beautiful and good generation; for I knew Ananias and Jonathan, the sons of Semei the Great, as we were going together to Jerusalem to worship, carrying up the firstborn and the tithes of the produce, and they were not led astray in the error of our brothers. You are from a good root, brother,
+And he said to him, May you come in health, brother, and do not be angry with me because I sought to know your tribe and your father's house. And you happen to be my brother from a noble and good generation; for I knew Ananias and Jonathan, the sons of Semei the Great, as we were going together to Jerusalem to worship, carrying up the firstborn and the tithes of the produce, and they were not led astray in the error of our brothers. You are from a good root, brother,
 
 **Tobit 5:15**
 
@@ -376,7 +376,7 @@ And I will still add to your wage if you return in health.
 
 **Tobit 5:17**
 
-And they were pleased thus. And he said to Tobias, Become ready for the way, and may you be prospered. And his son prepared the things for the way. And his father said to him, Go with this man, and God who dwells in heaven will prosper your way, and may his angel travel with you. And both went out to depart, and the young man's dog with them.
+And they were pleased thus. And he said to Tobias, Prepare for the way, and may you be prospered. And his son prepared the provisions for the way. And his father said to him, Go with this man, and God who dwells in heaven will prosper your way, and may his angel travel with you. And both went out to depart, and the young man's dog with them.
 
 **Tobit 5:18**
 
@@ -384,15 +384,15 @@ But Anna his mother wept and said to Tobit, Why have you sent away our child? Is
 
 **Tobit 5:19**
 
-Do not let silver overtake silver, but let it become refuse for our child;
+Let not silver be added to silver; rather let it be refuse compared with our child;
 
 **Tobit 5:20**
 
-for as it has been given to us to live by the Lord, this exists as enough for us.
+for as it has been given to us to live by the Lord, this is enough for us.
 
 **Tobit 5:21**
 
-And Tobit said to her, Do not have a word, sister; he will come in health, and your eyes will see him;
+And Tobit said to her, Do not worry, sister; he will come in health, and your eyes will see him;
 
 **Tobit 5:22**
 
@@ -450,7 +450,7 @@ I will speak concerning her, that she be given to you as wife, because her inher
 
 **Tobit 6:13**
 
-And now listen to me, and I will speak to her father; and when we return from Rages, we will make the marriage; because I know Raguel, that he will certainly not give her to another man according to the law of Moses, or he will be liable to death, because it belongs to you to receive the inheritance rather than any person.
+And now listen to me, and I will speak to her father; and when we return from Rages, we will make the marriage; because I know Raguel, that he will certainly not give her to another man according to the law of Moses, or he will be liable to death, because it belongs to you to receive the inheritance rather than any other person.
 
 **Tobit 6:14**
 
@@ -458,11 +458,11 @@ Then the young man said to the angel, Azarias, brother, I have heard that the gi
 
 **Tobit 6:15**
 
-And now I am only one to my father, and I fear that entering in I may die just as the former ones also did, because a demon loves her, which wrongs no one except those who approach her. And now I fear that I may die and bring down the life of my father and my mother with anguish over me into their tomb; and no other son exists for them who will bury them.
+And now I am my father's only one, and I fear that entering in I may die just as the former ones also did, because a demon loves her, which wrongs no one except those who approach her. And now I fear that I may die and bring down the life of my father and my mother with anguish over me into their tomb; and no other son exists for them who will bury them.
 
 **Tobit 6:16**
 
-But the angel said to him, Do you not remember the words that your father commanded you, concerning taking for yourself a wife from your race? And now listen to me, brother, because she will be yours as wife, and have no word concerning the demon, because this night she will be given to you as wife.
+But the angel said to him, Do you not remember the words that your father commanded you, concerning taking for yourself a wife from your race? And now listen to me, brother, because she will be yours as wife, and have no concern about the demon, because this night she will be given to you as wife.
 
 **Tobit 6:17**
 
@@ -484,7 +484,7 @@ And they came to Ecbatana and arrived at the house of Raguel. And Sarah met them
 
 **Tobit 7:2**
 
-And Raguel said to Edna his wife, How like the young man is to Tobit my cousin!
+And Raguel said to Edna his wife, How like this young man is to Tobit my cousin!
 
 **Tobit 7:3**
 
@@ -504,7 +504,7 @@ And Raguel leaped up and kissed him and wept,
 
 **Tobit 7:7**
 
-and blessed him and said to him, Son of the beautiful and good man. And hearing that Tobit had lost his own eyes, he was grieved and wept.
+and blessed him and said to him, Son of the noble and good man. And hearing that Tobit had lost his own eyes, he was grieved and wept.
 
 **Tobit 7:8**
 
@@ -516,11 +516,11 @@ and they sacrificed a ram of the sheep and set before them many dishes. But Tobi
 
 **Tobit 7:10**
 
-And he shared the word with Raguel; and Raguel said to Tobias, Eat, drink, and become glad, for it belongs to you to take my child. But I will disclose the truth to you.
+And he passed on the word to Raguel; and Raguel said to Tobias, Eat, drink, and be glad, for it belongs to you to take my child. But I will disclose the truth to you.
 
 **Tobit 7:11**
 
-I gave my child to seven men, and whenever they went in to her, they died during the night. But for the present, become glad. And Tobias said, I will taste nothing here until you set the matter and stand with me. And Raguel said, Receive her from now according to the judgment. You are her brother, and she is yours; and may the merciful God prosper the most beautiful things for you.
+I gave my child to seven men, and whenever they went in to her, they died during the night. But for the present, be glad. And Tobias said, I will taste nothing here until you settle the matter and stand with me. And Raguel said, Receive her from now according to the judgment. You are her brother, and she is yours; and may the merciful God prosper the best things for you.
 
 **Tobit 7:12**
 
@@ -570,11 +570,11 @@ And Tobias began to say, Blessed are you, the God of our fathers, and blessed is
 
 **Tobit 8:6**
 
-You made Adam and gave him Eve as a helper, his wife, as support. From these the seed of humans was born. You said, It is not good for the human to be alone; let us make for him a helper like him.
+You made Adam and gave him Eve as a helper, his wife, as support. From these the seed of mankind was born. You said, It is not good for man to be alone; let us make for him a helper like him.
 
 **Tobit 8:7**
 
-And now, Lord, not because of fornication do I take this my sister, but in truth. Give command to have mercy on me and to grow old together with her.
+And now, Lord, not because of fornication do I take this my sister, but in truth. Command that mercy be shown to me and that I grow old together with her.
 
 **Tobit 8:8**
 
@@ -614,7 +614,7 @@ Blessed are you because you gladdened me, and it did not happen to me as I suspe
 
 **Tobit 8:17**
 
-Blessed are you because you had mercy on two only children. Do mercy for them, Master; complete their life in health with gladness and mercy.
+Blessed are you because you had mercy on two only children. Show mercy to them, Master; complete their life in health with gladness and mercy.
 
 **Tobit 8:18**
 
@@ -622,11 +622,11 @@ And he commanded the servants to fill in the tomb.
 
 **Tobit 8:19**
 
-And he made a wedding for them of fourteen days.
+And he held a wedding for them fourteen days.
 
 **Tobit 8:20**
 
-And Raguel said to him with an oath, before the days of the wedding were completed, that he should not go out unless the fourteen days of the wedding should be fulfilled.
+And before the days of the wedding were completed, Raguel made him swear not to go out until the fourteen days of the wedding should be fulfilled.
 
 **Tobit 8:21**
 
@@ -682,7 +682,7 @@ I care for nothing, child, because I let you go, the light of my eyes.
 
 **Tobit 10:6**
 
-And Tobit says to her, Be silent; have no word; he is in health.
+And Tobit says to her, Be silent; do not worry; he is in health.
 
 **Tobit 10:7**
 
@@ -710,7 +710,7 @@ And he said to his daughter, Honor your parents-in-law; they are now your parent
 
 **Tobit 10:13**
 
-After these things Tobias also went, blessing God because he prospered his way, and he blessed Raguel and Edna his wife.
+After these things Tobias went on, blessing God because he prospered his way, and he blessed Raguel and Edna his wife.
 
 ### Chapter 11
 
@@ -736,11 +736,11 @@ and she noticed him coming and said to his father, Behold, my son is coming, and
 
 **Tobit 11:6**
 
-And Raphael said, I know that your father will open the eyes.
+And Raphael said, I know that your father will open his eyes.
 
 **Tobit 11:7**
 
-You anoint the gall into his eyes, and being stung, he will rub and throw off the white spots, and he will see you.
+You anoint the gall into his eyes, and when they sting him, he will rub and throw off the white spots, and he will see you.
 
 **Tobit 11:8**
 
@@ -772,7 +772,7 @@ And his son entered rejoicing and reported to his father the great things that h
 
 **Tobit 11:15**
 
-And Tobit went out to meet his daughter-in-law, rejoicing and blessing God, at the gate of Nineveh. And those seeing him going were marveling, because he saw.
+And Tobit went out to meet his daughter-in-law, rejoicing and blessing God, at the gate of Nineveh. And those seeing him going were marveling, because he could see.
 
 **Tobit 11:16**
 
@@ -790,7 +790,7 @@ and the wedding of Tobias was held with gladness seven days.
 
 **Tobit 12:1**
 
-And Tobit called Tobias his son and said to him, See, child, give wages to the man who went with you, and it is necessary to add for him.
+And Tobit called Tobias his son and said to him, See to the wages, child, for the man who went with you, and it is necessary to add for him.
 
 **Tobit 12:2**
 
@@ -810,7 +810,7 @@ And he called the angel and said to him, Take half of all that you have brought,
 
 **Tobit 12:6**
 
-Then, having called the two privately, he said to them, Bless God, and confess to him, and give greatness to him, and confess to him before all the living concerning what he did with you. It is good to bless God and exalt his name, honorably showing the words of the works of God, and do not hesitate to confess to him.
+Then, having called the two privately, he said to them, Bless God, and confess to him, and ascribe greatness to him, and confess to him before all the living concerning what he did with you. It is good to bless God and exalt his name, honorably showing the accounts of the works of God, and do not hesitate to confess to him.
 
 **Tobit 12:7**
 
@@ -818,11 +818,11 @@ A king's mystery is good to hide, but the works of God to reveal gloriously. Do 
 
 **Tobit 12:8**
 
-Good is prayer with fasting and almsgiving and righteousness; good is little with righteousness rather than much with injustice. It is good to make almsgiving rather than to treasure up gold;
+Good is prayer with fasting and almsgiving and righteousness; good is little with righteousness rather than much with injustice. It is good to do almsgiving rather than to treasure up gold;
 
 **Tobit 12:9**
 
-for almsgiving rescues from death, and it will cleanse every sin. Those doing almsgivings and righteousnesses will be filled with life,
+for almsgiving rescues from death, and it will cleanse every sin. Those doing acts of almsgiving and righteousness will be filled with life,
 
 **Tobit 12:10**
 
@@ -850,7 +850,7 @@ I am Raphael, one of the seven holy angels who bring up the prayers of the holy 
 
 **Tobit 12:16**
 
-And the two were troubled and fell upon their face, because they feared.
+And the two were troubled and fell upon their faces, because they feared.
 
 **Tobit 12:17**
 
@@ -900,7 +900,7 @@ And he will scourge us in our injustices and again have mercy and gather us from
 
 **Tobit 13:6**
 
-If you return to him with all your heart and with all your soul, to do truth before him, then he will return to you and will certainly not hide his face from you. And behold what he will do with you, and confess to him with all your mouth; and bless the Lord of righteousness and exalt the King of the ages. I, in the land of my captivity, confess to him and show his strength and his greatness to a nation of sinners. Turn back, sinners, and do righteousness before him; who knows whether he will desire you and do mercy for you?
+If you return to him with all your heart and with all your soul, to do truth before him, then he will return to you and will certainly not hide his face from you. And behold what he will do with you, and confess to him with all your mouth; and bless the Lord of righteousness and exalt the King of the ages. I, in the land of my captivity, confess to him and show his strength and his greatness to a nation of sinners. Turn back, sinners, and do righteousness before him; who knows whether he will desire you and show mercy to you?
 
 **Tobit 13:7**
 
@@ -916,7 +916,7 @@ Jerusalem, holy city, he will scourge you for the works of your sons and again h
 
 **Tobit 13:10**
 
-Confess to the Lord well and bless the King of the ages, so that again his tabernacle may be built in you with joy, and he may gladden the captives in you and love the afflicted in you for all the generations of the age.
+Confess to the Lord rightly and bless the King of the ages, so that again his tabernacle may be built in you with joy, and he may gladden the captives in you and love the afflicted in you for all the generations of the age.
 
 **Tobit 13:11**
 
@@ -932,7 +932,7 @@ Rejoice and exult over the sons of the righteous, because they will be gathered 
 
 **Tobit 13:14**
 
-O blessed are those loving you; they will rejoice over your peace. Blessed are as many as were grieved over all your scourges, because over you they will rejoice, having seen all your glory, and they will be gladdened forever.
+O blessed are those who love you; they will rejoice over your peace. Blessed are as many as were grieved over all your scourges, because over you they will rejoice, having seen all your glory, and they will be gladdened forever.
 
 **Tobit 13:15**
 
@@ -958,7 +958,7 @@ And Tobit ceased confessing.
 
 **Tobit 14:2**
 
-And he was fifty-eight years old when he lost his sight, and after eight years he looked up again. And he did almsgivings and continued to fear the Lord God and confessed to him.
+And he was fifty-eight years old when he lost his sight, and after eight years he saw again. And he did acts of almsgiving and continued to fear the Lord God and confessed to him.
 
 **Tobit 14:3**
 
@@ -966,7 +966,7 @@ And he grew very old; and he called his son and his sons and said to him, Child,
 
 **Tobit 14:4**
 
-Go away into Media, child, because I am persuaded of as many things as Jonah the prophet spoke concerning Nineveh, that it will be overthrown; but in Media there will be peace rather, until a time, and our brothers in the land will be scattered from the good land, and Jerusalem will be desolate, and the house of God in it will be burned down and will be desolate until a time.
+Go away into Media, child, because I am persuaded of as many things as Jonah the prophet spoke concerning Nineveh, that it will be overthrown; but in Media there will be peace for a time, and our brothers in the land will be scattered from the good land, and Jerusalem will be desolate, and the house of God in it will be burned down and will be desolate until a time.
 
 **Tobit 14:5**
 
@@ -982,11 +982,11 @@ And his people will confess to God, and the Lord will exalt his people, and all 
 
 **Tobit 14:8**
 
-And now, child, go away from Nineveh, because certainly the things that Jonah the prophet spoke will be.
+And now, child, go away from Nineveh, because certainly the things that Jonah the prophet spoke will happen.
 
 **Tobit 14:9**
 
-But you, keep the law and the commandments, and become mercy-loving and righteous, so that it may be well with you. And bury me well, and your mother with me, and no longer lodge in Nineveh.
+But you, keep the law and the commandments, and become mercy-loving and righteous, so that it may be well with you. And bury me well, and your mother with me, and do not lodge any longer in Nineveh.
 
 **Tobit 14:10**
 
@@ -994,7 +994,7 @@ Child, see what Aman did to Achiacharos, the one who raised him, how he led him 
 
 **Tobit 14:11**
 
-And now, children, see what almsgiving does, and what righteousness rescues. And as he was saying these things, his soul failed upon the bed; and he was 158 years old, and they buried him gloriously.
+And now, children, see what almsgiving does, and how righteousness rescues. And as he was saying these things, his soul failed upon the bed; and he was 158 years old, and they buried him gloriously.
 
 **Tobit 14:12**
 
@@ -1002,7 +1002,7 @@ And when Anna died, he buried her with his father, and Tobias went away with his
 
 **Tobit 14:13**
 
-and he grew old honorably and buried his parents-in-law gloriously and inherited their substance and that of Tobit his father.
+and he grew old honorably and buried his parents-in-law gloriously and inherited their property and that of Tobit his father.
 
 **Tobit 14:14**
 
@@ -1088,7 +1088,7 @@ And in the eighteenth year, on the twenty-second day of the first month, word ca
 
 **Judith 2:2**
 
-And he called together all his attendants and all his great ones, and set with them the mystery of his counsel, and completed all the evil of the land from his mouth.
+And he called together all his attendants and all his great ones, and set with them the secret of his counsel, and by his mouth completed all the evil of the land.
 
 **Judith 2:3**
 
@@ -1108,7 +1108,7 @@ and you shall go out to meet all the land toward the west, because they disobeye
 
 **Judith 2:7**
 
-And you shall report to them to prepare earth and water, because I will go out in my wrath against them and cover all the face of the earth with the feet of my force, and I will give them to them for plunder;
+And you shall report to them to prepare earth and water, because I will go out in my wrath against them and cover all the face of the earth with the feet of my force, and I will give them over to them for plunder;
 
 **Judith 2:8**
 
@@ -1132,7 +1132,7 @@ For as I live, and as the might of my kingdom lives, I have spoken, and I will d
 
 **Judith 2:13**
 
-And you also shall not transgress one thing of the words of your lord, but completing, you shall complete just as I have commanded you, and you shall not delay to do them.
+And you also shall not transgress one thing of the words of your lord, but you shall fully complete just as I have commanded you, and you shall not delay to do them.
 
 **Judith 2:14**
 
@@ -1140,11 +1140,11 @@ And Holofernes went out from before his lord and called all the rulers and the g
 
 **Judith 2:15**
 
-and he numbered chosen men for battle line, just as his lord commanded him, to twelve myriads, and horsemen archers, twelve thousand,
+and he numbered chosen men for battle line, just as his lord commanded him, to twelve myriads, and twelve thousand mounted archers,
 
 **Judith 2:16**
 
-and he arranged them in the manner that a multitude for war is arranged.
+and he arranged them in the manner that a multitude is arranged for war.
 
 **Judith 2:17**
 
@@ -1202,11 +1202,11 @@ And they sent messengers to him with peaceful words, saying,
 
 **Judith 3:2**
 
-Behold, we, servants of Nebuchadnezzar the great king, lie before you; use us as it is pleasing before your face.
+Behold, we, servants of Nebuchadnezzar the great king, lie before you; deal with us as is pleasing before your face.
 
 **Judith 3:3**
 
-Behold, our farmsteads and every plain of wheat and the flocks and the cattle herds and all the folds of our tents lie before your face; use them according to whatever may please you.
+Behold, our farmsteads and every plain of wheat and the flocks and the cattle herds and all the folds of our tents lie before your face; deal with them according to whatever may please you.
 
 **Judith 3:4**
 
@@ -1230,7 +1230,7 @@ And he razed all their borders and cut down their sacred groves, and it had been
 
 **Judith 3:9**
 
-And he came opposite Esdrelon near Dothaea, which is across from the great saw-ridge of Judea,
+And he came opposite Esdrelon near Dothaea, which is across from the great saw-shaped ridge of Judea,
 
 **Judith 3:10**
 
@@ -1244,11 +1244,11 @@ And the sons of Israel dwelling in Judea heard all that Holofernes had done to t
 
 **Judith 4:2**
 
-and they feared exceedingly exceedingly from his face and were troubled concerning Jerusalem and the temple of the Lord their God.
+and they feared very exceedingly from his face and were troubled concerning Jerusalem and the temple of the Lord their God.
 
 **Judith 4:3**
 
-For recently they had come up from the captivity, and newly all the people of Judea had been gathered together, and the vessels and the altar and the house had been sanctified out of profanation.
+For recently they had come up from the captivity, and recently all the people of Judea had been gathered together, and the vessels and the altar and the house had been sanctified out of profanation.
 
 **Judith 4:4**
 
@@ -1276,7 +1276,7 @@ And every man of Israel cried out to God with great earnestness, and they humble
 
 **Judith 4:10**
 
-They and their women and their infants and their livestock and every resident alien or hired worker and their bought-with-silver ones put sackcloths upon their loins.
+They and their women and their infants and their livestock and every resident alien or hired worker and their silver-bought servants put sackcloths upon their loins.
 
 **Judith 4:11**
 
@@ -1370,7 +1370,7 @@ And as long as they did not sin before their God, good things were with them, be
 
 **Judith 5:18**
 
-But when they departed from the way that he arranged for them, they were utterly destroyed in many wars for a very long time and were taken captive into a land not their own, and the temple of their God came to be as ground, and their cities were seized by their adversaries.
+But when they departed from the way that he arranged for them, they were utterly destroyed in very many wars and were taken captive into a land not their own, and the temple of their God was razed to the ground, and their cities were seized by their adversaries.
 
 **Judith 5:19**
 
@@ -1378,7 +1378,7 @@ And now, having returned to their God, they came up from the dispersion where th
 
 **Judith 5:20**
 
-And now, master lord, if there is an unwitting sin in this people and they are sinning against their God, and we inspect that this stumbling block is among them, then we will go up and war against them.
+And now, master lord, if there is an unwitting sin in this people and they are sinning against their God, and we find that this stumbling block is among them, then we will go up and war against them.
 
 **Judith 5:21**
 
@@ -1386,7 +1386,7 @@ But if there is no lawlessness in their nation, let my lord pass by, lest their 
 
 **Judith 5:22**
 
-And it happened, when Achior ceased speaking these words, that all the people surrounding the tent and standing around murmured, and the great ones of Holofernes and all those dwelling along the coastland and in Moab said to cut him down;
+And it happened, when Achior ceased speaking these words, that all the people surrounding the tent and standing around murmured, and the great ones of Holofernes and all those dwelling along the coastland and in Moab said that he should be cut down;
 
 **Judith 5:23**
 
@@ -1404,7 +1404,7 @@ And when the uproar of the men around the council ceased, Holofernes, chief gene
 
 **Judith 6:2**
 
-And who are you, Achior, and the hirelings of Ephraim, that you prophesied among us as today and said not to war against the race of Israel, because their God will shield them? And who is God except Nebuchadnezzar? This one will send his might and utterly destroy them from the face of the earth, and their God will not rescue them;
+And who are you, Achior, and the hirelings of Ephraim, that you prophesied among us as on this day and said that war should not be made against the race of Israel, because their God will shield them? And who is God except Nebuchadnezzar? This one will send his might and utterly destroy them from the face of the earth, and their God will not rescue them;
 
 **Judith 6:3**
 
@@ -1412,7 +1412,7 @@ but we his slaves will strike them as one man, and they will not withstand the m
 
 **Judith 6:4**
 
-For we will burn them up among themselves, and their mountains will be made drunk with their blood, and their plains will be filled with their dead, and the track of their feet will not stand before our face, but by destruction they will be destroyed, says King Nebuchadnezzar, lord of all the earth; for he spoke, and the words of his sayings will not be made vain.
+For we will burn them up among themselves, and their mountains will be made drunk with their blood, and their plains will be filled with their dead, and the trace of their feet will not stand before our face, but by destruction they will be destroyed, says King Nebuchadnezzar, lord of all the earth; for he spoke, and the words of his sayings will not be made vain.
 
 **Judith 6:5**
 
@@ -1436,7 +1436,7 @@ And if indeed you hope in your heart that they will not be taken, do not let you
 
 **Judith 6:10**
 
-And Holofernes commanded his slaves who were standing in his tent to seize Achior and restore him to Bethulia and hand him over into the hands of the sons of Israel.
+And Holofernes commanded his slaves who were standing in his tent to seize Achior and bring him back to Bethulia and hand him over into the hands of the sons of Israel.
 
 **Judith 6:11**
 
@@ -1444,7 +1444,7 @@ And his slaves seized him and led him outside the camp into the plain, and they 
 
 **Judith 6:12**
 
-And when the men of the city saw them upon the top of the mountain, they took up their weapons and went outside the city upon the top of the mountain, and every slinger held their ascent and threw stones upon them.
+And when the men of the city saw them upon the top of the mountain, they took up their weapons and went outside the city upon the top of the mountain, and every slinger guarded their ascent and threw stones upon them.
 
 **Judith 6:13**
 
@@ -1486,7 +1486,7 @@ And Ozias took him from the assembly into his house and made a drinking feast fo
 
 **Judith 7:1**
 
-And on the next day Holofernes commanded all his army and all his people who had come for his alliance to break camp against Bethulia and to seize beforehand the ascents of the hill country and to make war against the sons of Israel.
+And on the next day Holofernes commanded all his army and all his people who had come as his allies to break camp against Bethulia and to seize beforehand the ascents of the hill country and to make war against the sons of Israel.
 
 **Judith 7:2**
 
@@ -1518,7 +1518,7 @@ And the rulers of the sons of Esau and all the leaders of the people of Moab and
 
 **Judith 7:9**
 
-Let our master hear a word, so that there may not be a fracture in your force;
+Let our master hear a word, so that there may not be a break in your force;
 
 **Judith 7:10**
 
@@ -1526,7 +1526,7 @@ for this people of the sons of Israel do not trust in their spears, but in the h
 
 **Judith 7:11**
 
-And now, master, do not war against them as battle-line war happens, and not one man from your people will fall.
+And now, master, do not wage war against them as battle-line war is made, and not one man from your people will fall.
 
 **Judith 7:12**
 
@@ -1542,11 +1542,11 @@ And they will melt away in famine, they and their wives and their children, and 
 
 **Judith 7:15**
 
-And you will repay them an evil repayment, because they rebelled and did not meet your face in peace.
+And you will repay them an evil repayment, because they rebelled and did not meet you in peace.
 
 **Judith 7:16**
 
-And their words were pleasing before Holofernes and before all his attendants, and they commanded to do just as they spoke.
+And their words were pleasing before Holofernes and before all his attendants, and they commanded that it be done just as they spoke.
 
 **Judith 7:17**
 
@@ -1570,7 +1570,7 @@ and the cisterns were being emptied, and they did not have water to drink to ful
 
 **Judith 7:22**
 
-And their infants became faint, and their women and young men failed from thirst and fell in the streets of the city and in the passages of the gates, and there was no strengthening still in them.
+And their infants became faint, and their women and young men failed from thirst and fell in the streets of the city and in the passages of the gates, and there was no strength still in them.
 
 **Judith 7:23**
 
@@ -1612,7 +1612,7 @@ But if these pass and help does not come upon us, I will do according to your wo
 
 **Judith 8:1**
 
-And Judith heard in those days, daughter of Merari, son of Ox, son of Joseph, son of Oziel, son of Elkia, son of Eliou, son of Chelkias, son of Eliab, son of Nathanael, son of Salamiel, son of Sarasadai, son of Israel.
+And Judith, daughter of Merari, son of Ox, son of Joseph, son of Oziel, son of Elkia, son of Eliou, son of Chelkias, son of Eliab, son of Nathanael, son of Salamiel, son of Sarasadai, son of Israel, heard in those days.
 
 **Judith 8:2**
 
@@ -1648,15 +1648,15 @@ And she heard the evil words of the people against the ruler, because they had f
 
 **Judith 8:10**
 
-And sending her maid, who stood over all her possessions, she called Ozias and Chabris and Charmis, the elders of her city,
+And sending her maid, who was set over all her possessions, she called Ozias and Chabris and Charmis, the elders of her city,
 
 **Judith 8:11**
 
-and they came to her, and she said to them, Hear me now, rulers of those dwelling in Bethulia, because your word is not straight, which you spoke before the people today, and you set the oath that you spoke between God and you, and said to hand over the city to our enemies if within those days the Lord does not return to help us.
+and they came to her, and she said to them, Hear me now, rulers of those dwelling in Bethulia, because your word is not right, which you spoke before the people today, and you set the oath that you spoke between God and you, and said to hand over the city to our enemies if within those days the Lord does not turn back to help us.
 
 **Judith 8:12**
 
-And now who are you, who tested God on this day and stand over God in the midst of sons of men?
+And now who are you, who tested God on this day and set yourselves over God in the midst of sons of men?
 
 **Judith 8:13**
 
@@ -1672,7 +1672,7 @@ Because if he does not wish to help us within the five days, he himself has auth
 
 **Judith 8:16**
 
-But you, do not put the counsels of the Lord our God under pledge, because God is not as a man to be threatened, nor as a son of man to be arbitrated.
+But you, do not put the counsels of the Lord our God under pledge, because God is not as a man to be threatened, nor as a son of man to be brought to arbitration.
 
 **Judith 8:17**
 
@@ -1692,7 +1692,7 @@ But we have known no other god except him; therefore we hope that he will not ov
 
 **Judith 8:21**
 
-Because when we are taken, all Judea will sit this way, and our holy things will be plundered, and he will seek their profanation from our blood,
+Because when we are taken, all Judea will be set in this same condition, and our holy things will be plundered, and he will seek their profanation from our blood,
 
 **Judith 8:22**
 
@@ -1700,7 +1700,7 @@ and the slaughter of our brothers and the captivity of the land and the desolati
 
 **Judith 8:23**
 
-Because our slavery will not be directed to favor, but the Lord our God will set it for dishonor.
+Because our slavery will not be turned toward favor, but the Lord our God will set it for dishonor.
 
 **Judith 8:24**
 
@@ -1810,7 +1810,7 @@ and give my word and deceit for their wound and welt, who planned harsh things a
 
 **Judith 9:14**
 
-And make upon all your nation and every tribe an acknowledgment to know that you are the God of all power and might, and there is no other shielding the race of Israel except you.
+And bring acknowledgment upon all your nation and every tribe, to know that you are the God of all power and might, and there is no other shielding the race of Israel except you.
 
 ### Chapter 10
 
@@ -1824,7 +1824,7 @@ that she rose up from her fall and called her maid and went down into the house 
 
 **Judith 10:3**
 
-and she took off the sackcloth that she had put on and stripped off the garments of her widowhood and washed her body all around with water and anointed herself with thick perfume and arranged the hairs of her head and put a turban upon it and put on the garments of her gladness, with which she was adorned in the days of the life of her husband Manasseh,
+and she took off the sackcloth that she had put on and stripped off the garments of her widowhood and washed her body all around with water and anointed herself with thick perfume and arranged the hair of her head and put a turban upon it and put on the garments of her gladness, with which she was adorned in the days of the life of her husband Manasseh,
 
 **Judith 10:4**
 
@@ -1844,7 +1844,7 @@ And when they saw her, and her face was altered and her apparel changed, they ma
 
 **Judith 10:8**
 
-May the God, the God of our fathers, give you for favor and complete your undertakings for the boasting of the sons of Israel and the exaltation of Jerusalem. And she worshiped God
+May the God, the God of our fathers, give you favor and complete your undertakings for the boasting of the sons of Israel and the exaltation of Jerusalem. And she worshiped God
 
 **Judith 10:9**
 
@@ -1880,15 +1880,15 @@ but if you stand before him, do not fear in your heart, but report according to 
 
 **Judith 10:17**
 
-And they selected from themselves one hundred men and yoked them alongside her and her maid, and they led them to the tent of Holofernes.
+And they selected from themselves one hundred men and assigned them to accompany her and her maid, and they led them to the tent of Holofernes.
 
 **Judith 10:18**
 
-And there was a running together in the whole camp, for her presence was shouted through the tents; and coming, they surrounded her as she stood outside the tent of Holofernes, until they reported to him concerning her.
+And there was a gathering in the whole camp, for her presence was shouted through the tents; and coming, they surrounded her as she stood outside the tent of Holofernes, until they reported to him concerning her.
 
 **Judith 10:19**
 
-And they marveled at her beauty and marveled at the sons of Israel because of her, and each said to his neighbor, Who will despise this people, which has such women among itself? For it is not good to leave from them one man, who, if left, will be able to outwit all the earth.
+And they marveled at her beauty and marveled at the sons of Israel because of her, and each said to his neighbor, Who will despise this people, which has such women among them? For it is not good to leave from them one man; if any are left, they will be able to outwit all the earth.
 
 **Judith 10:20**
 
@@ -1910,7 +1910,7 @@ And when Judith came before his face and before his attendants, all marveled at 
 
 **Judith 11:1**
 
-And Holofernes said to her, Take courage, woman; do not fear in your heart, because I have not harmed a human who has chosen to serve King Nebuchadnezzar of all the earth.
+And Holofernes said to her, Take courage, woman; do not fear in your heart, because I have not harmed a person who has chosen to serve King Nebuchadnezzar of all the earth.
 
 **Judith 11:2**
 
@@ -1950,7 +1950,7 @@ Therefore, master lord, do not pass by his word, but lay it down in your heart, 
 
 **Judith 11:11**
 
-And now, so that my lord may not become cast out and without result, death will fall upon their face; and sin has overtaken them, by which they will provoke their God whenever they do an improper thing.
+And now, so that my lord may not become rejected and without result, death will fall upon their face; and sin has overtaken them, by which they will provoke their God whenever they do an improper thing.
 
 **Judith 11:12**
 
@@ -1970,7 +1970,7 @@ And it will be, whenever it is reported to them and they do it, they will be giv
 
 **Judith 11:16**
 
-Therefore I, your slave woman, having learned all these things, fled from before their face, and God sent me to do things with you at which all the earth, as many as hear them, will be astonished.
+Therefore I, your slave woman, having learned all these things, fled from before their face, and God sent me to do deeds with you at which all the earth, as many as hear them, will be astonished.
 
 **Judith 11:17**
 
@@ -2004,7 +2004,7 @@ And now you are beautiful in your appearance and good in your words; because if 
 
 **Judith 12:1**
 
-And he commanded them to bring her in where his silver things were laid, and he ordered them to spread for her from his delicacies and to drink from his wine.
+And he commanded them to bring her in where his silverware was laid, and he ordered them to spread for her from his delicacies and to drink from his wine.
 
 **Judith 12:2**
 
@@ -2040,7 +2040,7 @@ And entering clean, she remained in the tent until her food was brought toward e
 
 **Judith 12:10**
 
-And it happened on the fourth day, Holofernes made a drinking feast for his slaves alone and did not call into the use any of those attending to needs.
+And it happened on the fourth day, Holofernes made a drinking feast for his slaves alone and did not call any of those attending to needs into service.
 
 **Judith 12:11**
 
@@ -2052,7 +2052,7 @@ for behold, it is shameful before our face if we let such a woman pass by withou
 
 **Judith 12:13**
 
-And Bagoas went out from before Holofernes and entered to her and said, Let this beautiful maidservant not hesitate now to come to my lord, to be glorified before his face and to drink wine with us for gladness and to become on this day as one daughter of the sons of Assur, who stand by in the house of Nebuchadnezzar.
+And Bagoas went out from before Holofernes and entered to her and said, Let this beautiful maidservant not hesitate now to come to my lord, to be glorified before his face and to drink wine with us for gladness and to become today like one daughter of the sons of Assur, who stand by in the house of Nebuchadnezzar.
 
 **Judith 12:14**
 
@@ -2060,7 +2060,7 @@ And Judith said to him, And who am I to contradict my lord? For everything that 
 
 **Judith 12:15**
 
-And having arisen, she adorned herself with clothing and with all womanly adornment, and her slave woman approached and spread out for her opposite Holofernes, on the ground, the fleeces that she had received from Bagoas for her daily way of life, for eating while reclining upon them.
+And having arisen, she adorned herself with clothing and with all womanly adornment, and her slave woman approached and spread out for her opposite Holofernes, on the ground, the fleeces that she had received from Bagoas for her daily use, for eating while reclining upon them.
 
 **Judith 12:16**
 
@@ -2068,7 +2068,7 @@ And Judith entered and reclined, and the heart of Holofernes was astonished over
 
 **Judith 12:17**
 
-And Holofernes said to her, Drink now, and become with us for gladness.
+And Holofernes said to her, Drink now, and be glad with us.
 
 **Judith 12:18**
 
@@ -2126,7 +2126,7 @@ and she put it into her food bag. And the two went out together according to the
 
 **Judith 13:11**
 
-And Judith said from afar to those guarding at the gates, Open, open now the gate; God is with us, our God, to do still strength in Israel and might against the enemies, just as he also did today.
+And Judith said from afar to those guarding at the gates, Open, open now the gate; God is with us, our God, to do strength still in Israel and might against the enemies, just as he also did today.
 
 **Judith 13:12**
 
@@ -2154,7 +2154,7 @@ And all the people were exceedingly astonished, and bowing down they worshiped G
 
 **Judith 13:18**
 
-And Ozias said to her, Blessed are you, daughter, by God Most High beyond all the women upon the earth, and blessed is the Lord God, who created the heavens and the earth, who directed you toward the wound of the head of the ruler of our enemies;
+And Ozias said to her, Blessed are you, daughter, by God Most High beyond all the women upon the earth, and blessed is the Lord God, who created the heavens and the earth, who directed you toward the wounding of the head of the ruler of our enemies;
 
 **Judith 13:19**
 
@@ -2184,7 +2184,7 @@ And you, following after, and all those dwelling in every border of Israel, lay 
 
 **Judith 14:5**
 
-But before doing these things, call Achior the Ammonite for me, so that seeing, he may recognize the one who treated lightly the house of Israel and sent him to us as for death.
+But before doing these things, call Achior the Ammonite for me, so that seeing, he may recognize the one who treated lightly the house of Israel and sent him to us as one for death.
 
 **Judith 14:6**
 
@@ -2250,7 +2250,7 @@ And when those who were in the tents heard, they were astonished at what had hap
 
 **Judith 15:2**
 
-and fear and trembling fell upon them, and there was no human remaining before the face of his neighbor any longer, but pouring out with one accord, they fled upon every road of the plain and the hill country;
+and fear and trembling fell upon them, and there was no person remaining before the face of his neighbor any longer, but pouring out with one accord, they fled upon every road of the plain and the hill country;
 
 **Judith 15:3**
 
@@ -2258,7 +2258,7 @@ and those encamped in the hill country around Bethulia also turned to flight. An
 
 **Judith 15:4**
 
-And Ozias sent to Betomesthaim and Bebai and Chola and to every border of Israel those who would report concerning the things completed, and so that all should pour themselves upon the enemies for their destruction.
+And Ozias sent to Betomesthaim and Bebai and Chola and to every border of Israel those who would report concerning the things completed, and so that all should pour out upon the enemies for their destruction.
 
 **Judith 15:5**
 
@@ -2282,11 +2282,11 @@ And when they entered to her, they all blessed her with one accord and said to h
 
 **Judith 15:10**
 
-you did all these things in your hand, you did good things with Israel, and God took pleasure in them; become blessed with the Almighty Lord for age-long time. And the people said, May it be.
+you did all these things by your hand, you did good things with Israel, and God took pleasure in them; become blessed with the Almighty Lord for age-long time. And the people said, May it be.
 
 **Judith 15:11**
 
-And all the people plundered the camp for thirty days; and they gave Judith the tent of Holofernes and all his silver things and beds and vessels and all his equipment. And taking them, she put them upon her mule and yoked her wagons and piled them upon them.
+And all the people plundered the camp for thirty days; and they gave Judith the tent of Holofernes and all his silverware and beds and vessels and all his equipment. And taking them, she put them upon her mule and yoked her wagons and piled them upon them.
 
 **Judith 15:12**
 
@@ -2294,7 +2294,7 @@ And every woman of Israel ran together to see her and blessed her and made a dan
 
 **Judith 15:13**
 
-And they crowned themselves with olive, she and those with her, and she went before all the people in dance, leading all the women, and every man of Israel followed, armed, with crowns and hymns in their mouth.
+And they crowned themselves with olive, she and those with her, and she went before all the people in dance, leading all the women, and every man of Israel followed, armed, with crowns and hymns in their mouths.
 
 **Judith 15:14**
 
@@ -2304,7 +2304,7 @@ And Judith led out this thanksgiving in all Israel, and all the people answered 
 
 **Judith 16:1**
 
-And Judith said, Begin for my God with tambourines; sing to my Lord with cymbals; fit to him a new psalm; exalt and call upon his name,
+And Judith said, Begin for my God with tambourines; sing to my Lord with cymbals; tune to him a new psalm; exalt and call upon his name,
 
 **Judith 16:2**
 
@@ -2344,7 +2344,7 @@ Persians shuddered at her boldness, and Medes were shattered by her daring.
 
 **Judith 16:11**
 
-Then my humbled ones shouted, and my weak ones gave a voice; but they were astonished. They lifted their voice, and they were overturned.
+Then my humbled ones shouted, and my weak ones feared and were terrified. They lifted their voice, and they were overturned.
 
 **Judith 16:12**
 
@@ -2356,7 +2356,7 @@ I will hymn to my God a new hymn. Lord, you are great and glorious, marvelous in
 
 **Judith 16:14**
 
-Let all your creation serve you; because you spoke, and they came to be; you sent your spirit, and it built; and there is no one who will resist your voice.
+Let all your creation serve you; because you spoke, and they came to be; you sent your spirit, and it built them; and there is no one who will resist your voice.
 
 **Judith 16:15**
 
@@ -2368,7 +2368,7 @@ Because every sacrifice for a smell of fragrance is small, and all fat for a who
 
 **Judith 16:17**
 
-Woe to nations rising up against my race. The Almighty Lord will take vengeance on them in the day of judgment, to give fire and worms into their flesh, and they will weep in sensation forever.
+Woe to nations rising up against my race. The Almighty Lord will take vengeance on them in the day of judgment, to give fire and worms into their flesh, and they will weep in pain forever.
 
 **Judith 16:18**
 
@@ -2392,7 +2392,7 @@ And many desired her, and no man knew her all the days of her life, from the day
 
 **Judith 16:23**
 
-And she was advancing very greatly and grew old in the house of her husband, one hundred five years; and she let her maid go free. And she died in Bethulia, and they buried her in the cave of her husband Manasseh,
+And she advanced very greatly in age and grew old in the house of her husband, one hundred five years; and she let her maid go free. And she died in Bethulia, and they buried her in the cave of her husband Manasseh,
 
 **Judith 16:24**
 
@@ -2412,7 +2412,7 @@ In the second year, when Artaxerxes the great king was reigning, on the first da
 
 **Greek Esther 1:1β**
 
-a Jewish human dwelling in Susa the city, a great human, serving in the court of the king.
+a Jewish man dwelling in Susa the city, a great man, serving in the court of the king.
 
 **Greek Esther 1:1γ**
 
@@ -2424,11 +2424,11 @@ And this was his dream: and behold, voices and uproar, thunder and earthquake, d
 
 **Greek Esther 1:1ε**
 
-And behold, two great dragons came forth, both ready to wrestle, and their great voice came to be;
+And behold, two great dragons came forth, both ready to wrestle, and a great voice came from them;
 
 **Greek Esther 1:1ζ**
 
-and at their voice every nation was prepared for war, so as to war against a nation of righteous ones.
+and at their voice every nation was prepared for war, to wage war against a nation of righteous ones.
 
 **Greek Esther 1:1η**
 
@@ -2436,27 +2436,27 @@ And behold, a day of darkness and gloom, affliction and constraint, mistreatment
 
 **Greek Esther 1:1θ**
 
-and every righteous nation was troubled, fearing their own evils, and they were prepared to perish and cried out to God.
+and the whole righteous nation was troubled; they feared their own evils, were prepared to perish, and cried out to God.
 
 **Greek Esther 1:1ι**
 
-But from their cry there came to be, as from a small spring, a great river, much water;
+But from their cry there came, as from a small spring, a great river, much water;
 
 **Greek Esther 1:1κ**
 
-and light and sun rose, and the humble were exalted and devoured the glorious ones.
+and light rose, and the sun, and the humble were exalted and devoured the glorious ones.
 
 **Greek Esther 1:1λ**
 
-And Mordecai, having awakened, the one who had seen this dream and what God had planned to do, kept it in his heart and in every matter desired to understand it until the night.
+And Mordecai, having awakened, the one who had seen this dream and what God had planned to do, kept it in his heart and desired in every way to understand it until the night.
 
 **Greek Esther 1:1μ**
 
-And Mordecai rested in the court with Gabatha and Thara, the two eunuchs of the king, those guarding the court,
+And Mordecai kept quiet in the court with Gabatha and Thara, the two eunuchs of the king, those guarding the court,
 
 **Greek Esther 1:1ν**
 
-and he heard their thoughts and searched out their anxieties and learned that they were preparing their hands to lay upon King Artaxerxes, and he disclosed concerning them to the king.
+and he heard their thoughts and searched out their anxieties and learned that they were preparing to lay hands upon King Artaxerxes, and he reported them to the king.
 
 **Greek Esther 1:1ξ**
 
@@ -2468,11 +2468,11 @@ And the king wrote these words for a memorial, and Mordecai wrote concerning the
 
 **Greek Esther 1:1π**
 
-And the king ordered Mordecai to serve in the court and gave him gifts concerning these things.
+And the king ordered Mordecai to serve in the court and gave him gifts because of these things.
 
 **Greek Esther 1:1ρ**
 
-And Haman son of Hamadathos, the Bougaian, was glorious before the king; and he sought to do evil to Mordecai and his people because of the two eunuchs of the king.
+And Haman son of Hamadathos, the Bougaian, was honored before the king; and he sought to do evil to Mordecai and his people on account of the two eunuchs of the king.
 
 **Greek Esther 1:1**
 
@@ -2582,7 +2582,7 @@ And the woman who pleases the king will reign instead of Astin. And the matter p
 
 **Greek Esther 2:5**
 
-And there was a Jewish human in Susa the city, and his name was Mordecai son of Jairus, son of Semeios, son of Kisaios, from the tribe of Benjamin,
+And there was a Jewish man in Susa the city, and his name was Mordecai son of Jairus, son of Semeios, son of Kisaios, from the tribe of Benjamin,
 
 **Greek Esther 2:6**
 
@@ -2680,7 +2680,7 @@ And when Haman learned that Mordecai was not worshiping him, he was exceedingly 
 
 **Greek Esther 3:6**
 
-and he took counsel to make vanish all the Jews under the kingdom of Artaxerxes.
+and he took counsel to destroy all the Jews under the kingdom of Artaxerxes.
 
 **Greek Esther 3:7**
 
@@ -2708,7 +2708,7 @@ And the scribes of the king were called in the first month, on the thirteenth, a
 
 **Greek Esther 3:13**
 
-And it was sent through letter-carriers into the kingdom of Artaxerxes to make vanish the race of the Jews in one day of the twelfth month, which is Adar, and to plunder their possessions.
+And it was sent through letter-carriers into the kingdom of Artaxerxes to destroy the race of the Jews in one day of the twelfth month, which is Adar, and to plunder their possessions.
 
 **Greek Esther 3:13α**
 
@@ -2716,19 +2716,19 @@ And this is the copy of the letter: Great King Artaxerxes writes these things to
 
 **Greek Esther 3:13β**
 
-Having ruled over many nations and become master of the whole inhabited world, I wished, not being lifted up by the boldness of authority, but always conducting things more moderately and with gentleness, to establish the lives of those subject to me as untroubled through all time, and to provide a kingdom gentle and open to travel as far as the borders, and to renew the peace longed for by all humans.
+Having ruled over many nations and become master of the whole inhabited world, I wished, not being lifted up by the boldness of authority, but always conducting things more moderately and with gentleness, to establish the lives of those subject to me as untroubled through all time, and to provide a kingdom gentle and open to travel as far as the borders, and to renew the peace longed for by all people.
 
 **Greek Esther 3:13γ**
 
-But when I inquired of the counselors how this might be brought to completion, Haman, who has surpassed among us in sound-mindedness and has been demonstrated in unchanging goodwill and firm faith, and who has received the second honor of the kingdoms,
+But when I inquired of the counselors how this might be brought to completion, Haman, who has surpassed among us in prudence and has been proved in unchanging goodwill and firm faith, and who has received the second honor of the kingdoms,
 
 **Greek Esther 3:13δ**
 
-showed us that among all the tribes throughout the inhabited world a certain hostile people has been mixed in, opposed in laws to every nation and continually disregarding the ordinances of kings, so that the government directed blamelessly by us is not established.
+showed us that among all the tribes throughout the inhabited world a certain hostile people has been mixed in, opposed by its laws to every nation and continually disregarding the ordinances of kings, so that the government directed blamelessly by us is not established.
 
 **Greek Esther 3:13ε**
 
-Therefore, having understood that this nation alone is set in opposition to every human through all time, changing by a strange way of laws and ill-minded toward our affairs, accomplishing the worst evils, and preventing the kingdom from obtaining stability,
+Therefore, having understood that this nation alone is set in opposition to everyone through all time, strangely altering its way of laws and being hostile in mind toward our affairs, accomplishing the worst evils, and preventing the kingdom from obtaining stability,
 
 **Greek Esther 3:13ζ**
 
@@ -2736,7 +2736,7 @@ therefore we have commanded that those indicated to you in the writings by Haman
 
 **Greek Esther 3:13η**
 
-so that those long ago and now hostile, having violently gone down to Hades in one day, may for the time afterward provide our affairs stable and undisturbed through to the end.
+so that those long ago and now hostile, having violently gone down to Hades in one day, may provide us stable and undisturbed affairs for the time afterward, through to the end.
 
 **Greek Esther 3:14**
 
@@ -2786,7 +2786,7 @@ And Esther said to Achrathaios, Go to Mordecai and say,
 
 **Greek Esther 4:11**
 
-All the nations of the kingdom know that every human or woman who enters to the king into the inner court uncalled, there is no salvation for that one, except to whom the king stretches out the golden rod; this one will be saved. And I have not been called to enter to the king these thirty days.
+All the nations of the kingdom know that every man or woman who enters to the king into the inner court uncalled has no salvation, except the one to whom the king stretches out the golden rod; that one will be saved. And I have not been called to enter to the king these thirty days.
 
 **Greek Esther 4:12**
 
@@ -2810,17 +2810,145 @@ Go, gather the Jews who are in Susa and fast for me, and do not eat nor drink fo
 
 **Greek Esther 4:17**
 
-And Mordecai went and did whatever Esther commanded him. [17α] And he entreated the Lord, remembering all the works of the Lord, and said, [17β] Lord, Lord, King ruling all, because the whole is in your authority, and there is no one opposing you when you wish to save Israel; [17γ] because you made heaven and earth and every wondered-at thing under heaven, and you are Lord of all, and there is no one who will oppose you, the Lord. [17δ] You know all things; you know, Lord, that not in insolence nor in pride nor in love of glory did I do this, not worshiping arrogant Haman, because I would have been pleased to kiss the soles of his feet for the salvation of Israel; [17ε] but I did this so that I might not place the glory of a human above the glory of God, and I will worship no one except you, my Lord, and I will not do these things in pride. [17ζ] And now, Lord God, King, God of Abraham, spare your people, because they look upon us for destruction and have desired to destroy your inheritance from the beginning; [17η] do not overlook your portion, which you redeemed for yourself from the land of Egypt; [17θ] hear my petition and be propitious to your lot, and turn our mourning into feasting, so that while living we may hymn your name, Lord; and do not make vanish the mouth of those praising you, Lord. [17ι] And all Israel cried out from their strength, because their death was in their eyes. [17κ] And Esther the queen fled for refuge to the Lord, being seized in a struggle of death, and taking off the garments of her glory she put on garments of constraint and mourning; and instead of proud sweet spices, she filled her head with ashes and dung, and humbled her body exceedingly, and every place of adornment of her gladness she filled with the twists of her hair; and she entreated the Lord God of Israel and said, [17λ] My Lord, you alone are our king; help me, the lone one and having no helper except you, because my danger is in my hand. [17μ] I heard from my birth in the tribe of my family that you, Lord, took Israel from all the nations and our fathers from all their ancestors for an eternal inheritance, and did for them all that you spoke. [17ν] And now we sinned before you, and you handed us into the hands of our enemies, because we glorified their gods. You are righteous, Lord. [17ξ] And now they were not satisfied with the bitterness of our slavery, but they set their hands upon the hands of their idols to remove the decree of your mouth and to make vanish your inheritance and to stop up the mouth of those praising you and to extinguish the glory of your house and your altar, [17ο] and to open the mouth of nations for the praises of worthless things and for a fleshly king to be admired forever. [17π] Do not hand over your scepter, Lord, to those who are not, and let them not laugh at our fall, but turn their counsel upon themselves, and make an example of the one who began against us. [17ρ] Remember, Lord; be made known in the time of our affliction, and embolden me, King of the gods and master of every rule. [17σ] Give ordered speech into my mouth before the lion, and change his heart to hatred of the one warring against us, for his ending and the ending of those agreeing with him. [17τ] But rescue us by your hand and help me, the lone one and having none except you, Lord. [17υ] You have knowledge of all things, and you know that I hated the glory of lawless ones and abhor the bed of uncircumcised ones and of every foreigner. [17φ] You know my necessity, because I abhor the sign of my pride, which is upon my head in the days of my appearing; I abhor it like a menstruation rag, and I do not wear it in the days of my quiet. [17χ] And your slave woman has not eaten the table of Haman, and I did not glorify the banquet of the king, nor did I drink wine of libations; [17ψ] and your slave woman has not rejoiced from the day of my change until now, except in you, Lord, God of Abraham. [17ω] O God, the one strong over all, listen to the voice of those without hope and rescue us from the hand of those doing evil, and rescue me from my fear.
+And Mordecai went and did whatever Esther commanded him.
+
+**Greek Esther 4:17α**
+
+And he entreated the Lord, remembering all the works of the Lord, and said,
+
+**Greek Esther 4:17β**
+
+Lord, Lord, King ruling all, because the whole is in your authority, and there is no one opposing you when you wish to save Israel;
+
+**Greek Esther 4:17γ**
+
+because you made heaven and earth and every wondered-at thing under heaven, and you are Lord of all, and there is no one who will oppose you, the Lord.
+
+**Greek Esther 4:17δ**
+
+You know all things; you know, Lord, that not in insolence nor in pride nor in love of glory did I do this, not worshiping arrogant Haman, because I would have been pleased to kiss the soles of his feet for the salvation of Israel;
+
+**Greek Esther 4:17ε**
+
+but I did this so that I might not place the glory of a human above the glory of God, and I will worship no one except you, my Lord, and I will not do these things in pride.
+
+**Greek Esther 4:17ζ**
+
+And now, Lord God, King, God of Abraham, spare your people, because they look upon us for destruction and have desired to destroy your inheritance from the beginning;
+
+**Greek Esther 4:17η**
+
+do not overlook your portion, which you redeemed for yourself from the land of Egypt;
+
+**Greek Esther 4:17θ**
+
+hear my petition and be propitious to your lot, and turn our mourning into feasting, so that while living we may hymn your name, Lord; and do not silence the mouth of those praising you, Lord.
+
+**Greek Esther 4:17ι**
+
+And all Israel cried out from their strength, because their death was in their eyes.
+
+**Greek Esther 4:17κ**
+
+And Esther the queen fled for refuge to the Lord, being seized in a struggle of death, and taking off the garments of her glory she put on garments of constraint and mourning; and instead of proud sweet spices, she filled her head with ashes and dung, and humbled her body exceedingly, and every place of adornment of her gladness she filled with the twists of her hair; and she entreated the Lord God of Israel and said,
+
+**Greek Esther 4:17λ**
+
+My Lord, you alone are our king; help me, the lone one and having no helper except you, because my danger is in my hand.
+
+**Greek Esther 4:17μ**
+
+I heard from my birth in the tribe of my family that you, Lord, took Israel from all the nations and our fathers from all their ancestors for an eternal inheritance, and did for them all that you spoke.
+
+**Greek Esther 4:17ν**
+
+And now we sinned before you, and you handed us into the hands of our enemies, because we glorified their gods. You are righteous, Lord.
+
+**Greek Esther 4:17ξ**
+
+And now they were not satisfied with the bitterness of our slavery, but they set their hands upon the hands of their idols to remove the decree of your mouth and to destroy your inheritance and to stop up the mouth of those praising you and to extinguish the glory of your house and your altar,
+
+**Greek Esther 4:17ο**
+
+and to open the mouth of nations for the praises of worthless things and for a fleshly king to be admired forever.
+
+**Greek Esther 4:17π**
+
+Do not hand over your scepter, Lord, to those who are not, and let them not laugh at our fall, but turn their counsel upon themselves, and make an example of the one who began against us.
+
+**Greek Esther 4:17ρ**
+
+Remember, Lord; be made known in the time of our affliction, and embolden me, King of the gods and master of every rule.
+
+**Greek Esther 4:17σ**
+
+Give ordered speech into my mouth before the lion, and change his heart to hatred of the one warring against us, for his ending and the ending of those agreeing with him.
+
+**Greek Esther 4:17τ**
+
+But rescue us by your hand and help me, the lone one and having none except you, Lord.
+
+**Greek Esther 4:17υ**
+
+You have knowledge of all things, and you know that I hated the glory of lawless ones and abhor the bed of uncircumcised ones and of every foreigner.
+
+**Greek Esther 4:17φ**
+
+You know my necessity, because I abhor the sign of my pride, which is upon my head in the days of my appearing; I abhor it like a menstruation rag, and I do not wear it in the days of my quiet.
+
+**Greek Esther 4:17χ**
+
+And your slave woman has not eaten the table of Haman, and I did not glorify the banquet of the king, nor did I drink wine of libations;
+
+**Greek Esther 4:17ψ**
+
+and your slave woman has not rejoiced from the day of my change until now, except in you, Lord, God of Abraham.
+
+**Greek Esther 4:17ω**
+
+O God, the one strong over all, listen to the voice of those without hope and rescue us from the hand of those doing evil, and rescue me from my fear.
 
 ### Chapter 5
 
 **Greek Esther 5:1**
 
-And it happened on the third day, when she ceased praying, she stripped off the garments of her service and put on her glory. [1α] And having become splendid, having called upon God the overseer and savior of all, she took along two maids; and on one she leaned as one being delicate, and the other followed, lightening her clothing. [1β] And she herself was blushing in the bloom of her beauty, and her face was cheerful as beloved, but her heart was constricted from fear. [1γ] And entering through all the doors, she stood before the king, and he was sitting upon the throne of his kingdom and had put on every robe of his splendor, all through with gold and costly stones, and he was exceedingly fearful. [1δ] And lifting his face, fired with glory in the height of wrath, he looked, and the queen fell and changed her color in faintness and bowed down upon the head of the maid going before. [1ε] And God changed the spirit of the king to gentleness, and in agony he leapt up from his throne and took her into his arms until she recovered, and he comforted her with peaceful words and said to her, [1ζ] What is it, Esther? I am your brother. Take courage; you shall not die, because our ordinance is common. Draw near.
+And it happened on the third day, when she ceased praying, she stripped off the garments of her service and put on her glory.
+
+**Greek Esther 5:1α**
+
+And having become splendid, having called upon God the overseer and savior of all, she took along two maids; and on one she leaned as one being delicate, and the other followed, lightening her clothing.
+
+**Greek Esther 5:1β**
+
+And she herself was blushing in the bloom of her beauty, and her face was cheerful as beloved, but her heart was constricted from fear.
+
+**Greek Esther 5:1γ**
+
+And entering through all the doors, she stood before the king, and he was sitting upon the throne of his kingdom and had put on every robe of his splendor, all through with gold and costly stones, and he was exceedingly fearful.
+
+**Greek Esther 5:1δ**
+
+And lifting his face, fired with glory in the height of wrath, he looked, and the queen fell and changed her color in faintness and bowed down upon the head of the maid going before.
+
+**Greek Esther 5:1ε**
+
+And God changed the spirit of the king to gentleness, and in agony he leapt up from his throne and took her into his arms until she recovered, and he comforted her with peaceful words and said to her,
+
+**Greek Esther 5:1ζ**
+
+What is it, Esther? I am your brother. Take courage; you shall not die, because our ordinance is common. Draw near.
 
 **Greek Esther 5:2**
 
-And lifting the golden rod, he placed it upon her neck and kissed her and said, Speak to me. [2α] And she said to him, I saw you, lord, as an angel of God, and my heart was troubled from fear of your glory, because you are marvelous, lord, and your face is full of favors. [2β] And while she was speaking, she fell from her faintness, and the king was troubled, and all his attendants comforted her.
+And lifting the golden rod, he placed it upon her neck and kissed her and said, Speak to me.
+
+**Greek Esther 5:2α**
+
+And she said to him, I saw you, lord, as an angel of God, and my heart was troubled from fear of your glory, because you are marvelous, lord, and your face is full of favors.
+
+**Greek Esther 5:2β**
+
+And while she was speaking, she fell from her faintness, and the king was troubled, and all his attendants comforted her.
 
 **Greek Esther 5:3**
 
@@ -2894,11 +3022,11 @@ And the ministers of the king said, Behold, Haman is standing in the court. And 
 
 **Greek Esther 6:6**
 
-And the king said to Haman, What shall I do for the human whom I wish to glorify? And Haman said in himself, Whom does the king wish to glorify except me?
+And the king said to Haman, What shall I do for the man whom I wish to glorify? And Haman said in himself, Whom does the king wish to glorify except me?
 
 **Greek Esther 6:7**
 
-And he said to the king, A human whom the king wishes to glorify,
+And he said to the king, A man whom the king wishes to glorify,
 
 **Greek Esther 6:8**
 
@@ -2906,7 +3034,7 @@ let the servants of the king bring a fine linen robe that the king puts around h
 
 **Greek Esther 6:9**
 
-and let him give it to one of the glorious friends of the king, and let him clothe the human whom the king loves, and let him mount him upon the horse and proclaim through the broad street of the city, saying, Thus it will be for every human whom the king glorifies.
+and let him give it to one of the glorious friends of the king, and let him clothe the man whom the king loves, and let him mount him upon the horse and proclaim through the broad street of the city, saying, Thus it will be for every man whom the king glorifies.
 
 **Greek Esther 6:10**
 
@@ -2914,7 +3042,7 @@ And the king said to Haman, You spoke well. Do so to Mordecai the Jew, the one s
 
 **Greek Esther 6:11**
 
-And Haman took the robe and the horse and clothed Mordecai, and mounted him upon the horse and went through the broad street of the city and proclaimed, saying, Thus it will be for every human whom the king wishes to glorify.
+And Haman took the robe and the horse and clothed Mordecai, and mounted him upon the horse and went through the broad street of the city and proclaimed, saying, Thus it will be for every man whom the king wishes to glorify.
 
 **Greek Esther 6:12**
 
@@ -3030,15 +3158,15 @@ Great King Artaxerxes, to the rulers of the 127 satrapies of countries from Indi
 
 **Greek Esther 8:12γ**
 
-Many, being honored more often by the greatest kindness of benefactors, became more proud and seek not only to harm those subject to us, but being unable to bear satiety, they attempt to scheme against their own benefactors;
+Many, being honored repeatedly by the greatest kindness of benefactors, became more proud and seek not only to harm those subject to us, but being unable to bear abundance, they attempt to scheme against their own benefactors;
 
 **Greek Esther 8:12δ**
 
-and not only taking away gratitude from humans, but also being lifted up by the boasts of those inexperienced in good things, they suppose they will escape the evil-hating justice of God, who always watches all things.
+and not only taking away gratitude from people, but also being lifted up by the boasts of those inexperienced in good things, they suppose they will escape the evil-hating justice of God, who always watches all things.
 
 **Greek Esther 8:12ε**
 
-And often the encouragement of friends entrusted to handle affairs, making many of those appointed over authorities partners in innocent blood, has wrapped them in irremediable calamities,
+And often the counsel of friends entrusted to handle affairs has made many of those appointed over authorities partners in innocent blood and wrapped them in irremediable calamities,
 
 **Greek Esther 8:12ζ**
 
@@ -3046,15 +3174,15 @@ by the false deception of evil character, deceiving the sincere goodwill of thos
 
 **Greek Esther 8:12η**
 
-And it is possible to observe, not so much from the older histories that we have handed down, as from the things near at hand to you, as you seek out what things have been impiously completed by the pestilence of those unworthily exercising power,
+And it is possible to observe, not so much from the older histories that we have handed down, as from the things near at hand, if you examine what has been impiously completed by the pestilence of those unworthily exercising power,
 
 **Greek Esther 8:12θ**
 
-and to pay attention to the things after these, so that we may provide the kingdom undisturbed with peace for all humans,
+and to take care for the future, so that we may provide the kingdom undisturbed with peace for all people,
 
 **Greek Esther 8:12ι**
 
-using changes and always discerning the things coming under sight with a more equitable response.
+making use of changes and always discerning the things coming into view with a more equitable response.
 
 **Greek Esther 8:12κ**
 
@@ -3066,11 +3194,11 @@ obtained so much of the love for humanity that we have toward every nation that 
 
 **Greek Esther 8:12μ**
 
-but not bearing the arrogance, he undertook to deprive us of rule and of spirit,
+but unable to bear his arrogance, he undertook to deprive us of rule and of spirit,
 
 **Greek Esther 8:12ν**
 
-having requested for destruction our savior and continual benefactor Mordecai and Esther, the blameless sharer of the kingdom, with all their nation, by many-woven deceptions of methods;
+having requested for destruction our savior and continual benefactor Mordecai and Esther, the blameless sharer of the kingdom, with all their nation, by many-woven deceptive methods;
 
 **Greek Esther 8:12ξ**
 
@@ -3090,7 +3218,7 @@ Therefore you will do well not making use of the letters sent by Haman son of Ha
 
 **Greek Esther 8:12σ**
 
-And setting out the copy of this letter openly in every place, allow the Jews to use their own customs and strengthen them together, so that on the thirteenth of the twelfth month Adar, the same day, they may defend themselves against those attacking them in time of affliction;
+And setting out the copy of this letter openly in every place, allow the Jews to use their own customs and give them support, so that on the thirteenth of the twelfth month Adar, the same day, they may defend themselves against those attacking them in time of affliction;
 
 **Greek Esther 8:12τ**
 
@@ -3102,7 +3230,7 @@ And therefore, among your named feasts, you also shall celebrate a notable day w
 
 **Greek Esther 8:12φ**
 
-But every city or country as a whole, whoever does not do according to these things, will be consumed with spear and fire in wrath; it will be made not only untrodden by humans, but also most hateful to wild beasts and birds for all time.
+But every city or country, without exception, that does not do according to these things will be consumed with spear and fire in wrath; it will be made not only untrodden by people, but also most hateful to wild beasts and birds for all time.
 
 **Greek Esther 8:13**
 
@@ -3208,7 +3336,11 @@ And Mordecai wrote these words in a book and sent it out to the Jews, as many as
 
 **Greek Esther 9:21**
 
-to establish these days as good, and to keep both the fourteenth and the fifteenth of Adar. [22] For in these days the Jews rested from their enemies, and the month in which it was turned for them, which was Adar, from mourning into joy and from pain into a good day, to keep the whole as good days of weddings and gladness, sending portions to friends and to the poor.
+to establish these days as good, and to keep both the fourteenth and the fifteenth of Adar.
+
+**Greek Esther 9:22**
+
+For in these days the Jews rested from their enemies, and the month in which it was turned for them, which was Adar, from mourning into joy and from pain into a good day, to keep the whole as good days of weddings and gladness, sending portions to friends and to the poor.
 
 **Greek Esther 9:23**
 
@@ -3262,11 +3394,15 @@ And Mordecai stood next after King Artaxerxes and was great in the kingdom and g
 
 **Greek Esther 10:3α**
 
-And Mordecai said, "These things came from God. [3β] For I remembered concerning the dream that I saw concerning these matters; for no word from them passed by."
+And Mordecai said, "These things came from God.
+
+**Greek Esther 10:3β**
+
+For I remembered the dream that I saw concerning these matters; for not one word from them passed by."
 
 **Greek Esther 10:3γ**
 
-The small spring, which became a river, and there was light and sun and much water: Esther is the river, whom the king married and made queen.
+The small spring, which became a river, and there was light and sun and much water: Esther is the river; the king married her and made her queen.
 
 **Greek Esther 10:3δ**
 
@@ -3286,7 +3422,7 @@ Because of this he made two lots, one for the people of God and one for all the 
 
 **Greek Esther 10:3θ**
 
-and these two lots came to hour and time and day of judgment before God and all the nations,
+and these two lots came to an hour and time and day of judgment before God and all the nations,
 
 **Greek Esther 10:3ι**
 
@@ -3294,7 +3430,7 @@ and God remembered his people and justified his inheritance;
 
 **Greek Esther 10:3κ**
 
-and these days will be for them in the month Adar, on the fourteenth and fifteenth of the month, with gathering and joy and gladness before God by generations forever among his people Israel.
+and these days will be for them in the month Adar, on the fourteenth and fifteenth of the month, with gathering and joy and gladness before God through generations forever among his people Israel.
 
 **Greek Esther 10:3λ**
 
@@ -3310,7 +3446,7 @@ In the second year, when Artaxerxes the great king was reigning, on the first da
 
 **Greek Esther Additions 1:1β**
 
-a Jewish human dwelling in Susa the city, a great human, serving in the court of the king.
+a Jewish man dwelling in Susa the city, a great man, serving in the court of the king.
 
 **Greek Esther Additions 1:1γ**
 
@@ -3322,11 +3458,11 @@ And this was his dream: and behold, voices and uproar, thunder and earthquake, d
 
 **Greek Esther Additions 1:1ε**
 
-And behold, two great dragons came forth, both ready to wrestle, and their great voice came to be;
+And behold, two great dragons came forth, both ready to wrestle, and a great voice came from them;
 
 **Greek Esther Additions 1:1ζ**
 
-and at their voice every nation was prepared for war, so as to war against a nation of righteous ones.
+and at their voice every nation was prepared for war, to wage war against a nation of righteous ones.
 
 **Greek Esther Additions 1:1η**
 
@@ -3334,27 +3470,27 @@ And behold, a day of darkness and gloom, affliction and constraint, mistreatment
 
 **Greek Esther Additions 1:1θ**
 
-and every righteous nation was troubled, fearing their own evils, and they were prepared to perish and cried out to God.
+and the whole righteous nation was troubled; they feared their own evils, were prepared to perish, and cried out to God.
 
 **Greek Esther Additions 1:1ι**
 
-But from their cry there came to be, as from a small spring, a great river, much water;
+But from their cry there came, as from a small spring, a great river, much water;
 
 **Greek Esther Additions 1:1κ**
 
-and light and sun rose, and the humble were exalted and devoured the glorious ones.
+and light rose, and the sun, and the humble were exalted and devoured the glorious ones.
 
 **Greek Esther Additions 1:1λ**
 
-And Mordecai, having awakened, the one who had seen this dream and what God had planned to do, kept it in his heart and in every matter desired to understand it until the night.
+And Mordecai, having awakened, the one who had seen this dream and what God had planned to do, kept it in his heart and desired in every way to understand it until the night.
 
 **Greek Esther Additions 1:1μ**
 
-And Mordecai rested in the court with Gabatha and Thara, the two eunuchs of the king, those guarding the court,
+And Mordecai kept quiet in the court with Gabatha and Thara, the two eunuchs of the king, those guarding the court,
 
 **Greek Esther Additions 1:1ν**
 
-and he heard their thoughts and searched out their anxieties and learned that they were preparing their hands to lay upon King Artaxerxes, and he disclosed concerning them to the king.
+and he heard their thoughts and searched out their anxieties and learned that they were preparing to lay hands upon King Artaxerxes, and he reported them to the king.
 
 **Greek Esther Additions 1:1ξ**
 
@@ -3366,11 +3502,11 @@ And the king wrote these words for a memorial, and Mordecai wrote concerning the
 
 **Greek Esther Additions 1:1π**
 
-And the king ordered Mordecai to serve in the court and gave him gifts concerning these things.
+And the king ordered Mordecai to serve in the court and gave him gifts because of these things.
 
 **Greek Esther Additions 1:1ρ**
 
-And Haman son of Hamadathos, the Bougaian, was glorious before the king; and he sought to do evil to Mordecai and his people because of the two eunuchs of the king.
+And Haman son of Hamadathos, the Bougaian, was honored before the king; and he sought to do evil to Mordecai and his people on account of the two eunuchs of the king.
 
 ### Chapter 3
 
@@ -3380,19 +3516,19 @@ And this is the copy of the letter: Great King Artaxerxes writes these things to
 
 **Greek Esther Additions 3:13β**
 
-Having ruled over many nations and become master of the whole inhabited world, I wished, not being lifted up by the boldness of authority, but always conducting things more moderately and with gentleness, to establish the lives of those subject to me as untroubled through all time, and to provide a kingdom gentle and open to travel as far as the borders, and to renew the peace longed for by all humans.
+Having ruled over many nations and become master of the whole inhabited world, I wished, not being lifted up by the boldness of authority, but always conducting things more moderately and with gentleness, to establish the lives of those subject to me as untroubled through all time, and to provide a kingdom gentle and open to travel as far as the borders, and to renew the peace longed for by all people.
 
 **Greek Esther Additions 3:13γ**
 
-But when I inquired of the counselors how this might be brought to completion, Haman, who has surpassed among us in sound-mindedness and has been demonstrated in unchanging goodwill and firm faith, and who has received the second honor of the kingdoms,
+But when I inquired of the counselors how this might be brought to completion, Haman, who has surpassed among us in prudence and has been proved in unchanging goodwill and firm faith, and who has received the second honor of the kingdoms,
 
 **Greek Esther Additions 3:13δ**
 
-showed us that among all the tribes throughout the inhabited world a certain hostile people has been mixed in, opposed in laws to every nation and continually disregarding the ordinances of kings, so that the government directed blamelessly by us is not established.
+showed us that among all the tribes throughout the inhabited world a certain hostile people has been mixed in, opposed by its laws to every nation and continually disregarding the ordinances of kings, so that the government directed blamelessly by us is not established.
 
 **Greek Esther Additions 3:13ε**
 
-Therefore, having understood that this nation alone is set in opposition to every human through all time, changing by a strange way of laws and ill-minded toward our affairs, accomplishing the worst evils, and preventing the kingdom from obtaining stability,
+Therefore, having understood that this nation alone is set in opposition to everyone through all time, strangely altering its way of laws and being hostile in mind toward our affairs, accomplishing the worst evils, and preventing the kingdom from obtaining stability,
 
 **Greek Esther Additions 3:13ζ**
 
@@ -3400,7 +3536,139 @@ therefore we have commanded that those indicated to you in the writings by Haman
 
 **Greek Esther Additions 3:13η**
 
-so that those long ago and now hostile, having violently gone down to Hades in one day, may for the time afterward provide our affairs stable and undisturbed through to the end.
+so that those long ago and now hostile, having violently gone down to Hades in one day, may provide us stable and undisturbed affairs for the time afterward, through to the end.
+
+### Chapter 4
+
+**Greek Esther Additions 4:17α**
+
+And he entreated the Lord, remembering all the works of the Lord, and said,
+
+**Greek Esther Additions 4:17β**
+
+Lord, Lord, King ruling all, because the whole is in your authority, and there is no one opposing you when you wish to save Israel;
+
+**Greek Esther Additions 4:17γ**
+
+because you made heaven and earth and every wondered-at thing under heaven, and you are Lord of all, and there is no one who will oppose you, the Lord.
+
+**Greek Esther Additions 4:17δ**
+
+You know all things; you know, Lord, that not in insolence nor in pride nor in love of glory did I do this, not worshiping arrogant Haman, because I would have been pleased to kiss the soles of his feet for the salvation of Israel;
+
+**Greek Esther Additions 4:17ε**
+
+but I did this so that I might not place the glory of a human above the glory of God, and I will worship no one except you, my Lord, and I will not do these things in pride.
+
+**Greek Esther Additions 4:17ζ**
+
+And now, Lord God, King, God of Abraham, spare your people, because they look upon us for destruction and have desired to destroy your inheritance from the beginning;
+
+**Greek Esther Additions 4:17η**
+
+do not overlook your portion, which you redeemed for yourself from the land of Egypt;
+
+**Greek Esther Additions 4:17θ**
+
+hear my petition and be propitious to your lot, and turn our mourning into feasting, so that while living we may hymn your name, Lord; and do not silence the mouth of those praising you, Lord.
+
+**Greek Esther Additions 4:17ι**
+
+And all Israel cried out from their strength, because their death was in their eyes.
+
+**Greek Esther Additions 4:17κ**
+
+And Esther the queen fled for refuge to the Lord, being seized in a struggle of death, and taking off the garments of her glory she put on garments of constraint and mourning; and instead of proud sweet spices, she filled her head with ashes and dung, and humbled her body exceedingly, and every place of adornment of her gladness she filled with the twists of her hair; and she entreated the Lord God of Israel and said,
+
+**Greek Esther Additions 4:17λ**
+
+My Lord, you alone are our king; help me, the lone one and having no helper except you, because my danger is in my hand.
+
+**Greek Esther Additions 4:17μ**
+
+I heard from my birth in the tribe of my family that you, Lord, took Israel from all the nations and our fathers from all their ancestors for an eternal inheritance, and did for them all that you spoke.
+
+**Greek Esther Additions 4:17ν**
+
+And now we sinned before you, and you handed us into the hands of our enemies, because we glorified their gods. You are righteous, Lord.
+
+**Greek Esther Additions 4:17ξ**
+
+And now they were not satisfied with the bitterness of our slavery, but they set their hands upon the hands of their idols to remove the decree of your mouth and to destroy your inheritance and to stop up the mouth of those praising you and to extinguish the glory of your house and your altar,
+
+**Greek Esther Additions 4:17ο**
+
+and to open the mouth of nations for the praises of worthless things and for a fleshly king to be admired forever.
+
+**Greek Esther Additions 4:17π**
+
+Do not hand over your scepter, Lord, to those who are not, and let them not laugh at our fall, but turn their counsel upon themselves, and make an example of the one who began against us.
+
+**Greek Esther Additions 4:17ρ**
+
+Remember, Lord; be made known in the time of our affliction, and embolden me, King of the gods and master of every rule.
+
+**Greek Esther Additions 4:17σ**
+
+Give ordered speech into my mouth before the lion, and change his heart to hatred of the one warring against us, for his ending and the ending of those agreeing with him.
+
+**Greek Esther Additions 4:17τ**
+
+But rescue us by your hand and help me, the lone one and having none except you, Lord.
+
+**Greek Esther Additions 4:17υ**
+
+You have knowledge of all things, and you know that I hated the glory of lawless ones and abhor the bed of uncircumcised ones and of every foreigner.
+
+**Greek Esther Additions 4:17φ**
+
+You know my necessity, because I abhor the sign of my pride, which is upon my head in the days of my appearing; I abhor it like a menstruation rag, and I do not wear it in the days of my quiet.
+
+**Greek Esther Additions 4:17χ**
+
+And your slave woman has not eaten the table of Haman, and I did not glorify the banquet of the king, nor did I drink wine of libations;
+
+**Greek Esther Additions 4:17ψ**
+
+and your slave woman has not rejoiced from the day of my change until now, except in you, Lord, God of Abraham.
+
+**Greek Esther Additions 4:17ω**
+
+O God, the one strong over all, listen to the voice of those without hope and rescue us from the hand of those doing evil, and rescue me from my fear.
+
+### Chapter 5
+
+**Greek Esther Additions 5:1α**
+
+And having become splendid, having called upon God the overseer and savior of all, she took along two maids; and on one she leaned as one being delicate, and the other followed, lightening her clothing.
+
+**Greek Esther Additions 5:1β**
+
+And she herself was blushing in the bloom of her beauty, and her face was cheerful as beloved, but her heart was constricted from fear.
+
+**Greek Esther Additions 5:1γ**
+
+And entering through all the doors, she stood before the king, and he was sitting upon the throne of his kingdom and had put on every robe of his splendor, all through with gold and costly stones, and he was exceedingly fearful.
+
+**Greek Esther Additions 5:1δ**
+
+And lifting his face, fired with glory in the height of wrath, he looked, and the queen fell and changed her color in faintness and bowed down upon the head of the maid going before.
+
+**Greek Esther Additions 5:1ε**
+
+And God changed the spirit of the king to gentleness, and in agony he leapt up from his throne and took her into his arms until she recovered, and he comforted her with peaceful words and said to her,
+
+**Greek Esther Additions 5:1ζ**
+
+What is it, Esther? I am your brother. Take courage; you shall not die, because our ordinance is common. Draw near.
+
+**Greek Esther Additions 5:2α**
+
+And she said to him, I saw you, lord, as an angel of God, and my heart was troubled from fear of your glory, because you are marvelous, lord, and your face is full of favors.
+
+**Greek Esther Additions 5:2β**
+
+And while she was speaking, she fell from her faintness, and the king was troubled, and all his attendants comforted her.
 
 ### Chapter 8
 
@@ -3414,15 +3682,15 @@ Great King Artaxerxes, to the rulers of the 127 satrapies of countries from Indi
 
 **Greek Esther Additions 8:12γ**
 
-Many, being honored more often by the greatest kindness of benefactors, became more proud and seek not only to harm those subject to us, but being unable to bear satiety, they attempt to scheme against their own benefactors;
+Many, being honored repeatedly by the greatest kindness of benefactors, became more proud and seek not only to harm those subject to us, but being unable to bear abundance, they attempt to scheme against their own benefactors;
 
 **Greek Esther Additions 8:12δ**
 
-and not only taking away gratitude from humans, but also being lifted up by the boasts of those inexperienced in good things, they suppose they will escape the evil-hating justice of God, who always watches all things.
+and not only taking away gratitude from people, but also being lifted up by the boasts of those inexperienced in good things, they suppose they will escape the evil-hating justice of God, who always watches all things.
 
 **Greek Esther Additions 8:12ε**
 
-And often the encouragement of friends entrusted to handle affairs, making many of those appointed over authorities partners in innocent blood, has wrapped them in irremediable calamities,
+And often the counsel of friends entrusted to handle affairs has made many of those appointed over authorities partners in innocent blood and wrapped them in irremediable calamities,
 
 **Greek Esther Additions 8:12ζ**
 
@@ -3430,15 +3698,15 @@ by the false deception of evil character, deceiving the sincere goodwill of thos
 
 **Greek Esther Additions 8:12η**
 
-And it is possible to observe, not so much from the older histories that we have handed down, as from the things near at hand to you, as you seek out what things have been impiously completed by the pestilence of those unworthily exercising power,
+And it is possible to observe, not so much from the older histories that we have handed down, as from the things near at hand, if you examine what has been impiously completed by the pestilence of those unworthily exercising power,
 
 **Greek Esther Additions 8:12θ**
 
-and to pay attention to the things after these, so that we may provide the kingdom undisturbed with peace for all humans,
+and to take care for the future, so that we may provide the kingdom undisturbed with peace for all people,
 
 **Greek Esther Additions 8:12ι**
 
-using changes and always discerning the things coming under sight with a more equitable response.
+making use of changes and always discerning the things coming into view with a more equitable response.
 
 **Greek Esther Additions 8:12κ**
 
@@ -3450,11 +3718,11 @@ obtained so much of the love for humanity that we have toward every nation that 
 
 **Greek Esther Additions 8:12μ**
 
-but not bearing the arrogance, he undertook to deprive us of rule and of spirit,
+but unable to bear his arrogance, he undertook to deprive us of rule and of spirit,
 
 **Greek Esther Additions 8:12ν**
 
-having requested for destruction our savior and continual benefactor Mordecai and Esther, the blameless sharer of the kingdom, with all their nation, by many-woven deceptions of methods;
+having requested for destruction our savior and continual benefactor Mordecai and Esther, the blameless sharer of the kingdom, with all their nation, by many-woven deceptive methods;
 
 **Greek Esther Additions 8:12ξ**
 
@@ -3474,7 +3742,7 @@ Therefore you will do well not making use of the letters sent by Haman son of Ha
 
 **Greek Esther Additions 8:12σ**
 
-And setting out the copy of this letter openly in every place, allow the Jews to use their own customs and strengthen them together, so that on the thirteenth of the twelfth month Adar, the same day, they may defend themselves against those attacking them in time of affliction;
+And setting out the copy of this letter openly in every place, allow the Jews to use their own customs and give them support, so that on the thirteenth of the twelfth month Adar, the same day, they may defend themselves against those attacking them in time of affliction;
 
 **Greek Esther Additions 8:12τ**
 
@@ -3486,17 +3754,21 @@ And therefore, among your named feasts, you also shall celebrate a notable day w
 
 **Greek Esther Additions 8:12φ**
 
-But every city or country as a whole, whoever does not do according to these things, will be consumed with spear and fire in wrath; it will be made not only untrodden by humans, but also most hateful to wild beasts and birds for all time.
+But every city or country, without exception, that does not do according to these things will be consumed with spear and fire in wrath; it will be made not only untrodden by people, but also most hateful to wild beasts and birds for all time.
 
 ### Chapter 10
 
 **Greek Esther Additions 10:3α**
 
-And Mordecai said, "These things came from God. [3β] For I remembered concerning the dream that I saw concerning these matters; for no word from them passed by."
+And Mordecai said, "These things came from God.
+
+**Greek Esther Additions 10:3β**
+
+For I remembered the dream that I saw concerning these matters; for not one word from them passed by."
 
 **Greek Esther Additions 10:3γ**
 
-The small spring, which became a river, and there was light and sun and much water: Esther is the river, whom the king married and made queen.
+The small spring, which became a river, and there was light and sun and much water: Esther is the river; the king married her and made her queen.
 
 **Greek Esther Additions 10:3δ**
 
@@ -3516,7 +3788,7 @@ Because of this he made two lots, one for the people of God and one for all the 
 
 **Greek Esther Additions 10:3θ**
 
-and these two lots came to hour and time and day of judgment before God and all the nations,
+and these two lots came to an hour and time and day of judgment before God and all the nations,
 
 **Greek Esther Additions 10:3ι**
 
@@ -3524,7 +3796,7 @@ and God remembered his people and justified his inheritance;
 
 **Greek Esther Additions 10:3κ**
 
-and these days will be for them in the month Adar, on the fourteenth and fifteenth of the month, with gathering and joy and gladness before God by generations forever among his people Israel.
+and these days will be for them in the month Adar, on the fourteenth and fifteenth of the month, with gathering and joy and gladness before God through generations forever among his people Israel.
 
 **Greek Esther Additions 10:3λ**
 
@@ -3556,7 +3828,7 @@ for a holy spirit of discipline will flee deceit, and will depart from senseless
 
 **Wisdom 1:6**
 
-For wisdom is a man-loving spirit, and it will not acquit a blasphemer from his lips; because God is witness of his kidneys and a true overseer of his heart and a hearer of his tongue;
+For wisdom is a spirit loving mankind, and it will not acquit a blasphemer from his lips; because God is witness of his kidneys and a true overseer of his heart and a hearer of his tongue;
 
 **Wisdom 1:7**
 
@@ -3588,7 +3860,7 @@ because God did not make death, nor does he delight in destruction of the living
 
 **Wisdom 1:14**
 
-For he created all things for being, and the generations of the world are saving, and there is no poison of destruction in them, nor kingdom of Hades upon earth.
+For he created all things for being, and the generative powers of the world are saving, and there is no poison of destruction in them, nor kingdom of Hades upon earth.
 
 **Wisdom 1:15**
 
@@ -3610,7 +3882,7 @@ For we were born by chance, and after this we shall be as not having existed; be
 
 **Wisdom 2:3**
 
-when it is quenched, the body will turn out as ashes, and the spirit will be poured out like loose air.
+when it is quenched, the body will turn out as ashes, and the spirit will be poured out like thin air.
 
 **Wisdom 2:4**
 
@@ -3634,7 +3906,7 @@ Let us crown ourselves with rosebuds before they wither.
 
 **Wisdom 2:9**
 
-Let none of us be without share in our proud revelry; let us leave tokens of gladness everywhere, because this is our portion and this lot.
+Let none of us be without share in our proud revelry; let us leave tokens of gladness everywhere, because this is our portion and this is our lot.
 
 **Wisdom 2:10**
 
@@ -3642,11 +3914,11 @@ Let us oppress a righteous poor man; let us not spare a widow, nor show reverenc
 
 **Wisdom 2:11**
 
-But let our strength be law of righteousness, for the weak thing is proved useless.
+But let our strength be law of righteousness, for what is weak is proved useless.
 
 **Wisdom 2:12**
 
-And let us lie in wait for the righteous man, because he is troublesome to us and opposes our works and reproaches us with sins of law and reports against us sins of our discipline;
+And let us lie in wait for the righteous man, because he is troublesome to us and opposes our works and reproaches us with sins against law and charges us with sins against our discipline;
 
 **Wisdom 2:13**
 
@@ -3662,7 +3934,7 @@ because his life is unlike others, and his paths have been changed;
 
 **Wisdom 2:16**
 
-we were counted to him as counterfeit, and he keeps away from our ways as from impurities; he blesses the last things of the righteous and boasts of God as father.
+we were counted to him as counterfeit, and he keeps away from our ways as from impurities; he blesses the ends of the righteous and boasts of God as father.
 
 **Wisdom 2:17**
 
@@ -3698,7 +3970,7 @@ but by envy of the devil death entered into the world,
 
 **Wisdom 2:25**
 
-and those who are of his portion experience him.
+and those who are of his portion experience death.
 
 ### Chapter 3
 
@@ -3724,7 +3996,7 @@ and having been disciplined a little, they will be greatly benefited, because Go
 
 **Wisdom 3:6**
 
-as gold in a furnace he tested them, and as a whole-burnt offering of sacrifice he accepted them.
+as gold in a furnace he tested them, and as a whole-burnt sacrificial offering he accepted them.
 
 **Wisdom 3:7**
 
@@ -3764,7 +4036,7 @@ For the fruit of good labors is renowned, and the root of prudence is unfailing.
 
 **Wisdom 3:16**
 
-But children of adulterers will be incomplete, and seed from a lawless bed will vanish.
+But children of adulterers will be incomplete, and seed from a lawless bed will disappear.
 
 **Wisdom 3:17**
 
@@ -3786,7 +4058,7 @@ Better is childlessness with virtue; for immortality is in its memory, because i
 
 **Wisdom 4:2**
 
-while present they imitate it, and when departed they long for it; and in the age, wearing a crown, it marches in procession, having won the contest of undefiled contests.
+while present they imitate it, and when departed they long for it; and in the age, wearing a crown, it marches in procession, having won the contest for undefiled prizes.
 
 **Wisdom 4:3**
 
@@ -3802,7 +4074,7 @@ Incomplete branches will be broken off, and their fruit useless, unripe for food
 
 **Wisdom 4:6**
 
-for children born from lawless sleeps are witnesses of wickedness against parents in their examination.
+for children born from lawless unions are witnesses of wickedness against parents in their examination.
 
 **Wisdom 4:7**
 
@@ -3814,7 +4086,7 @@ for honorable old age is not the long-lasting one, nor is it measured by number 
 
 **Wisdom 4:9**
 
-but prudence is gray hair for men, and an unstained life is age of old age.
+but prudence is gray hair for men, and an unstained life is the maturity of old age.
 
 **Wisdom 4:10**
 
@@ -3826,7 +4098,7 @@ he was caught away, lest wickedness change his understanding or deceit deceive h
 
 **Wisdom 4:12**
 
-for the evil eye of worthlessness darkens good things, and the wandering of desire changes an innocent mind.
+for the evil eye of worthlessness darkens good things, and the wandering of desire perverts an innocent mind.
 
 **Wisdom 4:13**
 
@@ -3854,7 +4126,7 @@ They will see and despise, but the Lord will laugh them to scorn,
 
 **Wisdom 4:19**
 
-and they will be after this for a dishonored fall and for outrage among the dead forever, because he will burst them speechless, face down, and shake them from foundations, and to the last they will be made desolate, and they will be in pain, and their memory will perish.
+and they will be after this for a dishonored fall and for outrage among the dead forever, because he will break them speechless, face down, and shake them from foundations, and to the last they will be made desolate, and they will be in pain, and their memory will perish.
 
 **Wisdom 4:20**
 
@@ -3888,7 +4160,7 @@ So then we wandered from the way of truth, and the light of righteousness did no
 
 **Wisdom 5:7**
 
-we were filled with paths of lawlessness and destruction, and we journeyed through trackless deserts, but the way of the Lord we did not know.
+we were filled with lawless and destructive paths, and we journeyed through trackless deserts, but the way of the Lord we did not know.
 
 **Wisdom 5:8**
 
@@ -3908,7 +4180,7 @@ or as when a bird flies through air, no proof of its going is found; but the lig
 
 **Wisdom 5:12**
 
-or as when an arrow is shot at a mark, the cut air immediately dissolved back into itself, so that its passage is unknown.
+or as when an arrow is shot at a mark, the cut air immediately resolved back into itself, so that its passage is unknown.
 
 **Wisdom 5:13**
 
@@ -3974,7 +4246,7 @@ because being servants of his kingdom, you did not judge rightly, nor keep law, 
 
 **Wisdom 6:5**
 
-Dreadfully and quickly he will stand upon you, because sharp judgment happens among those who excel.
+Dreadfully and quickly he will come upon you, because sharp judgment happens among those who excel.
 
 **Wisdom 6:6**
 
@@ -3986,7 +4258,7 @@ for the Master of all will not shrink from a face, nor will he respect greatness
 
 **Wisdom 6:8**
 
-but for the mighty, strong searching stands near.
+but for the mighty, a strong searching stands near.
 
 **Wisdom 6:9**
 
@@ -3994,7 +4266,7 @@ To you therefore, O rulers, are my words, so that you may learn wisdom and not f
 
 **Wisdom 6:10**
 
-for those who holy keep holy things will be made holy, and those taught them will find a defense.
+for those who devoutly keep holy things will be made holy, and those taught them will find a defense.
 
 **Wisdom 6:11**
 
@@ -4006,11 +4278,11 @@ Bright and unfading is wisdom, and she is easily beheld by those who love her an
 
 **Wisdom 6:13**
 
-she goes before those who desire her, to be known beforehand.
+she goes before those who desire her, making herself known beforehand.
 
 **Wisdom 6:14**
 
-The one who rises early toward her will not toil, for he will find her sitting beside his gates.
+The one who rises early for her will not toil, for he will find her sitting beside his gates.
 
 **Wisdom 6:15**
 
@@ -4030,7 +4302,7 @@ and love is keeping of her laws, and attention to laws is confirmation of incorr
 
 **Wisdom 6:19**
 
-and incorruption makes one to be near God.
+and incorruption makes one near to God.
 
 **Wisdom 6:20**
 
@@ -4054,7 +4326,7 @@ But a multitude of wise ones is salvation of the world, and a prudent king is st
 
 **Wisdom 6:25**
 
-Therefore be disciplined by my sayings, and you will be benefited.
+Therefore receive discipline by my sayings, and you will be benefited.
 
 ### Chapter 7
 
@@ -4064,11 +4336,11 @@ I also am a mortal man, equal to all, and offspring of the earthborn first-forme
 
 **Wisdom 7:2**
 
-in a ten-month time, coagulated in blood from seed of a man and pleasure that came together with sleep.
+in a ten-month time, coagulated in blood from seed of a man and pleasure joined with sleep.
 
 **Wisdom 7:3**
 
-And I also, when born, drew the common air and fell upon the same-suffering earth, crying the first voice like all, equally;
+And I also, when born, drew the common air and fell upon earth subject to the same suffering, crying the first voice like all, equally;
 
 **Wisdom 7:4**
 
@@ -4096,7 +4368,7 @@ nor did I liken a priceless stone to her, because all gold in her sight is a lit
 
 **Wisdom 7:10**
 
-Above health and beauty I loved her, and chose to have her instead of light, because sleepless is the radiance from her.
+Above health and beauty I loved her, and chose to have her instead of light, because her radiance is sleepless.
 
 **Wisdom 7:11**
 
@@ -4112,7 +4384,7 @@ Without deceit I learned, and without envy I share; I do not hide her wealth;
 
 **Wisdom 7:14**
 
-for she is an unfailing treasure for men, which those who used it stored up friendship toward God, being commended through the gifts from discipline.
+for she is an unfailing treasure for men, which those who used it stored up as friendship toward God, being commended through the gifts from discipline.
 
 **Wisdom 7:15**
 
@@ -4124,7 +4396,7 @@ For in his hand are both we and our words, and all prudence and knowledge of cra
 
 **Wisdom 7:17**
 
-For he himself gave me unerring knowledge of the things that are, to know the constitution of the world and operation of elements,
+For he himself gave me unerring knowledge of the things that are, to know the constitution of the world and the working of elements,
 
 **Wisdom 7:18**
 
@@ -4144,11 +4416,11 @@ both hidden and manifest things I knew; for wisdom, the craftswoman of all thing
 
 **Wisdom 7:22**
 
-For in her is a spirit intelligent, holy, only-born, manifold, subtle, easily moved, clear, undefiled, plain, unharmed, loving good, keen, unhindered, beneficent,
+For in her is a spirit intelligent, holy, unique, manifold, subtle, easily moved, clear, undefiled, plain, unharmed, loving good, keen, unhindered, beneficent,
 
 **Wisdom 7:23**
 
-man-loving, firm, secure, without care, all-powerful, all-overseeing, and passing through all intelligent, pure, most subtle spirits.
+loving mankind, firm, secure, without care, all-powerful, all-overseeing, and passing through all intelligent, pure, most subtle spirits.
 
 **Wisdom 7:24**
 
@@ -4160,11 +4432,11 @@ For she is vapor of the power of God and a sincere outflow of the glory of the A
 
 **Wisdom 7:26**
 
-For she is radiance of everlasting light and a spotless mirror of the operation of God and image of his goodness.
+For she is radiance of everlasting light and a spotless mirror of the working of God and image of his goodness.
 
 **Wisdom 7:27**
 
-And being one she can do all things, and remaining in herself she renews all things, and by generations, passing into holy souls, she prepares friends of God and prophets;
+And being one she can do all things, and remaining in herself she renews all things, and through generations, passing into holy souls, she prepares friends of God and prophets;
 
 **Wisdom 7:28**
 
@@ -4190,11 +4462,11 @@ This one I loved and sought out from my youth, and I sought to bring her as a br
 
 **Wisdom 8:3**
 
-She glorifies noble birth, having life together with God, and the Master of all loved her;
+She glorifies noble birth, having shared life with God, and the Master of all loved her;
 
 **Wisdom 8:4**
 
-for she is an initiate of the knowledge of God and chooser of his works.
+for she is initiated into the knowledge of God and chooses his works.
 
 **Wisdom 8:5**
 
@@ -4206,7 +4478,7 @@ And if prudence works, who of the things that are is more a craftswoman than she
 
 **Wisdom 8:7**
 
-And if someone loves righteousness, her labors are virtues; for she teaches self-control and prudence, righteousness and courage, than which nothing is more useful in life for men.
+And if someone loves righteousness, her labors are virtues; for she teaches self-control and prudence, righteousness and courage, than which nothing is more useful in life for people.
 
 **Wisdom 8:8**
 
@@ -4214,7 +4486,7 @@ And if someone also longs for much experience, she knows ancient things and infe
 
 **Wisdom 8:9**
 
-Therefore I judged to bring her into life together, knowing that she will be counselor of good things and encouragement for cares and grief.
+Therefore I judged to bring her into shared life, knowing that she will be counselor of good things and encouragement for cares and grief.
 
 **Wisdom 8:10**
 
@@ -4242,7 +4514,7 @@ dread rulers, when they hear, will fear me; among a multitude I will appear good
 
 **Wisdom 8:16**
 
-When I enter into my house I will rest together with her; for association with her has no bitterness, nor does life together with her have pain, but gladness and joy.
+When I enter into my house I will rest together with her; for association with her has no bitterness, nor does shared life with her have pain, but gladness and joy.
 
 **Wisdom 8:17**
 
@@ -4250,7 +4522,7 @@ Having reasoned these things in myself and considered in my heart that immortali
 
 **Wisdom 8:18**
 
-and in friendship with her there is good delight, and in the labors of her hands unfailing wealth, and in training together in her conversation prudence, and good fame in fellowship of her words, I went around seeking how I might take her to myself.
+and in friendship with her there is good delight, and in the labors of her hands unfailing wealth, and in shared training with her conversation prudence, and good fame in fellowship of her words, I went around seeking how I might take her to myself.
 
 **Wisdom 8:19**
 
@@ -4284,7 +4556,7 @@ give me wisdom, the one seated beside your thrones, and do not reject me from yo
 
 **Wisdom 9:5**
 
-because I am your slave and son of your maidservant, a weak and short-lived man, and lesser in understanding of judgment and laws;
+because I am your slave and son of your maidservant, a weak and short-lived man, and inferior in understanding of judgment and laws;
 
 **Wisdom 9:6**
 
@@ -4320,7 +4592,7 @@ For what man will know the counsel of God? Or who will consider what the Lord wi
 
 **Wisdom 9:14**
 
-For reasonings of mortals are cowardly, and our thoughts are unsafe.
+For reasonings of mortals are timid, and our thoughts are uncertain.
 
 **Wisdom 9:15**
 
@@ -4328,7 +4600,7 @@ For a corruptible body weighs down a soul, and the earthy tent weighs down a muc
 
 **Wisdom 9:16**
 
-And barely do we infer things upon earth, and things in our hands we find with labor; but things in heavens who has traced out?
+And with difficulty we infer things upon earth, and things in our hands we find with labor; but things in heavens who has traced out?
 
 **Wisdom 9:17**
 
@@ -4358,11 +4630,11 @@ But an unrighteous man, having departed from her in his anger, perished together
 
 **Wisdom 10:4**
 
-because of him, when the earth was being flooded, wisdom again saved it, steering the righteous man by cheap wood.
+because of him, when the earth was being flooded, wisdom again saved it, steering the righteous man by lowly wood.
 
 **Wisdom 10:5**
 
-She also, when nations were confounded in agreement of wickedness, knew the righteous man and kept him blameless to God, and preserved him strong against compassion for a child.
+She also, when nations were confounded in concord of wickedness, knew the righteous man and kept him blameless to God, and preserved him strong against tender affection for his child.
 
 **Wisdom 10:6**
 
@@ -4370,11 +4642,11 @@ She rescued a righteous man when ungodly ones were being destroyed, as he fled f
 
 **Wisdom 10:7**
 
-of whose wickedness a smoking waste still stands as witness, and plants bearing fruit in unfinished seasons, and a pillar of salt standing as memorial of a disbelieving soul.
+of whose wickedness a smoking waste still stands as witness, and plants bearing fruit in untimely seasons, and a pillar of salt standing as memorial of a disbelieving soul.
 
 **Wisdom 10:8**
 
-For passing by wisdom, they were harmed not only by not knowing good things, but also left behind for life a memorial of foolishness, so that in the things in which they stumbled, they could not even be hidden.
+For passing by wisdom, they were harmed not only by not knowing good things, but also left behind for life a memorial of foolishness, so that in the things in which they stumbled, they could not even escape notice.
 
 **Wisdom 10:9**
 
@@ -4398,7 +4670,7 @@ She did not abandon a righteous man who had been sold, but rescued him from sin;
 
 **Wisdom 10:14**
 
-she went down with him into a pit and did not leave him in bonds, until she brought to him scepters of kingdom and authority over those ruling him as tyrants; she also showed those who blamed him to be false and gave him everlasting glory.
+she went down with him into a pit and did not leave him in bonds, until she brought to him scepters of kingdom and authority over those who tyrannized him; she also showed those who blamed him to be false and gave him everlasting glory.
 
 **Wisdom 10:15**
 
@@ -4410,7 +4682,7 @@ she entered into the soul of a servant of the Lord and resisted fearsome kings w
 
 **Wisdom 10:17**
 
-She gave back to holy ones the wage of their labors, guided them in a wonderful way, and became for them a shelter by day and a flame of stars by night.
+She gave back to holy ones the wage of their labors, guided them in a wonderful way, and became for them a shelter by day and a flame of stars at night.
 
 **Wisdom 10:18**
 
@@ -4418,7 +4690,7 @@ She brought them through the Red Sea and led them through much water;
 
 **Wisdom 10:19**
 
-but their enemies she flooded and bubbled them up from the depth of the abyss.
+but their enemies she flooded and boiled them up from the depth of the abyss.
 
 **Wisdom 10:20**
 
@@ -4440,11 +4712,11 @@ They journeyed through an uninhabited wilderness and pitched tents in trackless 
 
 **Wisdom 11:3**
 
-they stood against enemies and defended themselves from enemies.
+they stood against enemies and repelled foes.
 
 **Wisdom 11:4**
 
-They thirsted and called upon you, and water was given to them from a sharp-edged rock, and healing of thirst from hard stone.
+They thirsted and called upon you, and water was given to them from a sharp-edged rock, and a remedy for thirst from hard stone.
 
 **Wisdom 11:5**
 
@@ -4476,7 +4748,7 @@ And both absent and present they were similarly worn down;
 
 **Wisdom 11:12**
 
-for double grief took them, and a groaning at memories of the past things.
+for double grief took them, and a groaning at the memory of past things.
 
 **Wisdom 11:13**
 
@@ -4484,7 +4756,7 @@ For when they heard that through their own punishments they were being benefited
 
 **Wisdom 11:14**
 
-for the one long before thrown out in exposure, whom they rejected with mockery, at the end of the outcomes they admired, having thirsted unlike the righteous.
+for the one long before cast out in exposure, whom they rejected with mockery, they admired at the end of the outcomes, having thirsted unlike the righteous.
 
 **Wisdom 11:15**
 
@@ -4508,19 +4780,19 @@ of which not only the harm could crush them all together, but also the sight, te
 
 **Wisdom 11:20**
 
-And even apart from these, they could fall by one breath, pursued by justice and winnowed by spirit of your power; but you ordered all things by measure and number and weight.
+And even apart from these, they could fall by one breath, pursued by justice and winnowed by the breath of your power; but you ordered all things by measure and number and weight.
 
 **Wisdom 11:21**
 
-For to have great strength is present to you always, and who will resist the might of your arm?
+For great strength is always present to you, and who will resist the might of your arm?
 
 **Wisdom 11:22**
 
-because the whole world before you is like a tilt from scales and like a drop of morning dew that came down upon earth.
+because the whole world before you is like a turn of the scales and like a drop of morning dew that came down upon earth.
 
 **Wisdom 11:23**
 
-But you show mercy to all, because you are able to do all things, and you overlook sins of men for repentance.
+But you show mercy to all, because you are able to do all things, and you overlook sins of people for repentance.
 
 **Wisdom 11:24**
 
@@ -4542,7 +4814,7 @@ For your incorruptible spirit is in all things.
 
 **Wisdom 12:2**
 
-Therefore those who fall aside you reprove little by little and, reminding them in the things by which they sin, you admonish them, so that being released from wickedness they may trust upon you, Lord.
+Therefore those who fall aside you reprove little by little and, reminding them in the things by which they sin, you admonish them, so that being released from wickedness they may trust in you, Lord.
 
 **Wisdom 12:3**
 
@@ -4570,19 +4842,19 @@ But even these, as men, you spared, and sent wasps as forerunners of your army, 
 
 **Wisdom 12:9**
 
-not being unable in battle array to give ungodly ones subject to righteous ones, or to crush them at once by terrible beasts or by sharp word,
+not because you were unable in battle array to give ungodly ones subject to righteous ones, or to crush them at once by terrible beasts or by sharp word,
 
 **Wisdom 12:10**
 
-but judging little by little, you gave a place of repentance, not being ignorant that their generation was wicked and their evil inborn and that their reasoning would surely not be changed forever.
+but judging little by little, you gave room for repentance, not being ignorant that their generation was wicked and their evil inborn and that their reasoning would surely not be changed forever.
 
 **Wisdom 12:11**
 
-For they were accursed seed from the beginning, nor from fearing anyone did you give license for the things they sinned.
+For they were accursed seed from the beginning, nor was it from fear of anyone that you gave license for the things they sinned.
 
 **Wisdom 12:12**
 
-For who will say, What have you done? Or who will stand against your judgment? And who will accuse you concerning nations that have perished, which you made? Or who will come into position against you as avenger for unrighteous men?
+For who will say, What have you done? Or who will stand against your judgment? And who will accuse you concerning nations that have perished, which you made? Or who will stand before you as avenger for unrighteous men?
 
 **Wisdom 12:13**
 
@@ -4590,7 +4862,7 @@ For neither is there God besides you, who cares for all, so that you should show
 
 **Wisdom 12:14**
 
-nor will king or ruler be able to face you concerning those whom you punished.
+nor will king or ruler be able to stand face-to-face with you concerning those whom you punished.
 
 **Wisdom 12:15**
 
@@ -4602,7 +4874,7 @@ For your strength is beginning of righteousness, and your mastering all things m
 
 **Wisdom 12:17**
 
-For you show strength when you are disbelieved in perfection of power, and among those who know, you convict boldness.
+For you show strength when the perfection of your power is disbelieved, and among those who know, you convict boldness.
 
 **Wisdom 12:18**
 
@@ -4610,11 +4882,11 @@ But you, mastering strength, judge in gentleness and administer us with much spa
 
 **Wisdom 12:19**
 
-But you taught your people through such works that the righteous must be man-loving; and you made your sons of good hope, because you give repentance for sins.
+But you taught your people through such works that the righteous one must love mankind; and you made your sons of good hope, because you give repentance for sins.
 
 **Wisdom 12:20**
 
-For if enemies of your children, owed to death, you punished with so much attention and leniency, giving times and place through which they might be released from wickedness,
+For if enemies of your children, deserving death, you punished with so much attention and leniency, giving times and place through which they might be released from wickedness,
 
 **Wisdom 12:21**
 
@@ -4622,7 +4894,7 @@ with how much exactness did you judge your sons, to whose fathers you gave oaths
 
 **Wisdom 12:22**
 
-Therefore while disciplining us, you scourge our enemies by tens of thousands, so that when judging we may be anxious for your goodness, and when being judged we may expect mercy.
+Therefore while disciplining us, you scourge our enemies with countless lashes, so that when judging we may care for your goodness, and when being judged we may expect mercy.
 
 **Wisdom 12:23**
 
@@ -4634,11 +4906,11 @@ for they wandered farther than ways of error, taking as gods even the dishonored
 
 **Wisdom 12:25**
 
-Because of this, as to unreasonable children, you sent judgment for mockery.
+Because of this, as to unreasonable children, you sent judgment as mockery.
 
 **Wisdom 12:26**
 
-But those not admonished by playthings of rebuke will experience judgment worthy of God.
+But those not admonished by playful rebukes will experience judgment worthy of God.
 
 **Wisdom 12:27**
 
@@ -4648,7 +4920,7 @@ For in the things at which they themselves, suffering, were indignant, by these,
 
 **Wisdom 13:1**
 
-For all men were vain by nature, in whom ignorance of God was present, and from the seen good things they did not have strength to know the One who is, nor by attending to works did they recognize the craftsman;
+For all men were vain by nature, in whom ignorance of God was present, and from the seen good things they were unable to know the One who is, nor by attending to works did they recognize the craftsman;
 
 **Wisdom 13:2**
 
@@ -4656,15 +4928,15 @@ but either fire or spirit or swift air or circle of stars or violent water or lu
 
 **Wisdom 13:3**
 
-If indeed, delighting in beauty, they assumed these things to be gods, let them know how much better than these the Master is, for the origin-ruler of beauty created them;
+If indeed, delighting in beauty, they assumed these things to be gods, let them know how much better than these the Master is, for the originator of beauty created them;
 
 **Wisdom 13:4**
 
-but if, astonished at power and operation, let them understand from them how much more powerful the one who made them is;
+but if they were astonished at power and working, let them understand from these things how much more powerful the one who made them is;
 
 **Wisdom 13:5**
 
-for from the greatness and beauty of created things, analogously their origin-maker is contemplated.
+for from the greatness and beauty of created things, by analogy their maker is perceived.
 
 **Wisdom 13:6**
 
@@ -4680,11 +4952,11 @@ But again neither are they pardonable;
 
 **Wisdom 13:9**
 
-for if they had strength to know so much, so that they could aim at the age, how did they not more quickly find the Master of these things?
+for if they had strength to know so much, so that they could make conjecture about the age, how did they not more quickly find the Master of these things?
 
 **Wisdom 13:10**
 
-But miserable, and among the dead are their hopes, are those who called gods works of men's hands, gold and silver, practice of art, and likenesses of living creatures, or useless stone, work of an ancient hand.
+But miserable, and among the dead are their hopes, are those who called gods the works of men's hands: gold and silver, a work of art, and likenesses of living creatures, or useless stone, work of an ancient hand.
 
 **Wisdom 13:11**
 
@@ -4692,11 +4964,11 @@ But if some woodcutter, sawing down a suitable tree, skillfully scraped off all 
 
 **Wisdom 13:12**
 
-and spending the castoffs of the work for preparation of food, was filled;
+and using up the castoffs of the work for preparation of food, was filled;
 
 **Wisdom 13:13**
 
-but the castoff from them, useful for nothing, crooked wood and grown together with knots, taking it, he carved it in care of his idleness and by experience of understanding shaped it; he likened it to an image of man,
+but the castoff from them, useful for nothing, crooked wood and grown together with knots, taking it, he carved it with the care of his leisure and by experience of understanding shaped it; he likened it to an image of man,
 
 **Wisdom 13:14**
 
@@ -4712,15 +4984,15 @@ So then, so it would not fall, he took forethought for it, knowing that it is un
 
 **Wisdom 13:17**
 
-But praying about his possessions and his marriages and children, he is not ashamed to speak to the soulless thing, and about health he calls upon the weak thing,
+But praying about his possessions and his marriages and children, he is not ashamed to speak to the soulless thing, and about health he calls upon the thing that is weak,
 
 **Wisdom 13:18**
 
-and about life he petitions the dead thing, and about aid he entreats the most inexperienced thing, and about travel the thing unable even to use a footstep,
+and about life he petitions the dead thing, and about aid he entreats the thing utterly inexperienced, and about travel the thing unable even to use its feet,
 
 **Wisdom 13:19**
 
-and about gain and work and success of hands he asks good activity from the thing most inactive in hands.
+and about gain and work and success of hands he asks active success from the thing most inactive in hands.
 
 ### Chapter 14
 
@@ -4730,7 +5002,7 @@ Again, someone preparing to sail and about to journey through wild waves cries o
 
 **Wisdom 14:2**
 
-For desire of gains devised that one, and craftswoman wisdom constructed it;
+For desire of gains devised that one, and wisdom, the craftswoman, constructed it;
 
 **Wisdom 14:3**
 
@@ -4738,15 +5010,15 @@ but your providence, Father, steers it, because you gave a way even in sea and a
 
 **Wisdom 14:4**
 
-showing that you can save from every thing, so that even without skill someone may embark.
+showing that you can save from anything, so that even without skill someone may embark.
 
 **Wisdom 14:5**
 
-But you want the works of your wisdom not to be idle; therefore men entrust souls even to smallest wood, and passing through surge by raft they were saved.
+But you want the works of your wisdom not to be idle; therefore people entrust souls even to the smallest wood, and passing through a surge by raft they were saved.
 
 **Wisdom 14:6**
 
-For also in the beginning, when proud giants were perishing, the hope of the world, taking refuge upon a raft, left to the age seed of generation, steered by your hand.
+For also in the beginning, when proud giants were perishing, the hope of the world, taking refuge upon a raft, left seed of generation to the age, steered by your hand.
 
 **Wisdom 14:7**
 
@@ -4754,7 +5026,7 @@ For blessed is wood through which righteousness happens;
 
 **Wisdom 14:8**
 
-but the handmade thing is accursed, itself and the one who made it, because he worked it, and the corruptible thing was named god.
+but the handmade thing is accursed, itself and the one who made it, because he worked it, and the corruptible thing was named a god.
 
 **Wisdom 14:9**
 
@@ -4766,11 +5038,11 @@ for what was done will be punished together with the one who did it.
 
 **Wisdom 14:11**
 
-Because of this also in idols of nations there will be visitation, because in a creature of God they became an abomination and snares to souls of men and a trap to feet of foolish ones.
+Because of this also among idols of nations there will be visitation, because in a created thing of God they became an abomination and snares to souls of men and a trap to feet of foolish ones.
 
 **Wisdom 14:12**
 
-For beginning of fornication is device of idols, and invention of them corruption of life.
+For the beginning of fornication is the devising of idols, and their invention is corruption of life.
 
 **Wisdom 14:13**
 
@@ -4778,11 +5050,11 @@ For they were not from the beginning, nor will they be forever;
 
 **Wisdom 14:14**
 
-for through empty glory of men they entered into the world, and because of this a short end for them was devised.
+for through the vainglory of men they entered into the world, and because of this a short end for them was devised.
 
 **Wisdom 14:15**
 
-For a father worn down by untimely mourning, having made an image of a child quickly taken away, then honored the dead man as god and handed down mysteries and rites to those under his hand.
+For a father worn down by untimely mourning, having made an image of a child quickly taken away, then honored as a god the man who was dead and handed down mysteries and rites to those under his hand.
 
 **Wisdom 14:16**
 
@@ -4794,7 +5066,7 @@ whom men, not being able to honor in sight because they lived far away, making a
 
 **Wisdom 14:18**
 
-And the ambition of the craftsman urged even those ignorant into intensification of worship;
+And the ambition of the craftsman urged even those ignorant into increased worship;
 
 **Wisdom 14:19**
 
@@ -4802,15 +5074,15 @@ for he, perhaps wanting to please the ruler, forced the likeness by art toward g
 
 **Wisdom 14:20**
 
-and the multitude, drawn by grace of the workmanship, now reckoned as object of worship the man honored a little before.
+and the multitude, drawn by the charm of the workmanship, now reckoned as an object of worship the man honored a little before.
 
 **Wisdom 14:21**
 
-And this became an ambush for life, because men, enslaved either to misfortune or tyranny, put the incommunicable name upon stones and woods.
+And this became a snare for life, because men, enslaved either to misfortune or tyranny, put the incommunicable name upon stones and pieces of wood.
 
 **Wisdom 14:22**
 
-Then it was not enough to be deceived concerning the knowledge of God, but also, living in great war of ignorance, they address so many evils as peace.
+Then it was not enough to be deceived concerning the knowledge of God, but also, living in a great war of ignorance, they call such great evils peace.
 
 **Wisdom 14:23**
 
@@ -4818,11 +5090,11 @@ For either conducting child-murdering rites or hidden mysteries or frenzied reve
 
 **Wisdom 14:24**
 
-they no longer guard either lives or marriages pure, but one kills another by lying in wait, or pains him by adulterating.
+they no longer guard either lives or marriages pure, but one kills another by lying in wait, or grieves him by committing adultery.
 
 **Wisdom 14:25**
 
-And all things mixed together have blood and murder, theft and deceit, corruption, faithlessness, disturbance, perjury, tumult of good things,
+And all things are mixed together: blood and murder, theft and deceit, corruption, faithlessness, disturbance, perjury, tumult of good things,
 
 **Wisdom 14:26**
 
@@ -4834,15 +5106,15 @@ For the worship of nameless idols is beginning and cause and end of every evil;
 
 **Wisdom 14:28**
 
-for either rejoicing they are mad, or they prophesy lies, or live unrighteously, or quickly perjure themselves;
+for either in their rejoicing they rage madly, or they prophesy lies, or live unrighteously, or quickly perjure themselves;
 
 **Wisdom 14:29**
 
-for having trusted in soulless idols, having sworn wickedly, they do not expect to be harmed.
+for having trusted in soulless idols, having sworn wickedly, they do not expect to suffer harm.
 
 **Wisdom 14:30**
 
-But just things will pursue them both, because they thought wickedly concerning God by attending to idols and swore unrighteously in deceit, despising holiness;
+But justice will pursue them in both ways, because they thought wickedly concerning God by attending to idols and swore unrighteously in deceit, despising holiness;
 
 **Wisdom 14:31**
 
@@ -4852,11 +5124,11 @@ for not the power of the things by which they swear, but the justice of those wh
 
 **Wisdom 15:1**
 
-But you, our God, are kind and true, longsuffering and administering all things in mercy.
+But you, our God, are kind and true, longsuffering and governing all things in mercy.
 
 **Wisdom 15:2**
 
-For even if we sin, we are yours, knowing your dominion; but we will not sin, knowing that we have been reckoned to you.
+For even if we sin, we are yours, knowing your dominion; but we will not sin, knowing that we have been counted as yours.
 
 **Wisdom 15:3**
 
@@ -4868,11 +5140,11 @@ For neither did an evil-working device of men deceive us, nor fruitless labor of
 
 **Wisdom 15:5**
 
-whose sight comes to foolish ones for reproach, and he longs for the breathless form of a dead image.
+whose sight comes to foolish ones for reproach, and one longs for the breathless form of a dead image.
 
 **Wisdom 15:6**
 
-Lovers of evils are worthy of such hopes, both those doing and those longing and those revering.
+Lovers of evils are worthy of such hopes: those making, those longing, and those revering.
 
 **Wisdom 15:7**
 
@@ -4880,11 +5152,11 @@ For also a potter, pressing soft earth, laboriously molds each thing for our ser
 
 **Wisdom 15:8**
 
-And with evil toil he molds a vain god from the same clay, who, having been born from earth shortly before, after a little goes to where he was taken from, when demanded back for the debt of soul.
+And with evil toil he molds a vain god from the same clay, who, having been born from earth shortly before, after a little goes to where he was taken from, when the debt of his soul is demanded back.
 
 **Wisdom 15:9**
 
-But his concern is not that he is about to be weary, nor that he has a short-ended life, but he competes with goldsmiths and silversmiths, and imitates bronze-molders, and considers it glory that he molds counterfeits.
+But his concern is not that he is about to grow weary, nor that he has a short-lived life, but he competes with goldsmiths and silversmiths, and imitates bronze-molders, and considers it glory that he molds counterfeits.
 
 **Wisdom 15:10**
 
@@ -4900,11 +5172,11 @@ but they reckoned our life to be a game and life a profitable festival; for he s
 
 **Wisdom 15:13**
 
-For this one beyond all knows that he sins, making brittle vessels and carved images from earthy matter.
+For this one more than all knows that he sins, making brittle vessels and carved images from earthy matter.
 
 **Wisdom 15:14**
 
-But most foolish of all and wretched beyond an infant's soul were enemies of your people, having oppressed it,
+But most foolish of all and more wretched than an infant's soul were enemies of your people, having oppressed it,
 
 **Wisdom 15:15**
 
@@ -4912,7 +5184,7 @@ because they also reckoned all idols of the nations as gods, which have neither 
 
 **Wisdom 15:16**
 
-For man made them, and having borrowed spirit he formed them; for no man has strength to form a god like himself.
+For man made them, and having borrowed spirit he formed them; for no man is able to form a god like himself.
 
 **Wisdom 15:17**
 
@@ -4934,7 +5206,7 @@ Because of this, by similar things they were punished worthily and by a multitud
 
 **Wisdom 16:2**
 
-Instead of this punishment, benefiting your people, you prepared for desire of appetite a strange taste, food of quail,
+Instead of this punishment, benefiting your people, you prepared for the desire of appetite a strange taste, quail as food,
 
 **Wisdom 16:3**
 
@@ -4942,7 +5214,7 @@ so that those, desiring food, because of the loathsomeness of things sent upon t
 
 **Wisdom 16:4**
 
-For it was necessary for inescapable want to come upon those tyrannizing, but for these only to be shown how their enemies were tormented.
+For it was necessary for inescapable want to come upon the tyrants, but for these only to be shown how their enemies were tormented.
 
 **Wisdom 16:5**
 
@@ -4966,11 +5238,11 @@ for bites of locusts and flies killed those, and no healing for their soul was f
 
 **Wisdom 16:10**
 
-but teeth of venomous dragons did not overcome your sons, for your mercy came opposite and healed them.
+but teeth of venomous dragons did not overcome your sons, for your mercy came to meet them and healed them.
 
 **Wisdom 16:11**
 
-For for reminder of your oracles they were pierced and quickly saved, lest, falling into deep forgetfulness, they become severed from your good deed.
+For as a reminder of your oracles they were pierced and quickly saved, lest, falling into deep forgetfulness, they become severed from your benefit.
 
 **Wisdom 16:12**
 
@@ -4978,7 +5250,7 @@ For neither herb nor poultice healed them, but your word, Lord, that heals all t
 
 **Wisdom 16:13**
 
-For you have authority of life and death, and you bring down to gates of Hades and bring up.
+For you have authority over life and death, and you bring down to gates of Hades and bring up.
 
 **Wisdom 16:14**
 
@@ -4994,7 +5266,7 @@ for ungodly ones who denied knowing you were scourged by the strength of your ar
 
 **Wisdom 16:17**
 
-For the most paradoxical thing: in water that quenches all things fire worked more; for the world is defender of righteous ones.
+For the most astonishing thing: in water that quenches all things fire worked more; for the world is defender of righteous ones.
 
 **Wisdom 16:18**
 
@@ -5006,15 +5278,15 @@ but at another time, even in the midst of water, it burns beyond the power of fi
 
 **Wisdom 16:20**
 
-Instead of these things you fed your people with food of angels and sent them prepared bread from heaven without toil, able to provide every pleasure and suited to every taste;
+Instead of these things you fed your people with angels' food and sent them prepared bread from heaven without toil, able to provide every pleasure and suited to every taste;
 
 **Wisdom 16:21**
 
-for your substance manifested your sweetness toward children, and serving the desire of the one who took it, it changed itself toward whatever anyone wished.
+for your sustenance manifested your sweetness toward children, and serving the desire of the one who took it, it changed itself toward whatever anyone wished.
 
 **Wisdom 16:22**
 
-But snow and crystal endured fire and did not melt, so that they might know that fire blazing in hail and flashing in rains destroyed fruits of enemies;
+But snow and crystal endured fire and did not melt, so that they might know that fire blazing in hail and flashing in rains destroyed the fruits of enemies;
 
 **Wisdom 16:23**
 
@@ -5030,7 +5302,7 @@ Because of this also then, being changed into all things, it served your all-nou
 
 **Wisdom 16:26**
 
-so that your sons, whom you loved, Lord, might learn that not the births of fruits nourish man, but your word preserves those who trust you.
+so that your sons, whom you loved, Lord, might learn that not the growths of fruits nourish man, but your word preserves those who trust you.
 
 **Wisdom 16:27**
 
@@ -5038,7 +5310,7 @@ For what was not destroyed by fire, simply warmed by a brief ray of sun, melted,
 
 **Wisdom 16:28**
 
-so that it might be known that one must rise before the sun for thanksgiving to you and meet you at the rising of light.
+so that it might be known that one must rise before the sun for thanksgiving to you and appeal to you at the rising of light.
 
 **Wisdom 16:29**
 
@@ -5048,7 +5320,7 @@ For hope of an ungrateful one will melt like wintry frost and flow away like use
 
 **Wisdom 17:1**
 
-For your judgments are great and hard to explain; because of this undisciplined souls wandered.
+For your judgments are great and hard to narrate; because of this undisciplined souls wandered.
 
 **Wisdom 17:2**
 
@@ -5068,7 +5340,7 @@ And no force of fire had strength to illuminate, nor did brilliant flames of sta
 
 **Wisdom 17:6**
 
-But there appeared to them only self-kindled fire full of fear, and being terrified by that sight not seen, they considered the things seen to be worse.
+But there appeared to them only self-kindled fire full of fear, and being terrified by that unseen sight, they considered the things seen to be worse.
 
 **Wisdom 17:7**
 
@@ -5080,15 +5352,15 @@ for those promising to drive away fears and disturbances of a sick soul, these t
 
 **Wisdom 17:9**
 
-For even if nothing troubling frightened them, scared out of their senses by passing of vermin and hissing of reptiles, they were perishing trembling and refusing to look at air that could nowhere be fled.
+For even if nothing troubling frightened them, scared out of their senses by passing of vermin and hissing of reptiles, they were perishing trembling and refusing to look at air from which there was nowhere to flee.
 
 **Wisdom 17:10**
 
-For wickedness, condemned by its own witness, is cowardly, and, being constrained by conscience, always takes up the difficult things;
+For wickedness, condemned by its own witness, is cowardly, and, being constrained by conscience, always takes up harsh things;
 
 **Wisdom 17:11**
 
-for fear is nothing except betrayal of helps from reasoning.
+for fear is nothing except betrayal of the helps that come from reasoning.
 
 **Wisdom 17:12**
 
@@ -5100,7 +5372,7 @@ But they, sleeping the same sleep that night, truly powerless and having come up
 
 **Wisdom 17:14**
 
-were partly driven by monstrosities of phantoms, and partly paralyzed by betrayal of soul; for sudden and unexpected fear came upon them.
+were partly driven by monstrous phantoms, and partly paralyzed by betrayal of soul; for sudden and unexpected fear came upon them.
 
 **Wisdom 17:15**
 
@@ -5116,7 +5388,7 @@ for all were bound with one chain of darkness; whether whistling wind, or melodi
 
 **Wisdom 17:18**
 
-or unseen running of leaping animals, or voice of most harsh roaring beasts, or echo reflected from hollows of mountains, it paralyzed them by terrifying.
+or unseen running of leaping animals, or voice of most harsh roaring beasts, or echo reflected from hollows of mountains, it terrified and paralyzed them.
 
 **Wisdom 17:19**
 
@@ -5124,21 +5396,21 @@ For the whole world was shining with bright light and held together by unhindere
 
 **Wisdom 17:20**
 
-but upon those alone heavy night was stretched, image of darkness about to receive them; but to themselves they were heavier than darkness.
+but upon those alone heavy night was stretched, an image of the darkness about to receive them; but to themselves they were heavier than darkness.
 
 ### Chapter 18
 
 **Wisdom 18:1**
 
-But for your holy ones there was greatest light; hearing their voice but not seeing form, because they also had not suffered, they blessed them,
+But for your holy ones there was greatest light; hearing their voice but not seeing form, because they also had not suffered, they counted them blessed,
 
 **Wisdom 18:2**
 
-and because those previously wronged were not harming them, they gave thanks and begged favor for their difference.
+and because those previously wronged were not harming them, they gave thanks and begged favor because of the difference.
 
 **Wisdom 18:3**
 
-Instead of these things you provided a fire-flaming pillar, guide of an unknown journey, and harmless sun of honorable sojourning.
+Instead of these things you provided a fire-blazing pillar, guide of an unknown journey, and harmless sun for an honorable sojourning.
 
 **Wisdom 18:4**
 
@@ -5150,7 +5422,7 @@ But when they had resolved to kill infants of holy ones, and one child had been 
 
 **Wisdom 18:6**
 
-That night was foreknown to our fathers, so that knowing safely by what oaths they trusted, they might be cheerful.
+That night was foreknown to our fathers, so that securely knowing the oaths in which they trusted, they might be cheerful.
 
 **Wisdom 18:7**
 
@@ -5162,7 +5434,7 @@ for by what you punished the opponents, by this, having called us to yourself, y
 
 **Wisdom 18:9**
 
-For holy children of good ones were sacrificing in secret, and with one mind they appointed a law of divinity, that holy ones would share alike in the same good things and dangers, already beforehand singing praises of fathers.
+For holy children of good people were sacrificing in secret, and with one mind they appointed a divine law, that holy ones would share alike in the same good things and dangers, already beforehand singing praises of fathers.
 
 **Wisdom 18:10**
 
@@ -5174,7 +5446,7 @@ and by like penalty slave was punished together with master and commoner sufferi
 
 **Wisdom 18:12**
 
-and with one accord all under one name of death had uncountable dead; for living ones were not enough even to bury them, since in one turn their more honored generation was destroyed.
+and with one accord all under one name, death, had uncountable dead; for living ones were not enough even to bury them, since in one moment their more honored generation was destroyed.
 
 **Wisdom 18:13**
 
@@ -5182,19 +5454,19 @@ For disbelieving all things because of sorceries, at the destruction of firstbor
 
 **Wisdom 18:14**
 
-For while quiet silence held all things and night was in the middle of its own swiftness,
+For while quiet silence held all things and night was in the middle of its own course,
 
 **Wisdom 18:15**
 
-your almighty word leaped from heavens, from royal thrones, a severe warrior, into the middle of the destructive land,
+your almighty word leaped from heavens, from royal thrones, a severe warrior, into the middle of the land of destruction,
 
 **Wisdom 18:16**
 
-bearing your sincere command as a sharp sword, and standing, filled all things with death; and it touched heaven, yet had stepped upon earth.
+bearing your unfeigned command as a sharp sword, and standing, filled all things with death; and it touched heaven, yet stood upon earth.
 
 **Wisdom 18:17**
 
-Then immediately visions of dreams terribly troubled them, and unexpected fears stood upon them,
+Then immediately visions of dreams terribly troubled them, and unexpected fears came upon them,
 
 **Wisdom 18:18**
 
@@ -5202,11 +5474,11 @@ and each, thrown here and there half-dead, revealed for what cause he was dying;
 
 **Wisdom 18:19**
 
-for dreams that disturbed them foretold this, so that they might not perish ignorant of why they suffer evil.
+for dreams that disturbed them foretold this, so that they might not perish ignorant of why they were suffering evil.
 
 **Wisdom 18:20**
 
-But a trial of death also touched righteous ones, and a breaking of multitude happened in the wilderness. But wrath did not remain long;
+But a trial of death also touched righteous ones, and a shattering of a multitude happened in the wilderness. But wrath did not remain long;
 
 **Wisdom 18:21**
 
@@ -5214,25 +5486,25 @@ for a blameless man, hastening, fought as champion, bringing the weapon of his o
 
 **Wisdom 18:22**
 
-And he conquered the crowd not by strength of body, nor by working of weapons, but by word he subjected the one punishing, reminding him of oaths and covenants of fathers.
+And he conquered the crowd not by strength of body, nor by activity of weapons, but by word he subjected the one punishing, reminding him of oaths and covenants of fathers.
 
 **Wisdom 18:23**
 
-For when dead had already fallen heap upon one another, standing between, he cut off wrath and split through the way to the living.
+For when the dead had already fallen heap upon one another, standing between, he cut off wrath and split through the way to the living.
 
 **Wisdom 18:24**
 
-For upon his full-length garment was the whole world, and glories of fathers upon a four-rowed carving of stones, and your majesty upon the diadem of his head.
+For upon his full-length garment was the whole world, and glories of the fathers upon a four-rowed carving of stones, and your majesty upon the diadem of his head.
 
 **Wisdom 18:25**
 
-To these the destroyer yielded, and these they feared; for only a trial of wrath was enough.
+To these the destroyer yielded, and these things he feared; for only a trial of wrath was enough.
 
 ### Chapter 19
 
 **Wisdom 19:1**
 
-But upon ungodly ones merciless passion stood until the end; for he foreknew also their future things,
+But upon ungodly ones merciless wrath stood until the end; for he foreknew also their future things,
 
 **Wisdom 19:2**
 
@@ -5240,15 +5512,15 @@ that they themselves, after permitting them to depart and sending them forth wit
 
 **Wisdom 19:3**
 
-For while still having mournings in hands and lamenting at graves of dead, they drew upon themselves another reasoning of folly, and those whom with entreaties they cast out, these they pursued as fugitives.
+For while still having mourning in hand and lamenting at graves of dead, they drew upon themselves another reasoning of folly, and those whom with entreaties they cast out, these they pursued as fugitives.
 
 **Wisdom 19:4**
 
-For worthy necessity drew them to this end and cast forgetfulness of things that had happened, so that they might fill up in advance the punishment lacking to the torments,
+For deserved necessity drew them to this end and cast forgetfulness of the things that had happened, so that they might fill up in advance the punishment lacking to the torments,
 
 **Wisdom 19:5**
 
-and your people might pass through a paradoxical journey, but those might find strange death.
+and your people might pass through an extraordinary journey, but those might find strange death.
 
 **Wisdom 19:6**
 
@@ -5260,7 +5532,7 @@ The cloud shadowing the camp was seen, and from water that stood before, an emer
 
 **Wisdom 19:8**
 
-through which those sheltered by your hand passed through as a whole nation, having seen wonderful wonders.
+through which those sheltered by your hand passed through as a whole nation, having seen marvelous wonders.
 
 **Wisdom 19:9**
 
@@ -5268,7 +5540,7 @@ For like horses they grazed, and like lambs they skipped, praising you, Lord, th
 
 **Wisdom 19:10**
 
-For they still remembered the things in their sojourning, how instead of birth of living creatures, earth brought out gnats, and instead of water-creatures, river spewed out a multitude of frogs.
+For they still remembered the things in their sojourning, how instead of generation of living creatures, earth brought out gnats, and instead of water-creatures, river spewed out a multitude of frogs.
 
 **Wisdom 19:11**
 
@@ -5288,7 +5560,7 @@ For those did not receive unknown ones when present, but these enslaved foreign 
 
 **Wisdom 19:15**
 
-And not only so, but some visitation of them will be, since they received strangers hatefully;
+And not only so, but there will be some visitation for them, since they received strangers hatefully;
 
 **Wisdom 19:16**
 
@@ -5300,7 +5572,7 @@ And they were also struck with blindness, as those at the doors of the righteous
 
 **Wisdom 19:18**
 
-For elements, changing order among themselves, just as in a psaltery notes change name of rhythm, always remaining in sound, which is possible to infer exactly from sight of the things that happened.
+For elements, changing order among themselves, just as in a psaltery notes change the name of the rhythm while always remaining in sound, which is possible to infer exactly from sight of the things that happened.
 
 **Wisdom 19:19**
 
@@ -5312,11 +5584,11 @@ fire had strength in water beyond its own power, and water forgot its quenching 
 
 **Wisdom 19:21**
 
-flames, on the contrary, did not wither flesh of easily destroyed living creatures walking among them, nor melt the easily melted kind of crystal-like ambrosial food.
+flames, on the contrary, did not wither flesh of perishable living creatures walking among them, nor melt the easily melted kind of crystal-like ambrosial food.
 
 **Wisdom 19:22**
 
-For according to all things, Lord, you magnified your people and glorified them, and did not overlook them, standing beside them in every time and place.
+For in all things, Lord, you magnified your people and glorified them, and did not overlook them, standing beside them in every time and place.
 
 ## Sirach
 
@@ -5364,7 +5636,7 @@ Fear of the Lord will delight a heart and will give gladness and joy and length 
 
 **Sirach 1:13**
 
-For the one fearing the Lord, it will be well at last things, and in the day of his death he will find grace.
+For the one fearing the Lord, it will be well at the end, and in the day of his death he will find grace.
 
 **Sirach 1:14**
 
@@ -5372,7 +5644,7 @@ Beginning of wisdom is to fear the Lord, and with faithful ones in the womb she 
 
 **Sirach 1:15**
 
-With men she nested as a foundation of an age, and with their seed she will be entrusted.
+Among men she nested as a foundation of an age, and with their seed she will be entrusted.
 
 **Sirach 1:16**
 
@@ -5384,11 +5656,11 @@ she will fill all her house with desirable things and her storehouses from her p
 
 **Sirach 1:18**
 
-A crown of wisdom is fear of the Lord, making peace and health of healing sprout.
+A crown of wisdom is fear of the Lord, making peace and healing health sprout.
 
 **Sirach 1:19**
 
-And he saw and numbered her; he rained down science and knowledge of understanding and exalted the glory of those holding her.
+And he saw and numbered her; he rained down disciplined knowledge and understanding and exalted the glory of those holding her.
 
 **Sirach 1:20**
 
@@ -5442,7 +5714,7 @@ make your heart straight and endure, and do not hurry in a time of calamity;
 
 **Sirach 2:3**
 
-cling to him and do not depart, so that you may be increased at your last things.
+cling to him and do not depart, so that you may be increased at your end.
 
 **Sirach 2:4**
 
@@ -5478,7 +5750,7 @@ For compassionate and merciful is the Lord, and he forgives sins and saves in ti
 
 **Sirach 2:12**
 
-Woe to cowardly hearts and slack hands and to a sinner stepping upon two paths.
+Woe to cowardly hearts and slack hands and to a sinner walking upon two paths.
 
 **Sirach 2:13**
 
@@ -5508,7 +5780,7 @@ We will fall into the hands of the Lord and not into hands of men; for as his gr
 
 **Sirach 3:1**
 
-Hear me your father, children, and do thus, so that you may be saved;
+Hear me, your father, children, and do thus, so that you may be saved;
 
 **Sirach 3:2**
 
@@ -5564,7 +5836,7 @@ For mercy to a father will not be forgotten, and instead of sins it will be adde
 
 **Sirach 3:15**
 
-In the day of your affliction it will be remembered of you; as fair weather upon frost, so your sins will be dissolved.
+In the day of your affliction it will be remembered of you; as fair weather upon frost, so your sins will melt away.
 
 **Sirach 3:16**
 
@@ -5620,7 +5892,7 @@ Water will quench blazing fire, and mercy will atone for sins.
 
 **Sirach 3:31**
 
-The one repaying favors remembers for things after these, and in time of fall he will find support.
+The one repaying favors remembers what comes after these things, and in time of fall he will find support.
 
 ### Chapter 4
 
@@ -5642,7 +5914,7 @@ Do not reject a suppliant who is afflicted, and do not turn your face from a poo
 
 **Sirach 4:5**
 
-Do not turn an eye from one needing, and do not give place to a man to curse you;
+Do not turn an eye from one needing, and do not give occasion to a man to curse you;
 
 **Sirach 4:6**
 
@@ -5690,7 +5962,7 @@ If he trusts, he will inherit her, and his generations will be in possession;
 
 **Sirach 4:17**
 
-because at first she walks with him perversely, and will bring fear and cowardice upon him, and will torment him in her discipline until she trusts his soul and tests him in her ordinances.
+because at first she walks with him crookedly, and will bring fear and cowardice upon him, and will torment him in her discipline until she trusts his soul and tests him in her ordinances.
 
 **Sirach 4:18**
 
@@ -5702,7 +5974,7 @@ If he goes astray, she will abandon him and hand him over into hands of his fall
 
 **Sirach 4:20**
 
-Keep time and guard from evil, and concerning your soul do not be ashamed;
+Observe the right time and guard yourself from evil, and concerning your soul do not be ashamed;
 
 **Sirach 4:21**
 
@@ -5710,7 +5982,7 @@ for there is shame bringing sin, and there is shame that is glory and grace.
 
 **Sirach 4:22**
 
-Do not accept a face against your soul, and do not be ashamed to your fall.
+Do not show partiality against your soul, and do not be ashamed to your fall.
 
 **Sirach 4:23**
 
@@ -5726,7 +5998,7 @@ Do not contradict the truth, and be ashamed concerning your lack of discipline.
 
 **Sirach 4:26**
 
-Do not be ashamed to confess upon your sins, and do not force a river's flow.
+Do not be ashamed to confess your sins, and do not force a river's flow.
 
 **Sirach 4:27**
 
@@ -5742,7 +6014,7 @@ Do not become swift in your tongue and sluggish and slack in your works.
 
 **Sirach 4:30**
 
-Do not be as a lion in your house and playing terror among your household servants.
+Do not be as a lion in your house and act terrifyingly among your household servants.
 
 **Sirach 4:31**
 
@@ -5808,7 +6080,7 @@ Do not be called a whisperer, and with your tongue do not lie in wait; for shame
 
 **Sirach 5:15**
 
-In great and in small do not be ignorant.
+In great and in small do not act ignorantly.
 
 ### Chapter 6
 
@@ -5830,7 +6102,7 @@ An evil soul will destroy the one who acquired it and make him an object of joy 
 
 **Sirach 6:5**
 
-A sweet throat will multiply his friends, and a well-speaking tongue will multiply friendly greetings.
+Sweet speech will multiply his friends, and a well-speaking tongue will multiply friendly greetings.
 
 **Sirach 6:6**
 
@@ -5870,7 +6142,7 @@ A faithful friend is a strong shelter, and the one who finds him found a treasur
 
 **Sirach 6:15**
 
-For a faithful friend there is no exchange, and there is no weight of his beauty.
+For a faithful friend there is no exchange, and there is no weighing his beauty.
 
 **Sirach 6:16**
 
@@ -5894,7 +6166,7 @@ How rough she is to the undisciplined, and a heartless one will not remain in he
 
 **Sirach 6:21**
 
-as a strong test stone she will be upon him, and he will not delay to throw her away.
+as a strong testing stone she will be upon him, and he will not delay to throw her away.
 
 **Sirach 6:22**
 
@@ -5922,7 +6194,7 @@ Trace out and seek, and she will be known to you, and having become self-control
 
 **Sirach 6:28**
 
-for at last things you will find her rest, and she will be turned to gladness for you.
+for at the end you will find her rest, and she will be turned to gladness for you.
 
 **Sirach 6:29**
 
@@ -5950,7 +6222,7 @@ Stand in the multitude of elders, and whoever is wise, cling to him.
 
 **Sirach 6:35**
 
-Want to listen to every divine narrative, and let not proverbs of understanding escape you.
+Desire to listen to every divine narrative, and let not proverbs of understanding escape you.
 
 **Sirach 6:36**
 
@@ -5988,11 +6260,11 @@ Do not seek to become a judge, lest you not have strength to take away injustice
 
 **Sirach 7:7**
 
-Do not sin against a multitude of a city, and do not throw yourself down in a crowd.
+Do not sin against the multitude of a city, and do not throw yourself down in a crowd.
 
 **Sirach 7:8**
 
-Do not bind sin twice, for in the one you will not be innocent.
+Do not bind sin twice, for in one you will not be innocent.
 
 **Sirach 7:9**
 
@@ -6000,11 +6272,11 @@ Do not say that he will look upon the multitude of my gifts, and when I bring to
 
 **Sirach 7:10**
 
-Do not be fainthearted in your prayer, and do not neglect to do mercy.
+Do not be fainthearted in your prayer, and do not neglect to do almsgiving.
 
 **Sirach 7:11**
 
-Do not laugh down a man who is in bitterness of his soul, for there is one who humbles and exalts.
+Do not mock a man who is in bitterness of his soul, for there is one who humbles and exalts.
 
 **Sirach 7:12**
 
@@ -6028,7 +6300,7 @@ Do not count yourself in the multitude of sinners. Remember that wrath will not 
 
 **Sirach 7:17**
 
-Humble your soul greatly, because vengeance of an ungodly one is fire and worm.
+Humble your soul greatly, because vengeance upon an ungodly one is fire and worm.
 
 **Sirach 7:18**
 
@@ -6056,7 +6328,7 @@ If children are yours, discipline them, and bend their neck from youth.
 
 **Sirach 7:24**
 
-If daughters are yours, pay attention to their body, and do not brighten your face toward them.
+If daughters are yours, watch over their body, and do not brighten your face toward them.
 
 **Sirach 7:25**
 
@@ -6064,7 +6336,7 @@ Give a daughter in marriage, and you will have completed a great work, and give 
 
 **Sirach 7:26**
 
-If a wife is yours according to soul, do not cast her out; and to a hated woman do not entrust yourself.
+If a wife is yours according to your soul, do not cast her out; and to a hated woman do not entrust yourself.
 
 **Sirach 7:27**
 
@@ -6084,7 +6356,7 @@ With all strength love the one who made you, and do not abandon his ministers.
 
 **Sirach 7:31**
 
-Fear the Lord and glorify a priest, and give him the portion, as it has been commanded to you, firstfruit and for trespass and gift of shoulders and sacrifice of sanctification and firstfruit of holy things.
+Fear the Lord and glorify a priest, and give him the portion, as it has been commanded to you: firstfruit, offering for trespass, gift of shoulders, sacrifice of sanctification, and firstfruit of holy things.
 
 **Sirach 7:32**
 
@@ -6092,11 +6364,11 @@ And stretch out your hand to a poor man, so that your blessing may be completed.
 
 **Sirach 7:33**
 
-Grace of gift is before every living one, and over a dead man do not hinder grace.
+Grace of a gift is before every living one, and over a dead man do not withhold grace.
 
 **Sirach 7:34**
 
-Do not be lacking from weeping ones, and mourn with mourning ones.
+Do not be absent from those weeping, and mourn with those mourning.
 
 **Sirach 7:35**
 
@@ -6104,7 +6376,7 @@ Do not hesitate to visit a sick man, for from such things you will be loved.
 
 **Sirach 7:36**
 
-In all your words remember your last things, and forever you will not sin.
+In all your words remember your end, and forever you will not sin.
 
 ### Chapter 8
 
@@ -6150,7 +6422,7 @@ Do not kindle coals of a sinner, lest you be burned in the fire of his flame.
 
 **Sirach 8:11**
 
-Do not rise up from the face of an insolent man, lest he sit as an ambush for your mouth.
+Do not rise up before the face of an insolent man, lest he sit as an ambush for your mouth.
 
 **Sirach 8:12**
 
@@ -6178,11 +6450,11 @@ Do not take counsel with a foolish man, for he will not be able to keep a word.
 
 **Sirach 8:18**
 
-Before a stranger do not do a hidden thing, for you do not know what it will bear.
+Before a stranger do not do a hidden thing, for you do not know what it will bring forth.
 
 **Sirach 8:19**
 
-Do not reveal your heart to every man, and let him not bring back favor to you.
+Do not reveal your heart to every man, and do not let him return favor to you.
 
 ### Chapter 9
 
@@ -6196,11 +6468,11 @@ Do not give your soul to a woman, to let her step upon your strength.
 
 **Sirach 9:3**
 
-Do not meet a woman acting as companion, lest you fall into her snares.
+Do not meet a courtesan, lest you fall into her snares.
 
 **Sirach 9:4**
 
-With a singing woman do not spend time, lest you be captured in her attempts.
+With a singing woman do not spend time, lest you be captured in her designs.
 
 **Sirach 9:5**
 
@@ -6236,11 +6508,11 @@ Do not take pleasure in the good pleasure of ungodly ones; remember that until H
 
 **Sirach 9:13**
 
-Keep far from a man who has authority to kill, and you shall surely not suspect fear of death; and if you approach, do not offend, lest he take away your life. Know that you pass through the midst of snares and walk upon battlements of cities.
+Keep far from a man who has authority to kill, and you shall surely not suspect the fear of death; and if you approach, do not offend, lest he take away your life. Know that you pass through the midst of snares and walk upon battlements of cities.
 
 **Sirach 9:14**
 
-According to your strength, aim at your neighbors, and take counsel with wise men.
+According to your strength, make careful judgment of your neighbors, and take counsel with wise men.
 
 **Sirach 9:15**
 
@@ -6274,7 +6546,7 @@ An undisciplined king will destroy his people, and a city will be inhabited thro
 
 **Sirach 10:4**
 
-In the hand of the Lord is authority of the earth, and the useful man he will raise up for a time upon it.
+In the hand of the Lord is authority of the earth, and the useful person he will raise up for a time upon it.
 
 **Sirach 10:5**
 
@@ -6444,7 +6716,7 @@ The gift of the Lord remains with godly ones, and his good pleasure will prosper
 
 **Sirach 11:18**
 
-There is one enriched from his attention and tightness, and this is the portion of his wage.
+There is one enriched from his attention and restraint, and this is the portion of his wage.
 
 **Sirach 11:19**
 
@@ -6488,7 +6760,7 @@ Before death call no one blessed, and in his children a man will be known.
 
 **Sirach 11:29**
 
-Do not bring every man into your house, for many are the snares of the deceitful one.
+Do not bring every man into your house, for many are the snares of the deceiver.
 
 **Sirach 11:30**
 
@@ -6554,11 +6826,11 @@ Never trust your enemy; for as bronze rusts, so is his wickedness.
 
 **Sirach 12:11**
 
-And even if he is humbled and goes bent down, set your soul and guard from him, and you will be to him as one who has wiped a mirror, and you will know that it has not rusted to the end.
+And even if he is humbled and goes bent down, pay attention to your soul and guard yourself from him, and you will be to him as one who has wiped a mirror, and you will know that it has not rusted to the end.
 
 **Sirach 12:12**
 
-Do not set him beside yourself, lest, overthrowing you, he stand upon your place; do not seat him at your right, lest he seek your seat, and at last you recognize my words and be pierced by my sayings.
+Do not set him beside yourself, lest, overthrowing you, he stand in your place; do not seat him at your right, lest he seek your seat, and at last you recognize my words and be pierced by my sayings.
 
 **Sirach 12:13**
 
@@ -6596,11 +6868,11 @@ Do not lift a weight above you, and do not associate with one stronger and riche
 
 **Sirach 13:3**
 
-A rich man did wrong, and he himself added rage; a poor man has been wronged, and he himself will make petition.
+A rich man did wrong, and he himself added anger; a poor man has been wronged, and he himself will make petition.
 
 **Sirach 13:4**
 
-If you are useful, he works in you; and if you are lacking, he will leave you.
+If you are useful, he makes use of you; and if you are lacking, he will leave you.
 
 **Sirach 13:5**
 
@@ -6612,7 +6884,7 @@ He has had need of you, and he will deceive you and smile at you and give you ho
 
 **Sirach 13:7**
 
-And he will shame you in his foods until he empties you twice or three times, and at last he will mock you; after these things he will see you and leave you and shake his head at you.
+And he will shame you at his meals until he empties you twice or three times, and at last he will mock you; after these things he will see you and leave you and shake his head at you.
 
 **Sirach 13:8**
 
@@ -6624,7 +6896,7 @@ When a ruler invites you, become one withdrawing, and so much more he will invit
 
 **Sirach 13:10**
 
-Do not fall in, lest you be pushed away, and do not stand far off, lest you be forgotten.
+Do not press in, lest you be pushed away, and do not stand far off, lest you be forgotten.
 
 **Sirach 13:11**
 
@@ -6636,7 +6908,7 @@ Merciless is the one not keeping words, and he shall surely not spare concerning
 
 **Sirach 13:13**
 
-Keep and take heed greatly, because you walk with your fall. [14] Hearing these in your sleep, wake up; all your life love the Lord, and call upon him for your salvation.
+Keep watch and take heed greatly, because you walk with your fall. [14] Hearing these in your sleep, wake up; all your life love the Lord, and call upon him for your salvation.
 
 **Sirach 13:15**
 
@@ -6656,7 +6928,7 @@ What peace has a hyena with a dog? And what peace has a rich man with a poor man
 
 **Sirach 13:19**
 
-Wild asses in the wilderness are prey of lions; so poor men are pastures of rich men.
+Wild asses in the wilderness are prey of lions; so poor men are grazing grounds of rich men.
 
 **Sirach 13:20**
 
@@ -6684,7 +6956,7 @@ The heart of a man alters his face, whether toward good things or toward bad thi
 
 **Sirach 13:26**
 
-A trace of a heart in good things is a cheerful face, and finding parables is reasonings with labor.
+A trace of a heart in good things is a cheerful face, and finding parables requires reasonings with labor.
 
 ### Chapter 14
 
@@ -6702,11 +6974,11 @@ For a stingy man wealth is not good, and for a grudging man why possessions?
 
 **Sirach 14:4**
 
-The one gathering from his soul gathers for others, and in his good things others will live luxuriously.
+The one gathering at cost of his soul gathers for others, and in his good things others will live luxuriously.
 
 **Sirach 14:5**
 
-The one evil to himself, to whom will he be good? And he shall surely not be gladdened in his possessions.
+The one who is evil to himself, to whom will he be good? And he shall surely not be gladdened in his possessions.
 
 **Sirach 14:6**
 
@@ -6718,7 +6990,7 @@ even if he does good, he does it in forgetfulness, and at last he reveals his ev
 
 **Sirach 14:8**
 
-Evil is the one grudging with an eye, turning away his face and overlooking souls.
+Evil is the one grudging with an eye, turning away his face and neglecting souls.
 
 **Sirach 14:9**
 
@@ -6804,7 +7076,7 @@ The one fearing the Lord will do this, and the one mastering the law will take h
 
 **Sirach 15:2**
 
-and she will meet him as a mother and receive him as a wife of virginity.
+and she will meet him as a mother and receive him as a virgin wife.
 
 **Sirach 15:3**
 
@@ -6812,7 +7084,7 @@ She will feed him bread of understanding and give him water of wisdom to drink.
 
 **Sirach 15:4**
 
-He will be supported upon her and shall surely not be bent, and upon her he will hold fast and shall surely not be ashamed;
+He will be supported upon her and shall surely not be bent down, and upon her he will hold fast and shall surely not be ashamed;
 
 **Sirach 15:5**
 
@@ -6840,7 +7112,7 @@ for in wisdom praise will be spoken, and the Lord will prosper it.
 
 **Sirach 15:11**
 
-Do not say that because of the Lord I departed; for what he hated, you shall not do.
+Do not say that because of the Lord I fell away; for what he hated, you shall not do.
 
 **Sirach 15:12**
 
@@ -6856,7 +7128,7 @@ He from the beginning made man and left him in the hand of his deliberation.
 
 **Sirach 15:15**
 
-If you want, you will keep commandments, and faith to do good pleasure.
+If you want, you will keep commandments, and faithfulness is to do good pleasure.
 
 **Sirach 15:16**
 
@@ -6864,7 +7136,7 @@ He placed before you fire and water; whichever you want, you will stretch out yo
 
 **Sirach 15:17**
 
-Before men are life and death, and whichever he approves will be given to him.
+Before men are life and death, and whichever he chooses will be given to him.
 
 **Sirach 15:18**
 
@@ -6970,11 +7242,11 @@ One lessened in heart thinks these things, and a foolish and wandering man think
 
 **Sirach 16:24**
 
-Listen to me, child, and learn science, and attend to my words with your heart.
+Listen to me, child, and learn knowledge, and attend to my words with your heart.
 
 **Sirach 16:25**
 
-I will disclose discipline by weight and announce science with precision.
+I will disclose discipline by weight and announce knowledge with precision.
 
 **Sirach 16:26**
 
@@ -7008,11 +7280,11 @@ He gave them days of number and a time, and gave them authority over the things 
 
 **Sirach 17:3**
 
-According to themselves he clothed them with strength and made them according to his image,
+According to himself he clothed them with strength and made them according to his image,
 
 **Sirach 17:4**
 
-and he put his fear upon all flesh and to master beasts and winged creatures. [5 They received use of the five operations of the Lord, and as sixth he bestowed mind on them, apportioning also the seventh, speech, interpreter of his operations.]
+and he put his fear upon all flesh and gave them mastery over beasts and winged creatures. [5 They received use of the five workings of the Lord, and as sixth he bestowed mind on them, apportioning also the seventh, speech, interpreter of his workings.]
 
 **Sirach 17:6**
 
@@ -7020,7 +7292,7 @@ Counsel and tongue and eyes, ears and heart he gave them to think.
 
 **Sirach 17:7**
 
-He filled them with science of understanding and showed them good things and bad things.
+He filled them with knowledge of understanding and showed them good things and bad things.
 
 **Sirach 17:8**
 
@@ -7028,7 +7300,7 @@ He put his eye upon their hearts to show them the majesty of his works,
 
 **Sirach 17:9**
 
-and they will praise a name of sanctification,
+and they will praise his holy name
 
 **Sirach 17:10**
 
@@ -7036,7 +7308,7 @@ so that they may tell the majesties of his works.
 
 **Sirach 17:11**
 
-He added science to them and gave them a law of life as inheritance.
+He added knowledge to them and gave them a law of life as inheritance.
 
 **Sirach 17:12**
 
@@ -7100,7 +7372,7 @@ How great is the mercy of the Lord and atonement for those returning to him.
 
 **Sirach 17:30**
 
-For all things cannot be in men, because a son of man is not immortal.
+For not all things are possible among men, because a son of man is not immortal.
 
 **Sirach 17:31**
 
@@ -7114,7 +7386,7 @@ He visits the power of the height of heaven, and all men are earth and ash.
 
 **Sirach 18:1**
 
-The one living forever created all things in common;
+The one living forever created all things together;
 
 **Sirach 18:2**
 
@@ -7182,7 +7454,7 @@ Behold, is not a word above a good gift? And both are with a gracious man.
 
 **Sirach 18:18**
 
-A fool will reproach ungraciously, and the gift of a grudging man melts eyes.
+A fool will reproach ungraciously, and the gift of a grudging man wears out eyes.
 
 **Sirach 18:19**
 
@@ -7194,7 +7466,7 @@ Before judgment examine yourself, and in an hour of visitation you will find ato
 
 **Sirach 18:21**
 
-Before you become sick, humble yourself, and in a time of sins show turning.
+Before you become sick, humble yourself, and in a time of sins show repentance.
 
 **Sirach 18:22**
 
@@ -7206,7 +7478,7 @@ Before making a vow, prepare yourself, and do not become as a man testing the Lo
 
 **Sirach 18:24**
 
-Remember wrath in days of death and a time of vengeance in the turning away of face.
+Remember wrath in days of death and a time of vengeance when face turns away.
 
 **Sirach 18:25**
 
@@ -7268,7 +7540,7 @@ The one rejoicing in heart will be condemned,
 
 **Sirach 19:6**
 
-and the one hating chatter is lessened in evil.
+and the one hating chatter has less evil.
 
 **Sirach 19:7**
 
@@ -7276,7 +7548,7 @@ Never repeat a word, and nothing shall surely be lessened for you.
 
 **Sirach 19:8**
 
-Do not report it among friend or enemy, and unless it is sin to you, do not reveal it;
+Do not report it among friend or enemy, and unless it would be sin for you, do not reveal it;
 
 **Sirach 19:9**
 
@@ -7312,7 +7584,7 @@ There is one slipping, and not from the soul; and who has not sinned with his to
 
 **Sirach 19:17**
 
-Reprove your neighbor before threatening, and give place to the law of the Most High. [Becoming without wrath,
+Reprove your neighbor before threatening, and give way to the law of the Most High. [Becoming without wrath,
 
 **Sirach 19:18**
 
@@ -7332,7 +7604,7 @@ A servant saying to the master, I will not do as it pleases, if after these thin
 
 **Sirach 19:22**
 
-And science of wickedness is not wisdom, and there is no prudence where counsel of sinners is.
+And knowledge of wickedness is not wisdom, and there is no prudence where counsel of sinners is.
 
 **Sirach 19:23**
 
@@ -7374,7 +7646,7 @@ There is a reproof that is not beautiful, and there is one keeping silent, and h
 
 **Sirach 20:2**
 
-How good to reprove rather than be angry, and the one confessing back will be hindered from loss.
+How good to reprove rather than be angry, and the one confessing will be hindered from loss.
 
 **Sirach 20:4**
 
@@ -7430,11 +7702,11 @@ A fool will say, I have no friend, and there is no favor for my good things; tho
 
 **Sirach 20:17**
 
-how often and how many will laugh him down?
+how often and how many will mock him?
 
 **Sirach 20:18**
 
-A slip from ground rather than from tongue; so a fall of evil men will come quickly.
+A slip on the ground rather than from the tongue; so a fall of evil men will come quickly.
 
 **Sirach 20:19**
 
@@ -7450,7 +7722,7 @@ There is one hindered from sinning by lack, and in his rest he will not be pierc
 
 **Sirach 20:22**
 
-There is one destroying his soul through shame, and from a foolish face he will destroy it.
+There is one destroying his soul through shame, and because of a foolish face he will destroy it.
 
 **Sirach 20:23**
 
@@ -7492,7 +7764,7 @@ Better is a man hiding his foolishness than a man hiding his wisdom.
 
 **Sirach 21:1**
 
-Child, have you sinned? Add no longer, and make petition concerning your former sins.
+Child, have you sinned? Do not add anymore, and make petition concerning your former sins.
 
 **Sirach 21:2**
 
@@ -7528,7 +7800,7 @@ A gathered tow is a congregation of lawless ones, and their end is flame of fire
 
 **Sirach 21:10**
 
-A way of sinners is smoothed from stones, and at its end is pit of Hades.
+A way of sinners is made smooth with stones, and at its end is pit of Hades.
 
 **Sirach 21:11**
 
@@ -7548,7 +7820,7 @@ Inward parts of a fool are like a broken vessel, and it will not hold any knowle
 
 **Sirach 21:15**
 
-If a knowledgeable man hears a wise word, he will praise it and add to it; the wasteful man heard, and it displeased him, and he turned it behind his back.
+If a knowledgeable man hears a wise word, he will praise it and add to it; the squanderer heard, and it displeased him, and he turned it behind his back.
 
 **Sirach 21:16**
 
@@ -7560,7 +7832,7 @@ Mouth of a prudent one will be sought in assembly, and they will think on his wo
 
 **Sirach 21:18**
 
-Wisdom is to a fool like a vanished house, and knowledge of one without understanding is unexamined words.
+Wisdom is to a fool like a ruined house, and knowledge of one without understanding is unexamined words.
 
 **Sirach 21:19**
 
@@ -7576,7 +7848,7 @@ Discipline is like a gold ornament to a prudent one and like a bracelet upon rig
 
 **Sirach 21:22**
 
-Foot of a fool is quick into a house, but a man of much experience will be ashamed before a face.
+Foot of a fool is quick into a house, but a man of much experience will be ashamed before the face.
 
 **Sirach 21:23**
 
@@ -7588,7 +7860,7 @@ It is lack of discipline for a man to listen beside a door, but the prudent one 
 
 **Sirach 21:25**
 
-Lips of strangers will be weighed down in these things, but words of prudent ones will be weighed in a balance.
+Lips of strangers will be burdened in these things, but words of prudent ones will be weighed in a balance.
 
 **Sirach 21:26**
 
@@ -7600,13 +7872,13 @@ When an ungodly man curses Satan, he curses his own soul.
 
 **Sirach 21:28**
 
-The whisperer defiles his own soul and will be hated in a sojourning.
+The whisperer defiles his own soul and will be hated among sojourners.
 
 ### Chapter 22
 
 **Sirach 22:1**
 
-A lazy man was compared to a dirty stone, and everyone will hiss at his dishonor.
+A lazy man was compared to a filthy stone, and everyone will hiss at his dishonor.
 
 **Sirach 22:2**
 
@@ -7634,7 +7906,7 @@ One teaching a fool is gluing a potsherd, waking one sleeping from deep sleep.
 
 **Sirach 22:8**
 
-One telling a tale to one nodding is one telling a tale to a fool, and at the end he will say, what is it?
+One telling a tale to one nodding is one telling a tale to a fool, and at the end he will say, "What is it?"
 
 **Sirach 22:11**
 
@@ -7646,7 +7918,7 @@ Mourning for a dead man is seven days, but for a fool and ungodly man, all the d
 
 **Sirach 22:13**
 
-Do not multiply speech with a foolish man, and do not go to one without understanding. Guard yourself from him, so that you may not have trouble, and you shall surely not be defiled in his shaking off. Turn aside from him and you will find rest, and you shall surely not be weary in his senselessness.
+Do not multiply speech with a foolish man, and do not go to one without understanding. Guard yourself from him, so that you may not have trouble, and you shall surely not be defiled when he shakes himself off. Turn aside from him and you will find rest, and you shall surely not be weary in his senselessness.
 
 **Sirach 22:14**
 
@@ -7670,7 +7942,7 @@ Posts set on a height against wind shall surely not endure; so a cowardly heart 
 
 **Sirach 22:19**
 
-The one piercing an eye will bring down tears, and the one piercing a heart makes feeling appear.
+The one piercing an eye will bring down tears, and the one piercing a heart brings feeling to light.
 
 **Sirach 22:20**
 
@@ -7682,7 +7954,7 @@ If you draw a sword against a friend, do not despair, for there is a return.
 
 **Sirach 22:22**
 
-If you open a mouth against a friend, do not be cautious, for there is reconciliation, except reproach and pride and revealing of a mystery and a deceitful blow; in these things every friend will flee.
+If you open a mouth against a friend, do not fear, for there is reconciliation, except reproach and pride and revealing of a mystery and a deceitful blow; in these things every friend will flee.
 
 **Sirach 22:23**
 
@@ -7712,11 +7984,11 @@ Lord, Father and Master of my life, do not abandon me in their counsel; do not l
 
 **Sirach 23:2**
 
-Who will set whips over my thought and discipline of wisdom over my heart, so that they may not spare my ignorances and my sins may surely not pass by,
+Who will set whips over my thought and discipline of wisdom over my heart, so that they may not spare my sins of ignorance and my sins may surely not pass by,
 
 **Sirach 23:3**
 
-so that my ignorances may not multiply and my sins abound, and I fall before adversaries and my enemy rejoice over me?
+so that my sins of ignorance may not multiply and my sins abound, and I fall before adversaries and my enemy rejoice over me?
 
 **Sirach 23:4**
 
@@ -7736,7 +8008,7 @@ Hear discipline of mouth, children, and the one keeping it shall surely not be c
 
 **Sirach 23:8**
 
-A sinner will be seized by his lips, and a reviler and proud man will be stumbled by them.
+A sinner will be seized by his lips, and a reviler and proud man will stumble by them.
 
 **Sirach 23:9**
 
@@ -7752,7 +8024,7 @@ A man of many oaths will be filled with lawlessness, and a whip will not depart 
 
 **Sirach 23:12**
 
-There is a word clothed around with death; let it not be found in the inheritance of Jacob, for all these things will depart from the devout, and they will not roll themselves in sins.
+There is a word wrapped in death; let it not be found in the inheritance of Jacob, for all these things will depart from the devout, and they will not roll themselves in sins.
 
 **Sirach 23:13**
 
@@ -7772,15 +8044,15 @@ Two kinds multiply sins, and the third will bring on wrath:
 
 **Sirach 23:17**
 
-a hot soul like burning fire shall surely not be quenched until it is consumed; a fornicator man in the body of his flesh shall surely not stop until fire burns out; to a fornicator man every bread is sweet; he shall surely not cease until he dies.
+a hot soul like burning fire shall surely not be quenched until it is consumed; a fornicator
 
 **Sirach 23:18**
 
-A man transgressing from his bed, saying in his soul, Who sees me? Darkness is around me, and the walls cover me, and no one sees me; why should I be cautious? The Most High shall surely not remember my sins.
+A man transgressing from his bed, saying in his soul, Who sees me? Darkness is around me, and the walls cover me, and no one sees me; what should I fear? The Most High shall surely not remember my sins.
 
 **Sirach 23:19**
 
-And eyes of men are his fear, and he did not know that the eyes of the Lord are brighter than the sun ten-thousandfold, looking upon all ways of men and observing hidden parts.
+And the eyes of men are his fear, and he did not know that the eyes of the Lord are brighter than the sun ten-thousandfold, looking upon all ways of men and observing hidden parts.
 
 **Sirach 23:20**
 
@@ -7846,7 +8118,7 @@ Among all these I sought rest, and in whose inheritance shall I lodge?
 
 **Sirach 24:8**
 
-Then the creator of all commanded me, and the one who created me made my tent rest and said, Tabernacle in Jacob and be inherited in Israel.
+Then the creator of all commanded me, and the one who created me settled my tent and said, Tabernacle in Jacob and be inherited in Israel.
 
 **Sirach 24:9**
 
@@ -7886,11 +8158,11 @@ I, like a vine, sprouted grace, and my flowers are fruit of glory and wealth. [1
 
 **Sirach 24:19**
 
-Come near to me, you who desire me, and be filled from my products;
+Come near to me, you who desire me, and be filled from my produce;
 
 **Sirach 24:20**
 
-for my memorial is sweeter than honey, and my inheritance more than a honeycomb.
+for my memorial is sweeter than honey, and my inheritance sweeter than a honeycomb.
 
 **Sirach 24:21**
 
@@ -7902,19 +8174,19 @@ The one obeying me will not be ashamed, and those working in me will not sin.
 
 **Sirach 24:23**
 
-All these things are book of covenant of God Most High, law which Moses commanded us, an inheritance for congregations of Jacob. [24 Do not grow weak in strength in the Lord, but cling to him so that he may strengthen you; Lord Almighty is God alone, and there is no savior yet besides him.]
+All these things are book of the covenant of God Most High, the law which Moses commanded us, an inheritance for congregations of Jacob. [24 Do not grow weak in strength in the Lord, but cling to him so that he may strengthen you; Lord Almighty is God alone, and there is no savior besides him.]
 
 **Sirach 24:25**
 
-The one filling wisdom like Pison and like Tigris in days of new fruits,
+The one filling with wisdom like Pison and like Tigris in days of new fruits,
 
 **Sirach 24:26**
 
-the one filling understanding like Euphrates and like Jordan in days of harvest,
+the one filling with understanding like Euphrates and like Jordan in days of harvest,
 
 **Sirach 24:27**
 
-the one making discipline appear like light, like Gihon in days of vintage.
+the one bringing discipline to light, like Gihon in days of vintage.
 
 **Sirach 24:28**
 
@@ -7930,11 +8202,11 @@ And I, like a canal from a river and like an aqueduct, came out into a garden.
 
 **Sirach 24:31**
 
-I said, I will water my garden and make my garden bed drunk; and behold, my canal became to me a river, and my river became a sea.
+I said, I will water my garden and drench my garden bed; and behold, my canal became to me a river, and my river became a sea.
 
 **Sirach 24:32**
 
-I will still illuminate discipline like dawn and make these things appear to far away.
+I will still illuminate discipline like dawn and make these things appear from far away.
 
 **Sirach 24:33**
 
@@ -7948,7 +8220,7 @@ See that I labored not for myself alone, but for all those seeking her.
 
 **Sirach 25:1**
 
-In three things I was beautified and stood beautiful before the Lord and men: agreement of brothers, and friendship of neighbors, and wife and husband behaving together toward themselves.
+In three things I was beautified and stood beautiful before the Lord and men: agreement of brothers, and friendship of neighbors, and wife and husband behaving well toward each other.
 
 **Sirach 25:2**
 
@@ -7972,7 +8244,7 @@ Much experience is crown of old men, and their boast is fear of the Lord.
 
 **Sirach 25:7**
 
-Nine thoughts I counted blessed in heart, and the tenth I will speak upon tongue: a man rejoicing over children, living and looking upon the fall of enemies;
+Nine thoughts I counted blessed in heart, and the tenth I will speak upon my tongue: a man rejoicing over children, living and looking upon the fall of enemies;
 
 **Sirach 25:8**
 
@@ -7980,7 +8252,7 @@ blessed is the one dwelling with an understanding wife, and one who did not slip
 
 **Sirach 25:9**
 
-blessed is one who found prudence, and the one telling into ears of those hearing;
+blessed is one who found prudence, and the one speaking into hearing ears;
 
 **Sirach 25:10**
 
@@ -7988,7 +8260,7 @@ how great is the one who found wisdom, but there is none above the one fearing t
 
 **Sirach 25:11**
 
-fear of the Lord surpassed above all; the one holding it, to whom will he be likened? [12 Fear of the Lord is beginning of loving him, and faith is beginning of clinging to him.]
+fear of the Lord surpasses all; the one holding it, to whom will he be likened? [12 Fear of the Lord is beginning of loving him, and faith is beginning of clinging to him.]
 
 **Sirach 25:13**
 
@@ -8012,7 +8284,7 @@ Wickedness of a woman alters her appearance and darkens her face like a bear.
 
 **Sirach 25:18**
 
-Her husband will recline among his neighbor, and hearing, he groaned bitter things.
+Her husband will recline among his neighbors, and when he hears, he groans bitterly.
 
 **Sirach 25:19**
 
@@ -8020,15 +8292,15 @@ Every evil is small compared to evil of a woman; may portion of a sinner fall up
 
 **Sirach 25:20**
 
-A sandy ascent in feet of an elder, so is a talkative woman to a quiet man.
+A sandy ascent under an elder's feet, so is a talkative woman to a quiet man.
 
 **Sirach 25:21**
 
-Do not fall upon beauty of a woman, and do not desire a woman.
+Do not fall before the beauty of a woman, and do not desire a woman.
 
 **Sirach 25:22**
 
-Wrath and shamelessness and great shame is a woman if she supplies her husband.
+Wrath and shamelessness and great shame is a woman if she provides for her husband.
 
 **Sirach 25:23**
 
@@ -8054,7 +8326,7 @@ Blessed is the husband of a good wife, and the number of his days is double.
 
 **Sirach 26:2**
 
-A courageous wife cheers her husband, and he will fill his years in peace.
+A courageous wife cheers her husband, and she will fill his years with peace.
 
 **Sirach 26:3**
 
@@ -8062,15 +8334,15 @@ A good wife is a good portion; she will be given in the portion of those fearing
 
 **Sirach 26:4**
 
-But of rich man and poor man, a good heart; in every time, a cheerful face.
+Whether of rich man or poor man, a good heart makes a cheerful face in every time.
 
 **Sirach 26:5**
 
-From three things my heart was cautious, and over the fourth face I made petition: slander of a city, and assembly of a mob, and false accusation, all more evil than death.
+From three things my heart feared, and over the fourth my face made petition: slander of a city, and assembly of a mob, and false accusation, all more evil than death.
 
 **Sirach 26:6**
 
-Pain of heart and mourning is a rival wife against a wife, and a whip of tongue communicating with all.
+Pain of heart and mourning is a rival wife against a wife, and a whip of tongue shared with all.
 
 **Sirach 26:7**
 
@@ -8090,7 +8362,7 @@ Set firm guard over an unrestrained daughter, so that when she finds relief she 
 
 **Sirach 26:11**
 
-Guard yourself behind a shameless eye, and do not wonder if it trespasses against you;
+Guard yourself against a shameless eye, and do not wonder if it trespasses against you;
 
 **Sirach 26:12**
 
@@ -8122,7 +8394,7 @@ Golden pillars upon a silver base, and beautiful feet upon breasts of one firmly
 
 **Sirach 26:20**
 
-After searching every plain for good-soiled allotment, sow your own seeds, trusting in your good birth;
+After searching every plain for a good-soiled portion, sow your own seeds, trusting in your good birth;
 
 **Sirach 26:21**
 
@@ -8138,7 +8410,7 @@ An ungodly woman will be given as portion to a lawless man, but a devout woman i
 
 **Sirach 26:24**
 
-A shameful woman will grind away dishonor, but a well-formed daughter will be ashamed before her husband.
+A shameful woman will wear down dishonor, but a well-formed daughter will be modest before her husband.
 
 **Sirach 26:25**
 
@@ -8154,7 +8426,7 @@ A loud-voiced and talkative woman will be regarded like a trumpet of wars for ro
 
 **Sirach 26:28**
 
-Over two things my heart has been grieved, and over the third wrath came upon me: a warrior man lacking through need, and understanding men if they are treated as refuse, one turning back from righteousness to sin; the Lord will prepare him for sword.
+Over two things my heart has been grieved, and over the third wrath came upon me: a warrior man lacking through need, and understanding men if they are treated as refuse, one turning back from righteousness to sin; the Lord will prepare him for the sword.
 
 **Sirach 26:29**
 
@@ -8164,7 +8436,7 @@ With difficulty a merchant will be delivered from trespass, and a retailer will 
 
 **Sirach 27:1**
 
-For sake of profit many sinned, and the one seeking to multiply will turn away an eye.
+For the sake of profit many sinned, and the one seeking to multiply will turn away an eye.
 
 **Sirach 27:2**
 
@@ -8172,11 +8444,11 @@ Between joints of stones a peg will be fixed, and between selling and buying sin
 
 **Sirach 27:3**
 
-Unless he holds fast in fear of the Lord with haste, his house will quickly be overturned.
+Unless he holds fast in fear of the Lord with diligence, his house will quickly be overturned.
 
 **Sirach 27:4**
 
-In shaking of a sieve refuse remains; so the scum of a man is in his reasoning.
+In shaking of a sieve refuse remains; so the refuse of a man is in his reasoning.
 
 **Sirach 27:5**
 
@@ -8200,15 +8472,15 @@ Birds will lodge with things like themselves, and truth will return to those wor
 
 **Sirach 27:10**
 
-A lion lies in wait for prey; so sins for those working unrighteous things.
+A lion lies in wait for prey; so sins lie in wait for those working unrighteous things.
 
 **Sirach 27:11**
 
-Tale of a devout man is always wisdom, but the fool changes like moon.
+Tale of a devout man is always wisdom, but the fool changes like the moon.
 
 **Sirach 27:12**
 
-In the midst of those without understanding, keep watch for a time; but in the midst of those considering, continue.
+In the midst of those without understanding, keep watch for a time; but in the midst of those considering, remain continually.
 
 **Sirach 27:13**
 
@@ -8224,7 +8496,7 @@ Quarrel of proud men is pouring out of blood, and their mutual reviling is evil 
 
 **Sirach 27:16**
 
-The one revealing mysteries destroyed faithfulness, and he shall surely not find a friend for his soul.
+The one revealing mysteries has destroyed faithfulness, and he shall surely not find a friend for his soul.
 
 **Sirach 27:17**
 
@@ -8286,7 +8558,7 @@ Rage and wrath, these also are abominations, and a sinful man will be master of 
 
 **Sirach 28:1**
 
-The one taking vengeance will find vengeance from the Lord, and preserving, he will preserve his sins.
+The one taking vengeance will find vengeance from the Lord, and preserving them, he will preserve his sins.
 
 **Sirach 28:2**
 
@@ -8306,7 +8578,7 @@ He himself, being flesh, preserves rage; who will atone for his sins?
 
 **Sirach 28:6**
 
-Remember the last things and stop being hostile, destruction and death, and remain in commandments.
+Remember the last things and stop being hostile; remember destruction and death, and remain in commandments.
 
 **Sirach 28:7**
 
@@ -8322,7 +8594,7 @@ and a sinful man will trouble friends and cast slander among those making peace.
 
 **Sirach 28:10**
 
-According to the fuel of fire, so it will be kindled, and according to the strength of the man his anger will be, and according to wealth he will lift up his wrath, and according to the firmness of the quarrel it will be kindled.
+According to the fuel of fire, so it will be kindled, and according to the strength of the man his anger will be, and according to wealth he will lift up his wrath, and according to the strength of the quarrel it will be kindled.
 
 **Sirach 28:11**
 
@@ -8334,7 +8606,7 @@ If you blow into a spark, it will be kindled, and if you spit upon it, it will b
 
 **Sirach 28:13**
 
-Curse whisperer and double-tongued one, for they destroyed many who were at peace.
+Curse the whisperer and double-tongued one, for they destroyed many who were at peace.
 
 **Sirach 28:14**
 
@@ -8396,7 +8668,7 @@ Lend to neighbor in time of his need, and again pay back to neighbor at the time
 
 **Sirach 29:3**
 
-Make firm a word and be faithful with him, and in every time you will find your need.
+Make firm a word and be faithful with him, and in every time you will find what you need.
 
 **Sirach 29:4**
 
@@ -8412,11 +8684,11 @@ If he is strong, with difficulty he will recover half and count it as a find; bu
 
 **Sirach 29:7**
 
-Therefore many turned away because of wickedness; they were cautious of being deprived for nothing.
+Therefore many turned away because of wickedness; they were afraid of being deprived for nothing.
 
 **Sirach 29:8**
 
-Nevertheless be patient toward a lowly man, and do not drag him away from mercy.
+Nevertheless be patient toward a lowly man, and do not make him wait for almsgiving.
 
 **Sirach 29:9**
 
@@ -8432,7 +8704,7 @@ Set your treasure according to commandments of the Most High, and it will profit
 
 **Sirach 29:12**
 
-Shut up mercy in your storehouses, and it will deliver you from every affliction;
+Store up almsgiving in your storehouses, and it will deliver you from every affliction;
 
 **Sirach 29:13**
 
@@ -8444,7 +8716,7 @@ A good man will give surety for neighbor, and one who has lost shame will leave 
 
 **Sirach 29:15**
 
-Do not forget graces of a surety, for he gave his soul for you.
+Do not forget favors of a surety, for he gave his soul for you.
 
 **Sirach 29:16**
 
@@ -8472,11 +8744,11 @@ Better is life of a poor man under shelter of beams than splendid foods among st
 
 **Sirach 29:23**
 
-Have good pleasure over small and great, and you shall surely not hear reproach of sojourning.
+Have good pleasure in small and great, and you shall surely not hear reproach of sojourning.
 
 **Sirach 29:24**
 
-Life from house to house is evil, and where you sojourn, you will not open mouth.
+Life from house to house is evil, and where you sojourn, you will not open your mouth.
 
 **Sirach 29:25**
 
@@ -8488,7 +8760,7 @@ Come here, sojourner, furnish a table, and if anything is in your hand, feed me.
 
 **Sirach 29:27**
 
-Go out, sojourner, from before glory; my brother has been lodged as a guest with me; need of the house.
+Go out, sojourner, from before honor; my brother has lodged with me as a guest; there is need of the house.
 
 **Sirach 29:28**
 
@@ -8530,7 +8802,7 @@ An untamed horse turns out hard, and a son let loose turns out headstrong.
 
 **Sirach 30:9**
 
-Nurse a child, and he will astound you; play together with him, and he will grieve you.
+Pamper a child, and he will astound you; play together with him, and he will grieve you.
 
 **Sirach 30:10**
 
@@ -8538,7 +8810,7 @@ Do not laugh together with him, lest you suffer pain together, and in the end yo
 
 **Sirach 30:11**
 
-Do not give him authority in youth; crush his ribs while he is still an infant, lest perhaps when hardened he disobey you. [And do not overlook his ignorances.
+Do not give him authority in youth; crush his ribs while he is still an infant, lest perhaps when hardened he disobey you. [And do not overlook his sins of ignorance.
 
 **Sirach 30:12**
 
@@ -8566,7 +8838,7 @@ Better is death than bitter life, and eternal rest than lasting sickness.
 
 **Sirach 30:18**
 
-Good things poured out upon a closed mouth are food-offerings set beside a tomb.
+Good things poured out upon a closed mouth are dishes of food set beside a tomb.
 
 **Sirach 30:19**
 
@@ -8604,7 +8876,7 @@ Sleeplessness of wealth wastes flesh, and its worry drives away sleep.
 
 **Sirach 31:2**
 
-Worry of sleeplessness will demand drowsiness, and severe sickness will sober sleep away.
+Worry from sleeplessness will drive off drowsiness, and severe sickness wakes sleep away.
 
 **Sirach 31:3**
 
@@ -8620,7 +8892,7 @@ The one loving gold will not be justified, and the one pursuing corruption will 
 
 **Sirach 31:6**
 
-Many were given to a fall for sake of gold, and their destruction came to be before their face.
+Many were given to a fall for the sake of gold, and their destruction came to be before their face.
 
 **Sirach 31:7**
 
@@ -8640,11 +8912,11 @@ Who was tested by it and was perfected? And it will be for him as a boast. Who w
 
 **Sirach 31:11**
 
-His good things will be made firm, and an assembly will tell out his mercies.
+His good things will be made firm, and an assembly will tell out his acts of almsgiving.
 
 **Sirach 31:12**
 
-You sat at a great table; do not open your throat over it, and do not say, many indeed are the things upon it.
+You sat at a great table; do not open your throat over it, and do not say, "Many indeed are the things upon it."
 
 **Sirach 31:13**
 
@@ -8676,23 +8948,23 @@ How sufficient is a little for a disciplined man, and on his bed he does not gas
 
 **Sirach 31:20**
 
-Sleep of health is upon a moderate bowel; he rose early, and his soul is with him. Pain of sleeplessness and cholera and twisting are with an insatiable man.
+Sleep of health is upon a moderate stomach; he rose early, and his soul is with him. Pain of sleeplessness and cholera and cramps are with an insatiable man.
 
 **Sirach 31:21**
 
-And if you were forced with foods, rise in the middle and you will rest.
+And if you were pressed with foods, rise in the middle and you will rest.
 
 **Sirach 31:22**
 
-Listen to me, child, and do not despise me, and in the last things you will find my words. In all your works become nimble, and every sickness shall surely not meet you.
+Listen to me, child, and do not despise me, and at the end you will find my words. In all your works become prompt, and every sickness shall surely not meet you.
 
 **Sirach 31:23**
 
-Lips will bless one splendid over breads, and testimony of his beauty is faithful.
+Lips will bless one splendid with bread, and testimony of his beauty is faithful.
 
 **Sirach 31:24**
 
-A city will mutter about one evil over bread, and testimony of his wickedness is exact.
+A city will mutter about one evil with bread, and testimony of his wickedness is exact.
 
 **Sirach 31:25**
 
@@ -8708,15 +8980,15 @@ Wine is equal to life for a man, if you drink it by its measure. What life is th
 
 **Sirach 31:28**
 
-Exultation of heart and gladness of soul is wine drunk in season, sufficient.
+Exultation of heart and gladness of soul is wine drunk in season, enough.
 
 **Sirach 31:29**
 
-Bitterness of soul is wine drunk much in irritation and stumbling.
+Bitterness of soul is wine drunk in excess
 
 **Sirach 31:30**
 
-Drunkenness multiplies anger of a fool for stumbling, lessening strength and making wounds.
+Drunkenness multiplies anger of a fool for stumbling, lessening strength and adding wounds.
 
 **Sirach 31:31**
 
@@ -8730,7 +9002,7 @@ Concerning Leaders. Have they appointed you a leader? Do not lift yourself up. B
 
 **Sirach 32:2**
 
-And after doing all your need, recline, so that you may rejoice because of them and receive a crown for sake of good order.
+And after doing all your duty, recline, so that you may rejoice because of them and receive a crown for the sake of good order.
 
 **Sirach 32:3**
 
@@ -8750,7 +9022,7 @@ A seal of emerald in a gold setting is a musical melody with sweet wine.
 
 **Sirach 32:7**
 
-Speak, young man, if you have need, hardly twice if you are asked.
+Speak, young man, if you have need, scarcely twice, if you are asked.
 
 **Sirach 32:8**
 
@@ -8770,11 +9042,11 @@ Rise up at the hour and do not lag behind; run off to home and do not be idle.
 
 **Sirach 32:12**
 
-There play and do your thoughts, and do not sin by a proud word.
+There enjoy yourself and do your thoughts, and do not sin by a proud word.
 
 **Sirach 32:13**
 
-And for these things bless the one who made you and makes you drunk from his good things.
+And for these things bless the one who made you and makes you drunk with his good things.
 
 **Sirach 32:14**
 
@@ -8782,7 +9054,7 @@ The one fearing the Lord will receive discipline, and those rising early will fi
 
 **Sirach 32:15**
 
-The one seeking law will be filled with it, and the one pretending will be stumbled by it.
+The one seeking law will be filled with it, and the one pretending will stumble by it.
 
 **Sirach 32:16**
 
@@ -8790,7 +9062,7 @@ Those fearing the Lord will find judgment, and they will kindle righteous acts l
 
 **Sirach 32:17**
 
-A sinful man turns aside reproof, and according to his will he will find a comparison.
+A sinful man turns aside reproof, and according to his will he will find a pretext.
 
 **Sirach 32:18**
 
@@ -8806,7 +9078,7 @@ Do not go on a way of stumbling, and do not stumble among stony places.
 
 **Sirach 32:21**
 
-Do not trust in an unstumbling way,
+Do not trust in a way without stumbling,
 
 **Sirach 32:22**
 
@@ -8818,17 +9090,17 @@ In every work trust your soul, for this also is keeping commandments.
 
 **Sirach 32:24**
 
-The one trusting law pays attention to commandments, and the one trusting the Lord will not be lessened.
+The one trusting law pays attention to commandments, and the one trusting the Lord will not be diminished.
 
 ### Chapter 33
 
 **Sirach 33:1**
 
-To the one fearing the Lord no evil will meet, but in trial he will also deliver again.
+No evil will meet the one fearing the Lord, but in trial he will deliver him again.
 
 **Sirach 33:2**
 
-A wise man will not hate law, but the one pretending in it is like a ship in storm.
+A wise man will not hate law, but the one pretending in it is like a ship in a storm.
 
 **Sirach 33:3**
 
@@ -8856,7 +9128,7 @@ By knowledge of the Lord they were separated, and he altered seasons and feasts.
 
 **Sirach 33:9**
 
-From them he lifted up and sanctified, and from them he set into a number of days.
+Some of them he lifted up and sanctified, and some of them he set into the number of days.
 
 **Sirach 33:10**
 
@@ -8880,7 +9152,7 @@ Opposite evil is good, and opposite death is life; so opposite a devout man is a
 
 **Sirach 33:15**
 
-And so look into all works of the Most High, two by two, one opposite the one.
+And so look into all works of the Most High, two by two, one opposite another.
 
 **Sirach 33:16**
 
@@ -8900,7 +9172,7 @@ Listen to me, great men of people, and you leaders of an assembly, give ear.
 
 **Sirach 33:20**
 
-To son and wife, brother and friend, do not give authority over you in your life; and do not give your possessions to another, lest when you regret, you make petition concerning them.
+To son and wife, brother and friend, do not give authority over you in your life; and do not give your possessions to another, lest when you regret, you make petition for them.
 
 **Sirach 33:21**
 
@@ -8908,11 +9180,11 @@ While you still live and breath is in you, do not exchange yourself with any fle
 
 **Sirach 33:22**
 
-For it is better that your children should petition you than that you should look to hands of your sons.
+For it is better that your children should petition you than that you should look to the hands of your sons.
 
 **Sirach 33:23**
 
-In all your works become surpassing; do not give a blemish in your glory.
+In all your works be surpassing; do not give a blemish in your glory.
 
 **Sirach 33:24**
 
@@ -8924,7 +9196,7 @@ Fodder and rod and loads for a donkey; bread and discipline and work for a serva
 
 **Sirach 33:26**
 
-Work with a servant, and you will find rest; loosen hands for him, and he will seek freedom.
+Set a servant to work, and you will find rest; loosen his hands, and he will seek freedom.
 
 **Sirach 33:27**
 
@@ -8982,7 +9254,7 @@ Unless it is sent from the Most High in visitation, do not give your heart to th
 
 **Sirach 34:7**
 
-for dreams led many astray, and those hoping in them fell out.
+for dreams led many astray, and those hoping in them fell away.
 
 **Sirach 34:8**
 
@@ -9010,11 +9282,11 @@ Spirit of those fearing the Lord will live, for their hope is upon the one savin
 
 **Sirach 34:14**
 
-The one fearing the Lord will be cautious of nothing and shall surely not be cowardly, because he is his hope.
+The one fearing the Lord will fear nothing and shall surely not be cowardly, because he is his hope.
 
 **Sirach 34:15**
 
-Blessed is soul of one fearing the Lord. To whom does he hold fast, and who is his support?
+Blessed is the soul of one fearing the Lord. To whom does he hold fast, and who is his support?
 
 **Sirach 34:16**
 
@@ -9030,11 +9302,11 @@ One sacrificing from unrighteousness, a mocked offering; and gifts of lawless on
 
 **Sirach 34:19**
 
-The Most High does not take pleasure in offerings of ungodly ones, nor is he atoned for sins by multitude of sacrifices.
+The Most High does not take pleasure in offerings of ungodly ones, nor is he propitiated concerning sins by multitude of sacrifices.
 
 **Sirach 34:20**
 
-One offering a sacrifice from possessions of poor men is sacrificing a son before his father.
+One offering a sacrifice from goods of poor men is sacrificing a son before his father.
 
 **Sirach 34:21**
 
@@ -9046,7 +9318,7 @@ The one taking away livelihood murders neighbor, and the one depriving a hired m
 
 **Sirach 34:23**
 
-One building and one tearing down; what did they profit more than labors?
+One building and one tearing down; what profit did they have except labors?
 
 **Sirach 34:24**
 
@@ -9068,7 +9340,7 @@ The one keeping law multiplies offerings; the one attending to commandments sacr
 
 **Sirach 35:2**
 
-One repaying grace offers fine flour, and the one doing mercy sacrifices praise.
+One repaying grace offers fine flour, and the one doing almsgiving sacrifices praise.
 
 **Sirach 35:3**
 
@@ -9076,7 +9348,7 @@ Good pleasure of the Lord is to depart from wickedness, and atonement is to depa
 
 **Sirach 35:4**
 
-Do not appear before the face of the Lord empty, for all these things are for sake of commandment.
+Do not appear before the face of the Lord empty, for all these things are for the sake of commandment.
 
 **Sirach 35:5**
 
@@ -9096,7 +9368,7 @@ With every gift make your face cheerful, and with gladness sanctify a tithe.
 
 **Sirach 35:9**
 
-Give to the Most High according to his gift and with a good eye according to find of hand;
+Give to the Most High according to his gift and with a good eye according to what your hand finds;
 
 **Sirach 35:10**
 
@@ -9112,7 +9384,7 @@ and do not rely on an unrighteous sacrifice, because the Lord is judge, and ther
 
 **Sirach 35:13**
 
-He will not take face against a poor man, and he will listen to petition of one wronged.
+He will not receive face against a poor man, and he will listen to petition of one wronged.
 
 **Sirach 35:14**
 
@@ -9128,11 +9400,11 @@ One serving in good pleasure will be accepted, and his petition will reach as fa
 
 **Sirach 35:17**
 
-Prayer of a lowly one passed through clouds, and until it draws near, he shall surely not be comforted;
+Prayer of a lowly one passes through clouds, and until it draws near, he shall surely not be comforted;
 
 **Sirach 35:18**
 
-and it shall surely not depart until the Most High visits. And he will judge righteously and make judgment.
+and it shall surely not depart until the Most High visits. And he will judge righteously and execute judgment.
 
 **Sirach 35:19**
 
@@ -9156,7 +9428,7 @@ until he judges the judgment of his people, and he will gladden them in his merc
 
 **Sirach 35:24**
 
-Beautiful is mercy in time of his affliction, like clouds of rain in time of drought.
+Beautiful is mercy in time of affliction, like clouds of rain in time of drought.
 
 ### Chapter 36
 
@@ -9186,27 +9458,27 @@ Raise anger and pour out wrath; remove adversary and wipe out enemy.
 
 **Sirach 36:7**
 
-Hasten a time and remember oath, and let them tell out your great deeds.
+Hasten the time and remember oath, and let them tell out your great deeds.
 
 **Sirach 36:8**
 
-Let the one being saved be devoured in wrath of fire, and may those harming your people find destruction.
+Let the survivor be devoured in wrath of fire, and may those harming your people find destruction.
 
 **Sirach 36:9**
 
-Crush heads of rulers of enemies who say, There is none besides us.
+Crush heads of rulers of enemies who say, "There is none besides us."
 
 **Sirach 36:10**
 
-Gather all tribes of Jacob, and inherit them as from beginning.
+Gather all tribes of Jacob, and take them as inheritance as from beginning.
 
 **Sirach 36:11**
 
-Have mercy on people, Lord, called by your name, and Israel, whom you likened to a firstborn.
+Have mercy on the people, Lord, called by your name, and Israel, whom you likened to a firstborn.
 
 **Sirach 36:12**
 
-Pity city of your sanctuary, Jerusalem, city of your resting-place.
+Pity the city of your sanctuary, Jerusalem, city of your resting-place.
 
 **Sirach 36:13**
 
@@ -9214,7 +9486,7 @@ Fill Zion with your praise, and your people with your glory.
 
 **Sirach 36:14**
 
-Give testimony to those who were your creation in beginning, and raise up prophecies upon your name.
+Give testimony to your creation in the beginning, and raise up prophecies upon your name.
 
 **Sirach 36:15**
 
@@ -9230,7 +9502,7 @@ and all those upon earth will know that you are Lord, the God of the ages.
 
 **Sirach 36:18**
 
-A belly will eat every food, but there is food better than food.
+A belly will eat every food, but one food is better than another.
 
 **Sirach 36:19**
 
@@ -9242,7 +9514,7 @@ A twisted heart will give grief, and a man of much experience will repay him.
 
 **Sirach 36:21**
 
-A woman will receive every male, but there is daughter better than daughter.
+A woman will receive every male, but one daughter is better than another.
 
 **Sirach 36:22**
 
@@ -9250,11 +9522,11 @@ Beauty of a woman cheers a face and surpasses every desire of man.
 
 **Sirach 36:23**
 
-If mercy and meekness are upon her tongue, her husband is not according to sons of men.
+If mercy and meekness are upon her tongue, her husband is not like the sons of men.
 
 **Sirach 36:24**
 
-The one acquiring a wife begins possession, a helper according to him and pillar of rest.
+The one acquiring a wife begins possession, a helper corresponding to him and pillar of rest.
 
 **Sirach 36:25**
 
@@ -9266,13 +9538,13 @@ For who will trust a well-girded robber stumbling from city to city?
 
 **Sirach 36:27**
 
-So with a man who has no nest and lodges wherever he grows dark.
+So with a man who has no nest and lodges wherever evening finds him.
 
 ### Chapter 37
 
 **Sirach 37:1**
 
-Every friend will say, I also was friendly to him, but there is a friend who is a friend in name only.
+Every friend will say, "I also was friendly to him," but there is a friend who is a friend in name only.
 
 **Sirach 37:2**
 
@@ -9284,11 +9556,11 @@ O wicked thought, from where did you roll in to cover dry land with deceitfulnes
 
 **Sirach 37:4**
 
-A companion of a friend delights in gladness, and in time of affliction he will be opposite.
+A companion of a friend delights in gladness, and in time of affliction he will be against him.
 
 **Sirach 37:5**
 
-A companion labors together with a friend for sake of belly; before war he will take a shield.
+A companion labors together with a friend for the sake of belly; before war he will take a shield.
 
 **Sirach 37:6**
 
@@ -9304,7 +9576,7 @@ Guard your soul from a counselor, and know beforehand what his need is; for he a
 
 **Sirach 37:9**
 
-and say to you, Your way is good, and stand opposite to see what will happen to you.
+and say to you, "Your way is good," and stand opposite to see what will happen to you.
 
 **Sirach 37:10**
 
@@ -9312,7 +9584,7 @@ Do not take counsel with one looking askance at you, and from those envying you 
 
 **Sirach 37:11**
 
-Do not rely for every counsel with a woman concerning her rival, and with a coward concerning war, with a merchant concerning exchange and with a buyer concerning sale, with an envious man concerning thanksgiving and with a merciless man concerning kindness, with a lazy man concerning every work and with a hired man by the year concerning completion, with an idle servant concerning much work; do not rely on these for any counsel.
+Do not rely on these for any counsel: with a woman concerning her rival, with a coward concerning war, with a merchant concerning exchange and with a buyer concerning sale, with an envious man concerning thanksgiving and with a merciless man concerning kindness, with a lazy man concerning every work and with a hired man by the year concerning completion, with an idle servant concerning much work.
 
 **Sirach 37:12**
 
@@ -9332,11 +9604,11 @@ And above all these things make petition to the Most High, so that he may direct
 
 **Sirach 37:16**
 
-Beginning of every work is word, and before every action, counsel.
+The beginning of every work is word, and before every action, counsel.
 
 **Sirach 37:17**
 
-As track of alteration of heart, four parts arise:
+A track of alteration of heart: four parts arise,
 
 **Sirach 37:18**
 
@@ -9356,7 +9628,7 @@ for grace was not given him from the Lord, because he was deprived of every wisd
 
 **Sirach 37:22**
 
-There is one wise for his own soul, and fruits of his understanding are faithful upon mouth.
+There is one wise for his own soul, and fruits of his understanding are faithful upon his mouth.
 
 **Sirach 37:23**
 
@@ -9376,7 +9648,7 @@ The wise one among his people will inherit faithfulness, and his name will live 
 
 **Sirach 37:27**
 
-Child, in your life test your soul and see what is evil for it, and do not give it to it;
+Child, in your life test your soul and see what is evil for it, and do not give that to it;
 
 **Sirach 37:28**
 
@@ -9392,13 +9664,13 @@ for in many foods there will be pain, and insatiability will draw near as far as
 
 **Sirach 37:31**
 
-Because of insatiability many died, but the one paying attention will add life.
+Because of insatiability many died, but the one paying attention will add to life.
 
 ### Chapter 38
 
 **Sirach 38:1**
 
-Honor a physician according to his needs with his honors, for the Lord also created him;
+Honor a physician with his honors according to your need of him, for the Lord also created him;
 
 **Sirach 38:2**
 
@@ -9410,7 +9682,7 @@ Knowledge of a physician will lift up his head, and before great men he will be 
 
 **Sirach 38:4**
 
-The Lord created medicines from earth, and a prudent man will not be irritated by them.
+The Lord created medicines from earth, and a prudent man will not be disgusted with them.
 
 **Sirach 38:5**
 
@@ -9450,7 +9722,7 @@ There is a time when success is also in their hands;
 
 **Sirach 38:14**
 
-for they also will make petition to the Lord, so that he may prosper them with rest and healing for sake of livelihood.
+for they also will make petition to the Lord, so that he may prosper them with rest and healing for the sake of preserving life.
 
 **Sirach 38:15**
 
@@ -9462,7 +9734,7 @@ Child, bring down tears over a dead man, and as one suffering terrible things be
 
 **Sirach 38:17**
 
-Make weeping bitter and make wailing hot, and make mourning according to his worth, one day and two for sake of slander, and be comforted because of grief;
+Make weeping bitter and make wailing hot, and make mourning according to his worth, one day and two because of slander, and be comforted because of grief;
 
 **Sirach 38:18**
 
@@ -9474,7 +9746,7 @@ In calamity grief also passes by, and life of a poor man is against heart.
 
 **Sirach 38:20**
 
-Do not give your heart to grief; put it away, remembering the last things.
+Do not give your heart to grief; put it away, remembering the end.
 
 **Sirach 38:21**
 
@@ -9502,11 +9774,11 @@ He will give his heart to give out furrows, and his sleeplessness is for fodder 
 
 **Sirach 38:27**
 
-So every craftsman and architect, who spends night as day; those carving engravings of seals, and his endurance is to alter variety; he will give his heart to liken a painting, and his sleeplessness is to complete work.
+So every craftsman and architect, who spends night as day; those carving engravings of seals, and his endurance is to vary design; he will give his heart to liken a painting, and his sleeplessness is to complete work.
 
 **Sirach 38:28**
 
-So a bronze-worker sitting near an anvil and studying works of iron; vapor of fire will fix his flesh, and in heat of furnace he will struggle; sound of hammer will renew his ear, and his eyes are opposite likeness of vessel; he will give his heart to completion of works, and his sleeplessness is to adorn them to completion.
+So a bronze-worker sitting near an anvil and studying works of iron; vapor of fire will harden his flesh, and in heat of furnace he will struggle; sound of hammer will renew his ear, and his eyes are opposite likeness of vessel; he will give his heart to completion of works, and his sleeplessness is to adorn them to completion.
 
 **Sirach 38:29**
 
@@ -9536,11 +9808,11 @@ but they will establish creation of an age, and their petition is in work of cra
 
 **Sirach 39:1**
 
-Except for the one who gives his soul and considers in law of the Most High, he will seek out wisdom of all ancients and be occupied in prophecies.
+But the one who gives his soul and considers in law of the Most High will seek out wisdom of all ancients and be occupied in prophecies.
 
 **Sirach 39:2**
 
-He will preserve tales of named men and enter together into turns of parables.
+He will preserve tales of renowned men and enter together into turns of parables.
 
 **Sirach 39:3**
 
@@ -9564,7 +9836,7 @@ He himself will direct his counsel and knowledge, and he will consider in his hi
 
 **Sirach 39:8**
 
-He himself will make discipline of his teaching appear and will boast in law of covenant of the Lord.
+He himself will make discipline of his teaching appear and will boast in law of the covenant of the Lord.
 
 **Sirach 39:9**
 
@@ -9588,7 +9860,7 @@ Listen to me, holy sons, and sprout like a rose growing upon a stream of water,
 
 **Sirach 39:14**
 
-and like frankincense give sweet smell of odor, and flower a flower like a lily. Spread odor and praise a song; bless the Lord for all his works.
+and like frankincense give sweet fragrance, and flower a flower like a lily. Spread odor and praise a song; bless the Lord for all his works.
 
 **Sirach 39:15**
 
@@ -9596,7 +9868,7 @@ Give greatness to his name and confess in his praise, with songs of lips and wit
 
 **Sirach 39:16**
 
-All works of the Lord are very good, and every command will be in its time. It is not possible to say, What is this? For what is this?
+All works of the Lord are very good, and every command will be in its time. It is not possible to say, "What is this? For what is this?"
 
 **Sirach 39:17**
 
@@ -9616,15 +9888,15 @@ From age to age he looked upon things, and nothing is marvelous before him.
 
 **Sirach 39:21**
 
-It is not possible to say, What is this? For what is this? For all things were created for their needs.
+It is not possible to say, "What is this? For what is this?" For all things were created for their needs.
 
 **Sirach 39:22**
 
-His blessing covered over like a river, and like a flood made dry land drunk.
+His blessing covered over like a river, and like a flood drenched dry land.
 
 **Sirach 39:23**
 
-So his wrath will inherit nations, as he turned waters into brine.
+So nations will inherit his wrath, as he turned waters into brine.
 
 **Sirach 39:24**
 
@@ -9644,7 +9916,7 @@ All these are for good things to the devout, so to sinners they will be turned i
 
 **Sirach 39:28**
 
-There are spirits that were created for vengeance, and in his anger they made their whips firm; in time of completion they will pour out strength and bring to rest the anger of the one who made them.
+There are spirits that were created for vengeance, and in his anger they made their whips firm; in time of completion they will pour out strength and make the anger of the one who made them cease.
 
 **Sirach 39:29**
 
@@ -9652,7 +9924,7 @@ Fire and hail and famine and death, all these were created for vengeance;
 
 **Sirach 39:30**
 
-teeth of beasts and scorpions and vipers and a sword taking vengeance for destruction of ungodly ones.
+teeth of beasts and scorpions and vipers and a sword taking vengeance to destruction against ungodly ones.
 
 **Sirach 39:31**
 
@@ -9678,7 +9950,7 @@ And now with all heart and mouth, sing praise and bless the name of the Lord.
 
 **Sirach 40:1**
 
-Great occupation has been created for every man, and a heavy yoke upon sons of Adam, from day of going out from womb of their mother until day of return to mother of all:
+Great trouble has been created for every man, and a heavy yoke upon sons of Adam, from day of going out from womb of their mother until day of return to mother of all:
 
 **Sirach 40:2**
 
@@ -9698,11 +9970,11 @@ anger and jealousy and disturbance and tossing and fear of death and rage and st
 
 **Sirach 40:6**
 
-A little as nothing in rest, and from there in sleep as in day of watch, troubled in vision of his heart, as one escaped from face of war.
+A little rest is as nothing, and after that in dreams he is troubled as on a day of watch, in vision of his heart, as one escaped from face of war.
 
 **Sirach 40:7**
 
-In time of his salvation he woke up and marveled into no fear.
+In time of his salvation he woke up and marveled that there was no fear.
 
 **Sirach 40:8**
 
@@ -9738,11 +10010,11 @@ Offspring of ungodly ones will not multiply branches, and unclean roots are upon
 
 **Sirach 40:16**
 
-reed upon every water and lip of river will be plucked out before every grass.
+Reed upon every water and lip of river will be plucked out before every grass.
 
 **Sirach 40:17**
 
-Grace is like a garden in blessings, and mercy remains into the age.
+Grace is like a garden in blessings, and almsgiving remains into the age.
 
 **Sirach 40:18**
 
@@ -9762,7 +10034,7 @@ Flute and psaltery sweeten honey, and above both is a sweet tongue.
 
 **Sirach 40:22**
 
-Your eye will desire grace and beauty, and above both green shoot of seed.
+Your eye will desire grace and beauty, and above both green growth of seed.
 
 **Sirach 40:23**
 
@@ -9770,7 +10042,7 @@ Friend and companion meet for a time, and above both is wife with husband.
 
 **Sirach 40:24**
 
-Brothers and help are for time of affliction, and above both mercy will rescue.
+Brothers and help are for time of affliction, and above both almsgiving will rescue.
 
 **Sirach 40:25**
 
@@ -9790,17 +10062,17 @@ Child, do not live a life of begging; better to die than to beg.
 
 **Sirach 40:29**
 
-A man looking to a stranger's table, his livelihood is not in the reckoning of life; he will defile his soul with strangers' foods. But a knowledgeable and disciplined man will guard himself.
+A man looking to a stranger's table, his life is not in the reckoning of life; he will defile his soul with strangers' foods. But a knowledgeable and disciplined man will guard himself.
 
 **Sirach 40:30**
 
-Begging will be sweetened in mouth of a shameless man, and in his belly fire will burn.
+Begging will be sweet in the mouth of a shameless man, and in his belly fire will burn.
 
 ### Chapter 41
 
 **Sirach 41:1**
 
-O death, how bitter your memorial is to a man at peace in his possessions, to a man undistracted and prospering in all things and still strong to receive food.
+O death, how bitter your remembrance is to a man at peace in his possessions, to a man undistracted and prospering in all things and still strong to receive food.
 
 **Sirach 41:2**
 
@@ -9808,7 +10080,7 @@ O death, your judgment is good to a man in need and lacking strength, aged at th
 
 **Sirach 41:3**
 
-Do not be cautious of judgment of death; remember those before you and last things.
+Do not fear judgment of death; remember those before you and those after.
 
 **Sirach 41:4**
 
@@ -9816,7 +10088,7 @@ This is the judgment from the Lord for all flesh, and why do you reject the good
 
 **Sirach 41:5**
 
-Abominable children become children of sinners and those living together in sojournings of ungodly ones.
+Children of sinners become abominable children and those living together in sojournings of ungodly ones.
 
 **Sirach 41:6**
 
@@ -9840,7 +10112,7 @@ All things, as many as are from earth, will depart into earth; so ungodly ones f
 
 **Sirach 41:11**
 
-Mourning of men is in their bodies, but name of sinners, not good, will be wiped out.
+Mourning of men is in their bodies, but a name of sinners that is not good will be wiped out.
 
 **Sirach 41:12**
 
@@ -9860,7 +10132,7 @@ Better is a man hiding his foolishness than a man hiding his wisdom.
 
 **Sirach 41:16**
 
-Therefore be ashamed at my word; for it is not good to guard every shame, and not all things are approved by all in faithfulness.
+Therefore be ashamed at my word; for it is not good to keep every kind of shame, and not all things are approved by all in faithfulness.
 
 **Sirach 41:17**
 
@@ -9876,7 +10148,7 @@ before partner and friend concerning unrighteousness, and before the place where
 
 **Sirach 41:20**
 
-before truth of God and covenant, and before setting an elbow upon breads,
+before truth of God and covenant, and before setting an elbow upon loaves,
 
 **Sirach 41:21**
 
@@ -9900,17 +10172,17 @@ before friends concerning words of reproach, and after giving, do not reproach,
 
 **Sirach 41:26**
 
-before repeating a report and word of hearing, and before revelations of hidden words;
+before repeating a report and heard word, and before revelations of hidden words;
 
 **Sirach 41:27**
 
-and you will be truly modest and finding grace before every man.
+and you will be truly modest and will find grace before every man.
 
 ### Chapter 42
 
 **Sirach 42:1**
 
-Do not be ashamed concerning these things, and do not accept a face for sinning:
+Do not be ashamed concerning these things, and do not take face so as to sin:
 
 **Sirach 42:2**
 
@@ -9942,7 +10214,7 @@ Concerning discipline of a senseless man and fool, and one aged at the end being
 
 **Sirach 42:9**
 
-A daughter is secret sleeplessness to a father, and care for her drives away sleep: in her youth, lest perhaps she pass her prime; and having lived with a husband, lest perhaps she be hated;
+A daughter is hidden sleeplessness to a father, and care for her drives away sleep: in her youth, lest perhaps she pass her prime; and having lived with a husband, lest perhaps she be hated;
 
 **Sirach 42:10**
 
@@ -9954,7 +10226,7 @@ Set firm guard over an unrestrained daughter, lest perhaps she make you a rejoic
 
 **Sirach 42:12**
 
-Do not look at beauty in every man, and do not sit together among women;
+Do not look at beauty in every person, and do not sit together among women;
 
 **Sirach 42:13**
 
@@ -9978,7 +10250,7 @@ The Lord did not give power to the holy ones to tell out all his wonders, which 
 
 **Sirach 42:18**
 
-He searched out abyss and heart and considered in their craftinesses; for the Lord knew every knowledge and looked into sign of age,
+He searched out abyss and heart and considered in their craftinesses; for the Lord knew all knowledge and looked into sign of age,
 
 **Sirach 42:19**
 
@@ -9990,11 +10262,11 @@ No thought passed him by; not even one word was hidden from him.
 
 **Sirach 42:21**
 
-He adorned the great things of his wisdom, and as he is before the age and into the age; neither was anything added nor lessened, and he had no need of any counselor.
+He adorned the great things of his wisdom, and he is as he was before the age and into the age; neither was anything added nor lessened, and he had no need of any counselor.
 
 **Sirach 42:22**
 
-How desirable are all his works, and how they are to behold like a spark.
+How desirable are all his works, and how they are like a spark to behold.
 
 **Sirach 42:23**
 
@@ -10002,11 +10274,11 @@ All these live and remain into the age for every need, and all obey.
 
 **Sirach 42:24**
 
-All things are double, one opposite the one, and he made nothing lacking.
+All things are double, one opposite another, and he made nothing lacking.
 
 **Sirach 42:25**
 
-One strengthened good things of the other, and who will be filled while seeing his glory?
+One thing strengthened the good things of another, and who will be filled while seeing his glory?
 
 ### Chapter 43
 
@@ -10024,7 +10296,7 @@ At its midday it dries up land, and before its burning heat who will stand?
 
 **Sirach 43:4**
 
-One blowing a furnace in works of heat; threefold is sun burning up mountains, breathing out fiery vapors and shining beams, dimming eyes.
+Like one blowing a furnace in works of heat, the sun burns up mountains threefold, breathing out fiery vapors and shining beams, dimming eyes.
 
 **Sirach 43:5**
 
@@ -10072,7 +10344,7 @@ By his majesty he strengthened clouds, and stones of hail were broken small.
 
 **Sirach 43:16**
 
-And at his appearances mountains will be shaken; by his will south wind will blow.
+And at his appearances mountains will be shaken; by his will the south wind will blow.
 
 **Sirach 43:17**
 
@@ -10096,7 +10368,7 @@ It will devour mountains and burn up wilderness and extinguish green grass like 
 
 **Sirach 43:22**
 
-Healing of all things is mist in haste; dew meeting burning heat will cheer.
+A mist is swift healing of all things; dew meeting burning heat will cheer.
 
 **Sirach 43:23**
 
@@ -10104,7 +10376,7 @@ By his reasoning he stilled abyss and planted islands in it.
 
 **Sirach 43:24**
 
-Those sailing the sea tell of its danger, and by hearings of our ears we marvel.
+Those sailing the sea tell of its danger, and by hearing with our ears we marvel.
 
 **Sirach 43:25**
 
@@ -10116,7 +10388,7 @@ Because of him his messenger prospers, and by his word all things hold together.
 
 **Sirach 43:27**
 
-We will say many things and shall surely not reach; and completion of words: the whole is he.
+We will say many things and shall surely not reach; and completion of words: he is the whole.
 
 **Sirach 43:28**
 
@@ -10128,7 +10400,7 @@ Fearsome is the Lord and exceedingly great, and wonderful is his power.
 
 **Sirach 43:30**
 
-While glorifying the Lord, lift him high as much as you are able, for he will exceed still more. And while lifting him high, multiply in strength; do not labor, for you shall surely not reach.
+While glorifying the Lord, lift him high as much as you are able, for he will exceed still more. And while lifting him high, multiply in strength; do not grow weary, for you shall surely not reach.
 
 **Sirach 43:31**
 
@@ -10146,19 +10418,19 @@ For the Lord made all things, and to the devout he gave wisdom.
 
 **Sirach 44:1**
 
-Hymn of Fathers. Let us indeed praise glorious men and our fathers by generation.
+Hymn of Fathers. Let us indeed praise glorious men and our fathers by their generation.
 
 **Sirach 44:2**
 
-The Lord created much glory, his greatness from age.
+The Lord created much glory, his greatness from the age.
 
 **Sirach 44:3**
 
-Those ruling in their kingdoms, and men named in power, counseling in their understanding, reporting in prophecies;
+Those ruling in their kingdoms, and men renowned in power, counseling in their understanding, reporting in prophecies;
 
 **Sirach 44:4**
 
-leaders of people in deliberations and understanding of scribal work of people, wise words in their discipline;
+leaders of people in deliberations and understanding of scribal work of people, wise in words by their discipline;
 
 **Sirach 44:5**
 
@@ -10178,7 +10450,7 @@ Some of them left a name, so that praises might be told out;
 
 **Sirach 44:9**
 
-and there are some of whom there is no memorial, and they perished as not existing, and became as not having come to be, and their children after them.
+and there are some of whom there is no memorial, and they perished as though not existing, and became as though not having come to be, and their children after them.
 
 **Sirach 44:10**
 
@@ -10194,7 +10466,7 @@ In the covenants their seed stood, and their children because of them.
 
 **Sirach 44:13**
 
-Their seed will remain until age, and their glory will not be wiped out.
+Their seed will remain until the age, and their glory will not be wiped out.
 
 **Sirach 44:14**
 
@@ -10288,7 +10560,7 @@ a golden crown above a turban, impression of a seal of holiness, boast of honor,
 
 **Sirach 45:13**
 
-Before him such things had not come to be until age; no foreigner clothed himself with them except his sons only, and his offspring continually.
+Before him such things had not come to be into age; no foreigner clothed himself with them except his sons only, and his offspring continually.
 
 **Sirach 45:14**
 
@@ -10312,11 +10584,11 @@ Foreigners gathered against him and were jealous of him in the wilderness, the m
 
 **Sirach 45:19**
 
-The Lord saw and was not pleased, and they were completed in angry wrath; he did wonders against them, to consume them in fire of his flame.
+The Lord saw and was not pleased, and they were brought to an end in angry wrath; he did wonders against them, to consume them in fire of his flame.
 
 **Sirach 45:20**
 
-And he added glory to Aaron and gave him inheritance; firstfruits of firstborn things he divided to him; bread first he prepared to fullness.
+And he added glory to Aaron and gave him inheritance; firstfruits of firstborn things he divided to him; bread from first things he prepared to fullness.
 
 **Sirach 45:21**
 
@@ -10328,7 +10600,7 @@ Nevertheless in land of people he will not inherit, and there is no portion for 
 
 **Sirach 45:23**
 
-And Phinehas son of Eleazar was third in glory, by being zealous in fear of the Lord and standing in turning of people, in goodness of eagerness of his soul. And he atoned concerning Israel.
+And Phinehas son of Eleazar was third in glory, by being zealous in fear of the Lord and standing when the people turned, in goodness of eagerness of his soul. And he atoned concerning Israel.
 
 **Sirach 45:24**
 
@@ -10340,7 +10612,7 @@ And a covenant to David son of Jesse from tribe of Judah: inheritance of a king 
 
 **Sirach 45:26**
 
-May he give you wisdom in your heart to judge his people in righteousness, so that their good things may not be made invisible, and their glory to their generations.
+May he give you wisdom in your heart to judge his people in righteousness, so that their good things may not vanish, and their glory to their generations.
 
 ### Chapter 46
 
@@ -10350,7 +10622,7 @@ Mighty in wars was Joshua son of Nun, and successor of Moses in prophecies, who 
 
 **Sirach 46:2**
 
-How he was glorified in lifting up his hands and in stretching out sword against cities.
+How he was glorified in lifting up his hands and in stretching out a sword against cities.
 
 **Sirach 46:3**
 
@@ -10370,7 +10642,7 @@ He dashed down upon a warring nation and in descent destroyed those standing aga
 
 **Sirach 46:7**
 
-And in days of Moses he did mercy, he and Caleb son of Jephunneh, to stand against an assembly, to hinder people from sin and to quiet wicked murmuring.
+And in days of Moses he acted with mercy, he and Caleb son of Jephunneh, to stand against an assembly, to hinder people from sin and to quiet wicked murmuring.
 
 **Sirach 46:8**
 
@@ -10390,7 +10662,7 @@ And the judges, each by his own name, as many whose heart did not fornicate and 
 
 **Sirach 46:12**
 
-May their bones sprout again from their place, and their name be exchanged again upon sons of their glorified ones.
+May their bones sprout again from their place, and their name be renewed again upon sons of their glorified ones.
 
 **Sirach 46:13**
 
@@ -10402,7 +10674,7 @@ By law of the Lord he judged an assembly, and the Lord visited Jacob.
 
 **Sirach 46:15**
 
-By his faithfulness he was made exact as prophet, and by his faithfulness he was known as faithful in vision.
+By his faithfulness he was shown exact as a prophet, and by his faithfulness he was known as faithful in vision.
 
 **Sirach 46:16**
 
@@ -10418,7 +10690,7 @@ and he wiped out leaders of Tyrians and all rulers of Philistines.
 
 **Sirach 46:19**
 
-And before time of eternal sleep he testified before the Lord and his anointed: Possessions, even to sandals, from all flesh I have not taken. And no man accused him.
+And before time of eternal sleep he testified before the Lord and his anointed: "Possessions, even to sandals, from all flesh I have not taken." And no man accused him.
 
 **Sirach 46:20**
 
@@ -10428,7 +10700,7 @@ And after he slept, he prophesied and showed the king his end and lifted up his 
 
 **Sirach 47:1**
 
-And after this Nathan rose up to prophesy in days of David.
+And after this Nathan rose up to prophesy in the days of David.
 
 **Sirach 47:2**
 
@@ -10440,7 +10712,7 @@ With lions he played as with kids, and with bears as with lambs of sheep.
 
 **Sirach 47:4**
 
-In his youth did he not kill a giant and remove reproach from people, by lifting hand with stone of sling and casting down boasting of Goliath?
+In his youth did he not kill a giant and remove reproach from the people, by lifting hand with a stone of a sling and casting down boasting of Goliath?
 
 **Sirach 47:5**
 
@@ -10460,7 +10732,7 @@ In every work of his he gave confession to the Holy Most High with a word of glo
 
 **Sirach 47:9**
 
-And he set singers before the altar, and by their sound to sweeten melodies.
+And he set singers before the altar, so that by their sound they might sweeten melodies.
 
 **Sirach 47:10**
 
@@ -10496,7 +10768,7 @@ In songs and proverbs and parables and interpretations, lands marveled at you.
 
 **Sirach 47:18**
 
-In name of the Lord God, the one called God of Israel, you gathered gold like tin and multiplied silver like lead.
+In the name of the Lord God, the one called God of Israel, you gathered gold like tin and multiplied silver like lead.
 
 **Sirach 47:19**
 
@@ -10512,7 +10784,7 @@ for tyranny to become divided and a disobedient kingdom to begin from Ephraim.
 
 **Sirach 47:22**
 
-But the Lord shall surely not leave his mercy behind, and he shall surely not destroy any of his works, nor shall he wipe out offspring of his chosen one, and seed of the one who loved him he shall surely not remove. And to Jacob he gave a remnant, and to David a root from him.
+But the Lord shall surely not abandon his mercy, and he shall surely not destroy any of his works, nor shall he wipe out offspring of his chosen one, and seed of the one who loved him he shall surely not remove. And to Jacob he gave a remnant, and to David a root from him.
 
 **Sirach 47:23**
 
@@ -10520,7 +10792,7 @@ And Solomon rested with his fathers and left behind after him from his seed the 
 
 **Sirach 47:24**
 
-And their sins were multiplied exceedingly, to make them stand away from their land.
+And their sins were multiplied exceedingly, to remove them from their land.
 
 **Sirach 47:25**
 
@@ -10570,7 +10842,7 @@ the one written down in reproofs for times, to calm wrath before anger, to turn 
 
 **Sirach 48:11**
 
-Blessed are those who saw you and those adorned in love, for we also will live life.
+Blessed are those who saw you and those adorned in love, for we also will live with life.
 
 **Sirach 48:12**
 
@@ -10586,7 +10858,7 @@ And in his life he did wonders, and at his death his works were marvelous.
 
 **Sirach 48:15**
 
-In all these things the people did not repent and did not stand away from their sins, until they were plundered from their land and scattered in all the earth. And the people were left few, with a ruler for the house of David.
+In all these things the people did not repent and did not depart from their sins, until they were plundered from their land and scattered in all the earth. And the people were left few, with a ruler for the house of David.
 
 **Sirach 48:16**
 
@@ -10610,7 +10882,7 @@ And they called upon the merciful Lord, stretching out their hands toward him. A
 
 **Sirach 48:21**
 
-He struck the camp of the Assyrians, and his messenger wiped them out.
+He struck the camp of the Assyrians, and his angel wiped them out.
 
 **Sirach 48:22**
 
@@ -10632,11 +10904,11 @@ Until the age he showed things that would be, and hidden things before they came
 
 **Sirach 49:1**
 
-Memorial of Josiah is like composition of incense prepared by work of a perfumer; in every mouth it will be sweetened like honey and like music at a banquet of wine.
+Remembrance of Josiah is like composition of incense prepared by work of a perfumer; in every mouth it will be sweet like honey and like music at a banquet of wine.
 
 **Sirach 49:2**
 
-He himself was directed in turning of people and removed abominations of lawlessness.
+He himself was directed in turning the people and removed abominations of lawlessness.
 
 **Sirach 49:3**
 
@@ -10644,7 +10916,7 @@ He directed his heart toward the Lord; in days of lawless ones he strengthened g
 
 **Sirach 49:4**
 
-Except David and Hezekiah and Josiah, all trespassed with trespass; for they left law of the Most High, kings of Judah failed.
+Except David and Hezekiah and Josiah, all committed trespass; for they left law of the Most High, kings of Judah failed.
 
 **Sirach 49:5**
 
@@ -10668,7 +10940,7 @@ For he also remembered the enemies in rain and to do good to those directing way
 
 **Sirach 49:10**
 
-And of the twelve prophets, may their bones sprout again from their place; for he comforted Jacob and redeemed them in faith of hope.
+And of the twelve prophets, may their bones sprout again from their place; for he comforted Jacob and redeemed them in faithfulness of hope.
 
 **Sirach 49:11**
 
@@ -10680,7 +10952,7 @@ so also Joshua son of Jozadak, who in their days built a house and lifted up a h
 
 **Sirach 49:13**
 
-And Nehemiah, his memorial is for much, who raised for us walls that had fallen, and set up gates and bars, and raised our house-plots.
+And Nehemiah's remembrance is great, who raised for us walls that had fallen, and set up gates and bars, and raised our house-plots.
 
 **Sirach 49:14**
 
@@ -10710,7 +10982,7 @@ In his days a reservoir of waters was made low, a pit like the sea in circumfere
 
 **Sirach 50:4**
 
-He took thought for his people from falling and strengthened a city under siege.
+He took thought for his people against falling and strengthened a city under siege.
 
 **Sirach 50:5**
 
@@ -10738,7 +11010,7 @@ like an olive tree sprouting fruits and like a cypress lifted high in clouds.
 
 **Sirach 50:11**
 
-When he took up robe of glory and clothed himself in completion of boasting, in ascent of holy altar he glorified the enclosure of sanctuary.
+When he took up a robe of glory and clothed himself in fullness of boasting, in ascent of holy altar he glorified the enclosure of sanctuary.
 
 **Sirach 50:12**
 
@@ -10766,7 +11038,7 @@ Then all the people together hastened and fell upon face to the earth, to worshi
 
 **Sirach 50:18**
 
-And the psalm-singers praised with their voices; in a very great house melody was sweetened.
+And the psalm-singers praised with their voices; in a very great house melody was made sweet.
 
 **Sirach 50:19**
 
@@ -10786,7 +11058,7 @@ And now bless the God of all, the one doing great things everywhere, the one lif
 
 **Sirach 50:23**
 
-May he give us gladness of heart and for peace to come to be in our days in Israel, according to days of the age;
+May he give us gladness of heart and may peace come to be in our days in Israel, according to days of the age;
 
 **Sirach 50:24**
 
@@ -10820,7 +11092,7 @@ Prayer of Jesus Son of Sirach. I will confess to you, Lord King, and praise you,
 
 **Sirach 51:2**
 
-because you became shelterer and helper to me, and you redeemed my body from destruction and from snare of slander of tongue, from lips working falsehood, and before those standing by you became helper to me.
+because you became coverer and helper to me, and you redeemed my body from destruction and from snare of slander of tongue, from lips working falsehood, and before those standing by you became helper to me.
 
 **Sirach 51:3**
 
@@ -10836,15 +11108,15 @@ from depth of belly of Hades and from unclean tongue and false word.
 
 **Sirach 51:6**
 
-To a king, slander of unrighteous tongue. My soul drew near as far as death, and my life was near Hades below.
+from slander of an unrighteous tongue to a king. My soul drew near as far as death, and my life was near Hades below.
 
 **Sirach 51:7**
 
-They surrounded me on every side, and there was no one helping; I looked for help of men, and there was none.
+They surrounded me on every side, and there was no one helping; I looked for help from men, and there was none.
 
 **Sirach 51:8**
 
-And I remembered your mercy, Lord, and your work from age, because you deliver those waiting for you and save them from hand of nations.
+And I remembered your mercy, Lord, and your work from the age, because you deliver those waiting for you and save them from hand of nations.
 
 **Sirach 51:9**
 
@@ -10868,7 +11140,7 @@ While I was still younger, before I was led astray, I sought wisdom openly in my
 
 **Sirach 51:14**
 
-Before the temple I was asking concerning her, and until last things I will seek her out.
+Before the temple I was asking concerning her, and until the end I will seek her out.
 
 **Sirach 51:15**
 
@@ -10884,11 +11156,11 @@ Progress came to be for me in her; to the one giving me wisdom I will give glory
 
 **Sirach 51:18**
 
-For I considered doing her and was zealous for the good, and I shall surely not be ashamed.
+For I considered practicing her and was zealous for the good, and I shall surely not be ashamed.
 
 **Sirach 51:19**
 
-My soul struggled in her, and in practice of hunger I was exact. I spread out my hands toward height and mourned her ignorances.
+My soul struggled in her, and in practice of hunger I was exact. I spread out my hands toward height and mourned my ignorances concerning her.
 
 **Sirach 51:20**
 
@@ -10900,11 +11172,11 @@ And my belly was troubled to seek her out; because of this I acquired a good pos
 
 **Sirach 51:22**
 
-The Lord gave me tongue as my reward, and with it I will praise him.
+The Lord gave me my tongue as my reward, and with it I will praise him.
 
 **Sirach 51:23**
 
-Draw near to me, undisciplined ones, and lodge in house of discipline.
+Draw near to me, undisciplined ones, and lodge in a house of discipline.
 
 **Sirach 51:24**
 
@@ -10912,11 +11184,11 @@ Why is it that you lack in these things, and your souls thirst exceedingly?
 
 **Sirach 51:25**
 
-I opened my mouth and spoke: Acquire for yourselves without silver.
+I opened my mouth and spoke: "Acquire for yourselves without silver."
 
 **Sirach 51:26**
 
-Put your neck under yoke, and let your soul receive discipline; it is near to find her.
+Put your neck under the yoke, and let your soul receive discipline; it is near to find her.
 
 **Sirach 51:27**
 
@@ -10932,7 +11204,7 @@ May your soul be gladdened in his mercy, and may you not be ashamed in his prais
 
 **Sirach 51:30**
 
-Work your work before time, and he will give your reward in his time.
+Work your work before the time, and he will give your reward in his time.
 
 ## Baruch
 
@@ -10948,11 +11220,11 @@ in the fifth year, on the seventh of the month, in the time when the Chaldeans t
 
 **Baruch 1:3**
 
-And Baruch read the words of this book in ears of Jeconiah son of Jehoiakim king of Judah, and in ears of all the people who came to the book,
+And Baruch read the words of this book in the ears of Jeconiah son of Jehoiakim king of Judah, and in the ears of all the people who came to the book,
 
 **Baruch 1:4**
 
-and in ears of the powerful and sons of the kings, and in ears of the elders, and in ears of all the people, from small to great, all those dwelling in Babylon by the river Sud.
+and in the ears of the powerful and sons of the kings, and in the ears of the elders, and in the ears of all the people, from small to great, all those dwelling in Babylon by the river Sud.
 
 **Baruch 1:5**
 
@@ -10960,7 +11232,7 @@ And they wept and fasted and prayed before the Lord,
 
 **Baruch 1:6**
 
-and gathered silver, according as each hand was able,
+and gathered silver, as each hand was able,
 
 **Baruch 1:7**
 
@@ -10968,7 +11240,7 @@ and they sent it to Jerusalem to Jehoiakim son of Hilkiah, son of Shallum, the p
 
 **Baruch 1:8**
 
-when he received the vessels of the house of the Lord, those carried out from the temple, to return them to the land of Judah, on the tenth of Sivan, silver vessels which Zedekiah son of Josiah king of Judah made,
+when he received the vessels of the house of the Lord, those carried out from the temple, to return them to the land of Judah, on the tenth of Sivan, the silver vessels that Zedekiah son of Josiah king of Judah had made,
 
 **Baruch 1:9**
 
@@ -10996,7 +11268,7 @@ And you shall read this book, which we sent to you, to make confession in the ho
 
 **Baruch 1:15**
 
-and you shall say, To the Lord our God belongs righteousness, but to us shame of faces, as this day, to a man of Judah and to those dwelling in Jerusalem,
+and you shall say, To the Lord our God belongs righteousness, but to us shame of faces, as this day, to the man of Judah and to those dwelling in Jerusalem,
 
 **Baruch 1:16**
 
@@ -11008,7 +11280,7 @@ because we sinned before the Lord
 
 **Baruch 1:18**
 
-and disobeyed him and did not listen to the voice of the Lord our God, to walk in commandments of the Lord that he gave before our face.
+and disobeyed him and did not listen to the voice of the Lord our God, to walk in the commandments of the Lord that he gave before our face.
 
 **Baruch 1:19**
 
@@ -11016,7 +11288,7 @@ From the day when the Lord brought our fathers out of the land of Egypt even unt
 
 **Baruch 1:20**
 
-And the evils and the curse clung to us, which the Lord appointed to Moses his servant on the day when he brought our fathers out of the land of Egypt to give us a land flowing with milk and honey, as this day.
+And the evils and the curse clung to us, which the Lord appointed to Moses his servant on the day when he brought our fathers out of the land of Egypt, to give us a land flowing with milk and honey, as this day.
 
 **Baruch 1:21**
 
@@ -11024,7 +11296,7 @@ And we did not listen to the voice of the Lord our God, according to all the wor
 
 **Baruch 1:22**
 
-and we went away, each in the thought of his wicked heart, to work for other gods, to do evil things before eyes of the Lord our God.
+and we went away, each in the thought of his wicked heart, to serve other gods, to do evil things before the eyes of the Lord our God.
 
 ### Chapter 2
 
@@ -11038,15 +11310,15 @@ to bring upon us great evils, which he did not do under all heaven as was done i
 
 **Baruch 2:3**
 
-that we should eat, a man the flesh of his son and a man the flesh of his daughter.
+that we should eat, each man the flesh of his son and each man the flesh of his daughter.
 
 **Baruch 2:4**
 
-And he gave them under hands of all the kingdoms around us, for reproach and for untrodden waste among all the peoples around, where the Lord scattered them there.
+And he gave them under the hands of all the kingdoms around us, for reproach and for untrodden waste among all the peoples around, where the Lord scattered them.
 
 **Baruch 2:5**
 
-And they came to be underneath and not above, because we sinned against the Lord our God by not listening to his voice.
+And they came to be beneath and not above, because we sinned against the Lord our God by not listening to his voice.
 
 **Baruch 2:6**
 
@@ -11066,11 +11338,11 @@ And the Lord kept watch over the evils, and the Lord brought them upon us, becau
 
 **Baruch 2:10**
 
-And we did not listen to his voice, to walk in commandments of the Lord that he gave before our face.
+And we did not listen to his voice, to walk in the commandments of the Lord that he gave before our face.
 
 **Baruch 2:11**
 
-And now, Lord God of Israel, who brought your people out of the land of Egypt with a strong hand and with signs and with wonders and with great power and with a high arm and made for yourself a name, as this day,
+And now, Lord God of Israel, who brought your people out of the land of Egypt with a strong hand and with signs and with wonders and with great power and with a raised arm and made for yourself a name, as this day,
 
 **Baruch 2:12**
 
@@ -11098,11 +11370,11 @@ Open your eyes, Lord, and see, because the dead in Hades, whose spirit was taken
 
 **Baruch 2:18**
 
-but the soul grieving over greatness, which walks bowed and weak, and the failing eyes, and the hungry soul, will give you glory and righteousness, Lord.
+but the soul grieving under the greatness, which walks bowed and weak, and the failing eyes, and the hungry soul, will give you glory and righteousness, Lord.
 
 **Baruch 2:19**
 
-For we do not cast our mercy before your face upon the righteous acts of our fathers and our kings, Lord our God,
+For we do not lay our mercy before your face on account of the righteous acts of our fathers and our kings, Lord our God,
 
 **Baruch 2:20**
 
@@ -11118,7 +11390,7 @@ And if you do not listen to the voice of the Lord to work for the king of Babylo
 
 **Baruch 2:23**
 
-I will make fail from cities of Judah and outside Jerusalem voice of gladness and voice of joy, voice of bridegroom and voice of bride, and all the land will become an untrodden waste from inhabitants.
+I will make the voice of gladness and the voice of joy, the voice of bridegroom and the voice of bride, cease from the cities of Judah and outside Jerusalem, and all the land will become an untrodden waste from inhabitants.
 
 **Baruch 2:24**
 
@@ -11126,11 +11398,11 @@ And we did not listen to your voice to work for the king of Babylon, and you est
 
 **Baruch 2:25**
 
-And behold, they are thrown out to the burning heat of day and to frost of night, and they died in evil pains, by famine and by sword and by sending away.
+And behold, they are thrown out to the burning heat of day and to frost of night, and they died in evil pains, by famine and by sword and by exile.
 
 **Baruch 2:26**
 
-And you made the house upon which your name was called as this day, because of wickedness of house of Israel and house of Judah.
+And you made the house upon which your name was called as this day, because of wickedness of the house of Israel and the house of Judah.
 
 **Baruch 2:27**
 
@@ -11138,15 +11410,15 @@ And you acted toward us, Lord our God, according to all your fairness and accord
 
 **Baruch 2:28**
 
-just as you spoke by hand of your servant Moses, on the day when you commanded him to write your law before sons of Israel, saying:
+just as you spoke by hand of your servant Moses, on the day when you commanded him to write your law before the sons of Israel, saying:
 
 **Baruch 2:29**
 
-If you do not listen to my voice, surely this great, great buzzing will turn back into a small thing among the nations where I will scatter them there.
+If you do not listen to my voice, surely this great, large throng will turn back into a small thing among the nations where I will scatter them.
 
 **Baruch 2:30**
 
-For I knew that they would surely not listen to me, because they are a stiff-necked people. And they will return upon their heart in the land of their exile
+For I knew that they would surely not listen to me, because they are a stiff-necked people. And they will return to their heart in the land of their exile
 
 **Baruch 2:31**
 
@@ -11154,11 +11426,11 @@ and will know that I am the Lord their God. And I will give them a heart and ear
 
 **Baruch 2:32**
 
-and they will praise me in land of their exile and remember my name,
+and they will praise me in the land of their exile and remember my name,
 
 **Baruch 2:33**
 
-and they will turn away from their hard back and from their evil practices, because they will remember the way of their fathers who sinned before the Lord.
+and they will turn away from their stiff back and from their evil practices, because they will remember the way of their fathers who sinned before the Lord.
 
 **Baruch 2:34**
 
@@ -11196,11 +11468,11 @@ because you are the Lord our God, and we will praise you, Lord.
 
 **Baruch 3:7**
 
-Because for this you gave your fear upon our heart, to call upon your name. And we will praise you in our exile, because we turned away from our heart all unrighteousness of our fathers who sinned before you.
+Because for this you put your fear upon our heart, to call upon your name. And we will praise you in our exile, because we turned away from our heart all unrighteousness of our fathers who sinned before you.
 
 **Baruch 3:8**
 
-Behold, today we are in our exile, where you scattered us there, for reproach and for curse and for liability according to all unrighteous acts of our fathers, who withdrew from the Lord our God.
+Behold, today we are in our exile, where you scattered us, for reproach and for curse and for debt according to all unrighteous acts of our fathers, who withdrew from the Lord our God.
 
 **Baruch 3:9**
 
@@ -11240,7 +11512,7 @@ those making sport among the birds of heaven and treasuring up silver and gold, 
 
 **Baruch 3:18**
 
-those fashioning silver and being anxious, and there is no finding out of their works?
+those fashioning silver and being anxious, and there is no tracing out of their works?
 
 **Baruch 3:19**
 
@@ -11252,7 +11524,7 @@ Younger ones saw light and dwelt upon the earth, but they did not know the way o
 
 **Baruch 3:21**
 
-nor did they understand her paths, nor take hold of her; their sons came to be far from their way.
+nor did they understand her paths, nor take hold of her; their sons came to be far from her way.
 
 **Baruch 3:22**
 
@@ -11326,7 +11598,7 @@ after this she was seen upon earth and lived together among men.
 
 **Baruch 4:1**
 
-This is the book of the commandments of God and the law existing forever; all those holding her are for life, but those leaving her will die.
+This is the book of the commandments of God and the law existing forever; all those who hold her are for life, but those leaving her will die.
 
 **Baruch 4:2**
 
@@ -11370,7 +11642,7 @@ For I reared them with gladness, but I sent them away with weeping and mourning.
 
 **Baruch 4:12**
 
-Let no one rejoice over me, the widow and left by many; I was made desolate because of the sins of my children, because they turned aside from the law of God,
+Let no one rejoice over me, the widow left by many; I was made desolate because of the sins of my children, because they turned aside from the law of God,
 
 **Baruch 4:13**
 
@@ -11390,7 +11662,7 @@ and they led away the beloved ones of the widow and made the lonely one desolate
 
 **Baruch 4:17**
 
-But I, how am I able to help you?
+But I, how can I help you?
 
 **Baruch 4:18**
 
@@ -11398,7 +11670,7 @@ For the one who brought the evils upon you will deliver you from the hand of you
 
 **Baruch 4:19**
 
-Walk, children, walk, for I was left desolate.
+Go, children, go, for I was left desolate.
 
 **Baruch 4:20**
 
@@ -11430,11 +11702,11 @@ My delicate ones walked rough ways; they were taken away like a flock snatched b
 
 **Baruch 4:27**
 
-Take courage, children, and cry out to God, for there will be remembrance of you by the one who brought it.
+Take courage, children, and cry out to God, for there will be remembrance of you by the one who brought these things upon you.
 
 **Baruch 4:28**
 
-For just as your mind came to wander from God, multiply tenfold, having turned back to seek him.
+For just as your mind came to wander from God, so, having turned back, seek him tenfold.
 
 **Baruch 4:29**
 
@@ -11446,11 +11718,11 @@ Take courage, Jerusalem; the one who named you will comfort you.
 
 **Baruch 4:31**
 
-Cowardly are those who harmed you and rejoiced over your fall;
+Wretched are those who harmed you and rejoiced over your fall;
 
 **Baruch 4:32**
 
-cowardly are the cities in which your children served; cowardly is the one who received your sons.
+wretched are the cities in which your children served; wretched is the one who received your sons.
 
 **Baruch 4:33**
 
@@ -11492,15 +11764,15 @@ For your name will be called by God forever: Peace of righteousness and glory of
 
 **Baruch 5:5**
 
-Rise up, Jerusalem, and stand upon the high place, and look around toward the east, and see your children gathered from setting of sun to risings by the word of the Holy One, rejoicing in the remembrance of God.
+Rise up, Jerusalem, and stand upon the high place, and look around toward the east, and see your children gathered from the setting of the sun to its risings by the word of the Holy One, rejoicing in the remembrance of God.
 
 **Baruch 5:6**
 
-For they went out from you on foot, being led by enemies, but God brings them in to you, being lifted with glory as a throne of kingdom.
+For they went out from you on foot, being led by enemies, but God brings them in to you, being lifted with glory as on a throne of kingdom.
 
 **Baruch 5:7**
 
-For God appointed every high mountain and everlasting mound to be humbled, and ravines to be filled for leveling of the earth, so that Israel may walk securely in the glory of God.
+For God appointed every high mountain and everlasting mound to be humbled, and ravines to be filled for level ground, so that Israel may walk securely in the glory of God.
 
 **Baruch 5:8**
 
@@ -11524,15 +11796,15 @@ Therefore, when you enter into Babylon, you will be there many years and a long 
 
 **Letter of Jeremiah 1:3**
 
-But now you will see in Babylon gods of silver and gold and wood being lifted upon shoulders, showing fear to the nations.
+But now you will see in Babylon gods of silver and gold and wood being lifted upon shoulders, displaying fear to the nations.
 
 **Letter of Jeremiah 1:4**
 
-Therefore take care, lest you also, being made like the foreigners, be made like them, and fear take hold of you concerning them,
+Therefore take care, lest you also become like the foreigners, and fear of them take hold of you,
 
 **Letter of Jeremiah 1:5**
 
-when you see a crowd before and behind them worshiping them. But say in your mind, You must be worshiped, Master.
+when you see a crowd before and behind them worshiping them. But say in your mind, It is you whom one must worship, Master.
 
 **Letter of Jeremiah 1:6**
 
@@ -11540,19 +11812,19 @@ For my angel is with you, and he himself is seeking out your souls.
 
 **Letter of Jeremiah 1:7**
 
-For their tongue has been scraped smooth by a carpenter, and they are overlaid with gold and overlaid with silver, but they are false and cannot speak.
+For their tongue has been smoothed by a carpenter, and they are overlaid with gold and overlaid with silver, but they are false and cannot speak.
 
 **Letter of Jeremiah 1:8**
 
-And as for a maiden loving adornment, taking gold they prepare crowns upon heads of their gods.
+And as for a maiden who loves adornment, taking gold they prepare crowns upon heads of their gods.
 
 **Letter of Jeremiah 1:9**
 
-And there is also a time when the priests, secretly taking gold and silver from their gods, will spend it on themselves, and they will also give some from them to the prostitutes on the roof.
+And there is also a time when the priests, secretly taking gold and silver from their gods, will spend it on themselves, and they will also give some of it to the prostitutes on the roof.
 
 **Letter of Jeremiah 1:10**
 
-And they adorn them like men with garments, gods of silver and gods of gold and wood; but these are not preserved from rust and eating things.
+And they adorn them like men with garments, gods of silver and gods of gold and wood; but these are not preserved from rust and devouring things.
 
 **Letter of Jeremiah 1:11**
 
@@ -11564,7 +11836,7 @@ And he has a scepter like a man, a judge of a country, who will not kill the one
 
 **Letter of Jeremiah 1:13**
 
-And he has a dagger in his right hand and an axe, but he will not deliver himself from war and robbers.
+And he has a short sword in his right hand and an axe, but he will not deliver himself from war and robbers.
 
 **Letter of Jeremiah 1:14**
 
@@ -11580,15 +11852,15 @@ Their eyes are full of dust from the feet of those entering in.
 
 **Letter of Jeremiah 1:17**
 
-And just as for someone who has wronged a king the courts are fenced around, as for one led away to death, their priests fortify their houses with doors and bars and bolts, so that they may not be plundered by robbers.
+And just as the courts are fenced around for someone who has wronged a king, as for one led away to death, so their priests fortify their houses with doors and bars and bolts, so that they may not be plundered by robbers.
 
 **Letter of Jeremiah 1:18**
 
-They burn lamps, even more than for themselves, of which they cannot see one.
+They burn lamps, even more than for themselves, of which they cannot see even one.
 
 **Letter of Jeremiah 1:19**
 
-It is indeed like a beam from the house, but they say their hearts are licked out; when creeping things from the earth eat both them and their clothing, they do not perceive.
+It is indeed like a beam from the house, but they say their hearts are licked out; when creeping things from the earth eat both them and their clothing, they do not perceive it.
 
 **Letter of Jeremiah 1:20**
 
@@ -11604,7 +11876,7 @@ From this you will know that they are not gods. Therefore do not fear them.
 
 **Letter of Jeremiah 1:23**
 
-For the gold that lies around them for beauty, unless someone wipes off the rust, they shall surely not shine; for not even when they were being cast did they perceive.
+For the gold that lies around them for beauty, unless someone wipes off the rust, they shall surely not shine; for not even when they were being cast did they perceive anything.
 
 **Letter of Jeremiah 1:24**
 
@@ -11616,11 +11888,11 @@ Without feet they are carried upon shoulders, showing their own dishonor to men,
 
 **Letter of Jeremiah 1:26**
 
-because if it ever falls to the ground, it does not rise by them; neither if someone sets it upright will it move by itself; neither if it is tilted will it surely be straightened, but gifts are set before them as before dead people.
+because if it ever falls to the ground, it does not rise by itself; neither if someone sets it upright will it move by itself; neither if it is tilted will it surely be straightened, but gifts are set before them as before dead people.
 
 **Letter of Jeremiah 1:27**
 
-And their priests sell their sacrifices and use them up; likewise also their wives preserve some from them and will not share with poor or powerless.
+And their priests sell their sacrifices and use them up; likewise also their wives salt some of them and will not share with poor or powerless.
 
 **Letter of Jeremiah 1:28**
 
@@ -11636,7 +11908,7 @@ And in their houses the priests sit on stools, having their tunics torn and thei
 
 **Letter of Jeremiah 1:31**
 
-and they roar, shouting before their gods, like some at a funeral meal for a dead man.
+and they howl, shouting before their gods, like some at a funeral meal for a dead man.
 
 **Letter of Jeremiah 1:32**
 
@@ -11644,7 +11916,7 @@ Taking away from their clothing, the priests will clothe their wives and childre
 
 **Letter of Jeremiah 1:33**
 
-Neither if they suffer evil from someone nor if good will they be able to repay; neither can they appoint a king nor take one away.
+Whether they suffer evil from someone or good, they will not be able to repay; neither can they appoint a king nor take one away.
 
 **Letter of Jeremiah 1:34**
 
@@ -11664,7 +11936,7 @@ They shall surely not have mercy on a widow, nor do good to an orphan.
 
 **Letter of Jeremiah 1:38**
 
-The wooden things and the things overlaid with gold and overlaid with silver are likened to stones from the mountain, and those serving them will be put to shame.
+The wooden ones and the things overlaid with gold and overlaid with silver are likened to stones from the mountain, and those serving them will be put to shame.
 
 **Letter of Jeremiah 1:39**
 
@@ -11676,7 +11948,7 @@ And still, even the Chaldeans dishonor them, who, whenever they see a mute unabl
 
 **Letter of Jeremiah 1:41**
 
-and they themselves, having understood, cannot leave them, for they have no perception.
+and they themselves, though they understand, cannot leave them, for they have no perception.
 
 **Letter of Jeremiah 1:42**
 
@@ -11708,7 +11980,7 @@ For whenever war and evils come upon them, the priests deliberate among themselv
 
 **Letter of Jeremiah 1:49**
 
-How then is it not to be perceived that they are not gods, who neither save themselves from war nor from evils?
+How then can it not be perceived that they are not gods, who neither save themselves from war nor from evils?
 
 **Letter of Jeremiah 1:50**
 
@@ -11716,7 +11988,7 @@ For being wooden and overlaid with gold and overlaid with silver, after these th
 
 **Letter of Jeremiah 1:51**
 
-To whom then must it be known that they are not gods?
+By whom then must it be known that they are not gods?
 
 **Letter of Jeremiah 1:52**
 
@@ -11752,7 +12024,7 @@ For sun and moon and stars, being bright and sent out for uses, are obedient;
 
 **Letter of Jeremiah 1:60**
 
-likewise also lightning, when it appears, is easily seen, and the same also wind blows in every country.
+likewise also lightning, when it appears, is easily seen, and in the same way wind blows in every country.
 
 **Letter of Jeremiah 1:61**
 
@@ -11828,7 +12100,7 @@ Because we sinned and acted lawlessly by departing from you,
 
 **Song of the Three Young Men 1:6**
 
-and we sinned exceedingly in all things, and we did not listen to your commandments, nor keep them together, nor do just as you commanded us, so that it might go well with us.
+and we sinned exceedingly in all things, and we did not listen to your commandments, nor keep them, nor do just as you commanded us, so that it might go well with us.
 
 **Song of the Three Young Men 1:7**
 
@@ -11836,7 +12108,7 @@ And all things, as many as you brought upon us and all things, as many as you di
 
 **Song of the Three Young Men 1:8**
 
-and you handed us into hands of lawless enemies, most hateful apostates, and to an unrighteous king and most wicked beyond all the earth.
+and you handed us into the hands of lawless enemies, most hateful apostates, and to an unrighteous king and most wicked beyond all the earth.
 
 **Song of the Three Young Men 1:9**
 
@@ -11848,7 +12120,7 @@ Therefore do not hand us over to the end because of your name, and do not scatte
 
 **Song of the Three Young Men 1:11**
 
-and do not make your mercy depart from us, because of Abraham loved by you and because of Isaac your servant and Israel your holy one,
+and do not make your mercy depart from us, because of Abraham your beloved and because of Isaac your servant and Israel your holy one,
 
 **Song of the Three Young Men 1:12**
 
@@ -11860,7 +12132,7 @@ Because, Master, we were made small beyond all the nations and are humble in all
 
 **Song of the Three Young Men 1:14**
 
-and there is in this time no ruler and prophet and leader, nor whole-burnt offering nor sacrifice nor offering nor incense, nor place to make an offering before you and find mercy;
+and there is at this time no ruler and prophet and leader, nor whole-burnt offering nor sacrifice nor offering nor incense, nor place to make an offering before you and find mercy;
 
 **Song of the Three Young Men 1:15**
 
@@ -11872,7 +12144,7 @@ as with whole-burnt offerings of rams and bulls and as with ten thousands of fat
 
 **Song of the Three Young Men 1:17**
 
-And now we follow out with whole heart and fear you and seek your face.
+And now we follow after you with a whole heart and fear you and seek your face.
 
 **Song of the Three Young Men 1:18**
 
@@ -11880,7 +12152,7 @@ Do not put us to shame, but do with us according to your fairness and according 
 
 **Song of the Three Young Men 1:19**
 
-and deliver us according to your wonders and give glory to your name, Lord. And let all those showing evils to your servants be turned back in shame,
+and deliver us according to your wonders and give glory to your name, Lord. And let all those doing evils to your servants be turned back in shame,
 
 **Song of the Three Young Men 1:20**
 
@@ -11908,7 +12180,7 @@ But the angel of the Lord went down together with those around Azariah into the 
 
 **Song of the Three Young Men 1:26**
 
-and made the middle of the furnace like a wind of dew whistling through, and the fire did not touch them at all and did not grieve nor trouble them.
+and made the middle of the furnace like a dew-laden wind whistling through, and the fire did not touch them at all and did not grieve nor trouble them.
 
 **Song of the Three Young Men 1:27**
 
@@ -12060,7 +12332,7 @@ Bless the Lord, devout ones and humble in heart; hymn and highly exalt him into 
 
 **Song of the Three Young Men 1:65**
 
-Bless the Lord, Hananiah, Azariah, Mishael; hymn and highly exalt him into the ages, because he delivered us out of Hades and saved us from hand of death; he rescued us from midst of a furnace of burning flame, and from midst of fire he rescued us.
+Bless the Lord, Hananiah, Azariah, Mishael; hymn and highly exalt him into the ages, because he delivered us out of Hades and saved us from the hand of death; he rescued us from the midst of a furnace of burning flame, and from the midst of fire he rescued us.
 
 **Song of the Three Young Men 1:66**
 
@@ -12088,7 +12360,7 @@ and her parents were righteous and taught their daughter according to the law of
 
 **Susanna 1:4**
 
-And Joakim was very rich, and he had a garden adjoining his house; and the Jews were coming to him because he was more glorious than all.
+And Joakim was very rich, and he had a garden adjoining his house; and the Jews were coming to him because he was more honored than all.
 
 **Susanna 1:5**
 
@@ -12096,7 +12368,7 @@ And two elders from the people were appointed as judges in that year, concerning
 
 **Susanna 1:6**
 
-These were devoting themselves in the house of Joakim, and all those being judged were coming to them.
+These were constantly in the house of Joakim, and all those being judged were coming to them.
 
 **Susanna 1:7**
 
@@ -12104,7 +12376,7 @@ And it came to pass, when the people withdrew at midday, Susanna would enter and
 
 **Susanna 1:8**
 
-And the two elders were watching her day by day entering and walking, and they came to be in desire for her.
+And the two elders were watching her day by day entering and walking, and they came into desire for her.
 
 **Susanna 1:9**
 
@@ -12112,7 +12384,7 @@ And they twisted their own mind and turned aside their eyes so as not to look in
 
 **Susanna 1:10**
 
-And both were pierced concerning her, and they did not report their pain to one another,
+And both were wounded concerning her, and they did not report their pain to one another,
 
 **Susanna 1:11**
 
@@ -12140,7 +12412,7 @@ And no one was there except the two elders, hidden and watching her.
 
 **Susanna 1:17**
 
-And she said to the young girls, Bring me oil and soaps now, and close the doors of the garden, so that I may bathe.
+And she said to the young girls, Bring me oil and soap now, and close the doors of the garden, so that I may bathe.
 
 **Susanna 1:18**
 
@@ -12148,11 +12420,11 @@ And they did just as she said and shut the doors of the garden and went out by t
 
 **Susanna 1:19**
 
-And it came to pass when the young girls went out, the two elders rose up and ran upon her
+And it came to pass when the young girls went out, the two elders rose up and ran at her
 
 **Susanna 1:20**
 
-and said, Behold, the doors of the garden have been shut, and no one sees us, and we are in desire for you; therefore agree with us and come to be with us.
+and said, Behold, the doors of the garden have been shut, and no one sees us, and we desire you; therefore agree with us and come to be with us.
 
 **Susanna 1:21**
 
@@ -12160,11 +12432,11 @@ But if not, we will testify against you that a young man was with you and becaus
 
 **Susanna 1:22**
 
-And Susanna groaned and said, Straights are mine from every side; for if I do this, it is death for me, and if I do not do it, I will not escape your hands.
+And Susanna groaned and said, I am in straits from every side; for if I do this, it is death for me, and if I do not do it, I will not escape your hands.
 
 **Susanna 1:23**
 
-It is more choice for me, not having done it, to fall into your hands than to sin before the Lord.
+It is better for me, not having done it, to fall into your hands than to sin before the Lord.
 
 **Susanna 1:24**
 
@@ -12184,7 +12456,7 @@ But when the elders said their words, the servants were greatly ashamed, because
 
 **Susanna 1:28**
 
-And it came to pass on the next day, when the people assembled to her husband Joakim, the two elders came full of lawless intent against Susanna, to put her to death, and said before the people:
+And it came to pass on the next day, when the people assembled at her husband Joakim's house, the two elders came full of lawless intent against Susanna, to put her to death, and said before the people:
 
 **Susanna 1:29**
 
@@ -12216,7 +12488,7 @@ But she, weeping, looked up into Heaven, because her heart was trusting upon the
 
 **Susanna 1:36**
 
-And the elders said, While we were walking in the garden alone, this woman entered with two maidservants and shut the doors of the garden and released the maidservants;
+And the elders said, While we were walking in the garden alone, this woman entered with two maidservants and shut the doors of the garden and sent the maidservants away;
 
 **Susanna 1:37**
 
@@ -12224,11 +12496,11 @@ and a young man who had been hidden came to her and lay down with her.
 
 **Susanna 1:38**
 
-But we, being in the corner of the garden, seeing the lawlessness, ran upon them; and seeing them coming together,
+But we, being in the corner of the garden, seeing the lawlessness, ran at them; and seeing them coming together,
 
 **Susanna 1:39**
 
-we were not able to become masters of that one because he was stronger than we, and having opened the doors, he leaped out.
+we were not able to get mastery over that one because he was stronger than we, and having opened the doors, he leaped out.
 
 **Susanna 1:40**
 
@@ -12264,7 +12536,7 @@ And all the people turned back toward him and said, What is this word that you h
 
 **Susanna 1:48**
 
-But he, standing in the midst of them, said, Are you so foolish, sons of Israel? Without examining and without knowing the clear thing, you condemned a daughter of Israel?
+But he, standing in the midst of them, said, Are you so foolish, sons of Israel? Without examining and without knowing the clear evidence, you condemned a daughter of Israel?
 
 **Susanna 1:49**
 
@@ -12272,7 +12544,7 @@ Return to the place of judgment, for these testified falsely against her.
 
 **Susanna 1:50**
 
-And all the people returned with haste. And the elders said to him, Come, sit in the midst of us and report to us, because God has given you the rank of elder.
+And all the people returned with haste. And the elders said to him, Come, sit in the midst of us and report to us, because God has given you the honor of elder.
 
 **Susanna 1:51**
 
@@ -12280,7 +12552,7 @@ And Daniel said to them, Separate them far from one another, and I will examine 
 
 **Susanna 1:52**
 
-And when they were separated one from the other, he called one of them and said to him, O one grown old in evil days, now your sins have arrived, which you were doing formerly,
+And when they were separated one from the other, he called one of them and said to him, O one grown old in evil days, now your sins have come, which you were doing formerly,
 
 **Susanna 1:53**
 
@@ -12288,7 +12560,7 @@ judging unrighteous judgments and condemning the innocent but releasing the guil
 
 **Susanna 1:54**
 
-Now therefore, if you saw this woman, say: Under what tree did you see them conversing with one another? And he said, Under a mastic tree.
+Now therefore, if you saw this woman, say: Under what tree did you see them being together with one another? And he said, Under a mastic tree.
 
 **Susanna 1:55**
 
@@ -12300,11 +12572,11 @@ And removing him, he commanded the other to be brought near. And he said to him,
 
 **Susanna 1:57**
 
-Thus you were doing to daughters of Israel, and those, fearing, were conversing with you; but a daughter of Judah did not endure your lawlessness.
+Thus you were doing to daughters of Israel, and those, fearing, were being together with you; but a daughter of Judah did not endure your lawlessness.
 
 **Susanna 1:58**
 
-Now therefore tell me: Under what tree did you catch them conversing with one another? And he said, Under a holm oak.
+Now therefore tell me: Under what tree did you catch them being together with one another? And he said, Under a holm oak.
 
 **Susanna 1:59**
 
@@ -12316,7 +12588,7 @@ And all the congregation shouted with a great voice and blessed God, the one sav
 
 **Susanna 1:61**
 
-And they rose up against the two elders, because Daniel established from their own mouth that they had borne false witness, and they did to them in the way that they had wickedly devised against the neighbor,
+And they rose up against the two elders, because Daniel established from their own mouth that they had borne false witness, and they did to them in the way that they had wickedly devised against their neighbor,
 
 **Susanna 1:62**
 
@@ -12352,7 +12624,7 @@ And the king revered him and went each day to worship him, but Daniel worshiped 
 
 **Bel and the Dragon 1:5**
 
-And he said, Because I do not revere handmade idols, but the living God, the one who created Heaven and earth and has lordship of all flesh.
+And he said, Because I do not revere handmade idols, but the living God, the one who created Heaven and earth and has dominion of all flesh.
 
 **Bel and the Dragon 1:6**
 
@@ -12368,7 +12640,7 @@ And becoming angry, the king called his priests and said to them, Unless you tel
 
 **Bel and the Dragon 1:9**
 
-you will die. But if you show that Bel eats them, Daniel will die, because he blasphemed against Bel. And Daniel said to the king, Let it come to be according to your word.
+you will die. But if you show that Bel eats these things, Daniel will die, because he blasphemed against Bel. And Daniel said to the king, Let it come to be according to your word.
 
 **Bel and the Dragon 1:10**
 
@@ -12380,7 +12652,7 @@ And the priests of Bel said, Behold, we are going away outside; but you, king, s
 
 **Bel and the Dragon 1:12**
 
-But they were despising it, because they had made a hidden entrance under the table, and through it they were entering continually and consuming them.
+But they disregarded it, because they had made a hidden entrance under the table, and through it they were entering continually and consuming them.
 
 **Bel and the Dragon 1:13**
 
@@ -12392,7 +12664,7 @@ And Daniel ordered his young servants, and they brought ashes and spread them ov
 
 **Bel and the Dragon 1:15**
 
-But the priests came by night according to their custom, and their wives and their children, and they ate up everything and drank it out.
+But the priests came by night according to their custom, and their wives and their children, and they ate up everything and drank it up.
 
 **Bel and the Dragon 1:16**
 
@@ -12404,7 +12676,7 @@ And the king said, Are the seals intact, Daniel? And he said, Intact, king.
 
 **Bel and the Dragon 1:18**
 
-And it came to pass, as soon as he opened the doors, the king, looking upon the table, shouted with a great voice, You are great, Bel, and there is not even one deceit with you.
+And it came to pass, as soon as he opened the doors, the king, looking upon the table, shouted with a great voice, You are great, Bel, and there is no deceit with you at all.
 
 **Bel and the Dragon 1:19**
 
@@ -12416,11 +12688,11 @@ And the king said, I see tracks of men and women and children.
 
 **Bel and the Dragon 1:21**
 
-And becoming angry, the king then seized the priests and their wives and children, and they showed him the hidden doors through which they were entering and spending the things upon the table.
+And becoming angry, the king then seized the priests and their wives and children, and they showed him the hidden doors through which they were entering and consuming the things upon the table.
 
 **Bel and the Dragon 1:22**
 
-And the king killed them and gave Bel handed over to Daniel, and he tore down him and his temple.
+And the king killed them and handed Bel over to Daniel, and he tore him and his temple down.
 
 **Bel and the Dragon 1:23**
 
@@ -12432,7 +12704,7 @@ And the king said to Daniel, Will you also say that this one is bronze? Behold, 
 
 **Bel and the Dragon 1:25**
 
-And Daniel said, I will worship the Lord my God, because this one is the living God.
+And Daniel said, I will worship the Lord my God, because he is the living God.
 
 **Bel and the Dragon 1:26**
 
@@ -12440,11 +12712,11 @@ But you, king, give me authority, and I will kill the dragon without sword or ro
 
 **Bel and the Dragon 1:27**
 
-And Daniel took pitch and fat and hairs and boiled them together and made lumps and gave them into the mouth of the dragon, and after eating, the dragon burst apart. And he said, See the things you revere.
+And Daniel took pitch and fat and hair and boiled them together and made lumps and gave them into the mouth of the dragon, and after eating, the dragon burst apart. And he said, See the things you revere.
 
 **Bel and the Dragon 1:28**
 
-And it came to pass when the Babylonians heard, they were greatly indignant and turned together against the king and said, The king has become a Jew; he tore down Bel and killed the dragon and slaughtered the priests.
+And it came to pass when the Babylonians heard, they were greatly indignant and gathered together against the king and said, The king has become a Jew; he tore down Bel and killed the dragon and slaughtered the priests.
 
 **Bel and the Dragon 1:29**
 
@@ -12460,7 +12732,7 @@ And they threw him into the den of lions, and he was there six days.
 
 **Bel and the Dragon 1:32**
 
-And there were seven lions in the den, and each day two bodies and two sheep were given to them; but then it was not given to them, so that they might eat Daniel up.
+And there were seven lions in the den, and each day two carcasses and two sheep were given to them; but then it was not given to them, so that they might eat Daniel up.
 
 **Bel and the Dragon 1:33**
 
@@ -12484,7 +12756,7 @@ And Habakkuk shouted, saying, Daniel, Daniel, take the meal that God sent you.
 
 **Bel and the Dragon 1:38**
 
-And Daniel said, For you remembered me, O God, and did not forsake those loving you.
+And Daniel said, You remembered me, O God, and did not forsake those loving you.
 
 **Bel and the Dragon 1:39**
 
@@ -12508,7 +12780,7 @@ And he drew him up, but those responsible for his destruction he threw into the 
 
 **1 Maccabees 1:1**
 
-And it came to pass after Alexander son of Philip, the Macedonian, who came out from the land of Kittim, struck Darius king of Persians and Medes and reigned in his place, formerly over Greece.
+And it came to pass after Alexander son of Philip, the Macedonian, who came out from the land of Kittim, struck Darius king of Persians and Medes and reigned in his place, first over Greece.
 
 **1 Maccabees 1:2**
 
@@ -12520,15 +12792,15 @@ And he went through as far as the ends of the earth and took spoils of a multitu
 
 **1 Maccabees 1:4**
 
-And he gathered a very strong force and ruled countries and nations and tyrants, and they became tribute to him.
+And he gathered a very strong force and ruled countries and nations and tyrants, and they became tributary to him.
 
 **1 Maccabees 1:5**
 
-And after these things he fell upon the bed and knew that he was dying.
+And after these things he fell upon his bed and knew that he was dying.
 
 **1 Maccabees 1:6**
 
-And he called his servants, the glorious ones, those brought up with him from youth, and divided his kingdom to them while he was still living.
+And he called his servants, the glorious ones, those brought up with him from youth, and divided his kingdom among them while he was still living.
 
 **1 Maccabees 1:7**
 
@@ -12544,11 +12816,11 @@ And they all put on diadems after he died, and their sons after them for many ye
 
 **1 Maccabees 1:10**
 
-And from them came out a sinful root, Antiochus Epiphanes, son of King Antiochus, who had been a hostage in Rome; and he reigned in the one hundred thirty-seventh year of the kingdom of Greeks.
+And from them came out a sinful root, Antiochus Epiphanes, son of King Antiochus, who had been a hostage in Rome; and he reigned in the one hundred thirty-seventh year of the kingdom of the Greeks.
 
 **1 Maccabees 1:11**
 
-In those days lawless sons came out from Israel and persuaded many, saying, Let us go and make a covenant with the nations around us, because from the time we were separated from them, many evils found us.
+In those days lawless sons came out from Israel and persuaded many, saying, Let us go and make a covenant with the nations around us, because from the time we were separated from them, many evils have found us.
 
 **1 Maccabees 1:12**
 
@@ -12568,15 +12840,15 @@ and made uncircumcision for themselves and departed from the holy covenant and w
 
 **1 Maccabees 1:16**
 
-And the kingdom was prepared before Antiochus, and he proposed to reign over Egypt, so that he might reign over the two kingdoms.
+And the kingdom was established before Antiochus, and he proposed to reign over Egypt, so that he might reign over the two kingdoms.
 
 **1 Maccabees 1:17**
 
-And he entered into Egypt with a heavy crowd, with chariots and with elephants and with horsemen and with a great fleet,
+And he entered into Egypt with a heavy force, with chariots and with elephants and with horsemen and with a great fleet,
 
 **1 Maccabees 1:18**
 
-and they waged war against Ptolemy king of Egypt. And Ptolemy was turned away from his face and fled, and many wounded fell.
+and they waged war against Ptolemy king of Egypt. And Ptolemy turned away from before him and fled, and many wounded fell.
 
 **1 Maccabees 1:19**
 
@@ -12584,7 +12856,7 @@ And they seized the strong cities in the land of Egypt, and he took the spoils o
 
 **1 Maccabees 1:20**
 
-And Antiochus returned after striking Egypt in the one hundred forty-third year, and he went up against Israel and went up into Jerusalem with a heavy crowd.
+And Antiochus returned after striking Egypt in the one hundred forty-third year, and he went up against Israel and went up into Jerusalem with a heavy force.
 
 **1 Maccabees 1:21**
 
@@ -12592,7 +12864,7 @@ And they entered into the sanctuary in pride, and he took the golden altar and t
 
 **1 Maccabees 1:22**
 
-and the table of presentation and the libation vessels and the bowls and the golden censers and the veil and the crowns and the golden ornament before the face of the temple, and he stripped all things.
+and the table of presentation and the libation vessels and the bowls and the golden censers and the veil and the crowns and the golden ornament before the face of the temple, and he stripped everything off.
 
 **1 Maccabees 1:23**
 
@@ -12600,7 +12872,7 @@ And he took the silver and the gold and the desirable vessels, and he took the h
 
 **1 Maccabees 1:24**
 
-and taking everything, he went away into his own land. And he made slaughter and spoke great pride.
+and taking everything, he went away into his own land. And he made a slaughter and spoke great pride.
 
 **1 Maccabees 1:25**
 
@@ -12620,7 +12892,7 @@ And the earth was shaken over those dwelling in it, and all the house of Jacob p
 
 **1 Maccabees 1:29**
 
-And after two years of days the king sent a ruler of tribute into the cities of Judah, and he came into Jerusalem with a heavy crowd.
+And after two full years the king sent a ruler of tribute into the cities of Judah, and he came into Jerusalem with a heavy force.
 
 **1 Maccabees 1:30**
 
@@ -12632,7 +12904,7 @@ And he took the spoils of the city and set it on fire with fire and tore down it
 
 **1 Maccabees 1:32**
 
-And they took the women and the children captive, and they inherited the livestock.
+And they took the women and the children captive, and they took possession of the livestock.
 
 **1 Maccabees 1:33**
 
@@ -12688,7 +12960,7 @@ and to forbid whole-burnt offerings and sacrifice and libation from the sanctuar
 
 **1 Maccabees 1:46**
 
-and to defile sanctuary and holy ones,
+and to defile the sanctuary and holy things,
 
 **1 Maccabees 1:47**
 
@@ -12716,7 +12988,7 @@ And many from the people were gathered together to them, everyone who abandoned 
 
 **1 Maccabees 1:53**
 
-and put Israel in hidden places, in every place of refuge they had.
+and put Israel into hiding, in every place of refuge they had.
 
 **1 Maccabees 1:54**
 
@@ -12728,15 +13000,15 @@ and upon the doors of the houses and in the streets they were burning incense.
 
 **1 Maccabees 1:56**
 
-And the books of the law that they found, tearing them apart, they burned with fire.
+And the books of the law that they found, they tore apart and burned with fire.
 
 **1 Maccabees 1:57**
 
-And wherever a book of covenant was found with someone, and if anyone consented to the law, the judgment of the king put him to death.
+And wherever a book of the covenant was found with someone, and if anyone consented to the law, the judgment of the king put him to death.
 
 **1 Maccabees 1:58**
 
-In their strength they did thus to Israel, to those found month by month in the cities.
+By their strength they did thus to Israel, to those found month by month in the cities.
 
 **1 Maccabees 1:59**
 
@@ -12790,7 +13062,7 @@ And he saw the blasphemies that were happening in Judah and in Jerusalem,
 
 **1 Maccabees 2:7**
 
-and said, Woe to me! Why was I born for this, to see the crushing of my people and the crushing of the holy city, and to sit there when she was given into hand of enemies and the sanctuary into hand of foreigners?
+and said, Woe to me! Why was I born for this, to see the crushing of my people and the crushing of the holy city, and to sit there when she was given into the hand of enemies and the sanctuary into the hand of foreigners?
 
 **1 Maccabees 2:8**
 
@@ -12798,7 +13070,7 @@ Her temple became like a dishonored man;
 
 **1 Maccabees 2:9**
 
-the vessels of her glory were led away captive; her infants were killed in the streets, her young men by sword of enemy.
+the vessels of her glory were led away captive; her infants were killed in the streets, her young men by sword of an enemy.
 
 **1 Maccabees 2:10**
 
@@ -12814,7 +13086,7 @@ And behold, our holy things and our beauty and our glory were made desolate, and
 
 **1 Maccabees 2:13**
 
-Why still live for us?
+Why should we still live?
 
 **1 Maccabees 2:14**
 
@@ -12830,7 +13102,7 @@ And many from Israel came near to them, and Mattathias and his sons were gathere
 
 **1 Maccabees 2:17**
 
-And those from the king answered and spoke to Mattathias, saying, You are a ruler and honored and great in this city and established with sons and brothers.
+And those from the king answered and spoke to Mattathias, saying, You are a ruler and honored and great in this city and supported with sons and brothers.
 
 **1 Maccabees 2:18**
 
@@ -12846,7 +13118,7 @@ nevertheless I and my sons and my brothers will walk in the covenant of our fath
 
 **1 Maccabees 2:21**
 
-May it be far from us to abandon law and ordinances.
+May it be far from us to abandon the law and ordinances.
 
 **1 Maccabees 2:22**
 
@@ -12858,7 +13130,7 @@ And when he ceased speaking these words, a Judean man came near in the eyes of a
 
 **1 Maccabees 2:24**
 
-And Mattathias saw and was zealous, and his kidneys trembled, and he brought up wrath according to the judgment, and running, he slaughtered him upon the altar.
+And Mattathias saw and was zealous, and his kidneys trembled, and his wrath rose according to the judgment, and running, he slaughtered him upon the altar.
 
 **1 Maccabees 2:25**
 
@@ -12870,7 +13142,7 @@ And he was zealous for the law, just as Phinehas did to Zimri son of Salu.
 
 **1 Maccabees 2:27**
 
-And Mattathias cried out in the city with a great voice, saying, Everyone zealous for the law and standing by covenant, let him go out after me.
+And Mattathias cried out in the city with a great voice, saying, Everyone zealous for the law and standing by the covenant, let him go out after me.
 
 **1 Maccabees 2:28**
 
@@ -12886,7 +13158,7 @@ they and their sons and their wives and their livestock, because the evils were 
 
 **1 Maccabees 2:31**
 
-And it was reported to the men of the king and to the forces that were in Jerusalem, City of David, that men who scattered the commandment of the king had gone down into the hidden places in the wilderness.
+And it was reported to the men of the king and to the forces that were in Jerusalem, City of David, that men who set aside the commandment of the king had gone down into the hidden places in the wilderness.
 
 **1 Maccabees 2:32**
 
@@ -12902,7 +13174,7 @@ And they said, We will not come out, nor will we do the word of the king, to pro
 
 **1 Maccabees 2:35**
 
-And they hastened war against them.
+And they hastened to make war against them.
 
 **1 Maccabees 2:36**
 
@@ -12926,7 +13198,7 @@ And a man said to his neighbor, If we all do as our brothers did and do not figh
 
 **1 Maccabees 2:41**
 
-And they took counsel on that day, saying, Every man who comes against us for war on the day of the Sabbaths, let us fight opposite him, and let us surely not all die as our brothers died in the hidden places.
+And they took counsel on that day, saying, Every man who comes against us for war on the day of the Sabbaths, let us fight against him, and let us surely not all die as our brothers died in the hidden places.
 
 **1 Maccabees 2:42**
 
@@ -12954,7 +13226,7 @@ And they pursued the sons of pride, and the work prospered in their hand.
 
 **1 Maccabees 2:48**
 
-And they laid hold of the law out of hand of the nations and out of hand of the kings, and they did not give a horn to the sinner.
+And they laid hold of the law out of the hand of the nations and out of the hand of the kings, and they did not give a horn to the sinner.
 
 **1 Maccabees 2:49**
 
@@ -13006,15 +13278,15 @@ Daniel, in his simplicity, was rescued from mouth of lions.
 
 **1 Maccabees 2:61**
 
-And so consider by generation and generation that all those hoping upon him will not be weak.
+And so consider, generation by generation, that all those hoping upon him will not be weak.
 
 **1 Maccabees 2:62**
 
-And do not fear from words of a sinful man, because his glory is for dung and worms;
+And do not fear the words of a sinful man, because his glory is for dung and worms;
 
 **1 Maccabees 2:63**
 
-today he will be lifted up, and tomorrow he shall surely not be found, because he returned into his dust, and his reasoning perished.
+today he will be lifted up, and tomorrow he shall surely not be found, because he returned into his dust, and his thought perished.
 
 **1 Maccabees 2:64**
 
@@ -13026,7 +13298,7 @@ And behold, Simon your brother, I know that he is a man of counsel; listen to hi
 
 **1 Maccabees 2:66**
 
-And Judas Maccabeus, strong in power from his youth, he will be commander of the army for you and will fight the war of peoples.
+And Judas Maccabeus, strong in power from his youth, he will be commander of the army for you and will fight the war of the peoples.
 
 **1 Maccabees 2:67**
 
@@ -13068,7 +13340,7 @@ And he pursued lawless ones, searching them out, and burned those troubling his 
 
 **1 Maccabees 3:6**
 
-And the lawless were drawn in from fear of him, and all the workers of lawlessness were troubled together, and salvation prospered in his hand.
+And the lawless were drawn back from fear of him, and all the workers of lawlessness were troubled together, and salvation prospered in his hand.
 
 **1 Maccabees 3:7**
 
@@ -13076,7 +13348,7 @@ And he embittered many kings and gladdened Jacob by his works, and his memorial 
 
 **1 Maccabees 3:8**
 
-And he went through the cities of Judah and utterly destroyed ungodly ones from it and turned wrath away from Israel,
+And he went through the cities of Judah and utterly destroyed ungodly ones from them and turned wrath away from Israel,
 
 **1 Maccabees 3:9**
 
@@ -13104,7 +13376,7 @@ and he said, I will make a name for myself and be glorified in the kingdom, and 
 
 **1 Maccabees 3:15**
 
-And he added to go up; and with him went up a strong camp of ungodly ones to help him and to make vengeance among sons of Israel.
+And he continued to go up; and with him went up a strong camp of ungodly ones to help him and to make vengeance among sons of Israel.
 
 **1 Maccabees 3:16**
 
@@ -13116,7 +13388,7 @@ And when they saw the camp coming to meet them, they said to Judas, How will we 
 
 **1 Maccabees 3:18**
 
-And Judas said, It is easy for many to be shut up in hands of few, and there is no difference before the God of heaven to save by many or by few;
+And Judas said, It is easy for many to be shut up in the hands of few, and there is no difference before the God of heaven to save by many or by few;
 
 **1 Maccabees 3:19**
 
@@ -13140,7 +13412,7 @@ And when he ceased speaking, he leaped upon them suddenly, and Seron and his cam
 
 **1 Maccabees 3:24**
 
-And they pursued him in the descent of Beth-horon as far as the plain; and about eight hundred men from them fell, but the rest fled into land of Philistines.
+And they pursued him in the descent of Beth-horon as far as the plain; and about eight hundred men from them fell, but the rest fled into the land of Philistines.
 
 **1 Maccabees 3:25**
 
@@ -13148,7 +13420,7 @@ And the fear of Judas and his brothers and the terror began to fall upon the nat
 
 **1 Maccabees 3:26**
 
-And his name drew near as far as the king, and every nation was telling out the battles of Judas.
+And his name came near as far as the king, and every nation was telling out the battles of Judas.
 
 **1 Maccabees 3:27**
 
@@ -13164,7 +13436,7 @@ And he saw that the silver had failed from the treasuries and that the tributes 
 
 **1 Maccabees 3:30**
 
-And he became cautious lest he not have, as once and twice, for the expenses and the gifts that he had given before with a lavish hand; and he had abounded beyond the kings before him.
+And he became cautious lest he not have, as once and twice before, for the expenses and the gifts that he had given before with a lavish hand; and he had abounded beyond the kings before him.
 
 **1 Maccabees 3:31**
 
@@ -13200,7 +13472,7 @@ And Lysias chose Ptolemy son of Dorymenes and Nicanor and Gorgias, powerful men 
 
 **1 Maccabees 3:39**
 
-and sent with them forty thousand men and seven thousand horse to go out into land of Judah and destroy it according to the word of the king.
+and sent with them forty thousand men and seven thousand horse to go out into the land of Judah and destroy it according to the word of the king.
 
 **1 Maccabees 3:40**
 
@@ -13208,7 +13480,7 @@ And they departed with all their force and came and camped near Emmaus in the pl
 
 **1 Maccabees 3:41**
 
-And the merchants of the country heard their name and took silver and very much gold and fetters and came into the camp to take the sons of Israel as slaves. And a force of Syria and of the land of foreigners was added to them.
+And the merchants of the country heard their fame and took silver and very much gold and fetters and came into the camp to take the sons of Israel as slaves. And a force of Syria and of the land of foreigners was added to them.
 
 **1 Maccabees 3:42**
 
@@ -13306,7 +13578,7 @@ And Gorgias came into the camp of Judas by night and found no one, and he was se
 
 **1 Maccabees 4:6**
 
-And at daybreak Judas appeared in the plain with three thousand men, except they did not have coverings and swords as they wished.
+And at daybreak Judas appeared in the plain with three thousand men, only they did not have armor and swords as they wished.
 
 **1 Maccabees 4:7**
 
@@ -13314,7 +13586,7 @@ And they saw a strong camp of nations armored, and cavalry surrounding it, and t
 
 **1 Maccabees 4:8**
 
-And Judas said to the men with him, Do not fear their multitude, and do not be cowardly before their rush.
+And Judas said to the men with him, Do not fear their multitude, and do not be afraid before their rush.
 
 **1 Maccabees 4:9**
 
@@ -13326,7 +13598,7 @@ And now let us cry out to heaven, if perhaps he may have mercy on us and remembe
 
 **1 Maccabees 4:11**
 
-and all the nations will know that there is one redeeming and saving Israel.
+and all the nations will know that there is one who redeems and saves Israel.
 
 **1 Maccabees 4:12**
 
@@ -13342,7 +13614,7 @@ and they joined battle, and the nations were crushed and fled into the plain,
 
 **1 Maccabees 4:15**
 
-but all the last ones fell by sword. And they pursued them as far as Gazara and as far as the plains of Idumea and Azotus and Jamnia, and about three thousand men from them fell.
+but all the rear guard fell by sword. And they pursued them as far as Gazara and as far as the plains of Idumea and Azotus and Jamnia, and about three thousand men from them fell.
 
 **1 Maccabees 4:16**
 
@@ -13354,7 +13626,7 @@ and he said to the people, Do not desire the spoils, because war is before us,
 
 **1 Maccabees 4:18**
 
-and Gorgias and the force are in the mountain near us. But now stand before our enemies and fight them, and after these things take the spoils with boldness.
+and Gorgias and the force are on the mountain near us. But now stand before our enemies and fight them, and after these things take the spoils with boldness.
 
 **1 Maccabees 4:19**
 
@@ -13366,11 +13638,11 @@ And he saw that they had been turned to flight and were setting the camp on fire
 
 **1 Maccabees 4:21**
 
-But those perceiving these things became very cowardly; and perceiving also the camp of Judas in the plain ready for battle line,
+But those perceiving these things became very afraid; and perceiving also the camp of Judas in the plain ready for battle line,
 
 **1 Maccabees 4:22**
 
-they all fled into land of foreigners.
+they all fled into the land of foreigners.
 
 **1 Maccabees 4:23**
 
@@ -13402,11 +13674,11 @@ And they came into Idumea and camped in Bethsura, and Judas met them with ten th
 
 **1 Maccabees 4:30**
 
-And he saw the strong camp and prayed and said, Blessed are you, Savior of Israel, who crushed the rush of the mighty one by hand of your servant David and handed the camp of the foreigners into hands of Jonathan son of Saul and the one carrying his gear.
+And he saw the strong camp and prayed and said, Blessed are you, Savior of Israel, who crushed the rush of the mighty one by hand of your servant David and handed the camp of the foreigners into the hands of Jonathan son of Saul and the one carrying his gear.
 
 **1 Maccabees 4:31**
 
-So shut up this camp in hand of your people Israel, and let them be ashamed in their force and their horse;
+So shut up this camp in the hand of your people Israel, and let them be ashamed in their force and their horse;
 
 **1 Maccabees 4:32**
 
@@ -13422,7 +13694,7 @@ And they engaged one another, and about five thousand men from the camp of Lysia
 
 **1 Maccabees 4:35**
 
-And when Lysias saw the rout that had happened to his own array, and the courage that had happened to Judas's men, and how they were ready either to live or to die nobly, he departed to Antioch and enlisted foreigners. And having made the army that had come to be more numerous, he planned to return again into Judea.
+And when Lysias saw the rout that had happened to his own array, and the courage of Judas's men, and how they were ready either to live or to die nobly, he departed to Antioch and enlisted foreigners. And having made the army that had come to be more numerous, he planned to return again into Judea.
 
 **1 Maccabees 4:36**
 
@@ -13442,7 +13714,7 @@ And they tore their garments and beat themselves with a great beating and put as
 
 **1 Maccabees 4:40**
 
-and they fell upon face upon the ground and trumpeted with the trumpets of signals and shouted into heaven.
+and they fell upon their faces upon the ground and trumpeted with the trumpets of signals and shouted into heaven.
 
 **1 Maccabees 4:41**
 
@@ -13450,7 +13722,7 @@ Then Judas ordered men to fight those in the citadel until he should cleanse the
 
 **1 Maccabees 4:42**
 
-And he chose blameless priests, willing ones of the law,
+And he chose blameless priests, those willing for the law,
 
 **1 Maccabees 4:43**
 
@@ -13462,7 +13734,7 @@ And they took counsel concerning the altar of whole-burnt offering that had been
 
 **1 Maccabees 4:45**
 
-And good counsel fell upon them to tear it down, lest it become a reproach to them because the nations defiled it. And they tore down the altar.
+And good counsel came to them to tear it down, lest it become a reproach to them because the nations defiled it. And they tore down the altar.
 
 **1 Maccabees 4:46**
 
@@ -13478,7 +13750,7 @@ And they built the holy things and the things inside the house, and they sanctif
 
 **1 Maccabees 4:49**
 
-And they made new holy vessels and brought the lampstand and the altar of incenses and the table into the temple.
+And they made new holy vessels and brought the lampstand and the incense altar and the table into the temple.
 
 **1 Maccabees 4:50**
 
@@ -13514,7 +13786,7 @@ And they adorned the front of the temple with golden crowns and small shields, a
 
 **1 Maccabees 4:58**
 
-And very great gladness came to be among the people, and reproach of nations was turned away.
+And very great gladness came to be among the people, and reproach of the nations was turned away.
 
 **1 Maccabees 4:59**
 
@@ -13540,7 +13812,7 @@ that they took counsel to take away the race of Jacob, the ones who were in thei
 
 **1 Maccabees 5:3**
 
-And Judas fought against the sons of Esau in Idumea, in Akrabattene, because they were sitting around Israel, and he struck them with a great blow and checked them and took their spoils.
+And Judas fought against the sons of Esau in Idumea, in Akrabattene, because they were surrounding Israel, and he struck them with a great blow and checked them and took their spoils.
 
 **1 Maccabees 5:4**
 
@@ -13560,7 +13832,7 @@ And he joined many battles against them, and they were crushed before his face, 
 
 **1 Maccabees 5:8**
 
-And he seized Jazer beforehand, and her daughters, and returned into Judea.
+And he seized Jazer, and her daughters, and returned into Judea.
 
 **1 Maccabees 5:9**
 
@@ -13588,7 +13860,7 @@ While the letters were still being read, behold, other messengers came from Gali
 
 **1 Maccabees 5:15**
 
-that they have been gathered against them from Ptolemais and Tyre and Sidon and all Galilee of foreigners, to consume us.
+that those from Ptolemais and Tyre and Sidon and all Galilee of foreigners had been gathered against them, to consume us.
 
 **1 Maccabees 5:16**
 
@@ -13668,11 +13940,11 @@ And the camp of Timothy recognized that he was Maccabeus, and they fled from bef
 
 **1 Maccabees 5:35**
 
-And he turned aside to Maapha and fought against it and seized it beforehand, and killed every male of it and took its spoils and burned it with fire.
+And he turned aside to Maapha and fought against it and seized it, and killed every male of it and took its spoils and burned it with fire.
 
 **1 Maccabees 5:36**
 
-From there he departed and seized Chasphon, Maked, Bosor, and the remaining cities of Gilead beforehand.
+From there he departed and seized Chasphon, Maked, Bosor, and the remaining cities of Gilead.
 
 **1 Maccabees 5:37**
 
@@ -13688,11 +13960,11 @@ and they have hired Arabs as help for themselves, and they have camped beyond th
 
 **1 Maccabees 5:40**
 
-And Timothy said to the rulers of his force, when Judas and his camp drew near to the water torrent, If he crosses over to us first, we will not be able to withstand him, because he will surely be able against us;
+And Timothy said to the rulers of his force, when Judas and his camp drew near to the water torrent, If he crosses over to us first, we will not be able to withstand him, because he will surely prevail against us;
 
 **1 Maccabees 5:41**
 
-but if he becomes cowardly and camps beyond the river, we will cross over to him and be able against him.
+but if he is afraid and camps beyond the river, we will cross over to him and prevail against him.
 
 **1 Maccabees 5:42**
 
@@ -13704,7 +13976,7 @@ And he crossed over against them first, and all the people behind him, and all t
 
 **1 Maccabees 5:44**
 
-And they seized the city beforehand and burned the sacred precinct with fire, with all those in it, and Carnaim was routed, and they could no longer withstand before the face of Judas.
+And they seized the city and burned the sacred precinct with fire, with all those in it, and Carnaim was routed, and they could no longer withstand before the face of Judas.
 
 **1 Maccabees 5:45**
 
@@ -13720,7 +13992,7 @@ And those from the city shut them out and blocked the gates with stones.
 
 **1 Maccabees 5:48**
 
-And Judas sent to them with peaceful words, saying, We will pass through your land to depart into our land, and no one will do evil to you; we will only pass through on foot. And they were not willing to open to him.
+And Judas sent to them with peaceful words, saying, We will pass through your land to go into our land, and no one will do evil to you; we will only pass through on foot. And they were not willing to open to him.
 
 **1 Maccabees 5:49**
 
@@ -13728,7 +14000,7 @@ And Judas commanded proclamation to be made in the camp, that each one should ca
 
 **1 Maccabees 5:50**
 
-And the men of the force camped, and they fought against the city that whole day and that whole night, and the city was handed over into his hands.
+And the men of the force camped, and they fought against the city that whole day and that whole night, and the city was handed over into his hand.
 
 **1 Maccabees 5:51**
 
@@ -13740,7 +14012,7 @@ And they crossed over the Jordan into the great plain opposite Bethshan.
 
 **1 Maccabees 5:53**
 
-And Judas was gathering together those who lagged behind and encouraging the people through all the way, until they came into the land of Judah.
+And Judas was gathering together those who lagged behind and encouraging the people all along the way, until they came into the land of Judah.
 
 **1 Maccabees 5:54**
 
@@ -13756,7 +14028,7 @@ Joseph son of Zechariah and Azariah, rulers of the force, heard of the brave dee
 
 **1 Maccabees 5:57**
 
-and he said, Let us also make a name for ourselves, and let us go fight against the nations around us.
+and they said, Let us also make a name for ourselves, and let us go fight against the nations around us.
 
 **1 Maccabees 5:58**
 
@@ -13772,7 +14044,7 @@ And Joseph and Azariah were routed and pursued as far as the borders of Judea, a
 
 **1 Maccabees 5:61**
 
-And a great rout happened among the people of Israel, because they did not listen to Judas and his brothers, supposing to act bravely.
+And a great rout happened among the people of Israel, because they did not listen to Judas and his brothers, supposing they would act bravely.
 
 **1 Maccabees 5:62**
 
@@ -13792,7 +14064,7 @@ And Judas and his brothers went out and fought the sons of Esau in the land towa
 
 **1 Maccabees 5:66**
 
-And he departed to go into land of foreigners. And he was passing through Samaria.
+And he departed to go into the land of foreigners. And he was passing through Samaria.
 
 **1 Maccabees 5:67**
 
@@ -13846,7 +14118,7 @@ And he called all his friends and said to them, Sleep departs from my eyes, and 
 
 **1 Maccabees 6:11**
 
-and I said in my heart, To what affliction have I come, and to what great storm in which I now am? For I was useful and beloved in my authority.
+and I said in my heart, To what affliction have I come, and to what great storm in which I now am? For I was kind and beloved in my authority.
 
 **1 Maccabees 6:12**
 
@@ -13874,7 +14146,7 @@ And Lysias recognized that the king had died, and he set Antiochus his son to re
 
 **1 Maccabees 6:18**
 
-And those from the citadel were shutting Israel in around the holy things and seeking evils continually, and they were a support to the nations.
+And those from the citadel were hemming Israel in around the holy things and seeking evils continually, and they were a support to the nations.
 
 **1 Maccabees 6:19**
 
@@ -13890,7 +14162,7 @@ And some from them came out from the enclosure, and some of the impious from Isr
 
 **1 Maccabees 6:22**
 
-and they went to the king and said, Until when will you not make judgment and avenge our brothers?
+and they went to the king and said, Until when will you not execute judgment and avenge our brothers?
 
 **1 Maccabees 6:23**
 
@@ -13922,7 +14194,7 @@ And hired forces came to him from other kingdoms and from islands of seas.
 
 **1 Maccabees 6:30**
 
-And the number of his forces was one hundred thousand foot soldiers and twenty thousand horse, and thirty-two elephants knowing war.
+And the number of his forces was one hundred thousand foot soldiers and twenty thousand horse, and thirty-two elephants trained in war.
 
 **1 Maccabees 6:31**
 
@@ -13950,7 +14222,7 @@ These were ready beforehand; wherever the beast was, they were, and wherever it 
 
 **1 Maccabees 6:37**
 
-And strong wooden towers covered over them were upon each beast, fastened upon it with devices, and on each were thirty-two men of force, the ones fighting upon them, and its Indian.
+And strong wooden towers covered over them were upon each beast, fastened upon it with devices, and on each were thirty-two strong men, the ones fighting upon them, and its Indian driver.
 
 **1 Maccabees 6:38**
 
@@ -13998,7 +14270,7 @@ But those from the king's camp were going up to meet them at Jerusalem, and the 
 
 **1 Maccabees 6:49**
 
-And he made peace with those from Bethsura, and they came out from the city, because they did not have food there to be shut up in it, because it was sabbath for the land.
+And he made peace with those from Bethsura, and they came out from the city, because they did not have food there to be shut up in it, because it was a sabbath year for the land.
 
 **1 Maccabees 6:50**
 
@@ -14038,7 +14310,7 @@ Now therefore let us give a right hand to these men and make peace with them and
 
 **1 Maccabees 6:59**
 
-and let us establish for them that they should walk by their laws as formerly. For because of their laws, which we scattered, they became angry and did all these things.
+and let us establish for them that they should walk by their laws as formerly. For because of their laws, which we set aside, they became angry and did all these things.
 
 **1 Maccabees 6:60**
 
@@ -14064,7 +14336,7 @@ In the one hundred fifty-first year, Demetrius son of Seleucus went out from Rom
 
 **1 Maccabees 7:2**
 
-And it came to pass, as he was entering the house of the kingdom of his fathers, the forces seized Antiochus and Lysias to bring them to him.
+And it came to pass, as he was entering the royal house of his fathers, the forces seized Antiochus and Lysias to bring them to him.
 
 **1 Maccabees 7:3**
 
@@ -14104,7 +14376,7 @@ And they did not pay attention to their words, for they saw that they had come w
 
 **1 Maccabees 7:12**
 
-And a gathering of scribes gathered together to Alcimus and Bacchides, to seek just things,
+And a gathering of scribes gathered together to Alcimus and Bacchides, to seek justice,
 
 **1 Maccabees 7:13**
 
@@ -14128,7 +14400,7 @@ The flesh of your holy ones and their blood they poured out around Jerusalem, an
 
 **1 Maccabees 7:18**
 
-And fear and trembling of them fell upon all the people, because they said, There is no truth and judgment in them, for they transgressed the agreement and the oath that they swore.
+And fear and trembling because of them fell upon all the people, because they said, There is no truth and judgment in them, for they transgressed the agreement and the oath that they swore.
 
 **1 Maccabees 7:19**
 
@@ -14176,7 +14448,7 @@ And he came to Judas, and they greeted one another peaceably, and the enemies we
 
 **1 Maccabees 7:30**
 
-And the matter became known to Judas, that he had come against him with deceit, and he was alarmed at him and was not willing any longer to see his face.
+And the matter became known to Judas, that he had come against him with deceit, and he was afraid of him and was not willing any longer to see his face.
 
 **1 Maccabees 7:31**
 
@@ -14192,7 +14464,7 @@ And after these words Nicanor went up to Mount Zion. And some of the priests fro
 
 **1 Maccabees 7:34**
 
-And he sneered at them and laughed them down and defiled them and spoke arrogantly.
+And he sneered at them and mocked them and defiled them and spoke arrogantly.
 
 **1 Maccabees 7:35**
 
@@ -14220,7 +14492,7 @@ And Judas camped in Adasa with three thousand men. And Judas prayed and said,
 
 **1 Maccabees 7:41**
 
-Those from the king of the Assyrians, when they blasphemed, your angel went out, Lord, and struck one hundred eighty-five thousand among them.
+When those from the king of the Assyrians blasphemed, your angel went out, Lord, and struck one hundred eighty-five thousand among them.
 
 **1 Maccabees 7:42**
 
@@ -14262,7 +14534,7 @@ And the land of Judah had quiet for a few days.
 
 **1 Maccabees 8:1**
 
-And Judas heard the name of the Romans, that they are mighty in strength, and that they are well-pleased with all who join themselves to them, and as many as come to them, they establish friendship with them,
+And Judas heard the fame of the Romans, that they are mighty in strength, and that they are well-pleased with all who join themselves to them, and as many as come to them, they establish friendship with them,
 
 **1 Maccabees 8:2**
 
@@ -14274,7 +14546,7 @@ and what things they did in the country of Spain, to prevail over the mines of s
 
 **1 Maccabees 8:4**
 
-And they prevailed over the whole place by their counsel and long-suffering, though the place was very far away from them, and over the kings who came against them from the end of the earth, until they crushed them and struck a great blow among them, and the rest give them tribute year by year.
+And they prevailed over the whole region by their counsel and long-suffering, though the place was very far away from them, and over the kings who came against them from the end of the earth, until they crushed them and struck a great blow among them, and the rest give them tribute year by year.
 
 **1 Maccabees 8:5**
 
@@ -14310,7 +14582,7 @@ But with their friends and those relying upon them they preserved friendship, an
 
 **1 Maccabees 8:13**
 
-And as many as they wish to help and to reign, these reign; but whom they wish, they remove. And they were exalted greatly.
+And as many as they wish to help and make reign, these reign; but whom they wish, they remove. And they were exalted greatly.
 
 **1 Maccabees 8:14**
 
@@ -14322,7 +14594,7 @@ And they made a council chamber for themselves, and day by day three hundred twe
 
 **1 Maccabees 8:16**
 
-And they entrust their rule to one man each year, and to rule all their land, and all listen to the one, and there is no envy nor jealousy among them.
+And they entrust their rule to one man each year, to rule all their land, and all listen to the one, and there is no envy nor jealousy among them.
 
 **1 Maccabees 8:17**
 
@@ -14350,7 +14622,7 @@ And this is the copy of the letter that was copied on bronze tablets and sent to
 
 **1 Maccabees 8:23**
 
-May it go well with the Romans and with the nation of Jews at sea and upon dry land forever, and may sword and enemy be far from them.
+May it go well with the Romans and with the nation of the Jews at sea and upon dry land forever, and may sword and enemy be far from them.
 
 **1 Maccabees 8:24**
 
@@ -14366,11 +14638,15 @@ And to those warring against them they will not give nor supply grain, weapons, 
 
 **1 Maccabees 8:27**
 
-And according to the same things, if war first happens to the nation of Jews, the Romans will ally from the soul, as the occasion may prescribe to them.
+And according to the same things, if war first happens to the nation of the Jews, the Romans will ally from the soul, as the occasion may prescribe to them.
 
 **1 Maccabees 8:28**
 
-And grain, weapons, silver, or ships will not be given to those allying against them, as seemed good to Rome; and they will keep their obligations, and not with deceit. [29] According to these words the Romans established terms with the people of the Jews.
+And grain, weapons, silver, or ships will not be given to those allying against them, as seemed good to Rome; and they will keep their obligations, and not with deceit.
+
+**1 Maccabees 8:29**
+
+According to these words the Romans established terms with the people of the Jews.
 
 **1 Maccabees 8:30**
 
@@ -14382,17 +14658,17 @@ And concerning the evils that King Demetrius is completing against them, we have
 
 **1 Maccabees 8:32**
 
-If therefore they still petition against you, we will make judgment for them and war against you by sea and by dry land.
+If therefore they still petition against you, we will execute judgment for them and war against you by sea and by dry land.
 
 ### Chapter 9
 
 **1 Maccabees 9:1**
 
-And Demetrius heard that Nicanor and his forces had fallen in war, and he again added to send Bacchides and Alcimus into the land of Judah, and the right wing with them.
+And Demetrius heard that Nicanor and his forces had fallen in war, and he again sent Bacchides and Alcimus into the land of Judah, and the right wing with them.
 
 **1 Maccabees 9:2**
 
-And they went the way to Galgala and camped against Maisaloth, which is in Arbela, and seized it beforehand and destroyed many souls of men.
+And they went the way to Galgala and camped against Maisaloth, which is in Arbela, and seized it and destroyed many souls of men.
 
 **1 Maccabees 9:3**
 
@@ -14420,11 +14696,11 @@ and he was undone and said to those who were left, Let us arise and go up agains
 
 **1 Maccabees 9:9**
 
-And they were turning him back, saying, We surely will not be able; but rather let us save our own souls now, and return with our brothers and fight against them. But we are few.
+And they were trying to turn him back, saying, We surely will not be able; but rather let us save our own souls now, and return with our brothers and fight against them. But we are few.
 
 **1 Maccabees 9:10**
 
-And Judas said, May it not happen to me to do this thing, to flee from them. And if our time has drawn near, then let us die in manliness for the sake of our brothers, and let us not leave an occasion against our glory.
+And Judas said, May it not happen to me to do this thing, to flee from them. And if our time has drawn near, then let us die manfully for the sake of our brothers, and let us not leave an occasion against our glory.
 
 **1 Maccabees 9:11**
 
@@ -14440,7 +14716,7 @@ and those with Judas also trumpeted with the trumpets; and the earth was shaken 
 
 **1 Maccabees 9:14**
 
-And Judas saw that Bacchides and the solid strength of the camp were on the right, and all the good-souled in heart came together with him,
+And Judas saw that Bacchides and the solid strength of the camp were on the right, and all the brave in heart came together with him,
 
 **1 Maccabees 9:15**
 
@@ -14448,7 +14724,7 @@ and the right wing was crushed by them, and he pursued after them as far as Moun
 
 **1 Maccabees 9:16**
 
-And those in the left wing saw that the right wing had been crushed, and they turned on the footsteps of Judas and those with him from behind.
+And those in the left wing saw that the right wing had been crushed, and they followed the footsteps of Judas and those with him from behind.
 
 **1 Maccabees 9:17**
 
@@ -14476,11 +14752,11 @@ And the rest of the words of Judas and of the wars and of the brave deeds that h
 
 **1 Maccabees 9:23**
 
-And it came to pass, after the death of Judas, the lawless peered out in all the borders of Israel, and all those working injustice sprang up.
+And it came to pass, after the death of Judas, the lawless emerged in all the borders of Israel, and all those working injustice sprang up.
 
 **1 Maccabees 9:24**
 
-In those days there came to be a very great famine, and the country deserted with them.
+In those days there came to be a very great famine, and the country deserted to them.
 
 **1 Maccabees 9:25**
 
@@ -14560,7 +14836,7 @@ And Bacchides heard and came on the day of the Sabbaths as far as the banks of t
 
 **1 Maccabees 9:44**
 
-And Jonathan said to those with him, Let us arise now and fight for our souls, for today is not like yesterday and the third day.
+And Jonathan said to those with him, Let us arise now and fight for our souls, for today is not like yesterday and the day before.
 
 **1 Maccabees 9:45**
 
@@ -14664,7 +14940,7 @@ And he was angry with wrath against the lawless men who had counseled him to com
 
 **1 Maccabees 9:70**
 
-And Jonathan recognized it and sent ambassadors to him to arrange peace with him and to return the captivity to them.
+And Jonathan recognized it and sent ambassadors to him to arrange peace with him and to return the captives to them.
 
 **1 Maccabees 9:71**
 
@@ -14672,7 +14948,7 @@ And he accepted and did according to his words and swore to him not to seek evil
 
 **1 Maccabees 9:72**
 
-And he returned to him the captivity that he had taken captive formerly from the land of Judah, and turning back, he went away into his own land and did not again add to come into their borders.
+And he returned to him the captives that he had taken captive formerly from the land of Judah, and turning back, he went away into his own land and did not again add to come into their borders.
 
 **1 Maccabees 9:73**
 
@@ -14694,11 +14970,11 @@ And Demetrius sent letters to Jonathan with peaceful words, so as to magnify him
 
 **1 Maccabees 10:4**
 
-For he said, Let us be first to set peace with him, before he sets peace with Alexander against us.
+For he said, Let us be first to make peace with him, before he makes peace with Alexander against us.
 
 **1 Maccabees 10:5**
 
-For he will remember all the evils that we completed against him and against his brothers and against his nation.
+For he will remember all the evils that we did against him and against his brothers and against his nation.
 
 **1 Maccabees 10:6**
 
@@ -14826,7 +15102,7 @@ And let up to thirty thousand men from the Jews be enrolled into the forces of t
 
 **1 Maccabees 10:37**
 
-And some of them will be appointed in the great fortresses of the king, and some of them will be appointed over needs of the kingdom that are matters of trust. And those over them and their rulers shall be from them, and let them walk by their laws, just as the king commanded in the land of Judah.
+And some of them will be appointed in the great fortresses of the king, and some of them will be appointed over trusted affairs of the kingdom. And those over them and their rulers shall be from them, and let them walk by their laws, just as the king commanded in the land of Judah.
 
 **1 Maccabees 10:38**
 
@@ -14930,7 +15206,7 @@ And the king commanded, and they stripped Jonathan of his garments and clothed h
 
 **1 Maccabees 10:63**
 
-And the king seated him with himself and said to his rulers, Go out with him into the middle of the city and proclaim that no one should petition against him concerning any matter, and that no one should trouble him concerning any word.
+And the king seated him beside himself and said to his rulers, Go out with him into the middle of the city and proclaim that no one should petition against him concerning any matter, and that no one should trouble him concerning any word.
 
 **1 Maccabees 10:64**
 
@@ -14962,7 +15238,7 @@ You alone lift yourself up against us, and I have become a laughingstock and a r
 
 **1 Maccabees 10:71**
 
-Now therefore, if you trust in your forces, come down to us into the plain, and let us compare ourselves there, because with me is the force of the cities.
+Now therefore, if you trust in your forces, come down to us into the plain, and let us test ourselves there, because with me is the force of the cities.
 
 **1 Maccabees 10:72**
 
@@ -15006,11 +15282,11 @@ But the people stood just as Jonathan commanded, and their horses grew weary.
 
 **1 Maccabees 10:82**
 
-And Simon drew out his force and joined against the battle line, for the horse was undone, and they were crushed by him and fled.
+And Simon drew out his force and joined against the battle line, for the cavalry was undone, and they were crushed by him and fled.
 
 **1 Maccabees 10:83**
 
-And the horse was scattered in the plain, and they fled into Azotus and entered Beth-dagon, their idol-shrine, to be saved.
+And the cavalry was scattered in the plain, and they fled into Azotus and entered Beth-dagon, their idol-shrine, to be saved.
 
 **1 Maccabees 10:84**
 
@@ -15030,7 +15306,7 @@ And Jonathan returned to Jerusalem with those with him, having many spoils.
 
 **1 Maccabees 10:88**
 
-And it came to pass, when King Alexander heard these words, he added to glorify Jonathan.
+And it came to pass, when King Alexander heard these words, he added still more glory to Jonathan.
 
 **1 Maccabees 10:89**
 
@@ -15068,7 +15344,7 @@ And Jonathan went with the king as far as the river called Eleutherus and return
 
 **1 Maccabees 11:8**
 
-But King Ptolemy became lord of the coastal cities as far as Seleucia by the sea and was reasoning evil thoughts concerning Alexander.
+But King Ptolemy became lord of the coastal cities as far as Seleucia by the sea and was plotting evil thoughts concerning Alexander.
 
 **1 Maccabees 11:9**
 
@@ -15156,7 +15432,7 @@ And the king was well-pleased and wrote letters to Jonathan concerning all these
 
 **1 Maccabees 11:30**
 
-King Demetrius to Jonathan the brother, greeting, and to the nation of Jews.
+King Demetrius to Jonathan the brother, greeting, and to the nation of the Jews.
 
 **1 Maccabees 11:31**
 
@@ -15196,7 +15472,7 @@ But Tryphon was formerly one of those with Alexander, and he saw that all the fo
 
 **1 Maccabees 11:40**
 
-And he stayed near him so that he might hand him over to him, so that he might reign instead of his father. And he reported to him all that Demetrius had completed and the hostility with which his forces were hostile to him, and he remained there many days.
+And he kept close to him so that he might hand him over to him, so that he might reign instead of his father. And he reported to him all that Demetrius had completed and the hostility with which his forces were hostile to him, and he remained there many days.
 
 **1 Maccabees 11:41**
 
@@ -15224,7 +15500,7 @@ And the king fled into the court, and those from the city seized the passages of
 
 **1 Maccabees 11:47**
 
-And the king called the Jews for help, and they gathered together to him all at once and were scattered in the city all at once, and they killed about one hundred thousand in the city on that day.
+And the king called the Jews for help, and they gathered together to him all at once and spread through the city all at once, and they killed about one hundred thousand in the city on that day.
 
 **1 Maccabees 11:48**
 
@@ -15248,7 +15524,7 @@ And King Demetrius sat upon the throne of his kingdom, and the land had quiet be
 
 **1 Maccabees 11:53**
 
-And he lied in all that he had said, and was alienated from Jonathan, and did not repay according to the good will with which he had repaid him, and he afflicted him greatly.
+And he lied in all that he had said, and was alienated from Jonathan, and did not repay according to the goodwill that Jonathan had shown him, and he afflicted him greatly.
 
 **1 Maccabees 11:54**
 
@@ -15438,11 +15714,11 @@ And he departed from Jerusalem and met them in the country of Hamath, for he did
 
 **1 Maccabees 12:26**
 
-And he sent spies into their camp, and they returned and reported to him that they were arranged this way to fall upon them by night.
+And he sent spies into their camp, and they returned and reported to him that they were arranged to fall upon them by night.
 
 **1 Maccabees 12:27**
 
-But when the sun set, Jonathan commanded those with him to stay awake and be upon their weapons and be prepared for war through the whole night, and he sent out advance guards around the camp.
+But when the sun set, Jonathan commanded those with him to stay awake and stand by their weapons and be prepared for war through the whole night, and he sent out advance guards around the camp.
 
 **1 Maccabees 12:28**
 
@@ -15466,7 +15742,7 @@ And breaking camp, he came to Damascus and passed through all the country.
 
 **1 Maccabees 12:33**
 
-And Simon went out and passed through as far as Ashkelon and the nearby fortresses, and he turned aside to Joppa and seized it beforehand,
+And Simon went out and passed through as far as Ashkelon and the nearby fortresses, and he turned aside to Joppa and seized it,
 
 **1 Maccabees 12:34**
 
@@ -15522,7 +15798,7 @@ And trusting him, he did as he said and sent the forces away, and they went away
 
 **1 Maccabees 12:47**
 
-But he left with himself three thousand men, of whom he left two thousand in Galilee, and one thousand came with him.
+But he kept with himself three thousand men, of whom he left two thousand in Galilee, and one thousand came with him.
 
 **1 Maccabees 12:48**
 
@@ -15538,7 +15814,7 @@ And they recognized that Jonathan had been seized and had perished, and those wi
 
 **1 Maccabees 12:51**
 
-And those pursuing saw that it was about their soul, and they returned.
+And those pursuing saw that it was about their lives, and they returned.
 
 **1 Maccabees 12:52**
 
@@ -15546,13 +15822,13 @@ And they all came with peace into the land of Judah, and they mourned Jonathan a
 
 **1 Maccabees 12:53**
 
-And all the nations around them sought to rub them out, for they said, They have no ruler and helper. Now therefore let us war against them and remove their memorial from among men.
+And all the nations around them sought to wipe them out, for they said, They have no ruler and helper. Now therefore let us war against them and remove their memorial from among men.
 
 ### Chapter 13
 
 **1 Maccabees 13:1**
 
-And Simon heard that Tryphon had gathered a great force to come into the land of Judah and rub it out.
+And Simon heard that Tryphon had gathered a great force to come into the land of Judah and wipe it out.
 
 **1 Maccabees 13:2**
 
@@ -15572,7 +15848,7 @@ And now may it not happen to me to spare my soul in any time of affliction, for 
 
 **1 Maccabees 13:6**
 
-But I will make vengeance for my nation and for the holy things and for our wives and children, because all the nations have gathered together to rub us out for the sake of enmity.
+But I will make vengeance for my nation and for the holy things and for our wives and children, because all the nations have gathered together to wipe us out for the sake of enmity.
 
 **1 Maccabees 13:7**
 
@@ -15628,7 +15904,7 @@ And he sent the young children and the one hundred talents, and he lied and did 
 
 **1 Maccabees 13:20**
 
-And after these things Tryphon came to set foot in the country and rub it out, and he went around by the way to Adora. And Simon and his camp were moving opposite him in every place wherever he went.
+And after these things Tryphon came to set foot in the country and wipe it out, and he went around by the way to Adora. And Simon and his camp were moving opposite him in every place wherever he went.
 
 **1 Maccabees 13:21**
 
@@ -15672,7 +15948,7 @@ This is the tomb that he made in Modein, until this day.
 
 **1 Maccabees 13:31**
 
-But Tryphon was going with deceit with Antiochus the younger king, and he killed him,
+But Tryphon was dealing deceitfully with Antiochus the younger king, and he killed him,
 
 **1 Maccabees 13:32**
 
@@ -15708,7 +15984,11 @@ And we remit errors and sins until this day, and the crown that you owed; and if
 
 **1 Maccabees 13:40**
 
-And if any of you are suitable to be enrolled among those around us, let them be enrolled, and let peace come to be between us. [41] In the one hundred seventieth year, the yoke of the nations was lifted from Israel,
+And if any of you are suitable to be enrolled among those around us, let them be enrolled, and let peace come to be between us.
+
+**1 Maccabees 13:41**
+
+In the one hundred seventieth year, the yoke of the nations was lifted from Israel,
 
 **1 Maccabees 13:42**
 
@@ -15798,7 +16078,7 @@ Elders sat in the squares; all were speaking together about good things, and the
 
 **1 Maccabees 14:10**
 
-He supplied the cities with foods and set them with equipment of fortification, until the name of his glory was named as far as the end of the earth.
+He supplied the cities with foods and equipped them with equipment of fortification, until the name of his glory was named as far as the end of the earth.
 
 **1 Maccabees 14:11**
 
@@ -15822,7 +16102,7 @@ He glorified the holy things and multiplied the vessels of the holy things.
 
 **1 Maccabees 14:16**
 
-And it was heard in Rome that Jonathan had died, and as far as Sparta, and they were deeply grieved.
+And it was heard in Rome, and as far as Sparta, that Jonathan had died, and they were deeply grieved.
 
 **1 Maccabees 14:17**
 
@@ -15850,7 +16130,11 @@ And we recorded the things spoken by them in the counsels of the people thus: Nu
 
 **1 Maccabees 14:23**
 
-And it pleased the people to receive the men gloriously and to set the copy of their words in the public books appointed for the people, so that the people of the Spartans may have a memorial. And we wrote a copy of these things to Simon the high priest. [24] And after these things Simon sent Numenius to Rome, holding a great golden shield of the weight of one thousand minas, to establish the alliance with them.
+And it pleased the people to receive the men gloriously and to set the copy of their words in the public books appointed for the people, so that the people of the Spartans may have a memorial. And we wrote a copy of these things to Simon the high priest.
+
+**1 Maccabees 14:24**
+
+And after these things Simon sent Numenius to Rome, holding a great golden shield of the weight of one thousand minas, to establish the alliance with them.
 
 **1 Maccabees 14:25**
 
@@ -15878,11 +16162,11 @@ And Jonathan gathered their nation and became high priest to them and was added 
 
 **1 Maccabees 14:31**
 
-and their enemies wished to set foot in their country to rub out their country and to stretch out hands against their holy things.
+and their enemies wished to set foot in their country to wipe out their country and to stretch out hands against their holy things.
 
 **1 Maccabees 14:32**
 
-Then Simon rose up and fought concerning his nation and spent much money from his own things and supplied weapons to the men of the force of his nation and gave them wages.
+Then Simon rose up and fought concerning his nation and spent much money from his own property and supplied weapons to the men of the force of his nation and gave them wages.
 
 **1 Maccabees 14:33**
 
@@ -15894,7 +16178,7 @@ And he fortified Joppa by the sea and Gazara on the borders of Azotus, in which 
 
 **1 Maccabees 14:35**
 
-And the people saw the act of Simon and the glory that he had resolved to do for his nation, and they made him their leader and high priest, because he had done all these things and because of the righteousness and the faith that he kept for his nation, and he sought by every way to exalt his people.
+And the people saw the act of Simon and the glory that he had resolved to do for his nation, and they made him their leader and high priest, because he had done all these things and because of the righteousness and the faithfulness that he kept for his nation, and he sought by every way to exalt his people.
 
 **1 Maccabees 14:36**
 
@@ -15930,11 +16214,15 @@ and for him to care for the holy things, and that he should be heard by all, and
 
 **1 Maccabees 14:44**
 
-And it shall not be permitted to any of the people and the priests to annul any of these things or to speak against the things to be spoken by him or to gather an assembly in the country without him or to be clothed in purple or to fasten a golden clasp.
+And it shall not be permitted to any of the people and the priests to annul any of these things or to speak against the things spoken by him or to gather an assembly in the country without him or to be clothed in purple or to fasten a golden clasp.
 
 **1 Maccabees 14:45**
 
-And whoever acts contrary to these things or annuls any of these things shall be liable. [46] And all the people were pleased to set Simon and to do according to these words.
+And whoever acts contrary to these things or annuls any of these things shall be liable.
+
+**1 Maccabees 14:46**
+
+And all the people were pleased to set Simon and to do according to these words.
 
 **1 Maccabees 14:47**
 
@@ -15956,7 +16244,7 @@ And Antiochus son of King Demetrius sent letters from the islands of the sea to 
 
 **1 Maccabees 15:2**
 
-And they contained in this manner: King Antiochus to Simon, great priest and ethnarch, and to the nation of Jews, greeting.
+And they contained in this manner: King Antiochus to Simon, great priest and ethnarch, and to the nation of the Jews, greeting.
 
 **1 Maccabees 15:3**
 
@@ -15980,11 +16268,15 @@ and for Jerusalem and the holy things to be free. And all the weapons that you h
 
 **1 Maccabees 15:8**
 
-And every royal debt and the royal things to come, from now and for all time, let them be released to you.
+And every royal debt and the royal dues to come, from now and for all time, let them be released to you.
 
 **1 Maccabees 15:9**
 
-And whenever we take hold of our kingdom, we will glorify you and your nation and the temple with great glory, so that your glory will become manifest in all the earth. [10] And in the one hundred seventy-fourth year Antiochus went out into the land of his fathers, and all the forces came together to him, so that those left with Tryphon were few.
+And whenever we take hold of our kingdom, we will glorify you and your nation and the temple with great glory, so that your glory will become manifest in all the earth.
+
+**1 Maccabees 15:10**
+
+And in the one hundred seventy-fourth year Antiochus went out into the land of his fathers, and all the forces came together to him, so that those left with Tryphon were few.
 
 **1 Maccabees 15:11**
 
@@ -16020,7 +16312,7 @@ And they brought a golden shield of one thousand minas.
 
 **1 Maccabees 15:19**
 
-Therefore it pleased us to write to the kings and the countries, so that they should not seek harms against them and should not make war against them and their cities and their country, and that they should not be allies with those who make war against them.
+Therefore it pleased us to write to the kings and the countries, so that they should not seek harm against them and should not make war against them and their cities and their country, and that they should not be allies with those who make war against them.
 
 **1 Maccabees 15:20**
 
@@ -16028,7 +16320,11 @@ And it seemed good to us to receive the shield from them.
 
 **1 Maccabees 15:21**
 
-Therefore if any pestilent men have escaped from their country to you, give them over to Simon the high priest, so that he may take vengeance on them according to their law. [22] And he wrote the same things to King Demetrius and to Attalus, Ariarathes, and Arsaces,
+Therefore if any pestilent men have escaped from their country to you, give them over to Simon the high priest, so that he may take vengeance on them according to their law.
+
+**1 Maccabees 15:22**
+
+And he wrote the same things to King Demetrius and to Attalus, Ariarathes, and Arsaces,
 
 **1 Maccabees 15:23**
 
@@ -16064,7 +16360,7 @@ Now therefore hand over the cities that you seized and the taxes of the places o
 
 **1 Maccabees 15:31**
 
-But if not, give five hundred talents of silver in exchange for them, and for the destruction that you have destroyed and for the taxes of the cities, another five hundred talents. But if not, when we arrive, we will make war against you.
+But if not, give five hundred talents of silver in exchange for them, and for the destruction you caused and for the taxes of the cities, another five hundred talents. But if not, when we arrive, we will make war against you.
 
 **1 Maccabees 15:32**
 
@@ -16080,7 +16376,7 @@ But we, having opportunity, are holding fast to the inheritance of our fathers.
 
 **1 Maccabees 15:35**
 
-And concerning Joppa and Gazara, which you ask for, these were making a great blow among the people throughout our country; for these we will give one hundred talents. And Athenobius did not answer him a word,
+And concerning Joppa and Gazara, which you ask for, these were striking a great blow among the people throughout our country; for these we will give one hundred talents. And Athenobius did not answer him a word,
 
 **1 Maccabees 15:36**
 
@@ -16134,7 +16430,7 @@ And he camped opposite them, he and his people. And he saw the people being afra
 
 **1 Maccabees 16:7**
 
-And he divided the people and the horsemen in the middle of the foot soldiers, but the horse of the opponents was very great.
+And he divided the people and the horsemen in the middle of the foot soldiers, but the cavalry of the opponents was very great.
 
 **1 Maccabees 16:8**
 
@@ -16190,7 +16486,7 @@ And he sent others to seize Jerusalem and the mountain of the temple.
 
 **1 Maccabees 16:21**
 
-And someone ran ahead and reported to John in Gazara that his father and his brothers had perished and that he has sent also to kill you.
+And someone ran ahead and reported to John in Gazara that his father and his brothers had perished and that he has also sent to kill you.
 
 **1 Maccabees 16:22**
 
@@ -16230,7 +16526,7 @@ and may he listen to your petitions, and be reconciled to you, and not abandon y
 
 **2 Maccabees 1:6**
 
-And now here we are praying for you.
+And now we are here praying for you.
 
 **2 Maccabees 1:7**
 
@@ -16242,15 +16538,15 @@ and they set the gate on fire and poured out innocent blood. And we entreated th
 
 **2 Maccabees 1:9**
 
-And now, that you may keep the days of the feast of tabernacles of the month Chaseleu.
+And now, that you may keep the days of the feast of tabernacles in the month Chaseleu.
 
 **2 Maccabees 1:10**
 
-In the 188th year, those in Jerusalem and those in Judea, and the senate and Judas, to Aristobulus, teacher of King Ptolemy, and being from the race of the anointed priests, and to the Jews in Egypt: greetings and health.
+In the 188th year, those in Jerusalem and those in Judea, and the senate and Judas, to Aristobulus, teacher of King Ptolemy, who is from the race of the anointed priests, and to the Jews in Egypt: greetings and health.
 
 **2 Maccabees 1:11**
 
-Having been saved by God out of great dangers, we give great thanks to him, as men drawn up in battle against a king.
+Having been saved by God out of great dangers, we give great thanks to him, as those arrayed against a king.
 
 **2 Maccabees 1:12**
 
@@ -16258,11 +16554,11 @@ For he himself cast out those who drew themselves up in battle in the holy city.
 
 **2 Maccabees 1:13**
 
-For when the leader came into Persia, and the force around him, which seemed to be irresistible, they were cut down in the temple of Nanaia, the priests around Nanaia using deceit.
+For the leader, having come into Persia, and the force around him, which seemed to be irresistible, were cut down in the temple of Nanaia, the priests around Nanaia using deceit.
 
 **2 Maccabees 1:14**
 
-For Antiochus came to the place as though he would live with her, both he and the friends with him, for the sake of receiving the money as a dowry;
+For Antiochus came to the place as though he would cohabit with her, both he and the friends with him, for the sake of receiving the money as a dowry;
 
 **2 Maccabees 1:15**
 
@@ -16270,11 +16566,11 @@ and after the priests of Nanaia set these things out, and he came near with a fe
 
 **2 Maccabees 1:16**
 
-and opening the hidden door of the ceiling, they threw stones and thunder-struck the leader, and making him into pieces and cutting off the heads, they threw them to those outside.
+and opening the hidden door of the ceiling, they hurled stones and struck down the leader as with thunder; and making him into pieces and cutting off the heads, they threw them to those outside.
 
 **2 Maccabees 1:17**
 
-In all things blessed is our God, who handed over the impious.
+In all things blessed is our God, who handed over those who acted impiously.
 
 **2 Maccabees 1:18**
 
@@ -16286,7 +16582,7 @@ For when our fathers were being led into Persia, the pious priests of that time 
 
 **2 Maccabees 1:20**
 
-But when enough years had passed, when it seemed good to God, Nehemiah, sent by the king of Persia, sent the descendants of the priests who had hidden it to the fire;
+But when enough years had passed, when it seemed good to God, Nehemiah, sent by the king of Persia, sent the descendants of the priests who had hidden it for the fire;
 
 **2 Maccabees 1:21**
 
@@ -16294,7 +16590,7 @@ but when they reported to us that they had not found fire but thick water, he co
 
 **2 Maccabees 1:22**
 
-And when this had happened, and time had passed, when the sun shone out, being previously under cloud, a great fire was kindled, so that all marveled.
+And when this had happened, and time had passed, when the sun shone out after being clouded before, a great fire was kindled, so that all marveled.
 
 **2 Maccabees 1:23**
 
@@ -16318,7 +16614,7 @@ Gather together our dispersion, free those enslaved among the nations, look upon
 
 **2 Maccabees 1:28**
 
-Torment those who oppress and insolently abuse in arrogance;
+Torment those who oppress and outrage in arrogance;
 
 **2 Maccabees 1:29**
 
@@ -16330,7 +16626,7 @@ And the priests sang the hymns.
 
 **2 Maccabees 1:31**
 
-And when the things of the sacrifice were consumed, and the remaining water, Nehemiah commanded it to be poured over larger stones.
+And when the things of the sacrifice were consumed, Nehemiah commanded the remaining water to be poured over larger stones.
 
 **2 Maccabees 1:32**
 
@@ -16346,7 +16642,7 @@ the king, having enclosed it, made a sanctuary, having tested the matter.
 
 **2 Maccabees 1:35**
 
-And the king received many various things and distributed them to those to whom he showed favor.
+And the king received many different things and distributed them to those to whom he showed favor.
 
 **2 Maccabees 1:36**
 
@@ -16368,7 +16664,7 @@ And saying other such things, he exhorted them that the law should not depart fr
 
 **2 Maccabees 2:4**
 
-And it was in the writing how the prophet, after a divine message came to him, commanded the tent and the ark to follow with him, and how he went out to the mountain where Moses, having ascended, beheld the inheritance of God.
+And it was in the writing how the prophet, after a divine message came to him, commanded the tent and the ark to accompany him, and how he went out to the mountain where Moses, having ascended, beheld the inheritance of God.
 
 **2 Maccabees 2:5**
 
@@ -16380,7 +16676,7 @@ And some of those following came near so as to mark the way, and they were not a
 
 **2 Maccabees 2:7**
 
-But when Jeremiah knew it, blaming them he said that the place would also be unknown until God gathers together a gathering of the people and becomes gracious.
+But when Jeremiah knew it, blaming them he said that the place would also be unknown until God gathers the gathering of the people together and becomes gracious.
 
 **2 Maccabees 2:8**
 
@@ -16388,7 +16684,7 @@ And then the Lord will show these things, and the glory of the Lord and the clou
 
 **2 Maccabees 2:9**
 
-And it was also explained how, having wisdom, he offered a sacrifice of dedication and of the completion of the temple.
+And it was also made clear how, having wisdom, he offered a sacrifice of dedication and of the completion of the temple.
 
 **2 Maccabees 2:10**
 
@@ -16404,19 +16700,19 @@ Likewise Solomon also kept the eight days.
 
 **2 Maccabees 2:13**
 
-And the same things were also explained in the records and in the memoirs concerning Nehemiah, and how, establishing a library, he gathered together the things concerning the kings and prophets, and the things of David, and letters of kings concerning offerings.
+And the same things were also explained in the records and in the memoirs concerning Nehemiah, and how, founding a library, he gathered together the things concerning the kings and prophets, and the things of David, and letters of kings concerning offerings.
 
 **2 Maccabees 2:14**
 
-Likewise Judas also gathered together all the things that had fallen apart because of the war that happened to us, and they are with us.
+Likewise Judas also gathered together all the things that had been scattered because of the war that happened to us, and they are with us.
 
 **2 Maccabees 2:15**
 
-Therefore, if you have need of these things, send those who will carry them away to you.
+Therefore, if you have need of these things, send those who will carry them off for you.
 
 **2 Maccabees 2:16**
 
-Therefore, since we are about to keep the cleansing, we wrote to you; therefore you will do well keeping the days.
+Therefore, since we are about to keep the cleansing, we wrote to you; therefore you will do well by keeping the days.
 
 **2 Maccabees 2:17**
 
@@ -16448,7 +16744,7 @@ the things declared by Jason of Cyrene through five books, we will attempt to ab
 
 **2 Maccabees 2:24**
 
-For seeing the flood of the numbers, and the existing difficulty for those wishing to enter into the narratives of the history because of the abundance of material,
+For seeing the mass of the numbers, and the existing difficulty for those wishing to enter into the narratives of the history because of the abundance of material,
 
 **2 Maccabees 2:25**
 
@@ -16472,7 +16768,7 @@ For just as the architect of a new house must care for the whole foundation, but
 
 **2 Maccabees 2:30**
 
-For entering in and making an account concerning everything, and being busy about the details, belongs to the originator of the history;
+For entering in and making an account concerning everything, and being busy about the details, belongs to the first author of the history;
 
 **2 Maccabees 2:31**
 
@@ -16506,11 +16802,11 @@ and being unable to overcome Onias, he came to Apollonius, son of Thrasaeus, who
 
 **2 Maccabees 3:6**
 
-And he reported that the treasury in Jerusalem was full of untold monies, so that the multitude of its assets was innumerable, and that they did not belong to the account of the sacrifices, but that it was possible for all these things to fall under the authority of the king.
+And he reported that the treasury in Jerusalem was full of untold money, so that the multitude of its assets was innumerable, and that they did not belong to the account of the sacrifices, but that it was possible for all these things to fall under the authority of the king.
 
 **2 Maccabees 3:7**
 
-And Apollonius, meeting with the king, disclosed concerning the monies made known to him; and he, having selected Heliodorus, the one over the affairs, sent him, giving commands to carry out the removal of the aforementioned monies.
+And Apollonius, meeting with the king, disclosed concerning the money made known to him; and he, having selected Heliodorus, the one over the affairs, sent him, giving commands to carry out the removal of the aforementioned money.
 
 **2 Maccabees 3:8**
 
@@ -16518,7 +16814,7 @@ And immediately Heliodorus made the journey, in appearance as though he would in
 
 **2 Maccabees 3:9**
 
-And having come to Jerusalem, and having been received kindly by the high priest of the city, he set forth concerning the disclosure that had happened, and made clear for what reason he was present; and he inquired whether these things truly happened to be so.
+And having come to Jerusalem, and having been received kindly by the high priest of the city, he set forth concerning the disclosure that had happened, and made clear for what reason he was present; and he inquired whether these things were truly so.
 
 **2 Maccabees 3:10**
 
@@ -16526,7 +16822,7 @@ And when the high priest pointed out that they were deposits of widows and orpha
 
 **2 Maccabees 3:11**
 
-and that some also belonged to Hyrcanus, son of Tobias, a man set in great eminence, not as the impious Simon was slandering, and that the whole amount was four hundred talents of silver and two hundred of gold,
+and that some also belonged to Hyrcanus, son of Tobias, a man in great eminence, not as the impious Simon was slandering, and that the whole amount was four hundred talents of silver and two hundred of gold,
 
 **2 Maccabees 3:12**
 
@@ -16546,7 +16842,7 @@ And the priests, throwing themselves before the altar in the priestly robes, cal
 
 **2 Maccabees 3:16**
 
-And it was, for one looking at the appearance of the high priest, to have the mind wounded; for his face and the change of color made visible the agony according to soul.
+And for one looking at the appearance of the high priest, the mind was wounded; for his face and the change of color made visible the agony in his soul.
 
 **2 Maccabees 3:17**
 
@@ -16554,7 +16850,7 @@ For around the man a certain fear and shuddering of body had been poured, throug
 
 **2 Maccabees 3:18**
 
-And those from the houses were leaping out in crowds to a public supplication, because the place was about to come into contempt.
+And those from the houses were leaping out in crowds to a public supplication, because the place was about to fall into contempt.
 
 **2 Maccabees 3:19**
 
@@ -16566,11 +16862,11 @@ And all, stretching out their hands toward heaven, were making the supplication.
 
 **2 Maccabees 3:21**
 
-And it was pitiable to see the all-mixed falling-forward of the multitude, and the anxious expectation of the high priest as he greatly agonized.
+And it was pitiable to see the prostration of the mixed multitude, and the anxious expectation of the high priest as he greatly agonized.
 
 **2 Maccabees 3:22**
 
-Therefore they called upon the Almighty God to preserve the things entrusted to those who had entrusted them, safe with all security.
+Therefore they called upon the Almighty God to preserve the things entrusted to those who had entrusted them, safe in all security.
 
 **2 Maccabees 3:23**
 
@@ -16578,7 +16874,7 @@ But Heliodorus was completing the thing determined.
 
 **2 Maccabees 3:24**
 
-And there on the spot, when he himself with the bodyguards was already present at the treasury, the Lord of the fathers and ruler of all authority made a great manifestation, so that all who dared to come together, being struck with amazement at the power of God, turned into faintness and fearfulness.
+And there on the spot, when he himself with the bodyguards was already present at the treasury, the Lord of the fathers and ruler of all authority made a great manifestation, so that all who dared to come together, being struck with amazement at the power of God, turned to faintness and fear.
 
 **2 Maccabees 3:25**
 
@@ -16590,7 +16886,7 @@ And two other young men appeared before him, excellent in strength, most beautif
 
 **2 Maccabees 3:27**
 
-And suddenly, having fallen toward the ground and having been poured around with much darkness, they seized him and put him into a litter,
+And suddenly, having fallen toward the ground and having been enveloped with much darkness, they seized him and put him into a litter,
 
 **2 Maccabees 3:28**
 
@@ -16602,7 +16898,7 @@ And he, because of the divine working, lay speechless and deprived of every hope
 
 **2 Maccabees 3:30**
 
-But they blessed the Lord, who made his own place marvelous; and the temple, a little before full of fear and disturbance, when the Almighty Lord appeared, had been filled with joy and gladness.
+But they blessed the Lord, who wondrously glorified his own place; and the temple, a little before full of fear and disturbance, when the Almighty Lord appeared, had been filled with joy and gladness.
 
 **2 Maccabees 3:31**
 
@@ -16614,7 +16910,7 @@ And the high priest, becoming suspicious lest the king should get an idea that s
 
 **2 Maccabees 3:33**
 
-And while the high priest was making the propitiation, the same young men again appeared to Heliodorus, clothed in the same garments, and standing said, "Have great thanks toward Onias the high priest, for because of him the Lord has graciously given life to you.
+And while the high priest was making the propitiation, the same young men again appeared to Heliodorus, clothed in the same garments, and standing said, "Have much gratitude toward Onias the high priest, for because of him the Lord has graciously given life to you.
 
 **2 Maccabees 3:34**
 
@@ -16622,7 +16918,7 @@ But you, having been whipped by him, report to all the majestic power of God." A
 
 **2 Maccabees 3:35**
 
-And Heliodorus, having offered sacrifice to the Lord, and having vowed very great vows to the one who preserved life, and having greeted Onias, broke camp to the king.
+And Heliodorus, having offered sacrifice to the Lord, and having vowed very great vows to the one who preserved life, and having greeted Onias, broke camp and went to the king.
 
 **2 Maccabees 3:36**
 
@@ -16634,7 +16930,7 @@ And when the king asked Heliodorus what kind of person would be suitable to be s
 
 **2 Maccabees 3:38**
 
-"If you have any enemy or plotter against affairs, send him there, and you will receive him back whipped, if indeed he should be saved through, because there truly is some power of God about the place.
+"If you have any enemy or plotter against your affairs, send him there, and you will receive him back whipped, if indeed he should be preserved, because there truly is some power of God about the place.
 
 **2 Maccabees 3:39**
 
@@ -16648,11 +16944,11 @@ And the things concerning Heliodorus and the keeping of the treasury proceeded i
 
 **2 Maccabees 4:1**
 
-But the aforementioned Simon, who had become informer against the monies and the fatherland, was speaking evil of Onias, as if he himself had shaken up Heliodorus and had become the maker of the evils.
+But the aforementioned Simon, who had become informer against the money and the fatherland, was speaking evil of Onias, as if he himself had stirred up Heliodorus and had become the maker of the evils.
 
 **2 Maccabees 4:2**
 
-And the benefactor of the city, and the guardian of his fellow-nationals, and the zealot of the laws, he dared to call a plotter against the affairs.
+And the benefactor of the city, and the guardian of his fellow-nationals, and the zealot of the laws, he dared to call a plotter against the public affairs.
 
 **2 Maccabees 4:3**
 
@@ -16668,7 +16964,7 @@ went to the king, not becoming an accuser of the citizens, but looking to the be
 
 **2 Maccabees 4:6**
 
-For he saw that without royal forethought it was impossible for the affairs still to obtain peace, and that Simon would not receive a pause from his folly.
+For he saw that without royal care it was impossible for the affairs still to obtain peace, and that Simon would not receive a pause from his folly.
 
 **2 Maccabees 4:7**
 
@@ -16720,7 +17016,7 @@ And when a five-year contest was being held in Tyre, and the king was present,
 
 **2 Maccabees 4:19**
 
-the polluted Jason sent festival-observers from Jerusalem, being Antiochenes, carrying three hundred drachmas of silver to the sacrifice of Heracles; and those carrying them considered it worthy not to use them for sacrifice because it was not fitting, but to lay them out for another expense.
+the polluted Jason sent festival-observers from Jerusalem, being Antiochenes, carrying three hundred drachmas of silver to the sacrifice of Heracles; and those carrying them requested that they not be used for sacrifice because it was not fitting, but be laid out for another expense.
 
 **2 Maccabees 4:20**
 
@@ -16732,11 +17028,11 @@ And when Apollonius, son of Menestheus, was sent into Egypt because of the enthr
 
 **2 Maccabees 4:22**
 
-And having been received magnificently by Jason and the city, he entered with torch-bearing and shouts; then in this way he encamped into Phoenicia.
+And having been received magnificently by Jason and the city, he entered with torch-bearing and shouts; then in this way he marched off to Phoenicia.
 
 **2 Maccabees 4:23**
 
-And after a three-year time Jason sent Menelaus, brother of the aforementioned Simon, carrying the monies to the king and completing memoranda concerning necessary affairs.
+And after a three-year time Jason sent Menelaus, brother of the aforementioned Simon, carrying the money to the king and completing memoranda concerning necessary affairs.
 
 **2 Maccabees 4:24**
 
@@ -16752,7 +17048,7 @@ And Jason, who had illicitly supplanted his own brother, having been illicitly s
 
 **2 Maccabees 4:27**
 
-But Menelaus held the office, but of the monies promised to the king he arranged nothing in good order,
+But Menelaus held the office, but of the money promised to the king he arranged nothing in good order,
 
 **2 Maccabees 4:28**
 
@@ -16772,11 +17068,11 @@ Therefore the king came quickly to settle the affairs, leaving Andronicus, one o
 
 **2 Maccabees 4:32**
 
-And Menelaus, thinking he had taken a favorable time, having embezzled certain gold articles from the temple, gave them to Andronicus, and happened to have sold others into Tyre and the surrounding cities.
+And Menelaus, thinking he had taken a favorable time, having embezzled certain gold articles from the temple, gave them to Andronicus, and happened to have sold others at Tyre and the surrounding cities.
 
 **2 Maccabees 4:33**
 
-And Onias, clearly recognizing these things, was refuting him, having withdrawn into an asylum place at Daphne, which lies near Antioch.
+And Onias, clearly recognizing these things, was refuting him, having withdrawn into a place of asylum at Daphne, which lies near Antioch.
 
 **2 Maccabees 4:34**
 
@@ -16792,7 +17088,7 @@ And when the king returned from the places around Cilicia, the Jews throughout t
 
 **2 Maccabees 4:37**
 
-Therefore Antiochus, being grieved according to soul, and turning to mercy, and weeping because of the self-control and much good order of the one who had changed life,
+Therefore Antiochus, being grieved from the soul, and turning to mercy, and weeping because of the self-control and much good order of the one who had changed life,
 
 **2 Maccabees 4:38**
 
@@ -16804,7 +17100,7 @@ And when many sacrileges had happened throughout the city by Lysimachus with the
 
 **2 Maccabees 4:40**
 
-And when the crowds were rising up and being filled through with angers, Lysimachus, having armed about three thousand, began unjust violence, with a certain Tyrannus leading, one advanced in age and no less in folly.
+And when the crowds were rising up and being filled with anger, Lysimachus, having armed about three thousand, began unjust violence, with a certain Tyrannus leading, one advanced in age and no less in folly.
 
 **2 Maccabees 4:41**
 
@@ -16812,7 +17108,7 @@ And recognizing also the attack of Lysimachus, some seizing stones, others thick
 
 **2 Maccabees 4:42**
 
-For this reason they made many of them wounded, and some they even threw down, and all they drove together into flight, and the temple-robber himself they put to death beside the treasury.
+For this reason they wounded many of them, and some they even threw down, and all they drove together into flight, and the temple-robber himself they put to death beside the treasury.
 
 **2 Maccabees 4:43**
 
@@ -16824,7 +17120,7 @@ And when the king arrived at Tyre, the three men sent by the senate made the ple
 
 **2 Maccabees 4:45**
 
-But Menelaus, already being left behind, promised sufficient monies to Ptolemy, son of Dorymenes, to persuade the king.
+But Menelaus, already being left behind, promised sufficient money to Ptolemy, son of Dorymenes, to persuade the king.
 
 **2 Maccabees 4:46**
 
@@ -16858,7 +17154,7 @@ And it happened throughout the whole city, for almost forty days, that horsemen 
 
 **2 Maccabees 5:3**
 
-and ordered squadrons of horses, and attacks being made, and charges of both sides, and movements of shields, and multitudes of pikes, and drawings of swords, and shots of missiles, and flashes of golden ornaments, and all sorts of armors.
+and ordered squadrons of horses, and attacks being made, and charges of both sides, and movements of shields, and multitudes of pikes, and drawings of swords, and shots of missiles, and flashes of golden ornaments, and all sorts of armor.
 
 **2 Maccabees 5:4**
 
@@ -16878,11 +17174,11 @@ he did not gain hold of the office, but receiving shame as the end of his plot, 
 
 **2 Maccabees 5:8**
 
-Therefore he obtained the end of an evil way of life: being shut in by Aretas, the tyrant of the Arabs, fleeing city from city, pursued by all, hated as an apostate from the laws, and abhorred as executioner of fatherland and citizens, he was tossed into Egypt.
+Therefore he obtained the end of an evil way of life: being shut in by Aretas, the tyrant of the Arabs, fleeing from city to city, pursued by all, hated as an apostate from the laws, and abhorred as executioner of fatherland and citizens, he was driven into Egypt.
 
 **2 Maccabees 5:9**
 
-And the one who had alienated many from the fatherland perished upon foreign soil, having been brought up to the Lacedaemonians as though he would obtain shelter because of kinship.
+And the one who had alienated many from the fatherland perished upon foreign soil, having gone up to the Lacedaemonians as though he would obtain shelter because of kinship.
 
 **2 Maccabees 5:10**
 
@@ -16890,7 +17186,7 @@ And the one who had thrown out a multitude unburied became unmourned, and did no
 
 **2 Maccabees 5:11**
 
-And when the things that had happened fell before the king, he supposed Judea to be rebelling; therefore, breaking camp from Egypt, made beast-like in soul, he took the city by force of spear.
+And when reports of the things that had happened fell before the king, he supposed Judea to be rebelling; therefore, breaking camp from Egypt, made beast-like in soul, he took the city by force of spear.
 
 **2 Maccabees 5:12**
 
@@ -16898,11 +17194,11 @@ And he commanded the soldiers to cut down unsparingly those who fell in their wa
 
 **2 Maccabees 5:13**
 
-And there were removals of young and old, destruction of men and women and children, and slaughters of virgins and infants.
+And there were killings of young and old, destruction of men and women and children, and slaughters of virgins and infants.
 
 **2 Maccabees 5:14**
 
-And eighty thousand were destroyed in all the three days, forty thousand in hand-to-hand ravages, and no fewer than those slain were sold.
+And eighty thousand were destroyed in all the three days, forty thousand in hand-to-hand attacks, and no fewer than those slain were sold.
 
 **2 Maccabees 5:15**
 
@@ -16910,7 +17206,7 @@ And not being satisfied with these things, he dared to enter into the holiest te
 
 **2 Maccabees 5:16**
 
-And taking the holy vessels with defiled hands, and dragging together with profane hands the things dedicated by other kings for increase and glory and honor of the place, he was giving them away.
+And taking the holy vessels with defiled hands, and dragging together with profane hands the things dedicated by other kings for increase and glory and honor of the place, he handed them over.
 
 **2 Maccabees 5:17**
 
@@ -16938,11 +17234,11 @@ And he also left overseers to harm the race: in Jerusalem, Philip, a Phrygian by
 
 **2 Maccabees 5:23**
 
-and in Garizim, Andronicus; and besides these, Menelaus, who worse than the others was exalting himself over the citizens, having a hateful disposition toward the Jewish citizens.
+and in Garizim, Andronicus; and besides these, Menelaus, who exalted himself over the citizens worse than the others, having a hateful disposition toward the Jewish citizens.
 
 **2 Maccabees 5:24**
 
-And he sent the defiling commander Apollonius with an army of twenty-two thousand, commanding him to slaughter all those in age and to sell the women and younger ones.
+And he sent the defiling commander Apollonius with an army of twenty-two thousand, commanding him to slaughter all those of age and to sell the women and younger ones.
 
 **2 Maccabees 5:25**
 
@@ -16950,17 +17246,17 @@ And this one, having come to Jerusalem and pretending to be peaceable, held back
 
 **2 Maccabees 5:26**
 
-And all those who had gone out to the spectacle he pierced through together, and running into the city with weapons, he laid down considerable multitudes.
+And all those who had gone out to the spectacle he pierced through together, and running into the city with weapons, he laid low considerable multitudes.
 
 **2 Maccabees 5:27**
 
-But Judas Maccabeus, becoming about tenth, and withdrawing into the wilderness, lived through in the mountains in the manner of beasts with those with him, and they continued feeding on grassy food, so as not to partake of the pollution.
+But Judas Maccabeus, becoming about the tenth man, and withdrawing into the wilderness, kept living in the mountains in the manner of beasts with those with him, and they continued feeding on grassy food, so as not to partake of the pollution.
 
 ### Chapter 6
 
 **2 Maccabees 6:1**
 
-But after not much time the king sent out an Athenian elder, to compel the Jews to cross over from the ancestral laws and not conduct citizenship by the laws of God,
+But after not much time the king sent out an Athenian elder, to compel the Jews to cross over from the ancestral laws and not live by the laws of God,
 
 **2 Maccabees 6:2**
 
@@ -16976,7 +17272,7 @@ For the temple had been filled with debauchery and revels by the nations, idling
 
 **2 Maccabees 6:5**
 
-And the altar had been filled with law-forbidden unlawful things.
+And the altar had been filled with forbidden things separated from the laws.
 
 **2 Maccabees 6:6**
 
@@ -16992,7 +17288,7 @@ And a decree went out to the neighboring Greek cities, at Ptolemy's suggestion, 
 
 **2 Maccabees 6:9**
 
-and to slaughter those who did not choose to cross over to the Greek things; therefore it was possible to see the present misery.
+and to slaughter those who did not choose to cross over to the Greek customs; therefore it was possible to see the present misery.
 
 **2 Maccabees 6:10**
 
@@ -17004,7 +17300,7 @@ And others, having run together into the nearby caves to keep the seventh day se
 
 **2 Maccabees 6:12**
 
-Therefore I exhort those encountering this book not to be compressed because of the calamities, but to reckon the punishments not for destruction, but for discipline of our race.
+Therefore I exhort those encountering this book not to shrink back because of the calamities, but to reckon the punishments not for destruction, but for discipline of our race.
 
 **2 Maccabees 6:13**
 
@@ -17016,7 +17312,7 @@ For not as with the other nations, with whom the Master waits patiently until th
 
 **2 Maccabees 6:15**
 
-lest, when our sins had come to an end, he later avenge us.
+lest, when our sins had come to an end, he later take vengeance on us.
 
 **2 Maccabees 6:16**
 
@@ -17024,7 +17320,7 @@ Therefore he never withdraws his mercy from us; but while disciplining with cala
 
 **2 Maccabees 6:17**
 
-Nevertheless let these things have been said by us for reminder; but through a few words we must come to the narrative.
+Nevertheless let these things have been said by us for reminder; but in a few words we must come to the narrative.
 
 **2 Maccabees 6:18**
 
@@ -17060,7 +17356,7 @@ also they, because of my pretense and because of a little and momentary living, 
 
 **2 Maccabees 6:26**
 
-For even if for the present I shall avoid the punishment from men, yet the hands of the Almighty, neither living nor having died, I shall escape.
+For even if for the present I shall avoid the punishment from men, yet I shall not escape the hands of the Almighty, neither living nor having died.
 
 **2 Maccabees 6:27**
 
@@ -17076,7 +17372,7 @@ And those leading him changed the good will they had toward him a little before 
 
 **2 Maccabees 6:30**
 
-and being about to die by the blows, he groaned and said, "To the Lord who has the holy knowledge it is plain that, while able to be released from death, I endure hard pains according to body by being whipped, but according to soul I gladly suffer these things because of his fear."
+and being about to die by the blows, he groaned and said, "To the Lord who has the holy knowledge it is plain that, while able to be released from death, I endure hard pains in body by being whipped, but in soul I gladly suffer these things because of fear of him."
 
 **2 Maccabees 6:31**
 
@@ -17098,19 +17394,19 @@ And the king, becoming enraged, commanded pans and kettles to be heated.
 
 **2 Maccabees 7:4**
 
-And when they were heated, immediately he commanded the one who had become their spokesman to be tongue-cut, and after they had scalped him, to mutilate him, while the remaining brothers and the mother were watching.
+And when they were heated, immediately he commanded the one who had become their spokesman to have his tongue cut out, and after they had scalped him, to mutilate him, while the remaining brothers and the mother were watching.
 
 **2 Maccabees 7:5**
 
-And when he had become useless in all parts, he commanded him, still breathing, to be brought to the fire and fried in a pan; and when the vapor from the pan was spreading for a considerable time, they, with the mother, exhorted one another to die nobly, saying thus:
+And when he had become useless in all his parts, he commanded him, still breathing, to be brought to the fire and fried in a pan; and when the vapor from the pan was spreading for a considerable time, they, with the mother, exhorted one another to die nobly, saying thus:
 
 **2 Maccabees 7:6**
 
-"The Lord God watches, and in truth is comforted over us, just as Moses made clear through the song bearing witness face to face, saying, And over his servants he will be comforted."
+"The Lord God watches, and in truth is comforted concerning us, just as Moses made clear through the song bearing witness face to face, saying, And concerning his servants he will be comforted."
 
 **2 Maccabees 7:7**
 
-And when the first had changed life in this manner, they brought the second for mockery; and after pulling around the skin of his head with the hair, they were asking, "Will you eat before being punished in body limb by limb?"
+And when the first had changed life in this manner, they brought the second for mockery; and after tearing off the skin of his head with the hair, they were asking, "Will you eat before being punished in body limb by limb?"
 
 **2 Maccabees 7:8**
 
@@ -17118,7 +17414,7 @@ But he, answering in the ancestral voice, said, "No."
 
 **2 Maccabees 7:9**
 
-Therefore this one also received the next torture, as the first. And being at his last breath, he said, "You accursed one, you release us from the present living, but the King of the world will raise us, who die on behalf of his laws, into an eternal reviving of life."
+Therefore this one also received the next torture, as the first. And being at his last breath, he said, "You accursed one, you release us from the present life, but the King of the world will raise us, who die on behalf of his laws, into an eternal revival of life."
 
 **2 Maccabees 7:10**
 
@@ -17126,7 +17422,7 @@ And after this one, the third was being mocked; and when asked, he quickly put f
 
 **2 Maccabees 7:11**
 
-and nobly said, "From heaven I possess these, and because of his laws I overlook these, and from him I hope to recover these again."
+and nobly said, "From heaven I possess these, and because of his laws I disregard these, and from him I hope to recover these again."
 
 **2 Maccabees 7:12**
 
@@ -17138,7 +17434,7 @@ And after this one also changed life, they were torturing the fourth likewise, a
 
 **2 Maccabees 7:14**
 
-And as he came to die, he said thus, "It is preferable, when changing life under men, to look for the hopes from God, to be raised again by him; but for you there will not be resurrection to life."
+And as he came to die, he said thus, "It is preferable, when changing life under men, to look for the hopes from God, to be raised again by him; but for you there will be no resurrection to life."
 
 **2 Maccabees 7:15**
 
@@ -17146,7 +17442,7 @@ And next, bringing the fifth, they abused him.
 
 **2 Maccabees 7:16**
 
-But looking toward him, he said, "Having authority among men, though being corruptible, you do what you wish; but do not think our race has been abandoned by God.
+But looking toward him, he said, "Having authority among men, while being corruptible, you do what you wish; but do not think our race has been abandoned by God.
 
 **2 Maccabees 7:17**
 
@@ -17162,11 +17458,11 @@ But you, do not suppose you will be innocent, having attempted to fight God."
 
 **2 Maccabees 7:20**
 
-But beyond measure the mother was marvelous and worthy of good memory, who, seeing seven sons perishing under one day of time, bore it with good courage because of the hopes upon the Lord.
+But beyond measure the mother was marvelous and worthy of good memory, who, seeing seven sons perishing within the time of one day, bore it with good courage because of the hopes set upon the Lord.
 
 **2 Maccabees 7:21**
 
-And she exhorted each of them in the ancestral voice, filled with a noble mindset, and stirring up the female reasoning with a male passion, saying to them,
+And she exhorted each of them in the ancestral voice, filled with a noble mindset, and stirring up womanly reasoning with a manly spirit, saying to them,
 
 **2 Maccabees 7:22**
 
@@ -17174,27 +17470,27 @@ And she exhorted each of them in the ancestral voice, filled with a noble mindse
 
 **2 Maccabees 7:23**
 
-Therefore the Creator of the world, who formed the generation of man and discovered the genesis of all things, will also give back to you the spirit and the life again with mercy, since now you overlook yourselves because of his laws."
+Therefore the Creator of the world, who formed the generation of man and devised the origin of all things, will also give back to you the spirit and the life again with mercy, since now you disregard yourselves because of his laws."
 
 **2 Maccabees 7:24**
 
-But Antiochus, supposing himself to be despised and suspecting the reproachful voice, while the youngest was still remaining, not only made the exhortation through words, but also pledged with oaths that he would at once make him rich and blessed if he changed over from the ancestral laws, and would have him as friend and entrust duties to him.
+But Antiochus, supposing himself to be despised and suspecting the reproachful voice, while the youngest was still remaining, not only made his appeal through words, but also pledged with oaths that he would at once make him rich and blessed if he changed over from the ancestral laws, and would have him as friend and entrust duties to him.
 
 **2 Maccabees 7:25**
 
-But when the young man paid no attention at all, the king, calling the mother to him, advised her to become counselor of salvation for the lad.
+But when the young man paid no attention at all, the king, calling the mother to him, advised her to become counselor for the lad's salvation.
 
 **2 Maccabees 7:26**
 
-And after he exhorted her with many words, she accepted to persuade the son.
+And after he exhorted her with many words, she agreed to persuade her son.
 
 **2 Maccabees 7:27**
 
-But bending toward him, mocking the cruel tyrant, she spoke thus in the ancestral voice: "Son, have mercy on me, who carried you around in the womb nine months, and nursed you three years, and nourished you and led you into this age, and bore you as a nurse.
+But bending toward him, mocking the cruel tyrant, she spoke thus in the ancestral voice: "Son, have mercy on me, who carried you in the womb nine months, and nursed you three years, and nourished you and brought you to this age, and fed you.
 
 **2 Maccabees 7:28**
 
-I ask you, child, looking up to heaven and earth, and seeing all things in them, to know that God made them from things not existing, and the race of men has come to be in this way;
+I ask you, child, looking up to heaven and earth, and seeing all things in them, to know that God made them from things that did not exist, and the race of men has come to be in this way;
 
 **2 Maccabees 7:29**
 
@@ -17202,7 +17498,7 @@ do not fear this executioner, but becoming worthy of the brothers, accept death,
 
 **2 Maccabees 7:30**
 
-And while she was still speaking, the young man said, "For whom are you waiting? I do not obey the command of the king, but I obey the command of the law given to our fathers through Moses.
+And while she was still speaking, the young man said, "What are you waiting for? I do not obey the command of the king, but I obey the command of the law given to our fathers through Moses.
 
 **2 Maccabees 7:31**
 
@@ -17222,19 +17518,19 @@ But you, O unholy one and most defiled of all men, do not be lifted up vainly, r
 
 **2 Maccabees 7:35**
 
-For you have not yet escaped the judgment of Almighty watching God.
+For you have not yet escaped the judgment of the Almighty God who watches over all.
 
 **2 Maccabees 7:36**
 
-For our brothers, having now endured a brief pain, have come under God's covenant of ever-flowing life; but you, by God's judgment, will carry away the just penalties of arrogance.
+For our brothers, having now endured a brief pain, have come under God's covenant of everlasting life; but you, by God's judgment, will carry away the just penalties of arrogance.
 
 **2 Maccabees 7:37**
 
-But I, like my brothers, hand over both body and soul concerning the ancestral laws, calling upon God quickly to become gracious to the nation, and for you, with examinations and whips, to confess fully that he alone is God,
+But I, like my brothers, hand over both body and soul for the ancestral laws, calling upon God quickly to become gracious to the nation, and for you, with questionings and whips, to confess fully that he alone is God,
 
 **2 Maccabees 7:38**
 
-and for the wrath of the Almighty, justly brought upon our whole race, to stand still in me and my brothers."
+and for the wrath of the Almighty, justly brought upon our whole race, to stop with me and my brothers."
 
 **2 Maccabees 7:39**
 
@@ -17242,15 +17538,15 @@ And the king, becoming enraged, dealt with this one worse than the others, beari
 
 **2 Maccabees 7:40**
 
-And therefore this one changed life clean, trusting wholly upon the Lord.
+And therefore this one changed life cleanly, trusting wholly upon the Lord.
 
 **2 Maccabees 7:41**
 
-And last of the sons, the mother died.
+And last, after the sons, the mother died.
 
 **2 Maccabees 7:42**
 
-Therefore let the things concerning entrail-tastings and the surpassing abuses have been declared to this extent.
+Therefore let the things concerning the eating of entrails and the surpassing tortures have been declared to this extent.
 
 ### Chapter 8
 
@@ -17272,23 +17568,23 @@ and to remember also the unlawful destruction of innocent infants, and the blasp
 
 **2 Maccabees 8:5**
 
-And when Maccabeus had come into an organized body, he was already becoming impossible to withstand by the nations, the wrath of the Lord having turned to mercy.
+And when Maccabeus had formed an organized body, he was already becoming impossible for the nations to withstand, the wrath of the Lord having turned to mercy.
 
 **2 Maccabees 8:6**
 
-And coming unexpectedly upon cities and villages, he burned them, and taking the critical places, he kept turning to flight and overcoming not a few of the enemies.
+And coming unexpectedly upon cities and villages, he burned them, and seizing the strategic places, he kept putting to flight and overcoming not a few of the enemies.
 
 **2 Maccabees 8:7**
 
-Especially he took the nights as coworkers for such plots; and a certain report of his manliness poured out everywhere.
+Especially he took the nights as helpers for such plans; and a certain report of his courage spread everywhere.
 
 **2 Maccabees 8:8**
 
-And Philip, perceiving the man coming little by little into progress and advancing more frequently in successes, wrote to Ptolemy, governor of Coele-Syria and Phoenicia, to help the king's affairs.
+And Philip, perceiving the man advancing little by little and moving forward more often in success, wrote to Ptolemy, governor of Coele-Syria and Phoenicia, to help the king's affairs.
 
 **2 Maccabees 8:9**
 
-And he, quickly selecting Nicanor, son of Patroclus, of the first friends, sent him, having placed under him no fewer than twenty thousand nations of every race, to root out the whole race of the Jews; and he joined with him also Gorgias, a man, a general, and having experience in military needs.
+And he, quickly selecting Nicanor, son of Patroclus, one of the first friends, sent him, having placed under him no fewer than twenty thousand from nations of every race, to root out the whole race of the Jews; and he joined with him also Gorgias, a general with experience in military affairs.
 
 **2 Maccabees 8:10**
 
@@ -17304,11 +17600,11 @@ And word of Nicanor's advance came to Judas; and when he informed those with him
 
 **2 Maccabees 8:13**
 
-those acting cowardly and distrusting the justice of God were running away and removing themselves from the place.
+those acting cowardly and distrusting the justice of God were running away and exiling themselves.
 
 **2 Maccabees 8:14**
 
-But others sold all the things left over, and at the same time were asking the Lord to rescue those sold by the impious Nicanor before meeting him.
+But others sold all the remaining things, and at the same time were asking the Lord to rescue those sold by the impious Nicanor before meeting him.
 
 **2 Maccabees 8:15**
 
@@ -17316,11 +17612,11 @@ And if not because of them, then because of the covenants with their fathers, an
 
 **2 Maccabees 8:16**
 
-And Maccabeus, gathering those around him, six thousand in number, exhorted them not to be struck with amazement by the enemies, nor to fear the great multitude of nations unjustly coming against them, but to contend nobly,
+And Maccabeus, gathering those around him, six thousand in number, exhorted them not to be terrified by the enemies, nor to fear the great multitude of nations unjustly coming against them, but to contend nobly,
 
 **2 Maccabees 8:17**
 
-having taken before their eyes the insult unlawfully completed by them against the holy place, and the abuse of the mocked city, and further the dissolution of the ancestral civic order.
+setting before their eyes the outrage unlawfully carried out by them against the holy place, and the abuse of the mocked city, and further the dissolution of the ancestral civic order.
 
 **2 Maccabees 8:18**
 
@@ -17332,15 +17628,15 @@ And recounting to them also the helps that happened in the time of the ancestors
 
 **2 Maccabees 8:20**
 
-and the battle in Babylonia against the Galatians, how all came to the need, 8,000 with 4,000 Macedonians, when the Macedonians were at a loss, the 8,000 destroyed 120,000 because of the help that came to them from heaven, and received much benefit.
+and the battle in Babylonia against the Galatians, how all who came to the need were 8,000 with 4,000 Macedonians; when the Macedonians were at a loss, the 8,000 destroyed 120,000 because of the help that came to them from heaven, and received much benefit.
 
 **2 Maccabees 8:21**
 
-After making them confident on these things and ready to die on behalf of the laws and the fatherland, he made the army into a certain four-part thing;
+After making them confident on these things and ready to die on behalf of the laws and the fatherland, he made the army into four divisions;
 
 **2 Maccabees 8:22**
 
-appointing also his brothers as leaders of each order, Simon and Joseph and Jonathan, assigning to each 1,500,
+appointing also his brothers as leaders of each division, Simon and Joseph and Jonathan, assigning to each 1,500,
 
 **2 Maccabees 8:23**
 
@@ -17348,11 +17644,11 @@ and also Eleazar, after reading aloud the holy book and giving the watchword, "G
 
 **2 Maccabees 8:24**
 
-And when the Almighty became an ally to them, they slaughtered over 9,000 of the enemies, and made the greatest part of Nicanor's army wounded and disabled in limbs, and forced all to flee.
+And when the Almighty became an ally to them, they slaughtered over 9,000 of the enemies, and made most of Nicanor's army wounded and disabled in limbs, and forced all to flee.
 
 **2 Maccabees 8:25**
 
-And they took the monies of those who had come for their purchase; and after pursuing them for a considerable time, they turned back, being shut in by the hour.
+And they took the money of those who had come for their purchase; and after pursuing them for a considerable time, they turned back, being constrained by the hour.
 
 **2 Maccabees 8:26**
 
@@ -17372,19 +17668,19 @@ And having accomplished these things and made a common supplication, they asked 
 
 **2 Maccabees 8:30**
 
-And from those around Timotheus and Bacchides who were fighting with them, they took down more than 20,000 of them, and gained control of very high strongholds; and they divided very many spoils, making themselves equal shares with those who had been abused, and orphans and widows, and further also elders.
+And from those around Timotheus and Bacchides who were fighting with them, they killed more than 20,000 of them, and gained control of very high strongholds; and they divided very many spoils, making those who had been abused, and orphans and widows, and further also elders, equal sharers with themselves.
 
 **2 Maccabees 8:31**
 
-And after collecting their weapons, they carefully stored all in the critical places, but the remaining spoils they brought into Jerusalem.
+And after collecting their weapons, they carefully stored all in the strategic places, but the remaining spoils they brought into Jerusalem.
 
 **2 Maccabees 8:32**
 
-And they killed the tribal leader of those around Timotheus, a most unholy man and one who had grieved the Jews much.
+And they killed the tribal leader of those around Timotheus, a most unholy man and one who had caused the Jews much grief.
 
 **2 Maccabees 8:33**
 
-And while leading victory celebrations in the fatherland, those who had burned the holy gates, Callisthenes and some others who had fled into one little house, they set on fire; these received a reward worthy of impiety.
+And while celebrating victories in the fatherland, they set on fire Callisthenes and some others, those who had burned the holy gates and had fled into one little house; these received a reward worthy of impiety.
 
 **2 Maccabees 8:34**
 
@@ -17392,17 +17688,17 @@ But the thrice-wretched Nicanor, who had brought the thousand merchants for the 
 
 **2 Maccabees 8:35**
 
-having been humbled, with the Lord's help, by those deemed least according to him, having put off the glorious clothing, through the inland region, making himself solitary in the manner of a runaway, came to Antioch, having had exceedingly bad success at the destruction of the army.
+having been humbled, with the Lord's help, by those deemed least by his own estimation, having put off the splendid clothing, through the inland region, making himself solitary in the manner of a runaway, came to Antioch, having fared exceedingly badly at the destruction of the army.
 
 **2 Maccabees 8:36**
 
-And the one who had undertaken to set right the tribute to the Romans from the captivity of those in Jerusalem reported that the Jews have God as defender, and because of this manner the Jews were unwoundable, because they followed the laws set before them by him.
+And the one who had undertaken to set right the tribute to the Romans from the captivity of those in Jerusalem reported that the Jews have God as defender, and that in this way the Jews were not to be wounded, because they followed the laws set before them by him.
 
 ### Chapter 9
 
 **2 Maccabees 9:1**
 
-And about that time Antiochus happened to have withdrawn disorderly from the regions in Persia.
+And about that time Antiochus happened to have retreated in disorder from the regions in Persia.
 
 **2 Maccabees 9:2**
 
@@ -17410,15 +17706,15 @@ For he had entered the place called Persepolis, and attempted to plunder the tem
 
 **2 Maccabees 9:3**
 
-And when he was at Ecbatana, the things that had happened concerning Nicanor and those around Timotheus fell to him.
+And when he was at Ecbatana, the things that had happened concerning Nicanor and those around Timotheus came to him.
 
 **2 Maccabees 9:4**
 
-And being lifted up by anger, he supposed he would press onto the Jews also the evil of those who had made him flee; therefore he ordered the chariot-driver, driving without ceasing, to finish the journey, the judgment from heaven indeed going with him; for thus proudly he said, "I will make Jerusalem a mass grave of Jews when I arrive there."
+And being lifted up by anger, he supposed he would thrust onto the Jews also the evil done by those who had made him flee; therefore he ordered the chariot-driver, driving without ceasing, to finish the journey, the judgment from heaven indeed going with him; for thus proudly he said, "I will make Jerusalem a mass grave of Jews when I arrive there."
 
 **2 Maccabees 9:5**
 
-But the all-watching Lord, the God of Israel, struck him with an incurable and invisible blow; and just as he finished the word, an incurable pain of the bowels took him, and bitter torments of the inner parts,
+But the all-watching Lord, the God of Israel, struck him with an incurable and invisible blow; and just as he finished the saying, an incurable pain of the bowels took him, and bitter torments of the inner parts,
 
 **2 Maccabees 9:6**
 
@@ -17426,11 +17722,11 @@ very justly, since he had tortured the bowels of others with many and strange ca
 
 **2 Maccabees 9:7**
 
-But he in no way ceased from haughtiness; indeed he was even filled with arrogance, breathing fire in his passions against the Jews and commanding the journey to be hastened. But it happened also that he fell from the chariot as it was carried with a roar, and, having fallen into a grievous fall, all the members of the body were twisted.
+But he in no way ceased from haughtiness; indeed he was even filled with arrogance, breathing fire in his anger against the Jews and commanding the journey to be hastened. But it happened also that he fell from the chariot as it was rushing with a roar, and, having fallen in a grievous fall, all the members of the body were twisted.
 
 **2 Maccabees 9:8**
 
-And he who just now seemed to command the waves of the sea, because of arrogance beyond man, and supposed he could set the heights of the mountains on scales, having come down to the ground, was being carried in a litter, showing to all the manifest power of God;
+And he who just now seemed to command the waves of the sea, because of arrogance beyond human measure, and supposed he could set the heights of the mountains on scales, having come down to the ground, was being carried in a litter, showing to all the manifest power of God;
 
 **2 Maccabees 9:9**
 
@@ -17438,15 +17734,15 @@ so that even from the body of the impious man worms swarmed up, and while he liv
 
 **2 Maccabees 9:10**
 
-And the one who a little before seemed to touch the heavenly stars, no one was able to carry because of the unbearable weight of the smell.
+And no one was able to carry the one who a little before seemed to touch the heavenly stars, because of the unbearable weight of the smell.
 
 **2 Maccabees 9:11**
 
-Therefore there, having been crushed, he began to cease from much of his arrogance and to come into recognition, being increased in pains moment by moment by a divine whip.
+Therefore there, having been crushed, he began to cease from much of his arrogance and to come to recognition, being increased in pains moment by moment by a divine scourge.
 
 **2 Maccabees 9:12**
 
-And not even being able to endure his own smell, he said these things: "It is righteous to be subject to God, and, being mortal, not to think things equal to God arrogantly."
+And not even being able to endure his own smell, he said these things: "It is righteous to be subject to God, and, being mortal, not to think arrogantly as one equal to God."
 
 **2 Maccabees 9:13**
 
@@ -17474,15 +17770,15 @@ But when the pains in no way ceased, for the just judgment of God had come upon 
 
 **2 Maccabees 9:19**
 
-To the good Jews, the citizens, much greeting and health and good action, from King and General Antiochus.
+To the good Jews, the citizens, much greeting and health and prosperity, from King and General Antiochus.
 
 **2 Maccabees 9:20**
 
-If you and the children are strong, and your own affairs are according to mind, I make the greatest thanks to God, having hope toward heaven.
+If you and the children are strong, and your own affairs are according to your mind, I give the greatest thanks to God, having hope toward heaven.
 
 **2 Maccabees 9:21**
 
-And I myself was disposed weakly, but would remember affectionately your honor and goodwill; returning from the regions around Persia and having fallen into a sickness having difficulty, I considered it necessary to care for the common safety of all,
+And I myself was lying weak, but would remember affectionately your honor and goodwill; returning from the regions around Persia and having fallen into a difficult sickness, I considered it necessary to care for the common safety of all,
 
 **2 Maccabees 9:22**
 
@@ -17502,11 +17798,11 @@ and besides these things, considering that the adjacent rulers and those neighbo
 
 **2 Maccabees 9:26**
 
-Therefore I exhort you and ask that, remembering the benefactions in common and in particular, each of you preserve the existing goodwill toward me and my son.
+Therefore I exhort you and ask that, remembering the benefactions publicly and privately, each of you preserve the existing goodwill toward me and my son.
 
 **2 Maccabees 9:27**
 
-For I am persuaded that he, following my purpose reasonably and humanely, will conduct himself together with you.
+For I am persuaded that he, following my purpose reasonably and humanely, will deal with you accordingly.
 
 **2 Maccabees 9:28**
 
@@ -17514,7 +17810,7 @@ Therefore the murderer and blasphemer, having suffered the worst things, as he h
 
 **2 Maccabees 9:29**
 
-And Philip, his foster-brother, was carrying the body; and he, being wary of Antiochus's son, was conveyed to Ptolemy Philometor in Egypt.
+And Philip, his foster-brother, carried the body; and he, being wary of Antiochus's son, was conveyed to Ptolemy Philometor in Egypt.
 
 ### Chapter 10
 
@@ -17528,11 +17824,11 @@ and the altars in the marketplace made by the foreigners, and further the sacred
 
 **2 Maccabees 10:3**
 
-And having cleansed the temple, they made another altar, and striking stones and taking fire from them, they brought up sacrifice after a two-year time, and made incense and lamps and the presentation of the loaves.
+And having cleansed the temple, they made another altar, and striking stones and taking fire from them, they brought up sacrifice after two years' time, and made incense and lamps and the presentation of the loaves.
 
 **2 Maccabees 10:4**
 
-And doing these things, falling on the belly, they asked the Lord no longer to fall into such evils, but if ever they should sin, to be disciplined by him with fairness, and not to be handed over to blasphemous and barbarian nations.
+And doing these things, falling on their bellies, they asked the Lord that they no longer fall into such evils, but if ever they should sin, that they be disciplined by him with fairness, and not be handed over to blasphemous and barbarian nations.
 
 **2 Maccabees 10:5**
 
@@ -17540,11 +17836,11 @@ And on the day in which the temple was profaned by foreigners, it happened on th
 
 **2 Maccabees 10:6**
 
-And with gladness they kept eight days in the manner of tabernacles, remembering how a little time before they had been feeding in the mountains and in the caves in the manner of beasts during the feast of tents.
+And with gladness they kept eight days in the manner of tabernacles, remembering how a little time before they had been living in the mountains and in the caves in the manner of beasts during the feast of tents.
 
 **2 Maccabees 10:7**
 
-Therefore, having thyrsi and beautiful branches, and further palms, they brought up hymns to the one who prospered the cleansing of his own place.
+Therefore, having thyrsi and beautiful branches, and further palms, they brought up hymns to the one who made the cleansing of his own place prosper.
 
 **2 Maccabees 10:8**
 
@@ -17552,11 +17848,11 @@ And they decreed with common command and vote for the whole nation of the Jews t
 
 **2 Maccabees 10:9**
 
-And the things of the death of Antiochus, called Epiphanes, were thus.
+And the things concerning the death of Antiochus, called Epiphanes, were thus.
 
 **2 Maccabees 10:10**
 
-But now we will make clear the things concerning Antiochus Eupator, son of the impious one, shortening the evils of the wars themselves.
+But now we will make clear the things concerning Antiochus Eupator, son of the impious one, summarizing the evils of the wars themselves.
 
 **2 Maccabees 10:11**
 
@@ -17564,19 +17860,19 @@ For he, receiving the kingdom, appointed a certain Lysias over the affairs, chie
 
 **2 Maccabees 10:12**
 
-For Ptolemy called Macron, leading in preserving justice toward the Jews because of the injustice that had happened to them, also tried to conduct things toward them peaceably.
+For Ptolemy called Macron, taking the lead in preserving justice toward the Jews because of the injustice that had happened to them, also tried to conduct affairs toward them peaceably.
 
 **2 Maccabees 10:13**
 
-Therefore, being accused by the friends before Eupator and hearing "traitor" at every turn, because, after being entrusted with Cyprus by Philometor, he left it and withdrew to Antiochus Epiphanes, having no noble authority, under discouragement poisoning himself, he left life.
+Therefore, being accused by the friends before Eupator and hearing "traitor" at every turn, because, after being entrusted with Cyprus by Philometor, he left it and withdrew to Antiochus Epiphanes, having no noble authority, under discouragement he poisoned himself and left life.
 
 **2 Maccabees 10:14**
 
-But Gorgias, becoming general of the places, was maintaining foreigners and at every turn nourishing war against the Jews,
+But Gorgias, becoming general of the places, was maintaining foreign troops and at every turn fostering war against the Jews,
 
 **2 Maccabees 10:15**
 
-and together with this, the Idumeans also, being in control of critical strongholds, were harassing the Jews, and taking in those exiled from Jerusalem, were attempting to nourish war.
+and together with this, the Idumeans also, being in control of strategic strongholds, were harassing the Jews, and taking in those exiled from Jerusalem, were attempting to foster war.
 
 **2 Maccabees 10:16**
 
@@ -17584,7 +17880,7 @@ But those around Maccabeus, making a litany and asking God to become ally to the
 
 **2 Maccabees 10:17**
 
-and attacking them vigorously, they became masters of the places, and warded off all those fighting on the wall; and they slaughtered those falling in, and killed no fewer than 20,000.
+and attacking them vigorously, they became masters of the places, and repelled all those fighting on the wall; and they slaughtered those falling in, and killed no fewer than 20,000.
 
 **2 Maccabees 10:18**
 
@@ -17592,7 +17888,7 @@ And when no fewer than 9,000 had fled together into two very strong towers, havi
 
 **2 Maccabees 10:19**
 
-Maccabeus, leaving Simon and Joseph, and also Zacchaeus and those with him, enough for their siege, in urgent places, himself departed.
+Maccabeus, leaving Simon and Joseph, and also Zacchaeus and those with him, enough for their siege, departed himself to urgent places.
 
 **2 Maccabees 10:20**
 
@@ -17600,7 +17896,7 @@ But those around Simon, loving money, were persuaded by some of those in the tow
 
 **2 Maccabees 10:21**
 
-But when what had happened was reported to Maccabeus, gathering the leaders of the people, he accused them that they had sold the brothers for silver, releasing the enemies against them.
+But when what had happened was reported to Maccabeus, gathering the leaders of the people, he accused them that they had sold their brothers for silver, releasing the enemies against them.
 
 **2 Maccabees 10:22**
 
@@ -17608,15 +17904,15 @@ Therefore these, having become traitors, he killed, and immediately seized the t
 
 **2 Maccabees 10:23**
 
-And with weapons, prospering in all things in his hands, he destroyed in the two strongholds more than 20,000.
+And being prospered in all things with weapons in his hands, he destroyed more than 20,000 in the two strongholds.
 
 **2 Maccabees 10:24**
 
-But Timotheus, who had formerly been defeated by the Jews, gathering foreign forces in great multitudes and assembling not a few horses from Asia, was present as one about to take Judea spear-captive.
+But Timotheus, who had formerly been defeated by the Jews, gathering foreign forces in great multitudes and assembling not a few horses from Asia, came as one about to take Judea spear-captive.
 
 **2 Maccabees 10:25**
 
-But those around Maccabeus, as he drew near, turned to supplication of God, sprinkling earth on their heads and girding their loins with sackcloth,
+But those around Maccabeus, as he drew near, turned to supplication to God, sprinkling earth on their heads and girding their loins with sackcloth,
 
 **2 Maccabees 10:26**
 
@@ -17624,19 +17920,19 @@ falling upon the step opposite the altar, they asked him, becoming gracious to t
 
 **2 Maccabees 10:27**
 
-And having come from the petition, taking up the weapons, they advanced farther from the city; and drawing near to the enemies, they were by themselves.
+And rising from the petition, taking up the weapons, they advanced farther from the city; and drawing near to the enemies, they were by themselves.
 
 **2 Maccabees 10:28**
 
-And when dawn was just succeeding, both sides attacked; the one having as pledge of success and victory, with virtue, the refuge to the Lord, but the others appointing passion as leader of the contests.
+And when dawn was just succeeding, both sides attacked; the former having as pledge of success and victory, with virtue, their refuge to the Lord, but the others appointing anger as leader of the contests.
 
 **2 Maccabees 10:29**
 
-And when the battle became strong, there appeared to the opponents from heaven, on horses with golden bridles, five distinguished men, and two were leading the Jews,
+And when the battle became fierce, there appeared to the opponents from heaven, on horses with golden bridles, five distinguished men, and two were leading the Jews,
 
 **2 Maccabees 10:30**
 
-and taking Maccabeus in the middle and covering him with their own full armor, they kept him unwounded; and at the opponents they were throwing arrows and thunderbolts; therefore, confused by lack of sight, they were cut down, filled with disturbance.
+and taking Maccabeus in the middle and covering him with their own full armor, they kept him unwounded; and at the opponents they were throwing arrows and thunderbolts; therefore, confused by blindness, they were cut down, filled with disturbance.
 
 **2 Maccabees 10:31**
 
@@ -17644,11 +17940,11 @@ And 20,500 were slaughtered, and 600 horsemen.
 
 **2 Maccabees 10:32**
 
-But Timotheus himself fled together into a stronghold called Gazara, a very strong fortress, Chereas being general there.
+But Timotheus himself fled into a stronghold called Gazara, a very strong fortress, Chereas being general there.
 
 **2 Maccabees 10:33**
 
-And those around Maccabeus gladly sat around the fortress four days.
+And those around Maccabeus gladly besieged the fortress four days.
 
 **2 Maccabees 10:34**
 
@@ -17656,11 +17952,11 @@ But those inside, trusting in the strength of the place, were blaspheming exceed
 
 **2 Maccabees 10:35**
 
-And as the fifth day was beginning to appear, twenty young men of those around Maccabeus, inflamed in passions because of the blasphemies, attacking the wall in a manly manner and with beastlike passion, were cutting down the one who fell in,
+And as the fifth day was beginning to appear, twenty young men of those around Maccabeus, inflamed in anger because of the blasphemies, attacking the wall in a manly manner and with beastlike passion, were cutting down whoever fell in their way,
 
 **2 Maccabees 10:36**
 
-and others similarly climbing up in the distraction against those inside were burning the towers, and kindling fires were burning the blasphemers alive; and others were cutting through the gates, and receiving the rest of the order, they took the city beforehand,
+and others similarly climbing up in the distraction against those inside were burning the towers, and kindling fires were burning the blasphemers alive; and others were cutting through the gates, and receiving the rest of the division, they seized the city,
 
 **2 Maccabees 10:37**
 
@@ -17690,7 +17986,7 @@ in no way considering the power of God, but being maddened by the myriads of foo
 
 **2 Maccabees 11:5**
 
-And entering Judea and drawing near to Bethsura, which was a strong place and was about five stadia from Jerusalem, he was pressing this place.
+And entering Judea and drawing near to Bethsura, which was a strong place and was about five stadia from Jerusalem, he was besieging this place.
 
 **2 Maccabees 11:6**
 
@@ -17702,11 +17998,11 @@ And Maccabeus himself first took up the weapons and exhorted the others, togethe
 
 **2 Maccabees 11:8**
 
-And right there, as they were near Jerusalem, one leading them on horseback in white clothing appeared, shaking golden full armor.
+And right there, as they were near Jerusalem, one leading them on horseback in white clothing appeared, brandishing golden full armor.
 
 **2 Maccabees 11:9**
 
-And all together blessed the merciful God and were strengthened in souls, being ready to wound not only men but also the wildest beasts and iron walls.
+And all together blessed the merciful God and were strengthened in their souls, being ready to wound not only men but also the wildest beasts and iron walls.
 
 **2 Maccabees 11:10**
 
@@ -17714,7 +18010,7 @@ They advanced in battle order, having the ally from heaven, the Lord having merc
 
 **2 Maccabees 11:11**
 
-And striking into the enemies lion-like, they laid down 11,000 of them and 1,600 horsemen; and they forced all to flee.
+And striking into the enemies lion-like, they struck down 11,000 of them and 1,600 horsemen; and they forced all to flee.
 
 **2 Maccabees 11:12**
 
@@ -17722,11 +18018,11 @@ And most of them, wounded and naked, escaped; and Lysias himself, shamefully fle
 
 **2 Maccabees 11:13**
 
-But being not without understanding, casting together to himself the defeat that had happened around him, and considering that the Hebrews were invincible, all-powerful God fighting as ally to them,
+But being not without understanding, reckoning with himself the defeat that had happened around him, and considering that the Hebrews were invincible, with all-powerful God fighting as ally to them,
 
 **2 Maccabees 11:14**
 
-having sent to them, he persuaded them to make settlement on all just terms, and said that he would also persuade the king, compelling him to become a friend to them.
+sending to them, he persuaded them to settle on all just terms, and said that he would also persuade the king, pressing him to become a friend to them.
 
 **2 Maccabees 11:15**
 
@@ -17734,7 +18030,7 @@ And Maccabeus nodded assent to all the things Lysias entreated, taking thought f
 
 **2 Maccabees 11:16**
 
-For the letters written to the Jews from Lysias contained this manner: Lysias to the multitude of the Jews, greetings.
+For the letters written to the Jews from Lysias contained this form: Lysias to the multitude of the Jews, greetings.
 
 **2 Maccabees 11:17**
 
@@ -17746,7 +18042,7 @@ Therefore as many things as also needed to be brought to the king I made clear, 
 
 **2 Maccabees 11:19**
 
-Therefore if you preserve the goodwill toward the affairs, also for the future I will try to become cause of good things for you.
+Therefore if you preserve goodwill toward the affairs, also for the future I will try to become a source of good things for you.
 
 **2 Maccabees 11:20**
 
@@ -17754,7 +18050,7 @@ But concerning the particulars, I have commanded both these men and those from m
 
 **2 Maccabees 11:21**
 
-Be strong. Year 148, Dioscorinthius 24th.
+Farewell. Year 148, Dioscorinthius 24th.
 
 **2 Maccabees 11:22**
 
@@ -17762,19 +18058,19 @@ And the king's letter contained thus: King Antiochus to brother Lysias, greeting
 
 **2 Maccabees 11:23**
 
-Our father having departed to gods, wishing those from the kingdom to be undisturbed for the care of their own affairs,
+Our father having departed to gods, wishing those in the kingdom to remain undisturbed in the care of their own affairs,
 
 **2 Maccabees 11:24**
 
-having heard that the Jews do not consent to our father's changeover to Greek things, but choose their own conduct, and because of this ask that their legal customs be conceded to them;
+having heard that the Jews do not consent to our father's changeover to Greek customs, but choose their own conduct, and because of this ask that their legal customs be conceded to them;
 
 **2 Maccabees 11:25**
 
-therefore choosing that this nation also be outside disturbance, we judge that the temple be restored to them, and that they conduct citizenship according to the customs of their ancestors.
+therefore choosing that this nation also be free from disturbance, we judge that the temple be restored to them, and that they conduct their citizenship according to the customs of their ancestors.
 
 **2 Maccabees 11:26**
 
-Therefore you will do well, sending to them and giving right hands, so that knowing our purpose, they may be good-spirited and gladly go through with the recovery of their own affairs.
+Therefore you will do well, sending to them and giving right hands, so that knowing our purpose, they may be good-spirited and gladly continue in the recovery of their own affairs.
 
 **2 Maccabees 11:27**
 
@@ -17786,11 +18082,11 @@ If you are strong, it would be as we wish; and we ourselves are healthy.
 
 **2 Maccabees 11:29**
 
-Menelaus has disclosed to us that you wish, having come down, to be with your own affairs.
+Menelaus has disclosed to us that you wish, having come down, to attend to your own affairs.
 
 **2 Maccabees 11:30**
 
-Therefore to those going down until the thirtieth of Xanthicus there will be right hand with security,
+Therefore to those going down until the thirtieth of Xanthicus there will be a right hand with security,
 
 **2 Maccabees 11:31**
 
@@ -17802,7 +18098,7 @@ And I have sent Menelaus also to exhort you.
 
 **2 Maccabees 11:33**
 
-Be strong. Year 148, Xanthicus 15th.
+Farewell. Year 148, Xanthicus 15th.
 
 **2 Maccabees 11:34**
 
@@ -17814,11 +18110,11 @@ Concerning the things Lysias the king's kinsman conceded to you, we also approve
 
 **2 Maccabees 11:36**
 
-But what he judged to be brought before the king, send someone at once after inspecting these things, so that we may set them out as is fitting for you; for we are going to Antioch.
+But what he judged to be brought before the king, after considering these things send someone at once, so that we may set them out as is fitting for you; for we are going to Antioch.
 
 **2 Maccabees 11:37**
 
-Therefore hurry and send some, so that we also may know what opinion you are of.
+Therefore hurry and send some, so that we also may know what your opinion is.
 
 **2 Maccabees 11:38**
 
@@ -17828,11 +18124,11 @@ Be healthy. Year 148, Xanthicus 15th.
 
 **2 Maccabees 12:1**
 
-These agreements having happened, Lysias went away to the king, and the Jews were about agriculture.
+These agreements having happened, Lysias went away to the king, and the Jews were occupied with agriculture.
 
 **2 Maccabees 12:2**
 
-But of the local generals, Timotheus and Apollonius son of Gennaeus, and still Hieronymus and Demophon, and besides these Nicanor the Cyprus-ruler, were not allowing them to be stable and to conduct the things of quietness.
+But of the local generals, Timotheus and Apollonius son of Gennaeus, and still Hieronymus and Demophon, and besides these Nicanor the Cyprus-ruler, were not allowing them to remain stable and to live in quietness.
 
 **2 Maccabees 12:3**
 
@@ -17840,7 +18136,7 @@ But Joppites completed such an impious deed: having invited the Jews living with
 
 **2 Maccabees 12:4**
 
-and according to the common vote of the city, and these accepting it as those wishing to be at peace and having nothing suspicious, when they had been brought out to sea, they drowned them, being no fewer than two hundred.
+and according to the common vote of the city, and they accepted it as those wishing to be at peace and having no suspicion; when they had been brought out to sea, they drowned them, being no fewer than two hundred.
 
 **2 Maccabees 12:5**
 
@@ -17852,7 +18148,7 @@ and having called upon God the righteous judge, came against the murderers of th
 
 **2 Maccabees 12:7**
 
-But when the place was closed up, he withdrew, as one who would come again and root out the whole citizenship of the Joppites.
+But when the place was closed up, he withdrew, as one who would come again and root out the whole civic body of the Joppites.
 
 **2 Maccabees 12:8**
 
@@ -17864,11 +18160,11 @@ and attacking the Jamnites by night, he set the harbor with the fleet on fire, s
 
 **2 Maccabees 12:10**
 
-And having been drawn away from there nine stadia, as they made the journey toward Timotheus, Arabs attacked him, no fewer than 5,000 and 500 cavalry.
+And having moved away from there nine stadia, as they made the journey toward Timotheus, Arabs attacked him, no fewer than 5,000 and 500 cavalry.
 
 **2 Maccabees 12:11**
 
-And when a strong battle happened, and those around Judas prospered because of the help from God, the defeated Nomad Arabs asked Judas to give them right hands, promising both to give livestock and to benefit them in the remaining matters.
+And when a fierce battle happened, and those around Judas prospered because of the help from God, the defeated Nomad Arabs asked Judas to give them right hands, promising both to give livestock and to benefit them in the remaining matters.
 
 **2 Maccabees 12:12**
 
@@ -17876,23 +18172,23 @@ And Judas, supposing that they would truly be useful in many things, agreed to m
 
 **2 Maccabees 12:13**
 
-And he also made an attack upon a certain bridged strong city, enclosed by walls and inhabited by all-mixed nations, and the name was Caspin.
+And he also made an attack upon a certain strong city with bridges, enclosed by walls and inhabited by all-mixed nations, and the name was Caspin.
 
 **2 Maccabees 12:14**
 
-But those inside, trusting in the strength of the walls and the store of foods, behaved more rudely, reviling those around Judas, and furthermore blaspheming and speaking things not lawful.
+But those inside, trusting in the strength of the walls and the supply of food, behaved more rudely, reviling those around Judas, and furthermore blaspheming and speaking things not lawful.
 
 **2 Maccabees 12:15**
 
-But those around Judas, calling upon the great ruler of the world, who without rams and mechanical engines overthrew Jericho in the times of Joshua, shook the wall beastlike.
+But those around Judas, calling upon the great ruler of the world, who without rams and siege engines overthrew Jericho in the times of Joshua, shook the wall like beasts.
 
 **2 Maccabees 12:16**
 
-And seizing the city by the will of God, they made untold slaughters, so that the adjacent lake, having a width of two stadia, appeared filled with blood flowing down.
+And seizing the city by the will of God, they made untold slaughter, so that the adjacent lake, having a width of two stadia, appeared filled with blood flowing down.
 
 **2 Maccabees 12:17**
 
-And from there, having pulled away 750 stadia, they completed the journey to Charax, toward the Jews called Tubians.
+And from there, having departed 750 stadia, they completed the journey to Charax, toward the Jews called Tubians.
 
 **2 Maccabees 12:18**
 
@@ -17912,7 +18208,7 @@ But Timotheus, learning Judas's advance, sent the women and the children and the
 
 **2 Maccabees 12:22**
 
-And when Judas's first company appeared, and fear came upon the enemies, and terror from the manifestation of the one who watches all came upon them, they rushed into flight, one being carried one way, another another, so that often they were injured by their own and pierced by the points of swords.
+And when Judas's first company appeared, and fear came upon the enemies, and terror from the manifestation of the one who watches all came upon them, they rushed into flight, one carried one way, another another, so that often they were injured by their own men and pierced by the points of swords.
 
 **2 Maccabees 12:23**
 
@@ -17920,11 +18216,11 @@ And Judas made the pursuit more vigorous, stabbing the accursed ones, and he des
 
 **2 Maccabees 12:24**
 
-And Timotheus himself, falling into the hands of those around Dositheus and Sosipater, asked with much craft to be released safe, because he had parents of many and brothers of some, and these would happen to be disregarded if he died.
+And Timotheus himself, falling into the hands of those around Dositheus and Sosipater, asked with much guile to be released safe, because he had parents of many and brothers of some, and these would happen to be disregarded if he died.
 
 **2 Maccabees 12:25**
 
-And when he confirmed with many words the agreement that he would restore these unharmed, they released him for the salvation of the brothers.
+And when he gave assurance with many words according to the agreement that he would restore these unharmed, they released him for the salvation of the brothers.
 
 **2 Maccabees 12:26**
 
@@ -17932,11 +18228,11 @@ And going out upon Carnion and the Atargateion, he slaughtered 25,000 bodies.
 
 **2 Maccabees 12:27**
 
-And after the turning and destruction of these, Judas marched also upon Ephron, a strong city in which Lysias dwelt, and an all-mixed multitude; and strong young men standing before the walls were defending vigorously, and there were many stores of engines and missiles.
+And after their rout and destruction, Judas marched also upon Ephron, a strong city in which Lysias dwelt, and a mixed multitude; and strong young men standing before the walls were defending vigorously, and there were many stores of engines and missiles.
 
 **2 Maccabees 12:28**
 
-And calling upon the Ruler, who with power breaks the strengths of the enemies, they took the city under hand and laid down about 25,000 of those inside.
+And calling upon the Ruler, who with power breaks the strengths of the enemies, they took the city under their hand and struck down about 25,000 of those inside.
 
 **2 Maccabees 12:29**
 
@@ -17944,7 +18240,7 @@ And breaking camp from there, they rushed upon the city of Scythians, 600 stadia
 
 **2 Maccabees 12:30**
 
-But when the Jews living there testified to the goodwill that the Scythopolitans had toward them, and that in the times of misfortune they made a gentle meeting,
+But when the Jews living there testified to the goodwill that the Scythopolitans had toward them, and that in the times of misfortune they treated them gently,
 
 **2 Maccabees 12:31**
 
@@ -17972,7 +18268,7 @@ But when those around Esdris were fighting more and were worn out, Judas called 
 
 **2 Maccabees 12:37**
 
-beginning in the ancestral voice the shout with hymns, crying out, and shaking unexpectedly against those around Gorgias, he made their rout.
+beginning in the ancestral voice the shout with hymns, crying out, and shaking unexpectedly against those around Gorgias, he put them to rout.
 
 **2 Maccabees 12:38**
 
@@ -17980,7 +18276,7 @@ And Judas, taking up the army, led it to the city Odollam; and as the week was c
 
 **2 Maccabees 12:39**
 
-And on the next day, those around Judas came, according as the need had happened, to carry back the bodies of those who had fallen before and to restore them with their relatives into the ancestral tombs.
+And on the next day, those around Judas came, according as the need had happened, to carry back the bodies of those who had fallen before and restore them with their relatives into the ancestral tombs.
 
 **2 Maccabees 12:40**
 
@@ -17992,15 +18288,15 @@ Therefore all, blessing the Lord, the righteous judge, who makes hidden things v
 
 **2 Maccabees 12:42**
 
-turned to supplication, asking that the sin that had happened be fully wiped out. And noble Judas exhorted the multitude to keep themselves sinless, having seen under their eyes the things that had happened because of the sin of those who had fallen before.
+turned to supplication, asking that the sin that had happened be fully wiped out. And noble Judas exhorted the multitude to keep themselves sinless, having seen with their own eyes the things that had happened because of the sin of those who had fallen before.
 
 **2 Maccabees 12:43**
 
-And having made a collection man by man, preparations amounting to 2,000 drachmas of silver, he sent it to Jerusalem to bring a sacrifice concerning sin, acting very beautifully and nobly, reasoning about resurrection;
+And having made a collection man by man, amounting to 2,000 drachmas of silver, he sent it to Jerusalem to bring a sacrifice concerning sin, acting very beautifully and nobly, reasoning about resurrection;
 
 **2 Maccabees 12:44**
 
-for if he had not expected those who had fallen before to rise, it would have been excessive and foolish to pray concerning dead ones;
+for if he had not expected those who had fallen before to rise, it would have been excessive and foolish to pray concerning the dead;
 
 **2 Maccabees 12:45**
 
@@ -18010,7 +18306,7 @@ then looking to the most beautiful gracious gift laid up for those sleeping with
 
 **2 Maccabees 13:1**
 
-And in the 149th year it fell to those around Judas that Antiochus Eupator had come with multitudes upon Judea,
+And in the 149th year word came to those around Judas that Antiochus Eupator had come with multitudes upon Judea,
 
 **2 Maccabees 13:2**
 
@@ -18026,11 +18322,11 @@ But the King of kings roused the anger of Antiochus against the accursed one, an
 
 **2 Maccabees 13:5**
 
-And there is in the place a tower of fifty cubits, full of ashes; and this had a round instrument, steep all around into the ashes.
+And there is in the place a tower of fifty cubits, full of ashes; and this had a round device, steep all around into the ashes.
 
 **2 Maccabees 13:6**
 
-There all thrust into destruction the one who is guilty of temple-robbery or has committed an excess of some other evils.
+There they all thrust into destruction the one who is guilty of temple-robbery or has committed an excess of some other evils.
 
 **2 Maccabees 13:7**
 
@@ -18042,7 +18338,7 @@ very justly. For since he had committed many sins around the altar, whose fire a
 
 **2 Maccabees 13:9**
 
-But the king, barbarized in his thoughts, was coming to show the Jews the worst things beyond those that had happened under his father.
+But the king, made barbarous in his thoughts, was coming to show the Jews the worst things beyond those that had happened under his father.
 
 **2 Maccabees 13:10**
 
@@ -18054,19 +18350,19 @@ and not to allow the people, just briefly refreshed, to become subject to the bl
 
 **2 Maccabees 13:12**
 
-And when all did the same together and entreated the merciful Lord with weeping and fastings and prostration for three days without ceasing, Judas exhorted them and commanded them to be present.
+And when all did the same together and entreated the merciful Lord with weeping and fastings and prostration for three days without ceasing, Judas exhorted them and commanded them to come forward.
 
 **2 Maccabees 13:13**
 
-And having come by himself with the elders, he resolved, before the king's army entered Judea and became masters of the city, that they should go out and decide the affairs by the Lord's help.
+And meeting privately with the elders, he resolved, before the king's army entered Judea and became masters of the city, that they should go out and decide the affairs by the Lord's help.
 
 **2 Maccabees 13:14**
 
-And having given the commission to the Creator of the world, exhorting those with him to contend nobly until death concerning laws, temple, city, fatherland, and civic order, he made the encampment near Modein.
+And having committed the matter to the Creator of the world, exhorting those with him to contend nobly until death concerning laws, temple, city, fatherland, and civic order, he made the encampment near Modein.
 
 **2 Maccabees 13:15**
 
-And giving those around him the watchword "God's victory," with selected best young men attacking by night upon the royal court, in the camp he killed about 4,000 men, and the leading elephant with the crowd in its house.
+And giving those around him the watchword "God's victory," with selected best young men attacking by night upon the royal court, in the camp he killed about 4,000 men, and the leading elephant with the crowd in its housing.
 
 **2 Maccabees 13:16**
 
@@ -18074,15 +18370,15 @@ And in the end they filled the camp with fear and disturbance, and they departed
 
 **2 Maccabees 13:17**
 
-And this had happened as the day was already beginning to appear, because the Lord's shelter gave help to him.
+And this had happened as the day was already beginning to appear, because the Lord's shelter helped him.
 
 **2 Maccabees 13:18**
 
-But the king, having taken a taste of the good courage of the Jews, tested the places through methods.
+But the king, having taken a taste of the good courage of the Jews, tested the places through stratagems.
 
 **2 Maccabees 13:19**
 
-And he advanced upon Bethsura, a strong fortress of the Jews; and he was turned back, stumbled, and was lessened.
+And he advanced upon Bethsura, a strong fortress of the Jews; and he was turned back, stumbled, and was defeated.
 
 **2 Maccabees 13:20**
 
@@ -18090,11 +18386,11 @@ And to those inside Judas sent in the necessary things.
 
 **2 Maccabees 13:21**
 
-But Rhodocus from the Jewish order reported the mysteries to the enemies; and he was searched out, and seized, and imprisoned.
+But Rhodocus from the Jewish division reported the secrets to the enemies; and he was searched out, and seized, and imprisoned.
 
 **2 Maccabees 13:22**
 
-The king spoke a second time with those in Bethsura; he gave right hand, received, went away, attacked those around Judas, and became inferior,
+The king spoke a second time with those in Bethsura; he gave and received right hand, went away, attacked those around Judas, and was defeated,
 
 **2 Maccabees 13:23**
 
@@ -18106,7 +18402,7 @@ and he accepted Maccabeus; he left Hegemonides as general from Ptolemais to the 
 
 **2 Maccabees 13:25**
 
-and came to Ptolemais. The Ptolemaeans were displeased concerning the agreements, for they were indignant over the things by which they wished to nullify the stipulations.
+and came to Ptolemais. The Ptolemaeans were displeased concerning the agreements, for they were indignant over the matters in which they wished to nullify the stipulations.
 
 **2 Maccabees 13:26**
 
@@ -18116,7 +18412,7 @@ Lysias went up to the judgment seat, made as much defense as was possible, persu
 
 **2 Maccabees 14:1**
 
-And after a three-year time it fell to those around Judas that Demetrius, son of Seleucus, having sailed in through the harbor at Tripolis with a strong multitude and fleet,
+And after three years, word came to those around Judas that Demetrius, son of Seleucus, having sailed in through the harbor at Tripolis with a strong multitude and fleet,
 
 **2 Maccabees 14:2**
 
@@ -18124,19 +18420,19 @@ had taken control of the country, having removed Antiochus and his guardian Lysi
 
 **2 Maccabees 14:3**
 
-But a certain Alcimus, who had formerly become high priest, but had been voluntarily defiled in the times of mixing, considering that by any manner there was no salvation for him nor any longer approach to the holy altar,
+But a certain Alcimus, who had formerly become high priest, but had been voluntarily defiled in the times of mingling, considering that in any manner there was no salvation for him nor any longer approach to the holy altar,
 
 **2 Maccabees 14:4**
 
-came to King Demetrius in the 151st year, bringing him a golden crown and a palm, and besides these some of the customary branches of the temple; and that day he had quiet.
+came to King Demetrius in the 151st year, bringing him a golden crown and a palm, and besides these some of the customary branches of the temple; and that day he kept quiet.
 
 **2 Maccabees 14:5**
 
-But taking opportunity, a coworker of his own folly, being called into council by Demetrius and asked in what disposition and counsel the Jews were established, he said to these things,
+But taking opportunity as a coworker of his own folly, being called into council by Demetrius and asked in what disposition and counsel the Jews were established, he answered,
 
 **2 Maccabees 14:6**
 
-"The so-called Hasideans of the Jews, of whom Judas Maccabeus is leader, nourish war and make factions, not allowing the kingdom to obtain stability.
+"The so-called Hasideans of the Jews, of whom Judas Maccabeus is leader, foster war and stir up factions, not allowing the kingdom to obtain stability.
 
 **2 Maccabees 14:7**
 
@@ -18148,7 +18444,7 @@ First, thinking sincerely on behalf of the things belonging to the king, and sec
 
 **2 Maccabees 14:9**
 
-But you, O king, knowing each of these things, provide for the country and our race surrounded, according to the humane kindness that you have, easy to meet, toward all.
+But you, O king, knowing each of these things, provide for the country and our hard-pressed race, according to the accessible humane kindness that you have toward all.
 
 **2 Maccabees 14:10**
 
@@ -18168,11 +18464,11 @@ giving commands to remove Judas himself, and to scatter those with him, and to e
 
 **2 Maccabees 14:14**
 
-And the nations who had fled Judas from Judea were mixing by herds with Nicanor, supposing the misfortunes and calamities of the Jews would be their own successes.
+And the nations that had fled from Judas out of Judea were mixing by herds with Nicanor, supposing the misfortunes and calamities of the Jews would be their own successes.
 
 **2 Maccabees 14:15**
 
-And hearing Nicanor's advance and the attack of the nations, sprinkling earth they made litany to the one who established his own people unto the age, and always with manifestation helps his own portion.
+And hearing Nicanor's advance and the attack of the nations, sprinkling earth they made supplication to the one who established his own people unto the age, and always helps his own portion with manifestation.
 
 **2 Maccabees 14:16**
 
@@ -18184,7 +18480,7 @@ And Simon, Judas's brother, had joined battle with Nicanor, but had stumbled a l
 
 **2 Maccabees 14:18**
 
-Nevertheless Nicanor, hearing the manly goodness of those around Judas, and their good courage in contests on behalf of the fatherland, was cautious to make the judgment through blood;
+Nevertheless Nicanor, hearing the manly goodness of those around Judas, and their good courage in contests on behalf of the fatherland, was cautious to make the decision through bloodshed;
 
 **2 Maccabees 14:19**
 
@@ -18192,23 +18488,23 @@ therefore he sent Posidonius and Theodotus and Mattathias, to give and receive r
 
 **2 Maccabees 14:20**
 
-And when much review had happened concerning these things, and the leader had communicated to the multitudes, and an opinion of one vote appeared, they nodded assent to the agreements.
+And when much consideration had happened concerning these things, and the leader had communicated to the multitudes, and a unanimous opinion appeared, they nodded assent to the agreements.
 
 **2 Maccabees 14:21**
 
-And they appointed a day on which they would privately come into the same place; and he came forward, and from each side they set separate stools.
+And they appointed a day on which they would privately come together; and he came forward, and from each side they set separate seats.
 
 **2 Maccabees 14:22**
 
-Judas arranged armed men ready in the critical places, lest some evil deed should suddenly happen from the enemies; they made the fitting mutual discussion.
+Judas arranged armed men ready in the strategic places, lest some evil deed should suddenly happen from the enemies; they made the fitting mutual discussion.
 
 **2 Maccabees 14:23**
 
-And Nicanor spent time in Jerusalem and did nothing out of place; and the crowds gathered in herds he dismissed.
+And Nicanor spent time in Jerusalem and did nothing out of place; and he dismissed the herdlike crowds that had gathered.
 
 **2 Maccabees 14:24**
 
-And he had Judas before his face continually; he was attached to the man according to soul.
+And he had Judas before his face continually; he was attached to the man from the soul.
 
 **2 Maccabees 14:25**
 
@@ -18216,15 +18512,15 @@ He exhorted him to marry and beget children; he married, was settled, and shared
 
 **2 Maccabees 14:26**
 
-But Alcimus, perceiving the goodwill toward one another and taking up the agreements that had happened, came to Demetrius and said that Nicanor thought things alien to the affairs; for he had appointed Judas, plotter against the kingdom, as successor to himself.
+But Alcimus, perceiving the goodwill toward one another and taking up the agreements that had happened, came to Demetrius and said that Nicanor had thoughts alien to the affairs; for he had appointed Judas, plotter against the kingdom, as successor to himself.
 
 **2 Maccabees 14:27**
 
-But the king, becoming enraged and provoked by the slanders of the all-wicked man, wrote to Nicanor, saying that he bore heavily over the agreements and commanding him to send Maccabeus bound quickly to Antioch.
+But the king, becoming enraged and provoked by the slanders of the all-wicked man, wrote to Nicanor, saying that he was greatly displeased over the agreements and commanding him to send Maccabeus bound quickly to Antioch.
 
 **2 Maccabees 14:28**
 
-And when these things fell to Nicanor, he was confused and bore it painfully, if he should nullify the stipulations when the man had wronged nothing.
+And when these things came to Nicanor, he was confused and bore it painfully, at the thought of nullifying the stipulations when the man had wronged nothing.
 
 **2 Maccabees 14:29**
 
@@ -18232,11 +18528,11 @@ But since acting against the king was not possible, he kept an opportune time to
 
 **2 Maccabees 14:30**
 
-But Maccabeus, perceiving Nicanor conducting himself more severely toward him and having the customary meeting more savage, understanding that the severity was not from the best, gathering not a few of those around himself, hid himself from Nicanor.
+But Maccabeus, perceiving Nicanor conducting himself more severely toward him and having the customary meeting more savage, understanding that the severity was not from good intent, gathering not a few of those around himself, hid himself from Nicanor.
 
 **2 Maccabees 14:31**
 
-And the other, realizing that he had been nobly outgeneraled by the man, came to the greatest and holy temple, as the priests were bringing the proper sacrifices, and commanded them to deliver the man.
+And Nicanor, realizing that he had been nobly outgeneraled by the man, came to the greatest and holy temple, as the priests were bringing the proper sacrifices, and commanded them to deliver the man.
 
 **2 Maccabees 14:32**
 
@@ -18260,11 +18556,11 @@ And now, holy Lord of every sanctification, keep this house, recently cleansed, 
 
 **2 Maccabees 14:37**
 
-But a certain Razis, one of the elders from Jerusalem, was reported to Nicanor, a man who loved the city and was heard very well of, and according to goodwill was called father of the Jews.
+But a certain Razis, one of the elders from Jerusalem, was reported to Nicanor, a man who loved the city and was very well spoken of, and because of his goodwill was called father of the Jews.
 
 **2 Maccabees 14:38**
 
-For in the former times of non-mixing he had brought forward judgment of Judaism, and had risked body and soul on behalf of Judaism with all intensity.
+For in the former times of separation he had incurred judgment for Judaism, and had risked body and soul on behalf of Judaism with all intensity.
 
 **2 Maccabees 14:39**
 
@@ -18272,41 +18568,41 @@ But Nicanor, wishing to make plain the hostility that he had toward the Jews, se
 
 **2 Maccabees 14:40**
 
-For it seemed that by arresting him he would work calamity to these.
+For it seemed that by arresting him he would bring calamity upon them.
 
 **2 Maccabees 14:41**
 
-But when the multitudes were about to seize the tower, and were forcing the courtyard door, and commanded fire to be brought and the doors to be set on fire, being surrounded for capture he set a sword under himself,
+But when the multitudes were about to seize the tower, and were forcing the courtyard door, and commanded fire to be brought and the doors to be set on fire, being surrounded for capture he set a sword against himself,
 
 **2 Maccabees 14:42**
 
-wishing nobly to die rather than become subject to the accursed ones and be insolently abused unworthy of his own nobility.
+wishing nobly to die rather than become subject to the accursed ones and be insolently abused in a way unworthy of his own nobility.
 
 **2 Maccabees 14:43**
 
-But not hitting straight with the blow because of the haste of the struggle, and the crowds breaking inside the doorways, running up nobly to the wall, he hurled himself bravely into the crowds.
+But not making a straight hit with the blow because of the haste of the struggle, and the crowds breaking inside the doorways, running up nobly to the wall, he hurled himself bravely into the crowds.
 
 **2 Maccabees 14:44**
 
-But when they quickly stepped back, and a space happened, he came into the middle of the hollow place.
+But when they quickly stepped back, and a space opened, he came into the middle of the empty place.
 
 **2 Maccabees 14:45**
 
-And still being breathing and inflamed in passions, he rose up, streams of blood being carried like fountains, and the wounds being grievous; running through the crowds and standing upon a certain steep rock,
+And still breathing and inflamed in anger, he rose up, blood flowing like fountains, and the wounds being grievous; running through the crowds and standing upon a certain steep rock,
 
 **2 Maccabees 14:46**
 
-already having become wholly bloodless, throwing forward the entrails and taking them with both hands, he shook them at the crowds; and calling upon the one who rules life and spirit to give these back to him again, in this manner he changed life.
+already having become wholly drained of blood, casting out his entrails and taking them with both hands, he shook them at the crowds; and calling upon the one who rules life and spirit to give these back to him again, in this manner he changed life.
 
 ### Chapter 15
 
 **2 Maccabees 15:1**
 
-But Nicanor, learning that those around Judas were in the places around Samaria, resolved to attack them on the day of rest with all security.
+But Nicanor, learning that those around Judas were in the places around Samaria, resolved to attack them on the day of rest with complete security.
 
 **2 Maccabees 15:2**
 
-But the Jews who were following him by compulsion said, "By no means destroy so savagely and barbarously, but apportion glory to the day honored beforehand with holiness by the one who watches all things."
+But the Jews who were following him by compulsion said, "By no means destroy so savagely and barbarously, but assign glory to the day honored beforehand with holiness by the one who watches all things."
 
 **2 Maccabees 15:3**
 
@@ -18322,7 +18618,7 @@ the other said, "And I also am a ruler upon earth, who commands weapons to be ta
 
 **2 Maccabees 15:6**
 
-And Nicanor, holding his neck high with all arrogance, had determined to set up a common trophy over those around Judas.
+And Nicanor, holding his neck high with all arrogance, had determined to set up a public trophy over those around Judas.
 
 **2 Maccabees 15:7**
 
@@ -18330,7 +18626,7 @@ But Maccabeus was unceasingly trusting with all hope to obtain help from the Lor
 
 **2 Maccabees 15:8**
 
-And he exhorted those with him not to be cowardly at the advance of the nations, but having in mind the helps from heaven that had happened before, also now to expect the victory and help that would be from the Almighty.
+And he exhorted those with him not to lose courage at the advance of the nations, but having in mind the helps from heaven that had happened before, also now to expect the victory and help that would be from the Almighty.
 
 **2 Maccabees 15:9**
 
@@ -18338,7 +18634,7 @@ And encouraging them from the law and the prophets, and reminding them also of t
 
 **2 Maccabees 15:10**
 
-And stirring them up in passions, he commanded them, at the same time showing the faithlessness of the nations and the transgression of oaths.
+And stirring them up in anger, he commanded them, at the same time showing the faithlessness of the nations and the transgression of oaths.
 
 **2 Maccabees 15:11**
 
@@ -18346,11 +18642,11 @@ And arming each of them, not with the security of shields and spears so much as 
 
 **2 Maccabees 15:12**
 
-And his vision was such: Onias, who had been high priest, a good and noble man, modest in meeting, gentle in manner, putting forward speech fittingly, and from a child trained in all the proper things of virtue, this one stretching out his hands and praying for the whole body of the Jews.
+And his vision was such: Onias, who had been high priest, a good and noble man, modest in meeting, gentle in manner, speaking fittingly, and from a child trained in all the proper things of virtue, this one stretching out his hands and praying for the whole body of the Jews.
 
 **2 Maccabees 15:13**
 
-Then in this way a man appeared, distinguished in gray hair and glory, and a certain marvelous and most magnificent preeminence was around him.
+Then in this way a man appeared, distinguished in gray hair and glory, and a certain marvelous and most magnificent majesty was around him.
 
 **2 Maccabees 15:14**
 
@@ -18358,7 +18654,7 @@ And Onias answered and said, "This is the brother-loving one who prays much conc
 
 **2 Maccabees 15:15**
 
-And Jeremiah, stretching out the right hand, handed to Judas a golden sword, and while giving it addressed these things,
+And Jeremiah, stretching out the right hand, handed to Judas a golden sword, and while giving it said these words,
 
 **2 Maccabees 15:16**
 
@@ -18366,27 +18662,27 @@ And Jeremiah, stretching out the right hand, handed to Judas a golden sword, and
 
 **2 Maccabees 15:17**
 
-And having been encouraged by Judas's words, very beautiful and able to stir to virtue and restore souls of young men, they determined not to camp but to bear in nobly, and with all manliness, engaging, to decide the affairs, because the city and the holy things and the temple were in danger.
+And having been encouraged by Judas's words, very beautiful and able to stir to virtue and restore souls of young men, they determined not to remain encamped but to charge nobly, and with all manliness, engaging, to decide the affairs, because the city and the holy things and the temple were in danger.
 
 **2 Maccabees 15:18**
 
-For the contest concerning women and children, and further brothers and kinsmen, was lying in lesser part with them, but the greatest and first fear was concerning the consecrated temple.
+For the contest concerning women and children, and further brothers and kinsmen, held a lesser place with them, but the greatest and first fear was concerning the consecrated temple.
 
 **2 Maccabees 15:19**
 
-And for those shut up in the city, the agony was not secondary, being disturbed concerning the attack in the open air.
+And for those shut up in the city, the agony was not secondary, being disturbed concerning the attack in the open field.
 
 **2 Maccabees 15:20**
 
-And all already expecting the coming judgment, and the enemies already joining, and the army set in order, and the beasts restored to an opportune side, and the cavalry arranged at the wing,
+And all already expecting the coming judgment, and the enemies already joining, and the army set in order, and the beasts stationed in a suitable place, and the cavalry arranged at the wing,
 
 **2 Maccabees 15:21**
 
-Maccabeus, perceiving the presence of the multitudes and the varied preparation of the weapons and the savagery of the beasts, stretched out his hands to heaven and called upon the wonder-working Lord, the watcher, knowing that victory is not through weapons, but as it is judged by him, he secures victory for the worthy.
+Maccabeus, perceiving the presence of the multitudes and the varied preparation of the weapons and the savagery of the beasts, stretched out his hands to heaven and called upon the wonder-working Lord who watches, knowing that victory is not through weapons, but as it may be judged by him, he secures victory for the worthy.
 
 **2 Maccabees 15:22**
 
-And invoking, he was saying in this manner: "You, Master, sent your angel in the time of Hezekiah king of Judea, and killed from the camp of Sennacherib up to 185,000.
+And invoking, he was saying in this manner: "You, Master, sent your angel in the time of Hezekiah king of Judea, and killed from the camp of Sennacherib as many as 185,000.
 
 **2 Maccabees 15:23**
 
@@ -18394,7 +18690,7 @@ And now, Ruler of the heavens, send a good angel before us for fear and tremblin
 
 **2 Maccabees 15:24**
 
-By the greatness of your arm may those who come with blasphemy against your holy people be struck with amazement." And he indeed ceased in these things.
+By the greatness of your arm may those who come with blasphemy against your holy people be terrified." And he indeed ended with these words.
 
 **2 Maccabees 15:25**
 
@@ -18402,15 +18698,15 @@ But those around Nicanor were advancing with trumpets and paeans,
 
 **2 Maccabees 15:26**
 
-but those around Judas joined the enemies with invocation and prayers.
+but those around Judas joined battle with the enemies with invocation and prayers.
 
 **2 Maccabees 15:27**
 
-And fighting with hands but praying with hearts to God, they laid down no fewer than 35,000, being greatly gladdened by the manifestation of God.
+And fighting with hands but praying with hearts to God, they struck down no fewer than 35,000, being greatly gladdened by the manifestation of God.
 
 **2 Maccabees 15:28**
 
-And when they had come from the need and were returning with joy, they recognized Nicanor fallen before with the full armor.
+And when they had come away from the engagement and were returning with joy, they recognized Nicanor fallen with the full armor.
 
 **2 Maccabees 15:29**
 
@@ -18418,7 +18714,7 @@ And when a cry and disturbance happened, they blessed the Ruler in the ancestral
 
 **2 Maccabees 15:30**
 
-And the one in every way first champion for the citizens in body and soul, who had preserved the goodwill of his age toward fellow-nationals, commanded that they cut off Nicanor's head and the hand with the shoulder and carry them to Jerusalem.
+And the one in every way first champion for the citizens in body and soul, who had preserved goodwill from his youth toward fellow-nationals, commanded that they cut off Nicanor's head and the hand with the shoulder and carry them to Jerusalem.
 
 **2 Maccabees 15:31**
 
@@ -18430,7 +18726,7 @@ And he displayed the head of defiled Nicanor and the hand of the blasphemer, whi
 
 **2 Maccabees 15:33**
 
-And cutting out the tongue of the impious Nicanor, he said he would give it to the birds by part, and hang the wages of folly opposite the temple.
+And cutting out the tongue of the impious Nicanor, he said he would give it to the birds piece by piece, and hang the wages of folly opposite the temple.
 
 **2 Maccabees 15:34**
 
@@ -18450,11 +18746,11 @@ Therefore, when the things concerning Nicanor had proceeded thus, and from those
 
 **2 Maccabees 15:38**
 
-And if it is well and aptly in the composition, this is what I myself wished; but if cheaply and moderately, this was attainable by me.
+And if it is well and aptly in the composition, this is what I myself wished; but if plainly and moderately, this was attainable by me.
 
 **2 Maccabees 15:39**
 
-For just as to drink wine alone, and likewise water again, is hostile; but in the manner that wine mixed with water is sweet and accomplishes grace delightfully, so also the construction of the account delights the ears of those encountering the composition; and here will be the end.
+For just as to drink wine alone, and likewise water again, is disagreeable; but in the manner that wine mixed with water is sweet and produces delightful grace, so also the construction of the account delights the ears of those encountering the composition; and here will be the end.
 
 ## 1 Esdras
 
@@ -18466,11 +18762,11 @@ And Josiah kept the Passover in Jerusalem to his Lord and sacrificed the Passove
 
 **1 Esdras 1:2**
 
-having set the priests according to daily orders, clothed in the temple of the Lord.
+having set the priests according to daily orders, vested in the temple of the Lord.
 
 **1 Esdras 1:3**
 
-And he told the Levites, temple servants of Israel, to sanctify themselves to the Lord in the placing of the holy ark of the Lord in the house that Solomon son of David the king had built:
+And he told the Levites, temple servants of Israel, to sanctify themselves to the Lord for the placing of the holy ark of the Lord in the house that Solomon son of David the king had built:
 
 **1 Esdras 1:4**
 
@@ -18486,7 +18782,7 @@ sacrifice the Passover in order, and prepare the sacrifices for your brothers, a
 
 **1 Esdras 1:7**
 
-And Josiah gifted to the people who were found there thirty thousand lambs and kids, and three thousand calves. These were given from the royal things according to promise, to the people and to the priests and Levites.
+And Josiah gave as a gift to the people who were found there thirty thousand lambs and kids, and three thousand calves. These were given from the royal things according to promise, to the people and to the priests and Levites.
 
 **1 Esdras 1:8**
 
@@ -18498,7 +18794,7 @@ And Jeconiah and Semeias and Nathanael the brother, and Asabias and Ochiel and J
 
 **1 Esdras 1:10**
 
-And when these things had come to be, the priests and the Levites stood in good order, having the unleavened things according to the tribes and according to the divisions of the fathers before the people, to offer to the Lord according to the things written in the book of Moses; and so in the morning.
+And when these things had come to be, the priests and the Levites stood in good order, having the unleavened bread according to the tribes and according to the divisions of the fathers before the people, to offer to the Lord according to the things written in the book of Moses; and so in the morning.
 
 **1 Esdras 1:11**
 
@@ -18518,7 +18814,7 @@ And the temple singers, sons of Asaph, were in their order, according to the thi
 
 **1 Esdras 1:15**
 
-and the gatekeepers were at each gate. It was not possible for each one to pass by his own daily order, for their brothers the Levites prepared for them.
+and the gatekeepers were at each gate. It was not possible for each one to leave his own daily order, for their brothers the Levites prepared for them.
 
 **1 Esdras 1:16**
 
@@ -18542,7 +18838,7 @@ In the eighteenth year of Josiah's reign this Passover was kept.
 
 **1 Esdras 1:21**
 
-And the works of Josiah were set right before his Lord with a heart full of reverence.
+And the works of Josiah were set right before the Lord with a heart full of reverence.
 
 **1 Esdras 1:22**
 
@@ -18562,7 +18858,7 @@ I have not been sent by the Lord God against you, for my war is upon the Euphrat
 
 **1 Esdras 1:26**
 
-And Josiah did not turn himself back upon his chariot, but attempted to fight him, not attending to the words of Jeremiah the prophet from the mouth of the Lord.
+And Josiah did not turn back his chariot, but attempted to fight him, not attending to the words of Jeremiah the prophet from the mouth of the Lord.
 
 **1 Esdras 1:27**
 
@@ -18574,11 +18870,11 @@ And the king said to his servants, Remove me from the battle, for I have become 
 
 **1 Esdras 1:29**
 
-and he went up onto his second chariot. And having been restored to Jerusalem, he changed his life and was buried in his ancestral tomb.
+and he went up onto his second chariot. And having been restored to Jerusalem, he departed this life and was buried in his ancestral tomb.
 
 **1 Esdras 1:30**
 
-And in all Judea they mourned Josiah, and Jeremiah the prophet lamented for Josiah, and the chief men with women lamented him until this day; and this was given out to happen always for the whole race of Israel.
+And in all Judea they mourned Josiah, and Jeremiah the prophet lamented for Josiah, and the chief men and women lamented him until this day; and this was given out to happen always for the whole race of Israel.
 
 **1 Esdras 1:31**
 
@@ -18654,7 +18950,7 @@ And the God of their fathers sent through his messenger to call them back, becau
 
 **1 Esdras 1:49**
 
-But they mocked among his messengers, and on the day when the Lord spoke, they were making sport of his prophets, until he, having become angry against his nation because of their impious deeds, commanded the kings of the Chaldeans to be brought up against them.
+But they mocked his messengers, and on the day when the Lord spoke, they were making sport of his prophets, until he, having become angry against his nation because of their impious deeds, commanded the kings of the Chaldeans to be brought up against them.
 
 **1 Esdras 1:50**
 
@@ -18670,7 +18966,7 @@ And they burned the house of the Lord with fire and tore down the walls of Jerus
 
 **1 Esdras 1:53**
 
-and they completed all her glorious things, to make them useless; and the ones left he led away with the sword to Babylon.
+and they brought all her glorious things to an end, to make them useless; and the ones left he led away with the sword to Babylon.
 
 **1 Esdras 1:54**
 
@@ -18688,11 +18984,11 @@ In the first year of Cyrus reigning over the Persians, for the completion of the
 
 **1 Esdras 2:2**
 
-the Lord raised the spirit of Cyrus king of Persians, and he proclaimed in his whole kingdom, and also through writings, saying,
+the Lord raised the spirit of Cyrus king of the Persians, and he proclaimed in his whole kingdom, and also through writings, saying,
 
 **1 Esdras 2:3**
 
-Thus says Cyrus, king of Persians: The Lord of Israel, the Lord Most High, appointed me king of the inhabited world.
+Thus says Cyrus, king of the Persians: The Lord of Israel, the Lord Most High, appointed me king of the inhabited world.
 
 **1 Esdras 2:4**
 
@@ -18740,7 +19036,7 @@ And they were brought up by Samanassar, together with those from the captivity, 
 
 **1 Esdras 2:15**
 
-Now in the times of Artaxerxes king of the Persians, Belemus and Mithradates and Tabellius and Rathymus and Beeltethmus and Samellius the scribe, and the rest arranged with them, dwelling in Samaria and the other places, wrote against those dwelling in Judea and Jerusalem this written-under letter to him:
+Now in the times of Artaxerxes king of the Persians, Belemus and Mithradates and Tabellius and Rathymus and Beeltethmus and Samellius the scribe, and the rest arranged with them, dwelling in Samaria and the other places, wrote against those dwelling in Judea and Jerusalem the letter written below:
 
 **1 Esdras 2:16**
 
@@ -18748,11 +19044,11 @@ To King Artaxerxes, lord, your servants Rathymus the recorder of matters, and Sa
 
 **1 Esdras 2:17**
 
-And now let it be known to the lord king that the Jews who went up from you to us, having come into Jerusalem, are building the rebellious and evil city, repairing both its marketplaces and walls, and laying a foundation for a temple.
+And now let it be known to the lord king that the Jews who went up from you to us, having come into Jerusalem, are building the rebellious and evil city, repairing both its streets and walls, and laying a foundation for a temple.
 
 **1 Esdras 2:18**
 
-Therefore if this city is built and the walls completed, they will certainly not endure giving taxation, but will also resist kings. And since the things concerning the temple are being worked, we suppose it good not to overlook such a thing, but to address the lord king, so that, if it appears good to you, search may be made in the books from your fathers.
+Therefore if this city is built and the walls completed, they will certainly not endure paying tribute, but will also resist kings. And since the things concerning the temple are being worked, we suppose it good not to overlook such a thing, but to address the lord king, so that, if it appears good to you, search may be made in the books from your fathers.
 
 **1 Esdras 2:19**
 
@@ -18772,7 +19068,7 @@ I have read the letter that you sent to me. Therefore I commanded search to be m
 
 **1 Esdras 2:23**
 
-and the men in it were completing revolts and wars, and strong and hard kings were in Jerusalem, ruling and levying taxes on Coele-Syria and Phoenicia.
+and the men in it were carrying out revolts and wars, and strong and hard kings were in Jerusalem, ruling and levying taxes on Coele-Syria and Phoenicia.
 
 **1 Esdras 2:24**
 
@@ -18794,7 +19090,7 @@ and for all the satraps and generals and toparchs under him, from India as far a
 
 **1 Esdras 3:3**
 
-And they ate and drank and, having been filled, departed. But King Darius departed into his own bedroom and slept and became awake.
+And they ate and drank and, having been filled, departed. But King Darius departed into his own bedroom and slept and awoke.
 
 **1 Esdras 3:4**
 
@@ -18850,7 +19146,7 @@ And they said to them, Report to us concerning the things written.
 
 **1 Esdras 3:17**
 
-And the first, the one who had spoken concerning the strength of wine, began and said thus: Men, how does wine prevail? It leads astray the mind of all humans who drink it.
+And the first, the one who had spoken concerning the strength of wine, began and said thus: Men, how does wine prevail? It leads astray the mind of all people who drink it.
 
 **1 Esdras 3:18**
 
@@ -18866,7 +19162,7 @@ And it makes all hearts rich, and it does not remember king or satrap, and it ma
 
 **1 Esdras 3:21**
 
-And when they drink, they do not remember being friendly with friends and brothers, and after not long they draw swords.
+And when they drink, they do not remember being friendly with friends and brothers, and soon after they draw swords.
 
 **1 Esdras 3:22**
 
@@ -18884,7 +19180,7 @@ And the second, the one who had spoken concerning the strength of the king, bega
 
 **1 Esdras 4:2**
 
-Men, do not humans prevail, holding down the earth and the sea and all things in them?
+Men, do not people prevail, holding down the earth and the sea and all things in them?
 
 **1 Esdras 4:3**
 
@@ -18892,7 +19188,7 @@ But the king prevails and rules over them and masters them, and whatever he says
 
 **1 Esdras 4:4**
 
-If he tells them to make war one against another, they do it. And if he sends them out against the enemies, they go and work down the mountains and the walls and the towers.
+If he tells them to make war one against another, they do it. And if he sends them out against the enemies, they go and break down the mountains and the walls and the towers.
 
 **1 Esdras 4:5**
 
@@ -18900,7 +19196,7 @@ They murder and are murdered, and they do not transgress the word of the king. A
 
 **1 Esdras 4:6**
 
-And as many as do not serve as soldiers or make war, but farm the land, again when they sow and reap, they bring to the king; and one compelling another, they bring the taxes to the king.
+And those who do not serve as soldiers or make war, but farm the land, again when they sow and reap, bring to the king; and one compelling another, they bring the taxes to the king.
 
 **1 Esdras 4:7**
 
@@ -18912,7 +19208,7 @@ He said to strike, they strike; he said to make desolate, they make desolate; he
 
 **1 Esdras 4:9**
 
-He said to cut out, they cut out; he said to plant, they plant.
+He said to cut down, they cut down; he said to plant, they plant.
 
 **1 Esdras 4:10**
 
@@ -18920,11 +19216,11 @@ And all his people and his forces obey. And besides these things, he reclines, e
 
 **1 Esdras 4:11**
 
-but they keep watch around him, and each one is not able to go away and do his own works, nor do they disobey him.
+but they keep watch around him, and none of them is able to go away and do his own works, nor do they disobey him.
 
 **1 Esdras 4:12**
 
-Men, how does the king not prevail, because he is obeyed thus? And he was silent.
+Men, how does the king not prevail, since he is obeyed in this way? And he was silent.
 
 **1 Esdras 4:13**
 
@@ -18932,7 +19228,7 @@ But the third, the one who had spoken concerning women and truth, this is Zerubb
 
 **1 Esdras 4:14**
 
-is not the king great, and are not humans many, and does not wine have strength? Who then is the master over them, or who rules over them? Is it not women?
+is not the king great, and are not people many, and does not wine have strength? Who then is the master over them, or who rules over them? Is it not women?
 
 **1 Esdras 4:15**
 
@@ -18944,7 +19240,7 @@ And from them they came to be, and these women nourished the ones who planted th
 
 **1 Esdras 4:17**
 
-And these make the robes of humans, and these make glory for humans, and humans are not able to be without women.
+And these make the robes for people, and these make glory for people, and people are not able to be without women.
 
 **1 Esdras 4:18**
 
@@ -18956,7 +19252,7 @@ leaving all these things, they gape at her, and with open mouth they gaze at her
 
 **1 Esdras 4:20**
 
-A human leaves behind his own father, who nourished him, and his own country, and is joined to his own wife,
+A man leaves behind his own father, who nourished him, and his own country, and is joined to his own wife,
 
 **1 Esdras 4:21**
 
@@ -18964,11 +19260,11 @@ and with his wife he leaves his soul and remembers neither father nor mother nor
 
 **1 Esdras 4:22**
 
-And from this you must know that women rule over you. Do you not labor and toil and give and bring everything to women?
+And from this you must know that women rule over you. Do you not labor and toil, and give and bring everything to women?
 
 **1 Esdras 4:23**
 
-And a human takes his sword and goes out to make expeditions and rob and steal and to sail into the sea and rivers.
+And a man takes his sword and goes out on expeditions, and to rob and steal and sail into the sea and rivers.
 
 **1 Esdras 4:24**
 
@@ -18976,11 +19272,11 @@ And he sees a lion and walks in darkness, and when he steals and seizes and stri
 
 **1 Esdras 4:25**
 
-And a human loves his own wife more than father and mother.
+And a man loves his own wife more than father and mother.
 
 **1 Esdras 4:26**
 
-And many became senseless in their own minds because of women and became slaves because of them,
+And many lost sense in their own minds because of women and became slaves because of them,
 
 **1 Esdras 4:27**
 
@@ -19004,7 +19300,7 @@ And besides these things, the king, with open mouth, was gazing at her. And if s
 
 **1 Esdras 4:32**
 
-Men, how are women not strong, since they act thus?
+Men, how are women not strong, since they do such things?
 
 **1 Esdras 4:33**
 
@@ -19020,11 +19316,11 @@ Is not the one who does these things great? And truth is great and stronger than
 
 **1 Esdras 4:36**
 
-All the earth calls upon truth, and Heaven blesses it, and all works shake and tremble, and there is no unjust thing with it.
+All the earth calls upon truth, and Heaven blesses it, and all works shake and tremble, and there is nothing unjust with it.
 
 **1 Esdras 4:37**
 
-Wine is unjust, the king is unjust, women are unjust, all the sons of humans are unjust, and all their works like these are unjust; and there is no truth in them, and in their injustice they will perish.
+Wine is unjust, the king is unjust, women are unjust, all the sons of men are unjust, and all their works like these are unjust; and there is no truth in them, and in their injustice they will perish.
 
 **1 Esdras 4:38**
 
@@ -19032,7 +19328,7 @@ But truth remains and is strong forever, and lives and rules forever and ever.
 
 **1 Esdras 4:39**
 
-And with her there is no receiving faces, nor distinctions, but she does righteous things away from all unrighteous and evil things; and all are pleased with her works, and in her judgment there is nothing unjust.
+And with her there is no partiality, nor distinctions, but she does righteous things apart from all unrighteous and evil things; and all are pleased with her works, and in her judgment there is nothing unjust.
 
 **1 Esdras 4:40**
 
@@ -19040,7 +19336,7 @@ And hers is the strength and the kingdom and the authority and the greatness of 
 
 **1 Esdras 4:41**
 
-And he stopped speaking. And all the people then shouted, and then they said, Great is truth, and it prevails.
+And he stopped speaking. And all the people then shouted and said, Great is truth, and it prevails.
 
 **1 Esdras 4:42**
 
@@ -19052,7 +19348,7 @@ Then he said to the king, Remember the vow that you vowed, to build Jerusalem on
 
 **1 Esdras 4:44**
 
-and to send out all the vessels taken from Jerusalem, which Cyrus separated when he vowed to cut off Babylon and vowed to send them there.
+and to send out all the vessels taken from Jerusalem, which Cyrus set apart when he vowed to cut down Babylon and vowed to send them there.
 
 **1 Esdras 4:45**
 
@@ -19068,7 +19364,7 @@ Then King Darius rose and kissed him and wrote letters for him to all the stewar
 
 **1 Esdras 4:48**
 
-And to all the toparchs in Coele-Syria and Phoenicia and to those in Lebanon he wrote letters to transfer cedar wood from Lebanon to Jerusalem, and that they should build the city with him.
+And to all the toparchs in Coele-Syria and Phoenicia and to those in Lebanon he wrote letters to carry cedar wood from Lebanon to Jerusalem, and that they should build the city with him.
 
 **1 Esdras 4:49**
 
@@ -19084,7 +19380,7 @@ and that twenty talents be given yearly for the building of the temple until it 
 
 **1 Esdras 4:52**
 
-and for whole-burnt offerings to be offered upon the altar day by day, just as they have command to offer seventeen, another ten talents yearly,
+and for whole-burnt offerings to be offered upon the altar day by day, just as they have command to offer seventeen, and ten additional talents yearly,
 
 **1 Esdras 4:53**
 
@@ -19092,11 +19388,11 @@ and for all those coming up from Babylonia to build the city, freedom was to bel
 
 **1 Esdras 4:54**
 
-And he also wrote the provision and the priestly robe in which they serve in it.
+And he also wrote for the provision and the priestly robe in which they serve.
 
 **1 Esdras 4:55**
 
-And for the Levites he wrote to give the provision until the day when the house should be completed and Jerusalem should be built,
+And for the Levites he wrote to give the provision until the day when the house should be completed and Jerusalem built,
 
 **1 Esdras 4:56**
 
@@ -19128,17 +19424,17 @@ And they blessed the God of their fathers, because he had given them relief and 
 
 **1 Esdras 4:63**
 
-to go up and build Jerusalem and the temple, where his name had been named upon it. And they feasted with music and joy seven days.
+to go up and build Jerusalem and the temple, where his name had been called upon it. And they feasted with music and joy seven days.
 
 ### Chapter 5
 
 **1 Esdras 5:1**
 
-And after these things the leaders of the house of the paternal houses were chosen to go up according to their tribes, and their wives and their sons and daughters and their male servants and female servants and their cattle.
+And after these things the leaders of the paternal houses were chosen to go up according to their tribes, and their wives and their sons and daughters and their male servants and female servants and their cattle.
 
 **1 Esdras 5:2**
 
-And Darius sent with them 1,000 horsemen, until he restored them to Jerusalem with peace and with music, drums, and flutes.
+And Darius sent with them 1,000 horsemen until he restored them to Jerusalem with peace and with music, drums, and flutes.
 
 **1 Esdras 5:3**
 
@@ -19146,7 +19442,7 @@ And all their brothers were making music, and he made them go up together with t
 
 **1 Esdras 5:4**
 
-And these are the names of the men going up, according to their paternal houses, into their tribes, by their division.
+And these are the names of the men going up, according to their paternal houses, by their tribes and by their division.
 
 **1 Esdras 5:5**
 
@@ -19274,7 +19570,7 @@ All the temple servants and the sons of the servants of Solomon were 372.
 
 **1 Esdras 5:36**
 
-These went up from Thermeleth and Thelersas, Charaathalan and Aalar leading them.
+These went up from Thermeleth and Thelersas, with Charaathalan and Aalar leading them.
 
 **1 Esdras 5:37**
 
@@ -19286,7 +19582,7 @@ And from the priests, those claiming priesthood and not found: sons of Obdia, so
 
 **1 Esdras 5:39**
 
-And when the genealogical writing of these was sought in the enrollment and was not found, they were separated from serving as priests.
+And when their genealogical writing was sought in the enrollment and was not found, they were separated from serving as priests.
 
 **1 Esdras 5:40**
 
@@ -19314,7 +19610,7 @@ And the priests and the Levites and those from his people were settled in Jerusa
 
 **1 Esdras 5:46**
 
-And when the seventh month was standing and the sons of Israel were each in their own places, they were gathered with one accord into the broad place of the first gate toward the east.
+And when the seventh month had come and the sons of Israel were each in their own places, they were gathered with one accord into the broad place of the first gate toward the east.
 
 **1 Esdras 5:47**
 
@@ -19326,7 +19622,7 @@ to offer whole-burnt offerings upon it, according to the things declared in the 
 
 **1 Esdras 5:49**
 
-And some from the other nations of the land were gathered against them, and they set the altar upright upon their place, because they were in hostility with them. And all the nations on the land prevailed against them, and they offered sacrifices according to the time, and whole-burnt offerings to the Lord, morning and evening,
+And some from the other nations of the land were gathered against them, and they set the altar upright upon their place, because the nations were hostile to them. And all the nations on the land prevailed against them, and they offered sacrifices according to the time, and whole-burnt offerings to the Lord, morning and evening,
 
 **1 Esdras 5:50**
 
@@ -19342,11 +19638,11 @@ And as many as vowed a vow to God, from the new moon of the seventh month they b
 
 **1 Esdras 5:53**
 
-And they gave silver to the stonecutters and craftsmen, and drinks and foods and carts to the Sidonians and Tyrians, for them to bring cedar wood from Lebanon and carry rafts to the harbor of Joppa, according to the commandment written for them by Cyrus king of the Persians.
+And they gave silver to the stonecutters and craftsmen, and drink and food and carts to the Sidonians and Tyrians, for them to bring cedar wood from Lebanon and carry rafts to the harbor of Joppa, according to the commandment written for them by Cyrus king of the Persians.
 
 **1 Esdras 5:54**
 
-And in the second year, coming to the temple of God in Jerusalem, in the second month, Zerubbabel son of Salathiel and Jesus son of Josedek and their brothers began, and the priests, the Levites, and all those who had come from the captivity into Jerusalem.
+And in the second year after they came to the temple of God in Jerusalem, in the second month, Zerubbabel son of Salathiel and Jesus son of Josedek and their brothers began, along with the priests, the Levites, and all those who had come from the captivity into Jerusalem.
 
 **1 Esdras 5:55**
 
@@ -19370,7 +19666,7 @@ And all the people sounded trumpets and shouted with a great voice, hymning the 
 
 **1 Esdras 5:60**
 
-And there came from the priests, the Levites, and the leaders according to their paternal houses, the elders who had seen the former house, to the building of this one, with weeping and a great cry,
+And there came from the priests, the Levites, and the leaders according to their paternal houses, the elders who had seen the former house, at the building of this one, with weeping and a great cry,
 
 **1 Esdras 5:61**
 
@@ -19382,7 +19678,7 @@ so that the people could not hear the trumpets because of the weeping of the peo
 
 **1 Esdras 5:63**
 
-And when the enemies of the tribe of Judah and Benjamin heard, they came to recognize what the sound of the trumpets was.
+And when the enemies of the tribe of Judah and Benjamin heard, they came to learn what the sound of the trumpets was.
 
 **1 Esdras 5:64**
 
@@ -19390,7 +19686,7 @@ And they recognized that those from the captivity were building the temple for t
 
 **1 Esdras 5:65**
 
-And coming to Zerubbabel and Jesus and the leaders of the paternal houses, they said to them, Let us build together with you.
+And coming to Zerubbabel and Jesus and the leaders of the paternal houses, they said to them, Let us build with you.
 
 **1 Esdras 5:66**
 
@@ -19406,7 +19702,7 @@ For we alone will build to the Lord of Israel according to the things Cyrus king
 
 **1 Esdras 5:69**
 
-But the nations of the land, lying upon those in Judea and besieging them, hindered them from building.
+But the nations of the land, pressing upon those in Judea and besieging them, hindered them from building.
 
 **1 Esdras 5:70**
 
@@ -19416,7 +19712,7 @@ And by stirring up counsels and making confederacies, they prevented the buildin
 
 **1 Esdras 6:1**
 
-And in the second year of the reign of Darius, Haggai and Zechariah son of Addo, the prophets, prophesied to the Jews who were in Judea and Jerusalem, upon them in the name of the Lord God of Israel.
+And in the second year of the reign of Darius, Haggai and Zechariah son of Addo, the prophets, prophesied to the Jews who were in Judea and Jerusalem, in the name of the Lord God of Israel over them.
 
 **1 Esdras 6:2**
 
@@ -19424,7 +19720,7 @@ Then Zerubbabel son of Salathiel stood up, and Jesus son of Josedek, and they be
 
 **1 Esdras 6:3**
 
-At that same time Sisinēs, the governor of Syria and Phoenicia, came to them, and Sathrabouzanes and the fellow-companions, and they said to them,
+At that same time Sisinēs, the governor of Syria and Phoenicia, came to them, and Sathrabouzanes and the companions, and they said to them,
 
 **1 Esdras 6:4**
 
@@ -19432,7 +19728,7 @@ Who ordered you to build this house and complete this roof and all the other thi
 
 **1 Esdras 6:5**
 
-And the elders of the Jews had favor, a visitation having come upon the captivity from the Lord,
+And the elders of the Jews obtained favor, a visitation from the Lord having come upon the captivity,
 
 **1 Esdras 6:6**
 
@@ -19440,11 +19736,11 @@ and they were not hindered from the building until Darius should be notified con
 
 **1 Esdras 6:7**
 
-Copy of a letter that they wrote to Darius and sent: Sisinēs, governor of Syria and Phoenicia, and Sathrabouzanes and the fellow-companions, the leaders in Syria and Phoenicia, to King Darius, greeting.
+Copy of the letter that they wrote to Darius and sent: Sisinēs, governor of Syria and Phoenicia, and Sathrabouzanes and the companions, the leaders in Syria and Phoenicia, to King Darius, greeting.
 
 **1 Esdras 6:8**
 
-Let all things be known to our lord the king, that when we came into the country of Judea and arrived at the city Jerusalem, we found the elders of the Jews from the captivity in the city Jerusalem, building a great new house for the Lord with expensive polished stones, with wood being placed in the walls.
+Let all things be known to our lord the king, that when we came into the country of Judea and arrived at the city Jerusalem, we found the elders of the Jews from the captivity in Jerusalem the city, building a great new house for the Lord with expensive polished stones, with wood being placed in the walls.
 
 **1 Esdras 6:9**
 
@@ -19456,7 +19752,7 @@ Then we inquired of these elders, saying, By whose command are you building this
 
 **1 Esdras 6:11**
 
-Therefore we questioned them for the sake of making known to you and writing to you the men who were leading, and we asked them the name-registration of those presiding.
+Therefore we questioned them for the sake of making known to you and writing to you the men who were leading, and we asked them for the written register of names of those presiding.
 
 **1 Esdras 6:12**
 
@@ -19468,7 +19764,7 @@ And the house had been built many years before by a great and strong king of Isr
 
 **1 Esdras 6:14**
 
-And when our fathers, having provoked bitterly, sinned against the heavenly Lord of Israel, he gave them into the hands of Nebuchadnezzar, king of Babylon, king of the Chaldeans.
+And when our fathers, after provoking bitterly, sinned against the heavenly Lord of Israel, he gave them into the hands of Nebuchadnezzar, king of Babylon, king of the Chaldeans.
 
 **1 Esdras 6:15**
 
@@ -19476,7 +19772,7 @@ And after pulling down the house, they burned it with fire and took the people c
 
 **1 Esdras 6:16**
 
-But in the first year of Cyrus reigning over the country of Babylonia, King Cyrus wrote to build this house.
+But in the first year when Cyrus reigned over the country of Babylonia, King Cyrus wrote to build this house.
 
 **1 Esdras 6:17**
 
@@ -19484,11 +19780,11 @@ And the holy vessels, the gold and silver ones, which Nebuchadnezzar brought out
 
 **1 Esdras 6:18**
 
-And it was commanded to him, and he carried away all these vessels to deposit them in the temple in Jerusalem, and that the temple of the Lord should be built on the place.
+And he was commanded to carry away all these vessels and deposit them in the temple in Jerusalem, and that the temple of the Lord should be built on the place.
 
 **1 Esdras 6:19**
 
-Then Sabanassar came and laid the foundations of the house of the Lord in Jerusalem, and from then until now it has been being built but has not received completion.
+Then Sabanassar came and laid the foundations of the house of the Lord in Jerusalem, and from then until now it has been under construction but has not received completion.
 
 **1 Esdras 6:20**
 
@@ -19496,7 +19792,7 @@ Now therefore, if it is judged good, O king, let search be made in the royal lib
 
 **1 Esdras 6:21**
 
-And if it is found that the building of the house of the Lord in Jerusalem happened with the judgment of King Cyrus, and it is judged good by our lord the king, let him address us concerning these things.
+And if it is found that the building of the house of the Lord in Jerusalem happened by the judgment of King Cyrus, and it is judged good by our lord the king, let him address us concerning these things.
 
 **1 Esdras 6:22**
 
@@ -19516,7 +19812,7 @@ and the holy vessels of the house of the Lord, both gold and silver, that Nebuch
 
 **1 Esdras 6:26**
 
-And he commanded Sisinēs, governor of Syria and Phoenicia, and Sathrabouzanes and the fellow-companions and the leaders appointed in Syria and Phoenicia, to take care to keep away from the place, but to permit the servant of the Lord, Zerubbabel, governor of Judea, and the elders of the Jews to build that house of the Lord on the place.
+And he commanded Sisinēs, governor of Syria and Phoenicia, and Sathrabouzanes and the companions and the leaders appointed in Syria and Phoenicia, to take care to keep away from the place, but to permit the servant of the Lord, Zerubbabel, governor of Judea, and the elders of the Jews to build that house of the Lord on the place.
 
 **1 Esdras 6:27**
 
@@ -19524,7 +19820,7 @@ And I also have commanded that it be built wholly, and to see carefully that the
 
 **1 Esdras 6:28**
 
-And from the taxation of Coele-Syria and Phoenicia, an exact allotment is to be given to these men for sacrifice to the Lord, to Zerubbabel the governor, for bulls and rams and lambs,
+And from the taxation of Coele-Syria and Phoenicia, a careful allowance is to be given to these men for sacrifice to the Lord, to Zerubbabel the governor, for bulls and rams and lambs,
 
 **1 Esdras 6:29**
 
@@ -19536,11 +19832,11 @@ so that libations may be offered to God Most High for the king and the children,
 
 **1 Esdras 6:31**
 
-And I have commanded that whoever transgresses or annuls any of the things written, a beam be taken from his own things and he be hanged upon it, and his possessions become royal.
+And I have commanded that whoever transgresses or annuls any of the things written, a beam be taken from his own property and he be hanged upon it, and his possessions become royal.
 
 **1 Esdras 6:32**
 
-Because of these things, may the Lord, whose name has been called there, make vanish every king and nation who stretches out his hand to hinder or harm that house of the Lord in Jerusalem.
+Because of these things, may the Lord, whose name has been called there, destroy every king and nation who stretches out his hand to hinder or harm that house of the Lord in Jerusalem.
 
 **1 Esdras 6:33**
 
@@ -19550,7 +19846,7 @@ I, King Darius, have decreed that these things be done carefully.
 
 **1 Esdras 7:1**
 
-Then Sisinēs, governor of Coele-Syria and Phoenicia, and Sathrabouzanes and the fellow-companions, following closely the things commanded by King Darius,
+Then Sisinēs, governor of Coele-Syria and Phoenicia, and Sathrabouzanes and the companions, following closely the things commanded by King Darius,
 
 **1 Esdras 7:2**
 
@@ -19562,7 +19858,7 @@ And the holy works became prosperous while Haggai and Zechariah the prophets wer
 
 **1 Esdras 7:4**
 
-And they completed these things by commandment of the Lord God of Israel, and with the judgment of Cyrus and Darius and Artaxerxes, kings of Persians.
+And they completed these things by commandment of the Lord God of Israel, and by the judgment of Cyrus and Darius and Artaxerxes, kings of the Persians.
 
 **1 Esdras 7:5**
 
@@ -19582,7 +19878,7 @@ and 12 male goats for the sin of all Israel, according to the number of the 12 t
 
 **1 Esdras 7:9**
 
-And the priests and the Levites stood according to tribes, clothed for the works of the Lord God of Israel, according to the book of Moses, and the gatekeepers at each gate.
+And the priests and the Levites stood according to tribes, clothed for the works of the Lord God of Israel, according to the book of Moses, and the gatekeepers stood at each gate.
 
 **1 Esdras 7:10**
 
@@ -19590,7 +19886,7 @@ And the sons of Israel from the captivity kept the Passover on the fourteenth da
 
 **1 Esdras 7:11**
 
-and all the sons of the captivity, because they had been purified, because the Levites had all been purified together.
+and all the sons of the captivity, because they had been purified; for the Levites had all been purified together.
 
 **1 Esdras 7:12**
 
@@ -19598,7 +19894,7 @@ And they sacrificed the Passover for all the sons of the captivity and for their
 
 **1 Esdras 7:13**
 
-And the sons of Israel from the captivity ate, all those who had separated from the abominations of the nations of the land, seeking the Lord.
+And the sons of Israel from the captivity ate, all those who had separated themselves from the abominations of the nations of the land, seeking the Lord.
 
 **1 Esdras 7:14**
 
@@ -19606,13 +19902,13 @@ And they kept the feast of unleavened bread seven days, rejoicing before the Lor
 
 **1 Esdras 7:15**
 
-because he had turned the counsel of the king of Assyrians toward them, to strengthen their hands for the works of the Lord God of Israel.
+because he had turned the counsel of the king of the Assyrians toward them, to strengthen their hands for the works of the Lord God of Israel.
 
 ### Chapter 8
 
 **1 Esdras 8:1**
 
-And later than these things, when Artaxerxes king of the Persians was reigning, Ezra son of Saraios, son of Ezechrios, son of Chelkias, son of Salem, went up,
+And after these things, when Artaxerxes king of the Persians was reigning, Ezra son of Saraios, son of Ezechrios, son of Chelkias, son of Salem, went up,
 
 **1 Esdras 8:2**
 
@@ -19620,11 +19916,11 @@ son of Saddouk, son of Achitob, son of Amarios, son of Ozios, son of Bokka, son 
 
 **1 Esdras 8:3**
 
-This Ezra went up from Babylon, being a skilled scribe in the law of Moses given out by the God of Israel,
+This Ezra went up from Babylon, being a skilled scribe in the law of Moses given by the God of Israel,
 
 **1 Esdras 8:4**
 
-and the king gave him glory, since he found favor before him in all his requests.
+and the king gave him honor, since he found favor before him in all his requests.
 
 **1 Esdras 8:5**
 
@@ -19636,11 +19932,11 @@ in the seventh year of Artaxerxes reigning, in the fifth month; this was the sev
 
 **1 Esdras 8:7**
 
-For Ezra contained much knowledge so as to leave aside nothing from the law of the Lord and from the commandments, to teach all Israel ordinances and judgments.
+For Ezra had much knowledge, so as to omit nothing from the law of the Lord and from the commandments, and to teach all Israel ordinances and judgments.
 
 **1 Esdras 8:8**
 
-Now when the written command from King Artaxerxes came to Ezra the priest and reader of the law of the Lord, of which the following is a copy:
+Now when the written command from King Artaxerxes came to Ezra the priest and reader of the law of the Lord, this was the copy:
 
 **1 Esdras 8:9**
 
@@ -19648,11 +19944,11 @@ King Artaxerxes to Ezra the priest and reader of the law of the Lord, greeting.
 
 **1 Esdras 8:10**
 
-And I, judging humane things, have commanded those who wish from the nation of the Jews, choosing, and from the priests and the Levites, and these in our kingdom, to go with you to Jerusalem.
+And I, having judged kindly, have commanded those who wish and choose from the nation of the Jews, and from the priests and the Levites, who are in our kingdom, to go with you to Jerusalem.
 
 **1 Esdras 8:11**
 
-Therefore as many as are mindful, let them set out together, just as it seemed good to me and to the seven friend-counselors,
+Therefore as many as have this in mind, let them set out together, just as it seemed good to me and to the seven friend-counselors,
 
 **1 Esdras 8:12**
 
@@ -19692,7 +19988,7 @@ and likewise up to 100 cors of wheat and 100 measures of wine,
 
 **1 Esdras 8:21**
 
-and other things from abundance. Let all things be carefully completed according to the law of God for God Most High, lest wrath come upon the kingdom of the king and his sons.
+and other things in abundance. Let all things be carefully completed according to the law of God for God Most High, lest wrath come upon the kingdom of the king and his sons.
 
 **1 Esdras 8:22**
 
@@ -19708,15 +20004,15 @@ And all who transgress the law of your God and the royal law shall be carefully 
 
 **1 Esdras 8:25**
 
-And Ezra the scribe said, Blessed alone is the Lord, the God of my fathers, who gave these things into the heart of the king, to glorify his house in Jerusalem,
+And Ezra the scribe said, Blessed is the Lord alone, the God of my fathers, who gave these things into the heart of the king, to glorify his house in Jerusalem,
 
 **1 Esdras 8:26**
 
-and he honored me before the king and the counselors and all his friends and great men.
+and honored me before the king and the counselors and all his friends and great men.
 
 **1 Esdras 8:27**
 
-And I became bold according to the support of the Lord my God, and I gathered men from Israel to go up together with me.
+And I took courage according to the support of the Lord my God, and I gathered men from Israel to go up together with me.
 
 **1 Esdras 8:28**
 
@@ -19788,7 +20084,7 @@ and I told them to go to Loddaeos, the leader in the place of the treasury,
 
 **1 Esdras 8:45**
 
-commanding them to speak with Loddaeos and his brothers and the treasurers in the place, to send us those who would serve as priests in the house of our Lord.
+commanding them to speak with Loddaeos and his brothers and the treasurers in the place, to send us those who would serve in the house of our Lord.
 
 **1 Esdras 8:46**
 
@@ -19800,11 +20096,11 @@ and Asebia and Annouos and Osaias, a brother from the sons of Chanounaios, and t
 
 **1 Esdras 8:48**
 
-And from the temple servants, whom David and the leaders gave for the work of the Levites, 220 temple servants; the name-registration of all was marked.
+And from the temple servants, whom David and the leaders gave for the work of the Levites, 220 temple servants; the written register of names for all was marked.
 
 **1 Esdras 8:49**
 
-And I vowed a fast there for the young men before our Lord,
+And I proclaimed a fast there for the young men before our Lord,
 
 **1 Esdras 8:50**
 
@@ -19848,11 +20144,15 @@ And the priests and the Levites who received the silver and the gold and the ves
 
 **1 Esdras 8:60**
 
-And departing from the river Thera on the twelfth day of the first month, we came into Jerusalem according to the mighty hand of our Lord upon us. And he rescued us from every enemy on the way in, and we came into Jerusalem.
+And departing from the river Thera on the twelfth day of the first month, we came into Jerusalem according to the mighty hand of our Lord upon us. And he rescued us from every enemy on the way, and we came into Jerusalem.
 
 **1 Esdras 8:61**
 
-And after three days there, on the fourth day the weighed silver and gold was handed over in the house of our Lord to Marmoth son of Ourias the priest. [62] And with him was Eleazar son of Phinehas, and with him were Josabdos son of Jesus and Moeth son of Sabannos, the Levites. Everything was by number and weight, and all their weight was written at that same hour.
+And after three days there, on the fourth day the weighed silver and gold was handed over in the house of our Lord to Marmoth son of Ourias the priest.
+
+**1 Esdras 8:62**
+
+And with him was Eleazar son of Phinehas, and with him were Josabdos son of Jesus and Moeth son of Sabannos, the Levites. Everything was by number and weight, and all their weight was written at that same hour.
 
 **1 Esdras 8:63**
 
@@ -19880,7 +20180,7 @@ And as soon as I heard these things, I tore my garments and the sacred clothing 
 
 **1 Esdras 8:69**
 
-And all who were ever moved by the word of the Lord God of Israel gathered to me, while I was mourning over the lawlessness; and I sat deeply grieved until the evening sacrifice.
+And all who were moved by the word of the Lord God of Israel gathered to me, while I was mourning over the lawlessness; and I sat deeply grieved until the evening sacrifice.
 
 **1 Esdras 8:70**
 
@@ -19916,7 +20216,7 @@ but he made us be in favor before the kings of Persians, to give us nourishment
 
 **1 Esdras 8:78**
 
-and to glorify the temple of our Lord and to raise desolate Zion, to give us a firm support in Judea and Jerusalem.
+and to glorify the temple of our Lord and to raise up desolate Zion, to give us a firm support in Judea and Jerusalem.
 
 **1 Esdras 8:79**
 
@@ -19960,7 +20260,7 @@ And while Ezra was praying and confessing, weeping and fallen to the ground befo
 
 **1 Esdras 8:89**
 
-And Jeconiah son of Jeel, from the sons of Israel, cried out and said, Ezra, we have sinned against the Lord and have made foreign women from the nations of the land dwell with us. And now this matter is over all Israel.
+And Jeconiah son of Jeel, from the sons of Israel, cried out and said, Ezra, we have sinned against the Lord and have made foreign women from the nations of the land dwell with us. And now this is over all Israel.
 
 **1 Esdras 8:90**
 
@@ -19968,7 +20268,7 @@ In this, let there be oath-swearing for us toward the Lord, to cast out all our 
 
 **1 Esdras 8:91**
 
-Rise up and complete it, for the matter is toward you, and we are with you to make strength.
+Rise up and complete it, for the matter is yours, and we are with you to act with strength.
 
 **1 Esdras 8:92**
 
@@ -19990,7 +20290,7 @@ And a proclamation came to be in all Judea and Jerusalem for all those from the 
 
 **1 Esdras 9:4**
 
-And as many as did not meet within two or three days, according to the judgment of the presiding elders, their cattle would be consecrated, and he himself would be alienated from the multitude of the captivity.
+And as many as did not assemble within two or three days, according to the judgment of the presiding elders, their cattle would be consecrated, and he himself would be alienated from the multitude of the captivity.
 
 **1 Esdras 9:5**
 
@@ -20054,7 +20354,7 @@ from the sons of Jesus son of Josedek and his brothers, Mathelas and Eleazar and
 
 **1 Esdras 9:20**
 
-And they laid on their hands to cast out their wives, and for atonement, rams for their ignorance.
+And they laid their hands to cast out their wives, and for atonement, rams for their ignorance.
 
 **1 Esdras 9:21**
 
@@ -20154,7 +20454,7 @@ and on the left, Phaldaios and Misael, Melchias, Lothasoubos, Nabarias, Zacharia
 
 **1 Esdras 9:45**
 
-And Ezra took up the book before the multitude and sat before all in glory,
+And Ezra took up the book before the multitude and sat in honor before all,
 
 **1 Esdras 9:46**
 
@@ -20166,7 +20466,7 @@ and all the multitude answered, Amen. And lifting up their hands above, falling 
 
 **1 Esdras 9:48**
 
-Jesus and Anniouth and Sarabias and Jadinos and Jakoubos, Sabbataios, Autaias, Maiannas and Kalitas, Azarias and Jozabdos and Ananias, Phalias, the Levites, were teaching the law of the Lord and reading the law of the Lord to the multitude, making the reading clear at the same time.
+Jesus and Anniouth and Sarabias and Jadinos and Jakoubos, Sabbataios, Autaias, Maiannas and Kalitas, Azarias and Jozabdos and Ananias, Phalias, the Levites, were teaching the law of the Lord and reading the law of the Lord to the multitude, clarifying the reading at the same time.
 
 **1 Esdras 9:49**
 
@@ -20202,27 +20502,27 @@ because they were made to understand the sayings in which they had been taught, 
 
 **2 Esdras 1:1**
 
-And in the first year of Cyrus king of the Persians, for fulfillment of the word of the Lord from the mouth of Jeremiah, the Lord stirred the spirit of Cyrus king of the Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
+And in the first year of Cyrus king of the Persians, for the fulfillment of the word of the Lord from the mouth of Jeremiah, the Lord stirred the spirit of Cyrus king of the Persians, and he proclaimed by voice through all his kingdom, also in writing, saying,
 
 **2 Esdras 1:2**
 
-Thus said Cyrus king of the Persians: The Lord God of heaven gave me all kingdoms of the earth, and he charged me to build for him a house in Jerusalem, the one in Judah.
+Thus said Cyrus king of the Persians: The Lord God of heaven gave me all the kingdoms of the earth, and he charged me to build him a house in Jerusalem, the one in Judah.
 
 **2 Esdras 1:3**
 
-Who among you is from all his people? Let his God be with him, and let him go up to Jerusalem in Judah and build the house of God of Israel. He is the God in Jerusalem.
+Who among you is from all his people? Let his God be with him, and let him go up to Jerusalem in Judah and build the house of the God of Israel. He is the God in Jerusalem.
 
 **2 Esdras 1:4**
 
-And everyone left behind from all the places where he sojourns there, let men of his place support him with silver and gold and goods and cattle, besides the voluntary gift for the house of God in Jerusalem.
+And everyone left behind from any of the places where he sojourns there, let the men of his place support him with silver and gold and goods and cattle, besides the voluntary gift for the house of God in Jerusalem.
 
 **2 Esdras 1:5**
 
-Then the heads of father-houses of Judah and Benjamin rose up, and priests and Levites, all whose spirit God stirred to go up to build the house of the Lord in Jerusalem.
+Then the heads of paternal houses of Judah and Benjamin rose up, and priests and Levites, all whose spirit God stirred to go up to build the house of the Lord in Jerusalem.
 
 **2 Esdras 1:6**
 
-And all around them strengthened their hands with silver vessels, with gold, with goods and cattle and gifts, besides all the voluntary offerings.
+And all those around them strengthened their hands with silver vessels, with gold, with goods and cattle and gifts, besides all the voluntary offerings.
 
 **2 Esdras 1:7**
 
@@ -20234,7 +20534,7 @@ And Cyrus king of the Persians brought them out by the hand of Mithredath the tr
 
 **2 Esdras 1:9**
 
-And this their number: thirty golden basins, one thousand silver basins, twenty-nine substitute vessels,
+And this was their number: thirty golden basins, one thousand silver basins, twenty-nine altered vessels,
 
 **2 Esdras 1:10**
 
@@ -20404,7 +20704,7 @@ Sons of Harim: 1,007.
 
 **2 Esdras 2:40**
 
-And the Levites: sons of Jeshua and Kadmiel, to the sons of Hodaiah, 74.
+And the Levites: sons of Jeshua and Kadmiel, among the sons of Hodaiah, 74.
 
 **2 Esdras 2:41**
 
@@ -20416,7 +20716,7 @@ Sons of the gatekeepers: sons of Shallum, sons of Ater, sons of Talmon, sons of 
 
 **2 Esdras 2:43**
 
-The nethinim: sons of Sia, sons of Asouph, sons of Tabbaoth,
+The temple servants: sons of Sia, sons of Asouph, sons of Tabbaoth,
 
 **2 Esdras 2:44**
 
@@ -20476,11 +20776,11 @@ sons of Shephatiah, sons of Hattil, sons of Phacherath-aseboin, sons of Emi.
 
 **2 Esdras 2:58**
 
-All the nethinim and sons of Solomon's servants: 392.
+All the temple servants and sons of Solomon's servants: 392.
 
 **2 Esdras 2:59**
 
-And these were the ones coming up from Telmelah, Telharsa, Cherub, Edan, and Immer, and they were not able to declare their father-house and their seed, whether they were from Israel:
+And these were the ones coming up from Telmelah, Telharsa, Cherub, Edan, and Immer, and they were not able to declare their paternal house and their seed, whether they were from Israel:
 
 **2 Esdras 2:60**
 
@@ -20496,7 +20796,7 @@ These sought their enrolled writing, and it was not found, and they were exclude
 
 **2 Esdras 2:63**
 
-And the Tirshatha said to them not to eat from the holy of holies until a priest might arise with the lights and the perfections.
+And Athersastha said to them not to eat from the holy of holies until a priest might arise with the Lights and the Perfections.
 
 **2 Esdras 2:64**
 
@@ -20516,7 +20816,7 @@ their camels 435, their donkeys 6,720.
 
 **2 Esdras 2:68**
 
-And some from the heads of father-houses, when they came to the house of the Lord in Jerusalem, made freewill offerings for the house of God, to set it on its foundation.
+And some from the heads of paternal houses, when they came to the house of the Lord in Jerusalem, made freewill offerings for the house of God, to set it on its foundation.
 
 **2 Esdras 2:69**
 
@@ -20524,7 +20824,7 @@ According to their strength they gave into the treasury of the work 61,000 minas
 
 **2 Esdras 2:70**
 
-And the priests and Levites and some from the people and the singers and the gatekeepers and the nethinim settled in their cities, and all Israel in their cities.
+And the priests and Levites and some from the people and the singers and the gatekeepers and the temple servants settled in their cities, and all Israel in their cities.
 
 ### Chapter 3
 
@@ -20534,31 +20834,31 @@ And the seventh month arrived, and sons of Israel were in their cities, and the 
 
 **2 Esdras 3:2**
 
-And Jeshua son of Jozadak rose up, and his brothers the priests, and Zerubbabel son of Shealtiel, and his brothers, and they built altar of God of Israel to offer whole burnt offerings on it, according to things written in the law of Moses man of God.
+And Jeshua son of Jozadak rose up, and his brothers the priests, and Zerubbabel son of Shealtiel, and his brothers, and they built the altar of the God of Israel to offer whole-burnt offerings on it, according to the things written in the law of Moses, man of God.
 
 **2 Esdras 3:3**
 
-And they prepared the altar on its place, because terror from the peoples of the lands was upon them, and they offered on it whole burnt offerings to the Lord, morning and evening.
+And they prepared the altar on its place, because terror from the peoples of the lands was upon them, and they offered whole-burnt offerings on it to the Lord, morning and evening.
 
 **2 Esdras 3:4**
 
-And they kept feast of booths according to what is written, and whole burnt offerings day by day in number, according to ordinance, matter of each day on its day.
+And they kept the feast of tabernacle-pitching according to what is written, and whole-burnt offerings day by day in number, according to ordinance, the matter of each day on its day.
 
 **2 Esdras 3:5**
 
-And after this came the continual whole burnt offerings, and those for the new moons, and for all the sanctified feasts, and for everyone freely offering a freewill gift to the Lord.
+And after this came the continual whole-burnt offerings, and those for the new moons, and for all the sanctified feasts, and for everyone freely offering a freewill gift to the Lord.
 
 **2 Esdras 3:6**
 
-On the first day of seventh month they began offering whole burnt offerings to the Lord, and house of the Lord had not yet been founded.
+On the first day of the seventh month they began offering whole-burnt offerings to the Lord, and the house of the Lord had not yet been founded.
 
 **2 Esdras 3:7**
 
-And they gave silver to stonecutters and craftsmen, and food and drink and oil to Sidonians and Tyrians to bring cedar timbers from Lebanon to sea of Joppa, according to grant of Cyrus king of the Persians upon them.
+And they gave silver to stonecutters and craftsmen, and food and drink and oil to Sidonians and Tyrians to bring cedar timbers from Lebanon to the sea of Joppa, according to the grant of Cyrus king of the Persians upon them.
 
 **2 Esdras 3:8**
 
-And in the second year of their coming to the house of God in Jerusalem, in the second month, Zerubbabel son of Shealtiel and Jeshua son of Jozadak began, along with the rest of their brothers, the priests and the Levites and all who came from captivity to Jerusalem, and they appointed Levites from twenty years old and upward over those doing the works in the house of the Lord.
+And in the second year of their coming to the house of God in Jerusalem, in the second month, Zerubbabel son of Shealtiel and Jeshua son of Jozadak began, along with the rest of their brothers, the priests and the Levites and all who came from the captivity to Jerusalem, and they appointed Levites from twenty years old and upward over those doing the works in the house of the Lord.
 
 **2 Esdras 3:9**
 
@@ -20570,11 +20870,11 @@ And they laid foundations to build the house of the Lord, and the priests stood 
 
 **2 Esdras 3:11**
 
-And they answered with praise and thanksgiving to the Lord, For he is good, for his mercy upon Israel is forever. And all the people shouted with a loud voice in praising the Lord over foundation of the house of the Lord.
+And they answered with praise and thanksgiving to the Lord, For he is good, for his mercy upon Israel is forever. And all the people shouted with a loud voice in praising the Lord at the foundation of the house of the Lord.
 
 **2 Esdras 3:12**
 
-And many from the priests and the Levites and leaders of father-houses, the elders who had seen the first house on its foundation, were weeping with a loud voice when this house was before their eyes, while the crowd with shouting in joy was raising song.
+And many from the priests and the Levites and leaders of paternal houses, the elders who had seen the first house on its foundation, were weeping with a loud voice when this house was before their eyes, while the crowd raised song with shouting in joy.
 
 **2 Esdras 3:13**
 
@@ -20584,23 +20884,23 @@ And the people could not distinguish the sound of a shout of joy from the sound 
 
 **2 Esdras 4:1**
 
-And those afflicting Judah and Benjamin heard that sons of the captivity are building a house to God of Israel.
+And those afflicting Judah and Benjamin heard that sons of the captivity were building a house to the God of Israel.
 
 **2 Esdras 4:2**
 
-And they came near to Zerubbabel and to the heads of father-houses and said to them, We will build with you, because like you we seek your God, and to him we sacrifice from the days of Esarhaddon king of Asshur, who brought us up here.
+And they came near to Zerubbabel and to the heads of paternal houses and said to them, We will build with you, because like you we seek your God, and to him we sacrifice from the days of Esarhaddon king of Assyria, who brought us up here.
 
 **2 Esdras 4:3**
 
-And Zerubbabel and Jeshua and the rest of the heads of father-houses of Israel said to them, It is not for us and you to build a house to our God, for we ourselves together will build to the Lord our God, as Cyrus king of the Persians commanded us.
+And Zerubbabel and Jeshua and the rest of the heads of paternal houses of Israel said to them, It is not for us and you to build a house to our God, for we ourselves together will build to the Lord our God, as Cyrus king of the Persians commanded us.
 
 **2 Esdras 4:4**
 
-And the people of the land were weakening hands of the people of Judah and hindering them from building,
+And the people of the land were weakening the hands of the people of Judah and hindering them from building,
 
 **2 Esdras 4:5**
 
-and hiring counselors against them to scatter their counsel all the days of Cyrus king of the Persians and until reign of Darius king of the Persians.
+and hiring counselors against them to scatter their counsel all the days of Cyrus king of the Persians and until the reign of Darius king of the Persians.
 
 **2 Esdras 4:6**
 
@@ -20608,7 +20908,7 @@ And in the reign of Ahasuerus, at the beginning of his reign, they wrote a lette
 
 **2 Esdras 4:7**
 
-And in the days of Artaxerxes, Mithredath, Tabeel, together with the rest of his fellow-servants, wrote to Artaxerxes king of the Persians. The tax-writer wrote the document in Syrian, and it was translated.
+And in the days of Artaxerxes, Mithredath, Tabeel, together with the rest of his fellow-servants, wrote in peace to Artaxerxes king of the Persians. The tax-writer wrote the document in Syrian, and it was translated.
 
 **2 Esdras 4:8**
 
@@ -20616,7 +20916,7 @@ Rehum the chancellor and Shimshai the scribe wrote one letter against Jerusalem 
 
 **2 Esdras 4:9**
 
-thus judged Rehum the chancellor and Shimshai the scribe and our other fellow-servants, the Dinaeans, the Apharsathchites, the Tarphelaeans, the Apharsaeans, the Archyaeans, the Babylonians, the Sousanchaeans, who are Elamites,
+This was the judgment of Rehum the chancellor and Shimshai the scribe and our other fellow-servants, the Dinaeans, the Apharsathchites, the Tarphelaeans, the Apharsaeans, the Archyaeans, the Babylonians, the Sousanchaeans, who are Elamites,
 
 **2 Esdras 4:10**
 
@@ -20628,7 +20928,7 @@ This is the copy of the letter which they sent to him, to King Artaxerxes: Your 
 
 **2 Esdras 4:12**
 
-Let it be known to the king that the Jews who came up from you to us have come to Jerusalem, the rebellious and wicked city. They are building it, and its walls are being made ready, and they raised up its foundations.
+Let it be known to the king that the Jews who came up from you to us have come to Jerusalem, the rebellious and wicked city. They are building it, and its walls are being made ready, and they have raised up its foundations.
 
 **2 Esdras 4:13**
 
@@ -20636,11 +20936,11 @@ Now then let it be known to the king that if that city is rebuilt and its walls 
 
 **2 Esdras 4:14**
 
-And it is not lawful for us to see shame of the king; because of this we sent and made it known to the king,
+And it is not lawful for us to see the king's shame; because of this we sent and made it known to the king,
 
 **2 Esdras 4:15**
 
-so that he may inspect book of records of your fathers, and you will find and know that that city is a rebellious city, harming kings and lands, and that runaways of slaves were in its midst from ancient times. Because of these things that city was laid waste.
+so that he may inspect the book of records of your fathers, and you will find and know that that city is a rebellious city, harming kings and lands, and that runaways of slaves were in its midst from ancient times. Because of these things that city was laid waste.
 
 **2 Esdras 4:16**
 
@@ -20648,7 +20948,7 @@ Therefore we make known to the king that if that city is rebuilt and its walls c
 
 **2 Esdras 4:17**
 
-And the king sent to Rehum the chancellor and Shimshai the scribe and the rest of their fellow-servants dwelling in Samaria and the rest beyond the River, Peace, and he says,
+And the king sent to Rehum the chancellor and Shimshai the scribe and the rest of their fellow-servants dwelling in Samaria and the rest beyond the River: Peace, he says.
 
 **2 Esdras 4:18**
 
@@ -20664,7 +20964,7 @@ And strong kings were over Jerusalem, ruling all the west beyond the River, and 
 
 **2 Esdras 4:21**
 
-And now set decision to stop those men, and that city shall not be built again except by decree.
+And now set a decree to stop those men, and that city shall not be built again except by decree.
 
 **2 Esdras 4:22**
 
@@ -20672,17 +20972,17 @@ And take care not to be negligent concerning this, lest destruction multiply to 
 
 **2 Esdras 4:23**
 
-Then tax-document of King Artaxerxes was read before Rehum and Shimshai the scribe and their fellow-servants, and they went in haste to Jerusalem and into Judah and stopped them with horses and force.
+Then the tax-document of King Artaxerxes was read before Rehum and Shimshai the scribe and their fellow-servants, and they went in haste to Jerusalem and into Judah and stopped them with horses and force.
 
 **2 Esdras 4:24**
 
-Then work of the house of God in Jerusalem ceased, and it lay idle until the second year of the reign of Darius king of the Persians.
+Then the work of the house of God in Jerusalem ceased, and it lay idle until the second year of the reign of Darius king of the Persians.
 
 ### Chapter 5
 
 **2 Esdras 5:1**
 
-And Haggai the prophet and Zechariah son of Iddo prophesied over the Jews in Judah and Jerusalem, in the name of God of Israel upon them.
+And Haggai the prophet and Zechariah son of Iddo prophesied over the Jews in Judah and Jerusalem, in the name of the God of Israel upon them.
 
 **2 Esdras 5:2**
 
@@ -20690,19 +20990,19 @@ Then Zerubbabel son of Shealtiel and Jeshua son of Jozadak rose up and began to 
 
 **2 Esdras 5:3**
 
-At that time Tatnai, governor beyond the River, and Shetharboznai and their fellow-servants came upon them and said these things to them: Who set a decree for you to build this house and complete this structure?
+At that time Tatnai, governor beyond the River, and Shetharboznai and their fellow-servants came upon them and said these things to them: Who set a decree for you to build this house and complete this supply?
 
 **2 Esdras 5:4**
 
-Then they said these things to them: What are names of the men building this city?
+Then they said these things to them: What are the names of the men building this city?
 
 **2 Esdras 5:5**
 
-And the eyes of God were upon captivity of Judah, and they did not stop them until a report was carried to Darius and then an answer was sent to the tax-officer concerning this.
+And the eyes of God were upon the captivity of Judah, and they did not stop them until a report was carried to Darius and then an answer was sent to the tax-officer concerning this.
 
 **2 Esdras 5:6**
 
-Copy of letter which Tatnai governor beyond the River and Shetharboznai and their fellow-servants, the Apharsachites beyond the River, sent to King Darius:
+Copy of the letter which Tatnai governor beyond the River and Shetharboznai and their fellow-servants, the Apharsachites beyond the River, sent to King Darius:
 
 **2 Esdras 5:7**
 
@@ -20714,11 +21014,11 @@ Let it be known to the king that we went into the land of Judah, to the house of
 
 **2 Esdras 5:9**
 
-Then we asked those elders and said this to them: Who set a decree for you to build this house and complete this structure?
+Then we asked those elders and said this to them: Who set a decree for you to build this house and complete this supply?
 
 **2 Esdras 5:10**
 
-And we also asked them their names, to make them known to you, so that we might write to you names of the men leading them.
+And we also asked them their names, to make them known to you, so that we might write to you the names of the men leading them.
 
 **2 Esdras 5:11**
 
@@ -20726,7 +21026,7 @@ And this word they answered us, saying, We are servants of the God of heaven and
 
 **2 Esdras 5:12**
 
-But from time when our fathers provoked the God of heaven, he gave them into the hand of Nebuchadnezzar king of Babylon the Chaldean, and he destroyed this house and exiled the people to Babylon.
+But from the time when our fathers provoked the God of heaven, he gave them into the hand of Nebuchadnezzar king of Babylon the Chaldean, and he destroyed this house and exiled the people to Babylon.
 
 **2 Esdras 5:13**
 
@@ -20734,7 +21034,7 @@ But in the first year of King Cyrus, Cyrus the king set a decree for this house 
 
 **2 Esdras 5:14**
 
-And vessels of the house of God, the gold and silver ones which Nebuchadnezzar took from the house in Jerusalem and carried into the temple of the king, King Cyrus took them out from the temple of the king and gave them to Sheshbazzar, the treasurer over the treasury.
+And the vessels of the house of God, the gold and silver ones which Nebuchadnezzar took from the house in Jerusalem and carried into the temple of the king, King Cyrus took them out from the temple of the king and gave them to Sheshbazzar, the treasurer over the treasury.
 
 **2 Esdras 5:15**
 
@@ -20746,7 +21046,7 @@ Then that Sheshbazzar came and laid foundations of the house of God in Jerusalem
 
 **2 Esdras 5:17**
 
-And now, if it seems good to the king, let search be made in the house of royal treasury in Babylon, that you may know whether decree was set from King Cyrus to build that house of God in Jerusalem, and after knowing concerning this let the king send to us.
+And now, if it seems good to the king, let search be made in the royal treasury house in Babylon, that you may know whether a decree was set from King Cyrus to build that house of God in Jerusalem, and after knowing concerning this, let the king send to us.
 
 ### Chapter 6
 
@@ -20768,7 +21068,7 @@ with three courses of massive stone and one course of timber, and expense shall 
 
 **2 Esdras 6:5**
 
-And silver and gold vessels of the house of God, which Nebuchadnezzar brought out from the house in Jerusalem and carried to Babylon, let them be given back and go to the temple in Jerusalem, to place where they were put, in the house of God.
+And silver and gold vessels of the house of God, which Nebuchadnezzar brought out from the house in Jerusalem and carried to Babylon, let them be given back and go to the temple in Jerusalem, to the place where they were put, in the house of God.
 
 **2 Esdras 6:6**
 
@@ -20776,15 +21076,15 @@ Now stay away from there, governors beyond the River, Shetharboznai and your fel
 
 **2 Esdras 6:7**
 
-Leave work of that house of God alone. Let leaders of the Jews and elders of the Jews build that house of God on its place.
+Leave the work of that house of God alone. Let leaders of the Jews and elders of the Jews build that house of God on its place.
 
 **2 Esdras 6:8**
 
-And from me decree has been set that you do nothing against elders of the Jews in building that house of God, and from possessions of the king, from taxes beyond the River, let expense be carefully given to those men so that it not stop.
+And from me a decree has been set that you do nothing against the elders of the Jews in building that house of God, and from possessions of the king, from taxes beyond the River, let expense be carefully given to those men so that it not stop.
 
 **2 Esdras 6:9**
 
-And whatever is lacking, young bulls and rams and lambs for whole burnt offerings to the God of heaven, wheat, salt, wine, and oil, according to the word of priests in Jerusalem, let it be given to them day by day, whatever they ask,
+And whatever is lacking, young bulls and rams and lambs for whole-burnt offerings to the God of heaven, wheat, salt, wine, and oil, according to the word of priests in Jerusalem, let it be given to them day by day, whatever they ask,
 
 **2 Esdras 6:10**
 
@@ -20792,11 +21092,11 @@ so that they may be offering fragrant offerings to the God of heaven and praying
 
 **2 Esdras 6:11**
 
-And from me decree has been set that every man who changes this word, a timber shall be pulled down from his house, and after being raised up he shall be impaled on it, and his house shall be made a ruin for this.
+And from me a decree has been set that every man who changes this word, a timber shall be pulled down from his house, and after being raised up he shall be impaled on it, and his house shall be made a ruin for this.
 
 **2 Esdras 6:12**
 
-And God, who causes name to dwell there, will overthrow every king and people who stretches out his hand to alter or destroy that house of God in Jerusalem. I, Darius, set a decree; it shall be done carefully.
+And God, whose name dwells there, will overthrow every king and people who stretches out his hand to alter or destroy that house of God in Jerusalem. I, Darius, set a decree; it shall be done carefully.
 
 **2 Esdras 6:13**
 
@@ -20804,15 +21104,15 @@ Then Tatnai, governor beyond the River, Shetharboznai, and their fellow-servants
 
 **2 Esdras 6:14**
 
-And elders of the Jews were building and prospering through prophecy of Haggai the prophet and Zechariah son of Iddo. And they built and completed it by the decree of God of Israel and by the decree of Cyrus and Darius and Artaxerxes, kings of Persia.
+And elders of the Jews were building and prospering through the prophecy of Haggai the prophet and Zechariah son of Iddo. And they built and completed it by the decree of the God of Israel and by the decree of Cyrus and Darius and Artaxerxes, kings of Persia.
 
 **2 Esdras 6:15**
 
-And they completed this house by third day of the month Adar, which was sixth year in the reign of Darius the king.
+And they completed this house by the third day of the month Adar, which was the sixth year in the reign of Darius the king.
 
 **2 Esdras 6:16**
 
-And sons of Israel, the priests and the Levites and rest of sons of exile, kept dedication of the house of God with gladness.
+And sons of Israel, the priests and the Levites and the rest of the sons of exile, kept the dedication of the house of God with gladness.
 
 **2 Esdras 6:17**
 
@@ -20820,11 +21120,11 @@ And they offered at the dedication of the house of God one hundred calves, two h
 
 **2 Esdras 6:18**
 
-And they set priests in their divisions and Levites in their allotments for the service of God in Jerusalem, according to the writing of book of Moses.
+And they set priests in their divisions and Levites in their allotments for the service of God in Jerusalem, according to the writing of the book of Moses.
 
 **2 Esdras 6:19**
 
-And the sons of the exile kept the Passover on fourteenth day of the first month.
+And the sons of the exile kept the Passover on the fourteenth day of the first month.
 
 **2 Esdras 6:20**
 
@@ -20832,11 +21132,11 @@ For the priests and the Levites had purified themselves until all of them togeth
 
 **2 Esdras 6:21**
 
-And sons of Israel from the exile ate the Passover, and everyone separating himself from uncleanness of nations of the land to them, to seek the Lord God of Israel.
+And sons of Israel from the exile ate the Passover, and everyone separating himself from the uncleanness of nations of the land to them, to seek the Lord God of Israel.
 
 **2 Esdras 6:22**
 
-And they kept feast of unleavened for seven days with gladness, because the Lord gladdened them and turned heart of the king of Asshur toward them, to strengthen their hands in the works of the house of God of Israel.
+And they kept the feast of unleavened bread for seven days with gladness, because the Lord gladdened them and turned the heart of the king of Assyria toward them, to strengthen their hands in the works of the house of the God of Israel.
 
 ### Chapter 7
 
@@ -20862,19 +21162,19 @@ son of Abishua, son of Phinehas, son of Eleazar, son of Aaron the first priest.
 
 **2 Esdras 7:6**
 
-This Ezra came up from Babylon, and he was a quick scribe in the law of Moses, which the Lord God of Israel gave, and the king gave to him because the hand of the Lord his God was upon him in all he sought.
+This Ezra came up from Babylon, and he was a swift scribe in the law of Moses, which the Lord God of Israel gave, and the king gave to him because the hand of the Lord his God was upon him in all he sought.
 
 **2 Esdras 7:7**
 
-And some from the sons of Israel and from the priests and from the Levites and the singers and the gatekeepers and the nethinim went up to Jerusalem in the seventh year of King Artaxerxes.
+And some from the sons of Israel and from the priests and from the Levites and the singers and the gatekeepers and the temple servants went up to Jerusalem in the seventh year of King Artaxerxes.
 
 **2 Esdras 7:8**
 
-And they came to Jerusalem in the fifth month; this was seventh year of the king.
+And they came to Jerusalem in the fifth month; this was the seventh year of the king.
 
 **2 Esdras 7:9**
 
-For on the first day of the first month he founded the going-up from Babylon, and on the first day of the fifth month they came to Jerusalem, because good hand of his God was upon him.
+For on the first day of the first month he founded the going-up from Babylon, and on the first day of the fifth month they came to Jerusalem, because the good hand of his God was upon him.
 
 **2 Esdras 7:10**
 
@@ -20882,23 +21182,23 @@ For Ezra gave his heart to seek the law and to do it and to teach ordinances and
 
 **2 Esdras 7:11**
 
-And this is a copy of the decree which Artaxerxes gave to Ezra the priest, the scribe of book of words of commandments of the Lord and his ordinances for Israel:
+And this is a copy of the decree which Artaxerxes gave to Ezra the priest, the scribe of the book of words of commandments of the Lord and his ordinances for Israel:
 
 **2 Esdras 7:12**
 
-Artaxerxes, king of kings, to Ezra, scribe of the law of the God of heaven: the matter is settled, and this the answer.
+Artaxerxes, king of kings, to Ezra, scribe of the law of the God of heaven: the matter is settled, and this is the answer.
 
 **2 Esdras 7:13**
 
-From me decree has been set that everyone in my kingdom who freely chooses from the people of Israel and priests and Levites to go to Jerusalem with you may go.
+From me a decree has been set that everyone in my kingdom who freely chooses from the people of Israel and priests and Levites to go to Jerusalem with you may go.
 
 **2 Esdras 7:14**
 
-Because you are sent from the presence of the king and the seven counselors to inspect concerning Judah and Jerusalem by law of your God in your hand,
+Because you are sent from the presence of the king and the seven counselors to inspect concerning Judah and Jerusalem by the law of your God in your hand,
 
 **2 Esdras 7:15**
 
-and to bring silver and gold which the king and his counselors freely gave to God of Israel who dwells in Jerusalem,
+and to bring silver and gold which the king and his counselors freely gave to the God of Israel who dwells in Jerusalem,
 
 **2 Esdras 7:16**
 
@@ -20906,11 +21206,11 @@ and all the silver and gold whatever you find in the whole land of Babylon, toge
 
 **2 Esdras 7:17**
 
-and whatever comes with this, promptly arrange in this writing: calves, rams, lambs, and their grain offerings and their drink offerings, and you shall offer them on the altar of the house of your God in Jerusalem.
+and whatever comes with this, promptly arrange in this writing: calves, rams, lambs, and their sacrifices and their libations, and you shall offer them on the altar of the house of your God in Jerusalem.
 
 **2 Esdras 7:18**
 
-And whatever seems good to you and your brothers to do with rest of the silver and the gold, do as pleasing to your God.
+And whatever seems good to you and your brothers to do with the rest of the silver and the gold, do as is pleasing to your God.
 
 **2 Esdras 7:19**
 
@@ -20918,7 +21218,7 @@ And vessels given to you for the service of the house of God, deliver before God
 
 **2 Esdras 7:20**
 
-And whatever remains of need for the house of your God, whatever seems to you to give, you shall give from houses of treasury of the king.
+And whatever remains of need for the house of your God, whatever seems to you to give, you shall give from the treasury houses of the king.
 
 **2 Esdras 7:21**
 
@@ -20930,23 +21230,23 @@ up to one hundred talents of silver and up to one hundred kors of wheat and up t
 
 **2 Esdras 7:23**
 
-Everything in decree of the God of heaven, let it be done carefully for the house of the God of heaven. Take care lest anyone attack it, lest wrath come upon the kingdom of the king and his sons.
+Everything that is in the decree of the God of heaven, let it be done for the house of the God of heaven. Take care lest anyone attack it, lest wrath come upon the kingdom of the king and his sons.
 
 **2 Esdras 7:24**
 
-And it is made known to you that upon all the priests and Levites, singers, gatekeepers, nethinim, and servants of this house of God, tribute shall not be for you; you will have no authority to enslave them.
+And it is made known to you concerning all the priests and Levites, singers, gatekeepers, temple servants, and servants of this house of God, that tribute shall not be yours; you will have no authority to enslave them.
 
 **2 Esdras 7:25**
 
-And you, Ezra, according to wisdom of God in your hand, appoint scribes and judges, that they may be judging all the people beyond the River, all knowing law of your God, and you shall make it known to those not knowing.
+And you, Ezra, according to the wisdom of God in your hand, appoint scribes and judges, that they may judge all the people beyond the River, all those knowing the law of your God, and you shall make it known to those not knowing.
 
 **2 Esdras 7:26**
 
-And everyone who is not doing the law of your God and the law of the king, judgment shall promptly be carried out from him, whether to death or to discipline or to confiscation of substance or to bonds.
+And everyone who is not doing the law of your God and the law of the king, judgment shall promptly be carried out against him, whether to death or to discipline or to confiscation of substance or to handing over.
 
 **2 Esdras 7:27**
 
-Blessed is the Lord God of our fathers, who gave thus into the heart of the king to glorify house of the Lord in Jerusalem,
+Blessed is the Lord God of our fathers, who gave thus into the heart of the king to glorify the house of the Lord in Jerusalem,
 
 **2 Esdras 7:28**
 
@@ -20956,7 +21256,7 @@ and bent mercy toward me before the king and his counselors and all the exalted 
 
 **2 Esdras 8:1**
 
-And these were chiefs of their father-houses, leaders going up with me in the reign of Artaxerxes, king of Babylon:
+And these were chiefs of their paternal houses, leaders going up with me in the reign of Artaxerxes, king of Babylon:
 
 **2 Esdras 8:2**
 
@@ -21020,11 +21320,11 @@ And I sent for Eleazar, Ariel, Shemaiah, Alonam, Jarib, Elnathan, Nathan, Zechar
 
 **2 Esdras 8:17**
 
-And I sent them out to the leader at Casiphia the place, and I put words in their mouth to speak to their brothers the nethinim at Casiphia the place, to bring us singers for the house of our God.
+And I sent them out to the leaders at Silver, the place, and I put words in their mouth to speak to their brothers the temple servants at Silver, the place, to bring us singers for the house of our God.
 
 **2 Esdras 8:18**
 
-And they came to us, because good hand of our God was upon us, a man, Mahli, from the sons of Mahali son of Levi son of Israel, and his sons and his brothers, eighteen.
+And they came to us, because the good hand of our God was upon us: Sachon, a man from the sons of Mooli, son of Levi, son of Israel, and first came his sons and his brothers, eighteen.
 
 **2 Esdras 8:19**
 
@@ -21032,15 +21332,15 @@ And Hashabiah and Jeshaiah from the sons of Merari, his brothers and their sons,
 
 **2 Esdras 8:20**
 
-And from the nethinim, whom David and the rulers gave for the service of the Levites, two hundred twenty nethinim. All were enrolled by names.
+And from the temple servants, whom David and the rulers gave for the service of the Levites, two hundred twenty temple servants. All were enrolled by names.
 
 **2 Esdras 8:21**
 
-And I proclaimed a fast there at river Ahava, to humble ourselves before our God, to seek from him a straight way for us and for our children and for all our possessions.
+And I proclaimed a fast there at the river Ahava, to humble ourselves before our God, to seek from him a straight way for us and for our children and for all our possessions.
 
 **2 Esdras 8:22**
 
-For I was ashamed to ask from the king force and horsemen to save us from enemy on the road, because we had spoken to the king, saying, The hand of our God is upon all seeking him for good, but his might and his wrath are upon all forsaking him.
+For I was ashamed to ask from the king force and horsemen to save us from the enemy on the road, because we had spoken to the king, saying, The hand of our God is upon all seeking him for good, but his might and his wrath are upon all forsaking him.
 
 **2 Esdras 8:23**
 
@@ -21052,7 +21352,7 @@ And I separated twelve from the chiefs of the priests: Seraiah, Hashabiah, and w
 
 **2 Esdras 8:25**
 
-And I weighed out to them the silver and the gold and the vessels, the firstfruits of the house of our God, which the king and his counselors and his rulers and all Israel found there had lifted up.
+And I weighed out to them the silver and the gold and the vessels, the firstfruits of the house of our God, which the king and his counselors and his rulers and all Israel who were found there had lifted up.
 
 **2 Esdras 8:26**
 
@@ -21060,7 +21360,7 @@ And I weighed into their hands six hundred fifty talents of silver and one hundr
 
 **2 Esdras 8:27**
 
-and twenty golden bowls worth one thousand chamanim, and vessels of shining good bronze, choice as gold.
+and twenty golden bowls worth one thousand chamanim for the way, and vessels of shining good bronze, choice as gold.
 
 **2 Esdras 8:28**
 
@@ -21068,7 +21368,7 @@ And I said to them, You are holy to the Lord, and the vessels are holy, and the 
 
 **2 Esdras 8:29**
 
-Stay awake and guard them until you stand before chiefs of the priests and the Levites and chiefs of father-houses in Jerusalem, in the chambers of the house of the Lord.
+Stay awake and guard them until you stand before chiefs of the priests and the Levites and chiefs of paternal houses in Jerusalem, in the chambers of the house of the Lord.
 
 **2 Esdras 8:30**
 
@@ -21076,7 +21376,7 @@ And the priests and the Levites received the weight of the silver and the gold a
 
 **2 Esdras 8:31**
 
-And we set out from the river Ahava on twelfth day of the first month to come to Jerusalem, and hand of our God was upon us, and he rescued us from the hand of enemy and foe on the road.
+And we set out from the river Ahava on the twelfth day of the first month to come to Jerusalem, and the hand of our God was upon us, and he rescued us from the hand of enemy and foe on the road.
 
 **2 Esdras 8:32**
 
@@ -21084,7 +21384,7 @@ And we came to Jerusalem and sat there three days.
 
 **2 Esdras 8:33**
 
-And it happened on fourth day that we weighed the silver and the gold and the vessels in the house of our God by the hand of Meremoth son of Uriah the priest, and with him Eleazar son of Phinehas, and with them Jozabad son of Jeshua and Noadiah son of Benaiah, the Levites,
+And it happened on the fourth day that we weighed the silver and the gold and the vessels in the house of our God by the hand of Meremoth son of Uriah the priest, and with him Eleazar son of Phinehas, and with them Jozabad son of Jeshua and Noadiah son of Benaiah, the Levites,
 
 **2 Esdras 8:34**
 
@@ -21092,11 +21392,11 @@ by number and by weight, everything, and all the weight was written at that time
 
 **2 Esdras 8:35**
 
-Those coming from captivity, sons of exile, offered whole burnt offerings to God of Israel: twelve calves for all Israel, ninety-six rams, seventy-seven lambs, twelve goat kids for sin, all as whole burnt offerings to the Lord.
+Those coming from captivity, sons of exile, offered whole-burnt offerings to the God of Israel: twelve calves for all Israel, ninety-six rams, seventy-seven lambs, twelve goat kids for sin, all as whole-burnt offerings to the Lord.
 
 **2 Esdras 8:36**
 
-And they gave king's decree to the king's administrators and governors beyond the River, and they honored the people and the house of God.
+And they gave the king's decree to the king's administrators and governors beyond the River, and they honored the people and the house of God.
 
 ### Chapter 9
 
@@ -21106,19 +21406,19 @@ And when these things were finished, the rulers came near to me saying, People o
 
 **2 Esdras 9:2**
 
-For they took from their daughters for themselves and for their sons, and the holy seed was mixed with the peoples of the lands, and hand of the rulers was first in this faithlessness.
+For they took from their daughters for themselves and for their sons, and the holy seed was mixed with the peoples of the lands, and the hand of the rulers was first in this faithlessness.
 
 **2 Esdras 9:3**
 
-And when I heard this word, I tore my garments and mantle and plucked hair from my head and from my beard and sat devastated.
+And when I heard this word, I tore my garments and mantle and plucked hair from my head and from my beard and sat quiet.
 
 **2 Esdras 9:4**
 
-And everyone pursuing word of God of Israel was gathered to me over the faithlessness of the exile, and I sat devastated until evening sacrifice.
+And everyone pursuing the word of the God of Israel was gathered to me over the faithlessness of the exile, and I sat quiet until the evening sacrifice.
 
 **2 Esdras 9:5**
 
-And at evening sacrifice I rose from my humbling, and as I tore my garments and mantle I bent upon my knees and spread out my hands to the Lord God
+And at the evening sacrifice I rose from my humbling, and as I tore my garments and mantle I bent upon my knees and spread out my hands to the Lord God
 
 **2 Esdras 9:6**
 
@@ -21130,11 +21430,11 @@ From the days of our fathers we have been in great trespass until this day, and 
 
 **2 Esdras 9:8**
 
-And now the Lord our God dealt gently with us, to leave us a remnant for salvation and give us a foothold in place of his sanctuary, to enlighten our eyes and give us a little reviving in our slavery.
+And now our God dealt gently with us, to leave us a remnant for salvation and give us a foothold in the place of his sanctuary, to enlighten our eyes and give us a little reviving in our slavery.
 
 **2 Esdras 9:9**
 
-For slaves we are, yet in our slavery the Lord our God did not forsake us, and he bent mercy upon us before kings of Persia, to give us reviving, to raise up house of our God and restore its desolate places and give us a wall in Judah and in Jerusalem.
+For slaves we are, yet in our slavery the Lord our God did not forsake us, and he bent mercy upon us before kings of Persia, to give us reviving, to raise up the house of our God and restore its desolate places and give us a wall in Judah and in Jerusalem.
 
 **2 Esdras 9:10**
 
@@ -21142,7 +21442,7 @@ And what shall we say, our God, after this? For we forsook your commandments,
 
 **2 Esdras 9:11**
 
-which you gave by the hand of your servants the prophets, saying, The land into which you enter to inherit it is a land made unclean in uncleanness of peoples of the nations, in their abominations with which they filled it from one end to the other with their uncleannesses.
+which you gave by the hand of your servants the prophets, saying, The land into which you enter to inherit it is a land made unclean in the uncleanness of peoples of the nations, in their abominations with which they filled it from one end to the other with their uncleannesses.
 
 **2 Esdras 9:12**
 
@@ -21192,15 +21492,15 @@ And they proclaimed through Judah and Jerusalem to all the sons of the exile to 
 
 **2 Esdras 10:8**
 
-And everyone who would not come within three days, according to the counsel of the rulers and the elders, all his substance would be devoted, and he himself would be separated from assembly of the exile.
+And everyone who would not come within three days, according to the counsel of the rulers and the elders, all his substance would be devoted, and he himself would be separated from the assembly of the exile.
 
 **2 Esdras 10:9**
 
-And all the men of Judah and Benjamin gathered into Jerusalem within three days. This was the ninth month, on twentieth day of the month. And all the people sat in the open square of the house of God, trembling because of the matter and because of the winter.
+And all the men of Judah and Benjamin gathered into Jerusalem within three days. This was the ninth month, on the twentieth day of the month. And all the people sat in the open square of the house of God, trembling because of the matter and because of the winter.
 
 **2 Esdras 10:10**
 
-And Ezra the priest stood and said to them, You have acted faithlessly and seated foreign women, to add to trespass of Israel.
+And Ezra the priest stood and said to them, You have acted faithlessly and seated foreign women, to add to the trespass of Israel.
 
 **2 Esdras 10:11**
 
@@ -21208,7 +21508,7 @@ And now give praise to the Lord God of your fathers and do what is pleasing befo
 
 **2 Esdras 10:12**
 
-And all the assembly answered and said, Great is this word of yours upon us to do.
+And all the assembly answered and said, This word of yours is great upon us to do.
 
 **2 Esdras 10:13**
 
@@ -21216,7 +21516,7 @@ But the people are many, and the season is rainy, and there is no strength to st
 
 **2 Esdras 10:14**
 
-Let our rulers stand for the whole assembly, and all in our cities who seated foreign women, let them come at appointed times, and with them elders of the city by city and judges, to turn away anger of wrath of our God from us concerning this matter.
+Let our rulers stand for the whole assembly, and all in our cities who seated foreign women, let them come at appointed times, and with them elders of each city and judges, to turn away the anger of the wrath of our God from us concerning this matter.
 
 **2 Esdras 10:15**
 
@@ -21224,11 +21524,11 @@ Only Jonathan son of Asahel and Jahaziah son of Tikvah stood for this, and Meshu
 
 **2 Esdras 10:16**
 
-And the sons of the exile did thus, and Ezra the priest and men, leaders of father-houses by house, all by names, were set apart, and they sat on the first day of the tenth month to investigate the matter.
+And the sons of the exile did thus, and Ezra the priest and men, leaders of paternal houses by house, all by names, were set apart, and they returned on the first day of the tenth month to investigate the matter.
 
 **2 Esdras 10:17**
 
-And they finished with all the men who had seated foreign women by first day of the first month.
+And they finished with all the men who had seated foreign women by the first day of the first month.
 
 **2 Esdras 10:18**
 
@@ -21308,7 +21608,7 @@ Ouechoa, Meremoth, Eliashib,
 
 **2 Esdras 10:37**
 
-Mattaniah, Mathanai, and they made.
+Mattaniah, Matthanai, and they acted.
 
 **2 Esdras 10:38**
 
@@ -21360,7 +21660,7 @@ before whom all things shudder and tremble from the face of your power,
 
 **Prayer of Manasseh 1:5**
 
-because the magnificence of your glory is unendurable, and the wrath of your threat upon sinners is irresistible;
+because the magnificence of your glory is unendurable, and the wrath of your threat upon sinners cannot be withstood;
 
 **Prayer of Manasseh 1:6**
 
@@ -21368,11 +21668,11 @@ and the mercy of your promise is unmeasured and unsearchable;
 
 **Prayer of Manasseh 1:7**
 
-for you are Lord Most High, compassionate, longsuffering, and very merciful, relenting over human evils. You, Lord, according to the multitude of your kindness, promised repentance and forgiveness to those who have sinned against you, and by the multitude of your compassions appointed repentance for sinners unto salvation.
+for you are Lord Most High, compassionate, longsuffering, and very merciful, relenting over the evils of humans. You, Lord, according to the multitude of your kindness, promised repentance and forgiveness to those who have sinned against you, and by the multitude of your compassions appointed repentance for sinners unto salvation.
 
 **Prayer of Manasseh 1:8**
 
-Therefore you, Lord, God of the righteous, did not appoint repentance for the righteous, for Abraham and Isaac and Jacob, those who did not sin against you,
+Therefore you, Lord, God of the righteous, did not appoint repentance for the righteous, for Abraham and Isaac and Jacob, who did not sin against you.
 
 **Prayer of Manasseh 1:9**
 
@@ -21384,7 +21684,7 @@ being bent down by a heavy iron bond, so as not to lift up my head, and there is
 
 **Prayer of Manasseh 1:11**
 
-And now I bend the knee of my heart, asking for the kindness from you: I have sinned,
+And now I bend the knee of my heart, begging for the kindness from you: I have sinned,
 
 **Prayer of Manasseh 1:12**
 
@@ -21392,7 +21692,7 @@ Lord, I have sinned, and I know my lawless deeds. But I ask, begging you: forgiv
 
 **Prayer of Manasseh 1:13**
 
-Lord, forgive me, and do not destroy me together with my lawless deeds, nor, being angry forever, keep my evils, nor condemn me in the lowest parts of the earth, because you are God, the God of those who repent.
+Lord, forgive me, and do not destroy me together with my lawless deeds, nor keep my evils forever in anger, nor condemn me in the lowest parts of the earth, because you are God, the God of those who repent.
 
 **Prayer of Manasseh 1:14**
 
@@ -21408,27 +21708,27 @@ And I will praise you continually in the days of my life, because all the power 
 
 **3 Maccabees 1:1**
 
-But Philopator, having learned from those brought back of the seizure by Antiochus of the places held under him, commanded all his forces, both foot and horse, and taking along his sister Arsinoe, set out as far as the places around Raphia, where those around Antiochus had camped.
+But Philopator, having learned from those who returned about the seizure by Antiochus of the places held under him, commanded all his forces, both foot and horse, and taking along his sister Arsinoe, set out as far as the places around Raphia, where those around Antiochus had camped.
 
 **3 Maccabees 1:2**
 
-And a certain Theodotus, intending to complete the plot, took the best of the Ptolemaic weapons previously assigned to him and was carried by night to the tent of Ptolemy, as though to kill him alone and in this way dissolve the war.
+And a certain Theodotus, intending to complete the plot, took the best of the Ptolemaic weapons previously assigned to him and was carried by night to the tent of Ptolemy, as though to kill him by himself and in this way end the war.
 
 **3 Maccabees 1:3**
 
-But Dositheus, called son of Drimylus, a Jew by race, but afterward having changed the customs and been alienated from the ancestral decrees, led this man through and laid down a certain obscure man in the tent, who happened to receive that one's punishment.
+But Dositheus, called son of Drimylus, a Jew by race, but afterward having changed the customs and been alienated from the ancestral decrees, led this man away and laid down a certain obscure man in the tent, who happened to receive that one's punishment.
 
 **3 Maccabees 1:4**
 
-And when a hard battle came to be and matters were rather strengthened for Antiochus, Arsinoe sufficiently went among the forces and exhorted them, with pity and tears, her locks loosed, to help themselves and their children and wives courageously, promising to give each who conquered two minas of gold.
+And when a hard battle came to be and matters were turning more strongly for Antiochus, Arsinoe went among the forces and exhorted them, with pity and tears, her locks loosed, to help themselves and their children and wives courageously, promising to give each who conquered two minas of gold.
 
 **3 Maccabees 1:5**
 
-And so it happened that the opponents were destroyed in hand-to-hand fighting, and many also were seized as spear-captives.
+And so it happened that the opponents were destroyed in hand-to-hand fighting, and many also were seized as prisoners of the spear.
 
 **3 Maccabees 1:6**
 
-And having taken control of the plot, he judged to go upon the nearby cities and encourage them.
+And having taken control of the plot, he decided to go to the nearby cities and encourage them.
 
 **3 Maccabees 1:7**
 
@@ -21440,19 +21740,19 @@ But when the Jews sent to him from the senate and the elders those who would gre
 
 **3 Maccabees 1:9**
 
-And being brought into Jerusalem and sacrificing to the greatest God and giving thanks and doing something of the following for the place, and indeed coming to the place and being struck by its earnestness and good order,
+And being brought into Jerusalem and sacrificing to the greatest God and giving thanks and doing something fitting for the place, and indeed coming to the place and being struck by its earnestness and good order,
 
 **3 Maccabees 1:10**
 
-and marveling also at the good arrangement of the temple, he considered taking counsel to enter into the shrine.
+and marveling also at the good arrangement of the temple, he formed a plan to enter into the shrine.
 
 **3 Maccabees 1:11**
 
-But when they said that this was not fitting to happen, because not even those from the nation were permitted to enter, nor all the priests, but only the high priest leading all, and he once each year, he in no way wished to be persuaded.
+But when they said that this was not fitting to happen, because not even those from the nation were permitted to enter, nor all the priests, but only the high priest leading all, and he once each year, he in no way wished to listen.
 
 **3 Maccabees 1:12**
 
-And when the law had been read beside him, he in no way left off, putting himself forward and saying that he must enter; and if they have been deprived of this honor, I must not be.
+And when the law had been read to him, he in no way left off, putting himself forward and saying that he must enter: Even if they have been deprived of this honor, I must not be.
 
 **3 Maccabees 1:13**
 
@@ -21460,7 +21760,7 @@ And he inquired for what reason, when he entered every sacred precinct, none of 
 
 **3 Maccabees 1:14**
 
-And someone thoughtlessly said that this very thing was wrongly treated as a sign.
+And someone thoughtlessly said that this very thing was wrongly being treated as a wonder.
 
 **3 Maccabees 1:15**
 
@@ -21468,11 +21768,11 @@ But since this has happened for some reason, he says, shall I not surely enter, 
 
 **3 Maccabees 1:16**
 
-And when the priests in the holy garments fell forward and begged the greatest God to help the present necessity and turn aside the rush of the one making an evil attack, and filled the temple with crying and tears,
+And when the priests in the holy garments fell forward and begged the greatest God to help in the present crisis and turn aside the rush of the one making an evil attack, and filled the temple with crying and tears,
 
 **3 Maccabees 1:17**
 
-those left in the city were disturbed and rushed out, making unclear what was happening.
+those left in the city were disturbed and rushed out, uncertain about what was happening.
 
 **3 Maccabees 1:18**
 
@@ -21480,7 +21780,7 @@ And the shut-in virgins in the chambers rushed out with those who had borne them
 
 **3 Maccabees 1:19**
 
-And those newly adorned, leaving the bridal rooms arranged for meeting and the modesty that fitted them, made a disorderly run in the city.
+And those newly adorned, leaving the bridal rooms arranged for meeting and the modesty that fitted them, set out in a disorderly run through the city.
 
 **3 Maccabees 1:20**
 
@@ -21492,15 +21792,15 @@ And varied was the supplication of those gathered for this, over the impious thi
 
 **3 Maccabees 1:22**
 
-Together with these, the citizens who had grown bold could not endure him pressing on completely and intending to fulfill his purpose.
+Together with these, the citizens who had grown bold could not endure him pressing on fully and intending to fulfill his purpose.
 
 **3 Maccabees 1:23**
 
-And crying out to make a rush to arms and to die courageously for the ancestral law, they made considerable harshness in the place; but with difficulty, being turned back by the elderly and the elders, they stood in the same posture of supplication.
+And crying out to make a rush to arms and to die courageously for the ancestral law, they made considerable tumult in the place; but with difficulty, being turned back by the elderly and the elders, they stood in the same posture of supplication.
 
 **3 Maccabees 1:24**
 
-And the multitude, as before, was moving about in these things, begging.
+And the multitude, as before, remained in these things, begging.
 
 **3 Maccabees 1:25**
 
@@ -21508,25 +21808,25 @@ But the elders around the king tried in many ways to remove his arrogant mind fr
 
 **3 Maccabees 1:26**
 
-But being emboldened and dismissing everything, he was already making an approach, thinking to put an end to what had been said before.
+But being emboldened and disregarding everything, he was already making an approach, thinking to carry out what had been said before.
 
 **3 Maccabees 1:27**
 
-Therefore those who were around him, seeing these things, turned to call upon the One having all power, together with our people, to help in the present things, not overlooking the lawless and over-proud act.
+Therefore those who were around him, seeing these things, turned to call upon the One having all power, together with our people, to help in the present crisis, not overlooking the lawless and arrogant act.
 
 **3 Maccabees 1:28**
 
-And from the most dense and painful cry of the crowds being gathered, there was a shout beyond comparing.
+And from the densely packed and painful cry of the crowds being gathered, there was a shout beyond comparing.
 
 **3 Maccabees 1:29**
 
-For it seemed that not only the humans, but also the walls and the whole ground were resounding, since all then were exchanging death instead of the profaning of the place.
+For it seemed that not only the humans, but also the walls and the whole ground were resounding, since all then were choosing death instead of the profaning of the place.
 
 ### Chapter 2
 
 **3 Maccabees 2:1**
 
-Therefore Simon the high priest, opposite the shrine, bending his knees and stretching out his hands in good order, made such a petition.
+Therefore Simon the high priest, opposite the shrine, bending his knees and stretching out his hands in good order, made this petition.
 
 **3 Maccabees 2:2**
 
@@ -21538,11 +21838,11 @@ For you, the one who created all things and rules over the whole, are a righteou
 
 **3 Maccabees 2:4**
 
-You destroyed those before who did unrighteousness, among whom also were giants trusting in might and insolence, bringing upon them immeasurable water.
+You destroyed those formerly doing unrighteousness, among whom also were giants trusting in might and insolence, bringing upon them immeasurable water.
 
 **3 Maccabees 2:5**
 
-You burned up with fire and sulfur the Sodomites, who worked pride and became manifest in evils, setting them as an example to those who would come after.
+You burned up with fire and sulfur the Sodomites, who practiced pride and became notorious in evils, setting them as an example to those who would come after.
 
 **3 Maccabees 2:6**
 
@@ -21554,7 +21854,7 @@ And when he pursued with chariots and a multitude of crowds, you flooded him wit
 
 **3 Maccabees 2:8**
 
-and they, seeing together the works of your hand, praised you, the Almighty.
+and they, seeing for themselves the works of your hand, praised you, the Almighty.
 
 **3 Maccabees 2:9**
 
@@ -21562,7 +21862,7 @@ You, King, having created the boundless and immeasurable earth, chose this city 
 
 **3 Maccabees 2:10**
 
-And loving the house of Israel, you promised indeed that if our turning away came to be and distress overtook us, and we came into this place and made petition, you would hear our petition.
+And loving the house of Israel, you promised indeed that if our turning away should come and distress overtake us, and we came into this place and made petition, you would hear our petition.
 
 **3 Maccabees 2:11**
 
@@ -21574,7 +21874,7 @@ And since many times, when our fathers were afflicted, you helped them in their 
 
 **3 Maccabees 2:13**
 
-behold now, holy King, because of our many and great sins we are being worn down and have been subjected to our enemies and are slack in weaknesses.
+behold now, holy King, because of our many and great sins we are being worn down and have been subjected to our enemies and are left in weaknesses.
 
 **3 Maccabees 2:14**
 
@@ -21590,7 +21890,7 @@ But since, being pleased with your glory in your people Israel, you sanctified t
 
 **3 Maccabees 2:17**
 
-do not punish us by the uncleanness of these, nor correct us by profanation, lest the lawless boast in their wrath, nor exult in the pride of their tongue, saying,
+do not punish us by the uncleanness of these people, nor correct us by profanation, lest the lawless boast in their wrath, nor exult in the pride of their tongue, saying,
 
 **3 Maccabees 2:18**
 
@@ -21602,7 +21902,7 @@ Wipe away our sins and scatter our errors, and make your mercy appear at this ho
 
 **3 Maccabees 2:20**
 
-May your compassions quickly come before us, and give praises in the mouth of those cast down and crushed in souls, making peace for us.
+May your compassions quickly come before us, and put praises in the mouth of those cast down and crushed in souls, making peace for us.
 
 **3 Maccabees 2:21**
 
@@ -21610,7 +21910,7 @@ Here the God who watches over all things, and before all is holy in holies, havi
 
 **3 Maccabees 2:22**
 
-Shaking him this way and that like a reed by wind, so that he was on the ground useless, and also paralyzed in his limbs and unable even to speak, entangled by righteous judgment.
+He shook him this way and that like a reed by wind, so that he was useless on the ground, and also paralyzed in his limbs and unable even to speak, entangled by righteous judgment.
 
 **3 Maccabees 2:23**
 
@@ -21622,11 +21922,11 @@ But later, after he gathered himself, he came in no way to repentance though reb
 
 **3 Maccabees 2:25**
 
-And being brought into Egypt and increasing the things of evil, through the previously designated drinking companions and associates, who were separated from all justice,
+And being brought into Egypt and increasing the works of evil, through the previously designated drinking companions and associates, who were separated from all justice,
 
 **3 Maccabees 2:26**
 
-he was not only satisfied with countless wanton acts, but also went forward to such insolence that blasphemies were set up in the places, and many of the friends, looking closely to the king's purpose, themselves also followed his will.
+he was not only satisfied with countless wanton acts, but also went forward to such insolence that blasphemies arose in the places, and many of the friends, looking closely to the king's purpose, themselves also followed his will.
 
 **3 Maccabees 2:27**
 
@@ -21646,7 +21946,7 @@ But so that he might not appear hateful to all, he wrote beneath: But if any of 
 
 **3 Maccabees 2:31**
 
-Therefore some, hating the city's foundations of piety because of the city, easily gave themselves up, as if they would share in some great good fame from their future association with the king.
+Therefore some, for the sake of city-status hating the foundations of the city's piety, easily gave themselves up, as if they would share in some great good fame from their future association with the king.
 
 **3 Maccabees 2:32**
 
@@ -21654,21 +21954,21 @@ But most strengthened themselves with a noble soul and did not depart from piety
 
 **3 Maccabees 2:33**
 
-And they were set in good hope that they would obtain help; and those withdrawing from them they abhorred and judged as enemies of the nation and deprived them of common association and usefulness.
+And they stood in good hope that they would obtain help; and those withdrawing from them they abhorred and judged as enemies of the nation and deprived them of common association and usefulness.
 
 ### Chapter 3
 
 **3 Maccabees 3:1**
 
-And receiving these things, the impious one was so greatly enraged that he was not only angry with those in Alexandria, but also more heavily opposed those in the country, and ordered that they hurry to gather all into the same place and remove them from life by the worst fate.
+And taking these things in, the impious one was so greatly enraged that he was not only angry with those in Alexandria, but also more heavily opposed those in the country, and ordered that they hurry to gather all into the same place and remove them from life by the worst fate.
 
 **3 Maccabees 3:2**
 
-And while these things were being arranged, a hostile report was sounding out against the race among humans of one mind for doing evil, occasion being given for disposition, as though they were hindered by their lawful customs.
+And while these things were being arranged, a hostile report was sounding out against the race among humans of one mind for doing evil, with an occasion given for hostility, as though they were hindered by their lawful customs.
 
 **3 Maccabees 3:3**
 
-But the Jews were preserving unturned their goodwill and faith toward the kings,
+But the Jews were preserving unwavering goodwill and faith toward the kings,
 
 **3 Maccabees 3:4**
 
@@ -21676,23 +21976,23 @@ and, reverencing God and living by his law, they made a separation concerning fo
 
 **3 Maccabees 3:5**
 
-But adorning their common conduct with the good practice of the righteous, they had been established as approved among all humans.
+But adorning their common conduct with the good practice of the righteous, they had been established as approved among all people.
 
 **3 Maccabees 3:6**
 
-Therefore the foreigners in no way reckoned the good practice concerning the race that was being talked of among all,
+Therefore the foreigners in no way reckoned the good practice concerning the race that was being reported everywhere,
 
 **3 Maccabees 3:7**
 
-but they kept talking of the difference concerning acts of worship and foods, saying that these humans had become companions in libation neither with the king nor with the forces, but were hostile and opposing matters in some great way; and they attached no ordinary blame.
+but they kept talking of the difference concerning acts of worship and foods, saying that these humans shared libations neither with the king nor with the forces, but were hostile and opposing matters in some great way; and they attached no ordinary blame.
 
 **3 Maccabees 3:8**
 
-But the Greeks in the city, having been wronged in nothing, seeing an unexpected disturbance around the people and unobstructed rushes coming to be, did not have strength to help, for the disposition was tyrannical; but they encouraged them and were distressed and supposed that these things would change.
+But the Greeks in the city, having been wronged in nothing, seeing an unexpected disturbance around the people and unchecked rushes coming to be, did not have strength to help, for the disposition was tyrannical; but they encouraged them and were distressed and supposed that these things would change.
 
 **3 Maccabees 3:9**
 
-For such a great body, ignorant of nothing, would not be overlooked in this way.
+For they thought that such a great body, ignorant of nothing, would not be overlooked in this way.
 
 **3 Maccabees 3:10**
 
@@ -21716,7 +22016,7 @@ Since the campaign into Asia that came to be for us, which you yourselves know, 
 
 **3 Maccabees 3:15**
 
-we considered that we should nurture the nations inhabiting Coele-Syria and Phoenicia not by force of spear, but by fairness and much kindness to humanity, and gladly do them good.
+we considered that we should nurse the nations inhabiting Coele-Syria and Phoenicia not by force of spear, but by fairness and much kindness to humanity, and gladly do them good.
 
 **3 Maccabees 3:16**
 
@@ -21728,11 +22028,11 @@ But they received our presence in word, yet falsely in deed, when we were eager 
 
 **3 Maccabees 3:18**
 
-Carried by older conceits, they barred us from the entrance, falling short of our might because of the kindness to humanity that we have toward all humans.
+Carried by older conceits, they barred us from the entrance, though they fall short of our might, because of the kindness to humanity that we have toward all people.
 
 **3 Maccabees 3:19**
 
-And making evident their hostility toward us, as the only ones of the nations stiff-necked toward kings and their own benefactors, they wish to bear nothing genuine.
+And making evident their hostility toward us, as the only ones of the nations stiff-necked toward kings and their own benefactors, they wish to accept nothing genuine.
 
 **3 Maccabees 3:20**
 
@@ -21740,7 +22040,7 @@ But we, having dealt with their folly and having been brought through with victo
 
 **3 Maccabees 3:21**
 
-Among these things, making known to all our forgetfulness of wrong toward their fellow tribesmen, because of the alliance and the countless affairs entrusted to them from the beginning with simplicity, we dared to change matters and wished to deem them worthy also of Alexandrian citizenship and to make them participants in the perpetual sacred rites.
+Among these things, making known to all our forgetfulness of wrong toward their fellow tribesmen, because of the alliance and the countless affairs entrusted to them from the beginning with simplicity, we dared to change their condition and wished to deem them worthy also of Alexandrian citizenship and to make them participants in the perpetual sacred rites.
 
 **3 Maccabees 3:22**
 
@@ -21748,15 +22048,15 @@ But they, receiving the opposite and pushing away the good with their inborn evi
 
 **3 Maccabees 3:23**
 
-not only turned away the priceless citizenship, but also abhor in word and silence the few among them who are genuinely disposed toward us, suspecting at every point that through their most infamous way of life they will quickly overturn our successes.
+not only turned away the priceless citizenship, but also abhor in word and in silence the few among them who are genuinely disposed toward us, suspecting at every point that through their most infamous way of life they will quickly overturn our successes.
 
 **3 Maccabees 3:24**
 
-Therefore, being well persuaded by proofs that these people are in every way ill-minded toward us, and taking forethought lest ever, if sudden disorder later arises for us, we should have these impious people behind our back as traitors and barbarian enemies,
+Therefore, being well persuaded by proofs that these people are in every way hostile in mind toward us, and taking forethought lest ever, if sudden disorder later arises for us, we should have these impious people behind our back as traitors and barbarian enemies,
 
 **3 Maccabees 3:25**
 
-we have commanded that as soon as this letter arrives, those dwelling there be sent to us immediately with women and children, with insults and abuses, enclosed on every side in iron bonds, for incurable and infamous murder fitting for enemies.
+we have commanded that as soon as this letter arrives, those dwelling there be sent to us immediately with women and children, with insults and abuses, enclosed on every side in iron bonds, for an incurable and infamous slaughter fitting for enemies.
 
 **3 Maccabees 3:26**
 
@@ -21768,7 +22068,7 @@ Whoever shelters any of the Jews, from elder to infant to those at the breast, s
 
 **3 Maccabees 3:28**
 
-And whoever wishes may inform, on condition that he shall receive the property of the one falling under correction, and 2,000 drachmas from the royal silver, and shall obtain freedom and be crowned.
+And whoever wishes may inform, on condition that he shall receive the property of the one falling under accountability, and 2,000 drachmas from the royal silver, and shall obtain freedom and be crowned.
 
 **3 Maccabees 3:29**
 
@@ -21790,15 +22090,15 @@ But for the Jews there was incurable grief and all-lamenting cry with tears, the
 
 **3 Maccabees 4:3**
 
-What nome or city, or what inhabited place altogether, or what streets, were not filled with beating and groanings over them?
+What nome or city, or what inhabited place altogether, or what streets, were not filled with breast-beating and groanings over them?
 
 **3 Maccabees 4:4**
 
-For with bitterness of a merciless soul they were sent out together by the commanders in each city, so that at the extraordinary punishments even some of the enemies, taking common pity before their eyes and considering the uncertain overthrow of life, wept over their thrice-wretched deportation.
+For with bitter mercilessness they were sent out together by the commanders in each city, so that at the extraordinary punishments even some of the enemies, taking common pity before their eyes and considering the uncertain overthrow of life, wept over their thrice-wretched deportation.
 
 **3 Maccabees 4:5**
 
-For a multitude of aged women covered with gray hair was led, bent forward by the foot-slowness that comes from old age, driven by a violent impulse of overturning into a sharp march without any regard for shame.
+For a multitude of aged women covered with gray hair was led, bent forward by the foot-slowness that comes from old age, driven into a sharp march by a violent impulse of overturning, without any regard for shame.
 
 **3 Maccabees 4:6**
 
@@ -21806,7 +22106,7 @@ And the young women who had just entered the bridal chamber for fellowship of li
 
 **3 Maccabees 4:7**
 
-And as public prisoners they were dragged with violence until the boarding into the ship.
+And as public prisoners they were dragged with violence until the boarding of the ship.
 
 **3 Maccabees 4:8**
 
@@ -21818,11 +22118,11 @@ And they were brought down, being led like beasts by iron-bound constraints, som
 
 **3 Maccabees 4:10**
 
-and also with the dense planking arranged above, so that, with their eyes darkened on every side, they might receive the transport of plotters through the whole voyage.
+and also with the dense planking arranged above, so that, with their eyes darkened on every side, they might undergo a treacherous transport through the whole voyage.
 
 **3 Maccabees 4:11**
 
-And when these had been brought to the place called Schedia and the sailing alongside had been completed, just as it had been decreed by the king, he ordered them to encamp in the hippodrome before the city, which had a boundless perimeter and was exceedingly suitable for making an example to all those going down into the city and to those being sent out from it into the country for travel, so that they might neither have fellowship with his forces nor be counted worthy of enclosures at all.
+And when these had been brought to the place called Schedia and the coastal voyage had been completed, just as it had been decreed by the king, he ordered them to encamp in the hippodrome before the city, which had a boundless perimeter and was exceedingly suitable for making an example to all those going down into the city and to those being sent out from it into the country for travel, so that they might neither have fellowship with his forces nor be counted worthy of enclosures at all.
 
 **3 Maccabees 4:12**
 
@@ -21830,27 +22130,31 @@ And when this happened, after he heard that their fellow-countrymen from the cit
 
 **3 Maccabees 4:13**
 
-he was enraged and ordered that the same thing also be done carefully to these together as to those, in no way falling short of their punishment,
+he was enraged and ordered that the same thing also be done carefully to these as to the others, in no way falling short of their punishment,
 
 **3 Maccabees 4:14**
 
-and that the whole race be registered by name, not for the laborious service of works previously declared a little before, but so that, after being tortured with the ordered abuses, they might at last be made to vanish within the time of a single day.
+and that the whole race be registered by name, not for the laborious service in works previously declared a little before, but so that, after being tortured with the ordered abuses, they might at last be made to vanish within the time of a single day.
 
 **3 Maccabees 4:15**
 
-So their registration was being made with bitter zeal and ambitious attendance from rising of sun until setting, taking its end unaccomplished for forty days. [16] And the king, greatly and continually filled with joy, held banquets before all the idols; with a mind led far astray from the truth and with a profane mouth, he praised the mute things that could not speak to them or help, and against the greatest God he spoke things not fitting.
+So their registration was being made with bitter zeal and zealous attendance from rising of sun until setting, remaining unfinished for forty days.
+
+**3 Maccabees 4:16**
+
+And the king, greatly and continually filled with joy, held banquets before all the idols; with a mind led far astray from the truth and with a profane mouth, he praised the mute things that could not speak to them or help, and against the greatest God he spoke things not fitting.
 
 **3 Maccabees 4:17**
 
-And after the aforesaid interval of time the scribes reported to the king that they no longer had strength to make the registration of the Jews because of their immeasurable multitude,
+And after the aforesaid interval of time the scribes reported to the king that they were no longer able to make the registration of the Jews because of their immeasurable multitude,
 
 **3 Maccabees 4:18**
 
-though the greater number were still in the country, some still gathered in houses, and others also by place, so that it had become impossible for all the commanders throughout Egypt.
+though the greater number were still in the country, some still gathered in houses, and others also in each place, so that it had become impossible for all the commanders throughout Egypt.
 
 **3 Maccabees 4:19**
 
-And when he threatened them more harshly, as if they had been bribed for a device of escape, it happened that he was plainly persuaded about this,
+And when he threatened them more harshly, as if they had been bribed for a scheme of escape, it happened that he was plainly persuaded about this,
 
 **3 Maccabees 4:20**
 
@@ -21858,7 +22162,7 @@ when they said with proof that even the paper supply and the writing reeds that 
 
 **3 Maccabees 4:21**
 
-And this was an operation of the invincible providence from heaven of the One helping the Jews.
+And this was the working of the invincible providence from heaven of the One helping the Jews.
 
 ### Chapter 5
 
@@ -21872,15 +22176,15 @@ he commanded that by the coming day all the elephants, 500 in number, be given t
 
 **3 Maccabees 5:3**
 
-And the one giving these orders turned to the feast, having gathered those of his friends and of the army who were especially hateful toward the Jews.
+And the one giving these orders turned to the feast, having gathered those of his friends and of the army who were especially hostile toward the Jews.
 
 **3 Maccabees 5:4**
 
-And Hermon the elephantarch steadfastly completed the thing ordered.
+And Hermon the elephantarch steadfastly carried out the order.
 
 **3 Maccabees 5:5**
 
-And the ministers assigned to these things went out in the evening and bound the hands of the wretched ones, and devised the remaining security around them, supposing that by night the race would receive the end of destruction together.
+And the ministers assigned to these things went out in the evening and bound the hands of the wretched ones, and devised the remaining guard around them, supposing that by night the race together would receive the destructive end.
 
 **3 Maccabees 5:6**
 
@@ -21888,7 +22192,7 @@ But the Jews, seeming to the nations to be bereft of every shelter because of th
 
 **3 Maccabees 5:7**
 
-all with tears called upon the Almighty Lord, the ruler of every power, their merciful God and Father, with a cry hard to stop, begging
+all with tears called upon the Almighty Lord, the ruler of every power, their merciful God and Father, with an unceasing cry, begging
 
 **3 Maccabees 5:8**
 
@@ -21900,27 +22204,27 @@ So then their entreaty went up earnestly into heaven.
 
 **3 Maccabees 5:10**
 
-And Hermon, after making the pitiless elephants drink, filled with the great supply of wine and stuffed with frankincense, came at dawn to the court to report about these things to the king.
+And Hermon, after making the pitiless elephants drink, filled with the great supply of wine and full of frankincense, came at dawn to the court to report about these things to the king.
 
 **3 Maccabees 5:11**
 
-But the good creature from everlasting time, a portion of sleep in night and day, appointed by the One who gives to all to whom he wills, he sent upon the king,
+But he sent upon the king that good creature from ancient time, a portion of sleep for night and day, granted by the One who gives it to all whom he wills,
 
 **3 Maccabees 5:12**
 
-and by the operation of the Master he was held fast by a very sweet and deep sleep, being far removed from his lawless purpose and greatly deceived in his unchangeable reasoning.
+and by the working of the Master he was held fast by a very sweet and deep sleep, being far removed from his lawless purpose and greatly disappointed in his unchangeable reasoning.
 
 **3 Maccabees 5:13**
 
-And the Jews, having escaped the hour marked beforehand, praised their holy God and again asked the easily reconciled One to show the might of his great-strengthened hand to arrogant nations.
+And the Jews, having escaped the hour marked beforehand, praised their holy God and again asked the readily reconciled One to show the might of his powerful hand to arrogant nations.
 
 **3 Maccabees 5:14**
 
-And when the tenth hour was already almost at midpoint, the one appointed over the invitations, seeing the invited guests gathered together, came near and nudged the king.
+And when the tenth hour was already about halfway through, the one appointed over the invitations, seeing the invited guests gathered together, came near and nudged the king.
 
 **3 Maccabees 5:15**
 
-And after waking him with difficulty, he showed him that the time of the banquet was already passing by, making the word about these things.
+And after waking him with difficulty, he showed him that the time of the banquet was already passing by, giving an account of these things.
 
 **3 Maccabees 5:16**
 
@@ -21928,7 +22232,7 @@ And after considering this and turning to the drinking, the king commanded those
 
 **3 Maccabees 5:17**
 
-And when this had happened, he urged them to give themselves to feasting and to set down the present portion of the banquet for gladness, honoring it greatly.
+And when this had happened, he urged them to give themselves to feasting and to treat the present portion of the banquet as gladness, honoring it greatly.
 
 **3 Maccabees 5:18**
 
@@ -21936,11 +22240,11 @@ And when the conversation advanced further, the king summoned Hermon and, with a
 
 **3 Maccabees 5:19**
 
-And when he showed that from the night he had carried the thing ordered to completion, and the friends bore witness with him,
+And when he showed that from the night he had carried the order to completion, and the friends bore witness with him,
 
 **3 Maccabees 5:20**
 
-the king, having cruelty worse than Phalaris, said that they had today's sleep to thank for this. But prepare the elephants in the same way without delay for the coming day, for the vanishing of the lawless Jews.
+the king, having cruelty worse than Phalaris, said that they had today's sleep to thank for this. But prepare the elephants in the same way without delay for the coming day, for the annihilation of the lawless Jews.
 
 **3 Maccabees 5:21**
 
@@ -21960,19 +22264,19 @@ And the crowds throughout the city had gathered for the most pitiful spectacle, 
 
 **3 Maccabees 5:25**
 
-But the Jews, having their souls drawn through the unbroken time, stretching out their hands to heaven in a many-teared supplication with mournful songs, begged the greatest God again to help them swiftly.
+But the Jews, with their souls drawn through the unbroken stretch of time, stretching out their hands to heaven in a many-teared supplication with mournful songs, begged the greatest God again to help them swiftly.
 
 **3 Maccabees 5:26**
 
-But the rays of the sun were not yet being scattered, and while the king was receiving his friends, Hermon stood by and called him to the going out, showing that the object of the king's zeal lay ready.
+But the rays of the sun were not yet scattered, and while the king was receiving his friends, Hermon stood by and called him to the procession, showing that the king's eager purpose lay ready.
 
 **3 Maccabees 5:27**
 
-And when the king received this and was struck with amazement at the unlawful going out, being mastered in every way by ignorance, he inquired what the matter was, for which this had been completed for him with haste.
+And when the king received this and was struck with amazement at the unlawful procession, being mastered in every way by ignorance, he inquired what the matter was for which this had been completed for him with haste.
 
 **3 Maccabees 5:28**
 
-And this was the operation of God, who masters all things, who had put forgetfulness into his mind concerning the things previously devised by him.
+And this was the working of God, who masters all things, who had put forgetfulness into his mind concerning the things previously devised by him.
 
 **3 Maccabees 5:29**
 
@@ -21984,7 +22288,7 @@ But he, filled with deep bile at the things spoken, because all his mind about t
 
 **3 Maccabees 5:31**
 
-If your parents were present to you, or offspring of children, I would have prepared this rich feast for the wild beasts, instead of the Jews, who are blameless to me and to my ancestors, having shown a whole and sure faith especially.
+If your parents were present to you, or offspring of children, I would have prepared this rich feast for the wild beasts instead of the Jews, who are blameless toward me and my ancestors, having shown complete and sure faith especially.
 
 **3 Maccabees 5:32**
 
@@ -21992,11 +22296,11 @@ And yet, if it were not because of the affection of shared upbringing and of use
 
 **3 Maccabees 5:33**
 
-Thus Hermon endured an unexpected and dangerous threat, and he was drawn together in sight and face.
+Thus Hermon endured an unexpected and dangerous threat, and he shrank in appearance and face.
 
 **3 Maccabees 5:34**
 
-And each of the friends withdrew gloomily, and they dismissed those who had gathered, each to his own occupation.
+And each of the friends slunk away gloomily, and they dismissed those who had gathered, each to his own occupation.
 
 **3 Maccabees 5:35**
 
@@ -22012,7 +22316,7 @@ And having summoned Hermon, he said with threat, How many times must I command y
 
 **3 Maccabees 5:38**
 
-Even now, arm the elephants for tomorrow, for the vanishing of the Jews.
+Even now, arm the elephants for tomorrow, for the annihilation of the Jews.
 
 **3 Maccabees 5:39**
 
@@ -22020,7 +22324,7 @@ And the relatives reclining together, marveling at his unstable mind, put forwar
 
 **3 Maccabees 5:40**
 
-King, until when do you test us as irrational beings, commanding already a third time to make them vanish, and again, when the matters come, by a change dissolving the things decreed by you?
+King, until when do you test us as unreasoning creatures, commanding already a third time to annihilate them, and again, when the matter arrives, undoing by change the things decreed by you?
 
 **3 Maccabees 5:41**
 
@@ -22028,11 +22332,11 @@ Because of these things the city is in turmoil through expectation, and, being f
 
 **3 Maccabees 5:42**
 
-Therefore the king, a Phalaris in every way, being multiplied with irrationality and considering as nothing the changes of soul happening in him for the oversight of the Jews, confirmed a most unfinished oath, determining to send these without delay into Hades, mangled under the knees and feet of beasts,
+Therefore the king, a Phalaris in every way, filled with irrationality and considering as nothing the changes of soul happening in him for the visitation of the Jews, confirmed a most unfulfilled oath, determining to send these without delay into Hades, mangled under the knees and feet of beasts,
 
 **3 Maccabees 5:43**
 
-and, after making an expedition against Judea, to make it level with fire and spear quickly, and to make their temple, untrodden by us, prostrate with fire, and quickly make it deserted for all time of those who complete sacrifices there.
+and, after making an expedition against Judea, to make it level with fire and spear quickly, and to make their temple, untrodden by us, prostrate with fire, and quickly make it deserted for all time of those who perform sacrifices there.
 
 **3 Maccabees 5:44**
 
@@ -22040,11 +22344,11 @@ Then the friends and relatives departed overjoyed, and with confidence arranged 
 
 **3 Maccabees 5:45**
 
-And the elephantarch, having brought the beasts almost to a maddened condition with most fragrant drinks of frankincensed wine, equipped with fearsome gear,
+And the elephantarch, having brought the beasts almost to a maddened condition with most fragrant drinks of frankincensed wine and having equipped them with fearsome gear,
 
 **3 Maccabees 5:46**
 
-about dawn, when the city was already filled with innumerable multitudes around the hippodrome, entered into the court and urged the king on to the thing set before him.
+about dawn, when the city was already filled with innumerable multitudes around the hippodrome, entered into the court and urged the king on to the matter set before him.
 
 **3 Maccabees 5:47**
 
@@ -22056,7 +22360,7 @@ But when the Jews saw the dust of the elephants going out around the gate, and o
 
 **3 Maccabees 5:49**
 
-they supposed that this was the last turn of life for them, the end of the most wretched expectation, and, turning to pity and groans, they kissed one another, embracing their relatives and falling on their necks, fathers with children and mothers with young daughters, while others had newborn infants at their breasts, drawing their last milk.
+they supposed that this was the last moment of life for them, the end of the most wretched expectation, and, turning to pity and groans, they kissed one another, embracing their relatives and falling on their necks, fathers with children and mothers with young daughters, while others had newborn infants at their breasts, drawing their last milk.
 
 **3 Maccabees 5:50**
 
@@ -22070,7 +22374,7 @@ and cried out with an exceedingly great voice, entreating the ruler of all power
 
 **3 Maccabees 6:1**
 
-And Eleazar, a certain notable man from the priests of the country, already having reached the age of eldership and adorned with every virtue in life, quieted the elders around him and prayed that they call upon the holy God, saying these things:
+And Eleazar, a certain notable man from the priests of the country, already having reached the age of eldership and adorned with every virtue in life, quieted the elders around him and prayed these things, calling upon the holy God:
 
 **3 Maccabees 6:2**
 
@@ -22086,7 +22390,7 @@ You destroyed Pharaoh, abounding in chariots, the former ruler of this Egypt, li
 
 **3 Maccabees 6:5**
 
-You shattered Sennacherib, heavy king of the Assyrians, boasting in innumerable forces, having already taken all the earth subject to him by spear and being lifted up against your holy city, speaking heavy things with boasting and boldness; you, Master, showed your might manifest to many nations.
+You shattered Sennacherib, grievous king of the Assyrians, boasting in innumerable forces, having already taken all the earth subject to him by spear and being lifted up against your holy city, speaking severe things with boasting and boldness; you, Master, showed your might manifest to many nations.
 
 **3 Maccabees 6:6**
 
@@ -22130,15 +22434,15 @@ Let it be shown to all the nations that you are with us, Lord, and that you have
 
 **3 Maccabees 6:16**
 
-And when Eleazar was just ending the prayer, the king with the beasts and with all the arrogant noise of the force was passing along toward the hippodrome.
+And when Eleazar was just ending the prayer, the king with the beasts and with all the arrogant uproar of the force was passing along toward the hippodrome.
 
 **3 Maccabees 6:17**
 
-And when the Jews saw it, they cried out greatly into heaven, so that even the valleys lying nearby, sounding together, made an uncontrollable wailing through the whole camp.
+And when the Jews saw it, they cried out loudly to heaven, so that even the valleys lying nearby, sounding together, made an uncontrollable wailing through the whole camp.
 
 **3 Maccabees 6:18**
 
-Then the greatly glorious Almighty and true God, making his holy face appear, opened the heavenly gates, from which two glorified angels of fearsome appearance came down, visible to all except the Jews,
+Then the Almighty and true God, great in glory, making his holy face appear, opened the heavenly gates, from which two glorified angels of fearsome appearance came down, visible to all except the Jews,
 
 **3 Maccabees 6:19**
 
@@ -22146,7 +22450,7 @@ and they stood against them and filled the force of those opposed with confusion
 
 **3 Maccabees 6:20**
 
-And even the body of the king became shuddering, and forgetfulness took his heavy-hearted boldness.
+And even the body of the king became terrified, and forgetfulness took his grim boldness.
 
 **3 Maccabees 6:21**
 
@@ -22162,7 +22466,7 @@ For after hearing the cry and seeing them all facedown for destruction, he wept 
 
 **3 Maccabees 6:24**
 
-You are ruling beside the king and have surpassed tyrants in cruelty, and you are attempting to remove me myself, your benefactor, already from rule and from breath, secretly devising things not profitable to the kingdom.
+You are playing king beside me and have surpassed tyrants in cruelty, and you are attempting to remove me myself, your benefactor, already from rule and from breath, secretly devising things not beneficial to the kingdom.
 
 **3 Maccabees 6:25**
 
@@ -22178,23 +22482,23 @@ Loose, release the unjust bonds. Send them away to their own places with peace, 
 
 **3 Maccabees 6:28**
 
-Release the sons of the Almighty heavenly living God, who from our ancestors until now provides our affairs with unhindered stability with glory.
+Release the sons of the Almighty heavenly living God, who from our ancestors until now provides unhindered stability with glory for our affairs.
 
 **3 Maccabees 6:29**
 
-So he spoke these things. And they, being loosed in an indivisible time, blessed their holy savior God, having just escaped death.
+So he spoke these things. And they, being loosed in an instant, blessed their holy savior God, having just escaped death.
 
 **3 Maccabees 6:30**
 
-Then the king, after departing into the city, summoned the one over the revenues and commanded that wines and the remaining things useful for feasting be supplied to the Jews for seven days, judging that in the place where they had supposed they would receive destruction, in that same place they should keep deliverance-feasts in all gladness.
+Then the king, after departing into the city, summoned the one over the revenues and commanded that wines and the remaining things useful for feasting be supplied to the Jews for seven days, judging that in the place where they had supposed they would receive destruction, in that same place they should keep feasts of deliverance in all gladness.
 
 **3 Maccabees 6:31**
 
-Then those who before were reproached and near Hades, or rather standing upon it, instead of a bitter and hard-to-avoid doom, organized a saving cup, and they divided by couches the place prepared for their fall and burial, being full of joy.
+Then those who before were reproached and near Hades, or rather standing upon it, instead of a bitter and hard-to-avoid doom, organized a cup of deliverance, and they divided by couches the place prepared for their fall and burial, being full of joy.
 
 **3 Maccabees 6:32**
 
-And having ceased the all-lamenting song of mourning, they took up a fatherly song, praising God the savior and wonder-worker; and, putting away every wailing and shriek, they organized dances as a sign of peaceful gladness.
+And having ceased the all-lamenting song of mourning, they took up an ancestral song, praising God the savior and wonder-worker; and, putting away every wailing and shriek, they formed dances as a sign of peaceful gladness.
 
 **3 Maccabees 6:33**
 
@@ -22210,7 +22514,7 @@ And the Jews, just as we said before, having organized the aforesaid dance, were
 
 **3 Maccabees 6:36**
 
-and, having appointed a common ordinance concerning these things for all their sojourning community through generations, they established the aforesaid days to be kept as glad days, not for the sake of drinking and delicacy, but because of the salvation that had happened to them through God.
+and, having appointed a common ordinance concerning these things for all their sojourning community through generations, they established the aforesaid days to be kept as glad days, not for the sake of drinking and luxury, but because of the salvation that had happened to them through God.
 
 **3 Maccabees 6:37**
 
@@ -22222,7 +22526,7 @@ And they were registered from the twenty-fifth of Pachon until the fourth of Epe
 
 **3 Maccabees 6:39**
 
-during which also the ruler of all things, having made his mercy appear with great glory, rescued them all together without stumbling.
+during which also the ruler of all things, having made his mercy appear with great glory, rescued them all together unharmed.
 
 **3 Maccabees 6:40**
 
@@ -22230,49 +22534,49 @@ And they feasted, all things being supplied by the king, until the fourteenth, o
 
 **3 Maccabees 6:41**
 
-And the king consented to them and wrote for them the letter written below to the commanders in each city, having its earnestness in a high-souled way.
+And the king consented to them and wrote for them the letter written below to the commanders in each city, containing its earnestness with great-heartedness.
 
 ### Chapter 7
 
 **3 Maccabees 7:1**
 
-King Ptolemy Philopator to the commanders throughout Egypt and to all those appointed over affairs: greetings and be strong.
+King Ptolemy Philopator to the commanders throughout Egypt and to all those appointed over affairs: greetings and good health.
 
 **3 Maccabees 7:2**
 
-And we ourselves and our children are strong, the great God having directed our affairs for us just as we choose.
+And we ourselves and our children are well, the great God having directed our affairs for us just as we choose.
 
 **3 Maccabees 7:3**
 
-Some of the friends, through ill-nature lying more often beside us, persuaded us to gather the Jews under the kingdom into a body and punish them with foreign punishments of rebels,
+Some of the friends, pressing close to us with persistent malice, persuaded us to gather the Jews under the kingdom into a body and punish them as rebels with strange punishments,
 
 **3 Maccabees 7:4**
 
-putting forward that our affairs would never be stable, because of the hostility these people have toward all nations, until this should be completed.
+claiming that our affairs would never be stable, because of the hostility these people have toward all nations, until this should be completed.
 
 **3 Maccabees 7:5**
 
-They also brought them down in bonds with mistreatments as slaves, or rather as plotters, and without any inquiry or examination attempted to remove them, having fastened on themselves cruelty more savage than the law of Scythians.
+They also brought them down in bonds with mistreatments as slaves, or rather as plotters, and without any inquiry or examination attempted to kill them, having fastened on themselves cruelty more savage than Scythian law.
 
 **3 Maccabees 7:6**
 
-But we, after threatening more harshly over these things, according to the gentleness that we have toward all humans, scarcely granted life to them; and having surely recognized that the heavenly God has shielded the Jews, always fighting on their behalf as a father for sons,
+But we, after threatening more harshly over these things, according to the gentleness that we have toward all people, scarcely granted life to them; and having surely recognized that the heavenly God has shielded the Jews, always fighting on their behalf as a father for sons,
 
 **3 Maccabees 7:7**
 
-and having considered the firm goodwill of a friend that they have toward us and our ancestors, we have justly released them from every charge in whatever way,
+and having considered the friendly and firm goodwill that they have toward us and our ancestors, we have justly released them from every charge in whatever way,
 
 **3 Maccabees 7:8**
 
-and we have ordered each one, all of them, to return to their own places, with no one anywhere harming them at all, nor reproaching them concerning the things that happened contrary to reason.
+and we have ordered everyone to return to their own places, with no one anywhere harming them at all, nor reproaching them concerning the things that happened contrary to reason.
 
 **3 Maccabees 7:9**
 
-For know that if we devise any evil thing against them or grieve them at all, we will not have a human, but the Most High God, who rules every power, opposed to us for vengeance of the affairs, inescapably in every way through all time. Be strong.
+For know that if we devise any evil thing against them or trouble them at all, we will not have a human, but the Most High God, who rules every power, opposed to us for vengeance of the affairs, inescapably in every way through all time. Farewell.
 
 **3 Maccabees 7:10**
 
-And when they received this letter, they did not hasten to be immediately about the departure, but petitioned the king that those from the race of the Jews who had voluntarily transgressed the holy God and the law of God should receive through them the owed punishment,
+And when they received this letter, they did not hasten to depart immediately, but petitioned the king that those from the race of the Jews who had voluntarily transgressed the holy God and the law of God should receive through them the owed punishment,
 
 **3 Maccabees 7:11**
 
@@ -22280,7 +22584,7 @@ putting forward that those who had transgressed the divine commands for the sake
 
 **3 Maccabees 7:12**
 
-And he accepted that they spoke the truth and consented, giving them full permission so that they might utterly destroy those who had transgressed the law of God in every place under his kingdom, with boldness, without any royal authority or inspection.
+And he accepted that they spoke the truth and consented, giving them full permission so that they might utterly destroy those who had transgressed the law of God in every place under his kingdom, with boldness, without any royal restraint or inspection.
 
 **3 Maccabees 7:13**
 
@@ -22288,15 +22592,15 @@ Then, having acclaimed him as was fitting, their priests and the whole multitude
 
 **3 Maccabees 7:14**
 
-Then they punished any defiled fellow-countryman who fell in along the way, and they put them to death with examples.
+Then they punished any defiled fellow-countryman who fell in along the way, and they put them to death as public examples.
 
 **3 Maccabees 7:15**
 
-And on that day they put to death more than 300 men, and they kept gladness with joy, having subdued the profane.
+And on that day they put to death more than 300 men, and they kept gladness with rejoicing, having subdued the profane.
 
 **3 Maccabees 7:16**
 
-And those themselves who had held to God until death, having received the complete enjoyment of salvation, set out from the city crowned with all sorts of most fragrant flowers, with gladness and shouting, in praises and all-melodious hymns giving thanks to the God of their fathers, the eternal savior of Israel.
+And those themselves who had held to God until death, having received the complete enjoyment of salvation, set out from the city crowned with all sorts of most fragrant flowers, with gladness and shouting, in praises and every kind of melodious hymn giving thanks to the God of their fathers, the eternal savior of Israel.
 
 **3 Maccabees 7:17**
 
@@ -22304,11 +22608,11 @@ And when they arrived at Ptolemais, the one named rose-bearing because of the sp
 
 **3 Maccabees 7:18**
 
-there they made a saving drinking-feast, the king having supplied to them generously all the things for the arrival of each one as far as his own house.
+there they made a drinking-feast of deliverance, the king having supplied generously to each one all the things needed for his arrival at his own house.
 
 **3 Maccabees 7:19**
 
-And after being brought down with peace in fitting thanksgivings, likewise there also they established that these days be kept as glad days for the time of their sojourning community.
+And after landing in peace with fitting thanksgivings, likewise there also they established that these days be kept as glad days for the time of their sojourning community.
 
 **3 Maccabees 7:20**
 
@@ -22316,11 +22620,11 @@ And having consecrated them on a pillar at the place of the banquet, and having 
 
 **3 Maccabees 7:21**
 
-and having greater authority than before among the enemies, with glory and fear, being shaken in none of their possessions at all by anyone.
+and having greater authority than before among the enemies, with glory and fear, with none of their possessions disturbed by anyone at all.
 
 **3 Maccabees 7:22**
 
-And all of them recovered all their own things from the registration, so that those who had anything gave it back to them with the greatest fear, the great things of the greatest God having been done perfectly for their salvation.
+And all of them recovered all their own things according to the registration, so that those who had anything gave it back to them with the greatest fear, the great things of the greatest God having been done perfectly for their salvation.
 
 **3 Maccabees 7:23**
 
@@ -22332,11 +22636,11 @@ Blessed be the rescuer of Israel into the times always. Amen.
 
 **4 Maccabees 1:1**
 
-Being about to display a most philosophical word, whether reverent reasoning is master over the passions, I would rightly advise you to give eager attention to philosophy.
+Being about to display a most philosophical argument, whether reverent reasoning is master over the passions, I would rightly advise you to give eager attention to philosophy.
 
 **4 Maccabees 1:2**
 
-For the word is necessary for knowledge to everyone, and in another way it contains praise of the greatest virtue, I mean prudence.
+For the argument is necessary for knowledge to everyone, and moreover it contains praise of the greatest virtue, I mean prudence.
 
 **4 Maccabees 1:3**
 
@@ -22356,23 +22660,23 @@ For reasoning does not have power over its own passions, but over those opposed 
 
 **4 Maccabees 1:7**
 
-So from many places and other places I could show you that reverent reasoning is sovereign over the passions.
+So from many and varied places I could show you that reverent reasoning is sovereign over the passions.
 
 **4 Maccabees 1:8**
 
-But much more could I prove this from the manly goodness of those who died for virtue, Eleazar and the seven brothers and their mother. [9] For all these, looking beyond pains even to death, displayed that reasoning rules completely over the passions.
+But much more could I prove this from the manly goodness of those who died for virtue, Eleazar and the seven brothers and their mother. [9] For all these, despising pains even to death, displayed that reasoning has complete mastery over the passions.
 
 **4 Maccabees 1:10**
 
-So then, for their virtues, it is possible for me to praise the men who at that time died with their mother for nobility and goodness, and for their honors I would bless them.
+So then, for their virtues, it is possible for me to praise the men who at that time died with their mother for nobility and goodness, and for their honors I would call them blessed.
 
 **4 Maccabees 1:11**
 
-For those men, admired not only by all humans for courage and endurance, but also by those who abused them, became causes for the tyranny against the nation to be destroyed, having conquered the tyrant by endurance, so that through them the fatherland was cleansed.
+For those men, admired not only by all people for courage and endurance, but also by those who abused them, became causes for the tyranny against the nation to be destroyed, having conquered the tyrant by endurance, so that through them the fatherland was cleansed.
 
 **4 Maccabees 1:12**
 
-But concerning this also it will be possible to speak immediately now, after I have begun the subject, just as I am accustomed to do; and so I will turn to the word about them, giving glory to the all-wise God.
+But concerning this also it will be possible to speak immediately now, after I have begun the subject, just as I am accustomed to do; and so I will turn to the account about them, giving glory to the all-wise God.
 
 **4 Maccabees 1:13**
 
@@ -22380,11 +22684,11 @@ Therefore we are now seeking whether reasoning is sovereign over the passions.
 
 **4 Maccabees 1:14**
 
-And we distinguish what reasoning ever is, and what passion is, and how many forms of passions there are, and whether reasoning prevails over all these.
+And we distinguish what reasoning is, and what passion is, and how many forms of passions there are, and whether reasoning prevails over all these.
 
 **4 Maccabees 1:15**
 
-Reasoning, then, is mind with right word, preferring the life of wisdom.
+Reasoning, then, is mind with right reason, preferring the life of wisdom.
 
 **4 Maccabees 1:16**
 
@@ -22400,7 +22704,7 @@ And the forms of wisdom have been set as four: prudence and justice and courage 
 
 **4 Maccabees 1:19**
 
-And most ruling of all is prudence, from which reasoning prevails over the passions.
+And most authoritative of all is prudence, from which reasoning prevails over the passions.
 
 **4 Maccabees 1:20**
 
@@ -22424,15 +22728,15 @@ And anger is a common passion of pleasure and pain, if someone considers that it
 
 **4 Maccabees 1:25**
 
-And in pleasure there is also the malicious disposition, being the most many-formed of all the passions.
+And in pleasure there is also the malicious disposition, being the most manifold of all the passions.
 
 **4 Maccabees 1:26**
 
-According to the soul, it is boasting, love of money, love of glory, love of strife, faithlessness, and envy.
+With respect to the soul, it is boasting, love of money, love of glory, love of strife, faithlessness, and envy.
 
 **4 Maccabees 1:27**
 
-And according to the body, it is eating everything, gluttony, and eating alone.
+And with respect to the body, it is eating everything, gluttony, and eating alone.
 
 **4 Maccabees 1:28**
 
@@ -22440,7 +22744,7 @@ Therefore, just as pleasure and pain are two plants of the body and the soul, th
 
 **4 Maccabees 1:29**
 
-each of which the all-cultivating reasoning clears around and prunes away and binds around and waters and changes in every way, taming the materials of the habits and passions.
+each of which all-cultivating reasoning cleans around, prunes away, binds around, waters, and changes in every way, taming the materials of the habits and passions.
 
 **4 Maccabees 1:30**
 
@@ -22452,11 +22756,11 @@ Temperance, then, is mastery over desires.
 
 **4 Maccabees 1:32**
 
-And of desires, some are soul-like and some are bodily, and reasoning appears to prevail over both of these.
+And of desires, some are of the soul and some are bodily, and reasoning appears to prevail over both of these.
 
 **4 Maccabees 1:33**
 
-For since, being moved toward forbidden foods, we turn away from the pleasures from them, is it not because reasoning is able to prevail over the appetites? I think so.
+For when we are moved toward forbidden foods, why do we turn away from the pleasures from them? Is it not because reasoning is able to prevail over the appetites? I think so.
 
 **4 Maccabees 1:34**
 
@@ -22470,19 +22774,19 @@ For the passions of the appetites are restrained, being bent back by the tempera
 
 **4 Maccabees 2:1**
 
-And what is marvelous if the desires of the soul toward participation in beauty are made invalid?
+And what is marvelous if the desires of the soul toward sharing in beauty are nullified?
 
 **4 Maccabees 2:2**
 
-For in this way temperate Joseph is praised, because by reasoning and understanding he completely mastered the pleasure-passion.
+For in this way temperate Joseph is praised, because by reasoning and understanding he completely mastered the passion for pleasure.
 
 **4 Maccabees 2:3**
 
-For being young and flourishing for intercourse, by reasoning he made invalid the sting of the passions.
+For being young and flourishing for intercourse, by reasoning he nullified the sting of the passions.
 
 **4 Maccabees 2:4**
 
-And reasoning appears to prevail not only over the frenzy-driving of pleasure-passion, but also over every desire.
+And reasoning appears to prevail not only over the goading frenzy of the passion for pleasure, but also over every desire.
 
 **4 Maccabees 2:5**
 
@@ -22498,7 +22802,7 @@ For in what way is someone who is solitary-eating in character, and gluttonous, 
 
 **4 Maccabees 2:8**
 
-For immediately, when someone conducts citizenship by the law, even if he is a lover of money, he forces his own manner by lending to those in need without interest, and by cancelling the loan when the sevens arrive.
+For immediately, when someone conducts citizenship by the law, even if he is a lover of money, he forces his own manner by lending to those in need without interest and by cancelling the loan when the sevens arrive.
 
 **4 Maccabees 2:9**
 
@@ -22534,11 +22838,11 @@ For the temperate mind, urging all these malicious passions toward good, pushes 
 
 **4 Maccabees 2:17**
 
-Indeed Moses, when angry against Dathan and Abiram, did nothing against them by anger, but ordered the anger by reasoning.
+Indeed Moses, when angry against Dathan and Abiram, did nothing against them by anger, but regulated the anger by reasoning.
 
 **4 Maccabees 2:18**
 
-For the temperate mind is able, as I said, to act nobly against the passions, and to change some of them, and to make others invalid.
+For the temperate mind is able, as I said, to win nobly against the passions, and to change some of them, and to make others invalid.
 
 **4 Maccabees 2:19**
 
@@ -22558,7 +22862,7 @@ And then he enthroned over all things the sacred ruling mind through the senses 
 
 **4 Maccabees 2:23**
 
-and to this he gave a law, according to which, when it conducts citizenship, it will reign a temperate and just and good and courageous kingdom.
+and to this he gave a law, according to which, when it conducts its citizenship, it will reign over a temperate and just and good and courageous kingdom.
 
 **4 Maccabees 2:24**
 
@@ -22568,7 +22872,7 @@ How then, someone may say, if reasoning has power over the passions, does it not
 
 **4 Maccabees 3:1**
 
-But the word is altogether laughable; for reasoning does not appear to prevail over its own passions, but over the bodily ones.
+But the argument is altogether laughable; for reasoning does not appear to prevail over its own passions, but over the bodily ones.
 
 **4 Maccabees 3:2**
 
@@ -22584,7 +22888,7 @@ No one can cut malice out of us, but reasoning could fight alongside us so that 
 
 **4 Maccabees 3:5**
 
-For reasoning is not a rooter-out of the passions, but an antagonist.
+For reasoning is not an uprooter of the passions, but an antagonist.
 
 **4 Maccabees 3:6**
 
@@ -22608,7 +22912,7 @@ but the king, being very thirsty, though he had abundant springs, was not able t
 
 **4 Maccabees 3:11**
 
-But a certain irrational desire for the water among the enemies, intensifying, dried him up, and loosening him, burned him.
+But a certain irrational desire for the water among the enemies, intensifying, dried him up, and weakening him, burned him.
 
 **4 Maccabees 3:12**
 
@@ -22620,11 +22924,11 @@ and, escaping the notice of the gate sentries, went through searching throughout
 
 **4 Maccabees 3:14**
 
-And when they had found the spring, they boldly filled the drink from it for the king.
+And when they had found the spring, they boldly filled the drink for the king from it.
 
 **4 Maccabees 3:15**
 
-But he, though burning with thirst, reasoned that the drink, reckoned equal in power to blood, was an all-dreadful danger to the soul;
+But he, though burning with thirst, reasoned that the drink, reckoned equal in power to blood, was an utterly dreadful danger to the soul;
 
 **4 Maccabees 3:16**
 
@@ -22636,7 +22940,7 @@ For the temperate mind is able, as I said, to conquer the constraints of the pas
 
 **4 Maccabees 3:18**
 
-and to quench the inflammations of the stings, and to wrestle down the pains of bodies that are excessive, and by the nobility and goodness of reasoning to spit away all the dominions of the passions.
+and to quench the inflammations of the stings, and to wrestle down the pains of bodies that are excessive, and by the nobility and goodness of reasoning to spit out all the dominions of the passions.
 
 **4 Maccabees 3:19**
 
@@ -22644,17 +22948,17 @@ And now the time also calls us to the proof of the theory of temperate reasoning
 
 **4 Maccabees 3:20**
 
-For since our fathers had deep peace because of good law-order, and were doing well, so that even Seleucus Nicanor, the king of Asia, both set apart money for them for the temple-service and accepted their citizenship,
+For since our fathers had deep peace because of good order under law, and were doing well, so that even Seleucus Nicanor, the king of Asia, both set apart money for them for the temple-service and accepted their civic order,
 
 **4 Maccabees 3:21**
 
-then certain men, having made a new move against the common harmony, made use of many-formed misfortunes.
+then certain men, having made a new move against the common harmony, brought on many-sided misfortunes.
 
 ### Chapter 4
 
 **4 Maccabees 4:1**
 
-For a certain Simon, opposing Onias, who once held the high priesthood through life, a noble and good man, when he was not strong enough to harm him though slandering in every way concerning the nation, went away as a fugitive, intending to betray the fatherland.
+For a certain Simon, opposing Onias, who once held the high priesthood through life, a noble and good man, when he was not able to harm him though slandering in every way concerning the nation, went away as a fugitive, intending to betray the fatherland.
 
 **4 Maccabees 4:2**
 
@@ -22662,11 +22966,11 @@ Therefore, when he came to Apollonius, the commander of Syria and Phoenicia and 
 
 **4 Maccabees 4:3**
 
-to disclose that many myriads of private moneys have been stored in the treasuries of Jerusalem, not sharing with the sacred things, and that these belong to King Seleucus.
+to disclose that many myriads of private money have been stored in the treasuries of Jerusalem, not sharing with the sacred things, and that these belong to King Seleucus.
 
 **4 Maccabees 4:4**
 
-And when Apollonius had learned each of these things, he praised Simon for his care toward the king, and, going up to Seleucus, informed him of the treasure of moneys.
+And when Apollonius had learned each of these things, he praised Simon for his care toward the king, and, going up to Seleucus, informed him of the treasure of money.
 
 **4 Maccabees 4:5**
 
@@ -22674,11 +22978,11 @@ And after receiving the authority concerning it, he quickly went up to our fathe
 
 **4 Maccabees 4:6**
 
-and when he came near, he said that he had come by the commands of the king so that he might take the private moneys of the treasury.
+and when he came near, he said that he had come by the commands of the king so that he might take the private money of the treasury.
 
 **4 Maccabees 4:7**
 
-And when the nation was distressed at the word and was speaking against it, considering it all-dreadful if those who had entrusted deposits to the sacred treasury should be deprived, they hindered him as far as possible.
+And when the nation was distressed at the statement and was speaking against it, considering it all-dreadful if those who had entrusted deposits to the sacred treasury should be deprived, they hindered him as far as possible.
 
 **4 Maccabees 4:8**
 
@@ -22690,15 +22994,15 @@ And when the priests, with women and children, entreated God in the temple to sh
 
 **4 Maccabees 4:10**
 
-and when Apollonius was going up with the armed army for the seizure of the moneys, angels on horseback appeared beforehand from heaven, flashing around with their weapons and putting much fear and trembling into them.
+and when Apollonius was going up with the armed army for the seizure of the money, angels on horseback appeared beforehand from heaven, flashing around with their weapons and putting much fear and trembling into them.
 
 **4 Maccabees 4:11**
 
-Indeed Apollonius, having fallen half-dead in the all-tribal enclosure of the temple, stretched out his hands to heaven and with tears called upon the Hebrews, so that by praying for him they might propitiate the heavenly army.
+Indeed Apollonius, having fallen half-dead in the public enclosure of the temple, stretched out his hands to heaven and with tears called upon the Hebrews, so that by praying for him they might propitiate the heavenly army.
 
 **4 Maccabees 4:12**
 
-For he said that he had sinned so as to be worthy even to die, and that, if saved, he would hymn before all humans the blessedness of the sacred place.
+For he said that he had sinned so as to be worthy even to die, and that, if saved, he would hymn before all people the blessedness of the sacred place.
 
 **4 Maccabees 4:13**
 
@@ -22718,7 +23022,7 @@ He removed Onias from the high priesthood and appointed his brother Jason high p
 
 **4 Maccabees 4:17**
 
-if he would permit the rule to him, 3,660 talents each year.
+if he would permit him the office, 3,660 talents each year.
 
 **4 Maccabees 4:18**
 
@@ -22726,15 +23030,15 @@ And he permitted him both to serve as high priest and to lead the nation.
 
 **4 Maccabees 4:19**
 
-And he changed the way of life of the nation of the Jews and changed their citizenship toward every lawlessness,
+And he changed the way of life of the nation of the Jews and altered their citizenship toward every lawlessness,
 
 **4 Maccabees 4:20**
 
-so that he not only constructed a gymnasium on the very citadel of our fatherland, but also dissolved the care of the temple.
+so that he not only constructed a gymnasium on the very citadel of our fatherland, but also overthrew the care of the temple.
 
 **4 Maccabees 4:21**
 
-At these things divine justice, being indignant, made Antiochus himself war against them.
+At these things divine justice, being indignant, made Antiochus himself wage war against them.
 
 **4 Maccabees 4:22**
 
@@ -22742,25 +23046,25 @@ For when he was warring against Ptolemy in Egypt, and heard that, when a rumor h
 
 **4 Maccabees 4:23**
 
-And when he had ravaged them, he set a decree that if any of them should appear to conduct citizenship by the ancestral law, they should die.
+And when he had ravaged them, he set a decree that if any of them should appear to conduct their citizenship by the ancestral law, they should die.
 
 **4 Maccabees 4:24**
 
-And when in no way was he strong enough to dissolve through decrees the goodwill of the nation,
+And when in no way was he able to overthrow through decrees the goodwill of the nation,
 
 **4 Maccabees 4:25**
 
-but saw all his threats and punishments being dissolved, so that even women, because they had circumcised their children, were thrown down with their infants, knowing beforehand that they would suffer this,
+but saw all his threats and punishments being undone, so that even women, because they had circumcised their children, were thrown down with their infants, knowing beforehand that they would suffer this,
 
 **4 Maccabees 4:26**
 
-therefore, since his decrees were being despised by the people, he himself, through tortures, compelled each one of the nation, while tasting defiled foods, to renounce Judaism.
+therefore, since his decrees were being despised by the people, he himself, through tortures, compelled each one of the nation to taste defiled foods and renounce Judaism.
 
 ### Chapter 5
 
 **4 Maccabees 5:1**
 
-Indeed the tyrant Antiochus, having seated himself beforehand with the councilors on a certain high place, and with the armed troops standing around him in a circle, commanded the spear-bearers
+Indeed the tyrant Antiochus, having seated himself beforehand with the councilors on a certain high place, and with the armed troops standing armed around him in a circle, commanded the spear-bearers
 
 **4 Maccabees 5:2**
 
@@ -22772,7 +23076,7 @@ But if any should not wish to eat defiled food, these were to be broken on the w
 
 **4 Maccabees 5:4**
 
-And when many had been seized together, one Hebrew first from the band, Eleazar by name, a priest by race, a lawyer in knowledge, advanced in age and known to many of those around the tyrant because of his age, was brought near him.
+And when many had been seized together, one Hebrew first from the band, Eleazar by name, a priest by race, learned in the law, advanced in age and known to many of those around the tyrant because of his age, was brought near him.
 
 **4 Maccabees 5:5**
 
@@ -22780,11 +23084,11 @@ And when Antiochus saw him, he said,
 
 **4 Maccabees 5:6**
 
-Before beginning the tortures against you, old man, I would advise you in these things, that by tasting the swine's flesh you may be saved; for I respect your age and your gray hair, which after having so long a time you do not seem to me to philosophize, using the religion of the Jews.
+Before beginning the tortures against you, old man, I would advise you in this: that by tasting the swine's flesh you may be saved. For I respect your age and your gray hair, which you have after so long a time, though you do not seem to me to philosophize while practicing the religion of the Jews.
 
 **4 Maccabees 5:7**
 
-For why do you abhor the flesh-eating of this animal, since nature has graciously given it as most beautiful?
+For why do you abhor eating the flesh of this animal, since nature has graciously given it as most excellent?
 
 **4 Maccabees 5:8**
 
@@ -22792,7 +23096,7 @@ For this seems senseless, not to enjoy pleasant things without reproach, and unj
 
 **4 Maccabees 5:9**
 
-And you seem to me about to do something even more senseless, if, empty-glorying about the truth, you despise even me for your own punishment.
+And you seem to me about to do something even more senseless, if, glorying vainly about the truth, you despise even me to your own punishment.
 
 **4 Maccabees 5:10**
 
@@ -22800,7 +23104,7 @@ Will you not wake up from your babbling philosophy
 
 **4 Maccabees 5:11**
 
-and scatter the nonsense of your reasonings, and, taking up a mind worthy of your age, philosophize the truth of what is profitable,
+and scatter the nonsense of your reasonings, and, taking up a mind worthy of your age, philosophize about the truth of what is profitable,
 
 **4 Maccabees 5:12**
 
@@ -22812,7 +23116,7 @@ For consider this also, that if there is any overseeing power of this religion o
 
 **4 Maccabees 5:14**
 
-When the tyrant was urging him in this way toward the outlawed eating of flesh, Eleazar asked for the word,
+When the tyrant was urging him in this way toward the outlawed eating of flesh, Eleazar asked leave to speak,
 
 **4 Maccabees 5:15**
 
@@ -22820,7 +23124,7 @@ and after receiving authority to speak, he began to address the people this way:
 
 **4 Maccabees 5:16**
 
-We, Antiochus, being persuaded to conduct citizenship by a divine law, consider no constraint to be more violent than good obedience to our law.
+We, Antiochus, being persuaded by divine law to conduct our citizenship, consider no constraint to be more violent than good obedience to our law.
 
 **4 Maccabees 5:17**
 
@@ -22836,11 +23140,11 @@ Therefore do not suppose this to be a small sin, if we should eat defiled food.
 
 **4 Maccabees 5:20**
 
-For transgressing the law in small things and in great things is equal in power,
+For transgressing the law in small things and in great things has equal force,
 
 **4 Maccabees 5:21**
 
-for through each of the two the law is despised in the same way.
+for through either one the law is despised in the same way.
 
 **4 Maccabees 5:22**
 
@@ -22852,7 +23156,7 @@ For it teaches us temperance, so as to have power over all pleasures and desires
 
 **4 Maccabees 5:24**
 
-and it instructs justice, so as to practice equal law through all habits, and it teaches piety, so as magnificently to reverence only the God who is.
+and it instructs justice, so as to live with equal law through all habits, and it teaches piety, so as magnificently to reverence only the God who is.
 
 **4 Maccabees 5:25**
 
@@ -22860,15 +23164,15 @@ Therefore we do not eat defiled food. For believing that the law has been establ
 
 **4 Maccabees 5:26**
 
-And he permitted us to eat the things that would become familiar to our souls, but he forbade us to eat the flesh of things that would become opposed.
+And he permitted us to eat the things that would be suited to our souls, but he forbade us to eat the flesh of things that would be opposed.
 
 **4 Maccabees 5:27**
 
-And it is tyrannical not only to compel us to transgress the law, but also to eat, so that you may laugh still more at this most hateful defiled eating of ours.
+And it is tyrannical not only to compel us to transgress the law, but also to eat, so that you may mock us still more by this most hateful eating of defiled food.
 
 **4 Maccabees 5:28**
 
-But you will not laugh this laughter against me, nor will I pass by the sacred oaths of the fathers concerning the keeping of the law,
+But you will not laugh this laugh against me, nor will I pass over the sacred oaths of the fathers concerning the keeping of the law,
 
 **4 Maccabees 5:29**
 
@@ -22880,23 +23184,23 @@ I am not so old and unmanly that my reasoning should not grow young through piet
 
 **4 Maccabees 5:31**
 
-For these things, make wheels ready and blow the fire more violently.
+For this, make wheels ready and blow the fire more violently.
 
 **4 Maccabees 5:32**
 
-I do not pity my own old age so much that through myself I would dissolve the ancestral law.
+I do not pity my own old age so much that by my own act I would dissolve the ancestral law.
 
 **4 Maccabees 5:33**
 
-I will not lie to you, O training law, nor will I flee you, nor will I deny you, beloved self-control.
+I will not falsify you, O law that trains, nor will I flee you, nor will I deny you, beloved self-control.
 
 **4 Maccabees 5:34**
 
-Nor will I shame you, philosophical word, nor will I renounce you, honorable priesthood and knowledge of legislation.
+Nor will I shame you, philosophical reason, nor will I renounce you, honorable priesthood and knowledge of legislation.
 
 **4 Maccabees 5:35**
 
-Nor will you defile my august mouth of old age, nor the age of a lawful life.
+Nor will you defile the venerable mouth of my old age, nor the age of a lawful life.
 
 **4 Maccabees 5:36**
 
@@ -22904,7 +23208,7 @@ But the fathers will receive me pure, not having feared your constraints even to
 
 **4 Maccabees 5:37**
 
-For you will tyrannize over the impious, but over my reasonings concerning piety you will master neither through words nor through works.
+For you may tyrannize over the impious, but over my reasonings concerning piety you will master neither through words nor through works.
 
 ### Chapter 6
 
@@ -22914,11 +23218,11 @@ When he had spoken against the tyrant's encouragements in this way, the spear-be
 
 **4 Maccabees 6:2**
 
-And first they stripped the old man, who was adorned with the dignity around piety.
+And first they stripped the old man, who was adorned with dignity concerning piety.
 
 **4 Maccabees 6:3**
 
-Then, binding him around the elbows on each side, they abused him with whips,
+Then, binding him by the elbows on each side, they abused him with whips,
 
 **4 Maccabees 6:4**
 
@@ -22926,11 +23230,11 @@ while a herald cried out from the other side, Be persuaded by the commands of th
 
 **4 Maccabees 6:5**
 
-But great-minded and truly noble Eleazar, as though being tortured in a dream, was changed in no way.
+But great-minded and truly noble Eleazar, as though being tortured in a dream, was turned aside in no way.
 
 **4 Maccabees 6:6**
 
-But lifting his eyes high into heaven, the old man was scraped in the flesh by the whips and was flowing down with blood,
+But lifting his eyes high into heaven, the old man's flesh was scraped by the whips, and he was flowing down with blood,
 
 **4 Maccabees 6:7**
 
@@ -22938,7 +23242,7 @@ and his sides were being pierced; and falling to the ground because his body cou
 
 **4 Maccabees 6:8**
 
-Indeed one of the bitter spear-bearers, leaping in with his heel, struck him in the flanks so that he would rise after falling.
+Indeed one of the bitter spear-bearers kicked him in the flanks with his heel, so that he would rise after falling.
 
 **4 Maccabees 6:9**
 
@@ -22950,15 +23254,15 @@ and he persevered through the abuses; and like a noble athlete, being struck, th
 
 **4 Maccabees 6:11**
 
-Indeed, sweating in the face and gasping hard, he was marveled at by the very ones torturing him because of his good courage.
+Indeed, sweating in the face and gasping hard, he was marveled at by the very ones torturing him because of his noble courage.
 
 **4 Maccabees 6:12**
 
-Therefore, partly pitying the things of his old age,
+Therefore, partly pitying the things belonging to his old age,
 
 **4 Maccabees 6:13**
 
-partly being in sympathy because of acquaintance, and partly in wonder at his endurance, some of the king's men approached him and said,
+partly being in sympathy because of familiarity, and partly in wonder at his endurance, some of the king's men approached him and said,
 
 **4 Maccabees 6:14**
 
@@ -22970,15 +23274,15 @@ We will set before you some of the cooked foods, and you, pretending to taste sw
 
 **4 Maccabees 6:16**
 
-And Eleazar, as though abused more bitterly through the counsel, cried out,
+And Eleazar, as though abused more bitterly through the advice, cried out,
 
 **4 Maccabees 6:17**
 
-May we children of Abraham not think so wickedly that, becoming soft-souled, we would act out an improper drama for us.
+May we children of Abraham not think so wickedly that, becoming soft-souled, we would play an improper drama for us.
 
 **4 Maccabees 6:18**
 
-For it would be senseless if, after living the life to old age according to truth and lawfully guarding the reputation upon it,
+For it would be senseless if, after living life to old age according to truth and lawfully guarding the reputation attached to it,
 
 **4 Maccabees 6:19**
 
@@ -22994,7 +23298,7 @@ and should be despised by the tyrant as unmanly, and not shield our divine law e
 
 **4 Maccabees 6:22**
 
-Therefore, as to these things, children of Abraham, die nobly for piety.
+Therefore, children of Abraham, die nobly for piety.
 
 **4 Maccabees 6:23**
 
@@ -23002,11 +23306,11 @@ But you spear-bearers of the tyrant, why do you delay?
 
 **4 Maccabees 6:24**
 
-Seeing him so great-minded toward the constraints, and not changing even at their pity, they led him to the fire.
+Seeing him so great-minded before the constraints, and not changing even before their pity, they led him to the fire.
 
 **4 Maccabees 6:25**
 
-There, burning him with evil-skilled instruments, they threw him down and poured foul-smelling liquids into his nostrils.
+There, burning him with maliciously devised instruments, they threw him down and poured foul-smelling fluids into his nostrils.
 
 **4 Maccabees 6:26**
 
@@ -23014,7 +23318,7 @@ And when he had already been burned down to the bones and was about to faint, he
 
 **4 Maccabees 6:27**
 
-You know, God, that though it is available to me to be saved, I am dying by burning tortures because of the law.
+You know, God, that though it is possible for me to be saved, I am dying by burning tortures because of the law.
 
 **4 Maccabees 6:28**
 
@@ -23030,11 +23334,11 @@ And when he had said these things, the sacred man nobly died in the tortures,
 
 **4 Maccabees 6:31**
 
-and even to the tortures of death he stood against them by reasoning because of the law. Therefore, confessedly, reverent reasoning is master over the passions.
+and even to the tortures of death he resisted by reasoning because of the law. Therefore, confessedly, reverent reasoning is master over the passions.
 
 **4 Maccabees 6:32**
 
-For if the passions had mastered reasoning, we would have given to these the testimony of prevailing;
+For if the passions had mastered reasoning, we would have given to these the testimony of mastery;
 
 **4 Maccabees 6:33**
 
@@ -23042,7 +23346,7 @@ but now, since reasoning has conquered the passions, we appropriately assign to 
 
 **4 Maccabees 6:34**
 
-And it is just for us to confess that the might belongs to reasoning, since it even prevails over pains from outside;
+And it is just for us to confess that the power belongs to reasoning, since it even prevails over pains from outside;
 
 **4 Maccabees 6:35**
 
@@ -23064,15 +23368,15 @@ in no way turned the rudders of piety until he sailed into the harbor of immorta
 
 **4 Maccabees 7:4**
 
-No city ever withstood this way when besieged with many and various machines, as all-holy Eleazar did. Though his sacred soul was being burned with abuses and racks, he conquered those besieging him through reasoning that shielded piety.
+No city ever withstood this way when besieged with many and various machines, as most holy Eleazar did. Though his sacred soul was being burned with abuses and racks, he conquered those besieging him through reasoning that defended piety.
 
 **4 Maccabees 7:5**
 
-For just as Father Eleazar stretched out his own understanding like a cliff-hung headland, he broke around him the mad-surging waves of the passions.
+For just as Father Eleazar stretched out his own understanding like a cliff-hung headland, he broke the mad-surging waves of the passions around him.
 
 **4 Maccabees 7:6**
 
-O priest worthy of the priesthood, you did not defile the sacred teeth, nor did you make common with defiled eating the stomach that had made room for God-reverence and lawful cleansing.
+O priest worthy of the priesthood, you did not defile the sacred teeth, nor did you make common with defiled eating the stomach that had contained God-reverence and lawful cleansing.
 
 **4 Maccabees 7:7**
 
@@ -23084,11 +23388,11 @@ Such indeed ought those who minister the law to be, defending it with their own 
 
 **4 Maccabees 7:9**
 
-You, father, through your endurance confirmed our good law-order into glory, and, speaking solemnly of holiness, you did not dissolve it; and through your works you certified the words of divine philosophy,
+You, father, through your endurance confirmed our good order under law into glory, and, speaking solemnly of holiness, you did not overthrow it; and through your works you certified the words of divine philosophy,
 
 **4 Maccabees 7:10**
 
-O old man more forceful than tortures, elder stronger-toned than fire, Eleazar, greatest king of passions.
+O old man more forceful than tortures, elder stronger than fire, Eleazar, greatest king over passions.
 
 **4 Maccabees 7:11**
 
@@ -23096,7 +23400,7 @@ For just as Father Aaron, armed with the censer, running through the multitude o
 
 **4 Maccabees 7:12**
 
-so Eleazar, son of Aaron, though being melted through by the fire, did not turn his reasoning.
+so Eleazar, son of Aaron, though being melted through by the fire, did not turn his reasoning aside.
 
 **4 Maccabees 7:13**
 
@@ -23104,7 +23408,7 @@ And yet the most marvelous thing is that, though he was an old man, with the str
 
 **4 Maccabees 7:14**
 
-in the spirit through reasoning, and by Isaac-like reasoning he made invalid the many-headed rack.
+in the spirit through reasoning, and by Isaac-like reasoning he nullified the many-headed rack.
 
 **4 Maccabees 7:15**
 
@@ -23112,15 +23416,15 @@ O blessed old age and solemn gray hair and lawful life, which the faithful seal 
 
 **4 Maccabees 7:16**
 
-If, then, an old man despised tortures even to death through piety, confessedly reverent reasoning is leader of the passions.
+If, then, an old man despised tortures even to death through piety, confessedly reverent reasoning is ruler over the passions.
 
 **4 Maccabees 7:17**
 
-But perhaps some may say, Not all rule completely over the passions, because not all have prudent reasoning.
+But perhaps some may say, Not all have complete mastery over the passions, because not all have prudent reasoning.
 
 **4 Maccabees 7:18**
 
-But as many as take forethought for piety from the whole heart, these alone are able to have power over the passions of the flesh,
+But as many as care for piety from the whole heart, these alone are able to master the passions of the flesh,
 
 **4 Maccabees 7:19**
 
@@ -23128,7 +23432,7 @@ believing that they do not die to God, just as neither do our patriarchs Abraham
 
 **4 Maccabees 7:20**
 
-Therefore nothing stands against the fact that some appear to be mastered by passions because of weak reasoning.
+Therefore it is no objection that some appear to be mastered by passions because of weak reasoning.
 
 **4 Maccabees 7:21**
 
@@ -23136,7 +23440,7 @@ For who, philosophizing piously according to the whole rule of philosophy,
 
 **4 Maccabees 7:22**
 
-and having trusted God and knowing that to endure every pain because of virtue is blessed, would not rule completely over the passions because of God-reverence?
+and having trusted God and knowing that to endure every pain because of virtue is blessed, would not have complete mastery over the passions because of God-reverence?
 
 **4 Maccabees 7:23**
 
@@ -23146,11 +23450,11 @@ For the wise, temperate, and courageous person alone is lord of the passions.
 
 **4 Maccabees 8:1**
 
-For this reason indeed even young boys, philosophizing by the reasoning of piety, prevailed over more difficult instruments of torture.
+For this reason indeed even young boys, philosophizing by the reasoning of piety, prevailed over more difficult tortures.
 
 **4 Maccabees 8:2**
 
-For since in the first trial the tyrant had been manifestly conquered, not being able to compel an old man to eat defiled food, then with very passionate anger he commanded others from the age-group of the Hebrews to be brought, and if they should eat defiled food, to release them after eating; but if they should speak against it, to torture them more bitterly.
+For since in the first trial the tyrant had been manifestly conquered, not being able to compel an old man to eat defiled food, then with very passionate anger he commanded others from the youthful age of the Hebrews to be brought, and if they should eat defiled food, to release them after eating; but if they should speak against it, to torture them more bitterly.
 
 **4 Maccabees 8:3**
 
@@ -23174,15 +23478,15 @@ So, if you are persuaded by me, you will receive both offices and leaderships ov
 
 **4 Maccabees 8:8**
 
-And after taking part in Greek life and changing your way of life, indulge in your youths.
+And after taking part in Greek life and changing your way of life, indulge in your youthful years.
 
 **4 Maccabees 8:9**
 
-But if you provoke me angrily through your disobedience, you will compel me with terrible punishments to destroy each one of you through tortures.
+But if through your disobedience you make me angry, you will compel me with terrible punishments to destroy each one of you through tortures.
 
 **4 Maccabees 8:10**
 
-Therefore have pity on yourselves, whom even I, the enemy, pity because of your age and good form.
+Therefore have pity on yourselves, whom even I, the enemy, pity because of your age and beauty.
 
 **4 Maccabees 8:11**
 
@@ -23202,15 +23506,15 @@ Be afraid, young boys, and the justice that you reverence will be gracious to yo
 
 **4 Maccabees 8:15**
 
-But after hearing persuasive things and seeing dreadful things, they not only were not afraid, but even counter-philosophized against the tyrant and through good reasoning dissolved his tyranny.
+But after hearing enticements and seeing dreadful things, they not only were not afraid, but even philosophized back against the tyrant and through good reasoning overthrew his tyranny.
 
 **4 Maccabees 8:16**
 
-And yet let us consider: if any among them had been cowardly-souled and unmanly, what words would they have used? Would they not be these?
+And yet let us consider: if any among them had been cowardly-souled and cowardly, what words would they have used? Would they not be these?
 
 **4 Maccabees 8:17**
 
-O wretched and very senseless ones that we are! When the king urges us and calls us to benefaction, should we not be persuaded by him,
+O wretched and very senseless ones that we are! When the king urges us and calls us with benefaction, should we not be persuaded by him,
 
 **4 Maccabees 8:18**
 
@@ -23222,7 +23526,7 @@ Shall we not fear the instruments of torture, men and brothers, and consider the
 
 **4 Maccabees 8:20**
 
-Let us have mercy on our own ages and let us pity our mother's old age,
+Let us have mercy on our own youth and let us pity our mother's old age,
 
 **4 Maccabees 8:21**
 
@@ -23230,7 +23534,7 @@ and let us consider that if we disobey, we will die.
 
 **4 Maccabees 8:22**
 
-And divine justice also will pardon us because through compulsion we feared the king.
+And divine justice also will pardon us when through compulsion we have feared the king.
 
 **4 Maccabees 8:23**
 
@@ -23238,15 +23542,15 @@ Why do we lead ourselves out of the sweetest life and deprive ourselves of the s
 
 **4 Maccabees 8:24**
 
-Let us not force the compulsion, nor love glory over our own rack.
+Let us not struggle against the compulsion, nor seek glory over our own rack.
 
 **4 Maccabees 8:25**
 
-Not even the law itself puts us to death unwillingly when we have feared the instruments of torture.
+Not even the law itself puts us to death if we unwillingly fear the instruments of torture.
 
 **4 Maccabees 8:26**
 
-From where has such love of strife been melted into us, and why does death-bearing endurance please us, when it is present to live without disturbance by being persuaded by the king?
+From where has such love of strife been fixed in us, and why does death-bearing endurance please us, when it is possible to live without disturbance by being persuaded by the king?
 
 **4 Maccabees 8:27**
 
@@ -23258,7 +23562,7 @@ For they were despisers of the passions and sovereigns over pains,
 
 **4 Maccabees 8:29**
 
-so that as soon as the tyrant ceased advising them to eat defiled food, all together through one voice, as though from the same soul, spoke to him.
+so that as soon as the tyrant ceased advising them to eat defiled food, all together with one voice, as though from the same soul, spoke to him.
 
 ### Chapter 9
 
@@ -23268,7 +23572,7 @@ Why do you delay, tyrant? For we are ready to die rather than transgress our anc
 
 **4 Maccabees 9:2**
 
-For we would rightly shame our ancestors if we did not use good obedience to the law and Moses as counselor.
+For we would rightly shame our ancestors if we did not use good obedience to the law and Moses as our counselor.
 
 **4 Maccabees 9:3**
 
@@ -23276,7 +23580,7 @@ Tyrant, counselor of lawlessness, do not, while hating us, pity us more than we 
 
 **4 Maccabees 9:4**
 
-For we consider your pity toward our lawless salvation to be more difficult than death itself.
+For we consider your pity toward saving us by lawlessness to be harder than death itself.
 
 **4 Maccabees 9:5**
 
@@ -23284,11 +23588,11 @@ And you terrify us by threatening us with death through tortures, as though you 
 
 **4 Maccabees 9:6**
 
-But if the old men of the Hebrews, after enduring tortures because of piety, acted piously, we young men would die more justly, looking beyond the tortures of your constraints, which our old teacher also conquered.
+But if the elders of the Hebrews, after enduring tortures because of piety, acted piously, we young men would die more rightly, looking beyond the tortures of your constraints, which our old teacher also conquered.
 
 **4 Maccabees 9:7**
 
-Therefore test us, tyrant; and if you put our souls to death because of piety, do not suppose that you harm us by torturing.
+Therefore test us, tyrant; and if you put our souls to death because of piety, do not suppose that you harm us by torturing us.
 
 **4 Maccabees 9:8**
 
@@ -23296,11 +23600,11 @@ For we, through this suffering and endurance, will have the prizes of virtue and
 
 **4 Maccabees 9:9**
 
-But you, because of our polluted murder, will endure from divine justice an adequate eternal torture through fire.
+But you, because of bloodguilt against us, will endure from divine justice an adequate eternal torture through fire.
 
 **4 Maccabees 9:10**
 
-When they had said these things, the tyrant not only became harsh toward them as toward disobedient ones, but was angered as toward ungrateful ones.
+When they had said these things, the tyrant was furious not only at them as disobedient ones, but was angered also as at ungrateful ones.
 
 **4 Maccabees 9:11**
 
@@ -23320,11 +23624,11 @@ And being broken in every limb, he denounced them, saying,
 
 **4 Maccabees 9:15**
 
-Most defiled tyrant, enemy of heavenly justice, and cruel-minded one, you abuse me in this way, not as one who has murdered a man, nor as one who has acted impiously, but as one shielding the divine law.
+Most defiled tyrant, enemy of heavenly justice, and cruel-minded one, you abuse me in this way, not as one who has murdered a man, nor as one who has acted impiously, but as one defending the divine law.
 
 **4 Maccabees 9:16**
 
-And when the spear-bearers said, Confess to eat, so that you may be released from the tortures,
+And when the spear-bearers said, Agree to eat, so that you may be released from the tortures,
 
 **4 Maccabees 9:17**
 
@@ -23332,11 +23636,11 @@ he said to them, Your wheel is not so strong, defiled servants, as to choke my r
 
 **4 Maccabees 9:18**
 
-For through all the tortures I will persuade you that sons of Hebrews alone are invincible for virtue.
+For through all the tortures I will persuade you that sons of Hebrews alone are invincible on behalf of virtue.
 
 **4 Maccabees 9:19**
 
-As he said these things, they spread fire under him and, stretching him still more, they inflamed the wheel.
+As he said these things, they spread fire under him and, stretching him still more, heated the wheel.
 
 **4 Maccabees 9:20**
 
@@ -23344,7 +23648,7 @@ And the wheel was stained on every side with blood, and the heap of coals was ex
 
 **4 Maccabees 9:21**
 
-And though the framework of his bones had already been cut around, the great-minded and Abrahamic young man did not groan.
+And though the framework of his bones had already been cut apart, the great-minded and Abrahamic young man did not groan.
 
 **4 Maccabees 9:22**
 
@@ -23352,7 +23656,7 @@ But as though being transformed in fire into incorruption, he nobly endured the 
 
 **4 Maccabees 9:23**
 
-saying, Imitate me, brothers. Do not desert my life-course, nor deny the brotherhood of my good courage. Serve a sacred and noble warfare for piety,
+saying, Imitate me, brothers. Do not desert my life-course, nor renounce the brotherhood of my noble courage. Serve a sacred and noble warfare for piety,
 
 **4 Maccabees 9:24**
 
@@ -23360,11 +23664,11 @@ through which our just and fatherly Providence, becoming gracious to the nation,
 
 **4 Maccabees 9:25**
 
-And when he had said these things, the sacredly fitting young man broke off his soul.
+And when he had said these things, the sacredly fitting young man released his soul.
 
 **4 Maccabees 9:26**
 
-And when all had marveled at his enduring soul, the spear-bearers led the second by age after the first, and having fitted iron hands with sharp claws, they bound him to the instrument and catapult.
+And when all had marveled at his endurance of soul, the spear-bearers led the second by age after the first, and having fitted iron hands with sharp claws, they bound him to the instrument and catapult.
 
 **4 Maccabees 9:27**
 
@@ -23376,7 +23680,7 @@ After pulling with the iron hands from the tendons up to the chin, the leopard-l
 
 **4 Maccabees 9:29**
 
-But he, enduring this heavy pain, said, How sweet is every manner of death because of our ancestral piety. And he said to the tyrant,
+But he, enduring this severe pain, said, How sweet is every manner of death because of our ancestral piety. And he said to the tyrant,
 
 **4 Maccabees 9:30**
 
@@ -23388,17 +23692,17 @@ For I am lightened from pain by the pleasures that come through virtue,
 
 **4 Maccabees 9:32**
 
-but you are tortured in the threats of impiety. And you will not escape, most defiled tyrant, the punishments of divine wrath.
+but you are tortured by the threats of impiety. And you will not escape, most defiled tyrant, the punishments of divine wrath.
 
 ### Chapter 10
 
 **4 Maccabees 10:1**
 
-And after this one had endured the death worthy of song, the third was being led, urged much by many to taste and be saved.
+And after this one had endured the renowned death, the third was being led, urged much by many to taste and be saved.
 
 **4 Maccabees 10:2**
 
-But he cried out and said, Or are you ignorant that the same father sowed me with those who have died, and the same mother bore me, and we were brought up on the same decrees?
+But he cried out and said, Or are you ignorant that the same father sowed me along with those who have died, and the same mother bore me, and we were brought up on the same decrees?
 
 **4 Maccabees 10:3**
 
@@ -23414,15 +23718,15 @@ But they, bearing bitterly the boldness of the man, disjointed his hands and fee
 
 **4 Maccabees 10:6**
 
-And they broke around his fingers and arms and legs and elbows.
+And they broke his fingers and arms and legs and elbows.
 
 **4 Maccabees 10:7**
 
-And since in no way were they strong enough to choke him, they dragged off the skin, together with the very tips of the fingers, and flayed him; and immediately they led him onto the wheel,
+And since in no way were they able to strangle him, they dragged off the skin, together with the very tips of the fingers, and flayed him; and immediately they led him onto the wheel,
 
 **4 Maccabees 10:8**
 
-around which, being torn apart from the vertebrae, he saw his own flesh being ripped to pieces and drops of blood flowing from his inward parts.
+around which, being torn apart from the vertebrae, he saw his own flesh being ripped to pieces and drops of blood flowing down from his inward parts.
 
 **4 Maccabees 10:9**
 
@@ -23430,15 +23734,15 @@ And when he was about to die, he said,
 
 **4 Maccabees 10:10**
 
-We, most defiled tyrant, suffer these things because of God's training and virtue,
+We, most defiled tyrant, suffer these things because of God's discipline and virtue,
 
 **4 Maccabees 10:11**
 
-but you, because of impiety and polluted murder, will endure indissoluble tortures.
+but you, because of impiety and bloodguilt, will endure indissoluble tortures.
 
 **4 Maccabees 10:12**
 
-And when this one had died in a brother-fitting way, they dragged up the fourth, saying,
+And when this one had died as befits a brother, they dragged up the fourth, saying,
 
 **4 Maccabees 10:13**
 
@@ -23446,7 +23750,7 @@ Do not also go mad together with your brothers in the same madness, but be persu
 
 **4 Maccabees 10:14**
 
-But he said to them, You do not have fire more burning against me in such a way as to make me cowardly.
+But he said to them, You do not have fire burning enough against me to make me cowardly.
 
 **4 Maccabees 10:15**
 
@@ -23466,11 +23770,11 @@ But he said, Even if you take away the instrument of the voice, God hears also t
 
 **4 Maccabees 10:19**
 
-Behold, the tongue has been put forward loose; cut it, for not by this will you cut the tongue of our reasoning.
+Behold, my tongue has been stretched forward; cut it, for not by this will you cut the tongue of our reasoning.
 
 **4 Maccabees 10:20**
 
-Gladly, for the law of God, we have the members of the body mutilated.
+Gladly, for the law of God, we have the members of our body mutilated.
 
 **4 Maccabees 10:21**
 
@@ -23484,7 +23788,7 @@ And when this one also, having been abused by the tortures, died in them, the fi
 
 **4 Maccabees 11:2**
 
-I am not about to ask off, tyrant, from the torture for virtue,
+I am not about to beg off, tyrant, from the torture for virtue,
 
 **4 Maccabees 11:3**
 
@@ -23504,11 +23808,11 @@ But these things are worthy of honors, not tortures,
 
 **4 Maccabees 11:7**
 
-if indeed you perceived human longing and had hope of salvation from God.
+if indeed you perceived human longing and had hope of salvation with God.
 
 **4 Maccabees 11:8**
 
-But now, being alien from God, you war against those who reverence God.
+But now, being alien from God, you wage war against those who reverence God.
 
 **4 Maccabees 11:9**
 
@@ -23520,11 +23824,11 @@ on which, after binding him on the knees and fitting these into iron foot-cuffs,
 
 **4 Maccabees 11:11**
 
-Being constrained in spirit and choked in body in this way,
+Being constrained in breath and choked in body in this way,
 
 **4 Maccabees 11:12**
 
-he said, Fine favors, tyrant, you grant us against your will, providing for us through nobler pains to display endurance toward our law.
+he said, Fine favors, tyrant, you grant us unwillingly, providing for us through nobler pains to display endurance toward our law.
 
 **4 Maccabees 11:13**
 
@@ -23536,11 +23840,11 @@ I am younger than my brothers in age, but equal in understanding.
 
 **4 Maccabees 11:15**
 
-For since we were born and nourished into the same things, we also owe it to die alike for the same things.
+For since we were born and raised into the same things, we also owe it to die alike for the same things.
 
 **4 Maccabees 11:16**
 
-So if it seems good to you to torture one who does not eat defiled food, torture.
+So if it seems good to you to torture one who does not eat defiled food, torture me.
 
 **4 Maccabees 11:17**
 
@@ -23556,7 +23860,7 @@ And after heating sharp spits, they applied them to his back, and piercing his s
 
 **4 Maccabees 11:20**
 
-But while being tortured he said, O contest worthy of sacred things, into which because of piety so many brothers have been called for training of pains, and we have not been conquered.
+But while being tortured he said, O contest worthy of sacred things, into which because of piety so many brothers have been called for training in pains, and we have not been conquered.
 
 **4 Maccabees 11:21**
 
@@ -23568,15 +23872,15 @@ Armed with nobility and goodness, I also will die with my brothers.
 
 **4 Maccabees 11:23**
 
-But you, tyrant, will take to yourself a great avenger, innovator of tortures and enemy of those who truly reverence.
+But you, tyrant, have taken to yourself a great avenger, innovator of tortures and enemy of those who truly reverence.
 
 **4 Maccabees 11:24**
 
-We six young boys have dissolved your tyranny.
+We six young boys have overthrown your tyranny.
 
 **4 Maccabees 11:25**
 
-For is not your dissolution this, that you have not been able either to persuade our reasoning or to force us toward defiled eating?
+For is not this your overthrow, that you have not been able either to persuade our reasoning or to force us toward defiled eating?
 
 **4 Maccabees 11:26**
 
@@ -23584,17 +23888,17 @@ Your fire is cold to us, and the catapults painless, and your violence powerless
 
 **4 Maccabees 11:27**
 
-For the spear-bearers over us have been stationed not by a tyrant, but by divine law. Because of this we have reasoning invincible.
+For the spear-bearers over us have been stationed not by a tyrant, but by divine law. Because of this we have invincible reasoning.
 
 ### Chapter 12
 
 **4 Maccabees 12:1**
 
-And when this one also had blessedly died in them, after being thrown into a kettle, the seventh came forward, youngest of all.
+And when this one also had blessedly died after being thrown into a kettle, the seventh came forward, youngest of all.
 
 **4 Maccabees 12:2**
 
-The tyrant, pitying him, though he had been terribly reviled by his brothers, and seeing that he was already surrounded with bonds,
+The tyrant, pitying him, though he had been terribly reviled by his brothers, and seeing that he was already bound with bonds,
 
 **4 Maccabees 12:3**
 
@@ -23606,15 +23910,15 @@ You see the end of your brothers' madness; for through disobedience they have di
 
 **4 Maccabees 12:5**
 
-But if you are persuaded, you will be a friend and will lead the affairs of the kingdom.
+But if you are persuaded, you will be a friend and will lead in the affairs of the kingdom.
 
 **4 Maccabees 12:6**
 
-And while urging these things, he sent for the boy's mother, so that, having pity on her, deprived of so many sons, he might stir the one left over toward saving obedience.
+And while urging these things, he sent for the boy's mother, so that, having pity on her, deprived of so many sons, he might stir the remaining one toward saving obedience.
 
 **4 Maccabees 12:7**
 
-But after his mother urged him in the Hebrew voice, as we will say a little later, he says, Release me,
+But after his mother urged him in the Hebrew tongue, as we will say a little later, he says, Release me,
 
 **4 Maccabees 12:8**
 
@@ -23634,11 +23938,11 @@ Unholy one, he says, and most impious tyrant of all the wicked, were you not ash
 
 **4 Maccabees 12:12**
 
-In return for these things, divine justice will store you up for denser and eternal fire and tortures, which will not release you for the whole age.
+In return for these things, divine justice will reserve you for denser and eternal fire and tortures, which will not release you for the whole age.
 
 **4 Maccabees 12:13**
 
-Were you not ashamed, being a human, most beast-like one, to cut out the tongues of those of like passion and made from the same elements, and to torture them by abusing them in this way?
+Were you not ashamed, being a human, most beast-like one, to cut out the tongues of those sharing like passions and made from the same elements, and to torture them by abusing them in this way?
 
 **4 Maccabees 12:14**
 
@@ -23646,7 +23950,7 @@ But they, having died nobly, fulfilled piety toward God,
 
 **4 Maccabees 12:15**
 
-and you, evil one, will wail evilly, having killed the athletes of virtue without cause.
+and you, evil one, will wail miserably, having killed the athletes of virtue without cause.
 
 **4 Maccabees 12:16**
 
@@ -23654,7 +23958,7 @@ Therefore, being about to die himself also, he said,
 
 **4 Maccabees 12:17**
 
-I will not desert from the excellence of my brothers.
+I will not desert the excellence of my brothers.
 
 **4 Maccabees 12:18**
 
@@ -23666,13 +23970,13 @@ But you he will punish both in the present life and after you die.
 
 **4 Maccabees 12:20**
 
-And after praying these things, he threw himself against the pans, and thus gave back the soul.
+And after praying these things, he threw himself against the pans, and thus gave back his soul.
 
 ### Chapter 13
 
 **4 Maccabees 13:1**
 
-If, then, the seven brothers looked beyond pains even to death, it is confessed together from every side that reverent reasoning is master over the passions.
+If, then, the seven brothers despised pains even to death, it is acknowledged on every side that reverent reasoning is master over the passions.
 
 **4 Maccabees 13:2**
 
@@ -23688,7 +23992,7 @@ It is not possible to overlook the leadership of their understanding, for they p
 
 **4 Maccabees 13:5**
 
-How then is it not possible to confess in these the passion-mastery of good reasoning, since they did not turn away from pains through fire?
+How then can one fail to confess in these the passion-mastery of good reasoning, since they did not turn away from pains through fire?
 
 **4 Maccabees 13:6**
 
@@ -23704,11 +24008,11 @@ For setting up a sacred chorus of piety, they were encouraging one another, sayi
 
 **4 Maccabees 13:9**
 
-Let us die brotherly, brothers, concerning the law. Let us imitate the three young men in Assyria, who despised the equal-wrestling furnace.
+Let us die as brothers, brothers, for the law. Let us imitate the three young men in Assyria, who despised the furnace matched against them.
 
 **4 Maccabees 13:10**
 
-Let us not act cowardly toward the proof of piety.
+Let us not be cowardly toward the proof of piety.
 
 **4 Maccabees 13:11**
 
@@ -23716,11 +24020,11 @@ And one said, Have courage, brother; another, Endure nobly;
 
 **4 Maccabees 13:12**
 
-and another, being reminded, said, Remember from where you are, or by what father's hand Isaac endured to be slaughtered because of piety.
+and another, being reminded, said, Remember from where you come, and by what father's hand Isaac endured to be slaughtered because of piety.
 
 **4 Maccabees 13:13**
 
-And each one and all together, looking at one another, bright and very courageous, said, Let us consecrate ourselves from the whole heart to God, the One who gave the souls, and let us use the bodies for guarding around the law.
+And each one and all together, looking at one another, bright and very courageous, said, Let us consecrate ourselves from the whole heart to God, the One who gave the souls, and let us use the bodies for guarding the law.
 
 **4 Maccabees 13:14**
 
@@ -23740,7 +24044,7 @@ For if we die this way, Abraham and Isaac and Jacob will receive us into their b
 
 **4 Maccabees 13:18**
 
-And to each one of their brothers being dragged away, the ones left behind would say, Do not shame us, brother, nor lie against our brothers who died before us.
+And to each one of their brothers being dragged away, the ones left behind would say, Do not shame us, brother, nor prove false to our brothers who died before us.
 
 **4 Maccabees 13:19**
 
@@ -23748,11 +24052,11 @@ And you are not ignorant of the affections of brotherhood, which divine and all-
 
 **4 Maccabees 13:20**
 
-in which brothers dwelt the equal time and were formed in the same time and increased from the same blood and were carried to completion through the same soul,
+in which brothers dwelt for the same length of time and were formed in the same time and increased from the same blood and were carried to completion through the same soul,
 
 **4 Maccabees 13:21**
 
-and were born after equal times and drank milk from the same springs, from which brother-loving souls are drawn together by embraces,
+and were born at equal times and drank milk from the same springs, from which brother-loving souls are drawn together by embraces,
 
 **4 Maccabees 13:22**
 
@@ -23760,7 +24064,7 @@ and grow more intensely through being nourished together and daily familiarity a
 
 **4 Maccabees 13:23**
 
-So then, with brotherly love established as sympathetic in this way, the seven brothers had their harmony toward one another more sympathetically.
+So then, with brotherly love established in sympathy this way, the seven brothers held their harmony toward one another with deeper sympathy.
 
 **4 Maccabees 13:24**
 
@@ -23776,13 +24080,13 @@ For together with piety they made brotherly love more desirable to themselves.
 
 **4 Maccabees 13:27**
 
-But nevertheless, though nature and familiarity and the habits of virtue were increasing the affections of brotherhood in them, because of piety the brothers left behind endured seeing their brothers being abused and tortured even to death.
+But nevertheless, though nature and familiarity and the habits of virtue were increasing the affections of brotherhood in them, because of piety the ones left behind endured seeing their brothers being abused and tortured even to death.
 
 ### Chapter 14
 
 **4 Maccabees 14:1**
 
-Further, they urged one another toward the abuse, so that they not only despised pains, but also had power over the passions of brotherly love for the brothers.
+Further, they urged one another toward the abuse, so that they not only despised pains, but also had power over the passions arising from brotherly love.
 
 **4 Maccabees 14:2**
 
@@ -23794,7 +24098,7 @@ O sacred and well-harmonized agreement of the seven brothers concerning piety.
 
 **4 Maccabees 14:4**
 
-None of the seven young boys acted cowardly, nor shrank back toward death,
+None of the seven young boys was cowardly, nor shrank back toward death,
 
 **4 Maccabees 14:5**
 
@@ -23802,27 +24106,27 @@ but all, as though running on a road of immortality, hurried toward death throug
 
 **4 Maccabees 14:6**
 
-For just as hands and feet move in harmony with the leadings of the soul, so those sacred young boys, as though moved by one soul, the immortal soul of piety, agreed together toward death for it.
+For just as hands and feet move in harmony with the leadings of the soul, so those sacred young boys, as though moved by one soul, the immortal soul of piety, agreed together to death on its behalf.
 
 **4 Maccabees 14:7**
 
-O all-holy seven of harmonious brothers. For just as seven days of world-making are around piety,
+O most holy seven of harmonious brothers. For just as seven days of world-making are around piety,
 
 **4 Maccabees 14:8**
 
-so the young boys, dancing around the seven, circled around the fear of tortures, dissolving it.
+so the young boys, forming a chorus around the seven, circled the fear of tortures, overthrowing it.
 
 **4 Maccabees 14:9**
 
-Now we shudder when hearing the affliction of those young men; but they, not only seeing, and not only hearing the word of threat immediately, but also suffering, endured, and this with pains through fire.
+Now we shudder when hearing the affliction of those young men; but they, not only seeing, and not only hearing the immediate word of threat, but also suffering, endured, and this amid pains through fire.
 
 **4 Maccabees 14:10**
 
-What could become more painful than these? For the power of fire, being sharp and swift, quickly dissolved the bodies.
+What could be more painful than these? For the power of fire, being sharp and swift, quickly dissolved the bodies.
 
 **4 Maccabees 14:11**
 
-And do not consider it marvelous if reasoning completely mastered those men in the tortures, since even the mind of a woman looked beyond more many-formed pains.
+And do not consider it marvelous if reasoning completely mastered those men in the tortures, since even the mind of a woman despised more varied pains.
 
 **4 Maccabees 14:12**
 
@@ -23830,19 +24134,19 @@ For the mother of those seven young men endured the racks upon each one of her c
 
 **4 Maccabees 14:13**
 
-But observe how much-entwined the affection of child-love is, drawing everything toward the sympathy of the inward parts,
+But observe how many-stranded the affection of love for children is, drawing everything toward the sympathy of the inward parts,
 
 **4 Maccabees 14:14**
 
-since even irrational animals have sympathy and affection like humans toward those begotten from them.
+since even irrational animals have sympathy and affection like humans toward offspring begotten from them.
 
 **4 Maccabees 14:15**
 
-For among birds, the tame ones that roof-roost around houses shield their chicks,
+For among birds, the tame ones that roost on roofs around houses shield their chicks,
 
 **4 Maccabees 14:16**
 
-and others, having made nests on the peaks of mountains and clefts of ravines and holes of trees and their tips, lay eggs and prevent the one approaching.
+and others, having made nests on the peaks of mountains and clefts of ravines and holes of trees and their tips, lay eggs and hold back the one approaching.
 
 **4 Maccabees 14:17**
 
@@ -23864,7 +24168,7 @@ But sympathy for the children did not move the mother of the young men, who was 
 
 **4 Maccabees 15:1**
 
-O reasoning, tyrant over the passions of children, and piety more desirable to a mother than children.
+O reasoning, tyrant over passions concerning children, and piety more desirable to a mother than children.
 
 **4 Maccabees 15:2**
 
@@ -23872,11 +24176,11 @@ When two things lay before the mother, piety and the temporary salvation of her 
 
 **4 Maccabees 15:3**
 
-she rather loved piety, which saves into eternal life according to God.
+she loved piety more, which saves into eternal life with God.
 
 **4 Maccabees 15:4**
 
-O in what way might I describe the child-loving passions of parents? We wonderfully seal likeness of soul and form into the small character of a child, especially because, by the passions, mothers have been established as more sympathetic than fathers toward those born.
+O in what way might I describe the child-loving passions of parents? We wonderfully seal likeness of soul and form into the small stamp of a child, especially because, by the passions, mothers have been established as more sympathetic than fathers toward those born.
 
 **4 Maccabees 15:5**
 
@@ -23892,11 +24196,11 @@ and through the many birth-pangs for each one of them was compelled to have symp
 
 **4 Maccabees 15:8**
 
-yet because of the fear toward God, she looked beyond the temporary salvation of the children.
+yet because of the fear toward God, she disregarded the temporary salvation of the children.
 
 **4 Maccabees 15:9**
 
-Not only this, but also because of the nobility and goodness of the sons and their good obedience toward the law, she had greater affectionate love in them.
+Not only this, but also because of the nobility and goodness of the sons and their good obedience toward the law, she had greater affectionate love toward them.
 
 **4 Maccabees 15:10**
 
@@ -23904,15 +24208,15 @@ For they were just and temperate and courageous and great-souled and brother-lov
 
 **4 Maccabees 15:11**
 
-But nevertheless, though there were so many things around child-love drawing the mother into sympathy, over none of them were the all-various tortures strong enough to turn her reasoning.
+But nevertheless, though there were so many things around child-love drawing the mother into sympathy, in none of these cases were the all-various tortures able to turn her reasoning.
 
 **4 Maccabees 15:12**
 
-Rather, both by each child and by all together, the mother was urged forward toward death for piety.
+Rather, both each child and all together, the mother urged forward toward death for piety.
 
 **4 Maccabees 15:13**
 
-O sacred nature and affections of parents and child-loving birth and nurtures and unconquerable passions of mothers.
+O sacred nature and affections of parents and child-loving birth and nursing and unconquerable passions of mothers.
 
 **4 Maccabees 15:14**
 
@@ -23924,11 +24228,11 @@ She saw the flesh of the children being melted around the fire, and the fingers 
 
 **4 Maccabees 15:16**
 
-O mother now tested by pains more bitter than the birth-pangs over them.
+O mother now tested by pains more bitter than the birth-pangs for them.
 
 **4 Maccabees 15:17**
 
-O woman alone who gave birth to piety whole.
+O only woman who gave birth to whole piety.
 
 **4 Maccabees 15:18**
 
@@ -23940,11 +24244,11 @@ Nor, when you saw the eyes of each one looking like bulls upon the tortures at t
 
 **4 Maccabees 15:20**
 
-Seeing flesh of children burned away upon flesh of children, and hands cut off upon hands, and heads flayed off upon heads, and dead bodies falling upon dead bodies, and seeing the chorus of your children become a many-man grave through the tortures, you did not shed tears.
+Seeing flesh of children burned away upon flesh of children, and hands cut off upon hands, and heads flayed off upon heads, and dead bodies falling upon dead bodies, and seeing the chorus of your children become a mass grave through the tortures, you did not shed tears.
 
 **4 Maccabees 15:21**
 
-Not in this way do Siren melodies, nor swan voices for love of hearing, draw those who hear, as voices of children calling to a mother with tortures.
+Not in this way do Siren melodies, nor swan voices for love of hearing, draw those who hear, as voices of children calling to a mother amid tortures.
 
 **4 Maccabees 15:22**
 
@@ -23952,11 +24256,11 @@ By how great and how many tortures was the mother then tortured as the sons were
 
 **4 Maccabees 15:23**
 
-But reverent reasoning, making her inward parts courageous in the passions themselves, stretched her to overlook temporary child-love.
+But reverent reasoning, making her inward parts courageous in the passions themselves, stretched her to overlook temporary love for children.
 
 **4 Maccabees 15:24**
 
-And though she saw the destruction of seven children and the much-entwined variety of the racks, the noble mother released them all because of faith toward God.
+And though she saw the destruction of seven children and the many-stranded variety of the racks, the noble mother overcame them all because of faith toward God.
 
 **4 Maccabees 15:25**
 
@@ -23964,7 +24268,7 @@ For just as in a council chamber within her own soul, seeing dreadful counselors
 
 **4 Maccabees 15:26**
 
-the mother held two votes for the children, one death-bearing and one saving.
+the mother held two votes for the children, one death-bearing and one saving,
 
 **4 Maccabees 15:27**
 
@@ -23988,21 +24292,21 @@ For just as Noah's ark, carrying the world in the world-filled flood, steadfastl
 
 **4 Maccabees 15:32**
 
-so you, the law-keeper, being drenched on every side in the flood of the passions and held together by strong winds, the tortures of sons, nobly endured the storms for piety.
+so you, the law-keeper, being drenched on every side in the flood of the passions and beset by strong winds, the tortures of sons, nobly endured the storms for piety.
 
 ### Chapter 16
 
 **4 Maccabees 16:1**
 
-If, then, even a woman, and an aged one, and mother of seven children, endured the tortures of her children even to death while seeing them, confessedly reverent reasoning is sovereign over the passions.
+If, then, even a woman, and an aged one, and mother of seven children, endured while seeing her children's tortures even to death, confessedly reverent reasoning is sovereign over the passions.
 
 **4 Maccabees 16:2**
 
-I have shown, therefore, that not only men prevailed over the passions, but also a woman looked beyond the greatest tortures.
+I have shown, therefore, that not only men prevailed over the passions, but also a woman despised the greatest tortures.
 
 **4 Maccabees 16:3**
 
-And the lions around Daniel were not so savage, nor the furnace burning against Mishael with most violent fire, as the nature of child-love burned around that woman, seeing her seven sons tortured in such varied ways.
+And the lions around Daniel were not so savage, nor the furnace burning against Mishael with most violent fire, as the nature of child-love burned around that woman while she saw her seven sons tortured in such varied ways.
 
 **4 Maccabees 16:4**
 
@@ -24030,7 +24334,7 @@ O my children, some unmarried and others married without profit. I will not see 
 
 **4 Maccabees 16:10**
 
-O I, a woman with many children and beautiful children, am a widow and alone, full of many laments.
+O I, a woman with many children and beautiful children, am a widow and alone, much-lamenting.
 
 **4 Maccabees 16:11**
 
@@ -24038,11 +24342,11 @@ Not even if I die will I have any of my sons to bury me. But the sacred and God-
 
 **4 Maccabees 16:12**
 
-nor did she turn any of them away so that they might not die, nor was she grieved over them as dying.
+nor did she turn any of them away so that they might not die, nor was she grieved for them as they died.
 
 **4 Maccabees 16:13**
 
-But as though having a mind of adamant and bearing again the number of her sons into immortality, she was rather urging them forward, entreating them to death for piety.
+But as though having a mind of adamant and bearing again the number of her sons into immortality, she was instead urging them forward, entreating them to death for piety.
 
 **4 Maccabees 16:14**
 
@@ -24050,11 +24354,11 @@ O mother, soldier of God through piety, elder and woman, through endurance you c
 
 **4 Maccabees 16:15**
 
-For when you were seized with the children, you stood watching Eleazar being tortured and spoke to the children in the Hebrew voice:
+For when you were seized with the children, you stood watching Eleazar being tortured and spoke to the children in the Hebrew tongue:
 
 **4 Maccabees 16:16**
 
-Children, noble is the contest, to which, being called for the solemn witness of the nation, contend eagerly for the ancestral law.
+Children, noble is the contest to which you have been called for the solemn witness of the nation; contend eagerly for the ancestral law.
 
 **4 Maccabees 16:17**
 
@@ -24070,15 +24374,15 @@ and because of this you owe it to endure every pain because of God,
 
 **4 Maccabees 16:20**
 
-because of whom also our father Abraham was hastening to slaughter Isaac, his race-father son. And Isaac, seeing the fatherly sword-bearing hand being brought down upon him, did not shrink.
+because of whom also our father Abraham was hastening to slaughter Isaac, the son who was father of the nation. And Isaac, seeing the paternal sword-bearing hand being brought down upon him, did not shrink.
 
 **4 Maccabees 16:21**
 
-And righteous Daniel was thrown into lions, and Hananiah and Azariah and Mishael were hurled into a furnace of fire, and they endured because of God.
+And righteous Daniel was thrown among lions, and Hananiah and Azariah and Mishael were hurled into a furnace of fire, and they endured because of God.
 
 **4 Maccabees 16:22**
 
-Therefore we also, having the same faith toward God, do not grow harsh.
+Therefore we also, having the same faith toward God, do not grow distressed.
 
 **4 Maccabees 16:23**
 
@@ -24090,7 +24394,7 @@ Through these words, the mother of seven, encouraging each one of her sons, pers
 
 **4 Maccabees 16:25**
 
-And still also knowing these things, that those who die because of God live to God, just as Abraham and Isaac and Jacob and all the patriarchs.
+And they knew this also, that those who die because of God live to God, just as Abraham and Isaac and Jacob and all the patriarchs.
 
 ### Chapter 17
 
@@ -24100,19 +24404,19 @@ And some of the spear-bearers also said that when she herself was about to be se
 
 **4 Maccabees 17:2**
 
-O mother, with seven children you dissolved the violence of the tyrant, and made invalid his evil designs, and displayed the nobility of faith.
+O mother, with seven children you overthrew the violence of the tyrant, nullified his evil designs, and displayed the nobility of faith.
 
 **4 Maccabees 17:3**
 
-For just as a roof nobly established upon the pillars of the children, you endured unbent the earthquake through the tortures.
+For just as a roof nobly established upon the pillars of the children, you endured unbent the earthquake of tortures.
 
 **4 Maccabees 17:4**
 
-Therefore have courage, mother of sacred soul, having toward God the hope of endurance as firm.
+Therefore have courage, mother of sacred soul, having firm hope of endurance toward God.
 
 **4 Maccabees 17:5**
 
-Not so august has the moon been set in heaven with the stars, as you, having led your seven star-equal children to piety as lights, have been set as honored with God and established in heaven with them.
+Not so august has the moon been set in heaven with the stars, as you, having led your seven star-equal children as lights toward piety, have been set as honored with God and established in heaven with them.
 
 **4 Maccabees 17:6**
 
@@ -24124,11 +24428,11 @@ And if it were permitted for us, as on some tablet, to paint the history of your
 
 **4 Maccabees 17:8**
 
-For it would be worthy to inscribe even on the tomb itself these things also, spoken for remembrance to those from the nation:
+For it would be worthy to inscribe even on the tomb itself these things also, said for remembrance by those from the nation:
 
 **4 Maccabees 17:9**
 
-Here an old priest and an aged woman and seven children have been buried because of the violence of a tyrant who wished to dissolve the citizenship of the Hebrews.
+Here an old priest and an aged woman and seven children have been buried because of the violence of a tyrant who wished to overthrow the citizenship of the Hebrews.
 
 **4 Maccabees 17:10**
 
@@ -24140,15 +24444,15 @@ For truly the contest that happened through them was divine.
 
 **4 Maccabees 17:12**
 
-For virtue was setting the contest prize then, testing through endurance; the victory was incorruption in long-lasting life.
+For virtue presided over the contest then, testing through endurance; the victory was incorruption in long-lasting life.
 
 **4 Maccabees 17:13**
 
-And Eleazar was contesting before them, and the mother of the seven children was competing, and the brothers were fighting the contest.
+And Eleazar was contesting before them, and the mother of the seven children was competing, and the brothers were contending.
 
 **4 Maccabees 17:14**
 
-The tyrant was fighting against them, and the world and the life of humans were watching.
+The tyrant was fighting against them, and the world and human life were watching.
 
 **4 Maccabees 17:15**
 
@@ -24180,7 +24484,7 @@ and the tyrant was punished, and the fatherland was cleansed,
 
 **4 Maccabees 17:22**
 
-as they became a life in exchange for the sin of the nation. And through the blood of those pious ones and their propitiatory death, divine Providence saved Israel, which had been harmed before.
+as they became a life in exchange for the sin of the nation. And through the blood of those pious ones and their propitiatory death, divine Providence saved Israel, which had been harmed beforehand.
 
 **4 Maccabees 17:23**
 
@@ -24188,13 +24492,13 @@ For when the tyrant Antiochus looked to the courage of their virtue and to their
 
 **4 Maccabees 17:24**
 
-And he had them noble and courageous for infantry battle and siege, and after storming, he conquered all the enemies.
+And he regarded them as noble and courageous for infantry battle and siege, and after storming, he conquered all the enemies.
 
 ### Chapter 18
 
 **4 Maccabees 18:1**
 
-O Israelite children, offspring of Abrahamic seeds, be persuaded by this law and be pious in every way,
+O Israelite children, offspring of Abrahamic seeds, be obedient to this law and be pious in every way,
 
 **4 Maccabees 18:2**
 
@@ -24206,11 +24510,11 @@ In return for these things, because of piety those people handed their bodies ov
 
 **4 Maccabees 18:4**
 
-And through them the nation had peace; and renewing the good law-order in the fatherland, they drove out the enemies by siege.
+And through them the nation had peace; and renewing the good order under law in the fatherland, they drove out the enemies by siege.
 
 **4 Maccabees 18:5**
 
-And the tyrant Antiochus was punished on earth and is punished after death. For since in no way at all was he strong enough to compel the Jerusalemites to become foreign and to change their way of life away from the ancestral customs, then, departing from Jerusalem, he encamped against the Persians.
+And the tyrant Antiochus was punished on earth and is punished after death. For since in no way at all was he able to compel the Jerusalemites to become foreign and to change their way of life away from the ancestral customs, then, departing from Jerusalem, he encamped against the Persians.
 
 **4 Maccabees 18:6**
 
@@ -24222,11 +24526,11 @@ I was born a pure virgin, and I did not step beyond the fatherly house, but guar
 
 **4 Maccabees 18:8**
 
-No destroyer of desolation, a corrupter in a field, corrupted me, nor did a deceitful serpent, a destroyer, ruin the pure things of my virginity; but I remained through the time of prime with a husband.
+No destroyer of desolation, a corrupter in a field, corrupted me, nor did a deceitful serpent, a destroyer, ruin the pure things of my virginity; but I remained through the season of prime with a husband.
 
 **4 Maccabees 18:9**
 
-And when these had become grown, their father died. Blessed was he, for after living the life of good children, he did not suffer the time of childlessness.
+And when these had become grown, their father died. Blessed was he, for after living the life of good childbearing, he did not suffer the time of childlessness.
 
 **4 Maccabees 18:10**
 
@@ -24234,7 +24538,7 @@ While he was still with you, he taught you the law and the prophets.
 
 **4 Maccabees 18:11**
 
-He read to you Abel, killed by Cain, and Isaac, being offered as whole-fruit, and Joseph in prison.
+He read to you Abel, killed by Cain, and Isaac, being offered whole, and Joseph in prison.
 
 **4 Maccabees 18:12**
 
@@ -24250,7 +24554,7 @@ And he reminded you also of the writing of Isaiah, which says, Even if you pass 
 
 **4 Maccabees 18:15**
 
-He melodized to you David the hymn-writer, who says, Many are the afflictions of the righteous, and out of them all the Lord will rescue them.
+He sang to you David the hymn-writer, who says, Many are the afflictions of the righteous, and out of them all the Lord will rescue them.
 
 **4 Maccabees 18:16**
 
@@ -24258,7 +24562,7 @@ He spoke Proverbs to you from Solomon, who says, It is a tree of life to all who
 
 **4 Maccabees 18:17**
 
-He certified Ezekiel, who says, Will these dry bones live?
+He gave assurance from Ezekiel, who says, Will these dry bones live?
 
 **4 Maccabees 18:18**
 
@@ -24270,7 +24574,7 @@ This is your life and the length of days.
 
 **4 Maccabees 18:20**
 
-O bitter was that day, and not bitter, when the bitter tyrant of the Greeks, having kindled fire with cruel kettles and boiling passions, brought the seven children of the Abrahamite woman to the catapult and all his tortures,
+O bitter was that day, and not bitter, when the bitter tyrant of the Greeks, having kindled fire with cruel kettles and boiling angers, brought the seven children of the Abrahamite woman to the catapult and all his tortures,
 
 **4 Maccabees 18:21**
 

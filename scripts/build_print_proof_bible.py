@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import csv
 import json
 from collections import Counter
 from dataclasses import replace
@@ -18,6 +19,7 @@ OUTPUT_DIR = ROOT / "output" / "print"
 DEFAULT_DOCX = OUTPUT_DIR / "the_greek_heritage_study_bible_print_proof.docx"
 DEFAULT_DIAGNOSTICS = OUTPUT_DIR / "the_greek_heritage_study_bible_print_proof_diagnostics.json"
 DEFAULT_README = OUTPUT_DIR / "README.md"
+DEFAULT_PERICOPE_HEADINGS = ROOT / "data" / "research" / "print_pericope_headings.csv"
 
 PRINT_TITLE = "The Greek Heritage Study Bible - Print Proof"
 PRINT_DESCRIPTION = (
@@ -33,6 +35,11 @@ OPTIONAL_TSK_CROSSREF_POLICY = (
     "Minimal cross-reference layer: TSK phrase-anchored references only, no "
     "OpenBible fallback, capped to one cross-reference footnote per verse and "
     "two references per footnote. This layer is opt-in for print builds."
+)
+OPENBIBLE_TOP_CROSSREF_POLICY = (
+    "Modest cross-reference layer: OpenBible.info verse-level cross-references, "
+    "ranked by OpenBible vote count and capped per verse. Used by attribution "
+    "under the OpenBible CC-BY dataset license."
 )
 SUPPLEMENTAL_POLICY = (
     "Brenton/source supplemental footnotes are excluded; this copy keeps only "
@@ -51,6 +58,48 @@ PRINT_NOTE_LABEL_LEGEND = (
     "Div = divine or supernatural name; "
     "Eng = common English rendering."
 )
+PRINT_FRONT_MATTER_SECTIONS = [
+    (
+        "Why This Draft Exists",
+        [
+            (
+                "This print proof exists to test a Bible shaped by the Greek textual streams "
+                "that stand behind much New Testament quotation and early Christian reading: "
+                "the Old Testament from the Septuagint Greek and the New Testament from the "
+                "Scrivener 1894 Textus Receptus Greek."
+            ),
+            (
+                "This is not a final publication. It is a working draft meant to be read with "
+                "a pen in hand. It will contain mistakes, awkward renderings, weak notes, and "
+                "formatting problems. The purpose of this physical copy is to expose those "
+                "problems so they can be corrected before release."
+            ),
+        ],
+    ),
+    (
+        "Rough Methodology",
+        [
+            (
+                "The Old Testament text is translated from the normalized LXX Greek source rows "
+                "in this repository rather than revised from an English base text. The New "
+                "Testament text is translated from the Scrivener 1894 Textus Receptus source "
+                "stream."
+            ),
+            (
+                "The translation normally keeps Greek wording, sequence, and imagery visible "
+                "even where that sounds less familiar than standard English Old Testament "
+                "wording. Notes are kept compact for print and focus on reviewed translation "
+                "questions, textual differences, divine names, proper-name meanings, and a few "
+                "reader-facing explanations."
+            ),
+            (
+                "Dense cross-reference layers, full TSK notes, Brenton/source notes, and the "
+                "separate LXX deuterocanon workstream are intentionally kept out of this print "
+                "proof so the volume remains usable for proofreading the biblical text itself."
+            ),
+        ],
+    ),
+]
 
 
 def minimal_print_crossrefs(
@@ -93,6 +142,55 @@ def minimal_print_crossrefs(
         "profile": "minimal_print",
         "source_policy": "TSK only; OpenBible fallback omitted.",
         "selection_policy": "First phrase-anchored TSK group per verse.",
+        "max_groups_per_verse": 1,
+        "max_refs_per_note": max_refs_per_note,
+        "verses_with_crossrefs": len(selected),
+    }
+
+
+def openbible_print_crossrefs(
+    verses: list[builder.Verse],
+    *,
+    max_refs_per_note: int,
+) -> tuple[dict[str, list[builder.CrossReferenceNote]], dict[str, object]]:
+    raw_crossrefs, source_diag = builder.cached_openbible_crossrefs(
+        limit_per_verse=max_refs_per_note,
+    )
+    selected: dict[str, list[builder.CrossReferenceNote]] = {}
+    counts: Counter[str] = Counter()
+    for verse in verses:
+        raw_refs = raw_crossrefs.get(verse.tsk_key, [])
+        counts["input_refs"] += len(raw_refs)
+        refs: list[str] = []
+        seen: set[str] = set()
+        for raw_ref in raw_refs[:max_refs_per_note]:
+            ref = builder.format_openbible_ref(raw_ref)
+            if not builder.parse_cross_reference(ref) or ref in seen:
+                continue
+            refs.append(ref)
+            seen.add(ref)
+        if not refs:
+            continue
+        selected[verse.ref] = [
+            builder.CrossReferenceNote(
+                trigger_phrase="",
+                refs=tuple(refs),
+                source="openbible",
+            )
+        ]
+        counts["output_groups"] += 1
+        counts["output_refs"] += len(refs)
+
+    return selected, {
+        **dict(counts),
+        "enabled": True,
+        "profile": "openbible_top_n_print",
+        "source_policy": "OpenBible.info only; TSK phrase groups omitted.",
+        "selection_policy": "Top OpenBible vote-ranked references per verse.",
+        "source_license": source_diag.get("license"),
+        "source_rows": source_diag.get("rows"),
+        "source_usable_rows": source_diag.get("usable_rows"),
+        "source_verses_with_refs": source_diag.get("verses_with_refs"),
         "max_groups_per_verse": 1,
         "max_refs_per_note": max_refs_per_note,
         "verses_with_crossrefs": len(selected),
@@ -150,6 +248,43 @@ def source_ref_name_notes(
     }
 
 
+def load_print_pericope_headings(path: Path, verses: list[builder.Verse]) -> tuple[dict[str, str], dict[str, object]]:
+    verse_refs = {verse.ref for verse in verses}
+    if not path.exists():
+        return {}, {
+            "enabled": False,
+            "path": str(path),
+            "rows": 0,
+            "included": 0,
+            "reason": "No print pericope heading table found.",
+        }
+    rows = list(csv.DictReader(path.open(encoding="utf-8", newline="")))
+    headings: dict[str, str] = {}
+    skipped = Counter()
+    for row in rows:
+        status = row.get("status", "active").strip().lower()
+        ref = row.get("ref", "").strip()
+        heading = row.get("heading", "").strip()
+        if status and status != "active":
+            skipped["inactive"] += 1
+            continue
+        if not ref or not heading:
+            skipped["missing_ref_or_heading"] += 1
+            continue
+        if ref not in verse_refs:
+            skipped["not_in_print_verses"] += 1
+            continue
+        headings[ref] = heading
+    return headings, {
+        "enabled": True,
+        "path": str(path),
+        "rows": len(rows),
+        "included": len(headings),
+        "skipped": dict(skipped),
+        "license_policy": "Pericope placement and semantic seed come from the public-domain Berean Standard Bible source; output headings are project-normalized/reworded, with no NKJV or copyrighted modern heading source.",
+    }
+
+
 def write_readme(
     path: Path,
     *,
@@ -171,7 +306,20 @@ def write_readme(
     ]
     if lulu_profile:
         generated_files.append(f"- `{docx_path.with_suffix('.pdf').name}`: Lulu-ready upload PDF.")
-    rebuild_command = "make build-print-proof-lulu-pdf" if lulu_profile else "make build-print-proof"
+        generated_files.append(
+            f"- `{docx_path.with_name(docx_path.stem + '_pdf_headers.json').name}`: PDF page-header diagnostics."
+        )
+        generated_files.append(
+            f"- `{docx_path.with_name(docx_path.stem + '_pandoc.pdf').name}`: optional Pandoc/XeLaTeX PDF with two-column footnotes."
+        )
+    rebuild_commands = (
+        [
+            "make build-print-proof-lulu-pdf",
+            "make build-print-proof-lulu-pandoc-pdf",
+        ]
+        if lulu_profile
+        else ["make build-print-proof"]
+    )
     lines = [
         "# Print Proof Files",
         "",
@@ -184,7 +332,7 @@ def write_readme(
         "- Combined Genesis-Revelation text.",
         "- OT source: LXX Greek source rows; NT source: Scrivener 1894 Textus Receptus Greek source rows.",
         (
-            "- Compact single-column DOCX layout with Lulu-safe mirrored POD margins."
+            "- Compact single-column DOCX layout with Lulu-safe mirrored POD margins and run-in verse paragraphs."
             if diagnostics["print_profile"].get("margin_profile") == "lulu_pod_safe"
             else "- Compact single-column DOCX layout with narrow margins."
         ),
@@ -193,6 +341,17 @@ def write_readme(
         "- Front matter includes an LXX-to-English numbering guide for major reader-facing divergences.",
         "- Reviewed translation/textual notes included.",
         f"- Type profile: {diagnostics['print_profile']['type_profile']}.",
+        f"- Verse layout: {diagnostics['print_profile']['verse_layout']}.",
+        f"- Footnote layout: {diagnostics['print_profile']['footnote_layout']}.",
+        f"- Alternate PDF renderer: {diagnostics['print_profile']['alternate_pdf_renderer']}.",
+        f"- Pericope headings: {diagnostics['print_profile']['pericope_headings']}.",
+        "- Front preface pages discuss the purpose of the draft and rough translation methodology.",
+        "- Executive PDF profile abandoned; it did not save enough size versus Letter to justify maintaining.",
+        (
+            "- Lulu PDF build stamps page numbers and chapter/verse ranges into the top margin after pagination."
+            if lulu_profile
+            else "- DOCX-only build does not stamp PDF page headers."
+        ),
         f"- {PRINT_NOTE_LABEL_LEGEND}",
         f"- {NAME_MEANING_POLICY}",
         preface_line,
@@ -212,7 +371,7 @@ def write_readme(
         "Rebuild:",
         "",
         "```bash",
-        rebuild_command,
+        *rebuild_commands,
         "```",
     ]
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -244,6 +403,7 @@ def main() -> None:
     parser.add_argument("--output", type=Path, default=DEFAULT_DOCX)
     parser.add_argument("--diagnostics", type=Path, default=DEFAULT_DIAGNOSTICS)
     parser.add_argument("--readme", type=Path, default=DEFAULT_README)
+    parser.add_argument("--pericope-headings", type=Path, default=DEFAULT_PERICOPE_HEADINGS)
     parser.add_argument("--max-crossref-refs", type=int, default=2)
     parser.add_argument(
         "--include-tsk-crossrefs",
@@ -251,9 +411,25 @@ def main() -> None:
         help="Opt into the thinned TSK cross-reference layer for a less compact print proof.",
     )
     parser.add_argument(
+        "--include-openbible-crossrefs",
+        action="store_true",
+        help="Opt into OpenBible.info top-voted verse-level cross-references.",
+    )
+    parser.add_argument(
         "--lulu-pod-margins",
         action="store_true",
         help="Use mirrored POD margins for Lulu thick-volume PDF uploads.",
+    )
+    parser.add_argument(
+        "--run-in-verse-paragraphs",
+        action="store_true",
+        help="Group consecutive verses into paragraph runs for a shorter physical proof.",
+    )
+    parser.add_argument(
+        "--run-in-group-size",
+        type=int,
+        default=6,
+        help="Maximum verses per run-in paragraph when --run-in-verse-paragraphs is enabled; use 0 for chapter-continuous paragraphs.",
     )
     parser.add_argument(
         "--docx-compresslevel",
@@ -298,6 +474,7 @@ def main() -> None:
         **name_note_counts,
         **{f"placement_{key}": value for key, value in name_note_placement_counts.items()},
     }
+    pericope_headings, pericope_heading_diag = load_print_pericope_headings(args.pericope_headings, verses)
     if args.no_book_prefaces:
         book_intros = {}
         book_intro_diag = {
@@ -313,7 +490,22 @@ def main() -> None:
         book_intros, book_intro_diag = builder.load_book_intros(args.book_intros)
         book_intro_diag = {**book_intro_diag, "included": True}
         book_prefaces_profile = "included"
-    if args.include_tsk_crossrefs:
+    if args.include_tsk_crossrefs and args.include_openbible_crossrefs:
+        raise SystemExit("Choose only one cross-reference source for print: TSK or OpenBible.")
+    if args.include_openbible_crossrefs:
+        full_crossrefs = {}
+        full_crossref_diag = {
+            "enabled": False,
+            "reason": "TSK parsing skipped for OpenBible print cross-reference profile.",
+            "source_policy": "TSK omitted.",
+        }
+        minimal_crossrefs, minimal_crossref_diag = openbible_print_crossrefs(
+            verses,
+            max_refs_per_note=args.max_crossref_refs,
+        )
+        crossref_policy = OPENBIBLE_TOP_CROSSREF_POLICY
+        crossrefs_enabled = True
+    elif args.include_tsk_crossrefs:
         full_crossrefs, full_crossref_diag = builder.build_crossrefs_for_verses(
             verses,
             "combined",
@@ -375,12 +567,16 @@ def main() -> None:
         docx_compresslevel=args.docx_compresslevel,
         compact_print=True,
         lulu_pod_margins=args.lulu_pod_margins,
+        run_in_verse_paragraphs=args.run_in_verse_paragraphs,
+        run_in_group_size=args.run_in_group_size,
+        pericope_headings=pericope_headings,
         output_kind="print_proof",
         subtitle="Compact physical proofreading copy",
         crossref_policy=crossref_policy,
         name_policy=NAME_MEANING_POLICY,
         supplemental_policy=SUPPLEMENTAL_POLICY,
         note_label_legend=PRINT_NOTE_LABEL_LEGEND,
+        front_matter_sections=PRINT_FRONT_MATTER_SECTIONS,
     )
     validation = builder.validate_docx(args.output)
     diagnostics: dict[str, object] = {
@@ -395,6 +591,7 @@ def main() -> None:
         "name_meaning_note_filter": name_note_counts,
         "included_name_meaning_note_refs": len(name_notes),
         "included_name_meaning_note_total": sum(len(items) for items in name_notes.values()),
+        "pericope_headings": pericope_heading_diag,
         "supplemental_notes": {
             "enabled": False,
             "reason": "Excluded for compact print proof.",
@@ -408,16 +605,47 @@ def main() -> None:
             "layout": "compact_single_column",
             "margin_profile": "lulu_pod_safe" if args.lulu_pod_margins else "compact_proof",
             "page_size": "US Letter 8.5 x 11 in",
-            "type_profile": "lulu_tight_leading_9_5pt" if args.lulu_pod_margins else "compact_9_5pt",
+            "type_profile": (
+                "docx_9_5pt; pandoc_pdf_8_75pt"
+                if args.lulu_pod_margins
+                else "compact_9_5pt"
+            ),
+            "verse_layout": (
+                (
+                    "chapter-continuous run-in paragraphs"
+                    if args.run_in_group_size <= 0
+                    else f"run-in paragraphs, up to {args.run_in_group_size} verses each"
+                )
+                if args.run_in_verse_paragraphs
+                else "one verse per paragraph"
+            ),
+            "footnote_layout": (
+                "compact single-column PDF footnotes; 7.5pt Latin text; "
+                "6.5pt complex-script text; 8.5pt note markers; DOCX includes "
+                "a Word-only two-column footnote hint"
+            ),
+            "alternate_pdf_renderer": (
+                "Pandoc/XeLaTeX target renders two-column footnotes; PDF stamping resets visible "
+                "blue note numbers by page because TeX-side per-page reset exceeds XeTeX capacity"
+            ),
+            "pericope_headings": f"{len(pericope_headings)} BSB-placement original headings included",
             "margins": (
-                "mirrored; inside 1.0 in; outside 0.75 in; top/bottom 0.5 in"
+                "mirrored; inside 0.75 in; outside 0.5 in; top/bottom 0.5 in"
                 if args.lulu_pod_margins
                 else "top/bottom 0.5 in; left/right 0.375 in"
             ),
             "book_prefaces": book_prefaces_profile,
             "brenton_supplemental_notes": "excluded",
-            "openbible_fallback": "excluded",
-            "generated_crossrefs": "excluded",
+            "openbible_fallback": (
+                "top-voted primary source"
+                if args.include_openbible_crossrefs
+                else "excluded"
+            ),
+            "generated_crossrefs": (
+                "openbible_top_n"
+                if args.include_openbible_crossrefs
+                else ("minimal_tsk" if args.include_tsk_crossrefs else "excluded")
+            ),
             "name_meanings": "listed_first_source_occurrence_only",
             "source_policy": "OT LXX Greek rows plus NT Scrivener 1894 Textus Receptus Greek rows.",
             "translation_note_labels": "compact",

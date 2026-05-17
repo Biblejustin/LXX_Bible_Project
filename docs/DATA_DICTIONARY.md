@@ -35,6 +35,9 @@ Deuterocanon rows are isolated from the 66-book OT/NT outputs. Their source
 manifest is `data/raw/lxx_deuterocanon/source_manifest.json`; source candidates
 and the supplemental-source choice for Prayer of Manasseh and 2 Maccabees are
 tracked in `docs/DEUTEROCANON_MISSING_SOURCES.md`.
+Plain embedded verse labels in deuterocanon Greek source rows are split into
+separate CSV rows when they mark a distinct verse. Bracketed source-text
+sections remain bracketed.
 
 ## Translation Footnotes
 

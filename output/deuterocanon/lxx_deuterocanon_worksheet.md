@@ -258,7 +258,7 @@ Greek: καὶ ἔδωκεν ὁ ¨Υψιστος χάριν καὶ μορφὴ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the Most High gave favor and form before Enemessar, and I was his buyer;
+Draft translation: And the Most High gave favor and good appearance before Enemessar, and I was his buyer;
 
 Decision rows:
 - None recorded.
@@ -418,7 +418,7 @@ Greek: καὶ οὐ διῆλθον ἡμέρας πεντήκοντα, ἕως
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And fifty days did not pass until his two sons killed him and fled into the mountains of Ararat, and Sacherdonos his son reigned instead of him, and he appointed Achiacharos, Anael son of my brother, over all the accounting of his kingdom and over all the administration.
+Draft translation: And fifty days did not pass until his two sons killed him and fled into the mountains of Ararat, and Sacherdonos his son reigned in his place, and he appointed Achiacharos, Anael son of my brother, over all the accounting of his kingdom and over all the administration.
 
 Decision rows:
 - None recorded.
@@ -438,7 +438,7 @@ Greek: καὶ ἠξίωσεν Ἀχιάχαρος περὶ ἐμοῦ, καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Achiacharos made request concerning me, and I came to Nineveh. Now Achiacharos was the cupbearer and over the ring and administrator and accountant, and Sacherdonos appointed him second; and he was my cousin.
+Draft translation: And Achiacharos made request concerning me, and I came to Nineveh. Now Achiacharos was the cupbearer and in charge of the ring and administrator and accountant, and Sacherdonos appointed him second; and he was my cousin.
 
 Decision rows:
 - None recorded.
@@ -700,7 +700,7 @@ Greek: ὅτε δὲ ἦλθε πρός με, ἤρξατο κράζειν· κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But when it came to me, it began to cry out; and I said to her, From where is the young goat? Is it not stolen? Return it to the owners; for it is not lawful to eat what is stolen.
+Draft translation: But when it came to me, it began to bleat; and I said to her, From where is the young goat? Is it not stolen? Return it to the owners; for it is not lawful to eat what is stolen.
 
 Decision rows:
 - None recorded.
@@ -720,7 +720,7 @@ Greek: ἡ δὲ εἶπε· δῶρον δέδοταί μοι ἐπὶ τῷ μ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But she said, A gift has been given to me in addition to the wage. And I did not believe her and kept telling her to return it to the owners, and I was ashamed before her. But answering, she said to me, Where are your acts of mercy and your righteousness? Behold, all things are known with you.
+Draft translation: But she said, A gift has been given to me in addition to the wage. And I did not believe her and kept telling her to return it to the owners, and I was ashamed before her. But answering, she said to me, Where are your acts of mercy and your righteousness? Behold, everything about you is known.
 
 Decision rows:
 - None recorded.
@@ -782,7 +782,7 @@ Greek: μνήσθητί μου καὶ ἐπίβλεψον ἐπ᾿ ἐμέ· μ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Remember me and look upon me; do not take vengeance on me for my sins and my ignorances and those of my fathers, which they sinned before you;
+Draft translation: Remember me and look upon me; do not take vengeance on me for my sins and my sins of ignorance and those of my fathers, which they sinned before you;
 
 Decision rows:
 - None recorded.
@@ -1204,7 +1204,7 @@ Greek: ἐκ τῶν ὑπαρχόντων σοι ποίει ἐλεημοσύν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: From the things that exist to you, do mercy, and let your eye not be grudging when you do mercy. Do not turn your face away from every poor person, and the face of God will certainly not be turned away from you.
+Draft translation: From your possessions, do almsgiving, and let your eye not be grudging when you do almsgiving. Do not turn your face away from every poor person, and the face of God will certainly not be turned away from you.
 
 Decision rows:
 - None recorded.
@@ -1224,7 +1224,7 @@ Greek: ὡς σοὶ ὑπάρχει κατὰ τὸ πλῆθος, ποίησο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: As things exist to you according to abundance, do mercy from them; if little exists to you, according to the little do not fear to do mercy.
+Draft translation: According to your abundance, do almsgiving from them; if little belongs to you, according to the little do not fear to do almsgiving.
 
 Decision rows:
 - None recorded.
@@ -1264,7 +1264,7 @@ Greek: διότι ἐλεημοσύνη ἐκ θανάτου ρύεται κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: because mercy rescues from death and does not allow one to enter into darkness;
+Draft translation: because almsgiving rescues from death and does not allow one to enter into darkness;
 
 Decision rows:
 - None recorded.
@@ -1284,7 +1284,7 @@ Greek: δῶρον γὰρ ἀγαθόν ἐστιν ἐλεημοσύνη πᾶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for mercy is a good gift to all those who do it before the Most High.
+Draft translation: for almsgiving is a good gift to all those who do it before the Most High.
 
 Decision rows:
 - None recorded.
@@ -1384,7 +1384,7 @@ Greek: ἐκ τοῦ ἄρτου σου δίδου πεινῶντι καὶ ἐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: From your bread give to the hungry, and from your garments to the naked; everything, whatever abounds to you, do as mercy, and let your eye not be grudging when you do mercy.
+Draft translation: From your bread give to the hungry, and from your garments to the naked; everything, whatever abounds to you, do as almsgiving, and let your eye not be grudging when you do almsgiving.
 
 Decision rows:
 - None recorded.
@@ -1484,7 +1484,7 @@ Greek: καὶ μὴ φοβοῦ, παιδίον, ὅτι ἐπτωχεύσαμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And do not fear, child, because we became poor; many things exist for you if you fear God and depart from every sin and do what is pleasing before him.
+Draft translation: And do not fear, child, because we became poor; much belongs to you if you fear God and depart from every sin and do what is pleasing before him.
 
 Decision rows:
 - None recorded.
@@ -1766,7 +1766,7 @@ Greek: καὶ εἶπεν αὐτῷ· ὑγιαίνων ἔλθοις, ἀδε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he said to him, May you come in health, brother, and do not be angry with me because I sought to know your tribe and your father's house. And you happen to be my brother from the beautiful and good generation; for I knew Ananias and Jonathan, the sons of Semei the Great, as we were going together to Jerusalem to worship, carrying up the firstborn and the tithes of the produce, and they were not led astray in the error of our brothers. You are from a good root, brother,
+Draft translation: And he said to him, May you come in health, brother, and do not be angry with me because I sought to know your tribe and your father's house. And you happen to be my brother from a noble and good generation; for I knew Ananias and Jonathan, the sons of Semei the Great, as we were going together to Jerusalem to worship, carrying up the firstborn and the tithes of the produce, and they were not led astray in the error of our brothers. You are from a good root, brother,
 
 Decision rows:
 - None recorded.
@@ -1826,7 +1826,7 @@ Greek: καὶ εὐδόκησαν οὕτως. καὶ εἶπε πρὸς Τω
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they were pleased thus. And he said to Tobias, Become ready for the way, and may you be prospered. And his son prepared the things for the way. And his father said to him, Go with this man, and God who dwells in heaven will prosper your way, and may his angel travel with you. And both went out to depart, and the young man's dog with them.
+Draft translation: And they were pleased thus. And he said to Tobias, Prepare for the way, and may you be prospered. And his son prepared the provisions for the way. And his father said to him, Go with this man, and God who dwells in heaven will prosper your way, and may his angel travel with you. And both went out to depart, and the young man's dog with them.
 
 Decision rows:
 - None recorded.
@@ -1866,7 +1866,7 @@ Greek: ἀργύριον τῷ ἀργυρίῳ μὴ φθάσαι, ἀλλὰ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not let silver overtake silver, but let it become refuse for our child;
+Draft translation: Let not silver be added to silver; rather let it be refuse compared with our child;
 
 Decision rows:
 - None recorded.
@@ -1886,7 +1886,7 @@ Greek: ὡς γὰρ δέδοται ἡμῖν ζῆν παρὰ τοῦ Κυρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for as it has been given to us to live by the Lord, this exists as enough for us.
+Draft translation: for as it has been given to us to live by the Lord, this is enough for us.
 
 Decision rows:
 - None recorded.
@@ -1906,7 +1906,7 @@ Greek: καὶ εἶπεν αὐτῇ Τωβίτ· μὴ λόγον ἔχε, ἀ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Tobit said to her, Do not have a word, sister; he will come in health, and your eyes will see him;
+Draft translation: And Tobit said to her, Do not worry, sister; he will come in health, and your eyes will see him;
 
 Decision rows:
 - None recorded.
@@ -2188,7 +2188,7 @@ Greek: καὶ νῦν ἄκουσόν μου καὶ λαλήσω τῷ πατ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now listen to me, and I will speak to her father; and when we return from Rages, we will make the marriage; because I know Raguel, that he will certainly not give her to another man according to the law of Moses, or he will be liable to death, because it belongs to you to receive the inheritance rather than any person.
+Draft translation: And now listen to me, and I will speak to her father; and when we return from Rages, we will make the marriage; because I know Raguel, that he will certainly not give her to another man according to the law of Moses, or he will be liable to death, because it belongs to you to receive the inheritance rather than any other person.
 
 Decision rows:
 - None recorded.
@@ -2228,7 +2228,7 @@ Greek: καὶ νῦν ἐγὼ μόνος εἰμὶ τῷ πατρὶ καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now I am only one to my father, and I fear that entering in I may die just as the former ones also did, because a demon loves her, which wrongs no one except those who approach her. And now I fear that I may die and bring down the life of my father and my mother with anguish over me into their tomb; and no other son exists for them who will bury them.
+Draft translation: And now I am my father's only one, and I fear that entering in I may die just as the former ones also did, because a demon loves her, which wrongs no one except those who approach her. And now I fear that I may die and bring down the life of my father and my mother with anguish over me into their tomb; and no other son exists for them who will bury them.
 
 Decision rows:
 - None recorded.
@@ -2248,7 +2248,7 @@ Greek: εἶπε δὲ αὐτῷ ὁ ἄγγελος· οὐ μέμνησαι �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the angel said to him, Do you not remember the words that your father commanded you, concerning taking for yourself a wife from your race? And now listen to me, brother, because she will be yours as wife, and have no word concerning the demon, because this night she will be given to you as wife.
+Draft translation: But the angel said to him, Do you not remember the words that your father commanded you, concerning taking for yourself a wife from your race? And now listen to me, brother, because she will be yours as wife, and have no concern about the demon, because this night she will be given to you as wife.
 
 Decision rows:
 - None recorded.
@@ -2350,7 +2350,7 @@ Greek: καὶ εἶπε Ραγουὴλ Ἔδνᾳ τῇ γυναικὶ αὐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Raguel said to Edna his wife, How like the young man is to Tobit my cousin!
+Draft translation: And Raguel said to Edna his wife, How like this young man is to Tobit my cousin!
 
 Decision rows:
 - None recorded.
@@ -2450,7 +2450,7 @@ Greek: καὶ εὐλόγησεν αὐτὸν καὶ εἶπεν αὐτῷ·
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and blessed him and said to him, Son of the beautiful and good man. And hearing that Tobit had lost his own eyes, he was grieved and wept.
+Draft translation: and blessed him and said to him, Son of the noble and good man. And hearing that Tobit had lost his own eyes, he was grieved and wept.
 
 Decision rows:
 - None recorded.
@@ -2510,7 +2510,7 @@ Greek: καὶ μετέδωκε τὸν λόγον τῷ Ραγουήλ· κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he shared the word with Raguel; and Raguel said to Tobias, Eat, drink, and become glad, for it belongs to you to take my child. But I will disclose the truth to you.
+Draft translation: And he passed on the word to Raguel; and Raguel said to Tobias, Eat, drink, and be glad, for it belongs to you to take my child. But I will disclose the truth to you.
 
 Decision rows:
 - None recorded.
@@ -2530,7 +2530,7 @@ Greek: ἔδωκα τὸ παιδίον μου ἑπτὰ ἀνδράσι, κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: I gave my child to seven men, and whenever they went in to her, they died during the night. But for the present, become glad. And Tobias said, I will taste nothing here until you set the matter and stand with me. And Raguel said, Receive her from now according to the judgment. You are her brother, and she is yours; and may the merciful God prosper the most beautiful things for you.
+Draft translation: I gave my child to seven men, and whenever they went in to her, they died during the night. But for the present, be glad. And Tobias said, I will taste nothing here until you settle the matter and stand with me. And Raguel said, Receive her from now according to the judgment. You are her brother, and she is yours; and may the merciful God prosper the best things for you.
 
 Decision rows:
 - None recorded.
@@ -2772,7 +2772,7 @@ Greek: σὺ ἐποίησας Ἀδὰμ καὶ ἔδωκας αὐτῷ βο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: You made Adam and gave him Eve as a helper, his wife, as support. From these the seed of humans was born. You said, It is not good for the human to be alone; let us make for him a helper like him.
+Draft translation: You made Adam and gave him Eve as a helper, his wife, as support. From these the seed of mankind was born. You said, It is not good for man to be alone; let us make for him a helper like him.
 
 Decision rows:
 - None recorded.
@@ -2792,7 +2792,7 @@ Greek: καὶ νῦν, Κύριε, οὐ διά πορνείαν ἐγὼ λα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now, Lord, not because of fornication do I take this my sister, but in truth. Give command to have mercy on me and to grow old together with her.
+Draft translation: And now, Lord, not because of fornication do I take this my sister, but in truth. Command that mercy be shown to me and that I grow old together with her.
 
 Decision rows:
 - None recorded.
@@ -2992,7 +2992,7 @@ Greek: εὐλογητὸς εἶ ὅτι ἠλέησας δύο μονογεν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Blessed are you because you had mercy on two only children. Do mercy for them, Master; complete their life in health with gladness and mercy.
+Draft translation: Blessed are you because you had mercy on two only children. Show mercy to them, Master; complete their life in health with gladness and mercy.
 
 Decision rows:
 - None recorded.
@@ -3032,7 +3032,7 @@ Greek: καὶ ἐποίησεν αὐτοῖς γάμον ἡμερῶν δεκ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he made a wedding for them of fourteen days.
+Draft translation: And he held a wedding for them fourteen days.
 
 Decision rows:
 - None recorded.
@@ -3052,7 +3052,7 @@ Greek: καὶ εἶπεν αὐτῷ Ραγουὴλ πρὶν ἢ συντελ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Raguel said to him with an oath, before the days of the wedding were completed, that he should not go out unless the fourteen days of the wedding should be fulfilled.
+Draft translation: And before the days of the wedding were completed, Raguel made him swear not to go out until the fourteen days of the wedding should be fulfilled.
 
 Decision rows:
 - None recorded.
@@ -3232,7 +3232,7 @@ Variant notes:
 
 ### Tobit 10:2
 
-Greek: εἶπε· μήποτε κατῃ£σχυνται; ἢ μήποτε ἀπέθανε Γαβαὴλ καὶ οὐδεὶς αὐτῷ δίδωσι τὸ ἀργύριον;
+Greek: εἶπε· μήποτε κατῄσχυνται; ἢ μήποτε ἀπέθανε Γαβαὴλ καὶ οὐδεὶς αὐτῷ δίδωσι τὸ ἀργύριον;
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
@@ -3316,7 +3316,7 @@ Greek: καὶ Τωβὶτ λέγει αὐτῇ· σίγα, μὴ λόγον �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Tobit says to her, Be silent; have no word; he is in health.
+Draft translation: And Tobit says to her, Be silent; do not worry; he is in health.
 
 Decision rows:
 - None recorded.
@@ -3456,7 +3456,7 @@ Greek: μετὰ ταῦτα ἐπορεύετο καὶ Τωβίας εὐλο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: After these things Tobias also went, blessing God because he prospered his way, and he blessed Raguel and Edna his wife.
+Draft translation: After these things Tobias went on, blessing God because he prospered his way, and he blessed Raguel and Edna his wife.
 
 Decision rows:
 - None recorded.
@@ -3578,7 +3578,7 @@ Greek: καὶ Ραφαὴλ εἶπεν· ἐπίσταμαι ἐγὼ ὅτι 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Raphael said, I know that your father will open the eyes.
+Draft translation: And Raphael said, I know that your father will open his eyes.
 
 Decision rows:
 - None recorded.
@@ -3598,7 +3598,7 @@ Greek: σὺ ἔγχρισον τὴν χολὴν εἰς τοὺς ὀφθαλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: You anoint the gall into his eyes, and being stung, he will rub and throw off the white spots, and he will see you.
+Draft translation: You anoint the gall into his eyes, and when they sting him, he will rub and throw off the white spots, and he will see you.
 
 Decision rows:
 - None recorded.
@@ -3758,7 +3758,7 @@ Greek: καὶ ἐξῆλθε Τωβὶτ εἰς συνάντησιν τῇ ν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Tobit went out to meet his daughter-in-law, rejoicing and blessing God, at the gate of Nineveh. And those seeing him going were marveling, because he saw.
+Draft translation: And Tobit went out to meet his daughter-in-law, rejoicing and blessing God, at the gate of Nineveh. And those seeing him going were marveling, because he could see.
 
 Decision rows:
 - None recorded.
@@ -3840,7 +3840,7 @@ Greek: ΚΑΙ ἐκάλεσε Τωβὶτ Τωβίαν τὸν υἱὸν αὐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Tobit called Tobias his son and said to him, See, child, give wages to the man who went with you, and it is necessary to add for him.
+Draft translation: And Tobit called Tobias his son and said to him, See to the wages, child, for the man who went with you, and it is necessary to add for him.
 
 Decision rows:
 - None recorded.
@@ -3940,7 +3940,7 @@ Greek: τότε καλέσας τοὺς δύο κρυπτῶς εἶπεν α�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then, having called the two privately, he said to them, Bless God, and confess to him, and give greatness to him, and confess to him before all the living concerning what he did with you. It is good to bless God and exalt his name, honorably showing the words of the works of God, and do not hesitate to confess to him.
+Draft translation: Then, having called the two privately, he said to them, Bless God, and confess to him, and ascribe greatness to him, and confess to him before all the living concerning what he did with you. It is good to bless God and exalt his name, honorably showing the accounts of the works of God, and do not hesitate to confess to him.
 
 Decision rows:
 - None recorded.
@@ -3980,7 +3980,7 @@ Greek: ἀγαθὸν προσευχὴ μετὰ νηστείας καὶ ἐλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Good is prayer with fasting and almsgiving and righteousness; good is little with righteousness rather than much with injustice. It is good to make almsgiving rather than to treasure up gold;
+Draft translation: Good is prayer with fasting and almsgiving and righteousness; good is little with righteousness rather than much with injustice. It is good to do almsgiving rather than to treasure up gold;
 
 Decision rows:
 - None recorded.
@@ -4000,7 +4000,7 @@ Greek: ἐλεημοσύνη γὰρ ἐκ θανάτου ρύεται, καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for almsgiving rescues from death, and it will cleanse every sin. Those doing almsgivings and righteousnesses will be filled with life,
+Draft translation: for almsgiving rescues from death, and it will cleanse every sin. Those doing acts of almsgiving and righteousness will be filled with life,
 
 Decision rows:
 - None recorded.
@@ -4140,7 +4140,7 @@ Greek: καὶ ἐταράχθησαν οἱ δύο καὶ ἔπεσον ἐπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the two were troubled and fell upon their face, because they feared.
+Draft translation: And the two were troubled and fell upon their faces, because they feared.
 
 Decision rows:
 - None recorded.
@@ -4382,7 +4382,7 @@ Greek: ἐὰν ἐπιστρέψητε πρὸς αὐτὸν ἐν ὅλῃ τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If you return to him with all your heart and with all your soul, to do truth before him, then he will return to you and will certainly not hide his face from you. And behold what he will do with you, and confess to him with all your mouth; and bless the Lord of righteousness and exalt the King of the ages. I, in the land of my captivity, confess to him and show his strength and his greatness to a nation of sinners. Turn back, sinners, and do righteousness before him; who knows whether he will desire you and do mercy for you?
+Draft translation: If you return to him with all your heart and with all your soul, to do truth before him, then he will return to you and will certainly not hide his face from you. And behold what he will do with you, and confess to him with all your mouth; and bless the Lord of righteousness and exalt the King of the ages. I, in the land of my captivity, confess to him and show his strength and his greatness to a nation of sinners. Turn back, sinners, and do righteousness before him; who knows whether he will desire you and show mercy to you?
 
 Decision rows:
 - None recorded.
@@ -4462,7 +4462,7 @@ Greek: ἐξομολογοῦ τῷ Κυρίῳ ἀγαθῶς καὶ εὐλό
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Confess to the Lord well and bless the King of the ages, so that again his tabernacle may be built in you with joy, and he may gladden the captives in you and love the afflicted in you for all the generations of the age.
+Draft translation: Confess to the Lord rightly and bless the King of the ages, so that again his tabernacle may be built in you with joy, and he may gladden the captives in you and love the afflicted in you for all the generations of the age.
 
 Decision rows:
 - None recorded.
@@ -4542,7 +4542,7 @@ Greek: ὦ μακάριοι οἱ ἀγαπῶντές σε, χαρήσοντα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O blessed are those loving you; they will rejoice over your peace. Blessed are as many as were grieved over all your scourges, because over you they will rejoice, having seen all your glory, and they will be gladdened forever.
+Draft translation: O blessed are those who love you; they will rejoice over your peace. Blessed are as many as were grieved over all your scourges, because over you they will rejoice, having seen all your glory, and they will be gladdened forever.
 
 Decision rows:
 - None recorded.
@@ -4664,7 +4664,7 @@ Greek: καὶ ἦν ἐτῶν πεντηκονταοκτώ, ὅτε ἀπώλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he was fifty-eight years old when he lost his sight, and after eight years he looked up again. And he did almsgivings and continued to fear the Lord God and confessed to him.
+Draft translation: And he was fifty-eight years old when he lost his sight, and after eight years he saw again. And he did acts of almsgiving and continued to fear the Lord God and confessed to him.
 
 Decision rows:
 - None recorded.
@@ -4704,7 +4704,7 @@ Greek: ἄπελθε εἰς τὴν Μηδίαν, τέκνον, ὅτι πέπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Go away into Media, child, because I am persuaded of as many things as Jonah the prophet spoke concerning Nineveh, that it will be overthrown; but in Media there will be peace rather, until a time, and our brothers in the land will be scattered from the good land, and Jerusalem will be desolate, and the house of God in it will be burned down and will be desolate until a time.
+Draft translation: Go away into Media, child, because I am persuaded of as many things as Jonah the prophet spoke concerning Nineveh, that it will be overthrown; but in Media there will be peace for a time, and our brothers in the land will be scattered from the good land, and Jerusalem will be desolate, and the house of God in it will be burned down and will be desolate until a time.
 
 Decision rows:
 - None recorded.
@@ -4784,7 +4784,7 @@ Greek: καὶ νῦν, τέκνον, ἄπελθε ἀπὸ Νινευῆ, ὅ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now, child, go away from Nineveh, because certainly the things that Jonah the prophet spoke will be.
+Draft translation: And now, child, go away from Nineveh, because certainly the things that Jonah the prophet spoke will happen.
 
 Decision rows:
 - None recorded.
@@ -4804,7 +4804,7 @@ Greek: σὺ δὲ τήρησον τὸν νόμον καὶ τὰ προστά�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But you, keep the law and the commandments, and become mercy-loving and righteous, so that it may be well with you. And bury me well, and your mother with me, and no longer lodge in Nineveh.
+Draft translation: But you, keep the law and the commandments, and become mercy-loving and righteous, so that it may be well with you. And bury me well, and your mother with me, and do not lodge any longer in Nineveh.
 
 Decision rows:
 - None recorded.
@@ -4844,7 +4844,7 @@ Greek: καὶ νῦν, παιδία, ἴδετε τί ἐλεημοσύνη π�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now, children, see what almsgiving does, and what righteousness rescues. And as he was saying these things, his soul failed upon the bed; and he was 158 years old, and they buried him gloriously.
+Draft translation: And now, children, see what almsgiving does, and how righteousness rescues. And as he was saying these things, his soul failed upon the bed; and he was 158 years old, and they buried him gloriously.
 
 Decision rows:
 - None recorded.
@@ -4884,7 +4884,7 @@ Greek: καὶ ἐγήρασεν ἐντίμως καὶ ἔθαψε τοὺς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and he grew old honorably and buried his parents-in-law gloriously and inherited their substance and that of Tobit his father.
+Draft translation: and he grew old honorably and buried his parents-in-law gloriously and inherited their property and that of Tobit his father.
 
 Decision rows:
 - None recorded.
@@ -5290,7 +5290,7 @@ Greek: καὶ συνεκάλεσε πάντας τοὺς θεράποντας 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he called together all his attendants and all his great ones, and set with them the mystery of his counsel, and completed all the evil of the land from his mouth.
+Draft translation: And he called together all his attendants and all his great ones, and set with them the secret of his counsel, and by his mouth completed all the evil of the land.
 
 Decision rows:
 - None recorded.
@@ -5390,7 +5390,7 @@ Greek: καὶ ἀπαγγελεῖς αὐτοῖς ἑτοιμάζειν γῆ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And you shall report to them to prepare earth and water, because I will go out in my wrath against them and cover all the face of the earth with the feet of my force, and I will give them to them for plunder;
+Draft translation: And you shall report to them to prepare earth and water, because I will go out in my wrath against them and cover all the face of the earth with the feet of my force, and I will give them over to them for plunder;
 
 Decision rows:
 - None recorded.
@@ -5510,7 +5510,7 @@ Greek: καὶ σὺ δὲ οὐ παραβήσῃ ἕν τι τῶν ρημάτ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And you also shall not transgress one thing of the words of your lord, but completing, you shall complete just as I have commanded you, and you shall not delay to do them.
+Draft translation: And you also shall not transgress one thing of the words of your lord, but you shall fully complete just as I have commanded you, and you shall not delay to do them.
 
 Decision rows:
 - None recorded.
@@ -5550,7 +5550,7 @@ Greek: καὶ ἠρίθμησεν ἐκλεκτοὺς ἄνδρας εἰς π
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and he numbered chosen men for battle line, just as his lord commanded him, to twelve myriads, and horsemen archers, twelve thousand,
+Draft translation: and he numbered chosen men for battle line, just as his lord commanded him, to twelve myriads, and twelve thousand mounted archers,
 
 Decision rows:
 - None recorded.
@@ -5570,7 +5570,7 @@ Greek: καὶ διέταξεν αὐτοὺς ὃν τρόπον πολέμου
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and he arranged them in the manner that a multitude for war is arranged.
+Draft translation: and he arranged them in the manner that a multitude is arranged for war.
 
 Decision rows:
 - None recorded.
@@ -5852,7 +5852,7 @@ Greek: ἰδοὺ ἡμεῖς οἱ παῖδες Ναβουχοδονόσορ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Behold, we, servants of Nebuchadnezzar the great king, lie before you; use us as it is pleasing before your face.
+Draft translation: Behold, we, servants of Nebuchadnezzar the great king, lie before you; deal with us as is pleasing before your face.
 
 Decision rows:
 - None recorded.
@@ -5872,7 +5872,7 @@ Greek: ἰδοὺ αἱ ἐπαύλεις ἡμῶν καὶ πᾶν πεδίο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Behold, our farmsteads and every plain of wheat and the flocks and the cattle herds and all the folds of our tents lie before your face; use them according to whatever may please you.
+Draft translation: Behold, our farmsteads and every plain of wheat and the flocks and the cattle herds and all the folds of our tents lie before your face; deal with them according to whatever may please you.
 
 Decision rows:
 - None recorded.
@@ -5992,7 +5992,7 @@ Greek: καὶ ἦλθε κατὰ πρόσωπον Ἐσδρηλὼν πλησ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he came opposite Esdrelon near Dothaea, which is across from the great saw-ridge of Judea,
+Draft translation: And he came opposite Esdrelon near Dothaea, which is across from the great saw-shaped ridge of Judea,
 
 Decision rows:
 - None recorded.
@@ -6054,7 +6054,7 @@ Greek: καὶ ἐφοβήθησαν σφόδρα σφόδρα ἀπὸ προσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and they feared exceedingly exceedingly from his face and were troubled concerning Jerusalem and the temple of the Lord their God.
+Draft translation: and they feared very exceedingly from his face and were troubled concerning Jerusalem and the temple of the Lord their God.
 
 Decision rows:
 - None recorded.
@@ -6074,7 +6074,7 @@ Greek: ὅτι προσφάτως ἦσαν ἀναβεβηκότες ἐκ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For recently they had come up from the captivity, and newly all the people of Judea had been gathered together, and the vessels and the altar and the house had been sanctified out of profanation.
+Draft translation: For recently they had come up from the captivity, and recently all the people of Judea had been gathered together, and the vessels and the altar and the house had been sanctified out of profanation.
 
 Decision rows:
 - None recorded.
@@ -6214,7 +6214,7 @@ Greek: αὐτοὶ καὶ αἱ γυναῖκες αὐτῶν καὶ τὰ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: They and their women and their infants and their livestock and every resident alien or hired worker and their bought-with-silver ones put sackcloths upon their loins.
+Draft translation: They and their women and their infants and their livestock and every resident alien or hired worker and their silver-bought servants put sackcloths upon their loins.
 
 Decision rows:
 - None recorded.
@@ -6676,7 +6676,7 @@ Greek: ὅτε δὲ ἀπέστησαν ἀπὸ τῆς ὁδοῦ, ἧς δι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But when they departed from the way that he arranged for them, they were utterly destroyed in many wars for a very long time and were taken captive into a land not their own, and the temple of their God came to be as ground, and their cities were seized by their adversaries.
+Draft translation: But when they departed from the way that he arranged for them, they were utterly destroyed in very many wars and were taken captive into a land not their own, and the temple of their God was razed to the ground, and their cities were seized by their adversaries.
 
 Decision rows:
 - None recorded.
@@ -6716,7 +6716,7 @@ Greek: καὶ νῦν, δέσποτα κύριε, εἰ μέν ἐστιν ἀ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now, master lord, if there is an unwitting sin in this people and they are sinning against their God, and we inspect that this stumbling block is among them, then we will go up and war against them.
+Draft translation: And now, master lord, if there is an unwitting sin in this people and they are sinning against their God, and we find that this stumbling block is among them, then we will go up and war against them.
 
 Decision rows:
 - None recorded.
@@ -6756,7 +6756,7 @@ Greek: καὶ ἐγένετο ὡς ἐπαύσατο Ἀχιὼρ λαλῶν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it happened, when Achior ceased speaking these words, that all the people surrounding the tent and standing around murmured, and the great ones of Holofernes and all those dwelling along the coastland and in Moab said to cut him down;
+Draft translation: And it happened, when Achior ceased speaking these words, that all the people surrounding the tent and standing around murmured, and the great ones of Holofernes and all those dwelling along the coastland and in Moab said that he should be cut down;
 
 Decision rows:
 - None recorded.
@@ -6838,7 +6838,7 @@ Greek: καὶ τίς εἶ σύ, Ἀχιὼρ καὶ οἱ μισθωτοὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And who are you, Achior, and the hirelings of Ephraim, that you prophesied among us as today and said not to war against the race of Israel, because their God will shield them? And who is God except Nebuchadnezzar? This one will send his might and utterly destroy them from the face of the earth, and their God will not rescue them;
+Draft translation: And who are you, Achior, and the hirelings of Ephraim, that you prophesied among us as on this day and said that war should not be made against the race of Israel, because their God will shield them? And who is God except Nebuchadnezzar? This one will send his might and utterly destroy them from the face of the earth, and their God will not rescue them;
 
 Decision rows:
 - None recorded.
@@ -6878,7 +6878,7 @@ Greek: κατακαύσομεν γὰρ αὐτοὺς ἐν αὐτοῖς, κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For we will burn them up among themselves, and their mountains will be made drunk with their blood, and their plains will be filled with their dead, and the track of their feet will not stand before our face, but by destruction they will be destroyed, says King Nebuchadnezzar, lord of all the earth; for he spoke, and the words of his sayings will not be made vain.
+Draft translation: For we will burn them up among themselves, and their mountains will be made drunk with their blood, and their plains will be filled with their dead, and the trace of their feet will not stand before our face, but by destruction they will be destroyed, says King Nebuchadnezzar, lord of all the earth; for he spoke, and the words of his sayings will not be made vain.
 
 Decision rows:
 - None recorded.
@@ -6998,7 +6998,7 @@ Greek: καὶ προσέταξεν Ὀλοφέρνης τοῖς δούλοις
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Holofernes commanded his slaves who were standing in his tent to seize Achior and restore him to Bethulia and hand him over into the hands of the sons of Israel.
+Draft translation: And Holofernes commanded his slaves who were standing in his tent to seize Achior and bring him back to Bethulia and hand him over into the hands of the sons of Israel.
 
 Decision rows:
 - None recorded.
@@ -7038,7 +7038,7 @@ Greek: καὶ ὡς εἶδαν αὐτοὺς οἱ ἄνδρες τῆς πό
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the men of the city saw them upon the top of the mountain, they took up their weapons and went outside the city upon the top of the mountain, and every slinger held their ascent and threw stones upon them.
+Draft translation: And when the men of the city saw them upon the top of the mountain, they took up their weapons and went outside the city upon the top of the mountain, and every slinger guarded their ascent and threw stones upon them.
 
 Decision rows:
 - None recorded.
@@ -7194,7 +7194,7 @@ Variant notes:
 
 ### Judith 6:20
 
-Greek: καὶ παρεκάλεσαν τὸν Ἀχιὼρ καὶ ἐπῃ£νεσαν αὐτὸν σφόδρα.
+Greek: καὶ παρεκάλεσαν τὸν Ἀχιὼρ καὶ ἐπῄνεσαν αὐτὸν σφόδρα.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
@@ -7240,7 +7240,7 @@ Greek: Τ… δ᾿ ἐπαύριον παρήγγειλεν Ὀλοφέρνης 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And on the next day Holofernes commanded all his army and all his people who had come for his alliance to break camp against Bethulia and to seize beforehand the ascents of the hill country and to make war against the sons of Israel.
+Draft translation: And on the next day Holofernes commanded all his army and all his people who had come as his allies to break camp against Bethulia and to seize beforehand the ascents of the hill country and to make war against the sons of Israel.
 
 Decision rows:
 - None recorded.
@@ -7400,7 +7400,7 @@ Greek: ἀκουσάτω δὴ λόγον ὁ δεσπότης ἡμῶν, ἵν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Let our master hear a word, so that there may not be a fracture in your force;
+Draft translation: Let our master hear a word, so that there may not be a break in your force;
 
 Decision rows:
 - None recorded.
@@ -7440,7 +7440,7 @@ Greek: καὶ νῦν, δέσποτα, μὴ πολέμει πρὸς αὐτο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now, master, do not war against them as battle-line war happens, and not one man from your people will fall.
+Draft translation: And now, master, do not wage war against them as battle-line war is made, and not one man from your people will fall.
 
 Decision rows:
 - None recorded.
@@ -7520,7 +7520,7 @@ Greek: καὶ ἀνταποδώσεις αὐτοῖς ἀνταπόδομα π
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And you will repay them an evil repayment, because they rebelled and did not meet your face in peace.
+Draft translation: And you will repay them an evil repayment, because they rebelled and did not meet you in peace.
 
 Decision rows:
 - None recorded.
@@ -7540,7 +7540,7 @@ Greek: καὶ ἤρεσαν οἱ λόγοι αὐτῶν ἐνώπιον Ὀλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And their words were pleasing before Holofernes and before all his attendants, and they commanded to do just as they spoke.
+Draft translation: And their words were pleasing before Holofernes and before all his attendants, and they commanded that it be done just as they spoke.
 
 Decision rows:
 - None recorded.
@@ -7660,7 +7660,7 @@ Greek: καὶ ἠθύμησαν τὰ νήπια αὐτῶν, καὶ αἱ γ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And their infants became faint, and their women and young men failed from thirst and fell in the streets of the city and in the passages of the gates, and there was no strengthening still in them.
+Draft translation: And their infants became faint, and their women and young men failed from thirst and fell in the streets of the city and in the passages of the gates, and there was no strength still in them.
 
 Decision rows:
 - None recorded.
@@ -7862,7 +7862,7 @@ Greek: ΚΑΙ ἤκουσεν ἐν ἐκείναις ταῖς ἡμέραις 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Judith heard in those days, daughter of Merari, son of Ox, son of Joseph, son of Oziel, son of Elkia, son of Eliou, son of Chelkias, son of Eliab, son of Nathanael, son of Salamiel, son of Sarasadai, son of Israel.
+Draft translation: And Judith, daughter of Merari, son of Ox, son of Joseph, son of Oziel, son of Elkia, son of Eliou, son of Chelkias, son of Eliab, son of Nathanael, son of Salamiel, son of Sarasadai, son of Israel, heard in those days.
 
 Decision rows:
 - None recorded.
@@ -8042,7 +8042,7 @@ Greek: καὶ ἀποστείλασα τὴν ἅβραν αὐτῆς τὴν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And sending her maid, who stood over all her possessions, she called Ozias and Chabris and Charmis, the elders of her city,
+Draft translation: And sending her maid, who was set over all her possessions, she called Ozias and Chabris and Charmis, the elders of her city,
 
 Decision rows:
 - None recorded.
@@ -8062,7 +8062,7 @@ Greek: καὶ ἦλθον πρὸς αὐτήν, καὶ εἶπε πρὸς α
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and they came to her, and she said to them, Hear me now, rulers of those dwelling in Bethulia, because your word is not straight, which you spoke before the people today, and you set the oath that you spoke between God and you, and said to hand over the city to our enemies if within those days the Lord does not return to help us.
+Draft translation: and they came to her, and she said to them, Hear me now, rulers of those dwelling in Bethulia, because your word is not right, which you spoke before the people today, and you set the oath that you spoke between God and you, and said to hand over the city to our enemies if within those days the Lord does not turn back to help us.
 
 Decision rows:
 - None recorded.
@@ -8082,7 +8082,7 @@ Greek: καὶ νῦν τίνες ἐστὲ ὑμεῖς, οἳ ἐπειράσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now who are you, who tested God on this day and stand over God in the midst of sons of men?
+Draft translation: And now who are you, who tested God on this day and set yourselves over God in the midst of sons of men?
 
 Decision rows:
 - None recorded.
@@ -8162,7 +8162,7 @@ Greek: ὑμεῖς δὲ μὴ ἐνεχυράζετε τὰς βουλὰς Κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But you, do not put the counsels of the Lord our God under pledge, because God is not as a man to be threatened, nor as a son of man to be arbitrated.
+Draft translation: But you, do not put the counsels of the Lord our God under pledge, because God is not as a man to be threatened, nor as a son of man to be brought to arbitration.
 
 Decision rows:
 - None recorded.
@@ -8262,7 +8262,7 @@ Greek: ὅτι ἐν τῷ ληφθῆναι ἡμᾶς οὕτως καθήσε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Because when we are taken, all Judea will sit this way, and our holy things will be plundered, and he will seek their profanation from our blood,
+Draft translation: Because when we are taken, all Judea will be set in this same condition, and our holy things will be plundered, and he will seek their profanation from our blood,
 
 Decision rows:
 - None recorded.
@@ -8302,7 +8302,7 @@ Greek: ὅτι οὐ κατευθυνθήσεται ἡ δουλεία ἡμῶ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Because our slavery will not be directed to favor, but the Lord our God will set it for dishonor.
+Draft translation: Because our slavery will not be turned toward favor, but the Lord our God will set it for dishonor.
 
 Decision rows:
 - None recorded.
@@ -8844,7 +8844,7 @@ Greek: καὶ ποίησον ἐπὶ πᾶν τὸ ἔθνος σου, καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And make upon all your nation and every tribe an acknowledgment to know that you are the God of all power and might, and there is no other shielding the race of Israel except you.
+Draft translation: And bring acknowledgment upon all your nation and every tribe, to know that you are the God of all power and might, and there is no other shielding the race of Israel except you.
 
 Decision rows:
 - None recorded.
@@ -8906,7 +8906,7 @@ Greek: καὶ περιείλατο τὸν σάκκον, ὃν ἐνεδεδύ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and she took off the sackcloth that she had put on and stripped off the garments of her widowhood and washed her body all around with water and anointed herself with thick perfume and arranged the hairs of her head and put a turban upon it and put on the garments of her gladness, with which she was adorned in the days of the life of her husband Manasseh,
+Draft translation: and she took off the sackcloth that she had put on and stripped off the garments of her widowhood and washed her body all around with water and anointed herself with thick perfume and arranged the hair of her head and put a turban upon it and put on the garments of her gladness, with which she was adorned in the days of the life of her husband Manasseh,
 
 Decision rows:
 - None recorded.
@@ -9006,7 +9006,7 @@ Greek: ὁ Θεὸς ὁ Θεὸς τῶν πατέρων ἡμῶν δῴη σ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: May the God, the God of our fathers, give you for favor and complete your undertakings for the boasting of the sons of Israel and the exaltation of Jerusalem. And she worshiped God
+Draft translation: May the God, the God of our fathers, give you favor and complete your undertakings for the boasting of the sons of Israel and the exaltation of Jerusalem. And she worshiped God
 
 Decision rows:
 - None recorded.
@@ -9186,7 +9186,7 @@ Greek: καὶ ἐπέλεξαν ἐξ αὐτῶν ἄνδρας ἑκατὸν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they selected from themselves one hundred men and yoked them alongside her and her maid, and they led them to the tent of Holofernes.
+Draft translation: And they selected from themselves one hundred men and assigned them to accompany her and her maid, and they led them to the tent of Holofernes.
 
 Decision rows:
 - None recorded.
@@ -9206,7 +9206,7 @@ Greek: καὶ ἐγένετο συνδρομὴ πάσῃ τῇ παρεμβο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And there was a running together in the whole camp, for her presence was shouted through the tents; and coming, they surrounded her as she stood outside the tent of Holofernes, until they reported to him concerning her.
+Draft translation: And there was a gathering in the whole camp, for her presence was shouted through the tents; and coming, they surrounded her as she stood outside the tent of Holofernes, until they reported to him concerning her.
 
 Decision rows:
 - None recorded.
@@ -9226,7 +9226,7 @@ Greek: καὶ ἐθαύμαζον ἐπὶ τῷ κάλλει αὐτῆς κα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they marveled at her beauty and marveled at the sons of Israel because of her, and each said to his neighbor, Who will despise this people, which has such women among itself? For it is not good to leave from them one man, who, if left, will be able to outwit all the earth.
+Draft translation: And they marveled at her beauty and marveled at the sons of Israel because of her, and each said to his neighbor, Who will despise this people, which has such women among them? For it is not good to leave from them one man; if any are left, they will be able to outwit all the earth.
 
 Decision rows:
 - None recorded.
@@ -9328,7 +9328,7 @@ Greek: ΚΑΙ εἶπε πρὸς αὐτὴν Ὀλοφέρνης· θάρση�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Holofernes said to her, Take courage, woman; do not fear in your heart, because I have not harmed a human who has chosen to serve King Nebuchadnezzar of all the earth.
+Draft translation: And Holofernes said to her, Take courage, woman; do not fear in your heart, because I have not harmed a person who has chosen to serve King Nebuchadnezzar of all the earth.
 
 Decision rows:
 - None recorded.
@@ -9528,7 +9528,7 @@ Greek: καὶ νῦν, ἵνα μὴ γένηται ὁ κύριός μου ἔ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now, so that my lord may not become cast out and without result, death will fall upon their face; and sin has overtaken them, by which they will provoke their God whenever they do an improper thing.
+Draft translation: And now, so that my lord may not become rejected and without result, death will fall upon their face; and sin has overtaken them, by which they will provoke their God whenever they do an improper thing.
 
 Decision rows:
 - None recorded.
@@ -9628,7 +9628,7 @@ Greek: ὅθεν ἐγὼ ἡ δούλη σου ἐπιγνοῦσα ταῦτα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore I, your slave woman, having learned all these things, fled from before their face, and God sent me to do things with you at which all the earth, as many as hear them, will be astonished.
+Draft translation: Therefore I, your slave woman, having learned all these things, fled from before their face, and God sent me to do deeds with you at which all the earth, as many as hear them, will be astonished.
 
 Decision rows:
 - None recorded.
@@ -9790,7 +9790,7 @@ Greek: ΚΑΙ ἐκέλευσεν εἰσαγαγεῖν αὐτὴν οὗ ἐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he commanded them to bring her in where his silver things were laid, and he ordered them to spread for her from his delicacies and to drink from his wine.
+Draft translation: And he commanded them to bring her in where his silverware was laid, and he ordered them to spread for her from his delicacies and to drink from his wine.
 
 Decision rows:
 - None recorded.
@@ -9970,7 +9970,7 @@ Greek: καὶ ἐγένετο ἐν τῇ ἡμέρᾳ τῇ τετάρτῃ, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it happened on the fourth day, Holofernes made a drinking feast for his slaves alone and did not call into the use any of those attending to needs.
+Draft translation: And it happened on the fourth day, Holofernes made a drinking feast for his slaves alone and did not call any of those attending to needs into service.
 
 Decision rows:
 - None recorded.
@@ -10030,7 +10030,7 @@ Greek: καὶ ἐξῆλθε Βαγώας ἀπὸ προσώπου Ὀλοφέ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Bagoas went out from before Holofernes and entered to her and said, Let this beautiful maidservant not hesitate now to come to my lord, to be glorified before his face and to drink wine with us for gladness and to become on this day as one daughter of the sons of Assur, who stand by in the house of Nebuchadnezzar.
+Draft translation: And Bagoas went out from before Holofernes and entered to her and said, Let this beautiful maidservant not hesitate now to come to my lord, to be glorified before his face and to drink wine with us for gladness and to become today like one daughter of the sons of Assur, who stand by in the house of Nebuchadnezzar.
 
 Decision rows:
 - None recorded.
@@ -10070,7 +10070,7 @@ Greek: καὶ διαναστᾶσα ἐκοσμήθη τῷ ἱματισμῷ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And having arisen, she adorned herself with clothing and with all womanly adornment, and her slave woman approached and spread out for her opposite Holofernes, on the ground, the fleeces that she had received from Bagoas for her daily way of life, for eating while reclining upon them.
+Draft translation: And having arisen, she adorned herself with clothing and with all womanly adornment, and her slave woman approached and spread out for her opposite Holofernes, on the ground, the fleeces that she had received from Bagoas for her daily use, for eating while reclining upon them.
 
 Decision rows:
 - None recorded.
@@ -10110,7 +10110,7 @@ Greek: καὶ εἶπε πρὸς αὐτὴν Ὀλοφέρνης· πίε δ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Holofernes said to her, Drink now, and become with us for gladness.
+Draft translation: And Holofernes said to her, Drink now, and be glad with us.
 
 Decision rows:
 - None recorded.
@@ -10392,7 +10392,7 @@ Greek: Καὶ εἶπεν Ἰουδὶθ μακρόθεν τοῖς φυλάσ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Judith said from afar to those guarding at the gates, Open, open now the gate; God is with us, our God, to do still strength in Israel and might against the enemies, just as he also did today.
+Draft translation: And Judith said from afar to those guarding at the gates, Open, open now the gate; God is with us, our God, to do strength still in Israel and might against the enemies, just as he also did today.
 
 Decision rows:
 - None recorded.
@@ -10532,7 +10532,7 @@ Greek: καὶ εἶπεν αὐτῇ Ὀζίας· εὐλογητὴ σύ, θ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Ozias said to her, Blessed are you, daughter, by God Most High beyond all the women upon the earth, and blessed is the Lord God, who created the heavens and the earth, who directed you toward the wound of the head of the ruler of our enemies;
+Draft translation: And Ozias said to her, Blessed are you, daughter, by God Most High beyond all the women upon the earth, and blessed is the Lord God, who created the heavens and the earth, who directed you toward the wounding of the head of the ruler of our enemies;
 
 Decision rows:
 - None recorded.
@@ -10674,7 +10674,7 @@ Greek: πρὸ δὲ τοῦ ποιῆσαι ταῦτα, καλέσατέ μο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But before doing these things, call Achior the Ammonite for me, so that seeing, he may recognize the one who treated lightly the house of Israel and sent him to us as for death.
+Draft translation: But before doing these things, call Achior the Ammonite for me, so that seeing, he may recognize the one who treated lightly the house of Israel and sent him to us as one for death.
 
 Decision rows:
 - None recorded.
@@ -10870,7 +10870,7 @@ Variant notes:
 
 ### Judith 14:15
 
-Greek: ὡς δὲ οὐδεὶς ἐπήκουσε, διαστείλας εἰσῆλθεν εἰς τὸν κοιτῶνα καὶ εὗρεν αὐτὸν ἐπὶ τῆς χελωνίδος ἐρριμμένον νεκρόν, καὶ ἡ κεφαλὴ αὐτοῦ ἀφῃ£ρετο ἀπ᾿ αὐτοῦ.
+Greek: ὡς δὲ οὐδεὶς ἐπήκουσε, διαστείλας εἰσῆλθεν εἰς τὸν κοιτῶνα καὶ εὗρεν αὐτὸν ἐπὶ τῆς χελωνίδος ἐρριμμένον νεκρόν, καὶ ἡ κεφαλὴ αὐτοῦ ἀφῄρετο ἀπ᾿ αὐτοῦ.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
@@ -10996,7 +10996,7 @@ Greek: καὶ ἐπέπεσεν ἐπ᾿ αὐτοὺς φόβος καὶ τρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and fear and trembling fell upon them, and there was no human remaining before the face of his neighbor any longer, but pouring out with one accord, they fled upon every road of the plain and the hill country;
+Draft translation: and fear and trembling fell upon them, and there was no person remaining before the face of his neighbor any longer, but pouring out with one accord, they fled upon every road of the plain and the hill country;
 
 Decision rows:
 - None recorded.
@@ -11036,7 +11036,7 @@ Greek: καὶ ἀπέστειλεν Ὀζίας εἰς Βαιτομασθαὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Ozias sent to Betomesthaim and Bebai and Chola and to every border of Israel those who would report concerning the things completed, and so that all should pour themselves upon the enemies for their destruction.
+Draft translation: And Ozias sent to Betomesthaim and Bebai and Chola and to every border of Israel those who would report concerning the things completed, and so that all should pour out upon the enemies for their destruction.
 
 Decision rows:
 - None recorded.
@@ -11156,7 +11156,7 @@ Greek: ἐποίησας πάντα ταῦτα ἐν χειρί σου, ἐπο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: you did all these things in your hand, you did good things with Israel, and God took pleasure in them; become blessed with the Almighty Lord for age-long time. And the people said, May it be.
+Draft translation: you did all these things by your hand, you did good things with Israel, and God took pleasure in them; become blessed with the Almighty Lord for age-long time. And the people said, May it be.
 
 Decision rows:
 - None recorded.
@@ -11176,7 +11176,7 @@ Greek: καὶ ἐλαφύρευσε πᾶς ὁ λαὸς τὴν παρεμβ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And all the people plundered the camp for thirty days; and they gave Judith the tent of Holofernes and all his silver things and beds and vessels and all his equipment. And taking them, she put them upon her mule and yoked her wagons and piled them upon them.
+Draft translation: And all the people plundered the camp for thirty days; and they gave Judith the tent of Holofernes and all his silverware and beds and vessels and all his equipment. And taking them, she put them upon her mule and yoked her wagons and piled them upon them.
 
 Decision rows:
 - None recorded.
@@ -11216,7 +11216,7 @@ Greek: καὶ ἐστεφανώσαντο τὴν ἐλαίαν, αὐτὴ κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they crowned themselves with olive, she and those with her, and she went before all the people in dance, leading all the women, and every man of Israel followed, armed, with crowns and hymns in their mouth.
+Draft translation: And they crowned themselves with olive, she and those with her, and she went before all the people in dance, leading all the women, and every man of Israel followed, armed, with crowns and hymns in their mouths.
 
 Decision rows:
 - None recorded.
@@ -11258,7 +11258,7 @@ Greek: ΚΑΙ εἶπεν Ἰουδίθ· Ἐξάρχετε τῷ Θεῷ μου
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Judith said, Begin for my God with tambourines; sing to my Lord with cymbals; fit to him a new psalm; exalt and call upon his name,
+Draft translation: And Judith said, Begin for my God with tambourines; sing to my Lord with cymbals; tune to him a new psalm; exalt and call upon his name,
 
 Decision rows:
 - None recorded.
@@ -11458,7 +11458,7 @@ Greek: τότε ἠλάλαξαν οἱ ταπεινοί μου, καὶ ἐφο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then my humbled ones shouted, and my weak ones gave a voice; but they were astonished. They lifted their voice, and they were overturned.
+Draft translation: Then my humbled ones shouted, and my weak ones feared and were terrified. They lifted their voice, and they were overturned.
 
 Decision rows:
 - None recorded.
@@ -11518,7 +11518,7 @@ Greek: σοὶ δουλευσάτω πᾶσα ἡ κτίσις σου· ὅτι 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Let all your creation serve you; because you spoke, and they came to be; you sent your spirit, and it built; and there is no one who will resist your voice.
+Draft translation: Let all your creation serve you; because you spoke, and they came to be; you sent your spirit, and it built them; and there is no one who will resist your voice.
 
 Decision rows:
 - None recorded.
@@ -11578,7 +11578,7 @@ Greek: οὐαὶ ἔθνεσιν ἐπανισταμένοις τῷ γένει
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Woe to nations rising up against my race. The Almighty Lord will take vengeance on them in the day of judgment, to give fire and worms into their flesh, and they will weep in sensation forever.
+Draft translation: Woe to nations rising up against my race. The Almighty Lord will take vengeance on them in the day of judgment, to give fire and worms into their flesh, and they will weep in pain forever.
 
 Decision rows:
 - None recorded.
@@ -11698,7 +11698,7 @@ Greek: καὶ ἦν προβαίνουσα μεγάλη σφόδρα καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And she was advancing very greatly and grew old in the house of her husband, one hundred five years; and she let her maid go free. And she died in Bethulia, and they buried her in the cave of her husband Manasseh,
+Draft translation: And she advanced very greatly in age and grew old in the house of her husband, one hundred five years; and she let her maid go free. And she died in Bethulia, and they buried her in the cave of her husband Manasseh,
 
 Decision rows:
 - None recorded.
@@ -11782,7 +11782,7 @@ Greek: ἄνθρωπος Ἰουδαῖος οἰκῶν ἐν Σούσοις τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: a Jewish human dwelling in Susa the city, a great human, serving in the court of the king.
+Draft translation: a Jewish man dwelling in Susa the city, a great man, serving in the court of the king.
 
 Decision rows:
 - None recorded.
@@ -11842,7 +11842,7 @@ Greek: καὶ ἰδοὺ δύο δράκοντες μεγάλοι ἕτοιμο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And behold, two great dragons came forth, both ready to wrestle, and their great voice came to be;
+Draft translation: And behold, two great dragons came forth, both ready to wrestle, and a great voice came from them;
 
 Decision rows:
 - None recorded.
@@ -11862,7 +11862,7 @@ Greek: καὶ τῇ φωνῇ αὐτῶν ἡτοιμάσθη πᾶν ἔθν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and at their voice every nation was prepared for war, so as to war against a nation of righteous ones.
+Draft translation: and at their voice every nation was prepared for war, to wage war against a nation of righteous ones.
 
 Decision rows:
 - None recorded.
@@ -11902,7 +11902,7 @@ Greek: καὶ ἐταράχθη πᾶν ἔθνος δίκαιον φοβούμ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and every righteous nation was troubled, fearing their own evils, and they were prepared to perish and cried out to God.
+Draft translation: and the whole righteous nation was troubled; they feared their own evils, were prepared to perish, and cried out to God.
 
 Decision rows:
 - None recorded.
@@ -11922,7 +11922,7 @@ Greek: ἀπὸ δὲ τῆς βοῆς αὐτῶν ἐγένετο ὡσανε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But from their cry there came to be, as from a small spring, a great river, much water;
+Draft translation: But from their cry there came, as from a small spring, a great river, much water;
 
 Decision rows:
 - None recorded.
@@ -11942,7 +11942,7 @@ Greek: καὶ φῶς καὶ ἥλιος ἀνέτειλε, καὶ οἱ τα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and light and sun rose, and the humble were exalted and devoured the glorious ones.
+Draft translation: and light rose, and the sun, and the humble were exalted and devoured the glorious ones.
 
 Decision rows:
 - None recorded.
@@ -11962,7 +11962,7 @@ Greek: καὶ διεγερθεὶς Μαρδοχαῖος ὁ ἑωρακὼς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Mordecai, having awakened, the one who had seen this dream and what God had planned to do, kept it in his heart and in every matter desired to understand it until the night.
+Draft translation: And Mordecai, having awakened, the one who had seen this dream and what God had planned to do, kept it in his heart and desired in every way to understand it until the night.
 
 Decision rows:
 - None recorded.
@@ -11982,7 +11982,7 @@ Greek: καὶ ἡσύχασε Μαρδοχαῖος ἐν τῇ αὐλῇ με
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Mordecai rested in the court with Gabatha and Thara, the two eunuchs of the king, those guarding the court,
+Draft translation: And Mordecai kept quiet in the court with Gabatha and Thara, the two eunuchs of the king, those guarding the court,
 
 Decision rows:
 - None recorded.
@@ -12002,7 +12002,7 @@ Greek: ἤκουσέ τε αὐτῶν τοὺς λογισμοὺς καὶ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and he heard their thoughts and searched out their anxieties and learned that they were preparing their hands to lay upon King Artaxerxes, and he disclosed concerning them to the king.
+Draft translation: and he heard their thoughts and searched out their anxieties and learned that they were preparing to lay hands upon King Artaxerxes, and he reported them to the king.
 
 Decision rows:
 - None recorded.
@@ -12062,7 +12062,7 @@ Greek: καὶ ἐπέταξεν ὁ βασιλεὺς Μαρδοχαίῳ θε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the king ordered Mordecai to serve in the court and gave him gifts concerning these things.
+Draft translation: And the king ordered Mordecai to serve in the court and gave him gifts because of these things.
 
 Decision rows:
 - None recorded.
@@ -12082,7 +12082,7 @@ Greek: καὶ ἦν Ἀμὰν Ἀμαδάθου Βουγαῖος ἔνδοξ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Haman son of Hamadathos, the Bougaian, was glorious before the king; and he sought to do evil to Mordecai and his people because of the two eunuchs of the king.
+Draft translation: And Haman son of Hamadathos, the Bougaian, was honored before the king; and he sought to do evil to Mordecai and his people on account of the two eunuchs of the king.
 
 Decision rows:
 - None recorded.
@@ -12624,7 +12624,7 @@ Greek: καὶ ἄνθρωπος ἦν Ἰουδαῖος ἐν Σούσοις �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And there was a Jewish human in Susa the city, and his name was Mordecai son of Jairus, son of Semeios, son of Kisaios, from the tribe of Benjamin,
+Draft translation: And there was a Jewish man in Susa the city, and his name was Mordecai son of Jairus, son of Semeios, son of Kisaios, from the tribe of Benjamin,
 
 Decision rows:
 - None recorded.
@@ -13106,7 +13106,7 @@ Greek: καὶ ἐβουλεύσατο ἀφανίσαι πάντας τοὺς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and he took counsel to make vanish all the Jews under the kingdom of Artaxerxes.
+Draft translation: and he took counsel to destroy all the Jews under the kingdom of Artaxerxes.
 
 Decision rows:
 - None recorded.
@@ -13246,7 +13246,7 @@ Greek: καὶ ἀπεστάλη διὰ βιβλιοφόρων εἰς τὴν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it was sent through letter-carriers into the kingdom of Artaxerxes to make vanish the race of the Jews in one day of the twelfth month, which is Adar, and to plunder their possessions.
+Draft translation: And it was sent through letter-carriers into the kingdom of Artaxerxes to destroy the race of the Jews in one day of the twelfth month, which is Adar, and to plunder their possessions.
 
 Decision rows:
 - None recorded.
@@ -13286,7 +13286,7 @@ Greek: πολλῶν ἐπάρξας ἐθνῶν καὶ πάσης ἐπικρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Having ruled over many nations and become master of the whole inhabited world, I wished, not being lifted up by the boldness of authority, but always conducting things more moderately and with gentleness, to establish the lives of those subject to me as untroubled through all time, and to provide a kingdom gentle and open to travel as far as the borders, and to renew the peace longed for by all humans.
+Draft translation: Having ruled over many nations and become master of the whole inhabited world, I wished, not being lifted up by the boldness of authority, but always conducting things more moderately and with gentleness, to establish the lives of those subject to me as untroubled through all time, and to provide a kingdom gentle and open to travel as far as the borders, and to renew the peace longed for by all people.
 
 Decision rows:
 - None recorded.
@@ -13306,7 +13306,7 @@ Greek: πυθομένου δέ μου τῶν συμβούλων, πῶς ἂν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But when I inquired of the counselors how this might be brought to completion, Haman, who has surpassed among us in sound-mindedness and has been demonstrated in unchanging goodwill and firm faith, and who has received the second honor of the kingdoms,
+Draft translation: But when I inquired of the counselors how this might be brought to completion, Haman, who has surpassed among us in prudence and has been proved in unchanging goodwill and firm faith, and who has received the second honor of the kingdoms,
 
 Decision rows:
 - None recorded.
@@ -13326,7 +13326,7 @@ Greek: ἐπέδειξεν ἡμῖν ἐν πάσαις ταῖς κατὰ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: showed us that among all the tribes throughout the inhabited world a certain hostile people has been mixed in, opposed in laws to every nation and continually disregarding the ordinances of kings, so that the government directed blamelessly by us is not established.
+Draft translation: showed us that among all the tribes throughout the inhabited world a certain hostile people has been mixed in, opposed by its laws to every nation and continually disregarding the ordinances of kings, so that the government directed blamelessly by us is not established.
 
 Decision rows:
 - None recorded.
@@ -13346,7 +13346,7 @@ Greek: διειληφότες οὖν τόδε τὸ ἔθνος μονώτατ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore, having understood that this nation alone is set in opposition to every human through all time, changing by a strange way of laws and ill-minded toward our affairs, accomplishing the worst evils, and preventing the kingdom from obtaining stability,
+Draft translation: Therefore, having understood that this nation alone is set in opposition to everyone through all time, strangely altering its way of laws and being hostile in mind toward our affairs, accomplishing the worst evils, and preventing the kingdom from obtaining stability,
 
 Decision rows:
 - None recorded.
@@ -13386,7 +13386,7 @@ Greek: ὅπως οἱ πάλαι καὶ νῦν δυσμενεῖς ἐν ἡ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: so that those long ago and now hostile, having violently gone down to Hades in one day, may for the time afterward provide our affairs stable and undisturbed through to the end.
+Draft translation: so that those long ago and now hostile, having violently gone down to Hades in one day, may provide us stable and undisturbed affairs for the time afterward, through to the end.
 
 Decision rows:
 - None recorded.
@@ -13628,7 +13628,7 @@ Greek: ὅτι τὰ ἔθνη πάντα τῆς βασιλείας γινώσ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: All the nations of the kingdom know that every human or woman who enters to the king into the inner court uncalled, there is no salvation for that one, except to whom the king stretches out the golden rod; this one will be saved. And I have not been called to enter to the king these thirty days.
+Draft translation: All the nations of the kingdom know that every man or woman who enters to the king into the inner court uncalled has no salvation, except the one to whom the king stretches out the golden rod; that one will be saved. And I have not been called to enter to the king these thirty days.
 
 Decision rows:
 - None recorded.
@@ -13744,11 +13744,491 @@ Variant notes:
 
 ### Greek Esther 4:17
 
-Greek: Καὶ βαδίσας Μαρδοχαῖος ἐποίησεν ὅσα ἐνετείλατο αὐτῷ Ἐσθήρ. 17α καὶ ἐδεήθη Κυρίου μνημονεύων πάντα τὰ ἔργα Κυρίου καὶ εἶπε· 17β Κύριε Κύριε, βασιλεῦ πάντων κρατῶν, ὅτι ἐν ἐξουσίᾳ σου τὸ πᾶν ἐστι, καὶ οὐκ ἔστιν ὁ ἀντιδοξῶν σοι ἐν τῷ θέλειν σε σῶσαι τὸν Ἰσραήλ· 17γ ὅτι σὺ ἐποίησας τὸν οὐρανὸν καὶ τὴν γῆν καὶ πᾶν θαυμαζόμενον ἐν τῇ ὑπ᾿ οὐρανὸν καὶ Κύριος εἶ πάντων, καὶ οὐκ ἔστιν ὃς ἀντιτάξεταί σοι τῷ Κυρίῳ. 17δ σὺ πάντα γινώσκεις· σὺ οἶδας, Κύριε, ὅτι οὐκ ἐν ὕβρει οὐδὲ ἐν ὑπερηφανίᾳ οὐδὲ ἐν φιλοδοξίᾳ ἐποίησα τοῦτο, τὸ μὴ προσκυνεῖν τὸν ὑπερήφανον Ἀμάν, ὅτι ηὐδόκουν φιλεῖν πέλματα ποδῶν αὐτοῦ πρὸς σωτηρίαν Ἰσραήλ· 17ε ἀλλ᾿ ἐποίησα τοῦτο, ἵνα μὴ θῶ δόξαν ἀνθρώπου ὑπεράνω δόξης Θεοῦ, καὶ οὐ προσκυνήσω οὐδένα, πλὴν σοῦ τοῦ Κυρίου μου καὶ οὐ ποιήσω αὐτὰ ἐν ὑπερηφανίᾳ. 17ζ καὶ νῦν, Κύριε ὁ Θεός, ὁ βασιλεύς, ὁ Θεὸς Ἁβραάμ, φεῖσαι τοῦ λαοῦ σου, ὅτι ἐπιβλέπουσιν ἡμῖν εἰς καταφθορὰν καὶ ἐπεθύμησαν ἀπολέσαι τὴν ἐξ ἀρχῆς κληρονομίαν σου· 17η μὴ ὑπερίδῃς τὴν μερίδα σου, ἣν σεαυτῷ ἐλυτρώσω ἐκ γῆς Αἰγύπτου· 17θ ἐπάκουσον τῆς δεήσεώς μου καὶ ἱλάσθητι τῷ κλήρῳ σου καὶ στρέψον τὸ πένθος ἡμῶν εἰς εὐωχίαν, ἵνα ζῶντες ὑμνῶμέν σου τὸ ὄνομα, Κύριε, καὶ μὴ ἀφανίσῃς στόμα αἰνούντων σε, Κύριε. 17ι καὶ πᾶς Ἰσραὴλ ἐκέκραξεν ἐξ ἰσχύος αὐτῶν, ὅτι θάνατος αὐτῶν ἐν ὀφθαλμοῖς αὐτῶν. 17κ Καὶ Ἐσθὴρ ἡ βασίλισσα κατέφυγεν ἐπὶ τὸν Κύριον ἐν ἀγῶνι θανάτου κατειλημμένη, καὶ ἀφελομένη τὰ ἱμάτια τῆς δόξης αὐτῆς ἐνεδύσατο ἱμάτια στενοχωρίας καὶ πένθους, καὶ ἀντὶ τῶν ὑπερηφάνων ἡδυσμάτων, σποδοῦ καὶ κοπριῶν ἐνέπλησε τὴν κεφαλὴν αὐτῆς καὶ τὸ σῶμα αὐτῆς ἐταπείνωσε σφόδρα καὶ πάντα τόπον κόσμου ἀγαλλιάματος αὐτῆς ἔπλησε στρεπτῶν τριχῶν αὐτῆς καὶ ἐδεῖτο Κυρίου Θεοῦ Ἰσραήλ, καὶ εἶπε· 17λ Κύριέ μου, βασιλεὺς ἡμῶν σὺ εἶ μόνος· βοήθησόν μοι τῇ μόνῃ καὶ μὴ ἐχούσῃ βοηθὸν εἰ μὴ σέ, ὅτι κίνδυνός μου ἐν χειρί μου. 17μ ἐγὼ ἤκουον ἐκ γενετῆς μου ἐν φυλῇ πατριᾶς μου ὅτι σύ, Κύριε, ἔλαβες τὸν Ἰσραὴλ ἐκ πάντων τῶν ἐθνῶν καὶ τοὺς πατέρας ἡμῶν ἐκ πάντων τῶν προγόνων αὐτῶν εἰς κληρονομίαν αἰώνιον καὶ ἐποίησας αὐτοῖς ὅσα ἐλάλησας. 17ν καὶ νῦν ἡμάρτομεν ἐνώπιόν σου, καὶ παρέδωκας ἡμᾶς εἰς χεῖρας τῶν ἐχθρῶν ἡμῶν, ἀνθ᾿ ὧν ἐδοξάσαμεν τοὺς θεοὺς αὐτῶν· δίκαιος εἶ, Κύριε. 17ξ καὶ νῦν οὐκ ἱκανώθησαν ἐν πικρασμῷ δουλείας ἡμῶν, ἀλλ᾿ ἔθηκαν τὰς χεῖρας αὐτῶν ἐπὶ τὰς χεῖρας τῶν εἰδώλων αὐτῶν ἐξάραι ὁρισμὸν στόματός σου καὶ ἀφανίσαι κληρονομίαν σου καὶ ἐμφράξαι στόμα αἰνούντων σοι καὶ σβέσαι δόξαν οἴκου σου καὶ θυσιαστηρίου σου, 17ο καὶ ἀνοῖξαι στόμα ἐθνῶν εἰς ἀρετὰς ματαίων καὶ θαυμασθῆναι βασιλέα σάρκινον εἰς αἰῶνα. 17π μὴ παραδῷς, Κύριε, τὸ σκῆπτρόν σου τοῖς μὴ οὖσι, καὶ μὴ καταγελασάτωσαν ἐν τῇ πτώσει ἡμῶν, ἀλλὰ στρέψον τὴν βουλὴν αὐτῶν ἐπ᾿ αὐτούς, τὸν δὲ ἀρξάμενον ἐφ᾿ ἡμᾶς παραδειγμάτισον. 17ρ μνήσθητι, Κύριε, γνώσθητι ἐν καιρῷ θλίψεως ἡμῶν καὶ ἐμὲ θάρσυνον, βασιλεῦ τῶν θεῶν καὶ πάσης ἀρχῆς ἐπικρατῶν· 17σ δὸς λόγον εὔρυθμον εἰς τὸ στόμα μου ἐνώπιον τοῦ λέοντος καὶ μετάθες τὴν καρδίαν αὐτοῦ εἰς μῖσος τοῦ πολεμοῦντος ἡμᾶς εἰς συντέλειαν αὐτοῦ καὶ τῶν ὁμονούντων αὐτῶ· 17τ ἡμᾶς δὲ ρῦσαι ἐν χειρί σου καὶ βοήθησόν μοι τῇ μόνῃ καὶ μὴ ἐχούσῃ εἰς μὴ σέ, Κύριε· 17υ πάντων γνῶσιν ἔχεις καὶ οἶδας ὅτι ἐμίσησα δόξαν ἀνόμων καὶ βδελύσσομαι κοίτην ἀπεριτμήτων καὶ παντὸς ἀλλοτρίου. 17φ σὺ οἶδας τὴν ἀνάγκην μου, ὅτι βδελύσσομαι τὸ σημεῖον τῆς ὑπερηφανίας μου, ὅ ἐστιν ἐπὶ τῆς κεφαλῆς μου ἐν ἡμέραις ὀπτασίας μου· βδελύσσομαι αὐτὸ ὡς ράκος καταμηνίων καὶ οὐ φορῶ αὐτὸ ἐν ἡμέραις ἡσυχίας μου. 17χ καὶ οὐκ ἔφαγεν ἡ δούλη σου τράπεζαν Ἀμὰν καὶ οὐκ ἐδόξασα συμπόσιον βασιλέως, οὐδὲ ἔπιον οἶνον σπονδῶν· 17ψ καὶ οὐκ ηὐφράνθη ἡ δούλη σου ἀφ᾿ ἡμέρας μεταβολῆς μου μέχρι νῦν, πλὴν ἐπὶ σοί, Κύριε, ὁ Θεὸς Ἁβραάμ. 17ω ὁ Θεὸς ὁ ἰσχύων ἐπὶ πάντας, εἰσάκουσον φωνὴν ἀπηλπισμένων καὶ ρῦσαι ἡμᾶς ἐκ χειρὸς τῶν πονηρευομένων, καὶ ρῦσαί με ἐκ τοῦ φόβου μου.
+Greek: Καὶ βαδίσας Μαρδοχαῖος ἐποίησεν ὅσα ἐνετείλατο αὐτῷ Ἐσθήρ.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Mordecai went and did whatever Esther commanded him. [17α] And he entreated the Lord, remembering all the works of the Lord, and said, [17β] Lord, Lord, King ruling all, because the whole is in your authority, and there is no one opposing you when you wish to save Israel; [17γ] because you made heaven and earth and every wondered-at thing under heaven, and you are Lord of all, and there is no one who will oppose you, the Lord. [17δ] You know all things; you know, Lord, that not in insolence nor in pride nor in love of glory did I do this, not worshiping arrogant Haman, because I would have been pleased to kiss the soles of his feet for the salvation of Israel; [17ε] but I did this so that I might not place the glory of a human above the glory of God, and I will worship no one except you, my Lord, and I will not do these things in pride. [17ζ] And now, Lord God, King, God of Abraham, spare your people, because they look upon us for destruction and have desired to destroy your inheritance from the beginning; [17η] do not overlook your portion, which you redeemed for yourself from the land of Egypt; [17θ] hear my petition and be propitious to your lot, and turn our mourning into feasting, so that while living we may hymn your name, Lord; and do not make vanish the mouth of those praising you, Lord. [17ι] And all Israel cried out from their strength, because their death was in their eyes. [17κ] And Esther the queen fled for refuge to the Lord, being seized in a struggle of death, and taking off the garments of her glory she put on garments of constraint and mourning; and instead of proud sweet spices, she filled her head with ashes and dung, and humbled her body exceedingly, and every place of adornment of her gladness she filled with the twists of her hair; and she entreated the Lord God of Israel and said, [17λ] My Lord, you alone are our king; help me, the lone one and having no helper except you, because my danger is in my hand. [17μ] I heard from my birth in the tribe of my family that you, Lord, took Israel from all the nations and our fathers from all their ancestors for an eternal inheritance, and did for them all that you spoke. [17ν] And now we sinned before you, and you handed us into the hands of our enemies, because we glorified their gods. You are righteous, Lord. [17ξ] And now they were not satisfied with the bitterness of our slavery, but they set their hands upon the hands of their idols to remove the decree of your mouth and to make vanish your inheritance and to stop up the mouth of those praising you and to extinguish the glory of your house and your altar, [17ο] and to open the mouth of nations for the praises of worthless things and for a fleshly king to be admired forever. [17π] Do not hand over your scepter, Lord, to those who are not, and let them not laugh at our fall, but turn their counsel upon themselves, and make an example of the one who began against us. [17ρ] Remember, Lord; be made known in the time of our affliction, and embolden me, King of the gods and master of every rule. [17σ] Give ordered speech into my mouth before the lion, and change his heart to hatred of the one warring against us, for his ending and the ending of those agreeing with him. [17τ] But rescue us by your hand and help me, the lone one and having none except you, Lord. [17υ] You have knowledge of all things, and you know that I hated the glory of lawless ones and abhor the bed of uncircumcised ones and of every foreigner. [17φ] You know my necessity, because I abhor the sign of my pride, which is upon my head in the days of my appearing; I abhor it like a menstruation rag, and I do not wear it in the days of my quiet. [17χ] And your slave woman has not eaten the table of Haman, and I did not glorify the banquet of the king, nor did I drink wine of libations; [17ψ] and your slave woman has not rejoiced from the day of my change until now, except in you, Lord, God of Abraham. [17ω] O God, the one strong over all, listen to the voice of those without hope and rescue us from the hand of those doing evil, and rescue me from my fear.
+Draft translation: And Mordecai went and did whatever Esther commanded him.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17α
+
+Greek: καὶ ἐδεήθη Κυρίου μνημονεύων πάντα τὰ ἔργα Κυρίου καὶ εἶπε·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And he entreated the Lord, remembering all the works of the Lord, and said,
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17β
+
+Greek: Κύριε Κύριε, βασιλεῦ πάντων κρατῶν, ὅτι ἐν ἐξουσίᾳ σου τὸ πᾶν ἐστι, καὶ οὐκ ἔστιν ὁ ἀντιδοξῶν σοι ἐν τῷ θέλειν σε σῶσαι τὸν Ἰσραήλ·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: Lord, Lord, King ruling all, because the whole is in your authority, and there is no one opposing you when you wish to save Israel;
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17γ
+
+Greek: ὅτι σὺ ἐποίησας τὸν οὐρανὸν καὶ τὴν γῆν καὶ πᾶν θαυμαζόμενον ἐν τῇ ὑπ᾿ οὐρανὸν καὶ Κύριος εἶ πάντων, καὶ οὐκ ἔστιν ὃς ἀντιτάξεταί σοι τῷ Κυρίῳ.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: because you made heaven and earth and every wondered-at thing under heaven, and you are Lord of all, and there is no one who will oppose you, the Lord.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17δ
+
+Greek: σὺ πάντα γινώσκεις· σὺ οἶδας, Κύριε, ὅτι οὐκ ἐν ὕβρει οὐδὲ ἐν ὑπερηφανίᾳ οὐδὲ ἐν φιλοδοξίᾳ ἐποίησα τοῦτο, τὸ μὴ προσκυνεῖν τὸν ὑπερήφανον Ἀμάν, ὅτι ηὐδόκουν φιλεῖν πέλματα ποδῶν αὐτοῦ πρὸς σωτηρίαν Ἰσραήλ·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: You know all things; you know, Lord, that not in insolence nor in pride nor in love of glory did I do this, not worshiping arrogant Haman, because I would have been pleased to kiss the soles of his feet for the salvation of Israel;
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17ε
+
+Greek: ἀλλ᾿ ἐποίησα τοῦτο, ἵνα μὴ θῶ δόξαν ἀνθρώπου ὑπεράνω δόξης Θεοῦ, καὶ οὐ προσκυνήσω οὐδένα, πλὴν σοῦ τοῦ Κυρίου μου καὶ οὐ ποιήσω αὐτὰ ἐν ὑπερηφανίᾳ.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: but I did this so that I might not place the glory of a human above the glory of God, and I will worship no one except you, my Lord, and I will not do these things in pride.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17ζ
+
+Greek: καὶ νῦν, Κύριε ὁ Θεός, ὁ βασιλεύς, ὁ Θεὸς Ἁβραάμ, φεῖσαι τοῦ λαοῦ σου, ὅτι ἐπιβλέπουσιν ἡμῖν εἰς καταφθορὰν καὶ ἐπεθύμησαν ἀπολέσαι τὴν ἐξ ἀρχῆς κληρονομίαν σου·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And now, Lord God, King, God of Abraham, spare your people, because they look upon us for destruction and have desired to destroy your inheritance from the beginning;
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17η
+
+Greek: μὴ ὑπερίδῃς τὴν μερίδα σου, ἣν σεαυτῷ ἐλυτρώσω ἐκ γῆς Αἰγύπτου·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: do not overlook your portion, which you redeemed for yourself from the land of Egypt;
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17θ
+
+Greek: ἐπάκουσον τῆς δεήσεώς μου καὶ ἱλάσθητι τῷ κλήρῳ σου καὶ στρέψον τὸ πένθος ἡμῶν εἰς εὐωχίαν, ἵνα ζῶντες ὑμνῶμέν σου τὸ ὄνομα, Κύριε, καὶ μὴ ἀφανίσῃς στόμα αἰνούντων σε, Κύριε.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: hear my petition and be propitious to your lot, and turn our mourning into feasting, so that while living we may hymn your name, Lord; and do not silence the mouth of those praising you, Lord.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17ι
+
+Greek: καὶ πᾶς Ἰσραὴλ ἐκέκραξεν ἐξ ἰσχύος αὐτῶν, ὅτι θάνατος αὐτῶν ἐν ὀφθαλμοῖς αὐτῶν.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And all Israel cried out from their strength, because their death was in their eyes.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17κ
+
+Greek: Καὶ Ἐσθὴρ ἡ βασίλισσα κατέφυγεν ἐπὶ τὸν Κύριον ἐν ἀγῶνι θανάτου κατειλημμένη, καὶ ἀφελομένη τὰ ἱμάτια τῆς δόξης αὐτῆς ἐνεδύσατο ἱμάτια στενοχωρίας καὶ πένθους, καὶ ἀντὶ τῶν ὑπερηφάνων ἡδυσμάτων, σποδοῦ καὶ κοπριῶν ἐνέπλησε τὴν κεφαλὴν αὐτῆς καὶ τὸ σῶμα αὐτῆς ἐταπείνωσε σφόδρα καὶ πάντα τόπον κόσμου ἀγαλλιάματος αὐτῆς ἔπλησε στρεπτῶν τριχῶν αὐτῆς καὶ ἐδεῖτο Κυρίου Θεοῦ Ἰσραήλ, καὶ εἶπε·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And Esther the queen fled for refuge to the Lord, being seized in a struggle of death, and taking off the garments of her glory she put on garments of constraint and mourning; and instead of proud sweet spices, she filled her head with ashes and dung, and humbled her body exceedingly, and every place of adornment of her gladness she filled with the twists of her hair; and she entreated the Lord God of Israel and said,
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17λ
+
+Greek: Κύριέ μου, βασιλεὺς ἡμῶν σὺ εἶ μόνος· βοήθησόν μοι τῇ μόνῃ καὶ μὴ ἐχούσῃ βοηθὸν εἰ μὴ σέ, ὅτι κίνδυνός μου ἐν χειρί μου.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: My Lord, you alone are our king; help me, the lone one and having no helper except you, because my danger is in my hand.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17μ
+
+Greek: ἐγὼ ἤκουον ἐκ γενετῆς μου ἐν φυλῇ πατριᾶς μου ὅτι σύ, Κύριε, ἔλαβες τὸν Ἰσραὴλ ἐκ πάντων τῶν ἐθνῶν καὶ τοὺς πατέρας ἡμῶν ἐκ πάντων τῶν προγόνων αὐτῶν εἰς κληρονομίαν αἰώνιον καὶ ἐποίησας αὐτοῖς ὅσα ἐλάλησας.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: I heard from my birth in the tribe of my family that you, Lord, took Israel from all the nations and our fathers from all their ancestors for an eternal inheritance, and did for them all that you spoke.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17ν
+
+Greek: καὶ νῦν ἡμάρτομεν ἐνώπιόν σου, καὶ παρέδωκας ἡμᾶς εἰς χεῖρας τῶν ἐχθρῶν ἡμῶν, ἀνθ᾿ ὧν ἐδοξάσαμεν τοὺς θεοὺς αὐτῶν· δίκαιος εἶ, Κύριε.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And now we sinned before you, and you handed us into the hands of our enemies, because we glorified their gods. You are righteous, Lord.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17ξ
+
+Greek: καὶ νῦν οὐκ ἱκανώθησαν ἐν πικρασμῷ δουλείας ἡμῶν, ἀλλ᾿ ἔθηκαν τὰς χεῖρας αὐτῶν ἐπὶ τὰς χεῖρας τῶν εἰδώλων αὐτῶν ἐξάραι ὁρισμὸν στόματός σου καὶ ἀφανίσαι κληρονομίαν σου καὶ ἐμφράξαι στόμα αἰνούντων σοι καὶ σβέσαι δόξαν οἴκου σου καὶ θυσιαστηρίου σου,
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And now they were not satisfied with the bitterness of our slavery, but they set their hands upon the hands of their idols to remove the decree of your mouth and to destroy your inheritance and to stop up the mouth of those praising you and to extinguish the glory of your house and your altar,
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17ο
+
+Greek: καὶ ἀνοῖξαι στόμα ἐθνῶν εἰς ἀρετὰς ματαίων καὶ θαυμασθῆναι βασιλέα σάρκινον εἰς αἰῶνα.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: and to open the mouth of nations for the praises of worthless things and for a fleshly king to be admired forever.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17π
+
+Greek: μὴ παραδῷς, Κύριε, τὸ σκῆπτρόν σου τοῖς μὴ οὖσι, καὶ μὴ καταγελασάτωσαν ἐν τῇ πτώσει ἡμῶν, ἀλλὰ στρέψον τὴν βουλὴν αὐτῶν ἐπ᾿ αὐτούς, τὸν δὲ ἀρξάμενον ἐφ᾿ ἡμᾶς παραδειγμάτισον.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: Do not hand over your scepter, Lord, to those who are not, and let them not laugh at our fall, but turn their counsel upon themselves, and make an example of the one who began against us.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17ρ
+
+Greek: μνήσθητι, Κύριε, γνώσθητι ἐν καιρῷ θλίψεως ἡμῶν καὶ ἐμὲ θάρσυνον, βασιλεῦ τῶν θεῶν καὶ πάσης ἀρχῆς ἐπικρατῶν·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: Remember, Lord; be made known in the time of our affliction, and embolden me, King of the gods and master of every rule.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17σ
+
+Greek: δὸς λόγον εὔρυθμον εἰς τὸ στόμα μου ἐνώπιον τοῦ λέοντος καὶ μετάθες τὴν καρδίαν αὐτοῦ εἰς μῖσος τοῦ πολεμοῦντος ἡμᾶς εἰς συντέλειαν αὐτοῦ καὶ τῶν ὁμονούντων αὐτῶ·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: Give ordered speech into my mouth before the lion, and change his heart to hatred of the one warring against us, for his ending and the ending of those agreeing with him.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17τ
+
+Greek: ἡμᾶς δὲ ρῦσαι ἐν χειρί σου καὶ βοήθησόν μοι τῇ μόνῃ καὶ μὴ ἐχούσῃ εἰς μὴ σέ, Κύριε·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: But rescue us by your hand and help me, the lone one and having none except you, Lord.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17υ
+
+Greek: πάντων γνῶσιν ἔχεις καὶ οἶδας ὅτι ἐμίσησα δόξαν ἀνόμων καὶ βδελύσσομαι κοίτην ἀπεριτμήτων καὶ παντὸς ἀλλοτρίου.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: You have knowledge of all things, and you know that I hated the glory of lawless ones and abhor the bed of uncircumcised ones and of every foreigner.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17φ
+
+Greek: σὺ οἶδας τὴν ἀνάγκην μου, ὅτι βδελύσσομαι τὸ σημεῖον τῆς ὑπερηφανίας μου, ὅ ἐστιν ἐπὶ τῆς κεφαλῆς μου ἐν ἡμέραις ὀπτασίας μου· βδελύσσομαι αὐτὸ ὡς ράκος καταμηνίων καὶ οὐ φορῶ αὐτὸ ἐν ἡμέραις ἡσυχίας μου.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: You know my necessity, because I abhor the sign of my pride, which is upon my head in the days of my appearing; I abhor it like a menstruation rag, and I do not wear it in the days of my quiet.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17χ
+
+Greek: καὶ οὐκ ἔφαγεν ἡ δούλη σου τράπεζαν Ἀμὰν καὶ οὐκ ἐδόξασα συμπόσιον βασιλέως, οὐδὲ ἔπιον οἶνον σπονδῶν·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And your slave woman has not eaten the table of Haman, and I did not glorify the banquet of the king, nor did I drink wine of libations;
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17ψ
+
+Greek: καὶ οὐκ ηὐφράνθη ἡ δούλη σου ἀφ᾿ ἡμέρας μεταβολῆς μου μέχρι νῦν, πλὴν ἐπὶ σοί, Κύριε, ὁ Θεὸς Ἁβραάμ.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: and your slave woman has not rejoiced from the day of my change until now, except in you, Lord, God of Abraham.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 4:17ω
+
+Greek: ὁ Θεὸς ὁ ἰσχύων ἐπὶ πάντας, εἰσάκουσον φωνὴν ἀπηλπισμένων καὶ ρῦσαι ἡμᾶς ἐκ χειρὸς τῶν πονηρευομένων, καὶ ρῦσαί με ἐκ τοῦ φόβου μου.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: O God, the one strong over all, listen to the voice of those without hope and rescue us from the hand of those doing evil, and rescue me from my fear.
 
 Decision rows:
 - None recorded.
@@ -13766,11 +14246,131 @@ Variant notes:
 
 ### Greek Esther 5:1
 
-Greek: ΚΑΙ ἐγενήθη ἐν τῇ ἡμέρᾳ τῇ τρίτῃ, ὡς ἐπαύσατο προσευχομένη, ἐξεδύσατο τὰ ἱμάτια τῆς θεραπείας καὶ περιεβάλετο τὴν δόξαν αὐτῆς. 1α καὶ γενηθεῖσα ἐπιφανής, ἐπικαλεσαμένη τῶν πάντων ἐπόπτην Θεὸν καὶ σωτῆρα, παρέλαβε τὰς δύο ἅβρας· καὶ τῇ μὲν μιᾷ ἐπηρείδετο ὡς τρυφερευομένη, ἡ δὲ ἑτέρα ἐπηκολούθει κουφίζουσα τὴν ἔνδυσιν αὐτῆς, 1β καὶ αὐτὴ ἐρυθριῶσα ἀκμῇ κάλλους αὐτῆς, καὶ τὸ πρόσωπον αὐτῆς ἱλαρὸν ὡς προσφιλές, ἡ δὲ καρδία αὐτῆς ἀπεστενωμένη ἀπὸ τοῦ φόβου. 1γ καὶ εἰσελθοῦσα πάσας τὰς θύρας κατέστη ἐνώπιον τοῦ βασιλέως, καὶ αὐτὸς ἐκάθητο ἐπὶ τοῦ θρόνου τῆς βασιλείας αὐτοῦ καὶ πᾶσαν στολὴν τῆς ἐπιφανείας αὐτοῦ ἐνδεδύκει, ὅλος διὰ χρυσοῦ καὶ λίθων πολυτελῶν, καὶ ἦν φοβερὸς σφόδρα. 1δ καὶ ἄρας τὸ πρόσωπον αὐτοῦ πεπυρωμένον δόξῃ ἐν ἀκμῇ θυμοῦ ἔβλεψε, καὶ ἔπεσεν ἡ βασίλισσα καὶ μετέβαλε τὸ χρῶμα αὐτῆς ἐν ἐκλύσει καὶ κατεπέκυψεν ἐπὶ τὴν κεφαλὴν τῆς ἅβρας τῆς προπορευομένης. 1ε καὶ μετέβαλεν ὁ Θεὸς τὸ πνεῦμα τοῦ βασιλέως εἰς πραυ±τητα, καὶ ἀγωνιάσας ἀνεπήδησεν ἀπὸ τοῦ θρόνου αὐτοῦ καὶ ἀνέλαβεν αὐτὴν ἐπὶ τὰς ἀγκάλας αὐτοῦ, μέχρις οὗ κατέστη, καὶ παρεκάλει αὐτὴν λόγοις εἰρηνικοῖς καὶ εἶπεν αὐτῇ· 1ζ τί ἐστιν Ἐσθήρ; ἐγὼ ὁ ἀδελφός σου, θάρσει, οὐ μὴ ἀποθάνῃς ὅτι κοινὸν τὸ πρόσταγμα ἡμῶν ἐστι· πρόσελθε.
+Greek: ΚΑΙ ἐγενήθη ἐν τῇ ἡμέρᾳ τῇ τρίτῃ, ὡς ἐπαύσατο προσευχομένη, ἐξεδύσατο τὰ ἱμάτια τῆς θεραπείας καὶ περιεβάλετο τὴν δόξαν αὐτῆς.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it happened on the third day, when she ceased praying, she stripped off the garments of her service and put on her glory. [1α] And having become splendid, having called upon God the overseer and savior of all, she took along two maids; and on one she leaned as one being delicate, and the other followed, lightening her clothing. [1β] And she herself was blushing in the bloom of her beauty, and her face was cheerful as beloved, but her heart was constricted from fear. [1γ] And entering through all the doors, she stood before the king, and he was sitting upon the throne of his kingdom and had put on every robe of his splendor, all through with gold and costly stones, and he was exceedingly fearful. [1δ] And lifting his face, fired with glory in the height of wrath, he looked, and the queen fell and changed her color in faintness and bowed down upon the head of the maid going before. [1ε] And God changed the spirit of the king to gentleness, and in agony he leapt up from his throne and took her into his arms until she recovered, and he comforted her with peaceful words and said to her, [1ζ] What is it, Esther? I am your brother. Take courage; you shall not die, because our ordinance is common. Draw near.
+Draft translation: And it happened on the third day, when she ceased praying, she stripped off the garments of her service and put on her glory.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 5:1α
+
+Greek: καὶ γενηθεῖσα ἐπιφανής, ἐπικαλεσαμένη τῶν πάντων ἐπόπτην Θεὸν καὶ σωτῆρα, παρέλαβε τὰς δύο ἅβρας· καὶ τῇ μὲν μιᾷ ἐπηρείδετο ὡς τρυφερευομένη, ἡ δὲ ἑτέρα ἐπηκολούθει κουφίζουσα τὴν ἔνδυσιν αὐτῆς,
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And having become splendid, having called upon God the overseer and savior of all, she took along two maids; and on one she leaned as one being delicate, and the other followed, lightening her clothing.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 5:1β
+
+Greek: καὶ αὐτὴ ἐρυθριῶσα ἀκμῇ κάλλους αὐτῆς, καὶ τὸ πρόσωπον αὐτῆς ἱλαρὸν ὡς προσφιλές, ἡ δὲ καρδία αὐτῆς ἀπεστενωμένη ἀπὸ τοῦ φόβου.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And she herself was blushing in the bloom of her beauty, and her face was cheerful as beloved, but her heart was constricted from fear.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 5:1γ
+
+Greek: καὶ εἰσελθοῦσα πάσας τὰς θύρας κατέστη ἐνώπιον τοῦ βασιλέως, καὶ αὐτὸς ἐκάθητο ἐπὶ τοῦ θρόνου τῆς βασιλείας αὐτοῦ καὶ πᾶσαν στολὴν τῆς ἐπιφανείας αὐτοῦ ἐνδεδύκει, ὅλος διὰ χρυσοῦ καὶ λίθων πολυτελῶν, καὶ ἦν φοβερὸς σφόδρα.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And entering through all the doors, she stood before the king, and he was sitting upon the throne of his kingdom and had put on every robe of his splendor, all through with gold and costly stones, and he was exceedingly fearful.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 5:1δ
+
+Greek: καὶ ἄρας τὸ πρόσωπον αὐτοῦ πεπυρωμένον δόξῃ ἐν ἀκμῇ θυμοῦ ἔβλεψε, καὶ ἔπεσεν ἡ βασίλισσα καὶ μετέβαλε τὸ χρῶμα αὐτῆς ἐν ἐκλύσει καὶ κατεπέκυψεν ἐπὶ τὴν κεφαλὴν τῆς ἅβρας τῆς προπορευομένης.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And lifting his face, fired with glory in the height of wrath, he looked, and the queen fell and changed her color in faintness and bowed down upon the head of the maid going before.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 5:1ε
+
+Greek: καὶ μετέβαλεν ὁ Θεὸς τὸ πνεῦμα τοῦ βασιλέως εἰς πραΰτητα, καὶ ἀγωνιάσας ἀνεπήδησεν ἀπὸ τοῦ θρόνου αὐτοῦ καὶ ἀνέλαβεν αὐτὴν ἐπὶ τὰς ἀγκάλας αὐτοῦ, μέχρις οὗ κατέστη, καὶ παρεκάλει αὐτὴν λόγοις εἰρηνικοῖς καὶ εἶπεν αὐτῇ·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And God changed the spirit of the king to gentleness, and in agony he leapt up from his throne and took her into his arms until she recovered, and he comforted her with peaceful words and said to her,
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 5:1ζ
+
+Greek: τί ἐστιν Ἐσθήρ; ἐγὼ ὁ ἀδελφός σου, θάρσει, οὐ μὴ ἀποθάνῃς ὅτι κοινὸν τὸ πρόσταγμα ἡμῶν ἐστι· πρόσελθε.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: What is it, Esther? I am your brother. Take courage; you shall not die, because our ordinance is common. Draw near.
 
 Decision rows:
 - None recorded.
@@ -13786,11 +14386,51 @@ Variant notes:
 
 ### Greek Esther 5:2
 
-Greek: καὶ ἄρας τὴν χρυσῆν ράβδον ἐπέθηκεν ἐπὶ τὸν τράχηλον αὐτῆς καὶ ἠσπάσατο αὐτὴν καὶ εἶπε· λάλησόν μοι. 2α καὶ εἶπεν αὐτῷ· εἶδόν σε, κύριε, ὡς ἄγγελον Θεοῦ, καὶ ἐταράχθη ἡ καρδία μου ἀπὸ φόβου τῆς δόξης σου, ὅτι θαυμαστὸς εἶ, κύριε, καὶ τὸ πρόσωπόν σου χαρίτων μεστόν. 2β ἐν δὲ τῷ διαλέγεσθαι αὐτὴν ἔπεσεν ἀπὸ ἐκλύσεως αὐτῆς καὶ ὁ βασιλεὺς ἐταράσσετο, καὶ πᾶσα ἡ θεραπεία αὐτοῦ παρεκάλει αὐτήν.
+Greek: καὶ ἄρας τὴν χρυσῆν ράβδον ἐπέθηκεν ἐπὶ τὸν τράχηλον αὐτῆς καὶ ἠσπάσατο αὐτὴν καὶ εἶπε· λάλησόν μοι.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And lifting the golden rod, he placed it upon her neck and kissed her and said, Speak to me. [2α] And she said to him, I saw you, lord, as an angel of God, and my heart was troubled from fear of your glory, because you are marvelous, lord, and your face is full of favors. [2β] And while she was speaking, she fell from her faintness, and the king was troubled, and all his attendants comforted her.
+Draft translation: And lifting the golden rod, he placed it upon her neck and kissed her and said, Speak to me.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 5:2α
+
+Greek: καὶ εἶπεν αὐτῷ· εἶδόν σε, κύριε, ὡς ἄγγελον Θεοῦ, καὶ ἐταράχθη ἡ καρδία μου ἀπὸ φόβου τῆς δόξης σου, ὅτι θαυμαστὸς εἶ, κύριε, καὶ τὸ πρόσωπόν σου χαρίτων μεστόν.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And she said to him, I saw you, lord, as an angel of God, and my heart was troubled from fear of your glory, because you are marvelous, lord, and your face is full of favors.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 5:2β
+
+Greek: ἐν δὲ τῷ διαλέγεσθαι αὐτὴν ἔπεσεν ἀπὸ ἐκλύσεως αὐτῆς καὶ ὁ βασιλεὺς ἐταράσσετο, καὶ πᾶσα ἡ θεραπεία αὐτοῦ παρεκάλει αὐτήν.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And while she was speaking, she fell from her faintness, and the king was troubled, and all his attendants comforted her.
 
 Decision rows:
 - None recorded.
@@ -14152,7 +14792,7 @@ Greek: εἶπε δὲ ὁ βασιλεὺς τῷ Ἀμάν· τί ποιήσω
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the king said to Haman, What shall I do for the human whom I wish to glorify? And Haman said in himself, Whom does the king wish to glorify except me?
+Draft translation: And the king said to Haman, What shall I do for the man whom I wish to glorify? And Haman said in himself, Whom does the king wish to glorify except me?
 
 Decision rows:
 - None recorded.
@@ -14172,7 +14812,7 @@ Greek: εἶπε δὲ πρὸς τὸν βασιλέα· ἄνθρωπον, ὃ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he said to the king, A human whom the king wishes to glorify,
+Draft translation: And he said to the king, A man whom the king wishes to glorify,
 
 Decision rows:
 - None recorded.
@@ -14212,7 +14852,7 @@ Greek: καὶ δότω ἑνὶ τῶν φίλων τοῦ βασιλέως τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and let him give it to one of the glorious friends of the king, and let him clothe the human whom the king loves, and let him mount him upon the horse and proclaim through the broad street of the city, saying, Thus it will be for every human whom the king glorifies.
+Draft translation: and let him give it to one of the glorious friends of the king, and let him clothe the man whom the king loves, and let him mount him upon the horse and proclaim through the broad street of the city, saying, Thus it will be for every man whom the king glorifies.
 
 Decision rows:
 - None recorded.
@@ -14252,7 +14892,7 @@ Greek: ἔλαβε δὲ Ἀμὰν τὴν στολὴν καὶ τὸν ἵπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Haman took the robe and the horse and clothed Mordecai, and mounted him upon the horse and went through the broad street of the city and proclaimed, saying, Thus it will be for every human whom the king wishes to glorify.
+Draft translation: And Haman took the robe and the horse and clothed Mordecai, and mounted him upon the horse and went through the broad street of the city and proclaimed, saying, Thus it will be for every man whom the king wishes to glorify.
 
 Decision rows:
 - None recorded.
@@ -14816,7 +15456,7 @@ Greek: πολλοὶ τῇ πλείστῃ τῶν εὐεργετούντων �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Many, being honored more often by the greatest kindness of benefactors, became more proud and seek not only to harm those subject to us, but being unable to bear satiety, they attempt to scheme against their own benefactors;
+Draft translation: Many, being honored repeatedly by the greatest kindness of benefactors, became more proud and seek not only to harm those subject to us, but being unable to bear abundance, they attempt to scheme against their own benefactors;
 
 Decision rows:
 - None recorded.
@@ -14836,7 +15476,7 @@ Greek: καὶ τὴν εὐχαριστίαν οὐ μόνον ἐκ τῶν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and not only taking away gratitude from humans, but also being lifted up by the boasts of those inexperienced in good things, they suppose they will escape the evil-hating justice of God, who always watches all things.
+Draft translation: and not only taking away gratitude from people, but also being lifted up by the boasts of those inexperienced in good things, they suppose they will escape the evil-hating justice of God, who always watches all things.
 
 Decision rows:
 - None recorded.
@@ -14856,7 +15496,7 @@ Greek: πολλάκις δὲ καὶ πολλοὺς τῶν ἐπ᾿ ἐξου
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And often the encouragement of friends entrusted to handle affairs, making many of those appointed over authorities partners in innocent blood, has wrapped them in irremediable calamities,
+Draft translation: And often the counsel of friends entrusted to handle affairs has made many of those appointed over authorities partners in innocent blood and wrapped them in irremediable calamities,
 
 Decision rows:
 - None recorded.
@@ -14896,7 +15536,7 @@ Greek: σκοπεῖν δὲ ἔξεστιν, οὐ τοσοῦτον ἐκ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it is possible to observe, not so much from the older histories that we have handed down, as from the things near at hand to you, as you seek out what things have been impiously completed by the pestilence of those unworthily exercising power,
+Draft translation: And it is possible to observe, not so much from the older histories that we have handed down, as from the things near at hand, if you examine what has been impiously completed by the pestilence of those unworthily exercising power,
 
 Decision rows:
 - None recorded.
@@ -14916,7 +15556,7 @@ Greek: καὶ προσέχειν εἰς τὰ μετὰ ταῦτα εἰς τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and to pay attention to the things after these, so that we may provide the kingdom undisturbed with peace for all humans,
+Draft translation: and to take care for the future, so that we may provide the kingdom undisturbed with peace for all people,
 
 Decision rows:
 - None recorded.
@@ -14936,7 +15576,7 @@ Greek: χρώμενοι ταῖς μεταβολαῖς, τὰ δὲ ὑπὸ τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: using changes and always discerning the things coming under sight with a more equitable response.
+Draft translation: making use of changes and always discerning the things coming into view with a more equitable response.
 
 Decision rows:
 - None recorded.
@@ -14996,7 +15636,7 @@ Greek: οὐκ ἐνέγκας δὲ τὴν ὑπερηφανίαν ἐπετή
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but not bearing the arrogance, he undertook to deprive us of rule and of spirit,
+Draft translation: but unable to bear his arrogance, he undertook to deprive us of rule and of spirit,
 
 Decision rows:
 - None recorded.
@@ -15016,7 +15656,7 @@ Greek: τόν τε ἡμέτερον σωτῆρα καὶ διαπαντὸς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: having requested for destruction our savior and continual benefactor Mordecai and Esther, the blameless sharer of the kingdom, with all their nation, by many-woven deceptions of methods;
+Draft translation: having requested for destruction our savior and continual benefactor Mordecai and Esther, the blameless sharer of the kingdom, with all their nation, by many-woven deceptive methods;
 
 Decision rows:
 - None recorded.
@@ -15116,7 +15756,7 @@ Greek: τὸ δὲ ἀντίγραφον τῆς ἐπιστολῆς ταύτη
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And setting out the copy of this letter openly in every place, allow the Jews to use their own customs and strengthen them together, so that on the thirteenth of the twelfth month Adar, the same day, they may defend themselves against those attacking them in time of affliction;
+Draft translation: And setting out the copy of this letter openly in every place, allow the Jews to use their own customs and give them support, so that on the thirteenth of the twelfth month Adar, the same day, they may defend themselves against those attacking them in time of affliction;
 
 Decision rows:
 - None recorded.
@@ -15176,7 +15816,7 @@ Greek: πᾶσα δὲ πόλις ἢ χώρα τὸ σύνολον, ἥτις �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But every city or country as a whole, whoever does not do according to these things, will be consumed with spear and fire in wrath; it will be made not only untrodden by humans, but also most hateful to wild beasts and birds for all time.
+Draft translation: But every city or country, without exception, that does not do according to these things will be consumed with spear and fire in wrath; it will be made not only untrodden by people, but also most hateful to wild beasts and birds for all time.
 
 Decision rows:
 - None recorded.
@@ -15694,11 +16334,31 @@ Variant notes:
 
 ### Greek Esther 9:21
 
-Greek: στῆσαι τὰς ἡμέρας ταύτας ἀγαθὰς ἄγειν τε τὴν τεσσαρεσκαιδεκάτην καὶ τὴν πεντεκαιδεκάτην τοῦ Ἀδὰρ 22 ἐν γὰρ ταύταις ταῖς ἡμέραις ἀνεπαύσαντο οἱ Ἰουδαῖοι ἀπὸ τῶν ἐχθρῶν αὐτῶν καὶ τὸν μῆνα, ἐν ᾧ ἐστράφη αὐτοῖς (ὃς ἦν Ἀδὰρ) ἀπὸ πένθους εἰς χαρὰν καὶ ἀπὸ ὀδύνης εἰς ἀγαθὴν ἡμέραν, ἄγειν ὅλον ἀγαθὰς ἡμέρας γάμων καὶ εὐφροσύνης, ἐξαποστέλλοντας μερίδας τοῖς φίλοις καὶ τοῖς πτωχοῖς.
+Greek: στῆσαι τὰς ἡμέρας ταύτας ἀγαθὰς ἄγειν τε τὴν τεσσαρεσκαιδεκάτην καὶ τὴν πεντεκαιδεκάτην τοῦ Ἀδὰρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: to establish these days as good, and to keep both the fourteenth and the fifteenth of Adar. [22] For in these days the Jews rested from their enemies, and the month in which it was turned for them, which was Adar, from mourning into joy and from pain into a good day, to keep the whole as good days of weddings and gladness, sending portions to friends and to the poor.
+Draft translation: to establish these days as good, and to keep both the fourteenth and the fifteenth of Adar.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 9:22
+
+Greek: ἐν γὰρ ταύταις ταῖς ἡμέραις ἀνεπαύσαντο οἱ Ἰουδαῖοι ἀπὸ τῶν ἐχθρῶν αὐτῶν καὶ τὸν μῆνα, ἐν ᾧ ἐστράφη αὐτοῖς (ὃς ἦν Ἀδὰρ) ἀπὸ πένθους εἰς χαρὰν καὶ ἀπὸ ὀδύνης εἰς ἀγαθὴν ἡμέραν, ἄγειν ὅλον ἀγαθὰς ἡμέρας γάμων καὶ εὐφροσύνης, ἐξαποστέλλοντας μερίδας τοῖς φίλοις καὶ τοῖς πτωχοῖς.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: For in these days the Jews rested from their enemies, and the month in which it was turned for them, which was Adar, from mourning into joy and from pain into a good day, to keep the whole as good days of weddings and gladness, sending portions to friends and to the poor.
 
 Decision rows:
 - None recorded.
@@ -15956,11 +16616,31 @@ Variant notes:
 
 ### Greek Esther 10:3α
 
-Greek: Καὶ εἶπε Μαρδοχαῖος· παρὰ τοῦ Θεοῦ ἐγένετο ταῦτα. 3β ἐμνήσθη γὰρ περὶ τοῦ ἐνυπνίου, οὗ εἶδον περὶ τῶν λόγων τούτων· οὐδὲ γὰρ παρῆλθεν ἀπ᾿ αὐτῶν λόγος.
+Greek: Καὶ εἶπε Μαρδοχαῖος· παρὰ τοῦ Θεοῦ ἐγένετο ταῦτα.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Mordecai said, "These things came from God. [3β] For I remembered concerning the dream that I saw concerning these matters; for no word from them passed by."
+Draft translation: And Mordecai said, "These things came from God.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther 10:3β
+
+Greek: ἐμνήσθη γὰρ περὶ τοῦ ἐνυπνίου, οὗ εἶδον περὶ τῶν λόγων τούτων· οὐδὲ γὰρ παρῆλθεν ἀπ᾿ αὐτῶν λόγος.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: For I remembered the dream that I saw concerning these matters; for not one word from them passed by."
 
 Decision rows:
 - None recorded.
@@ -15980,7 +16660,7 @@ Greek: ἡ μικρὰ πηγή, ἣ ἐγένετο ποταμὸς καὶ ἦ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The small spring, which became a river, and there was light and sun and much water: Esther is the river, whom the king married and made queen.
+Draft translation: The small spring, which became a river, and there was light and sun and much water: Esther is the river; the king married her and made her queen.
 
 Decision rows:
 - None recorded.
@@ -16080,7 +16760,7 @@ Greek: καὶ ἦλθον οἱ δύο κλῆροι οὗτοι εἰς ὥρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and these two lots came to hour and time and day of judgment before God and all the nations,
+Draft translation: and these two lots came to an hour and time and day of judgment before God and all the nations,
 
 Decision rows:
 - None recorded.
@@ -16120,7 +16800,7 @@ Greek: καὶ ἔσονται αὐτοῖς αἱ ἡμέραι αὗται �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and these days will be for them in the month Adar, on the fourteenth and fifteenth of the month, with gathering and joy and gladness before God by generations forever among his people Israel.
+Draft translation: and these days will be for them in the month Adar, on the fourteenth and fifteenth of the month, with gathering and joy and gladness before God through generations forever among his people Israel.
 
 Decision rows:
 - None recorded.
@@ -16184,7 +16864,7 @@ Greek: ἄνθρωπος Ἰουδαῖος οἰκῶν ἐν Σούσοις τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: a Jewish human dwelling in Susa the city, a great human, serving in the court of the king.
+Draft translation: a Jewish man dwelling in Susa the city, a great man, serving in the court of the king.
 
 Decision rows:
 - None recorded.
@@ -16244,7 +16924,7 @@ Greek: καὶ ἰδοὺ δύο δράκοντες μεγάλοι ἕτοιμο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And behold, two great dragons came forth, both ready to wrestle, and their great voice came to be;
+Draft translation: And behold, two great dragons came forth, both ready to wrestle, and a great voice came from them;
 
 Decision rows:
 - None recorded.
@@ -16264,7 +16944,7 @@ Greek: καὶ τῇ φωνῇ αὐτῶν ἡτοιμάσθη πᾶν ἔθν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and at their voice every nation was prepared for war, so as to war against a nation of righteous ones.
+Draft translation: and at their voice every nation was prepared for war, to wage war against a nation of righteous ones.
 
 Decision rows:
 - None recorded.
@@ -16304,7 +16984,7 @@ Greek: καὶ ἐταράχθη πᾶν ἔθνος δίκαιον φοβούμ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and every righteous nation was troubled, fearing their own evils, and they were prepared to perish and cried out to God.
+Draft translation: and the whole righteous nation was troubled; they feared their own evils, were prepared to perish, and cried out to God.
 
 Decision rows:
 - None recorded.
@@ -16324,7 +17004,7 @@ Greek: ἀπὸ δὲ τῆς βοῆς αὐτῶν ἐγένετο ὡσανε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But from their cry there came to be, as from a small spring, a great river, much water;
+Draft translation: But from their cry there came, as from a small spring, a great river, much water;
 
 Decision rows:
 - None recorded.
@@ -16344,7 +17024,7 @@ Greek: καὶ φῶς καὶ ἥλιος ἀνέτειλε, καὶ οἱ τα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and light and sun rose, and the humble were exalted and devoured the glorious ones.
+Draft translation: and light rose, and the sun, and the humble were exalted and devoured the glorious ones.
 
 Decision rows:
 - None recorded.
@@ -16364,7 +17044,7 @@ Greek: καὶ διεγερθεὶς Μαρδοχαῖος ὁ ἑωρακὼς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Mordecai, having awakened, the one who had seen this dream and what God had planned to do, kept it in his heart and in every matter desired to understand it until the night.
+Draft translation: And Mordecai, having awakened, the one who had seen this dream and what God had planned to do, kept it in his heart and desired in every way to understand it until the night.
 
 Decision rows:
 - None recorded.
@@ -16384,7 +17064,7 @@ Greek: καὶ ἡσύχασε Μαρδοχαῖος ἐν τῇ αὐλῇ με
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Mordecai rested in the court with Gabatha and Thara, the two eunuchs of the king, those guarding the court,
+Draft translation: And Mordecai kept quiet in the court with Gabatha and Thara, the two eunuchs of the king, those guarding the court,
 
 Decision rows:
 - None recorded.
@@ -16404,7 +17084,7 @@ Greek: ἤκουσέ τε αὐτῶν τοὺς λογισμοὺς καὶ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and he heard their thoughts and searched out their anxieties and learned that they were preparing their hands to lay upon King Artaxerxes, and he disclosed concerning them to the king.
+Draft translation: and he heard their thoughts and searched out their anxieties and learned that they were preparing to lay hands upon King Artaxerxes, and he reported them to the king.
 
 Decision rows:
 - None recorded.
@@ -16464,7 +17144,7 @@ Greek: καὶ ἐπέταξεν ὁ βασιλεὺς Μαρδοχαίῳ θε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the king ordered Mordecai to serve in the court and gave him gifts concerning these things.
+Draft translation: And the king ordered Mordecai to serve in the court and gave him gifts because of these things.
 
 Decision rows:
 - None recorded.
@@ -16484,7 +17164,7 @@ Greek: καὶ ἦν Ἀμὰν Ἀμαδάθου Βουγαῖος ἔνδοξ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Haman son of Hamadathos, the Bougaian, was glorious before the king; and he sought to do evil to Mordecai and his people because of the two eunuchs of the king.
+Draft translation: And Haman son of Hamadathos, the Bougaian, was honored before the king; and he sought to do evil to Mordecai and his people on account of the two eunuchs of the king.
 
 Decision rows:
 - None recorded.
@@ -16526,7 +17206,7 @@ Greek: πολλῶν ἐπάρξας ἐθνῶν καὶ πάσης ἐπικρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Having ruled over many nations and become master of the whole inhabited world, I wished, not being lifted up by the boldness of authority, but always conducting things more moderately and with gentleness, to establish the lives of those subject to me as untroubled through all time, and to provide a kingdom gentle and open to travel as far as the borders, and to renew the peace longed for by all humans.
+Draft translation: Having ruled over many nations and become master of the whole inhabited world, I wished, not being lifted up by the boldness of authority, but always conducting things more moderately and with gentleness, to establish the lives of those subject to me as untroubled through all time, and to provide a kingdom gentle and open to travel as far as the borders, and to renew the peace longed for by all people.
 
 Decision rows:
 - None recorded.
@@ -16546,7 +17226,7 @@ Greek: πυθομένου δέ μου τῶν συμβούλων, πῶς ἂν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But when I inquired of the counselors how this might be brought to completion, Haman, who has surpassed among us in sound-mindedness and has been demonstrated in unchanging goodwill and firm faith, and who has received the second honor of the kingdoms,
+Draft translation: But when I inquired of the counselors how this might be brought to completion, Haman, who has surpassed among us in prudence and has been proved in unchanging goodwill and firm faith, and who has received the second honor of the kingdoms,
 
 Decision rows:
 - None recorded.
@@ -16566,7 +17246,7 @@ Greek: ἐπέδειξεν ἡμῖν ἐν πάσαις ταῖς κατὰ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: showed us that among all the tribes throughout the inhabited world a certain hostile people has been mixed in, opposed in laws to every nation and continually disregarding the ordinances of kings, so that the government directed blamelessly by us is not established.
+Draft translation: showed us that among all the tribes throughout the inhabited world a certain hostile people has been mixed in, opposed by its laws to every nation and continually disregarding the ordinances of kings, so that the government directed blamelessly by us is not established.
 
 Decision rows:
 - None recorded.
@@ -16586,7 +17266,7 @@ Greek: διειληφότες οὖν τόδε τὸ ἔθνος μονώτατ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore, having understood that this nation alone is set in opposition to every human through all time, changing by a strange way of laws and ill-minded toward our affairs, accomplishing the worst evils, and preventing the kingdom from obtaining stability,
+Draft translation: Therefore, having understood that this nation alone is set in opposition to everyone through all time, strangely altering its way of laws and being hostile in mind toward our affairs, accomplishing the worst evils, and preventing the kingdom from obtaining stability,
 
 Decision rows:
 - None recorded.
@@ -16626,7 +17306,651 @@ Greek: ὅπως οἱ πάλαι καὶ νῦν δυσμενεῖς ἐν ἡ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: so that those long ago and now hostile, having violently gone down to Hades in one day, may for the time afterward provide our affairs stable and undisturbed through to the end.
+Draft translation: so that those long ago and now hostile, having violently gone down to Hades in one day, may provide us stable and undisturbed affairs for the time afterward, through to the end.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+## Chapter 4
+
+### Greek Esther Additions 4:17α
+
+Greek: καὶ ἐδεήθη Κυρίου μνημονεύων πάντα τὰ ἔργα Κυρίου καὶ εἶπε·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And he entreated the Lord, remembering all the works of the Lord, and said,
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17β
+
+Greek: Κύριε Κύριε, βασιλεῦ πάντων κρατῶν, ὅτι ἐν ἐξουσίᾳ σου τὸ πᾶν ἐστι, καὶ οὐκ ἔστιν ὁ ἀντιδοξῶν σοι ἐν τῷ θέλειν σε σῶσαι τὸν Ἰσραήλ·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: Lord, Lord, King ruling all, because the whole is in your authority, and there is no one opposing you when you wish to save Israel;
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17γ
+
+Greek: ὅτι σὺ ἐποίησας τὸν οὐρανὸν καὶ τὴν γῆν καὶ πᾶν θαυμαζόμενον ἐν τῇ ὑπ᾿ οὐρανὸν καὶ Κύριος εἶ πάντων, καὶ οὐκ ἔστιν ὃς ἀντιτάξεταί σοι τῷ Κυρίῳ.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: because you made heaven and earth and every wondered-at thing under heaven, and you are Lord of all, and there is no one who will oppose you, the Lord.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17δ
+
+Greek: σὺ πάντα γινώσκεις· σὺ οἶδας, Κύριε, ὅτι οὐκ ἐν ὕβρει οὐδὲ ἐν ὑπερηφανίᾳ οὐδὲ ἐν φιλοδοξίᾳ ἐποίησα τοῦτο, τὸ μὴ προσκυνεῖν τὸν ὑπερήφανον Ἀμάν, ὅτι ηὐδόκουν φιλεῖν πέλματα ποδῶν αὐτοῦ πρὸς σωτηρίαν Ἰσραήλ·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: You know all things; you know, Lord, that not in insolence nor in pride nor in love of glory did I do this, not worshiping arrogant Haman, because I would have been pleased to kiss the soles of his feet for the salvation of Israel;
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17ε
+
+Greek: ἀλλ᾿ ἐποίησα τοῦτο, ἵνα μὴ θῶ δόξαν ἀνθρώπου ὑπεράνω δόξης Θεοῦ, καὶ οὐ προσκυνήσω οὐδένα, πλὴν σοῦ τοῦ Κυρίου μου καὶ οὐ ποιήσω αὐτὰ ἐν ὑπερηφανίᾳ.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: but I did this so that I might not place the glory of a human above the glory of God, and I will worship no one except you, my Lord, and I will not do these things in pride.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17ζ
+
+Greek: καὶ νῦν, Κύριε ὁ Θεός, ὁ βασιλεύς, ὁ Θεὸς Ἁβραάμ, φεῖσαι τοῦ λαοῦ σου, ὅτι ἐπιβλέπουσιν ἡμῖν εἰς καταφθορὰν καὶ ἐπεθύμησαν ἀπολέσαι τὴν ἐξ ἀρχῆς κληρονομίαν σου·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And now, Lord God, King, God of Abraham, spare your people, because they look upon us for destruction and have desired to destroy your inheritance from the beginning;
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17η
+
+Greek: μὴ ὑπερίδῃς τὴν μερίδα σου, ἣν σεαυτῷ ἐλυτρώσω ἐκ γῆς Αἰγύπτου·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: do not overlook your portion, which you redeemed for yourself from the land of Egypt;
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17θ
+
+Greek: ἐπάκουσον τῆς δεήσεώς μου καὶ ἱλάσθητι τῷ κλήρῳ σου καὶ στρέψον τὸ πένθος ἡμῶν εἰς εὐωχίαν, ἵνα ζῶντες ὑμνῶμέν σου τὸ ὄνομα, Κύριε, καὶ μὴ ἀφανίσῃς στόμα αἰνούντων σε, Κύριε.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: hear my petition and be propitious to your lot, and turn our mourning into feasting, so that while living we may hymn your name, Lord; and do not silence the mouth of those praising you, Lord.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17ι
+
+Greek: καὶ πᾶς Ἰσραὴλ ἐκέκραξεν ἐξ ἰσχύος αὐτῶν, ὅτι θάνατος αὐτῶν ἐν ὀφθαλμοῖς αὐτῶν.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And all Israel cried out from their strength, because their death was in their eyes.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17κ
+
+Greek: Καὶ Ἐσθὴρ ἡ βασίλισσα κατέφυγεν ἐπὶ τὸν Κύριον ἐν ἀγῶνι θανάτου κατειλημμένη, καὶ ἀφελομένη τὰ ἱμάτια τῆς δόξης αὐτῆς ἐνεδύσατο ἱμάτια στενοχωρίας καὶ πένθους, καὶ ἀντὶ τῶν ὑπερηφάνων ἡδυσμάτων, σποδοῦ καὶ κοπριῶν ἐνέπλησε τὴν κεφαλὴν αὐτῆς καὶ τὸ σῶμα αὐτῆς ἐταπείνωσε σφόδρα καὶ πάντα τόπον κόσμου ἀγαλλιάματος αὐτῆς ἔπλησε στρεπτῶν τριχῶν αὐτῆς καὶ ἐδεῖτο Κυρίου Θεοῦ Ἰσραήλ, καὶ εἶπε·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And Esther the queen fled for refuge to the Lord, being seized in a struggle of death, and taking off the garments of her glory she put on garments of constraint and mourning; and instead of proud sweet spices, she filled her head with ashes and dung, and humbled her body exceedingly, and every place of adornment of her gladness she filled with the twists of her hair; and she entreated the Lord God of Israel and said,
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17λ
+
+Greek: Κύριέ μου, βασιλεὺς ἡμῶν σὺ εἶ μόνος· βοήθησόν μοι τῇ μόνῃ καὶ μὴ ἐχούσῃ βοηθὸν εἰ μὴ σέ, ὅτι κίνδυνός μου ἐν χειρί μου.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: My Lord, you alone are our king; help me, the lone one and having no helper except you, because my danger is in my hand.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17μ
+
+Greek: ἐγὼ ἤκουον ἐκ γενετῆς μου ἐν φυλῇ πατριᾶς μου ὅτι σύ, Κύριε, ἔλαβες τὸν Ἰσραὴλ ἐκ πάντων τῶν ἐθνῶν καὶ τοὺς πατέρας ἡμῶν ἐκ πάντων τῶν προγόνων αὐτῶν εἰς κληρονομίαν αἰώνιον καὶ ἐποίησας αὐτοῖς ὅσα ἐλάλησας.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: I heard from my birth in the tribe of my family that you, Lord, took Israel from all the nations and our fathers from all their ancestors for an eternal inheritance, and did for them all that you spoke.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17ν
+
+Greek: καὶ νῦν ἡμάρτομεν ἐνώπιόν σου, καὶ παρέδωκας ἡμᾶς εἰς χεῖρας τῶν ἐχθρῶν ἡμῶν, ἀνθ᾿ ὧν ἐδοξάσαμεν τοὺς θεοὺς αὐτῶν· δίκαιος εἶ, Κύριε.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And now we sinned before you, and you handed us into the hands of our enemies, because we glorified their gods. You are righteous, Lord.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17ξ
+
+Greek: καὶ νῦν οὐκ ἱκανώθησαν ἐν πικρασμῷ δουλείας ἡμῶν, ἀλλ᾿ ἔθηκαν τὰς χεῖρας αὐτῶν ἐπὶ τὰς χεῖρας τῶν εἰδώλων αὐτῶν ἐξάραι ὁρισμὸν στόματός σου καὶ ἀφανίσαι κληρονομίαν σου καὶ ἐμφράξαι στόμα αἰνούντων σοι καὶ σβέσαι δόξαν οἴκου σου καὶ θυσιαστηρίου σου,
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And now they were not satisfied with the bitterness of our slavery, but they set their hands upon the hands of their idols to remove the decree of your mouth and to destroy your inheritance and to stop up the mouth of those praising you and to extinguish the glory of your house and your altar,
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17ο
+
+Greek: καὶ ἀνοῖξαι στόμα ἐθνῶν εἰς ἀρετὰς ματαίων καὶ θαυμασθῆναι βασιλέα σάρκινον εἰς αἰῶνα.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: and to open the mouth of nations for the praises of worthless things and for a fleshly king to be admired forever.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17π
+
+Greek: μὴ παραδῷς, Κύριε, τὸ σκῆπτρόν σου τοῖς μὴ οὖσι, καὶ μὴ καταγελασάτωσαν ἐν τῇ πτώσει ἡμῶν, ἀλλὰ στρέψον τὴν βουλὴν αὐτῶν ἐπ᾿ αὐτούς, τὸν δὲ ἀρξάμενον ἐφ᾿ ἡμᾶς παραδειγμάτισον.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: Do not hand over your scepter, Lord, to those who are not, and let them not laugh at our fall, but turn their counsel upon themselves, and make an example of the one who began against us.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17ρ
+
+Greek: μνήσθητι, Κύριε, γνώσθητι ἐν καιρῷ θλίψεως ἡμῶν καὶ ἐμὲ θάρσυνον, βασιλεῦ τῶν θεῶν καὶ πάσης ἀρχῆς ἐπικρατῶν·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: Remember, Lord; be made known in the time of our affliction, and embolden me, King of the gods and master of every rule.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17σ
+
+Greek: δὸς λόγον εὔρυθμον εἰς τὸ στόμα μου ἐνώπιον τοῦ λέοντος καὶ μετάθες τὴν καρδίαν αὐτοῦ εἰς μῖσος τοῦ πολεμοῦντος ἡμᾶς εἰς συντέλειαν αὐτοῦ καὶ τῶν ὁμονούντων αὐτῶ·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: Give ordered speech into my mouth before the lion, and change his heart to hatred of the one warring against us, for his ending and the ending of those agreeing with him.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17τ
+
+Greek: ἡμᾶς δὲ ρῦσαι ἐν χειρί σου καὶ βοήθησόν μοι τῇ μόνῃ καὶ μὴ ἐχούσῃ εἰς μὴ σέ, Κύριε·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: But rescue us by your hand and help me, the lone one and having none except you, Lord.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17υ
+
+Greek: πάντων γνῶσιν ἔχεις καὶ οἶδας ὅτι ἐμίσησα δόξαν ἀνόμων καὶ βδελύσσομαι κοίτην ἀπεριτμήτων καὶ παντὸς ἀλλοτρίου.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: You have knowledge of all things, and you know that I hated the glory of lawless ones and abhor the bed of uncircumcised ones and of every foreigner.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17φ
+
+Greek: σὺ οἶδας τὴν ἀνάγκην μου, ὅτι βδελύσσομαι τὸ σημεῖον τῆς ὑπερηφανίας μου, ὅ ἐστιν ἐπὶ τῆς κεφαλῆς μου ἐν ἡμέραις ὀπτασίας μου· βδελύσσομαι αὐτὸ ὡς ράκος καταμηνίων καὶ οὐ φορῶ αὐτὸ ἐν ἡμέραις ἡσυχίας μου.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: You know my necessity, because I abhor the sign of my pride, which is upon my head in the days of my appearing; I abhor it like a menstruation rag, and I do not wear it in the days of my quiet.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17χ
+
+Greek: καὶ οὐκ ἔφαγεν ἡ δούλη σου τράπεζαν Ἀμὰν καὶ οὐκ ἐδόξασα συμπόσιον βασιλέως, οὐδὲ ἔπιον οἶνον σπονδῶν·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And your slave woman has not eaten the table of Haman, and I did not glorify the banquet of the king, nor did I drink wine of libations;
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17ψ
+
+Greek: καὶ οὐκ ηὐφράνθη ἡ δούλη σου ἀφ᾿ ἡμέρας μεταβολῆς μου μέχρι νῦν, πλὴν ἐπὶ σοί, Κύριε, ὁ Θεὸς Ἁβραάμ.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: and your slave woman has not rejoiced from the day of my change until now, except in you, Lord, God of Abraham.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 4:17ω
+
+Greek: ὁ Θεὸς ὁ ἰσχύων ἐπὶ πάντας, εἰσάκουσον φωνὴν ἀπηλπισμένων καὶ ρῦσαι ἡμᾶς ἐκ χειρὸς τῶν πονηρευομένων, καὶ ρῦσαί με ἐκ τοῦ φόβου μου.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: O God, the one strong over all, listen to the voice of those without hope and rescue us from the hand of those doing evil, and rescue me from my fear.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+## Chapter 5
+
+### Greek Esther Additions 5:1α
+
+Greek: καὶ γενηθεῖσα ἐπιφανής, ἐπικαλεσαμένη τῶν πάντων ἐπόπτην Θεὸν καὶ σωτῆρα, παρέλαβε τὰς δύο ἅβρας· καὶ τῇ μὲν μιᾷ ἐπηρείδετο ὡς τρυφερευομένη, ἡ δὲ ἑτέρα ἐπηκολούθει κουφίζουσα τὴν ἔνδυσιν αὐτῆς,
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And having become splendid, having called upon God the overseer and savior of all, she took along two maids; and on one she leaned as one being delicate, and the other followed, lightening her clothing.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 5:1β
+
+Greek: καὶ αὐτὴ ἐρυθριῶσα ἀκμῇ κάλλους αὐτῆς, καὶ τὸ πρόσωπον αὐτῆς ἱλαρὸν ὡς προσφιλές, ἡ δὲ καρδία αὐτῆς ἀπεστενωμένη ἀπὸ τοῦ φόβου.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And she herself was blushing in the bloom of her beauty, and her face was cheerful as beloved, but her heart was constricted from fear.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 5:1γ
+
+Greek: καὶ εἰσελθοῦσα πάσας τὰς θύρας κατέστη ἐνώπιον τοῦ βασιλέως, καὶ αὐτὸς ἐκάθητο ἐπὶ τοῦ θρόνου τῆς βασιλείας αὐτοῦ καὶ πᾶσαν στολὴν τῆς ἐπιφανείας αὐτοῦ ἐνδεδύκει, ὅλος διὰ χρυσοῦ καὶ λίθων πολυτελῶν, καὶ ἦν φοβερὸς σφόδρα.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And entering through all the doors, she stood before the king, and he was sitting upon the throne of his kingdom and had put on every robe of his splendor, all through with gold and costly stones, and he was exceedingly fearful.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 5:1δ
+
+Greek: καὶ ἄρας τὸ πρόσωπον αὐτοῦ πεπυρωμένον δόξῃ ἐν ἀκμῇ θυμοῦ ἔβλεψε, καὶ ἔπεσεν ἡ βασίλισσα καὶ μετέβαλε τὸ χρῶμα αὐτῆς ἐν ἐκλύσει καὶ κατεπέκυψεν ἐπὶ τὴν κεφαλὴν τῆς ἅβρας τῆς προπορευομένης.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And lifting his face, fired with glory in the height of wrath, he looked, and the queen fell and changed her color in faintness and bowed down upon the head of the maid going before.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 5:1ε
+
+Greek: καὶ μετέβαλεν ὁ Θεὸς τὸ πνεῦμα τοῦ βασιλέως εἰς πραΰτητα, καὶ ἀγωνιάσας ἀνεπήδησεν ἀπὸ τοῦ θρόνου αὐτοῦ καὶ ἀνέλαβεν αὐτὴν ἐπὶ τὰς ἀγκάλας αὐτοῦ, μέχρις οὗ κατέστη, καὶ παρεκάλει αὐτὴν λόγοις εἰρηνικοῖς καὶ εἶπεν αὐτῇ·
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And God changed the spirit of the king to gentleness, and in agony he leapt up from his throne and took her into his arms until she recovered, and he comforted her with peaceful words and said to her,
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 5:1ζ
+
+Greek: τί ἐστιν Ἐσθήρ; ἐγὼ ὁ ἀδελφός σου, θάρσει, οὐ μὴ ἀποθάνῃς ὅτι κοινὸν τὸ πρόσταγμα ἡμῶν ἐστι· πρόσελθε.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: What is it, Esther? I am your brother. Take courage; you shall not die, because our ordinance is common. Draw near.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 5:2α
+
+Greek: καὶ εἶπεν αὐτῷ· εἶδόν σε, κύριε, ὡς ἄγγελον Θεοῦ, καὶ ἐταράχθη ἡ καρδία μου ἀπὸ φόβου τῆς δόξης σου, ὅτι θαυμαστὸς εἶ, κύριε, καὶ τὸ πρόσωπόν σου χαρίτων μεστόν.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And she said to him, I saw you, lord, as an angel of God, and my heart was troubled from fear of your glory, because you are marvelous, lord, and your face is full of favors.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 5:2β
+
+Greek: ἐν δὲ τῷ διαλέγεσθαι αὐτὴν ἔπεσεν ἀπὸ ἐκλύσεως αὐτῆς καὶ ὁ βασιλεὺς ἐταράσσετο, καὶ πᾶσα ἡ θεραπεία αὐτοῦ παρεκάλει αὐτήν.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And while she was speaking, she fell from her faintness, and the king was troubled, and all his attendants comforted her.
 
 Decision rows:
 - None recorded.
@@ -16688,7 +18012,7 @@ Greek: πολλοὶ τῇ πλείστῃ τῶν εὐεργετούντων �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Many, being honored more often by the greatest kindness of benefactors, became more proud and seek not only to harm those subject to us, but being unable to bear satiety, they attempt to scheme against their own benefactors;
+Draft translation: Many, being honored repeatedly by the greatest kindness of benefactors, became more proud and seek not only to harm those subject to us, but being unable to bear abundance, they attempt to scheme against their own benefactors;
 
 Decision rows:
 - None recorded.
@@ -16708,7 +18032,7 @@ Greek: καὶ τὴν εὐχαριστίαν οὐ μόνον ἐκ τῶν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and not only taking away gratitude from humans, but also being lifted up by the boasts of those inexperienced in good things, they suppose they will escape the evil-hating justice of God, who always watches all things.
+Draft translation: and not only taking away gratitude from people, but also being lifted up by the boasts of those inexperienced in good things, they suppose they will escape the evil-hating justice of God, who always watches all things.
 
 Decision rows:
 - None recorded.
@@ -16728,7 +18052,7 @@ Greek: πολλάκις δὲ καὶ πολλοὺς τῶν ἐπ᾿ ἐξου
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And often the encouragement of friends entrusted to handle affairs, making many of those appointed over authorities partners in innocent blood, has wrapped them in irremediable calamities,
+Draft translation: And often the counsel of friends entrusted to handle affairs has made many of those appointed over authorities partners in innocent blood and wrapped them in irremediable calamities,
 
 Decision rows:
 - None recorded.
@@ -16768,7 +18092,7 @@ Greek: σκοπεῖν δὲ ἔξεστιν, οὐ τοσοῦτον ἐκ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it is possible to observe, not so much from the older histories that we have handed down, as from the things near at hand to you, as you seek out what things have been impiously completed by the pestilence of those unworthily exercising power,
+Draft translation: And it is possible to observe, not so much from the older histories that we have handed down, as from the things near at hand, if you examine what has been impiously completed by the pestilence of those unworthily exercising power,
 
 Decision rows:
 - None recorded.
@@ -16788,7 +18112,7 @@ Greek: καὶ προσέχειν εἰς τὰ μετὰ ταῦτα εἰς τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and to pay attention to the things after these, so that we may provide the kingdom undisturbed with peace for all humans,
+Draft translation: and to take care for the future, so that we may provide the kingdom undisturbed with peace for all people,
 
 Decision rows:
 - None recorded.
@@ -16808,7 +18132,7 @@ Greek: χρώμενοι ταῖς μεταβολαῖς, τὰ δὲ ὑπὸ τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: using changes and always discerning the things coming under sight with a more equitable response.
+Draft translation: making use of changes and always discerning the things coming into view with a more equitable response.
 
 Decision rows:
 - None recorded.
@@ -16868,7 +18192,7 @@ Greek: οὐκ ἐνέγκας δὲ τὴν ὑπερηφανίαν ἐπετή
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but not bearing the arrogance, he undertook to deprive us of rule and of spirit,
+Draft translation: but unable to bear his arrogance, he undertook to deprive us of rule and of spirit,
 
 Decision rows:
 - None recorded.
@@ -16888,7 +18212,7 @@ Greek: τόν τε ἡμέτερον σωτῆρα καὶ διαπαντὸς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: having requested for destruction our savior and continual benefactor Mordecai and Esther, the blameless sharer of the kingdom, with all their nation, by many-woven deceptions of methods;
+Draft translation: having requested for destruction our savior and continual benefactor Mordecai and Esther, the blameless sharer of the kingdom, with all their nation, by many-woven deceptive methods;
 
 Decision rows:
 - None recorded.
@@ -16988,7 +18312,7 @@ Greek: τὸ δὲ ἀντίγραφον τῆς ἐπιστολῆς ταύτη
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And setting out the copy of this letter openly in every place, allow the Jews to use their own customs and strengthen them together, so that on the thirteenth of the twelfth month Adar, the same day, they may defend themselves against those attacking them in time of affliction;
+Draft translation: And setting out the copy of this letter openly in every place, allow the Jews to use their own customs and give them support, so that on the thirteenth of the twelfth month Adar, the same day, they may defend themselves against those attacking them in time of affliction;
 
 Decision rows:
 - None recorded.
@@ -17048,7 +18372,7 @@ Greek: πᾶσα δὲ πόλις ἢ χώρα τὸ σύνολον, ἥτις �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But every city or country as a whole, whoever does not do according to these things, will be consumed with spear and fire in wrath; it will be made not only untrodden by humans, but also most hateful to wild beasts and birds for all time.
+Draft translation: But every city or country, without exception, that does not do according to these things will be consumed with spear and fire in wrath; it will be made not only untrodden by people, but also most hateful to wild beasts and birds for all time.
 
 Decision rows:
 - None recorded.
@@ -17066,11 +18390,31 @@ Variant notes:
 
 ### Greek Esther Additions 10:3α
 
-Greek: Καὶ εἶπε Μαρδοχαῖος· παρὰ τοῦ Θεοῦ ἐγένετο ταῦτα. 3β ἐμνήσθη γὰρ περὶ τοῦ ἐνυπνίου, οὗ εἶδον περὶ τῶν λόγων τούτων· οὐδὲ γὰρ παρῆλθεν ἀπ᾿ αὐτῶν λόγος.
+Greek: Καὶ εἶπε Μαρδοχαῖος· παρὰ τοῦ Θεοῦ ἐγένετο ταῦτα.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Mordecai said, "These things came from God. [3β] For I remembered concerning the dream that I saw concerning these matters; for no word from them passed by."
+Draft translation: And Mordecai said, "These things came from God.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### Greek Esther Additions 10:3β
+
+Greek: ἐμνήσθη γὰρ περὶ τοῦ ἐνυπνίου, οὗ εἶδον περὶ τῶν λόγων τούτων· οὐδὲ γὰρ παρῆλθεν ἀπ᾿ αὐτῶν λόγος.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: For I remembered the dream that I saw concerning these matters; for not one word from them passed by."
 
 Decision rows:
 - None recorded.
@@ -17090,7 +18434,7 @@ Greek: ἡ μικρὰ πηγή, ἣ ἐγένετο ποταμὸς καὶ ἦ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The small spring, which became a river, and there was light and sun and much water: Esther is the river, whom the king married and made queen.
+Draft translation: The small spring, which became a river, and there was light and sun and much water: Esther is the river; the king married her and made her queen.
 
 Decision rows:
 - None recorded.
@@ -17190,7 +18534,7 @@ Greek: καὶ ἦλθον οἱ δύο κλῆροι οὗτοι εἰς ὥρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and these two lots came to hour and time and day of judgment before God and all the nations,
+Draft translation: and these two lots came to an hour and time and day of judgment before God and all the nations,
 
 Decision rows:
 - None recorded.
@@ -17230,7 +18574,7 @@ Greek: καὶ ἔσονται αὐτοῖς αἱ ἡμέραι αὗται �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and these days will be for them in the month Adar, on the fourteenth and fifteenth of the month, with gathering and joy and gladness before God by generations forever among his people Israel.
+Draft translation: and these days will be for them in the month Adar, on the fourteenth and fifteenth of the month, with gathering and joy and gladness before God through generations forever among his people Israel.
 
 Decision rows:
 - None recorded.
@@ -17374,7 +18718,7 @@ Greek: φιλάνθρωπον γὰρ πνεῦμα σοφία καὶ οὐκ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For wisdom is a man-loving spirit, and it will not acquit a blasphemer from his lips; because God is witness of his kidneys and a true overseer of his heart and a hearer of his tongue;
+Draft translation: For wisdom is a spirit loving mankind, and it will not acquit a blasphemer from his lips; because God is witness of his kidneys and a true overseer of his heart and a hearer of his tongue;
 
 Decision rows:
 - None recorded.
@@ -17534,7 +18878,7 @@ Greek: ἔκτισε γὰρ εἰς τὸ εἶναι τὰ πάντα, καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For he created all things for being, and the generations of the world are saving, and there is no poison of destruction in them, nor kingdom of Hades upon earth.
+Draft translation: For he created all things for being, and the generative powers of the world are saving, and there is no poison of destruction in them, nor kingdom of Hades upon earth.
 
 Decision rows:
 - None recorded.
@@ -17636,7 +18980,7 @@ Greek: οὗ σβεσθέντος τέφρα ἀποβήσεται τὸ σῶμ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: when it is quenched, the body will turn out as ashes, and the spirit will be poured out like loose air.
+Draft translation: when it is quenched, the body will turn out as ashes, and the spirit will be poured out like thin air.
 
 Decision rows:
 - None recorded.
@@ -17756,7 +19100,7 @@ Greek: μηδεὶς ἡμῶν ἄμοιρος ἔστω τῆς ἡμετέρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Let none of us be without share in our proud revelry; let us leave tokens of gladness everywhere, because this is our portion and this lot.
+Draft translation: Let none of us be without share in our proud revelry; let us leave tokens of gladness everywhere, because this is our portion and this is our lot.
 
 Decision rows:
 - None recorded.
@@ -17796,7 +19140,7 @@ Greek: ἔστω δὲ ἡμῶν ἡ ἰσχὺς νόμος τῆς δικαι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But let our strength be law of righteousness, for the weak thing is proved useless.
+Draft translation: But let our strength be law of righteousness, for what is weak is proved useless.
 
 Decision rows:
 - None recorded.
@@ -17816,7 +19160,7 @@ Greek: ἐνεδρεύσωμεν δὲ τὸν δίκαιον, ὅτι δύσχ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And let us lie in wait for the righteous man, because he is troublesome to us and opposes our works and reproaches us with sins of law and reports against us sins of our discipline;
+Draft translation: And let us lie in wait for the righteous man, because he is troublesome to us and opposes our works and reproaches us with sins against law and charges us with sins against our discipline;
 
 Decision rows:
 - None recorded.
@@ -17896,7 +19240,7 @@ Greek: εἰς κίβδηλον ἐλογίσθημεν αὐτῷ, καὶ ἀ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: we were counted to him as counterfeit, and he keeps away from our ways as from impurities; he blesses the last things of the righteous and boasts of God as father.
+Draft translation: we were counted to him as counterfeit, and he keeps away from our ways as from impurities; he blesses the ends of the righteous and boasts of God as father.
 
 Decision rows:
 - None recorded.
@@ -18076,7 +19420,7 @@ Greek: πειράζουσι δὲ αὐτὸν οἱ τῆς ἐκείνου μ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and those who are of his portion experience him.
+Draft translation: and those who are of his portion experience death.
 
 Decision rows:
 - None recorded.
@@ -18198,7 +19542,7 @@ Greek: ὡς χρυσὸν ἐν χωνευτηρίῳ ἐδοκίμασεν α�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: as gold in a furnace he tested them, and as a whole-burnt offering of sacrifice he accepted them.
+Draft translation: as gold in a furnace he tested them, and as a whole-burnt sacrificial offering he accepted them.
 
 Decision rows:
 - None recorded.
@@ -18398,7 +19742,7 @@ Greek: τέκνα δὲ μοιχῶν ἀτέλεστα ἔσται, καὶ ἐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But children of adulterers will be incomplete, and seed from a lawless bed will vanish.
+Draft translation: But children of adulterers will be incomplete, and seed from a lawless bed will disappear.
 
 Decision rows:
 - None recorded.
@@ -18500,7 +19844,7 @@ Greek: παροῦσάν τε μιμοῦνται αὐτὴν καὶ ποθο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: while present they imitate it, and when departed they long for it; and in the age, wearing a crown, it marches in procession, having won the contest of undefiled contests.
+Draft translation: while present they imitate it, and when departed they long for it; and in the age, wearing a crown, it marches in procession, having won the contest for undefiled prizes.
 
 Decision rows:
 - None recorded.
@@ -18580,7 +19924,7 @@ Greek: ἐκ γὰρ ἀνόμων ὕπνων τέκνα γεννώμενα μ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for children born from lawless sleeps are witnesses of wickedness against parents in their examination.
+Draft translation: for children born from lawless unions are witnesses of wickedness against parents in their examination.
 
 Decision rows:
 - None recorded.
@@ -18640,7 +19984,7 @@ Greek: πολιὰ δέ ἐστι φρόνησις ἀνθρώποις καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but prudence is gray hair for men, and an unstained life is age of old age.
+Draft translation: but prudence is gray hair for men, and an unstained life is the maturity of old age.
 
 Decision rows:
 - None recorded.
@@ -18700,7 +20044,7 @@ Greek: βασκανία γὰρ φαυλότητος ἀμαυροῖ τὰ κα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for the evil eye of worthlessness darkens good things, and the wandering of desire changes an innocent mind.
+Draft translation: for the evil eye of worthlessness darkens good things, and the wandering of desire perverts an innocent mind.
 
 Decision rows:
 - None recorded.
@@ -18840,7 +20184,7 @@ Greek: καὶ ἔσονται μετὰ τοῦτο εἰς πτῶμα ἄτι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and they will be after this for a dishonored fall and for outrage among the dead forever, because he will burst them speechless, face down, and shake them from foundations, and to the last they will be made desolate, and they will be in pain, and their memory will perish.
+Draft translation: and they will be after this for a dishonored fall and for outrage among the dead forever, because he will break them speechless, face down, and shake them from foundations, and to the last they will be made desolate, and they will be in pain, and their memory will perish.
 
 Decision rows:
 - None recorded.
@@ -19002,7 +20346,7 @@ Greek: ἀνομίας ἐνεπλήσθημεν τρίβοις καὶ ἀπω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: we were filled with paths of lawlessness and destruction, and we journeyed through trackless deserts, but the way of the Lord we did not know.
+Draft translation: we were filled with lawless and destructive paths, and we journeyed through trackless deserts, but the way of the Lord we did not know.
 
 Decision rows:
 - None recorded.
@@ -19102,7 +20446,7 @@ Greek: ἢ ὡς βέλους βληθέντος ἐπὶ σκοπόν, τμηθ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: or as when an arrow is shot at a mark, the cut air immediately dissolved back into itself, so that its passage is unknown.
+Draft translation: or as when an arrow is shot at a mark, the cut air immediately resolved back into itself, so that its passage is unknown.
 
 Decision rows:
 - None recorded.
@@ -19424,7 +20768,7 @@ Greek: φρικτῶς καὶ ταχέως ἐπιστήσεται ὑμῖν, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Dreadfully and quickly he will stand upon you, because sharp judgment happens among those who excel.
+Draft translation: Dreadfully and quickly he will come upon you, because sharp judgment happens among those who excel.
 
 Decision rows:
 - None recorded.
@@ -19484,7 +20828,7 @@ Greek: τοῖς δὲ κραταιοῖς ἰσχυρὰ ἐφίσταται �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but for the mighty, strong searching stands near.
+Draft translation: but for the mighty, a strong searching stands near.
 
 Decision rows:
 - None recorded.
@@ -19524,7 +20868,7 @@ Greek: οἱ γὰρ φυλάξαντες ὁσίως τὰ ὅσια ὁσιω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for those who holy keep holy things will be made holy, and those taught them will find a defense.
+Draft translation: for those who devoutly keep holy things will be made holy, and those taught them will find a defense.
 
 Decision rows:
 - None recorded.
@@ -19584,7 +20928,7 @@ Greek: φθάνει τοὺς ἐπιθυμοῦντας προγνωσθῆνα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: she goes before those who desire her, to be known beforehand.
+Draft translation: she goes before those who desire her, making herself known beforehand.
 
 Decision rows:
 - None recorded.
@@ -19604,7 +20948,7 @@ Greek: ὁ ὀρθρίσας πρὸς αὐτὴν οὐ κοπιάσει, πά
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The one who rises early toward her will not toil, for he will find her sitting beside his gates.
+Draft translation: The one who rises early for her will not toil, for he will find her sitting beside his gates.
 
 Decision rows:
 - None recorded.
@@ -19704,7 +21048,7 @@ Greek: ἀφθαρσία δὲ ἐγγὺς εἶναι ποιεῖ Θεοῦ.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and incorruption makes one to be near God.
+Draft translation: and incorruption makes one near to God.
 
 Decision rows:
 - None recorded.
@@ -19824,7 +21168,7 @@ Greek: ὥστε παιδεύσθε τοῖς ρήμασί μου, καὶ ὠφ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore be disciplined by my sayings, and you will be benefited.
+Draft translation: Therefore receive discipline by my sayings, and you will be benefited.
 
 Decision rows:
 - None recorded.
@@ -19866,7 +21210,7 @@ Greek: δεκαμηνιαίῳ χρόνῳ παγεὶς ἐν αἵματι ἐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: in a ten-month time, coagulated in blood from seed of a man and pleasure that came together with sleep.
+Draft translation: in a ten-month time, coagulated in blood from seed of a man and pleasure joined with sleep.
 
 Decision rows:
 - None recorded.
@@ -19886,7 +21230,7 @@ Greek: καὶ ἐγώ δὲ γενόμενος ἔσπασα τὸν κοιν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And I also, when born, drew the common air and fell upon the same-suffering earth, crying the first voice like all, equally;
+Draft translation: And I also, when born, drew the common air and fell upon earth subject to the same suffering, crying the first voice like all, equally;
 
 Decision rows:
 - None recorded.
@@ -20026,7 +21370,7 @@ Greek: ὑπὲρ ὑγίειαν καὶ εὐμορφίαν ἠγάπησα α
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Above health and beauty I loved her, and chose to have her instead of light, because sleepless is the radiance from her.
+Draft translation: Above health and beauty I loved her, and chose to have her instead of light, because her radiance is sleepless.
 
 Decision rows:
 - None recorded.
@@ -20106,7 +21450,7 @@ Greek: ἀνεκλιπὴς γὰρ θησαυρός ἐστιν ἀνθρώπο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for she is an unfailing treasure for men, which those who used it stored up friendship toward God, being commended through the gifts from discipline.
+Draft translation: for she is an unfailing treasure for men, which those who used it stored up as friendship toward God, being commended through the gifts from discipline.
 
 Decision rows:
 - None recorded.
@@ -20166,7 +21510,7 @@ Greek: αὐτὸς γάρ μοι ἔδωκε τῶν ὄντων γνῶσιν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For he himself gave me unerring knowledge of the things that are, to know the constitution of the world and operation of elements,
+Draft translation: For he himself gave me unerring knowledge of the things that are, to know the constitution of the world and the working of elements,
 
 Decision rows:
 - None recorded.
@@ -20266,7 +21610,7 @@ Greek: Ἔστι γὰρ ἐν αὐτῇ πνεῦμα νοερόν, ἅγιο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For in her is a spirit intelligent, holy, only-born, manifold, subtle, easily moved, clear, undefiled, plain, unharmed, loving good, keen, unhindered, beneficent,
+Draft translation: For in her is a spirit intelligent, holy, unique, manifold, subtle, easily moved, clear, undefiled, plain, unharmed, loving good, keen, unhindered, beneficent,
 
 Decision rows:
 - None recorded.
@@ -20286,7 +21630,7 @@ Greek: φιλάνθρωπον, βέβαιον, ἀσφαλές, ἀμέριμν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: man-loving, firm, secure, without care, all-powerful, all-overseeing, and passing through all intelligent, pure, most subtle spirits.
+Draft translation: loving mankind, firm, secure, without care, all-powerful, all-overseeing, and passing through all intelligent, pure, most subtle spirits.
 
 Decision rows:
 - None recorded.
@@ -20346,7 +21690,7 @@ Greek: ἀπαύγασμα γάρ ἐστι φωτὸς ἀϊδίου καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For she is radiance of everlasting light and a spotless mirror of the operation of God and image of his goodness.
+Draft translation: For she is radiance of everlasting light and a spotless mirror of the working of God and image of his goodness.
 
 Decision rows:
 - None recorded.
@@ -20366,7 +21710,7 @@ Greek: μία δὲ οὖσα πάντα δύναται καὶ μένουσα �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And being one she can do all things, and remaining in herself she renews all things, and by generations, passing into holy souls, she prepares friends of God and prophets;
+Draft translation: And being one she can do all things, and remaining in herself she renews all things, and through generations, passing into holy souls, she prepares friends of God and prophets;
 
 Decision rows:
 - None recorded.
@@ -20488,7 +21832,7 @@ Greek: εὐγένειαν δοξάζει συμβίωσιν Θεοῦ ἔχου
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: She glorifies noble birth, having life together with God, and the Master of all loved her;
+Draft translation: She glorifies noble birth, having shared life with God, and the Master of all loved her;
 
 Decision rows:
 - None recorded.
@@ -20508,7 +21852,7 @@ Greek: μύστις γὰρ ἐστι τῆς τοῦ Θεοῦ ἐπιστήμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for she is an initiate of the knowledge of God and chooser of his works.
+Draft translation: for she is initiated into the knowledge of God and chooses his works.
 
 Decision rows:
 - None recorded.
@@ -20568,7 +21912,7 @@ Greek: καὶ εἰ δικαιοσύνην ἀγαπᾷ τις, οἱ πόνο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And if someone loves righteousness, her labors are virtues; for she teaches self-control and prudence, righteousness and courage, than which nothing is more useful in life for men.
+Draft translation: And if someone loves righteousness, her labors are virtues; for she teaches self-control and prudence, righteousness and courage, than which nothing is more useful in life for people.
 
 Decision rows:
 - None recorded.
@@ -20608,7 +21952,7 @@ Greek: ἔκρινα τοίνυν ταύτην ἀγαγέσθαι πρὸς σ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore I judged to bring her into life together, knowing that she will be counselor of good things and encouragement for cares and grief.
+Draft translation: Therefore I judged to bring her into shared life, knowing that she will be counselor of good things and encouragement for cares and grief.
 
 Decision rows:
 - None recorded.
@@ -20748,7 +22092,7 @@ Greek: εἰσελθὼν εἰς τὸν οἶκόν μου προσαναπα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: When I enter into my house I will rest together with her; for association with her has no bitterness, nor does life together with her have pain, but gladness and joy.
+Draft translation: When I enter into my house I will rest together with her; for association with her has no bitterness, nor does shared life with her have pain, but gladness and joy.
 
 Decision rows:
 - None recorded.
@@ -20784,11 +22128,11 @@ Variant notes:
 
 ### Wisdom 8:18
 
-Greek: καὶ ἐν φιλίᾳ αὐτῆς τέρψις ἀγαθὴ καὶ ἐν πόνοις χειρῶν αὐτῆς πλοῦτος ἀνεκλιπὴς καὶ ἐν συγγυμνασίᾳ ὁμιλίας αὐτῆς φρόνησις καὶ εὔκλεια ἐν κοινωνίᾳ λόγων αὐτῆς, περιῃ£ειν ζητῶν ὅπως λάβω αὐτὴν εἰς ἐμαυτόν.
+Greek: καὶ ἐν φιλίᾳ αὐτῆς τέρψις ἀγαθὴ καὶ ἐν πόνοις χειρῶν αὐτῆς πλοῦτος ἀνεκλιπὴς καὶ ἐν συγγυμνασίᾳ ὁμιλίας αὐτῆς φρόνησις καὶ εὔκλεια ἐν κοινωνίᾳ λόγων αὐτῆς, περιῄειν ζητῶν ὅπως λάβω αὐτὴν εἰς ἐμαυτόν.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and in friendship with her there is good delight, and in the labors of her hands unfailing wealth, and in training together in her conversation prudence, and good fame in fellowship of her words, I went around seeking how I might take her to myself.
+Draft translation: and in friendship with her there is good delight, and in the labors of her hands unfailing wealth, and in shared training with her conversation prudence, and good fame in fellowship of her words, I went around seeking how I might take her to myself.
 
 Decision rows:
 - None recorded.
@@ -20950,7 +22294,7 @@ Greek: ὅτι ἐγὼ δοῦλος σὸς καὶ υἱὸς τῆς παι�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: because I am your slave and son of your maidservant, a weak and short-lived man, and lesser in understanding of judgment and laws;
+Draft translation: because I am your slave and son of your maidservant, a weak and short-lived man, and inferior in understanding of judgment and laws;
 
 Decision rows:
 - None recorded.
@@ -21130,7 +22474,7 @@ Greek: λογισμοὶ γὰρ θνητῶν δειλοί, καὶ ἐπισφ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For reasonings of mortals are cowardly, and our thoughts are unsafe.
+Draft translation: For reasonings of mortals are timid, and our thoughts are uncertain.
 
 Decision rows:
 - None recorded.
@@ -21170,7 +22514,7 @@ Greek: καὶ μόλις εἰκάζομεν τὰ ἐπὶ γῆς καί τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And barely do we infer things upon earth, and things in our hands we find with labor; but things in heavens who has traced out?
+Draft translation: And with difficulty we infer things upon earth, and things in our hands we find with labor; but things in heavens who has traced out?
 
 Decision rows:
 - None recorded.
@@ -21312,7 +22656,7 @@ Greek: δι᾿ ὃν κατακλυζομένην γῆν πάλιν διέσω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: because of him, when the earth was being flooded, wisdom again saved it, steering the righteous man by cheap wood.
+Draft translation: because of him, when the earth was being flooded, wisdom again saved it, steering the righteous man by lowly wood.
 
 Decision rows:
 - None recorded.
@@ -21332,7 +22676,7 @@ Greek: αὕτη καὶ ἐν ὁμονοίᾳ πονηρίας ἐθνῶν σ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: She also, when nations were confounded in agreement of wickedness, knew the righteous man and kept him blameless to God, and preserved him strong against compassion for a child.
+Draft translation: She also, when nations were confounded in concord of wickedness, knew the righteous man and kept him blameless to God, and preserved him strong against tender affection for his child.
 
 Decision rows:
 - None recorded.
@@ -21372,7 +22716,7 @@ Greek: ἧς ἔτι μαρτύριον τῆς πονηρίας καπνιζο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: of whose wickedness a smoking waste still stands as witness, and plants bearing fruit in unfinished seasons, and a pillar of salt standing as memorial of a disbelieving soul.
+Draft translation: of whose wickedness a smoking waste still stands as witness, and plants bearing fruit in untimely seasons, and a pillar of salt standing as memorial of a disbelieving soul.
 
 Decision rows:
 - None recorded.
@@ -21392,7 +22736,7 @@ Greek: σοφίαν γὰρ παροδεύσαντες οὐ μόνον ἐβλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For passing by wisdom, they were harmed not only by not knowing good things, but also left behind for life a memorial of foolishness, so that in the things in which they stumbled, they could not even be hidden.
+Draft translation: For passing by wisdom, they were harmed not only by not knowing good things, but also left behind for life a memorial of foolishness, so that in the things in which they stumbled, they could not even escape notice.
 
 Decision rows:
 - None recorded.
@@ -21512,7 +22856,7 @@ Greek: συγκατέβη αὐτῷ εἰς λάκκον καὶ ἐν δεσμ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: she went down with him into a pit and did not leave him in bonds, until she brought to him scepters of kingdom and authority over those ruling him as tyrants; she also showed those who blamed him to be false and gave him everlasting glory.
+Draft translation: she went down with him into a pit and did not leave him in bonds, until she brought to him scepters of kingdom and authority over those who tyrannized him; she also showed those who blamed him to be false and gave him everlasting glory.
 
 Decision rows:
 - None recorded.
@@ -21572,7 +22916,7 @@ Greek: ἀπέδωκεν ὁσίοις μισθὸν κόπων αὐτῶν, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: She gave back to holy ones the wage of their labors, guided them in a wonderful way, and became for them a shelter by day and a flame of stars by night.
+Draft translation: She gave back to holy ones the wage of their labors, guided them in a wonderful way, and became for them a shelter by day and a flame of stars at night.
 
 Decision rows:
 - None recorded.
@@ -21612,7 +22956,7 @@ Greek: τοὺς δὲ ἐχθροὺς αὐτῶν κατέκλυσε καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but their enemies she flooded and bubbled them up from the depth of the abyss.
+Draft translation: but their enemies she flooded and boiled them up from the depth of the abyss.
 
 Decision rows:
 - None recorded.
@@ -21714,7 +23058,7 @@ Greek: ἀντέστησαν πολεμίοις καὶ ἠμύναντο ἐχ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: they stood against enemies and defended themselves from enemies.
+Draft translation: they stood against enemies and repelled foes.
 
 Decision rows:
 - None recorded.
@@ -21734,7 +23078,7 @@ Greek: ἐδίψησαν καὶ ἐπεκαλέσαντό σε, καὶ ἐδό
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: They thirsted and called upon you, and water was given to them from a sharp-edged rock, and healing of thirst from hard stone.
+Draft translation: They thirsted and called upon you, and water was given to them from a sharp-edged rock, and a remedy for thirst from hard stone.
 
 Decision rows:
 - None recorded.
@@ -21894,7 +23238,7 @@ Greek: διπλῆ γὰρ αὐτοὺς ἔλαβε λύπη· καὶ στε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for double grief took them, and a groaning at memories of the past things.
+Draft translation: for double grief took them, and a groaning at the memory of past things.
 
 Decision rows:
 - None recorded.
@@ -21934,7 +23278,7 @@ Greek: ὃν γὰρ ἐν ἐκθέσει πάλαι ριφέντα ἀπεῖ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for the one long before thrown out in exposure, whom they rejected with mockery, at the end of the outcomes they admired, having thirsted unlike the righteous.
+Draft translation: for the one long before cast out in exposure, whom they rejected with mockery, they admired at the end of the outcomes, having thirsted unlike the righteous.
 
 Decision rows:
 - None recorded.
@@ -22054,7 +23398,7 @@ Greek: καὶ χωρὶς δὲ τούτων, ἑνὶ πνεύματι πεσ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And even apart from these, they could fall by one breath, pursued by justice and winnowed by spirit of your power; but you ordered all things by measure and number and weight.
+Draft translation: And even apart from these, they could fall by one breath, pursued by justice and winnowed by the breath of your power; but you ordered all things by measure and number and weight.
 
 Decision rows:
 - None recorded.
@@ -22074,7 +23418,7 @@ Greek: τὸ γὰρ μεγάλως ἰσχύειν πάρεστί σοι πάν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For to have great strength is present to you always, and who will resist the might of your arm?
+Draft translation: For great strength is always present to you, and who will resist the might of your arm?
 
 Decision rows:
 - None recorded.
@@ -22094,7 +23438,7 @@ Greek: ὅτι ὡς ροπὴ ἐκ πλαστίγγων ὅλος ὁ κόσμ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: because the whole world before you is like a tilt from scales and like a drop of morning dew that came down upon earth.
+Draft translation: because the whole world before you is like a turn of the scales and like a drop of morning dew that came down upon earth.
 
 Decision rows:
 - None recorded.
@@ -22114,7 +23458,7 @@ Greek: ἐλεεῖς δὲ πάντας, ὅτι πάντα δύνασαι, κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But you show mercy to all, because you are able to do all things, and you overlook sins of men for repentance.
+Draft translation: But you show mercy to all, because you are able to do all things, and you overlook sins of people for repentance.
 
 Decision rows:
 - None recorded.
@@ -22216,7 +23560,7 @@ Greek: διὸ τοὺς παραπίπτοντας κατ᾿ ὀλίγον ἐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore those who fall aside you reprove little by little and, reminding them in the things by which they sin, you admonish them, so that being released from wickedness they may trust upon you, Lord.
+Draft translation: Therefore those who fall aside you reprove little by little and, reminding them in the things by which they sin, you admonish them, so that being released from wickedness they may trust in you, Lord.
 
 Decision rows:
 - None recorded.
@@ -22356,7 +23700,7 @@ Greek: οὐκ ἀδυνατῶν ἐν παρατάξει ἀσεβεῖς δι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: not being unable in battle array to give ungodly ones subject to righteous ones, or to crush them at once by terrible beasts or by sharp word,
+Draft translation: not because you were unable in battle array to give ungodly ones subject to righteous ones, or to crush them at once by terrible beasts or by sharp word,
 
 Decision rows:
 - None recorded.
@@ -22376,7 +23720,7 @@ Greek: κρίνων δὲ κατὰ βραχὺ ἐδίδους τόπον με�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but judging little by little, you gave a place of repentance, not being ignorant that their generation was wicked and their evil inborn and that their reasoning would surely not be changed forever.
+Draft translation: but judging little by little, you gave room for repentance, not being ignorant that their generation was wicked and their evil inborn and that their reasoning would surely not be changed forever.
 
 Decision rows:
 - None recorded.
@@ -22396,7 +23740,7 @@ Greek: σπέρμα γὰρ ἦν κατηραμένον ἀπ᾿ ἀρχῆς, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For they were accursed seed from the beginning, nor from fearing anyone did you give license for the things they sinned.
+Draft translation: For they were accursed seed from the beginning, nor was it from fear of anyone that you gave license for the things they sinned.
 
 Decision rows:
 - None recorded.
@@ -22416,7 +23760,7 @@ Greek: τίς γὰρ ἐρεῖ· τί ἐποίησας; ἢ τίς ἀντι�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For who will say, What have you done? Or who will stand against your judgment? And who will accuse you concerning nations that have perished, which you made? Or who will come into position against you as avenger for unrighteous men?
+Draft translation: For who will say, What have you done? Or who will stand against your judgment? And who will accuse you concerning nations that have perished, which you made? Or who will stand before you as avenger for unrighteous men?
 
 Decision rows:
 - None recorded.
@@ -22456,7 +23800,7 @@ Greek: οὔτε βασιλεὺς ἢ τύραννος ἀντοφθαλμῆσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: nor will king or ruler be able to face you concerning those whom you punished.
+Draft translation: nor will king or ruler be able to stand face-to-face with you concerning those whom you punished.
 
 Decision rows:
 - None recorded.
@@ -22516,7 +23860,7 @@ Greek: ἰσχὺν γὰρ ἐνδείκνυσαι ἀπιστούμενος �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For you show strength when you are disbelieved in perfection of power, and among those who know, you convict boldness.
+Draft translation: For you show strength when the perfection of your power is disbelieved, and among those who know, you convict boldness.
 
 Decision rows:
 - None recorded.
@@ -22556,7 +23900,7 @@ Greek: Ἐδίδαξας δέ σου τὸν λαὸν διά τῶν τοιού
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But you taught your people through such works that the righteous must be man-loving; and you made your sons of good hope, because you give repentance for sins.
+Draft translation: But you taught your people through such works that the righteous one must love mankind; and you made your sons of good hope, because you give repentance for sins.
 
 Decision rows:
 - None recorded.
@@ -22576,7 +23920,7 @@ Greek: εἰ γὰρ ἐχθροὺς παίδων σου καὶ ὀφειλο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For if enemies of your children, owed to death, you punished with so much attention and leniency, giving times and place through which they might be released from wickedness,
+Draft translation: For if enemies of your children, deserving death, you punished with so much attention and leniency, giving times and place through which they might be released from wickedness,
 
 Decision rows:
 - None recorded.
@@ -22616,7 +23960,7 @@ Greek: Ἡμᾶς οὖν παιδεύων τοὺς ἐχθροὺς ἡμῶν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore while disciplining us, you scourge our enemies by tens of thousands, so that when judging we may be anxious for your goodness, and when being judged we may expect mercy.
+Draft translation: Therefore while disciplining us, you scourge our enemies with countless lashes, so that when judging we may care for your goodness, and when being judged we may expect mercy.
 
 Decision rows:
 - None recorded.
@@ -22676,7 +24020,7 @@ Greek: διὰ τοῦτο ὡς παισὶν ἀλογίστοις τὴν κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Because of this, as to unreasonable children, you sent judgment for mockery.
+Draft translation: Because of this, as to unreasonable children, you sent judgment as mockery.
 
 Decision rows:
 - None recorded.
@@ -22696,7 +24040,7 @@ Greek: οἱ δὲ παιγνίοις ἐπιτιμήσεως μὴ νουθετ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But those not admonished by playthings of rebuke will experience judgment worthy of God.
+Draft translation: But those not admonished by playful rebukes will experience judgment worthy of God.
 
 Decision rows:
 - None recorded.
@@ -22738,7 +24082,7 @@ Greek: ΜΑΤΑΙΟΙ μὲν γὰρ πάντες ἄνθρωποι φύσει,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For all men were vain by nature, in whom ignorance of God was present, and from the seen good things they did not have strength to know the One who is, nor by attending to works did they recognize the craftsman;
+Draft translation: For all men were vain by nature, in whom ignorance of God was present, and from the seen good things they were unable to know the One who is, nor by attending to works did they recognize the craftsman;
 
 Decision rows:
 - None recorded.
@@ -22778,7 +24122,7 @@ Greek: ὧν εἰ μὲν τῇ καλλονῇ τερπόμενοι ταῦτ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If indeed, delighting in beauty, they assumed these things to be gods, let them know how much better than these the Master is, for the origin-ruler of beauty created them;
+Draft translation: If indeed, delighting in beauty, they assumed these things to be gods, let them know how much better than these the Master is, for the originator of beauty created them;
 
 Decision rows:
 - None recorded.
@@ -22798,7 +24142,7 @@ Greek: εἰ δὲ δύναμιν καὶ ἐνέργειαν ἐκπλαγέν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but if, astonished at power and operation, let them understand from them how much more powerful the one who made them is;
+Draft translation: but if they were astonished at power and working, let them understand from these things how much more powerful the one who made them is;
 
 Decision rows:
 - None recorded.
@@ -22818,7 +24162,7 @@ Greek: ἐκ γὰρ μεγέθους καλλονῆς κτισμάτων ἀν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for from the greatness and beauty of created things, analogously their origin-maker is contemplated.
+Draft translation: for from the greatness and beauty of created things, by analogy their maker is perceived.
 
 Decision rows:
 - None recorded.
@@ -22898,7 +24242,7 @@ Greek: εἰ γὰρ τοσοῦτον ἴσχυσαν εἰδέναι, ἵνα 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for if they had strength to know so much, so that they could aim at the age, how did they not more quickly find the Master of these things?
+Draft translation: for if they had strength to know so much, so that they could make conjecture about the age, how did they not more quickly find the Master of these things?
 
 Decision rows:
 - None recorded.
@@ -22918,7 +24262,7 @@ Greek: Ταλαίπωροι δὲ καὶ ἐν νεκροῖς αἱ ἐλπί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But miserable, and among the dead are their hopes, are those who called gods works of men's hands, gold and silver, practice of art, and likenesses of living creatures, or useless stone, work of an ancient hand.
+Draft translation: But miserable, and among the dead are their hopes, are those who called gods the works of men's hands: gold and silver, a work of art, and likenesses of living creatures, or useless stone, work of an ancient hand.
 
 Decision rows:
 - None recorded.
@@ -22958,7 +24302,7 @@ Greek: τὰ δὲ ἀποβλήματα τῆς ἐργασίας εἰς ἑτ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and spending the castoffs of the work for preparation of food, was filled;
+Draft translation: and using up the castoffs of the work for preparation of food, was filled;
 
 Decision rows:
 - None recorded.
@@ -22978,7 +24322,7 @@ Greek: τὸ δὲ ἐξ αὐτῶν ἀπόβλημα εἰς οὐθὲν ε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but the castoff from them, useful for nothing, crooked wood and grown together with knots, taking it, he carved it in care of his idleness and by experience of understanding shaped it; he likened it to an image of man,
+Draft translation: but the castoff from them, useful for nothing, crooked wood and grown together with knots, taking it, he carved it with the care of his leisure and by experience of understanding shaped it; he likened it to an image of man,
 
 Decision rows:
 - None recorded.
@@ -23058,7 +24402,7 @@ Greek: περὶ δὲ κτημάτων καὶ γάμων αὐτοῦ καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But praying about his possessions and his marriages and children, he is not ashamed to speak to the soulless thing, and about health he calls upon the weak thing,
+Draft translation: But praying about his possessions and his marriages and children, he is not ashamed to speak to the soulless thing, and about health he calls upon the thing that is weak,
 
 Decision rows:
 - None recorded.
@@ -23078,7 +24422,7 @@ Greek: περὶ δὲ ζωῆς τὸν νεκρὸν ἀξιοῖ, περὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and about life he petitions the dead thing, and about aid he entreats the most inexperienced thing, and about travel the thing unable even to use a footstep,
+Draft translation: and about life he petitions the dead thing, and about aid he entreats the thing utterly inexperienced, and about travel the thing unable even to use its feet,
 
 Decision rows:
 - None recorded.
@@ -23098,7 +24442,7 @@ Greek: περὶ δὲ πορισμοῦ καὶ ἐργασίας καὶ χε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and about gain and work and success of hands he asks good activity from the thing most inactive in hands.
+Draft translation: and about gain and work and success of hands he asks active success from the thing most inactive in hands.
 
 Decision rows:
 - None recorded.
@@ -23140,7 +24484,7 @@ Greek: ἐκεῖνο μὲν γὰρ ὄρεξις πορισμῶν ἐπεν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For desire of gains devised that one, and craftswoman wisdom constructed it;
+Draft translation: For desire of gains devised that one, and wisdom, the craftswoman, constructed it;
 
 Decision rows:
 - None recorded.
@@ -23180,7 +24524,7 @@ Greek: δεικνὺς ὅτι δύνασαι ἐκ παντὸς σώζειν, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: showing that you can save from every thing, so that even without skill someone may embark.
+Draft translation: showing that you can save from anything, so that even without skill someone may embark.
 
 Decision rows:
 - None recorded.
@@ -23200,7 +24544,7 @@ Greek: θέλεις δὲ μή ἀργὰ εἶναι τὰ τῆς σοφίας
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But you want the works of your wisdom not to be idle; therefore men entrust souls even to smallest wood, and passing through surge by raft they were saved.
+Draft translation: But you want the works of your wisdom not to be idle; therefore people entrust souls even to the smallest wood, and passing through a surge by raft they were saved.
 
 Decision rows:
 - None recorded.
@@ -23220,7 +24564,7 @@ Greek: καὶ ἀρχῆς γὰρ ἀπολλυμένων ὑπερηφάνω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For also in the beginning, when proud giants were perishing, the hope of the world, taking refuge upon a raft, left to the age seed of generation, steered by your hand.
+Draft translation: For also in the beginning, when proud giants were perishing, the hope of the world, taking refuge upon a raft, left seed of generation to the age, steered by your hand.
 
 Decision rows:
 - None recorded.
@@ -23260,7 +24604,7 @@ Greek: τὸ χειροποίητον δέ, ἐπικατάρατον αὐτὸ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but the handmade thing is accursed, itself and the one who made it, because he worked it, and the corruptible thing was named god.
+Draft translation: but the handmade thing is accursed, itself and the one who made it, because he worked it, and the corruptible thing was named a god.
 
 Decision rows:
 - None recorded.
@@ -23320,7 +24664,7 @@ Greek: διὰ τοῦτο καὶ ἐν εἰδώλοις ἐθνῶν ἐπι�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Because of this also in idols of nations there will be visitation, because in a creature of God they became an abomination and snares to souls of men and a trap to feet of foolish ones.
+Draft translation: Because of this also among idols of nations there will be visitation, because in a created thing of God they became an abomination and snares to souls of men and a trap to feet of foolish ones.
 
 Decision rows:
 - None recorded.
@@ -23340,7 +24684,7 @@ Greek: Ἀρχὴ γὰρ πορνείας ἐπίνοια εἰδώλων, ε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For beginning of fornication is device of idols, and invention of them corruption of life.
+Draft translation: For the beginning of fornication is the devising of idols, and their invention is corruption of life.
 
 Decision rows:
 - None recorded.
@@ -23380,7 +24724,7 @@ Greek: κενοδοξίᾳ γὰρ ἀνθρώπων εἰσῆλθεν εἰς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for through empty glory of men they entered into the world, and because of this a short end for them was devised.
+Draft translation: for through the vainglory of men they entered into the world, and because of this a short end for them was devised.
 
 Decision rows:
 - None recorded.
@@ -23400,7 +24744,7 @@ Greek: ἀώρῳ γὰρ πένθει τρυχόμενος πατήρ, τοῦ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For a father worn down by untimely mourning, having made an image of a child quickly taken away, then honored the dead man as god and handed down mysteries and rites to those under his hand.
+Draft translation: For a father worn down by untimely mourning, having made an image of a child quickly taken away, then honored as a god the man who was dead and handed down mysteries and rites to those under his hand.
 
 Decision rows:
 - None recorded.
@@ -23460,7 +24804,7 @@ Greek: εἰς ἐπίτασιν δὲ θρησκείας καὶ τοὺς ἀ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the ambition of the craftsman urged even those ignorant into intensification of worship;
+Draft translation: And the ambition of the craftsman urged even those ignorant into increased worship;
 
 Decision rows:
 - None recorded.
@@ -23500,7 +24844,7 @@ Greek: τὸ δὲ πλῆθος ἐφελκόμενον διὰ τὸ εὔχα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and the multitude, drawn by grace of the workmanship, now reckoned as object of worship the man honored a little before.
+Draft translation: and the multitude, drawn by the charm of the workmanship, now reckoned as an object of worship the man honored a little before.
 
 Decision rows:
 - None recorded.
@@ -23520,7 +24864,7 @@ Greek: καὶ τοῦτο ἐγένετο τῷ βίῳ εἰς ἔνεδρον
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And this became an ambush for life, because men, enslaved either to misfortune or tyranny, put the incommunicable name upon stones and woods.
+Draft translation: And this became a snare for life, because men, enslaved either to misfortune or tyranny, put the incommunicable name upon stones and pieces of wood.
 
 Decision rows:
 - None recorded.
@@ -23540,7 +24884,7 @@ Greek: Εἶτ᾿ οὐκ ἤρκεσε τὸ πλανᾶσθαι περὶ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then it was not enough to be deceived concerning the knowledge of God, but also, living in great war of ignorance, they address so many evils as peace.
+Draft translation: Then it was not enough to be deceived concerning the knowledge of God, but also, living in a great war of ignorance, they call such great evils peace.
 
 Decision rows:
 - None recorded.
@@ -23580,7 +24924,7 @@ Greek: οὔτε βίους οὔτε γάμους καθαροὺς ἔτι φ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: they no longer guard either lives or marriages pure, but one kills another by lying in wait, or pains him by adulterating.
+Draft translation: they no longer guard either lives or marriages pure, but one kills another by lying in wait, or grieves him by committing adultery.
 
 Decision rows:
 - None recorded.
@@ -23600,7 +24944,7 @@ Greek: πάντας δ᾿ ἐπιμὶξ ἔχει αἷμα καὶ φόνος,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And all things mixed together have blood and murder, theft and deceit, corruption, faithlessness, disturbance, perjury, tumult of good things,
+Draft translation: And all things are mixed together: blood and murder, theft and deceit, corruption, faithlessness, disturbance, perjury, tumult of good things,
 
 Decision rows:
 - None recorded.
@@ -23660,7 +25004,7 @@ Greek: ἢ γὰρ εὐφραινόμενοι μεμήνασιν ἢ προφη
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for either rejoicing they are mad, or they prophesy lies, or live unrighteously, or quickly perjure themselves;
+Draft translation: for either in their rejoicing they rage madly, or they prophesy lies, or live unrighteously, or quickly perjure themselves;
 
 Decision rows:
 - None recorded.
@@ -23680,7 +25024,7 @@ Greek: ἀψύχοις γὰρ πεποιθότες εἰδώλοις κακῶ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for having trusted in soulless idols, having sworn wickedly, they do not expect to be harmed.
+Draft translation: for having trusted in soulless idols, having sworn wickedly, they do not expect to suffer harm.
 
 Decision rows:
 - None recorded.
@@ -23700,7 +25044,7 @@ Greek: ἀμφότερα δὲ αὐτοὺς μετελεύσεται τὰ δ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But just things will pursue them both, because they thought wickedly concerning God by attending to idols and swore unrighteously in deceit, despising holiness;
+Draft translation: But justice will pursue them in both ways, because they thought wickedly concerning God by attending to idols and swore unrighteously in deceit, despising holiness;
 
 Decision rows:
 - None recorded.
@@ -23742,7 +25086,7 @@ Greek: ΣΥ δὲ ὁ Θεὸς ἡμῶν χρηστὸς καὶ ἀληθής
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But you, our God, are kind and true, longsuffering and administering all things in mercy.
+Draft translation: But you, our God, are kind and true, longsuffering and governing all things in mercy.
 
 Decision rows:
 - None recorded.
@@ -23762,7 +25106,7 @@ Greek: καὶ γὰρ ἐὰν ἁμάρτωμεν, σοί ἐσμεν, εἰδ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For even if we sin, we are yours, knowing your dominion; but we will not sin, knowing that we have been reckoned to you.
+Draft translation: For even if we sin, we are yours, knowing your dominion; but we will not sin, knowing that we have been counted as yours.
 
 Decision rows:
 - None recorded.
@@ -23822,7 +25166,7 @@ Greek: ὧν ὄψις ἄφροσιν εἰς ὄνειδος ἔρχεται, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: whose sight comes to foolish ones for reproach, and he longs for the breathless form of a dead image.
+Draft translation: whose sight comes to foolish ones for reproach, and one longs for the breathless form of a dead image.
 
 Decision rows:
 - None recorded.
@@ -23842,7 +25186,7 @@ Greek: κακῶν ἐρασταὶ ἄξιοί τε τοιούτων ἐλπί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Lovers of evils are worthy of such hopes, both those doing and those longing and those revering.
+Draft translation: Lovers of evils are worthy of such hopes: those making, those longing, and those revering.
 
 Decision rows:
 - None recorded.
@@ -23882,7 +25226,7 @@ Greek: καὶ κακόμοχθος θεὸν μάταιον ἐκ τοῦ αὐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And with evil toil he molds a vain god from the same clay, who, having been born from earth shortly before, after a little goes to where he was taken from, when demanded back for the debt of soul.
+Draft translation: And with evil toil he molds a vain god from the same clay, who, having been born from earth shortly before, after a little goes to where he was taken from, when the debt of his soul is demanded back.
 
 Decision rows:
 - None recorded.
@@ -23902,7 +25246,7 @@ Greek: ἀλλ᾿ ἔστιν αὐτῷ φροντὶς οὐχ ὅτι μέλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But his concern is not that he is about to be weary, nor that he has a short-ended life, but he competes with goldsmiths and silversmiths, and imitates bronze-molders, and considers it glory that he molds counterfeits.
+Draft translation: But his concern is not that he is about to grow weary, nor that he has a short-lived life, but he competes with goldsmiths and silversmiths, and imitates bronze-molders, and considers it glory that he molds counterfeits.
 
 Decision rows:
 - None recorded.
@@ -23982,7 +25326,7 @@ Greek: οὗτος γὰρ παρὰ πάντας οἶδεν ὅτι ἁμαρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For this one beyond all knows that he sins, making brittle vessels and carved images from earthy matter.
+Draft translation: For this one more than all knows that he sins, making brittle vessels and carved images from earthy matter.
 
 Decision rows:
 - None recorded.
@@ -24002,7 +25346,7 @@ Greek: πάντες δ᾿ ἀφρονέστατοι καὶ τάλαντες ὑ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But most foolish of all and wretched beyond an infant's soul were enemies of your people, having oppressed it,
+Draft translation: But most foolish of all and more wretched than an infant's soul were enemies of your people, having oppressed it,
 
 Decision rows:
 - None recorded.
@@ -24042,7 +25386,7 @@ Greek: ἄθρωπος γὰρ ἐποίησεν αὐτούς, καὶ τὸ π
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For man made them, and having borrowed spirit he formed them; for no man has strength to form a god like himself.
+Draft translation: For man made them, and having borrowed spirit he formed them; for no man is able to form a god like himself.
 
 Decision rows:
 - None recorded.
@@ -24144,7 +25488,7 @@ Greek: ἀνθ᾿ ἧς κολάσεως εὐεργετήσας τὸν λαό�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Instead of this punishment, benefiting your people, you prepared for desire of appetite a strange taste, food of quail,
+Draft translation: Instead of this punishment, benefiting your people, you prepared for the desire of appetite a strange taste, quail as food,
 
 Decision rows:
 - None recorded.
@@ -24184,7 +25528,7 @@ Greek: ἔδει γὰρ ἐκείνοις μὲν ἀπαραίτητον ἔν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For it was necessary for inescapable want to come upon those tyrannizing, but for these only to be shown how their enemies were tormented.
+Draft translation: For it was necessary for inescapable want to come upon the tyrants, but for these only to be shown how their enemies were tormented.
 
 Decision rows:
 - None recorded.
@@ -24304,7 +25648,7 @@ Greek: τοὺς δὲ υἱούς σου οὐδὲ ἰοβόλων δρακό�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but teeth of venomous dragons did not overcome your sons, for your mercy came opposite and healed them.
+Draft translation: but teeth of venomous dragons did not overcome your sons, for your mercy came to meet them and healed them.
 
 Decision rows:
 - None recorded.
@@ -24324,7 +25668,7 @@ Greek: εἰς γὰρ ὑπόμνησιν τῶν λογίων σου ἐνεκ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For for reminder of your oracles they were pierced and quickly saved, lest, falling into deep forgetfulness, they become severed from your good deed.
+Draft translation: For as a reminder of your oracles they were pierced and quickly saved, lest, falling into deep forgetfulness, they become severed from your benefit.
 
 Decision rows:
 - None recorded.
@@ -24364,7 +25708,7 @@ Greek: σὺ γὰρ ζωῆς καὶ θανάτου ἐξουσίαν ἔχε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For you have authority of life and death, and you bring down to gates of Hades and bring up.
+Draft translation: For you have authority over life and death, and you bring down to gates of Hades and bring up.
 
 Decision rows:
 - None recorded.
@@ -24444,7 +25788,7 @@ Greek: τὸ γὰρ παραδοξότατον, ἐν τῷ πάντα σβεν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For the most paradoxical thing: in water that quenches all things fire worked more; for the world is defender of righteous ones.
+Draft translation: For the most astonishing thing: in water that quenches all things fire worked more; for the world is defender of righteous ones.
 
 Decision rows:
 - None recorded.
@@ -24504,7 +25848,7 @@ Greek: ἀνθ᾿ ὧν ἀγγέλων τροφὴν ἐψώμισας τὸν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Instead of these things you fed your people with food of angels and sent them prepared bread from heaven without toil, able to provide every pleasure and suited to every taste;
+Draft translation: Instead of these things you fed your people with angels' food and sent them prepared bread from heaven without toil, able to provide every pleasure and suited to every taste;
 
 Decision rows:
 - None recorded.
@@ -24524,7 +25868,7 @@ Greek: ἡ μὲν γὰρ ὑπόστασίς σου τὴν σὴν γλυκύ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for your substance manifested your sweetness toward children, and serving the desire of the one who took it, it changed itself toward whatever anyone wished.
+Draft translation: for your sustenance manifested your sweetness toward children, and serving the desire of the one who took it, it changed itself toward whatever anyone wished.
 
 Decision rows:
 - None recorded.
@@ -24544,7 +25888,7 @@ Greek: χιὼν δὲ καὶ κρύσταλλος ὑπέμεινε πῦρ κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But snow and crystal endured fire and did not melt, so that they might know that fire blazing in hail and flashing in rains destroyed fruits of enemies;
+Draft translation: But snow and crystal endured fire and did not melt, so that they might know that fire blazing in hail and flashing in rains destroyed the fruits of enemies;
 
 Decision rows:
 - None recorded.
@@ -24624,7 +25968,7 @@ Greek: ἵνα μάθωσιν οἱ υἱοί σου, οὓς ἠγάπησας,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: so that your sons, whom you loved, Lord, might learn that not the births of fruits nourish man, but your word preserves those who trust you.
+Draft translation: so that your sons, whom you loved, Lord, might learn that not the growths of fruits nourish man, but your word preserves those who trust you.
 
 Decision rows:
 - None recorded.
@@ -24664,7 +26008,7 @@ Greek: ὅπως γνωστὸν ᾖ ὅτι δεῖ φθάνειν τὸν ἥ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: so that it might be known that one must rise before the sun for thanksgiving to you and meet you at the rising of light.
+Draft translation: so that it might be known that one must rise before the sun for thanksgiving to you and appeal to you at the rising of light.
 
 Decision rows:
 - None recorded.
@@ -24706,7 +26050,7 @@ Greek: ΜΕΓΑΛΑΙ γάρ σου αἱ κρίσεις καὶ δυσδιήγ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For your judgments are great and hard to explain; because of this undisciplined souls wandered.
+Draft translation: For your judgments are great and hard to narrate; because of this undisciplined souls wandered.
 
 Decision rows:
 - None recorded.
@@ -24806,7 +26150,7 @@ Greek: διεφαίνετο δ᾿ αὐτοῖς μόνον αὐτομάτη π
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But there appeared to them only self-kindled fire full of fear, and being terrified by that sight not seen, they considered the things seen to be worse.
+Draft translation: But there appeared to them only self-kindled fire full of fear, and being terrified by that unseen sight, they considered the things seen to be worse.
 
 Decision rows:
 - None recorded.
@@ -24866,7 +26210,7 @@ Greek: καὶ γὰρ εἰ μηδὲν αὐτοὺς ταραχῶδες ἐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For even if nothing troubling frightened them, scared out of their senses by passing of vermin and hissing of reptiles, they were perishing trembling and refusing to look at air that could nowhere be fled.
+Draft translation: For even if nothing troubling frightened them, scared out of their senses by passing of vermin and hissing of reptiles, they were perishing trembling and refusing to look at air from which there was nowhere to flee.
 
 Decision rows:
 - None recorded.
@@ -24886,7 +26230,7 @@ Greek: δειλὸν γὰρ ἰδίως πονηρία μαρτυρεῖ κατ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For wickedness, condemned by its own witness, is cowardly, and, being constrained by conscience, always takes up the difficult things;
+Draft translation: For wickedness, condemned by its own witness, is cowardly, and, being constrained by conscience, always takes up harsh things;
 
 Decision rows:
 - None recorded.
@@ -24906,7 +26250,7 @@ Greek: οὐθὲν γάρ ἐστι φόβος εἰ μὴ προδοσία τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for fear is nothing except betrayal of helps from reasoning.
+Draft translation: for fear is nothing except betrayal of the helps that come from reasoning.
 
 Decision rows:
 - None recorded.
@@ -24966,7 +26310,7 @@ Greek: τὰ μὲν τέρασιν ἠλαύνοντο φαντασμάτων, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: were partly driven by monstrosities of phantoms, and partly paralyzed by betrayal of soul; for sudden and unexpected fear came upon them.
+Draft translation: were partly driven by monstrous phantoms, and partly paralyzed by betrayal of soul; for sudden and unexpected fear came upon them.
 
 Decision rows:
 - None recorded.
@@ -25046,7 +26390,7 @@ Greek: ἢ σκιρτώντων ζώων δρόμος ἀθεώρητος ἢ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: or unseen running of leaping animals, or voice of most harsh roaring beasts, or echo reflected from hollows of mountains, it paralyzed them by terrifying.
+Draft translation: or unseen running of leaping animals, or voice of most harsh roaring beasts, or echo reflected from hollows of mountains, it terrified and paralyzed them.
 
 Decision rows:
 - None recorded.
@@ -25086,7 +26430,7 @@ Greek: μόνοις δὲ ἐκείνοις ἐπετέτατο βαρεῖα ν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but upon those alone heavy night was stretched, image of darkness about to receive them; but to themselves they were heavier than darkness.
+Draft translation: but upon those alone heavy night was stretched, an image of the darkness about to receive them; but to themselves they were heavier than darkness.
 
 Decision rows:
 - None recorded.
@@ -25108,7 +26452,7 @@ Greek: ΤΟΙΣ δὲ ὁσίοις σου μέγιστον ἦν φῶς· ὧ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But for your holy ones there was greatest light; hearing their voice but not seeing form, because they also had not suffered, they blessed them,
+Draft translation: But for your holy ones there was greatest light; hearing their voice but not seeing form, because they also had not suffered, they counted them blessed,
 
 Decision rows:
 - None recorded.
@@ -25128,7 +26472,7 @@ Greek: ὅτι δὲ οὐ βλάπτουσι προηδικημένοι, ηὐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and because those previously wronged were not harming them, they gave thanks and begged favor for their difference.
+Draft translation: and because those previously wronged were not harming them, they gave thanks and begged favor because of the difference.
 
 Decision rows:
 - None recorded.
@@ -25148,7 +26492,7 @@ Greek: ἀνθ᾿ ὧν πυριφλεγῆ στῦλον, ὁδηγὸν μὲ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Instead of these things you provided a fire-flaming pillar, guide of an unknown journey, and harmless sun of honorable sojourning.
+Draft translation: Instead of these things you provided a fire-blazing pillar, guide of an unknown journey, and harmless sun for an honorable sojourning.
 
 Decision rows:
 - None recorded.
@@ -25208,7 +26552,7 @@ Greek: ἐκείνη ἡ νὺξ προεγνώσθη πατράσιν ἡμῶ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: That night was foreknown to our fathers, so that knowing safely by what oaths they trusted, they might be cheerful.
+Draft translation: That night was foreknown to our fathers, so that securely knowing the oaths in which they trusted, they might be cheerful.
 
 Decision rows:
 - None recorded.
@@ -25268,7 +26612,7 @@ Greek: κρυφῆ γὰρ ἐθυσίαζον ὅσιοι παῖδες ἀγα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For holy children of good ones were sacrificing in secret, and with one mind they appointed a law of divinity, that holy ones would share alike in the same good things and dangers, already beforehand singing praises of fathers.
+Draft translation: For holy children of good people were sacrificing in secret, and with one mind they appointed a divine law, that holy ones would share alike in the same good things and dangers, already beforehand singing praises of fathers.
 
 Decision rows:
 - None recorded.
@@ -25328,7 +26672,7 @@ Greek: ὁμοθυμαδὸν δὲ πάντες ἐν ἑνὶ ὀνόματι 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and with one accord all under one name of death had uncountable dead; for living ones were not enough even to bury them, since in one turn their more honored generation was destroyed.
+Draft translation: and with one accord all under one name, death, had uncountable dead; for living ones were not enough even to bury them, since in one moment their more honored generation was destroyed.
 
 Decision rows:
 - None recorded.
@@ -25368,7 +26712,7 @@ Greek: ἡσύχου γὰρ σιγῆς περιεχούσης τὰ πάντα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For while quiet silence held all things and night was in the middle of its own swiftness,
+Draft translation: For while quiet silence held all things and night was in the middle of its own course,
 
 Decision rows:
 - None recorded.
@@ -25388,7 +26732,7 @@ Greek: ὁ παντοδύναμός σου λόγος ἀπ᾿ οὐρανῶν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: your almighty word leaped from heavens, from royal thrones, a severe warrior, into the middle of the destructive land,
+Draft translation: your almighty word leaped from heavens, from royal thrones, a severe warrior, into the middle of the land of destruction,
 
 Decision rows:
 - None recorded.
@@ -25408,7 +26752,7 @@ Greek: ξίφος ὀξὺ τὴν ἀνυπόκριτον ἐπιταγήν σ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: bearing your sincere command as a sharp sword, and standing, filled all things with death; and it touched heaven, yet had stepped upon earth.
+Draft translation: bearing your unfeigned command as a sharp sword, and standing, filled all things with death; and it touched heaven, yet stood upon earth.
 
 Decision rows:
 - None recorded.
@@ -25428,7 +26772,7 @@ Greek: τότε παραχρῆμα φαντασίαι μὲν ὀνείρων �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then immediately visions of dreams terribly troubled them, and unexpected fears stood upon them,
+Draft translation: Then immediately visions of dreams terribly troubled them, and unexpected fears came upon them,
 
 Decision rows:
 - None recorded.
@@ -25468,7 +26812,7 @@ Greek: οἱ γὰρ ὄνειροι θορυβήσαντες αὐτοὺς τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for dreams that disturbed them foretold this, so that they might not perish ignorant of why they suffer evil.
+Draft translation: for dreams that disturbed them foretold this, so that they might not perish ignorant of why they were suffering evil.
 
 Decision rows:
 - None recorded.
@@ -25488,7 +26832,7 @@ Greek: ¨Ηψατο δὲ καὶ δικαίων πεῖρα θανάτου, κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But a trial of death also touched righteous ones, and a breaking of multitude happened in the wilderness. But wrath did not remain long;
+Draft translation: But a trial of death also touched righteous ones, and a shattering of a multitude happened in the wilderness. But wrath did not remain long;
 
 Decision rows:
 - None recorded.
@@ -25528,7 +26872,7 @@ Greek: ἐνίκησε δὲ τὸν ὄχλον οὐκ ἰσχύϊ τοῦ σ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he conquered the crowd not by strength of body, nor by working of weapons, but by word he subjected the one punishing, reminding him of oaths and covenants of fathers.
+Draft translation: And he conquered the crowd not by strength of body, nor by activity of weapons, but by word he subjected the one punishing, reminding him of oaths and covenants of fathers.
 
 Decision rows:
 - None recorded.
@@ -25548,7 +26892,7 @@ Greek: σωρηδὸν γὰρ ἤδη πεπτωκότων ἐπ᾿ ἀλλήλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For when dead had already fallen heap upon one another, standing between, he cut off wrath and split through the way to the living.
+Draft translation: For when the dead had already fallen heap upon one another, standing between, he cut off wrath and split through the way to the living.
 
 Decision rows:
 - None recorded.
@@ -25568,7 +26912,7 @@ Greek: ἐπὶ γὰρ ποδήρους ἐνδύματος ἦν ὅλος ὁ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For upon his full-length garment was the whole world, and glories of fathers upon a four-rowed carving of stones, and your majesty upon the diadem of his head.
+Draft translation: For upon his full-length garment was the whole world, and glories of the fathers upon a four-rowed carving of stones, and your majesty upon the diadem of his head.
 
 Decision rows:
 - None recorded.
@@ -25588,7 +26932,7 @@ Greek: τούτοις εἶξεν ὁ ὀλοθρεύων, ταῦτα δὲ ἐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: To these the destroyer yielded, and these they feared; for only a trial of wrath was enough.
+Draft translation: To these the destroyer yielded, and these things he feared; for only a trial of wrath was enough.
 
 Decision rows:
 - None recorded.
@@ -25606,11 +26950,11 @@ Variant notes:
 
 ### Wisdom 19:1
 
-Greek: ΤΟΙΣ δὲ ἀσεβέσι μέχρι τέλους ἀνελεήμων θυμὸς ἐπέστη· προῃ£δει γὰρ αὐτῶν καὶ τὰ μέλλοντα,
+Greek: ΤΟΙΣ δὲ ἀσεβέσι μέχρι τέλους ἀνελεήμων θυμὸς ἐπέστη· προῄδει γὰρ αὐτῶν καὶ τὰ μέλλοντα,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But upon ungodly ones merciless passion stood until the end; for he foreknew also their future things,
+Draft translation: But upon ungodly ones merciless wrath stood until the end; for he foreknew also their future things,
 
 Decision rows:
 - None recorded.
@@ -25650,7 +26994,7 @@ Greek: ἔτι γὰρ ἐν χερσὶν ἔχοντες τὰ πένθη κα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For while still having mournings in hands and lamenting at graves of dead, they drew upon themselves another reasoning of folly, and those whom with entreaties they cast out, these they pursued as fugitives.
+Draft translation: For while still having mourning in hand and lamenting at graves of dead, they drew upon themselves another reasoning of folly, and those whom with entreaties they cast out, these they pursued as fugitives.
 
 Decision rows:
 - None recorded.
@@ -25670,7 +27014,7 @@ Greek: εἷλκε γὰρ αὐτοὺς ἡ ἀξία ἐπὶ τοῦτο τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For worthy necessity drew them to this end and cast forgetfulness of things that had happened, so that they might fill up in advance the punishment lacking to the torments,
+Draft translation: For deserved necessity drew them to this end and cast forgetfulness of the things that had happened, so that they might fill up in advance the punishment lacking to the torments,
 
 Decision rows:
 - None recorded.
@@ -25690,7 +27034,7 @@ Greek: καὶ ὁ μὲν λαός σου παράδοξον ὁδοιπορί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and your people might pass through a paradoxical journey, but those might find strange death.
+Draft translation: and your people might pass through an extraordinary journey, but those might find strange death.
 
 Decision rows:
 - None recorded.
@@ -25750,7 +27094,7 @@ Greek: δι᾿ οὗ πανεθνὶ διῆλθον οἱ τῇ σῇ σκεπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: through which those sheltered by your hand passed through as a whole nation, having seen wonderful wonders.
+Draft translation: through which those sheltered by your hand passed through as a whole nation, having seen marvelous wonders.
 
 Decision rows:
 - None recorded.
@@ -25790,7 +27134,7 @@ Greek: ἐμέμνηντο γὰρ ἔτι τῶν ἐν τῇ παροικίᾳ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For they still remembered the things in their sojourning, how instead of birth of living creatures, earth brought out gnats, and instead of water-creatures, river spewed out a multitude of frogs.
+Draft translation: For they still remembered the things in their sojourning, how instead of generation of living creatures, earth brought out gnats, and instead of water-creatures, river spewed out a multitude of frogs.
 
 Decision rows:
 - None recorded.
@@ -25890,7 +27234,7 @@ Greek: καὶ οὐ μόνον, ἀλλ᾿ ἤ τις ἐπισκοπὴ ἔσ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And not only so, but some visitation of them will be, since they received strangers hatefully;
+Draft translation: And not only so, but there will be some visitation for them, since they received strangers hatefully;
 
 Decision rows:
 - None recorded.
@@ -25950,7 +27294,7 @@ Greek: δι᾿ ἑαυτῶν γὰρ τὰ στοιχεῖα μεθαρμοζό
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For elements, changing order among themselves, just as in a psaltery notes change name of rhythm, always remaining in sound, which is possible to infer exactly from sight of the things that happened.
+Draft translation: For elements, changing order among themselves, just as in a psaltery notes change the name of the rhythm while always remaining in sound, which is possible to infer exactly from sight of the things that happened.
 
 Decision rows:
 - None recorded.
@@ -26010,7 +27354,7 @@ Greek: φλόγες ἀνάπαλιν εὐφθάρτων ζῴων οὐκ ἐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: flames, on the contrary, did not wither flesh of easily destroyed living creatures walking among them, nor melt the easily melted kind of crystal-like ambrosial food.
+Draft translation: flames, on the contrary, did not wither flesh of perishable living creatures walking among them, nor melt the easily melted kind of crystal-like ambrosial food.
 
 Decision rows:
 - None recorded.
@@ -26030,7 +27374,7 @@ Greek: Κατὰ πάντα γάρ, Κύριε, ἐμεγάλυνας τὸν λ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For according to all things, Lord, you magnified your people and glorified them, and did not overlook them, standing beside them in every time and place.
+Draft translation: For in all things, Lord, you magnified your people and glorified them, and did not overlook them, standing beside them in every time and place.
 
 Decision rows:
 - None recorded.
@@ -26254,7 +27598,7 @@ Greek: τῷ φοβουμένῳ τὸν Κύριον εὖ ἔσται ἐπ᾿
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For the one fearing the Lord, it will be well at last things, and in the day of his death he will find grace.
+Draft translation: For the one fearing the Lord, it will be well at the end, and in the day of his death he will find grace.
 
 Decision rows:
 - None recorded.
@@ -26294,7 +27638,7 @@ Greek: μετὰ ἀνθρώπων θεμέλιον αἰῶνος ἐνόσσε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: With men she nested as a foundation of an age, and with their seed she will be entrusted.
+Draft translation: Among men she nested as a foundation of an age, and with their seed she will be entrusted.
 
 Decision rows:
 - None recorded.
@@ -26354,7 +27698,7 @@ Greek: στέφανος σοφίας φόβος Κυρίου ἀναθάλλων
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A crown of wisdom is fear of the Lord, making peace and health of healing sprout.
+Draft translation: A crown of wisdom is fear of the Lord, making peace and healing health sprout.
 
 Decision rows:
 - None recorded.
@@ -26374,7 +27718,7 @@ Greek: καὶ εἶδε καὶ ἐξηρίθμησεν αὐτήν, ἐπισ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he saw and numbered her; he rained down science and knowledge of understanding and exalted the glory of those holding her.
+Draft translation: And he saw and numbered her; he rained down disciplined knowledge and understanding and exalted the glory of those holding her.
 
 Decision rows:
 - None recorded.
@@ -26636,7 +27980,7 @@ Greek: κολλήθητι αὐτῷ καὶ μὴ ἀποστῇς, ἵνα α�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: cling to him and do not depart, so that you may be increased at your last things.
+Draft translation: cling to him and do not depart, so that you may be increased at your end.
 
 Decision rows:
 - None recorded.
@@ -26816,7 +28160,7 @@ Greek: οὐαὶ καρδίαις δειλαῖς καὶ χερσὶ παρε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Woe to cowardly hearts and slack hands and to a sinner stepping upon two paths.
+Draft translation: Woe to cowardly hearts and slack hands and to a sinner walking upon two paths.
 
 Decision rows:
 - None recorded.
@@ -26958,7 +28302,7 @@ Greek: ΕΜΟΥ τοῦ πατρὸς ἀκούσατε, τέκνα, καὶ ο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Hear me your father, children, and do thus, so that you may be saved;
+Draft translation: Hear me, your father, children, and do thus, so that you may be saved;
 
 Decision rows:
 - None recorded.
@@ -27238,7 +28582,7 @@ Greek: ἐν ἡμέρᾳ θλίψεώς σου ἀναμνησθήσεταί σ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In the day of your affliction it will be remembered of you; as fair weather upon frost, so your sins will be dissolved.
+Draft translation: In the day of your affliction it will be remembered of you; as fair weather upon frost, so your sins will melt away.
 
 Decision rows:
 - None recorded.
@@ -27274,7 +28618,7 @@ Variant notes:
 
 ### Sirach 3:17
 
-Greek: τέκνον, ἐν πραυ±τητι τὰ ἔργα σου διέξαγε, καὶ ὑπὸ ἀνθρώπου δεκτοῦ ἀγαπηθήσῃ.
+Greek: τέκνον, ἐν πραΰτητι τὰ ἔργα σου διέξαγε, καὶ ὑπὸ ἀνθρώπου δεκτοῦ ἀγαπηθήσῃ.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
@@ -27518,7 +28862,7 @@ Greek: ὁ ἀνταποδιδοὺς χάριτας μέμνηται εἰς τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The one repaying favors remembers for things after these, and in time of fall he will find support.
+Draft translation: The one repaying favors remembers what comes after these things, and in time of fall he will find support.
 
 Decision rows:
 - None recorded.
@@ -27620,7 +28964,7 @@ Greek: ἀπὸ δεομένου μὴ ἀποστρέψῃς ὀφθαλμὸν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not turn an eye from one needing, and do not give place to a man to curse you;
+Draft translation: Do not turn an eye from one needing, and do not give occasion to a man to curse you;
 
 Decision rows:
 - None recorded.
@@ -27676,7 +29020,7 @@ Variant notes:
 
 ### Sirach 4:8
 
-Greek: κλῖνον πτωχῷ τὸ οὖς σου καὶ ἀποκρίθητι αὐτῷ εἰρηνικὰ ἐν πραυ±τητι.
+Greek: κλῖνον πτωχῷ τὸ οὖς σου καὶ ἀποκρίθητι αὐτῷ εἰρηνικὰ ἐν πραΰτητι.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
@@ -27860,7 +29204,7 @@ Greek: ὅτι διεστραμμένως πορεύεται μετ᾿ αὐτο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: because at first she walks with him perversely, and will bring fear and cowardice upon him, and will torment him in her discipline until she trusts his soul and tests him in her ordinances.
+Draft translation: because at first she walks with him crookedly, and will bring fear and cowardice upon him, and will torment him in her discipline until she trusts his soul and tests him in her ordinances.
 
 Decision rows:
 - None recorded.
@@ -27920,7 +29264,7 @@ Greek: Συντήρησον καιρὸν καὶ φύλαξαι ἀπὸ πον
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Keep time and guard from evil, and concerning your soul do not be ashamed;
+Draft translation: Observe the right time and guard yourself from evil, and concerning your soul do not be ashamed;
 
 Decision rows:
 - None recorded.
@@ -27960,7 +29304,7 @@ Greek: μὴ λάβῃς πρόσωπον κατὰ τῆς ψυχῆς σου �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not accept a face against your soul, and do not be ashamed to your fall.
+Draft translation: Do not show partiality against your soul, and do not be ashamed to your fall.
 
 Decision rows:
 - None recorded.
@@ -28040,7 +29384,7 @@ Greek: μὴ αἰσχυνθῇς ὁμολογῆσαι ἐφ᾿ ἁμαρτί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not be ashamed to confess upon your sins, and do not force a river's flow.
+Draft translation: Do not be ashamed to confess your sins, and do not force a river's flow.
 
 Decision rows:
 - None recorded.
@@ -28120,7 +29464,7 @@ Greek: μὴ ἴσθι ὡς λέων ἐν τῷ οἴκῳ σου καὶ φα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not be as a lion in your house and playing terror among your household servants.
+Draft translation: Do not be as a lion in your house and act terrifyingly among your household servants.
 
 Decision rows:
 - None recorded.
@@ -28442,7 +29786,7 @@ Greek: ἐν μεγάλῳ καὶ ἐν μικρῷ μὴ ἀγνόει.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In great and in small do not be ignorant.
+Draft translation: In great and in small do not act ignorantly.
 
 Decision rows:
 - None recorded.
@@ -28544,7 +29888,7 @@ Greek: Λάρυγξ γλυκὺς πληθυνεῖ φίλους αὐτοῦ, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A sweet throat will multiply his friends, and a well-speaking tongue will multiply friendly greetings.
+Draft translation: Sweet speech will multiply his friends, and a well-speaking tongue will multiply friendly greetings.
 
 Decision rows:
 - None recorded.
@@ -28744,7 +30088,7 @@ Greek: φίλου πιστοῦ οὐκ ἔστιν ἀντάλλαγμα, κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For a faithful friend there is no exchange, and there is no weight of his beauty.
+Draft translation: For a faithful friend there is no exchange, and there is no weighing his beauty.
 
 Decision rows:
 - None recorded.
@@ -28864,7 +30208,7 @@ Greek: ὡς λίθος δοκιμασίας ἰσχυρὸς ἔσται ἐπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: as a strong test stone she will be upon him, and he will not delay to throw her away.
+Draft translation: as a strong testing stone she will be upon him, and he will not delay to throw her away.
 
 Decision rows:
 - None recorded.
@@ -29004,7 +30348,7 @@ Greek: ἐπ᾿ ἐσχάτων γὰρ εὑρήσεις τὴν ἀνάπαυ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for at last things you will find her rest, and she will be turned to gladness for you.
+Draft translation: for at the end you will find her rest, and she will be turned to gladness for you.
 
 Decision rows:
 - None recorded.
@@ -29144,7 +30488,7 @@ Greek: πᾶσαν διήγησιν θείαν θέλε ἀκροᾶσθαι, κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Want to listen to every divine narrative, and let not proverbs of understanding escape you.
+Draft translation: Desire to listen to every divine narrative, and let not proverbs of understanding escape you.
 
 Decision rows:
 - None recorded.
@@ -29326,7 +30670,7 @@ Greek: μὴ ἁμάρτανε εἰς πλῆθος πόλεως καὶ μὴ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not sin against a multitude of a city, and do not throw yourself down in a crowd.
+Draft translation: Do not sin against the multitude of a city, and do not throw yourself down in a crowd.
 
 Decision rows:
 - None recorded.
@@ -29346,7 +30690,7 @@ Greek: μὴ καταδεσμεύσῃς δὶς ἁμαρτίαν, ἐν γὰ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not bind sin twice, for in the one you will not be innocent.
+Draft translation: Do not bind sin twice, for in one you will not be innocent.
 
 Decision rows:
 - None recorded.
@@ -29386,7 +30730,7 @@ Greek: μὴ ὀλιγοψυχήσῃς ἐν τῇ προσευχῇ σου κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not be fainthearted in your prayer, and do not neglect to do mercy.
+Draft translation: Do not be fainthearted in your prayer, and do not neglect to do almsgiving.
 
 Decision rows:
 - None recorded.
@@ -29406,7 +30750,7 @@ Greek: μὴ καταγέλα ἄνθρωπον ὄντα ἐν πικρίᾳ ψ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not laugh down a man who is in bitterness of his soul, for there is one who humbles and exalts.
+Draft translation: Do not mock a man who is in bitterness of his soul, for there is one who humbles and exalts.
 
 Decision rows:
 - None recorded.
@@ -29526,7 +30870,7 @@ Greek: ταπείνωσον σφόδρα τὴν ψυχήν σου, ὅτι ἐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Humble your soul greatly, because vengeance of an ungodly one is fire and worm.
+Draft translation: Humble your soul greatly, because vengeance upon an ungodly one is fire and worm.
 
 Decision rows:
 - None recorded.
@@ -29666,7 +31010,7 @@ Greek: θυγατέρες σοί εἰσι, πρόσεχε τῷ σώματι α
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If daughters are yours, pay attention to their body, and do not brighten your face toward them.
+Draft translation: If daughters are yours, watch over their body, and do not brighten your face toward them.
 
 Decision rows:
 - None recorded.
@@ -29706,7 +31050,7 @@ Greek: γυνή σοί ἐστι κατὰ ψυχήν, μὴ ἐκβάλῃς α
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If a wife is yours according to soul, do not cast her out; and to a hated woman do not entrust yourself.
+Draft translation: If a wife is yours according to your soul, do not cast her out; and to a hated woman do not entrust yourself.
 
 Decision rows:
 - None recorded.
@@ -29806,7 +31150,7 @@ Greek: φοβοῦ τὸν Κύριον καὶ δόξασον ἱερέα κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Fear the Lord and glorify a priest, and give him the portion, as it has been commanded to you, firstfruit and for trespass and gift of shoulders and sacrifice of sanctification and firstfruit of holy things.
+Draft translation: Fear the Lord and glorify a priest, and give him the portion, as it has been commanded to you: firstfruit, offering for trespass, gift of shoulders, sacrifice of sanctification, and firstfruit of holy things.
 
 Decision rows:
 - None recorded.
@@ -29846,7 +31190,7 @@ Greek: χάρις δόματος ἔναντι παντὸς ζῶντος, κα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Grace of gift is before every living one, and over a dead man do not hinder grace.
+Draft translation: Grace of a gift is before every living one, and over a dead man do not withhold grace.
 
 Decision rows:
 - None recorded.
@@ -29866,7 +31210,7 @@ Greek: μὴ ὑστέρει ἀπὸ κλαιόντων καὶ μετὰ πε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not be lacking from weeping ones, and mourn with mourning ones.
+Draft translation: Do not be absent from those weeping, and mourn with those mourning.
 
 Decision rows:
 - None recorded.
@@ -29906,7 +31250,7 @@ Greek: ἐν πᾶσι τοῖς λόγοις σου μιμνήσκου τὰ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In all your words remember your last things, and forever you will not sin.
+Draft translation: In all your words remember your end, and forever you will not sin.
 
 Decision rows:
 - None recorded.
@@ -30128,7 +31472,7 @@ Greek: μὴ ἐξαναστῇς ἀπὸ προσώπου ὑβριστοῦ, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not rise up from the face of an insolent man, lest he sit as an ambush for your mouth.
+Draft translation: Do not rise up before the face of an insolent man, lest he sit as an ambush for your mouth.
 
 Decision rows:
 - None recorded.
@@ -30268,7 +31612,7 @@ Greek: ἐνώπιον ἀλλοτρίου μὴ ποιήσῃς κρυπτόν,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Before a stranger do not do a hidden thing, for you do not know what it will bear.
+Draft translation: Before a stranger do not do a hidden thing, for you do not know what it will bring forth.
 
 Decision rows:
 - None recorded.
@@ -30288,7 +31632,7 @@ Greek: παντὶ ἀνθρώπῳ μὴ ἔκφαινε σὴν καρδίαν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not reveal your heart to every man, and let him not bring back favor to you.
+Draft translation: Do not reveal your heart to every man, and do not let him return favor to you.
 
 Decision rows:
 - None recorded.
@@ -30350,7 +31694,7 @@ Greek: μὴ ὑπάντα γυναικὶ ἑταιριζομένῃ, μήπο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not meet a woman acting as companion, lest you fall into her snares.
+Draft translation: Do not meet a courtesan, lest you fall into her snares.
 
 Decision rows:
 - None recorded.
@@ -30370,7 +31714,7 @@ Greek: μετὰ ψαλλούσῃς μὴ ἐνδελέχιζε, μήποτε �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: With a singing woman do not spend time, lest you be captured in her attempts.
+Draft translation: With a singing woman do not spend time, lest you be captured in her designs.
 
 Decision rows:
 - None recorded.
@@ -30550,7 +31894,7 @@ Greek: μακρὰν ἄπεχε ἀπὸ ἀνθρώπου, ὃς ἔχει ἐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Keep far from a man who has authority to kill, and you shall surely not suspect fear of death; and if you approach, do not offend, lest he take away your life. Know that you pass through the midst of snares and walk upon battlements of cities.
+Draft translation: Keep far from a man who has authority to kill, and you shall surely not suspect the fear of death; and if you approach, do not offend, lest he take away your life. Know that you pass through the midst of snares and walk upon battlements of cities.
 
 Decision rows:
 - None recorded.
@@ -30570,7 +31914,7 @@ Greek: κατὰ τὴν ἰσχύν σου στόχασαι τοὺς πλησ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: According to your strength, aim at your neighbors, and take counsel with wise men.
+Draft translation: According to your strength, make careful judgment of your neighbors, and take counsel with wise men.
 
 Decision rows:
 - None recorded.
@@ -30732,7 +32076,7 @@ Greek: ἐν χειρὶ Κυρίου ἐξουσία τῆς γῆς, καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In the hand of the Lord is authority of the earth, and the useful man he will raise up for a time upon it.
+Draft translation: In the hand of the Lord is authority of the earth, and the useful person he will raise up for a time upon it.
 
 Decision rows:
 - None recorded.
@@ -31188,7 +32532,7 @@ Variant notes:
 
 ### Sirach 10:28
 
-Greek: τέκνον, ἐν πραυ±τητι δόξασον τὴν ψυχήν σου καὶ δὸς αὐτῇ τιμὴν κατὰ τὴν ἀξίαν αὐτῆς.
+Greek: τέκνον, ἐν πραΰτητι δόξασον τὴν ψυχήν σου καὶ δὸς αὐτῇ τιμὴν κατὰ τὴν ἀξίαν αὐτῆς.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
@@ -31574,7 +32918,7 @@ Greek: ἔστι πλουτῶν ἀπὸ προσοχῆς καὶ σφιγγί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: There is one enriched from his attention and tightness, and this is the portion of his wage.
+Draft translation: There is one enriched from his attention and restraint, and this is the portion of his wage.
 
 Decision rows:
 - None recorded.
@@ -31794,7 +33138,7 @@ Greek: Μὴ πάντα ἄνθρωπον εἴσαγε εἰς τὸν οἶκ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not bring every man into your house, for many are the snares of the deceitful one.
+Draft translation: Do not bring every man into your house, for many are the snares of the deceiver.
 
 Decision rows:
 - None recorded.
@@ -32116,7 +33460,7 @@ Greek: καὶ ἐὰν ταπεινωθῇ καὶ πορεύηται συγκ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And even if he is humbled and goes bent down, set your soul and guard from him, and you will be to him as one who has wiped a mirror, and you will know that it has not rusted to the end.
+Draft translation: And even if he is humbled and goes bent down, pay attention to your soul and guard yourself from him, and you will be to him as one who has wiped a mirror, and you will know that it has not rusted to the end.
 
 Decision rows:
 - None recorded.
@@ -32136,7 +33480,7 @@ Greek: μὴ στήσῃς αὐτὸν παρὰ σεαυτῷ, μὴ ἀνατ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not set him beside yourself, lest, overthrowing you, he stand upon your place; do not seat him at your right, lest he seek your seat, and at last you recognize my words and be pierced by my sayings.
+Draft translation: Do not set him beside yourself, lest, overthrowing you, he stand in your place; do not seat him at your right, lest he seek your seat, and at last you recognize my words and be pierced by my sayings.
 
 Decision rows:
 - None recorded.
@@ -32318,7 +33662,7 @@ Greek: πλούσιος ἠδίκησε, καὶ αὐτὸς προσενεβρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A rich man did wrong, and he himself added rage; a poor man has been wronged, and he himself will make petition.
+Draft translation: A rich man did wrong, and he himself added anger; a poor man has been wronged, and he himself will make petition.
 
 Decision rows:
 - None recorded.
@@ -32338,7 +33682,7 @@ Greek: ἐὰν χρησιμεύσῃς, ἐργᾶται ἐν σοί· καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If you are useful, he works in you; and if you are lacking, he will leave you.
+Draft translation: If you are useful, he makes use of you; and if you are lacking, he will leave you.
 
 Decision rows:
 - None recorded.
@@ -32398,7 +33742,7 @@ Greek: καὶ αἰσχυνεῖ σε ἐν τοῖς βρώμασιν αὐτ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he will shame you in his foods until he empties you twice or three times, and at last he will mock you; after these things he will see you and leave you and shake his head at you.
+Draft translation: And he will shame you at his meals until he empties you twice or three times, and at last he will mock you; after these things he will see you and leave you and shake his head at you.
 
 Decision rows:
 - None recorded.
@@ -32458,7 +33802,7 @@ Greek: μὴ ἔμπιπτε, ἵνα μὴ ἀπωσθῇς, καὶ μὴ μα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not fall in, lest you be pushed away, and do not stand far off, lest you be forgotten.
+Draft translation: Do not press in, lest you be pushed away, and do not stand far off, lest you be forgotten.
 
 Decision rows:
 - None recorded.
@@ -32518,7 +33862,7 @@ Greek: συντήρησον καὶ πρόσεχε σφοδρῶς, ὅτι με
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Keep and take heed greatly, because you walk with your fall. [14] Hearing these in your sleep, wake up; all your life love the Lord, and call upon him for your salvation.
+Draft translation: Keep watch and take heed greatly, because you walk with your fall. [14] Hearing these in your sleep, wake up; all your life love the Lord, and call upon him for your salvation.
 
 Decision rows:
 - None recorded.
@@ -32618,7 +33962,7 @@ Greek: κυνήγια λεόντων ὄναγροι ἐν ἐρήμῳ, οὕτ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Wild asses in the wilderness are prey of lions; so poor men are pastures of rich men.
+Draft translation: Wild asses in the wilderness are prey of lions; so poor men are grazing grounds of rich men.
 
 Decision rows:
 - None recorded.
@@ -32758,7 +34102,7 @@ Greek: ἴχνος καρδίας ἐν ἀγαθοῖς πρόσωπον ἱλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A trace of a heart in good things is a cheerful face, and finding parables is reasonings with labor.
+Draft translation: A trace of a heart in good things is a cheerful face, and finding parables requires reasonings with labor.
 
 Decision rows:
 - None recorded.
@@ -32840,7 +34184,7 @@ Greek: ὁ συνάγων ἀπὸ τῆς ψυχῆς αὐτοῦ συνάγε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The one gathering from his soul gathers for others, and in his good things others will live luxuriously.
+Draft translation: The one gathering at cost of his soul gathers for others, and in his good things others will live luxuriously.
 
 Decision rows:
 - None recorded.
@@ -32860,7 +34204,7 @@ Greek: ὁ πονηρὸς ἑαυτῷ τίνι ἀγαθὸς ἔσται; κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The one evil to himself, to whom will he be good? And he shall surely not be gladdened in his possessions.
+Draft translation: The one who is evil to himself, to whom will he be good? And he shall surely not be gladdened in his possessions.
 
 Decision rows:
 - None recorded.
@@ -32920,7 +34264,7 @@ Greek: πονηρὸς ὁ βασκαίνων ὀφθαλμῷ, ἀποστρέ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Evil is the one grudging with an eye, turning away his face and overlooking souls.
+Draft translation: Evil is the one grudging with an eye, turning away his face and neglecting souls.
 
 Decision rows:
 - None recorded.
@@ -33342,7 +34686,7 @@ Greek: καὶ ὑπαντήσεται αὐτῷ ὡς μήτηρ καὶ ὡς
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and she will meet him as a mother and receive him as a wife of virginity.
+Draft translation: and she will meet him as a mother and receive him as a virgin wife.
 
 Decision rows:
 - None recorded.
@@ -33382,7 +34726,7 @@ Greek: στηριχθήσεται ἐπ᾿ αὐτὴν καὶ οὐ μὴ κλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He will be supported upon her and shall surely not be bent, and upon her he will hold fast and shall surely not be ashamed;
+Draft translation: He will be supported upon her and shall surely not be bent down, and upon her he will hold fast and shall surely not be ashamed;
 
 Decision rows:
 - None recorded.
@@ -33522,7 +34866,7 @@ Greek: μὴ εἴπῃς ὅτι διὰ Κύριον ἀπέστην· ἃ γ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not say that because of the Lord I departed; for what he hated, you shall not do.
+Draft translation: Do not say that because of the Lord I fell away; for what he hated, you shall not do.
 
 Decision rows:
 - None recorded.
@@ -33602,7 +34946,7 @@ Greek: ἐὰν θέλῃς, συντηρήσεις ἐντολὰς καὶ π�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If you want, you will keep commandments, and faith to do good pleasure.
+Draft translation: If you want, you will keep commandments, and faithfulness is to do good pleasure.
 
 Decision rows:
 - None recorded.
@@ -33642,7 +34986,7 @@ Greek: ἔναντι ἀνθρώπων ἡ ζωὴ καὶ ὁ θάνατος, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Before men are life and death, and whichever he approves will be given to him.
+Draft translation: Before men are life and death, and whichever he chooses will be given to him.
 
 Decision rows:
 - None recorded.
@@ -34164,7 +35508,7 @@ Greek: Ἄκουσόν μου, τέκνον, καὶ μάθε ἐπιστήμη�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Listen to me, child, and learn science, and attend to my words with your heart.
+Draft translation: Listen to me, child, and learn knowledge, and attend to my words with your heart.
 
 Decision rows:
 - None recorded.
@@ -34184,7 +35528,7 @@ Greek: ἐκφανῶ ἐν σταθμῷ παιδείαν καὶ ἐν ἀκρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: I will disclose discipline by weight and announce science with precision.
+Draft translation: I will disclose discipline by weight and announce knowledge with precision.
 
 Decision rows:
 - None recorded.
@@ -34346,7 +35690,7 @@ Greek: καθ᾿ ἑαυτοὺς ἐνέδυσεν αὐτοὺς ἰσχὺν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: According to themselves he clothed them with strength and made them according to his image,
+Draft translation: According to himself he clothed them with strength and made them according to his image,
 
 Decision rows:
 - None recorded.
@@ -34366,7 +35710,7 @@ Greek: καὶ ἔθηκε τὸν φόβον αὐτοῦ ἐπὶ πάσης �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and he put his fear upon all flesh and to master beasts and winged creatures. [5 They received use of the five operations of the Lord, and as sixth he bestowed mind on them, apportioning also the seventh, speech, interpreter of his operations.]
+Draft translation: and he put his fear upon all flesh and gave them mastery over beasts and winged creatures. [5 They received use of the five workings of the Lord, and as sixth he bestowed mind on them, apportioning also the seventh, speech, interpreter of his workings.]
 
 Decision rows:
 - None recorded.
@@ -34406,7 +35750,7 @@ Greek: ἐπιστήμην συνέσεως ἐνέπλησεν αὐτοὺς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He filled them with science of understanding and showed them good things and bad things.
+Draft translation: He filled them with knowledge of understanding and showed them good things and bad things.
 
 Decision rows:
 - None recorded.
@@ -34446,7 +35790,7 @@ Greek: καὶ ὄνομα ἁγιασμοῦ αἰνέσουσιν,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and they will praise a name of sanctification,
+Draft translation: and they will praise his holy name
 
 Decision rows:
 - None recorded.
@@ -34486,7 +35830,7 @@ Greek: προσέθηκεν αὐτοῖς ἐπιστήμην καὶ νόμο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He added science to them and gave them a law of life as inheritance.
+Draft translation: He added knowledge to them and gave them a law of life as inheritance.
 
 Decision rows:
 - None recorded.
@@ -34806,7 +36150,7 @@ Greek: οὐ γὰρ δύναται πάντα εἶναι ἐν ἀνθρώπο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For all things cannot be in men, because a son of man is not immortal.
+Draft translation: For not all things are possible among men, because a son of man is not immortal.
 
 Decision rows:
 - None recorded.
@@ -34868,7 +36212,7 @@ Greek: Ο ΖΩΝ εἰς τὸν αἰῶνα ἔκτισε τὰ πάντα κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The one living forever created all things in common;
+Draft translation: The one living forever created all things together;
 
 Decision rows:
 - None recorded.
@@ -35208,7 +36552,7 @@ Greek: μωρὸς ἀχαρίστως ὀνειδιεῖ, καὶ δόσις β
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A fool will reproach ungraciously, and the gift of a grudging man melts eyes.
+Draft translation: A fool will reproach ungraciously, and the gift of a grudging man wears out eyes.
 
 Decision rows:
 - None recorded.
@@ -35268,7 +36612,7 @@ Greek: πρὶν ἀρρωστῆσαί σε ταπεινώθητι καὶ ἐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Before you become sick, humble yourself, and in a time of sins show turning.
+Draft translation: Before you become sick, humble yourself, and in a time of sins show repentance.
 
 Decision rows:
 - None recorded.
@@ -35328,7 +36672,7 @@ Greek: μνήσθητι θυμοῦ ἐν ἡμέραις τελευτῆς κα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Remember wrath in days of death and a time of vengeance in the turning away of face.
+Draft translation: Remember wrath in days of death and a time of vengeance when face turns away.
 
 Decision rows:
 - None recorded.
@@ -35630,7 +36974,7 @@ Greek: καὶ ὁ μισῶν λαλιὰν ἐλαττονοῦται κακί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and the one hating chatter is lessened in evil.
+Draft translation: and the one hating chatter has less evil.
 
 Decision rows:
 - None recorded.
@@ -35670,7 +37014,7 @@ Greek: ἐν φίλῳ καὶ ἐν ἐχθρῷ μὴ διηγοῦ, καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not report it among friend or enemy, and unless it is sin to you, do not reveal it;
+Draft translation: Do not report it among friend or enemy, and unless it would be sin for you, do not reveal it;
 
 Decision rows:
 - None recorded.
@@ -35850,7 +37194,7 @@ Greek: ἔλεγξον τὸν πλησίον σου πρὶν ἢ ἀπειλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Reprove your neighbor before threatening, and give place to the law of the Most High. [Becoming without wrath,
+Draft translation: Reprove your neighbor before threatening, and give way to the law of the Most High. [Becoming without wrath,
 
 Decision rows:
 - None recorded.
@@ -35950,7 +37294,7 @@ Greek: καὶ οὐκ ἔστι σοφία πονηρίας ἐπιστήμη, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And science of wickedness is not wisdom, and there is no prudence where counsel of sinners is.
+Draft translation: And knowledge of wickedness is not wisdom, and there is no prudence where counsel of sinners is.
 
 Decision rows:
 - None recorded.
@@ -36152,7 +37496,7 @@ Greek: ὡς καλὸν ἐλέγξαι ἢ θυμοῦσθαι, καὶ ὁ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: How good to reprove rather than be angry, and the one confessing back will be hindered from loss.
+Draft translation: How good to reprove rather than be angry, and the one confessing will be hindered from loss.
 
 Decision rows:
 - None recorded.
@@ -36432,7 +37776,7 @@ Greek: ποσάκις καὶ ὅσοι καταγελάσονται αὐτο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: how often and how many will laugh him down?
+Draft translation: how often and how many will mock him?
 
 Decision rows:
 - None recorded.
@@ -36452,7 +37796,7 @@ Greek: Ὀλίσθημα ἀπὸ ἐδάφους μᾶλλον ἢ ἀπὸ γ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A slip from ground rather than from tongue; so a fall of evil men will come quickly.
+Draft translation: A slip on the ground rather than from the tongue; so a fall of evil men will come quickly.
 
 Decision rows:
 - None recorded.
@@ -36532,7 +37876,7 @@ Greek: ἔστιν ἀπολλύων τὴν ψυχὴν αὐτοῦ δι᾿ α
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: There is one destroying his soul through shame, and from a foolish face he will destroy it.
+Draft translation: There is one destroying his soul through shame, and because of a foolish face he will destroy it.
 
 Decision rows:
 - None recorded.
@@ -36734,7 +38078,7 @@ Greek: ΤΕΚΝΟΝ, ἥμαρτες, μὴ προσθῇς μηκέτι καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Child, have you sinned? Add no longer, and make petition concerning your former sins.
+Draft translation: Child, have you sinned? Do not add anymore, and make petition concerning your former sins.
 
 Decision rows:
 - None recorded.
@@ -36914,7 +38258,7 @@ Greek: ὁδὸς ἁμαρτωλῶν ὡμαλισμένη ἐκ λίθων, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A way of sinners is smoothed from stones, and at its end is pit of Hades.
+Draft translation: A way of sinners is made smooth with stones, and at its end is pit of Hades.
 
 Decision rows:
 - None recorded.
@@ -37014,7 +38358,7 @@ Greek: λόγον σοφὸν ἐὰν ἀκούσῃ ἐπιστήμων, αἰ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If a knowledgeable man hears a wise word, he will praise it and add to it; the wasteful man heard, and it displeased him, and he turned it behind his back.
+Draft translation: If a knowledgeable man hears a wise word, he will praise it and add to it; the squanderer heard, and it displeased him, and he turned it behind his back.
 
 Decision rows:
 - None recorded.
@@ -37074,7 +38418,7 @@ Greek: ὡς οἶκος ἠφανισμένος οὕτως μωρῷ σοφί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Wisdom is to a fool like a vanished house, and knowledge of one without understanding is unexamined words.
+Draft translation: Wisdom is to a fool like a ruined house, and knowledge of one without understanding is unexamined words.
 
 Decision rows:
 - None recorded.
@@ -37154,7 +38498,7 @@ Greek: ποὺς μωροῦ ταχὺς εἰς οἰκίαν, ἄνθρωπο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Foot of a fool is quick into a house, but a man of much experience will be ashamed before a face.
+Draft translation: Foot of a fool is quick into a house, but a man of much experience will be ashamed before the face.
 
 Decision rows:
 - None recorded.
@@ -37214,7 +38558,7 @@ Greek: χείλη ἀλλοτρίων ἐν τούτοις βαρυνθήσετ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Lips of strangers will be weighed down in these things, but words of prudent ones will be weighed in a balance.
+Draft translation: Lips of strangers will be burdened in these things, but words of prudent ones will be weighed in a balance.
 
 Decision rows:
 - None recorded.
@@ -37274,7 +38618,7 @@ Greek: μολύνει τὴν ἑαυτοῦ ψυχὴν ὁ ψιθυρίζων 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The whisperer defiles his own soul and will be hated in a sojourning.
+Draft translation: The whisperer defiles his own soul and will be hated among sojourners.
 
 Decision rows:
 - None recorded.
@@ -37296,7 +38640,7 @@ Greek: ΛΙΘ† ἠρδαλωμένῳ συνεβλήθη ὀκνηρός, κα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A lazy man was compared to a dirty stone, and everyone will hiss at his dishonor.
+Draft translation: A lazy man was compared to a filthy stone, and everyone will hiss at his dishonor.
 
 Decision rows:
 - None recorded.
@@ -37436,7 +38780,7 @@ Greek: διηγούμενος νυστάζοντι ὁ διηγούμενος μ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: One telling a tale to one nodding is one telling a tale to a fool, and at the end he will say, what is it?
+Draft translation: One telling a tale to one nodding is one telling a tale to a fool, and at the end he will say, "What is it?"
 
 Decision rows:
 - None recorded.
@@ -37496,7 +38840,7 @@ Greek: μετὰ ἄφρονος μὴ πληθύνῃς λόγον, καὶ π�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not multiply speech with a foolish man, and do not go to one without understanding. Guard yourself from him, so that you may not have trouble, and you shall surely not be defiled in his shaking off. Turn aside from him and you will find rest, and you shall surely not be weary in his senselessness.
+Draft translation: Do not multiply speech with a foolish man, and do not go to one without understanding. Guard yourself from him, so that you may not have trouble, and you shall surely not be defiled when he shakes himself off. Turn aside from him and you will find rest, and you shall surely not be weary in his senselessness.
 
 Decision rows:
 - None recorded.
@@ -37616,7 +38960,7 @@ Greek: Ὁ νύσσων ὀφθαλμὸν κατάξει δάκρυα, καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The one piercing an eye will bring down tears, and the one piercing a heart makes feeling appear.
+Draft translation: The one piercing an eye will bring down tears, and the one piercing a heart brings feeling to light.
 
 Decision rows:
 - None recorded.
@@ -37676,7 +39020,7 @@ Greek: ἐπὶ φίλον ἐὰν ἀνοίξῃς στόμα, μὴ εὐλα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If you open a mouth against a friend, do not be cautious, for there is reconciliation, except reproach and pride and revealing of a mystery and a deceitful blow; in these things every friend will flee.
+Draft translation: If you open a mouth against a friend, do not fear, for there is reconciliation, except reproach and pride and revealing of a mystery and a deceitful blow; in these things every friend will flee.
 
 Decision rows:
 - None recorded.
@@ -37818,7 +39162,7 @@ Greek: τίς ἐπιστήσει ἐπὶ τοῦ διανοήματός μου
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Who will set whips over my thought and discipline of wisdom over my heart, so that they may not spare my ignorances and my sins may surely not pass by,
+Draft translation: Who will set whips over my thought and discipline of wisdom over my heart, so that they may not spare my sins of ignorance and my sins may surely not pass by,
 
 Decision rows:
 - None recorded.
@@ -37838,7 +39182,7 @@ Greek: ὅπως μὴ πληθύνωσιν αἱ ἄγνοιαί μου καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: so that my ignorances may not multiply and my sins abound, and I fall before adversaries and my enemy rejoice over me?
+Draft translation: so that my sins of ignorance may not multiply and my sins abound, and I fall before adversaries and my enemy rejoice over me?
 
 Decision rows:
 - None recorded.
@@ -37938,7 +39282,7 @@ Greek: ἐν τοῖς χείλεσιν αὐτοῦ καταληφθήσετα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A sinner will be seized by his lips, and a reviler and proud man will be stumbled by them.
+Draft translation: A sinner will be seized by his lips, and a reviler and proud man will stumble by them.
 
 Decision rows:
 - None recorded.
@@ -38018,7 +39362,7 @@ Greek: Ἔστι λέξις ἀντιπεριβεβλημένη θανάτῳ, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: There is a word clothed around with death; let it not be found in the inheritance of Jacob, for all these things will depart from the devout, and they will not roll themselves in sins.
+Draft translation: There is a word wrapped in death; let it not be found in the inheritance of Jacob, for all these things will depart from the devout, and they will not roll themselves in sins.
 
 Decision rows:
 - None recorded.
@@ -38118,7 +39462,7 @@ Greek: ψυχὴ θερμὴ ὡς πῦρ καιόμενον, οὐ μὴ σβ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: a hot soul like burning fire shall surely not be quenched until it is consumed; a fornicator man in the body of his flesh shall surely not stop until fire burns out; to a fornicator man every bread is sweet; he shall surely not cease until he dies.
+Draft translation: a hot soul like burning fire shall surely not be quenched until it is consumed; a fornicator
 
 Decision rows:
 - None recorded.
@@ -38138,7 +39482,7 @@ Greek: ἄνθρωπος παραβαίνων ἀπὸ τῆς κλίνης α�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A man transgressing from his bed, saying in his soul, Who sees me? Darkness is around me, and the walls cover me, and no one sees me; why should I be cautious? The Most High shall surely not remember my sins.
+Draft translation: A man transgressing from his bed, saying in his soul, Who sees me? Darkness is around me, and the walls cover me, and no one sees me; what should I fear? The Most High shall surely not remember my sins.
 
 Decision rows:
 - None recorded.
@@ -38158,7 +39502,7 @@ Greek: καὶ ὀφθαλμοὶ ἀνθρώπων ὁ φόβος αὐτοῦ,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And eyes of men are his fear, and he did not know that the eyes of the Lord are brighter than the sun ten-thousandfold, looking upon all ways of men and observing hidden parts.
+Draft translation: And the eyes of men are his fear, and he did not know that the eyes of the Lord are brighter than the sun ten-thousandfold, looking upon all ways of men and observing hidden parts.
 
 Decision rows:
 - None recorded.
@@ -38480,7 +39824,7 @@ Greek: τότε ἐνετείλατό μοι ὁ κτίστης ἁπάντων,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then the creator of all commanded me, and the one who created me made my tent rest and said, Tabernacle in Jacob and be inherited in Israel.
+Draft translation: Then the creator of all commanded me, and the one who created me settled my tent and said, Tabernacle in Jacob and be inherited in Israel.
 
 Decision rows:
 - None recorded.
@@ -38680,7 +40024,7 @@ Greek: προσέλθετε πρός με οἱ ἐπιθυμοῦντές μο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Come near to me, you who desire me, and be filled from my products;
+Draft translation: Come near to me, you who desire me, and be filled from my produce;
 
 Decision rows:
 - None recorded.
@@ -38700,7 +40044,7 @@ Greek: τὸ γὰρ μνημόσυνόν μου ὑπὲρ τὸ μέλι γλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for my memorial is sweeter than honey, and my inheritance more than a honeycomb.
+Draft translation: for my memorial is sweeter than honey, and my inheritance sweeter than a honeycomb.
 
 Decision rows:
 - None recorded.
@@ -38760,7 +40104,7 @@ Greek: ταῦτα πάντα βίβλος διαθήκης Θεοῦ Ὑψίσ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: All these things are book of covenant of God Most High, law which Moses commanded us, an inheritance for congregations of Jacob. [24 Do not grow weak in strength in the Lord, but cling to him so that he may strengthen you; Lord Almighty is God alone, and there is no savior yet besides him.]
+Draft translation: All these things are book of the covenant of God Most High, the law which Moses commanded us, an inheritance for congregations of Jacob. [24 Do not grow weak in strength in the Lord, but cling to him so that he may strengthen you; Lord Almighty is God alone, and there is no savior besides him.]
 
 Decision rows:
 - None recorded.
@@ -38780,7 +40124,7 @@ Greek: ὁ πιμπλῶν ὡς Φεισὼν σοφίαν καὶ ὡς Τίγ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The one filling wisdom like Pison and like Tigris in days of new fruits,
+Draft translation: The one filling with wisdom like Pison and like Tigris in days of new fruits,
 
 Decision rows:
 - None recorded.
@@ -38800,7 +40144,7 @@ Greek: ὁ ἀναπληρῶν ὡς Εὐφράτης σύνεσιν καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: the one filling understanding like Euphrates and like Jordan in days of harvest,
+Draft translation: the one filling with understanding like Euphrates and like Jordan in days of harvest,
 
 Decision rows:
 - None recorded.
@@ -38820,7 +40164,7 @@ Greek: ὁ ἐκφαίνων ὡς φῶς παιδείαν, ὡς Γηὼν ἐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: the one making discipline appear like light, like Gihon in days of vintage.
+Draft translation: the one bringing discipline to light, like Gihon in days of vintage.
 
 Decision rows:
 - None recorded.
@@ -38900,7 +40244,7 @@ Greek: εἶπα· ποτιῶ μου τὸν κῆπον καὶ μεθύσω �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: I said, I will water my garden and make my garden bed drunk; and behold, my canal became to me a river, and my river became a sea.
+Draft translation: I said, I will water my garden and drench my garden bed; and behold, my canal became to me a river, and my river became a sea.
 
 Decision rows:
 - None recorded.
@@ -38920,7 +40264,7 @@ Greek: ἔτι παιδείαν ὡς ὄρθρον φωτιῶ καὶ ἐκφ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: I will still illuminate discipline like dawn and make these things appear to far away.
+Draft translation: I will still illuminate discipline like dawn and make these things appear from far away.
 
 Decision rows:
 - None recorded.
@@ -38982,7 +40326,7 @@ Greek: ΕΝ τρισὶν ὡραΐσθην καὶ ἀνέστην ὡραία
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In three things I was beautified and stood beautiful before the Lord and men: agreement of brothers, and friendship of neighbors, and wife and husband behaving together toward themselves.
+Draft translation: In three things I was beautified and stood beautiful before the Lord and men: agreement of brothers, and friendship of neighbors, and wife and husband behaving well toward each other.
 
 Decision rows:
 - None recorded.
@@ -39102,7 +40446,7 @@ Greek: Ἐννέα ὑπονοήματα ἐμακάρισα ἐν καρδίᾳ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Nine thoughts I counted blessed in heart, and the tenth I will speak upon tongue: a man rejoicing over children, living and looking upon the fall of enemies;
+Draft translation: Nine thoughts I counted blessed in heart, and the tenth I will speak upon my tongue: a man rejoicing over children, living and looking upon the fall of enemies;
 
 Decision rows:
 - None recorded.
@@ -39142,7 +40486,7 @@ Greek: μακάριος ὃς εὗρε φρόνησιν, καὶ ὁ διηγο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: blessed is one who found prudence, and the one telling into ears of those hearing;
+Draft translation: blessed is one who found prudence, and the one speaking into hearing ears;
 
 Decision rows:
 - None recorded.
@@ -39182,7 +40526,7 @@ Greek: φόβος Κυρίου ὑπὲρ πᾶν ὑπερέβαλεν, ὁ κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: fear of the Lord surpassed above all; the one holding it, to whom will he be likened? [12 Fear of the Lord is beginning of loving him, and faith is beginning of clinging to him.]
+Draft translation: fear of the Lord surpasses all; the one holding it, to whom will he be likened? [12 Fear of the Lord is beginning of loving him, and faith is beginning of clinging to him.]
 
 Decision rows:
 - None recorded.
@@ -39302,7 +40646,7 @@ Greek: ἀνὰ μέσον τοῦ πλησίον αὐτοῦ ἀναπεσε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Her husband will recline among his neighbor, and hearing, he groaned bitter things.
+Draft translation: Her husband will recline among his neighbors, and when he hears, he groans bitterly.
 
 Decision rows:
 - None recorded.
@@ -39342,7 +40686,7 @@ Greek: ἀνάβασις ἀμμώδης ἐν ποσὶ πρεσβυτέρου,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A sandy ascent in feet of an elder, so is a talkative woman to a quiet man.
+Draft translation: A sandy ascent under an elder's feet, so is a talkative woman to a quiet man.
 
 Decision rows:
 - None recorded.
@@ -39362,7 +40706,7 @@ Greek: μὴ προσπέσῃς ἐπὶ κάλλος γυναικὸς καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not fall upon beauty of a woman, and do not desire a woman.
+Draft translation: Do not fall before the beauty of a woman, and do not desire a woman.
 
 Decision rows:
 - None recorded.
@@ -39382,7 +40726,7 @@ Greek: ὀργὴ καὶ ἀναίδεια καὶ αἰσχύνη μεγάλη
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Wrath and shamelessness and great shame is a woman if she supplies her husband.
+Draft translation: Wrath and shamelessness and great shame is a woman if she provides for her husband.
 
 Decision rows:
 - None recorded.
@@ -39504,7 +40848,7 @@ Greek: γυνὴ ἀνδρεία εὐφραίνει τὸν ἄνδρα αὐτ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A courageous wife cheers her husband, and he will fill his years in peace.
+Draft translation: A courageous wife cheers her husband, and she will fill his years with peace.
 
 Decision rows:
 - None recorded.
@@ -39544,7 +40888,7 @@ Greek: πλουσίου δὲ καὶ πτωχοῦ καρδία ἀγαθή, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But of rich man and poor man, a good heart; in every time, a cheerful face.
+Draft translation: Whether of rich man or poor man, a good heart makes a cheerful face in every time.
 
 Decision rows:
 - None recorded.
@@ -39564,7 +40908,7 @@ Greek: ἀπὸ τριῶν εὐλαβήθη ἡ καρδία μου, καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: From three things my heart was cautious, and over the fourth face I made petition: slander of a city, and assembly of a mob, and false accusation, all more evil than death.
+Draft translation: From three things my heart feared, and over the fourth my face made petition: slander of a city, and assembly of a mob, and false accusation, all more evil than death.
 
 Decision rows:
 - None recorded.
@@ -39584,7 +40928,7 @@ Greek: ἄλγος καρδίας καὶ πένθος γυνὴ ἀντίζηλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Pain of heart and mourning is a rival wife against a wife, and a whip of tongue communicating with all.
+Draft translation: Pain of heart and mourning is a rival wife against a wife, and a whip of tongue shared with all.
 
 Decision rows:
 - None recorded.
@@ -39684,7 +41028,7 @@ Greek: ὀπίσω ἀναιδοῦς ὀφθαλμοῦ φύλαξαι, καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Guard yourself behind a shameless eye, and do not wonder if it trespasses against you;
+Draft translation: Guard yourself against a shameless eye, and do not wonder if it trespasses against you;
 
 Decision rows:
 - None recorded.
@@ -39844,7 +41188,7 @@ Greek: ἀναζητήσας παντὸς πεδίου εὔγειον κλῆ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: After searching every plain for good-soiled allotment, sow your own seeds, trusting in your good birth;
+Draft translation: After searching every plain for a good-soiled portion, sow your own seeds, trusting in your good birth;
 
 Decision rows:
 - None recorded.
@@ -39924,7 +41268,7 @@ Greek: γυνὴ ἀσχήμων ἀτιμίαν κατατρίψει, θυγά�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A shameful woman will grind away dishonor, but a well-formed daughter will be ashamed before her husband.
+Draft translation: A shameful woman will wear down dishonor, but a well-formed daughter will be modest before her husband.
 
 Decision rows:
 - None recorded.
@@ -40004,7 +41348,7 @@ Greek: Ἐπὶ δυσὶ λελύπηται ἡ καρδία μου, καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Over two things my heart has been grieved, and over the third wrath came upon me: a warrior man lacking through need, and understanding men if they are treated as refuse, one turning back from righteousness to sin; the Lord will prepare him for sword.
+Draft translation: Over two things my heart has been grieved, and over the third wrath came upon me: a warrior man lacking through need, and understanding men if they are treated as refuse, one turning back from righteousness to sin; the Lord will prepare him for the sword.
 
 Decision rows:
 - None recorded.
@@ -40046,7 +41390,7 @@ Greek: ΧΑΡΙΝ διαφόρου πολλοὶ ἥμαρτον, καὶ ὁ ζ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For sake of profit many sinned, and the one seeking to multiply will turn away an eye.
+Draft translation: For the sake of profit many sinned, and the one seeking to multiply will turn away an eye.
 
 Decision rows:
 - None recorded.
@@ -40086,7 +41430,7 @@ Greek: ἐὰν μὴ ἐν φόβῳ Κυρίου κρατήσῃ κατὰ σ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Unless he holds fast in fear of the Lord with haste, his house will quickly be overturned.
+Draft translation: Unless he holds fast in fear of the Lord with diligence, his house will quickly be overturned.
 
 Decision rows:
 - None recorded.
@@ -40106,7 +41450,7 @@ Greek: Ἐν σείσματι κοσκίνου διαμένει κοπρία, ο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In shaking of a sieve refuse remains; so the scum of a man is in his reasoning.
+Draft translation: In shaking of a sieve refuse remains; so the refuse of a man is in his reasoning.
 
 Decision rows:
 - None recorded.
@@ -40226,7 +41570,7 @@ Greek: λέων θήραν ἐνεδρεύει, οὕτως ἁμαρτίαι �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A lion lies in wait for prey; so sins for those working unrighteous things.
+Draft translation: A lion lies in wait for prey; so sins lie in wait for those working unrighteous things.
 
 Decision rows:
 - None recorded.
@@ -40246,7 +41590,7 @@ Greek: διήγησις εὐσεβοῦς διαπαντὸς σοφία, ὁ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Tale of a devout man is always wisdom, but the fool changes like moon.
+Draft translation: Tale of a devout man is always wisdom, but the fool changes like the moon.
 
 Decision rows:
 - None recorded.
@@ -40266,7 +41610,7 @@ Greek: εἰς μέσον ἀσυνέτων συντήρησον καιρόν, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In the midst of those without understanding, keep watch for a time; but in the midst of those considering, continue.
+Draft translation: In the midst of those without understanding, keep watch for a time; but in the midst of those considering, remain continually.
 
 Decision rows:
 - None recorded.
@@ -40346,7 +41690,7 @@ Greek: Ὁ ἀποκαλύπτων μυστήρια ἀπώλεσε πίστιν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The one revealing mysteries destroyed faithfulness, and he shall surely not find a friend for his soul.
+Draft translation: The one revealing mysteries has destroyed faithfulness, and he shall surely not find a friend for his soul.
 
 Decision rows:
 - None recorded.
@@ -40648,7 +41992,7 @@ Greek: Ο ΕΚΔΙΚΩΝ παρὰ Κυρίου εὑρήσει ἐκδίκησ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The one taking vengeance will find vengeance from the Lord, and preserving, he will preserve his sins.
+Draft translation: The one taking vengeance will find vengeance from the Lord, and preserving them, he will preserve his sins.
 
 Decision rows:
 - None recorded.
@@ -40748,7 +42092,7 @@ Greek: μνήσθητι τὰ ἔσχατα καὶ παῦσαι ἐχθραί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Remember the last things and stop being hostile, destruction and death, and remain in commandments.
+Draft translation: Remember the last things and stop being hostile; remember destruction and death, and remain in commandments.
 
 Decision rows:
 - None recorded.
@@ -40828,7 +42172,7 @@ Greek: κατὰ τὴν ὕλην τοῦ πυρὸς οὕτως ἐκκαυθ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: According to the fuel of fire, so it will be kindled, and according to the strength of the man his anger will be, and according to wealth he will lift up his wrath, and according to the firmness of the quarrel it will be kindled.
+Draft translation: According to the fuel of fire, so it will be kindled, and according to the strength of the man his anger will be, and according to wealth he will lift up his wrath, and according to the strength of the quarrel it will be kindled.
 
 Decision rows:
 - None recorded.
@@ -40888,7 +42232,7 @@ Greek: Ψίθυρον καὶ δίγλωσσον καταράσασθε, πολ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Curse whisperer and double-tongued one, for they destroyed many who were at peace.
+Draft translation: Curse the whisperer and double-tongued one, for they destroyed many who were at peace.
 
 Decision rows:
 - None recorded.
@@ -41190,7 +42534,7 @@ Greek: στερέωσον λόγον καὶ πιστώθητι μετ᾿ αὐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Make firm a word and be faithful with him, and in every time you will find your need.
+Draft translation: Make firm a word and be faithful with him, and in every time you will find what you need.
 
 Decision rows:
 - None recorded.
@@ -41270,7 +42614,7 @@ Greek: πολλοὶ οὖν χάριν πονηρίας ἀπέστρεψαν, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore many turned away because of wickedness; they were cautious of being deprived for nothing.
+Draft translation: Therefore many turned away because of wickedness; they were afraid of being deprived for nothing.
 
 Decision rows:
 - None recorded.
@@ -41290,7 +42634,7 @@ Greek: πλὴν ἐπὶ ταπεινῷ μακροθύμησον καὶ ἐπ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Nevertheless be patient toward a lowly man, and do not drag him away from mercy.
+Draft translation: Nevertheless be patient toward a lowly man, and do not make him wait for almsgiving.
 
 Decision rows:
 - None recorded.
@@ -41370,7 +42714,7 @@ Greek: σύγκλεισον ἐλεημοσύνην ἐν τοῖς ταμείο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Shut up mercy in your storehouses, and it will deliver you from every affliction;
+Draft translation: Store up almsgiving in your storehouses, and it will deliver you from every affliction;
 
 Decision rows:
 - None recorded.
@@ -41430,7 +42774,7 @@ Greek: Χάριτας ἐγγύου μὴ ἐπιλάθῃ, ἔδωκε γὰρ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not forget graces of a surety, for he gave his soul for you.
+Draft translation: Do not forget favors of a surety, for he gave his soul for you.
 
 Decision rows:
 - None recorded.
@@ -41570,7 +42914,7 @@ Greek: ἐπὶ μικρῷ καὶ μεγάλῳ εὐδοκίαν ἔχε, κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Have good pleasure over small and great, and you shall surely not hear reproach of sojourning.
+Draft translation: Have good pleasure in small and great, and you shall surely not hear reproach of sojourning.
 
 Decision rows:
 - None recorded.
@@ -41590,7 +42934,7 @@ Greek: ζωὴ πονηρὰ ἐξ οἰκίας εἰς οἰκίαν, καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Life from house to house is evil, and where you sojourn, you will not open mouth.
+Draft translation: Life from house to house is evil, and where you sojourn, you will not open your mouth.
 
 Decision rows:
 - None recorded.
@@ -41650,7 +42994,7 @@ Greek: ἔξελθε, πάροικε, ἀπὸ προσώπου δόξης, ἐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Go out, sojourner, from before glory; my brother has been lodged as a guest with me; need of the house.
+Draft translation: Go out, sojourner, from before honor; my brother has lodged with me as a guest; there is need of the house.
 
 Decision rows:
 - None recorded.
@@ -41852,7 +43196,7 @@ Greek: τιθήνησον τέκνον, καὶ ἐκθαμβήσει σε· σ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Nurse a child, and he will astound you; play together with him, and he will grieve you.
+Draft translation: Pamper a child, and he will astound you; play together with him, and he will grieve you.
 
 Decision rows:
 - None recorded.
@@ -41892,7 +43236,7 @@ Greek: μὴ δῷς αὐτῷ ἐξουσία ἐν νεότητι· θλάσ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not give him authority in youth; crush his ribs while he is still an infant, lest perhaps when hardened he disobey you. [And do not overlook his ignorances.
+Draft translation: Do not give him authority in youth; crush his ribs while he is still an infant, lest perhaps when hardened he disobey you. [And do not overlook his sins of ignorance.
 
 Decision rows:
 - None recorded.
@@ -42032,7 +43376,7 @@ Greek: ἀγαθὰ ἐκκεχυμένα ἐπὶ στόματι κεκλεισ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Good things poured out upon a closed mouth are food-offerings set beside a tomb.
+Draft translation: Good things poured out upon a closed mouth are dishes of food set beside a tomb.
 
 Decision rows:
 - None recorded.
@@ -42214,7 +43558,7 @@ Greek: μέριμνα ἀγρυπνίας ἀπαιτήσει νυσταγμόν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Worry of sleeplessness will demand drowsiness, and severe sickness will sober sleep away.
+Draft translation: Worry from sleeplessness will drive off drowsiness, and severe sickness wakes sleep away.
 
 Decision rows:
 - None recorded.
@@ -42294,7 +43638,7 @@ Greek: πολλοὶ ἐδόθησαν εἰς πτῶμα χάριν χρυσί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Many were given to a fall for sake of gold, and their destruction came to be before their face.
+Draft translation: Many were given to a fall for the sake of gold, and their destruction came to be before their face.
 
 Decision rows:
 - None recorded.
@@ -42394,7 +43738,7 @@ Greek: στερεωθήσεται τὰ ἀγαθὰ αὐτοῦ, καὶ τὰ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: His good things will be made firm, and an assembly will tell out his mercies.
+Draft translation: His good things will be made firm, and an assembly will tell out his acts of almsgiving.
 
 Decision rows:
 - None recorded.
@@ -42414,7 +43758,7 @@ Greek: Ἐπὶ τραπέζης μεγάλης ἐκάθισας, μὴ ἀνο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: You sat at a great table; do not open your throat over it, and do not say, many indeed are the things upon it.
+Draft translation: You sat at a great table; do not open your throat over it, and do not say, "Many indeed are the things upon it."
 
 Decision rows:
 - None recorded.
@@ -42574,7 +43918,7 @@ Greek: ὕπνος ὑγιείας ἐπὶ ἐντέρῳ μετρίῳ, ἀν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Sleep of health is upon a moderate bowel; he rose early, and his soul is with him. Pain of sleeplessness and cholera and twisting are with an insatiable man.
+Draft translation: Sleep of health is upon a moderate stomach; he rose early, and his soul is with him. Pain of sleeplessness and cholera and cramps are with an insatiable man.
 
 Decision rows:
 - None recorded.
@@ -42594,7 +43938,7 @@ Greek: καὶ εἰ ἐβιάσθης ἐν ἐδέσμασιν, ἀνάστα 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And if you were forced with foods, rise in the middle and you will rest.
+Draft translation: And if you were pressed with foods, rise in the middle and you will rest.
 
 Decision rows:
 - None recorded.
@@ -42614,7 +43958,7 @@ Greek: ἄκουσόν μου, τέκνον, καὶ μὴ ἐξουδενώσ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Listen to me, child, and do not despise me, and in the last things you will find my words. In all your works become nimble, and every sickness shall surely not meet you.
+Draft translation: Listen to me, child, and do not despise me, and at the end you will find my words. In all your works become prompt, and every sickness shall surely not meet you.
 
 Decision rows:
 - None recorded.
@@ -42634,7 +43978,7 @@ Greek: λαμπρὸν ἐπ᾿ ἄρτοις εὐλογήσει χείλη, κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Lips will bless one splendid over breads, and testimony of his beauty is faithful.
+Draft translation: Lips will bless one splendid with bread, and testimony of his beauty is faithful.
 
 Decision rows:
 - None recorded.
@@ -42654,7 +43998,7 @@ Greek: πονηρῷ ἐπ᾿ ἄρτῳ διαγογγύσει πόλις, κα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A city will mutter about one evil over bread, and testimony of his wickedness is exact.
+Draft translation: A city will mutter about one evil with bread, and testimony of his wickedness is exact.
 
 Decision rows:
 - None recorded.
@@ -42734,7 +44078,7 @@ Greek: ἀγαλλίαμα καρδίας καὶ εὐφροσύνη ψυχῆ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Exultation of heart and gladness of soul is wine drunk in season, sufficient.
+Draft translation: Exultation of heart and gladness of soul is wine drunk in season, enough.
 
 Decision rows:
 - None recorded.
@@ -42754,7 +44098,7 @@ Greek: πικρία ψυχῆς οἶνος πινόμενος πολὺς ἐν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Bitterness of soul is wine drunk much in irritation and stumbling.
+Draft translation: Bitterness of soul is wine drunk in excess
 
 Decision rows:
 - None recorded.
@@ -42774,7 +44118,7 @@ Greek: πληθύνει μέθη θυμὸν ἄφρονος εἰς πρόσκ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Drunkenness multiplies anger of a fool for stumbling, lessening strength and making wounds.
+Draft translation: Drunkenness multiplies anger of a fool for stumbling, lessening strength and adding wounds.
 
 Decision rows:
 - None recorded.
@@ -42836,7 +44180,7 @@ Greek: καὶ πᾶσαν τὴν χρείαν σου ποιήσας ἀνάπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after doing all your need, recline, so that you may rejoice because of them and receive a crown for sake of good order.
+Draft translation: And after doing all your duty, recline, so that you may rejoice because of them and receive a crown for the sake of good order.
 
 Decision rows:
 - None recorded.
@@ -42936,7 +44280,7 @@ Greek: Λάλησον, νεανίσκε, εἰ χρεία σου, μόλις δ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Speak, young man, if you have need, hardly twice if you are asked.
+Draft translation: Speak, young man, if you have need, scarcely twice, if you are asked.
 
 Decision rows:
 - None recorded.
@@ -43036,7 +44380,7 @@ Greek: ἐκεῖ παῖζε καὶ ποίει τὰ ἐνθυμήματά σ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: There play and do your thoughts, and do not sin by a proud word.
+Draft translation: There enjoy yourself and do your thoughts, and do not sin by a proud word.
 
 Decision rows:
 - None recorded.
@@ -43056,7 +44400,7 @@ Greek: καὶ ἐπὶ τούτοις εὐλόγησον τὸν ποιήσα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And for these things bless the one who made you and makes you drunk from his good things.
+Draft translation: And for these things bless the one who made you and makes you drunk with his good things.
 
 Decision rows:
 - None recorded.
@@ -43096,7 +44440,7 @@ Greek: ὁ ζητῶν νόμον ἐμπλησθήσεται αὐτοῦ, κα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The one seeking law will be filled with it, and the one pretending will be stumbled by it.
+Draft translation: The one seeking law will be filled with it, and the one pretending will stumble by it.
 
 Decision rows:
 - None recorded.
@@ -43136,7 +44480,7 @@ Greek: ἄνθρωπος ἁμαρτωλὸς ἐκκλίνει ἐλεγμὸν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A sinful man turns aside reproof, and according to his will he will find a comparison.
+Draft translation: A sinful man turns aside reproof, and according to his will he will find a pretext.
 
 Decision rows:
 - None recorded.
@@ -43216,7 +44560,7 @@ Greek: μὴ πιστεύσῃς ἐν ὁδῷ ἀπροσκόπῳ,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not trust in an unstumbling way,
+Draft translation: Do not trust in a way without stumbling,
 
 Decision rows:
 - None recorded.
@@ -43276,7 +44620,7 @@ Greek: ὁ πιστεύων νόμῳ προσέχει ἐντολαῖς, κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The one trusting law pays attention to commandments, and the one trusting the Lord will not be lessened.
+Draft translation: The one trusting law pays attention to commandments, and the one trusting the Lord will not be diminished.
 
 Decision rows:
 - None recorded.
@@ -43298,7 +44642,7 @@ Greek: Τ† φοβουμένῳ Κύριον οὐκ ἀπαντήσει κακ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: To the one fearing the Lord no evil will meet, but in trial he will also deliver again.
+Draft translation: No evil will meet the one fearing the Lord, but in trial he will deliver him again.
 
 Decision rows:
 - None recorded.
@@ -43318,7 +44662,7 @@ Greek: ἀνὴρ σοφὸς οὐ μισήσει νόμον, ὁ δὲ ὑπο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A wise man will not hate law, but the one pretending in it is like a ship in storm.
+Draft translation: A wise man will not hate law, but the one pretending in it is like a ship in a storm.
 
 Decision rows:
 - None recorded.
@@ -43458,7 +44802,7 @@ Greek: ἀπ᾿ αὐτῶν ἀνύψωσε καὶ ἡγίασε καὶ ἐξ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: From them he lifted up and sanctified, and from them he set into a number of days.
+Draft translation: Some of them he lifted up and sanctified, and some of them he set into the number of days.
 
 Decision rows:
 - None recorded.
@@ -43578,7 +44922,7 @@ Greek: καὶ οὕτως ἔμβλεψον εἰς πάντα τὰ ἔργα 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And so look into all works of the Most High, two by two, one opposite the one.
+Draft translation: And so look into all works of the Most High, two by two, one opposite another.
 
 Decision rows:
 - None recorded.
@@ -43678,7 +45022,7 @@ Greek: υἱῷ καὶ γυναικί, ἀδελφῷ καὶ φίλῳ μὴ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: To son and wife, brother and friend, do not give authority over you in your life; and do not give your possessions to another, lest when you regret, you make petition concerning them.
+Draft translation: To son and wife, brother and friend, do not give authority over you in your life; and do not give your possessions to another, lest when you regret, you make petition for them.
 
 Decision rows:
 - None recorded.
@@ -43718,7 +45062,7 @@ Greek: κρείσσων γάρ ἐστι τὰ τέκνα δεηθῆναί σο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For it is better that your children should petition you than that you should look to hands of your sons.
+Draft translation: For it is better that your children should petition you than that you should look to the hands of your sons.
 
 Decision rows:
 - None recorded.
@@ -43738,7 +45082,7 @@ Greek: ἐν πᾶσι τοῖς ἔργοις σου γίνου ὑπεράγω
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In all your works become surpassing; do not give a blemish in your glory.
+Draft translation: In all your works be surpassing; do not give a blemish in your glory.
 
 Decision rows:
 - None recorded.
@@ -43798,7 +45142,7 @@ Greek: ἔργασαι ἐν παιδί, καὶ εὑρήσεις ἀνάπαυ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Work with a servant, and you will find rest; loosen hands for him, and he will seek freedom.
+Draft translation: Set a servant to work, and you will find rest; loosen his hands, and he will seek freedom.
 
 Decision rows:
 - None recorded.
@@ -44080,7 +45424,7 @@ Greek: πολλοὺς γὰρ ἐπλάνησε τὰ ἐνύπνια, καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for dreams led many astray, and those hoping in them fell out.
+Draft translation: for dreams led many astray, and those hoping in them fell away.
 
 Decision rows:
 - None recorded.
@@ -44220,7 +45564,7 @@ Greek: ὁ φοβούμενος Κύριον οὐδὲν εὐλαβηθήσε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The one fearing the Lord will be cautious of nothing and shall surely not be cowardly, because he is his hope.
+Draft translation: The one fearing the Lord will fear nothing and shall surely not be cowardly, because he is his hope.
 
 Decision rows:
 - None recorded.
@@ -44240,7 +45584,7 @@ Greek: φοβουμένου τὸν Κύριον μακαρία ἡ ψυχή· �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Blessed is soul of one fearing the Lord. To whom does he hold fast, and who is his support?
+Draft translation: Blessed is the soul of one fearing the Lord. To whom does he hold fast, and who is his support?
 
 Decision rows:
 - None recorded.
@@ -44320,7 +45664,7 @@ Greek: οὐκ εὐδοκεῖ ὁ Ὓψιστος ἐν προσφοραῖς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The Most High does not take pleasure in offerings of ungodly ones, nor is he atoned for sins by multitude of sacrifices.
+Draft translation: The Most High does not take pleasure in offerings of ungodly ones, nor is he propitiated concerning sins by multitude of sacrifices.
 
 Decision rows:
 - None recorded.
@@ -44340,7 +45684,7 @@ Greek: θύων υἱὸν ἔναντι τοῦ πατρὸς αὐτοῦ ὁ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: One offering a sacrifice from possessions of poor men is sacrificing a son before his father.
+Draft translation: One offering a sacrifice from goods of poor men is sacrificing a son before his father.
 
 Decision rows:
 - None recorded.
@@ -44400,7 +45744,7 @@ Greek: εἷς οἰκοδομῶν, καὶ εἷς καθαιρῶν· τί �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: One building and one tearing down; what did they profit more than labors?
+Draft translation: One building and one tearing down; what profit did they have except labors?
 
 Decision rows:
 - None recorded.
@@ -44502,7 +45846,7 @@ Greek: ἀνταποδιδοὺς χάριν προσφέρων σεμίδαλι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: One repaying grace offers fine flour, and the one doing mercy sacrifices praise.
+Draft translation: One repaying grace offers fine flour, and the one doing almsgiving sacrifices praise.
 
 Decision rows:
 - None recorded.
@@ -44542,7 +45886,7 @@ Greek: μὴ ὀφθῇς ἐν προσώπῳ Κυρίου κενός, πάν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not appear before the face of the Lord empty, for all these things are for sake of commandment.
+Draft translation: Do not appear before the face of the Lord empty, for all these things are for the sake of commandment.
 
 Decision rows:
 - None recorded.
@@ -44642,7 +45986,7 @@ Greek: δὸς Ὑψίστῳ κατὰ τὴν δόσιν αὐτοῦ καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Give to the Most High according to his gift and with a good eye according to find of hand;
+Draft translation: Give to the Most High according to his gift and with a good eye according to what your hand finds;
 
 Decision rows:
 - None recorded.
@@ -44722,7 +46066,7 @@ Greek: οὐ λήψεται πρόσωπον ἐπὶ πτωχοῦ καὶ δέ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He will not take face against a poor man, and he will listen to petition of one wronged.
+Draft translation: He will not receive face against a poor man, and he will listen to petition of one wronged.
 
 Decision rows:
 - None recorded.
@@ -44802,7 +46146,7 @@ Greek: προσευχὴ ταπεινοῦ νεφέλας διῆλθε, καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Prayer of a lowly one passed through clouds, and until it draws near, he shall surely not be comforted;
+Draft translation: Prayer of a lowly one passes through clouds, and until it draws near, he shall surely not be comforted;
 
 Decision rows:
 - None recorded.
@@ -44822,7 +46166,7 @@ Greek: καὶ οὐ μὴ ἀποστῇ, ἕως ἐπισκέψηται ὁ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and it shall surely not depart until the Most High visits. And he will judge righteously and make judgment.
+Draft translation: and it shall surely not depart until the Most High visits. And he will judge righteously and execute judgment.
 
 Decision rows:
 - None recorded.
@@ -44942,7 +46286,7 @@ Greek: ὡραῖον ἔλεος ἐν καιρῷ θλίψεως αὐτοῦ,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Beautiful is mercy in time of his affliction, like clouds of rain in time of drought.
+Draft translation: Beautiful is mercy in time of affliction, like clouds of rain in time of drought.
 
 Decision rows:
 - None recorded.
@@ -45084,7 +46428,7 @@ Greek: σπεῦσον καιρὸν καὶ μνήσθητι ὁρκισμοῦ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Hasten a time and remember oath, and let them tell out your great deeds.
+Draft translation: Hasten the time and remember oath, and let them tell out your great deeds.
 
 Decision rows:
 - None recorded.
@@ -45104,7 +46448,7 @@ Greek: ἐν ὀργῇ πυρὸς καταβρωθήτω ὁ σῳζόμενο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Let the one being saved be devoured in wrath of fire, and may those harming your people find destruction.
+Draft translation: Let the survivor be devoured in wrath of fire, and may those harming your people find destruction.
 
 Decision rows:
 - None recorded.
@@ -45124,7 +46468,7 @@ Greek: σύντριψον κεφαλὰς ἀρχόντων ἐχθρῶν λε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Crush heads of rulers of enemies who say, There is none besides us.
+Draft translation: Crush heads of rulers of enemies who say, "There is none besides us."
 
 Decision rows:
 - None recorded.
@@ -45144,7 +46488,7 @@ Greek: συνάγαγε πάσας φυλὰς Ἰακώβ, καὶ κατεκλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Gather all tribes of Jacob, and inherit them as from beginning.
+Draft translation: Gather all tribes of Jacob, and take them as inheritance as from beginning.
 
 Decision rows:
 - None recorded.
@@ -45164,7 +46508,7 @@ Greek: ἐλέησον λαόν, Κύριε, κεκλημένον ἐπ᾿ ὀν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Have mercy on people, Lord, called by your name, and Israel, whom you likened to a firstborn.
+Draft translation: Have mercy on the people, Lord, called by your name, and Israel, whom you likened to a firstborn.
 
 Decision rows:
 - None recorded.
@@ -45184,7 +46528,7 @@ Greek: οἰκτείρησον πόλιν ἁγιάσματός σου Ἱερο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Pity city of your sanctuary, Jerusalem, city of your resting-place.
+Draft translation: Pity the city of your sanctuary, Jerusalem, city of your resting-place.
 
 Decision rows:
 - None recorded.
@@ -45224,7 +46568,7 @@ Greek: δὸς μαρτύριον τοῖς ἐν ἀρχῇ κτίσματί σ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Give testimony to those who were your creation in beginning, and raise up prophecies upon your name.
+Draft translation: Give testimony to your creation in the beginning, and raise up prophecies upon your name.
 
 Decision rows:
 - None recorded.
@@ -45304,7 +46648,7 @@ Greek: Πᾶν βρῶμα φάγεται κοιλία, ἔστι δὲ βρῶ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A belly will eat every food, but there is food better than food.
+Draft translation: A belly will eat every food, but one food is better than another.
 
 Decision rows:
 - None recorded.
@@ -45364,7 +46708,7 @@ Greek: πάντα ἄρρενα ἐπιδέξεται γυνή, ἔστι δὲ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A woman will receive every male, but there is daughter better than daughter.
+Draft translation: A woman will receive every male, but one daughter is better than another.
 
 Decision rows:
 - None recorded.
@@ -45400,11 +46744,11 @@ Variant notes:
 
 ### Sirach 36:23
 
-Greek: εἰ ἔστιν ἐπὶ γλώσσης αὐτῆς ἔλεος καὶ πραυ±της, οὐκ ἔστιν ὁ ἀνὴρ αὐτῆς καθ᾿ υἱοὺς ἀνθρώπων.
+Greek: εἰ ἔστιν ἐπὶ γλώσσης αὐτῆς ἔλεος καὶ πραΰτης, οὐκ ἔστιν ὁ ἀνὴρ αὐτῆς καθ᾿ υἱοὺς ἀνθρώπων.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If mercy and meekness are upon her tongue, her husband is not according to sons of men.
+Draft translation: If mercy and meekness are upon her tongue, her husband is not like the sons of men.
 
 Decision rows:
 - None recorded.
@@ -45424,7 +46768,7 @@ Greek: ὁ κτώμενος γυναῖκα ἐνάρχεται κτήσεως, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The one acquiring a wife begins possession, a helper according to him and pillar of rest.
+Draft translation: The one acquiring a wife begins possession, a helper corresponding to him and pillar of rest.
 
 Decision rows:
 - None recorded.
@@ -45484,7 +46828,7 @@ Greek: οὕτως ἀνθρώπῳ μὴ ἔχοντι νοσσιὰν καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: So with a man who has no nest and lodges wherever he grows dark.
+Draft translation: So with a man who has no nest and lodges wherever evening finds him.
 
 Decision rows:
 - None recorded.
@@ -45506,7 +46850,7 @@ Greek: ΠΑΣ φίλος ἐρεῖ· ἐφιλίασα αὐτῷ κἀγώ, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Every friend will say, I also was friendly to him, but there is a friend who is a friend in name only.
+Draft translation: Every friend will say, "I also was friendly to him," but there is a friend who is a friend in name only.
 
 Decision rows:
 - None recorded.
@@ -45566,7 +46910,7 @@ Greek: ἑταῖρος φίλου ἐν εὐφροσύνῃ ἥδεται κα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A companion of a friend delights in gladness, and in time of affliction he will be opposite.
+Draft translation: A companion of a friend delights in gladness, and in time of affliction he will be against him.
 
 Decision rows:
 - None recorded.
@@ -45586,7 +46930,7 @@ Greek: ἑταῖρος φίλῳ συμπονεῖ χάριν γαστρός, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A companion labors together with a friend for sake of belly; before war he will take a shield.
+Draft translation: A companion labors together with a friend for the sake of belly; before war he will take a shield.
 
 Decision rows:
 - None recorded.
@@ -45666,7 +47010,7 @@ Greek: καὶ εἴπῃ σοι· καλὴ ἡ ὁδός σου, καὶ στ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and say to you, Your way is good, and stand opposite to see what will happen to you.
+Draft translation: and say to you, "Your way is good," and stand opposite to see what will happen to you.
 
 Decision rows:
 - None recorded.
@@ -45706,7 +47050,7 @@ Greek: μετὰ γυναικὸς περὶ τῆς ἀντιζήλου αὐτ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not rely for every counsel with a woman concerning her rival, and with a coward concerning war, with a merchant concerning exchange and with a buyer concerning sale, with an envious man concerning thanksgiving and with a merciless man concerning kindness, with a lazy man concerning every work and with a hired man by the year concerning completion, with an idle servant concerning much work; do not rely on these for any counsel.
+Draft translation: Do not rely on these for any counsel: with a woman concerning her rival, with a coward concerning war, with a merchant concerning exchange and with a buyer concerning sale, with an envious man concerning thanksgiving and with a merciless man concerning kindness, with a lazy man concerning every work and with a hired man by the year concerning completion, with an idle servant concerning much work.
 
 Decision rows:
 - None recorded.
@@ -45806,7 +47150,7 @@ Greek: Ἀρχὴ παντὸς ἔργου λόγος, καὶ πρὸ πάση
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Beginning of every work is word, and before every action, counsel.
+Draft translation: The beginning of every work is word, and before every action, counsel.
 
 Decision rows:
 - None recorded.
@@ -45826,7 +47170,7 @@ Greek: ἴχνος ἀλλοιώσεως καρδίας τέσσαρα μέρη 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: As track of alteration of heart, four parts arise:
+Draft translation: A track of alteration of heart: four parts arise,
 
 Decision rows:
 - None recorded.
@@ -45926,7 +47270,7 @@ Greek: ἔστι σοφὸς τῇ ἰδίᾳ ψυχῇ, καὶ οἱ καρπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: There is one wise for his own soul, and fruits of his understanding are faithful upon mouth.
+Draft translation: There is one wise for his own soul, and fruits of his understanding are faithful upon his mouth.
 
 Decision rows:
 - None recorded.
@@ -46026,7 +47370,7 @@ Greek: Τέκνον, ἐν τῇ ζωῇ σου πείρασον τὴν ψυχ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Child, in your life test your soul and see what is evil for it, and do not give it to it;
+Draft translation: Child, in your life test your soul and see what is evil for it, and do not give that to it;
 
 Decision rows:
 - None recorded.
@@ -46106,7 +47450,7 @@ Greek: δι᾿ ἀπληστίαν πολλοὶ ἐτελεύτησαν, ὁ δ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Because of insatiability many died, but the one paying attention will add life.
+Draft translation: Because of insatiability many died, but the one paying attention will add to life.
 
 Decision rows:
 - None recorded.
@@ -46128,7 +47472,7 @@ Greek: ΤΙΜΑ ἰατρὸν πρὸς τὰς χρείας αὐτοῦ τι�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Honor a physician according to his needs with his honors, for the Lord also created him;
+Draft translation: Honor a physician with his honors according to your need of him, for the Lord also created him;
 
 Decision rows:
 - None recorded.
@@ -46188,7 +47532,7 @@ Greek: Κύριος ἔκτισεν ἐκ γῆς φάρμακα, καὶ ἀν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The Lord created medicines from earth, and a prudent man will not be irritated by them.
+Draft translation: The Lord created medicines from earth, and a prudent man will not be disgusted with them.
 
 Decision rows:
 - None recorded.
@@ -46388,7 +47732,7 @@ Greek: καὶ γὰρ αὐτοὶ Κυρίου δεηθήσονται, ἵνα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for they also will make petition to the Lord, so that he may prosper them with rest and healing for sake of livelihood.
+Draft translation: for they also will make petition to the Lord, so that he may prosper them with rest and healing for the sake of preserving life.
 
 Decision rows:
 - None recorded.
@@ -46448,7 +47792,7 @@ Greek: πίκρανον κλαυθμὸν καὶ θέρμανον κοπετὸ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Make weeping bitter and make wailing hot, and make mourning according to his worth, one day and two for sake of slander, and be comforted because of grief;
+Draft translation: Make weeping bitter and make wailing hot, and make mourning according to his worth, one day and two because of slander, and be comforted because of grief;
 
 Decision rows:
 - None recorded.
@@ -46508,7 +47852,7 @@ Greek: μὴ δῷς εἰς λύπην τὴν καρδίαν σου, ἀπόσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not give your heart to grief; put it away, remembering the last things.
+Draft translation: Do not give your heart to grief; put it away, remembering the end.
 
 Decision rows:
 - None recorded.
@@ -46648,7 +47992,7 @@ Greek: οὕτως πᾶς τέκτων καὶ ἀρχιτέκτων, ὅστι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: So every craftsman and architect, who spends night as day; those carving engravings of seals, and his endurance is to alter variety; he will give his heart to liken a painting, and his sleeplessness is to complete work.
+Draft translation: So every craftsman and architect, who spends night as day; those carving engravings of seals, and his endurance is to vary design; he will give his heart to liken a painting, and his sleeplessness is to complete work.
 
 Decision rows:
 - None recorded.
@@ -46668,7 +48012,7 @@ Greek: οὕτως χαλκεὺς καθήμενος ἐγγὺς ἄκμονο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: So a bronze-worker sitting near an anvil and studying works of iron; vapor of fire will fix his flesh, and in heat of furnace he will struggle; sound of hammer will renew his ear, and his eyes are opposite likeness of vessel; he will give his heart to completion of works, and his sleeplessness is to adorn them to completion.
+Draft translation: So a bronze-worker sitting near an anvil and studying works of iron; vapor of fire will harden his flesh, and in heat of furnace he will struggle; sound of hammer will renew his ear, and his eyes are opposite likeness of vessel; he will give his heart to completion of works, and his sleeplessness is to adorn them to completion.
 
 Decision rows:
 - None recorded.
@@ -46810,7 +48154,7 @@ Greek: ΠΛΗΝ τοῦ ἐπιδόντος τὴν ψυχὴν αὐτοῦ κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Except for the one who gives his soul and considers in law of the Most High, he will seek out wisdom of all ancients and be occupied in prophecies.
+Draft translation: But the one who gives his soul and considers in law of the Most High will seek out wisdom of all ancients and be occupied in prophecies.
 
 Decision rows:
 - None recorded.
@@ -46830,7 +48174,7 @@ Greek: διηγήσεις ἀνδρῶν ὀνομαστῶν συντηρήσε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He will preserve tales of named men and enter together into turns of parables.
+Draft translation: He will preserve tales of renowned men and enter together into turns of parables.
 
 Decision rows:
 - None recorded.
@@ -46950,7 +48294,7 @@ Greek: αὐτὸς ἐκφανεῖ παιδείαν διδασκαλίας α�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He himself will make discipline of his teaching appear and will boast in law of covenant of the Lord.
+Draft translation: He himself will make discipline of his teaching appear and will boast in law of the covenant of the Lord.
 
 Decision rows:
 - None recorded.
@@ -47070,7 +48414,7 @@ Greek: καὶ ὡς λίβανος εὐωδιάσατε ὀσμὴν καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and like frankincense give sweet smell of odor, and flower a flower like a lily. Spread odor and praise a song; bless the Lord for all his works.
+Draft translation: and like frankincense give sweet fragrance, and flower a flower like a lily. Spread odor and praise a song; bless the Lord for all his works.
 
 Decision rows:
 - None recorded.
@@ -47110,7 +48454,7 @@ Greek: Τὰ ἔργα Κυρίου πάντα ὅτι καλὰ σφόδρα, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: All works of the Lord are very good, and every command will be in its time. It is not possible to say, What is this? For what is this?
+Draft translation: All works of the Lord are very good, and every command will be in its time. It is not possible to say, "What is this? For what is this?"
 
 Decision rows:
 - None recorded.
@@ -47210,7 +48554,7 @@ Greek: οὐκ ἔστιν εἰπεῖν· τί τοῦτο; εἰς τί το�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: It is not possible to say, What is this? For what is this? For all things were created for their needs.
+Draft translation: It is not possible to say, "What is this? For what is this?" For all things were created for their needs.
 
 Decision rows:
 - None recorded.
@@ -47230,7 +48574,7 @@ Greek: ἡ εὐλογία αὐτοῦ ὡς ποταμὸς ἐπεκάλυψ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: His blessing covered over like a river, and like a flood made dry land drunk.
+Draft translation: His blessing covered over like a river, and like a flood drenched dry land.
 
 Decision rows:
 - None recorded.
@@ -47250,7 +48594,7 @@ Greek: οὕτως ὀργὴν αὐτοῦ ἔθνη κληρονομήσει,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: So his wrath will inherit nations, as he turned waters into brine.
+Draft translation: So nations will inherit his wrath, as he turned waters into brine.
 
 Decision rows:
 - None recorded.
@@ -47350,7 +48694,7 @@ Greek: ἔστι πνεύματα, ἃ εἰς ἐκδίκησιν ἔκτιστ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: There are spirits that were created for vengeance, and in his anger they made their whips firm; in time of completion they will pour out strength and bring to rest the anger of the one who made them.
+Draft translation: There are spirits that were created for vengeance, and in his anger they made their whips firm; in time of completion they will pour out strength and make the anger of the one who made them cease.
 
 Decision rows:
 - None recorded.
@@ -47390,7 +48734,7 @@ Greek: θηρίων ὀδόντες καὶ σκορπίοι καὶ ἔχεις
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: teeth of beasts and scorpions and vipers and a sword taking vengeance for destruction of ungodly ones.
+Draft translation: teeth of beasts and scorpions and vipers and a sword taking vengeance to destruction against ungodly ones.
 
 Decision rows:
 - None recorded.
@@ -47512,7 +48856,7 @@ Greek: ΑΣΧΟΛΙΑ μεγάλη ἔκτισται παντὶ ἀνθρώπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Great occupation has been created for every man, and a heavy yoke upon sons of Adam, from day of going out from womb of their mother until day of return to mother of all:
+Draft translation: Great trouble has been created for every man, and a heavy yoke upon sons of Adam, from day of going out from womb of their mother until day of return to mother of all:
 
 Decision rows:
 - None recorded.
@@ -47612,7 +48956,7 @@ Greek: ὀλίγον ὡς οὐδὲν ἐν ἀναπαύσει, καὶ ἀπ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A little as nothing in rest, and from there in sleep as in day of watch, troubled in vision of his heart, as one escaped from face of war.
+Draft translation: A little rest is as nothing, and after that in dreams he is troubled as on a day of watch, in vision of his heart, as one escaped from face of war.
 
 Decision rows:
 - None recorded.
@@ -47632,7 +48976,7 @@ Greek: ἐν καιρῷ σωτηρίας αὐτοῦ ἐξηγέρθη καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In time of his salvation he woke up and marveled into no fear.
+Draft translation: In time of his salvation he woke up and marveled that there was no fear.
 
 Decision rows:
 - None recorded.
@@ -47812,7 +49156,7 @@ Greek: ἄχει ἐπὶ παντὸς ὕδατος καὶ χείλους π�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: reed upon every water and lip of river will be plucked out before every grass.
+Draft translation: Reed upon every water and lip of river will be plucked out before every grass.
 
 Decision rows:
 - None recorded.
@@ -47832,7 +49176,7 @@ Greek: χάρις ὡς παράδεισος ἐν εὐλογίαις, καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Grace is like a garden in blessings, and mercy remains into the age.
+Draft translation: Grace is like a garden in blessings, and almsgiving remains into the age.
 
 Decision rows:
 - None recorded.
@@ -47932,7 +49276,7 @@ Greek: χάριν καὶ κάλλος ἐπιθυμήσει ὁ ὀφθαλμό
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Your eye will desire grace and beauty, and above both green shoot of seed.
+Draft translation: Your eye will desire grace and beauty, and above both green growth of seed.
 
 Decision rows:
 - None recorded.
@@ -47972,7 +49316,7 @@ Greek: ἀδελφοὶ καὶ βοήθεια εἰς καιρὸν θλίψε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Brothers and help are for time of affliction, and above both mercy will rescue.
+Draft translation: Brothers and help are for time of affliction, and above both almsgiving will rescue.
 
 Decision rows:
 - None recorded.
@@ -48072,7 +49416,7 @@ Greek: ἀνὴρ βλέπων εἰς τράπεζαν ἀλλοτρίαν, ο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A man looking to a stranger's table, his livelihood is not in the reckoning of life; he will defile his soul with strangers' foods. But a knowledgeable and disciplined man will guard himself.
+Draft translation: A man looking to a stranger's table, his life is not in the reckoning of life; he will defile his soul with strangers' foods. But a knowledgeable and disciplined man will guard himself.
 
 Decision rows:
 - None recorded.
@@ -48092,7 +49436,7 @@ Greek: ἐν στόματι ἀναιδοῦς γλυκανθήσεται ἐπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Begging will be sweetened in mouth of a shameless man, and in his belly fire will burn.
+Draft translation: Begging will be sweet in the mouth of a shameless man, and in his belly fire will burn.
 
 Decision rows:
 - None recorded.
@@ -48114,7 +49458,7 @@ Greek: Ω ΘΑΝΑΤΕ, ὡς πικρόν σου τὸ μνημόσυνόν ἐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O death, how bitter your memorial is to a man at peace in his possessions, to a man undistracted and prospering in all things and still strong to receive food.
+Draft translation: O death, how bitter your remembrance is to a man at peace in his possessions, to a man undistracted and prospering in all things and still strong to receive food.
 
 Decision rows:
 - None recorded.
@@ -48154,7 +49498,7 @@ Greek: μὴ εὐλαβοῦ κρίμα θανάτου, μνήσθητι προ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not be cautious of judgment of death; remember those before you and last things.
+Draft translation: Do not fear judgment of death; remember those before you and those after.
 
 Decision rows:
 - None recorded.
@@ -48194,7 +49538,7 @@ Greek: Τέκνα βδελυκτὰ γίνεται τέκνα ἁμαρτωλῶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Abominable children become children of sinners and those living together in sojournings of ungodly ones.
+Draft translation: Children of sinners become abominable children and those living together in sojournings of ungodly ones.
 
 Decision rows:
 - None recorded.
@@ -48314,7 +49658,7 @@ Greek: Πένθος ἀνθρώπων ἐν σώμασιν αὐτῶν, ὄνο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Mourning of men is in their bodies, but name of sinners, not good, will be wiped out.
+Draft translation: Mourning of men is in their bodies, but a name of sinners that is not good will be wiped out.
 
 Decision rows:
 - None recorded.
@@ -48414,7 +49758,7 @@ Greek: τοιγαροῦν ἐντράπητε ἐπὶ τῷ ρήματί μο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore be ashamed at my word; for it is not good to guard every shame, and not all things are approved by all in faithfulness.
+Draft translation: Therefore be ashamed at my word; for it is not good to keep every kind of shame, and not all things are approved by all in faithfulness.
 
 Decision rows:
 - None recorded.
@@ -48494,7 +49838,7 @@ Greek: ἀπὸ ἀληθείας Θεοῦ καὶ διαθήκης καὶ ἀ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: before truth of God and covenant, and before setting an elbow upon breads,
+Draft translation: before truth of God and covenant, and before setting an elbow upon loaves,
 
 Decision rows:
 - None recorded.
@@ -48614,7 +49958,7 @@ Greek: ἀπὸ δευτερώσεως καὶ λόγου ἀκοῆς, καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: before repeating a report and word of hearing, and before revelations of hidden words;
+Draft translation: before repeating a report and heard word, and before revelations of hidden words;
 
 Decision rows:
 - None recorded.
@@ -48634,7 +49978,7 @@ Greek: καὶ ἔσῃ αἰσχυντηρὸς ἀληθινῶς καὶ ε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and you will be truly modest and finding grace before every man.
+Draft translation: and you will be truly modest and will find grace before every man.
 
 Decision rows:
 - None recorded.
@@ -48656,7 +50000,7 @@ Greek: ΜΗ περὶ τούτων αἰσχυνθῇς, καὶ μὴ λάβῃ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not be ashamed concerning these things, and do not accept a face for sinning:
+Draft translation: Do not be ashamed concerning these things, and do not take face so as to sin:
 
 Decision rows:
 - None recorded.
@@ -48816,7 +50160,7 @@ Greek: Θυγάτηρ πατρὶ ἀπόκρυφος ἀγρυπνία, καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A daughter is secret sleeplessness to a father, and care for her drives away sleep: in her youth, lest perhaps she pass her prime; and having lived with a husband, lest perhaps she be hated;
+Draft translation: A daughter is hidden sleeplessness to a father, and care for her drives away sleep: in her youth, lest perhaps she pass her prime; and having lived with a husband, lest perhaps she be hated;
 
 Decision rows:
 - None recorded.
@@ -48876,7 +50220,7 @@ Greek: παντὶ ἀνθρώπῳ μὴ ἔμβλεπε ἐν κάλλει κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Do not look at beauty in every man, and do not sit together among women;
+Draft translation: Do not look at beauty in every person, and do not sit together among women;
 
 Decision rows:
 - None recorded.
@@ -48996,7 +50340,7 @@ Greek: ἄβυσσον καὶ καρδίαν ἐξίχνευσε καὶ ἐν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He searched out abyss and heart and considered in their craftinesses; for the Lord knew every knowledge and looked into sign of age,
+Draft translation: He searched out abyss and heart and considered in their craftinesses; for the Lord knew all knowledge and looked into sign of age,
 
 Decision rows:
 - None recorded.
@@ -49056,7 +50400,7 @@ Greek: τὰ μεγαλεῖα τῆς σοφίας αὐτοῦ ἐκόσμησ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He adorned the great things of his wisdom, and as he is before the age and into the age; neither was anything added nor lessened, and he had no need of any counselor.
+Draft translation: He adorned the great things of his wisdom, and he is as he was before the age and into the age; neither was anything added nor lessened, and he had no need of any counselor.
 
 Decision rows:
 - None recorded.
@@ -49076,7 +50420,7 @@ Greek: ὡς πάντα τὰ ἔργα αὐτοῦ ἐπιθυμητὰ κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: How desirable are all his works, and how they are to behold like a spark.
+Draft translation: How desirable are all his works, and how they are like a spark to behold.
 
 Decision rows:
 - None recorded.
@@ -49116,7 +50460,7 @@ Greek: πάντα δισσά, ἓν κατέναντι τοῦ ἑνός, κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: All things are double, one opposite the one, and he made nothing lacking.
+Draft translation: All things are double, one opposite another, and he made nothing lacking.
 
 Decision rows:
 - None recorded.
@@ -49136,7 +50480,7 @@ Greek: ἓν τοῦ ἑνὸς ἐστερέωσε τὰ ἀγαθά, καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: One strengthened good things of the other, and who will be filled while seeing his glory?
+Draft translation: One thing strengthened the good things of another, and who will be filled while seeing his glory?
 
 Decision rows:
 - None recorded.
@@ -49218,7 +50562,7 @@ Greek: κάμινον φυσῶν ἐν ἔργοις καύματος, τριπ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: One blowing a furnace in works of heat; threefold is sun burning up mountains, breathing out fiery vapors and shining beams, dimming eyes.
+Draft translation: Like one blowing a furnace in works of heat, the sun burns up mountains threefold, breathing out fiery vapors and shining beams, dimming eyes.
 
 Decision rows:
 - None recorded.
@@ -49458,7 +50802,7 @@ Greek: καὶ ἐν ὀπτασίαις αὐτοῦ σαλευθήσεται �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And at his appearances mountains will be shaken; by his will south wind will blow.
+Draft translation: And at his appearances mountains will be shaken; by his will the south wind will blow.
 
 Decision rows:
 - None recorded.
@@ -49578,7 +50922,7 @@ Greek: ἴασις πάντων κατὰ σπουδὴν ὁμίχλη, δρό�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Healing of all things is mist in haste; dew meeting burning heat will cheer.
+Draft translation: A mist is swift healing of all things; dew meeting burning heat will cheer.
 
 Decision rows:
 - None recorded.
@@ -49618,7 +50962,7 @@ Greek: οἱ πλέοντες τὴν θάλασσαν διηγοῦνται τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Those sailing the sea tell of its danger, and by hearings of our ears we marvel.
+Draft translation: Those sailing the sea tell of its danger, and by hearing with our ears we marvel.
 
 Decision rows:
 - None recorded.
@@ -49678,7 +51022,7 @@ Greek: Πολλὰ ἐροῦμεν καὶ οὐ μὴ ἐφικώμεθα, κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: We will say many things and shall surely not reach; and completion of words: the whole is he.
+Draft translation: We will say many things and shall surely not reach; and completion of words: he is the whole.
 
 Decision rows:
 - None recorded.
@@ -49738,7 +51082,7 @@ Greek: δοξάζοντες Κύριον ὑψώσατε, καθόσον ἂν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: While glorifying the Lord, lift him high as much as you are able, for he will exceed still more. And while lifting him high, multiply in strength; do not labor, for you shall surely not reach.
+Draft translation: While glorifying the Lord, lift him high as much as you are able, for he will exceed still more. And while lifting him high, multiply in strength; do not grow weary, for you shall surely not reach.
 
 Decision rows:
 - None recorded.
@@ -49820,7 +51164,7 @@ Greek: ΠΑΤΕΡΩΝ ΥΜΝΟΣ. Αἰνέσωμεν δὴ ἄνδρας ἐν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Hymn of Fathers. Let us indeed praise glorious men and our fathers by generation.
+Draft translation: Hymn of Fathers. Let us indeed praise glorious men and our fathers by their generation.
 
 Decision rows:
 - None recorded.
@@ -49840,7 +51184,7 @@ Greek: πολλὴν δόξαν ἔκτισεν ὁ Κύριος, τὴν μεγ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The Lord created much glory, his greatness from age.
+Draft translation: The Lord created much glory, his greatness from the age.
 
 Decision rows:
 - None recorded.
@@ -49860,7 +51204,7 @@ Greek: κυριεύοντες ἐν ταῖς βασιλείαις αὐτῶν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Those ruling in their kingdoms, and men named in power, counseling in their understanding, reporting in prophecies;
+Draft translation: Those ruling in their kingdoms, and men renowned in power, counseling in their understanding, reporting in prophecies;
 
 Decision rows:
 - None recorded.
@@ -49880,7 +51224,7 @@ Greek: ἡγούμενοι λαοῦ ἐν διαβουλίοις καὶ συν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: leaders of people in deliberations and understanding of scribal work of people, wise words in their discipline;
+Draft translation: leaders of people in deliberations and understanding of scribal work of people, wise in words by their discipline;
 
 Decision rows:
 - None recorded.
@@ -49980,7 +51324,7 @@ Greek: καὶ εἰσὶν ὧν οὐκ ἔστι μνημόσυνον καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and there are some of whom there is no memorial, and they perished as not existing, and became as not having come to be, and their children after them.
+Draft translation: and there are some of whom there is no memorial, and they perished as though not existing, and became as though not having come to be, and their children after them.
 
 Decision rows:
 - None recorded.
@@ -50060,7 +51404,7 @@ Greek: ἕως αἰῶνος μενεῖ σπέρμα αὐτῶν, καὶ ἡ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Their seed will remain until age, and their glory will not be wiped out.
+Draft translation: Their seed will remain until the age, and their glory will not be wiped out.
 
 Decision rows:
 - None recorded.
@@ -50338,7 +51682,7 @@ Variant notes:
 
 ### Sirach 45:4
 
-Greek: ἐν πίστει καὶ πραυ±τητι αὐτὸν ἡγίασεν, ἐξελέξατο αὐτὸν ἐκ πάσης σαρκός·
+Greek: ἐν πίστει καὶ πραΰτητι αὐτὸν ἡγίασεν, ἐξελέξατο αὐτὸν ἐκ πάσης σαρκός·
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
@@ -50522,7 +51866,7 @@ Greek: πρὸ αὐτοῦ οὐ γέγονε τοιαῦτα ἕως αἰῶ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Before him such things had not come to be until age; no foreigner clothed himself with them except his sons only, and his offspring continually.
+Draft translation: Before him such things had not come to be into age; no foreigner clothed himself with them except his sons only, and his offspring continually.
 
 Decision rows:
 - None recorded.
@@ -50642,7 +51986,7 @@ Greek: εἶδε Κύριος καὶ οὐκ εὐδόκησε, καὶ συν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The Lord saw and was not pleased, and they were completed in angry wrath; he did wonders against them, to consume them in fire of his flame.
+Draft translation: The Lord saw and was not pleased, and they were brought to an end in angry wrath; he did wonders against them, to consume them in fire of his flame.
 
 Decision rows:
 - None recorded.
@@ -50662,7 +52006,7 @@ Greek: καὶ προσέθηκεν Ἀαρὼν δόξαν καὶ ἔδωκε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he added glory to Aaron and gave him inheritance; firstfruits of firstborn things he divided to him; bread first he prepared to fullness.
+Draft translation: And he added glory to Aaron and gave him inheritance; firstfruits of firstborn things he divided to him; bread from first things he prepared to fullness.
 
 Decision rows:
 - None recorded.
@@ -50722,7 +52066,7 @@ Greek: Καὶ Φινεὲς υἱὸς Ἐλεάζαρ τρίτος εἰς δ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Phinehas son of Eleazar was third in glory, by being zealous in fear of the Lord and standing in turning of people, in goodness of eagerness of his soul. And he atoned concerning Israel.
+Draft translation: And Phinehas son of Eleazar was third in glory, by being zealous in fear of the Lord and standing when the people turned, in goodness of eagerness of his soul. And he atoned concerning Israel.
 
 Decision rows:
 - None recorded.
@@ -50782,7 +52126,7 @@ Greek: δῴη ὑμῖν σοφίαν ἐν καρδίᾳ ὑμῶν κρίνε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: May he give you wisdom in your heart to judge his people in righteousness, so that their good things may not be made invisible, and their glory to their generations.
+Draft translation: May he give you wisdom in your heart to judge his people in righteousness, so that their good things may not vanish, and their glory to their generations.
 
 Decision rows:
 - None recorded.
@@ -50824,7 +52168,7 @@ Greek: ὡς ἐδοξάσθη ἐν τῷ ἐπᾶραι χεῖρας αὐτ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: How he was glorified in lifting up his hands and in stretching out sword against cities.
+Draft translation: How he was glorified in lifting up his hands and in stretching out a sword against cities.
 
 Decision rows:
 - None recorded.
@@ -50924,7 +52268,7 @@ Greek: Καὶ ἐν ἡμέραις Μωυσέως ἐποίησεν ἔλεο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And in days of Moses he did mercy, he and Caleb son of Jephunneh, to stand against an assembly, to hinder people from sin and to quiet wicked murmuring.
+Draft translation: And in days of Moses he acted with mercy, he and Caleb son of Jephunneh, to stand against an assembly, to hinder people from sin and to quiet wicked murmuring.
 
 Decision rows:
 - None recorded.
@@ -51024,7 +52368,7 @@ Greek: τὰ ὀστᾶ αὐτῶν ἀναθάλοι ἐκ τοῦ τόπου 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: May their bones sprout again from their place, and their name be exchanged again upon sons of their glorified ones.
+Draft translation: May their bones sprout again from their place, and their name be renewed again upon sons of their glorified ones.
 
 Decision rows:
 - None recorded.
@@ -51084,7 +52428,7 @@ Greek: ἐν πίστει αὐτοῦ ἠκριβάσθη προφήτης κα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: By his faithfulness he was made exact as prophet, and by his faithfulness he was known as faithful in vision.
+Draft translation: By his faithfulness he was shown exact as a prophet, and by his faithfulness he was known as faithful in vision.
 
 Decision rows:
 - None recorded.
@@ -51164,7 +52508,7 @@ Greek: καὶ πρὸ καιροῦ κοιμήσεως αἰῶνος ἐπεμ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And before time of eternal sleep he testified before the Lord and his anointed: Possessions, even to sandals, from all flesh I have not taken. And no man accused him.
+Draft translation: And before time of eternal sleep he testified before the Lord and his anointed: "Possessions, even to sandals, from all flesh I have not taken." And no man accused him.
 
 Decision rows:
 - None recorded.
@@ -51206,7 +52550,7 @@ Greek: ΚΑΙ μετὰ τοῦτο ἀνέστη Νάθαν προφητεύε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after this Nathan rose up to prophesy in days of David.
+Draft translation: And after this Nathan rose up to prophesy in the days of David.
 
 Decision rows:
 - None recorded.
@@ -51266,7 +52610,7 @@ Greek: ἐν νεότητι αὐτοῦ οὐχὶ ἀπέκτεινε γίγα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In his youth did he not kill a giant and remove reproach from people, by lifting hand with stone of sling and casting down boasting of Goliath?
+Draft translation: In his youth did he not kill a giant and remove reproach from the people, by lifting hand with a stone of a sling and casting down boasting of Goliath?
 
 Decision rows:
 - None recorded.
@@ -51366,7 +52710,7 @@ Greek: καὶ ἔστησε ψαλτῳδοὺς κατέναντι τοῦ θ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he set singers before the altar, and by their sound to sweeten melodies.
+Draft translation: And he set singers before the altar, so that by their sound they might sweeten melodies.
 
 Decision rows:
 - None recorded.
@@ -51546,7 +52890,7 @@ Greek: ἐν ὀνόματι Κυρίου τοῦ Θεοῦ τοῦ ἐπικε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In name of the Lord God, the one called God of Israel, you gathered gold like tin and multiplied silver like lead.
+Draft translation: In the name of the Lord God, the one called God of Israel, you gathered gold like tin and multiplied silver like lead.
 
 Decision rows:
 - None recorded.
@@ -51626,7 +52970,7 @@ Greek: ὁ δὲ Κύριος οὐ μὴ καταλίπῃ τὸ ἔλεος α
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the Lord shall surely not leave his mercy behind, and he shall surely not destroy any of his works, nor shall he wipe out offspring of his chosen one, and seed of the one who loved him he shall surely not remove. And to Jacob he gave a remnant, and to David a root from him.
+Draft translation: But the Lord shall surely not abandon his mercy, and he shall surely not destroy any of his works, nor shall he wipe out offspring of his chosen one, and seed of the one who loved him he shall surely not remove. And to Jacob he gave a remnant, and to David a root from him.
 
 Decision rows:
 - None recorded.
@@ -51666,7 +53010,7 @@ Greek: καὶ ἐπληθύνθησαν αἱ ἁμαρτίαι αὐτῶν σ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And their sins were multiplied exceedingly, to make them stand away from their land.
+Draft translation: And their sins were multiplied exceedingly, to remove them from their land.
 
 Decision rows:
 - None recorded.
@@ -51908,7 +53252,7 @@ Greek: μακάριοι οἱ ἰδόντες σε καὶ οἱ ἐν ἀγαπ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Blessed are those who saw you and those adorned in love, for we also will live life.
+Draft translation: Blessed are those who saw you and those adorned in love, for we also will live with life.
 
 Decision rows:
 - None recorded.
@@ -51988,7 +53332,7 @@ Greek: Ἐν πᾶσι τούτοις οὐ μετενόησεν ὁ λαὸς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In all these things the people did not repent and did not stand away from their sins, until they were plundered from their land and scattered in all the earth. And the people were left few, with a ruler for the house of David.
+Draft translation: In all these things the people did not repent and did not depart from their sins, until they were plundered from their land and scattered in all the earth. And the people were left few, with a ruler for the house of David.
 
 Decision rows:
 - None recorded.
@@ -52108,7 +53452,7 @@ Greek: ἐπάταξε τὴν παρεμβολὴν τῶν Ἀσσυρίων. 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He struck the camp of the Assyrians, and his messenger wiped them out.
+Draft translation: He struck the camp of the Assyrians, and his angel wiped them out.
 
 Decision rows:
 - None recorded.
@@ -52210,7 +53554,7 @@ Greek: ΜΝΗΜΟΣΥΝΟΝ Ἰωσίου εἰς σύνθεσιν θυμιάμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Memorial of Josiah is like composition of incense prepared by work of a perfumer; in every mouth it will be sweetened like honey and like music at a banquet of wine.
+Draft translation: Remembrance of Josiah is like composition of incense prepared by work of a perfumer; in every mouth it will be sweet like honey and like music at a banquet of wine.
 
 Decision rows:
 - None recorded.
@@ -52230,7 +53574,7 @@ Greek: αὐτὸς κατηυθύνθη ἐν ἐπιστροφῇ λαοῦ κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He himself was directed in turning of people and removed abominations of lawlessness.
+Draft translation: He himself was directed in turning the people and removed abominations of lawlessness.
 
 Decision rows:
 - None recorded.
@@ -52270,7 +53614,7 @@ Greek: Πάρεξ Δαυὶδ καὶ Ἐζεκίου καὶ Ἰωσίου, π�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Except David and Hezekiah and Josiah, all trespassed with trespass; for they left law of the Most High, kings of Judah failed.
+Draft translation: Except David and Hezekiah and Josiah, all committed trespass; for they left law of the Most High, kings of Judah failed.
 
 Decision rows:
 - None recorded.
@@ -52390,7 +53734,7 @@ Greek: καὶ τῶν δώδεκα προφητῶν τὰ ὀστᾶ ἀναθ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And of the twelve prophets, may their bones sprout again from their place; for he comforted Jacob and redeemed them in faith of hope.
+Draft translation: And of the twelve prophets, may their bones sprout again from their place; for he comforted Jacob and redeemed them in faithfulness of hope.
 
 Decision rows:
 - None recorded.
@@ -52450,7 +53794,7 @@ Greek: καὶ Νεεμίου ἐπὶ πολὺ τὸ μνημόσυνον το
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Nehemiah, his memorial is for much, who raised for us walls that had fallen, and set up gates and bars, and raised our house-plots.
+Draft translation: And Nehemiah's remembrance is great, who raised for us walls that had fallen, and set up gates and bars, and raised our house-plots.
 
 Decision rows:
 - None recorded.
@@ -52592,7 +53936,7 @@ Greek: ὁ φροντίζων τοῦ λαοῦ αὐτοῦ ἀπὸ πτώσε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He took thought for his people from falling and strengthened a city under siege.
+Draft translation: He took thought for his people against falling and strengthened a city under siege.
 
 Decision rows:
 - None recorded.
@@ -52732,7 +54076,7 @@ Greek: ἐν τῷ ἀναλαμβάνειν αὐτὸν στολὴν δόξη
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: When he took up robe of glory and clothed himself in completion of boasting, in ascent of holy altar he glorified the enclosure of sanctuary.
+Draft translation: When he took up a robe of glory and clothed himself in fullness of boasting, in ascent of holy altar he glorified the enclosure of sanctuary.
 
 Decision rows:
 - None recorded.
@@ -52872,7 +54216,7 @@ Greek: καὶ ᾔνεσαν οἱ ψαλμῳδοὶ ἐν φωναῖς αὐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the psalm-singers praised with their voices; in a very great house melody was sweetened.
+Draft translation: And the psalm-singers praised with their voices; in a very great house melody was made sweet.
 
 Decision rows:
 - None recorded.
@@ -52972,7 +54316,7 @@ Greek: δῴῃ ἡμῖν εὐφροσύνην καρδίας καὶ γενέ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: May he give us gladness of heart and for peace to come to be in our days in Israel, according to days of the age;
+Draft translation: May he give us gladness of heart and may peace come to be in our days in Israel, according to days of the age;
 
 Decision rows:
 - None recorded.
@@ -53134,7 +54478,7 @@ Greek: ὅτι σκεπαστὴς καὶ βοηθὸς ἐγένου μοι κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: because you became shelterer and helper to me, and you redeemed my body from destruction and from snare of slander of tongue, from lips working falsehood, and before those standing by you became helper to me.
+Draft translation: because you became coverer and helper to me, and you redeemed my body from destruction and from snare of slander of tongue, from lips working falsehood, and before those standing by you became helper to me.
 
 Decision rows:
 - None recorded.
@@ -53214,7 +54558,7 @@ Greek: βασιλεῖ διαβολὴ γλώσσης ἀδίκου. ἤγγισ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: To a king, slander of unrighteous tongue. My soul drew near as far as death, and my life was near Hades below.
+Draft translation: from slander of an unrighteous tongue to a king. My soul drew near as far as death, and my life was near Hades below.
 
 Decision rows:
 - None recorded.
@@ -53234,7 +54578,7 @@ Greek: περιέσχον με πάντοθεν καὶ οὐκ ἦν ὁ βοη
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: They surrounded me on every side, and there was no one helping; I looked for help of men, and there was none.
+Draft translation: They surrounded me on every side, and there was no one helping; I looked for help from men, and there was none.
 
 Decision rows:
 - None recorded.
@@ -53254,7 +54598,7 @@ Greek: καὶ ἐμνήσθην τοῦ ἐλέους σου, Κύριε, κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And I remembered your mercy, Lord, and your work from age, because you deliver those waiting for you and save them from hand of nations.
+Draft translation: And I remembered your mercy, Lord, and your work from the age, because you deliver those waiting for you and save them from hand of nations.
 
 Decision rows:
 - None recorded.
@@ -53374,7 +54718,7 @@ Greek: ἔναντι ναοῦ ἠξίουν περὶ αὐτῆς καὶ ἕ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Before the temple I was asking concerning her, and until last things I will seek her out.
+Draft translation: Before the temple I was asking concerning her, and until the end I will seek her out.
 
 Decision rows:
 - None recorded.
@@ -53454,7 +54798,7 @@ Greek: διενοήθην γὰρ τοῦ ποιῆσαι αὐτὴν καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For I considered doing her and was zealous for the good, and I shall surely not be ashamed.
+Draft translation: For I considered practicing her and was zealous for the good, and I shall surely not be ashamed.
 
 Decision rows:
 - None recorded.
@@ -53474,7 +54818,7 @@ Greek: διαμεμάχισται ἡ ψυχή μου ἐν αὐτῇ καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: My soul struggled in her, and in practice of hunger I was exact. I spread out my hands toward height and mourned her ignorances.
+Draft translation: My soul struggled in her, and in practice of hunger I was exact. I spread out my hands toward height and mourned my ignorances concerning her.
 
 Decision rows:
 - None recorded.
@@ -53534,7 +54878,7 @@ Greek: ἔδωκε Κύριος γλῶσσάν μοι μισθόν μου, κα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The Lord gave me tongue as my reward, and with it I will praise him.
+Draft translation: The Lord gave me my tongue as my reward, and with it I will praise him.
 
 Decision rows:
 - None recorded.
@@ -53554,7 +54898,7 @@ Greek: ἐγγίσατε πρός με, ἀπαίδευτοι, καὶ αὐλί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Draw near to me, undisciplined ones, and lodge in house of discipline.
+Draft translation: Draw near to me, undisciplined ones, and lodge in a house of discipline.
 
 Decision rows:
 - None recorded.
@@ -53594,7 +54938,7 @@ Greek: ἤνοιξα τὸ στόμα μου καὶ ἐλάλησα· κτήσ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: I opened my mouth and spoke: Acquire for yourselves without silver.
+Draft translation: I opened my mouth and spoke: "Acquire for yourselves without silver."
 
 Decision rows:
 - None recorded.
@@ -53614,7 +54958,7 @@ Greek: τὸν τράχηλον ὑμῶν ὑπόθετε ὑπὸ ζυγόν, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Put your neck under yoke, and let your soul receive discipline; it is near to find her.
+Draft translation: Put your neck under the yoke, and let your soul receive discipline; it is near to find her.
 
 Decision rows:
 - None recorded.
@@ -53694,7 +55038,7 @@ Greek: ἐργάζεσθε τὸ ἔργον ὑμῶν πρὸ καιροῦ, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Work your work before time, and he will give your reward in his time.
+Draft translation: Work your work before the time, and he will give your reward in his time.
 
 Decision rows:
 - None recorded.
@@ -53758,7 +55102,7 @@ Greek: καὶ ἀνέγνω Βαροὺχ τοὺς λόγους τοῦ βιβ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Baruch read the words of this book in ears of Jeconiah son of Jehoiakim king of Judah, and in ears of all the people who came to the book,
+Draft translation: And Baruch read the words of this book in the ears of Jeconiah son of Jehoiakim king of Judah, and in the ears of all the people who came to the book,
 
 Decision rows:
 - None recorded.
@@ -53778,7 +55122,7 @@ Greek: καὶ ἐν ὠσὶ τῶν δυνατῶν καὶ υἱῶν τῶν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and in ears of the powerful and sons of the kings, and in ears of the elders, and in ears of all the people, from small to great, all those dwelling in Babylon by the river Sud.
+Draft translation: and in the ears of the powerful and sons of the kings, and in the ears of the elders, and in the ears of all the people, from small to great, all those dwelling in Babylon by the river Sud.
 
 Decision rows:
 - None recorded.
@@ -53818,7 +55162,7 @@ Greek: καὶ συνήγαγον ἀργύριον, καθὰ ἑκάστου �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and gathered silver, according as each hand was able,
+Draft translation: and gathered silver, as each hand was able,
 
 Decision rows:
 - None recorded.
@@ -53858,7 +55202,7 @@ Greek: ἐν τῷ λαβεῖν αὐτὸν τὰ σκεύη οἴκου Κυ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: when he received the vessels of the house of the Lord, those carried out from the temple, to return them to the land of Judah, on the tenth of Sivan, silver vessels which Zedekiah son of Josiah king of Judah made,
+Draft translation: when he received the vessels of the house of the Lord, those carried out from the temple, to return them to the land of Judah, on the tenth of Sivan, the silver vessels that Zedekiah son of Josiah king of Judah had made,
 
 Decision rows:
 - None recorded.
@@ -53998,7 +55342,7 @@ Greek: καὶ ἐρεῖτε· Τῷ Κυρίῳ Θεῷ ἡμῶν ἡ δικ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and you shall say, To the Lord our God belongs righteousness, but to us shame of faces, as this day, to a man of Judah and to those dwelling in Jerusalem,
+Draft translation: and you shall say, To the Lord our God belongs righteousness, but to us shame of faces, as this day, to the man of Judah and to those dwelling in Jerusalem,
 
 Decision rows:
 - None recorded.
@@ -54058,7 +55402,7 @@ Greek: καὶ ἠπειθήσαμεν αὐτῷ καὶ οὐκ ἠκούσα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and disobeyed him and did not listen to the voice of the Lord our God, to walk in commandments of the Lord that he gave before our face.
+Draft translation: and disobeyed him and did not listen to the voice of the Lord our God, to walk in the commandments of the Lord that he gave before our face.
 
 Decision rows:
 - None recorded.
@@ -54098,7 +55442,7 @@ Greek: καὶ ἐκολλήθη εἰς ἡμᾶς τὰ κακὰ καὶ ἡ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the evils and the curse clung to us, which the Lord appointed to Moses his servant on the day when he brought our fathers out of the land of Egypt to give us a land flowing with milk and honey, as this day.
+Draft translation: And the evils and the curse clung to us, which the Lord appointed to Moses his servant on the day when he brought our fathers out of the land of Egypt, to give us a land flowing with milk and honey, as this day.
 
 Decision rows:
 - None recorded.
@@ -54138,7 +55482,7 @@ Greek: καὶ ᾠχόμεθα ἕκαστος ἐν διανοίᾳ καρδί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and we went away, each in the thought of his wicked heart, to work for other gods, to do evil things before eyes of the Lord our God.
+Draft translation: and we went away, each in the thought of his wicked heart, to serve other gods, to do evil things before the eyes of the Lord our God.
 
 Decision rows:
 - None recorded.
@@ -54200,7 +55544,7 @@ Greek: τοῦ φαγεῖν ἡμᾶς ἄνθρωπον σάρκας υἱο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: that we should eat, a man the flesh of his son and a man the flesh of his daughter.
+Draft translation: that we should eat, each man the flesh of his son and each man the flesh of his daughter.
 
 Decision rows:
 - None recorded.
@@ -54220,7 +55564,7 @@ Greek: καὶ ἔδωκεν αὐτοὺς ὑποχειρίους πάσαις
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he gave them under hands of all the kingdoms around us, for reproach and for untrodden waste among all the peoples around, where the Lord scattered them there.
+Draft translation: And he gave them under the hands of all the kingdoms around us, for reproach and for untrodden waste among all the peoples around, where the Lord scattered them.
 
 Decision rows:
 - None recorded.
@@ -54240,7 +55584,7 @@ Greek: καὶ ἐγενήθησαν ὑποκάτω καὶ οὐκ ἐπάνω
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they came to be underneath and not above, because we sinned against the Lord our God by not listening to his voice.
+Draft translation: And they came to be beneath and not above, because we sinned against the Lord our God by not listening to his voice.
 
 Decision rows:
 - None recorded.
@@ -54340,7 +55684,7 @@ Greek: καὶ οὐκ ἠκούσαμεν τῆς φωνῆς αὐτοῦ πο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And we did not listen to his voice, to walk in commandments of the Lord that he gave before our face.
+Draft translation: And we did not listen to his voice, to walk in the commandments of the Lord that he gave before our face.
 
 Decision rows:
 - None recorded.
@@ -54360,7 +55704,7 @@ Greek: Καὶ νῦν, Κύριε ὁ Θεὸς Ἰσραήλ, ὃς ἐξήγ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now, Lord God of Israel, who brought your people out of the land of Egypt with a strong hand and with signs and with wonders and with great power and with a high arm and made for yourself a name, as this day,
+Draft translation: And now, Lord God of Israel, who brought your people out of the land of Egypt with a strong hand and with signs and with wonders and with great power and with a raised arm and made for yourself a name, as this day,
 
 Decision rows:
 - None recorded.
@@ -54500,7 +55844,7 @@ Greek: ἀλλὰ ἡ ψυχὴ ἡ λυπουμένη ἐπὶ τὸ μέγεθ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but the soul grieving over greatness, which walks bowed and weak, and the failing eyes, and the hungry soul, will give you glory and righteousness, Lord.
+Draft translation: but the soul grieving under the greatness, which walks bowed and weak, and the failing eyes, and the hungry soul, will give you glory and righteousness, Lord.
 
 Decision rows:
 - None recorded.
@@ -54520,7 +55864,7 @@ Greek: ὅτι οὐκ ἐπὶ τὰ δικαιώματα τῶν πατέρω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For we do not cast our mercy before your face upon the righteous acts of our fathers and our kings, Lord our God,
+Draft translation: For we do not lay our mercy before your face on account of the righteous acts of our fathers and our kings, Lord our God,
 
 Decision rows:
 - None recorded.
@@ -54600,7 +55944,7 @@ Greek: ἐκλείψειν ποιήσω ἐκ πόλεων Ἰούδα καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: I will make fail from cities of Judah and outside Jerusalem voice of gladness and voice of joy, voice of bridegroom and voice of bride, and all the land will become an untrodden waste from inhabitants.
+Draft translation: I will make the voice of gladness and the voice of joy, the voice of bridegroom and the voice of bride, cease from the cities of Judah and outside Jerusalem, and all the land will become an untrodden waste from inhabitants.
 
 Decision rows:
 - None recorded.
@@ -54640,7 +55984,7 @@ Greek: καὶ ἰδού ἐστιν ἐξερριμμένα τῷ καύματ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And behold, they are thrown out to the burning heat of day and to frost of night, and they died in evil pains, by famine and by sword and by sending away.
+Draft translation: And behold, they are thrown out to the burning heat of day and to frost of night, and they died in evil pains, by famine and by sword and by exile.
 
 Decision rows:
 - None recorded.
@@ -54660,7 +56004,7 @@ Greek: καὶ ἔθηκας τὸν οἶκον, οὗ ἐπεκλήθη τὸ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And you made the house upon which your name was called as this day, because of wickedness of house of Israel and house of Judah.
+Draft translation: And you made the house upon which your name was called as this day, because of wickedness of the house of Israel and the house of Judah.
 
 Decision rows:
 - None recorded.
@@ -54700,7 +56044,7 @@ Greek: καθὰ ἐλάλησας ἐν χειρὶ παιδός σου Μωυ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: just as you spoke by hand of your servant Moses, on the day when you commanded him to write your law before sons of Israel, saying:
+Draft translation: just as you spoke by hand of your servant Moses, on the day when you commanded him to write your law before the sons of Israel, saying:
 
 Decision rows:
 - None recorded.
@@ -54720,7 +56064,7 @@ Greek: ἐὰν μὴ ἀκούσητε τῆς φωνῆς μου, εἰ μὴ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If you do not listen to my voice, surely this great, great buzzing will turn back into a small thing among the nations where I will scatter them there.
+Draft translation: If you do not listen to my voice, surely this great, large throng will turn back into a small thing among the nations where I will scatter them.
 
 Decision rows:
 - None recorded.
@@ -54740,7 +56084,7 @@ Greek: ὅτι ἔγνων ὅτι οὐ μὴ ἀκούσωσί μου, ὅτι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For I knew that they would surely not listen to me, because they are a stiff-necked people. And they will return upon their heart in the land of their exile
+Draft translation: For I knew that they would surely not listen to me, because they are a stiff-necked people. And they will return to their heart in the land of their exile
 
 Decision rows:
 - None recorded.
@@ -54780,7 +56124,7 @@ Greek: καὶ αἰνέσουσί με ἐν γῇ ἀποικισμοῦ αὐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and they will praise me in land of their exile and remember my name,
+Draft translation: and they will praise me in the land of their exile and remember my name,
 
 Decision rows:
 - None recorded.
@@ -54800,7 +56144,7 @@ Greek: καὶ ἀποστρέψουσιν ἀπὸ τοῦ νώτου αὐτ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and they will turn away from their hard back and from their evil practices, because they will remember the way of their fathers who sinned before the Lord.
+Draft translation: and they will turn away from their stiff back and from their evil practices, because they will remember the way of their fathers who sinned before the Lord.
 
 Decision rows:
 - None recorded.
@@ -54982,7 +56326,7 @@ Greek: ὅτι διὰ τοῦτο ἔδωκας τὸν φόβον σου ἐπ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Because for this you gave your fear upon our heart, to call upon your name. And we will praise you in our exile, because we turned away from our heart all unrighteousness of our fathers who sinned before you.
+Draft translation: Because for this you put your fear upon our heart, to call upon your name. And we will praise you in our exile, because we turned away from our heart all unrighteousness of our fathers who sinned before you.
 
 Decision rows:
 - None recorded.
@@ -55002,7 +56346,7 @@ Greek: ἰδοὺ ἡμεῖς σήμερον ἐν τῇ ἀποικίᾳ ἡμ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Behold, today we are in our exile, where you scattered us there, for reproach and for curse and for liability according to all unrighteous acts of our fathers, who withdrew from the Lord our God.
+Draft translation: Behold, today we are in our exile, where you scattered us, for reproach and for curse and for debt according to all unrighteous acts of our fathers, who withdrew from the Lord our God.
 
 Decision rows:
 - None recorded.
@@ -55202,7 +56546,7 @@ Greek: οἱ τὸ ἀργύριον τεκταίνοντες καὶ μεριμ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: those fashioning silver and being anxious, and there is no finding out of their works?
+Draft translation: those fashioning silver and being anxious, and there is no tracing out of their works?
 
 Decision rows:
 - None recorded.
@@ -55262,7 +56606,7 @@ Greek: οὐδὲ συνῆκαν τρίβους αὐτῆς, οὐδὲ ἀν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: nor did they understand her paths, nor take hold of her; their sons came to be far from their way.
+Draft translation: nor did they understand her paths, nor take hold of her; their sons came to be far from her way.
 
 Decision rows:
 - None recorded.
@@ -55624,7 +56968,7 @@ Greek: ΑΥΤΗ ἡ βίβλος τῶν προσταγμάτων τοῦ Θεο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: This is the book of the commandments of God and the law existing forever; all those holding her are for life, but those leaving her will die.
+Draft translation: This is the book of the commandments of God and the law existing forever; all those who hold her are for life, but those leaving her will die.
 
 Decision rows:
 - None recorded.
@@ -55844,7 +57188,7 @@ Greek: μηδεὶς ἐπιχαιρέτω μοι τῇ χήρᾳ καὶ κατ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Let no one rejoice over me, the widow and left by many; I was made desolate because of the sins of my children, because they turned aside from the law of God,
+Draft translation: Let no one rejoice over me, the widow left by many; I was made desolate because of the sins of my children, because they turned aside from the law of God,
 
 Decision rows:
 - None recorded.
@@ -55944,7 +57288,7 @@ Greek: ἐγὼ δὲ τί δυνατὴ βοηθῆσαι ὑμῖν;
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But I, how am I able to help you?
+Draft translation: But I, how can I help you?
 
 Decision rows:
 - None recorded.
@@ -55984,7 +57328,7 @@ Greek: βαδίζετε, τέκνα, βαδίζετε, ἐγὼ γὰρ κατε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Walk, children, walk, for I was left desolate.
+Draft translation: Go, children, go, for I was left desolate.
 
 Decision rows:
 - None recorded.
@@ -56144,7 +57488,7 @@ Greek: Θαρσήσατε τέκνα καὶ βοήσατε πρὸς τὸν Θ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Take courage, children, and cry out to God, for there will be remembrance of you by the one who brought it.
+Draft translation: Take courage, children, and cry out to God, for there will be remembrance of you by the one who brought these things upon you.
 
 Decision rows:
 - None recorded.
@@ -56164,7 +57508,7 @@ Greek: ὥσπερ γὰρ ἐγένετο ἡ διάνοια ὑμῶν εἰς
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For just as your mind came to wander from God, multiply tenfold, having turned back to seek him.
+Draft translation: For just as your mind came to wander from God, so, having turned back, seek him tenfold.
 
 Decision rows:
 - None recorded.
@@ -56224,7 +57568,7 @@ Greek: δείλαιοι οἱ σὲ κακώσαντες καὶ ἐπιχαρέ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Cowardly are those who harmed you and rejoiced over your fall;
+Draft translation: Wretched are those who harmed you and rejoiced over your fall;
 
 Decision rows:
 - None recorded.
@@ -56244,7 +57588,7 @@ Greek: δείλαιαι αἱ πόλεις, αἷς ἐδούλευσαν τὰ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: cowardly are the cities in which your children served; cowardly is the one who received your sons.
+Draft translation: wretched are the cities in which your children served; wretched is the one who received your sons.
 
 Decision rows:
 - None recorded.
@@ -56446,7 +57790,7 @@ Greek: Ἀνάστηθι, Ἱερουσαλήμ, καὶ στῆθι ἐπὶ τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Rise up, Jerusalem, and stand upon the high place, and look around toward the east, and see your children gathered from setting of sun to risings by the word of the Holy One, rejoicing in the remembrance of God.
+Draft translation: Rise up, Jerusalem, and stand upon the high place, and look around toward the east, and see your children gathered from the setting of the sun to its risings by the word of the Holy One, rejoicing in the remembrance of God.
 
 Decision rows:
 - None recorded.
@@ -56466,7 +57810,7 @@ Greek: ἐξῆλθον γὰρ παρὰ σοῦ πεζοὶ ἀγόμενοι 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For they went out from you on foot, being led by enemies, but God brings them in to you, being lifted with glory as a throne of kingdom.
+Draft translation: For they went out from you on foot, being led by enemies, but God brings them in to you, being lifted with glory as on a throne of kingdom.
 
 Decision rows:
 - None recorded.
@@ -56486,7 +57830,7 @@ Greek: συνέταξε γὰρ ὁ Θεὸς ταπεινοῦσθαι πᾶν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For God appointed every high mountain and everlasting mound to be humbled, and ravines to be filled for leveling of the earth, so that Israel may walk securely in the glory of God.
+Draft translation: For God appointed every high mountain and everlasting mound to be humbled, and ravines to be filled for level ground, so that Israel may walk securely in the glory of God.
 
 Decision rows:
 - None recorded.
@@ -56590,7 +57934,7 @@ Greek: νυνὶ δὲ ὄψεσθε ἐν Βαβυλῶνι θεοὺς ἀργ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But now you will see in Babylon gods of silver and gold and wood being lifted upon shoulders, showing fear to the nations.
+Draft translation: But now you will see in Babylon gods of silver and gold and wood being lifted upon shoulders, displaying fear to the nations.
 
 Decision rows:
 - None recorded.
@@ -56610,7 +57954,7 @@ Greek: εὐλαβήθητε οὖν μὴ καὶ ὑμεῖς ἀφομοιω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore take care, lest you also, being made like the foreigners, be made like them, and fear take hold of you concerning them,
+Draft translation: Therefore take care, lest you also become like the foreigners, and fear of them take hold of you,
 
 Decision rows:
 - None recorded.
@@ -56630,7 +57974,7 @@ Greek: ἰδόντας ὄχλον ἔμπροσθεν καὶ ὄπισθεν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: when you see a crowd before and behind them worshiping them. But say in your mind, You must be worshiped, Master.
+Draft translation: when you see a crowd before and behind them worshiping them. But say in your mind, It is you whom one must worship, Master.
 
 Decision rows:
 - None recorded.
@@ -56670,7 +58014,7 @@ Greek: γλῶσσα γὰρ αὐτῶν ἐστι κετεξυσμένη ὑπ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For their tongue has been scraped smooth by a carpenter, and they are overlaid with gold and overlaid with silver, but they are false and cannot speak.
+Draft translation: For their tongue has been smoothed by a carpenter, and they are overlaid with gold and overlaid with silver, but they are false and cannot speak.
 
 Decision rows:
 - None recorded.
@@ -56690,7 +58034,7 @@ Greek: καὶ ὥσπερ παρθένῳ φιλοκόσμῳ λαμβάνον�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And as for a maiden loving adornment, taking gold they prepare crowns upon heads of their gods.
+Draft translation: And as for a maiden who loves adornment, taking gold they prepare crowns upon heads of their gods.
 
 Decision rows:
 - None recorded.
@@ -56710,7 +58054,7 @@ Greek: ἔστι δὲ καὶ ὅτε ὑφαιρούμενοι οἱ ἱερε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And there is also a time when the priests, secretly taking gold and silver from their gods, will spend it on themselves, and they will also give some from them to the prostitutes on the roof.
+Draft translation: And there is also a time when the priests, secretly taking gold and silver from their gods, will spend it on themselves, and they will also give some of it to the prostitutes on the roof.
 
 Decision rows:
 - None recorded.
@@ -56730,7 +58074,7 @@ Greek: κοσμοῦσί τε αὐτοὺς ὡς ἀνθρώπους τοῖς
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they adorn them like men with garments, gods of silver and gods of gold and wood; but these are not preserved from rust and eating things.
+Draft translation: And they adorn them like men with garments, gods of silver and gods of gold and wood; but these are not preserved from rust and devouring things.
 
 Decision rows:
 - None recorded.
@@ -56790,7 +58134,7 @@ Greek: ἔχει δὲ ἐγχειρίδιον ἐν δεξιᾷ καὶ πέλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he has a dagger in his right hand and an axe, but he will not deliver himself from war and robbers.
+Draft translation: And he has a short sword in his right hand and an axe, but he will not deliver himself from war and robbers.
 
 Decision rows:
 - None recorded.
@@ -56870,7 +58214,7 @@ Greek: καὶ ὥσπερ τινὶ ἠδικηκότι βασιλέα περι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And just as for someone who has wronged a king the courts are fenced around, as for one led away to death, their priests fortify their houses with doors and bars and bolts, so that they may not be plundered by robbers.
+Draft translation: And just as the courts are fenced around for someone who has wronged a king, as for one led away to death, so their priests fortify their houses with doors and bars and bolts, so that they may not be plundered by robbers.
 
 Decision rows:
 - None recorded.
@@ -56890,7 +58234,7 @@ Greek: λύχνους καίουσι καὶ πλείους ἢ ἑαυτοῖς
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: They burn lamps, even more than for themselves, of which they cannot see one.
+Draft translation: They burn lamps, even more than for themselves, of which they cannot see even one.
 
 Decision rows:
 - None recorded.
@@ -56910,7 +58254,7 @@ Greek: ἔστι μὲν ὥσπερ δοκὸς τῶν ἐκ τῆς οἰκί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: It is indeed like a beam from the house, but they say their hearts are licked out; when creeping things from the earth eat both them and their clothing, they do not perceive.
+Draft translation: It is indeed like a beam from the house, but they say their hearts are licked out; when creeping things from the earth eat both them and their clothing, they do not perceive it.
 
 Decision rows:
 - None recorded.
@@ -56990,7 +58334,7 @@ Greek: Τὸ γὰρ χρυσίον, ὃ περίκεινται εἰς κάλλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For the gold that lies around them for beauty, unless someone wipes off the rust, they shall surely not shine; for not even when they were being cast did they perceive.
+Draft translation: For the gold that lies around them for beauty, unless someone wipes off the rust, they shall surely not shine; for not even when they were being cast did they perceive anything.
 
 Decision rows:
 - None recorded.
@@ -57050,7 +58394,7 @@ Greek: διὰ τὸ εἴ ποτε ἐπὶ τὴν γῆν πέσῃ, μὴ δ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: because if it ever falls to the ground, it does not rise by them; neither if someone sets it upright will it move by itself; neither if it is tilted will it surely be straightened, but gifts are set before them as before dead people.
+Draft translation: because if it ever falls to the ground, it does not rise by itself; neither if someone sets it upright will it move by itself; neither if it is tilted will it surely be straightened, but gifts are set before them as before dead people.
 
 Decision rows:
 - None recorded.
@@ -57070,7 +58414,7 @@ Greek: τὰς δὲ θυσίας αὐτῶν ἀποδόμενοι οἱ ἱε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And their priests sell their sacrifices and use them up; likewise also their wives preserve some from them and will not share with poor or powerless.
+Draft translation: And their priests sell their sacrifices and use them up; likewise also their wives salt some of them and will not share with poor or powerless.
 
 Decision rows:
 - None recorded.
@@ -57150,7 +58494,7 @@ Greek: ὠρύονται δὲ βοῶντες ἐναντίον τῶν θεῶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and they roar, shouting before their gods, like some at a funeral meal for a dead man.
+Draft translation: and they howl, shouting before their gods, like some at a funeral meal for a dead man.
 
 Decision rows:
 - None recorded.
@@ -57190,7 +58534,7 @@ Greek: οὔτε ἐὰν κακὸν πάθωσιν ὑπό τινος οὔτ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Neither if they suffer evil from someone nor if good will they be able to repay; neither can they appoint a king nor take one away.
+Draft translation: Whether they suffer evil from someone or good, they will not be able to repay; neither can they appoint a king nor take one away.
 
 Decision rows:
 - None recorded.
@@ -57290,7 +58634,7 @@ Greek: τοῖς ἀπὸ τοῦ ὄρους λίθοις ὡμοιωμένοι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The wooden things and the things overlaid with gold and overlaid with silver are likened to stones from the mountain, and those serving them will be put to shame.
+Draft translation: The wooden ones and the things overlaid with gold and overlaid with silver are likened to stones from the mountain, and those serving them will be put to shame.
 
 Decision rows:
 - None recorded.
@@ -57350,7 +58694,7 @@ Greek: καὶ οὐ δύνανται αὐτοὶ νοήσαντες καταλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and they themselves, having understood, cannot leave them, for they have no perception.
+Draft translation: and they themselves, though they understand, cannot leave them, for they have no perception.
 
 Decision rows:
 - None recorded.
@@ -57510,7 +58854,7 @@ Greek: πῶς οὖν οὐκ ἔστιν αἰσθέσθαι ὅτι οὐκ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: How then is it not to be perceived that they are not gods, who neither save themselves from war nor from evils?
+Draft translation: How then can it not be perceived that they are not gods, who neither save themselves from war nor from evils?
 
 Decision rows:
 - None recorded.
@@ -57550,7 +58894,7 @@ Greek: τίνι οὖν γνωστέον ἐστίν, ὅτι οὐκ εἰσὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: To whom then must it be known that they are not gods?
+Draft translation: By whom then must it be known that they are not gods?
 
 Decision rows:
 - None recorded.
@@ -57730,7 +59074,7 @@ Greek: ὡσαύτως καὶ ἀστραπή, ὅταν ἐπιφανῇ, ε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: likewise also lightning, when it appears, is easily seen, and the same also wind blows in every country.
+Draft translation: likewise also lightning, when it appears, is easily seen, and in the same way wind blows in every country.
 
 Decision rows:
 - None recorded.
@@ -58094,7 +59438,7 @@ Greek: καὶ ἐξημάρτομεν ἐν πᾶσι καὶ τῶν ἐντο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and we sinned exceedingly in all things, and we did not listen to your commandments, nor keep them together, nor do just as you commanded us, so that it might go well with us.
+Draft translation: and we sinned exceedingly in all things, and we did not listen to your commandments, nor keep them, nor do just as you commanded us, so that it might go well with us.
 
 Decision rows:
 - None recorded.
@@ -58134,7 +59478,7 @@ Greek: καὶ παρέδωκας ἡμᾶς εἰς χεῖρας ἐχθρῶ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and you handed us into hands of lawless enemies, most hateful apostates, and to an unrighteous king and most wicked beyond all the earth.
+Draft translation: and you handed us into the hands of lawless enemies, most hateful apostates, and to an unrighteous king and most wicked beyond all the earth.
 
 Decision rows:
 - None recorded.
@@ -58194,7 +59538,7 @@ Greek: καὶ μὴ ἀποστήσῃς τὸ ἔλεός σου ἀφ' ἡμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and do not make your mercy depart from us, because of Abraham loved by you and because of Isaac your servant and Israel your holy one,
+Draft translation: and do not make your mercy depart from us, because of Abraham your beloved and because of Isaac your servant and Israel your holy one,
 
 Decision rows:
 - None recorded.
@@ -58254,7 +59598,7 @@ Greek: καὶ οὐκ ἔστιν ἐν τῷ καιρῷ τούτῳ ἄρχω
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and there is in this time no ruler and prophet and leader, nor whole-burnt offering nor sacrifice nor offering nor incense, nor place to make an offering before you and find mercy;
+Draft translation: and there is at this time no ruler and prophet and leader, nor whole-burnt offering nor sacrifice nor offering nor incense, nor place to make an offering before you and find mercy;
 
 Decision rows:
 - None recorded.
@@ -58314,7 +59658,7 @@ Greek: καὶ νῦν ἐξακολουθοῦμεν ἐν ὅλῃ καρδί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now we follow out with whole heart and fear you and seek your face.
+Draft translation: And now we follow after you with a whole heart and fear you and seek your face.
 
 Decision rows:
 - None recorded.
@@ -58354,7 +59698,7 @@ Greek: καὶ ἐξελοῦ ἡμᾶς κατὰ τὰ θαυμάσιά σου
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and deliver us according to your wonders and give glory to your name, Lord. And let all those showing evils to your servants be turned back in shame,
+Draft translation: and deliver us according to your wonders and give glory to your name, Lord. And let all those doing evils to your servants be turned back in shame,
 
 Decision rows:
 - None recorded.
@@ -58494,7 +59838,7 @@ Greek: καὶ ἐποίησε τὸ μέσον τῆς καμίνου ὡς π�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and made the middle of the furnace like a wind of dew whistling through, and the fire did not touch them at all and did not grieve nor trouble them.
+Draft translation: and made the middle of the furnace like a dew-laden wind whistling through, and the fire did not touch them at all and did not grieve nor trouble them.
 
 Decision rows:
 - None recorded.
@@ -59254,7 +60598,7 @@ Greek: εὐλογεῖτε, Ἀνανία, Ἀζαρία, Μισαήλ, τὸν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Bless the Lord, Hananiah, Azariah, Mishael; hymn and highly exalt him into the ages, because he delivered us out of Hades and saved us from hand of death; he rescued us from midst of a furnace of burning flame, and from midst of fire he rescued us.
+Draft translation: Bless the Lord, Hananiah, Azariah, Mishael; hymn and highly exalt him into the ages, because he delivered us out of Hades and saved us from the hand of death; he rescued us from the midst of a furnace of burning flame, and from the midst of fire he rescued us.
 
 Decision rows:
 - None recorded.
@@ -59378,7 +60722,7 @@ Greek: καὶ ἦν Ἰωακεὶμ πλούσιος σφόδρα, καὶ ἦ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Joakim was very rich, and he had a garden adjoining his house; and the Jews were coming to him because he was more glorious than all.
+Draft translation: And Joakim was very rich, and he had a garden adjoining his house; and the Jews were coming to him because he was more honored than all.
 
 Decision rows:
 - None recorded.
@@ -59418,7 +60762,7 @@ Greek: οὗτοι προσεκαρτέρουν ἐν τῇ οἰκίᾳ Ἰωκ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: These were devoting themselves in the house of Joakim, and all those being judged were coming to them.
+Draft translation: These were constantly in the house of Joakim, and all those being judged were coming to them.
 
 Decision rows:
 - None recorded.
@@ -59458,7 +60802,7 @@ Greek: καὶ ἐθεώρουν αὐτὴν οἱ δύο πρεσβύτερο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the two elders were watching her day by day entering and walking, and they came to be in desire for her.
+Draft translation: And the two elders were watching her day by day entering and walking, and they came into desire for her.
 
 Decision rows:
 - None recorded.
@@ -59498,7 +60842,7 @@ Greek: καὶ ἦσαν ἀμφότεροι κατανενυγμένοι περ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And both were pierced concerning her, and they did not report their pain to one another,
+Draft translation: And both were wounded concerning her, and they did not report their pain to one another,
 
 Decision rows:
 - None recorded.
@@ -59638,7 +60982,7 @@ Greek: καὶ εἶπε τοῖς κορασίοις· ἐνέγκατε δή �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And she said to the young girls, Bring me oil and soaps now, and close the doors of the garden, so that I may bathe.
+Draft translation: And she said to the young girls, Bring me oil and soap now, and close the doors of the garden, so that I may bathe.
 
 Decision rows:
 - None recorded.
@@ -59678,7 +61022,7 @@ Greek: καὶ ἐγένετο ὡς ἐξήλθοσαν τὰ κοράσια, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it came to pass when the young girls went out, the two elders rose up and ran upon her
+Draft translation: And it came to pass when the young girls went out, the two elders rose up and ran at her
 
 Decision rows:
 - None recorded.
@@ -59698,7 +61042,7 @@ Greek: καὶ εἶπον· ἰδοὺ αἱ θύραι τοῦ παραδεί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and said, Behold, the doors of the garden have been shut, and no one sees us, and we are in desire for you; therefore agree with us and come to be with us.
+Draft translation: and said, Behold, the doors of the garden have been shut, and no one sees us, and we desire you; therefore agree with us and come to be with us.
 
 Decision rows:
 - None recorded.
@@ -59738,7 +61082,7 @@ Greek: καὶ ἀνεστέναξε Σωσάννα καὶ εἶπε· στεν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Susanna groaned and said, Straights are mine from every side; for if I do this, it is death for me, and if I do not do it, I will not escape your hands.
+Draft translation: And Susanna groaned and said, I am in straits from every side; for if I do this, it is death for me, and if I do not do it, I will not escape your hands.
 
 Decision rows:
 - None recorded.
@@ -59758,7 +61102,7 @@ Greek: αἱρετώτερόν μοί ἐστι μὴ πράξασαν ἐμπε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: It is more choice for me, not having done it, to fall into your hands than to sin before the Lord.
+Draft translation: It is better for me, not having done it, to fall into your hands than to sin before the Lord.
 
 Decision rows:
 - None recorded.
@@ -59858,7 +61202,7 @@ Greek: Καὶ ἐγένετο τῇ ἐπαύριον ὡς συνῆλθεν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it came to pass on the next day, when the people assembled to her husband Joakim, the two elders came full of lawless intent against Susanna, to put her to death, and said before the people:
+Draft translation: And it came to pass on the next day, when the people assembled at her husband Joakim's house, the two elders came full of lawless intent against Susanna, to put her to death, and said before the people:
 
 Decision rows:
 - None recorded.
@@ -60018,7 +61362,7 @@ Greek: εἶπον δὲ οἱ πρεσβῦται· περιπατούντων 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the elders said, While we were walking in the garden alone, this woman entered with two maidservants and shut the doors of the garden and released the maidservants;
+Draft translation: And the elders said, While we were walking in the garden alone, this woman entered with two maidservants and shut the doors of the garden and sent the maidservants away;
 
 Decision rows:
 - None recorded.
@@ -60058,7 +61402,7 @@ Greek: ἡμεῖς δὲ ὄντες ἐν τῇ γωνίᾳ τοῦ παραδ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But we, being in the corner of the garden, seeing the lawlessness, ran upon them; and seeing them coming together,
+Draft translation: But we, being in the corner of the garden, seeing the lawlessness, ran at them; and seeing them coming together,
 
 Decision rows:
 - None recorded.
@@ -60078,7 +61422,7 @@ Greek: ἐκείνου μὲν οὐκ ἠδυνήθημεν ἐγκρατεῖ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: we were not able to become masters of that one because he was stronger than we, and having opened the doors, he leaped out.
+Draft translation: we were not able to get mastery over that one because he was stronger than we, and having opened the doors, he leaped out.
 
 Decision rows:
 - None recorded.
@@ -60258,7 +61602,7 @@ Greek: ὁ δὲ στὰς ἐν μέσῳ αὐτῶν εἶπεν· οὕτω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But he, standing in the midst of them, said, Are you so foolish, sons of Israel? Without examining and without knowing the clear thing, you condemned a daughter of Israel?
+Draft translation: But he, standing in the midst of them, said, Are you so foolish, sons of Israel? Without examining and without knowing the clear evidence, you condemned a daughter of Israel?
 
 Decision rows:
 - None recorded.
@@ -60298,7 +61642,7 @@ Greek: καὶ ἀνέστρεψε πᾶς ὁ λαὸς μετὰ σπουδῆ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And all the people returned with haste. And the elders said to him, Come, sit in the midst of us and report to us, because God has given you the rank of elder.
+Draft translation: And all the people returned with haste. And the elders said to him, Come, sit in the midst of us and report to us, because God has given you the honor of elder.
 
 Decision rows:
 - None recorded.
@@ -60338,7 +61682,7 @@ Greek: ὡς δὲ διεχωρίσθησαν εἷς ἀπὸ τοῦ ἑνός
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when they were separated one from the other, he called one of them and said to him, O one grown old in evil days, now your sins have arrived, which you were doing formerly,
+Draft translation: And when they were separated one from the other, he called one of them and said to him, O one grown old in evil days, now your sins have come, which you were doing formerly,
 
 Decision rows:
 - None recorded.
@@ -60378,7 +61722,7 @@ Greek: νῦν οὖν ταύτην εἴπερ εἶδες, εἰπόν· ὑπ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Now therefore, if you saw this woman, say: Under what tree did you see them conversing with one another? And he said, Under a mastic tree.
+Draft translation: Now therefore, if you saw this woman, say: Under what tree did you see them being together with one another? And he said, Under a mastic tree.
 
 Decision rows:
 - None recorded.
@@ -60438,7 +61782,7 @@ Greek: οὕτως ἐποιεῖτε θυγατράσιν Ἰσραήλ, κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Thus you were doing to daughters of Israel, and those, fearing, were conversing with you; but a daughter of Judah did not endure your lawlessness.
+Draft translation: Thus you were doing to daughters of Israel, and those, fearing, were being together with you; but a daughter of Judah did not endure your lawlessness.
 
 Decision rows:
 - None recorded.
@@ -60458,7 +61802,7 @@ Greek: νῦν οὖν λέγε μοι· ὑπὸ τί δένδρον κατέλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Now therefore tell me: Under what tree did you catch them conversing with one another? And he said, Under a holm oak.
+Draft translation: Now therefore tell me: Under what tree did you catch them being together with one another? And he said, Under a holm oak.
 
 Decision rows:
 - None recorded.
@@ -60518,7 +61862,7 @@ Greek: καὶ ἀνέστησαν ἐπὶ τοὺς δύο πρεσβύτας,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they rose up against the two elders, because Daniel established from their own mouth that they had borne false witness, and they did to them in the way that they had wickedly devised against the neighbor,
+Draft translation: And they rose up against the two elders, because Daniel established from their own mouth that they had borne false witness, and they did to them in the way that they had wickedly devised against their neighbor,
 
 Decision rows:
 - None recorded.
@@ -60682,7 +62026,7 @@ Greek: ὁ δὲ εἶπεν· ὅτι οὐ σέβομαι εἴδωλα χει
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he said, Because I do not revere handmade idols, but the living God, the one who created Heaven and earth and has lordship of all flesh.
+Draft translation: And he said, Because I do not revere handmade idols, but the living God, the one who created Heaven and earth and has dominion of all flesh.
 
 Decision rows:
 - None recorded.
@@ -60762,7 +62106,7 @@ Greek: ἀποθανεῖσθε. ἐὰν δὲ δείξητε ὅτι Βὴλ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: you will die. But if you show that Bel eats them, Daniel will die, because he blasphemed against Bel. And Daniel said to the king, Let it come to be according to your word.
+Draft translation: you will die. But if you show that Bel eats these things, Daniel will die, because he blasphemed against Bel. And Daniel said to the king, Let it come to be according to your word.
 
 Decision rows:
 - None recorded.
@@ -60822,7 +62166,7 @@ Greek: αὐτοὶ δὲ κατεφρόνουν, ὅτι πεποιήκεισα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But they were despising it, because they had made a hidden entrance under the table, and through it they were entering continually and consuming them.
+Draft translation: But they disregarded it, because they had made a hidden entrance under the table, and through it they were entering continually and consuming them.
 
 Decision rows:
 - None recorded.
@@ -60882,7 +62226,7 @@ Greek: οἱ δὲ ἱερεῖς ἦλθον τὴν νύκτα κατὰ τὸ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the priests came by night according to their custom, and their wives and their children, and they ate up everything and drank it out.
+Draft translation: But the priests came by night according to their custom, and their wives and their children, and they ate up everything and drank it up.
 
 Decision rows:
 - None recorded.
@@ -60942,7 +62286,7 @@ Greek: καὶ ἐγένετο ἅμα τῷ ἀνοῖξαι τὰς θύρας
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it came to pass, as soon as he opened the doors, the king, looking upon the table, shouted with a great voice, You are great, Bel, and there is not even one deceit with you.
+Draft translation: And it came to pass, as soon as he opened the doors, the king, looking upon the table, shouted with a great voice, You are great, Bel, and there is no deceit with you at all.
 
 Decision rows:
 - None recorded.
@@ -61002,7 +62346,7 @@ Greek: καὶ ὀργισθεὶς ὁ βασιλεὺς τότε συνέλα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And becoming angry, the king then seized the priests and their wives and children, and they showed him the hidden doors through which they were entering and spending the things upon the table.
+Draft translation: And becoming angry, the king then seized the priests and their wives and children, and they showed him the hidden doors through which they were entering and consuming the things upon the table.
 
 Decision rows:
 - None recorded.
@@ -61022,7 +62366,7 @@ Greek: καὶ ἀπέκτεινεν αὐτοὺς ὁ βασιλεὺς κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the king killed them and gave Bel handed over to Daniel, and he tore down him and his temple.
+Draft translation: And the king killed them and handed Bel over to Daniel, and he tore him and his temple down.
 
 Decision rows:
 - None recorded.
@@ -61082,7 +62426,7 @@ Greek: καὶ εἶπε Δανιήλ· Κυρίῳ τῷ Θεῷ μου προ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Daniel said, I will worship the Lord my God, because this one is the living God.
+Draft translation: And Daniel said, I will worship the Lord my God, because he is the living God.
 
 Decision rows:
 - None recorded.
@@ -61122,7 +62466,7 @@ Greek: καὶ ἔλαβεν ὁ Δανιὴλ πίσσαν καὶ στέαρ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Daniel took pitch and fat and hairs and boiled them together and made lumps and gave them into the mouth of the dragon, and after eating, the dragon burst apart. And he said, See the things you revere.
+Draft translation: And Daniel took pitch and fat and hair and boiled them together and made lumps and gave them into the mouth of the dragon, and after eating, the dragon burst apart. And he said, See the things you revere.
 
 Decision rows:
 - None recorded.
@@ -61142,7 +62486,7 @@ Greek: καὶ ἐγένετο ὡς ἤκουσαν οἱ Βαβυλώνιοι,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it came to pass when the Babylonians heard, they were greatly indignant and turned together against the king and said, The king has become a Jew; he tore down Bel and killed the dragon and slaughtered the priests.
+Draft translation: And it came to pass when the Babylonians heard, they were greatly indignant and gathered together against the king and said, The king has become a Jew; he tore down Bel and killed the dragon and slaughtered the priests.
 
 Decision rows:
 - None recorded.
@@ -61222,7 +62566,7 @@ Greek: ἦσαν δὲ ἐν τῷ λάκκῳ ἑπτὰ λέοντες, κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And there were seven lions in the den, and each day two bodies and two sheep were given to them; but then it was not given to them, so that they might eat Daniel up.
+Draft translation: And there were seven lions in the den, and each day two carcasses and two sheep were given to them; but then it was not given to them, so that they might eat Daniel up.
 
 Decision rows:
 - None recorded.
@@ -61342,7 +62686,7 @@ Greek: καὶ εἶπε Δανιήλ· ἐμνήσθης γάρ μου, ὁ Θ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Daniel said, For you remembered me, O God, and did not forsake those loving you.
+Draft translation: And Daniel said, You remembered me, O God, and did not forsake those loving you.
 
 Decision rows:
 - None recorded.
@@ -61446,7 +62790,7 @@ Greek: ΚΑΙ ἐγένετο μετὰ τὸ πατάξαι Ἀλέξανδρο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it came to pass after Alexander son of Philip, the Macedonian, who came out from the land of Kittim, struck Darius king of Persians and Medes and reigned in his place, formerly over Greece.
+Draft translation: And it came to pass after Alexander son of Philip, the Macedonian, who came out from the land of Kittim, struck Darius king of Persians and Medes and reigned in his place, first over Greece.
 
 Decision rows:
 - None recorded.
@@ -61506,7 +62850,7 @@ Greek: καὶ συνήγαγε δύναμιν ἰσχυρὰν σφόδρα κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he gathered a very strong force and ruled countries and nations and tyrants, and they became tribute to him.
+Draft translation: And he gathered a very strong force and ruled countries and nations and tyrants, and they became tributary to him.
 
 Decision rows:
 - None recorded.
@@ -61526,7 +62870,7 @@ Greek: καὶ μετὰ ταῦτα ἔπεσεν ἐπὶ τὴν κοίτην
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after these things he fell upon the bed and knew that he was dying.
+Draft translation: And after these things he fell upon his bed and knew that he was dying.
 
 Decision rows:
 - None recorded.
@@ -61546,7 +62890,7 @@ Greek: καὶ ἐκάλεσε τοὺς παῖδας αὐτοῦ τοὺς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he called his servants, the glorious ones, those brought up with him from youth, and divided his kingdom to them while he was still living.
+Draft translation: And he called his servants, the glorious ones, those brought up with him from youth, and divided his kingdom among them while he was still living.
 
 Decision rows:
 - None recorded.
@@ -61626,7 +62970,7 @@ Greek: καὶ ἐξῆλθεν ἐξ αὐτῶν ρίζα ἁμαρτωλὸς
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And from them came out a sinful root, Antiochus Epiphanes, son of King Antiochus, who had been a hostage in Rome; and he reigned in the one hundred thirty-seventh year of the kingdom of Greeks.
+Draft translation: And from them came out a sinful root, Antiochus Epiphanes, son of King Antiochus, who had been a hostage in Rome; and he reigned in the one hundred thirty-seventh year of the kingdom of the Greeks.
 
 Decision rows:
 - None recorded.
@@ -61646,7 +62990,7 @@ Greek: Ἐν ταῖς ἡμέραις ἐκείναις ἐξῆλθον ἐξ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In those days lawless sons came out from Israel and persuaded many, saying, Let us go and make a covenant with the nations around us, because from the time we were separated from them, many evils found us.
+Draft translation: In those days lawless sons came out from Israel and persuaded many, saying, Let us go and make a covenant with the nations around us, because from the time we were separated from them, many evils have found us.
 
 Decision rows:
 - None recorded.
@@ -61746,7 +63090,7 @@ Greek: Καὶ ἡτοιμάσθη ἡ βασιλεία ἐναντίον Ἀν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the kingdom was prepared before Antiochus, and he proposed to reign over Egypt, so that he might reign over the two kingdoms.
+Draft translation: And the kingdom was established before Antiochus, and he proposed to reign over Egypt, so that he might reign over the two kingdoms.
 
 Decision rows:
 - None recorded.
@@ -61766,7 +63110,7 @@ Greek: καὶ εἰσῆλθεν εἰς Αἴγυπτον ἐν ὄχλῳ β�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he entered into Egypt with a heavy crowd, with chariots and with elephants and with horsemen and with a great fleet,
+Draft translation: And he entered into Egypt with a heavy force, with chariots and with elephants and with horsemen and with a great fleet,
 
 Decision rows:
 - None recorded.
@@ -61786,7 +63130,7 @@ Greek: καὶ συνεστήσαντο πόλεμον πρὸς Πτολεμα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and they waged war against Ptolemy king of Egypt. And Ptolemy was turned away from his face and fled, and many wounded fell.
+Draft translation: and they waged war against Ptolemy king of Egypt. And Ptolemy turned away from before him and fled, and many wounded fell.
 
 Decision rows:
 - None recorded.
@@ -61826,7 +63170,7 @@ Greek: καὶ ἐπέστρεψεν Ἀντίοχος μετὰ τὸ πατά�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Antiochus returned after striking Egypt in the one hundred forty-third year, and he went up against Israel and went up into Jerusalem with a heavy crowd.
+Draft translation: And Antiochus returned after striking Egypt in the one hundred forty-third year, and he went up against Israel and went up into Jerusalem with a heavy force.
 
 Decision rows:
 - None recorded.
@@ -61866,7 +63210,7 @@ Greek: καὶ τὴν τράπεζαν τῆς προθέσεως καὶ τὰ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and the table of presentation and the libation vessels and the bowls and the golden censers and the veil and the crowns and the golden ornament before the face of the temple, and he stripped all things.
+Draft translation: and the table of presentation and the libation vessels and the bowls and the golden censers and the veil and the crowns and the golden ornament before the face of the temple, and he stripped everything off.
 
 Decision rows:
 - None recorded.
@@ -61906,7 +63250,7 @@ Greek: καὶ λαβὼν πάντα ἀπῆλθεν εἰς τὴν γῆν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and taking everything, he went away into his own land. And he made slaughter and spoke great pride.
+Draft translation: and taking everything, he went away into his own land. And he made a slaughter and spoke great pride.
 
 Decision rows:
 - None recorded.
@@ -62006,7 +63350,7 @@ Greek: Καὶ μετὰ δύο ἔτη ἡμερῶν ἀπέστειλεν ὁ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after two years of days the king sent a ruler of tribute into the cities of Judah, and he came into Jerusalem with a heavy crowd.
+Draft translation: And after two full years the king sent a ruler of tribute into the cities of Judah, and he came into Jerusalem with a heavy force.
 
 Decision rows:
 - None recorded.
@@ -62066,7 +63410,7 @@ Greek: καὶ ᾐχμαλώτευσαν τὰς γυναῖκας καὶ τὰ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they took the women and the children captive, and they inherited the livestock.
+Draft translation: And they took the women and the children captive, and they took possession of the livestock.
 
 Decision rows:
 - None recorded.
@@ -62346,7 +63690,7 @@ Greek: καὶ μιᾶναι ἁγίασμα καὶ ἁγίους,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and to defile sanctuary and holy ones,
+Draft translation: and to defile the sanctuary and holy things,
 
 Decision rows:
 - None recorded.
@@ -62486,7 +63830,7 @@ Greek: καὶ ἔθεντο τὸν Ἰσραὴλ ἐν κρύφοις ἐν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and put Israel in hidden places, in every place of refuge they had.
+Draft translation: and put Israel into hiding, in every place of refuge they had.
 
 Decision rows:
 - None recorded.
@@ -62546,7 +63890,7 @@ Greek: καὶ τὰ βιβλία τοῦ νόμου, ἃ εὗρον, ἐνεπ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the books of the law that they found, tearing them apart, they burned with fire.
+Draft translation: And the books of the law that they found, they tore apart and burned with fire.
 
 Decision rows:
 - None recorded.
@@ -62566,7 +63910,7 @@ Greek: καὶ ὅπου εὑρίσκετο παρά τινι βιβλίον δ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And wherever a book of covenant was found with someone, and if anyone consented to the law, the judgment of the king put him to death.
+Draft translation: And wherever a book of the covenant was found with someone, and if anyone consented to the law, the judgment of the king put him to death.
 
 Decision rows:
 - None recorded.
@@ -62586,7 +63930,7 @@ Greek: ἐν ἰσχύϊ αὐτῶν ἐποίουν οὕτως τῷ Ἰσρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In their strength they did thus to Israel, to those found month by month in the cities.
+Draft translation: By their strength they did thus to Israel, to those found month by month in the cities.
 
 Decision rows:
 - None recorded.
@@ -62848,7 +64192,7 @@ Greek: καὶ εἶπεν· οἴμοι, ἱνατί τοῦτο ἐγεννή�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and said, Woe to me! Why was I born for this, to see the crushing of my people and the crushing of the holy city, and to sit there when she was given into hand of enemies and the sanctuary into hand of foreigners?
+Draft translation: and said, Woe to me! Why was I born for this, to see the crushing of my people and the crushing of the holy city, and to sit there when she was given into the hand of enemies and the sanctuary into the hand of foreigners?
 
 Decision rows:
 - None recorded.
@@ -62888,7 +64232,7 @@ Greek: τὰ σκεύη τῆς δόξης αὐτῆς αἰχμάλωτα ἀ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: the vessels of her glory were led away captive; her infants were killed in the streets, her young men by sword of enemy.
+Draft translation: the vessels of her glory were led away captive; her infants were killed in the streets, her young men by sword of an enemy.
 
 Decision rows:
 - None recorded.
@@ -62968,7 +64312,7 @@ Greek: ἱνατί ἡμῖν ἔτι ζῆν;
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Why still live for us?
+Draft translation: Why should we still live?
 
 Decision rows:
 - None recorded.
@@ -63048,7 +64392,7 @@ Greek: καὶ ἀπεκρίθησαν οἱ παρὰ τοῦ βασιλέως 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And those from the king answered and spoke to Mattathias, saying, You are a ruler and honored and great in this city and established with sons and brothers.
+Draft translation: And those from the king answered and spoke to Mattathias, saying, You are a ruler and honored and great in this city and supported with sons and brothers.
 
 Decision rows:
 - None recorded.
@@ -63128,7 +64472,7 @@ Greek: ἵλεως ἡμῖν καταλιπεῖν νόμον καὶ δικα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: May it be far from us to abandon law and ordinances.
+Draft translation: May it be far from us to abandon the law and ordinances.
 
 Decision rows:
 - None recorded.
@@ -63188,7 +64532,7 @@ Greek: καὶ εἶδε Ματταθίας καὶ ἐζήλωσε, καὶ ἐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Mattathias saw and was zealous, and his kidneys trembled, and he brought up wrath according to the judgment, and running, he slaughtered him upon the altar.
+Draft translation: And Mattathias saw and was zealous, and his kidneys trembled, and his wrath rose according to the judgment, and running, he slaughtered him upon the altar.
 
 Decision rows:
 - None recorded.
@@ -63248,7 +64592,7 @@ Greek: καὶ ἀνέκραξε Ματταθίας ἐν τῇ πόλει φω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Mattathias cried out in the city with a great voice, saying, Everyone zealous for the law and standing by covenant, let him go out after me.
+Draft translation: And Mattathias cried out in the city with a great voice, saying, Everyone zealous for the law and standing by the covenant, let him go out after me.
 
 Decision rows:
 - None recorded.
@@ -63328,7 +64672,7 @@ Greek: καὶ ἀνηγγέλη τοῖς ἀνδράσι τοῦ βασιλέ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it was reported to the men of the king and to the forces that were in Jerusalem, City of David, that men who scattered the commandment of the king had gone down into the hidden places in the wilderness.
+Draft translation: And it was reported to the men of the king and to the forces that were in Jerusalem, City of David, that men who set aside the commandment of the king had gone down into the hidden places in the wilderness.
 
 Decision rows:
 - None recorded.
@@ -63408,7 +64752,7 @@ Greek: καὶ ἐτάχυναν ἐπ᾿ αὐτοὺς πόλεμον.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they hastened war against them.
+Draft translation: And they hastened to make war against them.
 
 Decision rows:
 - None recorded.
@@ -63528,7 +64872,7 @@ Greek: καὶ ἐβουλεύσαντο τῇ ἡμέρᾳ ἐκείνῃ λέ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they took counsel on that day, saying, Every man who comes against us for war on the day of the Sabbaths, let us fight opposite him, and let us surely not all die as our brothers died in the hidden places.
+Draft translation: And they took counsel on that day, saying, Every man who comes against us for war on the day of the Sabbaths, let us fight against him, and let us surely not all die as our brothers died in the hidden places.
 
 Decision rows:
 - None recorded.
@@ -63668,7 +65012,7 @@ Greek: καὶ ἀντελάβοντο τοῦ νόμου ἐκ χειρὸς τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they laid hold of the law out of hand of the nations and out of hand of the kings, and they did not give a horn to the sinner.
+Draft translation: And they laid hold of the law out of the hand of the nations and out of the hand of the kings, and they did not give a horn to the sinner.
 
 Decision rows:
 - None recorded.
@@ -63928,7 +65272,7 @@ Greek: καὶ οὕτως ἐννοήθητε κατὰ γενεὰν καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And so consider by generation and generation that all those hoping upon him will not be weak.
+Draft translation: And so consider, generation by generation, that all those hoping upon him will not be weak.
 
 Decision rows:
 - None recorded.
@@ -63948,7 +65292,7 @@ Greek: καὶ ἀπὸ λόγων ἀνδρὸς ἁμαρτωλοῦ μὴ φ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And do not fear from words of a sinful man, because his glory is for dung and worms;
+Draft translation: And do not fear the words of a sinful man, because his glory is for dung and worms;
 
 Decision rows:
 - None recorded.
@@ -63968,7 +65312,7 @@ Greek: σήμερον ἐπαρθήσεται καὶ αὔριον οὐ μὴ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: today he will be lifted up, and tomorrow he shall surely not be found, because he returned into his dust, and his reasoning perished.
+Draft translation: today he will be lifted up, and tomorrow he shall surely not be found, because he returned into his dust, and his thought perished.
 
 Decision rows:
 - None recorded.
@@ -64028,7 +65372,7 @@ Greek: καὶ Ἰούδας Μακκαβαῖος ἰσχυρὸς δυνάμε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Judas Maccabeus, strong in power from his youth, he will be commander of the army for you and will fight the war of peoples.
+Draft translation: And Judas Maccabeus, strong in power from his youth, he will be commander of the army for you and will fight the war of the peoples.
 
 Decision rows:
 - None recorded.
@@ -64230,7 +65574,7 @@ Greek: καὶ συνεστάλησαν οἱ ἄνομοι ἀπὸ τοῦ φ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the lawless were drawn in from fear of him, and all the workers of lawlessness were troubled together, and salvation prospered in his hand.
+Draft translation: And the lawless were drawn back from fear of him, and all the workers of lawlessness were troubled together, and salvation prospered in his hand.
 
 Decision rows:
 - None recorded.
@@ -64270,7 +65614,7 @@ Greek: καὶ διῆλθεν ἐν πόλεσιν Ἰούδα καὶ ἐξω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he went through the cities of Judah and utterly destroyed ungodly ones from it and turned wrath away from Israel,
+Draft translation: And he went through the cities of Judah and utterly destroyed ungodly ones from them and turned wrath away from Israel,
 
 Decision rows:
 - None recorded.
@@ -64410,7 +65754,7 @@ Greek: καὶ προσέθετο τοῦ ἀναβῆναι· καὶ ἀνέβ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he added to go up; and with him went up a strong camp of ungodly ones to help him and to make vengeance among sons of Israel.
+Draft translation: And he continued to go up; and with him went up a strong camp of ungodly ones to help him and to make vengeance among sons of Israel.
 
 Decision rows:
 - None recorded.
@@ -64470,7 +65814,7 @@ Greek: καὶ εἶπεν Ἰούδας· εὔκοπόν ἐστι συγκλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Judas said, It is easy for many to be shut up in hands of few, and there is no difference before the God of heaven to save by many or by few;
+Draft translation: And Judas said, It is easy for many to be shut up in the hands of few, and there is no difference before the God of heaven to save by many or by few;
 
 Decision rows:
 - None recorded.
@@ -64590,7 +65934,7 @@ Greek: καὶ ἐδίωκον αὐτὸν ἐν τῇ καταβάσει Βα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they pursued him in the descent of Beth-horon as far as the plain; and about eight hundred men from them fell, but the rest fled into land of Philistines.
+Draft translation: And they pursued him in the descent of Beth-horon as far as the plain; and about eight hundred men from them fell, but the rest fled into the land of Philistines.
 
 Decision rows:
 - None recorded.
@@ -64630,7 +65974,7 @@ Greek: καὶ ἤγγισεν ἕως τοῦ βασιλέως τὸ ὄνομ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And his name drew near as far as the king, and every nation was telling out the battles of Judas.
+Draft translation: And his name came near as far as the king, and every nation was telling out the battles of Judas.
 
 Decision rows:
 - None recorded.
@@ -64710,7 +66054,7 @@ Greek: καὶ εὐλαβήθη μὴ οὐκ ἔχῃ ὡς ἅπαξ καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he became cautious lest he not have, as once and twice, for the expenses and the gifts that he had given before with a lavish hand; and he had abounded beyond the kings before him.
+Draft translation: And he became cautious lest he not have, as once and twice before, for the expenses and the gifts that he had given before with a lavish hand; and he had abounded beyond the kings before him.
 
 Decision rows:
 - None recorded.
@@ -64890,7 +66234,7 @@ Greek: καὶ ἀπέστειλε μετ᾿ αὐτῶν τεσσαράκοντ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and sent with them forty thousand men and seven thousand horse to go out into land of Judah and destroy it according to the word of the king.
+Draft translation: and sent with them forty thousand men and seven thousand horse to go out into the land of Judah and destroy it according to the word of the king.
 
 Decision rows:
 - None recorded.
@@ -64930,7 +66274,7 @@ Greek: καὶ ἤκουσαν οἱ ἔμποροι τῆς χώρας τὸ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the merchants of the country heard their name and took silver and very much gold and fetters and came into the camp to take the sons of Israel as slaves. And a force of Syria and of the land of foreigners was added to them.
+Draft translation: And the merchants of the country heard their fame and took silver and very much gold and fetters and came into the camp to take the sons of Israel as slaves. And a force of Syria and of the land of foreigners was added to them.
 
 Decision rows:
 - None recorded.
@@ -65006,7 +66350,7 @@ Variant notes:
 
 ### 1 Maccabees 3:45
 
-Greek: καὶ Ἱερουσαλὴμ ἦν ἀοίκητος ὡς ἔρημος· οὐκ ἦν ὁ εἰσπορευόμενος καὶ ἐκπορευόμενος ἐκ τῶν γενημάτων αὐτῆς, καὶ τὸ ἁγίασμα καταπατούμενον, καὶ υἱοὶ ἀλλογενῶν ἐν τῇ ἄκρᾳ, κατάλυμα τοῖς ἔθνεσι· καὶ ἐξῃ£ρθη τέρψις ἐξ Ἰακώβ, καὶ ἐξέλιπεν αὐλὸς καὶ κινύρα.
+Greek: καὶ Ἱερουσαλὴμ ἦν ἀοίκητος ὡς ἔρημος· οὐκ ἦν ὁ εἰσπορευόμενος καὶ ἐκπορευόμενος ἐκ τῶν γενημάτων αὐτῆς, καὶ τὸ ἁγίασμα καταπατούμενον, καὶ υἱοὶ ἀλλογενῶν ἐν τῇ ἄκρᾳ, κατάλυμα τοῖς ἔθνεσι· καὶ ἐξῄρθη τέρψις ἐξ Ἰακώβ, καὶ ἐξέλιπεν αὐλὸς καὶ κινύρα.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
@@ -65412,7 +66756,7 @@ Greek: καὶ ἅμα τῇ ἡμέρᾳ ὤφθη Ἰούδας ἐν τῷ π
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And at daybreak Judas appeared in the plain with three thousand men, except they did not have coverings and swords as they wished.
+Draft translation: And at daybreak Judas appeared in the plain with three thousand men, only they did not have armor and swords as they wished.
 
 Decision rows:
 - None recorded.
@@ -65452,7 +66796,7 @@ Greek: καὶ εἶπεν Ἰούδας τοῖς ἀνδράσι τοῖς μ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Judas said to the men with him, Do not fear their multitude, and do not be cowardly before their rush.
+Draft translation: And Judas said to the men with him, Do not fear their multitude, and do not be afraid before their rush.
 
 Decision rows:
 - None recorded.
@@ -65512,7 +66856,7 @@ Greek: καὶ γνώσεται πάντα τὰ ἔθνη ὅτι ἐστὶν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and all the nations will know that there is one redeeming and saving Israel.
+Draft translation: and all the nations will know that there is one who redeems and saves Israel.
 
 Decision rows:
 - None recorded.
@@ -65592,7 +66936,7 @@ Greek: οἱ δὲ ἔσχατοι πάντες ἔπεσον ἐν ρομφαί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but all the last ones fell by sword. And they pursued them as far as Gazara and as far as the plains of Idumea and Azotus and Jamnia, and about three thousand men from them fell.
+Draft translation: but all the rear guard fell by sword. And they pursued them as far as Gazara and as far as the plains of Idumea and Azotus and Jamnia, and about three thousand men from them fell.
 
 Decision rows:
 - None recorded.
@@ -65652,7 +66996,7 @@ Greek: καὶ Γοργίας καὶ ἡ δύναμις ἐν τῷ ὄρει �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and Gorgias and the force are in the mountain near us. But now stand before our enemies and fight them, and after these things take the spoils with boldness.
+Draft translation: and Gorgias and the force are on the mountain near us. But now stand before our enemies and fight them, and after these things take the spoils with boldness.
 
 Decision rows:
 - None recorded.
@@ -65712,7 +67056,7 @@ Greek: οἱ δὲ ταῦτα συνιδόντες ἐδειλώθησαν σφ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But those perceiving these things became very cowardly; and perceiving also the camp of Judas in the plain ready for battle line,
+Draft translation: But those perceiving these things became very afraid; and perceiving also the camp of Judas in the plain ready for battle line,
 
 Decision rows:
 - None recorded.
@@ -65732,7 +67076,7 @@ Greek: ἔφυγον πάντες εἰς γῆν ἀλλοφύλων.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: they all fled into land of foreigners.
+Draft translation: they all fled into the land of foreigners.
 
 Decision rows:
 - None recorded.
@@ -65892,7 +67236,7 @@ Greek: καὶ εἶδε τὴν παρεμβολὴν ἰσχυρὰν καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he saw the strong camp and prayed and said, Blessed are you, Savior of Israel, who crushed the rush of the mighty one by hand of your servant David and handed the camp of the foreigners into hands of Jonathan son of Saul and the one carrying his gear.
+Draft translation: And he saw the strong camp and prayed and said, Blessed are you, Savior of Israel, who crushed the rush of the mighty one by hand of your servant David and handed the camp of the foreigners into the hands of Jonathan son of Saul and the one carrying his gear.
 
 Decision rows:
 - None recorded.
@@ -65912,7 +67256,7 @@ Greek: οὕτω σύγκλεισον τὴν παρεμβολὴν ταύτην
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: So shut up this camp in hand of your people Israel, and let them be ashamed in their force and their horse;
+Draft translation: So shut up this camp in the hand of your people Israel, and let them be ashamed in their force and their horse;
 
 Decision rows:
 - None recorded.
@@ -65992,7 +67336,7 @@ Greek: ἰδὼν δὲ Λυσίας τὴν γενομένην τροπὴν τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when Lysias saw the rout that had happened to his own array, and the courage that had happened to Judas's men, and how they were ready either to live or to die nobly, he departed to Antioch and enlisted foreigners. And having made the army that had come to be more numerous, he planned to return again into Judea.
+Draft translation: And when Lysias saw the rout that had happened to his own array, and the courage of Judas's men, and how they were ready either to live or to die nobly, he departed to Antioch and enlisted foreigners. And having made the army that had come to be more numerous, he planned to return again into Judea.
 
 Decision rows:
 - None recorded.
@@ -66092,7 +67436,7 @@ Greek: καὶ ἔπεσον ἐπὶ πρόσωπον ἐπὶ τὴν γῆν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and they fell upon face upon the ground and trumpeted with the trumpets of signals and shouted into heaven.
+Draft translation: and they fell upon their faces upon the ground and trumpeted with the trumpets of signals and shouted into heaven.
 
 Decision rows:
 - None recorded.
@@ -66132,7 +67476,7 @@ Greek: καὶ ἐπέλεξεν ἱερεῖς ἀμώμους θελητὰς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he chose blameless priests, willing ones of the law,
+Draft translation: And he chose blameless priests, those willing for the law,
 
 Decision rows:
 - None recorded.
@@ -66192,7 +67536,7 @@ Greek: καὶ ἐπέπεσεν αὐτοῖς βουλὴ ἀγαθὴ καθ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And good counsel fell upon them to tear it down, lest it become a reproach to them because the nations defiled it. And they tore down the altar.
+Draft translation: And good counsel came to them to tear it down, lest it become a reproach to them because the nations defiled it. And they tore down the altar.
 
 Decision rows:
 - None recorded.
@@ -66272,7 +67616,7 @@ Greek: καὶ ἐποίησαν σκεύη ἅγια καινὰ καὶ εἰ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they made new holy vessels and brought the lampstand and the altar of incenses and the table into the temple.
+Draft translation: And they made new holy vessels and brought the lampstand and the incense altar and the table into the temple.
 
 Decision rows:
 - None recorded.
@@ -66452,7 +67796,7 @@ Greek: καὶ ἐγενήθη εὐφροσύνη μεγάλη ἐν τῷ λα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And very great gladness came to be among the people, and reproach of nations was turned away.
+Draft translation: And very great gladness came to be among the people, and reproach of the nations was turned away.
 
 Decision rows:
 - None recorded.
@@ -66574,7 +67918,7 @@ Greek: καὶ ἐπολέμει Ἰούδας πρὸς τοὺς υἱοὺς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Judas fought against the sons of Esau in Idumea, in Akrabattene, because they were sitting around Israel, and he struck them with a great blow and checked them and took their spoils.
+Draft translation: And Judas fought against the sons of Esau in Idumea, in Akrabattene, because they were surrounding Israel, and he struck them with a great blow and checked them and took their spoils.
 
 Decision rows:
 - None recorded.
@@ -66674,7 +68018,7 @@ Greek: καὶ προκατελάβετο τὴν Ἰαζὴρ καὶ τὰς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he seized Jazer beforehand, and her daughters, and returned into Judea.
+Draft translation: And he seized Jazer, and her daughters, and returned into Judea.
 
 Decision rows:
 - None recorded.
@@ -66814,7 +68158,7 @@ Greek: ἐπισυνῆχθαι ἐπ᾿ αὐτοὺς ἐκ Πτολεμαΐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: that they have been gathered against them from Ptolemais and Tyre and Sidon and all Galilee of foreigners, to consume us.
+Draft translation: that those from Ptolemais and Tyre and Sidon and all Galilee of foreigners had been gathered against them, to consume us.
 
 Decision rows:
 - None recorded.
@@ -67214,7 +68558,7 @@ Greek: καὶ ἀπέκλινεν εἰς Μααφὰ καὶ ἐπολέμησ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he turned aside to Maapha and fought against it and seized it beforehand, and killed every male of it and took its spoils and burned it with fire.
+Draft translation: And he turned aside to Maapha and fought against it and seized it, and killed every male of it and took its spoils and burned it with fire.
 
 Decision rows:
 - None recorded.
@@ -67234,7 +68578,7 @@ Greek: ἐκεῖθεν ἀπῇρε καὶ προκατελάβετο τὴν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: From there he departed and seized Chasphon, Maked, Bosor, and the remaining cities of Gilead beforehand.
+Draft translation: From there he departed and seized Chasphon, Maked, Bosor, and the remaining cities of Gilead.
 
 Decision rows:
 - None recorded.
@@ -67314,7 +68658,7 @@ Greek: καὶ εἶπε Τιμόθεος τοῖς ἄρχουσι τῆς δυ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Timothy said to the rulers of his force, when Judas and his camp drew near to the water torrent, If he crosses over to us first, we will not be able to withstand him, because he will surely be able against us;
+Draft translation: And Timothy said to the rulers of his force, when Judas and his camp drew near to the water torrent, If he crosses over to us first, we will not be able to withstand him, because he will surely prevail against us;
 
 Decision rows:
 - None recorded.
@@ -67334,7 +68678,7 @@ Greek: ἐὰν δὲ δειλωθῇ καὶ παρεμβάλῃ πέραν τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but if he becomes cowardly and camps beyond the river, we will cross over to him and be able against him.
+Draft translation: but if he is afraid and camps beyond the river, we will cross over to him and prevail against him.
 
 Decision rows:
 - None recorded.
@@ -67394,7 +68738,7 @@ Greek: καὶ προκατελάβοντο τὴν πόλιν καὶ τὸ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they seized the city beforehand and burned the sacred precinct with fire, with all those in it, and Carnaim was routed, and they could no longer withstand before the face of Judas.
+Draft translation: And they seized the city and burned the sacred precinct with fire, with all those in it, and Carnaim was routed, and they could no longer withstand before the face of Judas.
 
 Decision rows:
 - None recorded.
@@ -67474,7 +68818,7 @@ Greek: καὶ ἀπέστειλε πρὸς αὐτοὺς Ἰούδας λόγ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Judas sent to them with peaceful words, saying, We will pass through your land to depart into our land, and no one will do evil to you; we will only pass through on foot. And they were not willing to open to him.
+Draft translation: And Judas sent to them with peaceful words, saying, We will pass through your land to go into our land, and no one will do evil to you; we will only pass through on foot. And they were not willing to open to him.
 
 Decision rows:
 - None recorded.
@@ -67514,7 +68858,7 @@ Greek: καὶ παρενέβαλον οἱ ἄνδρες τῆς δυνάμεω
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the men of the force camped, and they fought against the city that whole day and that whole night, and the city was handed over into his hands.
+Draft translation: And the men of the force camped, and they fought against the city that whole day and that whole night, and the city was handed over into his hand.
 
 Decision rows:
 - None recorded.
@@ -67574,7 +68918,7 @@ Greek: καὶ ἦν Ἰούδας ἐπισυνάγων τοὺς ἐσχατί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Judas was gathering together those who lagged behind and encouraging the people through all the way, until they came into the land of Judah.
+Draft translation: And Judas was gathering together those who lagged behind and encouraging the people all along the way, until they came into the land of Judah.
 
 Decision rows:
 - None recorded.
@@ -67654,7 +68998,7 @@ Greek: καὶ εἶπε· ποιήσωμεν καὶ αὐτοὶ ἑαυτο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and he said, Let us also make a name for ourselves, and let us go fight against the nations around us.
+Draft translation: and they said, Let us also make a name for ourselves, and let us go fight against the nations around us.
 
 Decision rows:
 - None recorded.
@@ -67734,7 +69078,7 @@ Greek: καὶ ἐγενήθη τροπὴ μεγάλη ἐν τῷ λαῷ Ἰ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And a great rout happened among the people of Israel, because they did not listen to Judas and his brothers, supposing to act bravely.
+Draft translation: And a great rout happened among the people of Israel, because they did not listen to Judas and his brothers, supposing they would act bravely.
 
 Decision rows:
 - None recorded.
@@ -67834,7 +69178,7 @@ Greek: καὶ ἀπῇρε τοῦ πορευθῆναι εἰς γῆν ἀλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he departed to go into land of foreigners. And he was passing through Samaria.
+Draft translation: And he departed to go into the land of foreigners. And he was passing through Samaria.
 
 Decision rows:
 - None recorded.
@@ -68096,7 +69440,7 @@ Greek: καὶ εἶπα τῇ καρδίᾳ μου· ἕως τίνος θλί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and I said in my heart, To what affliction have I come, and to what great storm in which I now am? For I was useful and beloved in my authority.
+Draft translation: and I said in my heart, To what affliction have I come, and to what great storm in which I now am? For I was kind and beloved in my authority.
 
 Decision rows:
 - None recorded.
@@ -68236,7 +69580,7 @@ Greek: Καὶ οἱ ἐκ τῆς ἄκρας ἦσαν συγκλείοντε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And those from the citadel were shutting Israel in around the holy things and seeking evils continually, and they were a support to the nations.
+Draft translation: And those from the citadel were hemming Israel in around the holy things and seeking evils continually, and they were a support to the nations.
 
 Decision rows:
 - None recorded.
@@ -68316,7 +69660,7 @@ Greek: καὶ ἐπορεύθησαν πρὸς τὸν βασιλέα καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and they went to the king and said, Until when will you not make judgment and avenge our brothers?
+Draft translation: and they went to the king and said, Until when will you not execute judgment and avenge our brothers?
 
 Decision rows:
 - None recorded.
@@ -68476,7 +69820,7 @@ Greek: καὶ ἦν ὁ ἀριθμὸς τῶν δυνάμεων αὐτοῦ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the number of his forces was one hundred thousand foot soldiers and twenty thousand horse, and thirty-two elephants knowing war.
+Draft translation: And the number of his forces was one hundred thousand foot soldiers and twenty thousand horse, and thirty-two elephants trained in war.
 
 Decision rows:
 - None recorded.
@@ -68616,7 +69960,7 @@ Greek: καὶ πύργοι ξύλινοι ἐπ᾿ αὐτοὺς ὀχυρο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And strong wooden towers covered over them were upon each beast, fastened upon it with devices, and on each were thirty-two men of force, the ones fighting upon them, and its Indian.
+Draft translation: And strong wooden towers covered over them were upon each beast, fastened upon it with devices, and on each were thirty-two strong men, the ones fighting upon them, and its Indian driver.
 
 Decision rows:
 - None recorded.
@@ -68856,7 +70200,7 @@ Greek: καὶ ἐποίησεν εἰρήνην μετὰ τῶν ἐκ Βαι�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he made peace with those from Bethsura, and they came out from the city, because they did not have food there to be shut up in it, because it was sabbath for the land.
+Draft translation: And he made peace with those from Bethsura, and they came out from the city, because they did not have food there to be shut up in it, because it was a sabbath year for the land.
 
 Decision rows:
 - None recorded.
@@ -69056,7 +70400,7 @@ Greek: καὶ στήσωμεν αὐτοῖς τοῦ πορεύεσθαι το
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and let us establish for them that they should walk by their laws as formerly. For because of their laws, which we scattered, they became angry and did all these things.
+Draft translation: and let us establish for them that they should walk by their laws as formerly. For because of their laws, which we set aside, they became angry and did all these things.
 
 Decision rows:
 - None recorded.
@@ -69178,7 +70522,7 @@ Greek: καὶ ἐγένετο ὡς εἰσεπορεύετο εἰς οἶκο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it came to pass, as he was entering the house of the kingdom of his fathers, the forces seized Antiochus and Lysias to bring them to him.
+Draft translation: And it came to pass, as he was entering the royal house of his fathers, the forces seized Antiochus and Lysias to bring them to him.
 
 Decision rows:
 - None recorded.
@@ -69378,7 +70722,7 @@ Greek: καὶ ἐπισυνήχθησαν πρὸς Ἄλκιμον καὶ Β�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And a gathering of scribes gathered together to Alcimus and Bacchides, to seek just things,
+Draft translation: And a gathering of scribes gathered together to Alcimus and Bacchides, to seek justice,
 
 Decision rows:
 - None recorded.
@@ -69498,7 +70842,7 @@ Greek: καὶ ἐπέπεσεν αὐτῶν ὁ φόβος καὶ ὁ τρό�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And fear and trembling of them fell upon all the people, because they said, There is no truth and judgment in them, for they transgressed the agreement and the oath that they swore.
+Draft translation: And fear and trembling because of them fell upon all the people, because they said, There is no truth and judgment in them, for they transgressed the agreement and the oath that they swore.
 
 Decision rows:
 - None recorded.
@@ -69738,7 +71082,7 @@ Greek: καὶ ἐγνώσθη ὁ λόγος τῷ Ἰούδᾳ ὅτι μετ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the matter became known to Judas, that he had come against him with deceit, and he was alarmed at him and was not willing any longer to see his face.
+Draft translation: And the matter became known to Judas, that he had come against him with deceit, and he was afraid of him and was not willing any longer to see his face.
 
 Decision rows:
 - None recorded.
@@ -69818,7 +71162,7 @@ Greek: καὶ ἐμυκτήρισεν αὐτοὺς καὶ κατεγέλασ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he sneered at them and laughed them down and defiled them and spoke arrogantly.
+Draft translation: And he sneered at them and mocked them and defiled them and spoke arrogantly.
 
 Decision rows:
 - None recorded.
@@ -69958,7 +71302,7 @@ Greek: οἱ παρὰ τοῦ βασιλέως Ἀσσυρίων ὅτε ἐδ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Those from the king of the Assyrians, when they blasphemed, your angel went out, Lord, and struck one hundred eighty-five thousand among them.
+Draft translation: When those from the king of the Assyrians blasphemed, your angel went out, Lord, and struck one hundred eighty-five thousand among them.
 
 Decision rows:
 - None recorded.
@@ -70160,7 +71504,7 @@ Greek: ΚΑΙ ἤκουσεν Ἰούδας τὸ ὄνομα τῶν Ρωμαί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Judas heard the name of the Romans, that they are mighty in strength, and that they are well-pleased with all who join themselves to them, and as many as come to them, they establish friendship with them,
+Draft translation: And Judas heard the fame of the Romans, that they are mighty in strength, and that they are well-pleased with all who join themselves to them, and as many as come to them, they establish friendship with them,
 
 Decision rows:
 - None recorded.
@@ -70220,7 +71564,7 @@ Greek: καὶ κατεκράτησαν τοῦ τόπου παντὸς τῇ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they prevailed over the whole place by their counsel and long-suffering, though the place was very far away from them, and over the kings who came against them from the end of the earth, until they crushed them and struck a great blow among them, and the rest give them tribute year by year.
+Draft translation: And they prevailed over the whole region by their counsel and long-suffering, though the place was very far away from them, and over the kings who came against them from the end of the earth, until they crushed them and struck a great blow among them, and the rest give them tribute year by year.
 
 Decision rows:
 - None recorded.
@@ -70400,7 +71744,7 @@ Greek: ὅσοις δ᾿ ἂν βούλωνται βοηθεῖν καὶ βασ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And as many as they wish to help and to reign, these reign; but whom they wish, they remove. And they were exalted greatly.
+Draft translation: And as many as they wish to help and make reign, these reign; but whom they wish, they remove. And they were exalted greatly.
 
 Decision rows:
 - None recorded.
@@ -70460,7 +71804,7 @@ Greek: καὶ πιστεύουσιν ἑνὶ ἀνθρώπῳ τὴν ἀρχ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they entrust their rule to one man each year, and to rule all their land, and all listen to the one, and there is no envy nor jealousy among them.
+Draft translation: And they entrust their rule to one man each year, to rule all their land, and all listen to the one, and there is no envy nor jealousy among them.
 
 Decision rows:
 - None recorded.
@@ -70600,7 +71944,7 @@ Greek: ‘Καλῶς γένοιτο Ρωμαίοις καὶ τῷ ἔθνει 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: May it go well with the Romans and with the nation of Jews at sea and upon dry land forever, and may sword and enemy be far from them.
+Draft translation: May it go well with the Romans and with the nation of the Jews at sea and upon dry land forever, and may sword and enemy be far from them.
 
 Decision rows:
 - None recorded.
@@ -70680,7 +72024,7 @@ Greek: κατὰ τὰ αὐτὰ δὲ ἐὰν ἔθνει Ἰουδαίων �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And according to the same things, if war first happens to the nation of Jews, the Romans will ally from the soul, as the occasion may prescribe to them.
+Draft translation: And according to the same things, if war first happens to the nation of the Jews, the Romans will ally from the soul, as the occasion may prescribe to them.
 
 Decision rows:
 - None recorded.
@@ -70696,11 +72040,31 @@ Variant notes:
 
 ### 1 Maccabees 8:28
 
-Greek: καὶ τοῖς συμμαχοῦσιν οὐ δοθήσεται σῖτος, ὅπλα, ἀργύριον, πλοῖα, ὡς ἔδοξε Ρώμῃ· καὶ φυλάξονται τὰ φυλάγματα αὐτῶν καὶ οὐ μετὰ δόλου. 29 κατὰ τοὺς λόγους τούτους ἔστησαν Ρωμαῖοι τῷ δήμῳ τῶν Ἰουδαίων.
+Greek: καὶ τοῖς συμμαχοῦσιν οὐ δοθήσεται σῖτος, ὅπλα, ἀργύριον, πλοῖα, ὡς ἔδοξε Ρώμῃ· καὶ φυλάξονται τὰ φυλάγματα αὐτῶν καὶ οὐ μετὰ δόλου.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And grain, weapons, silver, or ships will not be given to those allying against them, as seemed good to Rome; and they will keep their obligations, and not with deceit. [29] According to these words the Romans established terms with the people of the Jews.
+Draft translation: And grain, weapons, silver, or ships will not be given to those allying against them, as seemed good to Rome; and they will keep their obligations, and not with deceit.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### 1 Maccabees 8:29
+
+Greek: κατὰ τοὺς λόγους τούτους ἔστησαν Ρωμαῖοι τῷ δήμῳ τῶν Ἰουδαίων.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: According to these words the Romans established terms with the people of the Jews.
 
 Decision rows:
 - None recorded.
@@ -70760,7 +72124,7 @@ Greek: ἐὰν οὖν ἔτι ἐντύχωσι κατὰ σοῦ, ποιήσ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If therefore they still petition against you, we will make judgment for them and war against you by sea and by dry land.
+Draft translation: If therefore they still petition against you, we will execute judgment for them and war against you by sea and by dry land.
 
 Decision rows:
 - None recorded.
@@ -70782,7 +72146,7 @@ Greek: ΚΑΙ ἤκουσε Δημήτριος ὅτι ἔπεσε Νικάνω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Demetrius heard that Nicanor and his forces had fallen in war, and he again added to send Bacchides and Alcimus into the land of Judah, and the right wing with them.
+Draft translation: And Demetrius heard that Nicanor and his forces had fallen in war, and he again sent Bacchides and Alcimus into the land of Judah, and the right wing with them.
 
 Decision rows:
 - None recorded.
@@ -70802,7 +72166,7 @@ Greek: καὶ ἐπορεύθησαν ὁδὸν τὴν εἰς Γάλγαλα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they went the way to Galgala and camped against Maisaloth, which is in Arbela, and seized it beforehand and destroyed many souls of men.
+Draft translation: And they went the way to Galgala and camped against Maisaloth, which is in Arbela, and seized it and destroyed many souls of men.
 
 Decision rows:
 - None recorded.
@@ -70942,7 +72306,7 @@ Greek: καὶ ἀπέστρεφον αὐτὸν λέγοντες· οὐ μὴ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they were turning him back, saying, We surely will not be able; but rather let us save our own souls now, and return with our brothers and fight against them. But we are few.
+Draft translation: And they were trying to turn him back, saying, We surely will not be able; but rather let us save our own souls now, and return with our brothers and fight against them. But we are few.
 
 Decision rows:
 - None recorded.
@@ -70962,7 +72326,7 @@ Greek: καὶ εἶπεν Ἰούδας· μή μοι γένοιτο ποιῆ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Judas said, May it not happen to me to do this thing, to flee from them. And if our time has drawn near, then let us die in manliness for the sake of our brothers, and let us not leave an occasion against our glory.
+Draft translation: And Judas said, May it not happen to me to do this thing, to flee from them. And if our time has drawn near, then let us die manfully for the sake of our brothers, and let us not leave an occasion against our glory.
 
 Decision rows:
 - None recorded.
@@ -71042,7 +72406,7 @@ Greek: καὶ εἶδεν Ἰούδας ὅτι Βακχίδης καὶ τὸ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Judas saw that Bacchides and the solid strength of the camp were on the right, and all the good-souled in heart came together with him,
+Draft translation: And Judas saw that Bacchides and the solid strength of the camp were on the right, and all the brave in heart came together with him,
 
 Decision rows:
 - None recorded.
@@ -71082,7 +72446,7 @@ Greek: καὶ εἰς τὸ ἀριστερὸν κέρας εἶδον ὅτι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And those in the left wing saw that the right wing had been crushed, and they turned on the footsteps of Judas and those with him from behind.
+Draft translation: And those in the left wing saw that the right wing had been crushed, and they followed the footsteps of Judas and those with him from behind.
 
 Decision rows:
 - None recorded.
@@ -71222,7 +72586,7 @@ Greek: Καὶ ἐγένετο, μετὰ τὴν τελευτὴν Ἰούδα 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it came to pass, after the death of Judas, the lawless peered out in all the borders of Israel, and all those working injustice sprang up.
+Draft translation: And it came to pass, after the death of Judas, the lawless emerged in all the borders of Israel, and all those working injustice sprang up.
 
 Decision rows:
 - None recorded.
@@ -71242,7 +72606,7 @@ Greek: ἐν ταῖς ἡμέραις ἐκείναις ἐγενήθη λιμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In those days there came to be a very great famine, and the country deserted with them.
+Draft translation: In those days there came to be a very great famine, and the country deserted to them.
 
 Decision rows:
 - None recorded.
@@ -71642,7 +73006,7 @@ Greek: καὶ εἶπεν Ἰωνάθαν τοῖς παρ᾿ αὐτοῦ· �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Jonathan said to those with him, Let us arise now and fight for our souls, for today is not like yesterday and the third day.
+Draft translation: And Jonathan said to those with him, Let us arise now and fight for our souls, for today is not like yesterday and the day before.
 
 Decision rows:
 - None recorded.
@@ -72162,7 +73526,7 @@ Greek: καὶ ἐπέγνω Ἰωνάθαν καὶ ἀπέστειλε πρὸ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Jonathan recognized it and sent ambassadors to him to arrange peace with him and to return the captivity to them.
+Draft translation: And Jonathan recognized it and sent ambassadors to him to arrange peace with him and to return the captives to them.
 
 Decision rows:
 - None recorded.
@@ -72202,7 +73566,7 @@ Greek: καὶ ἀπέδωκεν αὐτῷ τὴν αἰχμαλωσίαν, ἣ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he returned to him the captivity that he had taken captive formerly from the land of Judah, and turning back, he went away into his own land and did not again add to come into their borders.
+Draft translation: And he returned to him the captives that he had taken captive formerly from the land of Judah, and turning back, he went away into his own land and did not again add to come into their borders.
 
 Decision rows:
 - None recorded.
@@ -72304,7 +73668,7 @@ Greek: εἶπε γάρ· προφθάσωμεν τοῦ εἰρήνην θεῖ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For he said, Let us be first to set peace with him, before he sets peace with Alexander against us.
+Draft translation: For he said, Let us be first to make peace with him, before he makes peace with Alexander against us.
 
 Decision rows:
 - None recorded.
@@ -72324,7 +73688,7 @@ Greek: μνησθήσεται γὰρ πάντων τῶν κακῶν, ὧν σ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For he will remember all the evils that we completed against him and against his brothers and against his nation.
+Draft translation: For he will remember all the evils that we did against him and against his brothers and against his nation.
 
 Decision rows:
 - None recorded.
@@ -72964,7 +74328,7 @@ Greek: καὶ κατασταθήσεται ἐξ αὐτῶν ἐν τοῖς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And some of them will be appointed in the great fortresses of the king, and some of them will be appointed over needs of the kingdom that are matters of trust. And those over them and their rulers shall be from them, and let them walk by their laws, just as the king commanded in the land of Judah.
+Draft translation: And some of them will be appointed in the great fortresses of the king, and some of them will be appointed over trusted affairs of the kingdom. And those over them and their rulers shall be from them, and let them walk by their laws, just as the king commanded in the land of Judah.
 
 Decision rows:
 - None recorded.
@@ -73484,7 +74848,7 @@ Greek: καὶ ἐκάθισεν αὐτὸν ὁ βασιλεὺς μετ᾿ α
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the king seated him with himself and said to his rulers, Go out with him into the middle of the city and proclaim that no one should petition against him concerning any matter, and that no one should trouble him concerning any word.
+Draft translation: And the king seated him beside himself and said to his rulers, Go out with him into the middle of the city and proclaim that no one should petition against him concerning any matter, and that no one should trouble him concerning any word.
 
 Decision rows:
 - None recorded.
@@ -73644,7 +75008,7 @@ Greek: νῦν οὖν εἰ πέποιθας ἐπὶ ταῖς δυνάμεσ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Now therefore, if you trust in your forces, come down to us into the plain, and let us compare ourselves there, because with me is the force of the cities.
+Draft translation: Now therefore, if you trust in your forces, come down to us into the plain, and let us test ourselves there, because with me is the force of the cities.
 
 Decision rows:
 - None recorded.
@@ -73864,7 +75228,7 @@ Greek: καὶ εἵλκυσε Σίμων τὴν δύναμιν αὐτοῦ κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Simon drew out his force and joined against the battle line, for the horse was undone, and they were crushed by him and fled.
+Draft translation: And Simon drew out his force and joined against the battle line, for the cavalry was undone, and they were crushed by him and fled.
 
 Decision rows:
 - None recorded.
@@ -73884,7 +75248,7 @@ Greek: καὶ ἡ ἵππος ἐσκορπίσθη ἐν τῷ πεδίῳ, κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the horse was scattered in the plain, and they fled into Azotus and entered Beth-dagon, their idol-shrine, to be saved.
+Draft translation: And the cavalry was scattered in the plain, and they fled into Azotus and entered Beth-dagon, their idol-shrine, to be saved.
 
 Decision rows:
 - None recorded.
@@ -73984,7 +75348,7 @@ Greek: καὶ ἐγένετο ὡς ἤκουσεν Ἀλέξανδρος ὁ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it came to pass, when King Alexander heard these words, he added to glorify Jonathan.
+Draft translation: And it came to pass, when King Alexander heard these words, he added still more glory to Jonathan.
 
 Decision rows:
 - None recorded.
@@ -74166,7 +75530,7 @@ Greek: ὁ δὲ βασιλεὺς Πτολεμαῖος ἐκυρίευσε τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But King Ptolemy became lord of the coastal cities as far as Seleucia by the sea and was reasoning evil thoughts concerning Alexander.
+Draft translation: But King Ptolemy became lord of the coastal cities as far as Seleucia by the sea and was plotting evil thoughts concerning Alexander.
 
 Decision rows:
 - None recorded.
@@ -74606,7 +75970,7 @@ Greek: ‘Βασιλεὺς Δημήτριος Ἰωνάθαν τῷ ἀδελφ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: King Demetrius to Jonathan the brother, greeting, and to the nation of Jews.
+Draft translation: King Demetrius to Jonathan the brother, greeting, and to the nation of the Jews.
 
 Decision rows:
 - None recorded.
@@ -74806,7 +76170,7 @@ Greek: καὶ προσήδρευεν αὐτῷ, ὅπως παραδοῖ α�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he stayed near him so that he might hand him over to him, so that he might reign instead of his father. And he reported to him all that Demetrius had completed and the hostility with which his forces were hostile to him, and he remained there many days.
+Draft translation: And he kept close to him so that he might hand him over to him, so that he might reign instead of his father. And he reported to him all that Demetrius had completed and the hostility with which his forces were hostile to him, and he remained there many days.
 
 Decision rows:
 - None recorded.
@@ -74946,7 +76310,7 @@ Greek: καὶ ἐκάλεσεν ὁ βασιλεὺς τοὺς Ἰουδαίο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the king called the Jews for help, and they gathered together to him all at once and were scattered in the city all at once, and they killed about one hundred thousand in the city on that day.
+Draft translation: And the king called the Jews for help, and they gathered together to him all at once and spread through the city all at once, and they killed about one hundred thousand in the city on that day.
 
 Decision rows:
 - None recorded.
@@ -75066,7 +76430,7 @@ Greek: καὶ ἐψεύσατο πάντα, ὅσα εἶπε, καὶ ἠλλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he lied in all that he had said, and was alienated from Jonathan, and did not repay according to the good will with which he had repaid him, and he afflicted him greatly.
+Draft translation: And he lied in all that he had said, and was alienated from Jonathan, and did not repay according to the goodwill that Jonathan had shown him, and he afflicted him greatly.
 
 Decision rows:
 - None recorded.
@@ -76008,7 +77372,7 @@ Greek: καὶ ἀπέστειλε κατασκόπους εἰς τὴν παρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he sent spies into their camp, and they returned and reported to him that they were arranged this way to fall upon them by night.
+Draft translation: And he sent spies into their camp, and they returned and reported to him that they were arranged to fall upon them by night.
 
 Decision rows:
 - None recorded.
@@ -76028,7 +77392,7 @@ Greek: ὡς δὲ ἔδυ ὁ ἥλιος, ἐπέταξεν Ἰωνάθαν τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But when the sun set, Jonathan commanded those with him to stay awake and be upon their weapons and be prepared for war through the whole night, and he sent out advance guards around the camp.
+Draft translation: But when the sun set, Jonathan commanded those with him to stay awake and stand by their weapons and be prepared for war through the whole night, and he sent out advance guards around the camp.
 
 Decision rows:
 - None recorded.
@@ -76148,7 +77512,7 @@ Greek: καὶ Σίμων ἐξῆλθε καὶ διώδευσεν ἕως Ἀ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Simon went out and passed through as far as Ashkelon and the nearby fortresses, and he turned aside to Joppa and seized it beforehand,
+Draft translation: And Simon went out and passed through as far as Ashkelon and the nearby fortresses, and he turned aside to Joppa and seized it,
 
 Decision rows:
 - None recorded.
@@ -76428,7 +77792,7 @@ Greek: κατέλιπε δὲ μεθ᾿ ἑαυτοῦ ἄνδρας τρισχ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But he left with himself three thousand men, of whom he left two thousand in Galilee, and one thousand came with him.
+Draft translation: But he kept with himself three thousand men, of whom he left two thousand in Galilee, and one thousand came with him.
 
 Decision rows:
 - None recorded.
@@ -76508,7 +77872,7 @@ Greek: καὶ εἶδον οἱ διώκοντες ὅτι περὶ ψυχῆ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And those pursuing saw that it was about their soul, and they returned.
+Draft translation: And those pursuing saw that it was about their lives, and they returned.
 
 Decision rows:
 - None recorded.
@@ -76548,7 +77912,7 @@ Greek: καὶ ἐζήτησαν πάντα τὰ ἔθνη τὰ κύκλῳ α
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And all the nations around them sought to rub them out, for they said, They have no ruler and helper. Now therefore let us war against them and remove their memorial from among men.
+Draft translation: And all the nations around them sought to wipe them out, for they said, They have no ruler and helper. Now therefore let us war against them and remove their memorial from among men.
 
 Decision rows:
 - None recorded.
@@ -76570,7 +77934,7 @@ Greek: ΚΑΙ ἤκουσε Σίμων ὅτι συνήγαγε Τρύφων δ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Simon heard that Tryphon had gathered a great force to come into the land of Judah and rub it out.
+Draft translation: And Simon heard that Tryphon had gathered a great force to come into the land of Judah and wipe it out.
 
 Decision rows:
 - None recorded.
@@ -76670,7 +78034,7 @@ Greek: πλὴν ἐκδικήσω περὶ τοῦ ἔθνους μου κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But I will make vengeance for my nation and for the holy things and for our wives and children, because all the nations have gathered together to rub us out for the sake of enmity.
+Draft translation: But I will make vengeance for my nation and for the holy things and for our wives and children, because all the nations have gathered together to wipe us out for the sake of enmity.
 
 Decision rows:
 - None recorded.
@@ -76950,7 +78314,7 @@ Greek: καὶ μετὰ ταῦτα ἦλθε Τρύφων τοῦ ἐμβατ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after these things Tryphon came to set foot in the country and rub it out, and he went around by the way to Adora. And Simon and his camp were moving opposite him in every place wherever he went.
+Draft translation: And after these things Tryphon came to set foot in the country and wipe it out, and he went around by the way to Adora. And Simon and his camp were moving opposite him in every place wherever he went.
 
 Decision rows:
 - None recorded.
@@ -77170,7 +78534,7 @@ Greek: Ὁ δὲ Τρύφων ἐπορεύετο δόλῳ μετὰ Ἀντι�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But Tryphon was going with deceit with Antiochus the younger king, and he killed him,
+Draft translation: But Tryphon was dealing deceitfully with Antiochus the younger king, and he killed him,
 
 Decision rows:
 - None recorded.
@@ -77346,11 +78710,31 @@ Variant notes:
 
 ### 1 Maccabees 13:40
 
-Greek: καὶ εἴ τινες ἐπιτήδειοι ὑμῶν γραφῆναι εἰς τοὺς περὶ ἡμᾶς, ἐγγραφέσθωσαν, καὶ γινέσθω ἀναμέσον ἡμῶν εἰρήνη’. 41 ἔτους ἑβδομηκοστοῦ καὶ ἑκατοστοῦ ᾔρθη ὁ ζυγὸς τῶν ἐθνῶν ἀπὸ τοῦ Ἰσραήλ,
+Greek: καὶ εἴ τινες ἐπιτήδειοι ὑμῶν γραφῆναι εἰς τοὺς περὶ ἡμᾶς, ἐγγραφέσθωσαν, καὶ γινέσθω ἀναμέσον ἡμῶν εἰρήνη’.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And if any of you are suitable to be enrolled among those around us, let them be enrolled, and let peace come to be between us. [41] In the one hundred seventieth year, the yoke of the nations was lifted from Israel,
+Draft translation: And if any of you are suitable to be enrolled among those around us, let them be enrolled, and let peace come to be between us.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### 1 Maccabees 13:41
+
+Greek: ἔτους ἑβδομηκοστοῦ καὶ ἑκατοστοῦ ᾔρθη ὁ ζυγὸς τῶν ἐθνῶν ἀπὸ τοῦ Ἰσραήλ,
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: In the one hundred seventieth year, the yoke of the nations was lifted from Israel,
 
 Decision rows:
 - None recorded.
@@ -77792,7 +79176,7 @@ Greek: ταῖς πόλεσιν ἐχορήγησε βρώματα καὶ ἔτ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He supplied the cities with foods and set them with equipment of fortification, until the name of his glory was named as far as the end of the earth.
+Draft translation: He supplied the cities with foods and equipped them with equipment of fortification, until the name of his glory was named as far as the end of the earth.
 
 Decision rows:
 - None recorded.
@@ -77912,7 +79296,7 @@ Greek: Καὶ ἠκούσθη ἐν Ρώμῃ, ὅτι ἀπέθανεν Ἰω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it was heard in Rome that Jonathan had died, and as far as Sparta, and they were deeply grieved.
+Draft translation: And it was heard in Rome, and as far as Sparta, that Jonathan had died, and they were deeply grieved.
 
 Decision rows:
 - None recorded.
@@ -78048,11 +79432,31 @@ Variant notes:
 
 ### 1 Maccabees 14:23
 
-Greek: καὶ ἤρεσε τῷ δήμῳ ἐπιδέξασθαι τοὺς ἄνδρας ἐνδόξως καὶ τοῦ θέσθαι τὸ ἀντίγραφον τῶν λόγων αὐτῶν ἐν τοῖς ἀποδεδειγμένοις τῶ δήμῳ βιβλίοις τοῦ ἔχειν μνημόσυνον τὸν δῆμον τῶν Σπαρτιατῶν. τὸ δὲ ἀντίγραφον τούτων ἐγράψαμεν Σίμωνι τῷ ἀρχιερεῖ’. 24 Μετὰ δὲ ταῦτα ἀπέστειλε Σίμων τὸν Νουμήνιον εἰς Ρώμην ἔχοντα ἀσπίδα χρυσῆν μεγάλην ὁλκῆς μνῶν χιλίων εἰς τὸ στῆσαι πρὸς αὐτοὺς τὴν συμμαχίαν.
+Greek: καὶ ἤρεσε τῷ δήμῳ ἐπιδέξασθαι τοὺς ἄνδρας ἐνδόξως καὶ τοῦ θέσθαι τὸ ἀντίγραφον τῶν λόγων αὐτῶν ἐν τοῖς ἀποδεδειγμένοις τῶ δήμῳ βιβλίοις τοῦ ἔχειν μνημόσυνον τὸν δῆμον τῶν Σπαρτιατῶν. τὸ δὲ ἀντίγραφον τούτων ἐγράψαμεν Σίμωνι τῷ ἀρχιερεῖ’.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it pleased the people to receive the men gloriously and to set the copy of their words in the public books appointed for the people, so that the people of the Spartans may have a memorial. And we wrote a copy of these things to Simon the high priest. [24] And after these things Simon sent Numenius to Rome, holding a great golden shield of the weight of one thousand minas, to establish the alliance with them.
+Draft translation: And it pleased the people to receive the men gloriously and to set the copy of their words in the public books appointed for the people, so that the people of the Spartans may have a memorial. And we wrote a copy of these things to Simon the high priest.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### 1 Maccabees 14:24
+
+Greek: Μετὰ δὲ ταῦτα ἀπέστειλε Σίμων τὸν Νουμήνιον εἰς Ρώμην ἔχοντα ἀσπίδα χρυσῆν μεγάλην ὁλκῆς μνῶν χιλίων εἰς τὸ στῆσαι πρὸς αὐτοὺς τὴν συμμαχίαν.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And after these things Simon sent Numenius to Rome, holding a great golden shield of the weight of one thousand minas, to establish the alliance with them.
 
 Decision rows:
 - None recorded.
@@ -78192,7 +79596,7 @@ Greek: καὶ ἐβουλήθησαν οἱ ἐχθροὶ αὐτῶν ἐμβ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and their enemies wished to set foot in their country to rub out their country and to stretch out hands against their holy things.
+Draft translation: and their enemies wished to set foot in their country to wipe out their country and to stretch out hands against their holy things.
 
 Decision rows:
 - None recorded.
@@ -78212,7 +79616,7 @@ Greek: τότε ἀνέστη Σίμων, καὶ ἐπολέμησε περὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then Simon rose up and fought concerning his nation and spent much money from his own things and supplied weapons to the men of the force of his nation and gave them wages.
+Draft translation: Then Simon rose up and fought concerning his nation and spent much money from his own property and supplied weapons to the men of the force of his nation and gave them wages.
 
 Decision rows:
 - None recorded.
@@ -78272,7 +79676,7 @@ Greek: καὶ εἶδεν ὁ λαὸς τὴν πρᾶξιν τοῦ Σίμω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the people saw the act of Simon and the glory that he had resolved to do for his nation, and they made him their leader and high priest, because he had done all these things and because of the righteousness and the faith that he kept for his nation, and he sought by every way to exalt his people.
+Draft translation: And the people saw the act of Simon and the glory that he had resolved to do for his nation, and they made him their leader and high priest, because he had done all these things and because of the righteousness and the faithfulness that he kept for his nation, and he sought by every way to exalt his people.
 
 Decision rows:
 - None recorded.
@@ -78452,7 +79856,7 @@ Greek: καὶ οὐκ ἐξέσται οὐδενὶ τοῦ λαοῦ καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it shall not be permitted to any of the people and the priests to annul any of these things or to speak against the things to be spoken by him or to gather an assembly in the country without him or to be clothed in purple or to fasten a golden clasp.
+Draft translation: And it shall not be permitted to any of the people and the priests to annul any of these things or to speak against the things spoken by him or to gather an assembly in the country without him or to be clothed in purple or to fasten a golden clasp.
 
 Decision rows:
 - None recorded.
@@ -78468,11 +79872,31 @@ Variant notes:
 
 ### 1 Maccabees 14:45
 
-Greek: ὃς δ᾿ ἂν παρὰ ταῦτα ποιήσῃ ἢ ἀθετήσῃ τι τούτων, ἔνοχος ἔσται’. 46 καὶ εὐδόκησε πᾶς ὁ λαὸς θέσθαι Σίμωνι καὶ ποιῆσαι κατὰ τοὺς λόγους τούτους.
+Greek: ὃς δ᾿ ἂν παρὰ ταῦτα ποιήσῃ ἢ ἀθετήσῃ τι τούτων, ἔνοχος ἔσται’.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And whoever acts contrary to these things or annuls any of these things shall be liable. [46] And all the people were pleased to set Simon and to do according to these words.
+Draft translation: And whoever acts contrary to these things or annuls any of these things shall be liable.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### 1 Maccabees 14:46
+
+Greek: καὶ εὐδόκησε πᾶς ὁ λαὸς θέσθαι Σίμωνι καὶ ποιῆσαι κατὰ τοὺς λόγους τούτους.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And all the people were pleased to set Simon and to do according to these words.
 
 Decision rows:
 - None recorded.
@@ -78574,7 +79998,7 @@ Greek: καὶ ἦσαν περιέχουσαι τὸν τρόπον τοῦτο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they contained in this manner: King Antiochus to Simon, great priest and ethnarch, and to the nation of Jews, greeting.
+Draft translation: And they contained in this manner: King Antiochus to Simon, great priest and ethnarch, and to the nation of the Jews, greeting.
 
 Decision rows:
 - None recorded.
@@ -78694,7 +80118,7 @@ Greek: καὶ πᾶν ὀφείλημα βασιλικὸν καὶ τὰ ἐσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And every royal debt and the royal things to come, from now and for all time, let them be released to you.
+Draft translation: And every royal debt and the royal dues to come, from now and for all time, let them be released to you.
 
 Decision rows:
 - None recorded.
@@ -78710,11 +80134,31 @@ Variant notes:
 
 ### 1 Maccabees 15:9
 
-Greek: ὡς δ᾿ ἂν κρατήσωμεν τῆς βασιλείας ἡμῶν, δοξάσομέν σε καὶ τὸ ἔθνος σου καὶ τὸ ἱερὸν δόξῃ μεγάλῃ, ὥστε φανερὰν γενέσθαι τὴν δόξαν ὑμῶν ἐν πάσῃ τῇ γῇ’. 10 Ἔτους τετάρτου καὶ ἑβδομηκοστοῦ καὶ ἑκατοστοῦ ἐξῆλθεν Ἀντίοχος εἰς τὴν γῆν πατέρων αὐτοῦ, καὶ συνῆλθον πρὸς αὐτὸν πᾶσαι αἱ δυνάμεις, ὥστε ὀλίγους εἶναι τοὺς καταλειφθέντας σὺν Τρύφωνι.
+Greek: ὡς δ᾿ ἂν κρατήσωμεν τῆς βασιλείας ἡμῶν, δοξάσομέν σε καὶ τὸ ἔθνος σου καὶ τὸ ἱερὸν δόξῃ μεγάλῃ, ὥστε φανερὰν γενέσθαι τὴν δόξαν ὑμῶν ἐν πάσῃ τῇ γῇ’.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And whenever we take hold of our kingdom, we will glorify you and your nation and the temple with great glory, so that your glory will become manifest in all the earth. [10] And in the one hundred seventy-fourth year Antiochus went out into the land of his fathers, and all the forces came together to him, so that those left with Tryphon were few.
+Draft translation: And whenever we take hold of our kingdom, we will glorify you and your nation and the temple with great glory, so that your glory will become manifest in all the earth.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### 1 Maccabees 15:10
+
+Greek: Ἔτους τετάρτου καὶ ἑβδομηκοστοῦ καὶ ἑκατοστοῦ ἐξῆλθεν Ἀντίοχος εἰς τὴν γῆν πατέρων αὐτοῦ, καὶ συνῆλθον πρὸς αὐτὸν πᾶσαι αἱ δυνάμεις, ὥστε ὀλίγους εἶναι τοὺς καταλειφθέντας σὺν Τρύφωνι.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And in the one hundred seventy-fourth year Antiochus went out into the land of his fathers, and all the forces came together to him, so that those left with Tryphon were few.
 
 Decision rows:
 - None recorded.
@@ -78894,7 +80338,7 @@ Greek: ἤρεσεν οὖν ἡμῖν γράψαι τοῖς βασιλεῦσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore it pleased us to write to the kings and the countries, so that they should not seek harms against them and should not make war against them and their cities and their country, and that they should not be allies with those who make war against them.
+Draft translation: Therefore it pleased us to write to the kings and the countries, so that they should not seek harm against them and should not make war against them and their cities and their country, and that they should not be allies with those who make war against them.
 
 Decision rows:
 - None recorded.
@@ -78930,11 +80374,31 @@ Variant notes:
 
 ### 1 Maccabees 15:21
 
-Greek: εἴ τινες οὖν λοιμοὶ διαπεφεύγασιν ἐκ τῆς χώρας αὐτῶν πρὸς ἡμᾶς, παράδοτε αὐτοὺς Σίμωνι τῷ ἀρχιερεῖ, ὅπως ἐκδικήσῃ ἐν αὐτοῖς κατὰ τὸν νόμον αὐτῶν’. 22 Καὶ τὰ αὐτὰ ἔγραψε Δημητρίῳ τῷ βασιλεῖ καὶ Ἀττάλῳ, Ἀριαράθῃ καὶ Ἀρσάκῃ
+Greek: εἴ τινες οὖν λοιμοὶ διαπεφεύγασιν ἐκ τῆς χώρας αὐτῶν πρὸς ἡμᾶς, παράδοτε αὐτοὺς Σίμωνι τῷ ἀρχιερεῖ, ὅπως ἐκδικήσῃ ἐν αὐτοῖς κατὰ τὸν νόμον αὐτῶν’.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore if any pestilent men have escaped from their country to you, give them over to Simon the high priest, so that he may take vengeance on them according to their law. [22] And he wrote the same things to King Demetrius and to Attalus, Ariarathes, and Arsaces,
+Draft translation: Therefore if any pestilent men have escaped from their country to you, give them over to Simon the high priest, so that he may take vengeance on them according to their law.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### 1 Maccabees 15:22
+
+Greek: Καὶ τὰ αὐτὰ ἔγραψε Δημητρίῳ τῷ βασιλεῖ καὶ Ἀττάλῳ, Ἀριαράθῃ καὶ Ἀρσάκῃ
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And he wrote the same things to King Demetrius and to Attalus, Ariarathes, and Arsaces,
 
 Decision rows:
 - None recorded.
@@ -79114,7 +80578,7 @@ Greek: εἰ δὲ μή, δότε ἀντ᾿ αὐτῶν πεντακόσια �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But if not, give five hundred talents of silver in exchange for them, and for the destruction that you have destroyed and for the taxes of the cities, another five hundred talents. But if not, when we arrive, we will make war against you.
+Draft translation: But if not, give five hundred talents of silver in exchange for them, and for the destruction you caused and for the taxes of the cities, another five hundred talents. But if not, when we arrive, we will make war against you.
 
 Decision rows:
 - None recorded.
@@ -79194,7 +80658,7 @@ Greek: περὶ δὲ Ἰόππης καὶ Γαζάρων, ὧν αἰτεῖ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And concerning Joppa and Gazara, which you ask for, these were making a great blow among the people throughout our country; for these we will give one hundred talents. And Athenobius did not answer him a word,
+Draft translation: And concerning Joppa and Gazara, which you ask for, these were striking a great blow among the people throughout our country; for these we will give one hundred talents. And Athenobius did not answer him a word,
 
 Decision rows:
 - None recorded.
@@ -79456,7 +80920,7 @@ Greek: καὶ διεῖλε τὸν λαὸν καὶ τοὺς ἱππεῖς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he divided the people and the horsemen in the middle of the foot soldiers, but the horse of the opponents was very great.
+Draft translation: And he divided the people and the horsemen in the middle of the foot soldiers, but the cavalry of the opponents was very great.
 
 Decision rows:
 - None recorded.
@@ -79736,7 +81200,7 @@ Greek: καὶ προδραμών τις ἀπήγγειλεν Ἰωάννῃ ε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And someone ran ahead and reported to John in Gazara that his father and his brothers had perished and that he has sent also to kill you.
+Draft translation: And someone ran ahead and reported to John in Gazara that his father and his brothers had perished and that he has also sent to kill you.
 
 Decision rows:
 - None recorded.
@@ -79920,7 +81384,7 @@ Greek: Καὶ νῦν ὧδέ ἐσμεν προσευχόμενοι περὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now here we are praying for you.
+Draft translation: And now we are here praying for you.
 
 Decision rows:
 - None recorded.
@@ -79980,7 +81444,7 @@ Greek: Καὶ νῦν ἵνα ἄγητε τὰς ἡμέρας τῆς σκη�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now, that you may keep the days of the feast of tabernacles of the month Chaseleu.
+Draft translation: And now, that you may keep the days of the feast of tabernacles in the month Chaseleu.
 
 Decision rows:
 - None recorded.
@@ -80000,7 +81464,7 @@ Greek: Ἔτους ἑκατοστοῦ ὀγδοηκοστοῦ καὶ ὀγδ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In the 188th year, those in Jerusalem and those in Judea, and the senate and Judas, to Aristobulus, teacher of King Ptolemy, and being from the race of the anointed priests, and to the Jews in Egypt: greetings and health.
+Draft translation: In the 188th year, those in Jerusalem and those in Judea, and the senate and Judas, to Aristobulus, teacher of King Ptolemy, who is from the race of the anointed priests, and to the Jews in Egypt: greetings and health.
 
 Decision rows:
 - None recorded.
@@ -80020,7 +81484,7 @@ Greek: Ἐκ μεγάλων κινδύνων ὑπὸ τοῦ Θεοῦ σεσω
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Having been saved by God out of great dangers, we give great thanks to him, as men drawn up in battle against a king.
+Draft translation: Having been saved by God out of great dangers, we give great thanks to him, as those arrayed against a king.
 
 Decision rows:
 - None recorded.
@@ -80060,7 +81524,7 @@ Greek: Εἰς γὰρ τὴν Περσίδα γενόμενος ὁ ἡγεμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For when the leader came into Persia, and the force around him, which seemed to be irresistible, they were cut down in the temple of Nanaia, the priests around Nanaia using deceit.
+Draft translation: For the leader, having come into Persia, and the force around him, which seemed to be irresistible, were cut down in the temple of Nanaia, the priests around Nanaia using deceit.
 
 Decision rows:
 - None recorded.
@@ -80080,7 +81544,7 @@ Greek: Ὡς γὰρ συνοικήσων αὐτῇ παρεγένετο εἰ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For Antiochus came to the place as though he would live with her, both he and the friends with him, for the sake of receiving the money as a dowry;
+Draft translation: For Antiochus came to the place as though he would cohabit with her, both he and the friends with him, for the sake of receiving the money as a dowry;
 
 Decision rows:
 - None recorded.
@@ -80120,7 +81584,7 @@ Greek: ἀνοίξαντες τὴν τοῦ φατνώματος κρυπτὴ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and opening the hidden door of the ceiling, they threw stones and thunder-struck the leader, and making him into pieces and cutting off the heads, they threw them to those outside.
+Draft translation: and opening the hidden door of the ceiling, they hurled stones and struck down the leader as with thunder; and making him into pieces and cutting off the heads, they threw them to those outside.
 
 Decision rows:
 - None recorded.
@@ -80140,7 +81604,7 @@ Greek: Κατὰ πάντα εὐλογητὸς ἡμῶν ὁ Θεὸς, ὃς
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In all things blessed is our God, who handed over the impious.
+Draft translation: In all things blessed is our God, who handed over those who acted impiously.
 
 Decision rows:
 - None recorded.
@@ -80200,7 +81664,7 @@ Greek: Διελθόντων δὲ ἐτῶν ἱκανῶν, ὅτε ἔδοξε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But when enough years had passed, when it seemed good to God, Nehemiah, sent by the king of Persia, sent the descendants of the priests who had hidden it to the fire;
+Draft translation: But when enough years had passed, when it seemed good to God, Nehemiah, sent by the king of Persia, sent the descendants of the priests who had hidden it for the fire;
 
 Decision rows:
 - None recorded.
@@ -80240,7 +81704,7 @@ Greek: Ὡς δὲ ἐγένετο τοῦτο, καὶ χρόνος διῆλθ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when this had happened, and time had passed, when the sun shone out, being previously under cloud, a great fire was kindled, so that all marveled.
+Draft translation: And when this had happened, and time had passed, when the sun shone out after being clouded before, a great fire was kindled, so that all marveled.
 
 Decision rows:
 - None recorded.
@@ -80360,7 +81824,7 @@ Greek: Βασάνισον τοὺς καταδυναστεύοντας, καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Torment those who oppress and insolently abuse in arrogance;
+Draft translation: Torment those who oppress and outrage in arrogance;
 
 Decision rows:
 - None recorded.
@@ -80420,7 +81884,7 @@ Greek: Καθὼς δὲ ἀνηλώθη τὰ τῆς θυσίας, καὶ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the things of the sacrifice were consumed, and the remaining water, Nehemiah commanded it to be poured over larger stones.
+Draft translation: And when the things of the sacrifice were consumed, Nehemiah commanded the remaining water to be poured over larger stones.
 
 Decision rows:
 - None recorded.
@@ -80500,7 +81964,7 @@ Greek: Καὶ οἷς ἐχαρίζετο ὁ βασιλεὺς πολλὰ δ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the king received many various things and distributed them to those to whom he showed favor.
+Draft translation: And the king received many different things and distributed them to those to whom he showed favor.
 
 Decision rows:
 - None recorded.
@@ -80602,7 +82066,7 @@ Greek: Ἦν δὲ ἐν τῇ γραφῇ, ὡς τὴν σκηνὴν καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it was in the writing how the prophet, after a divine message came to him, commanded the tent and the ark to follow with him, and how he went out to the mountain where Moses, having ascended, beheld the inheritance of God.
+Draft translation: And it was in the writing how the prophet, after a divine message came to him, commanded the tent and the ark to accompany him, and how he went out to the mountain where Moses, having ascended, beheld the inheritance of God.
 
 Decision rows:
 - None recorded.
@@ -80662,7 +82126,7 @@ Greek: Ὡς δὲ ὁ Ἱερεμίας ἔγνω, μεμψάμενος αὐτ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But when Jeremiah knew it, blaming them he said that the place would also be unknown until God gathers together a gathering of the people and becomes gracious.
+Draft translation: But when Jeremiah knew it, blaming them he said that the place would also be unknown until God gathers the gathering of the people together and becomes gracious.
 
 Decision rows:
 - None recorded.
@@ -80702,7 +82166,7 @@ Greek: Διεσαφεῖτο δὲ καὶ ὡς σοφίαν ἔχων ἀνή�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it was also explained how, having wisdom, he offered a sacrifice of dedication and of the completion of the temple.
+Draft translation: And it was also made clear how, having wisdom, he offered a sacrifice of dedication and of the completion of the temple.
 
 Decision rows:
 - None recorded.
@@ -80782,7 +82246,7 @@ Greek: Ἐξηγοῦντο δὲ καὶ ἐν ταῖς ἀναγραφαῖς
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the same things were also explained in the records and in the memoirs concerning Nehemiah, and how, establishing a library, he gathered together the things concerning the kings and prophets, and the things of David, and letters of kings concerning offerings.
+Draft translation: And the same things were also explained in the records and in the memoirs concerning Nehemiah, and how, founding a library, he gathered together the things concerning the kings and prophets, and the things of David, and letters of kings concerning offerings.
 
 Decision rows:
 - None recorded.
@@ -80802,7 +82266,7 @@ Greek: Ὡσαύτως δὲ καὶ Ἰούδας, τὰ διαπεπτωκότ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Likewise Judas also gathered together all the things that had fallen apart because of the war that happened to us, and they are with us.
+Draft translation: Likewise Judas also gathered together all the things that had been scattered because of the war that happened to us, and they are with us.
 
 Decision rows:
 - None recorded.
@@ -80822,7 +82286,7 @@ Greek: Ὧν οὖν ἐὰν χρείαν ἔχητε, τοὺς ἀποκομ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore, if you have need of these things, send those who will carry them away to you.
+Draft translation: Therefore, if you have need of these things, send those who will carry them off for you.
 
 Decision rows:
 - None recorded.
@@ -80842,7 +82306,7 @@ Greek: Μέλλοντες οὖν ἄγειν τὸν καθαρισμὸν, ἐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore, since we are about to keep the cleansing, we wrote to you; therefore you will do well keeping the days.
+Draft translation: Therefore, since we are about to keep the cleansing, we wrote to you; therefore you will do well by keeping the days.
 
 Decision rows:
 - None recorded.
@@ -81002,7 +82466,7 @@ Greek: Συνορῶντες γὰρ τὸ χύμα τῶν ἀριθμῶν, κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For seeing the flood of the numbers, and the existing difficulty for those wishing to enter into the narratives of the history because of the abundance of material,
+Draft translation: For seeing the mass of the numbers, and the existing difficulty for those wishing to enter into the narratives of the history because of the abundance of material,
 
 Decision rows:
 - None recorded.
@@ -81122,7 +82586,7 @@ Greek: Τὸ μὲν ἐμβατεύειν, καὶ περί πάντων ποι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For entering in and making an account concerning everything, and being busy about the details, belongs to the originator of the history;
+Draft translation: For entering in and making an account concerning everything, and being busy about the details, belongs to the first author of the history;
 
 Decision rows:
 - None recorded.
@@ -81284,7 +82748,7 @@ Greek: Καὶ προσήγγειλε περὶ τοῦ χρημάτων ἀμυ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he reported that the treasury in Jerusalem was full of untold monies, so that the multitude of its assets was innumerable, and that they did not belong to the account of the sacrifices, but that it was possible for all these things to fall under the authority of the king.
+Draft translation: And he reported that the treasury in Jerusalem was full of untold money, so that the multitude of its assets was innumerable, and that they did not belong to the account of the sacrifices, but that it was possible for all these things to fall under the authority of the king.
 
 Decision rows:
 - None recorded.
@@ -81304,7 +82768,7 @@ Greek: Συμμίξας δὲ ὁ Ἀπολλώνιος τῷ βασιλεῖ, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Apollonius, meeting with the king, disclosed concerning the monies made known to him; and he, having selected Heliodorus, the one over the affairs, sent him, giving commands to carry out the removal of the aforementioned monies.
+Draft translation: And Apollonius, meeting with the king, disclosed concerning the money made known to him; and he, having selected Heliodorus, the one over the affairs, sent him, giving commands to carry out the removal of the aforementioned money.
 
 Decision rows:
 - None recorded.
@@ -81344,7 +82808,7 @@ Greek: Παραγενηθεὶς δὲ εἰς Ἱεροσόλυμα, καὶ φ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And having come to Jerusalem, and having been received kindly by the high priest of the city, he set forth concerning the disclosure that had happened, and made clear for what reason he was present; and he inquired whether these things truly happened to be so.
+Draft translation: And having come to Jerusalem, and having been received kindly by the high priest of the city, he set forth concerning the disclosure that had happened, and made clear for what reason he was present; and he inquired whether these things were truly so.
 
 Decision rows:
 - None recorded.
@@ -81384,7 +82848,7 @@ Greek: τινὰ δὲ καὶ Ὑρκανοῦ τοῦ Τωβίου σφόδρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and that some also belonged to Hyrcanus, son of Tobias, a man set in great eminence, not as the impious Simon was slandering, and that the whole amount was four hundred talents of silver and two hundred of gold,
+Draft translation: and that some also belonged to Hyrcanus, son of Tobias, a man in great eminence, not as the impious Simon was slandering, and that the whole amount was four hundred talents of silver and two hundred of gold,
 
 Decision rows:
 - None recorded.
@@ -81484,7 +82948,7 @@ Greek: Ἦν δὲ ὁρῶντα τὴν τοῦ ἀρχιερέως ἰδέα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it was, for one looking at the appearance of the high priest, to have the mind wounded; for his face and the change of color made visible the agony according to soul.
+Draft translation: And for one looking at the appearance of the high priest, the mind was wounded; for his face and the change of color made visible the agony in his soul.
 
 Decision rows:
 - None recorded.
@@ -81524,7 +82988,7 @@ Greek: Οἱ δὲ ἐκ τῶν οἰκιῶν ἀγεληδὸν ἐξεπήδ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And those from the houses were leaping out in crowds to a public supplication, because the place was about to come into contempt.
+Draft translation: And those from the houses were leaping out in crowds to a public supplication, because the place was about to fall into contempt.
 
 Decision rows:
 - None recorded.
@@ -81584,7 +83048,7 @@ Greek: Ἐλεεῖν δʼ ἦν τὴν τοῦ πλήθους παμμιγῆ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it was pitiable to see the all-mixed falling-forward of the multitude, and the anxious expectation of the high priest as he greatly agonized.
+Draft translation: And it was pitiable to see the prostration of the mixed multitude, and the anxious expectation of the high priest as he greatly agonized.
 
 Decision rows:
 - None recorded.
@@ -81604,7 +83068,7 @@ Greek: Οἱ μὲν οὖν ἐπεκαλοῦντο τὸν παντοκράτ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore they called upon the Almighty God to preserve the things entrusted to those who had entrusted them, safe with all security.
+Draft translation: Therefore they called upon the Almighty God to preserve the things entrusted to those who had entrusted them, safe in all security.
 
 Decision rows:
 - None recorded.
@@ -81644,7 +83108,7 @@ Greek: Αὐτόθι δὲ αὐτοῦ σὺν τοῖς δορυφόροις �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And there on the spot, when he himself with the bodyguards was already present at the treasury, the Lord of the fathers and ruler of all authority made a great manifestation, so that all who dared to come together, being struck with amazement at the power of God, turned into faintness and fearfulness.
+Draft translation: And there on the spot, when he himself with the bodyguards was already present at the treasury, the Lord of the fathers and ruler of all authority made a great manifestation, so that all who dared to come together, being struck with amazement at the power of God, turned to faintness and fear.
 
 Decision rows:
 - None recorded.
@@ -81704,7 +83168,7 @@ Greek: Ἄφνω δὲ πεσόντα πρὸς τὴν γῆν, καὶ πολ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And suddenly, having fallen toward the ground and having been poured around with much darkness, they seized him and put him into a litter,
+Draft translation: And suddenly, having fallen toward the ground and having been enveloped with much darkness, they seized him and put him into a litter,
 
 Decision rows:
 - None recorded.
@@ -81764,7 +83228,7 @@ Greek: Οἱ δὲ τὸν κύριον εὐλόγουν τὸν παραδοξ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But they blessed the Lord, who made his own place marvelous; and the temple, a little before full of fear and disturbance, when the Almighty Lord appeared, had been filled with joy and gladness.
+Draft translation: But they blessed the Lord, who wondrously glorified his own place; and the temple, a little before full of fear and disturbance, when the Almighty Lord appeared, had been filled with joy and gladness.
 
 Decision rows:
 - None recorded.
@@ -81824,7 +83288,7 @@ Greek: Ποιουμένου δὲ τοῦ ἀρχιερέως τὸν ἱλασ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And while the high priest was making the propitiation, the same young men again appeared to Heliodorus, clothed in the same garments, and standing said, "Have great thanks toward Onias the high priest, for because of him the Lord has graciously given life to you.
+Draft translation: And while the high priest was making the propitiation, the same young men again appeared to Heliodorus, clothed in the same garments, and standing said, "Have much gratitude toward Onias the high priest, for because of him the Lord has graciously given life to you.
 
 Decision rows:
 - None recorded.
@@ -81864,7 +83328,7 @@ Greek: Ὁ δὲ Ἡλιόδωρος θυσίαν ἀνενέγκας τῷ Κυ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Heliodorus, having offered sacrifice to the Lord, and having vowed very great vows to the one who preserved life, and having greeted Onias, broke camp to the king.
+Draft translation: And Heliodorus, having offered sacrifice to the Lord, and having vowed very great vows to the one who preserved life, and having greeted Onias, broke camp and went to the king.
 
 Decision rows:
 - None recorded.
@@ -81924,7 +83388,7 @@ Greek: εἴ τινα ἔχεις πολέμιον ἢ πραγμάτων ἐπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: "If you have any enemy or plotter against affairs, send him there, and you will receive him back whipped, if indeed he should be saved through, because there truly is some power of God about the place.
+Draft translation: "If you have any enemy or plotter against your affairs, send him there, and you will receive him back whipped, if indeed he should be preserved, because there truly is some power of God about the place.
 
 Decision rows:
 - None recorded.
@@ -81986,7 +83450,7 @@ Greek: Ὁ δὲ προειρημένος Σίμων ὁ τῶν χρημάτω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the aforementioned Simon, who had become informer against the monies and the fatherland, was speaking evil of Onias, as if he himself had shaken up Heliodorus and had become the maker of the evils.
+Draft translation: But the aforementioned Simon, who had become informer against the money and the fatherland, was speaking evil of Onias, as if he himself had stirred up Heliodorus and had become the maker of the evils.
 
 Decision rows:
 - None recorded.
@@ -82006,7 +83470,7 @@ Greek: Καὶ τὸν εὐεργέτην τῆς πόλεως, καὶ τὸν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the benefactor of the city, and the guardian of his fellow-nationals, and the zealot of the laws, he dared to call a plotter against the affairs.
+Draft translation: And the benefactor of the city, and the guardian of his fellow-nationals, and the zealot of the laws, he dared to call a plotter against the public affairs.
 
 Decision rows:
 - None recorded.
@@ -82086,7 +83550,7 @@ Greek: Ἑώρα γὰρ ἄνευ βασιλικῆς προνοίας ἀδύ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For he saw that without royal forethought it was impossible for the affairs still to obtain peace, and that Simon would not receive a pause from his folly.
+Draft translation: For he saw that without royal care it was impossible for the affairs still to obtain peace, and that Simon would not receive a pause from his folly.
 
 Decision rows:
 - None recorded.
@@ -82346,7 +83810,7 @@ Greek: ἀπέστειλεν Ἰάσων ὁ μιαρὸς θεωροὺς ἀπ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: the polluted Jason sent festival-observers from Jerusalem, being Antiochenes, carrying three hundred drachmas of silver to the sacrifice of Heracles; and those carrying them considered it worthy not to use them for sacrifice because it was not fitting, but to lay them out for another expense.
+Draft translation: the polluted Jason sent festival-observers from Jerusalem, being Antiochenes, carrying three hundred drachmas of silver to the sacrifice of Heracles; and those carrying them requested that they not be used for sacrifice because it was not fitting, but be laid out for another expense.
 
 Decision rows:
 - None recorded.
@@ -82406,7 +83870,7 @@ Greek: Μεγαλοπρεπῶς δὲ ὑπὸ τοῦ Ἰάσωνος καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And having been received magnificently by Jason and the city, he entered with torch-bearing and shouts; then in this way he encamped into Phoenicia.
+Draft translation: And having been received magnificently by Jason and the city, he entered with torch-bearing and shouts; then in this way he marched off to Phoenicia.
 
 Decision rows:
 - None recorded.
@@ -82426,7 +83890,7 @@ Greek: Μετὰ δὲ τριετῆ χρόνον ἀπέστειλεν Ἰάσ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after a three-year time Jason sent Menelaus, brother of the aforementioned Simon, carrying the monies to the king and completing memoranda concerning necessary affairs.
+Draft translation: And after a three-year time Jason sent Menelaus, brother of the aforementioned Simon, carrying the money to the king and completing memoranda concerning necessary affairs.
 
 Decision rows:
 - None recorded.
@@ -82506,7 +83970,7 @@ Greek: Ὁ δὲ Μενέλαος τῆς μὲν ἀρχῆς ἐκράτει, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But Menelaus held the office, but of the monies promised to the king he arranged nothing in good order,
+Draft translation: But Menelaus held the office, but of the money promised to the king he arranged nothing in good order,
 
 Decision rows:
 - None recorded.
@@ -82606,7 +84070,7 @@ Greek: Νομίσας δὲ ὁ Μενέλαος εἰληφέναι καιρὸ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Menelaus, thinking he had taken a favorable time, having embezzled certain gold articles from the temple, gave them to Andronicus, and happened to have sold others into Tyre and the surrounding cities.
+Draft translation: And Menelaus, thinking he had taken a favorable time, having embezzled certain gold articles from the temple, gave them to Andronicus, and happened to have sold others at Tyre and the surrounding cities.
 
 Decision rows:
 - None recorded.
@@ -82626,7 +84090,7 @@ Greek: Ἃ καὶ σαφῶς ἐπεγνωκὼς ὁ Ὀνίας, παρήλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Onias, clearly recognizing these things, was refuting him, having withdrawn into an asylum place at Daphne, which lies near Antioch.
+Draft translation: And Onias, clearly recognizing these things, was refuting him, having withdrawn into a place of asylum at Daphne, which lies near Antioch.
 
 Decision rows:
 - None recorded.
@@ -82706,7 +84170,7 @@ Greek: Ψυχικῶς οὖν ὁ Ἀντίοχος ἐπιλυπηθεὶς, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore Antiochus, being grieved according to soul, and turning to mercy, and weeping because of the self-control and much good order of the one who had changed life,
+Draft translation: Therefore Antiochus, being grieved from the soul, and turning to mercy, and weeping because of the self-control and much good order of the one who had changed life,
 
 Decision rows:
 - None recorded.
@@ -82766,7 +84230,7 @@ Greek: Ἐπεγειρομένων δὲ τῶν ὄχλων, καὶ ταῖς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the crowds were rising up and being filled through with angers, Lysimachus, having armed about three thousand, began unjust violence, with a certain Tyrannus leading, one advanced in age and no less in folly.
+Draft translation: And when the crowds were rising up and being filled with anger, Lysimachus, having armed about three thousand, began unjust violence, with a certain Tyrannus leading, one advanced in age and no less in folly.
 
 Decision rows:
 - None recorded.
@@ -82806,7 +84270,7 @@ Greek: Διʼ ἣν αἰτίαν πολλοὺς μὲν αὐτῶν τραυ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For this reason they made many of them wounded, and some they even threw down, and all they drove together into flight, and the temple-robber himself they put to death beside the treasury.
+Draft translation: For this reason they wounded many of them, and some they even threw down, and all they drove together into flight, and the temple-robber himself they put to death beside the treasury.
 
 Decision rows:
 - None recorded.
@@ -82866,7 +84330,7 @@ Greek: Ἤδη δὲ λελειμμένος ὁ Μενέλαος ἐπηγγεί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But Menelaus, already being left behind, promised sufficient monies to Ptolemy, son of Dorymenes, to persuade the king.
+Draft translation: But Menelaus, already being left behind, promised sufficient money to Ptolemy, son of Dorymenes, to persuade the king.
 
 Decision rows:
 - None recorded.
@@ -83028,7 +84492,7 @@ Greek: καὶ ἴλας ἵππων διατεταγμένας, καὶ προ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and ordered squadrons of horses, and attacks being made, and charges of both sides, and movements of shields, and multitudes of pikes, and drawings of swords, and shots of missiles, and flashes of golden ornaments, and all sorts of armors.
+Draft translation: and ordered squadrons of horses, and attacks being made, and charges of both sides, and movements of shields, and multitudes of pikes, and drawings of swords, and shots of missiles, and flashes of golden ornaments, and all sorts of armor.
 
 Decision rows:
 - None recorded.
@@ -83128,7 +84592,7 @@ Greek: Πέρας οὖν κακῆς ἀναστροφῆς ἔτυχεν ἐγ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore he obtained the end of an evil way of life: being shut in by Aretas, the tyrant of the Arabs, fleeing city from city, pursued by all, hated as an apostate from the laws, and abhorred as executioner of fatherland and citizens, he was tossed into Egypt.
+Draft translation: Therefore he obtained the end of an evil way of life: being shut in by Aretas, the tyrant of the Arabs, fleeing from city to city, pursued by all, hated as an apostate from the laws, and abhorred as executioner of fatherland and citizens, he was driven into Egypt.
 
 Decision rows:
 - None recorded.
@@ -83148,7 +84612,7 @@ Greek: Καὶ ὁ συχνοὺς τῆς πατρίδος ἀποξενώσα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the one who had alienated many from the fatherland perished upon foreign soil, having been brought up to the Lacedaemonians as though he would obtain shelter because of kinship.
+Draft translation: And the one who had alienated many from the fatherland perished upon foreign soil, having gone up to the Lacedaemonians as though he would obtain shelter because of kinship.
 
 Decision rows:
 - None recorded.
@@ -83188,7 +84652,7 @@ Greek: Προσπεσόντων δὲ τῷ βασιλεῖ περὶ τῶν γ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the things that had happened fell before the king, he supposed Judea to be rebelling; therefore, breaking camp from Egypt, made beast-like in soul, he took the city by force of spear.
+Draft translation: And when reports of the things that had happened fell before the king, he supposed Judea to be rebelling; therefore, breaking camp from Egypt, made beast-like in soul, he took the city by force of spear.
 
 Decision rows:
 - None recorded.
@@ -83228,7 +84692,7 @@ Greek: Ἐγίνοντο δὲ νέων καὶ πρεσβυτέρων ἀναι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And there were removals of young and old, destruction of men and women and children, and slaughters of virgins and infants.
+Draft translation: And there were killings of young and old, destruction of men and women and children, and slaughters of virgins and infants.
 
 Decision rows:
 - None recorded.
@@ -83248,7 +84712,7 @@ Greek: Ὀκτὼ δὲ μυριάδες ἐν ταῖς πάσαις ἡμέρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And eighty thousand were destroyed in all the three days, forty thousand in hand-to-hand ravages, and no fewer than those slain were sold.
+Draft translation: And eighty thousand were destroyed in all the three days, forty thousand in hand-to-hand attacks, and no fewer than those slain were sold.
 
 Decision rows:
 - None recorded.
@@ -83288,7 +84752,7 @@ Greek: Καὶ ταῖς μιαραῖς χερσὶ τὰ ἱερὰ σκεύη
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And taking the holy vessels with defiled hands, and dragging together with profane hands the things dedicated by other kings for increase and glory and honor of the place, he was giving them away.
+Draft translation: And taking the holy vessels with defiled hands, and dragging together with profane hands the things dedicated by other kings for increase and glory and honor of the place, he handed them over.
 
 Decision rows:
 - None recorded.
@@ -83428,7 +84892,7 @@ Greek: ἐν δὲ Γαριζὶν Ἀνδρόνικον, πρὸς δὲ τού
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and in Garizim, Andronicus; and besides these, Menelaus, who worse than the others was exalting himself over the citizens, having a hateful disposition toward the Jewish citizens.
+Draft translation: and in Garizim, Andronicus; and besides these, Menelaus, who exalted himself over the citizens worse than the others, having a hateful disposition toward the Jewish citizens.
 
 Decision rows:
 - None recorded.
@@ -83448,7 +84912,7 @@ Greek: Ἔπεμψε δὲ τὸν μυσάρχην Ἀπολλώνιον μετ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he sent the defiling commander Apollonius with an army of twenty-two thousand, commanding him to slaughter all those in age and to sell the women and younger ones.
+Draft translation: And he sent the defiling commander Apollonius with an army of twenty-two thousand, commanding him to slaughter all those of age and to sell the women and younger ones.
 
 Decision rows:
 - None recorded.
@@ -83488,7 +84952,7 @@ Greek: Καὶ τοὺς ἐξελθόντας πάντας ἐπὶ τὴν θ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And all those who had gone out to the spectacle he pierced through together, and running into the city with weapons, he laid down considerable multitudes.
+Draft translation: And all those who had gone out to the spectacle he pierced through together, and running into the city with weapons, he laid low considerable multitudes.
 
 Decision rows:
 - None recorded.
@@ -83508,7 +84972,7 @@ Greek: Ἰούδας δὲ ὁ Μακκαβαῖος δέκατός που γε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But Judas Maccabeus, becoming about tenth, and withdrawing into the wilderness, lived through in the mountains in the manner of beasts with those with him, and they continued feeding on grassy food, so as not to partake of the pollution.
+Draft translation: But Judas Maccabeus, becoming about the tenth man, and withdrawing into the wilderness, kept living in the mountains in the manner of beasts with those with him, and they continued feeding on grassy food, so as not to partake of the pollution.
 
 Decision rows:
 - None recorded.
@@ -83530,7 +84994,7 @@ Greek: Μετʼ οὐ πολὺν δὲ χρόνον ἐξαπέστειλεν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But after not much time the king sent out an Athenian elder, to compel the Jews to cross over from the ancestral laws and not conduct citizenship by the laws of God,
+Draft translation: But after not much time the king sent out an Athenian elder, to compel the Jews to cross over from the ancestral laws and not live by the laws of God,
 
 Decision rows:
 - None recorded.
@@ -83610,7 +85074,7 @@ Greek: Τὸ δὲ θυσιαστήριον τοῖς ἀποδιεσταλμέ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the altar had been filled with law-forbidden unlawful things.
+Draft translation: And the altar had been filled with forbidden things separated from the laws.
 
 Decision rows:
 - None recorded.
@@ -83690,7 +85154,7 @@ Greek: τοὺς δὲ μὴ προαιρουμένους μεταβαίνειν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and to slaughter those who did not choose to cross over to the Greek things; therefore it was possible to see the present misery.
+Draft translation: and to slaughter those who did not choose to cross over to the Greek customs; therefore it was possible to see the present misery.
 
 Decision rows:
 - None recorded.
@@ -83750,7 +85214,7 @@ Greek: Παρακαλῶ οὖν τοὺς ἐντυγχάνοντας τῇδε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore I exhort those encountering this book not to be compressed because of the calamities, but to reckon the punishments not for destruction, but for discipline of our race.
+Draft translation: Therefore I exhort those encountering this book not to shrink back because of the calamities, but to reckon the punishments not for destruction, but for discipline of our race.
 
 Decision rows:
 - None recorded.
@@ -83810,7 +85274,7 @@ Greek: εἶναι, ἵνα μὴ πρὸς τέλος ἀφικομένων ἡ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: lest, when our sins had come to an end, he later avenge us.
+Draft translation: lest, when our sins had come to an end, he later take vengeance on us.
 
 Decision rows:
 - None recorded.
@@ -83850,7 +85314,7 @@ Greek: Πλὴν ἕως ὑπομνήσεως ταῦθʼ ἡμῖν εἰρή�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Nevertheless let these things have been said by us for reminder; but through a few words we must come to the narrative.
+Draft translation: Nevertheless let these things have been said by us for reminder; but in a few words we must come to the narrative.
 
 Decision rows:
 - None recorded.
@@ -84030,7 +85494,7 @@ Greek: Εἰ γὰρ καὶ ἐπὶ τοῦ παρόντος ἐξελοῦμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For even if for the present I shall avoid the punishment from men, yet the hands of the Almighty, neither living nor having died, I shall escape.
+Draft translation: For even if for the present I shall avoid the punishment from men, yet I shall not escape the hands of the Almighty, neither living nor having died.
 
 Decision rows:
 - None recorded.
@@ -84110,7 +85574,7 @@ Greek: Μέλλων δὲ ταῖς πληγαῖς τελευτᾷν, ἀνασ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and being about to die by the blows, he groaned and said, "To the Lord who has the holy knowledge it is plain that, while able to be released from death, I endure hard pains according to body by being whipped, but according to soul I gladly suffer these things because of his fear."
+Draft translation: and being about to die by the blows, he groaned and said, "To the Lord who has the holy knowledge it is plain that, while able to be released from death, I endure hard pains in body by being whipped, but in soul I gladly suffer these things because of fear of him."
 
 Decision rows:
 - None recorded.
@@ -84212,7 +85676,7 @@ Greek: Τῶν δὲ ἐκπυρωθέντων, παραχρῆμα τὸν γε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when they were heated, immediately he commanded the one who had become their spokesman to be tongue-cut, and after they had scalped him, to mutilate him, while the remaining brothers and the mother were watching.
+Draft translation: And when they were heated, immediately he commanded the one who had become their spokesman to have his tongue cut out, and after they had scalped him, to mutilate him, while the remaining brothers and the mother were watching.
 
 Decision rows:
 - None recorded.
@@ -84232,7 +85696,7 @@ Greek: Ἄχρηστον δὲ αὐτὸν τοῖς ὅλοις γενόμεν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when he had become useless in all parts, he commanded him, still breathing, to be brought to the fire and fried in a pan; and when the vapor from the pan was spreading for a considerable time, they, with the mother, exhorted one another to die nobly, saying thus:
+Draft translation: And when he had become useless in all his parts, he commanded him, still breathing, to be brought to the fire and fried in a pan; and when the vapor from the pan was spreading for a considerable time, they, with the mother, exhorted one another to die nobly, saying thus:
 
 Decision rows:
 - None recorded.
@@ -84252,7 +85716,7 @@ Greek: Ὁ Κύριος ὁ Θεὸς ἐφορᾷ, καὶ ταῖς ἀληθ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: "The Lord God watches, and in truth is comforted over us, just as Moses made clear through the song bearing witness face to face, saying, And over his servants he will be comforted."
+Draft translation: "The Lord God watches, and in truth is comforted concerning us, just as Moses made clear through the song bearing witness face to face, saying, And concerning his servants he will be comforted."
 
 Decision rows:
 - None recorded.
@@ -84272,7 +85736,7 @@ Greek: Μεταλλάξαντος δὲ τοῦ πρώτου τὸν τρόπο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the first had changed life in this manner, they brought the second for mockery; and after pulling around the skin of his head with the hair, they were asking, "Will you eat before being punished in body limb by limb?"
+Draft translation: And when the first had changed life in this manner, they brought the second for mockery; and after tearing off the skin of his head with the hair, they were asking, "Will you eat before being punished in body limb by limb?"
 
 Decision rows:
 - None recorded.
@@ -84312,7 +85776,7 @@ Greek: οὗτος τὴν ἑξῆς ἔλαβε βάσανον, ὡς ὁ πρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore this one also received the next torture, as the first. And being at his last breath, he said, "You accursed one, you release us from the present living, but the King of the world will raise us, who die on behalf of his laws, into an eternal reviving of life."
+Draft translation: Therefore this one also received the next torture, as the first. And being at his last breath, he said, "You accursed one, you release us from the present life, but the King of the world will raise us, who die on behalf of his laws, into an eternal revival of life."
 
 Decision rows:
 - None recorded.
@@ -84352,7 +85816,7 @@ Greek: καὶ γενναίως εἶπεν, ἐξ οὐρανοῦ ταῦτα 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and nobly said, "From heaven I possess these, and because of his laws I overlook these, and from him I hope to recover these again."
+Draft translation: and nobly said, "From heaven I possess these, and because of his laws I disregard these, and from him I hope to recover these again."
 
 Decision rows:
 - None recorded.
@@ -84412,7 +85876,7 @@ Greek: Καὶ γεννόμενος πρὸς τὸ τελευτᾷν, οὕτω
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And as he came to die, he said thus, "It is preferable, when changing life under men, to look for the hopes from God, to be raised again by him; but for you there will not be resurrection to life."
+Draft translation: And as he came to die, he said thus, "It is preferable, when changing life under men, to look for the hopes from God, to be raised again by him; but for you there will be no resurrection to life."
 
 Decision rows:
 - None recorded.
@@ -84452,7 +85916,7 @@ Greek: Ὁ δὲ πρὸς αὐτὸν ἰδὼν, εἶπεν, ἐξουσία
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But looking toward him, he said, "Having authority among men, though being corruptible, you do what you wish; but do not think our race has been abandoned by God.
+Draft translation: But looking toward him, he said, "Having authority among men, while being corruptible, you do what you wish; but do not think our race has been abandoned by God.
 
 Decision rows:
 - None recorded.
@@ -84532,7 +85996,7 @@ Greek: Ὑπεραγόντως δὲ ἡ μήτηρ θαυμαστὴ καὶ μ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But beyond measure the mother was marvelous and worthy of good memory, who, seeing seven sons perishing under one day of time, bore it with good courage because of the hopes upon the Lord.
+Draft translation: But beyond measure the mother was marvelous and worthy of good memory, who, seeing seven sons perishing within the time of one day, bore it with good courage because of the hopes set upon the Lord.
 
 Decision rows:
 - None recorded.
@@ -84552,7 +86016,7 @@ Greek: Ἕκαστον δὲ αὐτῶν παρεκάλει τῇ πατρίῳ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And she exhorted each of them in the ancestral voice, filled with a noble mindset, and stirring up the female reasoning with a male passion, saying to them,
+Draft translation: And she exhorted each of them in the ancestral voice, filled with a noble mindset, and stirring up womanly reasoning with a manly spirit, saying to them,
 
 Decision rows:
 - None recorded.
@@ -84592,7 +86056,7 @@ Greek: Τοιγαροῦν ὁ τοῦ κόσμου κτίστης ὁ πλάσ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore the Creator of the world, who formed the generation of man and discovered the genesis of all things, will also give back to you the spirit and the life again with mercy, since now you overlook yourselves because of his laws."
+Draft translation: Therefore the Creator of the world, who formed the generation of man and devised the origin of all things, will also give back to you the spirit and the life again with mercy, since now you disregard yourselves because of his laws."
 
 Decision rows:
 - None recorded.
@@ -84612,7 +86076,7 @@ Greek: Ὁ δὲ Ἀντίοχος οἰόμενος καταφρονεῖσθα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But Antiochus, supposing himself to be despised and suspecting the reproachful voice, while the youngest was still remaining, not only made the exhortation through words, but also pledged with oaths that he would at once make him rich and blessed if he changed over from the ancestral laws, and would have him as friend and entrust duties to him.
+Draft translation: But Antiochus, supposing himself to be despised and suspecting the reproachful voice, while the youngest was still remaining, not only made his appeal through words, but also pledged with oaths that he would at once make him rich and blessed if he changed over from the ancestral laws, and would have him as friend and entrust duties to him.
 
 Decision rows:
 - None recorded.
@@ -84632,7 +86096,7 @@ Greek: Τοῦ δὲ νεανίου μηδαμῶς προσέχοντος, πρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But when the young man paid no attention at all, the king, calling the mother to him, advised her to become counselor of salvation for the lad.
+Draft translation: But when the young man paid no attention at all, the king, calling the mother to him, advised her to become counselor for the lad's salvation.
 
 Decision rows:
 - None recorded.
@@ -84652,7 +86116,7 @@ Greek: Πολλὰ δὲ αὐτοῦ παραινέσαντος, ἐπεδέξ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after he exhorted her with many words, she accepted to persuade the son.
+Draft translation: And after he exhorted her with many words, she agreed to persuade her son.
 
 Decision rows:
 - None recorded.
@@ -84672,7 +86136,7 @@ Greek: Προσκύψασα δὲ αὐτῷ, χλευάσασα τὸν ὠμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But bending toward him, mocking the cruel tyrant, she spoke thus in the ancestral voice: "Son, have mercy on me, who carried you around in the womb nine months, and nursed you three years, and nourished you and led you into this age, and bore you as a nurse.
+Draft translation: But bending toward him, mocking the cruel tyrant, she spoke thus in the ancestral voice: "Son, have mercy on me, who carried you in the womb nine months, and nursed you three years, and nourished you and brought you to this age, and fed you.
 
 Decision rows:
 - None recorded.
@@ -84692,7 +86156,7 @@ Greek: Ἀξιῶ σε, τέκνον, ἀναβλέψαντα εἰς τὸν ο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: I ask you, child, looking up to heaven and earth, and seeing all things in them, to know that God made them from things not existing, and the race of men has come to be in this way;
+Draft translation: I ask you, child, looking up to heaven and earth, and seeing all things in them, to know that God made them from things that did not exist, and the race of men has come to be in this way;
 
 Decision rows:
 - None recorded.
@@ -84732,7 +86196,7 @@ Greek: Ἔτι δὲ ταύτης καταλεγούσης ὁ νεανίας ε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And while she was still speaking, the young man said, "For whom are you waiting? I do not obey the command of the king, but I obey the command of the law given to our fathers through Moses.
+Draft translation: And while she was still speaking, the young man said, "What are you waiting for? I do not obey the command of the king, but I obey the command of the law given to our fathers through Moses.
 
 Decision rows:
 - None recorded.
@@ -84832,7 +86296,7 @@ Greek: Οὔπω γὰρ τὴν τοῦ παντοκράτορος ἐπόπτ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For you have not yet escaped the judgment of Almighty watching God.
+Draft translation: For you have not yet escaped the judgment of the Almighty God who watches over all.
 
 Decision rows:
 - None recorded.
@@ -84852,7 +86316,7 @@ Greek: Οἱ μὲν γὰρ νῦν ἡμέτεροι ἀδελφοὶ βραχ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For our brothers, having now endured a brief pain, have come under God's covenant of ever-flowing life; but you, by God's judgment, will carry away the just penalties of arrogance.
+Draft translation: For our brothers, having now endured a brief pain, have come under God's covenant of everlasting life; but you, by God's judgment, will carry away the just penalties of arrogance.
 
 Decision rows:
 - None recorded.
@@ -84872,7 +86336,7 @@ Greek: Ἐγὼ δὲ καθάπερ οἱ ἀδελφοί μου, καὶ σῶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But I, like my brothers, hand over both body and soul concerning the ancestral laws, calling upon God quickly to become gracious to the nation, and for you, with examinations and whips, to confess fully that he alone is God,
+Draft translation: But I, like my brothers, hand over both body and soul for the ancestral laws, calling upon God quickly to become gracious to the nation, and for you, with questionings and whips, to confess fully that he alone is God,
 
 Decision rows:
 - None recorded.
@@ -84892,7 +86356,7 @@ Greek: ἐν ἐμοὶ δὲ καὶ τοῖς ἀδελφοῖς μου στ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and for the wrath of the Almighty, justly brought upon our whole race, to stand still in me and my brothers."
+Draft translation: and for the wrath of the Almighty, justly brought upon our whole race, to stop with me and my brothers."
 
 Decision rows:
 - None recorded.
@@ -84932,7 +86396,7 @@ Greek: Καὶ οὗτος οὖν καθαρὸς τὸν βίον μετήλλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And therefore this one changed life clean, trusting wholly upon the Lord.
+Draft translation: And therefore this one changed life cleanly, trusting wholly upon the Lord.
 
 Decision rows:
 - None recorded.
@@ -84952,7 +86416,7 @@ Greek: Ἐσχάτη δὲ τῶν υἱῶν ἡ μήτηρ ἐτελεύτησ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And last of the sons, the mother died.
+Draft translation: And last, after the sons, the mother died.
 
 Decision rows:
 - None recorded.
@@ -84972,7 +86436,7 @@ Greek: Τὰ μὲν οὖν περὶ σπλαγχνισμοὺς, καὶ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore let the things concerning entrail-tastings and the surpassing abuses have been declared to this extent.
+Draft translation: Therefore let the things concerning the eating of entrails and the surpassing tortures have been declared to this extent.
 
 Decision rows:
 - None recorded.
@@ -85074,7 +86538,7 @@ Greek: Γενόμενος δὲ ἐν συστήματι ὁ Μακκαβαῖο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when Maccabeus had come into an organized body, he was already becoming impossible to withstand by the nations, the wrath of the Lord having turned to mercy.
+Draft translation: And when Maccabeus had formed an organized body, he was already becoming impossible for the nations to withstand, the wrath of the Lord having turned to mercy.
 
 Decision rows:
 - None recorded.
@@ -85094,7 +86558,7 @@ Greek: Πόλεις δὲ καὶ κώμας ἀπροσδοκήτως ἐρχό
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And coming unexpectedly upon cities and villages, he burned them, and taking the critical places, he kept turning to flight and overcoming not a few of the enemies.
+Draft translation: And coming unexpectedly upon cities and villages, he burned them, and seizing the strategic places, he kept putting to flight and overcoming not a few of the enemies.
 
 Decision rows:
 - None recorded.
@@ -85114,7 +86578,7 @@ Greek: Μάλιστα τὰς νύκτας πρὸς τὰς τοιαύτας �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Especially he took the nights as coworkers for such plots; and a certain report of his manliness poured out everywhere.
+Draft translation: Especially he took the nights as helpers for such plans; and a certain report of his courage spread everywhere.
 
 Decision rows:
 - None recorded.
@@ -85134,7 +86598,7 @@ Greek: Συνορῶν δὲ ὁ Φίλιππος κατὰ μικρὸν εἰ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Philip, perceiving the man coming little by little into progress and advancing more frequently in successes, wrote to Ptolemy, governor of Coele-Syria and Phoenicia, to help the king's affairs.
+Draft translation: And Philip, perceiving the man advancing little by little and moving forward more often in success, wrote to Ptolemy, governor of Coele-Syria and Phoenicia, to help the king's affairs.
 
 Decision rows:
 - None recorded.
@@ -85154,7 +86618,7 @@ Greek: Ὁ δὲ ταχέως προχειρισάμενος, Νικάνορα �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he, quickly selecting Nicanor, son of Patroclus, of the first friends, sent him, having placed under him no fewer than twenty thousand nations of every race, to root out the whole race of the Jews; and he joined with him also Gorgias, a man, a general, and having experience in military needs.
+Draft translation: And he, quickly selecting Nicanor, son of Patroclus, one of the first friends, sent him, having placed under him no fewer than twenty thousand from nations of every race, to root out the whole race of the Jews; and he joined with him also Gorgias, a general with experience in military affairs.
 
 Decision rows:
 - None recorded.
@@ -85234,7 +86698,7 @@ Greek: οἱ δει λανδροῦντες καὶ ἀπιστοῦντες τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: those acting cowardly and distrusting the justice of God were running away and removing themselves from the place.
+Draft translation: those acting cowardly and distrusting the justice of God were running away and exiling themselves.
 
 Decision rows:
 - None recorded.
@@ -85254,7 +86718,7 @@ Greek: Οἱ δὲ τὰ περιλελειμμένα πάντα ἐπώλουν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But others sold all the things left over, and at the same time were asking the Lord to rescue those sold by the impious Nicanor before meeting him.
+Draft translation: But others sold all the remaining things, and at the same time were asking the Lord to rescue those sold by the impious Nicanor before meeting him.
 
 Decision rows:
 - None recorded.
@@ -85294,7 +86758,7 @@ Greek: Συναγαγὼν δὲ ὁ Μακκαβαῖος τοὺς περὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Maccabeus, gathering those around him, six thousand in number, exhorted them not to be struck with amazement by the enemies, nor to fear the great multitude of nations unjustly coming against them, but to contend nobly,
+Draft translation: And Maccabeus, gathering those around him, six thousand in number, exhorted them not to be terrified by the enemies, nor to fear the great multitude of nations unjustly coming against them, but to contend nobly,
 
 Decision rows:
 - None recorded.
@@ -85314,7 +86778,7 @@ Greek: πρὸ ὀφθαλμῶν λαβόντας τὴν ἀνόμως εἰς
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: having taken before their eyes the insult unlawfully completed by them against the holy place, and the abuse of the mocked city, and further the dissolution of the ancestral civic order.
+Draft translation: setting before their eyes the outrage unlawfully carried out by them against the holy place, and the abuse of the mocked city, and further the dissolution of the ancestral civic order.
 
 Decision rows:
 - None recorded.
@@ -85374,7 +86838,7 @@ Greek: Καὶ τὴν ἐν τῇ Βαβυλωνίᾳ τὴν πρὸς αὐτ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and the battle in Babylonia against the Galatians, how all came to the need, 8,000 with 4,000 Macedonians, when the Macedonians were at a loss, the 8,000 destroyed 120,000 because of the help that came to them from heaven, and received much benefit.
+Draft translation: and the battle in Babylonia against the Galatians, how all who came to the need were 8,000 with 4,000 Macedonians; when the Macedonians were at a loss, the 8,000 destroyed 120,000 because of the help that came to them from heaven, and received much benefit.
 
 Decision rows:
 - None recorded.
@@ -85394,7 +86858,7 @@ Greek: Ἐφʼ οἷς εὐθαρσεῖς αὐτοὺς παραστήσας,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: After making them confident on these things and ready to die on behalf of the laws and the fatherland, he made the army into a certain four-part thing;
+Draft translation: After making them confident on these things and ready to die on behalf of the laws and the fatherland, he made the army into four divisions;
 
 Decision rows:
 - None recorded.
@@ -85414,7 +86878,7 @@ Greek: τάξας καὶ τοὺς ἀδελφοὺς αὐτοῦ προηγο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: appointing also his brothers as leaders of each order, Simon and Joseph and Jonathan, assigning to each 1,500,
+Draft translation: appointing also his brothers as leaders of each division, Simon and Joseph and Jonathan, assigning to each 1,500,
 
 Decision rows:
 - None recorded.
@@ -85454,7 +86918,7 @@ Greek: Γενομένου δὲ αὐτοῖς τοῦ παντοκράτορο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the Almighty became an ally to them, they slaughtered over 9,000 of the enemies, and made the greatest part of Nicanor's army wounded and disabled in limbs, and forced all to flee.
+Draft translation: And when the Almighty became an ally to them, they slaughtered over 9,000 of the enemies, and made most of Nicanor's army wounded and disabled in limbs, and forced all to flee.
 
 Decision rows:
 - None recorded.
@@ -85474,7 +86938,7 @@ Greek: Τὰ δὲ χρήματα τῶν παραγεγονότων ἐπὶ τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they took the monies of those who had come for their purchase; and after pursuing them for a considerable time, they turned back, being shut in by the hour.
+Draft translation: And they took the money of those who had come for their purchase; and after pursuing them for a considerable time, they turned back, being constrained by the hour.
 
 Decision rows:
 - None recorded.
@@ -85574,7 +87038,7 @@ Greek: Καὶ τῶν περὶ Τιμόθεον καὶ Βακχίδην συ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And from those around Timotheus and Bacchides who were fighting with them, they took down more than 20,000 of them, and gained control of very high strongholds; and they divided very many spoils, making themselves equal shares with those who had been abused, and orphans and widows, and further also elders.
+Draft translation: And from those around Timotheus and Bacchides who were fighting with them, they killed more than 20,000 of them, and gained control of very high strongholds; and they divided very many spoils, making those who had been abused, and orphans and widows, and further also elders, equal sharers with themselves.
 
 Decision rows:
 - None recorded.
@@ -85594,7 +87058,7 @@ Greek: Ὁπλολογήσαντες δὲ αὐτοὺς, ἐπιμελῶς π
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after collecting their weapons, they carefully stored all in the critical places, but the remaining spoils they brought into Jerusalem.
+Draft translation: And after collecting their weapons, they carefully stored all in the strategic places, but the remaining spoils they brought into Jerusalem.
 
 Decision rows:
 - None recorded.
@@ -85614,7 +87078,7 @@ Greek: Τὸν δὲ φυλάρχην τῶν περὶ Τιμόθεον ἀνε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they killed the tribal leader of those around Timotheus, a most unholy man and one who had grieved the Jews much.
+Draft translation: And they killed the tribal leader of those around Timotheus, a most unholy man and one who had caused the Jews much grief.
 
 Decision rows:
 - None recorded.
@@ -85634,7 +87098,7 @@ Greek: Ἐπινίκια δὲ ἄγοντες ἐν τῇ πατρίδι, το�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And while leading victory celebrations in the fatherland, those who had burned the holy gates, Callisthenes and some others who had fled into one little house, they set on fire; these received a reward worthy of impiety.
+Draft translation: And while celebrating victories in the fatherland, they set on fire Callisthenes and some others, those who had burned the holy gates and had fled into one little house; these received a reward worthy of impiety.
 
 Decision rows:
 - None recorded.
@@ -85674,7 +87138,7 @@ Greek: ταπεινωθεὶς ὑπὸ τῶν κατʼ αὑτὸν νομιζ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: having been humbled, with the Lord's help, by those deemed least according to him, having put off the glorious clothing, through the inland region, making himself solitary in the manner of a runaway, came to Antioch, having had exceedingly bad success at the destruction of the army.
+Draft translation: having been humbled, with the Lord's help, by those deemed least by his own estimation, having put off the splendid clothing, through the inland region, making himself solitary in the manner of a runaway, came to Antioch, having fared exceedingly badly at the destruction of the army.
 
 Decision rows:
 - None recorded.
@@ -85694,7 +87158,7 @@ Greek: Καὶ ὁ τοῖς Ῥωμαίοις ἀναδεξάμενος φόρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the one who had undertaken to set right the tribute to the Romans from the captivity of those in Jerusalem reported that the Jews have God as defender, and because of this manner the Jews were unwoundable, because they followed the laws set before them by him.
+Draft translation: And the one who had undertaken to set right the tribute to the Romans from the captivity of those in Jerusalem reported that the Jews have God as defender, and that in this way the Jews were not to be wounded, because they followed the laws set before them by him.
 
 Decision rows:
 - None recorded.
@@ -85716,7 +87180,7 @@ Greek: Περὶ δὲ τὸν καιρὸν ἐκεῖνον ἐτύγχανε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And about that time Antiochus happened to have withdrawn disorderly from the regions in Persia.
+Draft translation: And about that time Antiochus happened to have retreated in disorder from the regions in Persia.
 
 Decision rows:
 - None recorded.
@@ -85756,7 +87220,7 @@ Greek: Ὄντι δὲ αὐτῷ κατʼ Ἐκβάτανα, προσέπεσε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when he was at Ecbatana, the things that had happened concerning Nicanor and those around Timotheus fell to him.
+Draft translation: And when he was at Ecbatana, the things that had happened concerning Nicanor and those around Timotheus came to him.
 
 Decision rows:
 - None recorded.
@@ -85776,7 +87240,7 @@ Greek: Ἐπαρθεὶς δὲ τῷ θυμῷ, ᾤετο καὶ τὴν τῶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And being lifted up by anger, he supposed he would press onto the Jews also the evil of those who had made him flee; therefore he ordered the chariot-driver, driving without ceasing, to finish the journey, the judgment from heaven indeed going with him; for thus proudly he said, "I will make Jerusalem a mass grave of Jews when I arrive there."
+Draft translation: And being lifted up by anger, he supposed he would thrust onto the Jews also the evil done by those who had made him flee; therefore he ordered the chariot-driver, driving without ceasing, to finish the journey, the judgment from heaven indeed going with him; for thus proudly he said, "I will make Jerusalem a mass grave of Jews when I arrive there."
 
 Decision rows:
 - None recorded.
@@ -85796,7 +87260,7 @@ Greek: Ὁ δὲ πανεπόπτης Κύριος ὁ Θεὸς τοῦ Ἰσρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the all-watching Lord, the God of Israel, struck him with an incurable and invisible blow; and just as he finished the word, an incurable pain of the bowels took him, and bitter torments of the inner parts,
+Draft translation: But the all-watching Lord, the God of Israel, struck him with an incurable and invisible blow; and just as he finished the saying, an incurable pain of the bowels took him, and bitter torments of the inner parts,
 
 Decision rows:
 - None recorded.
@@ -85836,7 +87300,7 @@ Greek: Ὁ δʼ οὐδαμῶς τῆς ἀγερωχίας ἔληγεν· ἔ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But he in no way ceased from haughtiness; indeed he was even filled with arrogance, breathing fire in his passions against the Jews and commanding the journey to be hastened. But it happened also that he fell from the chariot as it was carried with a roar, and, having fallen into a grievous fall, all the members of the body were twisted.
+Draft translation: But he in no way ceased from haughtiness; indeed he was even filled with arrogance, breathing fire in his anger against the Jews and commanding the journey to be hastened. But it happened also that he fell from the chariot as it was rushing with a roar, and, having fallen in a grievous fall, all the members of the body were twisted.
 
 Decision rows:
 - None recorded.
@@ -85856,7 +87320,7 @@ Greek: Ὁ δʼ ἄρτι δοκῶν τοῖς τῆς θαλάσσης κύμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he who just now seemed to command the waves of the sea, because of arrogance beyond man, and supposed he could set the heights of the mountains on scales, having come down to the ground, was being carried in a litter, showing to all the manifest power of God;
+Draft translation: And he who just now seemed to command the waves of the sea, because of arrogance beyond human measure, and supposed he could set the heights of the mountains on scales, having come down to the ground, was being carried in a litter, showing to all the manifest power of God;
 
 Decision rows:
 - None recorded.
@@ -85896,7 +87360,7 @@ Greek: Καὶ τὸν μικρῷ πρότερον τῶν οὐρανίων �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the one who a little before seemed to touch the heavenly stars, no one was able to carry because of the unbearable weight of the smell.
+Draft translation: And no one was able to carry the one who a little before seemed to touch the heavenly stars, because of the unbearable weight of the smell.
 
 Decision rows:
 - None recorded.
@@ -85916,7 +87380,7 @@ Greek: Ἐνταῦθα οὖν ἤρξατο τὸ πολὺ τῆς ὑπερ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore there, having been crushed, he began to cease from much of his arrogance and to come into recognition, being increased in pains moment by moment by a divine whip.
+Draft translation: Therefore there, having been crushed, he began to cease from much of his arrogance and to come to recognition, being increased in pains moment by moment by a divine scourge.
 
 Decision rows:
 - None recorded.
@@ -85936,7 +87400,7 @@ Greek: Καὶ μηδὲ τῆς ὀσμῆς αὐτοῦ δυνάμενος �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And not even being able to endure his own smell, he said these things: "It is righteous to be subject to God, and, being mortal, not to think things equal to God arrogantly."
+Draft translation: And not even being able to endure his own smell, he said these things: "It is righteous to be subject to God, and, being mortal, not to think arrogantly as one equal to God."
 
 Decision rows:
 - None recorded.
@@ -86076,7 +87540,7 @@ Greek: Τοῖς χρηστοῖς Ἰουδαίοις τοῖς πολίται�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: To the good Jews, the citizens, much greeting and health and good action, from King and General Antiochus.
+Draft translation: To the good Jews, the citizens, much greeting and health and prosperity, from King and General Antiochus.
 
 Decision rows:
 - None recorded.
@@ -86096,7 +87560,7 @@ Greek: Εἰ ἔῤῥωσθε, καὶ τὰ τέκνα καὶ τὰ ἴδια
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If you and the children are strong, and your own affairs are according to mind, I make the greatest thanks to God, having hope toward heaven.
+Draft translation: If you and the children are strong, and your own affairs are according to your mind, I give the greatest thanks to God, having hope toward heaven.
 
 Decision rows:
 - None recorded.
@@ -86116,7 +87580,7 @@ Greek: Κᾀγὼ δὲ ἀσθενῶς διεκείμην, ὑμῶν τὴν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And I myself was disposed weakly, but would remember affectionately your honor and goodwill; returning from the regions around Persia and having fallen into a sickness having difficulty, I considered it necessary to care for the common safety of all,
+Draft translation: And I myself was lying weak, but would remember affectionately your honor and goodwill; returning from the regions around Persia and having fallen into a difficult sickness, I considered it necessary to care for the common safety of all,
 
 Decision rows:
 - None recorded.
@@ -86216,7 +87680,7 @@ Greek: Παρακαλῶ οὖν ὑμᾶς καὶ ἀξιῶ, μεμνημέν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore I exhort you and ask that, remembering the benefactions in common and in particular, each of you preserve the existing goodwill toward me and my son.
+Draft translation: Therefore I exhort you and ask that, remembering the benefactions publicly and privately, each of you preserve the existing goodwill toward me and my son.
 
 Decision rows:
 - None recorded.
@@ -86236,7 +87700,7 @@ Greek: Πέπεισμαι γὰρ αὐτὸν ἐπιεικῶς καὶ φιλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For I am persuaded that he, following my purpose reasonably and humanely, will conduct himself together with you.
+Draft translation: For I am persuaded that he, following my purpose reasonably and humanely, will deal with you accordingly.
 
 Decision rows:
 - None recorded.
@@ -86276,7 +87740,7 @@ Greek: Παρεκομίζετο δὲ τὸ σῶμα Φίλιππος ὁ σύ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Philip, his foster-brother, was carrying the body; and he, being wary of Antiochus's son, was conveyed to Ptolemy Philometor in Egypt.
+Draft translation: And Philip, his foster-brother, carried the body; and he, being wary of Antiochus's son, was conveyed to Ptolemy Philometor in Egypt.
 
 Decision rows:
 - None recorded.
@@ -86338,7 +87802,7 @@ Greek: Καὶ τὸν νεὼν καθαρίσαντες, ἕτερον θυσ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And having cleansed the temple, they made another altar, and striking stones and taking fire from them, they brought up sacrifice after a two-year time, and made incense and lamps and the presentation of the loaves.
+Draft translation: And having cleansed the temple, they made another altar, and striking stones and taking fire from them, they brought up sacrifice after two years' time, and made incense and lamps and the presentation of the loaves.
 
 Decision rows:
 - None recorded.
@@ -86358,7 +87822,7 @@ Greek: Ταῦτα δὲ ποιήσαντες ἠξίωσαν τὸν Κύριο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And doing these things, falling on the belly, they asked the Lord no longer to fall into such evils, but if ever they should sin, to be disciplined by him with fairness, and not to be handed over to blasphemous and barbarian nations.
+Draft translation: And doing these things, falling on their bellies, they asked the Lord that they no longer fall into such evils, but if ever they should sin, that they be disciplined by him with fairness, and not be handed over to blasphemous and barbarian nations.
 
 Decision rows:
 - None recorded.
@@ -86398,7 +87862,7 @@ Greek: Καὶ μετʼ εὐφροσύνης ἦγον ἡμέρας ὀκτὼ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And with gladness they kept eight days in the manner of tabernacles, remembering how a little time before they had been feeding in the mountains and in the caves in the manner of beasts during the feast of tents.
+Draft translation: And with gladness they kept eight days in the manner of tabernacles, remembering how a little time before they had been living in the mountains and in the caves in the manner of beasts during the feast of tents.
 
 Decision rows:
 - None recorded.
@@ -86418,7 +87882,7 @@ Greek: Διὸ θύρσους καὶ κλάδους ὡραίους, ἔτι δ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore, having thyrsi and beautiful branches, and further palms, they brought up hymns to the one who prospered the cleansing of his own place.
+Draft translation: Therefore, having thyrsi and beautiful branches, and further palms, they brought up hymns to the one who made the cleansing of his own place prosper.
 
 Decision rows:
 - None recorded.
@@ -86458,7 +87922,7 @@ Greek: Καὶ τὰ μὲν τῆς Ἀντιόχου τοῦ προσαγορ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the things of the death of Antiochus, called Epiphanes, were thus.
+Draft translation: And the things concerning the death of Antiochus, called Epiphanes, were thus.
 
 Decision rows:
 - None recorded.
@@ -86478,7 +87942,7 @@ Greek: Νυνὶ δὲ τὰ κατὰ τὸν Εὐπάτορα Ἀντίοχο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But now we will make clear the things concerning Antiochus Eupator, son of the impious one, shortening the evils of the wars themselves.
+Draft translation: But now we will make clear the things concerning Antiochus Eupator, son of the impious one, summarizing the evils of the wars themselves.
 
 Decision rows:
 - None recorded.
@@ -86518,7 +87982,7 @@ Greek: Πτολεμαῖος γὰρ ὁ καλούμενος Μάκρων τὸ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For Ptolemy called Macron, leading in preserving justice toward the Jews because of the injustice that had happened to them, also tried to conduct things toward them peaceably.
+Draft translation: For Ptolemy called Macron, taking the lead in preserving justice toward the Jews because of the injustice that had happened to them, also tried to conduct affairs toward them peaceably.
 
 Decision rows:
 - None recorded.
@@ -86538,7 +88002,7 @@ Greek: Ὅθεν κατηγορούμενος ὑπὸ τῶν φίλων πρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore, being accused by the friends before Eupator and hearing "traitor" at every turn, because, after being entrusted with Cyprus by Philometor, he left it and withdrew to Antiochus Epiphanes, having no noble authority, under discouragement poisoning himself, he left life.
+Draft translation: Therefore, being accused by the friends before Eupator and hearing "traitor" at every turn, because, after being entrusted with Cyprus by Philometor, he left it and withdrew to Antiochus Epiphanes, having no noble authority, under discouragement he poisoned himself and left life.
 
 Decision rows:
 - None recorded.
@@ -86558,7 +88022,7 @@ Greek: Γοργίας δὲ γενόμενος στρατηγὸς τῶν τό�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But Gorgias, becoming general of the places, was maintaining foreigners and at every turn nourishing war against the Jews,
+Draft translation: But Gorgias, becoming general of the places, was maintaining foreign troops and at every turn fostering war against the Jews,
 
 Decision rows:
 - None recorded.
@@ -86578,7 +88042,7 @@ Greek: Ὁμοῦ δὲ τούτῳ καὶ οἱ Ἰδουμαῖοι ἐγκρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and together with this, the Idumeans also, being in control of critical strongholds, were harassing the Jews, and taking in those exiled from Jerusalem, were attempting to nourish war.
+Draft translation: and together with this, the Idumeans also, being in control of strategic strongholds, were harassing the Jews, and taking in those exiled from Jerusalem, were attempting to foster war.
 
 Decision rows:
 - None recorded.
@@ -86618,7 +88082,7 @@ Greek: οἷς καὶ προσβαλόντες εὐρώστως, ἐγκρατ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and attacking them vigorously, they became masters of the places, and warded off all those fighting on the wall; and they slaughtered those falling in, and killed no fewer than 20,000.
+Draft translation: and attacking them vigorously, they became masters of the places, and repelled all those fighting on the wall; and they slaughtered those falling in, and killed no fewer than 20,000.
 
 Decision rows:
 - None recorded.
@@ -86658,7 +88122,7 @@ Greek: ὁ Μακκαβαῖος εἰς ἐπείγοντας τόπους ἀ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Maccabeus, leaving Simon and Joseph, and also Zacchaeus and those with him, enough for their siege, in urgent places, himself departed.
+Draft translation: Maccabeus, leaving Simon and Joseph, and also Zacchaeus and those with him, enough for their siege, departed himself to urgent places.
 
 Decision rows:
 - None recorded.
@@ -86698,7 +88162,7 @@ Greek: Προσαγγελθέντος δὲ τῷ Μακκαβαίῳ περὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But when what had happened was reported to Maccabeus, gathering the leaders of the people, he accused them that they had sold the brothers for silver, releasing the enemies against them.
+Draft translation: But when what had happened was reported to Maccabeus, gathering the leaders of the people, he accused them that they had sold their brothers for silver, releasing the enemies against them.
 
 Decision rows:
 - None recorded.
@@ -86738,7 +88202,7 @@ Greek: Τοῖς δὲ ὅπλοις τὰ πάντα ἐν ταῖς χερσ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And with weapons, prospering in all things in his hands, he destroyed in the two strongholds more than 20,000.
+Draft translation: And being prospered in all things with weapons in his hands, he destroyed more than 20,000 in the two strongholds.
 
 Decision rows:
 - None recorded.
@@ -86758,7 +88222,7 @@ Greek: Τιμόθεος δὲ ὁ πρότερον ἡττηθεὶς ὑπὸ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But Timotheus, who had formerly been defeated by the Jews, gathering foreign forces in great multitudes and assembling not a few horses from Asia, was present as one about to take Judea spear-captive.
+Draft translation: But Timotheus, who had formerly been defeated by the Jews, gathering foreign forces in great multitudes and assembling not a few horses from Asia, came as one about to take Judea spear-captive.
 
 Decision rows:
 - None recorded.
@@ -86778,7 +88242,7 @@ Greek: Οἱ δὲ περὶ τὸν Μακκαβαῖον, συνεγγίζον
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But those around Maccabeus, as he drew near, turned to supplication of God, sprinkling earth on their heads and girding their loins with sackcloth,
+Draft translation: But those around Maccabeus, as he drew near, turned to supplication to God, sprinkling earth on their heads and girding their loins with sackcloth,
 
 Decision rows:
 - None recorded.
@@ -86818,7 +88282,7 @@ Greek: Γενόμενοι δὲ ἀπὸ τῆς δεήσεως, ἀναλαβό
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And having come from the petition, taking up the weapons, they advanced farther from the city; and drawing near to the enemies, they were by themselves.
+Draft translation: And rising from the petition, taking up the weapons, they advanced farther from the city; and drawing near to the enemies, they were by themselves.
 
 Decision rows:
 - None recorded.
@@ -86838,7 +88302,7 @@ Greek: Ἄρτι δὲ τῆς ἀνατολῆς διαδεχομένης, πρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when dawn was just succeeding, both sides attacked; the one having as pledge of success and victory, with virtue, the refuge to the Lord, but the others appointing passion as leader of the contests.
+Draft translation: And when dawn was just succeeding, both sides attacked; the former having as pledge of success and victory, with virtue, their refuge to the Lord, but the others appointing anger as leader of the contests.
 
 Decision rows:
 - None recorded.
@@ -86858,7 +88322,7 @@ Greek: Γενομένης δὲ καρτερᾶς μάχης, ἐφάνησαν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the battle became strong, there appeared to the opponents from heaven, on horses with golden bridles, five distinguished men, and two were leading the Jews,
+Draft translation: And when the battle became fierce, there appeared to the opponents from heaven, on horses with golden bridles, five distinguished men, and two were leading the Jews,
 
 Decision rows:
 - None recorded.
@@ -86878,7 +88342,7 @@ Greek: καὶ τὸν Μακκαβαῖον μέσον λαβόντες, κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and taking Maccabeus in the middle and covering him with their own full armor, they kept him unwounded; and at the opponents they were throwing arrows and thunderbolts; therefore, confused by lack of sight, they were cut down, filled with disturbance.
+Draft translation: and taking Maccabeus in the middle and covering him with their own full armor, they kept him unwounded; and at the opponents they were throwing arrows and thunderbolts; therefore, confused by blindness, they were cut down, filled with disturbance.
 
 Decision rows:
 - None recorded.
@@ -86918,7 +88382,7 @@ Greek: Αὐτὸς δὲ ὁ Τιμόθεος συνέφυγεν εἰς Γάζ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But Timotheus himself fled together into a stronghold called Gazara, a very strong fortress, Chereas being general there.
+Draft translation: But Timotheus himself fled into a stronghold called Gazara, a very strong fortress, Chereas being general there.
 
 Decision rows:
 - None recorded.
@@ -86938,7 +88402,7 @@ Greek: Οἱ δὲ περὶ τὸν Μακκαβαῖον ἄσμενοι πε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And those around Maccabeus gladly sat around the fortress four days.
+Draft translation: And those around Maccabeus gladly besieged the fortress four days.
 
 Decision rows:
 - None recorded.
@@ -86978,7 +88442,7 @@ Greek: Ὑποφαινούσης δὲ τῆς πέμπτης ἡμέρας, ε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And as the fifth day was beginning to appear, twenty young men of those around Maccabeus, inflamed in passions because of the blasphemies, attacking the wall in a manly manner and with beastlike passion, were cutting down the one who fell in,
+Draft translation: And as the fifth day was beginning to appear, twenty young men of those around Maccabeus, inflamed in anger because of the blasphemies, attacking the wall in a manly manner and with beastlike passion, were cutting down whoever fell in their way,
 
 Decision rows:
 - None recorded.
@@ -86998,7 +88462,7 @@ Greek: ἕτεροι δὲ ὁμοίως προσαναβάντες ἐν τῷ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and others similarly climbing up in the distraction against those inside were burning the towers, and kindling fires were burning the blasphemers alive; and others were cutting through the gates, and receiving the rest of the order, they took the city beforehand,
+Draft translation: and others similarly climbing up in the distraction against those inside were burning the towers, and kindling fires were burning the blasphemers alive; and others were cutting through the gates, and receiving the rest of the division, they seized the city,
 
 Decision rows:
 - None recorded.
@@ -87140,7 +88604,7 @@ Greek: Εἰσελθὼν δὲ εἰς τὴν Ἰουδαίαν, καὶ συ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And entering Judea and drawing near to Bethsura, which was a strong place and was about five stadia from Jerusalem, he was pressing this place.
+Draft translation: And entering Judea and drawing near to Bethsura, which was a strong place and was about five stadia from Jerusalem, he was besieging this place.
 
 Decision rows:
 - None recorded.
@@ -87200,7 +88664,7 @@ Greek: Αὐτόθι δὲ καὶ πρὸς τοῖς Ἱεροσολύμοις
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And right there, as they were near Jerusalem, one leading them on horseback in white clothing appeared, shaking golden full armor.
+Draft translation: And right there, as they were near Jerusalem, one leading them on horseback in white clothing appeared, brandishing golden full armor.
 
 Decision rows:
 - None recorded.
@@ -87220,7 +88684,7 @@ Greek: Ὁμοῦ δὲ πάντες εὐλόγησαν τὸν ἐλεήμον
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And all together blessed the merciful God and were strengthened in souls, being ready to wound not only men but also the wildest beasts and iron walls.
+Draft translation: And all together blessed the merciful God and were strengthened in their souls, being ready to wound not only men but also the wildest beasts and iron walls.
 
 Decision rows:
 - None recorded.
@@ -87260,7 +88724,7 @@ Greek: Λεοντηδὸν δὲ ἐντινάξαντες εἰς τοὺς π�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And striking into the enemies lion-like, they laid down 11,000 of them and 1,600 horsemen; and they forced all to flee.
+Draft translation: And striking into the enemies lion-like, they struck down 11,000 of them and 1,600 horsemen; and they forced all to flee.
 
 Decision rows:
 - None recorded.
@@ -87300,7 +88764,7 @@ Greek: Οὐκ ἄνους δὲ ὑπάρχων, πρὸς ἑαυτὸν ἀν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But being not without understanding, casting together to himself the defeat that had happened around him, and considering that the Hebrews were invincible, all-powerful God fighting as ally to them,
+Draft translation: But being not without understanding, reckoning with himself the defeat that had happened around him, and considering that the Hebrews were invincible, with all-powerful God fighting as ally to them,
 
 Decision rows:
 - None recorded.
@@ -87320,7 +88784,7 @@ Greek: προσαποστείλας ἔπεισε συλλύσεσθαι ἐπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: having sent to them, he persuaded them to make settlement on all just terms, and said that he would also persuade the king, compelling him to become a friend to them.
+Draft translation: sending to them, he persuaded them to settle on all just terms, and said that he would also persuade the king, pressing him to become a friend to them.
 
 Decision rows:
 - None recorded.
@@ -87360,7 +88824,7 @@ Greek: Ἦσαν γὰρ αἱ γεγραμμέναι τοῖς Ἰουδαίο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For the letters written to the Jews from Lysias contained this manner: Lysias to the multitude of the Jews, greetings.
+Draft translation: For the letters written to the Jews from Lysias contained this form: Lysias to the multitude of the Jews, greetings.
 
 Decision rows:
 - None recorded.
@@ -87420,7 +88884,7 @@ Greek: Ἐὰν μὲν οὖν συντηρήσητε τὴν εἰς τὰ π�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore if you preserve the goodwill toward the affairs, also for the future I will try to become cause of good things for you.
+Draft translation: Therefore if you preserve goodwill toward the affairs, also for the future I will try to become a source of good things for you.
 
 Decision rows:
 - None recorded.
@@ -87460,7 +88924,7 @@ Greek: Ἔῤῥωσθε· ἔτους ἑκατοστοῦ τεσσαρακοσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Be strong. Year 148, Dioscorinthius 24th.
+Draft translation: Farewell. Year 148, Dioscorinthius 24th.
 
 Decision rows:
 - None recorded.
@@ -87500,7 +88964,7 @@ Greek: Τοῦ πατρὸς ἡμῶν εἰς θεοὺς μεταστάντο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Our father having departed to gods, wishing those from the kingdom to be undisturbed for the care of their own affairs,
+Draft translation: Our father having departed to gods, wishing those in the kingdom to remain undisturbed in the care of their own affairs,
 
 Decision rows:
 - None recorded.
@@ -87520,7 +88984,7 @@ Greek: ἀκηκοότες τοὺς Ἰουδαίους μὴ συνευδοκ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: having heard that the Jews do not consent to our father's changeover to Greek things, but choose their own conduct, and because of this ask that their legal customs be conceded to them;
+Draft translation: having heard that the Jews do not consent to our father's changeover to Greek customs, but choose their own conduct, and because of this ask that their legal customs be conceded to them;
 
 Decision rows:
 - None recorded.
@@ -87540,7 +89004,7 @@ Greek: Αἱρούμενοι οὖν καὶ τοῦτο τὸ ἔθνος ἐκ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: therefore choosing that this nation also be outside disturbance, we judge that the temple be restored to them, and that they conduct citizenship according to the customs of their ancestors.
+Draft translation: therefore choosing that this nation also be free from disturbance, we judge that the temple be restored to them, and that they conduct their citizenship according to the customs of their ancestors.
 
 Decision rows:
 - None recorded.
@@ -87560,7 +89024,7 @@ Greek: Εὖ οὖν ποιήσεις διαπεμψάμενος πρὸς αὐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore you will do well, sending to them and giving right hands, so that knowing our purpose, they may be good-spirited and gladly go through with the recovery of their own affairs.
+Draft translation: Therefore you will do well, sending to them and giving right hands, so that knowing our purpose, they may be good-spirited and gladly continue in the recovery of their own affairs.
 
 Decision rows:
 - None recorded.
@@ -87620,7 +89084,7 @@ Greek: Ἐνεφάνισεν ἡμῖν ὁ Μενέλαος βούλεσθαι 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Menelaus has disclosed to us that you wish, having come down, to be with your own affairs.
+Draft translation: Menelaus has disclosed to us that you wish, having come down, to attend to your own affairs.
 
 Decision rows:
 - None recorded.
@@ -87640,7 +89104,7 @@ Greek: Τοῖς οὖν καταπορευομένοις μέχρι τριακ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore to those going down until the thirtieth of Xanthicus there will be right hand with security,
+Draft translation: Therefore to those going down until the thirtieth of Xanthicus there will be a right hand with security,
 
 Decision rows:
 - None recorded.
@@ -87700,7 +89164,7 @@ Greek: Ἔῤῥωσθε· ἔτους ἑκατοστοῦ τεσσαρακοσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Be strong. Year 148, Xanthicus 15th.
+Draft translation: Farewell. Year 148, Xanthicus 15th.
 
 Decision rows:
 - None recorded.
@@ -87760,7 +89224,7 @@ Greek: Ἃ δὲ ἔκρινε προσανενεχθῆναι τῷ βασιλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But what he judged to be brought before the king, send someone at once after inspecting these things, so that we may set them out as is fitting for you; for we are going to Antioch.
+Draft translation: But what he judged to be brought before the king, after considering these things send someone at once, so that we may set them out as is fitting for you; for we are going to Antioch.
 
 Decision rows:
 - None recorded.
@@ -87780,7 +89244,7 @@ Greek: Διὸ σπεύσατε, καὶ πέμψατέ τινας, ὅπως κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore hurry and send some, so that we also may know what opinion you are of.
+Draft translation: Therefore hurry and send some, so that we also may know what your opinion is.
 
 Decision rows:
 - None recorded.
@@ -87822,7 +89286,7 @@ Greek: Γενομένων τῶν συνθηκῶν τούτων, ὁ μὲν Λ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: These agreements having happened, Lysias went away to the king, and the Jews were about agriculture.
+Draft translation: These agreements having happened, Lysias went away to the king, and the Jews were occupied with agriculture.
 
 Decision rows:
 - None recorded.
@@ -87842,7 +89306,7 @@ Greek: Τῶν δὲ κατὰ τόπον στρατηγῶν Τιμόθεος �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But of the local generals, Timotheus and Apollonius son of Gennaeus, and still Hieronymus and Demophon, and besides these Nicanor the Cyprus-ruler, were not allowing them to be stable and to conduct the things of quietness.
+Draft translation: But of the local generals, Timotheus and Apollonius son of Gennaeus, and still Hieronymus and Demophon, and besides these Nicanor the Cyprus-ruler, were not allowing them to remain stable and to live in quietness.
 
 Decision rows:
 - None recorded.
@@ -87882,7 +89346,7 @@ Greek: κατὰ δὲ τὸ κοινὸν τῆς πόλεως ψήφισμα, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and according to the common vote of the city, and these accepting it as those wishing to be at peace and having nothing suspicious, when they had been brought out to sea, they drowned them, being no fewer than two hundred.
+Draft translation: and according to the common vote of the city, and they accepted it as those wishing to be at peace and having no suspicion; when they had been brought out to sea, they drowned them, being no fewer than two hundred.
 
 Decision rows:
 - None recorded.
@@ -87942,7 +89406,7 @@ Greek: Τοῦ δὲ χωρίου συγκλεισθέντος, ἀνέλυσε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But when the place was closed up, he withdrew, as one who would come again and root out the whole citizenship of the Joppites.
+Draft translation: But when the place was closed up, he withdrew, as one who would come again and root out the whole civic body of the Joppites.
 
 Decision rows:
 - None recorded.
@@ -88002,7 +89466,7 @@ Greek: Ἐκεῖθεν δὲ ἀποσπασθέντων σταδίους ἐν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And having been drawn away from there nine stadia, as they made the journey toward Timotheus, Arabs attacked him, no fewer than 5,000 and 500 cavalry.
+Draft translation: And having moved away from there nine stadia, as they made the journey toward Timotheus, Arabs attacked him, no fewer than 5,000 and 500 cavalry.
 
 Decision rows:
 - None recorded.
@@ -88022,7 +89486,7 @@ Greek: Γενομένης δὲ καρτερᾶς μάχης, καὶ τῶν π
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when a strong battle happened, and those around Judas prospered because of the help from God, the defeated Nomad Arabs asked Judas to give them right hands, promising both to give livestock and to benefit them in the remaining matters.
+Draft translation: And when a fierce battle happened, and those around Judas prospered because of the help from God, the defeated Nomad Arabs asked Judas to give them right hands, promising both to give livestock and to benefit them in the remaining matters.
 
 Decision rows:
 - None recorded.
@@ -88062,7 +89526,7 @@ Greek: Ἐπέβαλε δὲ καὶ ἐπί τινα πόλιν γεφυροῦ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he also made an attack upon a certain bridged strong city, enclosed by walls and inhabited by all-mixed nations, and the name was Caspin.
+Draft translation: And he also made an attack upon a certain strong city with bridges, enclosed by walls and inhabited by all-mixed nations, and the name was Caspin.
 
 Decision rows:
 - None recorded.
@@ -88082,7 +89546,7 @@ Greek: Οἱ δʼ ἔνδον πεποιθότες τῇ τῶν τειχέων 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But those inside, trusting in the strength of the walls and the store of foods, behaved more rudely, reviling those around Judas, and furthermore blaspheming and speaking things not lawful.
+Draft translation: But those inside, trusting in the strength of the walls and the supply of food, behaved more rudely, reviling those around Judas, and furthermore blaspheming and speaking things not lawful.
 
 Decision rows:
 - None recorded.
@@ -88102,7 +89566,7 @@ Greek: Οἱ δὲ περὶ τὸν Ἰούδαν ἐπικαλεσάμενοι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But those around Judas, calling upon the great ruler of the world, who without rams and mechanical engines overthrew Jericho in the times of Joshua, shook the wall beastlike.
+Draft translation: But those around Judas, calling upon the great ruler of the world, who without rams and siege engines overthrew Jericho in the times of Joshua, shook the wall like beasts.
 
 Decision rows:
 - None recorded.
@@ -88122,7 +89586,7 @@ Greek: Καταλαβόμενοί τε τὴν πόλιν τῇ τοῦ Θεο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And seizing the city by the will of God, they made untold slaughters, so that the adjacent lake, having a width of two stadia, appeared filled with blood flowing down.
+Draft translation: And seizing the city by the will of God, they made untold slaughter, so that the adjacent lake, having a width of two stadia, appeared filled with blood flowing down.
 
 Decision rows:
 - None recorded.
@@ -88142,7 +89606,7 @@ Greek: Ἐκεῖθεν δὲ ἀποσπάσαντες σταδίους ἑπτ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And from there, having pulled away 750 stadia, they completed the journey to Charax, toward the Jews called Tubians.
+Draft translation: And from there, having departed 750 stadia, they completed the journey to Charax, toward the Jews called Tubians.
 
 Decision rows:
 - None recorded.
@@ -88242,7 +89706,7 @@ Greek: Ἐπιφανείσης δὲ τῆς Ἰούδα σπείρας πρώτ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when Judas's first company appeared, and fear came upon the enemies, and terror from the manifestation of the one who watches all came upon them, they rushed into flight, one being carried one way, another another, so that often they were injured by their own and pierced by the points of swords.
+Draft translation: And when Judas's first company appeared, and fear came upon the enemies, and terror from the manifestation of the one who watches all came upon them, they rushed into flight, one carried one way, another another, so that often they were injured by their own men and pierced by the points of swords.
 
 Decision rows:
 - None recorded.
@@ -88282,7 +89746,7 @@ Greek: Αὐτὸς δὲ ὁ Τιμόθεος ἐμπεσὼν τοῖς περ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Timotheus himself, falling into the hands of those around Dositheus and Sosipater, asked with much craft to be released safe, because he had parents of many and brothers of some, and these would happen to be disregarded if he died.
+Draft translation: And Timotheus himself, falling into the hands of those around Dositheus and Sosipater, asked with much guile to be released safe, because he had parents of many and brothers of some, and these would happen to be disregarded if he died.
 
 Decision rows:
 - None recorded.
@@ -88302,7 +89766,7 @@ Greek: Πιστώσαντος δὲ αὐτοῦ διὰ πλειόνων τὸ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when he confirmed with many words the agreement that he would restore these unharmed, they released him for the salvation of the brothers.
+Draft translation: And when he gave assurance with many words according to the agreement that he would restore these unharmed, they released him for the salvation of the brothers.
 
 Decision rows:
 - None recorded.
@@ -88342,7 +89806,7 @@ Greek: Καὶ μετὰ τὴν τούτων τροπὴν καὶ ἀπώλε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after the turning and destruction of these, Judas marched also upon Ephron, a strong city in which Lysias dwelt, and an all-mixed multitude; and strong young men standing before the walls were defending vigorously, and there were many stores of engines and missiles.
+Draft translation: And after their rout and destruction, Judas marched also upon Ephron, a strong city in which Lysias dwelt, and a mixed multitude; and strong young men standing before the walls were defending vigorously, and there were many stores of engines and missiles.
 
 Decision rows:
 - None recorded.
@@ -88362,7 +89826,7 @@ Greek: Ἐπικαλεσάμενοι δὲ τὸν Δυνάστην τὸν με
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And calling upon the Ruler, who with power breaks the strengths of the enemies, they took the city under hand and laid down about 25,000 of those inside.
+Draft translation: And calling upon the Ruler, who with power breaks the strengths of the enemies, they took the city under their hand and struck down about 25,000 of those inside.
 
 Decision rows:
 - None recorded.
@@ -88402,7 +89866,7 @@ Greek: Ἀπομαρτυρησάντων δὲ τῶν ἐκεῖ κατοικο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But when the Jews living there testified to the goodwill that the Scythopolitans had toward them, and that in the times of misfortune they made a gentle meeting,
+Draft translation: But when the Jews living there testified to the goodwill that the Scythopolitans had toward them, and that in the times of misfortune they treated them gently,
 
 Decision rows:
 - None recorded.
@@ -88542,7 +90006,7 @@ Greek: καταρξάμενος τῇ πατρίῳ φωνῇ τὴν μεθʼ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: beginning in the ancestral voice the shout with hymns, crying out, and shaking unexpectedly against those around Gorgias, he made their rout.
+Draft translation: beginning in the ancestral voice the shout with hymns, crying out, and shaking unexpectedly against those around Gorgias, he put them to rout.
 
 Decision rows:
 - None recorded.
@@ -88582,7 +90046,7 @@ Greek: Τῇ δὲ ἐχομένῃ ἦλθον οἱ περὶ τὸν Ἰού�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And on the next day, those around Judas came, according as the need had happened, to carry back the bodies of those who had fallen before and to restore them with their relatives into the ancestral tombs.
+Draft translation: And on the next day, those around Judas came, according as the need had happened, to carry back the bodies of those who had fallen before and restore them with their relatives into the ancestral tombs.
 
 Decision rows:
 - None recorded.
@@ -88642,7 +90106,7 @@ Greek: εἰς ἱκετείαν ἐτράπησαν, ἀξιώσαντες τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: turned to supplication, asking that the sin that had happened be fully wiped out. And noble Judas exhorted the multitude to keep themselves sinless, having seen under their eyes the things that had happened because of the sin of those who had fallen before.
+Draft translation: turned to supplication, asking that the sin that had happened be fully wiped out. And noble Judas exhorted the multitude to keep themselves sinless, having seen with their own eyes the things that had happened because of the sin of those who had fallen before.
 
 Decision rows:
 - None recorded.
@@ -88662,7 +90126,7 @@ Greek: Ποιησάμενός τε κατʼ ἀνδραλογίαν κατασκ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And having made a collection man by man, preparations amounting to 2,000 drachmas of silver, he sent it to Jerusalem to bring a sacrifice concerning sin, acting very beautifully and nobly, reasoning about resurrection;
+Draft translation: And having made a collection man by man, amounting to 2,000 drachmas of silver, he sent it to Jerusalem to bring a sacrifice concerning sin, acting very beautifully and nobly, reasoning about resurrection;
 
 Decision rows:
 - None recorded.
@@ -88682,7 +90146,7 @@ Greek: εἰ γὰρ μὴ τοὺς προπεπτωκότας ἀναστῆν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for if he had not expected those who had fallen before to rise, it would have been excessive and foolish to pray concerning dead ones;
+Draft translation: for if he had not expected those who had fallen before to rise, it would have been excessive and foolish to pray concerning the dead;
 
 Decision rows:
 - None recorded.
@@ -88724,7 +90188,7 @@ Greek: Τῷ δὲ ἐννάτῳ καὶ τεσσαρακοστῷ καὶ ἑ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And in the 149th year it fell to those around Judas that Antiochus Eupator had come with multitudes upon Judea,
+Draft translation: And in the 149th year word came to those around Judas that Antiochus Eupator had come with multitudes upon Judea,
 
 Decision rows:
 - None recorded.
@@ -88804,7 +90268,7 @@ Greek: Ἔστι δὲ ἐν τῷ τόπῳ πύργος πεντήκοντα �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And there is in the place a tower of fifty cubits, full of ashes; and this had a round instrument, steep all around into the ashes.
+Draft translation: And there is in the place a tower of fifty cubits, full of ashes; and this had a round device, steep all around into the ashes.
 
 Decision rows:
 - None recorded.
@@ -88824,7 +90288,7 @@ Greek: Ἐνταῦθα τὸν ἱεροσυλίας ἔνοχον ὄντα, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: There all thrust into destruction the one who is guilty of temple-robbery or has committed an excess of some other evils.
+Draft translation: There they all thrust into destruction the one who is guilty of temple-robbery or has committed an excess of some other evils.
 
 Decision rows:
 - None recorded.
@@ -88884,7 +90348,7 @@ Greek: Τοῖς δὲ φρονήμασιν ὁ βασιλεὺς βεβαρβα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the king, barbarized in his thoughts, was coming to show the Jews the worst things beyond those that had happened under his father.
+Draft translation: But the king, made barbarous in his thoughts, was coming to show the Jews the worst things beyond those that had happened under his father.
 
 Decision rows:
 - None recorded.
@@ -88944,7 +90408,7 @@ Greek: Πάντων δὲ τὸ αὐτὸ ποιησάντων ὁμοῦ κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when all did the same together and entreated the merciful Lord with weeping and fastings and prostration for three days without ceasing, Judas exhorted them and commanded them to be present.
+Draft translation: And when all did the same together and entreated the merciful Lord with weeping and fastings and prostration for three days without ceasing, Judas exhorted them and commanded them to come forward.
 
 Decision rows:
 - None recorded.
@@ -88964,7 +90428,7 @@ Greek: Καθʼ ἑαυτὸν δὲ σὺν τοῖς πρεσβυτέροις 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And having come by himself with the elders, he resolved, before the king's army entered Judea and became masters of the city, that they should go out and decide the affairs by the Lord's help.
+Draft translation: And meeting privately with the elders, he resolved, before the king's army entered Judea and became masters of the city, that they should go out and decide the affairs by the Lord's help.
 
 Decision rows:
 - None recorded.
@@ -88984,7 +90448,7 @@ Greek: Δοὺς δὲ τὴν ἐπιτροπὴν τῷ κτίστῃ τοῦ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And having given the commission to the Creator of the world, exhorting those with him to contend nobly until death concerning laws, temple, city, fatherland, and civic order, he made the encampment near Modein.
+Draft translation: And having committed the matter to the Creator of the world, exhorting those with him to contend nobly until death concerning laws, temple, city, fatherland, and civic order, he made the encampment near Modein.
 
 Decision rows:
 - None recorded.
@@ -89004,7 +90468,7 @@ Greek: Δοὺς δὲ τοῖς περὶ αὐτὸν σύνθημα Θεοῦ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And giving those around him the watchword "God's victory," with selected best young men attacking by night upon the royal court, in the camp he killed about 4,000 men, and the leading elephant with the crowd in its house.
+Draft translation: And giving those around him the watchword "God's victory," with selected best young men attacking by night upon the royal court, in the camp he killed about 4,000 men, and the leading elephant with the crowd in its housing.
 
 Decision rows:
 - None recorded.
@@ -89044,7 +90508,7 @@ Greek: Ὑποφαινούσης δὲ ἤδη τῆς ἡμέρας τοῦτʼ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And this had happened as the day was already beginning to appear, because the Lord's shelter gave help to him.
+Draft translation: And this had happened as the day was already beginning to appear, because the Lord's shelter helped him.
 
 Decision rows:
 - None recorded.
@@ -89064,7 +90528,7 @@ Greek: Ὁ δὲ βασιλεὺς εἰληφὼς γεῦσιν τῆς τῶ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the king, having taken a taste of the good courage of the Jews, tested the places through methods.
+Draft translation: But the king, having taken a taste of the good courage of the Jews, tested the places through stratagems.
 
 Decision rows:
 - None recorded.
@@ -89084,7 +90548,7 @@ Greek: Καὶ ἐπὶ Βαιθσούρᾳ φρούριον ὀχυρὸν τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he advanced upon Bethsura, a strong fortress of the Jews; and he was turned back, stumbled, and was lessened.
+Draft translation: And he advanced upon Bethsura, a strong fortress of the Jews; and he was turned back, stumbled, and was defeated.
 
 Decision rows:
 - None recorded.
@@ -89124,7 +90588,7 @@ Greek: Προσήγγειλε δὲ τὰ μυστήρια τοῖς πολεμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But Rhodocus from the Jewish order reported the mysteries to the enemies; and he was searched out, and seized, and imprisoned.
+Draft translation: But Rhodocus from the Jewish division reported the secrets to the enemies; and he was searched out, and seized, and imprisoned.
 
 Decision rows:
 - None recorded.
@@ -89144,7 +90608,7 @@ Greek: Ἐδευτερολόγησεν ὁ βασιλεὺς τοῖς ἐν Β�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The king spoke a second time with those in Bethsura; he gave right hand, received, went away, attacked those around Judas, and became inferior,
+Draft translation: The king spoke a second time with those in Bethsura; he gave and received right hand, went away, attacked those around Judas, and was defeated,
 
 Decision rows:
 - None recorded.
@@ -89204,7 +90668,7 @@ Greek: ἦλθεν εἰς Πτολεμαΐδα· ἐδυσφόρουν περ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and came to Ptolemais. The Ptolemaeans were displeased concerning the agreements, for they were indignant over the things by which they wished to nullify the stipulations.
+Draft translation: and came to Ptolemais. The Ptolemaeans were displeased concerning the agreements, for they were indignant over the matters in which they wished to nullify the stipulations.
 
 Decision rows:
 - None recorded.
@@ -89246,7 +90710,7 @@ Greek: Μετὰ δὲ τριετῆ χρόνον προσέπεσε τοῖς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after a three-year time it fell to those around Judas that Demetrius, son of Seleucus, having sailed in through the harbor at Tripolis with a strong multitude and fleet,
+Draft translation: And after three years, word came to those around Judas that Demetrius, son of Seleucus, having sailed in through the harbor at Tripolis with a strong multitude and fleet,
 
 Decision rows:
 - None recorded.
@@ -89286,7 +90750,7 @@ Greek: Ἄλκιμος δέ τις προγενόμενος ἀρχιερεὺς
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But a certain Alcimus, who had formerly become high priest, but had been voluntarily defiled in the times of mixing, considering that by any manner there was no salvation for him nor any longer approach to the holy altar,
+Draft translation: But a certain Alcimus, who had formerly become high priest, but had been voluntarily defiled in the times of mingling, considering that in any manner there was no salvation for him nor any longer approach to the holy altar,
 
 Decision rows:
 - None recorded.
@@ -89306,7 +90770,7 @@ Greek: ἧκε πρὸς τὸν βασιλέα Δημήτριον πρώτῳ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: came to King Demetrius in the 151st year, bringing him a golden crown and a palm, and besides these some of the customary branches of the temple; and that day he had quiet.
+Draft translation: came to King Demetrius in the 151st year, bringing him a golden crown and a palm, and besides these some of the customary branches of the temple; and that day he kept quiet.
 
 Decision rows:
 - None recorded.
@@ -89326,7 +90790,7 @@ Greek: Καιρὸν δὲ λαβὼν τῆς ἰδίας ἀνοίας συν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But taking opportunity, a coworker of his own folly, being called into council by Demetrius and asked in what disposition and counsel the Jews were established, he said to these things,
+Draft translation: But taking opportunity as a coworker of his own folly, being called into council by Demetrius and asked in what disposition and counsel the Jews were established, he answered,
 
 Decision rows:
 - None recorded.
@@ -89346,7 +90810,7 @@ Greek: οἱ λεγόμενοι τῶν Ἰουδαίων Ἀσιδαῖοι, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: "The so-called Hasideans of the Jews, of whom Judas Maccabeus is leader, nourish war and make factions, not allowing the kingdom to obtain stability.
+Draft translation: "The so-called Hasideans of the Jews, of whom Judas Maccabeus is leader, foster war and stir up factions, not allowing the kingdom to obtain stability.
 
 Decision rows:
 - None recorded.
@@ -89406,7 +90870,7 @@ Greek: Ἕκαστα δὲ τούτων ἐπεγνωκὼς σὺ βασιλε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But you, O king, knowing each of these things, provide for the country and our race surrounded, according to the humane kindness that you have, easy to meet, toward all.
+Draft translation: But you, O king, knowing each of these things, provide for the country and our hard-pressed race, according to the accessible humane kindness that you have toward all.
 
 Decision rows:
 - None recorded.
@@ -89506,7 +90970,7 @@ Greek: Τὰ δὲ ἐκ τῆς Ἰουδαίας πεφυγαδευκότα τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the nations who had fled Judas from Judea were mixing by herds with Nicanor, supposing the misfortunes and calamities of the Jews would be their own successes.
+Draft translation: And the nations that had fled from Judas out of Judea were mixing by herds with Nicanor, supposing the misfortunes and calamities of the Jews would be their own successes.
 
 Decision rows:
 - None recorded.
@@ -89526,7 +90990,7 @@ Greek: Ἀκούσαντες δὲ τὴν τοῦ Νικάνορος ἔφοδ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And hearing Nicanor's advance and the attack of the nations, sprinkling earth they made litany to the one who established his own people unto the age, and always with manifestation helps his own portion.
+Draft translation: And hearing Nicanor's advance and the attack of the nations, sprinkling earth they made supplication to the one who established his own people unto the age, and always helps his own portion with manifestation.
 
 Decision rows:
 - None recorded.
@@ -89586,7 +91050,7 @@ Greek: Ὅμως δὲ ἀκούων ὁ Νικάνωρ ἣν εἶχον οἱ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Nevertheless Nicanor, hearing the manly goodness of those around Judas, and their good courage in contests on behalf of the fatherland, was cautious to make the judgment through blood;
+Draft translation: Nevertheless Nicanor, hearing the manly goodness of those around Judas, and their good courage in contests on behalf of the fatherland, was cautious to make the decision through bloodshed;
 
 Decision rows:
 - None recorded.
@@ -89626,7 +91090,7 @@ Greek: Πλείονος δὲ γενομένης περὶ τούτων ἐπι�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when much review had happened concerning these things, and the leader had communicated to the multitudes, and an opinion of one vote appeared, they nodded assent to the agreements.
+Draft translation: And when much consideration had happened concerning these things, and the leader had communicated to the multitudes, and a unanimous opinion appeared, they nodded assent to the agreements.
 
 Decision rows:
 - None recorded.
@@ -89646,7 +91110,7 @@ Greek: Ἐτάξαντο δὲ ἡμέραν ἐν ᾗ κατʼ ἰδίαν ἥ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they appointed a day on which they would privately come into the same place; and he came forward, and from each side they set separate stools.
+Draft translation: And they appointed a day on which they would privately come together; and he came forward, and from each side they set separate seats.
 
 Decision rows:
 - None recorded.
@@ -89666,7 +91130,7 @@ Greek: Διέταξεν Ἰούδας ἐνόπλους ἑτοίμους ἐν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Judas arranged armed men ready in the critical places, lest some evil deed should suddenly happen from the enemies; they made the fitting mutual discussion.
+Draft translation: Judas arranged armed men ready in the strategic places, lest some evil deed should suddenly happen from the enemies; they made the fitting mutual discussion.
 
 Decision rows:
 - None recorded.
@@ -89686,7 +91150,7 @@ Greek: Διέτριβεν δὲ ὁ Νικάνωρ ἐν Ἱεροσολύμοι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Nicanor spent time in Jerusalem and did nothing out of place; and the crowds gathered in herds he dismissed.
+Draft translation: And Nicanor spent time in Jerusalem and did nothing out of place; and he dismissed the herdlike crowds that had gathered.
 
 Decision rows:
 - None recorded.
@@ -89706,7 +91170,7 @@ Greek: Καὶ εἶχε τὸν Ἰούδαν διαπαντὸς ἐν προ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he had Judas before his face continually; he was attached to the man according to soul.
+Draft translation: And he had Judas before his face continually; he was attached to the man from the soul.
 
 Decision rows:
 - None recorded.
@@ -89746,7 +91210,7 @@ Greek: Ὁ δὲ Ἄλκιμος συνιδὼν τὴν πρὸς ἀλλήλο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But Alcimus, perceiving the goodwill toward one another and taking up the agreements that had happened, came to Demetrius and said that Nicanor thought things alien to the affairs; for he had appointed Judas, plotter against the kingdom, as successor to himself.
+Draft translation: But Alcimus, perceiving the goodwill toward one another and taking up the agreements that had happened, came to Demetrius and said that Nicanor had thoughts alien to the affairs; for he had appointed Judas, plotter against the kingdom, as successor to himself.
 
 Decision rows:
 - None recorded.
@@ -89766,7 +91230,7 @@ Greek: Ὁ δὲ βασιλεὺς ἔκθυμος γενόμενος, καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the king, becoming enraged and provoked by the slanders of the all-wicked man, wrote to Nicanor, saying that he bore heavily over the agreements and commanding him to send Maccabeus bound quickly to Antioch.
+Draft translation: But the king, becoming enraged and provoked by the slanders of the all-wicked man, wrote to Nicanor, saying that he was greatly displeased over the agreements and commanding him to send Maccabeus bound quickly to Antioch.
 
 Decision rows:
 - None recorded.
@@ -89786,7 +91250,7 @@ Greek: Προσπεσόντων δὲ τούτων τῷ Νικάνορι, συ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when these things fell to Nicanor, he was confused and bore it painfully, if he should nullify the stipulations when the man had wronged nothing.
+Draft translation: And when these things came to Nicanor, he was confused and bore it painfully, at the thought of nullifying the stipulations when the man had wronged nothing.
 
 Decision rows:
 - None recorded.
@@ -89826,7 +91290,7 @@ Greek: Ὁ δὲ Μακκαβαῖος αὐστηρότερον διεξάγο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But Maccabeus, perceiving Nicanor conducting himself more severely toward him and having the customary meeting more savage, understanding that the severity was not from the best, gathering not a few of those around himself, hid himself from Nicanor.
+Draft translation: But Maccabeus, perceiving Nicanor conducting himself more severely toward him and having the customary meeting more savage, understanding that the severity was not from good intent, gathering not a few of those around himself, hid himself from Nicanor.
 
 Decision rows:
 - None recorded.
@@ -89846,7 +91310,7 @@ Greek: Συγγνοὺς δὲ ὁ ἕτερος ὅτι γενναίως ὑπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the other, realizing that he had been nobly outgeneraled by the man, came to the greatest and holy temple, as the priests were bringing the proper sacrifices, and commanded them to deliver the man.
+Draft translation: And Nicanor, realizing that he had been nobly outgeneraled by the man, came to the greatest and holy temple, as the priests were bringing the proper sacrifices, and commanded them to deliver the man.
 
 Decision rows:
 - None recorded.
@@ -89966,7 +91430,7 @@ Greek: Ῥαζὶς δέ τις τῶν ἀπὸ Ἱεροσολύμων πρε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But a certain Razis, one of the elders from Jerusalem, was reported to Nicanor, a man who loved the city and was heard very well of, and according to goodwill was called father of the Jews.
+Draft translation: But a certain Razis, one of the elders from Jerusalem, was reported to Nicanor, a man who loved the city and was very well spoken of, and because of his goodwill was called father of the Jews.
 
 Decision rows:
 - None recorded.
@@ -89986,7 +91450,7 @@ Greek: Ἦν γὰρ ἐν τοῖς ἔμπροσθεν χρόνοις τῆς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For in the former times of non-mixing he had brought forward judgment of Judaism, and had risked body and soul on behalf of Judaism with all intensity.
+Draft translation: For in the former times of separation he had incurred judgment for Judaism, and had risked body and soul on behalf of Judaism with all intensity.
 
 Decision rows:
 - None recorded.
@@ -90026,7 +91490,7 @@ Greek: Ἔδοξε γὰρ, ἐκεῖνον συλλαβὼν, τούτοις �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For it seemed that by arresting him he would work calamity to these.
+Draft translation: For it seemed that by arresting him he would bring calamity upon them.
 
 Decision rows:
 - None recorded.
@@ -90046,7 +91510,7 @@ Greek: Τῶν δὲ πληθῶν μελλόντων τὸν πύργον κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But when the multitudes were about to seize the tower, and were forcing the courtyard door, and commanded fire to be brought and the doors to be set on fire, being surrounded for capture he set a sword under himself,
+Draft translation: But when the multitudes were about to seize the tower, and were forcing the courtyard door, and commanded fire to be brought and the doors to be set on fire, being surrounded for capture he set a sword against himself,
 
 Decision rows:
 - None recorded.
@@ -90066,7 +91530,7 @@ Greek: εὐγενῶς θέλων ἀποθανεῖν, ἤπερ τοῖς ἀ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: wishing nobly to die rather than become subject to the accursed ones and be insolently abused unworthy of his own nobility.
+Draft translation: wishing nobly to die rather than become subject to the accursed ones and be insolently abused in a way unworthy of his own nobility.
 
 Decision rows:
 - None recorded.
@@ -90086,7 +91550,7 @@ Greek: Τῇ δὲ πληγῇ μὴ κατευθικτήσας διὰ τὴν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But not hitting straight with the blow because of the haste of the struggle, and the crowds breaking inside the doorways, running up nobly to the wall, he hurled himself bravely into the crowds.
+Draft translation: But not making a straight hit with the blow because of the haste of the struggle, and the crowds breaking inside the doorways, running up nobly to the wall, he hurled himself bravely into the crowds.
 
 Decision rows:
 - None recorded.
@@ -90106,7 +91570,7 @@ Greek: Τῶν δὲ ταχέως ἀναποδισάντων, γενομένο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But when they quickly stepped back, and a space happened, he came into the middle of the hollow place.
+Draft translation: But when they quickly stepped back, and a space opened, he came into the middle of the empty place.
 
 Decision rows:
 - None recorded.
@@ -90126,7 +91590,7 @@ Greek: Ἔτι δὲ ἔμπνους ὑπάρχων καὶ πεπυρωμέν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And still being breathing and inflamed in passions, he rose up, streams of blood being carried like fountains, and the wounds being grievous; running through the crowds and standing upon a certain steep rock,
+Draft translation: And still breathing and inflamed in anger, he rose up, blood flowing like fountains, and the wounds being grievous; running through the crowds and standing upon a certain steep rock,
 
 Decision rows:
 - None recorded.
@@ -90146,7 +91610,7 @@ Greek: παντελῶς ἔξαιμος ἤδη γενόμενος, προβα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: already having become wholly bloodless, throwing forward the entrails and taking them with both hands, he shook them at the crowds; and calling upon the one who rules life and spirit to give these back to him again, in this manner he changed life.
+Draft translation: already having become wholly drained of blood, casting out his entrails and taking them with both hands, he shook them at the crowds; and calling upon the one who rules life and spirit to give these back to him again, in this manner he changed life.
 
 Decision rows:
 - None recorded.
@@ -90168,7 +91632,7 @@ Greek: Ὁ δὲ Νικάνωρ μεταλαβὼν τοὺς περὶ τὸν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But Nicanor, learning that those around Judas were in the places around Samaria, resolved to attack them on the day of rest with all security.
+Draft translation: But Nicanor, learning that those around Judas were in the places around Samaria, resolved to attack them on the day of rest with complete security.
 
 Decision rows:
 - None recorded.
@@ -90188,7 +91652,7 @@ Greek: Τῶν δὲ κατʼ ἀνάγκην συνεπομένων αὐτῷ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the Jews who were following him by compulsion said, "By no means destroy so savagely and barbarously, but apportion glory to the day honored beforehand with holiness by the one who watches all things."
+Draft translation: But the Jews who were following him by compulsion said, "By no means destroy so savagely and barbarously, but assign glory to the day honored beforehand with holiness by the one who watches all things."
 
 Decision rows:
 - None recorded.
@@ -90268,7 +91732,7 @@ Greek: Καὶ ὁ μὲν Νικάνωρ μετὰ πάσης ἀλαζονεί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Nicanor, holding his neck high with all arrogance, had determined to set up a common trophy over those around Judas.
+Draft translation: And Nicanor, holding his neck high with all arrogance, had determined to set up a public trophy over those around Judas.
 
 Decision rows:
 - None recorded.
@@ -90308,7 +91772,7 @@ Greek: Καὶ παρεκάλει τοὺς σὺν αὐτῷ μὴ δειλι�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he exhorted those with him not to be cowardly at the advance of the nations, but having in mind the helps from heaven that had happened before, also now to expect the victory and help that would be from the Almighty.
+Draft translation: And he exhorted those with him not to lose courage at the advance of the nations, but having in mind the helps from heaven that had happened before, also now to expect the victory and help that would be from the Almighty.
 
 Decision rows:
 - None recorded.
@@ -90348,7 +91812,7 @@ Greek: Καὶ τοῖς θυμοῖς διεγείρας αὐτοὺς, παρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And stirring them up in passions, he commanded them, at the same time showing the faithlessness of the nations and the transgression of oaths.
+Draft translation: And stirring them up in anger, he commanded them, at the same time showing the faithlessness of the nations and the transgression of oaths.
 
 Decision rows:
 - None recorded.
@@ -90388,7 +91852,7 @@ Greek: Ἦν δὲ ἡ τούτου θεωρία τοιάδε· Ὀνίαν τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And his vision was such: Onias, who had been high priest, a good and noble man, modest in meeting, gentle in manner, putting forward speech fittingly, and from a child trained in all the proper things of virtue, this one stretching out his hands and praying for the whole body of the Jews.
+Draft translation: And his vision was such: Onias, who had been high priest, a good and noble man, modest in meeting, gentle in manner, speaking fittingly, and from a child trained in all the proper things of virtue, this one stretching out his hands and praying for the whole body of the Jews.
 
 Decision rows:
 - None recorded.
@@ -90408,7 +91872,7 @@ Greek: Εἶθʼ οὕτως ἐπιφανῆναι ἄνδρα πολιᾷ κα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then in this way a man appeared, distinguished in gray hair and glory, and a certain marvelous and most magnificent preeminence was around him.
+Draft translation: Then in this way a man appeared, distinguished in gray hair and glory, and a certain marvelous and most magnificent majesty was around him.
 
 Decision rows:
 - None recorded.
@@ -90448,7 +91912,7 @@ Greek: Προτείναντα δὲ τὸν Ἱερεμίαν τὴν δεξι�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Jeremiah, stretching out the right hand, handed to Judas a golden sword, and while giving it addressed these things,
+Draft translation: And Jeremiah, stretching out the right hand, handed to Judas a golden sword, and while giving it said these words,
 
 Decision rows:
 - None recorded.
@@ -90488,7 +91952,7 @@ Greek: Παρακληθέντες δὲ τοῖς Ἰούδα λόγοις πά�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And having been encouraged by Judas's words, very beautiful and able to stir to virtue and restore souls of young men, they determined not to camp but to bear in nobly, and with all manliness, engaging, to decide the affairs, because the city and the holy things and the temple were in danger.
+Draft translation: And having been encouraged by Judas's words, very beautiful and able to stir to virtue and restore souls of young men, they determined not to remain encamped but to charge nobly, and with all manliness, engaging, to decide the affairs, because the city and the holy things and the temple were in danger.
 
 Decision rows:
 - None recorded.
@@ -90508,7 +91972,7 @@ Greek: Ἦν γὰρ ὁ περὶ γυναικῶν καὶ τέκνων, ἔτ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For the contest concerning women and children, and further brothers and kinsmen, was lying in lesser part with them, but the greatest and first fear was concerning the consecrated temple.
+Draft translation: For the contest concerning women and children, and further brothers and kinsmen, held a lesser place with them, but the greatest and first fear was concerning the consecrated temple.
 
 Decision rows:
 - None recorded.
@@ -90528,7 +91992,7 @@ Greek: Ἦν δὲ καὶ τοῖς ἐν τῇ πόλει κατειλημμέ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And for those shut up in the city, the agony was not secondary, being disturbed concerning the attack in the open air.
+Draft translation: And for those shut up in the city, the agony was not secondary, being disturbed concerning the attack in the open field.
 
 Decision rows:
 - None recorded.
@@ -90548,7 +92012,7 @@ Greek: Καὶ πάντων ἤδη προσδοκώντων τὴν ἐσομέ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And all already expecting the coming judgment, and the enemies already joining, and the army set in order, and the beasts restored to an opportune side, and the cavalry arranged at the wing,
+Draft translation: And all already expecting the coming judgment, and the enemies already joining, and the army set in order, and the beasts stationed in a suitable place, and the cavalry arranged at the wing,
 
 Decision rows:
 - None recorded.
@@ -90568,7 +92032,7 @@ Greek: Συνιδὼν ὁ Μακκαβαῖος τὴν τῶν πληθῶν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Maccabeus, perceiving the presence of the multitudes and the varied preparation of the weapons and the savagery of the beasts, stretched out his hands to heaven and called upon the wonder-working Lord, the watcher, knowing that victory is not through weapons, but as it is judged by him, he secures victory for the worthy.
+Draft translation: Maccabeus, perceiving the presence of the multitudes and the varied preparation of the weapons and the savagery of the beasts, stretched out his hands to heaven and called upon the wonder-working Lord who watches, knowing that victory is not through weapons, but as it may be judged by him, he secures victory for the worthy.
 
 Decision rows:
 - None recorded.
@@ -90588,7 +92052,7 @@ Greek: Ἔλεγε δὲ ἐπικαλούμενος τόνδε τὸν τρόπ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And invoking, he was saying in this manner: "You, Master, sent your angel in the time of Hezekiah king of Judea, and killed from the camp of Sennacherib up to 185,000.
+Draft translation: And invoking, he was saying in this manner: "You, Master, sent your angel in the time of Hezekiah king of Judea, and killed from the camp of Sennacherib as many as 185,000.
 
 Decision rows:
 - None recorded.
@@ -90628,7 +92092,7 @@ Greek: Μεγέθει βραχίονός σου καταπλαγείησαν ο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: By the greatness of your arm may those who come with blasphemy against your holy people be struck with amazement." And he indeed ceased in these things.
+Draft translation: By the greatness of your arm may those who come with blasphemy against your holy people be terrified." And he indeed ended with these words.
 
 Decision rows:
 - None recorded.
@@ -90668,7 +92132,7 @@ Greek: οἱ δὲ περὶ τὸν Ἰούδαν μετʼ ἐπικλήσεω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but those around Judas joined the enemies with invocation and prayers.
+Draft translation: but those around Judas joined battle with the enemies with invocation and prayers.
 
 Decision rows:
 - None recorded.
@@ -90688,7 +92152,7 @@ Greek: Καὶ ταῖς μὲν χερσὶν ἀγωνιζόμενοι, τα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And fighting with hands but praying with hearts to God, they laid down no fewer than 35,000, being greatly gladdened by the manifestation of God.
+Draft translation: And fighting with hands but praying with hearts to God, they struck down no fewer than 35,000, being greatly gladdened by the manifestation of God.
 
 Decision rows:
 - None recorded.
@@ -90708,7 +92172,7 @@ Greek: Γενόμενοι δὲ ἀπὸ τῆς χρείας, καὶ μετὰ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when they had come from the need and were returning with joy, they recognized Nicanor fallen before with the full armor.
+Draft translation: And when they had come away from the engagement and were returning with joy, they recognized Nicanor fallen with the full armor.
 
 Decision rows:
 - None recorded.
@@ -90748,7 +92212,7 @@ Greek: Καὶ προσέταξεν ὁ καθʼ ἅπαν σώματι καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the one in every way first champion for the citizens in body and soul, who had preserved the goodwill of his age toward fellow-nationals, commanded that they cut off Nicanor's head and the hand with the shoulder and carry them to Jerusalem.
+Draft translation: And the one in every way first champion for the citizens in body and soul, who had preserved goodwill from his youth toward fellow-nationals, commanded that they cut off Nicanor's head and the hand with the shoulder and carry them to Jerusalem.
 
 Decision rows:
 - None recorded.
@@ -90808,7 +92272,7 @@ Greek: Καὶ τὴν γλῶσσαν τοῦ δυσσεβοῦς Νικάνο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And cutting out the tongue of the impious Nicanor, he said he would give it to the birds by part, and hang the wages of folly opposite the temple.
+Draft translation: And cutting out the tongue of the impious Nicanor, he said he would give it to the birds piece by piece, and hang the wages of folly opposite the temple.
 
 Decision rows:
 - None recorded.
@@ -90908,7 +92372,7 @@ Greek: Καὶ εἰ μὲν καλῶς καὶ εὐθίκτως τῇ συν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And if it is well and aptly in the composition, this is what I myself wished; but if cheaply and moderately, this was attainable by me.
+Draft translation: And if it is well and aptly in the composition, this is what I myself wished; but if plainly and moderately, this was attainable by me.
 
 Decision rows:
 - None recorded.
@@ -90928,7 +92392,7 @@ Greek: Καθάπερ γὰρ οἶνον καταμόνας πίνειν, ὡσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For just as to drink wine alone, and likewise water again, is hostile; but in the manner that wine mixed with water is sweet and accomplishes grace delightfully, so also the construction of the account delights the ears of those encountering the composition; and here will be the end.
+Draft translation: For just as to drink wine alone, and likewise water again, is disagreeable; but in the manner that wine mixed with water is sweet and produces delightful grace, so also the construction of the account delights the ears of those encountering the composition; and here will be the end.
 
 Decision rows:
 - None recorded.
@@ -90972,7 +92436,7 @@ Greek: στήσας τοὺς ἱερεῖς κατ᾿ ἐφημερίας ἐσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: having set the priests according to daily orders, clothed in the temple of the Lord.
+Draft translation: having set the priests according to daily orders, vested in the temple of the Lord.
 
 Decision rows:
 - None recorded.
@@ -90992,7 +92456,7 @@ Greek: καὶ εἶπε τοῖς Λευίταις, ἱεροδούλοις τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he told the Levites, temple servants of Israel, to sanctify themselves to the Lord in the placing of the holy ark of the Lord in the house that Solomon son of David the king had built:
+Draft translation: And he told the Levites, temple servants of Israel, to sanctify themselves to the Lord for the placing of the holy ark of the Lord in the house that Solomon son of David the king had built:
 
 Decision rows:
 - None recorded.
@@ -91072,7 +92536,7 @@ Greek: καὶ ἐδωρήσατο Ἰωσίας τῷ λαῷ τῷ εὑρεθ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Josiah gifted to the people who were found there thirty thousand lambs and kids, and three thousand calves. These were given from the royal things according to promise, to the people and to the priests and Levites.
+Draft translation: And Josiah gave as a gift to the people who were found there thirty thousand lambs and kids, and three thousand calves. These were given from the royal things according to promise, to the people and to the priests and Levites.
 
 Decision rows:
 - None recorded.
@@ -91132,7 +92596,7 @@ Greek: καὶ ταῦτα τὰ γενόμενα· εὐπρεπῶς ἔστη
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when these things had come to be, the priests and the Levites stood in good order, having the unleavened things according to the tribes and according to the divisions of the fathers before the people, to offer to the Lord according to the things written in the book of Moses; and so in the morning.
+Draft translation: And when these things had come to be, the priests and the Levites stood in good order, having the unleavened bread according to the tribes and according to the divisions of the fathers before the people, to offer to the Lord according to the things written in the book of Moses; and so in the morning.
 
 Decision rows:
 - None recorded.
@@ -91232,7 +92696,7 @@ Greek: καὶ οἱ θυρωροὶ ἐφ᾿ ἑκάστου πυλῶνος· 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and the gatekeepers were at each gate. It was not possible for each one to pass by his own daily order, for their brothers the Levites prepared for them.
+Draft translation: and the gatekeepers were at each gate. It was not possible for each one to leave his own daily order, for their brothers the Levites prepared for them.
 
 Decision rows:
 - None recorded.
@@ -91352,7 +92816,7 @@ Greek: καὶ ὠρθώθη τὰ ἔργα Ἰωσίου ἐνώπιον το�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the works of Josiah were set right before his Lord with a heart full of reverence.
+Draft translation: And the works of Josiah were set right before the Lord with a heart full of reverence.
 
 Decision rows:
 - None recorded.
@@ -91452,7 +92916,7 @@ Greek: καὶ οὐκ ἀπέστρεψεν ἑαυτὸν Ἰωσίας ἐπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Josiah did not turn himself back upon his chariot, but attempted to fight him, not attending to the words of Jeremiah the prophet from the mouth of the Lord.
+Draft translation: And Josiah did not turn back his chariot, but attempted to fight him, not attending to the words of Jeremiah the prophet from the mouth of the Lord.
 
 Decision rows:
 - None recorded.
@@ -91512,7 +92976,7 @@ Greek: καὶ ἀνέβη ἐπὶ τὸ ἅρμα τὸ δευτέριον α�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and he went up onto his second chariot. And having been restored to Jerusalem, he changed his life and was buried in his ancestral tomb.
+Draft translation: and he went up onto his second chariot. And having been restored to Jerusalem, he departed this life and was buried in his ancestral tomb.
 
 Decision rows:
 - None recorded.
@@ -91532,7 +92996,7 @@ Greek: καὶ ἐν ὅλῃ τῇ Ἰουδαίᾳ ἐπένθησαν τὸν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And in all Judea they mourned Josiah, and Jeremiah the prophet lamented for Josiah, and the chief men with women lamented him until this day; and this was given out to happen always for the whole race of Israel.
+Draft translation: And in all Judea they mourned Josiah, and Jeremiah the prophet lamented for Josiah, and the chief men and women lamented him until this day; and this was given out to happen always for the whole race of Israel.
 
 Decision rows:
 - None recorded.
@@ -91912,7 +93376,7 @@ Greek: αὐτοὶ δὲ ἐμυκτήρισαν ἐν τοῖς ἀγγέλο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But they mocked among his messengers, and on the day when the Lord spoke, they were making sport of his prophets, until he, having become angry against his nation because of their impious deeds, commanded the kings of the Chaldeans to be brought up against them.
+Draft translation: But they mocked his messengers, and on the day when the Lord spoke, they were making sport of his prophets, until he, having become angry against his nation because of their impious deeds, commanded the kings of the Chaldeans to be brought up against them.
 
 Decision rows:
 - None recorded.
@@ -91992,7 +93456,7 @@ Greek: καὶ συνετέλεσαν πάντα τὰ ἔνδοξα αὐτῆ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and they completed all her glorious things, to make them useless; and the ones left he led away with the sword to Babylon.
+Draft translation: and they brought all her glorious things to an end, to make them useless; and the ones left he led away with the sword to Babylon.
 
 Decision rows:
 - None recorded.
@@ -92074,7 +93538,7 @@ Greek: ἤγειρε Κύριος τὸ πνεῦμα Κύρου βασιλέω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: the Lord raised the spirit of Cyrus king of Persians, and he proclaimed in his whole kingdom, and also through writings, saying,
+Draft translation: the Lord raised the spirit of Cyrus king of the Persians, and he proclaimed in his whole kingdom, and also through writings, saying,
 
 Decision rows:
 - None recorded.
@@ -92094,7 +93558,7 @@ Greek: τάδε λέγει ὁ βασιλεὺς Περσῶν Κῦρος· ἐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Thus says Cyrus, king of Persians: The Lord of Israel, the Lord Most High, appointed me king of the inhabited world.
+Draft translation: Thus says Cyrus, king of the Persians: The Lord of Israel, the Lord Most High, appointed me king of the inhabited world.
 
 Decision rows:
 - None recorded.
@@ -92334,7 +93798,7 @@ Greek: Ἐν δὲ τοῖς ἐπὶ Ἀρταξέρξου τῶν Περσῶ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Now in the times of Artaxerxes king of the Persians, Belemus and Mithradates and Tabellius and Rathymus and Beeltethmus and Samellius the scribe, and the rest arranged with them, dwelling in Samaria and the other places, wrote against those dwelling in Judea and Jerusalem this written-under letter to him:
+Draft translation: Now in the times of Artaxerxes king of the Persians, Belemus and Mithradates and Tabellius and Rathymus and Beeltethmus and Samellius the scribe, and the rest arranged with them, dwelling in Samaria and the other places, wrote against those dwelling in Judea and Jerusalem the letter written below:
 
 Decision rows:
 - None recorded.
@@ -92374,7 +93838,7 @@ Greek: καὶ νῦν γνωστὸν ἔστω τῷ κυρίῳ βασιλε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now let it be known to the lord king that the Jews who went up from you to us, having come into Jerusalem, are building the rebellious and evil city, repairing both its marketplaces and walls, and laying a foundation for a temple.
+Draft translation: And now let it be known to the lord king that the Jews who went up from you to us, having come into Jerusalem, are building the rebellious and evil city, repairing both its streets and walls, and laying a foundation for a temple.
 
 Decision rows:
 - None recorded.
@@ -92394,7 +93858,7 @@ Greek: ἐὰν οὖν ἡ πόλις αὕτη οἰκοδομηθῇ καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore if this city is built and the walls completed, they will certainly not endure giving taxation, but will also resist kings. And since the things concerning the temple are being worked, we suppose it good not to overlook such a thing, but to address the lord king, so that, if it appears good to you, search may be made in the books from your fathers.
+Draft translation: Therefore if this city is built and the walls completed, they will certainly not endure paying tribute, but will also resist kings. And since the things concerning the temple are being worked, we suppose it good not to overlook such a thing, but to address the lord king, so that, if it appears good to you, search may be made in the books from your fathers.
 
 Decision rows:
 - None recorded.
@@ -92494,7 +93958,7 @@ Greek: καὶ οἱ ἄνθρωποι ἀποστάσεις καὶ πολέμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and the men in it were completing revolts and wars, and strong and hard kings were in Jerusalem, ruling and levying taxes on Coele-Syria and Phoenicia.
+Draft translation: and the men in it were carrying out revolts and wars, and strong and hard kings were in Jerusalem, ruling and levying taxes on Coele-Syria and Phoenicia.
 
 Decision rows:
 - None recorded.
@@ -92596,7 +94060,7 @@ Greek: καὶ ἐφάγοσαν καὶ ἐπίοσαν καὶ ἐμπλησθ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they ate and drank and, having been filled, departed. But King Darius departed into his own bedroom and slept and became awake.
+Draft translation: And they ate and drank and, having been filled, departed. But King Darius departed into his own bedroom and slept and awoke.
 
 Decision rows:
 - None recorded.
@@ -92876,7 +94340,7 @@ Greek: Καὶ ἤρξατο ὁ πρῶτος ὁ εἴπας περὶ τῆς
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the first, the one who had spoken concerning the strength of wine, began and said thus: Men, how does wine prevail? It leads astray the mind of all humans who drink it.
+Draft translation: And the first, the one who had spoken concerning the strength of wine, began and said thus: Men, how does wine prevail? It leads astray the mind of all people who drink it.
 
 Decision rows:
 - None recorded.
@@ -92956,7 +94420,7 @@ Greek: καὶ οὐ μέμνηται, ὅταν πίνωσι, φιλιάζει�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when they drink, they do not remember being friendly with friends and brothers, and after not long they draw swords.
+Draft translation: And when they drink, they do not remember being friendly with friends and brothers, and soon after they draw swords.
 
 Decision rows:
 - None recorded.
@@ -93038,7 +94502,7 @@ Greek: ὦ ἄνδρες, οὐχ ὑπερισχύουσιν οἱ ἄνθρω�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Men, do not humans prevail, holding down the earth and the sea and all things in them?
+Draft translation: Men, do not people prevail, holding down the earth and the sea and all things in them?
 
 Decision rows:
 - None recorded.
@@ -93078,7 +94542,7 @@ Greek: ἐὰν εἴπῃ αὐτοῖς ποιῆσαι πόλεμον ἕτε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If he tells them to make war one against another, they do it. And if he sends them out against the enemies, they go and work down the mountains and the walls and the towers.
+Draft translation: If he tells them to make war one against another, they do it. And if he sends them out against the enemies, they go and break down the mountains and the walls and the towers.
 
 Decision rows:
 - None recorded.
@@ -93118,7 +94582,7 @@ Greek: καὶ ὅσοι οὐ στρατεύονται οὐδὲ πολεμο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And as many as do not serve as soldiers or make war, but farm the land, again when they sow and reap, they bring to the king; and one compelling another, they bring the taxes to the king.
+Draft translation: And those who do not serve as soldiers or make war, but farm the land, again when they sow and reap, bring to the king; and one compelling another, they bring the taxes to the king.
 
 Decision rows:
 - None recorded.
@@ -93178,7 +94642,7 @@ Greek: εἶπεν ἐκκόψαι, ἐκκόπτουσιν· εἶπε φυτε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He said to cut out, they cut out; he said to plant, they plant.
+Draft translation: He said to cut down, they cut down; he said to plant, they plant.
 
 Decision rows:
 - None recorded.
@@ -93218,7 +94682,7 @@ Greek: αὐτοὶ δὲ τηροῦσι κύκλῳ περὶ αὐτὸν κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but they keep watch around him, and each one is not able to go away and do his own works, nor do they disobey him.
+Draft translation: but they keep watch around him, and none of them is able to go away and do his own works, nor do they disobey him.
 
 Decision rows:
 - None recorded.
@@ -93238,7 +94702,7 @@ Greek: ὦ ἄνδρες, πῶς οὐχ ὑπερισχύει ὁ βασιλε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Men, how does the king not prevail, because he is obeyed thus? And he was silent.
+Draft translation: Men, how does the king not prevail, since he is obeyed in this way? And he was silent.
 
 Decision rows:
 - None recorded.
@@ -93278,7 +94742,7 @@ Greek: οὐ μέγας ὁ βασιλεὺς καὶ πολλοὶ οἱ ἄν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: is not the king great, and are not humans many, and does not wine have strength? Who then is the master over them, or who rules over them? Is it not women?
+Draft translation: is not the king great, and are not people many, and does not wine have strength? Who then is the master over them, or who rules over them? Is it not women?
 
 Decision rows:
 - None recorded.
@@ -93338,7 +94802,7 @@ Greek: καὶ αὗται ποιοῦσι τὰς στολὰς τῶν ἀνθ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And these make the robes of humans, and these make glory for humans, and humans are not able to be without women.
+Draft translation: And these make the robes for people, and these make glory for people, and people are not able to be without women.
 
 Decision rows:
 - None recorded.
@@ -93398,7 +94862,7 @@ Greek: ἄνθρωπος τὸν ἑαυτοῦ πατέρα ἐγκαταλεί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: A human leaves behind his own father, who nourished him, and his own country, and is joined to his own wife,
+Draft translation: A man leaves behind his own father, who nourished him, and his own country, and is joined to his own wife,
 
 Decision rows:
 - None recorded.
@@ -93438,7 +94902,7 @@ Greek: καὶ ἐντεῦθεν δεῖ ὑμᾶς γνῶναι ὅτι αἱ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And from this you must know that women rule over you. Do you not labor and toil and give and bring everything to women?
+Draft translation: And from this you must know that women rule over you. Do you not labor and toil, and give and bring everything to women?
 
 Decision rows:
 - None recorded.
@@ -93458,7 +94922,7 @@ Greek: καὶ λαμβάνει ὁ ἄνθρωπος τὴν ρομφαίαν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And a human takes his sword and goes out to make expeditions and rob and steal and to sail into the sea and rivers.
+Draft translation: And a man takes his sword and goes out on expeditions, and to rob and steal and sail into the sea and rivers.
 
 Decision rows:
 - None recorded.
@@ -93498,7 +94962,7 @@ Greek: καὶ πλεῖον ἀγαπᾷ ἄνθρωπος τὴν ἰδίαν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And a human loves his own wife more than father and mother.
+Draft translation: And a man loves his own wife more than father and mother.
 
 Decision rows:
 - None recorded.
@@ -93518,7 +94982,7 @@ Greek: καὶ πολλοὶ ἀπενοήθησαν· ταῖς ἰδίαις �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And many became senseless in their own minds because of women and became slaves because of them,
+Draft translation: And many lost sense in their own minds because of women and became slaves because of them,
 
 Decision rows:
 - None recorded.
@@ -93638,7 +95102,7 @@ Greek: ὦ ἄνδρες, πῶς οὐχὶ ἰσχυραὶ αἱ γυναῖ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Men, how are women not strong, since they act thus?
+Draft translation: Men, how are women not strong, since they do such things?
 
 Decision rows:
 - None recorded.
@@ -93718,7 +95182,7 @@ Greek: πᾶσα ἡ γῆ τὴν ἀλήθειαν καλεῖ, καὶ ὁ ο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: All the earth calls upon truth, and Heaven blesses it, and all works shake and tremble, and there is no unjust thing with it.
+Draft translation: All the earth calls upon truth, and Heaven blesses it, and all works shake and tremble, and there is nothing unjust with it.
 
 Decision rows:
 - None recorded.
@@ -93738,7 +95202,7 @@ Greek: ἄδικος ὁ οἶνος, ἄδικος ὁ βασιλεύς, ἄδ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Wine is unjust, the king is unjust, women are unjust, all the sons of humans are unjust, and all their works like these are unjust; and there is no truth in them, and in their injustice they will perish.
+Draft translation: Wine is unjust, the king is unjust, women are unjust, all the sons of men are unjust, and all their works like these are unjust; and there is no truth in them, and in their injustice they will perish.
 
 Decision rows:
 - None recorded.
@@ -93778,7 +95242,7 @@ Greek: καὶ οὐκ ἔστι παρ᾿ αὐτὴν λαμβάνειν πρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And with her there is no receiving faces, nor distinctions, but she does righteous things away from all unrighteous and evil things; and all are pleased with her works, and in her judgment there is nothing unjust.
+Draft translation: And with her there is no partiality, nor distinctions, but she does righteous things apart from all unrighteous and evil things; and all are pleased with her works, and in her judgment there is nothing unjust.
 
 Decision rows:
 - None recorded.
@@ -93818,7 +95282,7 @@ Greek: καὶ ἐσιώπησε τοῦ λαλεῖν· καὶ πᾶς ὁ λ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he stopped speaking. And all the people then shouted, and then they said, Great is truth, and it prevails.
+Draft translation: And he stopped speaking. And all the people then shouted and said, Great is truth, and it prevails.
 
 Decision rows:
 - None recorded.
@@ -93878,7 +95342,7 @@ Greek: καὶ πάντα τὰ σκεύη τὰ ληφθέντα ἐξ Ἱερ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and to send out all the vessels taken from Jerusalem, which Cyrus separated when he vowed to cut off Babylon and vowed to send them there.
+Draft translation: and to send out all the vessels taken from Jerusalem, which Cyrus set apart when he vowed to cut down Babylon and vowed to send them there.
 
 Decision rows:
 - None recorded.
@@ -93958,7 +95422,7 @@ Greek: καὶ πᾶσι τοῖς τοπάρχαις ἐν κοίλῃ Συρί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And to all the toparchs in Coele-Syria and Phoenicia and to those in Lebanon he wrote letters to transfer cedar wood from Lebanon to Jerusalem, and that they should build the city with him.
+Draft translation: And to all the toparchs in Coele-Syria and Phoenicia and to those in Lebanon he wrote letters to carry cedar wood from Lebanon to Jerusalem, and that they should build the city with him.
 
 Decision rows:
 - None recorded.
@@ -94038,7 +95502,7 @@ Greek: καὶ ἐπὶ τὸ θυσιαστήριον ὁλοκαυτώματα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and for whole-burnt offerings to be offered upon the altar day by day, just as they have command to offer seventeen, another ten talents yearly,
+Draft translation: and for whole-burnt offerings to be offered upon the altar day by day, just as they have command to offer seventeen, and ten additional talents yearly,
 
 Decision rows:
 - None recorded.
@@ -94078,7 +95542,7 @@ Greek: ἔγραψε δὲ καὶ τὴν χορηγίαν καὶ τὴν ἱ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he also wrote the provision and the priestly robe in which they serve in it.
+Draft translation: And he also wrote for the provision and the priestly robe in which they serve.
 
 Decision rows:
 - None recorded.
@@ -94098,7 +95562,7 @@ Greek: καὶ τοῖς Λευίταις ἔγραψε δοῦναι τὴν χ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And for the Levites he wrote to give the provision until the day when the house should be completed and Jerusalem should be built,
+Draft translation: And for the Levites he wrote to give the provision until the day when the house should be completed and Jerusalem built,
 
 Decision rows:
 - None recorded.
@@ -94258,7 +95722,7 @@ Greek: ἀναβῆναι καὶ οἰκοδομῆσαι τὴν Ἱερουσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: to go up and build Jerusalem and the temple, where his name had been named upon it. And they feasted with music and joy seven days.
+Draft translation: to go up and build Jerusalem and the temple, where his name had been called upon it. And they feasted with music and joy seven days.
 
 Decision rows:
 - None recorded.
@@ -94280,7 +95744,7 @@ Greek: ΜΕΤΑ δὲ ταῦτα ἐξελέγησαν ἀναβῆναι ἀρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after these things the leaders of the house of the paternal houses were chosen to go up according to their tribes, and their wives and their sons and daughters and their male servants and female servants and their cattle.
+Draft translation: And after these things the leaders of the paternal houses were chosen to go up according to their tribes, and their wives and their sons and daughters and their male servants and female servants and their cattle.
 
 Decision rows:
 - None recorded.
@@ -94300,7 +95764,7 @@ Greek: καὶ Δαρεῖος συναπέστειλε μετ᾿ αὐτῶν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Darius sent with them 1,000 horsemen, until he restored them to Jerusalem with peace and with music, drums, and flutes.
+Draft translation: And Darius sent with them 1,000 horsemen until he restored them to Jerusalem with peace and with music, drums, and flutes.
 
 Decision rows:
 - None recorded.
@@ -94340,7 +95804,7 @@ Greek: Καὶ ταῦτα τὰ ὀνόματα τῶν ἀνδρῶν τῶν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And these are the names of the men going up, according to their paternal houses, into their tribes, by their division.
+Draft translation: And these are the names of the men going up, according to their paternal houses, by their tribes and by their division.
 
 Decision rows:
 - None recorded.
@@ -94980,7 +96444,7 @@ Greek: οὗτοι ἀναβάντες ἀπὸ Θερμελὲθ καὶ Θελ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: These went up from Thermeleth and Thelersas, Charaathalan and Aalar leading them.
+Draft translation: These went up from Thermeleth and Thelersas, with Charaathalan and Aalar leading them.
 
 Decision rows:
 - None recorded.
@@ -95040,7 +96504,7 @@ Greek: καὶ τούτων ζητηθείσης τῆς γενικῆς γρα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the genealogical writing of these was sought in the enrollment and was not found, they were separated from serving as priests.
+Draft translation: And when their genealogical writing was sought in the enrollment and was not found, they were separated from serving as priests.
 
 Decision rows:
 - None recorded.
@@ -95180,7 +96644,7 @@ Greek: Ἐνστάντος δὲ τοῦ ἑβδόμου μηνὸς καὶ ὄ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the seventh month was standing and the sons of Israel were each in their own places, they were gathered with one accord into the broad place of the first gate toward the east.
+Draft translation: And when the seventh month had come and the sons of Israel were each in their own places, they were gathered with one accord into the broad place of the first gate toward the east.
 
 Decision rows:
 - None recorded.
@@ -95240,7 +96704,7 @@ Greek: καὶ ἐπισυνήχθησαν αὐτοῖς ἐκ τῶν ἄλλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And some from the other nations of the land were gathered against them, and they set the altar upright upon their place, because they were in hostility with them. And all the nations on the land prevailed against them, and they offered sacrifices according to the time, and whole-burnt offerings to the Lord, morning and evening,
+Draft translation: And some from the other nations of the land were gathered against them, and they set the altar upright upon their place, because the nations were hostile to them. And all the nations on the land prevailed against them, and they offered sacrifices according to the time, and whole-burnt offerings to the Lord, morning and evening,
 
 Decision rows:
 - None recorded.
@@ -95320,7 +96784,7 @@ Greek: καὶ ἔδωκαν ἀργύριον τοῖς λατόμοις κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they gave silver to the stonecutters and craftsmen, and drinks and foods and carts to the Sidonians and Tyrians, for them to bring cedar wood from Lebanon and carry rafts to the harbor of Joppa, according to the commandment written for them by Cyrus king of the Persians.
+Draft translation: And they gave silver to the stonecutters and craftsmen, and drink and food and carts to the Sidonians and Tyrians, for them to bring cedar wood from Lebanon and carry rafts to the harbor of Joppa, according to the commandment written for them by Cyrus king of the Persians.
 
 Decision rows:
 - None recorded.
@@ -95340,7 +96804,7 @@ Greek: καὶ τῷ δευτέρῳ ἔτει παραγενόμενος εἰ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And in the second year, coming to the temple of God in Jerusalem, in the second month, Zerubbabel son of Salathiel and Jesus son of Josedek and their brothers began, and the priests, the Levites, and all those who had come from the captivity into Jerusalem.
+Draft translation: And in the second year after they came to the temple of God in Jerusalem, in the second month, Zerubbabel son of Salathiel and Jesus son of Josedek and their brothers began, along with the priests, the Levites, and all those who had come from the captivity into Jerusalem.
 
 Decision rows:
 - None recorded.
@@ -95460,7 +96924,7 @@ Greek: καὶ ἤλθοσαν ἐκ τῶν ἱερέων τῶν Λευιτῶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And there came from the priests, the Levites, and the leaders according to their paternal houses, the elders who had seen the former house, to the building of this one, with weeping and a great cry,
+Draft translation: And there came from the priests, the Levites, and the leaders according to their paternal houses, the elders who had seen the former house, at the building of this one, with weeping and a great cry,
 
 Decision rows:
 - None recorded.
@@ -95520,7 +96984,7 @@ Greek: Καὶ ἀκούσαντες οἱ ἐχθροὶ τῆς φυλῆς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the enemies of the tribe of Judah and Benjamin heard, they came to recognize what the sound of the trumpets was.
+Draft translation: And when the enemies of the tribe of Judah and Benjamin heard, they came to learn what the sound of the trumpets was.
 
 Decision rows:
 - None recorded.
@@ -95560,7 +97024,7 @@ Greek: καὶ προσελθόντες ἐν τῷ Ζοροβάβελ καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And coming to Zerubbabel and Jesus and the leaders of the paternal houses, they said to them, Let us build together with you.
+Draft translation: And coming to Zerubbabel and Jesus and the leaders of the paternal houses, they said to them, Let us build with you.
 
 Decision rows:
 - None recorded.
@@ -95640,7 +97104,7 @@ Greek: τὰ δὲ ἔθνη τῆς γῆς ἐπικοιμώμενα τοῖς
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the nations of the land, lying upon those in Judea and besieging them, hindered them from building.
+Draft translation: But the nations of the land, pressing upon those in Judea and besieging them, hindered them from building.
 
 Decision rows:
 - None recorded.
@@ -95682,7 +97146,7 @@ Greek: ΕΝ δὲ τῷ δευτέρῳ ἔτει τῆς Δαρείου βασ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And in the second year of the reign of Darius, Haggai and Zechariah son of Addo, the prophets, prophesied to the Jews who were in Judea and Jerusalem, upon them in the name of the Lord God of Israel.
+Draft translation: And in the second year of the reign of Darius, Haggai and Zechariah son of Addo, the prophets, prophesied to the Jews who were in Judea and Jerusalem, in the name of the Lord God of Israel over them.
 
 Decision rows:
 - None recorded.
@@ -95722,7 +97186,7 @@ Greek: ἐν αὐτῷ τῷ χρόνῳ παρῆν πρὸς αὐτοὺς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: At that same time Sisinēs, the governor of Syria and Phoenicia, came to them, and Sathrabouzanes and the fellow-companions, and they said to them,
+Draft translation: At that same time Sisinēs, the governor of Syria and Phoenicia, came to them, and Sathrabouzanes and the companions, and they said to them,
 
 Decision rows:
 - None recorded.
@@ -95762,7 +97226,7 @@ Greek: καὶ ἔσχοσαν χάριν ἐπισκοπῆς γενομένη�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the elders of the Jews had favor, a visitation having come upon the captivity from the Lord,
+Draft translation: And the elders of the Jews obtained favor, a visitation from the Lord having come upon the captivity,
 
 Decision rows:
 - None recorded.
@@ -95802,7 +97266,7 @@ Greek: Ἀντίγραφον ἐπιστολῆς, ἧς ἔγραψε Δαρε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Copy of a letter that they wrote to Darius and sent: Sisinēs, governor of Syria and Phoenicia, and Sathrabouzanes and the fellow-companions, the leaders in Syria and Phoenicia, to King Darius, greeting.
+Draft translation: Copy of the letter that they wrote to Darius and sent: Sisinēs, governor of Syria and Phoenicia, and Sathrabouzanes and the companions, the leaders in Syria and Phoenicia, to King Darius, greeting.
 
 Decision rows:
 - None recorded.
@@ -95822,7 +97286,7 @@ Greek: πάντα γνωστὰ ἔστω τῷ κυρίῳ ἡμῶν τῷ β�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Let all things be known to our lord the king, that when we came into the country of Judea and arrived at the city Jerusalem, we found the elders of the Jews from the captivity in the city Jerusalem, building a great new house for the Lord with expensive polished stones, with wood being placed in the walls.
+Draft translation: Let all things be known to our lord the king, that when we came into the country of Judea and arrived at the city Jerusalem, we found the elders of the Jews from the captivity in Jerusalem the city, building a great new house for the Lord with expensive polished stones, with wood being placed in the walls.
 
 Decision rows:
 - None recorded.
@@ -95882,7 +97346,7 @@ Greek: ἐπερωτήσαμεν οὖν αὐτοὺς εἵνεκεν τοῦ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore we questioned them for the sake of making known to you and writing to you the men who were leading, and we asked them the name-registration of those presiding.
+Draft translation: Therefore we questioned them for the sake of making known to you and writing to you the men who were leading, and we asked them for the written register of names of those presiding.
 
 Decision rows:
 - None recorded.
@@ -95942,7 +97406,7 @@ Greek: καὶ ἐπεὶ οἱ πατέρες ἡμῶν παραπικράνα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when our fathers, having provoked bitterly, sinned against the heavenly Lord of Israel, he gave them into the hands of Nebuchadnezzar, king of Babylon, king of the Chaldeans.
+Draft translation: And when our fathers, after provoking bitterly, sinned against the heavenly Lord of Israel, he gave them into the hands of Nebuchadnezzar, king of Babylon, king of the Chaldeans.
 
 Decision rows:
 - None recorded.
@@ -95982,7 +97446,7 @@ Greek: ἐν δὲ τῷ πρώτῳ ἔτει βασιλεύοντος Κύρο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But in the first year of Cyrus reigning over the country of Babylonia, King Cyrus wrote to build this house.
+Draft translation: But in the first year when Cyrus reigned over the country of Babylonia, King Cyrus wrote to build this house.
 
 Decision rows:
 - None recorded.
@@ -96022,7 +97486,7 @@ Greek: καὶ ἐπετάγη αὐτῷ, καὶ ἀπήνεγκε πάντα 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it was commanded to him, and he carried away all these vessels to deposit them in the temple in Jerusalem, and that the temple of the Lord should be built on the place.
+Draft translation: And he was commanded to carry away all these vessels and deposit them in the temple in Jerusalem, and that the temple of the Lord should be built on the place.
 
 Decision rows:
 - None recorded.
@@ -96042,7 +97506,7 @@ Greek: τότε ὁ Σαβανάσσαρος παραγενόμενος ἀνε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then Sabanassar came and laid the foundations of the house of the Lord in Jerusalem, and from then until now it has been being built but has not received completion.
+Draft translation: Then Sabanassar came and laid the foundations of the house of the Lord in Jerusalem, and from then until now it has been under construction but has not received completion.
 
 Decision rows:
 - None recorded.
@@ -96082,7 +97546,7 @@ Greek: καὶ ἐὰν εὑρίσκηται μετὰ τῆς γνώμης Κ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And if it is found that the building of the house of the Lord in Jerusalem happened with the judgment of King Cyrus, and it is judged good by our lord the king, let him address us concerning these things.
+Draft translation: And if it is found that the building of the house of the Lord in Jerusalem happened by the judgment of King Cyrus, and it is judged good by our lord the king, let him address us concerning these things.
 
 Decision rows:
 - None recorded.
@@ -96182,7 +97646,7 @@ Greek: προσέταξε δὲ ἐπιμεληθῆναι Σισίννῃ ἐπ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he commanded Sisinēs, governor of Syria and Phoenicia, and Sathrabouzanes and the fellow-companions and the leaders appointed in Syria and Phoenicia, to take care to keep away from the place, but to permit the servant of the Lord, Zerubbabel, governor of Judea, and the elders of the Jews to build that house of the Lord on the place.
+Draft translation: And he commanded Sisinēs, governor of Syria and Phoenicia, and Sathrabouzanes and the companions and the leaders appointed in Syria and Phoenicia, to take care to keep away from the place, but to permit the servant of the Lord, Zerubbabel, governor of Judea, and the elders of the Jews to build that house of the Lord on the place.
 
 Decision rows:
 - None recorded.
@@ -96222,7 +97686,7 @@ Greek: καὶ ἀπὸ τῆς φορολογίας Κοίλης Συρίας �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And from the taxation of Coele-Syria and Phoenicia, an exact allotment is to be given to these men for sacrifice to the Lord, to Zerubbabel the governor, for bulls and rams and lambs,
+Draft translation: And from the taxation of Coele-Syria and Phoenicia, a careful allowance is to be given to these men for sacrifice to the Lord, to Zerubbabel the governor, for bulls and rams and lambs,
 
 Decision rows:
 - None recorded.
@@ -96282,7 +97746,7 @@ Greek: καὶ προστάξαι ἵνα ὅσοι ἐὰν παραβῶσί �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And I have commanded that whoever transgresses or annuls any of the things written, a beam be taken from his own things and he be hanged upon it, and his possessions become royal.
+Draft translation: And I have commanded that whoever transgresses or annuls any of the things written, a beam be taken from his own property and he be hanged upon it, and his possessions become royal.
 
 Decision rows:
 - None recorded.
@@ -96302,7 +97766,7 @@ Greek: διὰ ταῦτα καὶ ὁ Κύριος, οὗ τὸ ὄνομα α�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Because of these things, may the Lord, whose name has been called there, make vanish every king and nation who stretches out his hand to hinder or harm that house of the Lord in Jerusalem.
+Draft translation: Because of these things, may the Lord, whose name has been called there, destroy every king and nation who stretches out his hand to hinder or harm that house of the Lord in Jerusalem.
 
 Decision rows:
 - None recorded.
@@ -96344,7 +97808,7 @@ Greek: ΤΟΤΕ Σισίννης ἔπαρχος Κοίλης Συρίας κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then Sisinēs, governor of Coele-Syria and Phoenicia, and Sathrabouzanes and the fellow-companions, following closely the things commanded by King Darius,
+Draft translation: Then Sisinēs, governor of Coele-Syria and Phoenicia, and Sathrabouzanes and the companions, following closely the things commanded by King Darius,
 
 Decision rows:
 - None recorded.
@@ -96404,7 +97868,7 @@ Greek: καὶ συνετέλεσαν ταῦτα διὰ προστάγματο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they completed these things by commandment of the Lord God of Israel, and with the judgment of Cyrus and Darius and Artaxerxes, kings of Persians.
+Draft translation: And they completed these things by commandment of the Lord God of Israel, and by the judgment of Cyrus and Darius and Artaxerxes, kings of the Persians.
 
 Decision rows:
 - None recorded.
@@ -96504,7 +97968,7 @@ Greek: καὶ ἔστησαν οἱ ἱερεῖς καὶ οἱ Λευῖτα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the priests and the Levites stood according to tribes, clothed for the works of the Lord God of Israel, according to the book of Moses, and the gatekeepers at each gate.
+Draft translation: And the priests and the Levites stood according to tribes, clothed for the works of the Lord God of Israel, according to the book of Moses, and the gatekeepers stood at each gate.
 
 Decision rows:
 - None recorded.
@@ -96544,7 +98008,7 @@ Greek: καὶ πάντες οἱ υἱοὶ τῆς αἰχμαλωσίας, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and all the sons of the captivity, because they had been purified, because the Levites had all been purified together.
+Draft translation: and all the sons of the captivity, because they had been purified; for the Levites had all been purified together.
 
 Decision rows:
 - None recorded.
@@ -96584,7 +98048,7 @@ Greek: καὶ ἐφάγοσαν οἱ υἱοὶ Ἰσραὴλ οἱ ἐκ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the sons of Israel from the captivity ate, all those who had separated from the abominations of the nations of the land, seeking the Lord.
+Draft translation: And the sons of Israel from the captivity ate, all those who had separated themselves from the abominations of the nations of the land, seeking the Lord.
 
 Decision rows:
 - None recorded.
@@ -96624,7 +98088,7 @@ Greek: ὅτι μετέστρεψε τὴν βουλὴν τοῦ βασιλέω
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: because he had turned the counsel of the king of Assyrians toward them, to strengthen their hands for the works of the Lord God of Israel.
+Draft translation: because he had turned the counsel of the king of the Assyrians toward them, to strengthen their hands for the works of the Lord God of Israel.
 
 Decision rows:
 - None recorded.
@@ -96646,7 +98110,7 @@ Greek: ΚΑΙ μεταγενέστερος τούτων βασιλεύοντος
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And later than these things, when Artaxerxes king of the Persians was reigning, Ezra son of Saraios, son of Ezechrios, son of Chelkias, son of Salem, went up,
+Draft translation: And after these things, when Artaxerxes king of the Persians was reigning, Ezra son of Saraios, son of Ezechrios, son of Chelkias, son of Salem, went up,
 
 Decision rows:
 - None recorded.
@@ -96686,7 +98150,7 @@ Greek: οὗτος Ἔσδρας ἀνέβη ἐκ Βαβυλῶνος ὡς γ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: This Ezra went up from Babylon, being a skilled scribe in the law of Moses given out by the God of Israel,
+Draft translation: This Ezra went up from Babylon, being a skilled scribe in the law of Moses given by the God of Israel,
 
 Decision rows:
 - None recorded.
@@ -96706,7 +98170,7 @@ Greek: καὶ ἔδωκεν αὐτῷ ὁ βασιλεὺς δόξαν, εὑ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and the king gave him glory, since he found favor before him in all his requests.
+Draft translation: and the king gave him honor, since he found favor before him in all his requests.
 
 Decision rows:
 - None recorded.
@@ -96766,7 +98230,7 @@ Greek: ὁ γὰρ Ἔσδρας πολλὴν ἐπιστήμην περιεῖ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For Ezra contained much knowledge so as to leave aside nothing from the law of the Lord and from the commandments, to teach all Israel ordinances and judgments.
+Draft translation: For Ezra had much knowledge, so as to omit nothing from the law of the Lord and from the commandments, and to teach all Israel ordinances and judgments.
 
 Decision rows:
 - None recorded.
@@ -96786,7 +98250,7 @@ Greek: Προσπεσόντος δὲ τοῦ γραφέντος προστάγ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Now when the written command from King Artaxerxes came to Ezra the priest and reader of the law of the Lord, of which the following is a copy:
+Draft translation: Now when the written command from King Artaxerxes came to Ezra the priest and reader of the law of the Lord, this was the copy:
 
 Decision rows:
 - None recorded.
@@ -96826,7 +98290,7 @@ Greek: καὶ τὰ φιλάνθρωπα ἐγὼ κρίνας προσέταξ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And I, judging humane things, have commanded those who wish from the nation of the Jews, choosing, and from the priests and the Levites, and these in our kingdom, to go with you to Jerusalem.
+Draft translation: And I, having judged kindly, have commanded those who wish and choose from the nation of the Jews, and from the priests and the Levites, who are in our kingdom, to go with you to Jerusalem.
 
 Decision rows:
 - None recorded.
@@ -96846,7 +98310,7 @@ Greek: ὅσοι οὖν ἐνθυμοῦνται, συνεξορμάσθωσα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore as many as are mindful, let them set out together, just as it seemed good to me and to the seven friend-counselors,
+Draft translation: Therefore as many as have this in mind, let them set out together, just as it seemed good to me and to the seven friend-counselors,
 
 Decision rows:
 - None recorded.
@@ -97046,7 +98510,7 @@ Greek: καὶ ἄλλα ἐκ πλήθους· πάντα κατὰ τὸν τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and other things from abundance. Let all things be carefully completed according to the law of God for God Most High, lest wrath come upon the kingdom of the king and his sons.
+Draft translation: and other things in abundance. Let all things be carefully completed according to the law of God for God Most High, lest wrath come upon the kingdom of the king and his sons.
 
 Decision rows:
 - None recorded.
@@ -97126,7 +98590,7 @@ Greek: Καὶ εἶπεν Ἔσδρας ὁ γραμματεύς· εὐλογ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Ezra the scribe said, Blessed alone is the Lord, the God of my fathers, who gave these things into the heart of the king, to glorify his house in Jerusalem,
+Draft translation: And Ezra the scribe said, Blessed is the Lord alone, the God of my fathers, who gave these things into the heart of the king, to glorify his house in Jerusalem,
 
 Decision rows:
 - None recorded.
@@ -97146,7 +98610,7 @@ Greek: καὶ ἐμὲ ἐτίμησεν ἐναντίον τοῦ βασιλέ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and he honored me before the king and the counselors and all his friends and great men.
+Draft translation: and honored me before the king and the counselors and all his friends and great men.
 
 Decision rows:
 - None recorded.
@@ -97166,7 +98630,7 @@ Greek: καὶ ἐγὼ εὐθαρσὴς ἐγενόμην κατὰ τὴν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And I became bold according to the support of the Lord my God, and I gathered men from Israel to go up together with me.
+Draft translation: And I took courage according to the support of the Lord my God, and I gathered men from Israel to go up together with me.
 
 Decision rows:
 - None recorded.
@@ -97526,7 +98990,7 @@ Greek: ἐντειλάμενος αὐτοῖς διαλεχθῆναι Λοδδ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: commanding them to speak with Loddaeos and his brothers and the treasurers in the place, to send us those who would serve as priests in the house of our Lord.
+Draft translation: commanding them to speak with Loddaeos and his brothers and the treasurers in the place, to send us those who would serve in the house of our Lord.
 
 Decision rows:
 - None recorded.
@@ -97586,7 +99050,7 @@ Greek: καὶ ἐκ τῶν ἱεροδούλων, ὧν ἔδωκε Δαυίδ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And from the temple servants, whom David and the leaders gave for the work of the Levites, 220 temple servants; the name-registration of all was marked.
+Draft translation: And from the temple servants, whom David and the leaders gave for the work of the Levites, 220 temple servants; the written register of names for all was marked.
 
 Decision rows:
 - None recorded.
@@ -97606,7 +99070,7 @@ Greek: καὶ εὐξάμην ἐκεῖ νηστείαν τοῖς νεανί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And I vowed a fast there for the young men before our Lord,
+Draft translation: And I proclaimed a fast there for the young men before our Lord,
 
 Decision rows:
 - None recorded.
@@ -97826,7 +99290,7 @@ Greek: Καὶ ἀναζεύξαντες ἀπὸ τοῦ ποταμοῦ Θερ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And departing from the river Thera on the twelfth day of the first month, we came into Jerusalem according to the mighty hand of our Lord upon us. And he rescued us from every enemy on the way in, and we came into Jerusalem.
+Draft translation: And departing from the river Thera on the twelfth day of the first month, we came into Jerusalem according to the mighty hand of our Lord upon us. And he rescued us from every enemy on the way, and we came into Jerusalem.
 
 Decision rows:
 - None recorded.
@@ -97842,11 +99306,31 @@ Variant notes:
 
 ### 1 Esdras 8:61
 
-Greek: καὶ γενομένης αὐτόθι ἡμέρας τρίτης, τῇ ἡμέρᾳ τῇ τετάρτῃ σταθὲν τὸ ἀργύριον καὶ τὸ χρυσίον παρεδόθη ἐν τῷ οἴκῳ Κυρίου ἡμῶν Μαρμωθὶ Οὐρίᾳ ἱερεῖ 62 καὶ μετ᾿ αὐτοῦ Ἐλεάζαρ ὁ τοῦ Φινεές, καὶ ἦσαν μετ᾿ αὐτοῦ Ἰωσαβδὸς Ἰησοῦ καὶ Μωὲθ Σαβάννου, οἱ Λευῖται πρὸς ἀριθμὸν καὶ ὁλκὴν ἅπαντα, καὶ ἐγράφη πᾶσα ἡ ὁλκὴ αὐτῶν αὐτῇ τῇ ὥρᾳ.
+Greek: καὶ γενομένης αὐτόθι ἡμέρας τρίτης, τῇ ἡμέρᾳ τῇ τετάρτῃ σταθὲν τὸ ἀργύριον καὶ τὸ χρυσίον παρεδόθη ἐν τῷ οἴκῳ Κυρίου ἡμῶν Μαρμωθὶ Οὐρίᾳ ἱερεῖ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after three days there, on the fourth day the weighed silver and gold was handed over in the house of our Lord to Marmoth son of Ourias the priest. [62] And with him was Eleazar son of Phinehas, and with him were Josabdos son of Jesus and Moeth son of Sabannos, the Levites. Everything was by number and weight, and all their weight was written at that same hour.
+Draft translation: And after three days there, on the fourth day the weighed silver and gold was handed over in the house of our Lord to Marmoth son of Ourias the priest.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### 1 Esdras 8:62
+
+Greek: καὶ μετ᾿ αὐτοῦ Ἐλεάζαρ ὁ τοῦ Φινεές, καὶ ἦσαν μετ᾿ αὐτοῦ Ἰωσαβδὸς Ἰησοῦ καὶ Μωὲθ Σαβάννου, οἱ Λευῖται πρὸς ἀριθμὸν καὶ ὁλκὴν ἅπαντα, καὶ ἐγράφη πᾶσα ἡ ὁλκὴ αὐτῶν αὐτῇ τῇ ὥρᾳ.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And with him was Eleazar son of Phinehas, and with him were Josabdos son of Jesus and Moeth son of Sabannos, the Levites. Everything was by number and weight, and all their weight was written at that same hour.
 
 Decision rows:
 - None recorded.
@@ -97986,7 +99470,7 @@ Greek: καὶ ἐπισυνήχθησαν πρός με ὅσοι ποτὲ ἐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And all who were ever moved by the word of the Lord God of Israel gathered to me, while I was mourning over the lawlessness; and I sat deeply grieved until the evening sacrifice.
+Draft translation: And all who were moved by the word of the Lord God of Israel gathered to me, while I was mourning over the lawlessness; and I sat deeply grieved until the evening sacrifice.
 
 Decision rows:
 - None recorded.
@@ -98166,7 +99650,7 @@ Greek: καὶ δοξάσαι τὸ ἱερὸν τοῦ Κυρίου ἡμῶν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and to glorify the temple of our Lord and to raise desolate Zion, to give us a firm support in Judea and Jerusalem.
+Draft translation: and to glorify the temple of our Lord and to raise up desolate Zion, to give us a firm support in Judea and Jerusalem.
 
 Decision rows:
 - None recorded.
@@ -98386,7 +99870,7 @@ Greek: καὶ φωνήσας Ἰεχονίας Ἰεήλου τῶν υἱῶν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Jeconiah son of Jeel, from the sons of Israel, cried out and said, Ezra, we have sinned against the Lord and have made foreign women from the nations of the land dwell with us. And now this matter is over all Israel.
+Draft translation: And Jeconiah son of Jeel, from the sons of Israel, cried out and said, Ezra, we have sinned against the Lord and have made foreign women from the nations of the land dwell with us. And now this is over all Israel.
 
 Decision rows:
 - None recorded.
@@ -98426,7 +99910,7 @@ Greek: ἀναστὰς ἐπιτέλει· πρός σε γὰρ τὸ πρᾶ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Rise up and complete it, for the matter is toward you, and we are with you to make strength.
+Draft translation: Rise up and complete it, for the matter is yours, and we are with you to act with strength.
 
 Decision rows:
 - None recorded.
@@ -98528,7 +100012,7 @@ Greek: καὶ ὅσοι ἂν μὴ ἀπαντήσωσιν ἐν δυσὶν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And as many as did not meet within two or three days, according to the judgment of the presiding elders, their cattle would be consecrated, and he himself would be alienated from the multitude of the captivity.
+Draft translation: And as many as did not assemble within two or three days, according to the judgment of the presiding elders, their cattle would be consecrated, and he himself would be alienated from the multitude of the captivity.
 
 Decision rows:
 - None recorded.
@@ -98848,7 +100332,7 @@ Greek: καὶ ἐπέβαλον τὰς χεῖρας ἐκβαλεῖν τὰ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they laid on their hands to cast out their wives, and for atonement, rams for their ignorance.
+Draft translation: And they laid their hands to cast out their wives, and for atonement, rams for their ignorance.
 
 Decision rows:
 - None recorded.
@@ -99348,7 +100832,7 @@ Greek: καὶ ἀναλαβὼν Ἔσδρας τὸ βιβλίον ἐνώπι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Ezra took up the book before the multitude and sat before all in glory,
+Draft translation: And Ezra took up the book before the multitude and sat in honor before all,
 
 Decision rows:
 - None recorded.
@@ -99408,7 +100892,7 @@ Greek: Ἰησοῦς καὶ Ἀννιοὺθ καὶ Σαραβίας καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Jesus and Anniouth and Sarabias and Jadinos and Jakoubos, Sabbataios, Autaias, Maiannas and Kalitas, Azarias and Jozabdos and Ananias, Phalias, the Levites, were teaching the law of the Lord and reading the law of the Lord to the multitude, making the reading clear at the same time.
+Draft translation: Jesus and Anniouth and Sarabias and Jadinos and Jakoubos, Sabbataios, Autaias, Maiannas and Kalitas, Azarias and Jozabdos and Ananias, Phalias, the Levites, were teaching the law of the Lord and reading the law of the Lord to the multitude, clarifying the reading at the same time.
 
 Decision rows:
 - None recorded.
@@ -99572,7 +101056,7 @@ Greek: ΚΑΙ ἐν τῷ πρώτῳ ἔτει Κύρου τοῦ Βασιλέ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And in the first year of Cyrus king of the Persians, for fulfillment of the word of the Lord from the mouth of Jeremiah, the Lord stirred the spirit of Cyrus king of the Persians, and he proclaimed with a voice through all his kingdom, also in writing, saying,
+Draft translation: And in the first year of Cyrus king of the Persians, for the fulfillment of the word of the Lord from the mouth of Jeremiah, the Lord stirred the spirit of Cyrus king of the Persians, and he proclaimed by voice through all his kingdom, also in writing, saying,
 
 Decision rows:
 - None recorded.
@@ -99592,7 +101076,7 @@ Greek: οὕτως εἶπε Κῦρος βασιλεὺς Περσῶν· πά�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Thus said Cyrus king of the Persians: The Lord God of heaven gave me all kingdoms of the earth, and he charged me to build for him a house in Jerusalem, the one in Judah.
+Draft translation: Thus said Cyrus king of the Persians: The Lord God of heaven gave me all the kingdoms of the earth, and he charged me to build him a house in Jerusalem, the one in Judah.
 
 Decision rows:
 - None recorded.
@@ -99612,7 +101096,7 @@ Greek: τίς ἐν ὑμῖν ἀπὸ παντὸς τοῦ λαοῦ αὐτ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Who among you is from all his people? Let his God be with him, and let him go up to Jerusalem in Judah and build the house of God of Israel. He is the God in Jerusalem.
+Draft translation: Who among you is from all his people? Let his God be with him, and let him go up to Jerusalem in Judah and build the house of the God of Israel. He is the God in Jerusalem.
 
 Decision rows:
 - None recorded.
@@ -99632,7 +101116,7 @@ Greek: καὶ πᾶς ὁ καταλιπόμενος ἀπὸ πάντων τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And everyone left behind from all the places where he sojourns there, let men of his place support him with silver and gold and goods and cattle, besides the voluntary gift for the house of God in Jerusalem.
+Draft translation: And everyone left behind from any of the places where he sojourns there, let the men of his place support him with silver and gold and goods and cattle, besides the voluntary gift for the house of God in Jerusalem.
 
 Decision rows:
 - None recorded.
@@ -99652,7 +101136,7 @@ Greek: καὶ ἀνέστησαν ἄρχοντες τῶν πατριῶν τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then the heads of father-houses of Judah and Benjamin rose up, and priests and Levites, all whose spirit God stirred to go up to build the house of the Lord in Jerusalem.
+Draft translation: Then the heads of paternal houses of Judah and Benjamin rose up, and priests and Levites, all whose spirit God stirred to go up to build the house of the Lord in Jerusalem.
 
 Decision rows:
 - None recorded.
@@ -99672,7 +101156,7 @@ Greek: καὶ πάντες οἱ κυκλόθεν ἐνίσχυσαν ἐν χ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And all around them strengthened their hands with silver vessels, with gold, with goods and cattle and gifts, besides all the voluntary offerings.
+Draft translation: And all those around them strengthened their hands with silver vessels, with gold, with goods and cattle and gifts, besides all the voluntary offerings.
 
 Decision rows:
 - None recorded.
@@ -99732,7 +101216,7 @@ Greek: καὶ οὗτος ὁ ἀριθμὸς αὐτῶν· ψυκτῆρες
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And this their number: thirty golden basins, one thousand silver basins, twenty-nine substitute vessels,
+Draft translation: And this was their number: thirty golden basins, one thousand silver basins, twenty-nine altered vessels,
 
 Decision rows:
 - None recorded.
@@ -100574,7 +102058,7 @@ Greek: καὶ οἱ Λευῖται υἱοὶ Ἰησοῦ καὶ Καδμι�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the Levites: sons of Jeshua and Kadmiel, to the sons of Hodaiah, 74.
+Draft translation: And the Levites: sons of Jeshua and Kadmiel, among the sons of Hodaiah, 74.
 
 Decision rows:
 - None recorded.
@@ -100634,7 +102118,7 @@ Greek: οἱ Ναθινίμ, υἱοὶ Σουθία, υἱοὶ Ἀσουφά, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The nethinim: sons of Sia, sons of Asouph, sons of Tabbaoth,
+Draft translation: The temple servants: sons of Sia, sons of Asouph, sons of Tabbaoth,
 
 Decision rows:
 - None recorded.
@@ -100934,7 +102418,7 @@ Greek: πάντες οἱ Ναθανὶμ καὶ υἱοὶ Ἀβδησελμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: All the nethinim and sons of Solomon's servants: 392.
+Draft translation: All the temple servants and sons of Solomon's servants: 392.
 
 Decision rows:
 - None recorded.
@@ -100954,7 +102438,7 @@ Greek: καὶ οὗτοι οἱ ἀναβάντες ἀπὸ Θελμελέχ, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And these were the ones coming up from Telmelah, Telharsa, Cherub, Edan, and Immer, and they were not able to declare their father-house and their seed, whether they were from Israel:
+Draft translation: And these were the ones coming up from Telmelah, Telharsa, Cherub, Edan, and Immer, and they were not able to declare their paternal house and their seed, whether they were from Israel:
 
 Decision rows:
 - None recorded.
@@ -101034,7 +102518,7 @@ Greek: καὶ εἶπεν Ἀθερσασθὰ αὐτοῖς τοῦ μὴ φ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the Tirshatha said to them not to eat from the holy of holies until a priest might arise with the lights and the perfections.
+Draft translation: And Athersastha said to them not to eat from the holy of holies until a priest might arise with the Lights and the Perfections.
 
 Decision rows:
 - None recorded.
@@ -101134,7 +102618,7 @@ Greek: καὶ ἀπὸ ἀρχόντων πατριῶν ἐν τῷ εἰσε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And some from the heads of father-houses, when they came to the house of the Lord in Jerusalem, made freewill offerings for the house of God, to set it on its foundation.
+Draft translation: And some from the heads of paternal houses, when they came to the house of the Lord in Jerusalem, made freewill offerings for the house of God, to set it on its foundation.
 
 Decision rows:
 - None recorded.
@@ -101174,7 +102658,7 @@ Greek: καὶ ἐκάθισαν οἱ ἱερεῖς καὶ οἱ Λευῖτ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the priests and Levites and some from the people and the singers and the gatekeepers and the nethinim settled in their cities, and all Israel in their cities.
+Draft translation: And the priests and Levites and some from the people and the singers and the gatekeepers and the temple servants settled in their cities, and all Israel in their cities.
 
 Decision rows:
 - None recorded.
@@ -101216,7 +102700,7 @@ Greek: καὶ ἀνέστη Ἰησοῦς ὁ τοῦ Ἰωσεδὲκ καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Jeshua son of Jozadak rose up, and his brothers the priests, and Zerubbabel son of Shealtiel, and his brothers, and they built altar of God of Israel to offer whole burnt offerings on it, according to things written in the law of Moses man of God.
+Draft translation: And Jeshua son of Jozadak rose up, and his brothers the priests, and Zerubbabel son of Shealtiel, and his brothers, and they built the altar of the God of Israel to offer whole-burnt offerings on it, according to the things written in the law of Moses, man of God.
 
 Decision rows:
 - None recorded.
@@ -101236,7 +102720,7 @@ Greek: καὶ ἡτοίμασαν τὸ θυσιαστήριον ἐπὶ τὴ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they prepared the altar on its place, because terror from the peoples of the lands was upon them, and they offered on it whole burnt offerings to the Lord, morning and evening.
+Draft translation: And they prepared the altar on its place, because terror from the peoples of the lands was upon them, and they offered whole-burnt offerings on it to the Lord, morning and evening.
 
 Decision rows:
 - None recorded.
@@ -101256,7 +102740,7 @@ Greek: καὶ ἐποίησαν τὴν ἑορτὴν τῶν σκηνῶν κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they kept feast of booths according to what is written, and whole burnt offerings day by day in number, according to ordinance, matter of each day on its day.
+Draft translation: And they kept the feast of tabernacle-pitching according to what is written, and whole-burnt offerings day by day in number, according to ordinance, the matter of each day on its day.
 
 Decision rows:
 - None recorded.
@@ -101276,7 +102760,7 @@ Greek: καὶ μετὰ τοῦτο ὁλοκαυτώσεις ἐνδελεχι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after this came the continual whole burnt offerings, and those for the new moons, and for all the sanctified feasts, and for everyone freely offering a freewill gift to the Lord.
+Draft translation: And after this came the continual whole-burnt offerings, and those for the new moons, and for all the sanctified feasts, and for everyone freely offering a freewill gift to the Lord.
 
 Decision rows:
 - None recorded.
@@ -101296,7 +102780,7 @@ Greek: ἐν ἡμέρᾳ μιᾷ τοῦ μηνὸς τοῦ ἑβδόμου �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: On the first day of seventh month they began offering whole burnt offerings to the Lord, and house of the Lord had not yet been founded.
+Draft translation: On the first day of the seventh month they began offering whole-burnt offerings to the Lord, and the house of the Lord had not yet been founded.
 
 Decision rows:
 - None recorded.
@@ -101316,7 +102800,7 @@ Greek: καὶ ἔδωκαν ἀργύριον τοῖς λατόμοις κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they gave silver to stonecutters and craftsmen, and food and drink and oil to Sidonians and Tyrians to bring cedar timbers from Lebanon to sea of Joppa, according to grant of Cyrus king of the Persians upon them.
+Draft translation: And they gave silver to stonecutters and craftsmen, and food and drink and oil to Sidonians and Tyrians to bring cedar timbers from Lebanon to the sea of Joppa, according to the grant of Cyrus king of the Persians upon them.
 
 Decision rows:
 - None recorded.
@@ -101336,7 +102820,7 @@ Greek: καὶ ἐν τῷ ἔτει τῷ δευτέρῳ τοῦ ἐλθεῖ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And in the second year of their coming to the house of God in Jerusalem, in the second month, Zerubbabel son of Shealtiel and Jeshua son of Jozadak began, along with the rest of their brothers, the priests and the Levites and all who came from captivity to Jerusalem, and they appointed Levites from twenty years old and upward over those doing the works in the house of the Lord.
+Draft translation: And in the second year of their coming to the house of God in Jerusalem, in the second month, Zerubbabel son of Shealtiel and Jeshua son of Jozadak began, along with the rest of their brothers, the priests and the Levites and all who came from the captivity to Jerusalem, and they appointed Levites from twenty years old and upward over those doing the works in the house of the Lord.
 
 Decision rows:
 - None recorded.
@@ -101396,7 +102880,7 @@ Greek: καὶ ἀπεκρίθησαν ἐν αἴνῳ καὶ ἀνθομολ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they answered with praise and thanksgiving to the Lord, For he is good, for his mercy upon Israel is forever. And all the people shouted with a loud voice in praising the Lord over foundation of the house of the Lord.
+Draft translation: And they answered with praise and thanksgiving to the Lord, For he is good, for his mercy upon Israel is forever. And all the people shouted with a loud voice in praising the Lord at the foundation of the house of the Lord.
 
 Decision rows:
 - None recorded.
@@ -101416,7 +102900,7 @@ Greek: καὶ πολλοὶ ἀπὸ τῶν ἱερέων καὶ τῶν Λε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And many from the priests and the Levites and leaders of father-houses, the elders who had seen the first house on its foundation, were weeping with a loud voice when this house was before their eyes, while the crowd with shouting in joy was raising song.
+Draft translation: And many from the priests and the Levites and leaders of paternal houses, the elders who had seen the first house on its foundation, were weeping with a loud voice when this house was before their eyes, while the crowd raised song with shouting in joy.
 
 Decision rows:
 - None recorded.
@@ -101458,7 +102942,7 @@ Greek: ΚΑΙ ἤκουσαν οἱ θλίβοντες Ἰούδα καὶ Βε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And those afflicting Judah and Benjamin heard that sons of the captivity are building a house to God of Israel.
+Draft translation: And those afflicting Judah and Benjamin heard that sons of the captivity were building a house to the God of Israel.
 
 Decision rows:
 - None recorded.
@@ -101478,7 +102962,7 @@ Greek: καὶ ἤγγισαν πρὸς Ζοροβάβελ καὶ πρὸς τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they came near to Zerubbabel and to the heads of father-houses and said to them, We will build with you, because like you we seek your God, and to him we sacrifice from the days of Esarhaddon king of Asshur, who brought us up here.
+Draft translation: And they came near to Zerubbabel and to the heads of paternal houses and said to them, We will build with you, because like you we seek your God, and to him we sacrifice from the days of Esarhaddon king of Assyria, who brought us up here.
 
 Decision rows:
 - None recorded.
@@ -101498,7 +102982,7 @@ Greek: καὶ εἶπε πρὸς αὐτοὺς Ζοροβάβελ καὶ Ἰ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Zerubbabel and Jeshua and the rest of the heads of father-houses of Israel said to them, It is not for us and you to build a house to our God, for we ourselves together will build to the Lord our God, as Cyrus king of the Persians commanded us.
+Draft translation: And Zerubbabel and Jeshua and the rest of the heads of paternal houses of Israel said to them, It is not for us and you to build a house to our God, for we ourselves together will build to the Lord our God, as Cyrus king of the Persians commanded us.
 
 Decision rows:
 - None recorded.
@@ -101518,7 +103002,7 @@ Greek: καὶ ἦν ὁ λαὸς τῆς γῆς ἐκλύων τὰς χεῖ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the people of the land were weakening hands of the people of Judah and hindering them from building,
+Draft translation: And the people of the land were weakening the hands of the people of Judah and hindering them from building,
 
 Decision rows:
 - None recorded.
@@ -101538,7 +103022,7 @@ Greek: καὶ μισθούμενοι ἐπ᾿ αὐτοὺς βουλευόμε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and hiring counselors against them to scatter their counsel all the days of Cyrus king of the Persians and until reign of Darius king of the Persians.
+Draft translation: and hiring counselors against them to scatter their counsel all the days of Cyrus king of the Persians and until the reign of Darius king of the Persians.
 
 Decision rows:
 - None recorded.
@@ -101578,7 +103062,7 @@ Greek: καὶ ἐν ἡμέραις Ἀρθασασθὰ ἔγραψεν ἐν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And in the days of Artaxerxes, Mithredath, Tabeel, together with the rest of his fellow-servants, wrote to Artaxerxes king of the Persians. The tax-writer wrote the document in Syrian, and it was translated.
+Draft translation: And in the days of Artaxerxes, Mithredath, Tabeel, together with the rest of his fellow-servants, wrote in peace to Artaxerxes king of the Persians. The tax-writer wrote the document in Syrian, and it was translated.
 
 Decision rows:
 - None recorded.
@@ -101618,7 +103102,7 @@ Greek: τάδε ἔκρινε Ραοὺμ βααλτὰμ καὶ Σαμψὰ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: thus judged Rehum the chancellor and Shimshai the scribe and our other fellow-servants, the Dinaeans, the Apharsathchites, the Tarphelaeans, the Apharsaeans, the Archyaeans, the Babylonians, the Sousanchaeans, who are Elamites,
+Draft translation: This was the judgment of Rehum the chancellor and Shimshai the scribe and our other fellow-servants, the Dinaeans, the Apharsathchites, the Tarphelaeans, the Apharsaeans, the Archyaeans, the Babylonians, the Sousanchaeans, who are Elamites,
 
 Decision rows:
 - None recorded.
@@ -101678,7 +103162,7 @@ Greek: γνωστὸν ἔστω τῷ βασιλεῖ ὅτι οἱ Ἰουδα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Let it be known to the king that the Jews who came up from you to us have come to Jerusalem, the rebellious and wicked city. They are building it, and its walls are being made ready, and they raised up its foundations.
+Draft translation: Let it be known to the king that the Jews who came up from you to us have come to Jerusalem, the rebellious and wicked city. They are building it, and its walls are being made ready, and they have raised up its foundations.
 
 Decision rows:
 - None recorded.
@@ -101718,7 +103202,7 @@ Greek: καὶ ἀσχημοσύνην βασιλέως οὐκ ἔξεστιν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it is not lawful for us to see shame of the king; because of this we sent and made it known to the king,
+Draft translation: And it is not lawful for us to see the king's shame; because of this we sent and made it known to the king,
 
 Decision rows:
 - None recorded.
@@ -101738,7 +103222,7 @@ Greek: ἵνα ἐπισκέψηται ἐν βίβλῳ ὑπομνηματισ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: so that he may inspect book of records of your fathers, and you will find and know that that city is a rebellious city, harming kings and lands, and that runaways of slaves were in its midst from ancient times. Because of these things that city was laid waste.
+Draft translation: so that he may inspect the book of records of your fathers, and you will find and know that that city is a rebellious city, harming kings and lands, and that runaways of slaves were in its midst from ancient times. Because of these things that city was laid waste.
 
 Decision rows:
 - None recorded.
@@ -101778,7 +103262,7 @@ Greek: Καὶ ἀπέστειλεν ὁ βασιλεὺς πρὸς Ραοὺμ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the king sent to Rehum the chancellor and Shimshai the scribe and the rest of their fellow-servants dwelling in Samaria and the rest beyond the River, Peace, and he says,
+Draft translation: And the king sent to Rehum the chancellor and Shimshai the scribe and the rest of their fellow-servants dwelling in Samaria and the rest beyond the River: Peace, he says.
 
 Decision rows:
 - None recorded.
@@ -101858,7 +103342,7 @@ Greek: καὶ νῦν θέτε γνώμην καταργῆσαι τοὺς ἄ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now set decision to stop those men, and that city shall not be built again except by decree.
+Draft translation: And now set a decree to stop those men, and that city shall not be built again except by decree.
 
 Decision rows:
 - None recorded.
@@ -101898,7 +103382,7 @@ Greek: Τότε ὁ φορολόγος τοῦ Ἀρθασασθὰ βασιλέ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then tax-document of King Artaxerxes was read before Rehum and Shimshai the scribe and their fellow-servants, and they went in haste to Jerusalem and into Judah and stopped them with horses and force.
+Draft translation: Then the tax-document of King Artaxerxes was read before Rehum and Shimshai the scribe and their fellow-servants, and they went in haste to Jerusalem and into Judah and stopped them with horses and force.
 
 Decision rows:
 - None recorded.
@@ -101918,7 +103402,7 @@ Greek: τότε ἤργησε τὸ ἔργον οἴκου τοῦ Θεοῦ τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then work of the house of God in Jerusalem ceased, and it lay idle until the second year of the reign of Darius king of the Persians.
+Draft translation: Then the work of the house of God in Jerusalem ceased, and it lay idle until the second year of the reign of Darius king of the Persians.
 
 Decision rows:
 - None recorded.
@@ -101940,7 +103424,7 @@ Greek: ΚΑΙ ἐπροφήτευσεν Ἀγγαῖος ὁ προφήτης κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Haggai the prophet and Zechariah son of Iddo prophesied over the Jews in Judah and Jerusalem, in the name of God of Israel upon them.
+Draft translation: And Haggai the prophet and Zechariah son of Iddo prophesied over the Jews in Judah and Jerusalem, in the name of the God of Israel upon them.
 
 Decision rows:
 - None recorded.
@@ -101980,7 +103464,7 @@ Greek: ἐν αὐτῷ τῷ καιρῷ ἦλθεν ἐπ᾿ αὐτοὺς Θ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: At that time Tatnai, governor beyond the River, and Shetharboznai and their fellow-servants came upon them and said these things to them: Who set a decree for you to build this house and complete this structure?
+Draft translation: At that time Tatnai, governor beyond the River, and Shetharboznai and their fellow-servants came upon them and said these things to them: Who set a decree for you to build this house and complete this supply?
 
 Decision rows:
 - None recorded.
@@ -102000,7 +103484,7 @@ Greek: τότε ταῦτα εἴποσαν αὐτοῖς· τίνα ἐστὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then they said these things to them: What are names of the men building this city?
+Draft translation: Then they said these things to them: What are the names of the men building this city?
 
 Decision rows:
 - None recorded.
@@ -102020,7 +103504,7 @@ Greek: καὶ οἱ ὀφθαλμοὶ τοῦ Θεοῦ ἐπὶ τὴν αἰ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the eyes of God were upon captivity of Judah, and they did not stop them until a report was carried to Darius and then an answer was sent to the tax-officer concerning this.
+Draft translation: And the eyes of God were upon the captivity of Judah, and they did not stop them until a report was carried to Darius and then an answer was sent to the tax-officer concerning this.
 
 Decision rows:
 - None recorded.
@@ -102040,7 +103524,7 @@ Greek: Διασάφησις ἐπιστολῆς, ἧς ἀπέστειλε Θα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Copy of letter which Tatnai governor beyond the River and Shetharboznai and their fellow-servants, the Apharsachites beyond the River, sent to King Darius:
+Draft translation: Copy of the letter which Tatnai governor beyond the River and Shetharboznai and their fellow-servants, the Apharsachites beyond the River, sent to King Darius:
 
 Decision rows:
 - None recorded.
@@ -102100,7 +103584,7 @@ Greek: τότε ἠρωτήσαμεν τοὺς πρεσβυτέρους ἐκε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then we asked those elders and said this to them: Who set a decree for you to build this house and complete this structure?
+Draft translation: Then we asked those elders and said this to them: Who set a decree for you to build this house and complete this supply?
 
 Decision rows:
 - None recorded.
@@ -102120,7 +103604,7 @@ Greek: καὶ τὰ ὀνόματα αὐτῶν ἠρωτήσαμεν αὐτ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And we also asked them their names, to make them known to you, so that we might write to you names of the men leading them.
+Draft translation: And we also asked them their names, to make them known to you, so that we might write to you the names of the men leading them.
 
 Decision rows:
 - None recorded.
@@ -102160,7 +103644,7 @@ Greek: ἀφ᾿ ὅτε δὲ παρώργισαν οἱ πατέρες ἡμῶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But from time when our fathers provoked the God of heaven, he gave them into the hand of Nebuchadnezzar king of Babylon the Chaldean, and he destroyed this house and exiled the people to Babylon.
+Draft translation: But from the time when our fathers provoked the God of heaven, he gave them into the hand of Nebuchadnezzar king of Babylon the Chaldean, and he destroyed this house and exiled the people to Babylon.
 
 Decision rows:
 - None recorded.
@@ -102200,7 +103684,7 @@ Greek: καὶ τὰ σκεύη τοῦ οἴκου τοῦ Θεοῦ τὰ χρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And vessels of the house of God, the gold and silver ones which Nebuchadnezzar took from the house in Jerusalem and carried into the temple of the king, King Cyrus took them out from the temple of the king and gave them to Sheshbazzar, the treasurer over the treasury.
+Draft translation: And the vessels of the house of God, the gold and silver ones which Nebuchadnezzar took from the house in Jerusalem and carried into the temple of the king, King Cyrus took them out from the temple of the king and gave them to Sheshbazzar, the treasurer over the treasury.
 
 Decision rows:
 - None recorded.
@@ -102260,7 +103744,7 @@ Greek: καὶ νῦν εἰ ἐπὶ τὸν βασιλέα ἀγαθόν, ἐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now, if it seems good to the king, let search be made in the house of royal treasury in Babylon, that you may know whether decree was set from King Cyrus to build that house of God in Jerusalem, and after knowing concerning this let the king send to us.
+Draft translation: And now, if it seems good to the king, let search be made in the royal treasury house in Babylon, that you may know whether a decree was set from King Cyrus to build that house of God in Jerusalem, and after knowing concerning this, let the king send to us.
 
 Decision rows:
 - None recorded.
@@ -102362,7 +103846,7 @@ Greek: καὶ τὰ σκεύη οἴκου τοῦ Θεοῦ τὰ ἀργυρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And silver and gold vessels of the house of God, which Nebuchadnezzar brought out from the house in Jerusalem and carried to Babylon, let them be given back and go to the temple in Jerusalem, to place where they were put, in the house of God.
+Draft translation: And silver and gold vessels of the house of God, which Nebuchadnezzar brought out from the house in Jerusalem and carried to Babylon, let them be given back and go to the temple in Jerusalem, to the place where they were put, in the house of God.
 
 Decision rows:
 - None recorded.
@@ -102402,7 +103886,7 @@ Greek: νῦν ἄφετε τὸ ἔργον οἴκου τοῦ Θεοῦ· ο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Leave work of that house of God alone. Let leaders of the Jews and elders of the Jews build that house of God on its place.
+Draft translation: Leave the work of that house of God alone. Let leaders of the Jews and elders of the Jews build that house of God on its place.
 
 Decision rows:
 - None recorded.
@@ -102422,7 +103906,7 @@ Greek: καὶ ἀπ᾿ ἐμοῦ γνώμη ἐτέθη, μὴ ποτέ τι �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And from me decree has been set that you do nothing against elders of the Jews in building that house of God, and from possessions of the king, from taxes beyond the River, let expense be carefully given to those men so that it not stop.
+Draft translation: And from me a decree has been set that you do nothing against the elders of the Jews in building that house of God, and from possessions of the king, from taxes beyond the River, let expense be carefully given to those men so that it not stop.
 
 Decision rows:
 - None recorded.
@@ -102442,7 +103926,7 @@ Greek: καὶ ὃ ἂν ὑστέρημα, καὶ υἱοὺς βοῶν κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And whatever is lacking, young bulls and rams and lambs for whole burnt offerings to the God of heaven, wheat, salt, wine, and oil, according to the word of priests in Jerusalem, let it be given to them day by day, whatever they ask,
+Draft translation: And whatever is lacking, young bulls and rams and lambs for whole-burnt offerings to the God of heaven, wheat, salt, wine, and oil, according to the word of priests in Jerusalem, let it be given to them day by day, whatever they ask,
 
 Decision rows:
 - None recorded.
@@ -102482,7 +103966,7 @@ Greek: καὶ ἀπ᾿ ἐμοῦ ἐτέθη γνώμη ὅτι πᾶς ἄν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And from me decree has been set that every man who changes this word, a timber shall be pulled down from his house, and after being raised up he shall be impaled on it, and his house shall be made a ruin for this.
+Draft translation: And from me a decree has been set that every man who changes this word, a timber shall be pulled down from his house, and after being raised up he shall be impaled on it, and his house shall be made a ruin for this.
 
 Decision rows:
 - None recorded.
@@ -102502,7 +103986,7 @@ Greek: καὶ ὁ Θεός, οὗ κατασκηνοῖ τὸ ὄνομα ἐκ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And God, who causes name to dwell there, will overthrow every king and people who stretches out his hand to alter or destroy that house of God in Jerusalem. I, Darius, set a decree; it shall be done carefully.
+Draft translation: And God, whose name dwells there, will overthrow every king and people who stretches out his hand to alter or destroy that house of God in Jerusalem. I, Darius, set a decree; it shall be done carefully.
 
 Decision rows:
 - None recorded.
@@ -102542,7 +104026,7 @@ Greek: καὶ οἱ πρεσβύτεροι τῶν Ἰουδαίων ᾠκοδ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And elders of the Jews were building and prospering through prophecy of Haggai the prophet and Zechariah son of Iddo. And they built and completed it by the decree of God of Israel and by the decree of Cyrus and Darius and Artaxerxes, kings of Persia.
+Draft translation: And elders of the Jews were building and prospering through the prophecy of Haggai the prophet and Zechariah son of Iddo. And they built and completed it by the decree of the God of Israel and by the decree of Cyrus and Darius and Artaxerxes, kings of Persia.
 
 Decision rows:
 - None recorded.
@@ -102562,7 +104046,7 @@ Greek: καὶ ἐτέλεσαν τὸν οἶκον τοῦτον ἕως ἡμ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they completed this house by third day of the month Adar, which was sixth year in the reign of Darius the king.
+Draft translation: And they completed this house by the third day of the month Adar, which was the sixth year in the reign of Darius the king.
 
 Decision rows:
 - None recorded.
@@ -102582,7 +104066,7 @@ Greek: καὶ ἐποίησαν οἱ υἱοὶ Ἰσραήλ, οἱ ἱερε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And sons of Israel, the priests and the Levites and rest of sons of exile, kept dedication of the house of God with gladness.
+Draft translation: And sons of Israel, the priests and the Levites and the rest of the sons of exile, kept the dedication of the house of God with gladness.
 
 Decision rows:
 - None recorded.
@@ -102622,7 +104106,7 @@ Greek: καὶ ἔστησαν τοὺς ἱερεῖς ἐν διαιρέσεσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they set priests in their divisions and Levites in their allotments for the service of God in Jerusalem, according to the writing of book of Moses.
+Draft translation: And they set priests in their divisions and Levites in their allotments for the service of God in Jerusalem, according to the writing of the book of Moses.
 
 Decision rows:
 - None recorded.
@@ -102642,7 +104126,7 @@ Greek: Καὶ ἐποίησαν οἱ υἱοὶ τῆς ἀποικεσίας 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the sons of the exile kept the Passover on fourteenth day of the first month.
+Draft translation: And the sons of the exile kept the Passover on the fourteenth day of the first month.
 
 Decision rows:
 - None recorded.
@@ -102682,7 +104166,7 @@ Greek: καὶ ἔφαγον υἱοὶ Ἰσραὴλ τὸ πάσχα, οἱ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And sons of Israel from the exile ate the Passover, and everyone separating himself from uncleanness of nations of the land to them, to seek the Lord God of Israel.
+Draft translation: And sons of Israel from the exile ate the Passover, and everyone separating himself from the uncleanness of nations of the land to them, to seek the Lord God of Israel.
 
 Decision rows:
 - None recorded.
@@ -102702,7 +104186,7 @@ Greek: καὶ ἐποίησαν τὴν ἑορτὴν τῶν ἀζύμων �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they kept feast of unleavened for seven days with gladness, because the Lord gladdened them and turned heart of the king of Asshur toward them, to strengthen their hands in the works of the house of God of Israel.
+Draft translation: And they kept the feast of unleavened bread for seven days with gladness, because the Lord gladdened them and turned the heart of the king of Assyria toward them, to strengthen their hands in the works of the house of the God of Israel.
 
 Decision rows:
 - None recorded.
@@ -102824,7 +104308,7 @@ Greek: αὐτὸς Ἔσδρας ἀνέβη ἐκ Βαβυλῶνος, καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: This Ezra came up from Babylon, and he was a quick scribe in the law of Moses, which the Lord God of Israel gave, and the king gave to him because the hand of the Lord his God was upon him in all he sought.
+Draft translation: This Ezra came up from Babylon, and he was a swift scribe in the law of Moses, which the Lord God of Israel gave, and the king gave to him because the hand of the Lord his God was upon him in all he sought.
 
 Decision rows:
 - None recorded.
@@ -102844,7 +104328,7 @@ Greek: καὶ ἀνέβησαν ἀπὸ τῶν υἱῶν Ἰσραὴλ κα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And some from the sons of Israel and from the priests and from the Levites and the singers and the gatekeepers and the nethinim went up to Jerusalem in the seventh year of King Artaxerxes.
+Draft translation: And some from the sons of Israel and from the priests and from the Levites and the singers and the gatekeepers and the temple servants went up to Jerusalem in the seventh year of King Artaxerxes.
 
 Decision rows:
 - None recorded.
@@ -102864,7 +104348,7 @@ Greek: καὶ ἤλθοσαν εἰς Ἱερουσαλὴμ τῷ μηνὶ τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they came to Jerusalem in the fifth month; this was seventh year of the king.
+Draft translation: And they came to Jerusalem in the fifth month; this was the seventh year of the king.
 
 Decision rows:
 - None recorded.
@@ -102884,7 +104368,7 @@ Greek: ὅτι ἐν μιᾷ τοῦ μηνὸς τοῦ πρώτου αὐτὸ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For on the first day of the first month he founded the going-up from Babylon, and on the first day of the fifth month they came to Jerusalem, because good hand of his God was upon him.
+Draft translation: For on the first day of the first month he founded the going-up from Babylon, and on the first day of the fifth month they came to Jerusalem, because the good hand of his God was upon him.
 
 Decision rows:
 - None recorded.
@@ -102924,7 +104408,7 @@ Greek: Καὶ αὕτη ἡ διασάφησις τοῦ διατάγματος
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And this is a copy of the decree which Artaxerxes gave to Ezra the priest, the scribe of book of words of commandments of the Lord and his ordinances for Israel:
+Draft translation: And this is a copy of the decree which Artaxerxes gave to Ezra the priest, the scribe of the book of words of commandments of the Lord and his ordinances for Israel:
 
 Decision rows:
 - None recorded.
@@ -102944,7 +104428,7 @@ Greek: ‘ Ἀρθασασθὰ βασιλεὺς βασιλέων Ἔσδρᾳ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Artaxerxes, king of kings, to Ezra, scribe of the law of the God of heaven: the matter is settled, and this the answer.
+Draft translation: Artaxerxes, king of kings, to Ezra, scribe of the law of the God of heaven: the matter is settled, and this is the answer.
 
 Decision rows:
 - None recorded.
@@ -102964,7 +104448,7 @@ Greek: ἀπ᾿ ἐμοῦ ἐτέθη γνώμη ὅτι πᾶς ὁ ἑκου�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: From me decree has been set that everyone in my kingdom who freely chooses from the people of Israel and priests and Levites to go to Jerusalem with you may go.
+Draft translation: From me a decree has been set that everyone in my kingdom who freely chooses from the people of Israel and priests and Levites to go to Jerusalem with you may go.
 
 Decision rows:
 - None recorded.
@@ -102984,7 +104468,7 @@ Greek: ἀπὸ προσώπου τοῦ βασιλέως καὶ τῶν ἑπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Because you are sent from the presence of the king and the seven counselors to inspect concerning Judah and Jerusalem by law of your God in your hand,
+Draft translation: Because you are sent from the presence of the king and the seven counselors to inspect concerning Judah and Jerusalem by the law of your God in your hand,
 
 Decision rows:
 - None recorded.
@@ -103004,7 +104488,7 @@ Greek: καὶ εἰς οἶκον Κυρίου ἀργύριον καὶ χρυ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and to bring silver and gold which the king and his counselors freely gave to God of Israel who dwells in Jerusalem,
+Draft translation: and to bring silver and gold which the king and his counselors freely gave to the God of Israel who dwells in Jerusalem,
 
 Decision rows:
 - None recorded.
@@ -103044,7 +104528,7 @@ Greek: καὶ πάντα προσπορευόμενον τοῦτον ἑτοί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and whatever comes with this, promptly arrange in this writing: calves, rams, lambs, and their grain offerings and their drink offerings, and you shall offer them on the altar of the house of your God in Jerusalem.
+Draft translation: and whatever comes with this, promptly arrange in this writing: calves, rams, lambs, and their sacrifices and their libations, and you shall offer them on the altar of the house of your God in Jerusalem.
 
 Decision rows:
 - None recorded.
@@ -103064,7 +104548,7 @@ Greek: καὶ εἴ τι ἐπὶ σὲ καὶ τοὺς ἀδελφούς σ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And whatever seems good to you and your brothers to do with rest of the silver and the gold, do as pleasing to your God.
+Draft translation: And whatever seems good to you and your brothers to do with the rest of the silver and the gold, do as is pleasing to your God.
 
 Decision rows:
 - None recorded.
@@ -103104,7 +104588,7 @@ Greek: καὶ κατάλοιπον χρείας οἴκου Θεοῦ σου, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And whatever remains of need for the house of your God, whatever seems to you to give, you shall give from houses of treasury of the king.
+Draft translation: And whatever remains of need for the house of your God, whatever seems to you to give, you shall give from the treasury houses of the king.
 
 Decision rows:
 - None recorded.
@@ -103164,7 +104648,7 @@ Greek: πᾶν ὅ ἐστιν ἐν γνώμῃ Θεοῦ τοῦ οὐρανο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Everything in decree of the God of heaven, let it be done carefully for the house of the God of heaven. Take care lest anyone attack it, lest wrath come upon the kingdom of the king and his sons.
+Draft translation: Everything that is in the decree of the God of heaven, let it be done for the house of the God of heaven. Take care lest anyone attack it, lest wrath come upon the kingdom of the king and his sons.
 
 Decision rows:
 - None recorded.
@@ -103184,7 +104668,7 @@ Greek: καὶ ὑμῖν ἐγνώρισται ἐν πᾶσι τοῖς ἱε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it is made known to you that upon all the priests and Levites, singers, gatekeepers, nethinim, and servants of this house of God, tribute shall not be for you; you will have no authority to enslave them.
+Draft translation: And it is made known to you concerning all the priests and Levites, singers, gatekeepers, temple servants, and servants of this house of God, that tribute shall not be yours; you will have no authority to enslave them.
 
 Decision rows:
 - None recorded.
@@ -103204,7 +104688,7 @@ Greek: καὶ σύ, Ἔσδρα, ὡς ἡ σοφία τοῦ Θεοῦ ἐν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And you, Ezra, according to wisdom of God in your hand, appoint scribes and judges, that they may be judging all the people beyond the River, all knowing law of your God, and you shall make it known to those not knowing.
+Draft translation: And you, Ezra, according to the wisdom of God in your hand, appoint scribes and judges, that they may judge all the people beyond the River, all those knowing the law of your God, and you shall make it known to those not knowing.
 
 Decision rows:
 - None recorded.
@@ -103224,7 +104708,7 @@ Greek: καὶ πᾶς, ὃς ἂν μὴ ᾖ ποιῶν νόμον τοῦ Θ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And everyone who is not doing the law of your God and the law of the king, judgment shall promptly be carried out from him, whether to death or to discipline or to confiscation of substance or to bonds.
+Draft translation: And everyone who is not doing the law of your God and the law of the king, judgment shall promptly be carried out against him, whether to death or to discipline or to confiscation of substance or to handing over.
 
 Decision rows:
 - None recorded.
@@ -103244,7 +104728,7 @@ Greek: Εὐλογητὸς Κύριος ὁ Θεὸς τῶν πατέρων �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Blessed is the Lord God of our fathers, who gave thus into the heart of the king to glorify house of the Lord in Jerusalem,
+Draft translation: Blessed is the Lord God of our fathers, who gave thus into the heart of the king to glorify the house of the Lord in Jerusalem,
 
 Decision rows:
 - None recorded.
@@ -103286,7 +104770,7 @@ Greek: ΚΑΙ οὗτοι οἱ ἄρχοντες πατριῶν αὐτῶν, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And these were chiefs of their father-houses, leaders going up with me in the reign of Artaxerxes, king of Babylon:
+Draft translation: And these were chiefs of their paternal houses, leaders going up with me in the reign of Artaxerxes, king of Babylon:
 
 Decision rows:
 - None recorded.
@@ -103606,7 +105090,7 @@ Greek: καὶ ἐξήνεγκα αὐτοὺς ἐπὶ ἄρχοντας ἐν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And I sent them out to the leader at Casiphia the place, and I put words in their mouth to speak to their brothers the nethinim at Casiphia the place, to bring us singers for the house of our God.
+Draft translation: And I sent them out to the leaders at Silver, the place, and I put words in their mouth to speak to their brothers the temple servants at Silver, the place, to bring us singers for the house of our God.
 
 Decision rows:
 - None recorded.
@@ -103626,7 +105110,7 @@ Greek: καὶ ἤλθοσαν ἡμῖν, ὡς χεὶρ Θεοῦ ἡμῶν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they came to us, because good hand of our God was upon us, a man, Mahli, from the sons of Mahali son of Levi son of Israel, and his sons and his brothers, eighteen.
+Draft translation: And they came to us, because the good hand of our God was upon us: Sachon, a man from the sons of Mooli, son of Levi, son of Israel, and first came his sons and his brothers, eighteen.
 
 Decision rows:
 - None recorded.
@@ -103666,7 +105150,7 @@ Greek: καὶ ἀπὸ τῶν ναθινίμ, ὧν ἔδωκε Δαυὶδ κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And from the nethinim, whom David and the rulers gave for the service of the Levites, two hundred twenty nethinim. All were enrolled by names.
+Draft translation: And from the temple servants, whom David and the rulers gave for the service of the Levites, two hundred twenty temple servants. All were enrolled by names.
 
 Decision rows:
 - None recorded.
@@ -103686,7 +105170,7 @@ Greek: καὶ ἐκάλεσα ἐκεῖ νηστείαν ἐπὶ τὸν πο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And I proclaimed a fast there at river Ahava, to humble ourselves before our God, to seek from him a straight way for us and for our children and for all our possessions.
+Draft translation: And I proclaimed a fast there at the river Ahava, to humble ourselves before our God, to seek from him a straight way for us and for our children and for all our possessions.
 
 Decision rows:
 - None recorded.
@@ -103706,7 +105190,7 @@ Greek: ὅτι ᾔσχύνθην αἰτήσασθαι παρὰ τοῦ βασ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For I was ashamed to ask from the king force and horsemen to save us from enemy on the road, because we had spoken to the king, saying, The hand of our God is upon all seeking him for good, but his might and his wrath are upon all forsaking him.
+Draft translation: For I was ashamed to ask from the king force and horsemen to save us from the enemy on the road, because we had spoken to the king, saying, The hand of our God is upon all seeking him for good, but his might and his wrath are upon all forsaking him.
 
 Decision rows:
 - None recorded.
@@ -103766,7 +105250,7 @@ Greek: καὶ ἔστησα αὐτοῖς τὸ ἀργύριον καὶ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And I weighed out to them the silver and the gold and the vessels, the firstfruits of the house of our God, which the king and his counselors and his rulers and all Israel found there had lifted up.
+Draft translation: And I weighed out to them the silver and the gold and the vessels, the firstfruits of the house of our God, which the king and his counselors and his rulers and all Israel who were found there had lifted up.
 
 Decision rows:
 - None recorded.
@@ -103806,7 +105290,7 @@ Greek: καὶ καφουρῆ χρυσοῖ εἴκοσι εἰς τὴν ὁδ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and twenty golden bowls worth one thousand chamanim, and vessels of shining good bronze, choice as gold.
+Draft translation: and twenty golden bowls worth one thousand chamanim for the way, and vessels of shining good bronze, choice as gold.
 
 Decision rows:
 - None recorded.
@@ -103846,7 +105330,7 @@ Greek: ἀγρυπνεῖτε καὶ τηρεῖτε ἕως στῆτε ἐν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Stay awake and guard them until you stand before chiefs of the priests and the Levites and chiefs of father-houses in Jerusalem, in the chambers of the house of the Lord.
+Draft translation: Stay awake and guard them until you stand before chiefs of the priests and the Levites and chiefs of paternal houses in Jerusalem, in the chambers of the house of the Lord.
 
 Decision rows:
 - None recorded.
@@ -103882,11 +105366,11 @@ Variant notes:
 
 ### 2 Esdras 8:31
 
-Greek: Καὶ ἐξῃ£ραμεν ἀπὸ τοῦ ποταμοῦ τοῦ Ἀουὲ ἐν τῇ δωδεκάτῃ τοῦ μηνὸς τοῦ πρώτου τοῦ ἐλθεῖν εἰς Ἱερουσαλήμ· καὶ χεὶρ Θεοῦ ἡμῶν ἦν ἐφ᾿ ἡμῖν, καὶ ἐρρύσατο ἡμᾶς ἀπὸ χειρὸς ἐχθροῦ καὶ πολεμίου ἐν τῇ ὁδῷ.
+Greek: Καὶ ἐξῄραμεν ἀπὸ τοῦ ποταμοῦ τοῦ Ἀουὲ ἐν τῇ δωδεκάτῃ τοῦ μηνὸς τοῦ πρώτου τοῦ ἐλθεῖν εἰς Ἱερουσαλήμ· καὶ χεὶρ Θεοῦ ἡμῶν ἦν ἐφ᾿ ἡμῖν, καὶ ἐρρύσατο ἡμᾶς ἀπὸ χειρὸς ἐχθροῦ καὶ πολεμίου ἐν τῇ ὁδῷ.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And we set out from the river Ahava on twelfth day of the first month to come to Jerusalem, and hand of our God was upon us, and he rescued us from the hand of enemy and foe on the road.
+Draft translation: And we set out from the river Ahava on the twelfth day of the first month to come to Jerusalem, and the hand of our God was upon us, and he rescued us from the hand of enemy and foe on the road.
 
 Decision rows:
 - None recorded.
@@ -103926,7 +105410,7 @@ Greek: καὶ ἐγενήθη τῇ ἡμέρᾳ τῇ τετάρτῃ ἐστ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it happened on fourth day that we weighed the silver and the gold and the vessels in the house of our God by the hand of Meremoth son of Uriah the priest, and with him Eleazar son of Phinehas, and with them Jozabad son of Jeshua and Noadiah son of Benaiah, the Levites,
+Draft translation: And it happened on the fourth day that we weighed the silver and the gold and the vessels in the house of our God by the hand of Meremoth son of Uriah the priest, and with him Eleazar son of Phinehas, and with them Jozabad son of Jeshua and Noadiah son of Benaiah, the Levites,
 
 Decision rows:
 - None recorded.
@@ -103966,7 +105450,7 @@ Greek: οἱ ἐλθόντες ἐκ τῆς αἰχμαλωσίας υἱοὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Those coming from captivity, sons of exile, offered whole burnt offerings to God of Israel: twelve calves for all Israel, ninety-six rams, seventy-seven lambs, twelve goat kids for sin, all as whole burnt offerings to the Lord.
+Draft translation: Those coming from captivity, sons of exile, offered whole-burnt offerings to the God of Israel: twelve calves for all Israel, ninety-six rams, seventy-seven lambs, twelve goat kids for sin, all as whole-burnt offerings to the Lord.
 
 Decision rows:
 - None recorded.
@@ -103986,7 +105470,7 @@ Greek: καὶ ἔδωκαν τὸ νόμισμα τοῦ βασιλέως το�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they gave king's decree to the king's administrators and governors beyond the River, and they honored the people and the house of God.
+Draft translation: And they gave the king's decree to the king's administrators and governors beyond the River, and they honored the people and the house of God.
 
 Decision rows:
 - None recorded.
@@ -104028,7 +105512,7 @@ Greek: ὅτι ἐλάβοσαν ἀπὸ θυγατέρων αὐτῶν ἑα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For they took from their daughters for themselves and for their sons, and the holy seed was mixed with the peoples of the lands, and hand of the rulers was first in this faithlessness.
+Draft translation: For they took from their daughters for themselves and for their sons, and the holy seed was mixed with the peoples of the lands, and the hand of the rulers was first in this faithlessness.
 
 Decision rows:
 - None recorded.
@@ -104048,7 +105532,7 @@ Greek: καὶ ὡς ἤκουσα τὸν λόγον τοῦτον, διέρρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when I heard this word, I tore my garments and mantle and plucked hair from my head and from my beard and sat devastated.
+Draft translation: And when I heard this word, I tore my garments and mantle and plucked hair from my head and from my beard and sat quiet.
 
 Decision rows:
 - None recorded.
@@ -104068,7 +105552,7 @@ Greek: καὶ συνήχθησαν πρός με πᾶς ὁ διώκων λό�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And everyone pursuing word of God of Israel was gathered to me over the faithlessness of the exile, and I sat devastated until evening sacrifice.
+Draft translation: And everyone pursuing the word of the God of Israel was gathered to me over the faithlessness of the exile, and I sat quiet until the evening sacrifice.
 
 Decision rows:
 - None recorded.
@@ -104088,7 +105572,7 @@ Greek: καὶ ἐν θυσίᾳ τῇ ἑσπερινῇ ἀνέστην ἀπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And at evening sacrifice I rose from my humbling, and as I tore my garments and mantle I bent upon my knees and spread out my hands to the Lord God
+Draft translation: And at the evening sacrifice I rose from my humbling, and as I tore my garments and mantle I bent upon my knees and spread out my hands to the Lord God
 
 Decision rows:
 - None recorded.
@@ -104148,7 +105632,7 @@ Greek: καὶ νῦν ἐπιεικεύσατο ἡμῖν ὁ Θεὸς ἡμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now the Lord our God dealt gently with us, to leave us a remnant for salvation and give us a foothold in place of his sanctuary, to enlighten our eyes and give us a little reviving in our slavery.
+Draft translation: And now our God dealt gently with us, to leave us a remnant for salvation and give us a foothold in the place of his sanctuary, to enlighten our eyes and give us a little reviving in our slavery.
 
 Decision rows:
 - None recorded.
@@ -104168,7 +105652,7 @@ Greek: ὅτι δοῦλοί ἐσμεν, καὶ ἐν τῇ δουλείᾳ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For slaves we are, yet in our slavery the Lord our God did not forsake us, and he bent mercy upon us before kings of Persia, to give us reviving, to raise up house of our God and restore its desolate places and give us a wall in Judah and in Jerusalem.
+Draft translation: For slaves we are, yet in our slavery the Lord our God did not forsake us, and he bent mercy upon us before kings of Persia, to give us reviving, to raise up the house of our God and restore its desolate places and give us a wall in Judah and in Jerusalem.
 
 Decision rows:
 - None recorded.
@@ -104208,7 +105692,7 @@ Greek: ἃς ἔδωκας ἡμῖν ἐν χειρὶ δούλων σου τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: which you gave by the hand of your servants the prophets, saying, The land into which you enter to inherit it is a land made unclean in uncleanness of peoples of the nations, in their abominations with which they filled it from one end to the other with their uncleannesses.
+Draft translation: which you gave by the hand of your servants the prophets, saying, The land into which you enter to inherit it is a land made unclean in the uncleanness of peoples of the nations, in their abominations with which they filled it from one end to the other with their uncleannesses.
 
 Decision rows:
 - None recorded.
@@ -104450,7 +105934,7 @@ Greek: πᾶς, ὃς ἂν μὴ ἔλθῃ εἰς τρεῖς ἡμέρας, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And everyone who would not come within three days, according to the counsel of the rulers and the elders, all his substance would be devoted, and he himself would be separated from assembly of the exile.
+Draft translation: And everyone who would not come within three days, according to the counsel of the rulers and the elders, all his substance would be devoted, and he himself would be separated from the assembly of the exile.
 
 Decision rows:
 - None recorded.
@@ -104470,7 +105954,7 @@ Greek: Καὶ συνήχθησαν πάντες ἄνδρες Ἰούδα κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And all the men of Judah and Benjamin gathered into Jerusalem within three days. This was the ninth month, on twentieth day of the month. And all the people sat in the open square of the house of God, trembling because of the matter and because of the winter.
+Draft translation: And all the men of Judah and Benjamin gathered into Jerusalem within three days. This was the ninth month, on the twentieth day of the month. And all the people sat in the open square of the house of God, trembling because of the matter and because of the winter.
 
 Decision rows:
 - None recorded.
@@ -104490,7 +105974,7 @@ Greek: καὶ ἀνέστη Ἔσδρας ὁ ἱερεὺς καὶ εἶπε 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Ezra the priest stood and said to them, You have acted faithlessly and seated foreign women, to add to trespass of Israel.
+Draft translation: And Ezra the priest stood and said to them, You have acted faithlessly and seated foreign women, to add to the trespass of Israel.
 
 Decision rows:
 - None recorded.
@@ -104530,7 +106014,7 @@ Greek: καὶ ἀπεκρίθησαν πᾶσα ἡ ἐκκλησία καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And all the assembly answered and said, Great is this word of yours upon us to do.
+Draft translation: And all the assembly answered and said, This word of yours is great upon us to do.
 
 Decision rows:
 - None recorded.
@@ -104570,7 +106054,7 @@ Greek: στήτωσαν δὴ ἄρχοντες ἡμῶν πάσῃ τῇ ἐκ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Let our rulers stand for the whole assembly, and all in our cities who seated foreign women, let them come at appointed times, and with them elders of the city by city and judges, to turn away anger of wrath of our God from us concerning this matter.
+Draft translation: Let our rulers stand for the whole assembly, and all in our cities who seated foreign women, let them come at appointed times, and with them elders of each city and judges, to turn away the anger of the wrath of our God from us concerning this matter.
 
 Decision rows:
 - None recorded.
@@ -104610,7 +106094,7 @@ Greek: καὶ ἐποίησαν οὕτως υἱοὶ τῆς ἀποικία�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the sons of the exile did thus, and Ezra the priest and men, leaders of father-houses by house, all by names, were set apart, and they sat on the first day of the tenth month to investigate the matter.
+Draft translation: And the sons of the exile did thus, and Ezra the priest and men, leaders of paternal houses by house, all by names, were set apart, and they returned on the first day of the tenth month to investigate the matter.
 
 Decision rows:
 - None recorded.
@@ -104630,7 +106114,7 @@ Greek: καὶ ἐτέλεσαν ἐν πᾶσιν ἀνδράσιν, οἳ ἐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they finished with all the men who had seated foreign women by first day of the first month.
+Draft translation: And they finished with all the men who had seated foreign women by the first day of the first month.
 
 Decision rows:
 - None recorded.
@@ -105030,7 +106514,7 @@ Greek: Ματθανία, Ματθαναΐ καὶ ἐποίησαν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Mattaniah, Mathanai, and they made.
+Draft translation: Mattaniah, Matthanai, and they acted.
 
 Decision rows:
 - None recorded.
@@ -105274,7 +106758,7 @@ Greek: ὅτι ἄστεκτος ἡ μεγαλοπρέπεια τῆς δόξη
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: because the magnificence of your glory is unendurable, and the wrath of your threat upon sinners is irresistible;
+Draft translation: because the magnificence of your glory is unendurable, and the wrath of your threat upon sinners cannot be withstood;
 
 Decision rows:
 - None recorded.
@@ -105314,7 +106798,7 @@ Greek: σὺ γὰρ εἶ Κύριος ὕψιστος, εὔσπλαγχνος
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for you are Lord Most High, compassionate, longsuffering, and very merciful, relenting over human evils. You, Lord, according to the multitude of your kindness, promised repentance and forgiveness to those who have sinned against you, and by the multitude of your compassions appointed repentance for sinners unto salvation.
+Draft translation: for you are Lord Most High, compassionate, longsuffering, and very merciful, relenting over the evils of humans. You, Lord, according to the multitude of your kindness, promised repentance and forgiveness to those who have sinned against you, and by the multitude of your compassions appointed repentance for sinners unto salvation.
 
 Decision rows:
 - None recorded.
@@ -105334,7 +106818,7 @@ Greek: Σὺ οὖν, Κύριε, ὁ Θεὸς τῶν δικαίων, οὐκ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore you, Lord, God of the righteous, did not appoint repentance for the righteous, for Abraham and Isaac and Jacob, those who did not sin against you,
+Draft translation: Therefore you, Lord, God of the righteous, did not appoint repentance for the righteous, for Abraham and Isaac and Jacob, who did not sin against you.
 
 Decision rows:
 - None recorded.
@@ -105394,7 +106878,7 @@ Greek: Καὶ νῦν κλίνω γόνυ καρδίας μου δεόμενο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And now I bend the knee of my heart, asking for the kindness from you: I have sinned,
+Draft translation: And now I bend the knee of my heart, begging for the kindness from you: I have sinned,
 
 Decision rows:
 - None recorded.
@@ -105434,7 +106918,7 @@ Greek: Κύριε, ἄνες μοι, καὶ μὴ συναπολέσῃς με 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Lord, forgive me, and do not destroy me together with my lawless deeds, nor, being angry forever, keep my evils, nor condemn me in the lowest parts of the earth, because you are God, the God of those who repent.
+Draft translation: Lord, forgive me, and do not destroy me together with my lawless deeds, nor keep my evils forever in anger, nor condemn me in the lowest parts of the earth, because you are God, the God of those who repent.
 
 Decision rows:
 - None recorded.
@@ -105498,7 +106982,7 @@ Greek: Ο δὲ Φιλοπάτωρ μαθὼν παρὰ τῶν ἀνακομι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But Philopator, having learned from those brought back of the seizure by Antiochus of the places held under him, commanded all his forces, both foot and horse, and taking along his sister Arsinoe, set out as far as the places around Raphia, where those around Antiochus had camped.
+Draft translation: But Philopator, having learned from those who returned about the seizure by Antiochus of the places held under him, commanded all his forces, both foot and horse, and taking along his sister Arsinoe, set out as far as the places around Raphia, where those around Antiochus had camped.
 
 Decision rows:
 - None recorded.
@@ -105518,7 +107002,7 @@ Greek: Θεόδοτος δέ τις ἐκπληρῶσαι τὴν ἐπιβου
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And a certain Theodotus, intending to complete the plot, took the best of the Ptolemaic weapons previously assigned to him and was carried by night to the tent of Ptolemy, as though to kill him alone and in this way dissolve the war.
+Draft translation: And a certain Theodotus, intending to complete the plot, took the best of the Ptolemaic weapons previously assigned to him and was carried by night to the tent of Ptolemy, as though to kill him by himself and in this way end the war.
 
 Decision rows:
 - None recorded.
@@ -105538,7 +107022,7 @@ Greek: τοῦτον δὲ διαγαγὼν Δοσίθεος ὁ Δριμύλο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But Dositheus, called son of Drimylus, a Jew by race, but afterward having changed the customs and been alienated from the ancestral decrees, led this man through and laid down a certain obscure man in the tent, who happened to receive that one's punishment.
+Draft translation: But Dositheus, called son of Drimylus, a Jew by race, but afterward having changed the customs and been alienated from the ancestral decrees, led this man away and laid down a certain obscure man in the tent, who happened to receive that one's punishment.
 
 Decision rows:
 - None recorded.
@@ -105558,7 +107042,7 @@ Greek: γενομένης δὲ καρτερᾶς μάχης καὶ τῶν π�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when a hard battle came to be and matters were rather strengthened for Antiochus, Arsinoe sufficiently went among the forces and exhorted them, with pity and tears, her locks loosed, to help themselves and their children and wives courageously, promising to give each who conquered two minas of gold.
+Draft translation: And when a hard battle came to be and matters were turning more strongly for Antiochus, Arsinoe went among the forces and exhorted them, with pity and tears, her locks loosed, to help themselves and their children and wives courageously, promising to give each who conquered two minas of gold.
 
 Decision rows:
 - None recorded.
@@ -105578,7 +107062,7 @@ Greek: καὶ οὕτω συνέβη τοὺς ἀντιπάλους ἐν χε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And so it happened that the opponents were destroyed in hand-to-hand fighting, and many also were seized as spear-captives.
+Draft translation: And so it happened that the opponents were destroyed in hand-to-hand fighting, and many also were seized as prisoners of the spear.
 
 Decision rows:
 - None recorded.
@@ -105598,7 +107082,7 @@ Greek: κατακρατήσας δὲ τῆς ἐπιβουλῆς ἔκρινε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And having taken control of the plot, he judged to go upon the nearby cities and encourage them.
+Draft translation: And having taken control of the plot, he decided to go to the nearby cities and encourage them.
 
 Decision rows:
 - None recorded.
@@ -105658,7 +107142,7 @@ Greek: διακομισθεὶς δὲ εἰς Ἱεροσόλυμα καὶ θ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And being brought into Jerusalem and sacrificing to the greatest God and giving thanks and doing something of the following for the place, and indeed coming to the place and being struck by its earnestness and good order,
+Draft translation: And being brought into Jerusalem and sacrificing to the greatest God and giving thanks and doing something fitting for the place, and indeed coming to the place and being struck by its earnestness and good order,
 
 Decision rows:
 - None recorded.
@@ -105678,7 +107162,7 @@ Greek: θαυμάσας δὲ καὶ τὴν τοῦ ἱεροῦ εὐταξί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and marveling also at the good arrangement of the temple, he considered taking counsel to enter into the shrine.
+Draft translation: and marveling also at the good arrangement of the temple, he formed a plan to enter into the shrine.
 
 Decision rows:
 - None recorded.
@@ -105698,7 +107182,7 @@ Greek: τῶν δὲ εἰπόντων μὴ καθήκειν γίνεσθαι �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But when they said that this was not fitting to happen, because not even those from the nation were permitted to enter, nor all the priests, but only the high priest leading all, and he once each year, he in no way wished to be persuaded.
+Draft translation: But when they said that this was not fitting to happen, because not even those from the nation were permitted to enter, nor all the priests, but only the high priest leading all, and he once each year, he in no way wished to listen.
 
 Decision rows:
 - None recorded.
@@ -105718,7 +107202,7 @@ Greek: τοῦ τε νόμου παραναγνωσθέντος, οὐδαμῶ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the law had been read beside him, he in no way left off, putting himself forward and saying that he must enter; and if they have been deprived of this honor, I must not be.
+Draft translation: And when the law had been read to him, he in no way left off, putting himself forward and saying that he must enter: Even if they have been deprived of this honor, I must not be.
 
 Decision rows:
 - None recorded.
@@ -105758,7 +107242,7 @@ Greek: καί τις ἀπρονοήτως ἔφη κακῶς αὐτὸ το�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And someone thoughtlessly said that this very thing was wrongly treated as a sign.
+Draft translation: And someone thoughtlessly said that this very thing was wrongly being treated as a wonder.
 
 Decision rows:
 - None recorded.
@@ -105798,7 +107282,7 @@ Greek: τῶν δὲ ἱερέων ἐν ταῖς ἁγίαις ἐσθήσεσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the priests in the holy garments fell forward and begged the greatest God to help the present necessity and turn aside the rush of the one making an evil attack, and filled the temple with crying and tears,
+Draft translation: And when the priests in the holy garments fell forward and begged the greatest God to help in the present crisis and turn aside the rush of the one making an evil attack, and filled the temple with crying and tears,
 
 Decision rows:
 - None recorded.
@@ -105818,7 +107302,7 @@ Greek: οἱ κατὰ τὴν πόλιν ἀπολιπόμενοι ταραχθ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: those left in the city were disturbed and rushed out, making unclear what was happening.
+Draft translation: those left in the city were disturbed and rushed out, uncertain about what was happening.
 
 Decision rows:
 - None recorded.
@@ -105858,7 +107342,7 @@ Greek: αἱ δὲ καὶ προσαρτίως ἐσταλμέναι τοὺς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And those newly adorned, leaving the bridal rooms arranged for meeting and the modesty that fitted them, made a disorderly run in the city.
+Draft translation: And those newly adorned, leaving the bridal rooms arranged for meeting and the modesty that fitted them, set out in a disorderly run through the city.
 
 Decision rows:
 - None recorded.
@@ -105918,7 +107402,7 @@ Greek: σύν τε τούτοις οἱ τῶν πολιτῶν θρασυνθέ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Together with these, the citizens who had grown bold could not endure him pressing on completely and intending to fulfill his purpose.
+Draft translation: Together with these, the citizens who had grown bold could not endure him pressing on fully and intending to fulfill his purpose.
 
 Decision rows:
 - None recorded.
@@ -105938,7 +107422,7 @@ Greek: φωνήσαντες δὲ τὴν ὁρμὴν ἐπὶ τὰ ὅπλα 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And crying out to make a rush to arms and to die courageously for the ancestral law, they made considerable harshness in the place; but with difficulty, being turned back by the elderly and the elders, they stood in the same posture of supplication.
+Draft translation: And crying out to make a rush to arms and to die courageously for the ancestral law, they made considerable tumult in the place; but with difficulty, being turned back by the elderly and the elders, they stood in the same posture of supplication.
 
 Decision rows:
 - None recorded.
@@ -105958,7 +107442,7 @@ Greek: καὶ τὸ μὲν πλῆθος ὡς ἔμπροσθεν ἐν το�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the multitude, as before, was moving about in these things, begging.
+Draft translation: And the multitude, as before, remained in these things, begging.
 
 Decision rows:
 - None recorded.
@@ -105998,7 +107482,7 @@ Greek: θρασυνθεὶς δὲ καὶ πάντα παραπέμψας ἤδ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But being emboldened and dismissing everything, he was already making an approach, thinking to put an end to what had been said before.
+Draft translation: But being emboldened and disregarding everything, he was already making an approach, thinking to carry out what had been said before.
 
 Decision rows:
 - None recorded.
@@ -106018,7 +107502,7 @@ Greek: ταῦτα οὖν καὶ οἱ περὶ αὐτὸν ὄντες θε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore those who were around him, seeing these things, turned to call upon the One having all power, together with our people, to help in the present things, not overlooking the lawless and over-proud act.
+Draft translation: Therefore those who were around him, seeing these things, turned to call upon the One having all power, together with our people, to help in the present crisis, not overlooking the lawless and arrogant act.
 
 Decision rows:
 - None recorded.
@@ -106038,7 +107522,7 @@ Greek: ἐκ δὲ τῆς πυκνοτάτης τε καὶ ἐμπόνου τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And from the most dense and painful cry of the crowds being gathered, there was a shout beyond comparing.
+Draft translation: And from the densely packed and painful cry of the crowds being gathered, there was a shout beyond comparing.
 
 Decision rows:
 - None recorded.
@@ -106058,7 +107542,7 @@ Greek: δοκεῖν γὰρ ἦν μὴ μόνον τοὺς ἀνθρώπου�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For it seemed that not only the humans, but also the walls and the whole ground were resounding, since all then were exchanging death instead of the profaning of the place.
+Draft translation: For it seemed that not only the humans, but also the walls and the whole ground were resounding, since all then were choosing death instead of the profaning of the place.
 
 Decision rows:
 - None recorded.
@@ -106080,7 +107564,7 @@ Greek: Ο μὲν οὖν ἀρχιερεὺς Σίμων ἐξεναντίας 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore Simon the high priest, opposite the shrine, bending his knees and stretching out his hands in good order, made such a petition.
+Draft translation: Therefore Simon the high priest, opposite the shrine, bending his knees and stretching out his hands in good order, made this petition.
 
 Decision rows:
 - None recorded.
@@ -106140,7 +107624,7 @@ Greek: σὺ τοὺς ἔμπροσθεν ἀδικίαν ποιήσαντας,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: You destroyed those before who did unrighteousness, among whom also were giants trusting in might and insolence, bringing upon them immeasurable water.
+Draft translation: You destroyed those formerly doing unrighteousness, among whom also were giants trusting in might and insolence, bringing upon them immeasurable water.
 
 Decision rows:
 - None recorded.
@@ -106160,7 +107644,7 @@ Greek: σὺ τοὺς ὑπερηφανίαν ἐργαζομένους Σοδ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: You burned up with fire and sulfur the Sodomites, who worked pride and became manifest in evils, setting them as an example to those who would come after.
+Draft translation: You burned up with fire and sulfur the Sodomites, who practiced pride and became notorious in evils, setting them as an example to those who would come after.
 
 Decision rows:
 - None recorded.
@@ -106220,7 +107704,7 @@ Greek: οἳ καὶ συνιδόντες ἔργα σῆς χειρὸς ᾔν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and they, seeing together the works of your hand, praised you, the Almighty.
+Draft translation: and they, seeing for themselves the works of your hand, praised you, the Almighty.
 
 Decision rows:
 - None recorded.
@@ -106260,7 +107744,7 @@ Greek: καὶ ἀγαπῶν τὸν οἶκον τοῦ Ἰσραὴλ ἐπη
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And loving the house of Israel, you promised indeed that if our turning away came to be and distress overtook us, and we came into this place and made petition, you would hear our petition.
+Draft translation: And loving the house of Israel, you promised indeed that if our turning away should come and distress overtake us, and we came into this place and made petition, you would hear our petition.
 
 Decision rows:
 - None recorded.
@@ -106320,7 +107804,7 @@ Greek: ἰδοὺ δὲ νῦν, ἅγιε βασιλεῦ, διὰ τὰς πο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: behold now, holy King, because of our many and great sins we are being worn down and have been subjected to our enemies and are slack in weaknesses.
+Draft translation: behold now, holy King, because of our many and great sins we are being worn down and have been subjected to our enemies and are left in weaknesses.
 
 Decision rows:
 - None recorded.
@@ -106400,7 +107884,7 @@ Greek: μὴ ἐκδικήσῃς ἡμᾶς ἐν τῇ τούτων ἀκαθ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: do not punish us by the uncleanness of these, nor correct us by profanation, lest the lawless boast in their wrath, nor exult in the pride of their tongue, saying,
+Draft translation: do not punish us by the uncleanness of these people, nor correct us by profanation, lest the lawless boast in their wrath, nor exult in the pride of their tongue, saying,
 
 Decision rows:
 - None recorded.
@@ -106460,7 +107944,7 @@ Greek: ταχὺ προκαταλαβέτωσαν ἡμᾶς οἱ οἰκτιρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: May your compassions quickly come before us, and give praises in the mouth of those cast down and crushed in souls, making peace for us.
+Draft translation: May your compassions quickly come before us, and put praises in the mouth of those cast down and crushed in souls, making peace for us.
 
 Decision rows:
 - None recorded.
@@ -106500,7 +107984,7 @@ Greek: ἔνθεν καὶ ἔνθεν κραδάνας αὐτὸν ὡς κά�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Shaking him this way and that like a reed by wind, so that he was on the ground useless, and also paralyzed in his limbs and unable even to speak, entangled by righteous judgment.
+Draft translation: He shook him this way and that like a reed by wind, so that he was useless on the ground, and also paralyzed in his limbs and unable even to speak, entangled by righteous judgment.
 
 Decision rows:
 - None recorded.
@@ -106560,7 +108044,7 @@ Greek: Διακομισθεὶς δὲ εἰς τὴν Αἴγυπτον καὶ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And being brought into Egypt and increasing the things of evil, through the previously designated drinking companions and associates, who were separated from all justice,
+Draft translation: And being brought into Egypt and increasing the works of evil, through the previously designated drinking companions and associates, who were separated from all justice,
 
 Decision rows:
 - None recorded.
@@ -106580,7 +108064,7 @@ Greek: οὐ μόνον ταῖς ἀναριθμήτοις ἀσελγείαι�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: he was not only satisfied with countless wanton acts, but also went forward to such insolence that blasphemies were set up in the places, and many of the friends, looking closely to the king's purpose, themselves also followed his will.
+Draft translation: he was not only satisfied with countless wanton acts, but also went forward to such insolence that blasphemies arose in the places, and many of the friends, looking closely to the king's purpose, themselves also followed his will.
 
 Decision rows:
 - None recorded.
@@ -106680,7 +108164,7 @@ Greek: Ἔνιοι μὲν οὖν ἐπὶ πόλεως τὰς τῆς πόλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore some, hating the city's foundations of piety because of the city, easily gave themselves up, as if they would share in some great good fame from their future association with the king.
+Draft translation: Therefore some, for the sake of city-status hating the foundations of the city's piety, easily gave themselves up, as if they would share in some great good fame from their future association with the king.
 
 Decision rows:
 - None recorded.
@@ -106720,7 +108204,7 @@ Greek: εὐέλπιδες δὲ καθειστήκεισαν ἀντιλήψε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they were set in good hope that they would obtain help; and those withdrawing from them they abhorred and judged as enemies of the nation and deprived them of common association and usefulness.
+Draft translation: And they stood in good hope that they would obtain help; and those withdrawing from them they abhorred and judged as enemies of the nation and deprived them of common association and usefulness.
 
 Decision rows:
 - None recorded.
@@ -106742,7 +108226,7 @@ Greek: Α καὶ μεταλαμβάνων ὁ δυσσεβὴς ἐπὶ τοσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And receiving these things, the impious one was so greatly enraged that he was not only angry with those in Alexandria, but also more heavily opposed those in the country, and ordered that they hurry to gather all into the same place and remove them from life by the worst fate.
+Draft translation: And taking these things in, the impious one was so greatly enraged that he was not only angry with those in Alexandria, but also more heavily opposed those in the country, and ordered that they hurry to gather all into the same place and remove them from life by the worst fate.
 
 Decision rows:
 - None recorded.
@@ -106762,7 +108246,7 @@ Greek: τούτων δὲ οἰκονομουμένων φήμη δυσμενὴ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And while these things were being arranged, a hostile report was sounding out against the race among humans of one mind for doing evil, occasion being given for disposition, as though they were hindered by their lawful customs.
+Draft translation: And while these things were being arranged, a hostile report was sounding out against the race among humans of one mind for doing evil, with an occasion given for hostility, as though they were hindered by their lawful customs.
 
 Decision rows:
 - None recorded.
@@ -106782,7 +108266,7 @@ Greek: οἱ δὲ Ἰουδαῖοι τὴν μὲν πρὸς τοὺς βασ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the Jews were preserving unturned their goodwill and faith toward the kings,
+Draft translation: But the Jews were preserving unwavering goodwill and faith toward the kings,
 
 Decision rows:
 - None recorded.
@@ -106822,7 +108306,7 @@ Greek: τῇ δὲ τῶν δικαίων εὐπραξίᾳ κοσμοῦντε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But adorning their common conduct with the good practice of the righteous, they had been established as approved among all humans.
+Draft translation: But adorning their common conduct with the good practice of the righteous, they had been established as approved among all people.
 
 Decision rows:
 - None recorded.
@@ -106842,7 +108326,7 @@ Greek: τὴν μὲν οὖν περὶ τοῦ γένους ἐν πᾶσι θ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore the foreigners in no way reckoned the good practice concerning the race that was being talked of among all,
+Draft translation: Therefore the foreigners in no way reckoned the good practice concerning the race that was being reported everywhere,
 
 Decision rows:
 - None recorded.
@@ -106862,7 +108346,7 @@ Greek: τὴν δὲ περὶ τῶν προσκυνήσεων καὶ τροφ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but they kept talking of the difference concerning acts of worship and foods, saying that these humans had become companions in libation neither with the king nor with the forces, but were hostile and opposing matters in some great way; and they attached no ordinary blame.
+Draft translation: but they kept talking of the difference concerning acts of worship and foods, saying that these humans shared libations neither with the king nor with the forces, but were hostile and opposing matters in some great way; and they attached no ordinary blame.
 
 Decision rows:
 - None recorded.
@@ -106882,7 +108366,7 @@ Greek: οἱ δὲ κατὰ τὴν πόλιν ¨Ελληνες οὐδὲν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the Greeks in the city, having been wronged in nothing, seeing an unexpected disturbance around the people and unobstructed rushes coming to be, did not have strength to help, for the disposition was tyrannical; but they encouraged them and were distressed and supposed that these things would change.
+Draft translation: But the Greeks in the city, having been wronged in nothing, seeing an unexpected disturbance around the people and unchecked rushes coming to be, did not have strength to help, for the disposition was tyrannical; but they encouraged them and were distressed and supposed that these things would change.
 
 Decision rows:
 - None recorded.
@@ -106902,7 +108386,7 @@ Greek: μὴ γὰρ οὕτως παροραθήσεσθαι τηλικοῦτ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For such a great body, ignorant of nothing, would not be overlooked in this way.
+Draft translation: For they thought that such a great body, ignorant of nothing, would not be overlooked in this way.
 
 Decision rows:
 - None recorded.
@@ -107022,7 +108506,7 @@ Greek: ἡγησάμεθα μὴ βίᾳ δόρατος, ἐπιεικείᾳ δ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: we considered that we should nurture the nations inhabiting Coele-Syria and Phoenicia not by force of spear, but by fairness and much kindness to humanity, and gladly do them good.
+Draft translation: we considered that we should nurse the nations inhabiting Coele-Syria and Phoenicia not by force of spear, but by fairness and much kindness to humanity, and gladly do them good.
 
 Decision rows:
 - None recorded.
@@ -107082,7 +108566,7 @@ Greek: τύφοις φερόμενοι παλαιοτέροις, εἶρξαν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Carried by older conceits, they barred us from the entrance, falling short of our might because of the kindness to humanity that we have toward all humans.
+Draft translation: Carried by older conceits, they barred us from the entrance, though they fall short of our might, because of the kindness to humanity that we have toward all people.
 
 Decision rows:
 - None recorded.
@@ -107102,7 +108586,7 @@ Greek: τὴν δὲ αὐτῶν εἰς ἡμᾶς δυσμένειαν ἔκ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And making evident their hostility toward us, as the only ones of the nations stiff-necked toward kings and their own benefactors, they wish to bear nothing genuine.
+Draft translation: And making evident their hostility toward us, as the only ones of the nations stiff-necked toward kings and their own benefactors, they wish to accept nothing genuine.
 
 Decision rows:
 - None recorded.
@@ -107142,7 +108626,7 @@ Greek: ἐν δὲ τούτοις πρὸς τοὺς ὁμοφύλους αὐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Among these things, making known to all our forgetfulness of wrong toward their fellow tribesmen, because of the alliance and the countless affairs entrusted to them from the beginning with simplicity, we dared to change matters and wished to deem them worthy also of Alexandrian citizenship and to make them participants in the perpetual sacred rites.
+Draft translation: Among these things, making known to all our forgetfulness of wrong toward their fellow tribesmen, because of the alliance and the countless affairs entrusted to them from the beginning with simplicity, we dared to change their condition and wished to deem them worthy also of Alexandrian citizenship and to make them participants in the perpetual sacred rites.
 
 Decision rows:
 - None recorded.
@@ -107182,7 +108666,7 @@ Greek: οὐ μόνον ἀπεστρέψαντο τὴν ἀτίμητον πο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: not only turned away the priceless citizenship, but also abhor in word and silence the few among them who are genuinely disposed toward us, suspecting at every point that through their most infamous way of life they will quickly overturn our successes.
+Draft translation: not only turned away the priceless citizenship, but also abhor in word and in silence the few among them who are genuinely disposed toward us, suspecting at every point that through their most infamous way of life they will quickly overturn our successes.
 
 Decision rows:
 - None recorded.
@@ -107202,7 +108686,7 @@ Greek: διὸ καὶ τεκμηρίοις καλῶς πεπεισμένοι, 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore, being well persuaded by proofs that these people are in every way ill-minded toward us, and taking forethought lest ever, if sudden disorder later arises for us, we should have these impious people behind our back as traitors and barbarian enemies,
+Draft translation: Therefore, being well persuaded by proofs that these people are in every way hostile in mind toward us, and taking forethought lest ever, if sudden disorder later arises for us, we should have these impious people behind our back as traitors and barbarian enemies,
 
 Decision rows:
 - None recorded.
@@ -107222,7 +108706,7 @@ Greek: προστετάχαμεν ἅμα τῷ προσπεσεῖν τὴν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: we have commanded that as soon as this letter arrives, those dwelling there be sent to us immediately with women and children, with insults and abuses, enclosed on every side in iron bonds, for incurable and infamous murder fitting for enemies.
+Draft translation: we have commanded that as soon as this letter arrives, those dwelling there be sent to us immediately with women and children, with insults and abuses, enclosed on every side in iron bonds, for an incurable and infamous slaughter fitting for enemies.
 
 Decision rows:
 - None recorded.
@@ -107282,7 +108766,7 @@ Greek: μηνύειν δὲ τὸν βουλόμενον, ἐφ' ᾧ τὴν ο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And whoever wishes may inform, on condition that he shall receive the property of the one falling under correction, and 2,000 drachmas from the royal silver, and shall obtain freedom and be crowned.
+Draft translation: And whoever wishes may inform, on condition that he shall receive the property of the one falling under accountability, and 2,000 drachmas from the royal silver, and shall obtain freedom and be crowned.
 
 Decision rows:
 - None recorded.
@@ -107384,7 +108868,7 @@ Greek: τίς νομὸς ἢ πόλις ἢ τίς τὸ σύνολον οἰκ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: What nome or city, or what inhabited place altogether, or what streets, were not filled with beating and groanings over them?
+Draft translation: What nome or city, or what inhabited place altogether, or what streets, were not filled with breast-beating and groanings over them?
 
 Decision rows:
 - None recorded.
@@ -107404,7 +108888,7 @@ Greek: οὕτω γὰρ μετὰ πικρίας ἀνοίκτου ψυχῆς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For with bitterness of a merciless soul they were sent out together by the commanders in each city, so that at the extraordinary punishments even some of the enemies, taking common pity before their eyes and considering the uncertain overthrow of life, wept over their thrice-wretched deportation.
+Draft translation: For with bitter mercilessness they were sent out together by the commanders in each city, so that at the extraordinary punishments even some of the enemies, taking common pity before their eyes and considering the uncertain overthrow of life, wept over their thrice-wretched deportation.
 
 Decision rows:
 - None recorded.
@@ -107424,7 +108908,7 @@ Greek: ἤγετο γὰρ γεραιῶν πλῆθος πολιᾷ πεπυκ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For a multitude of aged women covered with gray hair was led, bent forward by the foot-slowness that comes from old age, driven by a violent impulse of overturning into a sharp march without any regard for shame.
+Draft translation: For a multitude of aged women covered with gray hair was led, bent forward by the foot-slowness that comes from old age, driven into a sharp march by a violent impulse of overturning, without any regard for shame.
 
 Decision rows:
 - None recorded.
@@ -107464,7 +108948,7 @@ Greek: δέσμιαι δὲ δημόσιαι μέχρι τῆς εἰς τὸ π
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And as public prisoners they were dragged with violence until the boarding into the ship.
+Draft translation: And as public prisoners they were dragged with violence until the boarding of the ship.
 
 Decision rows:
 - None recorded.
@@ -107524,7 +109008,7 @@ Greek: ἔτι καὶ τῷ καθύπερθε πυκνῷ σανιδώματι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and also with the dense planking arranged above, so that, with their eyes darkened on every side, they might receive the transport of plotters through the whole voyage.
+Draft translation: and also with the dense planking arranged above, so that, with their eyes darkened on every side, they might undergo a treacherous transport through the whole voyage.
 
 Decision rows:
 - None recorded.
@@ -107544,7 +109028,7 @@ Greek: Τούτων δὲ ἐπὶ τὴν λεγομένην Σχεδίαν ἀ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when these had been brought to the place called Schedia and the sailing alongside had been completed, just as it had been decreed by the king, he ordered them to encamp in the hippodrome before the city, which had a boundless perimeter and was exceedingly suitable for making an example to all those going down into the city and to those being sent out from it into the country for travel, so that they might neither have fellowship with his forces nor be counted worthy of enclosures at all.
+Draft translation: And when these had been brought to the place called Schedia and the coastal voyage had been completed, just as it had been decreed by the king, he ordered them to encamp in the hippodrome before the city, which had a boundless perimeter and was exceedingly suitable for making an example to all those going down into the city and to those being sent out from it into the country for travel, so that they might neither have fellowship with his forces nor be counted worthy of enclosures at all.
 
 Decision rows:
 - None recorded.
@@ -107584,7 +109068,7 @@ Greek: διοργισθεὶς προσέταξε καὶ τούτοις ὁμο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: he was enraged and ordered that the same thing also be done carefully to these together as to those, in no way falling short of their punishment,
+Draft translation: he was enraged and ordered that the same thing also be done carefully to these as to the others, in no way falling short of their punishment,
 
 Decision rows:
 - None recorded.
@@ -107604,7 +109088,7 @@ Greek: ἀπογραφῆναι δὲ πᾶν τὸ φῦλον ἐξ ὀνόμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and that the whole race be registered by name, not for the laborious service of works previously declared a little before, but so that, after being tortured with the ordered abuses, they might at last be made to vanish within the time of a single day.
+Draft translation: and that the whole race be registered by name, not for the laborious service in works previously declared a little before, but so that, after being tortured with the ordered abuses, they might at last be made to vanish within the time of a single day.
 
 Decision rows:
 - None recorded.
@@ -107620,11 +109104,31 @@ Variant notes:
 
 ### 3 Maccabees 4:15
 
-Greek: ἐγίνετο μὲν οὖν ἡ τούτων ἀπογραφὴ μετὰ πικρᾶς σπουδῆς καὶ φιλοτίμου προσεδρείας ἀπὸ ἀνατολῶν ἡλίου μέχρι δυσμῶν, ἀνήνυτον λαμβάνουσα τὸ τέλος ἐπὶ ἡμέρας τεσσαράκοντα. 16 Μεγάλως δὲ καὶ διηνεκῶς ὁ βασιλεὺς χαρᾷ πεπληρωμένος, συμπόσια ἐπὶ πάντων τῶν εἰδώλων συνιστάμενος, πεπλανημένῃ πόρρω τῆς ἀληθείας φρενὶ καὶ βεβήλῳ στόματι, τὰ μέν κωφὰ καὶ μὴ δυνάμενα αὐτοῖς λαλεῖν ἢ ἀρήγειν ἐπαινῶν, εἰς δὲ τὸν μέγιστον Θεὸν τὰ μὴ καθήκοντα λαλῶν.
+Greek: ἐγίνετο μὲν οὖν ἡ τούτων ἀπογραφὴ μετὰ πικρᾶς σπουδῆς καὶ φιλοτίμου προσεδρείας ἀπὸ ἀνατολῶν ἡλίου μέχρι δυσμῶν, ἀνήνυτον λαμβάνουσα τὸ τέλος ἐπὶ ἡμέρας τεσσαράκοντα.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: So their registration was being made with bitter zeal and ambitious attendance from rising of sun until setting, taking its end unaccomplished for forty days. [16] And the king, greatly and continually filled with joy, held banquets before all the idols; with a mind led far astray from the truth and with a profane mouth, he praised the mute things that could not speak to them or help, and against the greatest God he spoke things not fitting.
+Draft translation: So their registration was being made with bitter zeal and zealous attendance from rising of sun until setting, remaining unfinished for forty days.
+
+Decision rows:
+- None recorded.
+
+Publishable footnotes:
+- None recorded.
+
+Logos research:
+- None recorded.
+
+Variant notes:
+- None recorded.
+
+### 3 Maccabees 4:16
+
+Greek: Μεγάλως δὲ καὶ διηνεκῶς ὁ βασιλεὺς χαρᾷ πεπληρωμένος, συμπόσια ἐπὶ πάντων τῶν εἰδώλων συνιστάμενος, πεπλανημένῃ πόρρω τῆς ἀληθείας φρενὶ καὶ βεβήλῳ στόματι, τὰ μέν κωφὰ καὶ μὴ δυνάμενα αὐτοῖς λαλεῖν ἢ ἀρήγειν ἐπαινῶν, εἰς δὲ τὸν μέγιστον Θεὸν τὰ μὴ καθήκοντα λαλῶν.
+Transliteration: Not recorded.
+Literal gloss: Not recorded.
+Syntax notes: Not recorded.
+Draft translation: And the king, greatly and continually filled with joy, held banquets before all the idols; with a mind led far astray from the truth and with a profane mouth, he praised the mute things that could not speak to them or help, and against the greatest God he spoke things not fitting.
 
 Decision rows:
 - None recorded.
@@ -107644,7 +109148,7 @@ Greek: μετὰ δὲ τὸ προειρημένον τοῦ χρόνου δι�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after the aforesaid interval of time the scribes reported to the king that they no longer had strength to make the registration of the Jews because of their immeasurable multitude,
+Draft translation: And after the aforesaid interval of time the scribes reported to the king that they were no longer able to make the registration of the Jews because of their immeasurable multitude,
 
 Decision rows:
 - None recorded.
@@ -107664,7 +109168,7 @@ Greek: καίπερ ὄντων κατὰ τὴν χώραν ἔτι τῶν π�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: though the greater number were still in the country, some still gathered in houses, and others also by place, so that it had become impossible for all the commanders throughout Egypt.
+Draft translation: though the greater number were still in the country, some still gathered in houses, and others also in each place, so that it had become impossible for all the commanders throughout Egypt.
 
 Decision rows:
 - None recorded.
@@ -107684,7 +109188,7 @@ Greek: ἀπειλήσαντος δὲ αὐτοῖς σκληρότερον ὡ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when he threatened them more harshly, as if they had been bribed for a device of escape, it happened that he was plainly persuaded about this,
+Draft translation: And when he threatened them more harshly, as if they had been bribed for a scheme of escape, it happened that he was plainly persuaded about this,
 
 Decision rows:
 - None recorded.
@@ -107724,7 +109228,7 @@ Greek: τοῦτο δὲ ἦν ἐνέργεια τῆς τοῦ βοηθοῦν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And this was an operation of the invincible providence from heaven of the One helping the Jews.
+Draft translation: And this was the working of the invincible providence from heaven of the One helping the Jews.
 
 Decision rows:
 - None recorded.
@@ -107786,7 +109290,7 @@ Greek: ὁ μὲν τάδε προστάσσων ἐτρέπετο πρὸς τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the one giving these orders turned to the feast, having gathered those of his friends and of the army who were especially hateful toward the Jews.
+Draft translation: And the one giving these orders turned to the feast, having gathered those of his friends and of the army who were especially hostile toward the Jews.
 
 Decision rows:
 - None recorded.
@@ -107806,7 +109310,7 @@ Greek: ὁ δὲ ἐλεφαντάρχης τὸ προσταγὲν ἀραρό
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Hermon the elephantarch steadfastly completed the thing ordered.
+Draft translation: And Hermon the elephantarch steadfastly carried out the order.
 
 Decision rows:
 - None recorded.
@@ -107826,7 +109330,7 @@ Greek: οἵ τε πρὸς τούτοις λειτουργοὶ κατὰ τὴ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the ministers assigned to these things went out in the evening and bound the hands of the wretched ones, and devised the remaining security around them, supposing that by night the race would receive the end of destruction together.
+Draft translation: And the ministers assigned to these things went out in the evening and bound the hands of the wretched ones, and devised the remaining guard around them, supposing that by night the race together would receive the destructive end.
 
 Decision rows:
 - None recorded.
@@ -107866,7 +109370,7 @@ Greek: τὸν παντοκράτορα Κύριον καὶ πάσης δυνά
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: all with tears called upon the Almighty Lord, the ruler of every power, their merciful God and Father, with a cry hard to stop, begging
+Draft translation: all with tears called upon the Almighty Lord, the ruler of every power, their merciful God and Father, with an unceasing cry, begging
 
 Decision rows:
 - None recorded.
@@ -107926,7 +109430,7 @@ Greek: Ὁ δὲ ¨Ερμων τοὺς ἀνηλεεῖς ἐλέφαντας �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Hermon, after making the pitiless elephants drink, filled with the great supply of wine and stuffed with frankincense, came at dawn to the court to report about these things to the king.
+Draft translation: And Hermon, after making the pitiless elephants drink, filled with the great supply of wine and full of frankincense, came at dawn to the court to report about these things to the king.
 
 Decision rows:
 - None recorded.
@@ -107946,7 +109450,7 @@ Greek: τὸ δὲ ἀπ᾿ αἰῶνος χρόνου κτίσμα καλὸν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the good creature from everlasting time, a portion of sleep in night and day, appointed by the One who gives to all to whom he wills, he sent upon the king,
+Draft translation: But he sent upon the king that good creature from ancient time, a portion of sleep for night and day, granted by the One who gives it to all whom he wills,
 
 Decision rows:
 - None recorded.
@@ -107966,7 +109470,7 @@ Greek: καὶ ἡδίστῳ καὶ βαθεῖ κατεσχέθη τῇ ἐν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and by the operation of the Master he was held fast by a very sweet and deep sleep, being far removed from his lawless purpose and greatly deceived in his unchangeable reasoning.
+Draft translation: and by the working of the Master he was held fast by a very sweet and deep sleep, being far removed from his lawless purpose and greatly disappointed in his unchangeable reasoning.
 
 Decision rows:
 - None recorded.
@@ -107986,7 +109490,7 @@ Greek: οἱ δὲ Ἰουδαῖοι τὴν προσημανθεῖσαν ὥ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the Jews, having escaped the hour marked beforehand, praised their holy God and again asked the easily reconciled One to show the might of his great-strengthened hand to arrogant nations.
+Draft translation: And the Jews, having escaped the hour marked beforehand, praised their holy God and again asked the readily reconciled One to show the might of his powerful hand to arrogant nations.
 
 Decision rows:
 - None recorded.
@@ -108006,7 +109510,7 @@ Greek: μεσούσης δὲ ἤδη τῆς δεκάτης ὥρας σχεδ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the tenth hour was already almost at midpoint, the one appointed over the invitations, seeing the invited guests gathered together, came near and nudged the king.
+Draft translation: And when the tenth hour was already about halfway through, the one appointed over the invitations, seeing the invited guests gathered together, came near and nudged the king.
 
 Decision rows:
 - None recorded.
@@ -108026,7 +109530,7 @@ Greek: καὶ μόλις διεγείρας ὑπέδειξε τὸν τῆς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after waking him with difficulty, he showed him that the time of the banquet was already passing by, making the word about these things.
+Draft translation: And after waking him with difficulty, he showed him that the time of the banquet was already passing by, giving an account of these things.
 
 Decision rows:
 - None recorded.
@@ -108062,11 +109566,11 @@ Variant notes:
 
 ### 3 Maccabees 5:17
 
-Greek: οὗ καὶ γενομένου, παρῃ£νει εἰς εὐωχίαν δόντας ἑαυτούς, τὸ παρὸν τῆς συμποσίας ἐπιπολὺ γεραιρομένους εἰς εὐφροσύνην καταθέσθαι μέρος.
+Greek: οὗ καὶ γενομένου, παρῄνει εἰς εὐωχίαν δόντας ἑαυτούς, τὸ παρὸν τῆς συμποσίας ἐπιπολὺ γεραιρομένους εἰς εὐφροσύνην καταθέσθαι μέρος.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when this had happened, he urged them to give themselves to feasting and to set down the present portion of the banquet for gladness, honoring it greatly.
+Draft translation: And when this had happened, he urged them to give themselves to feasting and to treat the present portion of the banquet as gladness, honoring it greatly.
 
 Decision rows:
 - None recorded.
@@ -108106,7 +109610,7 @@ Greek: τοῦ δὲ ὑποδείξαντος ἐκ νυκτὸς τὸ προ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when he showed that from the night he had carried the thing ordered to completion, and the friends bore witness with him,
+Draft translation: And when he showed that from the night he had carried the order to completion, and the friends bore witness with him,
 
 Decision rows:
 - None recorded.
@@ -108126,7 +109630,7 @@ Greek: τὴν ὠμότητα χείρονα Φαλάριδος ἐσχηκὼ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: the king, having cruelty worse than Phalaris, said that they had today's sleep to thank for this. But prepare the elephants in the same way without delay for the coming day, for the vanishing of the lawless Jews.
+Draft translation: the king, having cruelty worse than Phalaris, said that they had today's sleep to thank for this. But prepare the elephants in the same way without delay for the coming day, for the annihilation of the lawless Jews.
 
 Decision rows:
 - None recorded.
@@ -108226,7 +109730,7 @@ Greek: οἱ δὲ Ἰουδαῖοι κατὰ τὸν ἀμερῆ ψυχου�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the Jews, having their souls drawn through the unbroken time, stretching out their hands to heaven in a many-teared supplication with mournful songs, begged the greatest God again to help them swiftly.
+Draft translation: But the Jews, with their souls drawn through the unbroken stretch of time, stretching out their hands to heaven in a many-teared supplication with mournful songs, begged the greatest God again to help them swiftly.
 
 Decision rows:
 - None recorded.
@@ -108246,7 +109750,7 @@ Greek: οὔπω δὲ ἡλίου βολαὶ κατεσπείροντο, κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the rays of the sun were not yet being scattered, and while the king was receiving his friends, Hermon stood by and called him to the going out, showing that the object of the king's zeal lay ready.
+Draft translation: But the rays of the sun were not yet scattered, and while the king was receiving his friends, Hermon stood by and called him to the procession, showing that the king's eager purpose lay ready.
 
 Decision rows:
 - None recorded.
@@ -108266,7 +109770,7 @@ Greek: τοῦ δὲ ἀποδεξαμένου καὶ καταπλαγέντο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the king received this and was struck with amazement at the unlawful going out, being mastered in every way by ignorance, he inquired what the matter was, for which this had been completed for him with haste.
+Draft translation: And when the king received this and was struck with amazement at the unlawful procession, being mastered in every way by ignorance, he inquired what the matter was for which this had been completed for him with haste.
 
 Decision rows:
 - None recorded.
@@ -108286,7 +109790,7 @@ Greek: τοῦτο δὲ ἦν ἡ ἐνέργεια τοῦ πάντα δεσπ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And this was the operation of God, who masters all things, who had put forgetfulness into his mind concerning the things previously devised by him.
+Draft translation: And this was the working of God, who masters all things, who had put forgetfulness into his mind concerning the things previously devised by him.
 
 Decision rows:
 - None recorded.
@@ -108346,7 +109850,7 @@ Greek: εἴ σοι γονεῖς παρῆσαν ἢ παίδων γοναί, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If your parents were present to you, or offspring of children, I would have prepared this rich feast for the wild beasts, instead of the Jews, who are blameless to me and to my ancestors, having shown a whole and sure faith especially.
+Draft translation: If your parents were present to you, or offspring of children, I would have prepared this rich feast for the wild beasts instead of the Jews, who are blameless toward me and my ancestors, having shown complete and sure faith especially.
 
 Decision rows:
 - None recorded.
@@ -108386,7 +109890,7 @@ Greek: οὕτως ὁ ¨Ερμων ἀπροσδόκητον καὶ ἐπικ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Thus Hermon endured an unexpected and dangerous threat, and he was drawn together in sight and face.
+Draft translation: Thus Hermon endured an unexpected and dangerous threat, and he shrank in appearance and face.
 
 Decision rows:
 - None recorded.
@@ -108406,7 +109910,7 @@ Greek: ὁ καθεὶς δὲ τῶν φίλων σκυθρωπῶς ὑπεκ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And each of the friends withdrew gloomily, and they dismissed those who had gathered, each to his own occupation.
+Draft translation: And each of the friends slunk away gloomily, and they dismissed those who had gathered, each to his own occupation.
 
 Decision rows:
 - None recorded.
@@ -108486,7 +109990,7 @@ Greek: τοὺς ἐλέφαντας ἔτι καὶ νῦν καθόπλισο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Even now, arm the elephants for tomorrow, for the vanishing of the Jews.
+Draft translation: Even now, arm the elephants for tomorrow, for the annihilation of the Jews.
 
 Decision rows:
 - None recorded.
@@ -108526,7 +110030,7 @@ Greek: βασιλεῦ, μέχρι τίνος ὡς ἀλόγους ἡμᾶς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: King, until when do you test us as irrational beings, commanding already a third time to make them vanish, and again, when the matters come, by a change dissolving the things decreed by you?
+Draft translation: King, until when do you test us as unreasoning creatures, commanding already a third time to annihilate them, and again, when the matter arrives, undoing by change the things decreed by you?
 
 Decision rows:
 - None recorded.
@@ -108566,7 +110070,7 @@ Greek: ὅθεν ὁ κατὰ πάντα Φάλαρις βασιλεὺς ἐμ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore the king, a Phalaris in every way, being multiplied with irrationality and considering as nothing the changes of soul happening in him for the oversight of the Jews, confirmed a most unfinished oath, determining to send these without delay into Hades, mangled under the knees and feet of beasts,
+Draft translation: Therefore the king, a Phalaris in every way, filled with irrationality and considering as nothing the changes of soul happening in him for the visitation of the Jews, confirmed a most unfulfilled oath, determining to send these without delay into Hades, mangled under the knees and feet of beasts,
 
 Decision rows:
 - None recorded.
@@ -108586,7 +110090,7 @@ Greek: ἐπιστρατεύσαντα δὲ ἐπὶ τὴν Ἰουδαίαν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and, after making an expedition against Judea, to make it level with fire and spear quickly, and to make their temple, untrodden by us, prostrate with fire, and quickly make it deserted for all time of those who complete sacrifices there.
+Draft translation: and, after making an expedition against Judea, to make it level with fire and spear quickly, and to make their temple, untrodden by us, prostrate with fire, and quickly make it deserted for all time of those who perform sacrifices there.
 
 Decision rows:
 - None recorded.
@@ -108626,7 +110130,7 @@ Greek: ὁ δὲ ἐλεφαντάρχης τὰ θηρία σχεδὸν εἰ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the elephantarch, having brought the beasts almost to a maddened condition with most fragrant drinks of frankincensed wine, equipped with fearsome gear,
+Draft translation: And the elephantarch, having brought the beasts almost to a maddened condition with most fragrant drinks of frankincensed wine and having equipped them with fearsome gear,
 
 Decision rows:
 - None recorded.
@@ -108646,7 +110150,7 @@ Greek: περὶ τὴν ἕω, τῆς πόλεως ἤδη πλήθεσιν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: about dawn, when the city was already filled with innumerable multitudes around the hippodrome, entered into the court and urged the king on to the thing set before him.
+Draft translation: about dawn, when the city was already filled with innumerable multitudes around the hippodrome, entered into the court and urged the king on to the matter set before him.
 
 Decision rows:
 - None recorded.
@@ -108706,7 +110210,7 @@ Greek: ὑστάτην βίου ροπὴν αὐτοῖς ἐκείνην δό�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: they supposed that this was the last turn of life for them, the end of the most wretched expectation, and, turning to pity and groans, they kissed one another, embracing their relatives and falling on their necks, fathers with children and mothers with young daughters, while others had newborn infants at their breasts, drawing their last milk.
+Draft translation: they supposed that this was the last moment of life for them, the end of the most wretched expectation, and, turning to pity and groans, they kissed one another, embracing their relatives and falling on their necks, fathers with children and mothers with young daughters, while others had newborn infants at their breasts, drawing their last milk.
 
 Decision rows:
 - None recorded.
@@ -108768,7 +110272,7 @@ Greek: ΕΛΕΑΖΑΡΟΣ δέ τις ἀνὴρ ἐπίσημος τῶν ἀπ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Eleazar, a certain notable man from the priests of the country, already having reached the age of eldership and adorned with every virtue in life, quieted the elders around him and prayed that they call upon the holy God, saying these things:
+Draft translation: And Eleazar, a certain notable man from the priests of the country, already having reached the age of eldership and adorned with every virtue in life, quieted the elders around him and prayed these things, calling upon the holy God:
 
 Decision rows:
 - None recorded.
@@ -108848,7 +110352,7 @@ Greek: σὺ τὸν ἀναριθμήτοις δυνάμεσι γαυρωθέν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: You shattered Sennacherib, heavy king of the Assyrians, boasting in innumerable forces, having already taken all the earth subject to him by spear and being lifted up against your holy city, speaking heavy things with boasting and boldness; you, Master, showed your might manifest to many nations.
+Draft translation: You shattered Sennacherib, grievous king of the Assyrians, boasting in innumerable forces, having already taken all the earth subject to him by spear and being lifted up against your holy city, speaking severe things with boasting and boldness; you, Master, showed your might manifest to many nations.
 
 Decision rows:
 - None recorded.
@@ -109068,7 +110572,7 @@ Greek: Τοῦ δὲ Ἐλεαζάρου λήγοντος ἄρτι τῆς πρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when Eleazar was just ending the prayer, the king with the beasts and with all the arrogant noise of the force was passing along toward the hippodrome.
+Draft translation: And when Eleazar was just ending the prayer, the king with the beasts and with all the arrogant uproar of the force was passing along toward the hippodrome.
 
 Decision rows:
 - None recorded.
@@ -109088,7 +110592,7 @@ Greek: καὶ θεωρήσαντες οἱ Ἰουδαῖοι μέγα εἰς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the Jews saw it, they cried out greatly into heaven, so that even the valleys lying nearby, sounding together, made an uncontrollable wailing through the whole camp.
+Draft translation: And when the Jews saw it, they cried out loudly to heaven, so that even the valleys lying nearby, sounding together, made an uncontrollable wailing through the whole camp.
 
 Decision rows:
 - None recorded.
@@ -109108,7 +110612,7 @@ Greek: τότε ὀ μεγαλόδοξος παντοκράτωρ καὶ ἀλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then the greatly glorious Almighty and true God, making his holy face appear, opened the heavenly gates, from which two glorified angels of fearsome appearance came down, visible to all except the Jews,
+Draft translation: Then the Almighty and true God, great in glory, making his holy face appear, opened the heavenly gates, from which two glorified angels of fearsome appearance came down, visible to all except the Jews,
 
 Decision rows:
 - None recorded.
@@ -109148,7 +110652,7 @@ Greek: καὶ ὑπόφρικον καὶ τὸ τοῦ βασιλέως σῶ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And even the body of the king became shuddering, and forgetfulness took his heavy-hearted boldness.
+Draft translation: And even the body of the king became terrified, and forgetfulness took his grim boldness.
 
 Decision rows:
 - None recorded.
@@ -109228,7 +110732,7 @@ Greek: παραβασιλεύετε καὶ τυράννους ὑπερβεβή
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: You are ruling beside the king and have surpassed tyrants in cruelty, and you are attempting to remove me myself, your benefactor, already from rule and from breath, secretly devising things not profitable to the kingdom.
+Draft translation: You are playing king beside me and have surpassed tyrants in cruelty, and you are attempting to remove me myself, your benefactor, already from rule and from breath, secretly devising things not beneficial to the kingdom.
 
 Decision rows:
 - None recorded.
@@ -109308,7 +110812,7 @@ Greek: ἀπολύσατε τοὺς υἱοὺς τοῦ παντοκράτορ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Release the sons of the Almighty heavenly living God, who from our ancestors until now provides our affairs with unhindered stability with glory.
+Draft translation: Release the sons of the Almighty heavenly living God, who from our ancestors until now provides unhindered stability with glory for our affairs.
 
 Decision rows:
 - None recorded.
@@ -109328,7 +110832,7 @@ Greek: ὁ μὲν οὖν ταῦτα ἔλεξεν· οἱ δὲ ἐν ἀμε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: So he spoke these things. And they, being loosed in an indivisible time, blessed their holy savior God, having just escaped death.
+Draft translation: So he spoke these things. And they, being loosed in an instant, blessed their holy savior God, having just escaped death.
 
 Decision rows:
 - None recorded.
@@ -109348,7 +110852,7 @@ Greek: Εἶτα ὁ βασιλεὺς εἰς τὴν πόλιν ἀπαλλα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then the king, after departing into the city, summoned the one over the revenues and commanded that wines and the remaining things useful for feasting be supplied to the Jews for seven days, judging that in the place where they had supposed they would receive destruction, in that same place they should keep deliverance-feasts in all gladness.
+Draft translation: Then the king, after departing into the city, summoned the one over the revenues and commanded that wines and the remaining things useful for feasting be supplied to the Jews for seven days, judging that in the place where they had supposed they would receive destruction, in that same place they should keep feasts of deliverance in all gladness.
 
 Decision rows:
 - None recorded.
@@ -109368,7 +110872,7 @@ Greek: τότε οἱ πρὶν ἐπονείδιστοι καὶ πλησίον
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then those who before were reproached and near Hades, or rather standing upon it, instead of a bitter and hard-to-avoid doom, organized a saving cup, and they divided by couches the place prepared for their fall and burial, being full of joy.
+Draft translation: Then those who before were reproached and near Hades, or rather standing upon it, instead of a bitter and hard-to-avoid doom, organized a cup of deliverance, and they divided by couches the place prepared for their fall and burial, being full of joy.
 
 Decision rows:
 - None recorded.
@@ -109388,7 +110892,7 @@ Greek: καταλήξαντες δὲ θρήνου πανόδυρτον μέλο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And having ceased the all-lamenting song of mourning, they took up a fatherly song, praising God the savior and wonder-worker; and, putting away every wailing and shriek, they organized dances as a sign of peaceful gladness.
+Draft translation: And having ceased the all-lamenting song of mourning, they took up an ancestral song, praising God the savior and wonder-worker; and, putting away every wailing and shriek, they formed dances as a sign of peaceful gladness.
 
 Decision rows:
 - None recorded.
@@ -109468,7 +110972,7 @@ Greek: καὶ κοινὸν ὁρισάμενοι περὶ τούτων θεσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and, having appointed a common ordinance concerning these things for all their sojourning community through generations, they established the aforesaid days to be kept as glad days, not for the sake of drinking and delicacy, but because of the salvation that had happened to them through God.
+Draft translation: and, having appointed a common ordinance concerning these things for all their sojourning community through generations, they established the aforesaid days to be kept as glad days, not for the sake of drinking and luxury, but because of the salvation that had happened to them through God.
 
 Decision rows:
 - None recorded.
@@ -109528,7 +111032,7 @@ Greek: ἐν αἷς καὶ μεγαλοδόξως ἐπιφάνας τὸ ἔ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: during which also the ruler of all things, having made his mercy appear with great glory, rescued them all together without stumbling.
+Draft translation: during which also the ruler of all things, having made his mercy appear with great glory, rescued them all together unharmed.
 
 Decision rows:
 - None recorded.
@@ -109568,7 +111072,7 @@ Greek: συναινέσας τε αὐτοῖς ὁ βασιλεὺς ἔγρα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the king consented to them and wrote for them the letter written below to the commanders in each city, having its earnestness in a high-souled way.
+Draft translation: And the king consented to them and wrote for them the letter written below to the commanders in each city, containing its earnestness with great-heartedness.
 
 Decision rows:
 - None recorded.
@@ -109590,7 +111094,7 @@ Greek: ‘ΒΑΣΙΛΕΥΣ Πτολεμαῖος ὁ Φιλοπάτωρ τοῖ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: King Ptolemy Philopator to the commanders throughout Egypt and to all those appointed over affairs: greetings and be strong.
+Draft translation: King Ptolemy Philopator to the commanders throughout Egypt and to all those appointed over affairs: greetings and good health.
 
 Decision rows:
 - None recorded.
@@ -109610,7 +111114,7 @@ Greek: ἐρρώμεθα δὲ καὶ αὐτοὶ καὶ τὰ τέκνα ἡ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And we ourselves and our children are strong, the great God having directed our affairs for us just as we choose.
+Draft translation: And we ourselves and our children are well, the great God having directed our affairs for us just as we choose.
 
 Decision rows:
 - None recorded.
@@ -109630,7 +111134,7 @@ Greek: τῶν φίλων τινές, κακοηθείᾳ πυκνότερον �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Some of the friends, through ill-nature lying more often beside us, persuaded us to gather the Jews under the kingdom into a body and punish them with foreign punishments of rebels,
+Draft translation: Some of the friends, pressing close to us with persistent malice, persuaded us to gather the Jews under the kingdom into a body and punish them as rebels with strange punishments,
 
 Decision rows:
 - None recorded.
@@ -109650,7 +111154,7 @@ Greek: προσφερόμενοι μήποτε εὐσταθήσειν τὰ π�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: putting forward that our affairs would never be stable, because of the hostility these people have toward all nations, until this should be completed.
+Draft translation: claiming that our affairs would never be stable, because of the hostility these people have toward all nations, until this should be completed.
 
 Decision rows:
 - None recorded.
@@ -109670,7 +111174,7 @@ Greek: οἳ καὶ δεσμίους καταγαγόντες αὐτοὺς μ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: They also brought them down in bonds with mistreatments as slaves, or rather as plotters, and without any inquiry or examination attempted to remove them, having fastened on themselves cruelty more savage than the law of Scythians.
+Draft translation: They also brought them down in bonds with mistreatments as slaves, or rather as plotters, and without any inquiry or examination attempted to kill them, having fastened on themselves cruelty more savage than Scythian law.
 
 Decision rows:
 - None recorded.
@@ -109690,7 +111194,7 @@ Greek: ἡμεῖς δὲ ἐπὶ τούτοις σκληρότερον δια�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But we, after threatening more harshly over these things, according to the gentleness that we have toward all humans, scarcely granted life to them; and having surely recognized that the heavenly God has shielded the Jews, always fighting on their behalf as a father for sons,
+Draft translation: But we, after threatening more harshly over these things, according to the gentleness that we have toward all people, scarcely granted life to them; and having surely recognized that the heavenly God has shielded the Jews, always fighting on their behalf as a father for sons,
 
 Decision rows:
 - None recorded.
@@ -109710,7 +111214,7 @@ Greek: τήν τε τοῦ φίλου ἣν ἔχουσι πρὸς ἡμᾶς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and having considered the firm goodwill of a friend that they have toward us and our ancestors, we have justly released them from every charge in whatever way,
+Draft translation: and having considered the friendly and firm goodwill that they have toward us and our ancestors, we have justly released them from every charge in whatever way,
 
 Decision rows:
 - None recorded.
@@ -109730,7 +111234,7 @@ Greek: καὶ προστετάχαμεν ἑκάστῳ πάντας εἰς τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and we have ordered each one, all of them, to return to their own places, with no one anywhere harming them at all, nor reproaching them concerning the things that happened contrary to reason.
+Draft translation: and we have ordered everyone to return to their own places, with no one anywhere harming them at all, nor reproaching them concerning the things that happened contrary to reason.
 
 Decision rows:
 - None recorded.
@@ -109750,7 +111254,7 @@ Greek: γινώσκετε γὰρ ὅτι κατὰ τούτων, ἐάν τι �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For know that if we devise any evil thing against them or grieve them at all, we will not have a human, but the Most High God, who rules every power, opposed to us for vengeance of the affairs, inescapably in every way through all time. Be strong.
+Draft translation: For know that if we devise any evil thing against them or trouble them at all, we will not have a human, but the Most High God, who rules every power, opposed to us for vengeance of the affairs, inescapably in every way through all time. Farewell.
 
 Decision rows:
 - None recorded.
@@ -109770,7 +111274,7 @@ Greek: Λαβόντες δὲ τὴν ἐπιστολὴν ταύτην οὐκ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when they received this letter, they did not hasten to be immediately about the departure, but petitioned the king that those from the race of the Jews who had voluntarily transgressed the holy God and the law of God should receive through them the owed punishment,
+Draft translation: And when they received this letter, they did not hasten to depart immediately, but petitioned the king that those from the race of the Jews who had voluntarily transgressed the holy God and the law of God should receive through them the owed punishment,
 
 Decision rows:
 - None recorded.
@@ -109810,7 +111314,7 @@ Greek: ὁ δὲ τἀληθὲς αὐτοὺς λέγειν παραδεξάμ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he accepted that they spoke the truth and consented, giving them full permission so that they might utterly destroy those who had transgressed the law of God in every place under his kingdom, with boldness, without any royal authority or inspection.
+Draft translation: And he accepted that they spoke the truth and consented, giving them full permission so that they might utterly destroy those who had transgressed the law of God in every place under his kingdom, with boldness, without any royal restraint or inspection.
 
 Decision rows:
 - None recorded.
@@ -109846,11 +111350,11 @@ Variant notes:
 
 ### 3 Maccabees 7:14
 
-Greek: τότε τὸν ἐμπεσόντα τῶν μεμιασμένων ὁμοεθνῆ κατὰ τὴν ὁδὸν ἐκολάζοντο καὶ μετὰ παραδειγματισμῶν ἀνῃ£ρουν.
+Greek: τότε τὸν ἐμπεσόντα τῶν μεμιασμένων ὁμοεθνῆ κατὰ τὴν ὁδὸν ἐκολάζοντο καὶ μετὰ παραδειγματισμῶν ἀνῄρουν.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then they punished any defiled fellow-countryman who fell in along the way, and they put them to death with examples.
+Draft translation: Then they punished any defiled fellow-countryman who fell in along the way, and they put them to death as public examples.
 
 Decision rows:
 - None recorded.
@@ -109870,7 +111374,7 @@ Greek: ἐκείνῃ δὲ τῇ ἡμέρᾳ ἀνεῖλον ὑπὲρ το�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And on that day they put to death more than 300 men, and they kept gladness with joy, having subdued the profane.
+Draft translation: And on that day they put to death more than 300 men, and they kept gladness with rejoicing, having subdued the profane.
 
 Decision rows:
 - None recorded.
@@ -109890,7 +111394,7 @@ Greek: αὐτοὶ δὲ οἱ μέχρι θανάτου τὸν Θεὸν ἐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And those themselves who had held to God until death, having received the complete enjoyment of salvation, set out from the city crowned with all sorts of most fragrant flowers, with gladness and shouting, in praises and all-melodious hymns giving thanks to the God of their fathers, the eternal savior of Israel.
+Draft translation: And those themselves who had held to God until death, having received the complete enjoyment of salvation, set out from the city crowned with all sorts of most fragrant flowers, with gladness and shouting, in praises and every kind of melodious hymn giving thanks to the God of their fathers, the eternal savior of Israel.
 
 Decision rows:
 - None recorded.
@@ -109930,7 +111434,7 @@ Greek: ἐκεῖ ἐποίησαν πότον σωτήριον, τοῦ βασ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: there they made a saving drinking-feast, the king having supplied to them generously all the things for the arrival of each one as far as his own house.
+Draft translation: there they made a drinking-feast of deliverance, the king having supplied generously to each one all the things needed for his arrival at his own house.
 
 Decision rows:
 - None recorded.
@@ -109950,7 +111454,7 @@ Greek: καταχθέντες δὲ μετ᾿ εἰρήνης ἐν ταῖς π
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after being brought down with peace in fitting thanksgivings, likewise there also they established that these days be kept as glad days for the time of their sojourning community.
+Draft translation: And after landing in peace with fitting thanksgivings, likewise there also they established that these days be kept as glad days for the time of their sojourning community.
 
 Decision rows:
 - None recorded.
@@ -109990,7 +111494,7 @@ Greek: καὶ πλείστην ἢ ἔμπροσθεν ἐν τοῖς ἐχθ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and having greater authority than before among the enemies, with glory and fear, being shaken in none of their possessions at all by anyone.
+Draft translation: and having greater authority than before among the enemies, with glory and fear, with none of their possessions disturbed by anyone at all.
 
 Decision rows:
 - None recorded.
@@ -110010,7 +111514,7 @@ Greek: καὶ πάντα τὰ ἑαυτῶν πάντες ἐκομίσαντ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And all of them recovered all their own things from the registration, so that those who had anything gave it back to them with the greatest fear, the great things of the greatest God having been done perfectly for their salvation.
+Draft translation: And all of them recovered all their own things according to the registration, so that those who had anything gave it back to them with the greatest fear, the great things of the greatest God having been done perfectly for their salvation.
 
 Decision rows:
 - None recorded.
@@ -110054,7 +111558,7 @@ Greek: Φιλοσοφώτατον λόγον ἐπιδείκνυσθαι μέλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Being about to display a most philosophical word, whether reverent reasoning is master over the passions, I would rightly advise you to give eager attention to philosophy.
+Draft translation: Being about to display a most philosophical argument, whether reverent reasoning is master over the passions, I would rightly advise you to give eager attention to philosophy.
 
 Decision rows:
 - None recorded.
@@ -110074,7 +111578,7 @@ Greek: καὶ γὰρ ἀναγκαῖος εἰς ἐπιστήμην παντ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For the word is necessary for knowledge to everyone, and in another way it contains praise of the greatest virtue, I mean prudence.
+Draft translation: For the argument is necessary for knowledge to everyone, and moreover it contains praise of the greatest virtue, I mean prudence.
 
 Decision rows:
 - None recorded.
@@ -110174,7 +111678,7 @@ Greek: πολλαχόθεν μὲν οὖν καὶ ἀλλαχόθεν ἔχο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: So from many places and other places I could show you that reverent reasoning is sovereign over the passions.
+Draft translation: So from many and varied places I could show you that reverent reasoning is sovereign over the passions.
 
 Decision rows:
 - None recorded.
@@ -110194,7 +111698,7 @@ Greek: πολὺ δὲ πλέον τοῦτο ἀποδείξαιμι ἀπὸ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But much more could I prove this from the manly goodness of those who died for virtue, Eleazar and the seven brothers and their mother. [9] For all these, looking beyond pains even to death, displayed that reasoning rules completely over the passions.
+Draft translation: But much more could I prove this from the manly goodness of those who died for virtue, Eleazar and the seven brothers and their mother. [9] For all these, despising pains even to death, displayed that reasoning has complete mastery over the passions.
 
 Decision rows:
 - None recorded.
@@ -110214,7 +111718,7 @@ Greek: τῶν μὲν οὖν ἀρετῶν ἔπεστί μοι ἐπαινε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: So then, for their virtues, it is possible for me to praise the men who at that time died with their mother for nobility and goodness, and for their honors I would bless them.
+Draft translation: So then, for their virtues, it is possible for me to praise the men who at that time died with their mother for nobility and goodness, and for their honors I would call them blessed.
 
 Decision rows:
 - None recorded.
@@ -110234,7 +111738,7 @@ Greek: θαυμασθέντες γὰρ ἐκεῖνοι οὐ μόνον ὑπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For those men, admired not only by all humans for courage and endurance, but also by those who abused them, became causes for the tyranny against the nation to be destroyed, having conquered the tyrant by endurance, so that through them the fatherland was cleansed.
+Draft translation: For those men, admired not only by all people for courage and endurance, but also by those who abused them, became causes for the tyranny against the nation to be destroyed, having conquered the tyrant by endurance, so that through them the fatherland was cleansed.
 
 Decision rows:
 - None recorded.
@@ -110254,7 +111758,7 @@ Greek: ἀλλὰ καὶ περὶ τούτου νῦν αὐτίκα δὴ λ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But concerning this also it will be possible to speak immediately now, after I have begun the subject, just as I am accustomed to do; and so I will turn to the word about them, giving glory to the all-wise God.
+Draft translation: But concerning this also it will be possible to speak immediately now, after I have begun the subject, just as I am accustomed to do; and so I will turn to the account about them, giving glory to the all-wise God.
 
 Decision rows:
 - None recorded.
@@ -110294,7 +111798,7 @@ Greek: διακρίνομεν δὲ τί ποτέ ἐστι λογισμὸς κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And we distinguish what reasoning ever is, and what passion is, and how many forms of passions there are, and whether reasoning prevails over all these.
+Draft translation: And we distinguish what reasoning is, and what passion is, and how many forms of passions there are, and whether reasoning prevails over all these.
 
 Decision rows:
 - None recorded.
@@ -110314,7 +111818,7 @@ Greek: λογισμὸς μὲν δὴ τοίνυν ἐστὶ νοῦς μετ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Reasoning, then, is mind with right word, preferring the life of wisdom.
+Draft translation: Reasoning, then, is mind with right reason, preferring the life of wisdom.
 
 Decision rows:
 - None recorded.
@@ -110394,7 +111898,7 @@ Greek: κυριωτάτη δὲ πασῶν ἡ φρόνησις, ἐξ ἧς δ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And most ruling of all is prudence, from which reasoning prevails over the passions.
+Draft translation: And most authoritative of all is prudence, from which reasoning prevails over the passions.
 
 Decision rows:
 - None recorded.
@@ -110514,7 +112018,7 @@ Greek: ἐν δὲ τῇ ἡδονῇ ἔνεστι καὶ ἡ κακοήθης
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And in pleasure there is also the malicious disposition, being the most many-formed of all the passions.
+Draft translation: And in pleasure there is also the malicious disposition, being the most manifold of all the passions.
 
 Decision rows:
 - None recorded.
@@ -110534,7 +112038,7 @@ Greek: κατὰ μὲν τὴν ψυχὴν ἀλαζονεία, καὶ φιλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: According to the soul, it is boasting, love of money, love of glory, love of strife, faithlessness, and envy.
+Draft translation: With respect to the soul, it is boasting, love of money, love of glory, love of strife, faithlessness, and envy.
 
 Decision rows:
 - None recorded.
@@ -110554,7 +112058,7 @@ Greek: κατὰ δὲ τὸ σῶμα, παντοφαγία καὶ λαιμα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And according to the body, it is eating everything, gluttony, and eating alone.
+Draft translation: And with respect to the body, it is eating everything, gluttony, and eating alone.
 
 Decision rows:
 - None recorded.
@@ -110594,7 +112098,7 @@ Greek: ὧν ἑκάστην ὁ παγγέωργος λογισμὸς περι
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: each of which the all-cultivating reasoning clears around and prunes away and binds around and waters and changes in every way, taming the materials of the habits and passions.
+Draft translation: each of which all-cultivating reasoning cleans around, prunes away, binds around, waters, and changes in every way, taming the materials of the habits and passions.
 
 Decision rows:
 - None recorded.
@@ -110654,7 +112158,7 @@ Greek: τῶν δὲ ἐπιθυμιῶν αἱ μέν εἰσι ψυχικαί,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And of desires, some are soul-like and some are bodily, and reasoning appears to prevail over both of these.
+Draft translation: And of desires, some are of the soul and some are bodily, and reasoning appears to prevail over both of these.
 
 Decision rows:
 - None recorded.
@@ -110674,7 +112178,7 @@ Greek: ἐπεὶ πόθεν κινούμενοι πρὸς τὰς ἀπειρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For since, being moved toward forbidden foods, we turn away from the pleasures from them, is it not because reasoning is able to prevail over the appetites? I think so.
+Draft translation: For when we are moved toward forbidden foods, why do we turn away from the pleasures from them? Is it not because reasoning is able to prevail over the appetites? I think so.
 
 Decision rows:
 - None recorded.
@@ -110736,7 +112240,7 @@ Greek: Καὶ τί θαυμαστόν; εἰ αἱ τῆς ψυχῆς ἐπι�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And what is marvelous if the desires of the soul toward participation in beauty are made invalid?
+Draft translation: And what is marvelous if the desires of the soul toward sharing in beauty are nullified?
 
 Decision rows:
 - None recorded.
@@ -110756,7 +112260,7 @@ Greek: ταύτῃ γοῦν ὁ σώφρων Ἰωσὴφ ἐπαινεῖτα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For in this way temperate Joseph is praised, because by reasoning and understanding he completely mastered the pleasure-passion.
+Draft translation: For in this way temperate Joseph is praised, because by reasoning and understanding he completely mastered the passion for pleasure.
 
 Decision rows:
 - None recorded.
@@ -110776,7 +112280,7 @@ Greek: νέος γὰρ ὢν καὶ ἀκμάζων πρὸς συνουσια
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For being young and flourishing for intercourse, by reasoning he made invalid the sting of the passions.
+Draft translation: For being young and flourishing for intercourse, by reasoning he nullified the sting of the passions.
 
 Decision rows:
 - None recorded.
@@ -110796,7 +112300,7 @@ Greek: οὐ μόνον δὲ τὴν τῆς ἡδυπαθείας οἰστρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And reasoning appears to prevail not only over the frenzy-driving of pleasure-passion, but also over every desire.
+Draft translation: And reasoning appears to prevail not only over the goading frenzy of the passion for pleasure, but also over every desire.
 
 Decision rows:
 - None recorded.
@@ -110876,7 +112380,7 @@ Greek: αὐτίκα γοῦν τῷ νόμῳ πολιτευόμενος, κἂ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For immediately, when someone conducts citizenship by the law, even if he is a lover of money, he forces his own manner by lending to those in need without interest, and by cancelling the loan when the sevens arrive.
+Draft translation: For immediately, when someone conducts citizenship by the law, even if he is a lover of money, he forces his own manner by lending to those in need without interest and by cancelling the loan when the sevens arrive.
 
 Decision rows:
 - None recorded.
@@ -111052,11 +112556,11 @@ Variant notes:
 
 ### 4 Maccabees 2:17
 
-Greek: θυμούμενός γέ τοι Μωσῆς κατὰ Δαθὰν καὶ Ἀβειρὼν οὐ θυμῷ τι κατ' αὐτῶν ἐποίησεν, ἀλλὰ λογισμῷ τὸν θυμὸν διῃ£τησεν.
+Greek: θυμούμενός γέ τοι Μωσῆς κατὰ Δαθὰν καὶ Ἀβειρὼν οὐ θυμῷ τι κατ' αὐτῶν ἐποίησεν, ἀλλὰ λογισμῷ τὸν θυμὸν διῄτησεν.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Indeed Moses, when angry against Dathan and Abiram, did nothing against them by anger, but ordered the anger by reasoning.
+Draft translation: Indeed Moses, when angry against Dathan and Abiram, did nothing against them by anger, but regulated the anger by reasoning.
 
 Decision rows:
 - None recorded.
@@ -111076,7 +112580,7 @@ Greek: δυνατὸς γὰρ ὁ σώφρων νοῦς, ὡς ἔφην, κα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For the temperate mind is able, as I said, to act nobly against the passions, and to change some of them, and to make others invalid.
+Draft translation: For the temperate mind is able, as I said, to win nobly against the passions, and to change some of them, and to make others invalid.
 
 Decision rows:
 - None recorded.
@@ -111176,7 +112680,7 @@ Greek: καί τούτῳ νόμον ἔδωκε, καθ' ὃν πολιτευό
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and to this he gave a law, according to which, when it conducts citizenship, it will reign a temperate and just and good and courageous kingdom.
+Draft translation: and to this he gave a law, according to which, when it conducts its citizenship, it will reign over a temperate and just and good and courageous kingdom.
 
 Decision rows:
 - None recorded.
@@ -111218,7 +112722,7 @@ Greek: Εστι δέ κομιδῆ γελοῖος ὁ λόγος· οὐ γὰ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But the word is altogether laughable; for reasoning does not appear to prevail over its own passions, but over the bodily ones.
+Draft translation: But the argument is altogether laughable; for reasoning does not appear to prevail over its own passions, but over the bodily ones.
 
 Decision rows:
 - None recorded.
@@ -111298,7 +112802,7 @@ Greek: οὐ γὰρ ἐκριζωτὴς τῶν παθῶν ὁ λογισμό
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For reasoning is not a rooter-out of the passions, but an antagonist.
+Draft translation: For reasoning is not an uprooter of the passions, but an antagonist.
 
 Decision rows:
 - None recorded.
@@ -111418,7 +112922,7 @@ Greek: ἀλλά τις αὐτῶν ἀλόγιστος ἐπιθυμία το�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But a certain irrational desire for the water among the enemies, intensifying, dried him up, and loosening him, burned him.
+Draft translation: But a certain irrational desire for the water among the enemies, intensifying, dried him up, and weakening him, burned him.
 
 Decision rows:
 - None recorded.
@@ -111454,7 +112958,7 @@ Variant notes:
 
 ### 4 Maccabees 3:13
 
-Greek: καὶ λαθόντες τοὺς τῶν πυλῶν ἀκροφύλακας, διεξῃ£εσαν ἀνερευνώμενοι κατὰ πᾶν τὸ τῶν πολεμίων στρατόπεδον.
+Greek: καὶ λαθόντες τοὺς τῶν πυλῶν ἀκροφύλακας, διεξῄεσαν ἀνερευνώμενοι κατὰ πᾶν τὸ τῶν πολεμίων στρατόπεδον.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
@@ -111478,7 +112982,7 @@ Greek: καὶ ἀνευράμενοι τὴν πηγήν, ἐξ αὐτῆς θ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when they had found the spring, they boldly filled the drink from it for the king.
+Draft translation: And when they had found the spring, they boldly filled the drink for the king from it.
 
 Decision rows:
 - None recorded.
@@ -111498,7 +113002,7 @@ Greek: ὁ δὲ καίπερ τῷ δίψει διαπυρούμενος, ἐλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But he, though burning with thirst, reasoned that the drink, reckoned equal in power to blood, was an all-dreadful danger to the soul;
+Draft translation: But he, though burning with thirst, reasoned that the drink, reckoned equal in power to blood, was an utterly dreadful danger to the soul;
 
 Decision rows:
 - None recorded.
@@ -111558,7 +113062,7 @@ Greek: καὶ σβέσαι τὰς τῶν οἴστρων φλεγμονὰς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and to quench the inflammations of the stings, and to wrestle down the pains of bodies that are excessive, and by the nobility and goodness of reasoning to spit away all the dominions of the passions.
+Draft translation: and to quench the inflammations of the stings, and to wrestle down the pains of bodies that are excessive, and by the nobility and goodness of reasoning to spit out all the dominions of the passions.
 
 Decision rows:
 - None recorded.
@@ -111598,7 +113102,7 @@ Greek: Ἐπειδὴ γὰρ βαθεῖαν εἰρήνην διὰ τὴν ε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For since our fathers had deep peace because of good law-order, and were doing well, so that even Seleucus Nicanor, the king of Asia, both set apart money for them for the temple-service and accepted their citizenship,
+Draft translation: For since our fathers had deep peace because of good order under law, and were doing well, so that even Seleucus Nicanor, the king of Asia, both set apart money for them for the temple-service and accepted their civic order,
 
 Decision rows:
 - None recorded.
@@ -111618,7 +113122,7 @@ Greek: τότε δή τινες πρὸς τὴν κοινὴν νεωτερίσ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: then certain men, having made a new move against the common harmony, made use of many-formed misfortunes.
+Draft translation: then certain men, having made a new move against the common harmony, brought on many-sided misfortunes.
 
 Decision rows:
 - None recorded.
@@ -111640,7 +113144,7 @@ Greek: Σίμων γάρ τις πρὸς Ὀνίαν ἀντιπολιτευό�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For a certain Simon, opposing Onias, who once held the high priesthood through life, a noble and good man, when he was not strong enough to harm him though slandering in every way concerning the nation, went away as a fugitive, intending to betray the fatherland.
+Draft translation: For a certain Simon, opposing Onias, who once held the high priesthood through life, a noble and good man, when he was not able to harm him though slandering in every way concerning the nation, went away as a fugitive, intending to betray the fatherland.
 
 Decision rows:
 - None recorded.
@@ -111680,7 +113184,7 @@ Greek: μηνύσων πολλὰς ἰδιωτικῶν χρημάτων μυρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: to disclose that many myriads of private moneys have been stored in the treasuries of Jerusalem, not sharing with the sacred things, and that these belong to King Seleucus.
+Draft translation: to disclose that many myriads of private money have been stored in the treasuries of Jerusalem, not sharing with the sacred things, and that these belong to King Seleucus.
 
 Decision rows:
 - None recorded.
@@ -111700,7 +113204,7 @@ Greek: τούτων δὲ ἕκαστα γνοὺς ὁ Ἀπολλώνιος, �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when Apollonius had learned each of these things, he praised Simon for his care toward the king, and, going up to Seleucus, informed him of the treasure of moneys.
+Draft translation: And when Apollonius had learned each of these things, he praised Simon for his care toward the king, and, going up to Seleucus, informed him of the treasure of money.
 
 Decision rows:
 - None recorded.
@@ -111740,7 +113244,7 @@ Greek: καὶ προσελθὼν ταῖς τοῦ βασιλέως ἐντο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and when he came near, he said that he had come by the commands of the king so that he might take the private moneys of the treasury.
+Draft translation: and when he came near, he said that he had come by the commands of the king so that he might take the private money of the treasury.
 
 Decision rows:
 - None recorded.
@@ -111760,7 +113264,7 @@ Greek: καὶ τοῦ ἔθνους πρὸς τὸν λόγον σχετλιά
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the nation was distressed at the word and was speaking against it, considering it all-dreadful if those who had entrusted deposits to the sacred treasury should be deprived, they hindered him as far as possible.
+Draft translation: And when the nation was distressed at the statement and was speaking against it, considering it all-dreadful if those who had entrusted deposits to the sacred treasury should be deprived, they hindered him as far as possible.
 
 Decision rows:
 - None recorded.
@@ -111776,7 +113280,7 @@ Variant notes:
 
 ### 4 Maccabees 4:8
 
-Greek: μετὰ ἀπειλῶν δὲ ὁ Ἀπολλώνιος ἀπῃ£ει εἰς τὸ ἱερόν.
+Greek: μετὰ ἀπειλῶν δὲ ὁ Ἀπολλώνιος ἀπῄει εἰς τὸ ἱερόν.
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
@@ -111820,7 +113324,7 @@ Greek: ἀνιόντος τε μετά καθωπλισμένης τῆς στρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and when Apollonius was going up with the armed army for the seizure of the moneys, angels on horseback appeared beforehand from heaven, flashing around with their weapons and putting much fear and trembling into them.
+Draft translation: and when Apollonius was going up with the armed army for the seizure of the money, angels on horseback appeared beforehand from heaven, flashing around with their weapons and putting much fear and trembling into them.
 
 Decision rows:
 - None recorded.
@@ -111840,7 +113344,7 @@ Greek: καταπεσών γέ τοι ἡμιθανὴς ὁ Ἀπολλώνιο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Indeed Apollonius, having fallen half-dead in the all-tribal enclosure of the temple, stretched out his hands to heaven and with tears called upon the Hebrews, so that by praying for him they might propitiate the heavenly army.
+Draft translation: Indeed Apollonius, having fallen half-dead in the public enclosure of the temple, stretched out his hands to heaven and with tears called upon the Hebrews, so that by praying for him they might propitiate the heavenly army.
 
 Decision rows:
 - None recorded.
@@ -111860,7 +113364,7 @@ Greek: ἔλεγε γὰρ ἡμαρτηκὼς ὥστε καὶ ἀποθαν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For he said that he had sinned so as to be worthy even to die, and that, if saved, he would hymn before all humans the blessedness of the sacred place.
+Draft translation: For he said that he had sinned so as to be worthy even to die, and that, if saved, he would hymn before all people the blessedness of the sacred place.
 
 Decision rows:
 - None recorded.
@@ -111960,7 +113464,7 @@ Greek: εἰ ἐπιτρέψειεν αὐτῷ τὴν ἀρχήν, κατ' ἐ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: if he would permit the rule to him, 3,660 talents each year.
+Draft translation: if he would permit him the office, 3,660 talents each year.
 
 Decision rows:
 - None recorded.
@@ -111996,11 +113500,11 @@ Variant notes:
 
 ### 4 Maccabees 4:19
 
-Greek: ὃς καὶ ἐξεδιῃ£τησε τῶν Ἰουδαίων τὸ ἔθνος καὶ ἐξεπολίτευσεν ἐπὶ πᾶσαν παρανομίαν
+Greek: ὃς καὶ ἐξεδιῄτησε τῶν Ἰουδαίων τὸ ἔθνος καὶ ἐξεπολίτευσεν ἐπὶ πᾶσαν παρανομίαν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he changed the way of life of the nation of the Jews and changed their citizenship toward every lawlessness,
+Draft translation: And he changed the way of life of the nation of the Jews and altered their citizenship toward every lawlessness,
 
 Decision rows:
 - None recorded.
@@ -112020,7 +113524,7 @@ Greek: ὥστε μὴ μόνον ἐπ' αὐτῇ τῇ ἄκρᾳ τῆς π�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: so that he not only constructed a gymnasium on the very citadel of our fatherland, but also dissolved the care of the temple.
+Draft translation: so that he not only constructed a gymnasium on the very citadel of our fatherland, but also overthrew the care of the temple.
 
 Decision rows:
 - None recorded.
@@ -112040,7 +113544,7 @@ Greek: ἐφ' οἷς ἀγανακτήσασα ἡ θεία δίκη αὐτὸ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: At these things divine justice, being indignant, made Antiochus himself war against them.
+Draft translation: At these things divine justice, being indignant, made Antiochus himself wage war against them.
 
 Decision rows:
 - None recorded.
@@ -112080,7 +113584,7 @@ Greek: καὶ ὡς ἐπόρθησεν αὐτούς, δόγμα ἔθετο �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when he had ravaged them, he set a decree that if any of them should appear to conduct citizenship by the ancestral law, they should die.
+Draft translation: And when he had ravaged them, he set a decree that if any of them should appear to conduct their citizenship by the ancestral law, they should die.
 
 Decision rows:
 - None recorded.
@@ -112100,7 +113604,7 @@ Greek: καὶ ἐπεὶ κατὰ μηδένα τρόπον ἴσχυε κατ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when in no way was he strong enough to dissolve through decrees the goodwill of the nation,
+Draft translation: And when in no way was he able to overthrow through decrees the goodwill of the nation,
 
 Decision rows:
 - None recorded.
@@ -112120,7 +113624,7 @@ Greek: ἀλλὰ πάσας τὰς ἑαυτοῦ ἀπειλὰς καὶ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but saw all his threats and punishments being dissolved, so that even women, because they had circumcised their children, were thrown down with their infants, knowing beforehand that they would suffer this,
+Draft translation: but saw all his threats and punishments being undone, so that even women, because they had circumcised their children, were thrown down with their infants, knowing beforehand that they would suffer this,
 
 Decision rows:
 - None recorded.
@@ -112140,7 +113644,7 @@ Greek: ἐπεὶ οὖν τὰ δόγματα αὐτοῦ κατεφρονε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: therefore, since his decrees were being despised by the people, he himself, through tortures, compelled each one of the nation, while tasting defiled foods, to renounce Judaism.
+Draft translation: therefore, since his decrees were being despised by the people, he himself, through tortures, compelled each one of the nation to taste defiled foods and renounce Judaism.
 
 Decision rows:
 - None recorded.
@@ -112162,7 +113666,7 @@ Greek: Προκαθίσας γέ τοι μετὰ τῶν συνέδρων ὁ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Indeed the tyrant Antiochus, having seated himself beforehand with the councilors on a certain high place, and with the armed troops standing around him in a circle, commanded the spear-bearers
+Draft translation: Indeed the tyrant Antiochus, having seated himself beforehand with the councilors on a certain high place, and with the armed troops standing armed around him in a circle, commanded the spear-bearers
 
 Decision rows:
 - None recorded.
@@ -112222,7 +113726,7 @@ Greek: πολλῶν δὲ συναρπασθέντων εἷς πρῶτος �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when many had been seized together, one Hebrew first from the band, Eleazar by name, a priest by race, a lawyer in knowledge, advanced in age and known to many of those around the tyrant because of his age, was brought near him.
+Draft translation: And when many had been seized together, one Hebrew first from the band, Eleazar by name, a priest by race, learned in the law, advanced in age and known to many of those around the tyrant because of his age, was brought near him.
 
 Decision rows:
 - None recorded.
@@ -112262,7 +113766,7 @@ Greek: ἐγὼ πρὶν ἄρξασθαι τῶν κατὰ σοῦ βασάν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Before beginning the tortures against you, old man, I would advise you in these things, that by tasting the swine's flesh you may be saved; for I respect your age and your gray hair, which after having so long a time you do not seem to me to philosophize, using the religion of the Jews.
+Draft translation: Before beginning the tortures against you, old man, I would advise you in this: that by tasting the swine's flesh you may be saved. For I respect your age and your gray hair, which you have after so long a time, though you do not seem to me to philosophize while practicing the religion of the Jews.
 
 Decision rows:
 - None recorded.
@@ -112282,7 +113786,7 @@ Greek: διατί γὰρ τῆς φύσεως κεχαρισμένης καλλ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For why do you abhor the flesh-eating of this animal, since nature has graciously given it as most beautiful?
+Draft translation: For why do you abhor eating the flesh of this animal, since nature has graciously given it as most excellent?
 
 Decision rows:
 - None recorded.
@@ -112322,7 +113826,7 @@ Greek: σὺ δέ μοι καὶ ἀνοητότερον ποιήσειν δοκ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And you seem to me about to do something even more senseless, if, empty-glorying about the truth, you despise even me for your own punishment.
+Draft translation: And you seem to me about to do something even more senseless, if, glorying vainly about the truth, you despise even me to your own punishment.
 
 Decision rows:
 - None recorded.
@@ -112362,7 +113866,7 @@ Greek: καὶ ἀποσκεδάσεις τῶν λογισμῶν σου τὸ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and scatter the nonsense of your reasonings, and, taking up a mind worthy of your age, philosophize the truth of what is profitable,
+Draft translation: and scatter the nonsense of your reasonings, and, taking up a mind worthy of your age, philosophize about the truth of what is profitable,
 
 Decision rows:
 - None recorded.
@@ -112422,7 +113926,7 @@ Greek: Τοῦτον τὸν τρόπον ἐπὶ τὴν ἔκθεσμον σ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: When the tyrant was urging him in this way toward the outlawed eating of flesh, Eleazar asked for the word,
+Draft translation: When the tyrant was urging him in this way toward the outlawed eating of flesh, Eleazar asked leave to speak,
 
 Decision rows:
 - None recorded.
@@ -112462,7 +113966,7 @@ Greek: ἡμεῖς, Ἀντίοχε, θείῳ πεπεισμένοι νόμῳ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: We, Antiochus, being persuaded to conduct citizenship by a divine law, consider no constraint to be more violent than good obedience to our law.
+Draft translation: We, Antiochus, being persuaded by divine law to conduct our citizenship, consider no constraint to be more violent than good obedience to our law.
 
 Decision rows:
 - None recorded.
@@ -112542,7 +114046,7 @@ Greek: τὸ γὰρ ἐν μικροῖς καὶ ἐν μεγάλοις παρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For transgressing the law in small things and in great things is equal in power,
+Draft translation: For transgressing the law in small things and in great things has equal force,
 
 Decision rows:
 - None recorded.
@@ -112562,7 +114066,7 @@ Greek: δι' ἑκατέρου γὰρ ὡς ὁμοίως ὁ νόμος ὑπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: for through each of the two the law is despised in the same way.
+Draft translation: for through either one the law is despised in the same way.
 
 Decision rows:
 - None recorded.
@@ -112622,7 +114126,7 @@ Greek: καὶ δικαιοσύνην παιδεύει ὥστε διὰ πάν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and it instructs justice, so as to practice equal law through all habits, and it teaches piety, so as magnificently to reverence only the God who is.
+Draft translation: and it instructs justice, so as to live with equal law through all habits, and it teaches piety, so as magnificently to reverence only the God who is.
 
 Decision rows:
 - None recorded.
@@ -112662,7 +114166,7 @@ Greek: καὶ τὰ μὲν οἰκειωθησόμενα ἡμῶν ταῖς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he permitted us to eat the things that would become familiar to our souls, but he forbade us to eat the flesh of things that would become opposed.
+Draft translation: And he permitted us to eat the things that would be suited to our souls, but he forbade us to eat the flesh of things that would be opposed.
 
 Decision rows:
 - None recorded.
@@ -112682,7 +114186,7 @@ Greek: τυραννικὸν δὲ οὐ μόνον ἀναγκάζειν ἡμ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it is tyrannical not only to compel us to transgress the law, but also to eat, so that you may laugh still more at this most hateful defiled eating of ours.
+Draft translation: And it is tyrannical not only to compel us to transgress the law, but also to eat, so that you may mock us still more by this most hateful eating of defiled food.
 
 Decision rows:
 - None recorded.
@@ -112702,7 +114206,7 @@ Greek: ἀλλ' οὐ γελάσεις κατ' ἐμοῦ τοῦτον τὸν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But you will not laugh this laughter against me, nor will I pass by the sacred oaths of the fathers concerning the keeping of the law,
+Draft translation: But you will not laugh this laugh against me, nor will I pass over the sacred oaths of the fathers concerning the keeping of the law,
 
 Decision rows:
 - None recorded.
@@ -112762,7 +114266,7 @@ Greek: πρὸς ταῦτα τροχοὺς εὐτρέπιζε καὶ τὸ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For these things, make wheels ready and blow the fire more violently.
+Draft translation: For this, make wheels ready and blow the fire more violently.
 
 Decision rows:
 - None recorded.
@@ -112782,7 +114286,7 @@ Greek: οὐχ οὕτως οἰκτείρομαι τὸ ἐμαυτοῦ γῆ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: I do not pity my own old age so much that through myself I would dissolve the ancestral law.
+Draft translation: I do not pity my own old age so much that by my own act I would dissolve the ancestral law.
 
 Decision rows:
 - None recorded.
@@ -112802,7 +114306,7 @@ Greek: οὐ ψεύσομαί σε, παιδευτὰ νόμε, οὐδὲ φε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: I will not lie to you, O training law, nor will I flee you, nor will I deny you, beloved self-control.
+Draft translation: I will not falsify you, O law that trains, nor will I flee you, nor will I deny you, beloved self-control.
 
 Decision rows:
 - None recorded.
@@ -112822,7 +114326,7 @@ Greek: οὐδὲ καταισχυνῶ σε, φιλόσοφε λόγε, οὐδ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Nor will I shame you, philosophical word, nor will I renounce you, honorable priesthood and knowledge of legislation.
+Draft translation: Nor will I shame you, philosophical reason, nor will I renounce you, honorable priesthood and knowledge of legislation.
 
 Decision rows:
 - None recorded.
@@ -112842,7 +114346,7 @@ Greek: οὐδὲ μιανεῖς μου τὸ σεμνὸν γήρως στόμ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Nor will you defile my august mouth of old age, nor the age of a lawful life.
+Draft translation: Nor will you defile the venerable mouth of my old age, nor the age of a lawful life.
 
 Decision rows:
 - None recorded.
@@ -112882,7 +114386,7 @@ Greek: ἀσεβῶν μὲν γὰρ τυραννήσεις, τῶν δὲ ἐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For you will tyrannize over the impious, but over my reasonings concerning piety you will master neither through words nor through works.
+Draft translation: For you may tyrannize over the impious, but over my reasonings concerning piety you will master neither through words nor through works.
 
 Decision rows:
 - None recorded.
@@ -112924,7 +114428,7 @@ Greek: καὶ πρῶτον μὲν περιέδυσαν τὸν γηραιὸ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And first they stripped the old man, who was adorned with the dignity around piety.
+Draft translation: And first they stripped the old man, who was adorned with dignity concerning piety.
 
 Decision rows:
 - None recorded.
@@ -112940,11 +114444,11 @@ Variant notes:
 
 ### 4 Maccabees 6:3
 
-Greek: ἔπειτα περιαγκωνίσαντες ἑκατέρωθεν μάστιξι κατῃ£κιζον·
+Greek: ἔπειτα περιαγκωνίσαντες ἑκατέρωθεν μάστιξι κατῄκιζον·
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Then, binding him around the elbows on each side, they abused him with whips,
+Draft translation: Then, binding him by the elbows on each side, they abused him with whips,
 
 Decision rows:
 - None recorded.
@@ -112984,7 +114488,7 @@ Greek: ὁ δὲ μεγαλόφρων καὶ εὐγενὴς ὡς ἀληθ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But great-minded and truly noble Eleazar, as though being tortured in a dream, was changed in no way.
+Draft translation: But great-minded and truly noble Eleazar, as though being tortured in a dream, was turned aside in no way.
 
 Decision rows:
 - None recorded.
@@ -113004,7 +114508,7 @@ Greek: ἀλλὰ ὑψηλοὺς ἀνατείνας εἰς τὸν οὐρα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But lifting his eyes high into heaven, the old man was scraped in the flesh by the whips and was flowing down with blood,
+Draft translation: But lifting his eyes high into heaven, the old man's flesh was scraped by the whips, and he was flowing down with blood,
 
 Decision rows:
 - None recorded.
@@ -113044,7 +114548,7 @@ Greek: Λὰξ γέ τοι τῶν πικρῶν τις δορυφόρων εἰ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Indeed one of the bitter spear-bearers, leaping in with his heel, struck him in the flanks so that he would rise after falling.
+Draft translation: Indeed one of the bitter spear-bearers kicked him in the flanks with his heel, so that he would rise after falling.
 
 Decision rows:
 - None recorded.
@@ -113104,7 +114608,7 @@ Greek: ἱδρῶν γέ τοι τὸ πρόσωπον καὶ ἐπασθμαί
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Indeed, sweating in the face and gasping hard, he was marveled at by the very ones torturing him because of his good courage.
+Draft translation: Indeed, sweating in the face and gasping hard, he was marveled at by the very ones torturing him because of his noble courage.
 
 Decision rows:
 - None recorded.
@@ -113124,7 +114628,7 @@ Greek: ¨Οθεν τὰ μὲν ἐλεοῦντες τὰ τοῦ γήρως α
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore, partly pitying the things of his old age,
+Draft translation: Therefore, partly pitying the things belonging to his old age,
 
 Decision rows:
 - None recorded.
@@ -113144,7 +114648,7 @@ Greek: τὰ δὲ ἐν συμπαθείᾳ τῆς συνηθείας ὄντ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: partly being in sympathy because of acquaintance, and partly in wonder at his endurance, some of the king's men approached him and said,
+Draft translation: partly being in sympathy because of familiarity, and partly in wonder at his endurance, some of the king's men approached him and said,
 
 Decision rows:
 - None recorded.
@@ -113204,7 +114708,7 @@ Greek: Καὶ ὁ Ἐλεάζαρος, ὥσπερ πικρότερον διὰ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Eleazar, as though abused more bitterly through the counsel, cried out,
+Draft translation: And Eleazar, as though abused more bitterly through the advice, cried out,
 
 Decision rows:
 - None recorded.
@@ -113224,7 +114728,7 @@ Greek: μὴ οὕτως κακῶς φρονήσαιμεν οἱ Ἁβραὰμ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: May we children of Abraham not think so wickedly that, becoming soft-souled, we would act out an improper drama for us.
+Draft translation: May we children of Abraham not think so wickedly that, becoming soft-souled, we would play an improper drama for us.
 
 Decision rows:
 - None recorded.
@@ -113244,7 +114748,7 @@ Greek: καὶ γὰρ ἀλόγιστον, εἰ πρὸς ἀλήθειαν ζ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For it would be senseless if, after living the life to old age according to truth and lawfully guarding the reputation upon it,
+Draft translation: For it would be senseless if, after living life to old age according to truth and lawfully guarding the reputation attached to it,
 
 Decision rows:
 - None recorded.
@@ -113324,7 +114828,7 @@ Greek: πρός ταῦτα ὑμεῖς μέν, ᾦ Ἁβραὰμ παῖδε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore, as to these things, children of Abraham, die nobly for piety.
+Draft translation: Therefore, children of Abraham, die nobly for piety.
 
 Decision rows:
 - None recorded.
@@ -113364,7 +114868,7 @@ Greek: Πρὸς τὰς ἀνάγκας οὕτως μεγαλοφρονοῦν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Seeing him so great-minded toward the constraints, and not changing even at their pity, they led him to the fire.
+Draft translation: Seeing him so great-minded before the constraints, and not changing even before their pity, they led him to the fire.
 
 Decision rows:
 - None recorded.
@@ -113384,7 +114888,7 @@ Greek: ἔνθα διὰ κακοτέχνων ὀργάνων καταφλέγο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: There, burning him with evil-skilled instruments, they threw him down and poured foul-smelling liquids into his nostrils.
+Draft translation: There, burning him with maliciously devised instruments, they threw him down and poured foul-smelling fluids into his nostrils.
 
 Decision rows:
 - None recorded.
@@ -113424,7 +114928,7 @@ Greek: σὺ οἶσθα, Θεέ, παρόν μοι σῴζεσθαι, βασά�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: You know, God, that though it is available to me to be saved, I am dying by burning tortures because of the law.
+Draft translation: You know, God, that though it is possible for me to be saved, I am dying by burning tortures because of the law.
 
 Decision rows:
 - None recorded.
@@ -113504,7 +115008,7 @@ Greek: καὶ μέχρι τῶν τοῦ θανάτου βασάνων ἀντ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and even to the tortures of death he stood against them by reasoning because of the law. Therefore, confessedly, reverent reasoning is master over the passions.
+Draft translation: and even to the tortures of death he resisted by reasoning because of the law. Therefore, confessedly, reverent reasoning is master over the passions.
 
 Decision rows:
 - None recorded.
@@ -113524,7 +115028,7 @@ Greek: εἰ γὰρ τὰ πάθη τοῦ λογισμοῦ κεκρατήκε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For if the passions had mastered reasoning, we would have given to these the testimony of prevailing;
+Draft translation: For if the passions had mastered reasoning, we would have given to these the testimony of mastery;
 
 Decision rows:
 - None recorded.
@@ -113564,7 +115068,7 @@ Greek: καὶ δίκαιόν ἐστιν ὁμολογεῖν ἡμᾶς τὸ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And it is just for us to confess that the might belongs to reasoning, since it even prevails over pains from outside;
+Draft translation: And it is just for us to confess that the power belongs to reasoning, since it even prevails over pains from outside;
 
 Decision rows:
 - None recorded.
@@ -113666,7 +115170,7 @@ Greek: οὐχ οὕτως πόλις πολλοῖς καὶ ποικίλοις
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: No city ever withstood this way when besieged with many and various machines, as all-holy Eleazar did. Though his sacred soul was being burned with abuses and racks, he conquered those besieging him through reasoning that shielded piety.
+Draft translation: No city ever withstood this way when besieged with many and various machines, as most holy Eleazar did. Though his sacred soul was being burned with abuses and racks, he conquered those besieging him through reasoning that defended piety.
 
 Decision rows:
 - None recorded.
@@ -113686,7 +115190,7 @@ Greek: ὥσπερ γὰρ πρόκρημνον ἄκραν τὴν ἑαυτο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For just as Father Eleazar stretched out his own understanding like a cliff-hung headland, he broke around him the mad-surging waves of the passions.
+Draft translation: For just as Father Eleazar stretched out his own understanding like a cliff-hung headland, he broke the mad-surging waves of the passions around him.
 
 Decision rows:
 - None recorded.
@@ -113706,7 +115210,7 @@ Greek: ὦ ἄξιε τῆς ἱερωσύνης ἱερεῦ, οὐκ ἐμία
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O priest worthy of the priesthood, you did not defile the sacred teeth, nor did you make common with defiled eating the stomach that had made room for God-reverence and lawful cleansing.
+Draft translation: O priest worthy of the priesthood, you did not defile the sacred teeth, nor did you make common with defiled eating the stomach that had contained God-reverence and lawful cleansing.
 
 Decision rows:
 - None recorded.
@@ -113766,7 +115270,7 @@ Greek: σὺ πάτερ, τὴν εὐνομίαν ἡμῶν διὰ τῶν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: You, father, through your endurance confirmed our good law-order into glory, and, speaking solemnly of holiness, you did not dissolve it; and through your works you certified the words of divine philosophy,
+Draft translation: You, father, through your endurance confirmed our good order under law into glory, and, speaking solemnly of holiness, you did not overthrow it; and through your works you certified the words of divine philosophy,
 
 Decision rows:
 - None recorded.
@@ -113786,7 +115290,7 @@ Greek: ὦ βασάνων βιαιότερε γέρον, καὶ πυρὸς ε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O old man more forceful than tortures, elder stronger-toned than fire, Eleazar, greatest king of passions.
+Draft translation: O old man more forceful than tortures, elder stronger than fire, Eleazar, greatest king over passions.
 
 Decision rows:
 - None recorded.
@@ -113826,7 +115330,7 @@ Greek: οὕτως ὁ Ἀαρωνίδης Ἐλεάζαρος διὰ τοῦ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: so Eleazar, son of Aaron, though being melted through by the fire, did not turn his reasoning.
+Draft translation: so Eleazar, son of Aaron, though being melted through by the fire, did not turn his reasoning aside.
 
 Decision rows:
 - None recorded.
@@ -113866,7 +115370,7 @@ Greek: τῷ πνεύματι διὰ τοῦ λογισμοῦ καὶ τῷ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: in the spirit through reasoning, and by Isaac-like reasoning he made invalid the many-headed rack.
+Draft translation: in the spirit through reasoning, and by Isaac-like reasoning he nullified the many-headed rack.
 
 Decision rows:
 - None recorded.
@@ -113906,7 +115410,7 @@ Greek: εἰ δέ τοίνυν γέρων ἀνὴρ τῶν μέχρι θανά
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If, then, an old man despised tortures even to death through piety, confessedly reverent reasoning is leader of the passions.
+Draft translation: If, then, an old man despised tortures even to death through piety, confessedly reverent reasoning is ruler over the passions.
 
 Decision rows:
 - None recorded.
@@ -113926,7 +115430,7 @@ Greek: Ἴσως δ' ἂν εἴποιέν τινες· τῶν παθῶν ο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But perhaps some may say, Not all rule completely over the passions, because not all have prudent reasoning.
+Draft translation: But perhaps some may say, Not all have complete mastery over the passions, because not all have prudent reasoning.
 
 Decision rows:
 - None recorded.
@@ -113946,7 +115450,7 @@ Greek: ἀλλ' ὅσοι εὐσεβείας προνοοῦσιν ἐξ ὅλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But as many as take forethought for piety from the whole heart, these alone are able to have power over the passions of the flesh,
+Draft translation: But as many as care for piety from the whole heart, these alone are able to master the passions of the flesh,
 
 Decision rows:
 - None recorded.
@@ -113986,7 +115490,7 @@ Greek: οὐδὲν οὖν ἐναντιοῦται τὸ φαίνεσθαί τ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore nothing stands against the fact that some appear to be mastered by passions because of weak reasoning.
+Draft translation: Therefore it is no objection that some appear to be mastered by passions because of weak reasoning.
 
 Decision rows:
 - None recorded.
@@ -114026,7 +115530,7 @@ Greek: καὶ πεπιστευκὼς Θεῷ καὶ εἰδὼς ὅτι τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and having trusted God and knowing that to endure every pain because of virtue is blessed, would not rule completely over the passions because of God-reverence?
+Draft translation: and having trusted God and knowing that to endure every pain because of virtue is blessed, would not have complete mastery over the passions because of God-reverence?
 
 Decision rows:
 - None recorded.
@@ -114068,7 +115572,7 @@ Greek: Διὰ τοῦτό γέ τοι καὶ μειρακίσκοι τῷ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For this reason indeed even young boys, philosophizing by the reasoning of piety, prevailed over more difficult instruments of torture.
+Draft translation: For this reason indeed even young boys, philosophizing by the reasoning of piety, prevailed over more difficult tortures.
 
 Decision rows:
 - None recorded.
@@ -114088,7 +115592,7 @@ Greek: ἐπειδὴ γὰρ κατά τὴν πρώτην πεῖραν ἐν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For since in the first trial the tyrant had been manifestly conquered, not being able to compel an old man to eat defiled food, then with very passionate anger he commanded others from the age-group of the Hebrews to be brought, and if they should eat defiled food, to release them after eating; but if they should speak against it, to torture them more bitterly.
+Draft translation: For since in the first trial the tyrant had been manifestly conquered, not being able to compel an old man to eat defiled food, then with very passionate anger he commanded others from the youthful age of the Hebrews to be brought, and if they should eat defiled food, to release them after eating; but if they should speak against it, to torture them more bitterly.
 
 Decision rows:
 - None recorded.
@@ -114208,7 +115712,7 @@ Greek: καὶ μεταλαβόντες ἑλληνικοῦ βίου καὶ μ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after taking part in Greek life and changing your way of life, indulge in your youths.
+Draft translation: And after taking part in Greek life and changing your way of life, indulge in your youthful years.
 
 Decision rows:
 - None recorded.
@@ -114228,7 +115732,7 @@ Greek: ἐπεὶ ἐὰν ὀργίλως με διάθησθε διὰ τῆς
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But if you provoke me angrily through your disobedience, you will compel me with terrible punishments to destroy each one of you through tortures.
+Draft translation: But if through your disobedience you make me angry, you will compel me with terrible punishments to destroy each one of you through tortures.
 
 Decision rows:
 - None recorded.
@@ -114248,7 +115752,7 @@ Greek: κατελεήσατε οὖν ἑαυτούς, οὓς καὶ ὁ πο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore have pity on yourselves, whom even I, the enemy, pity because of your age and good form.
+Draft translation: Therefore have pity on yourselves, whom even I, the enemy, pity because of your age and beauty.
 
 Decision rows:
 - None recorded.
@@ -114348,7 +115852,7 @@ Greek: οἱ δὲ ἀκούσαντες ἐπαγωγὰ καὶ ὁρῶντε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But after hearing persuasive things and seeing dreadful things, they not only were not afraid, but even counter-philosophized against the tyrant and through good reasoning dissolved his tyranny.
+Draft translation: But after hearing enticements and seeing dreadful things, they not only were not afraid, but even philosophized back against the tyrant and through good reasoning overthrew his tyranny.
 
 Decision rows:
 - None recorded.
@@ -114368,7 +115872,7 @@ Greek: καί τοι λογισώμεθα· εἰ δειλόψυχοί τινε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And yet let us consider: if any among them had been cowardly-souled and unmanly, what words would they have used? Would they not be these?
+Draft translation: And yet let us consider: if any among them had been cowardly-souled and cowardly, what words would they have used? Would they not be these?
 
 Decision rows:
 - None recorded.
@@ -114388,7 +115892,7 @@ Greek: ᾦ τάλανες ἡμεῖς καὶ λίαν ἀνόητοι· βασ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O wretched and very senseless ones that we are! When the king urges us and calls us to benefaction, should we not be persuaded by him,
+Draft translation: O wretched and very senseless ones that we are! When the king urges us and calls us with benefaction, should we not be persuaded by him,
 
 Decision rows:
 - None recorded.
@@ -114448,7 +115952,7 @@ Greek: ἐλεήσωμεν τὰς ἑαυτῶν ἡλικίας καὶ κατ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Let us have mercy on our own ages and let us pity our mother's old age,
+Draft translation: Let us have mercy on our own youth and let us pity our mother's old age,
 
 Decision rows:
 - None recorded.
@@ -114488,7 +115992,7 @@ Greek: συγγνώσεται δὲ ἡμῖν καὶ ἡ θεία δίκη δ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And divine justice also will pardon us because through compulsion we feared the king.
+Draft translation: And divine justice also will pardon us when through compulsion we have feared the king.
 
 Decision rows:
 - None recorded.
@@ -114528,7 +116032,7 @@ Greek: μὴ βιαζώμεθα τὴν ἀνάγκην μηδὲ φιλοδοξ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Let us not force the compulsion, nor love glory over our own rack.
+Draft translation: Let us not struggle against the compulsion, nor seek glory over our own rack.
 
 Decision rows:
 - None recorded.
@@ -114548,7 +116052,7 @@ Greek: οὐδὲ αὐτὸς ὁ νόμος ἀκουσίως ἡμᾶς θα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Not even the law itself puts us to death unwillingly when we have feared the instruments of torture.
+Draft translation: Not even the law itself puts us to death if we unwillingly fear the instruments of torture.
 
 Decision rows:
 - None recorded.
@@ -114568,7 +116072,7 @@ Greek: πόθεν ἡμῖν ἡ τοσαύτη ἐντέτηκε φιλονικ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: From where has such love of strife been melted into us, and why does death-bearing endurance please us, when it is present to live without disturbance by being persuaded by the king?
+Draft translation: From where has such love of strife been fixed in us, and why does death-bearing endurance please us, when it is possible to live without disturbance by being persuaded by the king?
 
 Decision rows:
 - None recorded.
@@ -114628,7 +116132,7 @@ Greek: ὥστε ἅμα τῷ παύσασθαι τὸν τύραννον συ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: so that as soon as the tyrant ceased advising them to eat defiled food, all together through one voice, as though from the same soul, spoke to him.
+Draft translation: so that as soon as the tyrant ceased advising them to eat defiled food, all together with one voice, as though from the same soul, spoke to him.
 
 Decision rows:
 - None recorded.
@@ -114670,7 +116174,7 @@ Greek: αἰσχυνόμεθα γὰρ τοὺς προγόνους ἡμῶν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For we would rightly shame our ancestors if we did not use good obedience to the law and Moses as counselor.
+Draft translation: For we would rightly shame our ancestors if we did not use good obedience to the law and Moses as our counselor.
 
 Decision rows:
 - None recorded.
@@ -114710,7 +116214,7 @@ Greek: χαλεπώτερον γὰρ αὐτοῦ τοῦ θανάτου νομ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For we consider your pity toward our lawless salvation to be more difficult than death itself.
+Draft translation: For we consider your pity toward saving us by lawlessness to be harder than death itself.
 
 Decision rows:
 - None recorded.
@@ -114750,7 +116254,7 @@ Greek: εἰ δ' οἱ γέροντες τῶν Ἑβραίων διὰ τὴν 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But if the old men of the Hebrews, after enduring tortures because of piety, acted piously, we young men would die more justly, looking beyond the tortures of your constraints, which our old teacher also conquered.
+Draft translation: But if the elders of the Hebrews, after enduring tortures because of piety, acted piously, we young men would die more rightly, looking beyond the tortures of your constraints, which our old teacher also conquered.
 
 Decision rows:
 - None recorded.
@@ -114770,7 +116274,7 @@ Greek: πείραζε τοιγαροῦν, τύραννε· καὶ τὰς ἡ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore test us, tyrant; and if you put our souls to death because of piety, do not suppose that you harm us by torturing.
+Draft translation: Therefore test us, tyrant; and if you put our souls to death because of piety, do not suppose that you harm us by torturing us.
 
 Decision rows:
 - None recorded.
@@ -114810,7 +116314,7 @@ Greek: σὺ δὲ διὰ τὴν ἡμῶν μιαιφονίαν αὐτάρκ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But you, because of our polluted murder, will endure from divine justice an adequate eternal torture through fire.
+Draft translation: But you, because of bloodguilt against us, will endure from divine justice an adequate eternal torture through fire.
 
 Decision rows:
 - None recorded.
@@ -114830,7 +116334,7 @@ Greek: Ταῦτα αὐτῶν εἰπόντων, οὐ μόνον ὡς κατ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: When they had said these things, the tyrant not only became harsh toward them as toward disobedient ones, but was angered as toward ungrateful ones.
+Draft translation: When they had said these things, the tyrant was furious not only at them as disobedient ones, but was angered also as at ungrateful ones.
 
 Decision rows:
 - None recorded.
@@ -114930,7 +116434,7 @@ Greek: τύραννε μιαρώτατε καὶ τῆς οὐρανίου δί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Most defiled tyrant, enemy of heavenly justice, and cruel-minded one, you abuse me in this way, not as one who has murdered a man, nor as one who has acted impiously, but as one shielding the divine law.
+Draft translation: Most defiled tyrant, enemy of heavenly justice, and cruel-minded one, you abuse me in this way, not as one who has murdered a man, nor as one who has acted impiously, but as one defending the divine law.
 
 Decision rows:
 - None recorded.
@@ -114950,7 +116454,7 @@ Greek: καὶ τῶν δορυφόρων λεγόντων· ὁμολόγησο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when the spear-bearers said, Confess to eat, so that you may be released from the tortures,
+Draft translation: And when the spear-bearers said, Agree to eat, so that you may be released from the tortures,
 
 Decision rows:
 - None recorded.
@@ -114990,7 +116494,7 @@ Greek: διὰ πασῶν γὰρ ὑμᾶς πείσω τῶν βασάνων,
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For through all the tortures I will persuade you that sons of Hebrews alone are invincible for virtue.
+Draft translation: For through all the tortures I will persuade you that sons of Hebrews alone are invincible on behalf of virtue.
 
 Decision rows:
 - None recorded.
@@ -115010,7 +116514,7 @@ Greek: ταῦτα λέγοντι πῦρ ὑπέστρωσαν καὶ διηρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: As he said these things, they spread fire under him and, stretching him still more, they inflamed the wheel.
+Draft translation: As he said these things, they spread fire under him and, stretching him still more, heated the wheel.
 
 Decision rows:
 - None recorded.
@@ -115050,7 +116554,7 @@ Greek: καὶ περιτετμημένον ἤδη ἔχων τὸ τῶν ὀ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And though the framework of his bones had already been cut around, the great-minded and Abrahamic young man did not groan.
+Draft translation: And though the framework of his bones had already been cut apart, the great-minded and Abrahamic young man did not groan.
 
 Decision rows:
 - None recorded.
@@ -115090,7 +116594,7 @@ Greek: μιμήσασθέ με, ἀδελφοί, λέγων, μή μου τὸν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: saying, Imitate me, brothers. Do not desert my life-course, nor deny the brotherhood of my good courage. Serve a sacred and noble warfare for piety,
+Draft translation: saying, Imitate me, brothers. Do not desert my life-course, nor renounce the brotherhood of my noble courage. Serve a sacred and noble warfare for piety,
 
 Decision rows:
 - None recorded.
@@ -115130,7 +116634,7 @@ Greek: καὶ ταῦτα εἰπὼν ὁ ἱεροπρεπὴς νεανία�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when he had said these things, the sacredly fitting young man broke off his soul.
+Draft translation: And when he had said these things, the sacredly fitting young man released his soul.
 
 Decision rows:
 - None recorded.
@@ -115150,7 +116654,7 @@ Greek: Θαυμασάντων δὲ πάντων τὴν καρτεροψυχί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when all had marveled at his enduring soul, the spear-bearers led the second by age after the first, and having fitted iron hands with sharp claws, they bound him to the instrument and catapult.
+Draft translation: And when all had marveled at his endurance of soul, the spear-bearers led the second by age after the first, and having fitted iron hands with sharp claws, they bound him to the instrument and catapult.
 
 Decision rows:
 - None recorded.
@@ -115210,7 +116714,7 @@ Greek: ὁ δὲ ταύτην βαρέως τὴν ἀλγηδόνα καρτε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But he, enduring this heavy pain, said, How sweet is every manner of death because of our ancestral piety. And he said to the tyrant,
+Draft translation: But he, enduring this severe pain, said, How sweet is every manner of death because of our ancestral piety. And he said to the tyrant,
 
 Decision rows:
 - None recorded.
@@ -115270,7 +116774,7 @@ Greek: σὺ δὲ ἐν ταῖς τῆς ἀσεβείας ἀπειλαῖς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but you are tortured in the threats of impiety. And you will not escape, most defiled tyrant, the punishments of divine wrath.
+Draft translation: but you are tortured by the threats of impiety. And you will not escape, most defiled tyrant, the punishments of divine wrath.
 
 Decision rows:
 - None recorded.
@@ -115292,7 +116796,7 @@ Greek: Καὶ τούτου τὸν ἀοίδιμον θάνατον καρτε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after this one had endured the death worthy of song, the third was being led, urged much by many to taste and be saved.
+Draft translation: And after this one had endured the renowned death, the third was being led, urged much by many to taste and be saved.
 
 Decision rows:
 - None recorded.
@@ -115312,7 +116816,7 @@ Greek: ὁ δὲ ἀναβοήσας ἔφη· ἢ ἀγνοεῖτε ὅτι �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But he cried out and said, Or are you ignorant that the same father sowed me with those who have died, and the same mother bore me, and we were brought up on the same decrees?
+Draft translation: But he cried out and said, Or are you ignorant that the same father sowed me along with those who have died, and the same mother bore me, and we were brought up on the same decrees?
 
 Decision rows:
 - None recorded.
@@ -115392,7 +116896,7 @@ Greek: καὶ τοὺς δακτύλους καὶ τοὺς βραχίονας
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And they broke around his fingers and arms and legs and elbows.
+Draft translation: And they broke his fingers and arms and legs and elbows.
 
 Decision rows:
 - None recorded.
@@ -115412,7 +116916,7 @@ Greek: καὶ κατὰ μηδένα τρόπον ἰσχύοντες αὐτ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And since in no way were they strong enough to choke him, they dragged off the skin, together with the very tips of the fingers, and flayed him; and immediately they led him onto the wheel,
+Draft translation: And since in no way were they able to strangle him, they dragged off the skin, together with the very tips of the fingers, and flayed him; and immediately they led him onto the wheel,
 
 Decision rows:
 - None recorded.
@@ -115432,7 +116936,7 @@ Greek: περὶ ὃν ἐκ σπονδύλων ἐκμελιζόμενος ἑ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: around which, being torn apart from the vertebrae, he saw his own flesh being ripped to pieces and drops of blood flowing from his inward parts.
+Draft translation: around which, being torn apart from the vertebrae, he saw his own flesh being ripped to pieces and drops of blood flowing down from his inward parts.
 
 Decision rows:
 - None recorded.
@@ -115472,7 +116976,7 @@ Greek: ἡμεῖς μέν, ὦ μιαρώτατε τύραννε, διὰ πα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: We, most defiled tyrant, suffer these things because of God's training and virtue,
+Draft translation: We, most defiled tyrant, suffer these things because of God's discipline and virtue,
 
 Decision rows:
 - None recorded.
@@ -115492,7 +116996,7 @@ Greek: σὺ δὲ διὰ τὴν ἀσέβειαν καὶ μιαιφονία�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: but you, because of impiety and polluted murder, will endure indissoluble tortures.
+Draft translation: but you, because of impiety and bloodguilt, will endure indissoluble tortures.
 
 Decision rows:
 - None recorded.
@@ -115512,7 +117016,7 @@ Greek: Καὶ τούτου θανόντος ἀδελφοπρεπῶς, τὸν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when this one had died in a brother-fitting way, they dragged up the fourth, saying,
+Draft translation: And when this one had died as befits a brother, they dragged up the fourth, saying,
 
 Decision rows:
 - None recorded.
@@ -115552,7 +117056,7 @@ Greek: ὁ δὲ αὐτοῖς ἔφη· οὐχ οὕτως καυστικώτ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But he said to them, You do not have fire more burning against me in such a way as to make me cowardly.
+Draft translation: But he said to them, You do not have fire burning enough against me to make me cowardly.
 
 Decision rows:
 - None recorded.
@@ -115652,7 +117156,7 @@ Greek: ἰδοὺ προκεχάλασται ἡ γλῶσσα, τέμνε, ο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Behold, the tongue has been put forward loose; cut it, for not by this will you cut the tongue of our reasoning.
+Draft translation: Behold, my tongue has been stretched forward; cut it, for not by this will you cut the tongue of our reasoning.
 
 Decision rows:
 - None recorded.
@@ -115672,7 +117176,7 @@ Greek: ἡδέως ὑπὲρ τοῦ νόμου τοῦ Θεοῦ τὰ τοῦ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Gladly, for the law of God, we have the members of the body mutilated.
+Draft translation: Gladly, for the law of God, we have the members of our body mutilated.
 
 Decision rows:
 - None recorded.
@@ -115734,7 +117238,7 @@ Greek: οὐ μέλλω, τύραννε, πρὸς τὸν ὑπὲρ τῆς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: I am not about to ask off, tyrant, from the torture for virtue,
+Draft translation: I am not about to beg off, tyrant, from the torture for virtue,
 
 Decision rows:
 - None recorded.
@@ -115834,7 +117338,7 @@ Greek: εἴπερ ᾐσθάνου ἀνθρώπου πόθον καὶ ἐλπ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: if indeed you perceived human longing and had hope of salvation from God.
+Draft translation: if indeed you perceived human longing and had hope of salvation with God.
 
 Decision rows:
 - None recorded.
@@ -115854,7 +117358,7 @@ Greek: νυνὶ δὲ ἀλλότριος ὢν Θεοῦ πολεμεῖς τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But now, being alien from God, you war against those who reverence God.
+Draft translation: But now, being alien from God, you wage war against those who reverence God.
 
 Decision rows:
 - None recorded.
@@ -115914,7 +117418,7 @@ Greek: κατὰ τοῦτον τὸν τρόπον καὶ τὸ πνεῦμα 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Being constrained in spirit and choked in body in this way,
+Draft translation: Being constrained in breath and choked in body in this way,
 
 Decision rows:
 - None recorded.
@@ -115934,7 +117438,7 @@ Greek: καλάς, ἔλεγεν, ἄκων, ᾦ τύραννε, χάριτας 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: he said, Fine favors, tyrant, you grant us against your will, providing for us through nobler pains to display endurance toward our law.
+Draft translation: he said, Fine favors, tyrant, you grant us unwillingly, providing for us through nobler pains to display endurance toward our law.
 
 Decision rows:
 - None recorded.
@@ -115994,7 +117498,7 @@ Greek: εἰς τὰ αὐτὰ γὰρ καὶ γεννηθέντες καὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For since we were born and nourished into the same things, we also owe it to die alike for the same things.
+Draft translation: For since we were born and raised into the same things, we also owe it to die alike for the same things.
 
 Decision rows:
 - None recorded.
@@ -116014,7 +117518,7 @@ Greek: ὥστε εἰ σοὶ δοκεῖ βασανίζειν μὴ μιαρο
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: So if it seems good to you to torture one who does not eat defiled food, torture.
+Draft translation: So if it seems good to you to torture one who does not eat defiled food, torture me.
 
 Decision rows:
 - None recorded.
@@ -116094,7 +117598,7 @@ Greek: ὁ δὲ βασανιζόμενος, ὦ ἱεροπρεποῦς ἀγ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But while being tortured he said, O contest worthy of sacred things, into which because of piety so many brothers have been called for training of pains, and we have not been conquered.
+Draft translation: But while being tortured he said, O contest worthy of sacred things, into which because of piety so many brothers have been called for training in pains, and we have not been conquered.
 
 Decision rows:
 - None recorded.
@@ -116154,7 +117658,7 @@ Greek: σὺ δέ, ὦ τύραννε, μέγαν σοὶ προσλαβὼν κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But you, tyrant, will take to yourself a great avenger, innovator of tortures and enemy of those who truly reverence.
+Draft translation: But you, tyrant, have taken to yourself a great avenger, innovator of tortures and enemy of those who truly reverence.
 
 Decision rows:
 - None recorded.
@@ -116174,7 +117678,7 @@ Greek: ἓξ μειράκια καταλελύκαμέν σου τὴν τυρα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: We six young boys have dissolved your tyranny.
+Draft translation: We six young boys have overthrown your tyranny.
 
 Decision rows:
 - None recorded.
@@ -116194,7 +117698,7 @@ Greek: τὸ γὰρ μὴ δυνηθῆναί σε μεταπεῖσαι τὸ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For is not your dissolution this, that you have not been able either to persuade our reasoning or to force us toward defiled eating?
+Draft translation: For is not this your overthrow, that you have not been able either to persuade our reasoning or to force us toward defiled eating?
 
 Decision rows:
 - None recorded.
@@ -116234,7 +117738,7 @@ Greek: οὐ γὰρ τυράννου, ἀλλὰ θείου νόμου προε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For the spear-bearers over us have been stationed not by a tyrant, but by divine law. Because of this we have reasoning invincible.
+Draft translation: For the spear-bearers over us have been stationed not by a tyrant, but by divine law. Because of this we have invincible reasoning.
 
 Decision rows:
 - None recorded.
@@ -116256,7 +117760,7 @@ Greek: Ως δὲ καὶ οὗτος μακαρίως ἐναπέθανε κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when this one also had blessedly died in them, after being thrown into a kettle, the seventh came forward, youngest of all.
+Draft translation: And when this one also had blessedly died after being thrown into a kettle, the seventh came forward, youngest of all.
 
 Decision rows:
 - None recorded.
@@ -116276,7 +117780,7 @@ Greek: ὃν κατοικτειρήσας ὁ τύραννος, καίπερ δ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The tyrant, pitying him, though he had been terribly reviled by his brothers, and seeing that he was already surrounded with bonds,
+Draft translation: The tyrant, pitying him, though he had been terribly reviled by his brothers, and seeing that he was already bound with bonds,
 
 Decision rows:
 - None recorded.
@@ -116336,7 +117840,7 @@ Greek: πεισθεὶς δὲ φίλος ἔσῃ καὶ τῶν ἐπὶ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But if you are persuaded, you will be a friend and will lead the affairs of the kingdom.
+Draft translation: But if you are persuaded, you will be a friend and will lead in the affairs of the kingdom.
 
 Decision rows:
 - None recorded.
@@ -116356,7 +117860,7 @@ Greek: καὶ ταῦτα παρακαλῶν, τὴν μητέρα τοῦ π�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And while urging these things, he sent for the boy's mother, so that, having pity on her, deprived of so many sons, he might stir the one left over toward saving obedience.
+Draft translation: And while urging these things, he sent for the boy's mother, so that, having pity on her, deprived of so many sons, he might stir the remaining one toward saving obedience.
 
 Decision rows:
 - None recorded.
@@ -116376,7 +117880,7 @@ Greek: ὁ δὲ τῆς μητρὸς τῇ ἑβραΐδι φωνῇ προτ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But after his mother urged him in the Hebrew voice, as we will say a little later, he says, Release me,
+Draft translation: But after his mother urged him in the Hebrew tongue, as we will say a little later, he says, Release me,
 
 Decision rows:
 - None recorded.
@@ -116476,7 +117980,7 @@ Greek: ἀνθ' ὧν ταμιεύσεταί σε ἡ θεία δίκη πυκν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: In return for these things, divine justice will store you up for denser and eternal fire and tortures, which will not release you for the whole age.
+Draft translation: In return for these things, divine justice will reserve you for denser and eternal fire and tortures, which will not release you for the whole age.
 
 Decision rows:
 - None recorded.
@@ -116496,7 +118000,7 @@ Greek: οὐκ ᾐδέσθης ἄνθρωπος ὤν, θηριωδέστατε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Were you not ashamed, being a human, most beast-like one, to cut out the tongues of those of like passion and made from the same elements, and to torture them by abusing them in this way?
+Draft translation: Were you not ashamed, being a human, most beast-like one, to cut out the tongues of those sharing like passions and made from the same elements, and to torture them by abusing them in this way?
 
 Decision rows:
 - None recorded.
@@ -116536,7 +118040,7 @@ Greek: σὺ δὲ κακὸς κακῶς οἰμώξεις τοὺς τῆς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and you, evil one, will wail evilly, having killed the athletes of virtue without cause.
+Draft translation: and you, evil one, will wail miserably, having killed the athletes of virtue without cause.
 
 Decision rows:
 - None recorded.
@@ -116576,7 +118080,7 @@ Greek: οὐκ ἀπαυτομολῶ τῆς τῶν ἀδελφῶν μου �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: I will not desert from the excellence of my brothers.
+Draft translation: I will not desert the excellence of my brothers.
 
 Decision rows:
 - None recorded.
@@ -116636,7 +118140,7 @@ Greek: καὶ ταῦτα κατευξάμενος, ἑαυτὸν ἔρριψ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And after praying these things, he threw himself against the pans, and thus gave back the soul.
+Draft translation: And after praying these things, he threw himself against the pans, and thus gave back his soul.
 
 Decision rows:
 - None recorded.
@@ -116658,7 +118162,7 @@ Greek: Εἰ δὲ τοίνυν τῶν μέχρι θανάτου πόνων ὑ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If, then, the seven brothers looked beyond pains even to death, it is confessed together from every side that reverent reasoning is master over the passions.
+Draft translation: If, then, the seven brothers despised pains even to death, it is acknowledged on every side that reverent reasoning is master over the passions.
 
 Decision rows:
 - None recorded.
@@ -116738,7 +118242,7 @@ Greek: πῶς οὖν οὐκ ἔστι τούτοις τὴν τῆς εὐλ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: How then is it not possible to confess in these the passion-mastery of good reasoning, since they did not turn away from pains through fire?
+Draft translation: How then can one fail to confess in these the passion-mastery of good reasoning, since they did not turn away from pains through fire?
 
 Decision rows:
 - None recorded.
@@ -116818,7 +118322,7 @@ Greek: ἀδελφικῶς ἀποθάνοιμεν ἀδελφοὶ περὶ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Let us die brotherly, brothers, concerning the law. Let us imitate the three young men in Assyria, who despised the equal-wrestling furnace.
+Draft translation: Let us die as brothers, brothers, for the law. Let us imitate the three young men in Assyria, who despised the furnace matched against them.
 
 Decision rows:
 - None recorded.
@@ -116838,7 +118342,7 @@ Greek: μὴ δειλανδρήσωμεν πρὸς τὴν τῆς εὐσεβ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Let us not act cowardly toward the proof of piety.
+Draft translation: Let us not be cowardly toward the proof of piety.
 
 Decision rows:
 - None recorded.
@@ -116878,7 +118382,7 @@ Greek: ὁ δέ, καταμνησθεὶς ἔλεγε· μνήσθητε πόθ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and another, being reminded, said, Remember from where you are, or by what father's hand Isaac endured to be slaughtered because of piety.
+Draft translation: and another, being reminded, said, Remember from where you come, and by what father's hand Isaac endured to be slaughtered because of piety.
 
 Decision rows:
 - None recorded.
@@ -116898,7 +118402,7 @@ Greek: εἷς δὲ ἕκαστος καὶ ἀλλήλους ὁμοῦ πάν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And each one and all together, looking at one another, bright and very courageous, said, Let us consecrate ourselves from the whole heart to God, the One who gave the souls, and let us use the bodies for guarding around the law.
+Draft translation: And each one and all together, looking at one another, bright and very courageous, said, Let us consecrate ourselves from the whole heart to God, the One who gave the souls, and let us use the bodies for guarding the law.
 
 Decision rows:
 - None recorded.
@@ -116998,7 +118502,7 @@ Greek: καὶ ἑνὶ ἑκάστῳ τῶν ἀποσπωμένων αὐτ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And to each one of their brothers being dragged away, the ones left behind would say, Do not shame us, brother, nor lie against our brothers who died before us.
+Draft translation: And to each one of their brothers being dragged away, the ones left behind would say, Do not shame us, brother, nor prove false to our brothers who died before us.
 
 Decision rows:
 - None recorded.
@@ -117038,7 +118542,7 @@ Greek: ἐν ᾗ τὸν ἴσον ἀδελφοὶ κατοικήσαντες �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: in which brothers dwelt the equal time and were formed in the same time and increased from the same blood and were carried to completion through the same soul,
+Draft translation: in which brothers dwelt for the same length of time and were formed in the same time and increased from the same blood and were carried to completion through the same soul,
 
 Decision rows:
 - None recorded.
@@ -117058,7 +118562,7 @@ Greek: καὶ διὰ τῶν ἴσων ἀποτεχθέντες χρόνων 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and were born after equal times and drank milk from the same springs, from which brother-loving souls are drawn together by embraces,
+Draft translation: and were born at equal times and drank milk from the same springs, from which brother-loving souls are drawn together by embraces,
 
 Decision rows:
 - None recorded.
@@ -117098,7 +118602,7 @@ Greek: οὕτως δὴ τοίνυν καθεστηκυίας συμπαθοῦ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: So then, with brotherly love established as sympathetic in this way, the seven brothers had their harmony toward one another more sympathetically.
+Draft translation: So then, with brotherly love established in sympathy this way, the seven brothers held their harmony toward one another with deeper sympathy.
 
 Decision rows:
 - None recorded.
@@ -117178,7 +118682,7 @@ Greek: ἀλλ' ὅμως καὶ περὶ τῆς φύσεως καὶ τῆς
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But nevertheless, though nature and familiarity and the habits of virtue were increasing the affections of brotherhood in them, because of piety the brothers left behind endured seeing their brothers being abused and tortured even to death.
+Draft translation: But nevertheless, though nature and familiarity and the habits of virtue were increasing the affections of brotherhood in them, because of piety the ones left behind endured seeing their brothers being abused and tortured even to death.
 
 Decision rows:
 - None recorded.
@@ -117200,7 +118704,7 @@ Greek: Προσέτι καὶ ἐπὶ τὸν αἰκισμὸν ἐποτρύ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Further, they urged one another toward the abuse, so that they not only despised pains, but also had power over the passions of brotherly love for the brothers.
+Draft translation: Further, they urged one another toward the abuse, so that they not only despised pains, but also had power over the passions arising from brotherly love.
 
 Decision rows:
 - None recorded.
@@ -117260,7 +118764,7 @@ Greek: οὐδεὶς ἐκ τῶν ἑπτὰ μειρακίων ἐδειλί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: None of the seven young boys acted cowardly, nor shrank back toward death,
+Draft translation: None of the seven young boys was cowardly, nor shrank back toward death,
 
 Decision rows:
 - None recorded.
@@ -117300,7 +118804,7 @@ Greek: καθάπερ γὰρ χεῖρες καὶ πόδες συμφώνως 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For just as hands and feet move in harmony with the leadings of the soul, so those sacred young boys, as though moved by one soul, the immortal soul of piety, agreed together toward death for it.
+Draft translation: For just as hands and feet move in harmony with the leadings of the soul, so those sacred young boys, as though moved by one soul, the immortal soul of piety, agreed together to death on its behalf.
 
 Decision rows:
 - None recorded.
@@ -117320,7 +118824,7 @@ Greek: ὦ πανάγιε συμφώνων ἀδελφῶν ἑβδομάς· κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O all-holy seven of harmonious brothers. For just as seven days of world-making are around piety,
+Draft translation: O most holy seven of harmonious brothers. For just as seven days of world-making are around piety,
 
 Decision rows:
 - None recorded.
@@ -117340,7 +118844,7 @@ Greek: οὕτως περὶ τὴν ἑβδομάδα χορεύοντες ο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: so the young boys, dancing around the seven, circled around the fear of tortures, dissolving it.
+Draft translation: so the young boys, forming a chorus around the seven, circled the fear of tortures, overthrowing it.
 
 Decision rows:
 - None recorded.
@@ -117360,7 +118864,7 @@ Greek: νῦν ἡμεῖς ἀκούοντες τὴν θλῖψιν τῶν ν
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Now we shudder when hearing the affliction of those young men; but they, not only seeing, and not only hearing the word of threat immediately, but also suffering, endured, and this with pains through fire.
+Draft translation: Now we shudder when hearing the affliction of those young men; but they, not only seeing, and not only hearing the immediate word of threat, but also suffering, endured, and this amid pains through fire.
 
 Decision rows:
 - None recorded.
@@ -117380,7 +118884,7 @@ Greek: ὧν τί ἂν γένοιτο ἐπαλγέστερον; ὀξεῖα �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: What could become more painful than these? For the power of fire, being sharp and swift, quickly dissolved the bodies.
+Draft translation: What could be more painful than these? For the power of fire, being sharp and swift, quickly dissolved the bodies.
 
 Decision rows:
 - None recorded.
@@ -117400,7 +118904,7 @@ Greek: Καὶ μὴ θαυμαστὸν ἡγεῖσθε, εἰ ὁ λογισ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And do not consider it marvelous if reasoning completely mastered those men in the tortures, since even the mind of a woman looked beyond more many-formed pains.
+Draft translation: And do not consider it marvelous if reasoning completely mastered those men in the tortures, since even the mind of a woman despised more varied pains.
 
 Decision rows:
 - None recorded.
@@ -117440,7 +118944,7 @@ Greek: θεωρεῖτε δὲ πῶς πολύπλοκός ἐστιν ἡ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But observe how much-entwined the affection of child-love is, drawing everything toward the sympathy of the inward parts,
+Draft translation: But observe how many-stranded the affection of love for children is, drawing everything toward the sympathy of the inward parts,
 
 Decision rows:
 - None recorded.
@@ -117460,7 +118964,7 @@ Greek: ὅπου γε καὶ τὰ ἄλογα ζῷα ὁμοίαν τὴν ε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: since even irrational animals have sympathy and affection like humans toward those begotten from them.
+Draft translation: since even irrational animals have sympathy and affection like humans toward offspring begotten from them.
 
 Decision rows:
 - None recorded.
@@ -117480,7 +118984,7 @@ Greek: καὶ γὰρ τῶν πετεινῶν τὰ μὲν ἥμερα κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For among birds, the tame ones that roof-roost around houses shield their chicks,
+Draft translation: For among birds, the tame ones that roost on roofs around houses shield their chicks,
 
 Decision rows:
 - None recorded.
@@ -117500,7 +119004,7 @@ Greek: τὰ δὲ κατὰ τὰς κορυφὰς ὀρέων καὶ φαρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: and others, having made nests on the peaks of mountains and clefts of ravines and holes of trees and their tips, lay eggs and prevent the one approaching.
+Draft translation: and others, having made nests on the peaks of mountains and clefts of ravines and holes of trees and their tips, lay eggs and hold back the one approaching.
 
 Decision rows:
 - None recorded.
@@ -117602,7 +119106,7 @@ Greek: Ω λογισμὲ τέκνων παθῶν τύραννε καὶ εὐ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O reasoning, tyrant over the passions of children, and piety more desirable to a mother than children.
+Draft translation: O reasoning, tyrant over passions concerning children, and piety more desirable to a mother than children.
 
 Decision rows:
 - None recorded.
@@ -117642,7 +119146,7 @@ Greek: τὴν εὐσέβειαν μᾶλλον ἠγάπησε τὴν σῴζ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: she rather loved piety, which saves into eternal life according to God.
+Draft translation: she loved piety more, which saves into eternal life with God.
 
 Decision rows:
 - None recorded.
@@ -117662,7 +119166,7 @@ Greek: ᾦ τίνα τρόπον ἠθολογήσαιμι, φιλότεκνα �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O in what way might I describe the child-loving passions of parents? We wonderfully seal likeness of soul and form into the small character of a child, especially because, by the passions, mothers have been established as more sympathetic than fathers toward those born.
+Draft translation: O in what way might I describe the child-loving passions of parents? We wonderfully seal likeness of soul and form into the small stamp of a child, especially because, by the passions, mothers have been established as more sympathetic than fathers toward those born.
 
 Decision rows:
 - None recorded.
@@ -117742,7 +119246,7 @@ Greek: διὰ τὸν πρὸς τὸν Θεὸν φόβον ὑπερεῖδε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: yet because of the fear toward God, she looked beyond the temporary salvation of the children.
+Draft translation: yet because of the fear toward God, she disregarded the temporary salvation of the children.
 
 Decision rows:
 - None recorded.
@@ -117762,7 +119266,7 @@ Greek: οὐ μὴν δέ, ἀλλὰ καὶ διὰ τὴν καλοκἀγα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Not only this, but also because of the nobility and goodness of the sons and their good obedience toward the law, she had greater affectionate love in them.
+Draft translation: Not only this, but also because of the nobility and goodness of the sons and their good obedience toward the law, she had greater affectionate love toward them.
 
 Decision rows:
 - None recorded.
@@ -117802,7 +119306,7 @@ Greek: ἀλλ' ὅμως καίπερ τοσούτων ὄντων τῶν πε
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But nevertheless, though there were so many things around child-love drawing the mother into sympathy, over none of them were the all-various tortures strong enough to turn her reasoning.
+Draft translation: But nevertheless, though there were so many things around child-love drawing the mother into sympathy, in none of these cases were the all-various tortures able to turn her reasoning.
 
 Decision rows:
 - None recorded.
@@ -117822,7 +119326,7 @@ Greek: ἀλλὰ καὶ καθ' ἕνα παῖδα καὶ ὁμοῦ πάν�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Rather, both by each child and by all together, the mother was urged forward toward death for piety.
+Draft translation: Rather, both each child and all together, the mother urged forward toward death for piety.
 
 Decision rows:
 - None recorded.
@@ -117842,7 +119346,7 @@ Greek: ὦ φύσις ἱερὰ καὶ φίλτρα γονέων καὶ γέ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O sacred nature and affections of parents and child-loving birth and nurtures and unconquerable passions of mothers.
+Draft translation: O sacred nature and affections of parents and child-loving birth and nursing and unconquerable passions of mothers.
 
 Decision rows:
 - None recorded.
@@ -117902,7 +119406,7 @@ Greek: ὦ πικροτέρων μὲν νῦν μήτηρ πόνων πειρα
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O mother now tested by pains more bitter than the birth-pangs over them.
+Draft translation: O mother now tested by pains more bitter than the birth-pangs for them.
 
 Decision rows:
 - None recorded.
@@ -117922,7 +119426,7 @@ Greek: ὦ μόνη γύναι τὴν εὐσέβειαν ὁλόκληρον �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O woman alone who gave birth to piety whole.
+Draft translation: O only woman who gave birth to whole piety.
 
 Decision rows:
 - None recorded.
@@ -117982,7 +119486,7 @@ Greek: ἐπὶ σαρξὶ τέκνων ὁρῶσα σάρκας τέκνων 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Seeing flesh of children burned away upon flesh of children, and hands cut off upon hands, and heads flayed off upon heads, and dead bodies falling upon dead bodies, and seeing the chorus of your children become a many-man grave through the tortures, you did not shed tears.
+Draft translation: Seeing flesh of children burned away upon flesh of children, and hands cut off upon hands, and heads flayed off upon heads, and dead bodies falling upon dead bodies, and seeing the chorus of your children become a mass grave through the tortures, you did not shed tears.
 
 Decision rows:
 - None recorded.
@@ -118002,7 +119506,7 @@ Greek: οὐχ οὕτως σειρήνειοι μελῳδίαι, οὐδὲ κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Not in this way do Siren melodies, nor swan voices for love of hearing, draw those who hear, as voices of children calling to a mother with tortures.
+Draft translation: Not in this way do Siren melodies, nor swan voices for love of hearing, draw those who hear, as voices of children calling to a mother amid tortures.
 
 Decision rows:
 - None recorded.
@@ -118042,7 +119546,7 @@ Greek: ἀλλὰ τὰ σπλάγχνα αὐτῆς ὁ εὐσεβὴς λο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But reverent reasoning, making her inward parts courageous in the passions themselves, stretched her to overlook temporary child-love.
+Draft translation: But reverent reasoning, making her inward parts courageous in the passions themselves, stretched her to overlook temporary love for children.
 
 Decision rows:
 - None recorded.
@@ -118062,7 +119566,7 @@ Greek: καίπερ ἑπτὰ τέκνων ὁρῶσα ἀπώλειαν κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And though she saw the destruction of seven children and the much-entwined variety of the racks, the noble mother released them all because of faith toward God.
+Draft translation: And though she saw the destruction of seven children and the many-stranded variety of the racks, the noble mother overcame them all because of faith toward God.
 
 Decision rows:
 - None recorded.
@@ -118102,7 +119606,7 @@ Greek: δύο ψήφους κρατοῦσα μήτηρ, θανατηφόρον 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: the mother held two votes for the children, one death-bearing and one saving.
+Draft translation: the mother held two votes for the children, one death-bearing and one saving,
 
 Decision rows:
 - None recorded.
@@ -118222,7 +119726,7 @@ Greek: οὕτως σύ, ἡ νομοφύλαξ, πανταχόθεν ἐν τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: so you, the law-keeper, being drenched on every side in the flood of the passions and held together by strong winds, the tortures of sons, nobly endured the storms for piety.
+Draft translation: so you, the law-keeper, being drenched on every side in the flood of the passions and beset by strong winds, the tortures of sons, nobly endured the storms for piety.
 
 Decision rows:
 - None recorded.
@@ -118244,7 +119748,7 @@ Greek: Εἰ δὲ τοίνυν καὶ γυνὴ καὶ γηραιὰ καὶ 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: If, then, even a woman, and an aged one, and mother of seven children, endured the tortures of her children even to death while seeing them, confessedly reverent reasoning is sovereign over the passions.
+Draft translation: If, then, even a woman, and an aged one, and mother of seven children, endured while seeing her children's tortures even to death, confessedly reverent reasoning is sovereign over the passions.
 
 Decision rows:
 - None recorded.
@@ -118264,7 +119768,7 @@ Greek: ἀπέδειξα οὖν ὅτι οὐ μόνον τῶν παθῶν �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: I have shown, therefore, that not only men prevailed over the passions, but also a woman looked beyond the greatest tortures.
+Draft translation: I have shown, therefore, that not only men prevailed over the passions, but also a woman despised the greatest tortures.
 
 Decision rows:
 - None recorded.
@@ -118284,7 +119788,7 @@ Greek: καὶ οὐχ οὕτως οἱ περὶ τὸν Δανιὴλ λέο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the lions around Daniel were not so savage, nor the furnace burning against Mishael with most violent fire, as the nature of child-love burned around that woman, seeing her seven sons tortured in such varied ways.
+Draft translation: And the lions around Daniel were not so savage, nor the furnace burning against Mishael with most violent fire, as the nature of child-love burned around that woman while she saw her seven sons tortured in such varied ways.
 
 Decision rows:
 - None recorded.
@@ -118424,7 +119928,7 @@ Greek: ὦ ἡ πολύπαις καὶ καλλίπαις ἐγὼ γυνὴ χ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O I, a woman with many children and beautiful children, am a widow and alone, full of many laments.
+Draft translation: O I, a woman with many children and beautiful children, am a widow and alone, much-lamenting.
 
 Decision rows:
 - None recorded.
@@ -118464,7 +119968,7 @@ Greek: οὐδ' ἵνα μὴ ἀποθάνωσιν ἀπέτρεπεν αὐτ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: nor did she turn any of them away so that they might not die, nor was she grieved over them as dying.
+Draft translation: nor did she turn any of them away so that they might not die, nor was she grieved for them as they died.
 
 Decision rows:
 - None recorded.
@@ -118484,7 +119988,7 @@ Greek: ἀλλ' ὥσπερ ἀδαμάντινον ἔχουσα τὸν νο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: But as though having a mind of adamant and bearing again the number of her sons into immortality, she was rather urging them forward, entreating them to death for piety.
+Draft translation: But as though having a mind of adamant and bearing again the number of her sons into immortality, she was instead urging them forward, entreating them to death for piety.
 
 Decision rows:
 - None recorded.
@@ -118524,7 +120028,7 @@ Greek: καὶ γὰρ ὅτε συνελήφθης μετὰ τῶν παίδω
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For when you were seized with the children, you stood watching Eleazar being tortured and spoke to the children in the Hebrew voice:
+Draft translation: For when you were seized with the children, you stood watching Eleazar being tortured and spoke to the children in the Hebrew tongue:
 
 Decision rows:
 - None recorded.
@@ -118544,7 +120048,7 @@ Greek: ὦ παῖδες, γενναῖος ὁ ἀγών, ἐφ' ὃν κληθ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Children, noble is the contest, to which, being called for the solemn witness of the nation, contend eagerly for the ancestral law.
+Draft translation: Children, noble is the contest to which you have been called for the solemn witness of the nation; contend eagerly for the ancestral law.
 
 Decision rows:
 - None recorded.
@@ -118624,7 +120128,7 @@ Greek: δι' ὃν καὶ ὁ πατὴρ ἡμῶν Ἁβραὰμ ἔσπευ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: because of whom also our father Abraham was hastening to slaughter Isaac, his race-father son. And Isaac, seeing the fatherly sword-bearing hand being brought down upon him, did not shrink.
+Draft translation: because of whom also our father Abraham was hastening to slaughter Isaac, the son who was father of the nation. And Isaac, seeing the paternal sword-bearing hand being brought down upon him, did not shrink.
 
 Decision rows:
 - None recorded.
@@ -118644,7 +120148,7 @@ Greek: καὶ Δανιὴλ ὁ δίκαιος εἰς λέοντας ἐβλή
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And righteous Daniel was thrown into lions, and Hananiah and Azariah and Mishael were hurled into a furnace of fire, and they endured because of God.
+Draft translation: And righteous Daniel was thrown among lions, and Hananiah and Azariah and Mishael were hurled into a furnace of fire, and they endured because of God.
 
 Decision rows:
 - None recorded.
@@ -118664,7 +120168,7 @@ Greek: καὶ ἡμεῖς οὖν τὴν αὐτὴν πίστιν πρὸς 
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore we also, having the same faith toward God, do not grow harsh.
+Draft translation: Therefore we also, having the same faith toward God, do not grow distressed.
 
 Decision rows:
 - None recorded.
@@ -118724,7 +120228,7 @@ Greek: ἔτι δὲ καὶ ταῦτα εἰδότες ὅτι οἱ διὰ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And still also knowing these things, that those who die because of God live to God, just as Abraham and Isaac and Jacob and all the patriarchs.
+Draft translation: And they knew this also, that those who die because of God live to God, just as Abraham and Isaac and Jacob and all the patriarchs.
 
 Decision rows:
 - None recorded.
@@ -118766,7 +120270,7 @@ Greek: ὦ μήτηρ σὺν ἑπτὰ παισὶ καταλύσασα τὴ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O mother, with seven children you dissolved the violence of the tyrant, and made invalid his evil designs, and displayed the nobility of faith.
+Draft translation: O mother, with seven children you overthrew the violence of the tyrant, nullified his evil designs, and displayed the nobility of faith.
 
 Decision rows:
 - None recorded.
@@ -118786,7 +120290,7 @@ Greek: καθάπερ γὰρ σὺ στέγη ἐπὶ τοὺς στύλους
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For just as a roof nobly established upon the pillars of the children, you endured unbent the earthquake through the tortures.
+Draft translation: For just as a roof nobly established upon the pillars of the children, you endured unbent the earthquake of tortures.
 
 Decision rows:
 - None recorded.
@@ -118806,7 +120310,7 @@ Greek: θάρρει τοιγαροῦν, ὦ μήτηρ ἱερόψυχε, τὴ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Therefore have courage, mother of sacred soul, having toward God the hope of endurance as firm.
+Draft translation: Therefore have courage, mother of sacred soul, having firm hope of endurance toward God.
 
 Decision rows:
 - None recorded.
@@ -118826,7 +120330,7 @@ Greek: οὐχ οὕτω σελήνη κατ' οὐρανὸν σὺν ἄστρ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Not so august has the moon been set in heaven with the stars, as you, having led your seven star-equal children to piety as lights, have been set as honored with God and established in heaven with them.
+Draft translation: Not so august has the moon been set in heaven with the stars, as you, having led your seven star-equal children as lights toward piety, have been set as honored with God and established in heaven with them.
 
 Decision rows:
 - None recorded.
@@ -118886,7 +120390,7 @@ Greek: καὶ γὰρ ἄξιον ἦν καὶ ἐπὶ αὐτοῦ τοῦ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For it would be worthy to inscribe even on the tomb itself these things also, spoken for remembrance to those from the nation:
+Draft translation: For it would be worthy to inscribe even on the tomb itself these things also, said for remembrance by those from the nation:
 
 Decision rows:
 - None recorded.
@@ -118906,7 +120410,7 @@ Greek: ἐνταῦθα γέρων ἱερεὺς καὶ γυνὴ γηραι�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: Here an old priest and an aged woman and seven children have been buried because of the violence of a tyrant who wished to dissolve the citizenship of the Hebrews.
+Draft translation: Here an old priest and an aged woman and seven children have been buried because of the violence of a tyrant who wished to overthrow the citizenship of the Hebrews.
 
 Decision rows:
 - None recorded.
@@ -118966,7 +120470,7 @@ Greek: ἠθλοθέτει γὰρ τότε ἀρετὴ δι' ὑπομονῆ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: For virtue was setting the contest prize then, testing through endurance; the victory was incorruption in long-lasting life.
+Draft translation: For virtue presided over the contest then, testing through endurance; the victory was incorruption in long-lasting life.
 
 Decision rows:
 - None recorded.
@@ -118986,7 +120490,7 @@ Greek: Ἐλεάζαρ δὲ προηγωνίζετο, ἡ δὲ μήτηρ τ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And Eleazar was contesting before them, and the mother of the seven children was competing, and the brothers were fighting the contest.
+Draft translation: And Eleazar was contesting before them, and the mother of the seven children was competing, and the brothers were contending.
 
 Decision rows:
 - None recorded.
@@ -119006,7 +120510,7 @@ Greek: ὁ τύραννος ἀντηγωνίζετο, ὁ δὲ κόσμος κ
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: The tyrant was fighting against them, and the world and the life of humans were watching.
+Draft translation: The tyrant was fighting against them, and the world and human life were watching.
 
 Decision rows:
 - None recorded.
@@ -119166,7 +120670,7 @@ Greek: ὥσπερ ἀντίψυχον γεγονότας τῆς τοῦ ἔθ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: as they became a life in exchange for the sin of the nation. And through the blood of those pious ones and their propitiatory death, divine Providence saved Israel, which had been harmed before.
+Draft translation: as they became a life in exchange for the sin of the nation. And through the blood of those pious ones and their propitiatory death, divine Providence saved Israel, which had been harmed beforehand.
 
 Decision rows:
 - None recorded.
@@ -119206,7 +120710,7 @@ Greek: ἔσχε τε αὐτοὺς γενναίους καὶ ἀνδρείο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And he had them noble and courageous for infantry battle and siege, and after storming, he conquered all the enemies.
+Draft translation: And he regarded them as noble and courageous for infantry battle and siege, and after storming, he conquered all the enemies.
 
 Decision rows:
 - None recorded.
@@ -119228,7 +120732,7 @@ Greek: Ω τῶν Ἁβραμιαίων σπερμάτων ἀπόγονοι π�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O Israelite children, offspring of Abrahamic seeds, be persuaded by this law and be pious in every way,
+Draft translation: O Israelite children, offspring of Abrahamic seeds, be obedient to this law and be pious in every way,
 
 Decision rows:
 - None recorded.
@@ -119288,7 +120792,7 @@ Greek: καὶ δι' αὐτοὺς εἰρήνευσε τὸ ἔθνος, κα�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And through them the nation had peace; and renewing the good law-order in the fatherland, they drove out the enemies by siege.
+Draft translation: And through them the nation had peace; and renewing the good order under law in the fatherland, they drove out the enemies by siege.
 
 Decision rows:
 - None recorded.
@@ -119308,7 +120812,7 @@ Greek: καὶ ὁ τύραννος Ἀντίοχος καὶ ἐπὶ γῆς �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And the tyrant Antiochus was punished on earth and is punished after death. For since in no way at all was he strong enough to compel the Jerusalemites to become foreign and to change their way of life away from the ancestral customs, then, departing from Jerusalem, he encamped against the Persians.
+Draft translation: And the tyrant Antiochus was punished on earth and is punished after death. For since in no way at all was he able to compel the Jerusalemites to become foreign and to change their way of life away from the ancestral customs, then, departing from Jerusalem, he encamped against the Persians.
 
 Decision rows:
 - None recorded.
@@ -119368,7 +120872,7 @@ Greek: οὐδὲ ἔφθειρέ με λυμεὼν ἐρημίας φθορε�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: No destroyer of desolation, a corrupter in a field, corrupted me, nor did a deceitful serpent, a destroyer, ruin the pure things of my virginity; but I remained through the time of prime with a husband.
+Draft translation: No destroyer of desolation, a corrupter in a field, corrupted me, nor did a deceitful serpent, a destroyer, ruin the pure things of my virginity; but I remained through the season of prime with a husband.
 
 Decision rows:
 - None recorded.
@@ -119388,7 +120892,7 @@ Greek: τούτων δὲ ἐνηλίκων γενομένων ἐτελεύτη
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And when these had become grown, their father died. Blessed was he, for after living the life of good children, he did not suffer the time of childlessness.
+Draft translation: And when these had become grown, their father died. Blessed was he, for after living the life of good childbearing, he did not suffer the time of childlessness.
 
 Decision rows:
 - None recorded.
@@ -119428,7 +120932,7 @@ Greek: τὸν ἀναιρεθέντα Ἄβελ ὑπὸ Κάϊν, ἀνεγί�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He read to you Abel, killed by Cain, and Isaac, being offered as whole-fruit, and Joseph in prison.
+Draft translation: He read to you Abel, killed by Cain, and Isaac, being offered whole, and Joseph in prison.
 
 Decision rows:
 - None recorded.
@@ -119508,7 +121012,7 @@ Greek: τὸν ὑμνογράφον ἐμελῴδει ὑμῖν Δαυὶδ �
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He melodized to you David the hymn-writer, who says, Many are the afflictions of the righteous, and out of them all the Lord will rescue them.
+Draft translation: He sang to you David the hymn-writer, who says, Many are the afflictions of the righteous, and out of them all the Lord will rescue them.
 
 Decision rows:
 - None recorded.
@@ -119548,7 +121052,7 @@ Greek: τὸν Ἰεζεκιὴλ ἐπιστοποιεῖτο τὸν λέγο�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: He certified Ezekiel, who says, Will these dry bones live?
+Draft translation: He gave assurance from Ezekiel, who says, Will these dry bones live?
 
 Decision rows:
 - None recorded.
@@ -119608,7 +121112,7 @@ Greek: Ὦ πικρᾶς τῆς τότε ἡμέρας καὶ οὐ πικρ�
 Transliteration: Not recorded.
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: O bitter was that day, and not bitter, when the bitter tyrant of the Greeks, having kindled fire with cruel kettles and boiling passions, brought the seven children of the Abrahamite woman to the catapult and all his tortures,
+Draft translation: O bitter was that day, and not bitter, when the bitter tyrant of the Greeks, having kindled fire with cruel kettles and boiling angers, brought the seven children of the Abrahamite woman to the catapult and all his tortures,
 
 Decision rows:
 - None recorded.

@@ -96,6 +96,8 @@ DEFAULT_LOGOS_ROOT = Path.home() / "Library" / "Application Support" / "Logos4"
 DOCX_CORE_TIMESTAMP = "2000-01-01T00:00:00Z"
 DOCX_ZIP_TIMESTAMP = (2000, 1, 1, 0, 0, 0)
 DOCX_DEFAULT_COMPRESSLEVEL = 9
+PRINT_RED = "9B1C1C"
+PRINT_BLUE = "1F4E79"
 
 REFERENCE_NUMBERING_GUIDE = [
     ("English Psalm 22:1", "Psalms 21:2 here"),
@@ -122,6 +124,11 @@ SOURCE_BASIS_GUIDE = {
         "NT source basis: this branch translates the Scrivener 1894 Textus Receptus stream imported from byztxt/greektext-scrivener text-only files.",
         "Daniel source basis: Daniel follows the Greek Daniel rows currently present in the OT source workspace. It is not silently replaced with Theodotion- or MT/Aramaic-shaped wording.",
         "Canon scope: deuterocanonical and apocryphal LXX books are planned as a separate workstream, not folded into this Protestant-canon branch.",
+    ],
+    "deuterocanon": [
+        "Deuterocanon source basis: this separate Logos source translates the LXX deuterocanon/additions Greek rows in data/raw/lxx_deuterocanon/deuterocanon_full.csv; it does not revise an English base text.",
+        "Supplemental source basis: the pinned eBible GRCLXX package is primary, with the public-domain eBible Brenton Greek package used only for Prayer of Manasseh and true 2 Maccabees rows absent from GRCLXX.",
+        "Output scope: this workstream is emitted as a separate Logos DOCX and is not included in the compact paper proof.",
     ],
 }
 
@@ -189,10 +196,21 @@ TESTAMENT_CONFIG = {
         "preview_title": "The Greek Heritage Study Bible Logos Bible Preview",
         "description": "The Greek Heritage Study Bible draft from OT LXX Greek and NT Scrivener 1894 Textus Receptus Greek.",
     },
+    "deuterocanon": {
+        "label": "LXX Deuterocanon",
+        "full_label": "LXX Deuterocanon and Additions",
+        "source_text": "LXX deuterocanon/additions Greek source rows",
+        "title_prefix": "The Greek Heritage Study Bible Deuterocanon",
+        "bridge_label": "Reference Notes Bridge",
+        "preview_title": "The Greek Heritage Study Bible Deuterocanon Logos Preview",
+        "description": "Separate Logos draft of the LXX deuterocanon and additions for The Greek Heritage Study Bible.",
+    },
 }
 
 DOCX_W_NS = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
 DOCX_R_NS = "http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+DOCX_MC_NS = "http://schemas.openxmlformats.org/markup-compatibility/2006"
+DOCX_W15_NS = "http://schemas.microsoft.com/office/word/2012/wordml"
 REL_NS = "http://schemas.openxmlformats.org/package/2006/relationships"
 CONTENT_TYPES_NS = "http://schemas.openxmlformats.org/package/2006/content-types"
 
@@ -203,6 +221,45 @@ LXX_TSK_CODE_MAP = {
 
 LOGOS_SOURCE_CODE_MAP = LXX_TSK_CODE_MAP
 STANDARD_CODE_BY_BOOK_NAME = {name: code for code, name in STANDARD_BOOK_NAMES.items()}
+LEADING_INT_RE = re.compile(r"^(\d+)")
+
+LOGOS_BOOK_NAME_OVERRIDES = {
+    "ESGA": "Esther",
+    "LJE": "LJe",
+}
+
+LOGOS_DEUTEROCANON_SUPPRESSED_BOOK_CODES = {
+    # This source is Greek Ezra B, not the Latin apocalypse normally indexed as
+    # 2 Esdras in Logos' Bible datatype.
+    "2ES",
+}
+
+LOGOS_DEUTEROCANON_SUPPRESSED_CODE_REFS = {
+    "TOB 6:19",
+    "TOB 7:17",
+    "TOB 13:18",
+    "WIS 2:25",
+    "WIS 9:19",
+    "SIR 28:24",
+    "SIR 28:25",
+    "SIR 36:14",
+    "SIR 36:15",
+    "SIR 41:23",
+    "SIR 41:24",
+    "SIR 41:25",
+    "SIR 41:26",
+    "SIR 41:27",
+    "SIR 43:17",
+    "BAR 3:38",
+    "4MA 12:20",
+}
+
+
+def leading_int_label(value: str, *, field_name: str) -> int:
+    match = LEADING_INT_RE.match(value.strip())
+    if not match:
+        raise ValueError(f"Cannot read numeric {field_name} from label: {value!r}")
+    return int(match.group(1))
 STANDARD_CODE_BY_BOOK_NAME["Song of Songs"] = "SNG"
 
 CODE_REF_RE = re.compile(r"^([1-3]?[A-Z0-9]+) (\d+):(\d+)$")
@@ -338,6 +395,16 @@ class Verse:
     chapter: int
     verse: int
     text: str
+    chapter_label: str = ""
+    verse_label: str = ""
+
+    @property
+    def display_chapter(self) -> str:
+        return self.chapter_label or str(self.chapter)
+
+    @property
+    def display_verse(self) -> str:
+        return self.verse_label or str(self.verse)
 
     @property
     def tsk_key(self) -> tuple[str, int, int]:
@@ -470,6 +537,10 @@ class BuildStats:
     output_kind: str
     milestone_mode: str = "lxx"
     paragraph_count: int = 0
+    run_in_verse_paragraphs: bool = False
+    run_in_group_size: int = 0
+    pericope_heading_count: int = 0
+    footnote_columns: int = 1
     footnote_count: int = 0
     crossref_footnotes: int = 0
     translation_note_footnotes: int = 0
@@ -495,6 +566,7 @@ class BuildStats:
     fallback_milestone_refs: int = 0
     duplicate_milestone_refs: int = 0
     suppressed_duplicate_milestone_refs: int = 0
+    suppressed_unsupported_milestone_refs: int = 0
     superscription_line_count: int = 0
 
 
@@ -526,12 +598,14 @@ class MinimalDocx:
         compact_print: bool = False,
         lulu_pod_margins: bool = False,
         footnote_number_restart: str = "chapter",
+        footnote_columns: int = 1,
     ) -> None:
         self.title = title
         self.subject = subject
         self.compact_print = compact_print
         self.lulu_pod_margins = lulu_pod_margins
         self.footnote_restart_value = footnote_restart_xml_value(footnote_number_restart)
+        self.footnote_columns = footnote_columns
         self.body: list[str] = []
         self.footnotes: list[FootnoteEntry] = []
 
@@ -552,6 +626,7 @@ class MinimalDocx:
                     compact_print=self.compact_print,
                     lulu_pod_margins=self.lulu_pod_margins,
                     footnote_restart_value=self.footnote_restart_value,
+                    footnote_columns=self.footnote_columns,
                 )
             )
         ppr = f"<w:pPr>{''.join(ppr_parts)}</w:pPr>" if ppr_parts else ""
@@ -575,8 +650,9 @@ class MinimalDocx:
             compact_print=self.compact_print,
             lulu_pod_margins=self.lulu_pod_margins,
             footnote_restart_value=self.footnote_restart_value,
+            footnote_columns=self.footnote_columns,
         )
-        footnotes_xml = build_footnotes_xml(self.footnotes)
+        footnotes_xml = build_footnotes_xml(self.footnotes, compact_print=self.compact_print)
         files = {
             "[Content_Types].xml": content_types_xml(),
             "_rels/.rels": root_rels_xml(),
@@ -621,6 +697,8 @@ def runs_for_plain_text(
     style: str | None = None,
     small: bool = False,
     color: str | None = None,
+    size: str | None = None,
+    complex_size: str | None = None,
 ) -> list[str]:
     """Split Hebrew spans into language-tagged RTL runs for Logos import."""
     output: list[str] = []
@@ -635,6 +713,8 @@ def runs_for_plain_text(
                     style=style,
                     small=small,
                     color=color,
+                    size=size,
+                    complex_size=complex_size,
                 )
             )
         output.append(
@@ -647,6 +727,8 @@ def runs_for_plain_text(
                 color=color,
                 language="he-IL",
                 rtl=True,
+                size=size,
+                complex_size=complex_size,
             )
         )
         cursor = match.end()
@@ -659,6 +741,8 @@ def runs_for_plain_text(
                 style=style,
                 small=small,
                 color=color,
+                size=size,
+                complex_size=complex_size,
             )
         )
     return output
@@ -863,6 +947,8 @@ def run(
     color: str | None = None,
     language: str | None = None,
     rtl: bool = False,
+    size: str | None = None,
+    complex_size: str | None = None,
 ) -> str:
     props: list[str] = []
     if style:
@@ -871,8 +957,12 @@ def run(
         props.append("<w:b/>")
     if italic:
         props.append("<w:i/>")
-    if small:
+    if size:
+        props.append(f'<w:sz w:val="{attr(size)}"/>')
+    elif small:
         props.append('<w:sz w:val="18"/>')
+    if complex_size:
+        props.append(f'<w:szCs w:val="{attr(complex_size)}"/>')
     if color:
         props.append(f'<w:color w:val="{attr(color)}"/>')
     if language:
@@ -891,6 +981,20 @@ def footnote_reference_style_xml() -> str:
     return '<w:rPr><w:rStyle w:val="FootnoteReference"/></w:rPr>'
 
 
+def compact_footnote_marker_style_xml(*, compact_print: bool) -> str:
+    if not compact_print:
+        return footnote_reference_style_xml()
+    return (
+        "<w:rPr>"
+        '<w:vertAlign w:val="baseline"/>'
+        "<w:b/>"
+        f'<w:color w:val="{PRINT_BLUE}"/>'
+        f'<w:sz w:val="{COMPACT_PRINT_FOOTNOTE_SIZE}"/>'
+        f'<w:szCs w:val="{COMPACT_PRINT_FOOTNOTE_COMPLEX_SIZE}"/>'
+        "</w:rPr>"
+    )
+
+
 def footnote_ref_run(note_id: int) -> str:
     return (
         f'<w:r>{footnote_reference_style_xml()}'
@@ -904,11 +1008,12 @@ def section_properties_xml(
     compact_print: bool = False,
     lulu_pod_margins: bool = False,
     footnote_restart_value: str = "eachSect",
+    footnote_columns: int = 1,
 ) -> str:
     section_type_xml = f'<w:type w:val="{attr(section_type)}"/>' if section_type else ""
     if lulu_pod_margins:
         margins = (
-            '<w:pgMar w:top="720" w:right="1080" w:bottom="720" w:left="1440" '
+            '<w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="1080" '
             'w:header="360" w:footer="360" w:gutter="0"/>'
         )
     elif compact_print:
@@ -922,6 +1027,11 @@ def section_properties_xml(
             'w:header="720" w:footer="720" w:gutter="0"/>'
         )
     columns = '<w:cols w:space="720" w:num="1"/>' if compact_print else ""
+    footnote_columns_xml = (
+        f'<w15:footnoteColumns w15:val="{int(footnote_columns)}"/>'
+        if footnote_columns > 1
+        else ""
+    )
     return (
         "<w:sectPr>"
         f'<w:footnotePr><w:numRestart w:val="{attr(footnote_restart_value)}"/><w:numFmt w:val="decimal"/></w:footnotePr>'
@@ -929,6 +1039,7 @@ def section_properties_xml(
         '<w:pgSz w:w="12240" w:h="15840"/>'
         f"{margins}"
         f"{columns}"
+        f"{footnote_columns_xml}"
         "</w:sectPr>"
     )
 
@@ -939,31 +1050,79 @@ def build_document_xml(
     compact_print: bool = False,
     lulu_pod_margins: bool = False,
     footnote_restart_value: str = "eachSect",
+    footnote_columns: int = 1,
 ) -> str:
     section = section_properties_xml(
         compact_print=compact_print,
         lulu_pod_margins=lulu_pod_margins,
         footnote_restart_value=footnote_restart_value,
+        footnote_columns=footnote_columns,
+    )
+    extra_namespaces = (
+        f' xmlns:mc="{DOCX_MC_NS}" xmlns:w15="{DOCX_W15_NS}" mc:Ignorable="w15"'
+        if footnote_columns > 1
+        else ""
     )
     return (
         '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
-        f'<w:document xmlns:w="{DOCX_W_NS}" xmlns:r="{DOCX_R_NS}">'
+        f'<w:document xmlns:w="{DOCX_W_NS}" xmlns:r="{DOCX_R_NS}"{extra_namespaces}>'
         f"<w:body>{body_xml}{section}</w:body></w:document>"
     )
 
 
-def build_footnotes_xml(notes: list[FootnoteEntry]) -> str:
+COMPACT_PRINT_FOOTNOTE_SIZE = "15"
+COMPACT_PRINT_FOOTNOTE_COMPLEX_SIZE = "13"
+
+
+def strip_redundant_print_name_fields(value: str) -> str:
+    head = re.match(r"^(?P<label>Pn|Pl|Ppl|Div|Tr): (?P<name>[^.]+)\. (?P<body>.*)$", value)
+    if not head:
+        return re.sub(r"^Nm: [^:]{1,80}: ", "Nm: ", value)
+
+    name = normalize_space(head.group("name"))
+    body = head.group("body")
+    if not name:
+        return value
+
+    for label in ("Std", "Src"):
+        body = re.sub(
+            rf"(?:(?<=^)|(?<=\s)){label}: {re.escape(name)}\. ?",
+            "",
+            body,
+        )
+    body = re.sub(
+        rf"(?:(?<=^)|(?<=\s))Nm: {re.escape(name)}: ",
+        "Nm: ",
+        body,
+    )
+    return normalize_space(f"{head.group('label')}: {name}. {body}")
+
+
+def compact_print_footnote_text(value: str) -> str:
+    value = normalize_space(value)
+    value = re.sub(r"\s+[—–]\s+", ": ", value)
+    value = value.replace("—", ": ").replace("–", "-")
+    value = re.sub(r'^Cross-references for "([^"]+)": ', r"X: \1: ", value)
+    value = re.sub(r"^Cross-references: ", "X: ", value)
+    value = strip_redundant_print_name_fields(value)
+    return normalize_space(value)
+
+
+def build_footnotes_xml(notes: list[FootnoteEntry], *, compact_print: bool = False) -> str:
     items = [
         '<w:footnote w:type="separator" w:id="-1"><w:p><w:r><w:separator/></w:r></w:p></w:footnote>',
         '<w:footnote w:type="continuationSeparator" w:id="0"><w:p><w:r><w:continuationSeparator/></w:r></w:p></w:footnote>',
     ]
+    footnote_text_size = COMPACT_PRINT_FOOTNOTE_SIZE if compact_print else None
+    footnote_complex_size = COMPACT_PRINT_FOOTNOTE_COMPLEX_SIZE if compact_print else footnote_text_size
     for index, note in enumerate(notes, start=1):
-        marker_run = f'<w:r>{footnote_reference_style_xml()}<w:footnoteRef/></w:r>'
+        note_text = compact_print_footnote_text(note.text) if compact_print else note.text
+        marker_run = f'<w:r>{compact_footnote_marker_style_xml(compact_print=compact_print)}<w:footnoteRef/></w:r>'
         items.append(
             f'<w:footnote w:id="{index}">'
             '<w:p><w:pPr><w:pStyle w:val="FootnoteText"/></w:pPr>'
             f"{marker_run}"
-            f"{''.join(runs_for_plain_text(' ' + note.text))}"
+            f"{''.join(runs_for_plain_text(' ' + note_text, size=footnote_text_size, complex_size=footnote_complex_size))}"
             "</w:p></w:footnote>"
         )
     return (
@@ -1072,8 +1231,14 @@ def styles_xml(*, compact_print: bool = False, lulu_pod_margins: bool = False) -
     title_size = "32" if compact_print else "40"
     heading1_size = "24" if compact_print else "32"
     heading2_size = "21" if compact_print else "26"
-    footnote_size = "15" if compact_print else "18"
-    normal_line = "205" if lulu_pod_margins else "220"
+    pericope_heading_size = "19" if compact_print else "22"
+    footnote_size = COMPACT_PRINT_FOOTNOTE_SIZE if compact_print else "18"
+    footnote_complex_size = COMPACT_PRINT_FOOTNOTE_COMPLEX_SIZE if compact_print else footnote_size
+    footnote_ref_size = "17" if compact_print else "20"
+    heading2_color = f'<w:color w:val="{PRINT_RED}"/>' if compact_print else ""
+    footnote_ref_color = f'<w:color w:val="{PRINT_BLUE}"/>' if compact_print else ""
+    footnote_line = "150" if compact_print else "200"
+    normal_line = "200" if lulu_pod_margins else "220"
     normal_spacing = (
         f'<w:pPr><w:spacing w:before="0" w:after="0" w:line="{normal_line}" w:lineRule="auto"/></w:pPr>'
         if compact_print
@@ -1108,16 +1273,21 @@ def styles_xml(*, compact_print: bool = False, lulu_pod_margins: bool = False) -
         '<w:name w:val="heading 2"/><w:basedOn w:val="Normal"/><w:qFormat/>'
         '<w:pPr><w:keepNext/><w:spacing w:before="240" w:after="120"/>'
         '<w:outlineLvl w:val="1"/></w:pPr>'
-        f'<w:rPr><w:b/><w:sz w:val="{heading2_size}"/></w:rPr>'
+        f'<w:rPr><w:b/>{heading2_color}<w:sz w:val="{heading2_size}"/></w:rPr>'
+        "</w:style>"
+        '<w:style w:type="paragraph" w:styleId="PericopeHeading">'
+        '<w:name w:val="Pericope Heading"/><w:basedOn w:val="Normal"/><w:qFormat/>'
+        '<w:pPr><w:keepNext/><w:spacing w:before="120" w:after="30"/></w:pPr>'
+        f'<w:rPr><w:b/><w:i/><w:sz w:val="{pericope_heading_size}"/></w:rPr>'
         "</w:style>"
         '<w:style w:type="character" w:styleId="FootnoteReference">'
         '<w:name w:val="Footnote Reference"/><w:semiHidden/><w:unhideWhenUsed/>'
-        '<w:rPr><w:vertAlign w:val="superscript"/></w:rPr>'
+        f'<w:rPr><w:vertAlign w:val="superscript"/><w:b/>{footnote_ref_color}<w:sz w:val="{footnote_ref_size}"/><w:szCs w:val="{footnote_ref_size}"/></w:rPr>'
         "</w:style>"
         '<w:style w:type="paragraph" w:styleId="FootnoteText">'
         '<w:name w:val="Footnote Text"/><w:basedOn w:val="Normal"/>'
-        '<w:pPr><w:spacing w:after="0"/></w:pPr>'
-        f'<w:rPr><w:sz w:val="{footnote_size}"/></w:rPr>'
+        f'<w:pPr><w:spacing w:before="0" w:after="0" w:line="{footnote_line}" w:lineRule="auto"/></w:pPr>'
+        f'<w:rPr><w:sz w:val="{footnote_size}"/><w:szCs w:val="{footnote_complex_size}"/></w:rPr>'
         "</w:style>"
         "</w:styles>"
     )
@@ -1130,14 +1300,18 @@ def load_verses(path: Path) -> list[Verse]:
         draft = row.get("draft_translation", "").strip()
         if not draft:
             continue
+        chapter_label = row["chapter"].strip()
+        verse_label = row["verse"].strip()
         verses.append(
             Verse(
                 ref=row["ref"].strip(),
                 book_code=row["book_code"].strip(),
                 book_name=row["book_name"].strip(),
-                chapter=int(row["chapter"]),
-                verse=int(row["verse"]),
+                chapter=leading_int_label(chapter_label, field_name="chapter"),
+                verse=leading_int_label(verse_label, field_name="verse"),
                 text=draft,
+                chapter_label=chapter_label,
+                verse_label=verse_label,
             )
         )
     return verses
@@ -1785,9 +1959,56 @@ def book_intro_has_content(row: dict[str, str] | None) -> bool:
     return any((value or "").strip() for key, value in row.items() if key not in excluded)
 
 
+INTRO_DATE_RANGES = {
+    "Hasmonean period": "Hasmonean period, ca. 140-37 BC",
+    "Herodian period": "Herodian period, ca. 37 BC-AD 70",
+    "Hasmonean-Herodian periods": "Hasmonean-Herodian periods, ca. 140 BC-AD 70",
+    "Second Temple period": "Second Temple period, ca. 516 BC-AD 70",
+    "Late Second Temple period": "Late Second Temple period, ca. 200 BC-AD 70",
+    "Hellenistic period": "Hellenistic period, ca. 332-63 BC",
+    "Hellenistic and later": "Hellenistic and later, ca. 332 BC-AD 700",
+    "Roman period": "Roman period, ca. 63 BC-AD 324",
+    "Second Temple and medieval periods": "Second Temple and medieval periods, ca. 516 BC-AD 1500",
+    "late antiquity": "late antiquity, ca. AD 300-700",
+    "late antique and later": "late antique and later, ca. AD 300 and later",
+    "late antique and medieval": "late antique and medieval, ca. AD 300-1500",
+    "late antique and medieval periods": "late antique and medieval periods, ca. AD 300-1500",
+    "medieval Ethiopic manuscripts": "medieval Ethiopic manuscripts, ca. AD 500-1500",
+    "Second Temple and early Christian periods": "Second Temple and early Christian periods, ca. 516 BC-AD 400",
+    "later Second Temple and early Christian periods": "later Second Temple and early Christian periods, ca. 200 BC-AD 400",
+    "later Second Temple and after": "later Second Temple and after, ca. 200 BC-AD 400+",
+    "Second Temple and later": "Second Temple and later, ca. 516 BC-AD 400+",
+    "later biblical and post-biblical reception": "later biblical and post-biblical reception, ca. 7th century BC-AD 400+",
+    "Persian period narrative and later canon": "Persian period narrative and later canon, ca. 539-332 BC and later",
+    "exilic or late pre-exilic composition using earlier royal records": "exilic or late pre-exilic composition, ca. 7th-6th century BC, using earlier royal records",
+    "exilic composition using earlier records and prophetic material": "exilic composition, ca. 6th century BC, using earlier records and prophetic material",
+    "patriarchal-era setting; composition date debated": "patriarchal-era setting; composition date debated, broadly ca. 2nd-1st millennium BC",
+    "date debated; conservative options range from early monarchy to post-exilic": "date debated; conservative options range from early monarchy to post-exilic, ca. 10th-5th century BC",
+    "Hellenistic period composition using earlier story traditions": "Hellenistic period, ca. 332-63 BC, composition using earlier story traditions",
+    "exilic frame; likely later composition history": "exilic frame, ca. 6th century BC; likely later composition history, ca. 3rd-1st century BC",
+    "Hellenistic period or earlier tradition": "Hellenistic period or earlier tradition, ca. 332-63 BC or earlier",
+    "Hellenistic or later": "Hellenistic or later, ca. 332 BC-AD 400",
+}
+
+
+def expand_intro_date(value: str) -> str:
+    stripped = value.strip()
+    if stripped.lower() == "n/a":
+        return ""
+    return INTRO_DATE_RANGES.get(stripped, stripped)
+
+
 def compact_intro_groups(row: dict[str, str]) -> list[tuple[str, str]]:
+    def cell(key: str) -> str:
+        value = row.get(key, "").strip()
+        if value.lower() == "n/a":
+            return ""
+        if key.endswith("_date"):
+            return expand_intro_date(value)
+        return value
+
     def parts(*keys: str) -> str:
-        values = [row.get(key, "").strip() for key in keys if row.get(key, "").strip()]
+        values = [cell(key) for key in keys if cell(key)]
         return " ".join(values).strip()
 
     witnesses: list[str] = []
@@ -1806,7 +2027,7 @@ def compact_intro_groups(row: dict[str, str]) -> list[tuple[str, str]]:
     if row.get("oldest_external_reference_author", "").strip():
         external.append("by " + row["oldest_external_reference_author"].strip())
     if row.get("oldest_external_reference_date", "").strip():
-        external.append("(" + row["oldest_external_reference_date"].strip() + ")")
+        external.append("(" + expand_intro_date(row["oldest_external_reference_date"]) + ")")
 
     groups = [
         ("Author and Attribution", parts("traditional_author")),
@@ -1929,7 +2150,17 @@ def resolve_milestone(
     return MilestoneResolution(logos_ref_from_code_ref(mapped_ref), source_ref, mapped_ref, status)
 
 
+def should_suppress_logos_bible_milestone(verse: Verse) -> bool:
+    source_ref = source_code_ref(verse)
+    return (
+        verse.book_code in LOGOS_DEUTEROCANON_SUPPRESSED_BOOK_CODES
+        or source_ref in LOGOS_DEUTEROCANON_SUPPRESSED_CODE_REFS
+    )
+
+
 def logos_book_name(book_code: str, fallback: str) -> str:
+    if book_code in LOGOS_BOOK_NAME_OVERRIDES:
+        return LOGOS_BOOK_NAME_OVERRIDES[book_code]
     name = STANDARD_BOOK_NAMES.get(LXX_TSK_CODE_MAP.get(book_code, book_code), fallback)
     if book_code == "DAN":
         return "Daniel"
@@ -2718,13 +2949,19 @@ def build_docx(
     docx_compresslevel: int = DOCX_DEFAULT_COMPRESSLEVEL,
     compact_print: bool = False,
     lulu_pod_margins: bool = False,
+    run_in_verse_paragraphs: bool = False,
+    run_in_group_size: int = 6,
+    pericope_headings: dict[str, str] | None = None,
     output_kind: str | None = None,
     subtitle: str | None = None,
     crossref_policy: str | None = None,
     name_policy: str | None = None,
     supplemental_policy: str | None = None,
     note_label_legend: str | None = None,
+    front_matter_sections: list[tuple[str, list[str]]] | None = None,
 ) -> BuildStats:
+    place_links_enabled = bool(place_links)
+    footnote_columns = 2 if compact_print else 1
     doc = MinimalDocx(
         title=title,
         subject=(
@@ -2735,11 +2972,15 @@ def build_docx(
         compact_print=compact_print,
         lulu_pod_margins=lulu_pod_margins,
         footnote_number_restart=footnote_number_restart,
+        footnote_columns=footnote_columns,
     )
     stats = BuildStats(
         output_kind=output_kind or ("logos" if logos else "proofreading"),
         milestone_mode=milestone_mode,
         footnote_number_restart=footnote_number_restart,
+        run_in_verse_paragraphs=bool(run_in_verse_paragraphs and not logos),
+        run_in_group_size=run_in_group_size if run_in_verse_paragraphs and not logos else 0,
+        footnote_columns=footnote_columns,
     )
     add_title_page(
         doc,
@@ -2757,6 +2998,9 @@ def build_docx(
         name_policy=name_policy,
         supplemental_policy=supplemental_policy,
         note_label_legend=note_label_legend,
+        front_matter_sections=front_matter_sections,
+        place_links_enabled=place_links_enabled,
+        compact_print=compact_print,
     )
 
     current_book = ""
@@ -2766,8 +3010,22 @@ def build_docx(
     versification_map = versification_map or {}
     verse_counts = verse_counts or {}
     place_links = place_links or {}
+    pericope_headings = pericope_headings or {}
+    pending_verse_runs: list[str] = []
+    pending_verse_count = 0
+
+    def flush_pending_verse_paragraph() -> None:
+        nonlocal pending_verse_runs, pending_verse_count
+        if not pending_verse_runs:
+            return
+        doc.add_paragraph(pending_verse_runs)
+        stats.paragraph_count += 1
+        pending_verse_runs = []
+        pending_verse_count = 0
+
     for verse in verses:
         if verse.book_name != current_book:
+            flush_pending_verse_paragraph()
             current_book = verse.book_name
             current_chapter = -1
             previous_milestone_ref = None
@@ -2786,20 +3044,32 @@ def build_docx(
                 stats.book_preface_pages += 1
                 doc.add_page_break()
         if verse.chapter != current_chapter:
+            flush_pending_verse_paragraph()
             current_chapter = verse.chapter
             chapter_section_break = footnote_number_restart == "chapter"
-            doc.add_heading(f"Chapter {verse.chapter}", level=2, section_break_after=chapter_section_break)
+            doc.add_heading(f"Chapter {verse.display_chapter}", level=2, section_break_after=chapter_section_break)
             if chapter_section_break:
                 stats.section_break_count += 1
             stats.paragraph_count += 1
 
+        pericope_heading = pericope_headings.get(verse.ref)
+        if pericope_heading:
+            flush_pending_verse_paragraph()
+            doc.add_paragraph([run(pericope_heading)], style="PericopeHeading")
+            stats.paragraph_count += 1
+            stats.pericope_heading_count += 1
+
+        verse_translation_notes = translation_notes.get(verse.ref, [])
+        verse_name_notes = name_notes.get(verse.ref, [])
+        verse_supplemental_notes = supplemental_notes.get(verse.ref, [])
+        verse_crossrefs = [] if is_mt_only_completeness_verse(verse) else crossrefs.get(verse.ref, [])
         runs, milestone_ref, emitted_milestone = build_verse_runs(
             doc=doc,
             verse=verse,
-            notes=translation_notes.get(verse.ref, []),
-            name_notes=name_notes.get(verse.ref, []),
-            supplemental_notes=supplemental_notes.get(verse.ref, []),
-            crossref_notes=[] if is_mt_only_completeness_verse(verse) else crossrefs.get(verse.ref, []),
+            notes=verse_translation_notes,
+            name_notes=verse_name_notes,
+            supplemental_notes=verse_supplemental_notes,
+            crossref_notes=verse_crossrefs,
             place_links=place_links if logos else {},
             place_link_pattern=place_link_pattern if logos else None,
             logos=logos,
@@ -2811,14 +3081,25 @@ def build_docx(
             stats=stats,
             compact_translation_note_labels=compact_translation_note_labels,
             compact_name_note_labels=compact_name_note_labels,
+            verse_number_color=PRINT_RED if compact_print else None,
         )
         if logos and milestone_ref:
             previous_milestone_ref = milestone_ref
             if emitted_milestone:
                 milestone_ref_counts[milestone_ref] += 1
-        doc.add_paragraph(runs)
-        stats.paragraph_count += 1
+        if stats.run_in_verse_paragraphs:
+            if pending_verse_runs:
+                pending_verse_runs.append(run("\u00a0\u00a0"))
+            pending_verse_runs.extend(runs)
+            pending_verse_count += 1
+            if stats.run_in_group_size and pending_verse_count >= stats.run_in_group_size:
+                flush_pending_verse_paragraph()
+        else:
+            flush_pending_verse_paragraph()
+            doc.add_paragraph(runs)
+            stats.paragraph_count += 1
 
+    flush_pending_verse_paragraph()
     stats.place_link_count = sum(part.count("BibleKnowledgebase:") for part in doc.body)
     stats.footnote_count = len(doc.footnotes)
     stats.duplicate_milestone_refs = sum(count - 1 for count in milestone_ref_counts.values() if count > 1)
@@ -2843,6 +3124,9 @@ def add_title_page(
     name_policy: str | None = None,
     supplemental_policy: str | None = None,
     note_label_legend: str | None = None,
+    front_matter_sections: list[tuple[str, list[str]]] | None = None,
+    place_links_enabled: bool = False,
+    compact_print: bool = False,
 ) -> None:
     doc.add_paragraph([run(title)], style="Title")
     subtitle_text = subtitle or ("Logos Personal Book source" if logos else "Proofreading and print copy")
@@ -2855,12 +3139,20 @@ def add_title_page(
         note_policy = "Includes reviewed translation/textual notes that match NT references. OT-specific MT/LXX boilerplate is omitted."
         default_supplemental_policy = "Includes no NT supplemental source-note layer yet."
         vocab_policy = "Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately."
+    elif testament == "deuterocanon":
+        note_policy = "Deuterocanon translation/textual note tables are not enabled yet; this Logos source carries the translated text for review."
+        default_supplemental_policy = "Source descriptors remain in the CSV workspace; no supplemental source-note layer is emitted in this separate Logos source yet."
+        vocab_policy = "Greek vocabulary notes are excluded; name/proper-noun meanings can be added in a later deuterocanon note pass."
+        default_name_policy = "No deuterocanon name-meaning note layer is enabled yet."
     else:
         note_policy = "Includes reviewed OT and NT translation/textual notes. Generic MT/LXX boilerplate is omitted unless a concrete local difference can be stated."
         default_supplemental_policy = "Includes OT supplemental Brenton USFM footnotes where available; no NT supplemental source-note layer yet."
         vocab_policy = "Greek vocabulary notes are excluded; name/proper-noun meanings remain included separately."
+        default_name_policy = "Includes name-meaning notes at first exact occurrence per chapter."
+    if testament in {"ot", "nt"}:
+        default_name_policy = "Includes name-meaning notes at first exact occurrence per chapter."
     supplemental_policy_text = supplemental_policy or default_supplemental_policy
-    name_policy_text = name_policy or "Includes name-meaning notes at first exact occurrence per chapter."
+    name_policy_text = name_policy or default_name_policy
     crossref_policy_text = crossref_policy or (
         "Includes full available cross-reference set from TSK, with OpenBible fallback where TSK has no row."
         if crossrefs_enabled
@@ -2879,22 +3171,37 @@ def add_title_page(
         supplemental_policy_text,
         vocab_policy,
         (
-            f"Regular footnote numbering restarts by {footnote_number_restart}. "
-            + (
-                "Cross-reference footnotes use normal numeric Word footnote references for Logos Personal Book compatibility when enabled."
-                if logos
-                else "Cross-reference footnotes use normal numeric Word footnote references when enabled."
+            (
+                f"DOCX footnote numbering is set to restart by {footnote_number_restart}; "
+                "Pandoc PDF proofs may use continuous numbering for render stability. "
             )
+            if compact_print and not logos
+            else f"Regular footnote numbering restarts by {footnote_number_restart}. "
+        )
+        + (
+            "Cross-reference footnotes use normal numeric Word footnote references for Logos Personal Book compatibility when enabled."
+            if logos
+            else "Cross-reference footnotes use normal numeric Word footnote references when enabled."
         ),
     ]
     if logos:
         lines.append(f"Verse milestones use Logos datatype {datatype}. Compile in Logos as resource type Bible.")
-        lines.append("Conservative place-name links use Logos Bible Knowledgebase targets where a local Logos place entity can be matched unambiguously.")
+        lines.append(
+            "Conservative place-name links use Logos Bible Knowledgebase targets where a local Logos place entity can be matched unambiguously."
+            if place_links_enabled
+            else "Place-name links are disabled for this build so Personal Book import stays plain and stable."
+        )
         lines.append("Textual-note export entries are embedded as local notes; no Logos resource-link layer is used.")
         if milestone_mode == "mt":
             lines.append("Milestones are remapped to standard English/MT Bible references for Logos note sharing.")
     for line in lines:
         doc.add_paragraph([run(line)])
+    if front_matter_sections:
+        doc.add_page_break()
+        for heading, paragraphs in front_matter_sections:
+            doc.add_heading(heading, level=2)
+            for paragraph in paragraphs:
+                doc.add_paragraph([run(paragraph)])
     if note_label_legend:
         doc.add_heading("Note Label Legend", level=2)
         for legend_line in note_label_legend_lines(note_label_legend):
@@ -2922,6 +3229,17 @@ def add_title_page(
                     "This branch is a Protestant-canon LXX-based edition. Psalm 151 and "
                     "other deuterocanonical or apocryphal books are reserved for a separate "
                     "LXX deuterocanon workstream."
+                )
+            ]
+        )
+    elif testament == "deuterocanon":
+        doc.add_heading("Reference Numbering Guide", level=2)
+        doc.add_paragraph(
+            [
+                run(
+                    "Visible chapter and verse labels follow the imported LXX deuterocanon/additions source rows. "
+                    "Rows with source suffixes keep those suffixes visible in the text; Logos milestones use the numeric base verse where a suffix is present. "
+                    "Rows outside Logos' supported Bible datatype ranges remain visible text without hidden Bible milestones."
                 )
             ]
         )
@@ -2966,29 +3284,33 @@ def build_verse_runs(
     stats: BuildStats,
     compact_translation_note_labels: bool = False,
     compact_name_note_labels: bool = False,
+    verse_number_color: str | None = None,
 ) -> tuple[list[str], str | None, bool]:
     runs: list[str] = []
     milestone_ref: str | None = None
     emitted_milestone = False
     if logos:
-        milestone = resolve_milestone(
-            verse,
-            mode=milestone_mode,
-            versification_map=versification_map,
-            verse_counts=verse_counts,
-        )
-        milestone_ref = milestone.logos_ref
-        if milestone.status == "mapped":
-            stats.mapped_milestone_refs += 1
-        elif milestone.status in {"fallback", "unmapped"}:
-            stats.fallback_milestone_refs += 1
-        if milestone_mode == "mt" and milestone.logos_ref == previous_milestone_ref:
-            stats.suppressed_duplicate_milestone_refs += 1
+        if should_suppress_logos_bible_milestone(verse):
+            stats.suppressed_unsupported_milestone_refs += 1
         else:
-            runs.append(run(f"[[@{datatype}:{milestone.logos_ref}]] ", small=True, color="777777"))
-            emitted_milestone = True
-    runs.append(run(f"{verse.verse} ", bold=True))
-    if logos:
+            milestone = resolve_milestone(
+                verse,
+                mode=milestone_mode,
+                versification_map=versification_map,
+                verse_counts=verse_counts,
+            )
+            milestone_ref = milestone.logos_ref
+            if milestone.status == "mapped":
+                stats.mapped_milestone_refs += 1
+            elif milestone.status in {"fallback", "unmapped"}:
+                stats.fallback_milestone_refs += 1
+            if milestone.logos_ref == previous_milestone_ref:
+                stats.suppressed_duplicate_milestone_refs += 1
+            else:
+                runs.append(run(f"[[@{datatype}:{milestone.logos_ref}]] ", small=True, color="777777"))
+                emitted_milestone = True
+    runs.append(run(f"{verse.display_verse} ", bold=True, color=verse_number_color))
+    if logos and emitted_milestone:
         runs.append(run(" {{field-on:Bible}}"))
 
     text_for_notes = verse.text
@@ -3037,7 +3359,7 @@ def build_verse_runs(
         note_id = add_crossref_footnote(doc, crossref, stats)
         runs.append(footnote_ref_run(note_id))
         stats.verse_anchored_crossref_notes += 1
-    if logos:
+    if logos and emitted_milestone:
         runs.append(run("{{field-off:Bible}}"))
     return runs, milestone_ref, emitted_milestone
 
@@ -3203,6 +3525,7 @@ def build_readme(
     deuterocanonical_work: dict[str, object],
     crossrefs_enabled: bool,
     place_links_enabled: bool,
+    docx_output_set: str,
 ) -> None:
     try:
         book_intros_display = book_intros_path.relative_to(ROOT).as_posix()
@@ -3249,6 +3572,16 @@ def build_readme(
         future_work_note = "- Future polish: NT source rows are complete; continue copyediting, note hygiene, and Logos compile spot-checks."
         verse_numbering_note = "- NT Logos files use the standard NT chapter/verse order from the Scrivener TR source rows."
         ot_shape_notes = "- NT source shape: source rows follow the Scrivener 1894 Textus Receptus chapter/verse sequence."
+    elif testament == "deuterocanon":
+        source_note = "- Supplemental source notes: source descriptors are preserved in `syntax_notes` in the CSV workspace, but no supplemental footnote layer is emitted in this separate Logos source yet."
+        variant_note = "- Translation notes: shared OT/NT translation-note tables are not applied to this separate deuterocanon Logos source."
+        future_work_note = "- Paper proof scope: this deuterocanon source is intentionally separate and is not included in the compact paper proofreading copy."
+        verse_numbering_note = "- Deuterocanon Logos files preserve imported LXX source order and visible source verse labels, including suffix labels such as Greek Esther 1:1α. Hidden Logos milestones use the numeric base verse where suffix labels are present; unsupported Logos Bible datatype ranges are left as visible text without hidden milestones."
+        ot_shape_notes = (
+            "- Greek Esther shape: `ESG` is the full Greek Esther import. `ESGA` remains available in the source workspace as an additions-only view for review; use the generated progress/worksheet files to audit that view.\n"
+            "- Greek Ezra B / 2 Esdras: `2ES` is Greek Ezra B from GRCLXX, not the Latin apocalypse commonly titled 2 Esdras / 4 Ezra in some English traditions. Its Logos Bible milestones are suppressed to avoid false links.\n"
+            "- Source row shape: plain embedded source verse labels are split into rows; bracketed source-text sections remain bracketed."
+        )
     else:
         source_note = "- Supplemental source notes: OT Brenton USFM footnotes are included where available; no NT supplemental source-note layer is currently enabled. TSK study-note text is intentionally excluded because it is too large for this Logos source. Greek vocabulary notes are excluded because Logos already provides lexical lookup layers. Proper-name and divine-title notes are integrated as name-meaning notes."
         variant_note = f"- Translation notes: reviewed rows from `data/research/translation_footnotes.csv` plus any local textual-note export entries matching included references. Generic MT/LXX difference rows are skipped unless `{translation_decisions_display}` supports a concrete local detail."
@@ -3274,6 +3607,10 @@ def build_readme(
         bridge_note = f"`{mt_bridge_docx.name}` is emitted for parity with the OT build. NT TR source rows already use standard NT versification, so this bridge should normally match the main Logos source."
         source_basis_note = f"- Source text: `{source_display}`, imported from byztxt/greektext-scrivener Scrivener 1894 Textus Receptus text-only files."
         bridge_file_note = "Logos Personal Book source emitted for parity with the OT reference-bridge output. NT TR source rows already use standard NT milestones. Compile as resource type `Bible`."
+    elif testament == "deuterocanon":
+        bridge_note = "The default deuterocanon target emits a Logos-only DOCX. No MT-reference bridge is generated unless the full DOCX output set is requested explicitly."
+        source_basis_note = f"- Source text: `{source_display}`. Translation work is made from the separate LXX deuterocanon/additions Greek source rows, not from an English base."
+        bridge_file_note = "Optional parity bridge for the separate deuterocanon source. The default Makefile target skips this file."
     else:
         bridge_note = f"`{mt_bridge_docx.name}` remaps OT milestones to standard English/MT references where a reliable mapping is available. NT TR source rows already use standard NT versification."
         source_basis_note = f"- Source text: `{source_display}` plus `{nt_source_display}`. OT translation work is made from the LXX Greek source rows; NT translation work is made from the Scrivener 1894 Textus Receptus Greek stream."
@@ -3283,16 +3620,44 @@ def build_readme(
         if crossrefs_enabled
         else "- Cross-references: omitted because `--no-crossrefs` was used."
     )
-    title = config["title_prefix"] if testament == "combined" else f"Fresh Translation {config['label']}"
+    title = config["title_prefix"] if testament in {"combined", "deuterocanon"} else f"Fresh Translation {config['label']}"
+    generated_files = [
+        f"- `{logos_docx.name}`: Logos Personal Book source. Compile as resource type `Bible`.",
+    ]
+    if docx_output_set == "all":
+        generated_files.extend(
+            [
+                f"- `{mt_bridge_docx.name}`: {bridge_file_note}",
+                f"- `{proof_docx.name}`: clean proofreading/printing copy without Logos milestone or field syntax.",
+            ]
+        )
+    generated_files.extend(
+        [
+            f"- `{diagnostics_path.name}`: build counts and cross-reference/note diagnostics.",
+            f"- `{preview_path.name}`: quick preview sample for spot-checking.",
+        ]
+    )
+    if testament in {"ot", "combined"}:
+        key_examples = chr(10).join(f"- {english_ref}: see {local_ref}." for english_ref, local_ref in REFERENCE_NUMBERING_GUIDE)
+    elif testament == "deuterocanon":
+        key_examples = "- Deuterocanon references follow imported source labels; suffix labels remain visible in the verse text."
+    else:
+        key_examples = "- No OT LXX/English numbering guide is needed for the NT-only file."
+    name_note_line = (
+        "- Name meanings: no deuterocanon name-meaning layer is enabled yet; proper-name notes can be added in a later deuterocanon note pass."
+        if testament == "deuterocanon"
+        else "- Name meanings: `data/proper_names.csv`, `data/proper_name_transliteration_notes.csv`, and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone."
+    )
+    name_caution_line = (
+        "- Name-meaning caution: not applicable until a deuterocanon name-meaning layer is enabled."
+        if testament == "deuterocanon"
+        else "- Name-meaning caution: many meanings are seeded from public-domain legacy sources such as Hitchcock's Bible Names Dictionary and are reader aids, not final etymological claims. Correct stronger lexical evidence should replace them as review continues."
+    )
     content = f"""# {title} Logos/Proofreading Files
 
 Generated files:
 
-- `{logos_docx.name}`: Logos Personal Book source. Compile as resource type `Bible`.
-- `{mt_bridge_docx.name}`: {bridge_file_note}
-- `{proof_docx.name}`: clean proofreading/printing copy without Logos milestone or field syntax.
-- `{diagnostics_path.name}`: build counts and cross-reference/note diagnostics.
-- `{preview_path.name}`: quick preview sample for spot-checking.
+{chr(10).join(generated_files)}
 
 Logos import:
 
@@ -3313,7 +3678,7 @@ Verse numbering:
 {verse_numbering_note}
 Key examples:
 
-{chr(10).join(f"- {english_ref}: see {local_ref}." for english_ref, local_ref in REFERENCE_NUMBERING_GUIDE) if testament in {"ot", "combined"} else "- No OT LXX/English numbering guide is needed for the NT-only file."}
+{key_examples}
 
 Scope:
 
@@ -3321,8 +3686,8 @@ Scope:
 {source_basis_note}
 - Book preface pages: `{book_intros_display}`. These are inserted before each book's chapter text in all generated DOCX files.
 {variant_note}
-- Name meanings: `data/proper_names.csv`, `data/proper_name_transliteration_notes.csv`, and `data/names_of_god.csv`. Proper-name notes and unambiguous multi-word divine-title notes are placed at the first exact occurrence per chapter. Ambiguous single-word divine-title notes remain source-reference anchored to avoid assigning the wrong source-language title from English alone.
-- Name-meaning caution: many meanings are seeded from public-domain legacy sources such as Hitchcock's Bible Names Dictionary and are reader aids, not final etymological claims. Correct stronger lexical evidence should replace them as review continues.
+{name_note_line}
+{name_caution_line}
 - Literal phrase convention: phrases such as `sons of Israel` and `sons of men` usually preserve Greek son-language intentionally rather than smoothing by default.
 {ot_shape_notes}
 {source_note}
@@ -3535,10 +3900,11 @@ def main() -> None:
         **name_note_counts,
         **{f"placement_{key}": value for key, value in name_note_placement_counts.items()},
     }
+    crossrefs_enabled = not args.no_crossrefs and args.testament != "deuterocanon"
     crossrefs, crossref_diag = build_crossrefs_for_verses(
         verses,
         args.testament,
-        enabled=not args.no_crossrefs,
+        enabled=crossrefs_enabled,
     )
     if not args.place_links or args.no_place_links:
         place_links: dict[str, PlaceLink] = {}
@@ -3585,7 +3951,7 @@ def main() -> None:
         footnote_number_restart=args.footnote_number_restart,
         place_links=place_links,
         place_link_pattern=place_link_pattern,
-        crossrefs_enabled=not args.no_crossrefs,
+        crossrefs_enabled=crossrefs_enabled,
         docx_compresslevel=args.docx_compresslevel,
     )
     if args.docx_output_set == "all":
@@ -3608,7 +3974,7 @@ def main() -> None:
             footnote_number_restart=args.footnote_number_restart,
             place_links=place_links,
             place_link_pattern=place_link_pattern,
-            crossrefs_enabled=not args.no_crossrefs,
+            crossrefs_enabled=crossrefs_enabled,
             docx_compresslevel=args.docx_compresslevel,
         )
         proof_stats = build_docx(
@@ -3630,7 +3996,7 @@ def main() -> None:
             footnote_number_restart=args.footnote_number_restart,
             place_links={},
             place_link_pattern=None,
-            crossrefs_enabled=not args.no_crossrefs,
+            crossrefs_enabled=crossrefs_enabled,
             docx_compresslevel=args.docx_compresslevel,
         )
     else:
@@ -3662,8 +4028,9 @@ def main() -> None:
         book_intros_path=args.book_intros,
         translation_decisions_path=args.translation_decisions,
         deuterocanonical_work=deuterocanonical_work,
-        crossrefs_enabled=not args.no_crossrefs,
+        crossrefs_enabled=crossrefs_enabled,
         place_links_enabled=bool(place_links),
+        docx_output_set=args.docx_output_set,
     )
     if args.skip_docx_validation:
         validations = [

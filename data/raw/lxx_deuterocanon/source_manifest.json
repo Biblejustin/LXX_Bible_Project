@@ -40,7 +40,7 @@
     }
   ],
   "imported_csv": "data/raw/lxx_deuterocanon/deuterocanon_full.csv",
-  "imported_csv_sha256": "e5d8f42a5222bd9d3fe7d3e82815d0740e566bc9b4a93f3cf365f1cd14cd9cd0",
+  "imported_csv_sha256": "5b44aca812c57c86ddac9fd7fe89631e73cd8f1969855eae3ed4d320c9e3fe94",
   "csv_columns": [
     "ref",
     "book_code",
@@ -56,11 +56,14 @@
   "missing_source_candidates_doc": "docs/DEUTEROCANON_MISSING_SOURCES.md",
   "pending_decisions_doc": "docs/DEUTEROCANON_PENDING_DECISIONS.md",
   "validation_command": "make validate-deuterocanon",
-  "translation_policy": "Importer-created rows start with blank draft_translation; reruns preserve existing draft translations when the reference and Greek source text still match. The GRCLXX package is the primary source; the public-domain eBible Brenton Greek package supplies Prayer of Manasseh and true 2 Maccabees rows absent from GRCLXX. Greek Ezra B / 2 Esdras is a canonical-overlap appendix stream and reuses the current Ezra draft text for its first draft while preserving its separate Greek source rows for review. This workspace starts from Greek source rows, not from an English base.",
+  "translation_policy": "Importer-created rows start with blank draft_translation; reruns preserve existing draft translations when the reference and Greek source text still match. The GRCLXX package is the primary source; the public-domain eBible Brenton Greek package supplies Prayer of Manasseh and true 2 Maccabees rows absent from GRCLXX. Greek Ezra B / 2 Esdras is a canonical-overlap appendix stream and preserves its separate Greek source rows for review. This workspace starts from Greek source rows, not from an English base. Additional appendix material is skipped unless a Greek source is present, or unless strong evidence for a Greek source behind the extant text is documented.",
   "diagnostics": {
-    "rows": 5970,
+    "rows": 6045,
     "book_count": 19,
     "source_note_rows": 4,
+    "plain_inline_verse_labels_split": 42,
+    "esther_addition_inline_labels_selected": 33,
+    "bracketed_source_text_rows": 23,
     "source_validation": {
       "checked_books": 19,
       "source_id_mismatches": [],
@@ -87,6 +90,9 @@
         "source_title_match": true,
         "rows": 245,
         "source_note_rows": 1,
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
         "note": "",
         "status": "imported"
       },
@@ -109,6 +115,9 @@
         "source_title_match": true,
         "rows": 339,
         "source_note_rows": 0,
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
         "note": "",
         "status": "imported"
       },
@@ -129,9 +138,12 @@
         "expected_title": "ΕΣΘΗΡ",
         "source_id_match": true,
         "source_title_match": true,
-        "rows": 219,
+        "rows": 253,
         "source_note_rows": 0,
-        "note": "Imported as full Greek Esther; `ESGA` separately provides an additions-only view from the suffixed rows.",
+        "plain_inline_verse_labels_split": 34,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
+        "note": "Imported as full Greek Esther; `ESGA` separately provides an additions-only view from the suffixed and inline-labeled rows.",
         "status": "imported"
       },
       "ESGA": {
@@ -141,7 +153,7 @@
         "source_url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
         "details_url": "https://ebible.org/details.php?id=grclxx",
         "source_file": "43-ESGgrclxx.usfm",
-        "source_scope": "verse_suffix",
+        "source_scope": "esther_additions",
         "chapter_filter": null,
         "source_usfm_id": "ESG",
         "expected_usfm_id": "ESG",
@@ -151,9 +163,12 @@
         "expected_title": "ΕΣΘΗΡ",
         "source_id_match": true,
         "source_title_match": true,
-        "rows": 55,
+        "rows": 88,
         "source_note_rows": 0,
-        "note": "Additions-only view derived from the suffixed rows in the full GRCLXX Greek Esther source; full Greek Esther remains imported as ESG.",
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 33,
+        "bracketed_source_text_rows": 0,
+        "note": "Additions-only view derived from the suffixed and inline-labeled rows in the full GRCLXX Greek Esther source; full Greek Esther remains imported as ESG.",
         "status": "imported"
       },
       "WIS": {
@@ -176,6 +191,9 @@
         "source_title_match": true,
         "rows": 437,
         "source_note_rows": 0,
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
         "note": "",
         "status": "imported"
       },
@@ -199,6 +217,9 @@
         "source_title_match": true,
         "rows": 1378,
         "source_note_rows": 1,
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 21,
         "note": "",
         "status": "imported"
       },
@@ -221,6 +242,9 @@
         "source_title_match": true,
         "rows": 141,
         "source_note_rows": 0,
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
         "note": "",
         "status": "imported"
       },
@@ -243,6 +267,9 @@
         "source_title_match": true,
         "rows": 72,
         "source_note_rows": 0,
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
         "note": "",
         "status": "imported"
       },
@@ -266,6 +293,9 @@
         "source_title_match": true,
         "rows": 66,
         "source_note_rows": 0,
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 2,
         "note": "",
         "status": "imported"
       },
@@ -288,6 +318,9 @@
         "source_title_match": true,
         "rows": 64,
         "source_note_rows": 0,
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
         "note": "",
         "status": "imported"
       },
@@ -311,6 +344,9 @@
         "source_title_match": true,
         "rows": 42,
         "source_note_rows": 0,
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
         "note": "",
         "status": "imported"
       },
@@ -331,8 +367,11 @@
         "expected_title": "ΜΑΚΚΑΒΑΙΩΝ Α",
         "source_id_match": true,
         "source_title_match": true,
-        "rows": 917,
+        "rows": 923,
         "source_note_rows": 0,
+        "plain_inline_verse_labels_split": 6,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
         "note": "",
         "status": "imported"
       },
@@ -355,6 +394,9 @@
         "source_title_match": true,
         "rows": 555,
         "source_note_rows": 0,
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
         "note": "Imported from the public-domain eBible Brenton Greek Septuagint package because the pinned GRCLXX package's 2MA file contains 4 Maccabees.",
         "status": "imported"
       },
@@ -375,8 +417,11 @@
         "expected_title": "ΕΣΔΡΑΣ Α",
         "source_id_match": true,
         "source_title_match": true,
-        "rows": 430,
+        "rows": 431,
         "source_note_rows": 0,
+        "plain_inline_verse_labels_split": 1,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
         "note": "",
         "status": "imported"
       },
@@ -399,7 +444,10 @@
         "source_title_match": true,
         "rows": 280,
         "source_note_rows": 0,
-        "note": "Greek Ezra B / 2 Esdras from the primary GRCLXX package; this overlaps canonical Ezra and is included for broad EO appendix coverage.",
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
+        "note": "Greek Ezra B / 2 Esdras from the primary GRCLXX package; this overlaps canonical Ezra and is included for broad EO appendix coverage. This is not the Latin apocalypse commonly titled 2 Esdras / 4 Ezra in some English traditions.",
         "status": "imported"
       },
       "MAN": {
@@ -422,6 +470,9 @@
         "source_title_match": true,
         "rows": 15,
         "source_note_rows": 0,
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
         "note": "Imported from the public-domain eBible Brenton Greek Septuagint package because Prayer of Manasseh is absent from the pinned GRCLXX package.",
         "status": "imported"
       },
@@ -442,8 +493,11 @@
         "expected_title": "ΜΑΚΚΑΒΑΙΩΝ Γ",
         "source_id_match": true,
         "source_title_match": true,
-        "rows": 227,
+        "rows": 228,
         "source_note_rows": 0,
+        "plain_inline_verse_labels_split": 1,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
         "note": "",
         "status": "imported"
       },
@@ -467,6 +521,9 @@
         "source_title_match": true,
         "rows": 481,
         "source_note_rows": 1,
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
         "note": "The source package filename/id says 2MA, but the book title is ΜΑΚΚΑΒΑΙΩΝ Δ / 4 Maccabees.",
         "status": "imported"
       },
@@ -489,6 +546,9 @@
         "source_title_match": true,
         "rows": 7,
         "source_note_rows": 1,
+        "plain_inline_verse_labels_split": 0,
+        "esther_addition_inline_labels_selected": 0,
+        "bracketed_source_text_rows": 0,
         "note": "Imported only Psalm 151 from the full Psalms source file.",
         "status": "imported"
       }
@@ -502,11 +562,12 @@
       }
     ],
     "draft_preservation": {
-      "candidate_rows": 5970,
-      "preserved_rows": 5970,
-      "preserved_esther_additions_rows": 55,
+      "candidate_rows": 6045,
+      "preserved_rows": 6045,
+      "candidate_esther_additions_segment_rows": 88,
+      "preserved_esther_additions_rows": 88,
       "preserved_canonical_overlap_rows": 280,
-      "existing_draft_rows": 28879
+      "existing_draft_rows": 28954
     }
   }
 }

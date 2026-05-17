@@ -88,6 +88,8 @@ def test_fresh_source_csv_shapes() -> None:
 
 
 def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
+    import build_fresh_logos_bible as logos_builder
+
     rows = csv_rows("data/raw/lxx_deuterocanon/deuterocanon_full.csv")
     progress_rows = csv_rows("output/deuterocanon/lxx_deuterocanon_progress.csv")
     manifest = json.loads((ROOT / "data/raw/lxx_deuterocanon/source_manifest.json").read_text(encoding="utf-8"))
@@ -109,7 +111,7 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     codes = {row["book_code"] for row in rows}
     progress_by_code = {row["book_code"]: row for row in progress_rows}
 
-    assert len(rows) == 5970
+    assert len(rows) == 6045
     assert SOURCE_COLUMNS <= set(rows[0])
     assert manifest["missing_source_candidates_doc"] == "docs/DEUTEROCANON_MISSING_SOURCES.md"
     assert manifest["pending_decisions_doc"] == "docs/DEUTEROCANON_PENDING_DECISIONS.md"
@@ -124,7 +126,7 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     assert "`docs/DEUTEROCANON_MISSING_SOURCES.md`" in inventory_markdown
     assert "`docs/DEUTEROCANON_PENDING_DECISIONS.md`" in inventory_markdown
     assert "`make validate-deuterocanon`" in inventory_markdown
-    assert len(drafted_refs) == 5970
+    assert len(drafted_refs) == 6045
     assert len(undrafted_refs) == 0
     assert {row["book_code"] for row in rows if not row["draft_translation"].strip()} == set()
     assert not [
@@ -133,10 +135,11 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
         if re.search(r"Source (?:descriptor|footnote)|Draft translation:|Greek:", row["draft_translation"])
     ]
     assert not [row["ref"] for row in rows if re.search(r"\\[a-z0-9]+", row["draft_translation"])]
+    assert not [row["ref"] for row in rows if re.search(r"[\u0370-\u03ff]", row["draft_translation"])]
     assert not [
         row["ref"]
         for row in rows
-        if re.search(r"[\u0370-\u03ff]", re.sub(r"\[[0-9]+[α-ω]\]", "", row["draft_translation"]))
+        if re.search(r"(?<!\[)\s\d+(?:[A-Za-zΑ-ωα-ω])?\s+", row["greek_text"])
     ]
     for relative_path in [
         "data/raw/lxx_deuterocanon/deuterocanon_full.csv",
@@ -171,6 +174,45 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     assert by_ref["Greek Esther Additions 1:1α"]["draft_translation"] == by_ref["Greek Esther 1:1α"][
         "draft_translation"
     ]
+    assert by_ref["Greek Esther 4:17"]["draft_translation"] == (
+        "And Mordecai went and did whatever Esther commanded him."
+    )
+    assert by_ref["Greek Esther 4:17α"]["draft_translation"].startswith(
+        "And he entreated the Lord"
+    )
+    assert by_ref["Greek Esther 9:21"]["draft_translation"].endswith(
+        "the fifteenth of Adar."
+    )
+    assert by_ref["Greek Esther 9:22"]["draft_translation"].startswith(
+        "For in these days the Jews rested"
+    )
+    assert by_ref["1 Maccabees 8:29"]["draft_translation"] == (
+        "According to these words the Romans established terms with the people of the Jews."
+    )
+    assert by_ref["1 Esdras 8:62"]["draft_translation"].startswith(
+        "And with him was Eleazar son of Phinehas"
+    )
+    assert by_ref["3 Maccabees 4:16"]["draft_translation"].startswith(
+        "And the king, greatly and continually filled with joy"
+    )
+    assert by_ref["Greek Esther Additions 4:17α"]["draft_translation"].startswith(
+        "And he entreated the Lord"
+    )
+    assert by_ref["Greek Esther Additions 4:17ω"]["draft_translation"].startswith(
+        "O God, the one strong over all"
+    )
+    assert by_ref["Greek Esther Additions 5:1α"]["draft_translation"].startswith(
+        "And having become splendid"
+    )
+    assert by_ref["Greek Esther Additions 5:2β"]["draft_translation"].startswith(
+        "And while she was speaking"
+    )
+    assert by_ref["Greek Esther Additions 10:3α"]["draft_translation"] == (
+        'And Mordecai said, "These things came from God.'
+    )
+    assert by_ref["Greek Esther Additions 10:3β"]["draft_translation"].startswith(
+        "For I remembered the dream"
+    )
     assert by_ref["Greek Esther Additions 10:3λ"]["draft_translation"] == by_ref["Greek Esther 10:3λ"][
         "draft_translation"
     ]
@@ -223,6 +265,9 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     assert manifest["diagnostics"]["draft_preservation"]["preserved_canonical_overlap_rows"] == 280
     assert manifest["diagnostics"]["rows"] == len(rows)
     assert manifest["diagnostics"]["source_note_rows"] == 4
+    assert manifest["diagnostics"]["plain_inline_verse_labels_split"] == 42
+    assert manifest["diagnostics"]["esther_addition_inline_labels_selected"] == 33
+    assert manifest["diagnostics"]["bracketed_source_text_rows"] == 23
     assert manifest["diagnostics"]["missing_targets"] == []
     assert "CrossWire LXX module" in missing_sources
     assert "CC-BY/open repo output" in missing_sources
@@ -236,8 +281,16 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     assert manifest["diagnostics"]["books"]["2MA"]["source_file"] == "53-2MAgrcbrent.usfm"
     assert manifest["diagnostics"]["books"]["MAN"]["source_key"] == "grcbrent"
     assert manifest["diagnostics"]["books"]["MAN"]["source_file"] == "55-MANgrcbrent.usfm"
-    assert manifest["diagnostics"]["books"]["ESGA"]["source_scope"] == "verse_suffix"
-    assert manifest["diagnostics"]["books"]["ESGA"]["rows"] == 55
+    assert manifest["diagnostics"]["books"]["ESG"]["rows"] == 253
+    assert manifest["diagnostics"]["books"]["ESG"]["plain_inline_verse_labels_split"] == 34
+    assert manifest["diagnostics"]["books"]["ESGA"]["source_scope"] == "esther_additions"
+    assert manifest["diagnostics"]["books"]["ESGA"]["rows"] == 88
+    assert manifest["diagnostics"]["books"]["ESGA"]["esther_addition_inline_labels_selected"] == 33
+    assert manifest["diagnostics"]["books"]["1MA"]["rows"] == 923
+    assert manifest["diagnostics"]["books"]["1ES"]["rows"] == 431
+    assert manifest["diagnostics"]["books"]["3MA"]["rows"] == 228
+    assert manifest["diagnostics"]["books"]["SIR"]["bracketed_source_text_rows"] == 21
+    assert manifest["diagnostics"]["books"]["S3Y"]["bracketed_source_text_rows"] == 2
     assert manifest["diagnostics"]["books"]["2ES"]["source_file"] == "58-2ESgrclxx.usfm"
     assert manifest["diagnostics"]["books"]["2ES"]["expected_title"] == "ΕΣΔΡΑΣ Β"
     assert manifest["diagnostics"]["books"]["2ES"]["rows"] == 280
@@ -248,6 +301,7 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     assert diagnostics["verse_rows"] == len(rows)
     assert diagnostics["verses_with_draft_translation"] == len(drafted_refs)
     assert diagnostics["book_rows"]["2 Maccabees"]["drafted_rows"] == 555
+    assert diagnostics["book_rows"]["Greek Esther Additions"]["drafted_rows"] == 88
     assert diagnostics["book_rows"]["2 Esdras"]["drafted_rows"] == 280
     assert diagnostics["book_rows"]["Prayer of Manasseh"]["drafted_rows"] == 15
     assert diagnostics["decision_rows"] == 0
@@ -270,6 +324,23 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     assert progress_by_code["MAN"]["status"] == "drafted"
     assert int(progress_by_code["MAN"]["remaining_rows"]) == 0
     assert progress_by_code["4MA"]["source_validation"] == "imported"
+    deuterocanon_verses = logos_builder.load_verses(ROOT / "data/raw/lxx_deuterocanon/deuterocanon_full.csv")
+    deuterocanon_by_ref = {verse.ref: verse for verse in deuterocanon_verses}
+    assert deuterocanon_by_ref["Greek Esther 1:1α"].chapter == 1
+    assert deuterocanon_by_ref["Greek Esther 1:1α"].verse == 1
+    assert deuterocanon_by_ref["Greek Esther 1:1α"].display_verse == "1α"
+    assert deuterocanon_by_ref["Greek Esther 1:1α"].logos_ref == "Esther 1:1"
+    assert deuterocanon_by_ref["Greek Esther Additions 4:17ω"].logos_ref == "Esther 4:17"
+    assert deuterocanon_by_ref["2 Esdras 1:1"].logos_ref == "2 Esdras 1:1"
+    assert deuterocanon_by_ref["Letter of Jeremiah 1:1"].logos_ref == "LJe 1:1"
+    assert logos_builder.should_suppress_logos_bible_milestone(deuterocanon_by_ref["2 Esdras 1:1"])
+    assert logos_builder.should_suppress_logos_bible_milestone(deuterocanon_by_ref["Tobit 6:19"])
+    assert logos_builder.should_suppress_logos_bible_milestone(deuterocanon_by_ref["4 Maccabees 12:20"])
+    assert not logos_builder.should_suppress_logos_bible_milestone(deuterocanon_by_ref["Tobit 1:1"])
+    assert not logos_builder.should_suppress_logos_bible_milestone(deuterocanon_by_ref["Letter of Jeremiah 1:1"])
+    assert logos_builder.TESTAMENT_CONFIG["deuterocanon"]["title_prefix"] == (
+        "The Greek Heritage Study Bible Deuterocanon"
+    )
     for book_code in sorted(codes):
         balance = 0
         quote_open = False
@@ -9327,7 +9398,7 @@ def test_print_proof_docx_uses_single_column_compact_layout_and_no_brenton_footn
     assert "<w:br/>" in document_xml
 
 
-def test_lulu_print_proof_pdf_profile_omits_prefaces() -> None:
+def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
     output_dir = ROOT / "output" / "print"
     docx_path = output_dir / "the_greek_heritage_study_bible_lulu_print_proof.docx"
     diagnostics = json.loads(
@@ -9341,25 +9412,57 @@ def test_lulu_print_proof_pdf_profile_omits_prefaces() -> None:
         document_xml = zf.read("word/document.xml").decode("utf-8")
         settings_xml = zf.read("word/settings.xml").decode("utf-8")
         styles_xml = zf.read("word/styles.xml").decode("utf-8")
+        footnotes_xml = zf.read("word/footnotes.xml").decode("utf-8")
 
     assert pdf_path.exists()
-    assert diagnostics["print_profile"]["book_prefaces"] == "excluded"
+    assert diagnostics["print_profile"]["book_prefaces"] == "included"
     assert diagnostics["print_profile"]["margin_profile"] == "lulu_pod_safe"
-    assert diagnostics["print_profile"]["type_profile"] == "lulu_tight_leading_9_5pt"
-    assert "inside 1.0 in" in diagnostics["print_profile"]["margins"]
-    assert diagnostics["book_prefaces"]["included"] is False
-    assert diagnostics["print_docx"]["book_preface_pages"] == 0
+    assert diagnostics["print_profile"]["type_profile"] == "docx_9_5pt; pandoc_pdf_8_75pt"
+    assert "inside 0.75 in" in diagnostics["print_profile"]["margins"]
+    assert "outside 0.5 in" in diagnostics["print_profile"]["margins"]
+    assert diagnostics["print_profile"]["verse_layout"] == "chapter-continuous run-in paragraphs"
+    assert diagnostics["book_prefaces"]["included"] is True
+    assert diagnostics["print_docx"]["book_preface_pages"] >= 66
+    assert diagnostics["print_docx"]["run_in_verse_paragraphs"] is True
+    assert diagnostics["print_docx"]["run_in_group_size"] == 0
+    assert diagnostics["print_docx"]["footnote_columns"] == 2
+    assert 2900 <= diagnostics["print_docx"]["pericope_heading_count"] <= 3100
+    assert 2900 <= diagnostics["pericope_headings"]["included"] <= 3100
     assert diagnostics["print_profile"]["layout"] == "compact_single_column"
+    assert diagnostics["print_profile"]["footnote_layout"].startswith("compact single-column PDF footnotes")
+    assert "Word-only two-column footnote hint" in diagnostics["print_profile"]["footnote_layout"]
+    assert "PDF stamping resets visible blue note numbers by page" in diagnostics["print_profile"]["alternate_pdf_renderer"]
+    assert "BSB-placement original headings included" in diagnostics["print_profile"]["pericope_headings"]
+    assert "Why This Draft Exists" in document_xml
+    assert "Rough Methodology" in document_xml
     assert diagnostics["print_profile"]["name_note_labels"] == "compact"
-    assert diagnostics["print_docx"]["crossref_footnotes"] == 0
-    assert 'w:left="1440"' in document_xml
-    assert 'w:right="1080"' in document_xml
+    assert diagnostics["print_profile"]["generated_crossrefs"] == "openbible_top_n"
+    assert diagnostics["minimal_crossrefs"]["profile"] == "openbible_top_n_print"
+    assert diagnostics["minimal_crossrefs"]["max_refs_per_note"] == 4
+    assert diagnostics["print_docx"]["crossref_footnotes"] > 27000
+    assert diagnostics["print_docx"]["verse_anchored_crossref_notes"] == diagnostics["print_docx"]["crossref_footnotes"]
+    assert "Creation of Heaven and Earth" in document_xml
+    assert "PericopeHeading" in styles_xml
+    assert 'w15:footnoteColumns w15:val="2"' in document_xml
+    assert 'w:left="1080"' in document_xml
+    assert 'w:right="720"' in document_xml
     assert 'w:top="720"' in document_xml
     assert 'w:bottom="720"' in document_xml
     assert "<w:mirrorMargins/>" in settings_xml
-    assert '<w:spacing w:before="0" w:after="0" w:line="205" w:lineRule="auto"/>' in styles_xml
+    assert '<w:spacing w:before="0" w:after="0" w:line="200" w:lineRule="auto"/>' in styles_xml
+    assert '<w:vertAlign w:val="superscript"/><w:b/><w:color w:val="1F4E79"/><w:sz w:val="17"/><w:szCs w:val="17"/>' in styles_xml
+    assert '<w:b/><w:color w:val="9B1C1C"/><w:sz w:val="21"/>' in styles_xml
+    assert '<w:vertAlign w:val="baseline"/><w:b/><w:color w:val="1F4E79"/><w:sz w:val="15"/><w:szCs w:val="13"/>' in footnotes_xml
+    assert '<w:b/><w:color w:val="9B1C1C"/>' in document_xml
+    assert '<w:szCs w:val="13"/>' in styles_xml
+    assert "—" not in footnotes_xml
+    assert "Std: Gomer. Src: Gomer." not in footnotes_xml
     assert "Lulu-safe mirrored POD margins" in readme
-    assert "Book preface pages excluded for POD page-count limits." in readme
+    assert "Lulu PDF build stamps page numbers and chapter/verse ranges" in readme
+    assert "the_greek_heritage_study_bible_lulu_print_proof_pdf_headers.json" in readme
+    assert "the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf" in readme
+    assert "Pandoc/XeLaTeX PDF with two-column footnotes" in readme
+    assert "Book preface pages included." in readme
 
 
 def test_logos_readmes_use_testament_specific_language() -> None:

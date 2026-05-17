@@ -77,6 +77,7 @@ make build-combined
 make build-combined-logos
 make build-print-proof
 make build-deuterocanon
+make build-deuterocanon-logos
 make release-combined
 ```
 
@@ -101,8 +102,8 @@ For a Lulu/POD upload proof that stays under common 800-page limits, run:
 make build-print-proof-lulu-pdf
 ```
 
-That target omits book preface pages and writes a Letter-size PDF under
-`output/print/`.
+That target includes the compact front matter and book preface pages, then writes
+a Letter-size PDF under `output/print/`.
 
 For fast NT iteration without touching committed release outputs:
 
@@ -133,6 +134,7 @@ For the separate LXX deuterocanon/additions workspace, run:
 ```bash
 make import-deuterocanon
 make build-deuterocanon
+make build-deuterocanon-logos
 make validate-deuterocanon
 make build-deuterocanon-book BOOK=Tobit
 ```
@@ -142,8 +144,8 @@ eBible Brenton Greek supplement for Prayer of Manasseh and true 2 Maccabees, int
 `data/raw/lxx_deuterocanon/deuterocanon_full.csv` and writes separate review
 artifacts and a progress dashboard under `output/deuterocanon/`. The existing
 GRCLXX rows, Greek Ezra B / 2 Esdras, Prayer of Manasseh, Greek Esther
-Additions, and true 2 Maccabees are drafted; review and polish remain separate
-from the source import.
+Additions, and true 2 Maccabees are drafted and have received a first polish
+pass. Continued proofreading remains separate from the source import.
 Importer reruns preserve existing draft translations when the reference and
 Greek source text still match.
 The deuterocanon worksheet uses `--no-review-data` so pre-existing OT/NT note
@@ -151,6 +153,9 @@ tables do not appear as if they belong to this separate workspace. Use
 `build-deuterocanon-book` for ignored one-book working outputs while reviewing
 or polishing a single book. Use `validate-deuterocanon` before handoff when
 only this workstream needs a focused rebuild and smoke check.
+`build-deuterocanon-logos` writes a separate Logos DOCX under
+`output/logos_deuterocanon/`. The compact print-proof targets do not include
+the deuterocanon/additions rows.
 
 If `make` is unavailable, run the commands listed in `Makefile` directly.
 
@@ -221,6 +226,10 @@ separately when the project is ready for broader contributors.
 - `output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx`
 - `output/logos_greek_heritage/the_greek_heritage_study_bible_diagnostics.json`
 - `output/logos_greek_heritage/README.md`
+- `output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_logos_bible.docx`
+- `output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_preview.md`
+- `output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_diagnostics.json`
+- `output/logos_deuterocanon/README.md`
 - `output/print/the_greek_heritage_study_bible_print_proof.docx`
 - `output/print/the_greek_heritage_study_bible_print_proof_diagnostics.json`
 - `output/print/README.md`

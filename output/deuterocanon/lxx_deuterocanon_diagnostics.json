@@ -1,12 +1,12 @@
 {
-  "verse_rows": 5970,
-  "verses_with_greek_text": 5970,
-  "verses_with_draft_translation": 5970,
+  "verse_rows": 6045,
+  "verses_with_greek_text": 6045,
+  "verses_with_draft_translation": 6045,
   "selected_scope": "Tobit-Psalms (19 books)",
-  "selected_verse_rows": 5970,
-  "selected_drafted_rows": 5970,
-  "output_verse_rows": 5970,
-  "output_drafted_rows": 5970,
+  "selected_verse_rows": 6045,
+  "selected_drafted_rows": 6045,
+  "output_verse_rows": 6045,
+  "output_drafted_rows": 6045,
   "book_count": 19,
   "book_rows": {
     "Tobit": {
@@ -18,12 +18,12 @@
       "drafted_rows": 339
     },
     "Greek Esther": {
-      "verse_rows": 219,
-      "drafted_rows": 219
+      "verse_rows": 253,
+      "drafted_rows": 253
     },
     "Greek Esther Additions": {
-      "verse_rows": 55,
-      "drafted_rows": 55
+      "verse_rows": 88,
+      "drafted_rows": 88
     },
     "Wisdom": {
       "verse_rows": 437,
@@ -54,16 +54,16 @@
       "drafted_rows": 42
     },
     "1 Maccabees": {
-      "verse_rows": 917,
-      "drafted_rows": 917
+      "verse_rows": 923,
+      "drafted_rows": 923
     },
     "2 Maccabees": {
       "verse_rows": 555,
       "drafted_rows": 555
     },
     "1 Esdras": {
-      "verse_rows": 430,
-      "drafted_rows": 430
+      "verse_rows": 431,
+      "drafted_rows": 431
     },
     "2 Esdras": {
       "verse_rows": 280,
@@ -74,8 +74,8 @@
       "drafted_rows": 15
     },
     "3 Maccabees": {
-      "verse_rows": 227,
-      "drafted_rows": 227
+      "verse_rows": 228,
+      "drafted_rows": 228
     },
     "4 Maccabees": {
       "verse_rows": 481,

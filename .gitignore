@@ -14,3 +14,6 @@ output/*.log
 output/*.out
 output/working/
 output/proper_name_*summary*.*
+output/print/**/*_raw.pdf
+output/print/cover/*_preview.png
+output/print/size_sweep/**/*.png

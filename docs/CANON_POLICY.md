@@ -31,11 +31,18 @@ eBible Brenton Greek Septuagint archive pinned at
 `draft_translation` column starts blank on first import, then importer reruns
 preserve existing draft rows when the reference and Greek source text still
 match. USFM source descriptors and footnotes are preserved as `syntax_notes`.
+Books or appendix materials are in scope only where a Greek source is present,
+or where there is strong evidence for a Greek source behind the extant text.
+Latin-only appendix material is skipped unless that Greek-source threshold is
+met and documented.
 That workspace currently includes Tobit, Judith, Greek Esther, Wisdom, Sirach,
 Baruch, Letter of Jeremiah, Song of the Three Young Men, Susanna, Bel and the
 Dragon, 1-4 Maccabees, 1 Esdras, Greek Ezra B / 2 Esdras, Prayer of Manasseh,
 Psalm 151, and a separate Greek Esther Additions view derived from the suffixed
-GRCLXX Greek Esther rows.
+and inline-labeled GRCLXX Greek Esther rows.
+Plain embedded verse labels in the Greek source are split into separate rows
+when they mark a distinct verse; bracketed source-text sections remain bracketed
+in the imported Greek and draft text.
 The pinned GRCLXX package contains a file named 2MA, but its title and content
 identify it as 4 Maccabees, so this workspace labels it by content and imports
 true 2 Maccabees from the Brenton Greek supplement.

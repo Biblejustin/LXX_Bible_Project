@@ -3,7 +3,7 @@
 This note records source candidates checked for books previously missing from
 the separate Greek deuterocanon workspace.
 
-## Current Missing Targets
+## Current Source Gaps
 
 | Code | Book | Current status |
 | --- | --- | --- |
@@ -24,4 +24,7 @@ the separate Greek deuterocanon workspace.
 
 ## Next Work
 
-Review and polish MAN, 2MA, and 2ES from the imported Greek rows.
+Prayer of Manasseh, true 2 Maccabees, and Greek Ezra B / 2 Esdras have been
+sourced, drafted, and given a first polish pass from the imported Greek rows.
+Do not add further appendix material unless a Greek source is present, or unless
+strong evidence for a Greek source behind the extant text is documented.
