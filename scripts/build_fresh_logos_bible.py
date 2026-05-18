@@ -758,6 +758,9 @@ INTERNAL_NOTE_SENTENCE_PATTERNS = (
     re.compile(r"\s*Direct Logos export [^.]+\."),
     re.compile(r"\s*Local Logos word-sense evidence supports [^.]+\."),
 )
+MECHANICAL_REVIEW_NOTE_RE = re.compile(
+    r"^(?:Article review|Cross-reference review) supplied\b"
+)
 
 
 def reader_facing_note_text(value: str) -> str:
@@ -767,6 +770,40 @@ def reader_facing_note_text(value: str) -> str:
     for pattern in INTERNAL_NOTE_SENTENCE_PATTERNS:
         text_value = pattern.sub("", text_value)
     return normalize_space(text_value)
+
+
+def is_mechanical_review_note(note: TranslationNote) -> bool:
+    return (
+        note.note_type == "translation"
+        and MECHANICAL_REVIEW_NOTE_RE.match(normalize_space(note.text)) is not None
+    )
+
+
+def filter_reader_facing_translation_notes(
+    notes: dict[str, list[TranslationNote]],
+) -> tuple[dict[str, list[TranslationNote]], dict[str, int]]:
+    filtered: dict[str, list[TranslationNote]] = {}
+    counts = Counter(
+        {
+            "input_refs": len(notes),
+            "input_notes": sum(len(items) for items in notes.values()),
+        }
+    )
+    skipped_variants: set[str] = set()
+    for ref, items in notes.items():
+        kept: list[TranslationNote] = []
+        for note in items:
+            if is_mechanical_review_note(note):
+                counts["skipped_mechanical_review_notes"] += 1
+                skipped_variants.add(normalize_space(note.text))
+                continue
+            kept.append(note)
+            counts["included_notes"] += 1
+        if kept:
+            filtered[ref] = kept
+    counts["included_refs"] = len(filtered)
+    counts["skipped_mechanical_review_note_variants"] = len(skipped_variants)
+    return filtered, dict(counts)
 
 
 def normalize_note_ref(ref: str) -> str:
@@ -2012,6 +2049,29 @@ def expand_intro_date(value: str) -> str:
     return INTRO_DATE_RANGES.get(stripped, stripped)
 
 
+def intro_date_sort_year(value: str) -> int:
+    text = expand_intro_date(value).replace("–", "-")
+    candidates: list[int] = []
+    century_phrase_re = re.compile(
+        r"((?:early|mid|late|to|and|[-\s]|\d+(?:st|nd|rd|th))+)"
+        r"\s+centur(?:y|ies)\s*(BC|AD)",
+        re.I,
+    )
+    for phrase, era in century_phrase_re.findall(text):
+        for ordinal in re.findall(r"\d+(?=st|nd|rd|th)", phrase, flags=re.I):
+            century = int(ordinal)
+            candidates.append(-century * 100 if era.upper() == "BC" else (century - 1) * 100)
+    for left, _right in re.findall(r"\b(\d{2,4})\s*-\s*(\d{1,4})\s*BC\b", text, flags=re.I):
+        candidates.append(-int(left))
+    for year in re.findall(r"\b(\d{2,4})\s*BC\b", text, flags=re.I):
+        candidates.append(-int(year))
+    for left, _right in re.findall(r"\bAD\s*(\d{1,4})\s*-\s*(\d{1,4})\b", text, flags=re.I):
+        candidates.append(int(left))
+    for year in re.findall(r"\bAD\s*(\d{1,4})\b", text, flags=re.I):
+        candidates.append(int(year))
+    return min(candidates) if candidates else 999999
+
+
 def compact_intro_groups(row: dict[str, str]) -> list[tuple[str, str]]:
     def cell(key: str) -> str:
         value = row.get(key, "").strip()
@@ -2025,15 +2085,18 @@ def compact_intro_groups(row: dict[str, str]) -> list[tuple[str, str]]:
         values = [cell(key) for key in keys if cell(key)]
         return " ".join(values).strip()
 
-    witnesses: list[str] = []
-    if parts("oldest_fragment", "oldest_fragment_date"):
-        witnesses.append("Frag. " + parts("oldest_fragment", "oldest_fragment_date"))
-    if parts("oldest_substantial_manuscript", "oldest_substantial_date"):
-        witnesses.append("Subst. " + parts("oldest_substantial_manuscript", "oldest_substantial_date"))
-    if parts("oldest_complete_hebrew", "oldest_complete_hebrew_date"):
-        witnesses.append("Heb. " + parts("oldest_complete_hebrew", "oldest_complete_hebrew_date"))
-    if parts("oldest_complete_greek", "oldest_complete_greek_date"):
-        witnesses.append("Gk. " + parts("oldest_complete_greek", "oldest_complete_greek_date"))
+    witnesses: list[tuple[int, int, str]] = []
+
+    def add_witness(label: str, text_key: str, date_key: str) -> None:
+        value = parts(text_key, date_key)
+        if value:
+            witnesses.append((intro_date_sort_year(row.get(date_key, "")), len(witnesses), f"{label} {value}"))
+
+    add_witness("Frag.", "oldest_fragment", "oldest_fragment_date")
+    add_witness("Subst.", "oldest_substantial_manuscript", "oldest_substantial_date")
+    add_witness("Heb.", "oldest_complete_hebrew", "oldest_complete_hebrew_date")
+    add_witness("Gk.", "oldest_complete_greek", "oldest_complete_greek_date")
+    witness_text = " | ".join(item[2] for item in sorted(witnesses)).strip()
 
     external: list[str] = []
     if row.get("oldest_external_reference", "").strip():
@@ -2054,7 +2117,7 @@ def compact_intro_groups(row: dict[str, str]) -> list[tuple[str, str]]:
         ("Purpose", parts("purpose_theme")),
         ("Key Themes", parts("key_themes")),
         ("Outline", parts("outline")),
-        ("Earliest Witnesses", " | ".join(witnesses).strip()),
+        ("Earliest Witnesses", witness_text),
         ("Earliest External Attestation", " ".join(external).strip()),
         ("Textual Notes", parts("textual_notes")),
         ("Conservative Notes", parts("conservative_notes")),
@@ -3758,6 +3821,8 @@ def build_diagnostics(
     variant_decision_counts: dict[str, int],
     textual_export_counts: dict[str, object],
     notes: dict[str, list[TranslationNote]],
+    reader_notes: dict[str, list[TranslationNote]],
+    reader_note_filter_counts: dict[str, int],
     book_intro_diag: dict[str, object],
     deuterocanonical_work: dict[str, object],
     name_note_counts: dict[str, int],
@@ -3775,7 +3840,8 @@ def build_diagnostics(
     place_link_diag: dict[str, object],
 ) -> dict[str, object]:
     book_counts = Counter(verse.book_code for verse in verses)
-    included_note_total = sum(len(items) for items in notes.values())
+    included_note_total = sum(len(items) for items in reader_notes.values())
+    source_note_total = sum(len(items) for items in notes.values())
     included_name_note_total = sum(len(items) for items in name_notes.values())
     included_supplemental_note_total = sum(len(items) for items in supplemental_notes.values())
     return {
@@ -3784,9 +3850,12 @@ def build_diagnostics(
         "book_count": len(book_counts),
         "book_counts": dict(book_counts),
         "translation_note_filter": note_counts,
+        "reader_facing_translation_note_filter": reader_note_filter_counts,
         "translation_decision_filter": variant_decision_counts,
         "textual_note_export": textual_export_counts,
-        "included_translation_note_refs": len(notes),
+        "source_translation_note_refs": len(notes),
+        "source_translation_note_total": source_note_total,
+        "included_translation_note_refs": len(reader_notes),
         "included_translation_note_total": included_note_total,
         "book_prefaces": book_intro_diag,
         "deuterocanonical_future_work": deuterocanonical_work,
@@ -3893,6 +3962,7 @@ def main() -> None:
         merge_translation_notes(base_notes, textual_export_notes),
         verses,
     )
+    reader_notes, reader_note_filter_counts = filter_reader_facing_translation_notes(notes)
     book_intros, book_intro_diag = load_book_intros(args.book_intros)
     deuterocanonical_work = (
         deuterocanonical_future_work(book_intros, verses)
@@ -3948,7 +4018,7 @@ def main() -> None:
         description=config["description"],
         testament=args.testament,
         verses=verses,
-        translation_notes=notes,
+        translation_notes=reader_notes,
         name_notes=name_notes,
         supplemental_notes=supplemental_notes,
         crossrefs=crossrefs,
@@ -4020,7 +4090,7 @@ def main() -> None:
             milestone_mode="lxx",
             footnote_number_restart=args.footnote_number_restart,
         )
-    build_preview(args.preview, verses, notes, supplemental_notes, crossrefs, config["preview_title"])
+    build_preview(args.preview, verses, reader_notes, supplemental_notes, crossrefs, config["preview_title"])
     build_readme(
         args.readme,
         testament=args.testament,
@@ -4062,6 +4132,8 @@ def main() -> None:
         variant_decision_counts=variant_decision_counts,
         textual_export_counts=textual_export_counts,
         notes=notes,
+        reader_notes=reader_notes,
+        reader_note_filter_counts=reader_note_filter_counts,
         book_intro_diag=book_intro_diag,
         deuterocanonical_work=deuterocanonical_work,
         name_note_counts=name_note_counts,

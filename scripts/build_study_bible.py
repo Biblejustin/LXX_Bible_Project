@@ -1490,6 +1490,29 @@ def expand_intro_date(value: str) -> str:
     return INTRO_DATE_RANGES.get(stripped, stripped)
 
 
+def intro_date_sort_year(value: str) -> int:
+    text = expand_intro_date(value).replace("–", "-")
+    candidates: List[int] = []
+    century_phrase_re = re.compile(
+        r"((?:early|mid|late|to|and|[-\s]|\d+(?:st|nd|rd|th))+)"
+        r"\s+centur(?:y|ies)\s*(BC|AD)",
+        re.I,
+    )
+    for phrase, era in century_phrase_re.findall(text):
+        for ordinal in re.findall(r"\d+(?=st|nd|rd|th)", phrase, flags=re.I):
+            century = int(ordinal)
+            candidates.append(-century * 100 if era.upper() == "BC" else (century - 1) * 100)
+    for left, _right in re.findall(r"\b(\d{2,4})\s*-\s*(\d{1,4})\s*BC\b", text, flags=re.I):
+        candidates.append(-int(left))
+    for year in re.findall(r"\b(\d{2,4})\s*BC\b", text, flags=re.I):
+        candidates.append(-int(year))
+    for left, _right in re.findall(r"\bAD\s*(\d{1,4})\s*-\s*(\d{1,4})\b", text, flags=re.I):
+        candidates.append(int(left))
+    for year in re.findall(r"\bAD\s*(\d{1,4})\b", text, flags=re.I):
+        candidates.append(int(year))
+    return min(candidates) if candidates else 999999
+
+
 def compact_intro_groups(row: Dict[str, str]) -> List[Tuple[str, str]]:
     def cell(key: str) -> str:
         value = row.get(key, "").strip()
@@ -1503,15 +1526,18 @@ def compact_intro_groups(row: Dict[str, str]) -> List[Tuple[str, str]]:
         values = [cell(key) for key in keys if cell(key)]
         return " ".join(values).strip()
 
-    witnesses = []
-    if parts("oldest_fragment", "oldest_fragment_date"):
-        witnesses.append("Frag. " + parts("oldest_fragment", "oldest_fragment_date"))
-    if parts("oldest_substantial_manuscript", "oldest_substantial_date"):
-        witnesses.append("Subst. " + parts("oldest_substantial_manuscript", "oldest_substantial_date"))
-    if parts("oldest_complete_hebrew", "oldest_complete_hebrew_date"):
-        witnesses.append("Heb. " + parts("oldest_complete_hebrew", "oldest_complete_hebrew_date"))
-    if parts("oldest_complete_greek", "oldest_complete_greek_date"):
-        witnesses.append("Gk. " + parts("oldest_complete_greek", "oldest_complete_greek_date"))
+    witnesses: List[Tuple[int, int, str]] = []
+
+    def add_witness(label: str, text_key: str, date_key: str) -> None:
+        value = parts(text_key, date_key)
+        if value:
+            witnesses.append((intro_date_sort_year(row.get(date_key, "")), len(witnesses), f"{label} {value}"))
+
+    add_witness("Frag.", "oldest_fragment", "oldest_fragment_date")
+    add_witness("Subst.", "oldest_substantial_manuscript", "oldest_substantial_date")
+    add_witness("Heb.", "oldest_complete_hebrew", "oldest_complete_hebrew_date")
+    add_witness("Gk.", "oldest_complete_greek", "oldest_complete_greek_date")
+    witness_text = " | ".join(item[2] for item in sorted(witnesses)).strip()
 
     external = []
     if row.get("oldest_external_reference", "").strip():
@@ -1532,7 +1558,7 @@ def compact_intro_groups(row: Dict[str, str]) -> List[Tuple[str, str]]:
         ("Purpose", parts("purpose_theme")),
         ("Key Themes", parts("key_themes")),
         ("Outline", parts("outline")),
-        ("Earliest Witnesses", " | ".join(witnesses).strip()),
+        ("Earliest Witnesses", witness_text),
         ("Earliest External Attestation", " ".join(external).strip()),
         ("Textual Notes", parts("textual_notes")),
         ("Conservative Notes", parts("conservative_notes")),

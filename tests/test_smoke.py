@@ -626,6 +626,35 @@ def test_known_release_blocker_fixes_stay_fixed() -> None:
         assert "James 9:12" not in text
 
 
+def test_book_intro_external_attestations_name_source_item() -> None:
+    rows = csv_rows("data/book_intros_template.csv")
+    by_code = {row["book_code"]: row for row in rows}
+
+    assert by_code["2JN"]["oldest_external_reference"] == "Against Heresies 1.16.3"
+    assert by_code["2JN"]["oldest_external_reference_author"] == "Irenaeus"
+    assert by_code["REV"]["oldest_external_reference"] == "Dialogue with Trypho and Against Heresies"
+    assert by_code["ROM"]["oldest_external_reference"] == "1 Clement"
+    assert by_code["1PE"]["oldest_external_reference"] == "Polycarp to the Philippians"
+
+    for row in rows:
+        external = row["oldest_external_reference"].casefold()
+        assert "likely attested by " not in external
+        assert "likely echoed by " not in external
+        assert "clear attestation in " not in external
+
+
+def test_book_intro_earliest_witnesses_sort_oldest_to_newest() -> None:
+    import build_fresh_logos_bible as logos_builder
+
+    for row in csv_rows("data/book_intros_template.csv"):
+        groups = dict(logos_builder.compact_intro_groups(row))
+        witness_text = groups.get("Earliest Witnesses", "")
+        if not witness_text:
+            continue
+        years = [logos_builder.intro_date_sort_year(item) for item in witness_text.split(" | ")]
+        assert years == sorted(years), (row["book_code"], witness_text, years)
+
+
 def test_reviewed_phrase_guards_match_source() -> None:
     rows_by_testament = {
         "ot": {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")},
@@ -9414,6 +9443,7 @@ def test_print_proof_docx_uses_single_column_compact_layout_and_no_brenton_footn
     assert '<w:pStyle w:val="Heading2"/>' in document_xml
     assert "Brenton note:" not in footnotes_xml
     assert "Cross-references for " not in footnotes_xml
+    assert "Article review supplied" not in footnotes_xml
     assert "Translation note:" not in footnotes_xml
     assert "Textual note:" not in footnotes_xml
     assert "Hebrew divine name/title:" not in footnotes_xml
@@ -9426,11 +9456,10 @@ def test_print_proof_docx_uses_single_column_compact_layout_and_no_brenton_footn
     assert "Personal name:" not in footnotes_xml
     assert "Place-name meaning:" not in footnotes_xml
     assert "People-name meaning:" not in footnotes_xml
-    assert "> T:" in footnotes_xml
+    assert "T:" in footnotes_xml
     assert "Heb:" in footnotes_xml
     assert "Gk:" in footnotes_xml
     assert "Tr:" in footnotes_xml
-    assert "Src:" in footnotes_xml
     assert "Nm:" in footnotes_xml
     assert "Pn:" in footnotes_xml
     assert "Note Label Legend" in document_xml
@@ -9475,6 +9504,7 @@ def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
     assert diagnostics["print_docx"]["run_in_verse_paragraphs"] is True
     assert diagnostics["print_docx"]["run_in_group_size"] == 0
     assert diagnostics["print_docx"]["footnote_columns"] == 2
+    assert diagnostics["reader_facing_translation_note_filter"]["skipped_mechanical_review_notes"] == 68
     assert 2900 <= diagnostics["print_docx"]["pericope_heading_count"] <= 3100
     assert 2900 <= diagnostics["pericope_headings"]["included"] <= 3100
     assert diagnostics["print_profile"]["layout"] == "compact_single_column"
@@ -9506,6 +9536,7 @@ def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
     assert '<w:b/><w:color w:val="9B1C1C"/>' in document_xml
     assert '<w:szCs w:val="13"/>' in styles_xml
     assert "—" not in footnotes_xml
+    assert "Article review supplied" not in footnotes_xml
     assert "Std: Gomer. Src: Gomer." not in footnotes_xml
     assert "Lulu-safe mirrored POD margins" in readme
     assert "Lulu PDF build stamps page numbers and chapter/verse ranges" in readme
@@ -9852,6 +9883,26 @@ def test_combined_fresh_translation_contains_ot_then_nt() -> None:
     assert diagnostics["total_book_count"] == 66
     assert diagnostics["output"].endswith("the_greek_heritage_study_bible.md")
     assert diagnostics["translation_only_output"].endswith("the_greek_heritage_study_bible_translation_only.md")
+
+
+def test_combined_logos_reader_output_suppresses_mechanical_review_notes() -> None:
+    output_dir = ROOT / "output" / "logos_greek_heritage"
+    diagnostics = json.loads(
+        (output_dir / "the_greek_heritage_study_bible_diagnostics.json").read_text(
+            encoding="utf-8"
+        )
+    )
+    with zipfile.ZipFile(output_dir / "the_greek_heritage_study_bible_logos_bible.docx") as zf:
+        logos_footnotes = zf.read("word/footnotes.xml").decode("utf-8")
+    with zipfile.ZipFile(output_dir / "the_greek_heritage_study_bible_reference_notes.docx") as zf:
+        reference_footnotes = zf.read("word/footnotes.xml").decode("utf-8")
+    with zipfile.ZipFile(output_dir / "the_greek_heritage_study_bible_proofreading.docx") as zf:
+        proof_footnotes = zf.read("word/footnotes.xml").decode("utf-8")
+
+    assert diagnostics["reader_facing_translation_note_filter"]["skipped_mechanical_review_notes"] == 68
+    assert "Article review supplied" not in logos_footnotes
+    assert "Article review supplied" in reference_footnotes
+    assert "Article review supplied" in proof_footnotes
 
 
 def test_combined_release_manifest_and_checksums_cover_outputs() -> None:

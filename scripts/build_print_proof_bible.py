@@ -599,6 +599,7 @@ def main() -> None:
         builder.merge_translation_notes(base_notes, textual_export_notes),
         verses,
     )
+    notes, reader_note_filter_counts = builder.filter_reader_facing_translation_notes(notes)
     source_name_notes, name_note_counts = builder.load_name_meaning_notes(
         proper_names_path=args.proper_names,
         transliterated_proper_names_path=args.transliterated_proper_names,
@@ -724,6 +725,7 @@ def main() -> None:
         "verse_rows": len(verses),
         "book_count": len({verse.book_code for verse in verses}),
         "translation_note_filter": note_counts,
+        "reader_facing_translation_note_filter": reader_note_filter_counts,
         "translation_decision_filter": variant_decision_counts,
         "textual_note_export": textual_export_counts,
         "included_translation_note_refs": len(notes),

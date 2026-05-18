@@ -15,9 +15,10 @@
   },
   "rows": {
     "preserved_existing": 90,
-    "generated": 2950,
+    "generated": 2893,
     "chapter_fallback": 4,
-    "rows": 3040,
+    "skipped_generic_heading": 57,
+    "rows": 2983,
     "bsb_refs": 3086,
     "bsb_refs_directly_mapped": 3036,
     "bsb_refs_not_in_project_verses": 50,

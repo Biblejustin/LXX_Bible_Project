@@ -87,12 +87,23 @@ TITLE_FIXES = {
     "Joseph": "Joseph",
     "LORD": "Lord",
 }
+ROMAN_NUMERAL_RE = re.compile(r"[ivxlcdm]+", re.I)
+GENERIC_SAYING_HEADING_RE = re.compile(
+    r"^(?:Thirty Sayings of the Wise|Saying \d+)$",
+    re.I,
+)
+USFM_WORD_TAG_RE = re.compile(r"\\w\s+([^|\\]+)(?:\|[^\\]*)?\\w\*")
+SONG_SPEAKER_HEADING_RE = re.compile(
+    r"^(?:the\s+)?(?:bride|bridegroom|friends)$",
+    re.I,
+)
 BOOK_NAME_ALIASES = {
     "Song": "Song of Solomon",
 }
 SOURCE_HEADING_REPLACEMENTS = {
     "God Arraigns Adam and Eve": "God Calls Adam and Eve",
     "The Punishment of Mankind": "Judgment on Humanity",
+    "Admiration by the Bridegroom": "Return, Shulammite",
 }
 
 
@@ -182,6 +193,7 @@ def bsb_section_heading_refs(path: Path, wanted_books: set[str]) -> tuple[dict[s
 
 
 def clean_for_heading(value: str) -> str:
+    value = USFM_WORD_TAG_RE.sub(r"\1", value)
     value = re.sub(r"\[[^\]]+\]", "", value)
     value = re.sub(r"\s+", " ", value)
     value = value.strip(" \"'.,;:!?")
@@ -204,6 +216,8 @@ def clean_for_heading(value: str) -> str:
 
 def title_case_word(word: str, *, first: bool) -> str:
     bare = re.sub(r"[^A-Za-z]", "", word)
+    if bare and ROMAN_NUMERAL_RE.fullmatch(bare):
+        return re.sub(re.escape(bare), bare.upper(), word, flags=re.I)
     if not first and bare.lower() in SMALL_TITLE_WORDS:
         return word.lower()
     if word.lower().endswith("'s") and len(word) > 2:
@@ -239,13 +253,31 @@ def heading_from_text(text: str) -> str:
 
 def reword_source_heading(value: str) -> str:
     value = value.replace("’", "'")
+    value = USFM_WORD_TAG_RE.sub(r"\1", value)
     value = re.sub(r"\s+", " ", value).strip(" \"'.,;:!?")
     value = SOURCE_HEADING_REPLACEMENTS.get(value, value)
+    parts = [
+        part.strip()
+        for part in value.split("/")
+        if part.strip() and not GENERIC_SAYING_HEADING_RE.fullmatch(part.strip())
+    ]
+    if not parts:
+        return ""
+    value = " / ".join(parts)
     if value.startswith("The ") and not value.startswith("The Lord"):
         value = value.removeprefix("The ")
     value = value.replace("LORD", "Lord")
     value = title_case(value)
     return value[:80].rstrip()
+
+
+def remove_song_speaker_only_parts(value: str) -> str:
+    parts = [
+        part.strip()
+        for part in value.split("/")
+        if part.strip() and not SONG_SPEAKER_HEADING_RE.fullmatch(part.strip())
+    ]
+    return " / ".join(parts).strip()
 
 
 def chapter_key_from_ref(ref: str) -> str:
@@ -282,6 +314,11 @@ def build_rows(
             counts["preserved_existing"] += 1
         else:
             heading = heading_from_text(text_by_ref[ref]) if ref in fallback_refs else reword_source_heading(bsb_headings[ref])
+            if ref.startswith("Song of Solomon "):
+                heading = remove_song_speaker_only_parts(heading)
+            if not heading:
+                counts["skipped_generic_heading"] += 1
+                continue
             row = {
                 "ref": ref,
                 "heading": heading,

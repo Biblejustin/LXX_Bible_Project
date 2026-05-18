@@ -2,14 +2,22 @@
   "verse_rows": 30866,
   "book_count": 66,
   "translation_note_filter": {
-    "rows": 25256,
-    "included": 4017,
+    "rows": 25257,
+    "included": 4018,
     "included_mt_lxx_difference_notes": 331,
     "skipped_unreviewed": 1893,
     "skipped_generic_mt_lxx_without_concrete_detail": 9155,
     "included_concrete_mt_lxx_details": 3,
     "skipped_generic_or_brenton_only": 10082,
     "skipped_note_type": 109
+  },
+  "reader_facing_translation_note_filter": {
+    "input_refs": 3902,
+    "input_notes": 4013,
+    "included_notes": 3945,
+    "skipped_mechanical_review_notes": 68,
+    "included_refs": 3834,
+    "skipped_mechanical_review_note_variants": 60
   },
   "translation_decision_filter": {
     "present": 1,
@@ -25,8 +33,8 @@
     "included_refs": 0,
     "included_total": 0
   },
-  "included_translation_note_refs": 3901,
-  "included_translation_note_total": 4012,
+  "included_translation_note_refs": 3834,
+  "included_translation_note_total": 3945,
   "book_prefaces": {
     "present": true,
     "path": "/Users/justinscaggs/Documents/Codex_bible/data/book_intros_template.csv",
@@ -65,8 +73,8 @@
   "pericope_headings": {
     "enabled": true,
     "path": "/Users/justinscaggs/Documents/Codex_bible/data/research/print_pericope_headings.csv",
-    "rows": 3040,
-    "included": 3040,
+    "rows": 2983,
+    "included": 2983,
     "skipped": {},
     "license_policy": "Pericope placement and semantic seed come from the public-domain Berean Standard Bible source; output headings are project-normalized/reworded, with no NKJV or copyrighted modern heading source."
   },
@@ -113,7 +121,7 @@
     "verse_layout": "chapter-continuous run-in paragraphs",
     "footnote_layout": "active Pandoc PDF uses two-column footnotes; TeX-side page-local note numbers; green cross-reference letters; 7.5pt Latin text; 6.5pt complex-script text; 8.5pt note markers",
     "alternate_pdf_renderer": "Pandoc/XeLaTeX is the active full-size print proof renderer; LibreOffice PDF output is disabled for print proof",
-    "pericope_headings": "3040 BSB-placement original headings included",
+    "pericope_headings": "2983 BSB-placement original headings included",
     "margins": "mirrored; inside 0.75 in; outside 0.5 in; top/bottom 0.5 in",
     "book_prefaces": "included",
     "brenton_supplemental_notes": "excluded",
@@ -130,26 +138,26 @@
   "print_docx": {
     "output_kind": "print_proof",
     "milestone_mode": "lxx",
-    "paragraph_count": 8217,
+    "paragraph_count": 8103,
     "run_in_verse_paragraphs": true,
     "run_in_group_size": 0,
-    "pericope_heading_count": 3040,
+    "pericope_heading_count": 2983,
     "footnote_columns": 2,
-    "footnote_count": 34644,
+    "footnote_count": 34577,
     "crossref_footnotes": 27820,
-    "translation_note_footnotes": 4012,
+    "translation_note_footnotes": 3945,
     "section_break_count": 0,
     "footnote_number_restart": "page",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
-    "phrase_anchored_translation_notes": 3150,
-    "verse_anchored_translation_notes": 862,
+    "phrase_anchored_translation_notes": 3110,
+    "verse_anchored_translation_notes": 835,
     "name_meaning_footnotes": 2812,
     "supplemental_note_footnotes": 0,
     "brenton_supplemental_footnotes": 0,
     "textual_note_export_footnotes": 0,
-    "phrase_anchored_name_meaning_notes": 2664,
-    "verse_anchored_name_meaning_notes": 148,
+    "phrase_anchored_name_meaning_notes": 2662,
+    "verse_anchored_name_meaning_notes": 150,
     "phrase_anchored_crossref_notes": 0,
     "verse_anchored_crossref_notes": 27820,
     "custom_marked_crossref_notes": 0,
@@ -181,8 +189,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 34644,
-      "footnote_body_count": 34644
+      "footnote_reference_count": 34577,
+      "footnote_body_count": 34577
     }
   ],
   "outputs": {

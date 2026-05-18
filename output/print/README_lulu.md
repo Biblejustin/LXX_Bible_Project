@@ -20,7 +20,7 @@ Profile:
 - Verse layout: chapter-continuous run-in paragraphs.
 - Footnote layout: active Pandoc PDF uses two-column footnotes; TeX-side page-local note numbers; green cross-reference letters; 7.5pt Latin text; 6.5pt complex-script text; 8.5pt note markers.
 - Alternate PDF renderer: Pandoc/XeLaTeX is the active full-size print proof renderer; LibreOffice PDF output is disabled for print proof.
-- Pericope headings: 3040 BSB-placement original headings included.
+- Pericope headings: 2983 BSB-placement original headings included.
 - Front preface pages discuss the purpose of the draft and rough translation methodology.
 - Executive PDF profile abandoned; it did not save enough size versus Letter to justify maintaining.
 - Lulu PDF build stamps page numbers and chapter/verse ranges into the top margin after pagination.
@@ -34,7 +34,7 @@ Counts:
 
 - Verses: `30866`
 - Book preface pages: `66`
-- Translation/textual note footnotes: `4012`
+- Translation/textual note footnotes: `3945`
 - Name-meaning footnotes: `2812`
 - Cross-reference footnotes: `27820`
 - Cross-reference refs kept: `104121`
