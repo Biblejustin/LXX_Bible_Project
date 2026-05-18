@@ -24098,11 +24098,11 @@ And the Lord was with Joshua, and his name was through all the land.
 
 **Joshua 7:1**
 
-And the sons of Israel committed a great trespass and stole from the devoted thing, and Achar son of Carmi son of Zimri son of Zerah from the tribe of Judah took from the devoted thing, and the wrath of the Lord was angered against the sons of Israel.
+And the sons of Israel committed a great trespass and stole from the devoted thing, and Achan son of Carmi son of Zimri son of Zerah from the tribe of Judah took from the devoted thing, and the Lord's anger burned against the sons of Israel.
 
 **Joshua 7:2**
 
-And Joshua sent men to Ai, which is near Bethel, saying, Look over Ai. And the men went up and looked over Ai.
+And Joshua sent men to Ai, which is near Bethel, saying, Scout out Ai. And the men went up and scouted out Ai.
 
 **Joshua 7:3**
 
@@ -24126,7 +24126,7 @@ And Joshua said, I pray, Lord, why did your servant bring this people across the
 
 **Joshua 7:8**
 
-And what shall I say, since Israel turned neck before its enemy?
+And what shall I say, since Israel turned its back before its enemy?
 
 **Joshua 7:9**
 
@@ -24142,19 +24142,19 @@ The people have sinned and transgressed the covenant that I covenanted with them
 
 **Joshua 7:12**
 
-The sons of Israel will certainly not be able to stand against the face of their enemies. They will turn neck before their enemies, because they have become a devoted thing. I will not add to be with you any longer unless you remove the devoted thing from among you.
+The sons of Israel will certainly not be able to stand before their enemies. They will turn their backs before their enemies, because they have become a devoted thing. I will no longer be with you unless you remove the devoted thing from among you.
 
 **Joshua 7:13**
 
-Rise, sanctify the people and tell them to sanctify themselves for tomorrow. These things says the Lord God of Israel: The devoted thing is among you. You will not be able to stand before your enemies until you remove the devoted thing from among you.
+Rise, sanctify the people and tell them to sanctify themselves for tomorrow. Thus says the Lord God of Israel: The devoted thing is among you. You will not be able to stand before your enemies until you remove the devoted thing from among you.
 
 **Joshua 7:14**
 
-And you shall be gathered in the morning by tribes, and it shall be, the tribe that the Lord points out, you shall bring by clans, and the clan that the Lord points out, you shall bring by house, and the house that the Lord points out, you shall bring by man.
+And you shall be gathered in the morning by tribes, and it shall be, the tribe that the Lord points out, you shall bring forward by clans, and the clan that the Lord points out, you shall bring forward by house, and the house that the Lord points out, you shall bring forward man by man.
 
 **Joshua 7:15**
 
-And whoever is pointed out shall be burned with fire, he and everything that belongs to him, because he transgressed the covenant of the Lord and did lawless deed in Israel.
+And whoever is pointed out shall be burned with fire, he and everything that belongs to him, because he transgressed the covenant of the Lord and committed a lawless deed in Israel.
 
 **Joshua 7:16**
 
@@ -24162,19 +24162,19 @@ And Joshua rose early and brought the people by tribes, and the tribe of Judah w
 
 **Joshua 7:17**
 
-And it was brought by clans, and the clan of Zerah was pointed out and brought by man.
+And it was brought forward by clans, and the clan of Zerah was pointed out and brought forward man by man.
 
 **Joshua 7:18**
 
-And Achar son of Zimri son of Zerah was pointed out.
+And Achan son of Zimri son of Zerah was pointed out.
 
 **Joshua 7:19**
 
-And Joshua said to Achar, Give glory today to the Lord God of Israel and give confession, and report to me what you did, and do not hide it from me.
+And Joshua said to Achan, Give glory today to the Lord God of Israel and give confession, and report to me what you did, and do not hide it from me.
 
 **Joshua 7:20**
 
-And Achar answered Joshua and said, Truly I sinned before the Lord God of Israel. Thus and thus I did.
+And Achan answered Joshua and said, Truly I sinned before the Lord God of Israel. Thus and thus I did.
 
 **Joshua 7:21**
 
@@ -24190,15 +24190,15 @@ And they brought them out from the tent and carried them to Joshua and the elder
 
 **Joshua 7:24**
 
-And Joshua took Achar son of Zerah and brought him up to the Valley of Achor, and his sons and his daughters and his calves and his beasts of burden and all his sheep and his tent and all his possessions, and all the people with him, and they brought them up to Achor.
+And Joshua took Achan son of Zerah and brought him up to the Valley of Achor, and his sons and his daughters and his calves and his beasts of burden and all his sheep and his tent and all his possessions, and all the people with him, and they brought them up to Achor.
 
 **Joshua 7:25**
 
-And Joshua said to Achar, Why did you destroy us? May the Lord destroy you, just as also today. And all Israel stoned him with stones.
+And Joshua said to Achan, Why did you destroy us? May the Lord destroy you, just as also today. And all Israel stoned him with stones.
 
 **Joshua 7:26**
 
-And they raised over him a great heap of stones, and the Lord ceased from the wrath of anger. Because of this he named it Achor until this day.
+And they raised over him a great heap of stones, and the Lord turned from his fierce anger. Because of this he named it Achor until this day.
 
 #### Chapter 8
 
@@ -25948,7 +25948,7 @@ And now, if the land of your possession is too little for you, cross over into t
 
 **Joshua 22:20**
 
-Did not Achar son of Zerah commit a trespass from the accursed thing, and wrath came upon all the congregation of Israel? Yet that one man did not die alone in his own sin.
+Did not Achan son of Zerah commit a trespass from the accursed thing, and wrath came upon all the congregation of Israel? Yet that one man did not die alone in his own sin.
 
 **Joshua 22:21**
 

@@ -34,8 +34,8 @@ Counts:
 
 - Verses: `30866`
 - Book preface pages: `66`
-- Translation/textual note footnotes: `3946`
-- Name-meaning footnotes: `2812`
+- Translation/textual note footnotes: `3957`
+- Name-meaning footnotes: `2813`
 - Cross-reference footnotes: `27820`
 - Cross-reference refs kept: `104121`
 - Supplemental/Brenton footnotes: `0`

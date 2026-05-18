@@ -456,6 +456,28 @@ def test_joshua_19_38_keeps_complete_lxx_name_list() -> None:
     assert footnotes_by_ref["Joshua 19:38"]["status"] == "reviewed"
 
 
+def test_joshua_7_wording_and_achan_policy() -> None:
+    by_ref = {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")}
+
+    assert "Achan son of Carmi" in by_ref["Joshua 7:1"]["draft_translation"]
+    assert "the Lord's anger burned" in by_ref["Joshua 7:1"]["draft_translation"]
+    assert "Scout out Ai" in by_ref["Joshua 7:2"]["draft_translation"]
+    assert "turned its back" in by_ref["Joshua 7:8"]["draft_translation"]
+    assert "turn their backs" in by_ref["Joshua 7:12"]["draft_translation"]
+    assert "I will no longer be with you" in by_ref["Joshua 7:12"]["draft_translation"]
+    assert "Thus says the Lord God of Israel" in by_ref["Joshua 7:13"]["draft_translation"]
+    assert "bring forward man by man" in by_ref["Joshua 7:14"]["draft_translation"]
+    assert "committed a lawless deed in Israel" in by_ref["Joshua 7:15"]["draft_translation"]
+    assert "the Lord turned from his fierce anger" in by_ref["Joshua 7:26"]["draft_translation"]
+    assert "Did not Achan son of Zerah" in by_ref["Joshua 22:20"]["draft_translation"]
+    assert "And sons of Carmi: Achar, the troubler of Israel" in by_ref["1 Chronicles 2:7"]["draft_translation"]
+
+    notes = csv_rows("data/proper_name_transliteration_notes.csv")
+    achan_notes = [row for row in notes if row["name"] == "Achan" and row["source_form"] == "Achar"]
+    assert {row["first_reference"] for row in achan_notes} >= {"Joshua 7:1", "Joshua 22:20"}
+    assert any("MT distinguishes Achan in Joshua from Achar in 1 Chronicles 2:7" in row["footnote"] for row in achan_notes)
+
+
 def test_safe_review_csv_append_quotes_commas(tmp_path: Path) -> None:
     target = tmp_path / "review.csv"
     target.write_text("ref,note\n", encoding="utf-8")
