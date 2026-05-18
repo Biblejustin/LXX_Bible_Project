@@ -78,6 +78,16 @@ current OT LXX and NT TR source CSVs. `make build-fresh` runs `make build-ot`,
 `make build-nt`, and `make build-combined` in order when all committed fresh
 translation outputs should be synchronized.
 
+## Print PDF Cross-References
+
+The active Lulu/Pandoc print PDF uses two LaTeX footnote streams. Translation,
+textual, divine-name, and name-meaning notes remain numeric. Cross-references are
+split by `scripts/pandoc_split_xrefs.lua` and emitted through a separate
+manyfoot stream keyed by the visible verse number in red. The verse-number label
+is intentional: it is self-documenting on the page, avoids alphabetic rollover
+problems on dense pages, and lets readers distinguish cross-references from
+translation notes without relying on a post-PDF overlay.
+
 `make import-deuterocanon` refreshes the separate deuterocanon/additions source
 workspace from the pinned eBible GRCLXX archive plus the pinned public-domain
 eBible Brenton Greek supplement for Prayer of Manasseh and true 2 Maccabees.

@@ -764,8 +764,9 @@ def main() -> None:
             ),
             "footnote_layout": (
                 "active Pandoc PDF uses two-column footnotes; TeX-side page-local note "
-                "numbers; green cross-reference letters; 7.5pt Latin text; "
-                "6.5pt complex-script text; 8.5pt note markers"
+                "numbers; verse-number-keyed cross-references in red via manyfoot "
+                "two-stream LaTeX; 7.5pt Latin text; 6.5pt complex-script text; "
+                "8.5pt note markers"
             ),
             "alternate_pdf_renderer": (
                 "Pandoc/XeLaTeX is the active full-size print proof renderer; LibreOffice PDF output is disabled for print proof"

@@ -9508,7 +9508,10 @@ def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
     assert 2900 <= diagnostics["print_docx"]["pericope_heading_count"] <= 3100
     assert 2900 <= diagnostics["pericope_headings"]["included"] <= 3100
     assert diagnostics["print_profile"]["layout"] == "compact_single_column"
-    assert diagnostics["print_profile"]["footnote_layout"].startswith("active Pandoc PDF uses two-column footnotes")
+    footnote_layout = diagnostics["print_profile"]["footnote_layout"]
+    assert footnote_layout.startswith("active Pandoc PDF uses two-column footnotes")
+    assert "verse-number-keyed cross-references in red via manyfoot two-stream LaTeX" in footnote_layout
+    assert "green cross-reference letters" not in footnote_layout
     assert "Pandoc/XeLaTeX is the active full-size print proof renderer" in diagnostics["print_profile"][
         "alternate_pdf_renderer"
     ]

@@ -16,7 +16,7 @@ Profile:
 - Reviewed translation/textual notes included.
 - Type profile: compact_9_5pt.
 - Verse layout: one verse per paragraph.
-- Footnote layout: active Pandoc PDF uses two-column footnotes; TeX-side page-local note numbers; green cross-reference letters; 7.5pt Latin text; 6.5pt complex-script text; 8.5pt note markers.
+- Footnote layout: active Pandoc PDF uses two-column footnotes; TeX-side page-local note numbers; verse-number-keyed cross-references in red via manyfoot two-stream LaTeX; 7.5pt Latin text; 6.5pt complex-script text; 8.5pt note markers.
 - Alternate PDF renderer: Pandoc/XeLaTeX is the active full-size print proof renderer; LibreOffice PDF output is disabled for print proof.
 - Pericope headings: 2983 BSB-placement original headings included.
 - Front preface pages discuss the purpose of the draft and rough translation methodology.
@@ -32,7 +32,7 @@ Counts:
 
 - Verses: `30866`
 - Book preface pages: `66`
-- Translation/textual note footnotes: `3945`
+- Translation/textual note footnotes: `3946`
 - Name-meaning footnotes: `2812`
 - Cross-reference footnotes: `0`
 - Cross-reference refs kept: `0`
