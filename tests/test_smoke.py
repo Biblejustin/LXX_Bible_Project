@@ -613,6 +613,12 @@ def test_reviewed_ot_rendering_cleanup_stays_in_source_and_notes() -> None:
     assert "making the English sentence complete" in notes_by_ref[("Job 19:25", "translation")]["footnote_text"]
     assert "Psalm 22:16 with pierced language" in notes_by_ref[("Psalms 21:17", "translation")]["footnote_text"]
     assert "Ancient of Days" in notes_by_ref[("Daniel 7:13", "textual")]["footnote_text"]
+    assert "τάσσω can mean arrange or set in order" in notes_by_ref[
+        ("Song of Solomon 2:4", "translation")
+    ]["footnote_text"]
+    assert "compact comparisons" in notes_by_ref[
+        ("Song of Solomon 8:6", "translation")
+    ]["footnote_text"]
 
 
 def test_known_release_blocker_fixes_stay_fixed() -> None:
