@@ -262,6 +262,7 @@ STYLE_ONLY_NOTES = {
     "modernized enquiring spelling",
     "modernized dwells-not wording",
     "modernized forever spelling",
+    "supplied sentence break after Alleluia",
     "modernized fear-not imperative",
     "modernized fast-not wording",
     "modernized fell-not wording",

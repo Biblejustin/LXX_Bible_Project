@@ -32072,7 +32072,7 @@ For true and righteous are his judgments: for he has judged the great prostitute
 
 **Revelation 19:3**
 
-And again they said, Alleluia And her smoke rose up forever and ever.
+And again they said, Alleluia. And her smoke rose up forever and ever.
 
 **Revelation 19:4**
 
@@ -32224,7 +32224,7 @@ And I heard a great voice out of heaven saying, Look, the tabernacle of God is w
 
 **Revelation 21:4**
 
-And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there is any more pain: for the former things are passed away.
+And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
 
 **Revelation 21:5**
 

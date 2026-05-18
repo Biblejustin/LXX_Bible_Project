@@ -4,8 +4,8 @@
   "rows": 7957,
   "status_counts": {
     "tr_literal_manual": 3421,
-    "tr_literal_pass1": 3867,
-    "tr_literal_reviewed_keep": 669
+    "tr_literal_pass1": 3866,
+    "tr_literal_reviewed_keep": 670
   },
   "changed_by_book": {
     "MAT": 913,
@@ -34,7 +34,7 @@
     "2JN": 11,
     "3JN": 14,
     "JUD": 24,
-    "REV": 389
+    "REV": 388
   },
   "rule_counts": {
     "manual TR literal override": 3421,
@@ -56,7 +56,7 @@
     "standardized Judea spelling": 26,
     "modernized are-come perfect": 11,
     "modernized he-that relative": 165,
-    "UKJV seed retained; needs focused Greek review": 669,
+    "UKJV seed retained; needs focused Greek review": 670,
     "standardized Juda as Judah in tribe/land contexts": 8,
     "modernized enquired spelling": 4,
     "removed UKJV plural-expansion artifact": 721,
@@ -155,7 +155,7 @@
     "fixed many-there-is artifact": 1,
     "modernized enter-you-in idiom": 1,
     "modernized strait-gate wording": 3,
-    "modernized there-be idiom": 11,
+    "modernized there-be idiom": 10,
     "fixed few-there-is artifact": 1,
     "rendered daimonion as demon": 64,
     "modernized fell-not wording": 1,
@@ -540,16 +540,21 @@
     "fixed became-rich artifact": 1,
     "modernized waxed-rich idiom": 1,
     "modernized no-more-at-all idiom": 4,
+    "supplied sentence break after Alleluia": 1,
     "fixed Revelation relative artifact": 1,
     "modernized lived-not wording": 1
   },
   "review_queue": "/Users/justinscaggs/Documents/Codex_bible/output/nt_tr_literal_revision_review_queue.csv",
   "review_queue_rows": 0,
   "needs_focused_tr_review_rows": 0,
-  "initial_needs_focused_tr_review_rows": 669,
+  "initial_needs_focused_tr_review_rows": 670,
   "review_queue_resolved_by_pass": 669,
+  "review_queue_auto_no_meaningful_difference": 1,
   "source_review_status_synced": {
     "keep": 669
+  },
+  "source_review_status_auto_no_meaningful_difference": {
+    "keep": 1
   },
   "examples": {
     "manual TR literal override": [
@@ -6886,6 +6891,13 @@
         "ref": "Revelation 18:22",
         "book_code": "REV",
         "draft_translation": "And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no longer in you; and no craftsman, of whatever craft he be, shall be found any more in you; and the sound of a millstone shall be heard no longer in you;"
+      }
+    ],
+    "supplied sentence break after Alleluia": [
+      {
+        "ref": "Revelation 19:3",
+        "book_code": "REV",
+        "draft_translation": "And again they said, Alleluia. And her smoke rose up forever and ever."
       }
     ],
     "fixed Revelation relative artifact": [

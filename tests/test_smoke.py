@@ -9296,6 +9296,12 @@ def test_high_confidence_review_typos_are_corrected_at_source() -> None:
     assert "neither shall there is any more pain" not in nt_by_ref["Revelation 21:4"][
         "draft_translation"
     ]
+    assert "Alleluia. And her smoke" in nt_by_ref["Revelation 19:3"]["draft_translation"]
+    assert "Alleluia And her smoke" not in nt_by_ref["Revelation 19:3"]["draft_translation"]
+    assert "many are those who enter through it" in nt_by_ref["Matthew 7:13"][
+        "draft_translation"
+    ]
+    assert "few are those who find it" in nt_by_ref["Matthew 7:14"]["draft_translation"]
     assert ot_by_ref["Song of Solomon 1:1"]["draft_translation"] == (
         "The Song of Songs, which is Solomon's."
     )

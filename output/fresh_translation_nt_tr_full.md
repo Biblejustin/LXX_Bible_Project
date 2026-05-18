@@ -158095,7 +158095,7 @@ Greek: και δευτερον ειρηκαν αλληλουια και ο κα�
 Transliteration: kai deuteron eirhkan allhlouia kai o kapnov authv anabainei eiv touv aiwnav twn aiwnwn
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And again they said, Alleluia And her smoke rose up forever and ever.
+Draft translation: And again they said, Alleluia. And her smoke rose up forever and ever.
 
 Decision rows:
 - None recorded.
@@ -158623,7 +158623,7 @@ Decision rows:
 - None recorded.
 
 Publishable footnotes:
-- None recorded.
+- note_type: textual | trigger_phrase: Gog, and Magog | footnote_text: Gog appears in this edition's LXX source rows at Numbers 24:7; Ezekiel 38:2-3, 14, 17-18; Ezekiel 39:1, 6, 11, 15; and Amos 7:1. Magog appears at Genesis 10:2; 1 Chronicles 1:5; and Ezekiel 38:2. | source_basis: LXX cross-reference | status: reviewed
 
 Logos research:
 - None recorded.
@@ -158839,7 +158839,7 @@ Greek: και εξαλειψει ο θεος παν δακρυον απο των
 Transliteration: kai exaleiqei o yeov pan dakruon apo twn ofyalmwn autwn kai o yanatov ouk estai eti oute penyov oute kraugh oute ponov ouk estai eti oti ta prwta aphlyon
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there is any more pain: for the former things are passed away.
+Draft translation: And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
 
 Decision rows:
 - None recorded.

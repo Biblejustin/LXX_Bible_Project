@@ -52,7 +52,7 @@ def folded_literal(text: str) -> str:
 
 @lru_cache(maxsize=None)
 def required_literal_token(pattern: str) -> str:
-    if "|" in pattern:
+    if "|" in pattern or "(?" in pattern:
         return ""
     simplified = CHAR_CLASS_RE.sub(" ", pattern)
     simplified = REGEX_ESCAPE_RE.sub(" ", simplified)
@@ -1463,6 +1463,7 @@ def apply_final_cleanups(text: str, notes: list[str]) -> str:
         (r"\bdispersed abroad\b", "scattered", "modernized abroad idiom"),
         (r"\bworldy\b", "worldly", "fixed worldly typo"),
         (r"\bevery where\b", "everywhere", "modernized every where spelling"),
+        (r"\bAlleluia And\b", "Alleluia. And", "supplied sentence break after Alleluia"),
     ]
     for pattern, replacement, note in final_replacements:
         text = replace_literal(text, pattern, replacement, note, notes, flags=re.I)
@@ -4929,6 +4930,12 @@ def revise_row(row: dict[str, str]) -> tuple[str, list[str], str]:
     return text, ["UKJV seed retained; needs focused Greek review"], "needs_focused_tr_review"
 
 
+def has_no_meaningful_ukjv_difference(row: dict[str, str]) -> bool:
+    draft = clean_spacing(row.get("draft_translation", ""))
+    ukjv = clean_spacing(row.get("ukjv_translation", ""))
+    return bool(draft and ukjv and draft == ukjv)
+
+
 def write_review_queue(
     path: Path,
     rows: list[dict[str, str]],
@@ -4946,6 +4953,7 @@ def write_review_queue(
     ]
     written = 0
     resolved_by_pass = 0
+    auto_no_difference = 0
     with path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
@@ -4955,9 +4963,16 @@ def write_review_queue(
             if latest_review_statuses.get(row.get("ref", "")) in RESOLVED_REVIEW_STATUSES:
                 resolved_by_pass += 1
                 continue
+            if has_no_meaningful_ukjv_difference(row):
+                auto_no_difference += 1
+                continue
             writer.writerow({field: row.get(field, "") for field in fieldnames})
             written += 1
-    return {"written": written, "resolved_by_pass": resolved_by_pass}
+    return {
+        "written": written,
+        "resolved_by_pass": resolved_by_pass,
+        "auto_no_meaningful_difference": auto_no_difference,
+    }
 
 
 def sync_resolved_review_metadata(
@@ -4975,6 +4990,19 @@ def sync_resolved_review_metadata(
         row["review_status"] = source_status
         row["review_notes"] = f"focused TR review resolved as {latest_status}"
         counts[latest_status] += 1
+    return dict(counts)
+
+
+def sync_no_meaningful_difference_metadata(rows: list[dict[str, str]]) -> dict[str, int]:
+    counts: Counter[str] = Counter()
+    for row in rows:
+        if row.get("review_status") != "needs_focused_tr_review":
+            continue
+        if not has_no_meaningful_ukjv_difference(row):
+            continue
+        row["review_status"] = "tr_literal_reviewed_keep"
+        row["review_notes"] = "UKJV seed retained; auto keep: no meaningful UKJV difference"
+        counts["keep"] += 1
     return dict(counts)
 
 
@@ -5019,6 +5047,7 @@ def main() -> None:
     latest_review_statuses = load_latest_review_statuses()
     queue_counts = write_review_queue(args.review_queue, rows, latest_review_statuses)
     synced_resolved_statuses = sync_resolved_review_metadata(rows, latest_review_statuses)
+    synced_auto_no_difference_statuses = sync_no_meaningful_difference_metadata(rows)
     status_counts: Counter[str] = Counter(row.get("review_status", "") for row in rows)
     write_rows(args.source, rows, fieldnames)
     diagnostics = {
@@ -5033,7 +5062,9 @@ def main() -> None:
         "needs_focused_tr_review_rows": status_counts.get("needs_focused_tr_review", 0),
         "initial_needs_focused_tr_review_rows": initial_status_counts.get("needs_focused_tr_review", 0),
         "review_queue_resolved_by_pass": queue_counts["resolved_by_pass"],
+        "review_queue_auto_no_meaningful_difference": queue_counts["auto_no_meaningful_difference"],
         "source_review_status_synced": synced_resolved_statuses,
+        "source_review_status_auto_no_meaningful_difference": synced_auto_no_difference_statuses,
         "examples": examples,
     }
     args.report.parent.mkdir(parents=True, exist_ok=True)

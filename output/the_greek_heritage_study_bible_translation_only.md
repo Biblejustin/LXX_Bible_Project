@@ -125648,7 +125648,7 @@ For true and righteous are his judgments: for he has judged the great prostitute
 
 **Revelation 19:3**
 
-And again they said, Alleluia And her smoke rose up forever and ever.
+And again they said, Alleluia. And her smoke rose up forever and ever.
 
 **Revelation 19:4**
 
