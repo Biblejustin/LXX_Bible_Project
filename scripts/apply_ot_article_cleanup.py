@@ -1483,6 +1483,10 @@ LORD_OBJECT_REPLACEMENTS = (
         "He mounts me upon heights, to conquer in his song",
     ),
     (
+        re.compile(r"\bwhen I founded earth\b"),
+        "when I founded the earth",
+    ),
+    (
         re.compile(r"\bProverbs of Solomon\b"),
         "The Proverbs of Solomon",
     ),

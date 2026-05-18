@@ -55390,7 +55390,7 @@ Gird your loins like a man; I will ask you, and you answer me.
 
 **Job 38:4**
 
-Where were you when I founded earth? Declare to me, if you know understanding.
+Where were you when I founded the earth? Declare to me, if you know understanding.
 
 **Job 38:5**
 
@@ -125800,7 +125800,7 @@ And I heard a great voice out of heaven saying, Look, the tabernacle of God is w
 
 **Revelation 21:4**
 
-And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there is any more pain: for the former things are passed away.
+And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
 
 **Revelation 21:5**
 

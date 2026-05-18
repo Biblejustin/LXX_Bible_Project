@@ -32,7 +32,13 @@
     "path": "/Users/justinscaggs/Documents/Codex_bible/data/book_intros_template.csv",
     "rows": 81,
     "usable_rows": 81,
-    "included": true
+    "included": true,
+    "print_cleanup": {
+      "removed_conservative_notes": 81,
+      "removed_theodotion_textual_note_sentence": 1,
+      "removed_mt_timeline": 36,
+      "removed_lxx_timeline": 26
+    }
   },
   "name_meaning_note_filter": {
     "proper_name_rows": 215,
@@ -113,7 +119,7 @@
     "brenton_supplemental_notes": "excluded",
     "openbible_fallback": "top-voted primary source",
     "generated_crossrefs": "openbible_top_n",
-    "crossref_policy": "Modest cross-reference layer: OpenBible.info verse-level cross-references, ranked by OpenBible vote count and capped per verse. Used by attribution under the OpenBible CC-BY dataset license.",
+    "crossref_policy": "Modest cross-reference layer: OpenBible.info verse-level cross-references, ranked by OpenBible vote count, capped per verse, and printed with abbreviated book names. Used by attribution under the OpenBible CC-BY dataset license.",
     "name_meanings": "listed_first_source_occurrence_only",
     "source_policy": "OT LXX Greek rows plus NT Scrivener 1894 Textus Receptus Greek rows.",
     "translation_note_labels": "compact",
@@ -124,7 +130,7 @@
   "print_docx": {
     "output_kind": "print_proof",
     "milestone_mode": "lxx",
-    "paragraph_count": 8335,
+    "paragraph_count": 8217,
     "run_in_verse_paragraphs": true,
     "run_in_group_size": 0,
     "pericope_heading_count": 3040,

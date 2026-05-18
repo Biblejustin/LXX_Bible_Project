@@ -28,7 +28,7 @@ Profile:
 - Name-meaning notes are included only at their listed first/source occurrence to keep the physical proof shorter.
 - Book preface pages included.
 - Brenton/source supplemental notes excluded.
-- Modest cross-reference layer: OpenBible.info verse-level cross-references, ranked by OpenBible vote count and capped per verse. Used by attribution under the OpenBible CC-BY dataset license.
+- Modest cross-reference layer: OpenBible.info verse-level cross-references, ranked by OpenBible vote count, capped per verse, and printed with abbreviated book names. Used by attribution under the OpenBible CC-BY dataset license.
 
 Counts:
 

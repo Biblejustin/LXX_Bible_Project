@@ -5,6 +5,19 @@
 \usepackage{ragged2e}
 \definecolor{GHSBRed}{HTML}{9B1C1C}
 \definecolor{GHSBBlue}{HTML}{1F4E79}
+\usepackage[para*]{manyfoot}
+\makeatletter
+\SetFootnoteHook{%
+  \renewcommand\@makefnmark{\normalfont\bfseries\textcolor{GHSBRed}{\@thefnmark}}%
+}
+\DeclareNewFootnote[para]{XRef}[arabic]
+\newcommand{\CrossRefNote}[2]{%
+  \begingroup
+  \renewcommand\@makefnmark{\normalfont\footnotesize\bfseries\textcolor{GHSBRed}{\@thefnmark}\hspace{0.25em}}%
+  \FootnotetextXRef{#1}{#2}%
+  \endgroup
+}
+\makeatother
 \usepackage{perpage}
 \MakePerPage{footnote}
 \usepackage{dblfnote}
@@ -15,6 +28,18 @@
 \makeatother
 \pagestyle{empty}
 \pagenumbering{gobble}
+\makeatletter
+\renewcommand{\maketitle}{%
+  \begingroup
+  \parindent 0pt%
+  \begin{center}
+    \vspace*{0pt}%
+    {\bfseries\fontsize{16pt}{18pt}\selectfont \@title\par}%
+  \end{center}
+  \vspace{8pt}%
+  \endgroup
+}
+\makeatother
 \usepackage{titlesec}
 \titleformat{\section}{\normalfont\bfseries\fontsize{12pt}{13pt}\selectfont}{}{0pt}{}
 \titlespacing*{\section}{0pt}{10pt}{5pt}

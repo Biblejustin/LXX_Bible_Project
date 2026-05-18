@@ -114,7 +114,7 @@ REFERENCE_NUMBERING_GUIDE = [
 SOURCE_BASIS_GUIDE = {
     "ot": [
         "OT source basis: this branch translates the normalized LXX Greek source rows in data/raw/lxx_greek/ot_full.csv; it does not revise an English base text.",
-        "Daniel source basis: Daniel follows the Greek Daniel rows present in the Protestant-canon OT source workspace; the Greek additions (Song of the Three Young Men; Susanna; Bel and the Dragon) are emitted in the separate Deuterocanon edition. Daniel is not silently replaced with Theodotion- or MT/Aramaic-shaped wording.",
+        "Daniel source basis: Daniel follows the Greek Daniel rows present in the Protestant-canon OT source workspace; the Greek additions (Song of the Three Young Men; Susanna; Bel and the Dragon) are emitted in the separate Deuterocanon edition.",
         "Canon scope: deuterocanonical and apocryphal LXX books are planned as a separate workstream, not folded into this Protestant-canon branch.",
     ],
     "nt": [
@@ -123,7 +123,7 @@ SOURCE_BASIS_GUIDE = {
     "combined": [
         "OT source basis: this branch translates the normalized LXX Greek source rows in data/raw/lxx_greek/ot_full.csv; it does not revise an English base text.",
         "NT source basis: this branch translates the Scrivener 1894 Textus Receptus stream imported from byztxt/greektext-scrivener text-only files.",
-        "Daniel source basis: Daniel follows the Greek Daniel rows present in the Protestant-canon OT source workspace; the Greek additions (Song of the Three Young Men; Susanna; Bel and the Dragon) are emitted in the separate Deuterocanon edition. Daniel is not silently replaced with Theodotion- or MT/Aramaic-shaped wording.",
+        "Daniel source basis: Daniel follows the Greek Daniel rows present in the Protestant-canon OT source workspace; the Greek additions (Song of the Three Young Men; Susanna; Bel and the Dragon) are emitted in the separate Deuterocanon edition.",
         "Canon scope: deuterocanonical and apocryphal LXX books are planned as a separate workstream, not folded into this Protestant-canon branch.",
     ],
     "deuterocanon": [
@@ -936,6 +936,8 @@ def find_trigger_span(
     start = haystack.find(needle)
     while start >= 0:
         end = start + len(trigger)
+        if trigger[-1].isalnum() and verse_text[end : end + 2].casefold() in {"'s", "’s"}:
+            end += 2
         before = verse_text[start - 1] if start > 0 else ""
         after = verse_text[end] if end < len(verse_text) else ""
         starts_word = trigger[0].isalnum()
@@ -3182,20 +3184,16 @@ def add_title_page(
         name_policy_text,
         supplemental_policy_text,
         vocab_policy,
-        (
-            (
-                f"DOCX footnote numbering is set to restart by {footnote_number_restart}; "
-                "Pandoc PDF proofs may use continuous numbering for render stability. "
-            )
-            if compact_print and not logos
-            else f"Regular footnote numbering restarts by {footnote_number_restart}. "
-        )
-        + (
-            "Cross-reference footnotes use normal numeric Word footnote references for Logos Personal Book compatibility when enabled."
-            if logos
-            else "Cross-reference footnotes use normal numeric Word footnote references when enabled."
-        ),
     ]
+    if not (compact_print and not logos):
+        lines.append(
+            f"Regular footnote numbering restarts by {footnote_number_restart}. "
+            + (
+                "Cross-reference footnotes use normal numeric Word footnote references for Logos Personal Book compatibility when enabled."
+                if logos
+                else "Cross-reference footnotes use normal numeric Word footnote references when enabled."
+            )
+        )
     if logos:
         lines.append(f"Verse milestones use Logos datatype {datatype}. Compile in Logos as resource type Bible.")
         lines.append(

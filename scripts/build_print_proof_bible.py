@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import re
 from collections import Counter
 from dataclasses import replace
 from pathlib import Path
@@ -38,8 +39,9 @@ OPTIONAL_TSK_CROSSREF_POLICY = (
 )
 OPENBIBLE_TOP_CROSSREF_POLICY = (
     "Modest cross-reference layer: OpenBible.info verse-level cross-references, "
-    "ranked by OpenBible vote count and capped per verse. Used by attribution "
-    "under the OpenBible CC-BY dataset license."
+    "ranked by OpenBible vote count, capped per verse, and printed with "
+    "abbreviated book names. Used by attribution under the OpenBible CC-BY "
+    "dataset license."
 )
 SUPPLEMENTAL_POLICY = (
     "Brenton/source supplemental footnotes are excluded; this copy keeps only "
@@ -101,6 +103,138 @@ PRINT_FRONT_MATTER_SECTIONS = [
     ),
 ]
 
+PRINT_CROSSREF_BOOK_ABBREVIATIONS = {
+    "GEN": "Gen",
+    "EXO": "Exod",
+    "LEV": "Lev",
+    "NUM": "Num",
+    "DEU": "Deut",
+    "JOS": "Josh",
+    "JDG": "Judg",
+    "RUT": "Ruth",
+    "1SA": "1Sam",
+    "2SA": "2Sam",
+    "1KI": "1Kgs",
+    "2KI": "2Kgs",
+    "1CH": "1Chr",
+    "2CH": "2Chr",
+    "EZR": "Ezra",
+    "NEH": "Neh",
+    "EST": "Esth",
+    "ESG": "Esth",
+    "JOB": "Job",
+    "PSA": "Ps",
+    "PRO": "Prov",
+    "ECC": "Eccl",
+    "SNG": "Song",
+    "ISA": "Isa",
+    "JER": "Jer",
+    "LAM": "Lam",
+    "EZK": "Ezek",
+    "DAN": "Dan",
+    "DAG": "Dan",
+    "HOS": "Hos",
+    "JOL": "Joel",
+    "AMO": "Amos",
+    "OBA": "Obad",
+    "JON": "Jonah",
+    "MIC": "Mic",
+    "NAM": "Nah",
+    "HAB": "Hab",
+    "ZEP": "Zeph",
+    "HAG": "Hag",
+    "ZEC": "Zech",
+    "MAL": "Mal",
+    "MAT": "Matt",
+    "MRK": "Mark",
+    "LUK": "Luke",
+    "JHN": "John",
+    "ACT": "Acts",
+    "ROM": "Rom",
+    "1CO": "1Cor",
+    "2CO": "2Cor",
+    "GAL": "Gal",
+    "EPH": "Eph",
+    "PHP": "Phil",
+    "COL": "Col",
+    "1TH": "1Thess",
+    "2TH": "2Thess",
+    "1TI": "1Tim",
+    "2TI": "2Tim",
+    "TIT": "Titus",
+    "PHM": "Phlm",
+    "HEB": "Heb",
+    "JAS": "Jas",
+    "1PE": "1Pet",
+    "2PE": "2Pet",
+    "1JN": "1John",
+    "2JN": "2John",
+    "3JN": "3John",
+    "JUD": "Jude",
+    "REV": "Rev",
+}
+
+PRINT_CROSSREF_BOOK_NAME_REPLACEMENTS = tuple(
+    sorted(
+        {
+            book_name: PRINT_CROSSREF_BOOK_ABBREVIATIONS[code]
+            for code, book_name in builder.STANDARD_BOOK_NAMES.items()
+            if code in PRINT_CROSSREF_BOOK_ABBREVIATIONS
+        }.items(),
+        key=lambda item: len(item[0]),
+        reverse=True,
+    )
+)
+
+
+def print_intro_value_is_noise(value: str) -> bool:
+    normalized = " ".join(value.strip().lower().rstrip(".").split())
+    return normalized in {"", "n/a", "na"} or normalized.startswith("not applicable")
+
+
+def compact_print_book_intros(
+    book_intros: dict[str, dict[str, str]],
+) -> tuple[dict[str, dict[str, str]], dict[str, int]]:
+    """Remove low-value preface lines from the compact print profile."""
+    cleaned: dict[str, dict[str, str]] = {}
+    counts: Counter[str] = Counter()
+    for code, intro in book_intros.items():
+        row = dict(intro)
+        for key in ("mt_timeline", "lxx_timeline"):
+            if print_intro_value_is_noise(row.get(key, "")):
+                row[key] = ""
+                counts[f"removed_{key}"] += 1
+        if row.get("conservative_notes", "").strip():
+            row["conservative_notes"] = ""
+            counts["removed_conservative_notes"] += 1
+        textual_notes = row.get("textual_notes", "")
+        theodotion_sentence = (
+            "it is not silently replaced with Theodotion or MT/Aramaic wording."
+        )
+        if theodotion_sentence in textual_notes:
+            row["textual_notes"] = " ".join(
+                textual_notes.replace(theodotion_sentence, "").split()
+            )
+            counts["removed_theodotion_textual_note_sentence"] += 1
+        cleaned[code] = row
+    return cleaned, dict(counts)
+
+
+def abbreviate_print_crossref(ref: str) -> str:
+    """Use compact book abbreviations in print-only cross-reference notes."""
+    abbreviated = ref
+    for book_name, abbreviation in PRINT_CROSSREF_BOOK_NAME_REPLACEMENTS:
+        abbreviated = re.sub(
+            rf"(?<![A-Za-z0-9]){re.escape(book_name)}(?=\s+\d)",
+            abbreviation,
+            abbreviated,
+        )
+    return abbreviated
+
+
+def abbreviate_print_crossrefs(refs: tuple[str, ...]) -> tuple[str, ...]:
+    return tuple(abbreviate_print_crossref(ref) for ref in refs)
+
 
 def minimal_print_crossrefs(
     verses: list[builder.Verse],
@@ -127,7 +261,7 @@ def minimal_print_crossrefs(
                 counts["verses_with_only_unselected_crossrefs"] += 1
             continue
         note = candidates[0]
-        limited = tuple(note.refs[:max_refs_per_note])
+        limited = abbreviate_print_crossrefs(tuple(note.refs[:max_refs_per_note]))
         if not limited:
             continue
         selected[verse.ref] = [replace(note, refs=limited)]
@@ -165,10 +299,13 @@ def openbible_print_crossrefs(
         seen: set[str] = set()
         for raw_ref in raw_refs[:max_refs_per_note]:
             ref = builder.format_openbible_ref(raw_ref)
-            if not builder.parse_cross_reference(ref) or ref in seen:
+            if not builder.parse_cross_reference(ref):
                 continue
-            refs.append(ref)
-            seen.add(ref)
+            print_ref = abbreviate_print_crossref(ref)
+            if print_ref in seen:
+                continue
+            refs.append(print_ref)
+            seen.add(print_ref)
         if not refs:
             continue
         selected[verse.ref] = [
@@ -490,7 +627,9 @@ def main() -> None:
         book_prefaces_profile = "excluded"
     else:
         book_intros, book_intro_diag = builder.load_book_intros(args.book_intros)
+        book_intros, book_intro_cleanup_diag = compact_print_book_intros(book_intros)
         book_intro_diag = {**book_intro_diag, "included": True}
+        book_intro_diag["print_cleanup"] = book_intro_cleanup_diag
         book_prefaces_profile = "included"
     if args.include_tsk_crossrefs and args.include_openbible_crossrefs:
         raise SystemExit("Choose only one cross-reference source for print: TSK or OpenBible.")

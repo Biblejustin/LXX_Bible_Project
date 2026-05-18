@@ -9232,6 +9232,33 @@ def test_nt_revelation_21_to_22_queue_revisions_stay_reviewed() -> None:
         assert ref not in queue_refs
 
 
+def test_high_confidence_review_typos_are_corrected_at_source() -> None:
+    from build_fresh_logos_bible import find_trigger_span
+
+    ot_by_ref = {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")}
+    nt_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    notes_by_ref = {row["ref"]: row for row in csv_rows("data/research/translation_footnotes.csv")}
+
+    assert "neither shall there be any more pain" in nt_by_ref["Revelation 21:4"][
+        "draft_translation"
+    ]
+    assert "neither shall there is any more pain" not in nt_by_ref["Revelation 21:4"][
+        "draft_translation"
+    ]
+    assert ot_by_ref["Song of Solomon 1:1"]["draft_translation"] == (
+        "The Song of Songs, which is Solomon's."
+    )
+    assert ot_by_ref["Job 38:4"]["draft_translation"].startswith(
+        "Where were you when I founded the earth?"
+    )
+    assert notes_by_ref["Job 38:4"]["trigger_phrase"].startswith(
+        "Where were you when I founded the earth?"
+    )
+    possessive_span = find_trigger_span("The Song of Songs, which is Solomon's.", "Solomon")
+    assert possessive_span is not None
+    assert "The Song of Songs, which is Solomon's."[possessive_span[0] : possessive_span[1]] == "Solomon's"
+
+
 def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     rows = csv_rows("data/proper_name_transliteration_notes.csv")
     by_name = {(row["name"], row["first_reference"]): row for row in rows}
@@ -9244,6 +9271,20 @@ def test_inscription_style_all_caps_rows_use_normalized_equivalents() -> None:
     for key, equivalent in expected.items():
         assert by_name[key]["english_equivalent"] == equivalent
     assert ("GOD", "Acts 17:23") not in by_name
+
+
+def test_residual_ego_greek_form_mislabels_are_removed() -> None:
+    rows = csv_rows("data/proper_name_transliteration_notes.csv")
+    by_name = {(row["name"], row["first_reference"]): row for row in rows}
+
+    assert by_name[("Nebo", "Numbers 27:12")]["greek_form"] == "ναβαυ"
+    assert by_name[("Omega", "Revelation 1:8")]["greek_form"] == "ω"
+    assert by_name[("Baal-peor", "Numbers 25:3")]["greek_form"] == "βεελφεγωρ"
+    assert not [
+        (row["name"], row["first_reference"])
+        for row in rows
+        if row["greek_form"] == "εγω"
+    ]
 
 
 def test_no_raw_logos_bibleknowledgebase_markup_in_key_outputs() -> None:
@@ -9477,7 +9518,86 @@ def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
     assert "Book preface pages included." in readme
 
 
-def test_lulu_pandoc_pdf_preserves_green_crossref_letters() -> None:
+PANDOC_FOOTNOTE_PREFIXES = "T|Txt|MT/LXX|Heb|Gk|Tr|Std|Src|Nm|Pn|Pl|Ppl|Div|Eng"
+PANDOC_NUMERIC_FOOTNOTE_RE = re.compile(rf"^(\d+)\s+(?:{PANDOC_FOOTNOTE_PREFIXES}):")
+PANDOC_BLUE = 0x1F4E79
+PANDOC_RED = 0x9B1C1C
+
+
+def pandoc_pdf_output_dir() -> Path:
+    return ROOT / "output" / "print"
+
+
+def pandoc_pdf_sample_pages() -> list[int]:
+    header_path = (
+        pandoc_pdf_output_dir() / "the_greek_heritage_study_bible_lulu_print_proof_pandoc_pdf_headers.json"
+    )
+    diagnostics = json.loads(header_path.read_text(encoding="utf-8"))
+
+    def overlaps(item: dict[str, object], book: str, chapter: int) -> bool:
+        first = item.get("first_ref")
+        last = item.get("last_ref")
+        if not isinstance(first, dict) or not isinstance(last, dict):
+            return False
+        if first.get("book") != book or last.get("book") != book:
+            return False
+        return int(first["chapter"]) <= chapter <= int(last["chapter"])
+
+    pages: list[int] = []
+    for book, chapter in (("Joshua", 6), ("Joshua", 7), ("Psalms", 22), ("Romans", 8)):
+        for item in diagnostics["page_headers"]:
+            if overlaps(item, book, chapter):
+                pages.append(int(item["page"]) - 1)
+                break
+    return pages
+
+
+def pandoc_pdf_lines(page) -> list[str]:
+    lines: list[str] = []
+    for block in page.get_text("dict")["blocks"]:
+        if block.get("type") != 0:
+            continue
+        for line in block.get("lines", []):
+            text = "".join(span.get("text", "") for span in line.get("spans", [])).strip()
+            if text:
+                lines.append(text)
+    return lines
+
+
+def pandoc_pdf_lines_with_y(page) -> list[tuple[float, str]]:
+    lines: list[tuple[float, str]] = []
+    for block in page.get_text("dict")["blocks"]:
+        if block.get("type") != 0:
+            continue
+        for line in block.get("lines", []):
+            text = "".join(span.get("text", "") for span in line.get("spans", [])).strip()
+            if text:
+                lines.append((float(line["bbox"][1]), text))
+    return lines
+
+
+def pandoc_pdf_marker_spans(page, *, color: int) -> list[str]:
+    markers: list[str] = []
+    for block in page.get_text("dict")["blocks"]:
+        if block.get("type") != 0:
+            continue
+        for line in block.get("lines", []):
+            for span in line.get("spans", []):
+                text = span.get("text", "").strip()
+                size = float(span.get("size", 0.0))
+                if span.get("color") == color and 7.0 <= size <= 7.9 and text:
+                    markers.append(text)
+    return markers
+
+
+def assert_contiguous_sequence(values: list[int]) -> None:
+    if not values:
+        return
+    unique_values = sorted(set(values))
+    assert unique_values == list(range(1, unique_values[-1] + 1))
+
+
+def test_lulu_pandoc_pdf_footnote_numeric_sequence_is_contiguous() -> None:
     output_dir = ROOT / "output" / "print"
     pdf_path = output_dir / "the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf"
     diagnostics = json.loads(
@@ -9485,39 +9605,57 @@ def test_lulu_pandoc_pdf_preserves_green_crossref_letters() -> None:
             encoding="utf-8"
         )
     )
-    header_diagnostics = json.loads(
-        (output_dir / "the_greek_heritage_study_bible_lulu_print_proof_pandoc_pdf_headers.json").read_text(
-            encoding="utf-8"
-        )
-    )
 
     document = fitz.open(pdf_path)
-    green_letters: list[str] = []
-    blue_note_numbers: list[str] = []
-    for page_index in (1, 9):
-        page = document[page_index]
-        for block in page.get_text("dict")["blocks"]:
-            if block.get("type") != 0:
-                continue
-            for line in block.get("lines", []):
-                for span in line.get("spans", []):
-                    text = span.get("text", "").strip()
-                    color = int(span.get("color", 0))
-                    size = float(span.get("size", 0))
-                    if color == 0x26704A and re.fullmatch(r"[a-z]+", text):
-                        green_letters.append(text)
-                    if color == 0x1F4E79 and text.isdigit() and 5.0 <= size <= 8.5:
-                        blue_note_numbers.append(text)
-
-    assert header_diagnostics["page_count"] == len(document)
-    assert 690 <= header_diagnostics["page_count"] <= 720
-    assert green_letters[:8] == ["b", "c", "d", "e", "f", "g", "h", "a"]
-    assert len(green_letters) >= 70
+    for page_index in pandoc_pdf_sample_pages():
+        markers = [int(text) for text in pandoc_pdf_marker_spans(document[page_index], color=PANDOC_BLUE)]
+        assert_contiguous_sequence(markers)
     assert diagnostics["print_docx"]["crossref_footnotes"] > 27000
-    assert header_diagnostics["reset_blue_footnote_markers"] < (
-        diagnostics["print_docx"]["footnote_count"] * 2
+
+
+def test_lulu_pandoc_pdf_crossrefs_use_red_verse_number_labels() -> None:
+    pdf_path = pandoc_pdf_output_dir() / "the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf"
+    document = fitz.open(pdf_path)
+    red_markers: list[str] = []
+    for page_index in [1, *pandoc_pdf_sample_pages()]:
+        lines = pandoc_pdf_lines(document[page_index])
+        assert not any(re.match(r"^[a-z]+\s+X:", line) for line in lines)
+        assert not any(re.match(r"^\d+\s+X:", line) for line in lines)
+        red_markers.extend(pandoc_pdf_marker_spans(document[page_index], color=PANDOC_RED))
+    assert red_markers
+    assert all(marker.isdigit() for marker in red_markers)
+
+
+def test_lulu_pandoc_pdf_crossrefs_use_abbreviated_book_names() -> None:
+    pdf_path = pandoc_pdf_output_dir() / "the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf"
+    document = fitz.open(pdf_path)
+    page = document[1]
+    xref_text = "\n".join(
+        line for y, line in pandoc_pdf_lines_with_y(page) if y > page.rect.height * 0.9
     )
-    assert "1" in blue_note_numbers
+    assert "Heb 11:3" in xref_text
+    assert "Isa 45:18" in xref_text
+    assert "Rev 4:11" in xref_text
+    assert "Gen 1:18" in xref_text
+    assert "Ps 104:30" in xref_text
+    assert "Hebrews 11:3" not in xref_text
+    assert "Isaiah 45:18" not in xref_text
+    assert "Revelation 4:11" not in xref_text
+    assert "Genesis 1:18" not in xref_text
+    assert "Psalms 104:30" not in xref_text
+
+
+def test_lulu_pandoc_pdf_no_overlapping_markers() -> None:
+    pdf_path = pandoc_pdf_output_dir() / "the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf"
+    document = fitz.open(pdf_path)
+    bad_lines: list[str] = []
+    for page_index in pandoc_pdf_sample_pages():
+        page = document[page_index]
+        for color in (PANDOC_BLUE, PANDOC_RED):
+            for marker in pandoc_pdf_marker_spans(page, color=color):
+                if not marker.isdigit():
+                    bad_lines.append(marker)
+    assert bad_lines == []
 
 
 def test_logos_readmes_use_testament_specific_language() -> None:

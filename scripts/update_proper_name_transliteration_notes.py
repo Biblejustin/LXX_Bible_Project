@@ -2068,6 +2068,14 @@ class EquivalentInfo:
     confidence: str
 
 
+GREEK_FORM_OVERRIDES = {
+    # Fuzzy matching can otherwise prefer the nearby pronoun εγω over the
+    # actual short name/title form in these source rows.
+    "Nebo": "ναβαυ",
+    "Omega": "ω",
+}
+
+
 def load_csv(path: Path) -> list[dict[str, str]]:
     if not path.exists():
         return []
@@ -2357,6 +2365,9 @@ def normalize_equivalent_candidate(candidate: str, alias_primary: dict[str, set[
 def find_greek_form(source_form: str, source_row: dict[str, str] | None) -> str:
     if not source_row:
         return ""
+    override = GREEK_FORM_OVERRIDES.get(source_form)
+    if override:
+        return override
     best_score = 0.0
     best = ""
     targets = lookup_variants(source_form)

@@ -24,19 +24,25 @@ EMBEDDED_HEADER_BOLD_FONT = Path("/System/Library/Fonts/Supplemental/Times New R
 FITZ_HEADER_FONT_NAME = "GHHeaderTimes"
 FITZ_CHAPTER_FONT_NAME = "GHChapterTimesBold"
 HEADER_RED_RGB = (155 / 255, 28 / 255, 28 / 255)
-NOTE_BLUE_RGB = (31 / 255, 78 / 255, 121 / 255)
-NOTE_BLUE_INT = 0x1F4E79
-NOTE_GREEN_RGB = (38 / 255, 112 / 255, 74 / 255)
-NOTE_GREEN_HEX = "#26704A"
 HEADER_RED_PDF = "0.6078 0.1098 0.1098"
 HEADER_BLACK_PDF = "0 0 0"
 NOTE_START_RE = re.compile(
     r"^\d+\s+(?:T|Txt|MT/LXX|Heb|Gk|Tr|Std|Src|Nm|Pn|Pl|Ppl|Div|Eng):"
 )
+NOTE_TEXT_PREFIX_RE = re.compile(r"^(?:T|Txt|MT/LXX|Heb|Gk|Tr|Std|Src|Nm|Pn|Pl|Ppl|Div|Eng):")
+XREF_START_RE = re.compile(
+    r"^(?:\d+\s+)?(?:"
+    r"Gen|Exod|Lev|Num|Deut|Josh|Judg|Ruth|1\s*Sam|2\s*Sam|1\s*Kgs|2\s*Kgs|"
+    r"1\s*Chr|2\s*Chr|Ezra|Neh|Esth|Job|Ps|Prov|Eccl|Song|Isa|Jer|Lam|Ezek|"
+    r"Dan|Hos|Joel|Amos|Obad|Jonah|Mic|Nah|Hab|Zeph|Hag|Zech|Mal|Matt|Mark|"
+    r"Luke|John|Acts|Rom|1\s*Cor|2\s*Cor|Gal|Eph|Phil|Col|1\s*Thess|2\s*Thess|"
+    r"1\s*Tim|2\s*Tim|Titus|Phlm|Heb|Jas|1\s*Pet|2\s*Pet|1\s*John|2\s*John|"
+    r"3\s*John|Jude|Rev"
+    r")\s+\d+:\d+"
+)
 CHAPTER_RE = re.compile(r"^Chapter\s+(\d+)\b")
 CHAPTER_HEADING_RE = re.compile(r"^Chapter\s+\d+\b")
 VERSE_NUMBER_SPAN_RE = re.compile(r"^\d+[A-Za-z]?$")
-FOOTNOTE_MARKER_SPAN_RE = re.compile(r"^\d+$")
 INTEGER_TOKEN_RE = re.compile(r"\b\d+\b")
 
 
@@ -88,11 +94,16 @@ def load_chapter_bounds(paths: list[Path]) -> tuple[list[str], dict[tuple[str, i
 
 def main_text_lines(page_text: str) -> list[str]:
     lines: list[str] = []
-    for raw_line in page_text.splitlines():
-        line = " ".join(raw_line.split())
+    normalized_lines = [" ".join(raw_line.split()) for raw_line in page_text.splitlines()]
+    for index, line in enumerate(normalized_lines):
         if not line:
             continue
-        if NOTE_START_RE.match(line):
+        next_line = next((item for item in normalized_lines[index + 1 :] if item), "")
+        if NOTE_START_RE.match(line) or XREF_START_RE.match(line):
+            break
+        if line.isdigit() and (
+            NOTE_TEXT_PREFIX_RE.match(next_line) or XREF_START_RE.match(next_line)
+        ):
             break
         lines.append(line)
     return lines
@@ -126,8 +137,12 @@ def page_refs(
             continue
         chapter_match = CHAPTER_RE.match(line)
         if chapter_match and state.book:
-            state.chapter = int(chapter_match.group(1))
-            min_verse = chapter_bounds.get((state.book, state.chapter), (1, 1))[0]
+            chapter = int(chapter_match.group(1))
+            bounds = chapter_bounds.get((state.book, chapter))
+            if bounds is None:
+                continue
+            state.chapter = chapter
+            min_verse = bounds[0]
             state.verse = min_verse - 1
             continue
         if state.book is None or state.chapter is None:
@@ -197,7 +212,7 @@ def stamp_page_header(page, *, page_number: int, ref_range: str, writer: PdfWrit
 
     width = float(page.mediabox.width)
     height = float(page.mediabox.height)
-    y = height - 24
+    y = height - 30
     size = 8.0
     outer_margin = 36.0
     page_label = str(page_number)
@@ -248,7 +263,7 @@ def fitz_overlay_fonts(page) -> tuple[str, str]:
 
 def stamp_page_header_fitz(shape, page, *, page_number: int, ref_range: str, fontname: str) -> None:
     width = float(page.rect.width)
-    y = 24.0
+    y = 30.0
     size = 8.0
     outer_margin = 36.0
     page_label = str(page_number)
@@ -357,158 +372,6 @@ def recolor_verse_numbers_fitz(
     return count
 
 
-def split_marker_sequence(
-    value: str,
-    *,
-    expected_original: int | None,
-    local_by_original: dict[int, int],
-) -> tuple[list[int], int | None]:
-    remaining = value
-    originals: list[int] = []
-    while remaining:
-        if expected_original is not None:
-            expected_text = str(expected_original)
-            if remaining.startswith(expected_text):
-                originals.append(expected_original)
-                remaining = remaining[len(expected_text) :]
-                expected_original += 1
-                continue
-        whole_value = int(remaining)
-        if whole_value in local_by_original:
-            originals.append(whole_value)
-            remaining = ""
-            continue
-        originals.append(whole_value)
-        expected_original = whole_value + 1
-        remaining = ""
-    return originals, expected_original
-
-
-def xref_letter(index: int) -> str:
-    if index < 1:
-        return ""
-    value = index
-    letters: list[str] = []
-    while value:
-        value -= 1
-        letters.append(chr(ord("a") + (value % 26)))
-        value //= 26
-    return "".join(reversed(letters))
-
-
-def xref_footnote_originals_fitz(text_dict: dict[str, object]) -> set[int]:
-    if fitz is None:
-        return set()
-    originals: set[int] = set()
-    for block in text_dict.get("blocks", []):
-        if block.get("type") != 0:
-            continue
-        lines = block.get("lines", [])
-        for line_index, line in enumerate(lines):
-            spans = [span for span in line.get("spans", []) if span.get("text", "")]
-            if len(spans) < 2:
-                if len(spans) == 1:
-                    marker = spans[0].get("text", "").strip()
-                    if (
-                        FOOTNOTE_MARKER_SPAN_RE.fullmatch(marker)
-                        and int(spans[0].get("color", 0)) == NOTE_BLUE_INT
-                        and line_index + 1 < len(lines)
-                    ):
-                        next_line = lines[line_index + 1]
-                        next_text = "".join(
-                            span.get("text", "") for span in next_line.get("spans", [])
-                        ).lstrip()
-                        if (
-                            next_text.startswith("X:")
-                            and abs(float(next_line["bbox"][1]) - float(line["bbox"][1])) < 1.0
-                        ):
-                            originals.add(int(marker))
-                continue
-            marker = spans[0].get("text", "").strip()
-            if (
-                FOOTNOTE_MARKER_SPAN_RE.fullmatch(marker)
-                and int(spans[0].get("color", 0)) == NOTE_BLUE_INT
-            ):
-                line_text = "".join(span.get("text", "") for span in spans[1:]).lstrip()
-                if line_text.startswith("X:"):
-                    originals.add(int(marker))
-    return originals
-
-
-def reset_and_embolden_blue_footnote_markers_fitz(
-    rect_shape,
-    text_shape,
-    text_dict: dict[str, object],
-    *,
-    fontname: str,
-) -> int:
-    if fitz is None:
-        return 0
-
-    count = 0
-    xref_originals = xref_footnote_originals_fitz(text_dict)
-    local_by_original: dict[int, int] = {}
-    xref_by_original: dict[int, str] = {}
-    next_local = 1
-    next_xref = 1
-    expected_original: int | None = None
-    for block in text_dict.get("blocks", []):
-        if block.get("type") != 0:
-            continue
-        for line in block.get("lines", []):
-            for span in line.get("spans", []):
-                span_text = span.get("text", "").strip()
-                if not FOOTNOTE_MARKER_SPAN_RE.fullmatch(span_text):
-                    continue
-                if int(span.get("color", 0)) != NOTE_BLUE_INT:
-                    continue
-                if "Bold" in span.get("font", ""):
-                    continue
-                size = float(span.get("size", 0))
-                if size < 5.0 or size > 8.5:
-                    continue
-                originals, expected_original = split_marker_sequence(
-                    span_text,
-                    expected_original=expected_original,
-                    local_by_original=local_by_original,
-                )
-                if not any(original in xref_originals for original in originals):
-                    continue
-                local_parts: list[str] = []
-                for original in originals:
-                    if original in xref_originals:
-                        if original not in xref_by_original:
-                            xref_by_original[original] = xref_letter(next_xref)
-                            next_xref += 1
-                        local_parts.append(xref_by_original[original])
-                    else:
-                        local_parts.append(str(original))
-                local_text = "".join(local_parts)
-                marker_color = NOTE_GREEN_RGB
-                origin = span.get("origin")
-                rect = fitz.Rect(span["bbox"])
-                if origin is None:
-                    origin = (rect.x0, rect.y1 - 1.0)
-                note_block_marker = size >= 7.0
-                rect.x0 -= 0.3
-                rect.y0 -= 0.3
-                rect.x1 += 0.0 if note_block_marker else 0.2
-                rect.y1 += 0.9
-                rect_shape.draw_rect(rect)
-                insert_x = float(origin[0])
-                if note_block_marker:
-                    insert_x = float(origin[0])
-                text_shape.insert_text(
-                    (insert_x, float(origin[1])),
-                    local_text,
-                    fontsize=size,
-                    fontname=fontname,
-                    color=marker_color,
-                )
-                count += 1
-    return count
-
-
 def stamp_pdf(
     *,
     input_path: Path,
@@ -524,7 +387,6 @@ def stamp_pdf(
         page_headers: list[dict[str, object]] = []
         colored_chapter_headings = 0
         colored_verse_numbers = 0
-        bold_blue_footnote_markers = 0
         for index, page in enumerate(document, start=1):
             text = page.get_text("text")
             text_dict = page.get_text("dict")
@@ -556,14 +418,6 @@ def stamp_pdf(
             )
             rect_count += verse_count
             colored_verse_numbers += verse_count
-            footnote_marker_count = reset_and_embolden_blue_footnote_markers_fitz(
-                rect_shape,
-                text_shape,
-                text_dict,
-                fontname=bold_font,
-            )
-            rect_count += footnote_marker_count
-            bold_blue_footnote_markers += footnote_marker_count
             if rect_count:
                 rect_shape.finish(width=0, color=(1, 1, 1), fill=(1, 1, 1))
                 rect_shape.commit(overlay=True)
@@ -594,8 +448,6 @@ def stamp_pdf(
             "header_ref_color": "#9B1C1C",
             "colored_chapter_headings": colored_chapter_headings,
             "colored_verse_numbers": colored_verse_numbers,
-            "bold_blue_footnote_markers": bold_blue_footnote_markers,
-            "reset_blue_footnote_markers": bold_blue_footnote_markers,
             "sources": [str(path) for path in source_paths],
             "page_headers": page_headers,
         }
@@ -646,8 +498,6 @@ def stamp_pdf(
         "header_ref_color": "#9B1C1C",
         "colored_chapter_headings": 0,
         "colored_verse_numbers": 0,
-        "bold_blue_footnote_markers": 0,
-        "reset_blue_footnote_markers": 0,
         "sources": [str(path) for path in source_paths],
         "page_headers": page_headers,
     }
