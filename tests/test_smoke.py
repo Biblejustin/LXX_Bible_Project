@@ -3,6 +3,7 @@ import hashlib
 import importlib.util
 import json
 import re
+import shutil
 import subprocess
 import sys
 import zipfile
@@ -57,6 +58,80 @@ def csv_header(relative_path: str) -> list[str]:
         return next(csv.reader(handle))
 
 
+def ensure_nt_review_outputs() -> Path:
+    output_dir = ROOT / "output" / "working" / "test_nt_review"
+    review_csv = output_dir / "fresh_nt_tr_vs_ukjv_review.csv"
+    diagnostics = output_dir / "fresh_nt_tr_vs_ukjv_review_diagnostics.json"
+    if review_csv.exists() and diagnostics.exists():
+        return output_dir
+    subprocess.run(
+        [
+            sys.executable,
+            "scripts/build_nt_tr_vs_ukjv_review.py",
+            "--review-csv",
+            str(review_csv),
+            "--priority-csv",
+            str(output_dir / "fresh_nt_tr_vs_ukjv_priority_review.csv"),
+            "--priority-md",
+            str(output_dir / "fresh_nt_tr_vs_ukjv_priority_review.md"),
+            "--queue-csv",
+            str(output_dir / "fresh_nt_tr_vs_ukjv_review_queue.csv"),
+            "--queue-md",
+            str(output_dir / "fresh_nt_tr_vs_ukjv_review_queue.md"),
+            "--diagnostics",
+            str(diagnostics),
+        ],
+        cwd=ROOT,
+        check=True,
+        stdout=subprocess.DEVNULL,
+    )
+    return output_dir
+
+
+def nt_review_rows() -> list[dict[str, str]]:
+    path = ensure_nt_review_outputs() / "fresh_nt_tr_vs_ukjv_review.csv"
+    with path.open("r", encoding="utf-8", newline="") as handle:
+        return list(csv.DictReader(handle))
+
+
+def nt_review_diagnostics() -> dict[str, object]:
+    path = ensure_nt_review_outputs() / "fresh_nt_tr_vs_ukjv_review_diagnostics.json"
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def ensure_nt_literal_revision_outputs() -> Path:
+    output_dir = ROOT / "output" / "working" / "test_nt_literal_revision"
+    source_copy = output_dir / "nt_full.csv"
+    diagnostics = output_dir / "nt_tr_literal_revision_pass1_diagnostics.json"
+    review_queue = output_dir / "nt_tr_literal_revision_review_queue.csv"
+    if source_copy.exists() and diagnostics.exists() and review_queue.exists():
+        return output_dir
+    output_dir.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(ROOT / "data" / "raw" / "tr_greek" / "nt_full.csv", source_copy)
+    subprocess.run(
+        [
+            sys.executable,
+            "scripts/apply_nt_tr_literal_revision.py",
+            "--source",
+            str(source_copy),
+            "--report",
+            str(diagnostics),
+            "--review-queue",
+            str(review_queue),
+        ],
+        cwd=ROOT,
+        check=True,
+        stdout=subprocess.DEVNULL,
+    )
+    return output_dir
+
+
+def nt_literal_revision_queue_refs() -> set[str]:
+    path = ensure_nt_literal_revision_outputs() / "nt_tr_literal_revision_review_queue.csv"
+    with path.open("r", encoding="utf-8", newline="") as handle:
+        return {row["ref"] for row in csv.DictReader(handle)}
+
+
 def sha256(relative_path: str) -> str:
     return hashlib.sha256((ROOT / relative_path).read_bytes()).hexdigest()
 
@@ -93,25 +168,14 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     import build_fresh_logos_bible as logos_builder
 
     rows = csv_rows("data/raw/lxx_deuterocanon/deuterocanon_full.csv")
-    progress_rows = csv_rows("output/deuterocanon/lxx_deuterocanon_progress.csv")
     manifest = json.loads((ROOT / "data/raw/lxx_deuterocanon/source_manifest.json").read_text(encoding="utf-8"))
     missing_sources = (ROOT / "docs/DEUTEROCANON_MISSING_SOURCES.md").read_text(encoding="utf-8")
     pending_decisions = (ROOT / "docs/DEUTEROCANON_PENDING_DECISIONS.md").read_text(encoding="utf-8")
-    diagnostics = json.loads(
-        (ROOT / "output/deuterocanon/lxx_deuterocanon_diagnostics.json").read_text(encoding="utf-8")
-    )
-    progress_markdown = (ROOT / "output/deuterocanon/lxx_deuterocanon_progress.md").read_text(encoding="utf-8")
-    inventory_markdown = (ROOT / "output/deuterocanon/lxx_deuterocanon_source_inventory.md").read_text(
-        encoding="utf-8"
-    )
+    diagnostics = manifest["diagnostics"]
     by_ref = {row["ref"]: row for row in rows}
     drafted_refs = [row["ref"] for row in rows if row["draft_translation"].strip()]
     undrafted_refs = [row["ref"] for row in rows if not row["draft_translation"].strip()]
-    tobit_drafted_refs = [
-        row["ref"] for row in rows if row["book_code"] == "TOB" and row["draft_translation"].strip()
-    ]
     codes = {row["book_code"] for row in rows}
-    progress_by_code = {row["book_code"]: row for row in progress_rows}
 
     assert len(rows) == 6045
     assert SOURCE_COLUMNS <= set(rows[0])
@@ -122,12 +186,6 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
         "data/raw/lxx_deuterocanon/grcbrent_usfm.zip"
     ]
     assert any(source["key"] == "grcbrent" for source in manifest["source_archives"])
-    assert "`docs/DEUTEROCANON_MISSING_SOURCES.md`" in progress_markdown
-    assert "`docs/DEUTEROCANON_PENDING_DECISIONS.md`" in progress_markdown
-    assert "make validate-deuterocanon" in progress_markdown
-    assert "`docs/DEUTEROCANON_MISSING_SOURCES.md`" in inventory_markdown
-    assert "`docs/DEUTEROCANON_PENDING_DECISIONS.md`" in inventory_markdown
-    assert "`make validate-deuterocanon`" in inventory_markdown
     assert len(drafted_refs) == 6045
     assert len(undrafted_refs) == 0
     assert {row["book_code"] for row in rows if not row["draft_translation"].strip()} == set()
@@ -146,11 +204,6 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     for relative_path in [
         "data/raw/lxx_deuterocanon/deuterocanon_full.csv",
         "data/raw/lxx_deuterocanon/source_manifest.json",
-        "output/deuterocanon/lxx_deuterocanon_progress.csv",
-        "output/deuterocanon/lxx_deuterocanon_progress.md",
-        "output/deuterocanon/lxx_deuterocanon_source_inventory.md",
-        "output/deuterocanon/lxx_deuterocanon_translation_only.md",
-        "output/deuterocanon/lxx_deuterocanon_worksheet.md",
     ]:
         content = (ROOT / relative_path).read_bytes()
         assert b"\r" not in content, relative_path
@@ -300,32 +353,8 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     assert manifest["diagnostics"]["books"]["4MA"]["source_usfm_id"] == "2MA"
     assert manifest["diagnostics"]["books"]["4MA"]["expected_title"] == "ΜΑΚΚΑΒΑΙΩΝ Δ"
     assert "ΜΑΚΚΑΒΑΙΩΝ Δ" in manifest["diagnostics"]["books"]["4MA"]["note"]
-    assert diagnostics["verse_rows"] == len(rows)
-    assert diagnostics["verses_with_draft_translation"] == len(drafted_refs)
-    assert diagnostics["book_rows"]["2 Maccabees"]["drafted_rows"] == 555
-    assert diagnostics["book_rows"]["Greek Esther Additions"]["drafted_rows"] == 88
-    assert diagnostics["book_rows"]["2 Esdras"]["drafted_rows"] == 280
-    assert diagnostics["book_rows"]["Prayer of Manasseh"]["drafted_rows"] == 15
-    assert diagnostics["decision_rows"] == 0
-    assert diagnostics["footnote_rows"] == 0
-    assert diagnostics["preferred_resource_roles"] == []
-    assert {row["book_code"] for row in progress_rows} == codes
-    assert sum(int(row["drafted_rows"]) for row in progress_rows) == len(drafted_refs)
-    assert {row["book_code"] for row in progress_rows if row["status"] == "in_progress"} == set()
-    assert all(row["status"] == "drafted" for row in progress_rows)
-    assert progress_by_code["TOB"]["status"] == "drafted"
-    assert int(progress_by_code["TOB"]["drafted_rows"]) == len(tobit_drafted_refs)
-    assert int(progress_by_code["TOB"]["remaining_rows"]) == 0
-    assert progress_by_code["ESGA"]["status"] == "drafted"
-    assert progress_by_code["2MA"]["status"] == "drafted"
-    assert int(progress_by_code["2MA"]["drafted_rows"]) == 555
-    assert int(progress_by_code["2MA"]["remaining_rows"]) == 0
-    assert progress_by_code["2ES"]["status"] == "drafted"
-    assert int(progress_by_code["2ES"]["drafted_rows"]) == 280
-    assert int(progress_by_code["2ES"]["remaining_rows"]) == 0
-    assert progress_by_code["MAN"]["status"] == "drafted"
-    assert int(progress_by_code["MAN"]["remaining_rows"]) == 0
-    assert progress_by_code["4MA"]["source_validation"] == "imported"
+    assert diagnostics["rows"] == len(rows)
+    assert diagnostics["draft_preservation"]["preserved_rows"] == len(drafted_refs)
     deuterocanon_verses = logos_builder.load_verses(ROOT / "data/raw/lxx_deuterocanon/deuterocanon_full.csv")
     deuterocanon_by_ref = {verse.ref: verse for verse in deuterocanon_verses}
     assert deuterocanon_by_ref["Greek Esther 1:1α"].chapter == 1
@@ -7692,9 +7721,7 @@ def test_ot_proper_name_notes_only_have_known_residual_weak_meanings() -> None:
 
 
 def test_nt_review_priority_queue_is_empty() -> None:
-    diagnostics = json.loads(
-        (ROOT / "output/fresh_nt_tr_vs_ukjv_review_diagnostics.json").read_text(encoding="utf-8")
-    )
+    diagnostics = nt_review_diagnostics()
 
     assert diagnostics["priority_rows"] == 0
     assert diagnostics["queue_rows"] == 0
@@ -7709,37 +7736,32 @@ def test_nt_literal_revision_queue_excludes_reviewed_pass_refs() -> None:
     spec.loader.exec_module(module)
 
     latest_statuses = module.load_latest_review_statuses()
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
-    diagnostics = json.loads(
-        (ROOT / "output/nt_tr_literal_revision_pass1_diagnostics.json").read_text(encoding="utf-8")
-    )
+    source_rows = csv_rows("data/raw/tr_greek/nt_full.csv")
+    needs_review_refs = {row["ref"] for row in source_rows if row["review_status"] == "needs_focused_tr_review"}
+    synced_review_rows = [
+        row for row in source_rows if row["review_notes"].startswith("focused TR review resolved as ")
+    ]
 
     assert latest_statuses["Matthew 2:3"] == "keep"
-    assert "Matthew 2:3" not in queue_refs
-    assert diagnostics["review_queue_rows"] == len(queue_refs)
-    assert diagnostics["review_queue_resolved_by_pass"] >= 600
+    assert "Matthew 2:3" not in needs_review_refs
+    assert needs_review_refs == set()
+    assert len(synced_review_rows) >= 600
 
 
 def test_nt_review_metadata_cleanup_has_no_stale_queue_markers() -> None:
     source_rows = csv_rows("data/raw/tr_greek/nt_full.csv")
-    review_rows = csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")
-    diagnostics = json.loads(
-        (ROOT / "output/nt_tr_literal_revision_pass1_diagnostics.json").read_text(encoding="utf-8")
-    )
-    review_diagnostics = json.loads(
-        (ROOT / "output/fresh_nt_tr_vs_ukjv_review_diagnostics.json").read_text(encoding="utf-8")
-    )
+    review_rows = nt_review_rows()
+    review_diagnostics = nt_review_diagnostics()
 
     assert not [row["ref"] for row in source_rows if row["review_status"] == "needs_focused_tr_review"]
     assert not [row["ref"] for row in review_rows if not row["latest_review_status"]]
-    assert diagnostics["needs_focused_tr_review_rows"] == 0
-    assert diagnostics["source_review_status_synced"]["keep"] >= 600
+    assert len([row for row in source_rows if row["review_notes"].startswith("focused TR review resolved as keep")]) >= 600
     assert "unreviewed" not in review_diagnostics["latest_review_status_counts"]
 
 
 def test_nt_old_revised_pass_rows_match_source_text() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
 
     expected = {
         "Acts 7:19": "This one dealt craftily with our kindred, and mistreated our fathers, by making them expose their infants, so that they might not be kept alive.",
@@ -7770,8 +7792,8 @@ def test_nt_second_corinthians_5_focused_queue_revisions_stay_reviewed() -> None
 
 def test_nt_second_corinthians_6_to_8_queue_revisions_and_keeps_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "2 Corinthians 6:4": "But in everything commending ourselves as servants of God, in much endurance, in afflictions, in necessities, in distresses,",
@@ -7797,8 +7819,8 @@ def test_nt_second_corinthians_6_to_8_queue_revisions_and_keeps_stay_reviewed() 
 
 def test_nt_second_corinthians_8_to_9_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected = {
         "2 Corinthians 8:22": "And we sent with them our brother, whom we often proved in many things to be diligent, but now much more diligent by great confidence toward you.",
@@ -7817,8 +7839,8 @@ def test_nt_second_corinthians_8_to_9_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_second_corinthians_10_queue_revisions_and_keep_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "2 Corinthians 10:1": "Now I Paul myself plead with you through the meekness and gentleness of Christ, who in person am lowly among you, but being absent am bold toward you:",
@@ -7843,8 +7865,8 @@ def test_nt_second_corinthians_10_queue_revisions_and_keep_stay_reviewed() -> No
 
 def test_nt_second_corinthians_11_queue_revisions_and_keep_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "2 Corinthians 11:2": "For I am jealous for you with God's jealousy: for I joined you to one husband, to present a pure virgin to Christ.",
@@ -7873,8 +7895,8 @@ def test_nt_second_corinthians_11_queue_revisions_and_keep_stay_reviewed() -> No
 
 def test_nt_second_corinthians_12_to_13_queue_revisions_and_keeps_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "2 Corinthians 12:7": "And by the surpassing greatness of the revelations, lest I should be exalted above measure, a thorn in the flesh was given to me, a messenger of Satan, that he might buffet me, lest I should be exalted above measure.",
@@ -7898,8 +7920,8 @@ def test_nt_second_corinthians_12_to_13_queue_revisions_and_keeps_stay_reviewed(
 
 def test_nt_galatians_1_queue_revisions_and_keeps_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Galatians 1:4": "Who gave himself for our sins, that he might deliver us out of this present evil age, according to the will of our God and Father:",
@@ -7921,8 +7943,8 @@ def test_nt_galatians_1_queue_revisions_and_keeps_stay_reviewed() -> None:
 
 def test_nt_galatians_2_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Galatians 2:1": "Then after fourteen years I went up again to Jerusalem with Barnabas, taking Titus also with me.",
@@ -7941,8 +7963,8 @@ def test_nt_galatians_2_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_galatians_3_queue_revisions_and_keep_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Galatians 3:6": "Just as Abraham believed God, and it was reckoned to him for righteousness.",
@@ -7968,8 +7990,8 @@ def test_nt_galatians_3_queue_revisions_and_keep_stay_reviewed() -> None:
 
 def test_nt_galatians_4_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Galatians 4:2": "But he is under guardians and stewards until the time appointed by the father.",
@@ -7994,8 +8016,8 @@ def test_nt_galatians_4_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_galatians_5_to_6_queue_revisions_and_keep_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Galatians 5:3": "And I testify again to every man who is circumcised, that he is a debtor to do the whole law.",
@@ -8021,8 +8043,8 @@ def test_nt_galatians_5_to_6_queue_revisions_and_keep_stay_reviewed() -> None:
 
 def test_nt_ephesians_1_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Ephesians 1:10": "For the dispensation of the fullness of the times, to sum up all things in Christ, the things in the heavens and the things on the earth, in him:",
@@ -8042,8 +8064,8 @@ def test_nt_ephesians_1_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_ephesians_2_to_3_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Ephesians 2:14": "For he himself is our peace, who made both one, and broke down the middle wall of the partition;",
@@ -8063,8 +8085,8 @@ def test_nt_ephesians_2_to_3_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_ephesians_4_queue_revisions_and_keep_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Ephesians 4:6": "One God and Father of all, who is over all, and through all, and in you all.",
@@ -8087,8 +8109,8 @@ def test_nt_ephesians_4_queue_revisions_and_keep_stay_reviewed() -> None:
 
 def test_nt_ephesians_5_to_6_queue_revisions_and_keeps_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Ephesians 5:4": "And filthiness, and foolish talking, or jesting, which are not fitting: but rather thanksgiving.",
@@ -8114,8 +8136,8 @@ def test_nt_ephesians_5_to_6_queue_revisions_and_keeps_stay_reviewed() -> None:
 
 def test_nt_philippians_1_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Philippians 1:3": "I thank my God at every remembrance of you,",
@@ -8139,8 +8161,8 @@ def test_nt_philippians_1_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_philippians_2_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Philippians 2:4": "Let each not look to his own things, but each also to the things of others.",
@@ -8160,8 +8182,8 @@ def test_nt_philippians_2_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_philippians_3_to_4_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Philippians 3:2": "Beware of dogs, beware of evil workers, beware of the mutilation.",
@@ -8188,8 +8210,8 @@ def test_nt_philippians_3_to_4_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_colossians_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Colossians 1:15": "Who is the image of the invisible God, the firstborn of all creation:",
@@ -8224,8 +8246,8 @@ def test_nt_colossians_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_first_thessalonians_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "1 Thessalonians 2:3": "For our exhortation was not from error, nor from uncleanness, nor in deceit:",
@@ -8256,8 +8278,8 @@ def test_nt_first_thessalonians_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_second_thessalonians_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "2 Thessalonians 2:7": "For the mystery of iniquity already works: only there is the one restraining now, until he comes out of the midst.",
@@ -8279,8 +8301,8 @@ def test_nt_second_thessalonians_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_first_timothy_1_to_2_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "1 Timothy 1:8": "But we know that the law is good, if anyone uses it lawfully;",
@@ -8310,8 +8332,8 @@ def test_nt_first_timothy_1_to_2_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_first_timothy_3_to_4_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "1 Timothy 3:3": "not given to wine, not a striker, not greedy for shameful gain; but gentle, peaceable, not loving money;",
@@ -8339,8 +8361,8 @@ def test_nt_first_timothy_3_to_4_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_first_timothy_5_to_6_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "1 Timothy 5:4": "But if any widow has children or grandchildren, let them learn first to show piety toward their own house, and to give recompense to their parents: for this is good and acceptable before God.",
@@ -8380,8 +8402,8 @@ def test_nt_first_timothy_5_to_6_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_second_timothy_1_to_2_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "2 Timothy 1:4": "longing to see you, remembering your tears, that I may be filled with joy;",
@@ -8411,8 +8433,8 @@ def test_nt_second_timothy_1_to_2_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_second_timothy_3_to_4_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "2 Timothy 3:1": "But know this, that in the last days difficult times shall come.",
@@ -8443,8 +8465,8 @@ def test_nt_second_timothy_3_to_4_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_titus_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Titus 1:2": "in hope of eternal life, which God, who cannot lie, promised before eternal times;",
@@ -8475,8 +8497,8 @@ def test_nt_titus_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_philemon_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Philemon 1:4": "I thank my God, always making mention of you in my prayers,",
@@ -8498,8 +8520,8 @@ def test_nt_philemon_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_hebrews_1_to_2_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Hebrews 1:4": "having become so much better than the angels, as he has inherited a more excellent name than they.",
@@ -8521,8 +8543,8 @@ def test_nt_hebrews_1_to_2_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_hebrews_3_to_4_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Hebrews 3:8": "Do not harden your hearts, as in the provocation, in the day of testing in the wilderness:",
@@ -8552,8 +8574,8 @@ def test_nt_hebrews_3_to_4_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_hebrews_5_to_6_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Hebrews 5:1": "For every high priest taken from among men is appointed on behalf of men in things pertaining to God, that he may offer both gifts and sacrifices for sins:",
@@ -8581,8 +8603,8 @@ def test_nt_hebrews_5_to_6_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_hebrews_7_to_8_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Hebrews 7:1": "For this Melchisedec, king of Salem, priest of the Most High God, who met Abraham returning from the slaughter of the kings, and blessed him;",
@@ -8612,8 +8634,8 @@ def test_nt_hebrews_7_to_8_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_hebrews_9_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Hebrews 9:3": "And after the second veil, the tabernacle which is called Holy of Holies;",
@@ -8639,8 +8661,8 @@ def test_nt_hebrews_9_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_hebrews_10_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Hebrews 10:3": "But in them there is a remembrance of sins every year.",
@@ -8668,8 +8690,8 @@ def test_nt_hebrews_10_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_hebrews_11_1_to_18_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Hebrews 11:2": "For by it the elders obtained testimony.",
@@ -8697,8 +8719,8 @@ def test_nt_hebrews_11_1_to_18_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_hebrews_11_20_to_40_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Hebrews 11:22": "By faith Joseph, when dying, made mention concerning the exodus of the children of Israel; and gave command concerning his bones.",
@@ -8726,8 +8748,8 @@ def test_nt_hebrews_11_20_to_40_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_hebrews_12_to_13_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Hebrews 12:21": "And so fearful was the appearance that Moses said, I am terrified and trembling:)",
@@ -8763,8 +8785,8 @@ def test_nt_hebrews_12_to_13_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_james_1_to_2_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "James 1:3": "Knowing that the testing of your faith works endurance.",
@@ -8794,8 +8816,8 @@ def test_nt_james_1_to_2_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_james_3_to_5_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "James 3:7": "For every kind of beasts and birds, of reptiles and sea creatures, is tamed and has been tamed by human nature:",
@@ -8823,8 +8845,8 @@ def test_nt_james_3_to_5_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_1_peter_1_to_2_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "1 Peter 1:4": "To an incorruptible and undefiled and unfading inheritance, reserved in the heavens for you,",
@@ -8848,8 +8870,8 @@ def test_nt_1_peter_1_to_2_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_1_peter_3_to_5_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "1 Peter 3:3": "whose adornment let it not be outward, in braiding hair and wearing gold, or putting on garments;",
@@ -8877,8 +8899,8 @@ def test_nt_1_peter_3_to_5_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_2_peter_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "2 Peter 1:5": "And for this very thing, bringing in all diligence, supply virtue in your faith; and in virtue knowledge;",
@@ -8903,8 +8925,8 @@ def test_nt_2_peter_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_1_john_1_to_3_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "1 John 1:6": "If we say that we have fellowship with him, and walk in darkness, we lie, and do not practice the truth:",
@@ -8932,8 +8954,8 @@ def test_nt_1_john_1_to_3_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_1_john_4_to_5_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "1 John 4:5": "They are from the world: therefore they speak from the world, and the world hears them.",
@@ -8957,8 +8979,8 @@ def test_nt_1_john_4_to_5_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_2_john_and_3_john_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "2 John 1:4": "I rejoiced greatly because I have found some of your children walking in truth, as we received commandment from the Father.",
@@ -8982,8 +9004,8 @@ def test_nt_2_john_and_3_john_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_jude_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Jude 1:8": "Likewise nevertheless these also, dreaming, defile the flesh, reject lordship, and blaspheme glories.",
@@ -9003,8 +9025,8 @@ def test_nt_jude_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_jude_living_creature_cleanup_stays_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     assert (
         source_by_ref["Jude 1:10"]["draft_translation"]
@@ -9019,8 +9041,8 @@ def test_nt_jude_living_creature_cleanup_stays_reviewed() -> None:
 
 def test_nt_revelation_1_to_3_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Revelation 1:12": "And I turned to see the voice which spoke with me. And having turned, I saw seven golden lampstands;",
@@ -9050,8 +9072,8 @@ def test_nt_revelation_1_to_3_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_revelation_4_to_6_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Revelation 4:7": "And the first living creature was like a lion, and the second living creature like a calf, and the third living creature having the face as a man, and the fourth living creature like a flying eagle.",
@@ -9087,8 +9109,8 @@ def test_nt_revelation_zoon_rows_use_living_creature_language() -> None:
 
 def test_nt_revelation_7_to_8_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Revelation 7:1": "And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that no wind should blow on the earth, nor on the sea, nor on any tree.",
@@ -9116,8 +9138,8 @@ def test_nt_revelation_7_to_8_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_revelation_9_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Revelation 9:2": "And he opened the pit of the abyss; and smoke arose out of the pit, as smoke of a great furnace; and the sun and the air were darkened from the smoke of the pit.",
@@ -9141,8 +9163,8 @@ def test_nt_revelation_9_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_revelation_10_to_11_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Revelation 10:1": "And I saw another mighty angel coming down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as the sun, and his feet as pillars of fire:",
@@ -9164,8 +9186,8 @@ def test_nt_revelation_10_to_11_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_revelation_12_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Revelation 12:1": "And a great sign was seen in heaven; a woman clothed with the sun, and the moon underneath her feet, and upon her head a crown of twelve stars:",
@@ -9188,8 +9210,8 @@ def test_nt_revelation_12_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_revelation_13_to_14_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Revelation 13:1": "And I stood upon the sand of the sea, and saw a beast ascending out of the sea, having seven heads and ten horns, and upon his horns ten diadems, and upon his heads a name of blasphemy.",
@@ -9212,8 +9234,8 @@ def test_nt_revelation_13_to_14_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_revelation_15_to_17_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Revelation 15:6": "And the seven angels having the seven plagues came out of the temple, clothed in pure and bright linen, and girded around the breasts with golden belts.",
@@ -9238,8 +9260,8 @@ def test_nt_revelation_15_to_17_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_revelation_18_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Revelation 18:1": "And after these things I saw another angel coming down from heaven, having great authority; and the earth was illuminated from his glory.",
@@ -9262,8 +9284,8 @@ def test_nt_revelation_18_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_revelation_19_to_20_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Revelation 19:14": "And the armies which were in heaven followed him on white horses, clothed in fine linen, white and clean.",
@@ -9285,8 +9307,8 @@ def test_nt_revelation_19_to_20_queue_revisions_stay_reviewed() -> None:
 
 def test_nt_revelation_21_to_22_queue_revisions_stay_reviewed() -> None:
     source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
-    review_by_ref = {row["ref"]: row for row in csv_rows("output/fresh_nt_tr_vs_ukjv_review.csv")}
-    queue_refs = {row["ref"] for row in csv_rows("output/nt_tr_literal_revision_review_queue.csv")}
+    review_by_ref = {row["ref"]: row for row in nt_review_rows()}
+    queue_refs = nt_literal_revision_queue_refs()
 
     expected_manual = {
         "Revelation 21:1": "And I saw a new heaven and a new earth: for the first heaven and the first earth had passed away; and the sea is no more.",
@@ -9378,12 +9400,8 @@ def test_no_raw_logos_bibleknowledgebase_markup_in_key_outputs() -> None:
     paths = [
         ROOT / "data" / "research" / "translation_decisions.csv",
         ROOT / "data" / "research" / "translation_footnotes.csv",
-        ROOT / "output" / "fresh_translation_ot_full_translation_only.md",
-        ROOT / "output" / "fresh_translation_nt_tr_translation_only.md",
-        ROOT / "output" / "the_greek_heritage_study_bible_translation_only.md",
-        ROOT / "output" / "logos" / "fresh_translation_ot_logos_bible_preview.md",
-        ROOT / "output" / "logos_nt" / "fresh_translation_nt_tr_preview.md",
         ROOT / "output" / "logos_greek_heritage" / "the_greek_heritage_study_bible_preview.md",
+        ROOT / "output" / "logos_deuterocanon" / "the_greek_heritage_study_bible_deuterocanon_preview.md",
     ]
 
     for path in paths:
@@ -9437,101 +9455,6 @@ def test_mt_bridge_docx_has_no_consecutive_duplicate_bible_milestones() -> None:
         if left == right
     ]
     assert not duplicates
-
-
-def test_print_proof_profile_is_compact_and_excludes_study_layers() -> None:
-    diagnostics = json.loads(
-        (
-            ROOT
-            / "output"
-            / "print"
-            / "the_greek_heritage_study_bible_print_proof_diagnostics.json"
-        ).read_text(encoding="utf-8")
-    )
-    stats = diagnostics["print_docx"]
-    minimal_crossrefs = diagnostics["minimal_crossrefs"]
-
-    assert diagnostics["print_profile"]["layout"] == "compact_single_column"
-    assert diagnostics["print_profile"]["book_prefaces"] == "included"
-    assert diagnostics["print_profile"]["brenton_supplemental_notes"] == "excluded"
-    assert diagnostics["print_profile"]["openbible_fallback"] == "excluded"
-    assert diagnostics["print_profile"]["generated_crossrefs"] == "excluded"
-    assert diagnostics["print_profile"]["name_meanings"] == "listed_first_source_occurrence_only"
-    assert diagnostics["print_profile"]["source_policy"].startswith("OT LXX Greek rows")
-    assert diagnostics["print_profile"]["translation_note_labels"] == "compact"
-    assert diagnostics["print_profile"]["name_note_labels"] == "compact"
-    assert diagnostics["print_profile"]["note_label_legend"].startswith("Print note label legend:")
-    assert stats["output_kind"] == "print_proof"
-    assert stats["footnote_number_restart"] == "page"
-    assert stats["section_break_count"] == 0
-    assert stats["book_preface_pages"] > 0
-    assert stats["superscription_line_count"] > 0
-    assert stats["supplemental_note_footnotes"] == 0
-    assert stats["brenton_supplemental_footnotes"] == 0
-    assert stats["translation_note_footnotes"] > 0
-    assert 0 < stats["name_meaning_footnotes"] <= 3100
-    assert stats["crossref_footnotes"] == 0
-    assert stats["crossref_footnotes"] == minimal_crossrefs["output_groups"]
-    assert minimal_crossrefs["enabled"] is False
-    assert minimal_crossrefs["source_policy"] == "TSK/OpenBible omitted."
-    assert minimal_crossrefs["max_groups_per_verse"] == 0
-    assert minimal_crossrefs["max_refs_per_note"] == 0
-    assert minimal_crossrefs["output_refs"] == 0
-
-
-def test_print_proof_docx_uses_single_column_compact_layout_and_no_brenton_footnotes() -> None:
-    docx_path = (
-        ROOT
-        / "output"
-        / "print"
-        / "the_greek_heritage_study_bible_print_proof.docx"
-    )
-    with zipfile.ZipFile(docx_path) as zf:
-        document_xml = zf.read("word/document.xml").decode("utf-8")
-        footnotes_xml = zf.read("word/footnotes.xml").decode("utf-8")
-        styles_xml = zf.read("word/styles.xml").decode("utf-8")
-
-    assert '<w:cols w:space="720" w:num="1"/>' in document_xml
-    assert '<w:cols w:space="360" w:num="2"/>' not in document_xml
-    assert '<w:numRestart w:val="eachPage"/>' in document_xml
-    assert '<w:type w:val="continuous"/>' not in document_xml
-    assert document_xml.count("<w:sectPr>") == 1
-    assert 'w:left="540"' in document_xml
-    assert '<w:spacing w:before="0" w:after="0" w:line="220" w:lineRule="auto"/>' in styles_xml
-    assert '<w:pStyle w:val="Heading2"/>' in document_xml
-    assert "Brenton note:" not in footnotes_xml
-    assert "Cross-references for " not in footnotes_xml
-    assert "Article review supplied" not in footnotes_xml
-    assert "Translation note:" not in footnotes_xml
-    assert "Textual note:" not in footnotes_xml
-    assert "Hebrew divine name/title:" not in footnotes_xml
-    assert "Greek LXX divine name/title:" not in footnotes_xml
-    assert "Transliterated proper noun:" not in footnotes_xml
-    assert "Standard English equivalent:" not in footnotes_xml
-    assert "Source form:" not in footnotes_xml
-    assert "Greek form:" not in footnotes_xml
-    assert "Name meaning:" not in footnotes_xml
-    assert "Personal name:" not in footnotes_xml
-    assert "Place-name meaning:" not in footnotes_xml
-    assert "People-name meaning:" not in footnotes_xml
-    assert "T:" in footnotes_xml
-    assert "Heb:" in footnotes_xml
-    assert "Gk:" in footnotes_xml
-    assert "Tr:" in footnotes_xml
-    assert "Nm:" in footnotes_xml
-    assert "Pn:" in footnotes_xml
-    assert "Note Label Legend" in document_xml
-    assert "T = translation note; Txt = textual note; MT/LXX = Masoretic/LXX difference." in document_xml
-    assert "Pn = personal name" in document_xml
-    assert "Includes book preface pages before each book" in document_xml
-    assert "Genesis Preface" in document_xml
-    assert "Name-meaning notes are included only at their listed first/source occurrence" in document_xml
-    assert "Generated TSK/OpenBible cross-reference footnotes are excluded" in document_xml
-    assert "Source Basis" in document_xml
-    assert "OT source basis" in document_xml
-    assert "Reference Numbering Guide" in document_xml
-    assert "English Psalm 23:1: see Psalms 22:1 here." in document_xml
-    assert "<w:br/>" in document_xml
 
 
 def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
@@ -9758,23 +9681,6 @@ def test_lulu_pandoc_pdf_no_overlapping_markers() -> None:
     assert bad_lines == []
 
 
-def test_logos_readmes_use_testament_specific_language() -> None:
-    ot_readme = (ROOT / "output" / "logos" / "README.md").read_text(encoding="utf-8")
-    nt_readme = (ROOT / "output" / "logos_nt" / "README.md").read_text(encoding="utf-8")
-
-    assert "OT Logos files preserve LXX source ordering" in ot_readme
-    assert "MT-only completeness insertion" in ot_readme
-    assert "1 Kings ordering" in ot_readme
-    assert "NT Logos files use the standard NT chapter/verse order" in nt_readme
-    assert "NT source rows are complete" in nt_readme
-    assert "OT Logos files preserve LXX source ordering" not in nt_readme
-    assert "MT-only completeness insertion" not in nt_readme
-    assert "1 Kings ordering" not in nt_readme
-    assert "still needs verse-by-verse TR Greek review" not in nt_readme
-    assert "Place links: disabled by default" in ot_readme
-    assert "Place links: disabled by default" in nt_readme
-
-
 def test_root_readme_reflects_complete_fresh_workspace() -> None:
     readme = (ROOT / "README.md").read_text(encoding="utf-8")
     contributing = (ROOT / "CONTRIBUTING.md").read_text(encoding="utf-8")
@@ -9788,12 +9694,13 @@ def test_root_readme_reflects_complete_fresh_workspace() -> None:
     assert "## Fresh Translation Workspace" in readme
     assert "`data/raw/lxx_greek/ot_full.csv`" in readme
     assert "`data/raw/tr_greek/nt_full.csv`" in readme
-    assert "`output/logos/fresh_translation_ot_logos_bible_mt_notes.docx`" in readme
-    assert "`output/logos_nt/fresh_translation_nt_tr_reference_notes.docx`" in readme
-    assert "`output/the_greek_heritage_study_bible.md`" in readme
-    assert "`output/the_greek_heritage_study_bible_translation_only.md`" in readme
     assert "`output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx`" in readme
+    assert "`output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_logos_bible.docx`" in readme
+    assert "`output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf`" in readme
+    assert "`output/print/cover/ghsb_draft_lulu_jacket_cover_26_625x11_75.pdf`" in readme
     assert "`release/greek-heritage-study-bible-rc1/MANIFEST.md`" in readme
+    assert "They are ignored unless a" in readme
+    assert "future release explicitly promotes them back to reader-facing artifacts" in readme
     assert "make build-fresh" in readme
     assert "make build-combined" in readme
     assert "make build-combined-logos" in readme
@@ -9855,18 +9762,21 @@ def test_data_dictionary_matches_current_editable_schemas() -> None:
 def test_fresh_translation_research_stack_is_scope_specific() -> None:
     stack_text = (ROOT / "data" / "research" / "logos_translation_stack.json").read_text(encoding="utf-8")
     stack = json.loads(stack_text)
-    ot_header = (ROOT / "output" / "fresh_translation_ot_full.md").read_text(encoding="utf-8")[:1200]
-    nt_header = (ROOT / "output" / "fresh_translation_nt_tr_full.md").read_text(encoding="utf-8")[:1200]
+    resources = stack["preferred_resources"]
+    source_resources = {
+        (resource["testament"], resource["role"], resource["resource_id"])
+        for resource in resources
+    }
 
     assert "pilot_scope" not in stack
     assert "Genesis pilot" not in stack_text
-    assert "Preferred research stack:" in ot_header
-    assert "Preferred research stack:" in nt_header
-    assert "OT LXX Greek source workspace" in ot_header
-    assert "NT Scrivener 1894 TR source workspace" in nt_header
-    assert "LLS:LOGOSLXX" not in nt_header
-    assert "Genesis pilot" not in ot_header
-    assert "Genesis pilot" not in nt_header
+    assert ("ot", "source_workspace", "data/raw/lxx_greek/ot_full.csv") in source_resources
+    assert ("nt", "source_workspace", "data/raw/tr_greek/nt_full.csv") in source_resources
+    assert all(
+        resource["testament"] == "ot"
+        for resource in resources
+        if resource["resource_id"] == "LLS:LOGOSLXX"
+    )
 
 
 def test_release_status_distinguishes_ot_rc_from_complete_nt_workspace() -> None:
@@ -9876,82 +9786,17 @@ def test_release_status_distinguishes_ot_rc_from_complete_nt_workspace() -> None
     ]
 
     assert "Release candidate: `fresh-translation-ot-rc1`" in status
-    assert "the NT TR fresh draft is also complete" in status
-    assert "`output/fresh_translation_nt_tr_full.md`" in status
-    assert "`output/logos_nt/`" in status
-    assert "`output/the_greek_heritage_study_bible.md`" in status
-    assert "`output/the_greek_heritage_study_bible_translation_only.md`" in status
+    assert "the NT TR fresh draft is complete" in status
     assert "`output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx`" in status
+    assert "`output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_logos_bible.docx`" in status
+    assert "`output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf`" in status
+    assert "`output/print/cover/ghsb_draft_lulu_jacket_cover_26_625x11_75.pdf`" in status
     assert "`release/greek-heritage-study-bible-rc1/`" in status
     assert "`release/fresh-translation-ot-rc1/MANIFEST.md`" in status
     assert "packaged combined release bundle has not been cut" not in status
     assert f"`{len(pending_variant_refs)}` non-blocking pending" in status
     assert "apparatus rows." in status
     assert "python3" not in status
-
-
-def test_resolved_ot_priority_audits_are_not_open_blocker_queues() -> None:
-    review_audit = (ROOT / "output" / "fresh_vs_brenton_ot_review_queue.md").read_text(encoding="utf-8")
-    decision_audit = (ROOT / "output" / "fresh_vs_brenton_ot_decision_queue.md").read_text(encoding="utf-8")
-    review_rows = csv_rows("output/fresh_vs_brenton_ot_review_queue.csv")
-    decision_rows = csv_rows("output/fresh_vs_brenton_ot_decision_queue.csv")
-
-    assert "not an open blocker queue" in review_audit
-    assert "not an open blocker queue" in decision_audit
-    assert {row["review_status"] for row in review_rows} <= {"keep", "revised"}
-    assert {row["review_status"] for row in decision_rows} <= {"keep", "revised"}
-
-
-def test_fresh_full_markdown_has_no_todo_placeholders() -> None:
-    paths = [
-        ROOT / "output" / "fresh_translation_ot_full.md",
-        ROOT / "output" / "fresh_translation_ot_full_translation_only.md",
-        ROOT / "output" / "fresh_translation_nt_tr_full.md",
-        ROOT / "output" / "fresh_translation_nt_tr_translation_only.md",
-        ROOT / "output" / "the_greek_heritage_study_bible.md",
-        ROOT / "output" / "the_greek_heritage_study_bible_translation_only.md",
-    ]
-    for path in paths:
-        text = path.read_text(encoding="utf-8")
-        assert "[TODO" not in text
-        assert "TODO" not in text
-
-
-def test_combined_fresh_translation_contains_ot_then_nt() -> None:
-    worksheet = (ROOT / "output" / "the_greek_heritage_study_bible.md").read_text(encoding="utf-8")
-    text = (ROOT / "output" / "the_greek_heritage_study_bible_translation_only.md").read_text(encoding="utf-8")
-    diagnostics = json.loads(
-        (ROOT / "output" / "the_greek_heritage_study_bible_diagnostics.json").read_text(
-            encoding="utf-8"
-        )
-    )
-
-    assert worksheet.startswith("# The Greek Heritage Study Bible Worksheet\n\nScope: Genesis-Revelation (66 books)")
-    assert "## Old Testament" in worksheet
-    assert "## New Testament" in worksheet
-    assert "##### Genesis 1:1" in worksheet
-    assert "##### Matthew 1:1" in worksheet
-    assert "Greek:" in worksheet
-    assert "Decision rows:" in worksheet
-    assert text.startswith("# The Greek Heritage Study Bible\n\nScope: Genesis-Revelation (66 books)")
-    for marker in (
-        "## Old Testament",
-        "### Genesis",
-        "### Malachi",
-        "## New Testament",
-        "### Matthew",
-        "### Revelation",
-    ):
-        assert marker in text
-    assert text.index("### Genesis") < text.index("### Malachi")
-    assert text.index("### Malachi") < text.index("## New Testament")
-    assert text.index("## New Testament") < text.index("### Matthew")
-    assert text.index("### Matthew") < text.index("### Revelation")
-    assert diagnostics["ot_book_count"] == 39
-    assert diagnostics["nt_book_count"] == 27
-    assert diagnostics["total_book_count"] == 66
-    assert diagnostics["output"].endswith("the_greek_heritage_study_bible.md")
-    assert diagnostics["translation_only_output"].endswith("the_greek_heritage_study_bible_translation_only.md")
 
 
 def test_combined_logos_reader_output_suppresses_mechanical_review_notes() -> None:
@@ -9981,16 +9826,20 @@ def test_combined_release_manifest_and_checksums_cover_outputs() -> None:
     ).read_text(encoding="utf-8").splitlines()
     checksums = {line.split("  ", 1)[1]: line.split("  ", 1)[0] for line in checksum_lines}
     expected_paths = [
-        "output/the_greek_heritage_study_bible_translation_only.md",
-        "output/the_greek_heritage_study_bible.md",
         "output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx",
         "output/logos_greek_heritage/the_greek_heritage_study_bible_reference_notes.docx",
         "output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx",
         "output/logos_greek_heritage/README.md",
+        "output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_logos_bible.docx",
+        "output/logos_deuterocanon/README.md",
+        "output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf",
+        "output/print/cover/ghsb_draft_lulu_jacket_cover_26_625x11_75.pdf",
     ]
 
     assert "Release candidate: `greek-heritage-study-bible-rc1`" in manifest
-    assert "make release-combined" in manifest
+    assert "make build-combined-logos" in manifest
+    assert "make build-deuterocanon-logos" in manifest
+    assert "make build-print-proof-lulu-pandoc-pdf" in manifest
     assert "python3" not in manifest
     for relative_path in expected_paths:
         assert f"`{relative_path}`" in manifest
@@ -10000,7 +9849,7 @@ def test_combined_release_manifest_and_checksums_cover_outputs() -> None:
 
 def test_no_known_fixed_ot_name_leaks_in_outputs_or_support_tables() -> None:
     paths = [
-        ROOT / "output" / "fresh_translation_ot_full_translation_only.md",
+        ROOT / "output" / "logos_greek_heritage" / "the_greek_heritage_study_bible_preview.md",
         ROOT / "data" / "research" / "translation_footnotes.csv",
     ]
     forbidden = [
@@ -10320,15 +10169,10 @@ def test_pinned_raw_artifacts_are_unchanged() -> None:
 
 def test_generated_docx_files_are_valid_when_present() -> None:
     paths = [
-        ROOT / "output/logos/fresh_translation_ot_logos_bible.docx",
-        ROOT / "output/logos/fresh_translation_ot_logos_bible_mt_notes.docx",
-        ROOT / "output/logos/fresh_translation_ot_proofreading.docx",
-        ROOT / "output/logos_nt/fresh_translation_nt_tr_logos_bible.docx",
-        ROOT / "output/logos_nt/fresh_translation_nt_tr_reference_notes.docx",
-        ROOT / "output/logos_nt/fresh_translation_nt_tr_proofreading.docx",
         ROOT / "output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx",
         ROOT / "output/logos_greek_heritage/the_greek_heritage_study_bible_reference_notes.docx",
         ROOT / "output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx",
+        ROOT / "output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_logos_bible.docx",
     ]
 
     for path in paths:

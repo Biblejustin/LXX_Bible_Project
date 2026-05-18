@@ -142,7 +142,7 @@ make build-deuterocanon-book BOOK=Tobit
 That imports the pinned eBible GRCLXX USFM archive, plus the public-domain
 eBible Brenton Greek supplement for Prayer of Manasseh and true 2 Maccabees, into
 `data/raw/lxx_deuterocanon/deuterocanon_full.csv` and writes separate review
-artifacts and a progress dashboard under `output/deuterocanon/`. The existing
+artifacts and a progress dashboard under ignored `output/deuterocanon/`. The existing
 GRCLXX rows, Greek Ezra B / 2 Esdras, Prayer of Manasseh, Greek Esther
 Additions, and true 2 Maccabees are drafted and have received a first polish
 pass. Continued proofreading remains separate from the source import.
@@ -190,36 +190,6 @@ separately when the project is ready for broader contributors.
 ## Current Outputs
 
 - `RELEASE_STATUS.md`
-- `output/fresh_translation_ot_full.md`
-- `output/fresh_translation_ot_full_translation_only.md`
-- `output/fresh_translation_ot_full_diagnostics.json`
-- `output/fresh_translation_nt_tr_full.md`
-- `output/fresh_translation_nt_tr_translation_only.md`
-- `output/fresh_translation_nt_tr_diagnostics.json`
-- `output/the_greek_heritage_study_bible.md`
-- `output/the_greek_heritage_study_bible_translation_only.md`
-- `output/the_greek_heritage_study_bible_diagnostics.json`
-- `output/fresh_vs_brenton_ot_drafted.md`
-- `output/fresh_vs_brenton_ot_priority_review.md`
-- `output/fresh_nt_tr_vs_ukjv_priority_review.md`
-- `output/fresh_vs_brenton_ot_theme_overview.md`
-- `output/fresh_vs_mt_brenton_ot_review.md`
-- `output/fresh_mt_leaning_vs_brenton.md`
-- `output/fresh_human_review_phase1.md`
-- `output/fresh_human_review_core.md`
-- `output/release_hardening_report.md`
-- `output/logos/fresh_translation_ot_logos_bible.docx`
-- `output/logos/fresh_translation_ot_logos_bible_mt_notes.docx`
-- `output/logos/fresh_translation_ot_logos_bible_preview.md`
-- `output/logos/fresh_translation_ot_proofreading.docx`
-- `output/logos/fresh_translation_ot_logos_bible_diagnostics.json`
-- `output/logos/README.md`
-- `output/logos_nt/fresh_translation_nt_tr_logos_bible.docx`
-- `output/logos_nt/fresh_translation_nt_tr_reference_notes.docx`
-- `output/logos_nt/fresh_translation_nt_tr_preview.md`
-- `output/logos_nt/fresh_translation_nt_tr_proofreading.docx`
-- `output/logos_nt/fresh_translation_nt_tr_diagnostics.json`
-- `output/logos_nt/README.md`
 - `output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx`
 - `output/logos_greek_heritage/the_greek_heritage_study_bible_reference_notes.docx`
 - `output/logos_greek_heritage/the_greek_heritage_study_bible_preview.md`
@@ -230,11 +200,18 @@ separately when the project is ready for broader contributors.
 - `output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_preview.md`
 - `output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_diagnostics.json`
 - `output/logos_deuterocanon/README.md`
-- `output/print/the_greek_heritage_study_bible_print_proof.docx`
-- `output/print/the_greek_heritage_study_bible_print_proof_diagnostics.json`
-- `output/print/README.md`
+- `output/print/the_greek_heritage_study_bible_lulu_print_proof.docx`
+- `output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf`
+- `output/print/the_greek_heritage_study_bible_lulu_print_proof_diagnostics.json`
+- `output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_pdf_headers.json`
+- `output/print/README_lulu.md`
+- `output/print/cover/ghsb_draft_lulu_jacket_cover_26_625x11_75.pdf`
 - `release/fresh-translation-ot-rc1/MANIFEST.md`
 - `release/greek-heritage-study-bible-rc1/MANIFEST.md`
+
+Other review reports, size sweeps, renderer experiments, cache files, and
+intermediate Markdown worksheets are build byproducts. They are ignored unless a
+future release explicitly promotes them back to reader-facing artifacts.
 
 ## Fresh Translation Workspace
 
@@ -318,12 +295,9 @@ OT book-checkpoint rebuild:
 python scripts/run_book_checkpoint.py
 ```
 
-This enforces contextual proper-name decisions, syncs support notes, refreshes proper-name note coverage, and rebuilds consolidated outputs:
-
-- `output/fresh_translation_ot_full.md`
-- `output/fresh_translation_ot_full_translation_only.md`
-- `output/fresh_vs_brenton_ot_drafted.md`
-- `output/fresh_vs_brenton_ot_drafted.csv`
+This enforces contextual proper-name decisions, syncs support notes, refreshes
+proper-name note coverage, and rebuilds ignored checkpoint artifacts under
+`output/`.
 
 Priority-review suite:
 
@@ -331,41 +305,9 @@ Priority-review suite:
 python scripts/run_priority_review_suite.py
 ```
 
-This rebuilds:
-
-- `output/fresh_vs_brenton_ot_priority_review.md`
-- `output/fresh_vs_brenton_ot_priority_top100.md`
-- `output/priority_books/index.md`
-- `output/fresh_vs_brenton_ot_theme_overview.md`
-- `output/priority_themes/index.md`
-- `output/fresh_vs_brenton_ot_review_queue.csv`
-- `output/fresh_vs_brenton_ot_review_queue.md`
-- `output/fresh_vs_brenton_ot_decision_queue.csv`
-- `output/fresh_vs_brenton_ot_decision_queue.md`
-- `output/fresh_vs_mt_brenton_ot_review.md`
-- `output/fresh_same_as_mt_differs_from_brenton.md`
-- `output/fresh_mt_leaning_vs_brenton.md`
-- `output/fresh_differs_from_mt_and_brenton.md`
-- `output/fresh_ot_idiom_consistency_review.md`
-- `output/fresh_ot_idiom_consistency_outliers.md`
-- `output/fresh_ot_nt_idiom_review.md`
-- `output/fresh_ot_nt_idiom_outliers.md`
-- `output/fresh_ot_crossref_clues.md`
-- `output/fresh_ot_crossref_watch.md`
-- `output/fresh_ot_logos_local_review.md`
-- `output/fresh_ot_logos_local_watch.md`
-- `data/research/local/witness_review/nt_english_witness_observations.csv`
-- `data/research/local/witness_review/logos_local_observations.csv`
-- `output/fresh_ot_english_witness_review.md`
-- `output/fresh_ot_english_witness_watch.md`
-- `output/fresh_ot_proper_name_watch.md`
-- `output/fresh_human_review_phase1.md`
-- `output/fresh_human_review_core.md`
-- `output/fresh_human_review_mt_watch.md`
-- `output/fresh_human_review_nt_watch.md`
-- `output/release_hardening_report.md`
-- `output/release_hardening_report.json`
-- `output/release_hardening_samples.csv`
+This rebuilds ignored review reports, queues, watchlists, and hardening samples
+under `output/`, plus local-only witness observations under
+`data/research/local/`.
 
 Existing OT release-candidate package:
 
@@ -431,10 +373,7 @@ python scripts/build_logos_local_review.py
 
 This writes:
 
-- `output/fresh_ot_logos_local_review.md`
-- `output/fresh_ot_logos_local_review.csv`
-- `output/fresh_ot_logos_local_watch.md`
-- `output/fresh_ot_logos_local_watch.csv`
+- ignored Logos-local review/watch artifacts under `output/`
 
 Proper-name watch:
 
@@ -444,8 +383,6 @@ python scripts/build_proper_name_watch.py
 
 This writes:
 
-- `output/fresh_ot_proper_name_watch.md`
-- `output/fresh_ot_proper_name_watch.csv`
 - `data/research/local/proper_name_review/proper_name_candidates.csv`
 
 Use this for normalizing Greekized OT names toward familiar MT-based English forms, while keeping meaning notes in notes rather than main-text spellings.
