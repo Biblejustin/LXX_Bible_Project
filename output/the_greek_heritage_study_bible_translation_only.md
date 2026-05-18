@@ -6602,7 +6602,7 @@ And the Lord said to Moses, "When you go and return to Egypt, see that you do al
 
 **Exodus 4:22**
 
-And you shall say to Pharaoh, "These things says the Lord: Israel is my firstborn son."
+And you shall say to Pharaoh, "Thus says the Lord: Israel is my firstborn son."
 
 **Exodus 4:23**
 
@@ -6644,7 +6644,7 @@ And the people believed and rejoiced because God had visited the sons of Israel 
 
 **Exodus 5:1**
 
-And after these things Moses and Aaron went in to Pharaoh and said to him, "These things says the Lord, the God of Israel: Send out my people so that they may hold a feast to me in the wilderness."
+And after these things Moses and Aaron went in to Pharaoh and said to him, "Thus says the Lord, the God of Israel: Send out my people so that they may hold a feast to me in the wilderness."
 
 **Exodus 5:2**
 
@@ -6680,7 +6680,7 @@ Let the works of these men be made heavy, and let them attend to these things, a
 
 **Exodus 5:10**
 
-And the taskmasters and the scribes hurried them and spoke to the people, saying, "These things says Pharaoh: I no longer give you straw."
+And the taskmasters and the scribes hurried them and spoke to the people, saying, "Thus says Pharaoh: I no longer give you straw."
 
 **Exodus 5:11**
 
@@ -6924,7 +6924,7 @@ And you shall say to him, The Lord, the God of the Hebrews, has sent me to you, 
 
 **Exodus 7:17**
 
-These things says the Lord: By this you shall know that I am the Lord. Look, I strike with the staff in my hand upon the water in the river, and it will turn into blood.
+Thus says the Lord: By this you shall know that I am the Lord. Look, I strike with the staff in my hand upon the water in the river, and it will turn into blood.
 
 **Exodus 7:18**
 
@@ -6960,7 +6960,7 @@ And seven days were fulfilled after the Lord struck the river.
 
 **Exodus 7:26**
 
-And the Lord said to Moses, Go in to Pharaoh and say to him, These things says the Lord: Send out my people so that they may serve me.
+And the Lord said to Moses, Go in to Pharaoh and say to him, Thus says the Lord: Send out my people so that they may serve me.
 
 **Exodus 7:27**
 
@@ -7038,7 +7038,7 @@ Then the enchanters said to Pharaoh, This is the finger of God. And Pharaoh's he
 
 **Exodus 8:16**
 
-And the Lord said to Moses, Rise early in the morning and stand before Pharaoh, and look, he goes out to the water, and you shall say to him, These things says the Lord: Send out my people so that they may serve me in the wilderness.
+And the Lord said to Moses, Rise early in the morning and stand before Pharaoh, and look, he goes out to the water, and you shall say to him, Thus says the Lord: Send out my people so that they may serve me in the wilderness.
 
 **Exodus 8:17**
 
@@ -7092,7 +7092,7 @@ And Pharaoh made his heart heavy also at this time, and he did not want to send 
 
 **Exodus 9:1**
 
-And the Lord said to Moses, Go in to Pharaoh, and you shall say to him, These things says the Lord, the God of the Hebrews: Send out my people so that they may serve me.
+And the Lord said to Moses, Go in to Pharaoh, and you shall say to him, Thus says the Lord, the God of the Hebrews: Send out my people so that they may serve me.
 
 **Exodus 9:2**
 
@@ -7140,7 +7140,7 @@ And the Lord hardened Pharaoh's heart, and he did not listen to them, just as th
 
 **Exodus 9:13**
 
-And the Lord said to Moses, Rise early in the morning and stand before Pharaoh, and you shall say to him, These things says the Lord, the God of the Hebrews: Send out my people so that they may serve me.
+And the Lord said to Moses, Rise early in the morning and stand before Pharaoh, and you shall say to him, Thus says the Lord, the God of the Hebrews: Send out my people so that they may serve me.
 
 **Exodus 9:14**
 
@@ -7242,7 +7242,7 @@ Then the Lord said to Moses, "Go in to Pharaoh, for I have hardened his heart an
 
 **Exodus 10:3**
 
-Then Moses and Aaron went in before Pharaoh and said to him, "These things says the Lord, the God of the Hebrews: How long will you refuse to humble yourself before me? Send my people away, so that they may serve me."
+Then Moses and Aaron went in before Pharaoh and said to him, "Thus says the Lord, the God of the Hebrews: How long will you refuse to humble yourself before me? Send my people away, so that they may serve me."
 
 **Exodus 10:4**
 
@@ -7364,7 +7364,7 @@ And the Lord gave his people favor in the sight of the Egyptians, and they lent 
 
 **Exodus 11:4**
 
-And Moses said, "These things says the Lord: About midnight I enter into the midst of Egypt,"
+And Moses said, "Thus says the Lord: About midnight I enter into the midst of Egypt,"
 
 **Exodus 11:5**
 
@@ -17376,7 +17376,7 @@ This is the water of reviling, because the sons of Israel reviled before the Lor
 
 **Numbers 20:14**
 
-And Moses sent messengers from Kadesh to the king of Edom, saying, These things says your brother Israel: you know all the hardship that found us.
+And Moses sent messengers from Kadesh to the king of Edom, saying, Thus says your brother Israel: you know all the hardship that found us.
 
 **Numbers 20:15**
 
@@ -69746,7 +69746,7 @@ An unjust man is an abomination to the righteous, and a straight way is an abomi
 
 **Proverbs 30:1**
 
-My words, son, fear and receive them, and repent. These things says the man to those trusting in God, and I stop.
+My words, son, fear and receive them, and repent. Thus says the man to those trusting in God, and I stop.
 
 **Proverbs 30:2**
 
@@ -124406,7 +124406,7 @@ The mystery of the seven stars which you saw in my right hand, and the seven gol
 
 **Revelation 2:1**
 
-To the angel of the assembly of Ephesus write; These things says the one who holds the seven stars in his right hand, who walks in the midst of the seven golden candlesticks;
+To the angel of the assembly of Ephesus write; Thus says the one who holds the seven stars in his right hand, who walks in the midst of the seven golden candlesticks;
 
 **Revelation 2:2**
 
@@ -124434,7 +124434,7 @@ the one who has an ear, let him hear what the Spirit says to the assemblies; To 
 
 **Revelation 2:8**
 
-And to the angel of the assembly in Smyrna write; These things says the first and the last, which was dead, and is alive;
+And to the angel of the assembly in Smyrna write; Thus says the first and the last, which was dead, and is alive;
 
 **Revelation 2:9**
 
@@ -124450,7 +124450,7 @@ the one who has an ear, let him hear what the Spirit says to the assemblies; the
 
 **Revelation 2:12**
 
-And to the angel of the assembly in Pergamos write; These things says the one who has the sharp sword with two edges;
+And to the angel of the assembly in Pergamos write; Thus says the one who has the sharp sword with two edges;
 
 **Revelation 2:13**
 
@@ -124474,7 +124474,7 @@ the one who has an ear, let him hear what the Spirit says to the assemblies; To 
 
 **Revelation 2:18**
 
-And to the angel of the assembly in Thyatira write; These things says the Son of God, who has his eyes like to a flame of fire, and his feet are like fine brass;
+And to the angel of the assembly in Thyatira write; Thus says the Son of God, who has his eyes like to a flame of fire, and his feet are like fine brass;
 
 **Revelation 2:19**
 
@@ -124524,7 +124524,7 @@ the one who has an ear, let him hear what the Spirit says to the assemblies.
 
 **Revelation 3:1**
 
-And to the angel of the assembly in Sardis write; These things says the one who has the seven Spirits of God, and the seven stars; I know your works, that you have a name that you live, and are dead.
+And to the angel of the assembly in Sardis write; Thus says the one who has the seven Spirits of God, and the seven stars; I know your works, that you have a name that you live, and are dead.
 
 **Revelation 3:2**
 
@@ -124548,7 +124548,7 @@ the one who has an ear, let him hear what the Spirit says to the assemblies.
 
 **Revelation 3:7**
 
-And to the angel of the assembly in Philadelphia write; These things says the one who is holy, the one who is true, the one who has the key of David, the one who opens, and no one shuts; and shuts, and no one opens;
+And to the angel of the assembly in Philadelphia write; Thus says the one who is holy, the one who is true, the one who has the key of David, the one who opens, and no one shuts; and shuts, and no one opens;
 
 **Revelation 3:8**
 
@@ -124576,7 +124576,7 @@ the one who has an ear, let him hear what the Spirit says to the assemblies.
 
 **Revelation 3:14**
 
-And to the angel of the assembly of the Laodiceans write; These things says the Amen, the faithful and true witness, the beginning of the creation of God;
+And to the angel of the assembly of the Laodiceans write; Thus says the Amen, the faithful and true witness, the beginning of the creation of God;
 
 **Revelation 3:15**
 

@@ -219,6 +219,7 @@ STYLE_ONLY_NOTES = {
     "fixed that-that wording",
     "fixed worldly typo",
     "fixed yours artifact",
+    "rendered tade legei formula as Thus says",
     "modernized article before h-word",
     "modernized article before consonant sound",
     "modernized archaic directional unto",

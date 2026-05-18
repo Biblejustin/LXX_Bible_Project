@@ -30830,7 +30830,7 @@ The mystery of the seven stars which you saw in my right hand, and the seven gol
 
 **Revelation 2:1**
 
-To the angel of the assembly of Ephesus write; These things says the one who holds the seven stars in his right hand, who walks in the midst of the seven golden candlesticks;
+To the angel of the assembly of Ephesus write; Thus says the one who holds the seven stars in his right hand, who walks in the midst of the seven golden candlesticks;
 
 **Revelation 2:2**
 
@@ -30858,7 +30858,7 @@ the one who has an ear, let him hear what the Spirit says to the assemblies; To 
 
 **Revelation 2:8**
 
-And to the angel of the assembly in Smyrna write; These things says the first and the last, which was dead, and is alive;
+And to the angel of the assembly in Smyrna write; Thus says the first and the last, which was dead, and is alive;
 
 **Revelation 2:9**
 
@@ -30874,7 +30874,7 @@ the one who has an ear, let him hear what the Spirit says to the assemblies; the
 
 **Revelation 2:12**
 
-And to the angel of the assembly in Pergamos write; These things says the one who has the sharp sword with two edges;
+And to the angel of the assembly in Pergamos write; Thus says the one who has the sharp sword with two edges;
 
 **Revelation 2:13**
 
@@ -30898,7 +30898,7 @@ the one who has an ear, let him hear what the Spirit says to the assemblies; To 
 
 **Revelation 2:18**
 
-And to the angel of the assembly in Thyatira write; These things says the Son of God, who has his eyes like to a flame of fire, and his feet are like fine brass;
+And to the angel of the assembly in Thyatira write; Thus says the Son of God, who has his eyes like to a flame of fire, and his feet are like fine brass;
 
 **Revelation 2:19**
 
@@ -30948,7 +30948,7 @@ the one who has an ear, let him hear what the Spirit says to the assemblies.
 
 **Revelation 3:1**
 
-And to the angel of the assembly in Sardis write; These things says the one who has the seven Spirits of God, and the seven stars; I know your works, that you have a name that you live, and are dead.
+And to the angel of the assembly in Sardis write; Thus says the one who has the seven Spirits of God, and the seven stars; I know your works, that you have a name that you live, and are dead.
 
 **Revelation 3:2**
 
@@ -30972,7 +30972,7 @@ the one who has an ear, let him hear what the Spirit says to the assemblies.
 
 **Revelation 3:7**
 
-And to the angel of the assembly in Philadelphia write; These things says the one who is holy, the one who is true, the one who has the key of David, the one who opens, and no one shuts; and shuts, and no one opens;
+And to the angel of the assembly in Philadelphia write; Thus says the one who is holy, the one who is true, the one who has the key of David, the one who opens, and no one shuts; and shuts, and no one opens;
 
 **Revelation 3:8**
 
@@ -31000,7 +31000,7 @@ the one who has an ear, let him hear what the Spirit says to the assemblies.
 
 **Revelation 3:14**
 
-And to the angel of the assembly of the Laodiceans write; These things says the Amen, the faithful and true witness, the beginning of the creation of God;
+And to the angel of the assembly of the Laodiceans write; Thus says the Amen, the faithful and true witness, the beginning of the creation of God;
 
 **Revelation 3:15**
 

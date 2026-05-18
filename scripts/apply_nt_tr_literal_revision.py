@@ -1474,6 +1474,7 @@ def apply_final_cleanups(text: str, notes: list[str]) -> str:
         (r"\ball The brothers\b", "all the brothers", "fixed brothers casing"),
         (r"\bSalute The brothers\b", "Salute the brothers", "fixed brothers casing"),
         (r"\bThe brothers who are\b", "the brothers who are", "fixed brothers casing"),
+        (r"\bThese things says\b", "Thus says", "rendered tade legei formula as Thus says"),
     ]
     for pattern, replacement, note in case_sensitive_replacements:
         text = replace_literal(text, pattern, replacement, note, notes)

@@ -604,6 +604,7 @@ def test_reviewed_ot_rendering_cleanup_stays_in_source_and_notes() -> None:
     assert by_ref["Ecclesiastes 3:1"]["draft_translation"].startswith("For all things there is a time")
     assert "the Lord himself will give you a sign" in by_ref["Isaiah 7:14"]["draft_translation"]
     assert not [row["ref"] for row in ot_rows if "Gods " in row["draft_translation"]]
+    assert not [row["ref"] for row in ot_rows if "These things says" in row["draft_translation"]]
 
     notes = csv_rows("data/research/translation_footnotes.csv")
     assert not [row["ref"] for row in notes if "Direct Logos export" in row["footnote_text"]]
@@ -3763,7 +3764,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the righteous are put in fear" in by_ref["Proverbs 29:16"]["draft_translation"]
     assert "faces of the leaders" in by_ref["Proverbs 29:26"]["draft_translation"]
     assert "abomination to the righteous" in by_ref["Proverbs 29:27"]["draft_translation"]
-    assert "These things says the man" in by_ref["Proverbs 30:1"]["draft_translation"]
+    assert "Thus says the man" in by_ref["Proverbs 30:1"]["draft_translation"]
     assert "knowledge of the holy ones" in by_ref["Proverbs 30:3"]["draft_translation"]
     assert "winds in a bosom" in by_ref["Proverbs 30:4"]["draft_translation"]
     assert "water in a garment" in by_ref["Proverbs 30:4"]["draft_translation"]
@@ -9304,6 +9305,8 @@ def test_high_confidence_review_typos_are_corrected_at_source() -> None:
     ]
     assert "Alleluia. And her smoke" in nt_by_ref["Revelation 19:3"]["draft_translation"]
     assert "Alleluia And her smoke" not in nt_by_ref["Revelation 19:3"]["draft_translation"]
+    assert "Thus says the one who holds" in nt_by_ref["Revelation 2:1"]["draft_translation"]
+    assert not [row["ref"] for row in nt_by_ref.values() if "These things says" in row["draft_translation"]]
     assert "many are those who enter through it" in nt_by_ref["Matthew 7:13"][
         "draft_translation"
     ]

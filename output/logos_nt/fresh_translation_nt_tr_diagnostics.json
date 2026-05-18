@@ -33,12 +33,12 @@
   },
   "translation_note_filter": {
     "rows": 25257,
-    "included": 4030,
-    "included_mt_lxx_difference_notes": 333,
+    "included": 4032,
+    "included_mt_lxx_difference_notes": 334,
     "skipped_unreviewed": 1893,
     "skipped_generic_mt_lxx_without_concrete_detail": 9143,
     "included_concrete_mt_lxx_details": 3,
-    "skipped_generic_or_brenton_only": 10082,
+    "skipped_generic_or_brenton_only": 10080,
     "skipped_note_type": 109
   },
   "reader_facing_translation_note_filter": {
@@ -50,8 +50,8 @@
   },
   "translation_decision_filter": {
     "present": 1,
-    "rows": 12403,
-    "skipped_non_variant": 7771,
+    "rows": 12404,
+    "skipped_non_variant": 7772,
     "skipped_unreviewed": 2734,
     "included": 1898,
     "included_refs": 1898

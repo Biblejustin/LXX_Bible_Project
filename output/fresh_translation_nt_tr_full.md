@@ -152021,7 +152021,7 @@ Greek: τω αγγελω της εφεσινης εκκλησιας γραψον
 Transliteration: tw aggelw thv efesinhv ekklhsiav graqon tade legei o kratwn touv epta asterav en th dexia autou o peripatwn en mesw twn epta lucniwn twn cruswn
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: To the angel of the assembly of Ephesus write; These things says the one who holds the seven stars in his right hand, who walks in the midst of the seven golden candlesticks;
+Draft translation: To the angel of the assembly of Ephesus write; Thus says the one who holds the seven stars in his right hand, who walks in the midst of the seven golden candlesticks;
 
 Decision rows:
 - None recorded.
@@ -152161,7 +152161,7 @@ Greek: και τω αγγελω της εκκλησιας σμυρναιων γ�
 Transliteration: kai tw aggelw thv ekklhsiav smurnaiwn graqon tade legei o prwtov kai o escatov ov egeneto nekrov kai ezhsen
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And to the angel of the assembly in Smyrna write; These things says the first and the last, which was dead, and is alive;
+Draft translation: And to the angel of the assembly in Smyrna write; Thus says the first and the last, which was dead, and is alive;
 
 Decision rows:
 - None recorded.
@@ -152241,7 +152241,7 @@ Greek: και τω αγγελω της εν περγαμω εκκλησιας γ
 Transliteration: kai tw aggelw thv en pergamw ekklhsiav graqon tade legei o ecwn thn romfaian thn distomon thn oxeian
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And to the angel of the assembly in Pergamos write; These things says the one who has the sharp sword with two edges;
+Draft translation: And to the angel of the assembly in Pergamos write; Thus says the one who has the sharp sword with two edges;
 
 Decision rows:
 - None recorded.
@@ -152361,7 +152361,7 @@ Greek: και τω αγγελω της εν θυατειροις εκκλησι�
 Transliteration: kai tw aggelw thv en yuateiroiv ekklhsiav graqon tade legei o uiov tou yeou o ecwn touv ofyalmouv autou wv floga purov kai oi podev autou omoioi calkolibanw
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And to the angel of the assembly in Thyatira write; These things says the Son of God, who has his eyes like to a flame of fire, and his feet are like fine brass;
+Draft translation: And to the angel of the assembly in Thyatira write; Thus says the Son of God, who has his eyes like to a flame of fire, and his feet are like fine brass;
 
 Decision rows:
 - None recorded.
@@ -152603,7 +152603,7 @@ Greek: και τω αγγελω της εν σαρδεσιν εκκλησιας 
 Transliteration: kai tw aggelw thv en sardesin ekklhsiav graqon tade legei o ecwn ta epta pneumata tou yeou kai touv epta asterav oida sou ta erga oti to onoma eceiv oti zhv kai nekrov ei
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And to the angel of the assembly in Sardis write; These things says the one who has the seven Spirits of God, and the seven stars; I know your works, that you have a name that you live, and are dead.
+Draft translation: And to the angel of the assembly in Sardis write; Thus says the one who has the seven Spirits of God, and the seven stars; I know your works, that you have a name that you live, and are dead.
 
 Decision rows:
 - None recorded.
@@ -152723,7 +152723,7 @@ Greek: και τω αγγελω της εν φιλαδελφεια εκκλησ�
 Transliteration: kai tw aggelw thv en filadelfeia ekklhsiav graqon tade legei o agiov o alhyinov o ecwn thn kleida tou dabid o anoigwn kai oudeiv kleiei kai kleiei kai oudeiv anoigei
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And to the angel of the assembly in Philadelphia write; These things says the one who is holy, the one who is true, the one who has the key of David, the one who opens, and no one shuts; and shuts, and no one opens;
+Draft translation: And to the angel of the assembly in Philadelphia write; Thus says the one who is holy, the one who is true, the one who has the key of David, the one who opens, and no one shuts; and shuts, and no one opens;
 
 Decision rows:
 - None recorded.
@@ -152863,7 +152863,7 @@ Greek: και τω αγγελω της εκκλησιας λαοδικεων γ�
 Transliteration: kai tw aggelw thv ekklhsiav laodikewn graqon tade legei o amhn o martuv o pistov kai alhyinov h arch thv ktisewv tou yeou
 Literal gloss: Not recorded.
 Syntax notes: Not recorded.
-Draft translation: And to the angel of the assembly of the Laodiceans write; These things says the Amen, the faithful and true witness, the beginning of the creation of God;
+Draft translation: And to the angel of the assembly of the Laodiceans write; Thus says the Amen, the faithful and true witness, the beginning of the creation of God;
 
 Decision rows:
 - None recorded.

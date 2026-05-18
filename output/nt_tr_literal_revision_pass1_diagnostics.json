@@ -532,6 +532,7 @@
     "modernized hears-not wording": 1,
     "fixed non-person relative after witness": 1,
     "fixed clothing-down-to-foot artifact": 1,
+    "rendered tade legei formula as Thus says": 7,
     "rendered zoon as living creature": 11,
     "normalized living-creature participle": 2,
     "modernized prevailed-not wording": 1,
@@ -6800,6 +6801,23 @@
         "ref": "Revelation 1:13",
         "book_code": "REV",
         "draft_translation": "And in the midst of the seven candlesticks one like to the Son of man, clothed with a garment reaching to the feet, and girt about the breast with a golden girdle."
+      }
+    ],
+    "rendered tade legei formula as Thus says": [
+      {
+        "ref": "Revelation 2:1",
+        "book_code": "REV",
+        "draft_translation": "To the angel of the assembly of Ephesus write; Thus says the one who holds the seven stars in his right hand, who walks in the midst of the seven golden candlesticks;"
+      },
+      {
+        "ref": "Revelation 2:8",
+        "book_code": "REV",
+        "draft_translation": "And to the angel of the assembly in Smyrna write; Thus says the first and the last, which was dead, and is alive;"
+      },
+      {
+        "ref": "Revelation 2:12",
+        "book_code": "REV",
+        "draft_translation": "And to the angel of the assembly in Pergamos write; Thus says the one who has the sharp sword with two edges;"
       }
     ],
     "rendered zoon as living creature": [
