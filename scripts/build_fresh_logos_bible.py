@@ -265,6 +265,9 @@ STANDARD_CODE_BY_BOOK_NAME["Song of Songs"] = "SNG"
 
 CODE_REF_RE = re.compile(r"^([1-3]?[A-Z0-9]+) (\d+):(\d+)$")
 DISPLAY_REF_RE = re.compile(r"^(.+?) (\d+):(\d+)$")
+CROSSREF_SAME_CHAPTER_RANGE_RE = re.compile(r"^(.+?) (\d+):(\d+)-(\d+)$")
+CROSSREF_CHAPTER_RANGE_RE = re.compile(r"^(.+?) (\d+):(\d+)-(\d+):(\d+)$")
+CROSSREF_FULL_RANGE_RE = re.compile(r"^(.+?) (\d+):(\d+)-(.+?) (\d+):(\d+)$")
 
 GENERIC_FOOTNOTE_PATTERNS = (
     "Brenton differs here. The translation follows the current fresh wording at this verse numbering point.",
@@ -2142,6 +2145,51 @@ def load_versification_map(path: Path) -> tuple[dict[str, str], dict[str, object
     }
 
 
+def local_versification_overrides() -> dict[str, str]:
+    overrides: dict[str, str] = {}
+    # This source keeps Naboth's vineyard in visible 1 Kings 20 and Ben-hadad's
+    # Samaria siege in visible 1 Kings 21, opposite standard English numbering.
+    overrides.update({f"1KI 20:{verse}": f"1KI 21:{verse}" for verse in range(1, 30)})
+    overrides.update({f"1KI 21:{verse}": f"1KI 20:{verse}" for verse in range(1, 44)})
+    # This source omits the standard English Malachi 4:4 line; Elijah is 3:22.
+    overrides["MAL 3:22"] = "MAL 4:5"
+    overrides["MAL 3:23"] = "MAL 4:6"
+    return overrides
+
+
+def effective_versification_map(
+    versification_map: dict[str, str] | None = None,
+) -> dict[str, str]:
+    merged = dict(versification_map if versification_map is not None else DEFAULT_CROSSREF_VERSIFICATION_MAP)
+    merged.update(local_versification_overrides())
+    return merged
+
+
+def normalize_code_ref_code(ref: str) -> str:
+    parsed = parse_code_ref(ref)
+    if not parsed:
+        return ref
+    code, chapter, verse = parsed
+    return f"{validation_code(code)} {chapter}:{verse}"
+
+
+def invert_versification_map(versification_map: dict[str, str]) -> dict[str, str]:
+    inverted: dict[str, str] = {}
+    for source_ref, standard_ref in effective_versification_map(versification_map).items():
+        normalized_standard = normalize_code_ref_code(standard_ref)
+        normalized_source = normalize_code_ref_code(source_ref)
+        inverted.setdefault(normalized_standard, normalized_source)
+    return inverted
+
+
+def display_ref_from_code_ref(ref: str) -> str | None:
+    parsed = parse_code_ref(ref)
+    if not parsed:
+        return None
+    code, chapter, verse = parsed
+    return f"{STANDARD_BOOK_NAMES.get(validation_code(code), code)} {chapter}:{verse}"
+
+
 def source_code_ref(verse: Verse) -> str:
     code = LOGOS_SOURCE_CODE_MAP.get(verse.book_code, verse.book_code)
     return f"{code} {verse.chapter}:{verse.verse}"
@@ -2153,6 +2201,11 @@ def parse_code_ref(ref: str) -> tuple[str, int, int] | None:
         return None
     code, chapter, verse = match.groups()
     return code, int(chapter), int(verse)
+
+
+DEFAULT_CROSSREF_VERSIFICATION_MAP, DEFAULT_CROSSREF_VERSIFICATION_DIAG = load_versification_map(
+    DEFAULT_VERSIFICATION_MAP
+)
 
 
 def display_ref_to_code_ref(ref: str) -> str | None:
@@ -2199,6 +2252,138 @@ def logos_ref_from_code_ref(ref: str) -> str:
         raise ValueError(f"Invalid code reference: {ref}")
     code, chapter, verse = parsed
     return f"{STANDARD_BOOK_NAMES.get(validation_code(code), code)} {chapter}:{verse}"
+
+
+def crossref_lookup_key(
+    verse: Verse,
+    versification_map: dict[str, str] | None = None,
+) -> tuple[str, int, int]:
+    mapped_ref = effective_versification_map(versification_map).get(source_code_ref(verse), source_code_ref(verse))
+    parsed = parse_code_ref(normalize_code_ref_code(mapped_ref))
+    if not parsed:
+        return verse.tsk_key
+    code, chapter, verse_num = parsed
+    return validation_code(code), chapter, verse_num
+
+
+def valid_crossref_code_refs(verses: list[Verse]) -> set[str]:
+    refs = {normalize_code_ref_code(source_code_ref(verse)) for verse in verses}
+    for source_path in (DEFAULT_SOURCE, DEFAULT_NT_SOURCE):
+        if not source_path.exists():
+            continue
+        refs.update(normalize_code_ref_code(source_code_ref(verse)) for verse in load_verses(source_path))
+    return refs
+
+
+def code_ref_for_crossref_endpoint(book_label: str, chapter: str, verse: str) -> str | None:
+    parsed = parse_cross_reference(f"{book_label} {int(chapter)}:{int(verse)}")
+    if not parsed:
+        return None
+    code, _label, parsed_chapter, parsed_verse, _end, _raw = parsed
+    if parsed_verse is None:
+        return None
+    return f"{validation_code(code)} {parsed_chapter}:{parsed_verse}"
+
+
+def map_code_ref_to_lxx(
+    code_ref: str,
+    english_to_lxx_map: dict[str, str],
+    valid_code_refs: set[str] | None,
+) -> str | None:
+    mapped_ref = english_to_lxx_map.get(normalize_code_ref_code(code_ref), normalize_code_ref_code(code_ref))
+    if valid_code_refs is not None and mapped_ref not in valid_code_refs:
+        return None
+    return mapped_ref
+
+
+def format_mapped_range(start_ref: str, end_ref: str) -> str | None:
+    start = parse_code_ref(start_ref)
+    end = parse_code_ref(end_ref)
+    if not start or not end:
+        return None
+    start_code, start_chapter, start_verse = start
+    end_code, end_chapter, end_verse = end
+    start_label = STANDARD_BOOK_NAMES.get(validation_code(start_code), start_code)
+    end_label = STANDARD_BOOK_NAMES.get(validation_code(end_code), end_code)
+    if validation_code(start_code) == validation_code(end_code) and start_chapter == end_chapter:
+        return f"{start_label} {start_chapter}:{start_verse}-{end_verse}"
+    if validation_code(start_code) == validation_code(end_code):
+        return f"{start_label} {start_chapter}:{start_verse}-{end_chapter}:{end_verse}"
+    return f"{start_label} {start_chapter}:{start_verse}-{end_label} {end_chapter}:{end_verse}"
+
+
+def map_cross_reference_to_lxx(
+    ref: str,
+    english_to_lxx_map: dict[str, str],
+    valid_code_refs: set[str] | None = None,
+) -> str | None:
+    normalized = normalize_space(ref.strip())
+    match = CROSSREF_FULL_RANGE_RE.match(normalized)
+    if match:
+        start_book, start_chapter, start_verse, end_book, end_chapter, end_verse = match.groups()
+        start_ref = code_ref_for_crossref_endpoint(start_book, start_chapter, start_verse)
+        end_ref = code_ref_for_crossref_endpoint(end_book, end_chapter, end_verse)
+    else:
+        match = CROSSREF_CHAPTER_RANGE_RE.match(normalized)
+        if match:
+            book, start_chapter, start_verse, end_chapter, end_verse = match.groups()
+            start_ref = code_ref_for_crossref_endpoint(book, start_chapter, start_verse)
+            end_ref = code_ref_for_crossref_endpoint(book, end_chapter, end_verse)
+        else:
+            match = CROSSREF_SAME_CHAPTER_RANGE_RE.match(normalized)
+            if match:
+                book, chapter, start_verse, end_verse = match.groups()
+                start_ref = code_ref_for_crossref_endpoint(book, chapter, start_verse)
+                end_ref = code_ref_for_crossref_endpoint(book, chapter, end_verse)
+            else:
+                parsed = parse_cross_reference(normalized)
+                if not parsed:
+                    return None
+                code, _label, chapter, verse, _end, _raw = parsed
+                if verse is None:
+                    return normalized
+                mapped = map_code_ref_to_lxx(
+                    f"{validation_code(code)} {chapter}:{verse}",
+                    english_to_lxx_map,
+                    valid_code_refs,
+                )
+                return display_ref_from_code_ref(mapped) if mapped else None
+    if not start_ref or not end_ref:
+        return None
+    mapped_start = map_code_ref_to_lxx(start_ref, english_to_lxx_map, valid_code_refs)
+    mapped_end = map_code_ref_to_lxx(end_ref, english_to_lxx_map, valid_code_refs)
+    if not mapped_start or not mapped_end:
+        return None
+    return format_mapped_range(mapped_start, mapped_end)
+
+
+def map_crossref_refs_to_lxx(
+    refs: Iterable[str],
+    *,
+    versification_map: dict[str, str] | None = None,
+    english_to_lxx_map: dict[str, str] | None = None,
+    valid_code_refs: set[str] | None = None,
+) -> tuple[tuple[str, ...], Counter[str]]:
+    if english_to_lxx_map is None:
+        english_to_lxx_map = invert_versification_map(effective_versification_map(versification_map))
+    mapped_refs: list[str] = []
+    counts: Counter[str] = Counter()
+    seen: set[str] = set()
+    for ref in refs:
+        counts["input_refs"] += 1
+        mapped_ref = map_cross_reference_to_lxx(ref, english_to_lxx_map, valid_code_refs)
+        if not mapped_ref:
+            counts["dropped_missing_lxx_target"] += 1
+            continue
+        if mapped_ref != ref:
+            counts["mapped_to_lxx"] += 1
+        if mapped_ref in seen:
+            counts["deduped_after_mapping"] += 1
+            continue
+        seen.add(mapped_ref)
+        mapped_refs.append(mapped_ref)
+    counts["output_refs"] += len(mapped_refs)
+    return tuple(mapped_refs), counts
 
 
 def resolve_milestone(
@@ -2510,6 +2695,31 @@ def prepare_crossref_notes_for_verse(
     return prepared
 
 
+def map_crossref_notes_to_lxx(
+    notes: list[CrossReferenceNote],
+    *,
+    versification_map: dict[str, str] | None,
+    english_to_lxx_map: dict[str, str] | None = None,
+    valid_code_refs: set[str],
+) -> tuple[list[CrossReferenceNote], Counter[str]]:
+    mapped_notes: list[CrossReferenceNote] = []
+    counts: Counter[str] = Counter()
+    if english_to_lxx_map is None:
+        english_to_lxx_map = invert_versification_map(effective_versification_map(versification_map))
+    for note in notes:
+        mapped_refs, ref_counts = map_crossref_refs_to_lxx(
+            note.refs,
+            english_to_lxx_map=english_to_lxx_map,
+            valid_code_refs=valid_code_refs,
+        )
+        counts.update(ref_counts)
+        if not mapped_refs:
+            counts["dropped_empty_note_after_mapping"] += 1
+            continue
+        mapped_notes.append(replace(note, refs=mapped_refs))
+    return mapped_notes, counts
+
+
 def extract_tsk_crossref_groups(raw_text: str) -> list[CrossReferenceNote]:
     groups: list[CrossReferenceNote] = []
     blocks = TSK_PARAGRAPH_RE.findall(raw_text)
@@ -2642,19 +2852,32 @@ def build_crossrefs_for_verses(
     open_refs, open_diag = cached_openbible_crossrefs(limit_per_verse=9999)
     by_ref: dict[str, list[CrossReferenceNote]] = {}
     source_counts = Counter()
+    mapping_counts: Counter[str] = Counter()
+    valid_code_refs = valid_crossref_code_refs(verses)
+    english_to_lxx_map = invert_versification_map(effective_versification_map(None))
     total_refs = 0
     total_groups = 0
     for verse in verses:
-        notes = tsk_refs.get(verse.tsk_key, [])
+        lookup_key = crossref_lookup_key(verse)
+        if lookup_key != verse.tsk_key:
+            mapping_counts["source_refs_mapped_to_standard"] += 1
+        notes = tsk_refs.get(lookup_key, [])
         if notes:
             source_counts["tsk"] += 1
         else:
-            refs = open_refs.get(verse.tsk_key, [])
+            refs = open_refs.get(lookup_key, [])
             if refs:
                 source_counts["openbible_fallback"] += 1
                 cleaned = tuple(canonicalize_cross_references([format_openbible_ref(ref) for ref in refs]))
                 notes = [CrossReferenceNote(trigger_phrase="", refs=cleaned, source="openbible")]
         notes = prepare_crossref_notes_for_verse(verse, notes)
+        notes, note_mapping_counts = map_crossref_notes_to_lxx(
+            notes,
+            versification_map=None,
+            english_to_lxx_map=english_to_lxx_map,
+            valid_code_refs=valid_code_refs,
+        )
+        mapping_counts.update(note_mapping_counts)
         notes = [note for note in notes if note.refs]
         if notes:
             by_ref[verse.ref] = notes
@@ -2665,6 +2888,7 @@ def build_crossrefs_for_verses(
         "verses_with_crossrefs": len(by_ref),
         "crossref_note_groups": total_groups,
         "total_crossrefs_after_canonicalization": total_refs,
+        "versification_mapping": dict(mapping_counts),
         "tsk": tsk_diag,
         "openbible": open_diag,
     }

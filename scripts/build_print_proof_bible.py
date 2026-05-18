@@ -292,8 +292,15 @@ def openbible_print_crossrefs(
     )
     selected: dict[str, list[builder.CrossReferenceNote]] = {}
     counts: Counter[str] = Counter()
+    valid_code_refs = builder.valid_crossref_code_refs(verses)
+    english_to_lxx_map = builder.invert_versification_map(
+        builder.effective_versification_map(None)
+    )
     for verse in verses:
-        raw_refs = raw_crossrefs.get(verse.tsk_key, [])
+        lookup_key = builder.crossref_lookup_key(verse)
+        if lookup_key != verse.tsk_key:
+            counts["source_refs_mapped_to_standard"] += 1
+        raw_refs = raw_crossrefs.get(lookup_key, [])
         counts["input_refs"] += len(raw_refs)
         refs: list[str] = []
         seen: set[str] = set()
@@ -301,8 +308,17 @@ def openbible_print_crossrefs(
             ref = builder.format_openbible_ref(raw_ref)
             if not builder.parse_cross_reference(ref):
                 continue
-            print_ref = abbreviate_print_crossref(ref)
+            mapped_refs, mapping_counts = builder.map_crossref_refs_to_lxx(
+                (ref,),
+                english_to_lxx_map=english_to_lxx_map,
+                valid_code_refs=valid_code_refs,
+            )
+            counts.update(mapping_counts)
+            if not mapped_refs:
+                continue
+            print_ref = abbreviate_print_crossref(mapped_refs[0])
             if print_ref in seen:
+                counts["deduped_print_refs_after_mapping"] += 1
                 continue
             refs.append(print_ref)
             seen.add(print_ref)

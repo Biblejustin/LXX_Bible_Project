@@ -90,9 +90,12 @@
     "source_policy": "TSK omitted."
   },
   "minimal_crossrefs": {
-    "input_refs": 104121,
-    "output_groups": 27823,
-    "output_refs": 104121,
+    "input_refs": 216532,
+    "output_refs": 213012,
+    "output_groups": 28820,
+    "mapped_to_lxx": 13115,
+    "dropped_missing_lxx_target": 1760,
+    "source_refs_mapped_to_standard": 4154,
     "enabled": true,
     "profile": "openbible_top_n_print",
     "source_policy": "OpenBible.info only; TSK phrase groups omitted.",
@@ -103,7 +106,7 @@
     "source_verses_with_refs": 29318,
     "max_groups_per_verse": 1,
     "max_refs_per_note": 4,
-    "verses_with_crossrefs": 27823
+    "verses_with_crossrefs": 28820
   },
   "versification_map": {
     "present": true,
@@ -143,8 +146,8 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 2983,
     "footnote_columns": 2,
-    "footnote_count": 34593,
-    "crossref_footnotes": 27820,
+    "footnote_count": 35582,
+    "crossref_footnotes": 28809,
     "translation_note_footnotes": 3959,
     "section_break_count": 0,
     "footnote_number_restart": "page",
@@ -159,7 +162,7 @@
     "phrase_anchored_name_meaning_notes": 2662,
     "verse_anchored_name_meaning_notes": 152,
     "phrase_anchored_crossref_notes": 0,
-    "verse_anchored_crossref_notes": 27820,
+    "verse_anchored_crossref_notes": 28809,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
@@ -189,8 +192,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 34593,
-      "footnote_body_count": 34593
+      "footnote_reference_count": 35582,
+      "footnote_body_count": 35582
     }
   ],
   "outputs": {

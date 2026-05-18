@@ -7,7 +7,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Genesis 1:1** In the beginning, God made heaven and earth.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 71
+- Cross-references: 70
 
 **Genesis 1:2** But the earth was unseen and unformed, darkness was over the abyss, and the Spirit of God moved over the water.
 - Translation/textual notes: 1
@@ -41,7 +41,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Leviticus 1:1** And the Lord called Moses and spoke to him from the tent of testimony, saying,
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 9
+- Cross-references: 8
 
 **Leviticus 1:2** Speak to the sons of Israel and say to them, If a person from among you brings gifts to the Lord, you shall bring your gifts from the livestock, from the cattle and from the sheep.
 - Translation/textual notes: 0
@@ -131,7 +131,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Ruth 1:2** And the name of the man was Elimelech, and the name of his wife Naomi, and the names of his two sons Mahlon and Chilion, Ephrathites from Bethlehem of Judah, and they came into the field of Moab and were there.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 6
+- Cross-references: 5
 
 **Ruth 1:3** And Elimelech, husband of Naomi, died, and she was left, she and her two sons.
 - Translation/textual notes: 0
@@ -143,7 +143,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **1 Samuel 1:1** There was a man from Ramathaim-Zophim, from the hill-country of Ephraim, and his name was Elkanah, son of Jeroham, son of Elihu, son of Tohu, in Zuph Ephraim.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 11
+- Cross-references: 10
 
 **1 Samuel 1:2** And to him were two wives; the name of the one was Hannah and the name of the second Peninnah, and Peninnah had children, but Hannah had no child.
 - Translation/textual notes: 0
@@ -199,7 +199,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **2 Kings 1:2** And Ahaziah fell through the lattice in his upper room in Samaria and became sick, and he sent messengers and said to them, Come and seek in Baal of flies, god of Ekron, whether I will live from this sickness. And they went to inquire through him.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 21
+- Cross-references: 20
 
 **2 Kings 1:3** And the angel of the Lord spoke to Elijah the Tishbite, saying, Rise, come to meet the messengers of Ahaziah king of Samaria, and you will speak to them, Is it because there is no God in Israel that you are going to seek in Baal of flies, god of Ekron?
 - Translation/textual notes: 1
@@ -250,29 +250,29 @@ This preview shows the first three verses of each book with note/cross-reference
 **Ezra 1:2** Thus said Cyrus king of the Persians: The Lord God of heaven gave me all kingdoms of the earth, and he charged me to build for him a house in Jerusalem, the one in Judah.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 15
+- Cross-references: 13
 
 **Ezra 1:3** Who among you is from all his people? Let his God be with him, and let him go up to Jerusalem in Judah and build the house of God of Israel. He is the God in Jerusalem.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 10
+- Cross-references: 9
 
 ## Nehemiah
 
 **Nehemiah 1:1** The words of Nehemiah son of Hachaliah. And it came to be in the month of Chisleu, in the twentieth year, and I was in Shushan the citadel.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 8
+- Cross-references: 6
 
 **Nehemiah 1:2** And Anani, one from my brothers, came, he and men of Judah, and I asked them concerning the survivors who were left from captivity and concerning Jerusalem.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 9
+- Cross-references: 8
 
 **Nehemiah 1:3** And they said to me, The ones left, who were left from captivity there in the province, are in great evil and reproach, and walls of Jerusalem are broken down and its gates have been burned with fire.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 26
+- Cross-references: 21
 
 ## Esther
 
@@ -284,7 +284,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Esther 1:2** In those days, when King Artaxerxes was enthroned in Shushan the city,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 9
+- Cross-references: 8
 
 **Esther 1:3** in the third year of his reign he made a feast for his friends and the rest of the nations and the nobles of Persia and Media and rulers of the satrapies,
 - Translation/textual notes: 0
@@ -296,7 +296,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Job 1:1** There was a certain man in the land of Uz, whose name was Job, and that man was true, blameless, righteous, god-fearing, turning away from every evil thing.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 23
+- Cross-references: 22
 
 **Job 1:2** And there came to him seven sons and three daughters.
 - Translation/textual notes: 0
@@ -335,7 +335,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Proverbs 1:2** To know wisdom and discipline, and to understand words of insight.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 8
+- Cross-references: 7
 
 **Proverbs 1:3** To receive turnings of words, and to understand true righteousness and judgment, and to direct judgment.
 - Translation/textual notes: 0
@@ -347,7 +347,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Ecclesiastes 1:1** The words of Ecclesiastes, son of David, king of Israel in Jerusalem.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 9
+- Cross-references: 8
 
 **Ecclesiastes 1:2** Vanity of vanities, said Ecclesiastes; vanity of vanities, all things are vanity.
 - Translation/textual notes: 1
@@ -391,7 +391,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Isaiah 1:3** The ox knew the one acquiring it, and the donkey the manger of its master; but Israel did not know me, and the people did not understand me.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 15
+- Cross-references: 14
 
 ## Jeremiah
 
@@ -408,7 +408,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Jeremiah 1:3** and it came in the days of Jehoiakim son of Josiah, king of Judah, until the eleventh year of Zedekiah son of Josiah, king of Judah, until the captivity of Jerusalem in the fifth month.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 14
+- Cross-references: 13
 
 ## Lamentations
 
@@ -420,7 +420,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Lamentations 1:1** How the city sat alone, she who had been filled with peoples. She became like a widow, she who had been great among the nations; ruler among regions, she became subject to tribute.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 25
+- Cross-references: 23
 
 **Lamentations 1:2** Weeping, she wept in the night, and her tears are on her cheeks; there is no one comforting her among all who love her. All her friends acted faithlessly toward her; they became enemies to her.
 - Translation/textual notes: 0
@@ -454,7 +454,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Daniel 1:2** And the Lord gave it into his hands: Jehoiakim king of Judah, and some of the holy vessels of the Lord; and he carried them to Babylon and placed them in his idol-house.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 16
+- Cross-references: 15
 
 **Daniel 1:3** And the king said to Ashpenaz, his own chief eunuch, to bring him some from the sons of the leading men of Israel and from the royal line and from the chosen ones,
 - Translation/textual notes: 0
@@ -517,7 +517,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Obadiah 1:1** The vision of Obadiah. Thus says the Lord God to Idumea: I heard a report from the Lord, and he sent out a message to the nations: Rise up, and let us rise up against her for war.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 24
+- Cross-references: 23
 
 **Obadiah 1:2** Behold, I have made you very few among the nations; you are greatly dishonored.
 - Translation/textual notes: 0
@@ -578,7 +578,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Nahum 1:3** The Lord is long-suffering, and great is his strength, and acquitting he will not acquit. The Lord's way is in an end and in a shaking, and clouds are dust of his feet.
 - Translation/textual notes: 1
 - Supplemental notes/links: 0
-- Cross-references: 24
+- Cross-references: 23
 
 ## Habakkuk
 
@@ -619,7 +619,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Haggai 1:1** In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet, saying: Say now to Zerubbabel son of Shealtiel from the tribe of Judah, and to Joshua son of Josedech, the high priest, saying,
 - Translation/textual notes: 1
 - Supplemental notes/links: 1
-- Cross-references: 36
+- Cross-references: 30
 
 **Haggai 1:2** Thus says the Lord Almighty, saying: This people says, The time has not come to build the house of the Lord.
 - Translation/textual notes: 0
@@ -636,7 +636,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Zechariah 1:1** In the eighth month of the second year of Darius, the word of the Lord came to Zechariah son of Berechiah, son of Iddo, the prophet, saying,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 14
+- Cross-references: 12
 
 **Zechariah 1:2** The Lord was angry with your fathers with great anger.
 - Translation/textual notes: 0
@@ -646,7 +646,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Zechariah 1:3** And you will say to them, Thus says the Lord Almighty: Return to me, and I will return to you, says the Lord.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 27
+- Cross-references: 26
 
 ## Malachi
 
@@ -794,12 +794,12 @@ This preview shows the first three verses of each book with note/cross-reference
 **2 Corinthians 1:2** Grace to you and peace from God our Father, and the Lord Jesus Christ.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 12
+- Cross-references: 11
 
 **2 Corinthians 1:3** Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies, and God of all comfort;
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 24
+- Cross-references: 23
 
 ## Galatians
 
@@ -833,7 +833,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Ephesians 1:3** Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with all spiritual blessings in heavenly places in Christ:
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 40
+- Cross-references: 39
 
 ## Philippians
 
@@ -1015,7 +1015,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **1 Peter 1:2** Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, to obedience and sprinkling of the blood of Jesus Christ: Grace to you, and peace, be multiplied.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 50
+- Cross-references: 49
 
 **1 Peter 1:3** Blessed be the God and Father of our Lord Jesus Christ, who according to his abundant mercy has begotten us again to a lively hope by the resurrection of Jesus Christ from the dead,
 - Translation/textual notes: 0
@@ -1032,7 +1032,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **2 Peter 1:2** Grace and peace be multiplied to you through the knowledge of God, and of Jesus our Lord,
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 13
+- Cross-references: 12
 
 **2 Peter 1:3** According as his divine power has given to us all things that pertain to life and godliness, through the knowledge of him who has called us to glory and virtue:
 - Translation/textual notes: 0
@@ -1105,7 +1105,7 @@ This preview shows the first three verses of each book with note/cross-reference
 **Jude 1:3** Beloved, when I gave all diligence to write to you of the common salvation, it was necessary for me to write to you, and exhort you that you should earnestly contend for the faith which was once delivered to the holy ones.
 - Translation/textual notes: 0
 - Supplemental notes/links: 0
-- Cross-references: 26
+- Cross-references: 25
 
 ## Revelation
 

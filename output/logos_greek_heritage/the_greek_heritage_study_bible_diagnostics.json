@@ -238,12 +238,21 @@
   "included_supplemental_note_total": 2521,
   "crossrefs": {
     "source_counts": {
-      "tsk": 28268,
-      "openbible_fallback": 161
+      "tsk": 29337,
+      "openbible_fallback": 165
     },
-    "verses_with_crossrefs": 27830,
-    "crossref_note_groups": 56757,
-    "total_crossrefs_after_canonicalization": 291870,
+    "verses_with_crossrefs": 28808,
+    "crossref_note_groups": 58515,
+    "total_crossrefs_after_canonicalization": 297642,
+    "versification_mapping": {
+      "input_refs": 302537,
+      "mapped_to_lxx": 248497,
+      "output_refs": 297642,
+      "dropped_missing_lxx_target": 4894,
+      "dropped_empty_note_after_mapping": 336,
+      "source_refs_mapped_to_standard": 4154,
+      "deduped_after_mapping": 1
+    },
     "tsk": {
       "testament": "combined",
       "status": "parsed",
@@ -300,8 +309,8 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 0,
     "footnote_columns": 1,
-    "footnote_count": 85188,
-    "crossref_footnotes": 56751,
+    "footnote_count": 86934,
+    "crossref_footnotes": 58497,
     "translation_note_footnotes": 3959,
     "section_break_count": 1189,
     "footnote_number_restart": "chapter",
@@ -315,8 +324,8 @@
     "textual_note_export_footnotes": 0,
     "phrase_anchored_name_meaning_notes": 14026,
     "verse_anchored_name_meaning_notes": 7931,
-    "phrase_anchored_crossref_notes": 16417,
-    "verse_anchored_crossref_notes": 40334,
+    "phrase_anchored_crossref_notes": 18184,
+    "verse_anchored_crossref_notes": 40313,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
@@ -336,8 +345,8 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 0,
     "footnote_columns": 1,
-    "footnote_count": 85256,
-    "crossref_footnotes": 56751,
+    "footnote_count": 87002,
+    "crossref_footnotes": 58497,
     "translation_note_footnotes": 4027,
     "section_break_count": 1189,
     "footnote_number_restart": "chapter",
@@ -351,8 +360,8 @@
     "textual_note_export_footnotes": 0,
     "phrase_anchored_name_meaning_notes": 14026,
     "verse_anchored_name_meaning_notes": 7931,
-    "phrase_anchored_crossref_notes": 16396,
-    "verse_anchored_crossref_notes": 40355,
+    "phrase_anchored_crossref_notes": 18163,
+    "verse_anchored_crossref_notes": 40334,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
@@ -372,8 +381,8 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 0,
     "footnote_columns": 1,
-    "footnote_count": 85256,
-    "crossref_footnotes": 56751,
+    "footnote_count": 87002,
+    "crossref_footnotes": 58497,
     "translation_note_footnotes": 4027,
     "section_break_count": 1189,
     "footnote_number_restart": "chapter",
@@ -387,8 +396,8 @@
     "textual_note_export_footnotes": 0,
     "phrase_anchored_name_meaning_notes": 14026,
     "verse_anchored_name_meaning_notes": 7931,
-    "phrase_anchored_crossref_notes": 16396,
-    "verse_anchored_crossref_notes": 40355,
+    "phrase_anchored_crossref_notes": 18163,
+    "verse_anchored_crossref_notes": 40334,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
@@ -418,8 +427,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 85188,
-      "footnote_body_count": 85188
+      "footnote_reference_count": 86934,
+      "footnote_body_count": 86934
     },
     {
       "path": "output/logos_greek_heritage/the_greek_heritage_study_bible_reference_notes.docx",
@@ -438,8 +447,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 85256,
-      "footnote_body_count": 85256
+      "footnote_reference_count": 87002,
+      "footnote_body_count": 87002
     },
     {
       "path": "output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx",
@@ -458,8 +467,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 85256,
-      "footnote_body_count": 85256
+      "footnote_reference_count": 87002,
+      "footnote_body_count": 87002
     }
   ],
   "outputs": {

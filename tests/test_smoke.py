@@ -752,7 +752,8 @@ def test_crossref_notes_use_fresh_language_and_drop_loose_single_word_links() ->
     display_text = "\n".join(note.display_text for note in notes)
     assert "Mark 1:1" not in display_text
     assert 'Cross-references for "beginning"' not in display_text
-    assert 'Cross-references for "children": Hos 2:4.' in display_text
+    assert 'Cross-references for "children": Hosea 2:6.' in display_text
+    assert 'Cross-references for "children": Hos 2:4.' not in display_text
     assert "2Pet 2:14" not in display_text
 
     genesis_1_4 = next(verse for verse in verses if verse.ref == "Genesis 1:4")
@@ -9734,11 +9735,13 @@ def test_lulu_pandoc_pdf_crossrefs_use_abbreviated_book_names() -> None:
     assert "Isa 45:18" in xref_text
     assert "Rev 4:11" in xref_text
     assert "Gen 1:18" in xref_text
-    assert "Ps 104:30" in xref_text
+    assert "Ps 103:30" in xref_text
+    assert "Ps 104:30" not in xref_text
     assert "Hebrews 11:3" not in xref_text
     assert "Isaiah 45:18" not in xref_text
     assert "Revelation 4:11" not in xref_text
     assert "Genesis 1:18" not in xref_text
+    assert "Psalms 103:30" not in xref_text
     assert "Psalms 104:30" not in xref_text
 
 
