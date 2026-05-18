@@ -103,6 +103,11 @@ BOOK_NAME_ALIASES = {
 SOURCE_HEADING_REPLACEMENTS = {
     "God Arraigns Adam and Eve": "God Calls Adam and Eve",
     "The Punishment of Mankind": "Judgment on Humanity",
+    "The Bride Confesses Her Love": "Confession of Love",
+    "The Bride's Admiration": "Flower of the Plain",
+    "The Bride's Dream": "Search in the Night",
+    "Solomon Admires His Bride": "The Beloved's Beauty",
+    "The Bride and Her Beloved": "Garden of Love",
     "Admiration by the Bridegroom": "Return, Shulammite",
 }
 
@@ -257,7 +262,7 @@ def reword_source_heading(value: str) -> str:
     value = re.sub(r"\s+", " ", value).strip(" \"'.,;:!?")
     value = SOURCE_HEADING_REPLACEMENTS.get(value, value)
     parts = [
-        part.strip()
+        SOURCE_HEADING_REPLACEMENTS.get(part.strip(), part.strip())
         for part in value.split("/")
         if part.strip() and not GENERIC_SAYING_HEADING_RE.fullmatch(part.strip())
     ]

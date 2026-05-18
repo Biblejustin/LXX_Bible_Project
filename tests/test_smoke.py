@@ -9547,6 +9547,12 @@ def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
     assert diagnostics["print_docx"]["crossref_footnotes"] > 27000
     assert diagnostics["print_docx"]["verse_anchored_crossref_notes"] == diagnostics["print_docx"]["crossref_footnotes"]
     assert "Creation of Heaven and Earth" in document_xml
+    assert "Confession of Love" in document_xml
+    assert "Flower of the Plain" in document_xml
+    assert "Search in the Night" in document_xml
+    assert "Bride Confesses Her Love" not in document_xml
+    assert "Bride's Admiration" not in document_xml
+    assert "Bride's Dream" not in document_xml
     assert "PericopeHeading" in styles_xml
     assert 'w15:footnoteColumns w15:val="2"' in document_xml
     assert 'w:left="1080"' in document_xml
