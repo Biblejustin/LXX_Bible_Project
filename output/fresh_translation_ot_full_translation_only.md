@@ -382,7 +382,7 @@ When you work the earth, it shall not continue to give you its strength. Groanin
 
 **Genesis 4:13**
 
-And Cain said to the Lord God, "Greater is my charge than for me to be forgiven."
+And Cain said to the Lord God, "My guilt is too great for me to be forgiven."
 
 **Genesis 4:14**
 
@@ -402,7 +402,7 @@ And Cain knew his wife, and having conceived she bore Enoch. And he was building
 
 **Genesis 4:18**
 
-And to Enoch was born Irad, and Irad begot Mahalaleel, and Mahalaleel begot Methusael, and Methusael begot Lamech.
+And to Enoch was born Irad, and Irad begot Mehujael, and Mehujael begot Methusael, and Methusael begot Lamech.
 
 **Genesis 4:19**
 
@@ -602,7 +602,7 @@ But Noah found favor before the Lord God.
 
 **Genesis 6:9**
 
-Now these are the generations of Noah. Noah was a righteous man, complete in his generation. Noah was well-pleasing to God.
+Now these are the generations of Noah. Noah was a righteous man, blameless in his generation. Noah was well-pleasing to God.
 
 **Genesis 6:10**
 
@@ -3724,7 +3724,7 @@ By day I was being burned together by the heat and by the frost of night, and my
 
 **Genesis 31:41**
 
-These twenty years I have been in your house. I served you fourteen years for your two daughters and six years among your sheep, and you tricked my wages by ten lambs.
+These twenty years I have been in your house. I served you fourteen years for your two daughters and six years among your sheep, and you falsely reckoned my wages as ten ewe lambs.
 
 **Genesis 31:42**
 
@@ -6600,7 +6600,7 @@ And the Lord said to Moses, "When you go and return to Egypt, see that you do al
 
 **Exodus 4:22**
 
-And you shall say to Pharaoh, "These things says the Lord: Israel is my firstborn son."
+And you shall say to Pharaoh, "Thus says the Lord: Israel is my firstborn son."
 
 **Exodus 4:23**
 
@@ -6642,7 +6642,7 @@ And the people believed and rejoiced because God had visited the sons of Israel 
 
 **Exodus 5:1**
 
-And after these things Moses and Aaron went in to Pharaoh and said to him, "These things says the Lord, the God of Israel: Send out my people so that they may hold a feast to me in the wilderness."
+And after these things Moses and Aaron went in to Pharaoh and said to him, "Thus says the Lord, the God of Israel: Send out my people so that they may hold a feast to me in the wilderness."
 
 **Exodus 5:2**
 
@@ -6678,7 +6678,7 @@ Let the works of these men be made heavy, and let them attend to these things, a
 
 **Exodus 5:10**
 
-And the taskmasters and the scribes hurried them and spoke to the people, saying, "These things says Pharaoh: I no longer give you straw."
+And the taskmasters and the scribes hurried them and spoke to the people, saying, "Thus says Pharaoh: I no longer give you straw."
 
 **Exodus 5:11**
 
@@ -6922,7 +6922,7 @@ And you shall say to him, The Lord, the God of the Hebrews, has sent me to you, 
 
 **Exodus 7:17**
 
-These things says the Lord: By this you shall know that I am the Lord. Look, I strike with the staff in my hand upon the water in the river, and it will turn into blood.
+Thus says the Lord: By this you shall know that I am the Lord. Look, I strike with the staff in my hand upon the water in the river, and it will turn into blood.
 
 **Exodus 7:18**
 
@@ -6958,7 +6958,7 @@ And seven days were fulfilled after the Lord struck the river.
 
 **Exodus 7:26**
 
-And the Lord said to Moses, Go in to Pharaoh and say to him, These things says the Lord: Send out my people so that they may serve me.
+And the Lord said to Moses, Go in to Pharaoh and say to him, Thus says the Lord: Send out my people so that they may serve me.
 
 **Exodus 7:27**
 
@@ -7036,7 +7036,7 @@ Then the enchanters said to Pharaoh, This is the finger of God. And Pharaoh's he
 
 **Exodus 8:16**
 
-And the Lord said to Moses, Rise early in the morning and stand before Pharaoh, and look, he goes out to the water, and you shall say to him, These things says the Lord: Send out my people so that they may serve me in the wilderness.
+And the Lord said to Moses, Rise early in the morning and stand before Pharaoh, and look, he goes out to the water, and you shall say to him, Thus says the Lord: Send out my people so that they may serve me in the wilderness.
 
 **Exodus 8:17**
 
@@ -7090,7 +7090,7 @@ And Pharaoh made his heart heavy also at this time, and he did not want to send 
 
 **Exodus 9:1**
 
-And the Lord said to Moses, Go in to Pharaoh, and you shall say to him, These things says the Lord, the God of the Hebrews: Send out my people so that they may serve me.
+And the Lord said to Moses, Go in to Pharaoh, and you shall say to him, Thus says the Lord, the God of the Hebrews: Send out my people so that they may serve me.
 
 **Exodus 9:2**
 
@@ -7138,7 +7138,7 @@ And the Lord hardened Pharaoh's heart, and he did not listen to them, just as th
 
 **Exodus 9:13**
 
-And the Lord said to Moses, Rise early in the morning and stand before Pharaoh, and you shall say to him, These things says the Lord, the God of the Hebrews: Send out my people so that they may serve me.
+And the Lord said to Moses, Rise early in the morning and stand before Pharaoh, and you shall say to him, Thus says the Lord, the God of the Hebrews: Send out my people so that they may serve me.
 
 **Exodus 9:14**
 
@@ -7240,7 +7240,7 @@ Then the Lord said to Moses, "Go in to Pharaoh, for I have hardened his heart an
 
 **Exodus 10:3**
 
-Then Moses and Aaron went in before Pharaoh and said to him, "These things says the Lord, the God of the Hebrews: How long will you refuse to humble yourself before me? Send my people away, so that they may serve me."
+Then Moses and Aaron went in before Pharaoh and said to him, "Thus says the Lord, the God of the Hebrews: How long will you refuse to humble yourself before me? Send my people away, so that they may serve me."
 
 **Exodus 10:4**
 
@@ -7362,7 +7362,7 @@ And the Lord gave his people favor in the sight of the Egyptians, and they lent 
 
 **Exodus 11:4**
 
-And Moses said, "These things says the Lord: About midnight I enter into the midst of Egypt,"
+And Moses said, "Thus says the Lord: About midnight I enter into the midst of Egypt,"
 
 **Exodus 11:5**
 
@@ -17374,7 +17374,7 @@ This is the water of reviling, because the sons of Israel reviled before the Lor
 
 **Numbers 20:14**
 
-And Moses sent messengers from Kadesh to the king of Edom, saying, These things says your brother Israel: you know all the hardship that found us.
+And Moses sent messengers from Kadesh to the king of Edom, saying, Thus says your brother Israel: you know all the hardship that found us.
 
 **Numbers 20:15**
 
@@ -23620,7 +23620,7 @@ And the book of this law shall not depart from your mouth, and you shall meditat
 
 **Joshua 1:9**
 
-Behold, I have commanded you: be strong and act like a man. Do not be cowardly, nor fear, because the Lord your God is with you in everything you may do.
+Behold, I have commanded you: be strong and be courageous. Do not be cowardly, nor fear, because the Lord your God is with you in everything you may do.
 
 **Joshua 1:10**
 
@@ -24022,11 +24022,11 @@ And let the warriors pass by in front, and the priests bringing up the rear behi
 
 **Joshua 6:10**
 
-And Joshua commanded the people, saying, Do not shout, and let none of you be heard by voice until the day when he himself reports to shout, and then you shall shout.
+And Joshua commanded the people, saying, Do not shout, and let no one among you make his voice heard until the day when he himself announces the shout; then you shall shout.
 
 **Joshua 6:11**
 
-And the ark of the covenant of God went around the city and straightway went away into the camp and slept there.
+And the ark of the covenant of God, having gone around the city, immediately returned into the camp and lodged there.
 
 **Joshua 6:12**
 
@@ -24096,11 +24096,11 @@ And the Lord was with Joshua, and his name was through all the land.
 
 **Joshua 7:1**
 
-And the sons of Israel committed a great trespass and stole from the devoted thing, and Achar son of Carmi son of Zimri son of Zerah from the tribe of Judah took from the devoted thing, and the wrath of the Lord was angered against the sons of Israel.
+And the sons of Israel committed a great trespass and stole from the devoted thing, and Achan son of Carmi son of Zimri son of Zerah from the tribe of Judah took from the devoted thing, and the Lord's anger burned against the sons of Israel.
 
 **Joshua 7:2**
 
-And Joshua sent men to Ai, which is near Bethel, saying, Look over Ai. And the men went up and looked over Ai.
+And Joshua sent men to Ai, which is near Bethel, saying, Scout out Ai. And the men went up and scouted out Ai.
 
 **Joshua 7:3**
 
@@ -24124,7 +24124,7 @@ And Joshua said, I pray, Lord, why did your servant bring this people across the
 
 **Joshua 7:8**
 
-And what shall I say, since Israel turned neck before its enemy?
+And what shall I say, since Israel turned its back before its enemy?
 
 **Joshua 7:9**
 
@@ -24140,19 +24140,19 @@ The people have sinned and transgressed the covenant that I covenanted with them
 
 **Joshua 7:12**
 
-The sons of Israel will certainly not be able to stand against the face of their enemies. They will turn neck before their enemies, because they have become a devoted thing. I will not add to be with you any longer unless you remove the devoted thing from among you.
+The sons of Israel will certainly not be able to stand before their enemies. They will turn their backs before their enemies, because they have become a devoted thing. I will no longer be with you unless you remove the devoted thing from among you.
 
 **Joshua 7:13**
 
-Rise, sanctify the people and tell them to sanctify themselves for tomorrow. These things says the Lord God of Israel: The devoted thing is among you. You will not be able to stand before your enemies until you remove the devoted thing from among you.
+Rise, sanctify the people and tell them to sanctify themselves for tomorrow. Thus says the Lord God of Israel: The devoted thing is among you. You will not be able to stand before your enemies until you remove the devoted thing from among you.
 
 **Joshua 7:14**
 
-And you shall be gathered in the morning by tribes, and it shall be, the tribe that the Lord points out, you shall bring by clans, and the clan that the Lord points out, you shall bring by house, and the house that the Lord points out, you shall bring by man.
+And you shall be gathered in the morning by tribes, and it shall be, the tribe that the Lord points out, you shall bring forward by clans, and the clan that the Lord points out, you shall bring forward by house, and the house that the Lord points out, you shall bring forward man by man.
 
 **Joshua 7:15**
 
-And whoever is pointed out shall be burned with fire, he and everything that belongs to him, because he transgressed the covenant of the Lord and did lawless deed in Israel.
+And whoever is pointed out shall be burned with fire, he and everything that belongs to him, because he transgressed the covenant of the Lord and committed a lawless deed in Israel.
 
 **Joshua 7:16**
 
@@ -24160,19 +24160,19 @@ And Joshua rose early and brought the people by tribes, and the tribe of Judah w
 
 **Joshua 7:17**
 
-And it was brought by clans, and the clan of Zerah was pointed out and brought by man.
+And it was brought forward by clans, and the clan of Zerah was pointed out and brought forward man by man.
 
 **Joshua 7:18**
 
-And Achar son of Zimri son of Zerah was pointed out.
+And Achan son of Zimri son of Zerah was pointed out.
 
 **Joshua 7:19**
 
-And Joshua said to Achar, Give glory today to the Lord God of Israel and give confession, and report to me what you did, and do not hide it from me.
+And Joshua said to Achan, Give glory today to the Lord God of Israel and give confession, and report to me what you did, and do not hide it from me.
 
 **Joshua 7:20**
 
-And Achar answered Joshua and said, Truly I sinned before the Lord God of Israel. Thus and thus I did.
+And Achan answered Joshua and said, Truly I sinned before the Lord God of Israel. Thus and thus I did.
 
 **Joshua 7:21**
 
@@ -24188,15 +24188,15 @@ And they brought them out from the tent and carried them to Joshua and the elder
 
 **Joshua 7:24**
 
-And Joshua took Achar son of Zerah and brought him up to the Valley of Achor, and his sons and his daughters and his calves and his beasts of burden and all his sheep and his tent and all his possessions, and all the people with him, and they brought them up to Achor.
+And Joshua took Achan son of Zerah and brought him up to the Valley of Achor, and his sons and his daughters and his calves and his beasts of burden and all his sheep and his tent and all his possessions, and all the people with him, and they brought them up to Achor.
 
 **Joshua 7:25**
 
-And Joshua said to Achar, Why did you destroy us? May the Lord destroy you, just as also today. And all Israel stoned him with stones.
+And Joshua said to Achan, Why did you destroy us? May the Lord destroy you, just as also today. And all Israel stoned him with stones.
 
 **Joshua 7:26**
 
-And they raised over him a great heap of stones, and the Lord ceased from the wrath of anger. Because of this he named it Achor until this day.
+And they raised over him a great heap of stones, and the Lord turned from his fierce anger. Because of this he named it Achor until this day.
 
 ### Chapter 8
 
@@ -25946,7 +25946,7 @@ And now, if the land of your possession is too little for you, cross over into t
 
 **Joshua 22:20**
 
-Did not Achar son of Zerah commit a trespass from the accursed thing, and wrath came upon all the congregation of Israel? Yet that one man did not die alone in his own sin.
+Did not Achan son of Zerah commit a trespass from the accursed thing, and wrath came upon all the congregation of Israel? Yet that one man did not die alone in his own sin.
 
 **Joshua 22:21**
 
@@ -55388,7 +55388,7 @@ Gird your loins like a man; I will ask you, and you answer me.
 
 **Job 38:4**
 
-Where were you when I founded earth? Declare to me, if you know understanding.
+Where were you when I founded the earth? Declare to me, if you know understanding.
 
 **Job 38:5**
 
@@ -57266,7 +57266,7 @@ For even if I walk in the midst of the shadow of death, I will not fear evils, b
 
 **Psalms 22:5**
 
-You prepared table before me opposite those afflicting me; you anointed my head with oil, and your cup intoxicating like strongest wine.
+You prepared table before me opposite those afflicting me; you anointed my head with oil, and your cup intoxicates me, how excellent.
 
 **Psalms 22:6**
 
@@ -66618,7 +66618,7 @@ And plan good things before the Lord and men.
 
 **Proverbs 3:5**
 
-Be trusting in God with all your heart, and do not exalt yourself on your own wisdom.
+Trust in God with all your heart, and do not exalt yourself on your own wisdom.
 
 **Proverbs 3:6**
 
@@ -69744,7 +69744,7 @@ An unjust man is an abomination to the righteous, and a straight way is an abomi
 
 **Proverbs 30:1**
 
-My words, son, fear and receive them, and repent. These things says the man to those trusting in God, and I stop.
+My words, son, fear and receive them, and repent. Thus says the man to those trusting in God, and I stop.
 
 **Proverbs 30:2**
 
@@ -74664,7 +74664,7 @@ For the young men will hunger and grow weary, and the chosen youths will be weak
 
 **Isaiah 40:31**
 
-But those enduring for God will change strength, they will grow wings like eagles, they will run and not grow weary, they will walk and not hunger.
+But those enduring for God will renew their strength, they will grow wings like eagles, they will run and not grow weary, they will walk and not hunger.
 
 ### Chapter 41
 

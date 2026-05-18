@@ -478,6 +478,26 @@ def test_joshua_7_wording_and_achan_policy() -> None:
     assert any("MT distinguishes Achan in Joshua from Achar in 1 Chronicles 2:7" in row["footnote"] for row in achan_notes)
 
 
+def test_genesis_31_41_wage_unit_note_matches_lxx_review() -> None:
+    source_by_ref = {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")}
+    decisions_by_ref = {row["ref"]: row for row in csv_rows("data/research/translation_decisions.csv")}
+    notes_by_ref = {row["ref"]: row for row in csv_rows("data/research/translation_footnotes.csv")}
+    expected = (
+        "These twenty years I have been in your house. I served you fourteen years for your "
+        "two daughters and six years among your sheep, and you falsely reckoned my wages as "
+        "ten ewe lambs."
+    )
+
+    assert source_by_ref["Genesis 31:41"]["draft_translation"] == expected
+    assert decisions_by_ref["Genesis 31:41"]["chosen_rendering"] == (
+        "you falsely reckoned my wages as ten ewe lambs"
+    )
+    assert "MT ten times" in decisions_by_ref["Genesis 31:41"]["rationale"]
+    assert notes_by_ref["Genesis 31:41"]["trigger_phrase"] == expected
+    assert "ten times" in notes_by_ref["Genesis 31:41"]["footnote_text"]
+    assert "as ten ewe lambs" in notes_by_ref["Genesis 31:41"]["footnote_text"]
+
+
 def test_safe_review_csv_append_quotes_commas(tmp_path: Path) -> None:
     target = tmp_path / "review.csv"
     target.write_text("ref,note\n", encoding="utf-8")

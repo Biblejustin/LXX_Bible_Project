@@ -3726,7 +3726,7 @@ By day I was being burned together by the heat and by the frost of night, and my
 
 **Genesis 31:41**
 
-These twenty years I have been in your house. I served you fourteen years for your two daughters and six years among your sheep, and you falsely reckoned my wages at ten ewe lambs.
+These twenty years I have been in your house. I served you fourteen years for your two daughters and six years among your sheep, and you falsely reckoned my wages as ten ewe lambs.
 
 **Genesis 31:42**
 

@@ -854,9 +854,9 @@ Note:
 
 - importance: high
 - decisions: 1
-- footnotes: 0
+- footnotes: 1
 - same_normalized: no
-- fresh: And Cain said to the Lord God, "Greater is my charge than for me to be forgiven."
+- fresh: And Cain said to the Lord God, "My guilt is too great for me to be forgiven."
 - brenton: And Cain said to the Lord God, My crime is too great for me to be forgiven.
 
 ### Genesis 4:14
@@ -898,10 +898,10 @@ Note:
 ### Genesis 4:18
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And to Enoch was born Irad, and Irad begot Mahalaleel, and Mahalaleel begot Methusael, and Methusael begot Lamech.
+- fresh: And to Enoch was born Irad, and Irad begot Mehujael, and Mehujael begot Methusael, and Methusael begot Lamech.
 - brenton: And to Enoch was born Gaidad; and Gaidad begot Maleleel; and Maleleel begot Mathusala; and Mathusala begot Lamech.
 
 ### Genesis 4:19
@@ -1339,10 +1339,10 @@ Note:
 ### Genesis 6:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Now these are the generations of Noah. Noah was a righteous man, complete in his generation. Noah was well-pleasing to God.
+- fresh: Now these are the generations of Noah. Noah was a righteous man, blameless in his generation. Noah was well-pleasing to God.
 - brenton: And these are the generations of Noe. Noe was a just man; being perfect in his generation, Noe was well-pleasing to God.
 
 ### Genesis 6:10
@@ -8251,10 +8251,10 @@ Note:
 ### Genesis 31:41
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: These twenty years I have been in your house. I served you fourteen years for your two daughters and six years among your sheep, and you tricked my wages by ten lambs.
+- fresh: These twenty years I have been in your house. I served you fourteen years for your two daughters and six years among your sheep, and you falsely reckoned my wages as ten ewe lambs.
 - brenton: These twenty years have I been in thy house; I served thee fourteen years for thy two daughters, and six years among thy sheep, and thou didst falsely rate my wages for ten lambs.
 
 ### Genesis 31:42
@@ -14619,7 +14619,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you shall say to Pharaoh, "These things says the Lord: Israel is my firstborn son."
+- fresh: And you shall say to Pharaoh, "Thus says the Lord: Israel is my firstborn son."
 - brenton: And thou shalt say to Pharao, These things saith the Lord, Israel is my first-born.
 
 ### Exodus 4:23
@@ -14709,7 +14709,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And after these things Moses and Aaron went in to Pharaoh and said to him, "These things says the Lord, the God of Israel: Send out my people so that they may hold a feast to me in the wilderness."
+- fresh: And after these things Moses and Aaron went in to Pharaoh and said to him, "Thus says the Lord, the God of Israel: Send out my people so that they may hold a feast to me in the wilderness."
 - brenton: And after this went in Moses and Aaron to Pharao, and they said to him, These things says the Lord God of Israel, Send my people away, that they may keep a feast to me in the wilderness.
 
 ### Exodus 5:2
@@ -14790,7 +14790,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the taskmasters and the scribes hurried them and spoke to the people, saying, "These things says Pharaoh: I no longer give you straw."
+- fresh: And the taskmasters and the scribes hurried them and spoke to the people, saying, "Thus says Pharaoh: I no longer give you straw."
 - brenton: And the taskmasters and the accountants hastened them, and they spoke to the people, saying, Thus says Pharao, I will give you straw no longer.
 
 ### Exodus 5:11
@@ -15330,7 +15330,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: These things says the Lord: By this you shall know that I am the Lord. Look, I strike with the staff in my hand upon the water in the river, and it will turn into blood.
+- fresh: Thus says the Lord: By this you shall know that I am the Lord. Look, I strike with the staff in my hand upon the water in the river, and it will turn into blood.
 - brenton: These things saith the Lord: Hereby shalt thou know that I am the Lord: behold, I strike with the rod that is in my hand on the water which is in the river, and it shall change it into blood.
 
 ### Exodus 7:18
@@ -15411,7 +15411,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to Moses, Go in to Pharaoh and say to him, These things says the Lord: Send out my people so that they may serve me.
+- fresh: And the Lord said to Moses, Go in to Pharaoh and say to him, Thus says the Lord: Send out my people so that they may serve me.
 - brenton: And the Lord said to Moses, Go in to Pharao, and thou shalt say to him, These things says the Lord: send forth my people, that they may serve me.
 
 ### Exodus 7:27
@@ -15582,7 +15582,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to Moses, Rise early in the morning and stand before Pharaoh, and look, he goes out to the water, and you shall say to him, These things says the Lord: Send out my people so that they may serve me in the wilderness.
+- fresh: And the Lord said to Moses, Rise early in the morning and stand before Pharaoh, and look, he goes out to the water, and you shall say to him, Thus says the Lord: Send out my people so that they may serve me in the wilderness.
 - brenton: And the Lord said to Moses, Rise up early in the morning, and stand before Pharao: and, behold, he will go forth to the water, and thou shalt say to him, These things says the Lord: Send away my people, that they may serve me in the wilderness.
 
 ### Exodus 8:17
@@ -15699,7 +15699,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to Moses, Go in to Pharaoh, and you shall say to him, These things says the Lord, the God of the Hebrews: Send out my people so that they may serve me.
+- fresh: And the Lord said to Moses, Go in to Pharaoh, and you shall say to him, Thus says the Lord, the God of the Hebrews: Send out my people so that they may serve me.
 - brenton: And the Lord said to Moses, Go in to Pharao, and thou shalt say to him, These things saith the Lord God of the Hebrews; Send my people away that they may serve me.
 
 ### Exodus 9:2
@@ -15807,7 +15807,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And the Lord said to Moses, Rise early in the morning and stand before Pharaoh, and you shall say to him, These things says the Lord, the God of the Hebrews: Send out my people so that they may serve me.
+- fresh: And the Lord said to Moses, Rise early in the morning and stand before Pharaoh, and you shall say to him, Thus says the Lord, the God of the Hebrews: Send out my people so that they may serve me.
 - brenton: And the Lord said to Moses, Rise up early in the morning, and stand before Pharao; and thou shalt say to him, These things saith the Lord God of the Hebrews, Send away my people that they may serve me.
 
 ### Exodus 9:14
@@ -16032,7 +16032,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Then Moses and Aaron went in before Pharaoh and said to him, "These things says the Lord, the God of the Hebrews: How long will you refuse to humble yourself before me? Send my people away, so that they may serve me."
+- fresh: Then Moses and Aaron went in before Pharaoh and said to him, "Thus says the Lord, the God of the Hebrews: How long will you refuse to humble yourself before me? Send my people away, so that they may serve me."
 - brenton: And Moses and Aaron went in before Pharao, and they said to him, These things saith the Lord God of the Hebrews, How long dost thou refuse to reverence me? Send my people away, that they may serve me.
 
 ### Exodus 10:4
@@ -16302,7 +16302,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moses said, "These things says the Lord: About midnight I enter into the midst of Egypt,"
+- fresh: And Moses said, "Thus says the Lord: About midnight I enter into the midst of Egypt,"
 - brenton: And Moses said, These things saith the Lord, About midnight I go forth into the midst of Egypt.
 
 ### Exodus 11:5
@@ -38482,7 +38482,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Moses sent messengers from Kadesh to the king of Edom, saying, These things says your brother Israel: you know all the hardship that found us.
+- fresh: And Moses sent messengers from Kadesh to the king of Edom, saying, Thus says your brother Israel: you know all the hardship that found us.
 - brenton: And Moses sent messengers from Cades to the king of Edom, saying, Thus says thy brother Israel; Thou knowest all the distress that has come upon us.
 
 ### Numbers 20:15
@@ -52298,10 +52298,10 @@ Note:
 ### Joshua 1:9
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Behold, I have commanded you: be strong and act like a man. Do not be cowardly, nor fear, because the Lord your God is with you in everything you may do.
+- fresh: Behold, I have commanded you: be strong and be courageous. Do not be cowardly, nor fear, because the Lord your God is with you in everything you may do.
 - brenton: Lo! I have commanded thee; be strong and courageous, be not cowardly nor fearful, for the Lord thy God is with thee in all places whither thou goest.
 
 ### Joshua 1:10
@@ -53180,10 +53180,10 @@ Note:
 ### Joshua 6:10
 
 - importance: high
-- decisions: 2
-- footnotes: 2
+- decisions: 1
+- footnotes: 1
 - same_normalized: no
-- fresh: And Joshua commanded the people, saying, Do not shout, and let none of you be heard by voice until the day when he himself reports to shout, and then you shall shout.
+- fresh: And Joshua commanded the people, saying, Do not shout, and let no one among you make his voice heard until the day when he himself announces the shout; then you shall shout.
 - brenton: And Joshua commanded the people, saying, Cry not out, nor let any one hear your voice, until he himself declare to you the time to cry out, and then ye shall cry out.
 
 ### Joshua 6:11
@@ -53192,7 +53192,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the ark of the covenant of God went around the city and straightway went away into the camp and slept there.
+- fresh: And the ark of the covenant of God, having gone around the city, immediately returned into the camp and lodged there.
 - brenton: And the ark of the covenant of God having gone round immediately returned into the camp, and lodged there.
 
 ### Joshua 6:12
@@ -53345,16 +53345,16 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And the sons of Israel committed a great trespass and stole from the devoted thing, and Achar son of Carmi son of Zimri son of Zerah from the tribe of Judah took from the devoted thing, and the wrath of the Lord was angered against the sons of Israel.
+- fresh: And the sons of Israel committed a great trespass and stole from the devoted thing, and Achan son of Carmi son of Zimri son of Zerah from the tribe of Judah took from the devoted thing, and the Lord's anger burned against the sons of Israel.
 - brenton: But the children of Israel committed a great trespass, and purloined part of the accursed thing; and Achar the son of Charmi, the son of Zambri, the son of Zara, of the tribe of Juda, took of the accursed thing; and the Lord was very angry with the children of Israel.
 
 ### Joshua 7:2
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Joshua sent men to Ai, which is near Bethel, saying, Look over Ai. And the men went up and looked over Ai.
+- fresh: And Joshua sent men to Ai, which is near Bethel, saying, Scout out Ai. And the men went up and scouted out Ai.
 - brenton: And Joshua sent men to Gai, which is by Bæthel, saying, Spy out Gai: and the men went up and spied Gai.
 
 ### Joshua 7:3
@@ -53405,10 +53405,10 @@ Note:
 ### Joshua 7:8
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And what shall I say, since Israel turned neck before its enemy?
+- fresh: And what shall I say, since Israel turned its back before its enemy?
 - brenton: And what shall I say since Israel has turned his back before his enemy?
 
 ### Joshua 7:9
@@ -53444,7 +53444,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: The sons of Israel will certainly not be able to stand against the face of their enemies. They will turn neck before their enemies, because they have become a devoted thing. I will not add to be with you any longer unless you remove the devoted thing from among you.
+- fresh: The sons of Israel will certainly not be able to stand before their enemies. They will turn their backs before their enemies, because they have become a devoted thing. I will no longer be with you unless you remove the devoted thing from among you.
 - brenton: And the children of Israel will not be able to stand before their enemies; they will turn their back before their enemies, for they have become an accursed thing: I will not any longer be with you, unless ye remove the cursed thing from yourselves.
 
 ### Joshua 7:13
@@ -53453,7 +53453,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Rise, sanctify the people and tell them to sanctify themselves for tomorrow. These things says the Lord God of Israel: The devoted thing is among you. You will not be able to stand before your enemies until you remove the devoted thing from among you.
+- fresh: Rise, sanctify the people and tell them to sanctify themselves for tomorrow. Thus says the Lord God of Israel: The devoted thing is among you. You will not be able to stand before your enemies until you remove the devoted thing from among you.
 - brenton: Rise, sanctify the people and tell them to sanctify themselves for the morrow: thus says the Lord God of Israel, The accursed thing is among you; ye shall not be able to stand before your enemies, until ye shall have removed the cursed thing from among you.
 
 ### Joshua 7:14
@@ -53462,7 +53462,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And you shall be gathered in the morning by tribes, and it shall be, the tribe that the Lord points out, you shall bring by clans, and the clan that the Lord points out, you shall bring by house, and the house that the Lord points out, you shall bring by man.
+- fresh: And you shall be gathered in the morning by tribes, and it shall be, the tribe that the Lord points out, you shall bring forward by clans, and the clan that the Lord points out, you shall bring forward by house, and the house that the Lord points out, you shall bring forward man by man.
 - brenton: And ye shall all be gathered together by your tribes in the morning, and it shall come to pass that the tribe which the Lord shall shew, ye shall bring by families; and the family which the Lord shall shew, ye shall bring by households; and the household which the Lord shall shew, ye shall bring man by man.
 
 ### Joshua 7:15
@@ -53471,7 +53471,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And whoever is pointed out shall be burned with fire, he and everything that belongs to him, because he transgressed the covenant of the Lord and did lawless deed in Israel.
+- fresh: And whoever is pointed out shall be burned with fire, he and everything that belongs to him, because he transgressed the covenant of the Lord and committed a lawless deed in Israel.
 - brenton: And the man who shall be pointed out, shall be burnt with fire, and all that he has; because he has transgressed the covenant of the Lord, and has wrought wickedness in Israel.
 
 ### Joshua 7:16
@@ -53489,7 +53489,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And it was brought by clans, and the clan of Zerah was pointed out and brought by man.
+- fresh: And it was brought forward by clans, and the clan of Zerah was pointed out and brought forward man by man.
 - brenton: And it was brought by their families, and the family of the Zaraites was pointed out.
 
 ### Joshua 7:18
@@ -53498,7 +53498,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Achar son of Zimri son of Zerah was pointed out.
+- fresh: And Achan son of Zimri son of Zerah was pointed out.
 - brenton: And it was brought man by man, and Achar the son of Zambri the son of Zara was pointed out.
 
 ### Joshua 7:19
@@ -53507,7 +53507,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Joshua said to Achar, Give glory today to the Lord God of Israel and give confession, and report to me what you did, and do not hide it from me.
+- fresh: And Joshua said to Achan, Give glory today to the Lord God of Israel and give confession, and report to me what you did, and do not hide it from me.
 - brenton: And Joshua said to Achar, Give glory this day to the Lord God of Israel, and make confession; and tell me what thou hast done, and hide it not from me.
 
 ### Joshua 7:20
@@ -53516,7 +53516,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Achar answered Joshua and said, Truly I sinned before the Lord God of Israel. Thus and thus I did.
+- fresh: And Achan answered Joshua and said, Truly I sinned before the Lord God of Israel. Thus and thus I did.
 - brenton: And Achar answered Joshua, and said, Indeed I have sinned against the Lord God of Israel: thus and thus have I done:
 
 ### Joshua 7:21
@@ -53552,7 +53552,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And Joshua took Achar son of Zerah and brought him up to the Valley of Achor, and his sons and his daughters and his calves and his beasts of burden and all his sheep and his tent and all his possessions, and all the people with him, and they brought them up to Achor.
+- fresh: And Joshua took Achan son of Zerah and brought him up to the Valley of Achor, and his sons and his daughters and his calves and his beasts of burden and all his sheep and his tent and all his possessions, and all the people with him, and they brought them up to Achor.
 - brenton: And Joshua took Achar the son of Zara, and brought him to the valley of Achor, and his sons, and his daughters, and his calves, and his asses, and all his sheep, and his tent, and all his property, and all the people were with him; and he brought them to Emec Achor.
 
 ### Joshua 7:25
@@ -53561,16 +53561,16 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: And Joshua said to Achar, Why did you destroy us? May the Lord destroy you, just as also today. And all Israel stoned him with stones.
+- fresh: And Joshua said to Achan, Why did you destroy us? May the Lord destroy you, just as also today. And all Israel stoned him with stones.
 - brenton: And Joshua said to Achar, Why hast thou destroyed us? the Lord destroy thee as at this day. And all Israel stoned him with stones.
 
 ### Joshua 7:26
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: And they raised over him a great heap of stones, and the Lord ceased from the wrath of anger. Because of this he named it Achor until this day.
+- fresh: And they raised over him a great heap of stones, and the Lord turned from his fierce anger. Because of this he named it Achor until this day.
 - brenton: And they set up over him a great heap of stones; and the Lord ceased from his fierce anger. Therefore he called the place Emecachor until this day.
 
 ### Joshua 8:1
@@ -57437,10 +57437,10 @@ Note:
 ### Joshua 22:20
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Did not Achar son of Zerah commit a trespass from the accursed thing, and wrath came upon all the congregation of Israel? Yet that one man did not die alone in his own sin.
+- fresh: Did not Achan son of Zerah commit a trespass from the accursed thing, and wrath came upon all the congregation of Israel? Yet that one man did not die alone in his own sin.
 - brenton: Lo! did not Achar the son of Zara commit a trespass taking of the accursed thing, and there was wrath on the whole congregation of Israel? and he himself died alone in his own sin.
 
 ### Joshua 22:21
@@ -91264,7 +91264,7 @@ Note:
 ### 1 Chronicles 2:7
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: And sons of Carmi: Achar, the troubler of Israel, who transgressed in the devoted thing.
@@ -122462,7 +122462,7 @@ Note:
 - decisions: 0
 - footnotes: 1
 - same_normalized: no
-- fresh: Where were you when I founded earth? Declare to me, if you know understanding.
+- fresh: Where were you when I founded the earth? Declare to me, if you know understanding.
 - brenton: Where wast thou when I founded the earth? tell me now, if thou hast knowledge,
 
 ### Job 38:5
@@ -126565,10 +126565,10 @@ Note:
 ### Psalms 22:5
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: You prepared table before me opposite those afflicting me; you anointed my head with oil, and your cup intoxicating like strongest wine.
+- fresh: You prepared table before me opposite those afflicting me; you anointed my head with oil, and your cup intoxicates me, how excellent.
 - brenton: Thou hast prepared a table before me in presence of them that afflict me: thou hast thoroughly anointed my head with oil; and thy cup cheers me like the best wine.
 
 ### Psalms 22:6
@@ -147018,13 +147018,13 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: Be trusting in God with all your heart, and do not exalt yourself on your own wisdom.
+- fresh: Trust in God with all your heart, and do not exalt yourself on your own wisdom.
 - brenton: Trust in God with all thine heart; and be not exalted in thine own wisdom.
 
 ### Proverbs 3:6
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: In all your ways know her, so that she may cut straight your ways, and your foot will not stumble.
@@ -153930,7 +153930,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: My words, son, fear and receive them, and repent. These things says the man to those trusting in God, and I stop.
+- fresh: My words, son, fear and receive them, and repent. Thus says the man to those trusting in God, and I stop.
 - brenton: [missing]
 
 ### Proverbs 30:2
@@ -156685,7 +156685,7 @@ Note:
 ### Song of Solomon 2:4
 
 - importance: high
-- decisions: 0
+- decisions: 1
 - footnotes: 1
 - same_normalized: no
 - fresh: Bring me into the house of wine; arrange love upon me.
@@ -164718,7 +164718,7 @@ Note:
 - decisions: 1
 - footnotes: 1
 - same_normalized: no
-- fresh: But those enduring for God will change strength, they will grow wings like eagles, they will run and not grow weary, they will walk and not hunger.
+- fresh: But those enduring for God will renew their strength, they will grow wings like eagles, they will run and not grow weary, they will walk and not hunger.
 - brenton: but they that wait on God shall renew their strength; they shall put forth new feathers like eagles; they shall run, and not be weary; they shall walk, and not hunger.
 
 ### Isaiah 41:1
