@@ -872,6 +872,25 @@ def test_acts_tr_critical_text_footnotes_present() -> None:
     assert "Acts 24:6b-8a" in footnote_rows["Acts 24:6"]["footnote_text"]
 
 
+def test_romans_tr_critical_text_footnotes_present() -> None:
+    source_rows = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    refs = {"Romans 8:1", "Romans 16:24"}
+    footnote_rows = {
+        row["ref"]: row
+        for row in csv_rows("data/research/translation_footnotes.csv")
+        if row["ref"] in refs
+    }
+
+    assert "μη κατα σαρκα περιπατουσιν" in source_rows["Romans 8:1"]["greek_text"]
+    assert "η χαρις του κυριου ημων" in source_rows["Romans 16:24"]["greek_text"]
+
+    for ref in refs:
+        assert footnote_rows[ref]["note_type"] == "textual"
+        assert "NA28/UBS5" in footnote_rows[ref]["footnote_text"]
+        assert footnote_rows[ref]["status"] == "reviewed"
+    assert "shorter form" in footnote_rows["Romans 8:1"]["footnote_text"]
+
+
 def test_reviewed_phrase_guards_match_source() -> None:
     rows_by_testament = {
         "ot": {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")},
