@@ -118,10 +118,11 @@ def audit_target(
     *,
     valid_refs: set[str],
     chapter_maxima: dict[str, dict[int, int]],
-) -> list[dict[str, str]]:
+) -> tuple[list[dict[str, str]], Counter[str]]:
+    counts: Counter[str] = Counter()
     endpoints = range_endpoints(ref)
     if not endpoints:
-        return [{"issue": "unparseable_target", "normalized_ref": "", "missing_ref": "", "detail": ""}]
+        return [{"issue": "unparseable_target", "normalized_ref": "", "missing_ref": "", "detail": ""}], counts
 
     start_ref, end_ref = endpoints
     normalized_start = builder.normalize_code_ref_code(start_ref)
@@ -146,7 +147,7 @@ def audit_target(
             }
         )
     if issues:
-        return issues
+        return issues, counts
 
     expected_refs, range_issue = expected_refs_between(normalized_start, normalized_end, chapter_maxima)
     if range_issue and range_issue != "cross_book_range_not_expanded":
@@ -157,17 +158,14 @@ def audit_target(
                 "missing_ref": "",
                 "detail": "",
             }
-        ]
+        ], counts
     missing = [item for item in expected_refs if item not in valid_refs]
-    return [
-        {
-            "issue": "missing_internal_ref",
-            "normalized_ref": f"{normalized_start}-{normalized_end}",
-            "missing_ref": item,
-            "detail": "",
-        }
-        for item in missing
-    ]
+    if missing:
+        # LXX numbering can skip verse numbers inside otherwise valid ranges.
+        # A cross-reference range remains usable when both endpoints resolve.
+        counts["internal_gap_ranges_accepted"] += 1
+        counts["internal_gap_refs_skipped"] += len(missing)
+    return [], counts
 
 
 def audit_crossrefs(
@@ -183,7 +181,12 @@ def audit_crossrefs(
         for note in notes:
             for target_ref in note.refs:
                 counts["targets_checked"] += 1
-                issues = audit_target(target_ref, valid_refs=valid_refs, chapter_maxima=chapter_maxima)
+                issues, target_counts = audit_target(
+                    target_ref,
+                    valid_refs=valid_refs,
+                    chapter_maxima=chapter_maxima,
+                )
+                counts.update(target_counts)
                 if not issues:
                     continue
                 counts["broken_targets"] += 1
@@ -255,6 +258,8 @@ def main() -> None:
             "verses_with_crossrefs": len(crossrefs),
             "targets_checked": counts["targets_checked"],
             "broken_targets": counts["broken_targets"],
+            "internal_gap_ranges_accepted": counts["internal_gap_ranges_accepted"],
+            "internal_gap_refs_skipped": counts["internal_gap_refs_skipped"],
             "source_diagnostics": diag,
         }
 
