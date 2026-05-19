@@ -1068,6 +1068,50 @@ def test_crossref_phrase_anchors_match_fresh_text_and_broad_links_stay_local() -
     sys.path.insert(0, str(ROOT / "scripts"))
     import build_fresh_logos_bible as logos_builder
 
+    def endpoint_code_ref(book_label: str, chapter: str, verse: str) -> str | None:
+        parsed = logos_builder.parse_cross_reference(
+            f"{book_label} {int(chapter)}:{int(verse)}"
+        )
+        if not parsed:
+            return None
+        code, _label, parsed_chapter, parsed_verse, _end, _raw = parsed
+        if parsed_verse is None:
+            return None
+        return f"{logos_builder.validation_code(code)} {parsed_chapter}:{parsed_verse}"
+
+    def crossref_endpoints(ref: str) -> list[str | None]:
+        normalized = logos_builder.normalize_space(ref.strip())
+        match = logos_builder.CROSSREF_FULL_RANGE_RE.match(normalized)
+        if match:
+            start_book, start_chapter, start_verse, end_book, end_chapter, end_verse = (
+                match.groups()
+            )
+            return [
+                endpoint_code_ref(start_book, start_chapter, start_verse),
+                endpoint_code_ref(end_book, end_chapter, end_verse),
+            ]
+        match = logos_builder.CROSSREF_CHAPTER_RANGE_RE.match(normalized)
+        if match:
+            book, start_chapter, start_verse, end_chapter, end_verse = match.groups()
+            return [
+                endpoint_code_ref(book, start_chapter, start_verse),
+                endpoint_code_ref(book, end_chapter, end_verse),
+            ]
+        match = logos_builder.CROSSREF_SAME_CHAPTER_RANGE_RE.match(normalized)
+        if match:
+            book, chapter, start_verse, end_verse = match.groups()
+            return [
+                endpoint_code_ref(book, chapter, start_verse),
+                endpoint_code_ref(book, chapter, end_verse),
+            ]
+        parsed = logos_builder.parse_cross_reference(normalized)
+        if not parsed:
+            return [None]
+        code, _label, chapter, verse, _end, _raw = parsed
+        if verse is None:
+            return [None]
+        return [f"{logos_builder.validation_code(code)} {chapter}:{verse}"]
+
     sources = (
         ("ot", ROOT / "data/raw/lxx_greek/ot_full.csv"),
         ("nt", ROOT / "data/raw/tr_greek/nt_full.csv"),
@@ -1075,6 +1119,7 @@ def test_crossref_phrase_anchors_match_fresh_text_and_broad_links_stay_local() -
     for testament, path in sources:
         verses = logos_builder.load_verses(path)
         by_ref = {verse.ref: verse for verse in verses}
+        valid_refs = logos_builder.valid_crossref_code_refs(verses)
         crossrefs, _diag = logos_builder.build_crossrefs_for_verses(
             verses,
             testament,
@@ -1091,6 +1136,8 @@ def test_crossref_phrase_anchors_match_fresh_text_and_broad_links_stay_local() -
                     assert not re.search(r"\(\d+\)$", crossref), (testament, ref, crossref)
                     parsed = logos_builder.parse_cross_reference(crossref)
                     assert parsed and parsed[0], (testament, ref, crossref)
+                    for endpoint in crossref_endpoints(crossref):
+                        assert endpoint in valid_refs, (testament, ref, crossref, endpoint)
                 if not phrase:
                     continue
                 assert phrase in verse.text, (testament, ref, phrase)
