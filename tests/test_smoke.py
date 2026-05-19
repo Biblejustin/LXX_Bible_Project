@@ -781,6 +781,29 @@ def test_matthew_tr_critical_text_footnotes_present() -> None:
         assert footnote_rows[ref]["status"] == "reviewed"
 
 
+def test_mark_tr_critical_text_footnotes_present() -> None:
+    source_rows = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    refs = {"Mark 7:16", "Mark 9:44", "Mark 9:46", "Mark 11:26", "Mark 15:28", "Mark 16:9"}
+    footnote_rows = {
+        row["ref"]: row
+        for row in csv_rows("data/research/translation_footnotes.csv")
+        if row["ref"] in refs
+    }
+
+    assert "ει τις εχει ωτα" in source_rows["Mark 7:16"]["greek_text"]
+    assert "ο σκωληξ αυτων" in source_rows["Mark 9:44"]["greek_text"]
+    assert "ο σκωληξ αυτων" in source_rows["Mark 9:46"]["greek_text"]
+    assert "ει δε υμεις ουκ αφιετε" in source_rows["Mark 11:26"]["greek_text"]
+    assert "και μετα ανομων ελογισθη" in source_rows["Mark 15:28"]["greek_text"]
+    assert "αναστας δε πρωι" in source_rows["Mark 16:9"]["greek_text"]
+
+    for ref in refs:
+        assert footnote_rows[ref]["note_type"] == "textual"
+        assert "NA28/UBS5" in footnote_rows[ref]["footnote_text"]
+        assert footnote_rows[ref]["status"] == "reviewed"
+    assert "Mark 16:9-20" in footnote_rows["Mark 16:9"]["footnote_text"]
+
+
 def test_reviewed_phrase_guards_match_source() -> None:
     rows_by_testament = {
         "ot": {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")},
