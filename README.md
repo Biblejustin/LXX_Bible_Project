@@ -375,6 +375,16 @@ This writes:
 
 - ignored Logos-local review/watch artifacts under `output/`
 
+Cross-reference target audit:
+
+```bash
+python scripts/audit_crossref_targets.py
+```
+
+This writes ignored diagnostics under `output/working/crossref_target_audit/`.
+It checks rendered Logos and print cross-reference targets against current OT/NT
+source rows before any broken-reference cleanup is attempted.
+
 Proper-name watch:
 
 ```bash
