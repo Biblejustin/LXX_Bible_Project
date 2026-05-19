@@ -827,6 +827,28 @@ def test_luke_tr_critical_text_footnotes_present() -> None:
     assert "Luke 9:55-56" in footnote_rows["Luke 9:55"]["footnote_text"]
 
 
+def test_john_tr_critical_text_footnotes_present() -> None:
+    source_rows = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    refs = {"John 5:3", "John 7:53"}
+    footnote_rows = {
+        row["ref"]: row
+        for row in csv_rows("data/research/translation_footnotes.csv")
+        if row["ref"] in refs
+    }
+
+    assert "εκδεχομενων την του υδατος κινησιν" in source_rows["John 5:3"]["greek_text"]
+    assert "αγγελος γαρ κατα καιρον" in source_rows["John 5:4"]["greek_text"]
+    assert "και επορευθη εκαστος" in source_rows["John 7:53"]["greek_text"]
+    assert "μηκετι αμαρτανε" in source_rows["John 8:11"]["greek_text"]
+
+    for ref in refs:
+        assert footnote_rows[ref]["note_type"] == "textual"
+        assert "NA28/UBS5" in footnote_rows[ref]["footnote_text"]
+        assert footnote_rows[ref]["status"] == "reviewed"
+    assert "John 5:3b-4" in footnote_rows["John 5:3"]["footnote_text"]
+    assert "John 7:53-8:11" in footnote_rows["John 7:53"]["footnote_text"]
+
+
 def test_reviewed_phrase_guards_match_source() -> None:
     rows_by_testament = {
         "ot": {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")},
