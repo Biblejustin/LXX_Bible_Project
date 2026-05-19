@@ -3,20 +3,20 @@
   "book_count": 66,
   "translation_note_filter": {
     "rows": 25283,
-    "included": 4037,
+    "included": 4046,
     "included_mt_lxx_difference_notes": 336,
     "skipped_unreviewed": 1889,
     "skipped_generic_or_brenton_only": 10128,
-    "skipped_generic_mt_lxx_without_concrete_detail": 9120,
+    "skipped_generic_mt_lxx_without_concrete_detail": 9111,
     "included_concrete_mt_lxx_details": 3,
     "skipped_note_type": 109
   },
   "reader_facing_translation_note_filter": {
-    "input_refs": 3926,
-    "input_notes": 4032,
-    "included_notes": 3964,
+    "input_refs": 3935,
+    "input_notes": 4041,
+    "included_notes": 3973,
     "skipped_mechanical_review_notes": 68,
-    "included_refs": 3858,
+    "included_refs": 3867,
     "skipped_mechanical_review_note_variants": 60
   },
   "translation_decision_filter": {
@@ -33,8 +33,8 @@
     "included_refs": 0,
     "included_total": 0
   },
-  "included_translation_note_refs": 3858,
-  "included_translation_note_total": 3964,
+  "included_translation_note_refs": 3867,
+  "included_translation_note_total": 3973,
   "book_prefaces": {
     "present": true,
     "path": "/Users/justinscaggs/Documents/Codex_bible/data/book_intros_template.csv",
@@ -146,15 +146,15 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 2983,
     "footnote_columns": 2,
-    "footnote_count": 35587,
+    "footnote_count": 35596,
     "crossref_footnotes": 28809,
-    "translation_note_footnotes": 3964,
+    "translation_note_footnotes": 3973,
     "section_break_count": 0,
     "footnote_number_restart": "page",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
-    "phrase_anchored_translation_notes": 3137,
-    "verse_anchored_translation_notes": 827,
+    "phrase_anchored_translation_notes": 3139,
+    "verse_anchored_translation_notes": 834,
     "name_meaning_footnotes": 2814,
     "supplemental_note_footnotes": 0,
     "brenton_supplemental_footnotes": 0,
@@ -192,8 +192,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 35587,
-      "footnote_body_count": 35587
+      "footnote_reference_count": 35596,
+      "footnote_body_count": 35596
     }
   ],
   "outputs": {

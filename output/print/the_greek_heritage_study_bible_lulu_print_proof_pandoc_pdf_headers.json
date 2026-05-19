@@ -1904,7 +1904,7 @@
     },
     {
       "page": 137,
-      "range": "Joshua 22:29-24:18",
+      "range": "Joshua 22:29-24:17",
       "first_ref": {
         "book": "Joshua",
         "chapter": 22,
@@ -1913,16 +1913,16 @@
       "last_ref": {
         "book": "Joshua",
         "chapter": 24,
-        "verse": 18
+        "verse": 17
       }
     },
     {
       "page": 138,
-      "range": "Joshua 24:18 - Judges 1:7",
+      "range": "Joshua 24:17 - Judges 1:7",
       "first_ref": {
         "book": "Joshua",
         "chapter": 24,
-        "verse": 18
+        "verse": 17
       },
       "last_ref": {
         "book": "Judges",
@@ -2086,7 +2086,7 @@
     },
     {
       "page": 150,
-      "range": "Judges 17:7-19:5",
+      "range": "Judges 17:7-19:4",
       "first_ref": {
         "book": "Judges",
         "chapter": 17,
@@ -2095,44 +2095,44 @@
       "last_ref": {
         "book": "Judges",
         "chapter": 19,
-        "verse": 5
+        "verse": 4
       }
     },
     {
       "page": 151,
-      "range": "Judges 19:5-20:23",
+      "range": "Judges 19:4-20:22",
       "first_ref": {
         "book": "Judges",
         "chapter": 19,
-        "verse": 5
+        "verse": 4
       },
       "last_ref": {
         "book": "Judges",
         "chapter": 20,
-        "verse": 23
+        "verse": 22
       }
     },
     {
       "page": 152,
-      "range": "Judges 20:23-21:25",
+      "range": "Judges 20:22-21:23",
       "first_ref": {
         "book": "Judges",
         "chapter": 20,
-        "verse": 23
+        "verse": 22
       },
       "last_ref": {
         "book": "Judges",
         "chapter": 21,
-        "verse": 25
+        "verse": 23
       }
     },
     {
       "page": 153,
-      "range": "Ruth 1:1-22",
+      "range": "Judges 21:23 - Ruth 1:22",
       "first_ref": {
-        "book": "Ruth",
-        "chapter": 1,
-        "verse": 1
+        "book": "Judges",
+        "chapter": 21,
+        "verse": 23
       },
       "last_ref": {
         "book": "Ruth",
