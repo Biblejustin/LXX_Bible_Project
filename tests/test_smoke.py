@@ -922,6 +922,26 @@ def test_first_john_comma_johanneum_textual_note_present() -> None:
     assert footnote_rows["1 John 5:7"]["status"] == "reviewed"
 
 
+def test_revelation_tr_critical_text_footnotes_present() -> None:
+    source_rows = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    refs = {"Revelation 22:14", "Revelation 22:19"}
+    footnote_rows = {
+        row["ref"]: row
+        for row in csv_rows("data/research/translation_footnotes.csv")
+        if row["ref"] in refs
+    }
+
+    assert "ποιουντες τας εντολας" in source_rows["Revelation 22:14"]["greek_text"]
+    assert "βιβλου της ζωης" in source_rows["Revelation 22:19"]["greek_text"]
+
+    for ref in refs:
+        assert footnote_rows[ref]["note_type"] == "textual"
+        assert "NA28/UBS5" in footnote_rows[ref]["footnote_text"]
+        assert footnote_rows[ref]["status"] == "reviewed"
+    assert "wash their robes" in footnote_rows["Revelation 22:14"]["footnote_text"]
+    assert "tree of life" in footnote_rows["Revelation 22:19"]["footnote_text"]
+
+
 def test_reviewed_phrase_guards_match_source() -> None:
     rows_by_testament = {
         "ot": {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")},
