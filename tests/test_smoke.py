@@ -164,6 +164,37 @@ def test_fresh_source_csv_shapes() -> None:
     ]
 
 
+def test_crossref_target_overrides_convert_reversed_lxx_ranges() -> None:
+    import build_fresh_logos_bible as logos_builder
+
+    verses = logos_builder.load_verses(logos_builder.DEFAULT_SOURCE) + logos_builder.load_verses(
+        logos_builder.DEFAULT_NT_SOURCE
+    )
+    valid_refs = logos_builder.valid_crossref_code_refs(verses)
+    english_to_lxx = logos_builder.invert_versification_map(
+        logos_builder.effective_versification_map(None)
+    )
+
+    cases = {
+        "Exod 39:1-7": ("Exodus 36:8-14",),
+        "Exodus 39:1-2": ("Exodus 36:8-9",),
+        "Exodus 20:13-14": ("Exodus 20:13", "Exodus 20:15"),
+        "Deuteronomy 5:17-18": ("Deuteronomy 5:17", "Deuteronomy 5:18"),
+        "Jeremiah 39:1-10": ("Jeremiah 46:1-3",),
+        "Jeremiah 39:2-4": ("Jeremiah 46:2-3",),
+        "Jeremiah 48:1-49:22": ("Jeremiah 30:1-21", "Jeremiah 31:1-44"),
+    }
+
+    for source_ref, expected in cases.items():
+        mapped_refs, counts = logos_builder.map_crossref_refs_to_lxx(
+            (source_ref,),
+            english_to_lxx_map=english_to_lxx,
+            valid_code_refs=valid_refs,
+        )
+        assert mapped_refs == expected
+        assert counts["manual_lxx_target_overrides"] == 1
+
+
 def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     import build_fresh_logos_bible as logos_builder
 

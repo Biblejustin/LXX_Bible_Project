@@ -243,15 +243,16 @@
     },
     "verses_with_crossrefs": 28808,
     "crossref_note_groups": 58515,
-    "total_crossrefs_after_canonicalization": 297642,
+    "total_crossrefs_after_canonicalization": 297645,
     "versification_mapping": {
       "input_refs": 302537,
-      "mapped_to_lxx": 248497,
-      "output_refs": 297642,
+      "mapped_to_lxx": 248484,
+      "output_refs": 297645,
       "dropped_missing_lxx_target": 4894,
       "dropped_empty_note_after_mapping": 336,
       "source_refs_mapped_to_standard": 4154,
-      "deduped_after_mapping": 1
+      "deduped_after_mapping": 1,
+      "manual_lxx_target_overrides": 13
     },
     "tsk": {
       "testament": "combined",

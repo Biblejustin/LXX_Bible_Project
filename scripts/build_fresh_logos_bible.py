@@ -90,6 +90,7 @@ DEFAULT_DIAGNOSTICS = OUTPUT / "fresh_translation_ot_logos_bible_diagnostics.jso
 DEFAULT_README = OUTPUT / "README.md"
 DEFAULT_PREVIEW = OUTPUT / "fresh_translation_ot_logos_bible_preview.md"
 DEFAULT_VERSIFICATION_MAP = DATA / "versification" / "lxx_to_eng_map.json"
+DEFAULT_CROSSREF_TARGET_OVERRIDES = DATA / "crossref_target_overrides.csv"
 DEFAULT_TEXTUAL_NOTES_HTML = RESEARCH / "textual_notes_export.html"
 DEFAULT_LOGOS_ROOT = Path.home() / "Library" / "Application Support" / "Logos4"
 GENESIS_CHRONOLOGY_COMPARISON = DATA / "genesis_chronology_comparison.csv"
@@ -2306,6 +2307,60 @@ def code_ref_for_crossref_endpoint(book_label: str, chapter: str, verse: str) ->
     return f"{validation_code(code)} {parsed_chapter}:{parsed_verse}"
 
 
+def crossref_override_key(ref: str) -> str | None:
+    normalized = normalize_space(ref.strip())
+    match = CROSSREF_FULL_RANGE_RE.match(normalized)
+    if match:
+        start_book, start_chapter, start_verse, end_book, end_chapter, end_verse = match.groups()
+        start_ref = code_ref_for_crossref_endpoint(start_book, start_chapter, start_verse)
+        end_ref = code_ref_for_crossref_endpoint(end_book, end_chapter, end_verse)
+        return f"{start_ref}-{end_ref}" if start_ref and end_ref else None
+    match = CROSSREF_CHAPTER_RANGE_RE.match(normalized)
+    if match:
+        book, start_chapter, start_verse, end_chapter, end_verse = match.groups()
+        start_ref = code_ref_for_crossref_endpoint(book, start_chapter, start_verse)
+        end_ref = code_ref_for_crossref_endpoint(book, end_chapter, end_verse)
+        return f"{start_ref}-{end_ref}" if start_ref and end_ref else None
+    match = CROSSREF_SAME_CHAPTER_RANGE_RE.match(normalized)
+    if match:
+        book, chapter, start_verse, end_verse = match.groups()
+        start_ref = code_ref_for_crossref_endpoint(book, chapter, start_verse)
+        end_ref = code_ref_for_crossref_endpoint(book, chapter, end_verse)
+        return f"{start_ref}-{end_ref}" if start_ref and end_ref else None
+    parsed = parse_cross_reference(normalized)
+    if not parsed:
+        return None
+    code, _label, chapter, verse, _end, _raw = parsed
+    if verse is None:
+        return None
+    return f"{validation_code(code)} {chapter}:{verse}"
+
+
+def load_crossref_target_overrides(
+    path: Path = DEFAULT_CROSSREF_TARGET_OVERRIDES,
+) -> dict[str, tuple[str, ...]]:
+    if not path.exists():
+        return {}
+    overrides: dict[str, tuple[str, ...]] = {}
+    with path.open("r", encoding="utf-8", newline="") as handle:
+        for row in csv.DictReader(handle):
+            source_ref = normalize_space(row.get("source_ref", ""))
+            mapped_refs = tuple(
+                normalize_space(item)
+                for item in row.get("mapped_refs", "").split(";")
+                if normalize_space(item)
+            )
+            if not source_ref or not mapped_refs:
+                continue
+            key = crossref_override_key(source_ref)
+            if key:
+                overrides[key] = mapped_refs
+    return overrides
+
+
+DEFAULT_CROSSREF_TARGET_OVERRIDE_MAP = load_crossref_target_overrides()
+
+
 def map_code_ref_to_lxx(
     code_ref: str,
     english_to_lxx_map: dict[str, str],
@@ -2384,25 +2439,36 @@ def map_crossref_refs_to_lxx(
     versification_map: dict[str, str] | None = None,
     english_to_lxx_map: dict[str, str] | None = None,
     valid_code_refs: set[str] | None = None,
+    target_overrides: dict[str, tuple[str, ...]] | None = None,
 ) -> tuple[tuple[str, ...], Counter[str]]:
     if english_to_lxx_map is None:
         english_to_lxx_map = invert_versification_map(effective_versification_map(versification_map))
+    if target_overrides is None:
+        target_overrides = DEFAULT_CROSSREF_TARGET_OVERRIDE_MAP
     mapped_refs: list[str] = []
     counts: Counter[str] = Counter()
     seen: set[str] = set()
     for ref in refs:
         counts["input_refs"] += 1
-        mapped_ref = map_cross_reference_to_lxx(ref, english_to_lxx_map, valid_code_refs)
-        if not mapped_ref:
-            counts["dropped_missing_lxx_target"] += 1
-            continue
-        if mapped_ref != ref:
-            counts["mapped_to_lxx"] += 1
-        if mapped_ref in seen:
-            counts["deduped_after_mapping"] += 1
-            continue
-        seen.add(mapped_ref)
-        mapped_refs.append(mapped_ref)
+        override_key = crossref_override_key(ref)
+        override_refs = target_overrides.get(override_key or "")
+        if override_refs:
+            candidates = override_refs
+            counts["manual_lxx_target_overrides"] += 1
+        else:
+            mapped_ref = map_cross_reference_to_lxx(ref, english_to_lxx_map, valid_code_refs)
+            if not mapped_ref:
+                counts["dropped_missing_lxx_target"] += 1
+                continue
+            candidates = (mapped_ref,)
+            if mapped_ref != ref:
+                counts["mapped_to_lxx"] += 1
+        for mapped_ref in candidates:
+            if mapped_ref in seen:
+                counts["deduped_after_mapping"] += 1
+                continue
+            seen.add(mapped_ref)
+            mapped_refs.append(mapped_ref)
     counts["output_refs"] += len(mapped_refs)
     return tuple(mapped_refs), counts
 

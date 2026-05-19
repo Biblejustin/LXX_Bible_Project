@@ -37,7 +37,7 @@ Counts:
 - Translation/textual note footnotes: `3998`
 - Name-meaning footnotes: `2814`
 - Cross-reference footnotes: `28809`
-- Cross-reference refs kept: `213012`
+- Cross-reference refs kept: `213015`
 - Supplemental/Brenton footnotes: `0`
 
 Rebuild:
