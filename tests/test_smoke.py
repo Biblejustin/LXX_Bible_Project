@@ -891,6 +891,21 @@ def test_romans_tr_critical_text_footnotes_present() -> None:
     assert "shorter form" in footnote_rows["Romans 8:1"]["footnote_text"]
 
 
+def test_first_timothy_tr_critical_text_footnote_present() -> None:
+    source_rows = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    footnote_rows = {
+        row["ref"]: row
+        for row in csv_rows("data/research/translation_footnotes.csv")
+        if row["ref"] == "1 Timothy 3:16"
+    }
+
+    assert "θεος εφανερωθη εν σαρκι" in source_rows["1 Timothy 3:16"]["greek_text"]
+    assert footnote_rows["1 Timothy 3:16"]["note_type"] == "textual"
+    assert "God was manifest in the flesh" in footnote_rows["1 Timothy 3:16"]["footnote_text"]
+    assert "NA28/UBS5" in footnote_rows["1 Timothy 3:16"]["footnote_text"]
+    assert footnote_rows["1 Timothy 3:16"]["status"] == "reviewed"
+
+
 def test_reviewed_phrase_guards_match_source() -> None:
     rows_by_testament = {
         "ot": {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")},
