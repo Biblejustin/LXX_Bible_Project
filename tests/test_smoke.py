@@ -458,7 +458,16 @@ def test_reader_facing_translation_note_loader_suppresses_generic_process_notes(
     ]
 
     assert "Greek line matches current rendering closely here." not in loaded_note_texts
-    assert diagnostics["skipped_generic_or_brenton_only"] >= 10063
+    assert (
+        "Cross-reference review revised malformed literal wording while following the local Greek text at this verse numbering point."
+        not in loaded_note_texts
+    )
+    assert not any(
+        text.startswith("Cross-reference review revised malformed literal wording while following the local Greek")
+        for text in loaded_note_texts
+    )
+    assert "Greek preserves its own proper-name form in this register. The translation follows it." not in loaded_note_texts
+    assert diagnostics["skipped_generic_or_brenton_only"] >= 10092
 
 
 def test_tracked_text_files_use_lf_line_endings() -> None:

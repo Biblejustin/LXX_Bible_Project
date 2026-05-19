@@ -273,6 +273,10 @@ CROSSREF_FULL_RANGE_RE = re.compile(r"^(.+?) (\d+):(\d+)-(.+?) (\d+):(\d+)$")
 GENERIC_FOOTNOTE_PATTERNS = (
     "Brenton differs here. The translation follows the current fresh wording at this verse numbering point.",
     "Greek line matches current rendering closely here.",
+    "Greek preserves its own proper-name form in this register. The translation follows it.",
+)
+GENERIC_FOOTNOTE_PREFIXES = (
+    "Cross-reference review revised malformed literal wording while following the local Greek",
 )
 GENERIC_MT_LXX_NOTE_PREFIX = "The Septuagint differs here from the Masoretic wording."
 
@@ -1951,6 +1955,8 @@ def place_name_meaning_notes_by_chapter(
 def is_generic_or_brenton_only_note(row: dict[str, str]) -> bool:
     body = row.get("footnote_text", "").strip()
     if any(body == pattern for pattern in GENERIC_FOOTNOTE_PATTERNS):
+        return True
+    if any(body.startswith(prefix) for prefix in GENERIC_FOOTNOTE_PREFIXES):
         return True
     source = row.get("source_basis", "").strip().lower()
     return source == "translation comparison" and body.startswith("Brenton differs here.")

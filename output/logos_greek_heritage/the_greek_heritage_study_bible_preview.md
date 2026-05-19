@@ -554,7 +554,7 @@ This preview shows the first three verses of each book with note/cross-reference
 - Cross-references: 13
 
 **Micah 1:2** Hear words, O peoples, and let the earth and all those in it pay attention; and the Lord will be among you for a testimony, the Lord from his holy house.
-- Translation/textual notes: 1
+- Translation/textual notes: 0
 - Supplemental notes/links: 0
 - Cross-references: 24
 
