@@ -590,6 +590,52 @@ def test_joshua_7_wording_and_achan_policy() -> None:
     assert "will not add to harm" not in by_ref["Psalms 88:23"]["draft_translation"]
     assert "you will no longer boast greatly upon my holy mountain" in by_ref["Zephaniah 3:11"]["draft_translation"]
     assert "you will no longer add to boast" not in by_ref["Zephaniah 3:11"]["draft_translation"]
+    assert "again she bore his brother Abel" in by_ref["Genesis 4:2"]["draft_translation"]
+    assert "added to bear" not in by_ref["Genesis 4:2"]["draft_translation"]
+    assert "do not deceive again, Pharaoh" in by_ref["Exodus 8:25"]["draft_translation"]
+    assert "do not add again, Pharaoh" not in by_ref["Exodus 8:25"]["draft_translation"]
+    assert "shall not again commit such evil" in by_ref["Deuteronomy 13:12"]["draft_translation"]
+    assert "shall not add again to do" not in by_ref["Deuteronomy 13:12"]["draft_translation"]
+    assert "the Lord called Samuel again" in by_ref["1 Samuel 3:8"]["draft_translation"]
+    assert "Lord added to call" not in by_ref["1 Samuel 3:8"]["draft_translation"]
+    assert "the Lord called again, Samuel, Samuel" in by_ref["1 Samuel 3:6"]["draft_translation"]
+    assert "Lord added and called" not in by_ref["1 Samuel 3:6"]["draft_translation"]
+    assert "Samuel did not see Saul again" in by_ref["1 Samuel 15:35"]["draft_translation"]
+    assert "did not add again to see" not in by_ref["1 Samuel 15:35"]["draft_translation"]
+    assert "he no longer sought him" in by_ref["1 Samuel 27:4"]["draft_translation"]
+    assert "no longer added to seek" not in by_ref["1 Samuel 27:4"]["draft_translation"]
+    assert "they fought no longer" in by_ref["2 Samuel 2:28"]["draft_translation"]
+    assert "no longer added to fight" not in by_ref["2 Samuel 2:28"]["draft_translation"]
+    assert "he will not touch him again" in by_ref["2 Samuel 14:10"]["draft_translation"]
+    assert "will not add still to touch" not in by_ref["2 Samuel 14:10"]["draft_translation"]
+    assert "not again shake the foot of Israel" in by_ref["2 Kings 21:8"]["draft_translation"]
+    assert "not again add to shake" not in by_ref["2 Kings 21:8"]["draft_translation"]
+    assert "he rebelled still further from the Lord" in by_ref["2 Chronicles 28:22"]["draft_translation"]
+    assert "added to rebel further" not in by_ref["2 Chronicles 28:22"]["draft_translation"]
+    assert "not again shake the foot of Israel" in by_ref["2 Chronicles 33:8"]["draft_translation"]
+    assert "not again add to move" not in by_ref["2 Chronicles 33:8"]["draft_translation"]
+    assert "Will not the one lying down rise again?" in by_ref["Psalms 40:9"]["draft_translation"]
+    assert "add to rise again" not in by_ref["Psalms 40:9"]["draft_translation"]
+    assert "he will receive more" in by_ref["Proverbs 9:9"]["draft_translation"]
+    assert "add to receiving" not in by_ref["Proverbs 9:9"]["draft_translation"]
+    assert "the Lord will again show his hand" in by_ref["Isaiah 11:11"]["draft_translation"]
+    assert "will add to show" not in by_ref["Isaiah 11:11"]["draft_translation"]
+    assert "I will proceed to move this people" in by_ref["Isaiah 29:14"]["draft_translation"]
+    assert "I will add to move" not in by_ref["Isaiah 29:14"]["draft_translation"]
+    assert "Shall I again look toward your holy temple?" in by_ref["Jonah 2:5"]["draft_translation"]
+    assert "again add to look" not in by_ref["Jonah 2:5"]["draft_translation"]
+    assert "will never happen again" in by_ref["Exodus 11:6"]["draft_translation"]
+    assert "will never be added again" not in by_ref["Exodus 11:6"]["draft_translation"]
+    assert "said again to Joab" in by_ref["2 Samuel 18:22"]["draft_translation"]
+    assert "again added and said" not in by_ref["2 Samuel 18:22"]["draft_translation"]
+    assert "the king sent again" in by_ref["2 Kings 1:11"]["draft_translation"]
+    assert "king added and sent" not in by_ref["2 Kings 1:11"]["draft_translation"]
+    assert "Esther spoke again to the king" in by_ref["Esther 8:3"]["draft_translation"]
+    assert "Esther added and spoke" not in by_ref["Esther 8:3"]["draft_translation"]
+    assert "Elihu continued and said" in by_ref["Job 36:1"]["draft_translation"]
+    assert "Elihu still added" not in by_ref["Job 36:1"]["draft_translation"]
+    assert "the Lord spoke again to Ahaz" in by_ref["Isaiah 7:10"]["draft_translation"]
+    assert "Lord added again to speak" not in by_ref["Isaiah 7:10"]["draft_translation"]
     assert "hand of a mighty one" in by_ref["Psalms 126:4"]["draft_translation"]
     assert "hand of mighty one" not in by_ref["Psalms 126:4"]["draft_translation"]
     assert "Thus says the Lord God of Israel" in by_ref["Joshua 7:13"]["draft_translation"]
@@ -619,6 +665,29 @@ def test_joshua_7_wording_and_achan_policy() -> None:
         "Psalms 9:39",
         "Psalms 88:23",
         "Zephaniah 3:11",
+        "Genesis 4:2",
+        "Exodus 8:25",
+        "Deuteronomy 13:12",
+        "1 Samuel 3:8",
+        "1 Samuel 15:35",
+        "1 Samuel 27:4",
+        "2 Samuel 2:28",
+        "2 Samuel 14:10",
+        "2 Kings 21:8",
+        "2 Chronicles 28:22",
+        "2 Chronicles 33:8",
+        "Psalms 40:9",
+        "Proverbs 9:9",
+        "Isaiah 11:11",
+        "Isaiah 29:14",
+        "Jonah 2:5",
+        "Exodus 11:6",
+        "1 Samuel 3:6",
+        "2 Samuel 18:22",
+        "2 Kings 1:11",
+        "Esther 8:3",
+        "Job 36:1",
+        "Isaiah 7:10",
     ):
         assert "Greek literally" in add_to_notes[ref]["footnote_text"]
 
