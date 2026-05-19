@@ -494,6 +494,8 @@ def test_joshua_7_wording_and_achan_policy() -> None:
     assert "turned its back" in by_ref["Joshua 7:8"]["draft_translation"]
     assert "turn their backs" in by_ref["Joshua 7:12"]["draft_translation"]
     assert "I will no longer be with you" in by_ref["Joshua 7:12"]["draft_translation"]
+    assert "no longer commit such evil" in by_ref["Deuteronomy 19:20"]["draft_translation"]
+    assert "no longer add to do" not in by_ref["Deuteronomy 19:20"]["draft_translation"]
     assert "Thus says the Lord God of Israel" in by_ref["Joshua 7:13"]["draft_translation"]
     assert "bring forward man by man" in by_ref["Joshua 7:14"]["draft_translation"]
     assert "committed a lawless deed in Israel" in by_ref["Joshua 7:15"]["draft_translation"]
