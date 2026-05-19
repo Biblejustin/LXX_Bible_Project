@@ -1523,6 +1523,14 @@ def compact_intro_groups(row: Dict[str, str]) -> List[Tuple[str, str]]:
             ("not applicable", "mt timeline not applicable", "lxx timeline not applicable")
         ):
             return ""
+        if key == "oldest_complete_hebrew" and normalized.startswith(
+            ("no complete hebrew", "no complete ancient hebrew", "no secure full hebrew")
+        ):
+            return ""
+        if key == "oldest_fragment" and normalized.startswith(
+            ("no early hebrew original", "no hebrew original", "no complete hebrew original")
+        ):
+            return ""
         if key.endswith("_date"):
             return expand_intro_date(value)
         return value

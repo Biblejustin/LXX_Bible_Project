@@ -754,6 +754,27 @@ def test_book_intro_suppresses_not_applicable_timelines() -> None:
     assert "LXX Timeline" in genesis_groups
 
 
+def test_book_intro_suppresses_negative_witness_placeholders() -> None:
+    import build_fresh_logos_bible as logos_builder
+
+    by_code = {row["book_code"]: row for row in csv_rows("data/book_intros_template.csv")}
+
+    for code in ("MAT", "JHN", "ROM", "REV"):
+        witnesses = dict(logos_builder.compact_intro_groups(by_code[code]))["Earliest Witnesses"]
+        assert "Heb. No complete Hebrew original survives" not in witnesses
+
+    wisdom_witnesses = dict(logos_builder.compact_intro_groups(by_code["WIS"]))[
+        "Earliest Witnesses"
+    ]
+    assert "Frag. No Hebrew original is known" not in wisdom_witnesses
+    assert "Gk. Codex Vaticanus and Alexandrinus" in wisdom_witnesses
+
+    genesis_witnesses = dict(logos_builder.compact_intro_groups(by_code["GEN"]))[
+        "Earliest Witnesses"
+    ]
+    assert "Heb. Leningrad Codex" in genesis_witnesses
+
+
 def test_genesis_chronology_comparison_preface_data() -> None:
     import build_fresh_logos_bible as logos_builder
 
