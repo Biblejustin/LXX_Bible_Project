@@ -2079,7 +2079,12 @@ def intro_date_sort_year(value: str) -> int:
 def compact_intro_groups(row: dict[str, str]) -> list[tuple[str, str]]:
     def cell(key: str) -> str:
         value = row.get(key, "").strip()
-        if value.lower() == "n/a":
+        normalized = " ".join(value.casefold().split())
+        if normalized in {"n/a", "not applicable"}:
+            return ""
+        if key in {"mt_timeline", "lxx_timeline"} and normalized.startswith(
+            ("not applicable", "mt timeline not applicable", "lxx timeline not applicable")
+        ):
             return ""
         if key.endswith("_date"):
             return expand_intro_date(value)

@@ -735,6 +735,25 @@ def test_book_intro_earliest_witnesses_sort_oldest_to_newest() -> None:
         assert years == sorted(years), (row["book_code"], witness_text, years)
 
 
+def test_book_intro_suppresses_not_applicable_timelines() -> None:
+    import build_fresh_logos_bible as logos_builder
+
+    by_code = {row["book_code"]: row for row in csv_rows("data/book_intros_template.csv")}
+
+    for code in ("MAT", "MRK", "LUK", "JHN", "ROM", "1CO"):
+        groups = dict(logos_builder.compact_intro_groups(by_code[code]))
+        assert "MT Timeline" not in groups
+        assert "LXX Timeline" not in groups
+
+    wisdom_groups = dict(logos_builder.compact_intro_groups(by_code["WIS"]))
+    assert "MT Timeline" not in wisdom_groups
+    assert wisdom_groups["LXX Timeline"].startswith("Greek is the original language")
+
+    genesis_groups = dict(logos_builder.compact_intro_groups(by_code["GEN"]))
+    assert "MT Timeline" in genesis_groups
+    assert "LXX Timeline" in genesis_groups
+
+
 def test_genesis_chronology_comparison_preface_data() -> None:
     import build_fresh_logos_bible as logos_builder
 
