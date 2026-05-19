@@ -849,6 +849,29 @@ def test_john_tr_critical_text_footnotes_present() -> None:
     assert "John 7:53-8:11" in footnote_rows["John 7:53"]["footnote_text"]
 
 
+def test_acts_tr_critical_text_footnotes_present() -> None:
+    source_rows = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    refs = {"Acts 8:37", "Acts 15:34", "Acts 24:6", "Acts 28:29"}
+    footnote_rows = {
+        row["ref"]: row
+        for row in csv_rows("data/research/translation_footnotes.csv")
+        if row["ref"] in refs
+    }
+
+    assert "ει πιστευεις εξ ολης της καρδιας" in source_rows["Acts 8:37"]["greek_text"]
+    assert "εδοξεν δε τω σιλα" in source_rows["Acts 15:34"]["greek_text"]
+    assert "κατα τον ημετερον νομον" in source_rows["Acts 24:6"]["greek_text"]
+    assert "παρελθων δε λυσιας" in source_rows["Acts 24:7"]["greek_text"]
+    assert "και ταυτα αυτου ειποντος" in source_rows["Acts 28:29"]["greek_text"]
+
+    for ref in refs:
+        assert footnote_rows[ref]["note_type"] == "textual"
+        assert "NA28/UBS5" in footnote_rows[ref]["footnote_text"]
+        assert footnote_rows[ref]["status"] == "reviewed"
+    assert "Textus Receptus;" in footnote_rows["Acts 8:37"]["footnote_text"]
+    assert "Acts 24:6b-8a" in footnote_rows["Acts 24:6"]["footnote_text"]
+
+
 def test_reviewed_phrase_guards_match_source() -> None:
     rows_by_testament = {
         "ot": {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")},
