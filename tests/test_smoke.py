@@ -547,6 +547,18 @@ def test_joshua_7_wording_and_achan_policy() -> None:
     assert "no longer added to go out" not in by_ref["2 Kings 24:7"]["draft_translation"]
     assert "And the Lord spoke to me again" in by_ref["Isaiah 8:5"]["draft_translation"]
     assert "Lord added to speak" not in by_ref["Isaiah 8:5"]["draft_translation"]
+    assert "did not return to him any longer" in by_ref["Genesis 8:12"]["draft_translation"]
+    assert "did not add to return" not in by_ref["Genesis 8:12"]["draft_translation"]
+    assert "You shall not return by this road any longer" in by_ref["Deuteronomy 17:16"]["draft_translation"]
+    assert "You shall not add to return" not in by_ref["Deuteronomy 17:16"]["draft_translation"]
+    assert "will no longer humble him" in by_ref["2 Samuel 7:10"]["draft_translation"]
+    assert "no longer add to humble" not in by_ref["2 Samuel 7:10"]["draft_translation"]
+    assert "may no longer boast greatly" in by_ref["Psalms 9:39"]["draft_translation"]
+    assert "no longer add to acting great" not in by_ref["Psalms 9:39"]["draft_translation"]
+    assert "will not harm him any longer" in by_ref["Psalms 88:23"]["draft_translation"]
+    assert "will not add to harm" not in by_ref["Psalms 88:23"]["draft_translation"]
+    assert "you will no longer boast greatly upon my holy mountain" in by_ref["Zephaniah 3:11"]["draft_translation"]
+    assert "you will no longer add to boast" not in by_ref["Zephaniah 3:11"]["draft_translation"]
     assert "hand of a mighty one" in by_ref["Psalms 126:4"]["draft_translation"]
     assert "hand of mighty one" not in by_ref["Psalms 126:4"]["draft_translation"]
     assert "Thus says the Lord God of Israel" in by_ref["Joshua 7:13"]["draft_translation"]
@@ -555,6 +567,21 @@ def test_joshua_7_wording_and_achan_policy() -> None:
     assert "the Lord turned from his fierce anger" in by_ref["Joshua 7:26"]["draft_translation"]
     assert "Did not Achan son of Zerah" in by_ref["Joshua 22:20"]["draft_translation"]
     assert "And sons of Carmi: Achar, the troubler of Israel" in by_ref["1 Chronicles 2:7"]["draft_translation"]
+
+    add_to_notes = {
+        row["ref"]: row
+        for row in csv_rows("data/research/translation_footnotes.csv")
+        if row["source_basis"] == "add-to idiom"
+    }
+    for ref in (
+        "Genesis 8:12",
+        "Deuteronomy 17:16",
+        "2 Samuel 7:10",
+        "Psalms 9:39",
+        "Psalms 88:23",
+        "Zephaniah 3:11",
+    ):
+        assert "Greek literally" in add_to_notes[ref]["footnote_text"]
 
     notes = csv_rows("data/proper_name_transliteration_notes.csv")
     achan_notes = [row for row in notes if row["name"] == "Achan" and row["source_form"] == "Achar"]
