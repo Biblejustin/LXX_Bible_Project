@@ -496,6 +496,17 @@ def test_joshua_7_wording_and_achan_policy() -> None:
     assert "I will no longer be with you" in by_ref["Joshua 7:12"]["draft_translation"]
     assert "no longer commit such evil" in by_ref["Deuteronomy 19:20"]["draft_translation"]
     assert "no longer add to do" not in by_ref["Deuteronomy 19:20"]["draft_translation"]
+    assert "do not speak this word any more" in by_ref["Deuteronomy 3:26"]["draft_translation"]
+    assert "do not add to speak" not in by_ref["Deuteronomy 3:26"]["draft_translation"]
+    assert (
+        "We shall not hear the voice of the Lord our God any more"
+        in by_ref["Deuteronomy 18:16"]["draft_translation"]
+    )
+    assert "We shall not add to hear" not in by_ref["Deuteronomy 18:16"]["draft_translation"]
+    assert "shall speak further to the people" in by_ref["Deuteronomy 20:8"]["draft_translation"]
+    assert "shall add to speak" not in by_ref["Deuteronomy 20:8"]["draft_translation"]
+    assert "You shall not see it again" in by_ref["Deuteronomy 28:68"]["draft_translation"]
+    assert "You shall not add to see" not in by_ref["Deuteronomy 28:68"]["draft_translation"]
     assert "Thus says the Lord God of Israel" in by_ref["Joshua 7:13"]["draft_translation"]
     assert "bring forward man by man" in by_ref["Joshua 7:14"]["draft_translation"]
     assert "committed a lawless deed in Israel" in by_ref["Joshua 7:15"]["draft_translation"]
