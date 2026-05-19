@@ -819,6 +819,39 @@ def test_book_intro_suppresses_negative_witness_placeholders() -> None:
     assert "Heb. Leningrad Codex" in genesis_witnesses
 
 
+def test_book_intro_source_has_no_render_placeholder_values() -> None:
+    rows = csv_rows("data/book_intros_template.csv")
+    placeholder_hits: list[tuple[str, str, str]] = []
+    timeline_placeholder_prefixes = (
+        "not applicable",
+        "mt timeline not applicable",
+        "lxx timeline not applicable",
+        "not part of mt canon chronology",
+        "not part of lxx canon chronology",
+        "no secure full hebrew original survives",
+    )
+    negative_witness_prefixes = (
+        "no complete hebrew",
+        "no complete ancient hebrew",
+        "no early hebrew original",
+        "no early full hebrew witness",
+        "no hebrew original",
+        "no secure full hebrew",
+    )
+    for row in rows:
+        for key, value in row.items():
+            normalized = " ".join(value.casefold().split())
+            if normalized in {"n/a", "not applicable"}:
+                placeholder_hits.append((row["book_code"], key, value))
+            if key in {"mt_timeline", "lxx_timeline"} and normalized.startswith(timeline_placeholder_prefixes):
+                placeholder_hits.append((row["book_code"], key, value))
+            if key in {"oldest_fragment", "oldest_complete_hebrew"} and normalized.startswith(
+                negative_witness_prefixes
+            ):
+                placeholder_hits.append((row["book_code"], key, value))
+    assert not placeholder_hits
+
+
 def test_genesis_chronology_comparison_preface_data() -> None:
     import build_fresh_logos_bible as logos_builder
 
