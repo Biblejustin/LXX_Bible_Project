@@ -2184,7 +2184,7 @@
     },
     {
       "page": 157,
-      "range": "1 Samuel 2:20-4:8",
+      "range": "1 Samuel 2:20-4:7",
       "first_ref": {
         "book": "1 Samuel",
         "chapter": 2,
@@ -2193,86 +2193,86 @@
       "last_ref": {
         "book": "1 Samuel",
         "chapter": 4,
-        "verse": 8
+        "verse": 7
       }
     },
     {
       "page": 158,
-      "range": "1 Samuel 4:8-6:14",
+      "range": "1 Samuel 4:7-6:13",
       "first_ref": {
         "book": "1 Samuel",
         "chapter": 4,
-        "verse": 8
+        "verse": 7
       },
       "last_ref": {
         "book": "1 Samuel",
         "chapter": 6,
-        "verse": 14
+        "verse": 13
       }
     },
     {
       "page": 159,
-      "range": "1 Samuel 6:14-8:21",
+      "range": "1 Samuel 6:13-8:18",
       "first_ref": {
         "book": "1 Samuel",
         "chapter": 6,
-        "verse": 14
+        "verse": 13
       },
       "last_ref": {
         "book": "1 Samuel",
         "chapter": 8,
-        "verse": 21
+        "verse": 18
       }
     },
     {
       "page": 160,
-      "range": "1 Samuel 8:21-10:11",
+      "range": "1 Samuel 8:18-10:8",
       "first_ref": {
         "book": "1 Samuel",
         "chapter": 8,
-        "verse": 21
+        "verse": 18
       },
       "last_ref": {
         "book": "1 Samuel",
         "chapter": 10,
-        "verse": 11
+        "verse": 8
       }
     },
     {
       "page": 161,
-      "range": "1 Samuel 10:11-12:13",
+      "range": "1 Samuel 10:8-12:9",
       "first_ref": {
         "book": "1 Samuel",
         "chapter": 10,
-        "verse": 11
+        "verse": 8
       },
       "last_ref": {
         "book": "1 Samuel",
         "chapter": 12,
-        "verse": 13
+        "verse": 9
       }
     },
     {
       "page": 162,
-      "range": "1 Samuel 12:13-14:11",
+      "range": "1 Samuel 12:9-14:6",
       "first_ref": {
         "book": "1 Samuel",
         "chapter": 12,
-        "verse": 13
+        "verse": 9
       },
       "last_ref": {
         "book": "1 Samuel",
         "chapter": 14,
-        "verse": 11
+        "verse": 6
       }
     },
     {
       "page": 163,
-      "range": "1 Samuel 14:11-52",
+      "range": "1 Samuel 14:6-52",
       "first_ref": {
         "book": "1 Samuel",
         "chapter": 14,
-        "verse": 11
+        "verse": 6
       },
       "last_ref": {
         "book": "1 Samuel",
