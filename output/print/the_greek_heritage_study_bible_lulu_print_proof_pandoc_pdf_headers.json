@@ -490,7 +490,7 @@
     },
     {
       "page": 36,
-      "range": "Exodus 2:20-4:14",
+      "range": "Exodus 2:20-4:13",
       "first_ref": {
         "book": "Exodus",
         "chapter": 2,
@@ -499,114 +499,114 @@
       "last_ref": {
         "book": "Exodus",
         "chapter": 4,
-        "verse": 14
+        "verse": 13
       }
     },
     {
       "page": 37,
-      "range": "Exodus 4:14-6:7",
+      "range": "Exodus 4:13-6:5",
       "first_ref": {
         "book": "Exodus",
         "chapter": 4,
-        "verse": 14
+        "verse": 13
       },
       "last_ref": {
         "book": "Exodus",
         "chapter": 6,
-        "verse": 7
+        "verse": 5
       }
     },
     {
       "page": 38,
-      "range": "Exodus 6:7-7:24",
+      "range": "Exodus 6:5-7:22",
       "first_ref": {
         "book": "Exodus",
         "chapter": 6,
-        "verse": 7
+        "verse": 5
       },
       "last_ref": {
         "book": "Exodus",
         "chapter": 7,
-        "verse": 24
+        "verse": 22
       }
     },
     {
       "page": 39,
-      "range": "Exodus 7:24-9:9",
+      "range": "Exodus 7:22-9:7",
       "first_ref": {
         "book": "Exodus",
         "chapter": 7,
-        "verse": 24
+        "verse": 22
       },
       "last_ref": {
         "book": "Exodus",
         "chapter": 9,
-        "verse": 9
+        "verse": 7
       }
     },
     {
       "page": 40,
-      "range": "Exodus 9:9-10:24",
+      "range": "Exodus 9:7-10:20",
       "first_ref": {
         "book": "Exodus",
         "chapter": 9,
-        "verse": 9
+        "verse": 7
       },
       "last_ref": {
         "book": "Exodus",
         "chapter": 10,
-        "verse": 24
+        "verse": 20
       }
     },
     {
       "page": 41,
-      "range": "Exodus 10:24-12:28",
+      "range": "Exodus 10:20-12:24",
       "first_ref": {
         "book": "Exodus",
         "chapter": 10,
-        "verse": 24
+        "verse": 20
       },
       "last_ref": {
         "book": "Exodus",
         "chapter": 12,
-        "verse": 28
+        "verse": 24
       }
     },
     {
       "page": 42,
-      "range": "Exodus 12:28-14:3",
+      "range": "Exodus 12:24-13:22",
       "first_ref": {
         "book": "Exodus",
         "chapter": 12,
-        "verse": 28
+        "verse": 24
       },
       "last_ref": {
         "book": "Exodus",
-        "chapter": 14,
-        "verse": 3
+        "chapter": 13,
+        "verse": 22
       }
     },
     {
       "page": 43,
-      "range": "Exodus 14:3-15:21",
+      "range": "Exodus 14:1-15:20",
       "first_ref": {
         "book": "Exodus",
         "chapter": 14,
-        "verse": 3
+        "verse": 1
       },
       "last_ref": {
         "book": "Exodus",
         "chapter": 15,
-        "verse": 21
+        "verse": 20
       }
     },
     {
       "page": 44,
-      "range": "Exodus 15:21-16:36",
+      "range": "Exodus 15:20-16:36",
       "first_ref": {
         "book": "Exodus",
         "chapter": 15,
-        "verse": 21
+        "verse": 20
       },
       "last_ref": {
         "book": "Exodus",
@@ -1512,7 +1512,7 @@
     },
     {
       "page": 109,
-      "range": "Deuteronomy 10:1-11:29",
+      "range": "Deuteronomy 10:1-11:28",
       "first_ref": {
         "book": "Deuteronomy",
         "chapter": 10,
@@ -1521,16 +1521,16 @@
       "last_ref": {
         "book": "Deuteronomy",
         "chapter": 11,
-        "verse": 29
+        "verse": 28
       }
     },
     {
       "page": 110,
-      "range": "Deuteronomy 11:29-13:5",
+      "range": "Deuteronomy 11:28-13:5",
       "first_ref": {
         "book": "Deuteronomy",
         "chapter": 11,
-        "verse": 29
+        "verse": 28
       },
       "last_ref": {
         "book": "Deuteronomy",
@@ -1680,7 +1680,7 @@
     },
     {
       "page": 121,
-      "range": "Deuteronomy 30:7-31:29",
+      "range": "Deuteronomy 30:7-31:28",
       "first_ref": {
         "book": "Deuteronomy",
         "chapter": 30,
@@ -1689,16 +1689,16 @@
       "last_ref": {
         "book": "Deuteronomy",
         "chapter": 31,
-        "verse": 29
+        "verse": 28
       }
     },
     {
       "page": 122,
-      "range": "Deuteronomy 31:29-32:51",
+      "range": "Deuteronomy 31:28-32:51",
       "first_ref": {
         "book": "Deuteronomy",
         "chapter": 31,
-        "verse": 29
+        "verse": 28
       },
       "last_ref": {
         "book": "Deuteronomy",

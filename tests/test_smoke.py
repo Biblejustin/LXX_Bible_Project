@@ -596,6 +596,14 @@ def test_joshua_7_wording_and_achan_policy() -> None:
     assert "bring forward man by man" in by_ref["Joshua 7:14"]["draft_translation"]
     assert "committed a lawless deed in Israel" in by_ref["Joshua 7:15"]["draft_translation"]
     assert "the Lord turned from his fierce anger" in by_ref["Joshua 7:26"]["draft_translation"]
+    assert "the Lord's anger burned against Moses" in by_ref["Exodus 4:14"]["draft_translation"]
+    assert "the Lord's anger will burn against you" in by_ref["Deuteronomy 7:4"]["draft_translation"]
+    assert "the Lord's anger will burn against you" in by_ref["Deuteronomy 11:17"]["draft_translation"]
+    assert "the Lord's anger burned against that land" in by_ref["Deuteronomy 29:26"]["draft_translation"]
+    assert "my anger will burn against them" in by_ref["Deuteronomy 31:17"]["draft_translation"]
+    for ref in ("Exodus 4:14", "Deuteronomy 7:4", "Deuteronomy 11:17", "Deuteronomy 29:26", "Deuteronomy 31:17"):
+        assert "angered in wrath" not in by_ref[ref]["draft_translation"]
+        assert "angered with wrath" not in by_ref[ref]["draft_translation"]
     assert "Did not Achan son of Zerah" in by_ref["Joshua 22:20"]["draft_translation"]
     assert "And sons of Carmi: Achar, the troubler of Israel" in by_ref["1 Chronicles 2:7"]["draft_translation"]
 
@@ -613,6 +621,16 @@ def test_joshua_7_wording_and_achan_policy() -> None:
         "Zephaniah 3:11",
     ):
         assert "Greek literally" in add_to_notes[ref]["footnote_text"]
+
+    anger_notes = {
+        row["ref"]: row
+        for row in csv_rows("data/research/translation_footnotes.csv")
+        if row["source_basis"] == "Greek anger idiom"
+    }
+    for ref in ("Exodus 4:14", "Deuteronomy 7:4", "Deuteronomy 11:17", "Deuteronomy 29:26", "Deuteronomy 31:17"):
+        assert ref in anger_notes
+        assert "Greek literally says" in anger_notes[ref]["footnote_text"]
+        assert "doubled anger idiom" in anger_notes[ref]["footnote_text"]
 
     notes = csv_rows("data/proper_name_transliteration_notes.csv")
     achan_notes = [row for row in notes if row["name"] == "Achan" and row["source_form"] == "Achar"]
