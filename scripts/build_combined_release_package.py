@@ -28,6 +28,21 @@ LOGOS_ARTIFACTS = [
     "output/logos_greek_heritage/README.md",
 ]
 
+DEUTEROCANON_ARTIFACTS = [
+    "output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_logos_bible.docx",
+    "output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_diagnostics.json",
+    "output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_preview.md",
+    "output/logos_deuterocanon/README.md",
+]
+
+PRINT_ARTIFACTS = [
+    "output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf",
+    "output/print/the_greek_heritage_study_bible_lulu_print_proof_diagnostics.json",
+    "output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_pdf_headers.json",
+    "output/print/README_lulu.md",
+    "output/print/cover/ghsb_draft_lulu_jacket_cover_26_625x11_75.pdf",
+]
+
 VERIFICATION_ARTIFACTS = [
     "output/release_hardening_report.md",
     "output/release_hardening_report.json",
@@ -70,6 +85,14 @@ This package is a lightweight manifest for committed release artifacts for {PUBL
 
 {bullet_list(LOGOS_ARTIFACTS)}
 
+## Separate Deuterocanon Artifacts
+
+{bullet_list(DEUTEROCANON_ARTIFACTS)}
+
+## Print Proof Artifacts
+
+{bullet_list(PRINT_ARTIFACTS)}
+
 ## Release Verification Artifacts
 
 {bullet_list(VERIFICATION_ARTIFACTS)}
@@ -88,6 +111,9 @@ See `CHECKSUMS.sha256`.
 ## Rebuild
 
 ```bash
+make build-combined-logos
+make build-deuterocanon-logos
+make build-print-proof-lulu-pandoc-pdf
 make release-combined
 ```
 """
@@ -103,7 +129,13 @@ def main() -> None:
     parser.add_argument("--date-prepared", default=date.today().isoformat())
     args = parser.parse_args()
 
-    artifacts = [*READER_ARTIFACTS, *LOGOS_ARTIFACTS, *VERIFICATION_ARTIFACTS]
+    artifacts = [
+        *READER_ARTIFACTS,
+        *LOGOS_ARTIFACTS,
+        *DEUTEROCANON_ARTIFACTS,
+        *PRINT_ARTIFACTS,
+        *VERIFICATION_ARTIFACTS,
+    ]
     require_artifacts(artifacts)
     RELEASE_DIR.mkdir(parents=True, exist_ok=True)
     MANIFEST.write_text(build_manifest(args.date_prepared), encoding="utf-8")

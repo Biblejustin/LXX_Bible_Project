@@ -272,6 +272,7 @@ CROSSREF_FULL_RANGE_RE = re.compile(r"^(.+?) (\d+):(\d+)-(.+?) (\d+):(\d+)$")
 
 GENERIC_FOOTNOTE_PATTERNS = (
     "Brenton differs here. The translation follows the current fresh wording at this verse numbering point.",
+    "Greek line matches current rendering closely here.",
 )
 GENERIC_MT_LXX_NOTE_PREFIX = "The Septuagint differs here from the Masoretic wording."
 

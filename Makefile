@@ -109,6 +109,7 @@ build-print-proof-handy-pandoc-pdf: generate-print-pericopes
 	$(PYTHON) scripts/stamp_print_pdf_headers.py --input output/print/size_sweep/handy_6_39x9_46/the_greek_heritage_study_bible_handy_6_39x9_46_raw.pdf --output output/print/size_sweep/handy_6_39x9_46/the_greek_heritage_study_bible_handy_6_39x9_46.pdf --source data/raw/lxx_greek/ot_full.csv --nt-source data/raw/tr_greek/nt_full.csv --diagnostics output/print/size_sweep/handy_6_39x9_46/the_greek_heritage_study_bible_handy_6_39x9_46_headers.json
 
 release-combined: build-combined build-combined-logos
+	$(PYTHON) scripts/build_release_hardening_report.py
 	$(PYTHON) scripts/build_combined_release_package.py
 
 clean-working:

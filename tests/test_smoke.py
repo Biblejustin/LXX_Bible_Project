@@ -445,6 +445,22 @@ def test_review_csv_shapes() -> None:
     assert footnote_statuses <= {"", "approved", "drafted", "reviewed", "todo"}
 
 
+def test_reader_facing_translation_note_loader_suppresses_generic_process_notes() -> None:
+    import build_fresh_logos_bible as logos_builder
+
+    notes_by_ref, diagnostics = logos_builder.load_translation_notes(
+        ROOT / "data" / "research" / "translation_footnotes.csv"
+    )
+    loaded_note_texts = [
+        note.text
+        for notes in notes_by_ref.values()
+        for note in notes
+    ]
+
+    assert "Greek line matches current rendering closely here." not in loaded_note_texts
+    assert diagnostics["skipped_generic_or_brenton_only"] >= 10063
+
+
 def test_tracked_text_files_use_lf_line_endings() -> None:
     result = subprocess.run(
         ["git", "ls-files", "--eol"],
@@ -9974,10 +9990,15 @@ def test_lulu_pandoc_pdf_crossrefs_use_red_verse_number_labels() -> None:
 def test_lulu_pandoc_pdf_crossrefs_use_abbreviated_book_names() -> None:
     pdf_path = pandoc_pdf_output_dir() / "the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf"
     document = fitz.open(pdf_path)
-    page = document[1]
-    xref_text = "\n".join(
-        line for y, line in pandoc_pdf_lines_with_y(page) if y > page.rect.height * 0.9
-    )
+    xref_text = ""
+    for page_index in range(min(12, len(document))):
+        page = document[page_index]
+        candidate = "\n".join(
+            line for y, line in pandoc_pdf_lines_with_y(page) if y > page.rect.height * 0.85
+        )
+        if "Heb 11:3" in candidate:
+            xref_text = candidate
+            break
     assert "Heb 11:3" in xref_text
     assert "Isa 45:18" in xref_text
     assert "Rev 4:11" in xref_text
