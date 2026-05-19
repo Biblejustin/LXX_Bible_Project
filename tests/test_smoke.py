@@ -906,6 +906,22 @@ def test_first_timothy_tr_critical_text_footnote_present() -> None:
     assert footnote_rows["1 Timothy 3:16"]["status"] == "reviewed"
 
 
+def test_first_john_comma_johanneum_textual_note_present() -> None:
+    source_rows = {row["ref"]: row for row in csv_rows("data/raw/tr_greek/nt_full.csv")}
+    footnote_rows = {
+        row["ref"]: row
+        for row in csv_rows("data/research/translation_footnotes.csv")
+        if row["ref"] == "1 John 5:7"
+    }
+
+    assert "ο πατηρ ο λογος και το αγιον πνευμα" in source_rows["1 John 5:7"]["greek_text"]
+    assert "το πνευμα και το υδωρ και το αιμα" in source_rows["1 John 5:8"]["greek_text"]
+    assert footnote_rows["1 John 5:7"]["note_type"] == "textual"
+    assert "Comma Johanneum" in footnote_rows["1 John 5:7"]["footnote_text"]
+    assert "NA28/UBS5" in footnote_rows["1 John 5:7"]["footnote_text"]
+    assert footnote_rows["1 John 5:7"]["status"] == "reviewed"
+
+
 def test_reviewed_phrase_guards_match_source() -> None:
     rows_by_testament = {
         "ot": {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")},
