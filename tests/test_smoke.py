@@ -522,6 +522,8 @@ def test_joshua_7_wording_and_achan_policy() -> None:
     assert "no longer added to go out" not in by_ref["2 Kings 24:7"]["draft_translation"]
     assert "And the Lord spoke to me again" in by_ref["Isaiah 8:5"]["draft_translation"]
     assert "Lord added to speak" not in by_ref["Isaiah 8:5"]["draft_translation"]
+    assert "hand of a mighty one" in by_ref["Psalms 126:4"]["draft_translation"]
+    assert "hand of mighty one" not in by_ref["Psalms 126:4"]["draft_translation"]
     assert "Thus says the Lord God of Israel" in by_ref["Joshua 7:13"]["draft_translation"]
     assert "bring forward man by man" in by_ref["Joshua 7:14"]["draft_translation"]
     assert "committed a lawless deed in Israel" in by_ref["Joshua 7:15"]["draft_translation"]
