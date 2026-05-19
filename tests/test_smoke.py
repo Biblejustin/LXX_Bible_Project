@@ -735,6 +735,33 @@ def test_book_intro_earliest_witnesses_sort_oldest_to_newest() -> None:
         assert years == sorted(years), (row["book_code"], witness_text, years)
 
 
+def test_genesis_chronology_comparison_preface_data() -> None:
+    import build_fresh_logos_bible as logos_builder
+
+    rows = logos_builder.load_genesis_chronology_comparison()
+    by_patriarch = {row["patriarch"]: row for row in rows}
+
+    assert by_patriarch["Adam -> Seth"]["lxx_age_at_son_birth"] == "230"
+    assert by_patriarch["Adam -> Seth"]["mt_age_at_son_birth"] == "130"
+    assert by_patriarch["Methuselah -> Lamech"]["lxx_age_at_son_birth"] == "167"
+    assert by_patriarch["Methuselah -> Lamech"]["mt_age_at_son_birth"] == "187"
+    assert by_patriarch["Arphaxad -> Cainan / Shelah"]["lxx_age_at_son_birth"] == "135 to Cainan"
+    assert "MT omits Cainan" in by_patriarch["Arphaxad -> Cainan / Shelah"]["mt_age_at_son_birth"]
+
+
+def test_genesis_chronology_anchor_footnotes_present() -> None:
+    rows = {
+        row["ref"]: row
+        for row in csv_rows("data/research/translation_footnotes.csv")
+        if row["ref"] in {"Genesis 5:3", "Genesis 11:10"}
+    }
+
+    assert rows["Genesis 5:3"]["source_basis"] == "MT/LXX chronology"
+    assert "Methuselah inversion" in rows["Genesis 5:3"]["footnote_text"]
+    assert rows["Genesis 11:10"]["source_basis"] == "MT/LXX chronology"
+    assert "Luke 3:36" in rows["Genesis 11:10"]["footnote_text"]
+
+
 def test_reviewed_phrase_guards_match_source() -> None:
     rows_by_testament = {
         "ot": {row["ref"]: row for row in csv_rows("data/raw/lxx_greek/ot_full.csv")},

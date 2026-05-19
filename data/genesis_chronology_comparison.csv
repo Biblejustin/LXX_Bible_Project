@@ -1,0 +1,20 @@
+patriarch,lxx_age_at_son_birth,mt_age_at_son_birth
+Adam -> Seth,230,130
+Seth -> Enos,205,105
+Enos -> Cainan,190,90
+Cainan -> Mahalaleel,170,70
+Mahalaleel -> Jared,165,65
+Jared -> Enoch,162,162
+Enoch -> Methuselah,165,65
+Methuselah -> Lamech,167,187
+Lamech -> Noah,188,182
+Shem -> Arphaxad,100,100
+Arphaxad -> Cainan / Shelah,135 to Cainan,35 to Shelah; MT omits Cainan
+Cainan -> Shelah,130,n/a; Cainan omitted in MT
+Shelah -> Eber,130,30
+Eber -> Peleg,134,34
+Peleg -> Reu,130,30
+Reu -> Serug,132,32
+Serug -> Nahor,130,30
+Nahor -> Terah,179,29
+Terah -> Abram,70,70

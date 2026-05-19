@@ -92,6 +92,7 @@ DEFAULT_PREVIEW = OUTPUT / "fresh_translation_ot_logos_bible_preview.md"
 DEFAULT_VERSIFICATION_MAP = DATA / "versification" / "lxx_to_eng_map.json"
 DEFAULT_TEXTUAL_NOTES_HTML = RESEARCH / "textual_notes_export.html"
 DEFAULT_LOGOS_ROOT = Path.home() / "Library" / "Application Support" / "Logos4"
+GENESIS_CHRONOLOGY_COMPARISON = DATA / "genesis_chronology_comparison.csv"
 
 DOCX_CORE_TIMESTAMP = "2000-01-01T00:00:00Z"
 DOCX_ZIP_TIMESTAMP = (2000, 1, 1, 0, 0, 0)
@@ -3558,6 +3559,54 @@ def add_book_preface_page(doc: MinimalDocx, fallback_book_name: str, intro: dict
     paragraph_count = 1
     for label, value in compact_intro_groups(intro):
         doc.add_paragraph([run(f"{label}. ", bold=True), run(value)])
+        paragraph_count += 1
+    if intro.get("book_code", "").strip() == "GEN":
+        paragraph_count += add_genesis_chronology_comparison(doc)
+    return paragraph_count
+
+
+def load_genesis_chronology_comparison(path: Path = GENESIS_CHRONOLOGY_COMPARISON) -> list[dict[str, str]]:
+    if not path.exists():
+        return []
+    return load_csv(path)
+
+
+def add_genesis_chronology_comparison(doc: MinimalDocx) -> int:
+    rows = load_genesis_chronology_comparison()
+    if not rows:
+        return 0
+
+    doc.add_heading("Genesis Chronology Comparison", level=2)
+    doc.add_paragraph(
+        [
+            run(
+                "This table compares the ages at which the Genesis patriarchs beget the named son in the current LXX source rows and in the Masoretic Text. "
+                "Most LXX ages in Genesis 5 and 11 are about 100 years higher than MT. "
+                "The main pre-flood inversion is Methuselah: Genesis 5:25 has LXX 167 and MT 187. "
+                "Genesis 11 also includes the second Cainan between Arphaxad and Shelah, the generation cited in Luke 3:36 and absent from MT."
+            )
+        ]
+    )
+    doc.add_paragraph(
+        [
+            run("Patriarch", bold=True),
+            run(" | "),
+            run("LXX age at son's birth", bold=True),
+            run(" | "),
+            run("MT age at son's birth", bold=True),
+        ]
+    )
+    paragraph_count = 3
+    for row in rows:
+        doc.add_paragraph(
+            [
+                run(row.get("patriarch", "").strip()),
+                run(" | "),
+                run(row.get("lxx_age_at_son_birth", "").strip()),
+                run(" | "),
+                run(row.get("mt_age_at_son_birth", "").strip()),
+            ]
+        )
         paragraph_count += 1
     return paragraph_count
 
