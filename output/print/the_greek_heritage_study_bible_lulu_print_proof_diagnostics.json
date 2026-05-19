@@ -2,30 +2,30 @@
   "verse_rows": 30866,
   "book_count": 66,
   "translation_note_filter": {
-    "rows": 25289,
-    "included": 4096,
+    "rows": 25290,
+    "included": 4105,
     "included_mt_lxx_difference_notes": 335,
     "skipped_unreviewed": 1889,
-    "skipped_generic_or_brenton_only": 10103,
-    "skipped_generic_mt_lxx_without_concrete_detail": 9092,
+    "skipped_generic_or_brenton_only": 10100,
+    "skipped_generic_mt_lxx_without_concrete_detail": 9087,
     "included_concrete_mt_lxx_details": 3,
     "skipped_note_type": 109
   },
   "reader_facing_translation_note_filter": {
-    "input_refs": 3979,
-    "input_notes": 4091,
-    "included_notes": 4023,
+    "input_refs": 3988,
+    "input_notes": 4100,
+    "included_notes": 4032,
     "skipped_mechanical_review_notes": 68,
-    "included_refs": 3911,
+    "included_refs": 3920,
     "skipped_mechanical_review_note_variants": 60
   },
   "translation_decision_filter": {
     "present": 1,
     "rows": 12433,
-    "skipped_non_variant": 7807,
+    "skipped_non_variant": 7810,
     "skipped_unreviewed": 2733,
-    "included": 1893,
-    "included_refs": 1893
+    "included": 1890,
+    "included_refs": 1890
   },
   "textual_note_export": {
     "present": false,
@@ -33,8 +33,8 @@
     "included_refs": 0,
     "included_total": 0
   },
-  "included_translation_note_refs": 3911,
-  "included_translation_note_total": 4023,
+  "included_translation_note_refs": 3920,
+  "included_translation_note_total": 4032,
   "book_prefaces": {
     "present": true,
     "path": "/Users/justinscaggs/Documents/Codex_bible/data/book_intros_template.csv",
@@ -147,15 +147,15 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 2983,
     "footnote_columns": 2,
-    "footnote_count": 35646,
+    "footnote_count": 35655,
     "crossref_footnotes": 28809,
-    "translation_note_footnotes": 4023,
+    "translation_note_footnotes": 4032,
     "section_break_count": 0,
     "footnote_number_restart": "page",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
-    "phrase_anchored_translation_notes": 3172,
-    "verse_anchored_translation_notes": 851,
+    "phrase_anchored_translation_notes": 3177,
+    "verse_anchored_translation_notes": 855,
     "name_meaning_footnotes": 2814,
     "supplemental_note_footnotes": 0,
     "brenton_supplemental_footnotes": 0,
@@ -193,8 +193,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 35646,
-      "footnote_body_count": 35646
+      "footnote_reference_count": 35655,
+      "footnote_body_count": 35655
     }
   ],
   "outputs": {
