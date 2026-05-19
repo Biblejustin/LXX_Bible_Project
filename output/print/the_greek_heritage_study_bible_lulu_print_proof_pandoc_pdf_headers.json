@@ -574,7 +574,7 @@
     },
     {
       "page": 42,
-      "range": "Exodus 12:30-14:8",
+      "range": "Exodus 12:30-14:5",
       "first_ref": {
         "book": "Exodus",
         "chapter": 12,
@@ -583,16 +583,16 @@
       "last_ref": {
         "book": "Exodus",
         "chapter": 14,
-        "verse": 8
+        "verse": 5
       }
     },
     {
       "page": 43,
-      "range": "Exodus 14:8-15:26",
+      "range": "Exodus 14:5-15:26",
       "first_ref": {
         "book": "Exodus",
         "chapter": 14,
-        "verse": 8
+        "verse": 5
       },
       "last_ref": {
         "book": "Exodus",
