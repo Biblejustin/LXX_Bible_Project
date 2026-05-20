@@ -1,8 +1,8 @@
 {
   "input": "output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.pdf",
   "output": "output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf",
-  "page_count": 634,
-  "headers_with_ranges": 632,
+  "page_count": 633,
+  "headers_with_ranges": 631,
   "text_extractor": "pymupdf",
   "pdf_writer": "pymupdf",
   "header_font": "/System/Library/Fonts/Supplemental/Times New Roman.ttf",
@@ -2646,7 +2646,7 @@
     },
     {
       "page": 190,
-      "range": "2 Samuel 24:14 - 1 Kings 1:9",
+      "range": "2 Samuel 24:14 - 1 Kings 1:10",
       "first_ref": {
         "book": "2 Samuel",
         "chapter": 24,
@@ -2655,100 +2655,100 @@
       "last_ref": {
         "book": "1 Kings",
         "chapter": 1,
-        "verse": 9
+        "verse": 10
       }
     },
     {
       "page": 191,
-      "range": "1 Kings 1:9-2:7",
+      "range": "1 Kings 1:10-2:8",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 1,
-        "verse": 9
+        "verse": 10
       },
       "last_ref": {
         "book": "1 Kings",
         "chapter": 2,
-        "verse": 7
+        "verse": 8
       }
     },
     {
       "page": 192,
-      "range": "1 Kings 2:7-42",
+      "range": "1 Kings 2:8-44",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 2,
-        "verse": 7
+        "verse": 8
       },
       "last_ref": {
         "book": "1 Kings",
         "chapter": 2,
-        "verse": 42
+        "verse": 44
       }
     },
     {
       "page": 193,
-      "range": "1 Kings 2:42-4:9",
+      "range": "1 Kings 2:44-4:11",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 2,
-        "verse": 42
+        "verse": 44
       },
       "last_ref": {
         "book": "1 Kings",
         "chapter": 4,
-        "verse": 9
+        "verse": 11
       }
     },
     {
       "page": 194,
-      "range": "1 Kings 4:9-6:2",
+      "range": "1 Kings 4:11-6:4",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 4,
-        "verse": 9
+        "verse": 11
       },
       "last_ref": {
         "book": "1 Kings",
         "chapter": 6,
-        "verse": 2
+        "verse": 4
       }
     },
     {
       "page": 195,
-      "range": "1 Kings 6:2-7:16",
+      "range": "1 Kings 6:4-7:19",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 6,
-        "verse": 2
+        "verse": 4
       },
       "last_ref": {
         "book": "1 Kings",
         "chapter": 7,
-        "verse": 16
+        "verse": 19
       }
     },
     {
       "page": 196,
-      "range": "1 Kings 7:16-8:3",
+      "range": "1 Kings 7:19-8:9",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 7,
-        "verse": 16
+        "verse": 19
       },
       "last_ref": {
         "book": "1 Kings",
         "chapter": 8,
-        "verse": 3
+        "verse": 9
       }
     },
     {
       "page": 197,
-      "range": "1 Kings 8:3-11",
+      "range": "1 Kings 8:9-11",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 8,
-        "verse": 3
+        "verse": 9
       },
       "last_ref": {
         "book": "1 Kings",
@@ -2758,7 +2758,7 @@
     },
     {
       "page": 198,
-      "range": "1 Kings 8:11-10:9",
+      "range": "1 Kings 8:11-10:11",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 8,
@@ -2767,16 +2767,16 @@
       "last_ref": {
         "book": "1 Kings",
         "chapter": 10,
-        "verse": 9
+        "verse": 11
       }
     },
     {
       "page": 199,
-      "range": "1 Kings 10:9-11:2",
+      "range": "1 Kings 10:11-11:2",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 10,
-        "verse": 9
+        "verse": 11
       },
       "last_ref": {
         "book": "1 Kings",
@@ -2800,7 +2800,7 @@
     },
     {
       "page": 201,
-      "range": "1 Kings 12:1-13:9",
+      "range": "1 Kings 12:1-13:10",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 12,
@@ -2809,16 +2809,16 @@
       "last_ref": {
         "book": "1 Kings",
         "chapter": 13,
-        "verse": 9
+        "verse": 10
       }
     },
     {
       "page": 202,
-      "range": "1 Kings 13:9-15:5",
+      "range": "1 Kings 13:10-15:5",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 13,
-        "verse": 9
+        "verse": 10
       },
       "last_ref": {
         "book": "1 Kings",
@@ -2828,7 +2828,7 @@
     },
     {
       "page": 203,
-      "range": "1 Kings 15:5-16:20",
+      "range": "1 Kings 15:5-16:24",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 15,
@@ -2837,338 +2837,338 @@
       "last_ref": {
         "book": "1 Kings",
         "chapter": 16,
-        "verse": 20
+        "verse": 24
       }
     },
     {
       "page": 204,
-      "range": "1 Kings 16:20-17:24",
+      "range": "1 Kings 16:24-18:5",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 16,
-        "verse": 20
+        "verse": 24
       },
       "last_ref": {
         "book": "1 Kings",
-        "chapter": 17,
-        "verse": 24
+        "chapter": 18,
+        "verse": 5
       }
     },
     {
       "page": 205,
-      "range": "1 Kings 18:1-46",
+      "range": "1 Kings 18:5-19:7",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 18,
-        "verse": 1
+        "verse": 5
       },
       "last_ref": {
         "book": "1 Kings",
-        "chapter": 18,
-        "verse": 46
+        "chapter": 19,
+        "verse": 7
       }
     },
     {
       "page": 206,
-      "range": "1 Kings 19:1-20:18",
+      "range": "1 Kings 19:7-20:22",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 19,
-        "verse": 1
+        "verse": 7
       },
       "last_ref": {
         "book": "1 Kings",
         "chapter": 20,
-        "verse": 18
+        "verse": 22
       }
     },
     {
       "page": 207,
-      "range": "1 Kings 20:18-21:24",
+      "range": "1 Kings 20:22-21:28",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 20,
-        "verse": 18
+        "verse": 22
       },
       "last_ref": {
         "book": "1 Kings",
         "chapter": 21,
-        "verse": 24
+        "verse": 28
       }
     },
     {
       "page": 208,
-      "range": "1 Kings 21:24-22:27",
+      "range": "1 Kings 21:28-22:32",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 21,
-        "verse": 24
+        "verse": 28
       },
       "last_ref": {
         "book": "1 Kings",
         "chapter": 22,
-        "verse": 27
+        "verse": 32
       }
     },
     {
       "page": 209,
-      "range": "1 Kings 22:27 - 2 Kings 1:2",
+      "range": "1 Kings 22:32 - 2 Kings 1:8",
       "first_ref": {
         "book": "1 Kings",
         "chapter": 22,
-        "verse": 27
+        "verse": 32
       },
       "last_ref": {
         "book": "2 Kings",
         "chapter": 1,
-        "verse": 2
+        "verse": 8
       }
     },
     {
       "page": 210,
-      "range": "2 Kings 1:2-2:22",
+      "range": "2 Kings 1:8-3:3",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 1,
-        "verse": 2
+        "verse": 8
       },
       "last_ref": {
         "book": "2 Kings",
-        "chapter": 2,
-        "verse": 22
+        "chapter": 3,
+        "verse": 3
       }
     },
     {
       "page": 211,
-      "range": "2 Kings 2:22-4:17",
+      "range": "2 Kings 3:3-4:28",
       "first_ref": {
         "book": "2 Kings",
-        "chapter": 2,
-        "verse": 22
+        "chapter": 3,
+        "verse": 3
       },
       "last_ref": {
         "book": "2 Kings",
         "chapter": 4,
-        "verse": 17
+        "verse": 28
       }
     },
     {
       "page": 212,
-      "range": "2 Kings 4:17-5:19",
+      "range": "2 Kings 4:28-5:26",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 4,
-        "verse": 17
+        "verse": 28
       },
       "last_ref": {
         "book": "2 Kings",
         "chapter": 5,
-        "verse": 19
+        "verse": 26
       }
     },
     {
       "page": 213,
-      "range": "2 Kings 5:19-7:2",
+      "range": "2 Kings 5:26-7:8",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 5,
-        "verse": 19
+        "verse": 26
       },
       "last_ref": {
         "book": "2 Kings",
         "chapter": 7,
-        "verse": 2
+        "verse": 8
       }
     },
     {
       "page": 214,
-      "range": "2 Kings 7:2-8:23",
+      "range": "2 Kings 7:8-8:29",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 7,
-        "verse": 2
+        "verse": 8
       },
       "last_ref": {
         "book": "2 Kings",
         "chapter": 8,
-        "verse": 23
+        "verse": 29
       }
     },
     {
       "page": 215,
-      "range": "2 Kings 8:23-9:37",
+      "range": "2 Kings 9:1-10:7",
       "first_ref": {
         "book": "2 Kings",
-        "chapter": 8,
-        "verse": 23
+        "chapter": 9,
+        "verse": 1
       },
       "last_ref": {
         "book": "2 Kings",
-        "chapter": 9,
-        "verse": 37
+        "chapter": 10,
+        "verse": 7
       }
     },
     {
       "page": 216,
-      "range": "2 Kings 10:1-11:3",
+      "range": "2 Kings 10:7-11:12",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 10,
-        "verse": 1
+        "verse": 7
       },
       "last_ref": {
         "book": "2 Kings",
         "chapter": 11,
-        "verse": 3
+        "verse": 12
       }
     },
     {
       "page": 217,
-      "range": "2 Kings 11:3-12:21",
+      "range": "2 Kings 11:12-13:6",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 11,
-        "verse": 3
+        "verse": 12
       },
       "last_ref": {
         "book": "2 Kings",
-        "chapter": 12,
-        "verse": 21
+        "chapter": 13,
+        "verse": 6
       }
     },
     {
       "page": 218,
-      "range": "2 Kings 12:21-14:16",
+      "range": "2 Kings 13:6-14:22",
       "first_ref": {
         "book": "2 Kings",
-        "chapter": 12,
-        "verse": 21
+        "chapter": 13,
+        "verse": 6
       },
       "last_ref": {
         "book": "2 Kings",
         "chapter": 14,
-        "verse": 16
+        "verse": 22
       }
     },
     {
       "page": 219,
-      "range": "2 Kings 14:16-15:30",
+      "range": "2 Kings 14:22-15:37",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 14,
-        "verse": 16
+        "verse": 22
       },
       "last_ref": {
         "book": "2 Kings",
         "chapter": 15,
-        "verse": 30
+        "verse": 37
       }
     },
     {
       "page": 220,
-      "range": "2 Kings 15:30-17:13",
+      "range": "2 Kings 15:37-17:21",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 15,
-        "verse": 30
+        "verse": 37
       },
       "last_ref": {
         "book": "2 Kings",
         "chapter": 17,
-        "verse": 13
-      }
-    },
-    {
-      "page": 221,
-      "range": "2 Kings 17:13-18:15",
-      "first_ref": {
-        "book": "2 Kings",
-        "chapter": 17,
-        "verse": 13
-      },
-      "last_ref": {
-        "book": "2 Kings",
-        "chapter": 18,
-        "verse": 15
-      }
-    },
-    {
-      "page": 222,
-      "range": "2 Kings 18:15-19:19",
-      "first_ref": {
-        "book": "2 Kings",
-        "chapter": 18,
-        "verse": 15
-      },
-      "last_ref": {
-        "book": "2 Kings",
-        "chapter": 19,
-        "verse": 19
-      }
-    },
-    {
-      "page": 223,
-      "range": "2 Kings 19:19-20:21",
-      "first_ref": {
-        "book": "2 Kings",
-        "chapter": 19,
-        "verse": 19
-      },
-      "last_ref": {
-        "book": "2 Kings",
-        "chapter": 20,
         "verse": 21
       }
     },
     {
+      "page": 221,
+      "range": "2 Kings 17:21-18:19",
+      "first_ref": {
+        "book": "2 Kings",
+        "chapter": 17,
+        "verse": 21
+      },
+      "last_ref": {
+        "book": "2 Kings",
+        "chapter": 18,
+        "verse": 19
+      }
+    },
+    {
+      "page": 222,
+      "range": "2 Kings 18:19-19:26",
+      "first_ref": {
+        "book": "2 Kings",
+        "chapter": 18,
+        "verse": 19
+      },
+      "last_ref": {
+        "book": "2 Kings",
+        "chapter": 19,
+        "verse": 26
+      }
+    },
+    {
+      "page": 223,
+      "range": "2 Kings 19:26-21:7",
+      "first_ref": {
+        "book": "2 Kings",
+        "chapter": 19,
+        "verse": 26
+      },
+      "last_ref": {
+        "book": "2 Kings",
+        "chapter": 21,
+        "verse": 7
+      }
+    },
+    {
       "page": 224,
-      "range": "2 Kings 21:1-22:13",
+      "range": "2 Kings 21:7-22:19",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 21,
-        "verse": 1
+        "verse": 7
       },
       "last_ref": {
         "book": "2 Kings",
         "chapter": 22,
-        "verse": 13
+        "verse": 19
       }
     },
     {
       "page": 225,
-      "range": "2 Kings 22:13-23:27",
+      "range": "2 Kings 22:19-23:30",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 22,
-        "verse": 13
+        "verse": 19
       },
       "last_ref": {
         "book": "2 Kings",
         "chapter": 23,
-        "verse": 27
+        "verse": 30
       }
     },
     {
       "page": 226,
-      "range": "2 Kings 23:27-25:4",
+      "range": "2 Kings 23:30-25:9",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 23,
-        "verse": 27
+        "verse": 30
       },
       "last_ref": {
         "book": "2 Kings",
         "chapter": 25,
-        "verse": 4
+        "verse": 9
       }
     },
     {
       "page": 227,
-      "range": "2 Kings 25:4-30",
+      "range": "2 Kings 25:9-30",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 25,
-        "verse": 4
+        "verse": 9
       },
       "last_ref": {
         "book": "2 Kings",
@@ -3178,7 +3178,7 @@
     },
     {
       "page": 228,
-      "range": "1 Chronicles 1:1-2:18",
+      "range": "1 Chronicles 1:1-2:27",
       "first_ref": {
         "book": "1 Chronicles",
         "chapter": 1,
@@ -3187,142 +3187,142 @@
       "last_ref": {
         "book": "1 Chronicles",
         "chapter": 2,
-        "verse": 18
+        "verse": 27
       }
     },
     {
       "page": 229,
-      "range": "1 Chronicles 2:18-3:21",
+      "range": "1 Chronicles 2:27-3:24",
       "first_ref": {
         "book": "1 Chronicles",
         "chapter": 2,
-        "verse": 18
+        "verse": 27
       },
       "last_ref": {
         "book": "1 Chronicles",
         "chapter": 3,
-        "verse": 21
+        "verse": 24
       }
     },
     {
       "page": 230,
-      "range": "1 Chronicles 3:21-4:41",
-      "first_ref": {
-        "book": "1 Chronicles",
-        "chapter": 3,
-        "verse": 21
-      },
-      "last_ref": {
-        "book": "1 Chronicles",
-        "chapter": 4,
-        "verse": 41
-      }
-    },
-    {
-      "page": 231,
-      "range": "1 Chronicles 4:41-6:7",
+      "range": "1 Chronicles 4:1-43",
       "first_ref": {
         "book": "1 Chronicles",
         "chapter": 4,
-        "verse": 41
-      },
-      "last_ref": {
-        "book": "1 Chronicles",
-        "chapter": 6,
-        "verse": 7
-      }
-    },
-    {
-      "page": 232,
-      "range": "1 Chronicles 6:7-63",
-      "first_ref": {
-        "book": "1 Chronicles",
-        "chapter": 6,
-        "verse": 7
-      },
-      "last_ref": {
-        "book": "1 Chronicles",
-        "chapter": 6,
-        "verse": 63
-      }
-    },
-    {
-      "page": 233,
-      "range": "1 Chronicles 6:63-7:40",
-      "first_ref": {
-        "book": "1 Chronicles",
-        "chapter": 6,
-        "verse": 63
-      },
-      "last_ref": {
-        "book": "1 Chronicles",
-        "chapter": 7,
-        "verse": 40
-      }
-    },
-    {
-      "page": 234,
-      "range": "1 Chronicles 8:1-9:22",
-      "first_ref": {
-        "book": "1 Chronicles",
-        "chapter": 8,
         "verse": 1
       },
       "last_ref": {
         "book": "1 Chronicles",
+        "chapter": 4,
+        "verse": 43
+      }
+    },
+    {
+      "page": 231,
+      "range": "1 Chronicles 5:1-6:13",
+      "first_ref": {
+        "book": "1 Chronicles",
+        "chapter": 5,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "1 Chronicles",
+        "chapter": 6,
+        "verse": 13
+      }
+    },
+    {
+      "page": 232,
+      "range": "1 Chronicles 6:13-66",
+      "first_ref": {
+        "book": "1 Chronicles",
+        "chapter": 6,
+        "verse": 13
+      },
+      "last_ref": {
+        "book": "1 Chronicles",
+        "chapter": 6,
+        "verse": 66
+      }
+    },
+    {
+      "page": 233,
+      "range": "1 Chronicles 7:1-8:6",
+      "first_ref": {
+        "book": "1 Chronicles",
+        "chapter": 7,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "1 Chronicles",
+        "chapter": 8,
+        "verse": 6
+      }
+    },
+    {
+      "page": 234,
+      "range": "1 Chronicles 8:6-9:28",
+      "first_ref": {
+        "book": "1 Chronicles",
+        "chapter": 8,
+        "verse": 6
+      },
+      "last_ref": {
+        "book": "1 Chronicles",
         "chapter": 9,
-        "verse": 22
+        "verse": 28
       }
     },
     {
       "page": 235,
-      "range": "1 Chronicles 9:22-11:13",
+      "range": "1 Chronicles 9:28-11:18",
       "first_ref": {
         "book": "1 Chronicles",
         "chapter": 9,
-        "verse": 22
+        "verse": 28
       },
       "last_ref": {
         "book": "1 Chronicles",
         "chapter": 11,
-        "verse": 13
+        "verse": 18
       }
     },
     {
       "page": 236,
-      "range": "1 Chronicles 11:13-12:22",
+      "range": "1 Chronicles 11:18-12:29",
       "first_ref": {
         "book": "1 Chronicles",
         "chapter": 11,
-        "verse": 13
+        "verse": 18
       },
       "last_ref": {
         "book": "1 Chronicles",
         "chapter": 12,
-        "verse": 22
+        "verse": 29
       }
     },
     {
       "page": 237,
-      "range": "1 Chronicles 12:22-15:3",
+      "range": "1 Chronicles 12:29-15:12",
       "first_ref": {
         "book": "1 Chronicles",
         "chapter": 12,
-        "verse": 22
+        "verse": 29
       },
       "last_ref": {
         "book": "1 Chronicles",
         "chapter": 15,
-        "verse": 3
+        "verse": 12
       }
     },
     {
       "page": 238,
-      "range": "1 Chronicles 15:3-16:23",
+      "range": "1 Chronicles 15:12-16:23",
       "first_ref": {
         "book": "1 Chronicles",
         "chapter": 15,
-        "verse": 3
+        "verse": 12
       },
       "last_ref": {
         "book": "1 Chronicles",
@@ -3332,7 +3332,7 @@
     },
     {
       "page": 239,
-      "range": "1 Chronicles 16:23-18:10",
+      "range": "1 Chronicles 16:23-18:13",
       "first_ref": {
         "book": "1 Chronicles",
         "chapter": 16,
@@ -3341,44 +3341,44 @@
       "last_ref": {
         "book": "1 Chronicles",
         "chapter": 18,
-        "verse": 10
+        "verse": 13
       }
     },
     {
       "page": 240,
-      "range": "1 Chronicles 18:10-21:6",
+      "range": "1 Chronicles 18:13-21:10",
       "first_ref": {
         "book": "1 Chronicles",
         "chapter": 18,
-        "verse": 10
+        "verse": 13
       },
       "last_ref": {
         "book": "1 Chronicles",
         "chapter": 21,
-        "verse": 6
+        "verse": 10
       }
     },
     {
       "page": 241,
-      "range": "1 Chronicles 21:6-22:19",
+      "range": "1 Chronicles 21:10-23:4",
       "first_ref": {
         "book": "1 Chronicles",
         "chapter": 21,
-        "verse": 6
+        "verse": 10
       },
       "last_ref": {
         "book": "1 Chronicles",
-        "chapter": 22,
-        "verse": 19
+        "chapter": 23,
+        "verse": 4
       }
     },
     {
       "page": 242,
-      "range": "1 Chronicles 23:1-24:31",
+      "range": "1 Chronicles 23:4-24:31",
       "first_ref": {
         "book": "1 Chronicles",
         "chapter": 23,
-        "verse": 1
+        "verse": 4
       },
       "last_ref": {
         "book": "1 Chronicles",
@@ -3388,39 +3388,39 @@
     },
     {
       "page": 243,
-      "range": "1 Chronicles 24:31-26:31",
+      "range": "1 Chronicles 25:1-26:32",
       "first_ref": {
         "book": "1 Chronicles",
-        "chapter": 24,
-        "verse": 31
+        "chapter": 25,
+        "verse": 1
       },
       "last_ref": {
         "book": "1 Chronicles",
         "chapter": 26,
-        "verse": 31
+        "verse": 32
       }
     },
     {
       "page": 244,
-      "range": "1 Chronicles 26:31-28:10",
+      "range": "1 Chronicles 27:1-28:12",
       "first_ref": {
         "book": "1 Chronicles",
-        "chapter": 26,
-        "verse": 31
+        "chapter": 27,
+        "verse": 1
       },
       "last_ref": {
         "book": "1 Chronicles",
         "chapter": 28,
-        "verse": 10
+        "verse": 12
       }
     },
     {
       "page": 245,
-      "range": "1 Chronicles 28:10-29:30",
+      "range": "1 Chronicles 28:12-29:30",
       "first_ref": {
         "book": "1 Chronicles",
         "chapter": 28,
-        "verse": 10
+        "verse": 12
       },
       "last_ref": {
         "book": "1 Chronicles",
@@ -3430,7 +3430,7 @@
     },
     {
       "page": 246,
-      "range": "2 Chronicles 1:1-2:10",
+      "range": "2 Chronicles 1:1-2:13",
       "first_ref": {
         "book": "2 Chronicles",
         "chapter": 1,
@@ -3439,268 +3439,268 @@
       "last_ref": {
         "book": "2 Chronicles",
         "chapter": 2,
-        "verse": 10
+        "verse": 13
       }
     },
     {
       "page": 247,
-      "range": "2 Chronicles 2:10-4:18",
+      "range": "2 Chronicles 2:13-4:22",
       "first_ref": {
         "book": "2 Chronicles",
         "chapter": 2,
-        "verse": 10
+        "verse": 13
       },
       "last_ref": {
         "book": "2 Chronicles",
         "chapter": 4,
-        "verse": 18
+        "verse": 22
       }
     },
     {
       "page": 248,
-      "range": "2 Chronicles 4:18-6:27",
+      "range": "2 Chronicles 5:1-6:30",
       "first_ref": {
         "book": "2 Chronicles",
-        "chapter": 4,
-        "verse": 18
+        "chapter": 5,
+        "verse": 1
       },
       "last_ref": {
         "book": "2 Chronicles",
         "chapter": 6,
-        "verse": 27
+        "verse": 30
       }
     },
     {
       "page": 249,
-      "range": "2 Chronicles 6:27-7:22",
+      "range": "2 Chronicles 6:30-8:8",
       "first_ref": {
         "book": "2 Chronicles",
         "chapter": 6,
-        "verse": 27
+        "verse": 30
       },
       "last_ref": {
         "book": "2 Chronicles",
-        "chapter": 7,
-        "verse": 22
+        "chapter": 8,
+        "verse": 8
       }
     },
     {
       "page": 250,
-      "range": "2 Chronicles 8:1-9:31",
+      "range": "2 Chronicles 8:8-10:8",
       "first_ref": {
         "book": "2 Chronicles",
         "chapter": 8,
-        "verse": 1
+        "verse": 8
       },
       "last_ref": {
         "book": "2 Chronicles",
-        "chapter": 9,
-        "verse": 31
+        "chapter": 10,
+        "verse": 8
       }
     },
     {
       "page": 251,
-      "range": "2 Chronicles 10:1-12:7",
+      "range": "2 Chronicles 10:8-12:12",
       "first_ref": {
         "book": "2 Chronicles",
         "chapter": 10,
-        "verse": 1
+        "verse": 8
       },
       "last_ref": {
         "book": "2 Chronicles",
         "chapter": 12,
-        "verse": 7
+        "verse": 12
       }
     },
     {
       "page": 252,
-      "range": "2 Chronicles 12:7-14:12",
+      "range": "2 Chronicles 12:12-14:14",
       "first_ref": {
         "book": "2 Chronicles",
         "chapter": 12,
-        "verse": 7
+        "verse": 12
       },
       "last_ref": {
         "book": "2 Chronicles",
         "chapter": 14,
-        "verse": 12
+        "verse": 14
       }
     },
     {
       "page": 253,
-      "range": "2 Chronicles 14:12-17:9",
+      "range": "2 Chronicles 15:1-17:14",
       "first_ref": {
         "book": "2 Chronicles",
-        "chapter": 14,
-        "verse": 12
+        "chapter": 15,
+        "verse": 1
       },
       "last_ref": {
         "book": "2 Chronicles",
         "chapter": 17,
-        "verse": 9
+        "verse": 14
       }
     },
     {
       "page": 254,
-      "range": "2 Chronicles 17:9-19:7",
+      "range": "2 Chronicles 17:14-19:10",
       "first_ref": {
         "book": "2 Chronicles",
         "chapter": 17,
-        "verse": 9
+        "verse": 14
       },
       "last_ref": {
         "book": "2 Chronicles",
         "chapter": 19,
-        "verse": 7
+        "verse": 10
       }
     },
     {
       "page": 255,
-      "range": "2 Chronicles 19:7-20:34",
+      "range": "2 Chronicles 19:10-20:37",
       "first_ref": {
         "book": "2 Chronicles",
         "chapter": 19,
-        "verse": 7
+        "verse": 10
       },
       "last_ref": {
         "book": "2 Chronicles",
         "chapter": 20,
-        "verse": 34
+        "verse": 37
       }
     },
     {
       "page": 256,
-      "range": "2 Chronicles 20:34-22:12",
+      "range": "2 Chronicles 21:1-23:6",
       "first_ref": {
         "book": "2 Chronicles",
-        "chapter": 20,
-        "verse": 34
+        "chapter": 21,
+        "verse": 1
       },
       "last_ref": {
         "book": "2 Chronicles",
-        "chapter": 22,
-        "verse": 12
+        "chapter": 23,
+        "verse": 6
       }
     },
     {
       "page": 257,
-      "range": "2 Chronicles 23:1-24:22",
+      "range": "2 Chronicles 23:6-24:27",
       "first_ref": {
         "book": "2 Chronicles",
         "chapter": 23,
-        "verse": 1
+        "verse": 6
       },
       "last_ref": {
         "book": "2 Chronicles",
         "chapter": 24,
-        "verse": 22
+        "verse": 27
       }
     },
     {
       "page": 258,
-      "range": "2 Chronicles 24:22-26:6",
+      "range": "2 Chronicles 24:27-26:15",
       "first_ref": {
         "book": "2 Chronicles",
         "chapter": 24,
-        "verse": 22
+        "verse": 27
       },
       "last_ref": {
         "book": "2 Chronicles",
         "chapter": 26,
-        "verse": 6
+        "verse": 15
       }
     },
     {
       "page": 259,
-      "range": "2 Chronicles 26:6-28:15",
+      "range": "2 Chronicles 26:15-28:25",
       "first_ref": {
         "book": "2 Chronicles",
         "chapter": 26,
-        "verse": 6
+        "verse": 15
       },
       "last_ref": {
         "book": "2 Chronicles",
         "chapter": 28,
-        "verse": 15
+        "verse": 25
       }
     },
     {
       "page": 260,
-      "range": "2 Chronicles 28:15-29:35",
+      "range": "2 Chronicles 28:25-30:7",
       "first_ref": {
         "book": "2 Chronicles",
         "chapter": 28,
-        "verse": 15
+        "verse": 25
       },
       "last_ref": {
         "book": "2 Chronicles",
-        "chapter": 29,
-        "verse": 35
+        "chapter": 30,
+        "verse": 7
       }
     },
     {
       "page": 261,
-      "range": "2 Chronicles 29:35-31:13",
+      "range": "2 Chronicles 30:7-31:21",
       "first_ref": {
         "book": "2 Chronicles",
-        "chapter": 29,
-        "verse": 35
+        "chapter": 30,
+        "verse": 7
       },
       "last_ref": {
         "book": "2 Chronicles",
         "chapter": 31,
-        "verse": 13
+        "verse": 21
       }
     },
     {
       "page": 262,
-      "range": "2 Chronicles 31:13-32:33",
+      "range": "2 Chronicles 32:1-33:9",
       "first_ref": {
-        "book": "2 Chronicles",
-        "chapter": 31,
-        "verse": 13
-      },
-      "last_ref": {
         "book": "2 Chronicles",
         "chapter": 32,
-        "verse": 33
-      }
-    },
-    {
-      "page": 263,
-      "range": "2 Chronicles 33:1-34:13",
-      "first_ref": {
-        "book": "2 Chronicles",
-        "chapter": 33,
         "verse": 1
       },
       "last_ref": {
         "book": "2 Chronicles",
+        "chapter": 33,
+        "verse": 9
+      }
+    },
+    {
+      "page": 263,
+      "range": "2 Chronicles 33:9-34:25",
+      "first_ref": {
+        "book": "2 Chronicles",
+        "chapter": 33,
+        "verse": 9
+      },
+      "last_ref": {
+        "book": "2 Chronicles",
         "chapter": 34,
-        "verse": 13
+        "verse": 25
       }
     },
     {
       "page": 264,
-      "range": "2 Chronicles 34:13-35:19",
+      "range": "2 Chronicles 34:25-35:27",
       "first_ref": {
         "book": "2 Chronicles",
         "chapter": 34,
-        "verse": 13
+        "verse": 25
       },
       "last_ref": {
         "book": "2 Chronicles",
         "chapter": 35,
-        "verse": 19
+        "verse": 27
       }
     },
     {
       "page": 265,
-      "range": "2 Chronicles 35:19-36:23",
+      "range": "2 Chronicles 36:1-23",
       "first_ref": {
         "book": "2 Chronicles",
-        "chapter": 35,
-        "verse": 19
+        "chapter": 36,
+        "verse": 1
       },
       "last_ref": {
         "book": "2 Chronicles",
@@ -3710,7 +3710,7 @@
     },
     {
       "page": 266,
-      "range": "Ezra 1:1-2:9",
+      "range": "Ezra 1:1-2:43",
       "first_ref": {
         "book": "Ezra",
         "chapter": 1,
@@ -3719,100 +3719,100 @@
       "last_ref": {
         "book": "Ezra",
         "chapter": 2,
-        "verse": 9
+        "verse": 43
       }
     },
     {
       "page": 267,
-      "range": "Ezra 2:10-3:7",
+      "range": "Ezra 2:43-4:5",
       "first_ref": {
         "book": "Ezra",
         "chapter": 2,
-        "verse": 10
+        "verse": 43
       },
       "last_ref": {
         "book": "Ezra",
-        "chapter": 3,
-        "verse": 7
+        "chapter": 4,
+        "verse": 5
       }
     },
     {
       "page": 268,
-      "range": "Ezra 3:7-5:8",
+      "range": "Ezra 4:5-6:3",
       "first_ref": {
         "book": "Ezra",
-        "chapter": 3,
-        "verse": 7
+        "chapter": 4,
+        "verse": 5
       },
       "last_ref": {
         "book": "Ezra",
-        "chapter": 5,
-        "verse": 8
+        "chapter": 6,
+        "verse": 3
       }
     },
     {
       "page": 269,
-      "range": "Ezra 5:8-7:10",
+      "range": "Ezra 6:3-7:25",
       "first_ref": {
         "book": "Ezra",
-        "chapter": 5,
-        "verse": 8
+        "chapter": 6,
+        "verse": 3
       },
       "last_ref": {
         "book": "Ezra",
         "chapter": 7,
-        "verse": 10
+        "verse": 25
       }
     },
     {
       "page": 270,
-      "range": "Ezra 7:10-8:30",
+      "range": "Ezra 7:25-9:2",
       "first_ref": {
         "book": "Ezra",
         "chapter": 7,
-        "verse": 10
+        "verse": 25
       },
       "last_ref": {
         "book": "Ezra",
-        "chapter": 8,
-        "verse": 30
+        "chapter": 9,
+        "verse": 2
       }
     },
     {
       "page": 271,
-      "range": "Ezra 8:30-10:15",
+      "range": "Ezra 9:2-10:33",
       "first_ref": {
         "book": "Ezra",
-        "chapter": 8,
-        "verse": 30
+        "chapter": 9,
+        "verse": 2
       },
       "last_ref": {
         "book": "Ezra",
         "chapter": 10,
-        "verse": 15
+        "verse": 33
       }
     },
     {
       "page": 272,
-      "range": "Ezra 10:15 - Nehemiah 1:7",
+      "range": "Ezra 10:33 - Nehemiah 2:6",
       "first_ref": {
         "book": "Ezra",
         "chapter": 10,
-        "verse": 15
+        "verse": 33
       },
       "last_ref": {
         "book": "Nehemiah",
-        "chapter": 1,
-        "verse": 7
+        "chapter": 2,
+        "verse": 6
       }
     },
     {
       "page": 273,
-      "range": "Nehemiah 1:7-3:6",
+      "range": "Nehemiah 2:6-3:6",
       "first_ref": {
         "book": "Nehemiah",
-        "chapter": 1,
-        "verse": 7
+        "chapter": 2,
+        "verse": 6
       },
       "last_ref": {
         "book": "Nehemiah",
@@ -3822,1971 +3822,1957 @@
     },
     {
       "page": 274,
-      "range": "Nehemiah 3:6-5:13",
+      "range": "Nehemiah 4:1-6:3",
       "first_ref": {
         "book": "Nehemiah",
-        "chapter": 3,
-        "verse": 6
+        "chapter": 4,
+        "verse": 1
       },
       "last_ref": {
         "book": "Nehemiah",
-        "chapter": 5,
-        "verse": 13
+        "chapter": 6,
+        "verse": 3
       }
     },
     {
       "page": 275,
-      "range": "Nehemiah 5:13-7:35",
+      "range": "Nehemiah 6:3-7:64",
       "first_ref": {
         "book": "Nehemiah",
-        "chapter": 5,
-        "verse": 13
+        "chapter": 6,
+        "verse": 3
       },
       "last_ref": {
         "book": "Nehemiah",
         "chapter": 7,
-        "verse": 35
+        "verse": 64
       }
     },
     {
       "page": 276,
-      "range": "Nehemiah 7:35-9:4",
+      "range": "Nehemiah 7:64-9:17",
       "first_ref": {
         "book": "Nehemiah",
         "chapter": 7,
-        "verse": 35
+        "verse": 64
       },
       "last_ref": {
         "book": "Nehemiah",
         "chapter": 9,
-        "verse": 4
+        "verse": 17
       }
     },
     {
       "page": 277,
-      "range": "Nehemiah 9:4-10:15",
+      "range": "Nehemiah 9:17-10:33",
       "first_ref": {
         "book": "Nehemiah",
         "chapter": 9,
-        "verse": 4
+        "verse": 17
       },
       "last_ref": {
         "book": "Nehemiah",
         "chapter": 10,
-        "verse": 15
+        "verse": 33
       }
     },
     {
       "page": 278,
-      "range": "Nehemiah 10:15-11:15",
+      "range": "Nehemiah 10:33-12:3",
       "first_ref": {
         "book": "Nehemiah",
         "chapter": 10,
-        "verse": 15
+        "verse": 33
       },
       "last_ref": {
         "book": "Nehemiah",
-        "chapter": 11,
-        "verse": 15
+        "chapter": 12,
+        "verse": 3
       }
     },
     {
       "page": 279,
-      "range": "Nehemiah 11:15-13:9",
+      "range": "Nehemiah 12:3-13:22",
       "first_ref": {
         "book": "Nehemiah",
-        "chapter": 11,
-        "verse": 15
+        "chapter": 12,
+        "verse": 3
       },
       "last_ref": {
         "book": "Nehemiah",
         "chapter": 13,
-        "verse": 9
+        "verse": 22
       }
     },
     {
       "page": 280,
-      "range": "Nehemiah 13:9 - Esther 1:3",
+      "range": "Nehemiah 13:22 - Esther 1:19",
       "first_ref": {
         "book": "Nehemiah",
         "chapter": 13,
-        "verse": 9
+        "verse": 22
       },
       "last_ref": {
         "book": "Esther",
         "chapter": 1,
-        "verse": 3
+        "verse": 19
       }
     },
     {
       "page": 281,
-      "range": "Esther 1:3-3:4",
+      "range": "Esther 1:19-4:5",
       "first_ref": {
         "book": "Esther",
         "chapter": 1,
-        "verse": 3
+        "verse": 19
       },
       "last_ref": {
         "book": "Esther",
-        "chapter": 3,
-        "verse": 4
-      }
-    },
-    {
-      "page": 282,
-      "range": "Esther 3:4-6:14",
-      "first_ref": {
-        "book": "Esther",
-        "chapter": 3,
-        "verse": 4
-      },
-      "last_ref": {
-        "book": "Esther",
-        "chapter": 6,
-        "verse": 14
-      }
-    },
-    {
-      "page": 283,
-      "range": "Esther 7:1-9:4",
-      "first_ref": {
-        "book": "Esther",
-        "chapter": 7,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Esther",
-        "chapter": 9,
-        "verse": 4
-      }
-    },
-    {
-      "page": 284,
-      "range": "Esther 10:1 - Job 1:22",
-      "first_ref": {
-        "book": "Esther",
-        "chapter": 10,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Job",
-        "chapter": 1,
-        "verse": 22
-      }
-    },
-    {
-      "page": 285,
-      "range": "Job 2:1-4:21",
-      "first_ref": {
-        "book": "Job",
-        "chapter": 2,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Job",
         "chapter": 4,
-        "verse": 21
-      }
-    },
-    {
-      "page": 286,
-      "range": "Job 5:1-7:21",
-      "first_ref": {
-        "book": "Job",
-        "chapter": 5,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Job",
-        "chapter": 7,
-        "verse": 21
-      }
-    },
-    {
-      "page": 287,
-      "range": "Job 8:1-10:22",
-      "first_ref": {
-        "book": "Job",
-        "chapter": 8,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Job",
-        "chapter": 10,
-        "verse": 22
-      }
-    },
-    {
-      "page": 288,
-      "range": "Job 11:1-14:10",
-      "first_ref": {
-        "book": "Job",
-        "chapter": 11,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Job",
-        "chapter": 14,
-        "verse": 10
-      }
-    },
-    {
-      "page": 289,
-      "range": "Job 14:10-17:15",
-      "first_ref": {
-        "book": "Job",
-        "chapter": 14,
-        "verse": 10
-      },
-      "last_ref": {
-        "book": "Job",
-        "chapter": 17,
-        "verse": 15
-      }
-    },
-    {
-      "page": 290,
-      "range": "Job 17:15-20:27",
-      "first_ref": {
-        "book": "Job",
-        "chapter": 17,
-        "verse": 15
-      },
-      "last_ref": {
-        "book": "Job",
-        "chapter": 20,
-        "verse": 27
-      }
-    },
-    {
-      "page": 291,
-      "range": "Job 20:27-23:13",
-      "first_ref": {
-        "book": "Job",
-        "chapter": 20,
-        "verse": 27
-      },
-      "last_ref": {
-        "book": "Job",
-        "chapter": 23,
-        "verse": 13
-      }
-    },
-    {
-      "page": 292,
-      "range": "Job 24:1-27:23",
-      "first_ref": {
-        "book": "Job",
-        "chapter": 24,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Job",
-        "chapter": 27,
-        "verse": 23
-      }
-    },
-    {
-      "page": 293,
-      "range": "Job 28:1-30:31",
-      "first_ref": {
-        "book": "Job",
-        "chapter": 28,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Job",
-        "chapter": 30,
-        "verse": 31
-      }
-    },
-    {
-      "page": 294,
-      "range": "Job 31:1-33:22",
-      "first_ref": {
-        "book": "Job",
-        "chapter": 31,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Job",
-        "chapter": 33,
-        "verse": 22
-      }
-    },
-    {
-      "page": 295,
-      "range": "Job 33:22-36:11",
-      "first_ref": {
-        "book": "Job",
-        "chapter": 33,
-        "verse": 22
-      },
-      "last_ref": {
-        "book": "Job",
-        "chapter": 36,
-        "verse": 11
-      }
-    },
-    {
-      "page": 296,
-      "range": "Job 36:11-38:41",
-      "first_ref": {
-        "book": "Job",
-        "chapter": 36,
-        "verse": 11
-      },
-      "last_ref": {
-        "book": "Job",
-        "chapter": 38,
-        "verse": 41
-      }
-    },
-    {
-      "page": 297,
-      "range": "Job 38:41-41:26",
-      "first_ref": {
-        "book": "Job",
-        "chapter": 38,
-        "verse": 41
-      },
-      "last_ref": {
-        "book": "Job",
-        "chapter": 41,
-        "verse": 26
-      }
-    },
-    {
-      "page": 298,
-      "range": "Job 42:1 - Psalms 1:6",
-      "first_ref": {
-        "book": "Job",
-        "chapter": 42,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "page": 299,
-      "range": "Psalms 2:1-7:9",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 2,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 7,
-        "verse": 9
-      }
-    },
-    {
-      "page": 300,
-      "range": "Psalms 7:9-9:39",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 7,
-        "verse": 9
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 9,
-        "verse": 39
-      }
-    },
-    {
-      "page": 301,
-      "range": "Psalms 10:1-16:4",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 10,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 16,
-        "verse": 4
-      }
-    },
-    {
-      "page": 302,
-      "range": "Psalms 16:4-18:15",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 16,
-        "verse": 4
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 18,
-        "verse": 15
-      }
-    },
-    {
-      "page": 303,
-      "range": "Psalms 19:1-22:6",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 19,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 22,
-        "verse": 6
-      }
-    },
-    {
-      "page": 304,
-      "range": "Psalms 23:1-27:1",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 27,
-        "verse": 1
-      }
-    },
-    {
-      "page": 305,
-      "range": "Psalms 27:1-31:7",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 27,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 31,
-        "verse": 7
-      }
-    },
-    {
-      "page": 306,
-      "range": "Psalms 31:7-34:27",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 31,
-        "verse": 7
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 34,
-        "verse": 27
-      }
-    },
-    {
-      "page": 307,
-      "range": "Psalms 34:27-37:18",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 34,
-        "verse": 27
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 37,
-        "verse": 18
-      }
-    },
-    {
-      "page": 308,
-      "range": "Psalms 37:18-41:12",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 37,
-        "verse": 18
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 41,
-        "verse": 12
-      }
-    },
-    {
-      "page": 309,
-      "range": "Psalms 41:12-45:12",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 41,
-        "verse": 12
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 45,
-        "verse": 12
-      }
-    },
-    {
-      "page": 310,
-      "range": "Psalms 46:1-50:4",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 46,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 50,
-        "verse": 4
-      }
-    },
-    {
-      "page": 311,
-      "range": "Psalms 50:4-54:24",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 50,
-        "verse": 4
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 54,
-        "verse": 24
-      }
-    },
-    {
-      "page": 312,
-      "range": "Psalms 55:1-59:14",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 55,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 59,
-        "verse": 14
-      }
-    },
-    {
-      "page": 313,
-      "range": "Psalms 60:1-65:8",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 60,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 65,
-        "verse": 8
-      }
-    },
-    {
-      "page": 314,
-      "range": "Psalms 65:8-68:21",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 65,
-        "verse": 8
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 68,
-        "verse": 21
-      }
-    },
-    {
-      "page": 315,
-      "range": "Psalms 68:21-71:20",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 68,
-        "verse": 21
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 71,
-        "verse": 20
-      }
-    },
-    {
-      "page": 316,
-      "range": "Psalms 72:1-75:13",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 72,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 75,
-        "verse": 13
-      }
-    },
-    {
-      "page": 317,
-      "range": "Psalms 76:1-77:62",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 76,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 77,
-        "verse": 62
-      }
-    },
-    {
-      "page": 318,
-      "range": "Psalms 77:62-81:8",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 77,
-        "verse": 62
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 81,
-        "verse": 8
-      }
-    },
-    {
-      "page": 319,
-      "range": "Psalms 82:1-86:6",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 82,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 86,
-        "verse": 6
-      }
-    },
-    {
-      "page": 320,
-      "range": "Psalms 86:6-89:6",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 86,
-        "verse": 6
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 89,
-        "verse": 6
-      }
-    },
-    {
-      "page": 321,
-      "range": "Psalms 89:6-93:23",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 89,
-        "verse": 6
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 93,
-        "verse": 23
-      }
-    },
-    {
-      "page": 322,
-      "range": "Psalms 94:1-99:5",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 94,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 99,
         "verse": 5
       }
     },
     {
-      "page": 323,
-      "range": "Psalms 100:1-103:13",
+      "page": 282,
+      "range": "Esther 4:5-8:6",
+      "first_ref": {
+        "book": "Esther",
+        "chapter": 4,
+        "verse": 5
+      },
+      "last_ref": {
+        "book": "Esther",
+        "chapter": 8,
+        "verse": 6
+      }
+    },
+    {
+      "page": 283,
+      "range": "Esther 8:6-10:3",
+      "first_ref": {
+        "book": "Esther",
+        "chapter": 8,
+        "verse": 6
+      },
+      "last_ref": {
+        "book": "Esther",
+        "chapter": 10,
+        "verse": 3
+      }
+    },
+    {
+      "page": 284,
+      "range": "Job 1:1-2:12",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 1,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Job",
+        "chapter": 2,
+        "verse": 12
+      }
+    },
+    {
+      "page": 285,
+      "range": "Job 2:12-5:27",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 2,
+        "verse": 12
+      },
+      "last_ref": {
+        "book": "Job",
+        "chapter": 5,
+        "verse": 27
+      }
+    },
+    {
+      "page": 286,
+      "range": "Job 6:1-9:4",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 6,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Job",
+        "chapter": 9,
+        "verse": 4
+      }
+    },
+    {
+      "page": 287,
+      "range": "Job 9:4-12:13",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 9,
+        "verse": 4
+      },
+      "last_ref": {
+        "book": "Job",
+        "chapter": 12,
+        "verse": 13
+      }
+    },
+    {
+      "page": 288,
+      "range": "Job 12:13-15:23",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 12,
+        "verse": 13
+      },
+      "last_ref": {
+        "book": "Job",
+        "chapter": 15,
+        "verse": 23
+      }
+    },
+    {
+      "page": 289,
+      "range": "Job 15:23-19:10",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 15,
+        "verse": 23
+      },
+      "last_ref": {
+        "book": "Job",
+        "chapter": 19,
+        "verse": 10
+      }
+    },
+    {
+      "page": 290,
+      "range": "Job 19:10-21:34",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 19,
+        "verse": 10
+      },
+      "last_ref": {
+        "book": "Job",
+        "chapter": 21,
+        "verse": 34
+      }
+    },
+    {
+      "page": 291,
+      "range": "Job 21:34-24:25",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 21,
+        "verse": 34
+      },
+      "last_ref": {
+        "book": "Job",
+        "chapter": 24,
+        "verse": 25
+      }
+    },
+    {
+      "page": 292,
+      "range": "Job 25:1-28:28",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 25,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Job",
+        "chapter": 28,
+        "verse": 28
+      }
+    },
+    {
+      "page": 293,
+      "range": "Job 29:1-31:26",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 29,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Job",
+        "chapter": 31,
+        "verse": 26
+      }
+    },
+    {
+      "page": 294,
+      "range": "Job 31:26-34:12",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 31,
+        "verse": 26
+      },
+      "last_ref": {
+        "book": "Job",
+        "chapter": 34,
+        "verse": 12
+      }
+    },
+    {
+      "page": 295,
+      "range": "Job 34:12-36:33",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 34,
+        "verse": 12
+      },
+      "last_ref": {
+        "book": "Job",
+        "chapter": 36,
+        "verse": 33
+      }
+    },
+    {
+      "page": 296,
+      "range": "Job 37:1-39:23",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 37,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Job",
+        "chapter": 39,
+        "verse": 23
+      }
+    },
+    {
+      "page": 297,
+      "range": "Job 39:23-42:14",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 39,
+        "verse": 23
+      },
+      "last_ref": {
+        "book": "Job",
+        "chapter": 42,
+        "verse": 14
+      }
+    },
+    {
+      "page": 298,
+      "range": "Job 42:14 - Psalms 3:7",
+      "first_ref": {
+        "book": "Job",
+        "chapter": 42,
+        "verse": 14
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 3,
+        "verse": 7
+      }
+    },
+    {
+      "page": 299,
+      "range": "Psalms 3:7-8:10",
       "first_ref": {
         "book": "Psalms",
-        "chapter": 100,
+        "chapter": 3,
+        "verse": 7
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 10
+      }
+    },
+    {
+      "page": 300,
+      "range": "Psalms 8:10-11:9",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 8,
+        "verse": 10
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 11,
+        "verse": 9
+      }
+    },
+    {
+      "page": 301,
+      "range": "Psalms 11:9-17:9",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 11,
+        "verse": 9
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 17,
+        "verse": 9
+      }
+    },
+    {
+      "page": 302,
+      "range": "Psalms 17:9-20:8",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 17,
+        "verse": 9
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 20,
+        "verse": 8
+      }
+    },
+    {
+      "page": 303,
+      "range": "Psalms 20:8-24:1",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 20,
+        "verse": 8
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 24,
+        "verse": 1
+      }
+    },
+    {
+      "page": 304,
+      "range": "Psalms 24:1-28:6",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 24,
         "verse": 1
       },
       "last_ref": {
         "book": "Psalms",
-        "chapter": 103,
+        "chapter": 28,
+        "verse": 6
+      }
+    },
+    {
+      "page": 305,
+      "range": "Psalms 28:6-32:14",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 28,
+        "verse": 6
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 32,
+        "verse": 14
+      }
+    },
+    {
+      "page": 306,
+      "range": "Psalms 32:14-35:13",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 32,
+        "verse": 14
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 35,
+        "verse": 13
+      }
+    },
+    {
+      "page": 307,
+      "range": "Psalms 36:1-38:13",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 36,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 38,
+        "verse": 13
+      }
+    },
+    {
+      "page": 308,
+      "range": "Psalms 38:13-43:7",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 38,
+        "verse": 13
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 43,
+        "verse": 7
+      }
+    },
+    {
+      "page": 309,
+      "range": "Psalms 43:7-47:14",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 43,
+        "verse": 7
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 47,
+        "verse": 14
+      }
+    },
+    {
+      "page": 310,
+      "range": "Psalms 47:14-51:7",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 47,
+        "verse": 14
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 51,
+        "verse": 7
+      }
+    },
+    {
+      "page": 311,
+      "range": "Psalms 51:7-56:10",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 51,
+        "verse": 7
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 10
+      }
+    },
+    {
+      "page": 312,
+      "range": "Psalms 56:10-61:13",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 10
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 61,
+        "verse": 13
+      }
+    },
+    {
+      "page": 313,
+      "range": "Psalms 62:1-67:4",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 62,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 67,
+        "verse": 4
+      }
+    },
+    {
+      "page": 314,
+      "range": "Psalms 67:4-69:6",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 67,
+        "verse": 4
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 69,
+        "verse": 6
+      }
+    },
+    {
+      "page": 315,
+      "range": "Psalms 70:1-72:28",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 70,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 72,
+        "verse": 28
+      }
+    },
+    {
+      "page": 316,
+      "range": "Psalms 73:1-77:3",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 73,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 77,
+        "verse": 3
+      }
+    },
+    {
+      "page": 317,
+      "range": "Psalms 77:3-78:13",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 77,
+        "verse": 3
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 78,
+        "verse": 13
+      }
+    },
+    {
+      "page": 318,
+      "range": "Psalms 79:1-83:11",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 79,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 83,
+        "verse": 11
+      }
+    },
+    {
+      "page": 319,
+      "range": "Psalms 83:11-88:7",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 83,
+        "verse": 11
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 88,
+        "verse": 7
+      }
+    },
+    {
+      "page": 320,
+      "range": "Psalms 88:7-90:16",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 88,
+        "verse": 7
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 90,
+        "verse": 16
+      }
+    },
+    {
+      "page": 321,
+      "range": "Psalms 91:1-96:1",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 91,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 96,
+        "verse": 1
+      }
+    },
+    {
+      "page": 322,
+      "range": "Psalms 96:1-101:19",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 96,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 101,
+        "verse": 19
+      }
+    },
+    {
+      "page": 323,
+      "range": "Psalms 101:19-104:13",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 101,
+        "verse": 19
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 104,
         "verse": 13
       }
     },
     {
       "page": 324,
-      "range": "Psalms 103:13-105:23",
+      "range": "Psalms 104:13-106:10",
       "first_ref": {
         "book": "Psalms",
-        "chapter": 103,
+        "chapter": 104,
         "verse": 13
       },
       "last_ref": {
         "book": "Psalms",
-        "chapter": 105,
-        "verse": 23
+        "chapter": 106,
+        "verse": 10
       }
     },
     {
       "page": 325,
-      "range": "Psalms 105:23-107:14",
+      "range": "Psalms 106:10-109:1",
       "first_ref": {
         "book": "Psalms",
-        "chapter": 105,
-        "verse": 23
+        "chapter": 106,
+        "verse": 10
       },
       "last_ref": {
         "book": "Psalms",
-        "chapter": 107,
-        "verse": 14
+        "chapter": 109,
+        "verse": 1
       }
     },
     {
       "page": 326,
-      "range": "Psalms 108:1-112:6",
+      "range": "Psalms 109:1-114:5",
       "first_ref": {
         "book": "Psalms",
-        "chapter": 108,
+        "chapter": 109,
         "verse": 1
       },
       "last_ref": {
         "book": "Psalms",
-        "chapter": 112,
-        "verse": 6
+        "chapter": 114,
+        "verse": 5
       }
     },
     {
       "page": 327,
-      "range": "Psalms 112:6-117:22",
+      "range": "Psalms 114:5-118:32",
       "first_ref": {
         "book": "Psalms",
-        "chapter": 112,
-        "verse": 6
+        "chapter": 114,
+        "verse": 5
       },
       "last_ref": {
         "book": "Psalms",
-        "chapter": 117,
-        "verse": 22
+        "chapter": 118,
+        "verse": 32
       }
     },
     {
       "page": 328,
-      "range": "Psalms 117:22-118:83",
+      "range": "Psalms 118:32-129",
       "first_ref": {
         "book": "Psalms",
-        "chapter": 117,
-        "verse": 22
+        "chapter": 118,
+        "verse": 32
       },
       "last_ref": {
         "book": "Psalms",
         "chapter": 118,
-        "verse": 83
+        "verse": 129
       }
     },
     {
       "page": 329,
-      "range": "Psalms 118:83-176",
+      "range": "Psalms 118:129-121:9",
       "first_ref": {
         "book": "Psalms",
         "chapter": 118,
-        "verse": 83
+        "verse": 129
       },
       "last_ref": {
         "book": "Psalms",
-        "chapter": 118,
-        "verse": 176
+        "chapter": 121,
+        "verse": 9
       }
     },
     {
       "page": 330,
-      "range": "Psalms 119:1-125:6",
+      "range": "Psalms 122:1-129:8",
       "first_ref": {
         "book": "Psalms",
-        "chapter": 119,
+        "chapter": 122,
         "verse": 1
       },
       "last_ref": {
         "book": "Psalms",
-        "chapter": 125,
-        "verse": 6
+        "chapter": 129,
+        "verse": 8
       }
     },
     {
       "page": 331,
-      "range": "Psalms 126:1-133:2",
+      "range": "Psalms 130:1-135:18",
       "first_ref": {
         "book": "Psalms",
-        "chapter": 126,
+        "chapter": 130,
         "verse": 1
       },
       "last_ref": {
         "book": "Psalms",
-        "chapter": 133,
-        "verse": 2
+        "chapter": 135,
+        "verse": 18
       }
     },
     {
       "page": 332,
-      "range": "Psalms 133:2-137:8",
+      "range": "Psalms 135:18-139:14",
       "first_ref": {
         "book": "Psalms",
-        "chapter": 133,
-        "verse": 2
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 137,
-        "verse": 8
-      }
-    },
-    {
-      "page": 333,
-      "range": "Psalms 138:1-142:10",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 138,
-        "verse": 1
+        "chapter": 135,
+        "verse": 18
       },
       "last_ref": {
         "book": "Psalms",
-        "chapter": 142,
-        "verse": 10
-      }
-    },
-    {
-      "page": 334,
-      "range": "Psalms 142:10-147:5",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 142,
-        "verse": 10
-      },
-      "last_ref": {
-        "book": "Psalms",
-        "chapter": 147,
-        "verse": 5
-      }
-    },
-    {
-      "page": 335,
-      "range": "Psalms 147:5 - Proverbs 1:7",
-      "first_ref": {
-        "book": "Psalms",
-        "chapter": 147,
-        "verse": 5
-      },
-      "last_ref": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "page": 336,
-      "range": "Proverbs 1:7-3:24",
-      "first_ref": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 7
-      },
-      "last_ref": {
-        "book": "Proverbs",
-        "chapter": 3,
-        "verse": 24
-      }
-    },
-    {
-      "page": 337,
-      "range": "Proverbs 3:24-6:19",
-      "first_ref": {
-        "book": "Proverbs",
-        "chapter": 3,
-        "verse": 24
-      },
-      "last_ref": {
-        "book": "Proverbs",
-        "chapter": 6,
-        "verse": 19
-      }
-    },
-    {
-      "page": 338,
-      "range": "Proverbs 6:19-9:5",
-      "first_ref": {
-        "book": "Proverbs",
-        "chapter": 6,
-        "verse": 19
-      },
-      "last_ref": {
-        "book": "Proverbs",
-        "chapter": 9,
-        "verse": 5
-      }
-    },
-    {
-      "page": 339,
-      "range": "Proverbs 9:5-11:3",
-      "first_ref": {
-        "book": "Proverbs",
-        "chapter": 9,
-        "verse": 5
-      },
-      "last_ref": {
-        "book": "Proverbs",
-        "chapter": 11,
-        "verse": 3
-      }
-    },
-    {
-      "page": 340,
-      "range": "Proverbs 11:3-14:21",
-      "first_ref": {
-        "book": "Proverbs",
-        "chapter": 11,
-        "verse": 3
-      },
-      "last_ref": {
-        "book": "Proverbs",
-        "chapter": 14,
-        "verse": 21
-      }
-    },
-    {
-      "page": 341,
-      "range": "Proverbs 14:21-16:2",
-      "first_ref": {
-        "book": "Proverbs",
-        "chapter": 14,
-        "verse": 21
-      },
-      "last_ref": {
-        "book": "Proverbs",
-        "chapter": 16,
-        "verse": 2
-      }
-    },
-    {
-      "page": 342,
-      "range": "Proverbs 16:2-19:24",
-      "first_ref": {
-        "book": "Proverbs",
-        "chapter": 16,
-        "verse": 2
-      },
-      "last_ref": {
-        "book": "Proverbs",
-        "chapter": 19,
-        "verse": 24
-      }
-    },
-    {
-      "page": 343,
-      "range": "Proverbs 19:24-22:5",
-      "first_ref": {
-        "book": "Proverbs",
-        "chapter": 19,
-        "verse": 24
-      },
-      "last_ref": {
-        "book": "Proverbs",
-        "chapter": 22,
-        "verse": 5
-      }
-    },
-    {
-      "page": 344,
-      "range": "Proverbs 22:5-24:30",
-      "first_ref": {
-        "book": "Proverbs",
-        "chapter": 22,
-        "verse": 5
-      },
-      "last_ref": {
-        "book": "Proverbs",
-        "chapter": 24,
-        "verse": 30
-      }
-    },
-    {
-      "page": 345,
-      "range": "Proverbs 24:30-27:20",
-      "first_ref": {
-        "book": "Proverbs",
-        "chapter": 24,
-        "verse": 30
-      },
-      "last_ref": {
-        "book": "Proverbs",
-        "chapter": 27,
-        "verse": 20
-      }
-    },
-    {
-      "page": 346,
-      "range": "Proverbs 27:20-30:9",
-      "first_ref": {
-        "book": "Proverbs",
-        "chapter": 27,
-        "verse": 20
-      },
-      "last_ref": {
-        "book": "Proverbs",
-        "chapter": 30,
-        "verse": 9
-      }
-    },
-    {
-      "page": 347,
-      "range": "Proverbs 30:9-31:31",
-      "first_ref": {
-        "book": "Proverbs",
-        "chapter": 30,
-        "verse": 9
-      },
-      "last_ref": {
-        "book": "Proverbs",
-        "chapter": 31,
-        "verse": 31
-      }
-    },
-    {
-      "page": 348,
-      "range": "Ecclesiastes 1:1-3:8",
-      "first_ref": {
-        "book": "Ecclesiastes",
-        "chapter": 1,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Ecclesiastes",
-        "chapter": 3,
-        "verse": 8
-      }
-    },
-    {
-      "page": 349,
-      "range": "Ecclesiastes 3:8-5:19",
-      "first_ref": {
-        "book": "Ecclesiastes",
-        "chapter": 3,
-        "verse": 8
-      },
-      "last_ref": {
-        "book": "Ecclesiastes",
-        "chapter": 5,
-        "verse": 19
-      }
-    },
-    {
-      "page": 350,
-      "range": "Ecclesiastes 6:1-8:17",
-      "first_ref": {
-        "book": "Ecclesiastes",
-        "chapter": 6,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Ecclesiastes",
-        "chapter": 8,
-        "verse": 17
-      }
-    },
-    {
-      "page": 351,
-      "range": "Ecclesiastes 8:17-11:9",
-      "first_ref": {
-        "book": "Ecclesiastes",
-        "chapter": 8,
-        "verse": 17
-      },
-      "last_ref": {
-        "book": "Ecclesiastes",
-        "chapter": 11,
-        "verse": 9
-      }
-    },
-    {
-      "page": 352,
-      "range": "Ecclesiastes 11:9 - Song of Solomon 1:17",
-      "first_ref": {
-        "book": "Ecclesiastes",
-        "chapter": 11,
-        "verse": 9
-      },
-      "last_ref": {
-        "book": "Song of Solomon",
-        "chapter": 1,
-        "verse": 17
-      }
-    },
-    {
-      "page": 353,
-      "range": "Song of Solomon 2:1-5:11",
-      "first_ref": {
-        "book": "Song of Solomon",
-        "chapter": 2,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Song of Solomon",
-        "chapter": 5,
-        "verse": 11
-      }
-    },
-    {
-      "page": 354,
-      "range": "Song of Solomon 5:11-8:14",
-      "first_ref": {
-        "book": "Song of Solomon",
-        "chapter": 5,
-        "verse": 11
-      },
-      "last_ref": {
-        "book": "Song of Solomon",
-        "chapter": 8,
+        "chapter": 139,
         "verse": 14
       }
     },
     {
-      "page": 355,
-      "range": "Isaiah 1:1-2:10",
+      "page": 333,
+      "range": "Psalms 140:1-144:19",
       "first_ref": {
-        "book": "Isaiah",
+        "book": "Psalms",
+        "chapter": 140,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 144,
+        "verse": 19
+      }
+    },
+    {
+      "page": 334,
+      "range": "Psalms 144:19-150:6",
+      "first_ref": {
+        "book": "Psalms",
+        "chapter": 144,
+        "verse": 19
+      },
+      "last_ref": {
+        "book": "Psalms",
+        "chapter": 150,
+        "verse": 6
+      }
+    },
+    {
+      "page": 335,
+      "range": "Proverbs 1:1-2:18",
+      "first_ref": {
+        "book": "Proverbs",
         "chapter": 1,
         "verse": 1
       },
       "last_ref": {
-        "book": "Isaiah",
+        "book": "Proverbs",
         "chapter": 2,
-        "verse": 10
+        "verse": 18
+      }
+    },
+    {
+      "page": 336,
+      "range": "Proverbs 2:18-5:6",
+      "first_ref": {
+        "book": "Proverbs",
+        "chapter": 2,
+        "verse": 18
+      },
+      "last_ref": {
+        "book": "Proverbs",
+        "chapter": 5,
+        "verse": 6
+      }
+    },
+    {
+      "page": 337,
+      "range": "Proverbs 5:6-7:27",
+      "first_ref": {
+        "book": "Proverbs",
+        "chapter": 5,
+        "verse": 6
+      },
+      "last_ref": {
+        "book": "Proverbs",
+        "chapter": 7,
+        "verse": 27
+      }
+    },
+    {
+      "page": 338,
+      "range": "Proverbs 8:1-10:18",
+      "first_ref": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Proverbs",
+        "chapter": 10,
+        "verse": 18
+      }
+    },
+    {
+      "page": 339,
+      "range": "Proverbs 10:18-13:6",
+      "first_ref": {
+        "book": "Proverbs",
+        "chapter": 10,
+        "verse": 18
+      },
+      "last_ref": {
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 6
+      }
+    },
+    {
+      "page": 340,
+      "range": "Proverbs 13:6-15:27",
+      "first_ref": {
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 6
+      },
+      "last_ref": {
+        "book": "Proverbs",
+        "chapter": 15,
+        "verse": 27
+      }
+    },
+    {
+      "page": 341,
+      "range": "Proverbs 15:27-18:8",
+      "first_ref": {
+        "book": "Proverbs",
+        "chapter": 15,
+        "verse": 27
+      },
+      "last_ref": {
+        "book": "Proverbs",
+        "chapter": 18,
+        "verse": 8
+      }
+    },
+    {
+      "page": 342,
+      "range": "Proverbs 18:8-21:4",
+      "first_ref": {
+        "book": "Proverbs",
+        "chapter": 18,
+        "verse": 8
+      },
+      "last_ref": {
+        "book": "Proverbs",
+        "chapter": 21,
+        "verse": 4
+      }
+    },
+    {
+      "page": 343,
+      "range": "Proverbs 21:4-23:22",
+      "first_ref": {
+        "book": "Proverbs",
+        "chapter": 21,
+        "verse": 4
+      },
+      "last_ref": {
+        "book": "Proverbs",
+        "chapter": 23,
+        "verse": 22
+      }
+    },
+    {
+      "page": 344,
+      "range": "Proverbs 23:22-26:9",
+      "first_ref": {
+        "book": "Proverbs",
+        "chapter": 23,
+        "verse": 22
+      },
+      "last_ref": {
+        "book": "Proverbs",
+        "chapter": 26,
+        "verse": 9
+      }
+    },
+    {
+      "page": 345,
+      "range": "Proverbs 26:9-28:28",
+      "first_ref": {
+        "book": "Proverbs",
+        "chapter": 26,
+        "verse": 9
+      },
+      "last_ref": {
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 28
+      }
+    },
+    {
+      "page": 346,
+      "range": "Proverbs 29:1-31:15",
+      "first_ref": {
+        "book": "Proverbs",
+        "chapter": 29,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Proverbs",
+        "chapter": 31,
+        "verse": 15
+      }
+    },
+    {
+      "page": 347,
+      "range": "Proverbs 31:15 - Ecclesiastes 2:8",
+      "first_ref": {
+        "book": "Proverbs",
+        "chapter": 31,
+        "verse": 15
+      },
+      "last_ref": {
+        "book": "Ecclesiastes",
+        "chapter": 2,
+        "verse": 8
+      }
+    },
+    {
+      "page": 348,
+      "range": "Ecclesiastes 2:8-4:12",
+      "first_ref": {
+        "book": "Ecclesiastes",
+        "chapter": 2,
+        "verse": 8
+      },
+      "last_ref": {
+        "book": "Ecclesiastes",
+        "chapter": 4,
+        "verse": 12
+      }
+    },
+    {
+      "page": 349,
+      "range": "Ecclesiastes 4:12-7:20",
+      "first_ref": {
+        "book": "Ecclesiastes",
+        "chapter": 4,
+        "verse": 12
+      },
+      "last_ref": {
+        "book": "Ecclesiastes",
+        "chapter": 7,
+        "verse": 20
+      }
+    },
+    {
+      "page": 350,
+      "range": "Ecclesiastes 7:20-9:18",
+      "first_ref": {
+        "book": "Ecclesiastes",
+        "chapter": 7,
+        "verse": 20
+      },
+      "last_ref": {
+        "book": "Ecclesiastes",
+        "chapter": 9,
+        "verse": 18
+      }
+    },
+    {
+      "page": 351,
+      "range": "Ecclesiastes 10:1-12:14",
+      "first_ref": {
+        "book": "Ecclesiastes",
+        "chapter": 10,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Ecclesiastes",
+        "chapter": 12,
+        "verse": 14
+      }
+    },
+    {
+      "page": 352,
+      "range": "Song of Solomon 1:1-3:11",
+      "first_ref": {
+        "book": "Song of Solomon",
+        "chapter": 1,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Song of Solomon",
+        "chapter": 3,
+        "verse": 11
+      }
+    },
+    {
+      "page": 353,
+      "range": "Song of Solomon 3:11-7:14",
+      "first_ref": {
+        "book": "Song of Solomon",
+        "chapter": 3,
+        "verse": 11
+      },
+      "last_ref": {
+        "book": "Song of Solomon",
+        "chapter": 7,
+        "verse": 14
+      }
+    },
+    {
+      "page": 354,
+      "range": "Song of Solomon 7:14 - Isaiah 1:15",
+      "first_ref": {
+        "book": "Song of Solomon",
+        "chapter": 7,
+        "verse": 14
+      },
+      "last_ref": {
+        "book": "Isaiah",
+        "chapter": 1,
+        "verse": 15
+      }
+    },
+    {
+      "page": 355,
+      "range": "Isaiah 1:15-3:23",
+      "first_ref": {
+        "book": "Isaiah",
+        "chapter": 1,
+        "verse": 15
+      },
+      "last_ref": {
+        "book": "Isaiah",
+        "chapter": 3,
+        "verse": 23
       }
     },
     {
       "page": 356,
-      "range": "Isaiah 2:10-5:13",
+      "range": "Isaiah 3:23-6:13",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 2,
-        "verse": 10
+        "chapter": 3,
+        "verse": 23
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 5,
+        "chapter": 6,
         "verse": 13
       }
     },
     {
       "page": 357,
-      "range": "Isaiah 5:13-7:23",
+      "range": "Isaiah 6:13-8:23",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 5,
+        "chapter": 6,
         "verse": 13
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 7,
+        "chapter": 8,
         "verse": 23
       }
     },
     {
       "page": 358,
-      "range": "Isaiah 7:23-9:17",
+      "range": "Isaiah 8:23-10:23",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 7,
+        "chapter": 8,
         "verse": 23
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 9,
-        "verse": 17
+        "chapter": 10,
+        "verse": 23
       }
     },
     {
       "page": 359,
-      "range": "Isaiah 9:17-11:15",
+      "range": "Isaiah 10:23-13:22",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 9,
-        "verse": 17
+        "chapter": 10,
+        "verse": 23
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 11,
-        "verse": 15
+        "chapter": 13,
+        "verse": 22
       }
     },
     {
       "page": 360,
-      "range": "Isaiah 11:15-14:23",
+      "range": "Isaiah 14:1-16:12",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 11,
-        "verse": 15
+        "chapter": 14,
+        "verse": 1
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 14,
-        "verse": 23
+        "chapter": 16,
+        "verse": 12
       }
     },
     {
       "page": 361,
-      "range": "Isaiah 14:23-17:14",
+      "range": "Isaiah 16:12-19:25",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 14,
-        "verse": 23
+        "chapter": 16,
+        "verse": 12
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 17,
-        "verse": 14
+        "chapter": 19,
+        "verse": 25
       }
     },
     {
       "page": 362,
-      "range": "Isaiah 18:1-21:10",
+      "range": "Isaiah 20:1-23:5",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 18,
+        "chapter": 20,
         "verse": 1
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 21,
-        "verse": 10
+        "chapter": 23,
+        "verse": 5
       }
     },
     {
       "page": 363,
-      "range": "Isaiah 21:10-24:6",
+      "range": "Isaiah 23:5-26:11",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 21,
-        "verse": 10
+        "chapter": 23,
+        "verse": 5
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 24,
-        "verse": 6
+        "chapter": 26,
+        "verse": 11
       }
     },
     {
       "page": 364,
-      "range": "Isaiah 24:6-27:11",
+      "range": "Isaiah 26:11-28:29",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 24,
-        "verse": 6
-      },
-      "last_ref": {
-        "book": "Isaiah",
-        "chapter": 27,
-        "verse": 11
-      }
-    },
-    {
-      "page": 365,
-      "range": "Isaiah 27:11-29:20",
-      "first_ref": {
-        "book": "Isaiah",
-        "chapter": 27,
+        "chapter": 26,
         "verse": 11
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 29,
-        "verse": 20
-      }
-    },
-    {
-      "page": 366,
-      "range": "Isaiah 29:20-32:5",
-      "first_ref": {
-        "book": "Isaiah",
-        "chapter": 29,
-        "verse": 20
-      },
-      "last_ref": {
-        "book": "Isaiah",
-        "chapter": 32,
-        "verse": 5
-      }
-    },
-    {
-      "page": 367,
-      "range": "Isaiah 32:5-34:17",
-      "first_ref": {
-        "book": "Isaiah",
-        "chapter": 32,
-        "verse": 5
-      },
-      "last_ref": {
-        "book": "Isaiah",
-        "chapter": 34,
-        "verse": 17
-      }
-    },
-    {
-      "page": 368,
-      "range": "Isaiah 35:1-37:20",
-      "first_ref": {
-        "book": "Isaiah",
-        "chapter": 35,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Isaiah",
-        "chapter": 37,
-        "verse": 20
-      }
-    },
-    {
-      "page": 369,
-      "range": "Isaiah 37:20-40:3",
-      "first_ref": {
-        "book": "Isaiah",
-        "chapter": 37,
-        "verse": 20
-      },
-      "last_ref": {
-        "book": "Isaiah",
-        "chapter": 40,
-        "verse": 3
-      }
-    },
-    {
-      "page": 370,
-      "range": "Isaiah 40:3-41:29",
-      "first_ref": {
-        "book": "Isaiah",
-        "chapter": 40,
-        "verse": 3
-      },
-      "last_ref": {
-        "book": "Isaiah",
-        "chapter": 41,
+        "chapter": 28,
         "verse": 29
       }
     },
     {
-      "page": 371,
-      "range": "Isaiah 42:1-43:28",
+      "page": 365,
+      "range": "Isaiah 29:1-30:28",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 42,
+        "chapter": 29,
         "verse": 1
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 43,
+        "chapter": 30,
         "verse": 28
+      }
+    },
+    {
+      "page": 366,
+      "range": "Isaiah 30:28-33:22",
+      "first_ref": {
+        "book": "Isaiah",
+        "chapter": 30,
+        "verse": 28
+      },
+      "last_ref": {
+        "book": "Isaiah",
+        "chapter": 33,
+        "verse": 22
+      }
+    },
+    {
+      "page": 367,
+      "range": "Isaiah 33:22-36:22",
+      "first_ref": {
+        "book": "Isaiah",
+        "chapter": 33,
+        "verse": 22
+      },
+      "last_ref": {
+        "book": "Isaiah",
+        "chapter": 36,
+        "verse": 22
+      }
+    },
+    {
+      "page": 368,
+      "range": "Isaiah 37:1-38:15",
+      "first_ref": {
+        "book": "Isaiah",
+        "chapter": 37,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Isaiah",
+        "chapter": 38,
+        "verse": 15
+      }
+    },
+    {
+      "page": 369,
+      "range": "Isaiah 38:15-41:9",
+      "first_ref": {
+        "book": "Isaiah",
+        "chapter": 38,
+        "verse": 15
+      },
+      "last_ref": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 9
+      }
+    },
+    {
+      "page": 370,
+      "range": "Isaiah 41:9-43:9",
+      "first_ref": {
+        "book": "Isaiah",
+        "chapter": 41,
+        "verse": 9
+      },
+      "last_ref": {
+        "book": "Isaiah",
+        "chapter": 43,
+        "verse": 9
+      }
+    },
+    {
+      "page": 371,
+      "range": "Isaiah 43:9-45:6",
+      "first_ref": {
+        "book": "Isaiah",
+        "chapter": 43,
+        "verse": 9
+      },
+      "last_ref": {
+        "book": "Isaiah",
+        "chapter": 45,
+        "verse": 6
       }
     },
     {
       "page": 372,
-      "range": "Isaiah 44:1-45:25",
+      "range": "Isaiah 45:6-48:3",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 44,
-        "verse": 1
+        "chapter": 45,
+        "verse": 6
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 45,
-        "verse": 25
+        "chapter": 48,
+        "verse": 3
       }
     },
     {
       "page": 373,
-      "range": "Isaiah 46:1-48:22",
+      "range": "Isaiah 48:3-50:7",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 46,
-        "verse": 1
+        "chapter": 48,
+        "verse": 3
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 48,
-        "verse": 22
+        "chapter": 50,
+        "verse": 7
       }
     },
     {
       "page": 374,
-      "range": "Isaiah 49:1-51:11",
+      "range": "Isaiah 50:7-53:3",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 49,
-        "verse": 1
+        "chapter": 50,
+        "verse": 7
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 51,
-        "verse": 11
+        "chapter": 53,
+        "verse": 3
       }
     },
     {
       "page": 375,
-      "range": "Isaiah 51:11-54:4",
+      "range": "Isaiah 53:3-56:5",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 51,
-        "verse": 11
+        "chapter": 53,
+        "verse": 3
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 54,
-        "verse": 4
+        "chapter": 56,
+        "verse": 5
       }
     },
     {
       "page": 376,
-      "range": "Isaiah 54:4-57:9",
+      "range": "Isaiah 56:5-58:14",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 54,
-        "verse": 4
+        "chapter": 56,
+        "verse": 5
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 57,
-        "verse": 9
+        "chapter": 58,
+        "verse": 14
       }
     },
     {
       "page": 377,
-      "range": "Isaiah 57:9-59:20",
+      "range": "Isaiah 59:1-61:7",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 57,
-        "verse": 9
+        "chapter": 59,
+        "verse": 1
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 59,
-        "verse": 20
+        "chapter": 61,
+        "verse": 7
       }
     },
     {
       "page": 378,
-      "range": "Isaiah 59:20-62:12",
+      "range": "Isaiah 61:7-64:8",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 59,
-        "verse": 20
+        "chapter": 61,
+        "verse": 7
       },
       "last_ref": {
         "book": "Isaiah",
-        "chapter": 62,
-        "verse": 12
+        "chapter": 64,
+        "verse": 8
       }
     },
     {
       "page": 379,
-      "range": "Isaiah 63:1-65:16",
+      "range": "Isaiah 64:8-66:19",
       "first_ref": {
         "book": "Isaiah",
-        "chapter": 63,
-        "verse": 1
-      },
-      "last_ref": {
-        "book": "Isaiah",
-        "chapter": 65,
-        "verse": 16
-      }
-    },
-    {
-      "page": 380,
-      "range": "Isaiah 65:16-66:24",
-      "first_ref": {
-        "book": "Isaiah",
-        "chapter": 65,
-        "verse": 16
+        "chapter": 64,
+        "verse": 8
       },
       "last_ref": {
         "book": "Isaiah",
         "chapter": 66,
-        "verse": 24
+        "verse": 19
+      }
+    },
+    {
+      "page": 380,
+      "range": "Isaiah 66:19 - Jeremiah 2:4",
+      "first_ref": {
+        "book": "Isaiah",
+        "chapter": 66,
+        "verse": 19
+      },
+      "last_ref": {
+        "book": "Jeremiah",
+        "chapter": 2,
+        "verse": 4
       }
     },
     {
       "page": 381,
-      "range": "Jeremiah 1:1-2:22",
+      "range": "Jeremiah 2:4-3:8",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 1,
-        "verse": 1
+        "chapter": 2,
+        "verse": 4
       },
       "last_ref": {
         "book": "Jeremiah",
-        "chapter": 2,
-        "verse": 22
+        "chapter": 3,
+        "verse": 8
       }
     },
     {
       "page": 382,
-      "range": "Jeremiah 2:22-3:19",
+      "range": "Jeremiah 3:8-4:15",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 2,
-        "verse": 22
+        "chapter": 3,
+        "verse": 8
       },
       "last_ref": {
         "book": "Jeremiah",
-        "chapter": 3,
-        "verse": 19
+        "chapter": 4,
+        "verse": 15
       }
     },
     {
       "page": 383,
-      "range": "Jeremiah 3:19-4:28",
-      "first_ref": {
-        "book": "Jeremiah",
-        "chapter": 3,
-        "verse": 19
-      },
-      "last_ref": {
-        "book": "Jeremiah",
-        "chapter": 4,
-        "verse": 28
-      }
-    },
-    {
-      "page": 384,
-      "range": "Jeremiah 4:28-5:31",
+      "range": "Jeremiah 4:15-5:17",
       "first_ref": {
         "book": "Jeremiah",
         "chapter": 4,
-        "verse": 28
+        "verse": 15
       },
       "last_ref": {
         "book": "Jeremiah",
         "chapter": 5,
-        "verse": 31
+        "verse": 17
+      }
+    },
+    {
+      "page": 384,
+      "range": "Jeremiah 5:17-6:23",
+      "first_ref": {
+        "book": "Jeremiah",
+        "chapter": 5,
+        "verse": 17
+      },
+      "last_ref": {
+        "book": "Jeremiah",
+        "chapter": 6,
+        "verse": 23
       }
     },
     {
       "page": 385,
-      "range": "Jeremiah 6:1-7:9",
+      "range": "Jeremiah 6:23-7:34",
       "first_ref": {
         "book": "Jeremiah",
         "chapter": 6,
-        "verse": 1
+        "verse": 23
       },
       "last_ref": {
         "book": "Jeremiah",
         "chapter": 7,
-        "verse": 9
+        "verse": 34
       }
     },
     {
       "page": 386,
-      "range": "Jeremiah 7:9-8:10",
-      "first_ref": {
-        "book": "Jeremiah",
-        "chapter": 7,
-        "verse": 9
-      },
-      "last_ref": {
-        "book": "Jeremiah",
-        "chapter": 8,
-        "verse": 10
-      }
-    },
-    {
-      "page": 387,
-      "range": "Jeremiah 8:10-9:25",
+      "range": "Jeremiah 8:1-9:15",
       "first_ref": {
         "book": "Jeremiah",
         "chapter": 8,
-        "verse": 10
+        "verse": 1
       },
       "last_ref": {
         "book": "Jeremiah",
         "chapter": 9,
-        "verse": 25
+        "verse": 15
+      }
+    },
+    {
+      "page": 387,
+      "range": "Jeremiah 9:15-11:6",
+      "first_ref": {
+        "book": "Jeremiah",
+        "chapter": 9,
+        "verse": 15
+      },
+      "last_ref": {
+        "book": "Jeremiah",
+        "chapter": 11,
+        "verse": 6
       }
     },
     {
       "page": 388,
-      "range": "Jeremiah 10:1-11:6",
+      "range": "Jeremiah 11:6-13:11",
       "first_ref": {
-        "book": "Jeremiah",
-        "chapter": 10,
-        "verse": 1
-      },
-      "last_ref": {
         "book": "Jeremiah",
         "chapter": 11,
         "verse": 6
+      },
+      "last_ref": {
+        "book": "Jeremiah",
+        "chapter": 13,
+        "verse": 11
       }
     },
     {
       "page": 389,
-      "range": "Jeremiah 11:6-13:18",
+      "range": "Jeremiah 13:11-14:22",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 11,
-        "verse": 6
+        "chapter": 13,
+        "verse": 11
       },
       "last_ref": {
         "book": "Jeremiah",
-        "chapter": 13,
-        "verse": 18
+        "chapter": 14,
+        "verse": 22
       }
     },
     {
       "page": 390,
-      "range": "Jeremiah 13:18-15:6",
+      "range": "Jeremiah 14:22-16:13",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 13,
-        "verse": 18
-      },
-      "last_ref": {
-        "book": "Jeremiah",
-        "chapter": 15,
-        "verse": 6
-      }
-    },
-    {
-      "page": 391,
-      "range": "Jeremiah 15:6-16:21",
-      "first_ref": {
-        "book": "Jeremiah",
-        "chapter": 15,
-        "verse": 6
+        "chapter": 14,
+        "verse": 22
       },
       "last_ref": {
         "book": "Jeremiah",
         "chapter": 16,
-        "verse": 21
+        "verse": 13
+      }
+    },
+    {
+      "page": 391,
+      "range": "Jeremiah 16:13-18:7",
+      "first_ref": {
+        "book": "Jeremiah",
+        "chapter": 16,
+        "verse": 13
+      },
+      "last_ref": {
+        "book": "Jeremiah",
+        "chapter": 18,
+        "verse": 7
       }
     },
     {
       "page": 392,
-      "range": "Jeremiah 17:5-18:16",
+      "range": "Jeremiah 18:7-20:6",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 17,
-        "verse": 5
+        "chapter": 18,
+        "verse": 7
       },
       "last_ref": {
         "book": "Jeremiah",
-        "chapter": 18,
-        "verse": 16
+        "chapter": 20,
+        "verse": 6
       }
     },
     {
       "page": 393,
-      "range": "Jeremiah 18:16-20:13",
+      "range": "Jeremiah 20:6-22:7",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 18,
-        "verse": 16
+        "chapter": 20,
+        "verse": 6
       },
       "last_ref": {
         "book": "Jeremiah",
-        "chapter": 20,
-        "verse": 13
+        "chapter": 22,
+        "verse": 7
       }
     },
     {
       "page": 394,
-      "range": "Jeremiah 20:13-22:15",
+      "range": "Jeremiah 22:7-23:10",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 20,
-        "verse": 13
+        "chapter": 22,
+        "verse": 7
       },
       "last_ref": {
         "book": "Jeremiah",
-        "chapter": 22,
-        "verse": 15
+        "chapter": 23,
+        "verse": 10
       }
     },
     {
       "page": 395,
-      "range": "Jeremiah 22:15-23:18",
+      "range": "Jeremiah 23:10-24:8",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 22,
-        "verse": 15
+        "chapter": 23,
+        "verse": 10
       },
       "last_ref": {
         "book": "Jeremiah",
-        "chapter": 23,
-        "verse": 18
+        "chapter": 24,
+        "verse": 8
       }
     },
     {
       "page": 396,
-      "range": "Jeremiah 23:18-25:5",
+      "range": "Jeremiah 24:8-26:19",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 23,
-        "verse": 18
-      },
-      "last_ref": {
-        "book": "Jeremiah",
-        "chapter": 25,
-        "verse": 5
-      }
-    },
-    {
-      "page": 397,
-      "range": "Jeremiah 25:5-26:25",
-      "first_ref": {
-        "book": "Jeremiah",
-        "chapter": 25,
-        "verse": 5
+        "chapter": 24,
+        "verse": 8
       },
       "last_ref": {
         "book": "Jeremiah",
         "chapter": 26,
-        "verse": 25
+        "verse": 19
+      }
+    },
+    {
+      "page": 397,
+      "range": "Jeremiah 26:19-27:40",
+      "first_ref": {
+        "book": "Jeremiah",
+        "chapter": 26,
+        "verse": 19
+      },
+      "last_ref": {
+        "book": "Jeremiah",
+        "chapter": 27,
+        "verse": 40
       }
     },
     {
       "page": 398,
-      "range": "Jeremiah 27:1-46",
+      "range": "Jeremiah 27:40-28:43",
       "first_ref": {
         "book": "Jeremiah",
         "chapter": 27,
-        "verse": 1
+        "verse": 40
       },
       "last_ref": {
         "book": "Jeremiah",
-        "chapter": 27,
-        "verse": 46
+        "chapter": 28,
+        "verse": 43
       }
     },
     {
       "page": 399,
-      "range": "Jeremiah 28:1-44",
+      "range": "Jeremiah 28:43-30:20",
       "first_ref": {
         "book": "Jeremiah",
         "chapter": 28,
-        "verse": 1
+        "verse": 43
       },
       "last_ref": {
         "book": "Jeremiah",
-        "chapter": 28,
-        "verse": 44
+        "chapter": 30,
+        "verse": 20
       }
     },
     {
       "page": 400,
-      "range": "Jeremiah 28:44-30:21",
+      "range": "Jeremiah 30:20-31:41",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 28,
-        "verse": 44
+        "chapter": 30,
+        "verse": 20
       },
       "last_ref": {
         "book": "Jeremiah",
-        "chapter": 30,
-        "verse": 21
+        "chapter": 31,
+        "verse": 41
       }
     },
     {
       "page": 401,
-      "range": "Jeremiah 30:21-32:13",
+      "range": "Jeremiah 31:41-33:18",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 30,
-        "verse": 21
-      },
-      "last_ref": {
-        "book": "Jeremiah",
-        "chapter": 32,
-        "verse": 13
-      }
-    },
-    {
-      "page": 402,
-      "range": "Jeremiah 32:13-33:24",
-      "first_ref": {
-        "book": "Jeremiah",
-        "chapter": 32,
-        "verse": 13
+        "chapter": 31,
+        "verse": 41
       },
       "last_ref": {
         "book": "Jeremiah",
         "chapter": 33,
-        "verse": 24
+        "verse": 18
+      }
+    },
+    {
+      "page": 402,
+      "range": "Jeremiah 33:18-36:5",
+      "first_ref": {
+        "book": "Jeremiah",
+        "chapter": 33,
+        "verse": 18
+      },
+      "last_ref": {
+        "book": "Jeremiah",
+        "chapter": 36,
+        "verse": 5
       }
     },
     {
       "page": 403,
-      "range": "Jeremiah 34:2-36:10",
+      "range": "Jeremiah 36:5-38:3",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 34,
-        "verse": 2
+        "chapter": 36,
+        "verse": 5
       },
       "last_ref": {
         "book": "Jeremiah",
-        "chapter": 36,
-        "verse": 10
+        "chapter": 38,
+        "verse": 3
       }
     },
     {
       "page": 404,
-      "range": "Jeremiah 36:10-38:10",
+      "range": "Jeremiah 38:3-39:9",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 36,
-        "verse": 10
+        "chapter": 38,
+        "verse": 3
       },
       "last_ref": {
         "book": "Jeremiah",
-        "chapter": 38,
-        "verse": 10
+        "chapter": 39,
+        "verse": 9
       }
     },
     {
       "page": 405,
-      "range": "Jeremiah 38:10-39:17",
-      "first_ref": {
-        "book": "Jeremiah",
-        "chapter": 38,
-        "verse": 10
-      },
-      "last_ref": {
-        "book": "Jeremiah",
-        "chapter": 39,
-        "verse": 17
-      }
-    },
-    {
-      "page": 406,
-      "range": "Jeremiah 39:17-40:26",
+      "range": "Jeremiah 39:9-40:16",
       "first_ref": {
         "book": "Jeremiah",
         "chapter": 39,
-        "verse": 17
+        "verse": 9
       },
       "last_ref": {
         "book": "Jeremiah",
         "chapter": 40,
-        "verse": 26
+        "verse": 16
+      }
+    },
+    {
+      "page": 406,
+      "range": "Jeremiah 40:16-42:19",
+      "first_ref": {
+        "book": "Jeremiah",
+        "chapter": 40,
+        "verse": 16
+      },
+      "last_ref": {
+        "book": "Jeremiah",
+        "chapter": 42,
+        "verse": 19
       }
     },
     {
       "page": 407,
-      "range": "Jeremiah 41:1-43:10",
+      "range": "Jeremiah 43:1-44:21",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 41,
+        "chapter": 43,
         "verse": 1
       },
       "last_ref": {
         "book": "Jeremiah",
-        "chapter": 43,
-        "verse": 10
+        "chapter": 44,
+        "verse": 21
       }
     },
     {
       "page": 408,
-      "range": "Jeremiah 43:10-45:7",
+      "range": "Jeremiah 44:21-47:13",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 43,
-        "verse": 10
+        "chapter": 44,
+        "verse": 21
       },
       "last_ref": {
         "book": "Jeremiah",
-        "chapter": 45,
-        "verse": 7
-      }
-    },
-    {
-      "page": 409,
-      "range": "Jeremiah 45:7-48:5",
-      "first_ref": {
-        "book": "Jeremiah",
-        "chapter": 45,
-        "verse": 7
-      },
-      "last_ref": {
-        "book": "Jeremiah",
-        "chapter": 48,
-        "verse": 5
-      }
-    },
-    {
-      "page": 410,
-      "range": "Jeremiah 48:5-50:13",
-      "first_ref": {
-        "book": "Jeremiah",
-        "chapter": 48,
-        "verse": 5
-      },
-      "last_ref": {
-        "book": "Jeremiah",
-        "chapter": 50,
+        "chapter": 47,
         "verse": 13
       }
     },
     {
-      "page": 411,
-      "range": "Jeremiah 51:1-52:1",
+      "page": 409,
+      "range": "Jeremiah 47:13-50:9",
       "first_ref": {
         "book": "Jeremiah",
-        "chapter": 51,
-        "verse": 1
+        "chapter": 47,
+        "verse": 13
+      },
+      "last_ref": {
+        "book": "Jeremiah",
+        "chapter": 50,
+        "verse": 9
+      }
+    },
+    {
+      "page": 410,
+      "range": "Jeremiah 50:9-52:1",
+      "first_ref": {
+        "book": "Jeremiah",
+        "chapter": 50,
+        "verse": 9
       },
       "last_ref": {
         "book": "Jeremiah",
         "chapter": 52,
         "verse": 1
+      }
+    },
+    {
+      "page": 411,
+      "range": "Jeremiah 52:1 - Lamentations 1:7",
+      "first_ref": {
+        "book": "Jeremiah",
+        "chapter": 52,
+        "verse": 1
+      },
+      "last_ref": {
+        "book": "Lamentations",
+        "chapter": 1,
+        "verse": 7
       }
     },
     {
       "page": 412,
-      "range": "Jeremiah 52:1 - Lamentations 1:12",
+      "range": "Lamentations 1:7-3:15",
       "first_ref": {
-        "book": "Jeremiah",
-        "chapter": 52,
-        "verse": 1
+        "book": "Lamentations",
+        "chapter": 1,
+        "verse": 7
       },
       "last_ref": {
         "book": "Lamentations",
-        "chapter": 1,
-        "verse": 12
+        "chapter": 3,
+        "verse": 15
       }
     },
     {
       "page": 413,
-      "range": "Lamentations 1:12-3:18",
-      "first_ref": {
-        "book": "Lamentations",
-        "chapter": 1,
-        "verse": 12
-      },
-      "last_ref": {
-        "book": "Lamentations",
-        "chapter": 3,
-        "verse": 18
-      }
-    },
-    {
-      "page": 414,
-      "range": "Lamentations 3:18-4:22",
+      "range": "Lamentations 3:15-4:22",
       "first_ref": {
         "book": "Lamentations",
         "chapter": 3,
-        "verse": 18
+        "verse": 15
       },
       "last_ref": {
         "book": "Lamentations",
@@ -5795,7 +5781,7 @@
       }
     },
     {
-      "page": 415,
+      "page": 414,
       "range": "Lamentations 5:1 - Ezekiel 1:13",
       "first_ref": {
         "book": "Lamentations",
@@ -5809,7 +5795,7 @@
       }
     },
     {
-      "page": 416,
+      "page": 415,
       "range": "Ezekiel 1:13-3:27",
       "first_ref": {
         "book": "Ezekiel",
@@ -5823,7 +5809,7 @@
       }
     },
     {
-      "page": 417,
+      "page": 416,
       "range": "Ezekiel 4:1-6:14",
       "first_ref": {
         "book": "Ezekiel",
@@ -5837,7 +5823,7 @@
       }
     },
     {
-      "page": 418,
+      "page": 417,
       "range": "Ezekiel 6:14-9:8",
       "first_ref": {
         "book": "Ezekiel",
@@ -5851,7 +5837,7 @@
       }
     },
     {
-      "page": 419,
+      "page": 418,
       "range": "Ezekiel 9:8-11:25",
       "first_ref": {
         "book": "Ezekiel",
@@ -5865,7 +5851,7 @@
       }
     },
     {
-      "page": 420,
+      "page": 419,
       "range": "Ezekiel 12:1-14:4",
       "first_ref": {
         "book": "Ezekiel",
@@ -5879,7 +5865,7 @@
       }
     },
     {
-      "page": 421,
+      "page": 420,
       "range": "Ezekiel 14:4-16:27",
       "first_ref": {
         "book": "Ezekiel",
@@ -5893,7 +5879,7 @@
       }
     },
     {
-      "page": 422,
+      "page": 421,
       "range": "Ezekiel 16:27-17:18",
       "first_ref": {
         "book": "Ezekiel",
@@ -5907,7 +5893,7 @@
       }
     },
     {
-      "page": 423,
+      "page": 422,
       "range": "Ezekiel 17:18-19:14",
       "first_ref": {
         "book": "Ezekiel",
@@ -5921,7 +5907,7 @@
       }
     },
     {
-      "page": 424,
+      "page": 423,
       "range": "Ezekiel 20:1-21:4",
       "first_ref": {
         "book": "Ezekiel",
@@ -5935,7 +5921,7 @@
       }
     },
     {
-      "page": 425,
+      "page": 424,
       "range": "Ezekiel 21:4-22:27",
       "first_ref": {
         "book": "Ezekiel",
@@ -5949,7 +5935,7 @@
       }
     },
     {
-      "page": 426,
+      "page": 425,
       "range": "Ezekiel 22:27-24:3",
       "first_ref": {
         "book": "Ezekiel",
@@ -5963,7 +5949,7 @@
       }
     },
     {
-      "page": 427,
+      "page": 426,
       "range": "Ezekiel 24:3-26:9",
       "first_ref": {
         "book": "Ezekiel",
@@ -5977,7 +5963,7 @@
       }
     },
     {
-      "page": 428,
+      "page": 427,
       "range": "Ezekiel 26:9-28:10",
       "first_ref": {
         "book": "Ezekiel",
@@ -5991,7 +5977,7 @@
       }
     },
     {
-      "page": 429,
+      "page": 428,
       "range": "Ezekiel 28:10-30:11",
       "first_ref": {
         "book": "Ezekiel",
@@ -6005,7 +5991,7 @@
       }
     },
     {
-      "page": 430,
+      "page": 429,
       "range": "Ezekiel 30:11-32:18",
       "first_ref": {
         "book": "Ezekiel",
@@ -6019,7 +6005,7 @@
       }
     },
     {
-      "page": 431,
+      "page": 430,
       "range": "Ezekiel 32:18-34:6",
       "first_ref": {
         "book": "Ezekiel",
@@ -6033,7 +6019,7 @@
       }
     },
     {
-      "page": 432,
+      "page": 431,
       "range": "Ezekiel 34:6-36:15",
       "first_ref": {
         "book": "Ezekiel",
@@ -6047,7 +6033,7 @@
       }
     },
     {
-      "page": 433,
+      "page": 432,
       "range": "Ezekiel 36:15-38:5",
       "first_ref": {
         "book": "Ezekiel",
@@ -6061,7 +6047,7 @@
       }
     },
     {
-      "page": 434,
+      "page": 433,
       "range": "Ezekiel 38:5-40:4",
       "first_ref": {
         "book": "Ezekiel",
@@ -6075,7 +6061,7 @@
       }
     },
     {
-      "page": 435,
+      "page": 434,
       "range": "Ezekiel 40:4-41:3",
       "first_ref": {
         "book": "Ezekiel",
@@ -6089,7 +6075,7 @@
       }
     },
     {
-      "page": 436,
+      "page": 435,
       "range": "Ezekiel 41:3-43:7",
       "first_ref": {
         "book": "Ezekiel",
@@ -6103,7 +6089,7 @@
       }
     },
     {
-      "page": 437,
+      "page": 436,
       "range": "Ezekiel 43:7-44:29",
       "first_ref": {
         "book": "Ezekiel",
@@ -6117,7 +6103,7 @@
       }
     },
     {
-      "page": 438,
+      "page": 437,
       "range": "Ezekiel 44:29-46:18",
       "first_ref": {
         "book": "Ezekiel",
@@ -6131,7 +6117,7 @@
       }
     },
     {
-      "page": 439,
+      "page": 438,
       "range": "Ezekiel 46:18-48:16",
       "first_ref": {
         "book": "Ezekiel",
@@ -6145,7 +6131,7 @@
       }
     },
     {
-      "page": 440,
+      "page": 439,
       "range": "Ezekiel 48:16 - Daniel 1:6",
       "first_ref": {
         "book": "Ezekiel",
@@ -6159,7 +6145,7 @@
       }
     },
     {
-      "page": 441,
+      "page": 440,
       "range": "Daniel 1:6-2:35",
       "first_ref": {
         "book": "Daniel",
@@ -6173,7 +6159,7 @@
       }
     },
     {
-      "page": 442,
+      "page": 441,
       "range": "Daniel 2:35-3:30",
       "first_ref": {
         "book": "Daniel",
@@ -6187,7 +6173,7 @@
       }
     },
     {
-      "page": 443,
+      "page": 442,
       "range": "Daniel 4:4-5",
       "first_ref": {
         "book": "Daniel",
@@ -6201,7 +6187,7 @@
       }
     },
     {
-      "page": 444,
+      "page": 443,
       "range": "Daniel 5:0-6:21",
       "first_ref": {
         "book": "Daniel",
@@ -6215,7 +6201,7 @@
       }
     },
     {
-      "page": 445,
+      "page": 444,
       "range": "Daniel 6:21-8:7",
       "first_ref": {
         "book": "Daniel",
@@ -6229,7 +6215,7 @@
       }
     },
     {
-      "page": 446,
+      "page": 445,
       "range": "Daniel 8:7-9:27",
       "first_ref": {
         "book": "Daniel",
@@ -6243,7 +6229,7 @@
       }
     },
     {
-      "page": 447,
+      "page": 446,
       "range": "Daniel 9:27-11:30",
       "first_ref": {
         "book": "Daniel",
@@ -6257,7 +6243,7 @@
       }
     },
     {
-      "page": 448,
+      "page": 447,
       "range": "Daniel 11:30-12:13",
       "first_ref": {
         "book": "Daniel",
@@ -6271,7 +6257,7 @@
       }
     },
     {
-      "page": 449,
+      "page": 448,
       "range": "Hosea 1:1-4:6",
       "first_ref": {
         "book": "Hosea",
@@ -6285,7 +6271,7 @@
       }
     },
     {
-      "page": 450,
+      "page": 449,
       "range": "Hosea 4:6-7:16",
       "first_ref": {
         "book": "Hosea",
@@ -6299,7 +6285,7 @@
       }
     },
     {
-      "page": 451,
+      "page": 450,
       "range": "Hosea 8:1-11:7",
       "first_ref": {
         "book": "Hosea",
@@ -6313,7 +6299,7 @@
       }
     },
     {
-      "page": 452,
+      "page": 451,
       "range": "Hosea 11:7-14:10",
       "first_ref": {
         "book": "Hosea",
@@ -6327,7 +6313,7 @@
       }
     },
     {
-      "page": 453,
+      "page": 452,
       "range": "Joel 1:1-2:11",
       "first_ref": {
         "book": "Joel",
@@ -6341,7 +6327,7 @@
       }
     },
     {
-      "page": 454,
+      "page": 453,
       "range": "Joel 2:11-4:21",
       "first_ref": {
         "book": "Joel",
@@ -6355,7 +6341,7 @@
       }
     },
     {
-      "page": 455,
+      "page": 454,
       "range": "Amos 1:1-3:6",
       "first_ref": {
         "book": "Amos",
@@ -6369,7 +6355,7 @@
       }
     },
     {
-      "page": 456,
+      "page": 455,
       "range": "Amos 3:6-5:27",
       "first_ref": {
         "book": "Amos",
@@ -6383,7 +6369,7 @@
       }
     },
     {
-      "page": 457,
+      "page": 456,
       "range": "Amos 5:27-8:14",
       "first_ref": {
         "book": "Amos",
@@ -6397,7 +6383,7 @@
       }
     },
     {
-      "page": 458,
+      "page": 457,
       "range": "Amos 9:1 - Obadiah 1:11",
       "first_ref": {
         "book": "Amos",
@@ -6411,7 +6397,7 @@
       }
     },
     {
-      "page": 459,
+      "page": 458,
       "range": "Obadiah 1:11 - Jonah 1:15",
       "first_ref": {
         "book": "Obadiah",
@@ -6425,7 +6411,7 @@
       }
     },
     {
-      "page": 460,
+      "page": 459,
       "range": "Jonah 1:15-4:11",
       "first_ref": {
         "book": "Jonah",
@@ -6439,7 +6425,7 @@
       }
     },
     {
-      "page": 461,
+      "page": 460,
       "range": "Micah 1:1-3:12",
       "first_ref": {
         "book": "Micah",
@@ -6453,7 +6439,7 @@
       }
     },
     {
-      "page": 462,
+      "page": 461,
       "range": "Micah 3:12-6:13",
       "first_ref": {
         "book": "Micah",
@@ -6467,7 +6453,7 @@
       }
     },
     {
-      "page": 463,
+      "page": 462,
       "range": "Micah 6:13-7:20",
       "first_ref": {
         "book": "Micah",
@@ -6481,7 +6467,7 @@
       }
     },
     {
-      "page": 464,
+      "page": 463,
       "range": "Nahum 1:1-3:19",
       "first_ref": {
         "book": "Nahum",
@@ -6495,7 +6481,7 @@
       }
     },
     {
-      "page": 465,
+      "page": 464,
       "range": "Habakkuk 1:1-2:10",
       "first_ref": {
         "book": "Habakkuk",
@@ -6509,7 +6495,7 @@
       }
     },
     {
-      "page": 466,
+      "page": 465,
       "range": "Habakkuk 2:10-3:19",
       "first_ref": {
         "book": "Habakkuk",
@@ -6523,7 +6509,7 @@
       }
     },
     {
-      "page": 467,
+      "page": 466,
       "range": "Zephaniah 1:1-3:5",
       "first_ref": {
         "book": "Zephaniah",
@@ -6537,7 +6523,7 @@
       }
     },
     {
-      "page": 468,
+      "page": 467,
       "range": "Zephaniah 3:5 - Haggai 1:11",
       "first_ref": {
         "book": "Zephaniah",
@@ -6551,7 +6537,7 @@
       }
     },
     {
-      "page": 469,
+      "page": 468,
       "range": "Haggai 1:11-2:23",
       "first_ref": {
         "book": "Haggai",
@@ -6565,7 +6551,7 @@
       }
     },
     {
-      "page": 470,
+      "page": 469,
       "range": "Zechariah 1:1-3:9",
       "first_ref": {
         "book": "Zechariah",
@@ -6579,7 +6565,7 @@
       }
     },
     {
-      "page": 471,
+      "page": 470,
       "range": "Zechariah 3:9-6:15",
       "first_ref": {
         "book": "Zechariah",
@@ -6593,7 +6579,7 @@
       }
     },
     {
-      "page": 472,
+      "page": 471,
       "range": "Zechariah 7:1-9:7",
       "first_ref": {
         "book": "Zechariah",
@@ -6607,7 +6593,7 @@
       }
     },
     {
-      "page": 473,
+      "page": 472,
       "range": "Zechariah 9:7-11:13",
       "first_ref": {
         "book": "Zechariah",
@@ -6621,7 +6607,7 @@
       }
     },
     {
-      "page": 474,
+      "page": 473,
       "range": "Zechariah 11:13-14:4",
       "first_ref": {
         "book": "Zechariah",
@@ -6635,7 +6621,7 @@
       }
     },
     {
-      "page": 475,
+      "page": 474,
       "range": "Zechariah 14:4-21",
       "first_ref": {
         "book": "Zechariah",
@@ -6649,7 +6635,7 @@
       }
     },
     {
-      "page": 476,
+      "page": 475,
       "range": "Malachi 1:1-2:15",
       "first_ref": {
         "book": "Malachi",
@@ -6663,7 +6649,7 @@
       }
     },
     {
-      "page": 477,
+      "page": 476,
       "range": "Malachi 2:15-3:24",
       "first_ref": {
         "book": "Malachi",
@@ -6677,7 +6663,7 @@
       }
     },
     {
-      "page": 478,
+      "page": 477,
       "range": "Matthew 1:1-20",
       "first_ref": {
         "book": "Matthew",
@@ -6691,7 +6677,7 @@
       }
     },
     {
-      "page": 479,
+      "page": 478,
       "range": "Matthew 1:20-3:12",
       "first_ref": {
         "book": "Matthew",
@@ -6705,7 +6691,7 @@
       }
     },
     {
-      "page": 480,
+      "page": 479,
       "range": "Matthew 3:12-5:16",
       "first_ref": {
         "book": "Matthew",
@@ -6719,7 +6705,7 @@
       }
     },
     {
-      "page": 481,
+      "page": 480,
       "range": "Matthew 5:16-6:15",
       "first_ref": {
         "book": "Matthew",
@@ -6733,7 +6719,7 @@
       }
     },
     {
-      "page": 482,
+      "page": 481,
       "range": "Matthew 6:15-8:4",
       "first_ref": {
         "book": "Matthew",
@@ -6747,7 +6733,7 @@
       }
     },
     {
-      "page": 483,
+      "page": 482,
       "range": "Matthew 8:4-9:17",
       "first_ref": {
         "book": "Matthew",
@@ -6761,7 +6747,7 @@
       }
     },
     {
-      "page": 484,
+      "page": 483,
       "range": "Matthew 9:17-10:31",
       "first_ref": {
         "book": "Matthew",
@@ -6775,7 +6761,7 @@
       }
     },
     {
-      "page": 485,
+      "page": 484,
       "range": "Matthew 10:31-12:8",
       "first_ref": {
         "book": "Matthew",
@@ -6789,7 +6775,7 @@
       }
     },
     {
-      "page": 486,
+      "page": 485,
       "range": "Matthew 12:8-13:9",
       "first_ref": {
         "book": "Matthew",
@@ -6803,7 +6789,7 @@
       }
     },
     {
-      "page": 487,
+      "page": 486,
       "range": "Matthew 13:9-58",
       "first_ref": {
         "book": "Matthew",
@@ -6817,7 +6803,7 @@
       }
     },
     {
-      "page": 488,
+      "page": 487,
       "range": "Matthew 14:1-15:24",
       "first_ref": {
         "book": "Matthew",
@@ -6831,7 +6817,7 @@
       }
     },
     {
-      "page": 489,
+      "page": 488,
       "range": "Matthew 15:24-17:9",
       "first_ref": {
         "book": "Matthew",
@@ -6845,7 +6831,7 @@
       }
     },
     {
-      "page": 490,
+      "page": 489,
       "range": "Matthew 17:9-18:29",
       "first_ref": {
         "book": "Matthew",
@@ -6859,7 +6845,7 @@
       }
     },
     {
-      "page": 491,
+      "page": 490,
       "range": "Matthew 18:29-20:19",
       "first_ref": {
         "book": "Matthew",
@@ -6873,7 +6859,7 @@
       }
     },
     {
-      "page": 492,
+      "page": 491,
       "range": "Matthew 20:19-21:34",
       "first_ref": {
         "book": "Matthew",
@@ -6887,7 +6873,7 @@
       }
     },
     {
-      "page": 493,
+      "page": 492,
       "range": "Matthew 21:34-23:7",
       "first_ref": {
         "book": "Matthew",
@@ -6901,7 +6887,7 @@
       }
     },
     {
-      "page": 494,
+      "page": 493,
       "range": "Matthew 23:7-24:29",
       "first_ref": {
         "book": "Matthew",
@@ -6915,7 +6901,7 @@
       }
     },
     {
-      "page": 495,
+      "page": 494,
       "range": "Matthew 24:29-25:42",
       "first_ref": {
         "book": "Matthew",
@@ -6929,7 +6915,7 @@
       }
     },
     {
-      "page": 496,
+      "page": 495,
       "range": "Matthew 25:42-26:50",
       "first_ref": {
         "book": "Matthew",
@@ -6943,7 +6929,7 @@
       }
     },
     {
-      "page": 497,
+      "page": 496,
       "range": "Matthew 26:50-27:29",
       "first_ref": {
         "book": "Matthew",
@@ -6957,7 +6943,7 @@
       }
     },
     {
-      "page": 498,
+      "page": 497,
       "range": "Matthew 27:29-28:20",
       "first_ref": {
         "book": "Matthew",
@@ -6971,7 +6957,7 @@
       }
     },
     {
-      "page": 499,
+      "page": 498,
       "range": "Mark 1:1-39",
       "first_ref": {
         "book": "Mark",
@@ -6985,7 +6971,7 @@
       }
     },
     {
-      "page": 500,
+      "page": 499,
       "range": "Mark 1:39-3:16",
       "first_ref": {
         "book": "Mark",
@@ -6999,7 +6985,7 @@
       }
     },
     {
-      "page": 501,
+      "page": 500,
       "range": "Mark 3:16-4:34",
       "first_ref": {
         "book": "Mark",
@@ -7013,7 +6999,7 @@
       }
     },
     {
-      "page": 502,
+      "page": 501,
       "range": "Mark 4:34-6:11",
       "first_ref": {
         "book": "Mark",
@@ -7027,7 +7013,7 @@
       }
     },
     {
-      "page": 503,
+      "page": 502,
       "range": "Mark 6:11-7:13",
       "first_ref": {
         "book": "Mark",
@@ -7041,7 +7027,7 @@
       }
     },
     {
-      "page": 504,
+      "page": 503,
       "range": "Mark 7:13-8:33",
       "first_ref": {
         "book": "Mark",
@@ -7055,7 +7041,7 @@
       }
     },
     {
-      "page": 505,
+      "page": 504,
       "range": "Mark 8:33-9:48",
       "first_ref": {
         "book": "Mark",
@@ -7069,7 +7055,7 @@
       }
     },
     {
-      "page": 506,
+      "page": 505,
       "range": "Mark 9:48-10:52",
       "first_ref": {
         "book": "Mark",
@@ -7083,7 +7069,7 @@
       }
     },
     {
-      "page": 507,
+      "page": 506,
       "range": "Mark 11:1-12:22",
       "first_ref": {
         "book": "Mark",
@@ -7097,7 +7083,7 @@
       }
     },
     {
-      "page": 508,
+      "page": 507,
       "range": "Mark 12:22-13:31",
       "first_ref": {
         "book": "Mark",
@@ -7111,7 +7097,7 @@
       }
     },
     {
-      "page": 509,
+      "page": 508,
       "range": "Mark 13:31-14:49",
       "first_ref": {
         "book": "Mark",
@@ -7125,7 +7111,7 @@
       }
     },
     {
-      "page": 510,
+      "page": 509,
       "range": "Mark 14:49-15:38",
       "first_ref": {
         "book": "Mark",
@@ -7139,7 +7125,7 @@
       }
     },
     {
-      "page": 511,
+      "page": 510,
       "range": "Mark 15:38-16:20",
       "first_ref": {
         "book": "Mark",
@@ -7153,7 +7139,7 @@
       }
     },
     {
-      "page": 512,
+      "page": 511,
       "range": "Luke 1:1-66",
       "first_ref": {
         "book": "Luke",
@@ -7167,7 +7153,7 @@
       }
     },
     {
-      "page": 513,
+      "page": 512,
       "range": "Luke 1:66-2:40",
       "first_ref": {
         "book": "Luke",
@@ -7181,7 +7167,7 @@
       }
     },
     {
-      "page": 514,
+      "page": 513,
       "range": "Luke 2:40-3:34",
       "first_ref": {
         "book": "Luke",
@@ -7195,7 +7181,7 @@
       }
     },
     {
-      "page": 515,
+      "page": 514,
       "range": "Luke 3:34-4:41",
       "first_ref": {
         "book": "Luke",
@@ -7209,7 +7195,7 @@
       }
     },
     {
-      "page": 516,
+      "page": 515,
       "range": "Luke 4:41-6:9",
       "first_ref": {
         "book": "Luke",
@@ -7223,7 +7209,7 @@
       }
     },
     {
-      "page": 517,
+      "page": 516,
       "range": "Luke 6:9-7:10",
       "first_ref": {
         "book": "Luke",
@@ -7237,7 +7223,7 @@
       }
     },
     {
-      "page": 518,
+      "page": 517,
       "range": "Luke 7:10-8:15",
       "first_ref": {
         "book": "Luke",
@@ -7251,7 +7237,7 @@
       }
     },
     {
-      "page": 519,
+      "page": 518,
       "range": "Luke 8:15-9:11",
       "first_ref": {
         "book": "Luke",
@@ -7265,7 +7251,7 @@
       }
     },
     {
-      "page": 520,
+      "page": 519,
       "range": "Luke 9:11-62",
       "first_ref": {
         "book": "Luke",
@@ -7279,7 +7265,7 @@
       }
     },
     {
-      "page": 521,
+      "page": 520,
       "range": "Luke 10:1-11:11",
       "first_ref": {
         "book": "Luke",
@@ -7293,7 +7279,7 @@
       }
     },
     {
-      "page": 522,
+      "page": 521,
       "range": "Luke 11:11-12:7",
       "first_ref": {
         "book": "Luke",
@@ -7307,7 +7293,7 @@
       }
     },
     {
-      "page": 523,
+      "page": 522,
       "range": "Luke 12:7-59",
       "first_ref": {
         "book": "Luke",
@@ -7321,7 +7307,7 @@
       }
     },
     {
-      "page": 524,
+      "page": 523,
       "range": "Luke 13:1-14:14",
       "first_ref": {
         "book": "Luke",
@@ -7335,7 +7321,7 @@
       }
     },
     {
-      "page": 525,
+      "page": 524,
       "range": "Luke 14:14-16:8",
       "first_ref": {
         "book": "Luke",
@@ -7349,7 +7335,7 @@
       }
     },
     {
-      "page": 526,
+      "page": 525,
       "range": "Luke 16:8-17:34",
       "first_ref": {
         "book": "Luke",
@@ -7363,7 +7349,7 @@
       }
     },
     {
-      "page": 527,
+      "page": 526,
       "range": "Luke 17:34-19:10",
       "first_ref": {
         "book": "Luke",
@@ -7377,7 +7363,7 @@
       }
     },
     {
-      "page": 528,
+      "page": 527,
       "range": "Luke 19:10-20:23",
       "first_ref": {
         "book": "Luke",
@@ -7391,7 +7377,7 @@
       }
     },
     {
-      "page": 529,
+      "page": 528,
       "range": "Luke 20:23-21:33",
       "first_ref": {
         "book": "Luke",
@@ -7405,7 +7391,7 @@
       }
     },
     {
-      "page": 530,
+      "page": 529,
       "range": "Luke 21:33-22:53",
       "first_ref": {
         "book": "Luke",
@@ -7419,7 +7405,7 @@
       }
     },
     {
-      "page": 531,
+      "page": 530,
       "range": "Luke 22:53-23:43",
       "first_ref": {
         "book": "Luke",
@@ -7433,7 +7419,7 @@
       }
     },
     {
-      "page": 532,
+      "page": 531,
       "range": "Luke 23:43-24:53",
       "first_ref": {
         "book": "Luke",
@@ -7447,7 +7433,7 @@
       }
     },
     {
-      "page": 533,
+      "page": 532,
       "range": "Luke 24:53 - John 1:34",
       "first_ref": {
         "book": "Luke",
@@ -7461,7 +7447,7 @@
       }
     },
     {
-      "page": 534,
+      "page": 533,
       "range": "John 1:34-3:20",
       "first_ref": {
         "book": "John",
@@ -7475,7 +7461,7 @@
       }
     },
     {
-      "page": 535,
+      "page": 534,
       "range": "John 3:20-4:52",
       "first_ref": {
         "book": "John",
@@ -7489,7 +7475,7 @@
       }
     },
     {
-      "page": 536,
+      "page": 535,
       "range": "John 4:52-6:12",
       "first_ref": {
         "book": "John",
@@ -7503,7 +7489,7 @@
       }
     },
     {
-      "page": 537,
+      "page": 536,
       "range": "John 6:12-7:9",
       "first_ref": {
         "book": "John",
@@ -7517,7 +7503,7 @@
       }
     },
     {
-      "page": 538,
+      "page": 537,
       "range": "John 7:9-8:19",
       "first_ref": {
         "book": "John",
@@ -7531,7 +7517,7 @@
       }
     },
     {
-      "page": 539,
+      "page": 538,
       "range": "John 8:19-9:27",
       "first_ref": {
         "book": "John",
@@ -7545,7 +7531,7 @@
       }
     },
     {
-      "page": 540,
+      "page": 539,
       "range": "John 9:27-11:9",
       "first_ref": {
         "book": "John",
@@ -7559,7 +7545,7 @@
       }
     },
     {
-      "page": 541,
+      "page": 540,
       "range": "John 11:9-12:14",
       "first_ref": {
         "book": "John",
@@ -7573,7 +7559,7 @@
       }
     },
     {
-      "page": 542,
+      "page": 541,
       "range": "John 12:14-13:29",
       "first_ref": {
         "book": "John",
@@ -7587,7 +7573,7 @@
       }
     },
     {
-      "page": 543,
+      "page": 542,
       "range": "John 13:29-15:16",
       "first_ref": {
         "book": "John",
@@ -7601,7 +7587,7 @@
       }
     },
     {
-      "page": 544,
+      "page": 543,
       "range": "John 15:16-17:12",
       "first_ref": {
         "book": "John",
@@ -7615,7 +7601,7 @@
       }
     },
     {
-      "page": 545,
+      "page": 544,
       "range": "John 17:12-18:40",
       "first_ref": {
         "book": "John",
@@ -7629,7 +7615,7 @@
       }
     },
     {
-      "page": 546,
+      "page": 545,
       "range": "John 19:1-20:9",
       "first_ref": {
         "book": "John",
@@ -7643,7 +7629,7 @@
       }
     },
     {
-      "page": 547,
+      "page": 546,
       "range": "John 20:9-21:25",
       "first_ref": {
         "book": "John",
@@ -7657,7 +7643,7 @@
       }
     },
     {
-      "page": 548,
+      "page": 547,
       "range": "Acts 1:1-2:11",
       "first_ref": {
         "book": "Acts",
@@ -7671,7 +7657,7 @@
       }
     },
     {
-      "page": 549,
+      "page": 548,
       "range": "Acts 2:11-3:23",
       "first_ref": {
         "book": "Acts",
@@ -7685,7 +7671,7 @@
       }
     },
     {
-      "page": 550,
+      "page": 549,
       "range": "Acts 3:23-5:11",
       "first_ref": {
         "book": "Acts",
@@ -7699,7 +7685,7 @@
       }
     },
     {
-      "page": 551,
+      "page": 550,
       "range": "Acts 5:11-6:15",
       "first_ref": {
         "book": "Acts",
@@ -7713,7 +7699,7 @@
       }
     },
     {
-      "page": 552,
+      "page": 551,
       "range": "Acts 7:1-47",
       "first_ref": {
         "book": "Acts",
@@ -7727,7 +7713,7 @@
       }
     },
     {
-      "page": 553,
+      "page": 552,
       "range": "Acts 7:47-8:40",
       "first_ref": {
         "book": "Acts",
@@ -7741,7 +7727,7 @@
       }
     },
     {
-      "page": 554,
+      "page": 553,
       "range": "Acts 9:1-10:6",
       "first_ref": {
         "book": "Acts",
@@ -7755,7 +7741,7 @@
       }
     },
     {
-      "page": 555,
+      "page": 554,
       "range": "Acts 10:6-11:18",
       "first_ref": {
         "book": "Acts",
@@ -7769,7 +7755,7 @@
       }
     },
     {
-      "page": 556,
+      "page": 555,
       "range": "Acts 11:18-13:8",
       "first_ref": {
         "book": "Acts",
@@ -7783,7 +7769,7 @@
       }
     },
     {
-      "page": 557,
+      "page": 556,
       "range": "Acts 13:8-14:13",
       "first_ref": {
         "book": "Acts",
@@ -7797,7 +7783,7 @@
       }
     },
     {
-      "page": 558,
+      "page": 557,
       "range": "Acts 14:13-15:39",
       "first_ref": {
         "book": "Acts",
@@ -7811,7 +7797,7 @@
       }
     },
     {
-      "page": 559,
+      "page": 558,
       "range": "Acts 15:39-17:4",
       "first_ref": {
         "book": "Acts",
@@ -7825,7 +7811,7 @@
       }
     },
     {
-      "page": 560,
+      "page": 559,
       "range": "Acts 17:4-18:17",
       "first_ref": {
         "book": "Acts",
@@ -7839,7 +7825,7 @@
       }
     },
     {
-      "page": 561,
+      "page": 560,
       "range": "Acts 18:17-19:39",
       "first_ref": {
         "book": "Acts",
@@ -7853,7 +7839,7 @@
       }
     },
     {
-      "page": 562,
+      "page": 561,
       "range": "Acts 19:39-21:7",
       "first_ref": {
         "book": "Acts",
@@ -7867,7 +7853,7 @@
       }
     },
     {
-      "page": 563,
+      "page": 562,
       "range": "Acts 21:7-22:21",
       "first_ref": {
         "book": "Acts",
@@ -7881,7 +7867,7 @@
       }
     },
     {
-      "page": 564,
+      "page": 563,
       "range": "Acts 22:21-24:7",
       "first_ref": {
         "book": "Acts",
@@ -7895,7 +7881,7 @@
       }
     },
     {
-      "page": 565,
+      "page": 564,
       "range": "Acts 24:7-26:3",
       "first_ref": {
         "book": "Acts",
@@ -7909,7 +7895,7 @@
       }
     },
     {
-      "page": 566,
+      "page": 565,
       "range": "Acts 26:3-27:26",
       "first_ref": {
         "book": "Acts",
@@ -7923,7 +7909,7 @@
       }
     },
     {
-      "page": 567,
+      "page": 566,
       "range": "Acts 27:26-28:31",
       "first_ref": {
         "book": "Acts",
@@ -7937,7 +7923,7 @@
       }
     },
     {
-      "page": 568,
+      "page": 567,
       "range": "Romans 1:1-2:12",
       "first_ref": {
         "book": "Romans",
@@ -7951,7 +7937,7 @@
       }
     },
     {
-      "page": 569,
+      "page": 568,
       "range": "Romans 2:12-4:12",
       "first_ref": {
         "book": "Romans",
@@ -7965,7 +7951,7 @@
       }
     },
     {
-      "page": 570,
+      "page": 569,
       "range": "Romans 4:12-6:23",
       "first_ref": {
         "book": "Romans",
@@ -7979,7 +7965,7 @@
       }
     },
     {
-      "page": 571,
+      "page": 570,
       "range": "Romans 7:1-8:31",
       "first_ref": {
         "book": "Romans",
@@ -7993,7 +7979,7 @@
       }
     },
     {
-      "page": 572,
+      "page": 571,
       "range": "Romans 8:31-10:18",
       "first_ref": {
         "book": "Romans",
@@ -8007,7 +7993,7 @@
       }
     },
     {
-      "page": 573,
+      "page": 572,
       "range": "Romans 10:18-12:20",
       "first_ref": {
         "book": "Romans",
@@ -8021,7 +8007,7 @@
       }
     },
     {
-      "page": 574,
+      "page": 573,
       "range": "Romans 12:20-15:13",
       "first_ref": {
         "book": "Romans",
@@ -8035,7 +8021,7 @@
       }
     },
     {
-      "page": 575,
+      "page": 574,
       "range": "Romans 15:13-16:27",
       "first_ref": {
         "book": "Romans",
@@ -8049,7 +8035,7 @@
       }
     },
     {
-      "page": 576,
+      "page": 575,
       "range": "1 Corinthians 1:1-2:5",
       "first_ref": {
         "book": "1 Corinthians",
@@ -8063,7 +8049,7 @@
       }
     },
     {
-      "page": 577,
+      "page": 576,
       "range": "1 Corinthians 2:5-4:21",
       "first_ref": {
         "book": "1 Corinthians",
@@ -8077,7 +8063,7 @@
       }
     },
     {
-      "page": 578,
+      "page": 577,
       "range": "1 Corinthians 5:1-7:22",
       "first_ref": {
         "book": "1 Corinthians",
@@ -8091,7 +8077,7 @@
       }
     },
     {
-      "page": 579,
+      "page": 578,
       "range": "1 Corinthians 7:22-9:27",
       "first_ref": {
         "book": "1 Corinthians",
@@ -8105,7 +8091,7 @@
       }
     },
     {
-      "page": 580,
+      "page": 579,
       "range": "1 Corinthians 10:1-11:34",
       "first_ref": {
         "book": "1 Corinthians",
@@ -8119,7 +8105,7 @@
       }
     },
     {
-      "page": 581,
+      "page": 580,
       "range": "1 Corinthians 12:1-14:22",
       "first_ref": {
         "book": "1 Corinthians",
@@ -8133,7 +8119,7 @@
       }
     },
     {
-      "page": 582,
+      "page": 581,
       "range": "1 Corinthians 14:22-15:49",
       "first_ref": {
         "book": "1 Corinthians",
@@ -8147,7 +8133,7 @@
       }
     },
     {
-      "page": 583,
+      "page": 582,
       "range": "1 Corinthians 15:49 - 2 Corinthians 1:2",
       "first_ref": {
         "book": "1 Corinthians",
@@ -8161,7 +8147,7 @@
       }
     },
     {
-      "page": 584,
+      "page": 583,
       "range": "2 Corinthians 1:2-3:18",
       "first_ref": {
         "book": "2 Corinthians",
@@ -8175,7 +8161,7 @@
       }
     },
     {
-      "page": 585,
+      "page": 584,
       "range": "2 Corinthians 4:1-6:18",
       "first_ref": {
         "book": "2 Corinthians",
@@ -8189,7 +8175,7 @@
       }
     },
     {
-      "page": 586,
+      "page": 585,
       "range": "2 Corinthians 6:18-9:15",
       "first_ref": {
         "book": "2 Corinthians",
@@ -8203,7 +8189,7 @@
       }
     },
     {
-      "page": 587,
+      "page": 586,
       "range": "2 Corinthians 10:1-12:7",
       "first_ref": {
         "book": "2 Corinthians",
@@ -8217,7 +8203,7 @@
       }
     },
     {
-      "page": 588,
+      "page": 587,
       "range": "2 Corinthians 12:7 - Galatians 1:8",
       "first_ref": {
         "book": "2 Corinthians",
@@ -8231,7 +8217,7 @@
       }
     },
     {
-      "page": 589,
+      "page": 588,
       "range": "Galatians 1:8-3:17",
       "first_ref": {
         "book": "Galatians",
@@ -8245,7 +8231,7 @@
       }
     },
     {
-      "page": 590,
+      "page": 589,
       "range": "Galatians 3:17-5:20",
       "first_ref": {
         "book": "Galatians",
@@ -8259,7 +8245,7 @@
       }
     },
     {
-      "page": 591,
+      "page": 590,
       "range": "Galatians 5:20 - Ephesians 1:17",
       "first_ref": {
         "book": "Galatians",
@@ -8273,7 +8259,7 @@
       }
     },
     {
-      "page": 592,
+      "page": 591,
       "range": "Ephesians 1:17-4:12",
       "first_ref": {
         "book": "Ephesians",
@@ -8287,7 +8273,7 @@
       }
     },
     {
-      "page": 593,
+      "page": 592,
       "range": "Ephesians 4:12-6:9",
       "first_ref": {
         "book": "Ephesians",
@@ -8301,7 +8287,7 @@
       }
     },
     {
-      "page": 594,
+      "page": 593,
       "range": "Ephesians 6:9 - Philippians 1:20",
       "first_ref": {
         "book": "Ephesians",
@@ -8315,7 +8301,7 @@
       }
     },
     {
-      "page": 595,
+      "page": 594,
       "range": "Philippians 1:20-3:16",
       "first_ref": {
         "book": "Philippians",
@@ -8329,7 +8315,7 @@
       }
     },
     {
-      "page": 596,
+      "page": 595,
       "range": "Philippians 3:16 - Colossians 1:6",
       "first_ref": {
         "book": "Philippians",
@@ -8343,7 +8329,7 @@
       }
     },
     {
-      "page": 597,
+      "page": 596,
       "range": "Colossians 1:6-3:13",
       "first_ref": {
         "book": "Colossians",
@@ -8357,7 +8343,7 @@
       }
     },
     {
-      "page": 598,
+      "page": 597,
       "range": "Colossians 3:13 - 1 Thessalonians 1:4",
       "first_ref": {
         "book": "Colossians",
@@ -8371,7 +8357,7 @@
       }
     },
     {
-      "page": 599,
+      "page": 598,
       "range": "1 Thessalonians 1:4-4:16",
       "first_ref": {
         "book": "1 Thessalonians",
@@ -8385,7 +8371,7 @@
       }
     },
     {
-      "page": 600,
+      "page": 599,
       "range": "1 Thessalonians 4:16 - 2 Thessalonians 1:12",
       "first_ref": {
         "book": "1 Thessalonians",
@@ -8399,7 +8385,7 @@
       }
     },
     {
-      "page": 601,
+      "page": 600,
       "range": "2 Thessalonians 2:1-3:18",
       "first_ref": {
         "book": "2 Thessalonians",
@@ -8413,7 +8399,7 @@
       }
     },
     {
-      "page": 602,
+      "page": 601,
       "range": "1 Timothy 1:1-3:16",
       "first_ref": {
         "book": "1 Timothy",
@@ -8427,7 +8413,7 @@
       }
     },
     {
-      "page": 603,
+      "page": 602,
       "range": "1 Timothy 4:1-6:13",
       "first_ref": {
         "book": "1 Timothy",
@@ -8441,8 +8427,8 @@
       }
     },
     {
-      "page": 604,
-      "range": "1 Timothy 6:13 - 2 Timothy 1:18",
+      "page": 603,
+      "range": "1 Timothy 6:13 - 2 Timothy 2:4",
       "first_ref": {
         "book": "1 Timothy",
         "chapter": 6,
@@ -8450,129 +8436,129 @@
       },
       "last_ref": {
         "book": "2 Timothy",
-        "chapter": 1,
+        "chapter": 2,
+        "verse": 4
+      }
+    },
+    {
+      "page": 604,
+      "range": "2 Timothy 2:4-4:18",
+      "first_ref": {
+        "book": "2 Timothy",
+        "chapter": 2,
+        "verse": 4
+      },
+      "last_ref": {
+        "book": "2 Timothy",
+        "chapter": 4,
         "verse": 18
       }
     },
     {
       "page": 605,
-      "range": "2 Timothy 2:1-4:15",
+      "range": "2 Timothy 4:18 - Titus 2:15",
       "first_ref": {
         "book": "2 Timothy",
-        "chapter": 2,
-        "verse": 1
+        "chapter": 4,
+        "verse": 18
       },
       "last_ref": {
-        "book": "2 Timothy",
-        "chapter": 4,
+        "book": "Titus",
+        "chapter": 2,
         "verse": 15
       }
     },
     {
       "page": 606,
-      "range": "2 Timothy 4:15 - Titus 2:10",
+      "range": "Titus 3:1 - Philemon 1:22",
       "first_ref": {
-        "book": "2 Timothy",
-        "chapter": 4,
-        "verse": 15
+        "book": "Titus",
+        "chapter": 3,
+        "verse": 1
       },
       "last_ref": {
-        "book": "Titus",
-        "chapter": 2,
-        "verse": 10
+        "book": "Philemon",
+        "chapter": 1,
+        "verse": 22
       }
     },
     {
       "page": 607,
-      "range": "Titus 2:10 - Philemon 1:17",
+      "range": "Philemon 1:22 - Hebrews 2:18",
       "first_ref": {
-        "book": "Titus",
-        "chapter": 2,
-        "verse": 10
-      },
-      "last_ref": {
         "book": "Philemon",
         "chapter": 1,
-        "verse": 17
+        "verse": 22
+      },
+      "last_ref": {
+        "book": "Hebrews",
+        "chapter": 2,
+        "verse": 18
       }
     },
     {
       "page": 608,
-      "range": "Philemon 1:17 - Hebrews 2:16",
+      "range": "Hebrews 3:1-6:3",
       "first_ref": {
-        "book": "Philemon",
-        "chapter": 1,
-        "verse": 17
+        "book": "Hebrews",
+        "chapter": 3,
+        "verse": 1
       },
       "last_ref": {
         "book": "Hebrews",
-        "chapter": 2,
-        "verse": 16
+        "chapter": 6,
+        "verse": 3
       }
     },
     {
       "page": 609,
-      "range": "Hebrews 2:16-5:14",
+      "range": "Hebrews 6:3-8:10",
       "first_ref": {
         "book": "Hebrews",
-        "chapter": 2,
-        "verse": 16
+        "chapter": 6,
+        "verse": 3
       },
       "last_ref": {
         "book": "Hebrews",
-        "chapter": 5,
-        "verse": 14
+        "chapter": 8,
+        "verse": 10
       }
     },
     {
       "page": 610,
-      "range": "Hebrews 6:1-8:8",
+      "range": "Hebrews 8:10-10:30",
       "first_ref": {
         "book": "Hebrews",
-        "chapter": 6,
-        "verse": 1
+        "chapter": 8,
+        "verse": 10
       },
       "last_ref": {
         "book": "Hebrews",
-        "chapter": 8,
-        "verse": 8
+        "chapter": 10,
+        "verse": 30
       }
     },
     {
       "page": 611,
-      "range": "Hebrews 8:8-10:25",
+      "range": "Hebrews 10:30-12:2",
       "first_ref": {
         "book": "Hebrews",
-        "chapter": 8,
-        "verse": 8
+        "chapter": 10,
+        "verse": 30
       },
       "last_ref": {
         "book": "Hebrews",
-        "chapter": 10,
-        "verse": 25
+        "chapter": 12,
+        "verse": 2
       }
     },
     {
       "page": 612,
-      "range": "Hebrews 10:25-11:40",
-      "first_ref": {
-        "book": "Hebrews",
-        "chapter": 10,
-        "verse": 25
-      },
-      "last_ref": {
-        "book": "Hebrews",
-        "chapter": 11,
-        "verse": 40
-      }
-    },
-    {
-      "page": 613,
-      "range": "Hebrews 12:1-13:25",
+      "range": "Hebrews 12:2-13:25",
       "first_ref": {
         "book": "Hebrews",
         "chapter": 12,
-        "verse": 1
+        "verse": 2
       },
       "last_ref": {
         "book": "Hebrews",
@@ -8581,7 +8567,7 @@
       }
     },
     {
-      "page": 614,
+      "page": 613,
       "range": "James 1:1-2:13",
       "first_ref": {
         "book": "James",
@@ -8595,7 +8581,7 @@
       }
     },
     {
-      "page": 615,
+      "page": 614,
       "range": "James 2:13-5:9",
       "first_ref": {
         "book": "James",
@@ -8609,7 +8595,7 @@
       }
     },
     {
-      "page": 616,
+      "page": 615,
       "range": "James 5:9 - 1 Peter 1:21",
       "first_ref": {
         "book": "James",
@@ -8623,7 +8609,7 @@
       }
     },
     {
-      "page": 617,
+      "page": 616,
       "range": "1 Peter 1:21-3:22",
       "first_ref": {
         "book": "1 Peter",
@@ -8637,7 +8623,7 @@
       }
     },
     {
-      "page": 618,
+      "page": 617,
       "range": "1 Peter 4:1-5:14",
       "first_ref": {
         "book": "1 Peter",
@@ -8651,7 +8637,7 @@
       }
     },
     {
-      "page": 619,
+      "page": 618,
       "range": "2 Peter 1:1-3:7",
       "first_ref": {
         "book": "2 Peter",
@@ -8665,7 +8651,7 @@
       }
     },
     {
-      "page": 620,
+      "page": 619,
       "range": "2 Peter 3:7 - 1 John 2:13",
       "first_ref": {
         "book": "2 Peter",
@@ -8679,7 +8665,7 @@
       }
     },
     {
-      "page": 621,
+      "page": 620,
       "range": "1 John 2:13-4:14",
       "first_ref": {
         "book": "1 John",
@@ -8693,7 +8679,7 @@
       }
     },
     {
-      "page": 622,
+      "page": 621,
       "range": "1 John 4:14 - 2 John 1:3",
       "first_ref": {
         "book": "1 John",
@@ -8707,7 +8693,7 @@
       }
     },
     {
-      "page": 623,
+      "page": 622,
       "range": "2 John 1:3 - 3 John 1:14",
       "first_ref": {
         "book": "2 John",
@@ -8721,7 +8707,7 @@
       }
     },
     {
-      "page": 624,
+      "page": 623,
       "range": "Jude 1:1-25",
       "first_ref": {
         "book": "Jude",
@@ -8735,7 +8721,7 @@
       }
     },
     {
-      "page": 625,
+      "page": 624,
       "range": "Revelation 1:1-2:20",
       "first_ref": {
         "book": "Revelation",
@@ -8749,7 +8735,7 @@
       }
     },
     {
-      "page": 626,
+      "page": 625,
       "range": "Revelation 2:20-5:8",
       "first_ref": {
         "book": "Revelation",
@@ -8763,7 +8749,7 @@
       }
     },
     {
-      "page": 627,
+      "page": 626,
       "range": "Revelation 5:8-7:17",
       "first_ref": {
         "book": "Revelation",
@@ -8777,7 +8763,7 @@
       }
     },
     {
-      "page": 628,
+      "page": 627,
       "range": "Revelation 8:1-11:2",
       "first_ref": {
         "book": "Revelation",
@@ -8791,7 +8777,7 @@
       }
     },
     {
-      "page": 629,
+      "page": 628,
       "range": "Revelation 11:2-13:13",
       "first_ref": {
         "book": "Revelation",
@@ -8805,7 +8791,7 @@
       }
     },
     {
-      "page": 630,
+      "page": 629,
       "range": "Revelation 13:13-16:9",
       "first_ref": {
         "book": "Revelation",
@@ -8819,7 +8805,7 @@
       }
     },
     {
-      "page": 631,
+      "page": 630,
       "range": "Revelation 16:9-18:17",
       "first_ref": {
         "book": "Revelation",
@@ -8833,7 +8819,7 @@
       }
     },
     {
-      "page": 632,
+      "page": 631,
       "range": "Revelation 18:17-20:10",
       "first_ref": {
         "book": "Revelation",
@@ -8847,7 +8833,7 @@
       }
     },
     {
-      "page": 633,
+      "page": 632,
       "range": "Revelation 20:10-22:19",
       "first_ref": {
         "book": "Revelation",
@@ -8861,7 +8847,7 @@
       }
     },
     {
-      "page": 634,
+      "page": 633,
       "range": "Revelation 22:19-21",
       "first_ref": {
         "book": "Revelation",

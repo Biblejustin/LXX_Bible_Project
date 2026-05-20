@@ -1105,6 +1105,44 @@ def test_book_intro_source_has_no_render_placeholder_values() -> None:
     assert not placeholder_hits
 
 
+def test_book_intro_witness_dates_name_artifact_ranges_not_broad_periods() -> None:
+    rows = csv_rows("data/book_intros_template.csv")
+    broad_period_hits: list[tuple[str, str, str]] = []
+    generic_witness_hits: list[tuple[str, str, str]] = []
+    broad_periods = {
+        "Second Temple period",
+        "Late Second Temple period",
+        "Hasmonean period",
+        "Herodian period",
+        "Hasmonean-Herodian periods",
+        "Hellenistic period",
+        "Hellenistic and later",
+        "Second Temple and medieval periods",
+    }
+    for row in rows:
+        for key in ("oldest_fragment_date", "oldest_substantial_date", "oldest_complete_greek_date"):
+            value = row.get(key, "").strip()
+            if value in broad_periods:
+                broad_period_hits.append((row["book_code"], key, value))
+            if value.casefold() == "uncertain":
+                broad_period_hits.append((row["book_code"], key, value))
+        for key in ("oldest_fragment", "oldest_substantial_manuscript", "oldest_complete_greek"):
+            value = " ".join(row.get(key, "").casefold().split())
+            if any(
+                phrase in value
+                for phrase in (
+                    "major uncials preserve",
+                    "tradition is the principal",
+                    "traditions preserve",
+                    "greek text is the principal",
+                    "greek text is primary",
+                )
+            ):
+                generic_witness_hits.append((row["book_code"], key, row.get(key, "")))
+    assert not broad_period_hits
+    assert not generic_witness_hits
+
+
 def test_genesis_chronology_comparison_preface_data() -> None:
     import build_fresh_logos_bible as logos_builder
 
