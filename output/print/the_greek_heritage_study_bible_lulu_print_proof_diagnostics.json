@@ -21,8 +21,8 @@
   },
   "translation_decision_filter": {
     "present": 1,
-    "rows": 12433,
-    "skipped_non_variant": 7811,
+    "rows": 12437,
+    "skipped_non_variant": 7815,
     "skipped_unreviewed": 2733,
     "included": 1889,
     "included_refs": 1889
@@ -42,7 +42,7 @@
     "usable_rows": 81,
     "included": true,
     "print_cleanup": {
-      "removed_conservative_notes": 81,
+      "removed_conservative_notes": 80,
       "removed_theodotion_textual_note_sentence": 1,
       "removed_mt_timeline": 40,
       "removed_lxx_timeline": 28
