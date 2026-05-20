@@ -1157,6 +1157,23 @@ def test_genesis_chronology_comparison_preface_data() -> None:
     assert "MT omits Cainan" in by_patriarch["Arphaxad -> Cainan / Shelah"]["mt_age_at_son_birth"]
 
 
+def test_genesis_chronology_comparison_renders_as_docx_table(tmp_path: Path) -> None:
+    import build_fresh_logos_bible as logos_builder
+
+    docx_path = tmp_path / "chronology.docx"
+    doc = logos_builder.MinimalDocx("chronology", "chronology")
+    logos_builder.add_genesis_chronology_comparison(doc)
+    doc.save(docx_path)
+
+    with zipfile.ZipFile(docx_path) as archive:
+        document_xml = archive.read("word/document.xml").decode("utf-8")
+
+    assert "<w:tbl>" in document_xml
+    assert "Genesis Chronology Comparison" in document_xml
+    assert "Patriarch | LXX age" not in document_xml
+    assert "Methuselah -&gt; Lamech" in document_xml
+
+
 def test_genesis_chronology_anchor_footnotes_present() -> None:
     rows = {
         row["ref"]: row

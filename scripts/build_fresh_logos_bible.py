@@ -660,6 +660,41 @@ class MinimalDocx:
     def add_page_break(self) -> None:
         self.body.append('<w:p><w:r><w:br w:type="page"/></w:r></w:p>')
 
+    def add_table(self, rows: list[list[list[str]]]) -> None:
+        if not rows:
+            return
+        column_count = max(len(row) for row in rows)
+        column_width = max(1, 5000 // column_count)
+        grid = "".join(f'<w:gridCol w:w="{column_width}"/>' for _ in range(column_count))
+        table_rows: list[str] = []
+        for row in rows:
+            cells: list[str] = []
+            for cell_runs in row:
+                cells.append(
+                    "<w:tc>"
+                    f'<w:tcPr><w:tcW w:w="{column_width}" w:type="pct"/></w:tcPr>'
+                    f"<w:p>{''.join(cell_runs)}</w:p>"
+                    "</w:tc>"
+                )
+            table_rows.append(f"<w:tr>{''.join(cells)}</w:tr>")
+        self.body.append(
+            "<w:tbl>"
+            "<w:tblPr>"
+            '<w:tblW w:w="5000" w:type="pct"/>'
+            '<w:tblBorders>'
+            '<w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>'
+            '<w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>'
+            '<w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>'
+            '<w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>'
+            '<w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/>'
+            '<w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/>'
+            "</w:tblBorders>"
+            "</w:tblPr>"
+            f"<w:tblGrid>{grid}</w:tblGrid>"
+            f"{''.join(table_rows)}"
+            "</w:tbl>"
+        )
+
     def add_footnote(self, text: str) -> int:
         self.footnotes.append(FootnoteEntry(text=text))
         return len(self.footnotes)
@@ -3688,28 +3723,23 @@ def add_genesis_chronology_comparison(doc: MinimalDocx) -> int:
             )
         ]
     )
-    doc.add_paragraph(
+    table_rows = [
         [
-            run("Patriarch", bold=True),
-            run(" | "),
-            run("LXX age at son's birth", bold=True),
-            run(" | "),
-            run("MT age at son's birth", bold=True),
+            [run("Patriarch", bold=True)],
+            [run("LXX age at son's birth", bold=True)],
+            [run("MT age at son's birth", bold=True)],
         ]
-    )
-    paragraph_count = 3
+    ]
     for row in rows:
-        doc.add_paragraph(
+        table_rows.append(
             [
-                run(row.get("patriarch", "").strip()),
-                run(" | "),
-                run(row.get("lxx_age_at_son_birth", "").strip()),
-                run(" | "),
-                run(row.get("mt_age_at_son_birth", "").strip()),
+                [run(row.get("patriarch", "").strip())],
+                [run(row.get("lxx_age_at_son_birth", "").strip())],
+                [run(row.get("mt_age_at_son_birth", "").strip())],
             ]
         )
-        paragraph_count += 1
-    return paragraph_count
+    doc.add_table(table_rows)
+    return 2 + len(rows)
 
 
 def build_verse_runs(

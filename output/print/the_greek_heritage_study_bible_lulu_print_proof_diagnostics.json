@@ -142,7 +142,7 @@
   "print_docx": {
     "output_kind": "print_proof",
     "milestone_mode": "lxx",
-    "paragraph_count": 8123,
+    "paragraph_count": 8122,
     "run_in_verse_paragraphs": true,
     "run_in_group_size": 0,
     "pericope_heading_count": 2983,
