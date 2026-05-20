@@ -113,9 +113,18 @@ REFERENCE_NUMBERING_GUIDE = [
     ("English Malachi 4:6", "Malachi 3:23 here"),
 ]
 
+ARTICLE_SUPPLY_POLICY_NOTE = (
+    "Article/readability policy: this draft sometimes supplies ordinary English "
+    "articles or linking words where Greek uses a compact phrase and English "
+    "requires smoother syntax; for example, an articular land phrase may be "
+    'rendered "the land of Judah," and a compact proverb may receive "is" or '
+    '"the" so the English sentence reads normally.'
+)
+
 SOURCE_BASIS_GUIDE = {
     "ot": [
         "OT source basis: this branch translates the normalized LXX Greek source rows in data/raw/lxx_greek/ot_full.csv; it does not revise an English base text.",
+        ARTICLE_SUPPLY_POLICY_NOTE,
         "Daniel source basis: Daniel follows the Greek Daniel rows present in the Protestant-canon OT source workspace; the Greek additions (Song of the Three Young Men; Susanna; Bel and the Dragon) are emitted in the separate Deuterocanon edition.",
         "Canon scope: deuterocanonical and apocryphal LXX books are planned as a separate workstream, not folded into this Protestant-canon branch.",
     ],
@@ -125,6 +134,7 @@ SOURCE_BASIS_GUIDE = {
     "combined": [
         "OT source basis: this branch translates the normalized LXX Greek source rows in data/raw/lxx_greek/ot_full.csv; it does not revise an English base text.",
         "NT source basis: this branch translates the Scrivener 1894 Textus Receptus stream imported from byztxt/greektext-scrivener text-only files.",
+        ARTICLE_SUPPLY_POLICY_NOTE,
         "Daniel source basis: Daniel follows the Greek Daniel rows present in the Protestant-canon OT source workspace; the Greek additions (Song of the Three Young Men; Susanna; Bel and the Dragon) are emitted in the separate Deuterocanon edition.",
         "Canon scope: deuterocanonical and apocryphal LXX books are planned as a separate workstream, not folded into this Protestant-canon branch.",
     ],
@@ -771,6 +781,7 @@ INTERNAL_NOTE_SENTENCE_PATTERNS = (
 MECHANICAL_REVIEW_NOTE_RE = re.compile(
     r"^(?:Article review|Cross-reference review) supplied\b"
 )
+MECHANICAL_REVIEW_SOURCE_RE = re.compile(r"\barticle(?: syntax| supplied)?\b")
 
 
 def reader_facing_note_text(value: str) -> str:
@@ -783,9 +794,13 @@ def reader_facing_note_text(value: str) -> str:
 
 
 def is_mechanical_review_note(note: TranslationNote) -> bool:
+    source_basis = normalize_space(note.source_basis).lower()
     return (
         note.note_type == "translation"
-        and MECHANICAL_REVIEW_NOTE_RE.match(normalize_space(note.text)) is not None
+        and (
+            MECHANICAL_REVIEW_NOTE_RE.match(normalize_space(note.text)) is not None
+            or MECHANICAL_REVIEW_SOURCE_RE.search(source_basis) is not None
+        )
     )
 
 

@@ -10117,7 +10117,7 @@ def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
     assert diagnostics["print_docx"]["run_in_verse_paragraphs"] is True
     assert diagnostics["print_docx"]["run_in_group_size"] == 0
     assert diagnostics["print_docx"]["footnote_columns"] == 2
-    assert diagnostics["reader_facing_translation_note_filter"]["skipped_mechanical_review_notes"] == 68
+    assert diagnostics["reader_facing_translation_note_filter"]["skipped_mechanical_review_notes"] == 319
     assert 2900 <= diagnostics["print_docx"]["pericope_heading_count"] <= 3100
     assert 2900 <= diagnostics["pericope_headings"]["included"] <= 3100
     assert diagnostics["print_profile"]["layout"] == "compact_single_column"
@@ -10131,6 +10131,8 @@ def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
     assert "BSB-placement original headings included" in diagnostics["print_profile"]["pericope_headings"]
     assert "Why This Draft Exists" in document_xml
     assert "Rough Methodology" in document_xml
+    assert "ordinary English articles" in document_xml
+    assert "the land of Judah" in document_xml
     assert diagnostics["print_profile"]["name_note_labels"] == "compact"
     assert diagnostics["print_profile"]["generated_crossrefs"] == "openbible_top_n"
     assert diagnostics["minimal_crossrefs"]["profile"] == "openbible_top_n_print"
@@ -10159,6 +10161,8 @@ def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
     assert '<w:szCs w:val="13"/>' in styles_xml
     assert "—" not in footnotes_xml
     assert "Article review supplied" not in footnotes_xml
+    assert "Article cleanup:" not in footnotes_xml
+    assert "article-supply decisions" in document_xml
     assert "Std: Gomer. Src: Gomer." not in footnotes_xml
     assert "Lulu-safe mirrored POD margins" in readme
     assert "Lulu PDF build stamps page numbers and chapter/verse ranges" in readme
@@ -10445,13 +10449,17 @@ def test_combined_logos_reader_output_suppresses_mechanical_review_notes() -> No
     )
     with zipfile.ZipFile(output_dir / "the_greek_heritage_study_bible_logos_bible.docx") as zf:
         logos_footnotes = zf.read("word/footnotes.xml").decode("utf-8")
+        logos_document = zf.read("word/document.xml").decode("utf-8")
     with zipfile.ZipFile(output_dir / "the_greek_heritage_study_bible_reference_notes.docx") as zf:
         reference_footnotes = zf.read("word/footnotes.xml").decode("utf-8")
     with zipfile.ZipFile(output_dir / "the_greek_heritage_study_bible_proofreading.docx") as zf:
         proof_footnotes = zf.read("word/footnotes.xml").decode("utf-8")
 
-    assert diagnostics["reader_facing_translation_note_filter"]["skipped_mechanical_review_notes"] == 68
+    assert diagnostics["reader_facing_translation_note_filter"]["skipped_mechanical_review_notes"] == 319
     assert "Article review supplied" not in logos_footnotes
+    assert "Article cleanup:" not in logos_footnotes
+    assert "ordinary English articles" in logos_document
+    assert "the land of Judah" in logos_document
     assert "Article review supplied" in reference_footnotes
     assert "Article review supplied" in proof_footnotes
 

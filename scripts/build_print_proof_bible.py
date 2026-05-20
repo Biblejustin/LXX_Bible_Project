@@ -95,6 +95,14 @@ PRINT_FRONT_MATTER_SECTIONS = [
                 "reader-facing explanations."
             ),
             (
+                "For readability, this draft sometimes supplies ordinary English articles or "
+                "linking words where Greek uses a compact phrase and English requires smoother "
+                "syntax. For example, an articular land phrase may be rendered \"the land of "
+                "Judah,\" and a compact proverb may receive \"is\" or \"the\" so the English "
+                "sentence reads normally. These article-supply decisions are treated as a "
+                "general translation policy rather than repeated footnotes."
+            ),
+            (
                 "Dense cross-reference layers, full TSK notes, Brenton/source notes, and the "
                 "separate LXX deuterocanon workstream are intentionally kept out of this print "
                 "proof so the volume remains usable for proofreading the biblical text itself."
