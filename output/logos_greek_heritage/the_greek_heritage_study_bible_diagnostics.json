@@ -90,8 +90,8 @@
   },
   "translation_decision_filter": {
     "present": 1,
-    "rows": 12433,
-    "skipped_non_variant": 7811,
+    "rows": 12437,
+    "skipped_non_variant": 7815,
     "skipped_unreviewed": 2733,
     "included": 1889,
     "included_refs": 1889
@@ -305,7 +305,7 @@
   "logos_docx": {
     "output_kind": "logos",
     "milestone_mode": "lxx",
-    "paragraph_count": 33079,
+    "paragraph_count": 33078,
     "run_in_verse_paragraphs": false,
     "run_in_group_size": 0,
     "pericope_heading_count": 0,
@@ -341,7 +341,7 @@
   "mt_notes_bridge_docx": {
     "output_kind": "logos",
     "milestone_mode": "mt",
-    "paragraph_count": 33079,
+    "paragraph_count": 33078,
     "run_in_verse_paragraphs": false,
     "run_in_group_size": 0,
     "pericope_heading_count": 0,
@@ -377,7 +377,7 @@
   "proofreading_docx": {
     "output_kind": "proofreading",
     "milestone_mode": "lxx",
-    "paragraph_count": 33079,
+    "paragraph_count": 33078,
     "run_in_verse_paragraphs": false,
     "run_in_group_size": 0,
     "pericope_heading_count": 0,
