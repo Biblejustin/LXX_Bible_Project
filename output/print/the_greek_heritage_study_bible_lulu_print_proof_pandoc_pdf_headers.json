@@ -364,7 +364,7 @@
     },
     {
       "page": 27,
-      "range": "Genesis 38:11-40:11",
+      "range": "Genesis 38:11-40:9",
       "first_ref": {
         "book": "Genesis",
         "chapter": 38,
@@ -373,16 +373,16 @@
       "last_ref": {
         "book": "Genesis",
         "chapter": 40,
-        "verse": 11
+        "verse": 9
       }
     },
     {
       "page": 28,
-      "range": "Genesis 40:11-41:45",
+      "range": "Genesis 40:9-41:45",
       "first_ref": {
         "book": "Genesis",
         "chapter": 40,
-        "verse": 11
+        "verse": 9
       },
       "last_ref": {
         "book": "Genesis",
@@ -3052,7 +3052,7 @@
     },
     {
       "page": 219,
-      "range": "2 Kings 14:16-15:31",
+      "range": "2 Kings 14:16-15:30",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 14,
@@ -3061,16 +3061,16 @@
       "last_ref": {
         "book": "2 Kings",
         "chapter": 15,
-        "verse": 31
+        "verse": 30
       }
     },
     {
       "page": 220,
-      "range": "2 Kings 15:31-17:13",
+      "range": "2 Kings 15:30-17:13",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 15,
-        "verse": 31
+        "verse": 30
       },
       "last_ref": {
         "book": "2 Kings",
