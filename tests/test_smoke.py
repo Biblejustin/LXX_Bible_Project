@@ -5895,7 +5895,9 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "the house of Israel and the house of Judah acted faithlessly" in by_ref["Jeremiah 5:11"]["draft_translation"]
     assert "and the house of Judah broke my covenant" in by_ref["Jeremiah 11:10"]["draft_translation"]
     assert "brought up the house of Israel" in by_ref["Jeremiah 16:15"]["draft_translation"]
-    assert "the remnant of Israel will no longer continue" in by_ref["Isaiah 10:20"]["draft_translation"]
+    assert "the remnant of Israel and those saved of Jacob will no longer keep trusting" in by_ref[
+        "Isaiah 10:20"
+    ]["draft_translation"]
     assert "people, the remnant of Israel" in by_ref["Jeremiah 38:7"]["draft_translation"]
     assert "the remnant of Judah perish" in by_ref["Jeremiah 47:15"]["draft_translation"]
     assert "wipe out the remnant of Israel" in by_ref["Ezekiel 9:8"]["draft_translation"]
