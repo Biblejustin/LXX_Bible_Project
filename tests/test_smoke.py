@@ -10881,3 +10881,22 @@ def test_generated_docx_files_are_valid_when_present() -> None:
         with zipfile.ZipFile(path) as archive:
             assert archive.testzip() is None
             assert "word/document.xml" in archive.namelist()
+
+
+def test_study_helps_appendix_omits_reading_plan_and_resolves_refs() -> None:
+    script_path = ROOT / "scripts" / "build_study_helps_appendix.py"
+    assert script_path.exists()
+
+    spec = importlib.util.spec_from_file_location("build_study_helps_appendix", script_path)
+    module = importlib.util.module_from_spec(spec)
+    assert spec.loader is not None
+    sys.modules[spec.name] = module
+    spec.loader.exec_module(module)
+
+    markdown, diagnostics = module.render_markdown()
+    assert diagnostics == []
+    assert "DAILY READING PLAN" not in markdown
+    assert "SECTION 1" not in markdown
+    assert "Largest OT section" not in markdown
+    assert "missing local verse text" not in markdown
+    assert "Psalms 22:1 (English Psalm 23:1)" in markdown

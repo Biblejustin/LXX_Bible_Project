@@ -1,4 +1,4 @@
-.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review import-deuterocanon build-deuterocanon build-deuterocanon-logos validate-deuterocanon build-deuterocanon-book build-nt build-nt-fast build-nt-book review-nt-fast build-combined build-combined-logos build-concordance-preview generate-print-pericopes build-print-proof build-print-proof-lulu-pdf build-print-proof-lulu-pandoc-pdf build-print-proof-handy-pandoc-pdf release-combined clean-working
+.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review import-deuterocanon build-deuterocanon build-deuterocanon-logos validate-deuterocanon build-deuterocanon-book build-nt build-nt-fast build-nt-book review-nt-fast build-combined build-combined-logos build-concordance-preview build-study-helps-appendix generate-print-pericopes build-print-proof build-print-proof-lulu-pdf build-print-proof-lulu-pandoc-pdf build-print-proof-handy-pandoc-pdf release-combined clean-working
 
 PYTHON ?= python
 SOFFICE ?= /Applications/LibreOffice.app/Contents/MacOS/soffice
@@ -86,6 +86,9 @@ build-combined-logos:
 
 build-concordance-preview:
 	$(PYTHON) scripts/build_greek_concordance_preview.py
+
+build-study-helps-appendix:
+	$(PYTHON) scripts/build_study_helps_appendix.py
 
 generate-print-pericopes:
 	$(PYTHON) scripts/generate_print_pericope_headings.py
