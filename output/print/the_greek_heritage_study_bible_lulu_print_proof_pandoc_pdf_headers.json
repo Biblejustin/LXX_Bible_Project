@@ -420,7 +420,7 @@
     },
     {
       "page": 31,
-      "range": "Genesis 44:31-46:13",
+      "range": "Genesis 44:31-46:15",
       "first_ref": {
         "book": "Genesis",
         "chapter": 44,
@@ -429,44 +429,44 @@
       "last_ref": {
         "book": "Genesis",
         "chapter": 46,
-        "verse": 13
+        "verse": 15
       }
     },
     {
       "page": 32,
-      "range": "Genesis 46:13-47:15",
+      "range": "Genesis 46:15-47:18",
       "first_ref": {
         "book": "Genesis",
         "chapter": 46,
-        "verse": 13
+        "verse": 15
       },
       "last_ref": {
         "book": "Genesis",
         "chapter": 47,
-        "verse": 15
+        "verse": 18
       }
     },
     {
       "page": 33,
-      "range": "Genesis 47:15-49:11",
+      "range": "Genesis 47:18-49:17",
       "first_ref": {
         "book": "Genesis",
         "chapter": 47,
-        "verse": 15
+        "verse": 18
       },
       "last_ref": {
         "book": "Genesis",
         "chapter": 49,
-        "verse": 11
+        "verse": 17
       }
     },
     {
       "page": 34,
-      "range": "Genesis 49:11-50:26",
+      "range": "Genesis 49:17-50:26",
       "first_ref": {
         "book": "Genesis",
         "chapter": 49,
-        "verse": 11
+        "verse": 17
       },
       "last_ref": {
         "book": "Genesis",
@@ -476,7 +476,7 @@
     },
     {
       "page": 35,
-      "range": "Exodus 1:1-2:16",
+      "range": "Exodus 1:1-2:19",
       "first_ref": {
         "book": "Exodus",
         "chapter": 1,
@@ -485,128 +485,128 @@
       "last_ref": {
         "book": "Exodus",
         "chapter": 2,
-        "verse": 16
+        "verse": 19
       }
     },
     {
       "page": 36,
-      "range": "Exodus 2:16-4:9",
+      "range": "Exodus 2:19-4:13",
       "first_ref": {
         "book": "Exodus",
         "chapter": 2,
-        "verse": 16
+        "verse": 19
       },
       "last_ref": {
         "book": "Exodus",
         "chapter": 4,
-        "verse": 9
+        "verse": 13
       }
     },
     {
       "page": 37,
-      "range": "Exodus 4:9-6:3",
+      "range": "Exodus 4:13-6:5",
       "first_ref": {
         "book": "Exodus",
         "chapter": 4,
-        "verse": 9
+        "verse": 13
       },
       "last_ref": {
         "book": "Exodus",
         "chapter": 6,
-        "verse": 3
+        "verse": 5
       }
     },
     {
       "page": 38,
-      "range": "Exodus 6:3-7:19",
+      "range": "Exodus 6:5-7:22",
       "first_ref": {
         "book": "Exodus",
         "chapter": 6,
-        "verse": 3
+        "verse": 5
       },
       "last_ref": {
         "book": "Exodus",
         "chapter": 7,
-        "verse": 19
+        "verse": 22
       }
     },
     {
       "page": 39,
-      "range": "Exodus 7:19-9:4",
+      "range": "Exodus 7:22-9:7",
       "first_ref": {
         "book": "Exodus",
         "chapter": 7,
-        "verse": 19
+        "verse": 22
       },
       "last_ref": {
         "book": "Exodus",
         "chapter": 9,
-        "verse": 4
+        "verse": 7
       }
     },
     {
       "page": 40,
-      "range": "Exodus 9:4-10:19",
+      "range": "Exodus 9:7-10:20",
       "first_ref": {
         "book": "Exodus",
         "chapter": 9,
-        "verse": 4
+        "verse": 7
       },
       "last_ref": {
         "book": "Exodus",
         "chapter": 10,
-        "verse": 19
+        "verse": 20
       }
     },
     {
       "page": 41,
-      "range": "Exodus 10:19-12:22",
+      "range": "Exodus 10:20-12:24",
       "first_ref": {
         "book": "Exodus",
         "chapter": 10,
-        "verse": 19
+        "verse": 20
       },
       "last_ref": {
         "book": "Exodus",
         "chapter": 12,
-        "verse": 22
+        "verse": 24
       }
     },
     {
       "page": 42,
-      "range": "Exodus 12:22-13:21",
+      "range": "Exodus 12:24-13:22",
       "first_ref": {
         "book": "Exodus",
         "chapter": 12,
-        "verse": 22
+        "verse": 24
       },
       "last_ref": {
         "book": "Exodus",
         "chapter": 13,
-        "verse": 21
+        "verse": 22
       }
     },
     {
       "page": 43,
-      "range": "Exodus 13:21-15:19",
+      "range": "Exodus 14:1-15:20",
       "first_ref": {
         "book": "Exodus",
-        "chapter": 13,
-        "verse": 21
+        "chapter": 14,
+        "verse": 1
       },
       "last_ref": {
         "book": "Exodus",
         "chapter": 15,
-        "verse": 19
+        "verse": 20
       }
     },
     {
       "page": 44,
-      "range": "Exodus 15:19-16:36",
+      "range": "Exodus 15:20-16:36",
       "first_ref": {
         "book": "Exodus",
         "chapter": 15,
-        "verse": 19
+        "verse": 20
       },
       "last_ref": {
         "book": "Exodus",
@@ -2982,7 +2982,7 @@
     },
     {
       "page": 214,
-      "range": "2 Kings 7:2-8:24",
+      "range": "2 Kings 7:2-8:23",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 7,
@@ -2991,16 +2991,16 @@
       "last_ref": {
         "book": "2 Kings",
         "chapter": 8,
-        "verse": 24
+        "verse": 23
       }
     },
     {
       "page": 215,
-      "range": "2 Kings 8:24-9:37",
+      "range": "2 Kings 8:23-9:37",
       "first_ref": {
         "book": "2 Kings",
         "chapter": 8,
-        "verse": 24
+        "verse": 23
       },
       "last_ref": {
         "book": "2 Kings",

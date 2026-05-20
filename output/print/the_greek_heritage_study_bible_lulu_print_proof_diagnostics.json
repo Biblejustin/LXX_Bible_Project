@@ -3,9 +3,9 @@
   "book_count": 66,
   "translation_note_filter": {
     "rows": 25290,
-    "included": 4109,
+    "included": 4110,
     "included_mt_lxx_difference_notes": 335,
-    "skipped_unreviewed": 1889,
+    "skipped_unreviewed": 1888,
     "skipped_generic_or_brenton_only": 10099,
     "skipped_generic_mt_lxx_without_concrete_detail": 9084,
     "included_concrete_mt_lxx_details": 3,
@@ -21,11 +21,11 @@
   },
   "translation_decision_filter": {
     "present": 1,
-    "rows": 12445,
-    "skipped_non_variant": 7823,
+    "rows": 12451,
+    "skipped_non_variant": 7830,
     "skipped_unreviewed": 2733,
-    "included": 1889,
-    "included_refs": 1889
+    "included": 1888,
+    "included_refs": 1888
   },
   "textual_note_export": {
     "present": false,
@@ -154,8 +154,8 @@
     "footnote_number_restart": "page",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
-    "phrase_anchored_translation_notes": 3188,
-    "verse_anchored_translation_notes": 848,
+    "phrase_anchored_translation_notes": 3190,
+    "verse_anchored_translation_notes": 846,
     "name_meaning_footnotes": 2814,
     "supplemental_note_footnotes": 0,
     "brenton_supplemental_footnotes": 0,
