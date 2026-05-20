@@ -71,8 +71,8 @@
     "REV": 404
   },
   "translation_note_filter": {
-    "rows": 25293,
-    "included": 4116,
+    "rows": 25294,
+    "included": 4117,
     "included_mt_lxx_difference_notes": 335,
     "skipped_unreviewed": 1888,
     "skipped_generic_or_brenton_only": 10099,
@@ -90,8 +90,8 @@
   },
   "translation_decision_filter": {
     "present": 1,
-    "rows": 12458,
-    "skipped_non_variant": 7837,
+    "rows": 12459,
+    "skipped_non_variant": 7838,
     "skipped_unreviewed": 2733,
     "included": 1888,
     "included_refs": 1888
