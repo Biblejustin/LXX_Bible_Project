@@ -574,6 +574,8 @@ def test_joshua_7_wording_and_achan_policy() -> None:
     assert "Saul added to send" not in by_ref["1 Samuel 19:21"]["draft_translation"]
     assert "foreigners came up again" in by_ref["2 Samuel 5:22"]["draft_translation"]
     assert "again added to go up" not in by_ref["2 Samuel 5:22"]["draft_translation"]
+    assert by_ref["Judges 6:25"]["draft_translation"].startswith("That night the Lord said to him")
+    assert "And it came to be that night that" not in by_ref["Judges 6:25"]["draft_translation"]
     assert "no longer went out from his land" in by_ref["2 Kings 24:7"]["draft_translation"]
     assert "no longer added to go out" not in by_ref["2 Kings 24:7"]["draft_translation"]
     assert "And the Lord spoke to me again" in by_ref["Isaiah 8:5"]["draft_translation"]
@@ -738,6 +740,14 @@ def test_joshua_7_wording_and_achan_policy() -> None:
     achan_notes = [row for row in notes if row["name"] == "Achan" and row["source_form"] == "Achar"]
     assert {row["first_reference"] for row in achan_notes} >= {"Joshua 7:1", "Joshua 22:20"}
     assert any("MT distinguishes Achan in Joshua from Achar in 1 Chronicles 2:7" in row["footnote"] for row in achan_notes)
+
+    narrative_notes = {
+        row["ref"]: row
+        for row in csv_rows("data/research/translation_footnotes.csv")
+        if row["source_basis"] == "narrative formula"
+    }
+    assert "Judges 6:25" in narrative_notes
+    assert "Greek literally says and it came to be in that night" in narrative_notes["Judges 6:25"]["footnote_text"]
 
 
 def test_genesis_31_41_wage_unit_note_matches_lxx_review() -> None:
