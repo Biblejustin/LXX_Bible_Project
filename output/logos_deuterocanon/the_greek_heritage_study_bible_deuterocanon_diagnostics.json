@@ -24,8 +24,8 @@
     "PSA": 7
   },
   "translation_note_filter": {
-    "rows": 25290,
-    "included": 4110,
+    "rows": 25291,
+    "included": 4111,
     "included_mt_lxx_difference_notes": 335,
     "skipped_unreviewed": 1888,
     "skipped_generic_or_brenton_only": 10099,
@@ -34,16 +34,16 @@
     "skipped_note_type": 109
   },
   "reader_facing_translation_note_filter": {
-    "input_refs": 1,
-    "input_notes": 1,
-    "included_notes": 1,
-    "included_refs": 1,
+    "input_refs": 2,
+    "input_notes": 2,
+    "included_notes": 2,
+    "included_refs": 2,
     "skipped_mechanical_review_note_variants": 0
   },
   "translation_decision_filter": {
     "present": 1,
-    "rows": 12452,
-    "skipped_non_variant": 7831,
+    "rows": 12453,
+    "skipped_non_variant": 7832,
     "skipped_unreviewed": 2733,
     "included": 1888,
     "included_refs": 1888
@@ -54,10 +54,10 @@
     "included_refs": 0,
     "included_total": 0
   },
-  "source_translation_note_refs": 1,
-  "source_translation_note_total": 1,
-  "included_translation_note_refs": 1,
-  "included_translation_note_total": 1,
+  "source_translation_note_refs": 2,
+  "source_translation_note_total": 2,
+  "included_translation_note_refs": 2,
+  "included_translation_note_total": 2,
   "book_prefaces": {
     "present": true,
     "path": "/Users/justinscaggs/Documents/Codex_bible/data/book_intros_template.csv",
@@ -125,14 +125,14 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 0,
     "footnote_columns": 1,
-    "footnote_count": 1,
+    "footnote_count": 2,
     "crossref_footnotes": 0,
-    "translation_note_footnotes": 1,
+    "translation_note_footnotes": 2,
     "section_break_count": 202,
     "footnote_number_restart": "chapter",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
-    "phrase_anchored_translation_notes": 1,
+    "phrase_anchored_translation_notes": 2,
     "verse_anchored_translation_notes": 0,
     "name_meaning_footnotes": 0,
     "supplemental_note_footnotes": 0,
@@ -243,8 +243,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 1,
-      "footnote_body_count": 1
+      "footnote_reference_count": 2,
+      "footnote_body_count": 2
     },
     {
       "path": "output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_reference_notes.docx",
