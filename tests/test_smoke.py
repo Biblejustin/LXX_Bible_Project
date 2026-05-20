@@ -275,6 +275,10 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     assert by_ref["1 Maccabees 8:29"]["draft_translation"] == (
         "According to these words the Romans established terms with the people of the Jews."
     )
+    assert "did not again add to come" not in by_ref["1 Maccabees 9:72"]["draft_translation"]
+    assert by_ref["1 Maccabees 9:72"]["draft_translation"].endswith(
+        "did not come into their borders again."
+    )
     assert by_ref["1 Esdras 8:62"]["draft_translation"].startswith(
         "And with him was Eleazar son of Phinehas"
     )

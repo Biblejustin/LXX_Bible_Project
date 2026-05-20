@@ -25,27 +25,28 @@
   },
   "translation_note_filter": {
     "rows": 25290,
-    "included": 4105,
+    "included": 4110,
     "included_mt_lxx_difference_notes": 335,
-    "skipped_unreviewed": 1889,
-    "skipped_generic_or_brenton_only": 10100,
-    "skipped_generic_mt_lxx_without_concrete_detail": 9087,
+    "skipped_unreviewed": 1888,
+    "skipped_generic_or_brenton_only": 10099,
+    "skipped_generic_mt_lxx_without_concrete_detail": 9084,
     "included_concrete_mt_lxx_details": 3,
     "skipped_note_type": 109
   },
   "reader_facing_translation_note_filter": {
-    "input_refs": 0,
-    "input_notes": 0,
-    "included_refs": 0,
+    "input_refs": 1,
+    "input_notes": 1,
+    "included_notes": 1,
+    "included_refs": 1,
     "skipped_mechanical_review_note_variants": 0
   },
   "translation_decision_filter": {
     "present": 1,
-    "rows": 12433,
-    "skipped_non_variant": 7810,
+    "rows": 12452,
+    "skipped_non_variant": 7831,
     "skipped_unreviewed": 2733,
-    "included": 1890,
-    "included_refs": 1890
+    "included": 1888,
+    "included_refs": 1888
   },
   "textual_note_export": {
     "present": false,
@@ -53,10 +54,10 @@
     "included_refs": 0,
     "included_total": 0
   },
-  "source_translation_note_refs": 0,
-  "source_translation_note_total": 0,
-  "included_translation_note_refs": 0,
-  "included_translation_note_total": 0,
+  "source_translation_note_refs": 1,
+  "source_translation_note_total": 1,
+  "included_translation_note_refs": 1,
+  "included_translation_note_total": 1,
   "book_prefaces": {
     "present": true,
     "path": "/Users/justinscaggs/Documents/Codex_bible/data/book_intros_template.csv",
@@ -124,14 +125,14 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 0,
     "footnote_columns": 1,
-    "footnote_count": 0,
+    "footnote_count": 1,
     "crossref_footnotes": 0,
-    "translation_note_footnotes": 0,
+    "translation_note_footnotes": 1,
     "section_break_count": 202,
     "footnote_number_restart": "chapter",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
-    "phrase_anchored_translation_notes": 0,
+    "phrase_anchored_translation_notes": 1,
     "verse_anchored_translation_notes": 0,
     "name_meaning_footnotes": 0,
     "supplemental_note_footnotes": 0,
@@ -242,8 +243,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 0,
-      "footnote_body_count": 0
+      "footnote_reference_count": 1,
+      "footnote_body_count": 1
     },
     {
       "path": "output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_reference_notes.docx",
