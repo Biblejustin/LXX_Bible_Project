@@ -9971,6 +9971,10 @@ def test_high_confidence_review_typos_are_corrected_at_source() -> None:
     assert notes_by_ref["Job 38:4"]["trigger_phrase"].startswith(
         "Where were you when I founded the earth?"
     )
+    for ref in ("Psalms 101:26", "Psalms 103:5", "Psalms 118:90", "Proverbs 3:19"):
+        assert "founded the earth" in ot_by_ref[ref]["draft_translation"]
+        assert "founded earth" not in ot_by_ref[ref]["draft_translation"]
+        assert "founded the earth" in notes_by_ref[ref]["trigger_phrase"]
     possessive_span = find_trigger_span("The Song of Songs, which is Solomon's.", "Solomon")
     assert possessive_span is not None
     assert "The Song of Songs, which is Solomon's."[possessive_span[0] : possessive_span[1]] == "Solomon's"
