@@ -648,6 +648,10 @@ def test_joshua_7_wording_and_achan_policy() -> None:
     assert "David added still to inquire" not in by_ref["1 Samuel 23:4"]["draft_translation"]
     assert "Abner said again to Asahel" in by_ref["2 Samuel 2:22"]["draft_translation"]
     assert "Abner added still" not in by_ref["2 Samuel 2:22"]["draft_translation"]
+    assert "And again she bore a son" in by_ref["Genesis 38:5"]["draft_translation"]
+    assert "And adding again" not in by_ref["Genesis 38:5"]["draft_translation"]
+    assert "what more can David say to you" in by_ref["2 Samuel 7:20"]["draft_translation"]
+    assert "what will David add still to speak" not in by_ref["2 Samuel 7:20"]["draft_translation"]
     assert "no longer take pleasure" in by_ref["Psalms 76:8"]["draft_translation"]
     assert "add no more to take pleasure" not in by_ref["Psalms 76:8"]["draft_translation"]
     assert "sinned still more against him" in by_ref["Psalms 77:17"]["draft_translation"]
@@ -708,10 +712,12 @@ def test_joshua_7_wording_and_achan_policy() -> None:
         "Isaiah 7:10",
         "Genesis 18:29",
         "Genesis 37:8",
+        "Genesis 38:5",
         "1 Samuel 18:29",
         "1 Samuel 20:17",
         "1 Samuel 23:4",
         "2 Samuel 2:22",
+        "2 Samuel 7:20",
         "Psalms 76:8",
         "Psalms 77:17",
         "Job 34:32",
