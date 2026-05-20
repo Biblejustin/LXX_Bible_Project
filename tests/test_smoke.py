@@ -272,6 +272,10 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
     assert by_ref["Greek Esther 9:22"]["draft_translation"].startswith(
         "For in these days the Jews rested"
     )
+    assert "wrath of anger" not in by_ref["Sirach 10:18"]["draft_translation"]
+    assert "fierce anger" in by_ref["Sirach 10:18"]["draft_translation"]
+    assert "wrath of anger" not in by_ref["1 Maccabees 2:49"]["draft_translation"]
+    assert "time of overthrow and fierce anger" in by_ref["1 Maccabees 2:49"]["draft_translation"]
     assert by_ref["1 Maccabees 8:29"]["draft_translation"] == (
         "According to these words the Romans established terms with the people of the Jews."
     )
