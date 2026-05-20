@@ -1,4 +1,4 @@
-.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review import-deuterocanon build-deuterocanon build-deuterocanon-logos validate-deuterocanon build-deuterocanon-book build-nt build-nt-fast build-nt-book review-nt-fast build-combined build-combined-logos generate-print-pericopes build-print-proof build-print-proof-lulu-pdf build-print-proof-lulu-pandoc-pdf build-print-proof-handy-pandoc-pdf release-combined clean-working
+.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review import-deuterocanon build-deuterocanon build-deuterocanon-logos validate-deuterocanon build-deuterocanon-book build-nt build-nt-fast build-nt-book review-nt-fast build-combined build-combined-logos build-concordance-preview generate-print-pericopes build-print-proof build-print-proof-lulu-pdf build-print-proof-lulu-pandoc-pdf build-print-proof-handy-pandoc-pdf release-combined clean-working
 
 PYTHON ?= python
 SOFFICE ?= /Applications/LibreOffice.app/Contents/MacOS/soffice
@@ -83,6 +83,9 @@ build-combined:
 
 build-combined-logos:
 	$(PYTHON) scripts/build_fresh_logos_bible.py --testament combined --source data/raw/lxx_greek/ot_full.csv --nt-source data/raw/tr_greek/nt_full.csv --logos-docx output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx --mt-bridge-docx output/logos_greek_heritage/the_greek_heritage_study_bible_reference_notes.docx --proof-docx output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx --diagnostics output/logos_greek_heritage/the_greek_heritage_study_bible_diagnostics.json --readme output/logos_greek_heritage/README.md --preview output/logos_greek_heritage/the_greek_heritage_study_bible_preview.md
+
+build-concordance-preview:
+	$(PYTHON) scripts/build_greek_concordance_preview.py
 
 generate-print-pericopes:
 	$(PYTHON) scripts/generate_print_pericope_headings.py

@@ -26,6 +26,9 @@ Implementation notes:
 - Current verse source rows include Greek text, transliteration, literal gloss, syntax notes, and draft translation.
 - Current verse source rows do not include Greek lemmas, morphology, or word-level Greek-to-English alignment.
 - A useful concordance should therefore start from a curated term table rather than automatic surface-token grouping alone.
-- Proposed term table fields: English heading, Greek lemma/source word, Greek forms to match, testament/source stream, priority, include/exclude flag, and compact note.
-- The generator should emit a separate preview artifact first, then measure page count before any appendix is added to the main print proof.
-- First pass should favor high-value theological and repeated vocabulary over exhaustive coverage.
+- Current term table: `data/research/greek_concordance_terms.csv`.
+- Current generator: `make build-concordance-preview` or `python3 scripts/build_greek_concordance_preview.py`.
+- Current preview artifact: `output/concordance/the_greek_heritage_study_bible_greek_concordance_preview.md`.
+- Current diagnostics: `output/concordance/the_greek_heritage_study_bible_greek_concordance_preview_diagnostics.json`.
+- The first compact candidate excludes very high-frequency terms such as God, Lord, soul, and logos because their full verse lists overwhelm the 30-page target.
+- First pass favors high-value theological and repeated vocabulary over exhaustive coverage.

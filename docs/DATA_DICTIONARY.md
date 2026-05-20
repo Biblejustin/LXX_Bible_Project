@@ -112,6 +112,28 @@ Applies to `data/proper_name_transliteration_notes.csv`.
 | `equivalent_confidence` | Confidence category for the chosen equivalent |
 | `footnote` | Reader-facing note text |
 
+## Greek Concordance Terms
+
+Applies to `data/research/greek_concordance_terms.csv`.
+
+This table drives the separate compact concordance preview emitted by
+`scripts/build_greek_concordance_preview.py`. It is intentionally curated
+because current verse source rows do not yet include full lemmatization,
+morphology, or word-level Greek-to-English alignment.
+
+| Column | Meaning |
+| --- | --- |
+| `entry_id` | Stable machine key for the concordance entry |
+| `english_heading` | Human-readable heading for the concordance entry |
+| `greek_lemma` | Greek lemma or source form shown to readers |
+| `transliteration` | Plain transliteration for the Greek lemma |
+| `testament` | `ot`, `nt`, or `both`, controlling which source stream is scanned |
+| `greek_forms` | Semicolon-separated Greek forms matched against normalized source tokens |
+| `english_renderings` | Semicolon-separated English rendering hints used to group verse hits |
+| `priority` | Rough editorial priority for print inclusion |
+| `include` | `yes` if included in the current compact preview candidate |
+| `note` | Short reader-facing or editor-facing note for the entry |
+
 ## Contextual Proper Name Decisions
 
 Applies to `data/research/contextual_proper_name_decisions.csv`.

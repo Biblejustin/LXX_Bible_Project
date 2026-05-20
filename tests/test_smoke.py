@@ -754,6 +754,44 @@ def test_genesis_31_41_wage_unit_note_matches_lxx_review() -> None:
     assert "as ten ewe lambs" in notes_by_ref["Genesis 31:41"]["footnote_text"]
 
 
+def test_greek_concordance_preview_is_greek_driven_and_compact() -> None:
+    output_dir = ROOT / "output" / "working" / "test_greek_concordance"
+    preview = output_dir / "greek_concordance_preview.md"
+    diagnostics = output_dir / "greek_concordance_preview_diagnostics.json"
+    result = subprocess.run(
+        [
+            sys.executable,
+            "scripts/build_greek_concordance_preview.py",
+            "--output-md",
+            str(preview),
+            "--diagnostics",
+            str(diagnostics),
+        ],
+        cwd=ROOT,
+        text=True,
+        capture_output=True,
+        check=True,
+    )
+
+    diagnostic_data = json.loads(diagnostics.read_text(encoding="utf-8"))
+    preview_text = preview.read_text(encoding="utf-8")
+    terms = csv_rows("data/research/greek_concordance_terms.csv")
+
+    assert json.loads(result.stdout)["rough_page_estimate_at_450_words"] <= 30
+    assert diagnostic_data["terms_in_table"] == len(terms)
+    assert diagnostic_data["terms_included"] < diagnostic_data["terms_in_table"]
+    assert diagnostic_data["terms_with_matches"] == diagnostic_data["terms_included"]
+    assert diagnostic_data["rough_page_estimate_at_450_words"] <= 30
+    assert "curated Greek forms" in diagnostic_data["method"]
+    assert "## Spirit / Wind / Breath" in preview_text
+    assert "Greek: πνεῦμα (pneuma)" in preview_text
+    assert "**Spirit**" in preview_text
+    assert "**wind**" in preview_text
+    assert "Jer 10:14" in preview_text
+    assert "Jeremiah 10:14" not in preview_text
+    assert "## Lord" not in preview_text
+
+
 def test_safe_review_csv_append_quotes_commas(tmp_path: Path) -> None:
     target = tmp_path / "review.csv"
     target.write_text("ref,note\n", encoding="utf-8")
