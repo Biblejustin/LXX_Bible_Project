@@ -32,3 +32,5 @@ Implementation notes:
 - Current diagnostics: `output/concordance/the_greek_heritage_study_bible_greek_concordance_preview_diagnostics.json`.
 - The first compact candidate excludes very high-frequency terms such as God, Lord, soul, and logos because their full verse lists overwhelm the 30-page target.
 - First pass favors high-value theological and repeated vocabulary over exhaustive coverage.
+- Current preview status: 29 configured terms, 25 terms with matches, about 12,900 words, and an estimated 28.7 pages at 450 words per page.
+- Current reference style uses print book abbreviations such as `Jer`, `Matt`, and `Rev`.
