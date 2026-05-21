@@ -114,12 +114,14 @@ Applies to `data/proper_name_transliteration_notes.csv`.
 
 ## Greek Concordance Terms
 
-Applies to `data/research/greek_concordance_terms.csv`.
+Applies to `data/research/greek_concordance_terms.csv` and the broad
+`BROAD_TERMS` list in `scripts/build_greek_concordance_preview.py`.
 
-This table drives the separate compact concordance preview emitted by
-`scripts/build_greek_concordance_preview.py`. It is intentionally curated
-because current verse source rows do not yet include full lemmatization,
-morphology, or word-level Greek-to-English alignment.
+The CSV drives the small compact concordance preview. The broad print candidate
+uses the same `Term` shape but keeps its larger curated list in the generator
+itself. Both are intentionally curated because current verse source rows do not
+yet include full lemmatization, morphology, or word-level Greek-to-English
+alignment.
 
 | Column | Meaning |
 | --- | --- |
