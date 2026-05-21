@@ -33,7 +33,7 @@ Implementation notes:
 - Current broad diagnostics: `output/concordance/the_greek_heritage_study_bible_greek_concordance_broad_preview_diagnostics.json`.
 - The broad candidate includes high-frequency core terms but keeps them usable through per-rendering caps and reference ranking rather than full verse lists.
 - The broad candidate suppresses "other rendering" buckets and omitted-reference notices to avoid filler in the printed appendix.
-- Current broad preview status: 437 configured terms, 436 rendered terms, about 16,250 words, and an estimated 18.1 compact-print pages at 900 words per page. The current two-column PDF renders at 17 pages. The older 450-word estimate remains in diagnostics as a conservative raw-word reference, but the two-column print layout has proven much denser.
+- Current broad preview status: 471 configured terms, 470 rendered terms, about 17,109 words, and an estimated 19.0 compact-print pages at 900 words per page. The current two-column PDF renders at 18 pages. The older 450-word estimate remains in diagnostics as a conservative raw-word reference, but the two-column print layout has proven much denser.
 - Current reference style uses print book abbreviations such as `Jer`, `Matt`, and `Rev`.
 
 ## Cross-Reference Target Audit
