@@ -826,6 +826,48 @@ def test_greek_concordance_preview_is_greek_driven_and_compact() -> None:
     assert "## Lord" not in preview_text
 
 
+def test_broad_greek_concordance_preview_is_capped_and_abbreviated() -> None:
+    output_dir = ROOT / "output" / "working" / "test_greek_concordance"
+    preview = output_dir / "greek_concordance_broad_preview.md"
+    diagnostics = output_dir / "greek_concordance_broad_preview_diagnostics.json"
+    result = subprocess.run(
+        [
+            sys.executable,
+            "scripts/build_greek_concordance_preview.py",
+            "--profile",
+            "broad",
+            "--output-md",
+            str(preview),
+            "--diagnostics",
+            str(diagnostics),
+        ],
+        cwd=ROOT,
+        text=True,
+        capture_output=True,
+        check=True,
+    )
+
+    diagnostic_data = json.loads(diagnostics.read_text(encoding="utf-8"))
+    preview_text = preview.read_text(encoding="utf-8")
+
+    assert json.loads(result.stdout)["rough_page_estimate_at_450_words"] <= 30
+    assert diagnostic_data["profile"] == "broad-capped"
+    assert diagnostic_data["terms_in_table"] >= 300
+    assert diagnostic_data["terms_rendered"] >= 300
+    assert diagnostic_data["terms_with_matches"] >= diagnostic_data["terms_rendered"]
+    assert diagnostic_data["total_omitted_refs"] > 0
+    assert diagnostic_data["suppressed_other_rendering_hits"] > 0
+    assert "anchor refs" in diagnostic_data["ranking"]
+    assert "## God (θεός, theos)" in preview_text
+    assert "## Faith / Trust (πίστις, pistis)" in preview_text
+    assert "## Hospitality (φιλοξενία, philoxenia)" in preview_text
+    assert "Omitted for print space" not in preview_text
+    assert "other rendering" not in preview_text
+    assert re.search(r"^Greek:", preview_text, re.MULTILINE) is None
+    assert "Gen 1:2" in preview_text
+    assert "Genesis 1:2" not in preview_text
+
+
 def test_safe_review_csv_append_quotes_commas(tmp_path: Path) -> None:
     target = tmp_path / "review.csv"
     target.write_text("ref,note\n", encoding="utf-8")

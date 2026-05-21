@@ -1,9 +1,10 @@
-.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review import-deuterocanon build-deuterocanon build-deuterocanon-logos validate-deuterocanon build-deuterocanon-book build-nt build-nt-fast build-nt-book review-nt-fast build-combined build-combined-logos build-concordance-preview build-study-helps-appendix generate-print-pericopes build-print-proof build-print-proof-lulu-pdf build-print-proof-lulu-pandoc-pdf build-print-proof-handy-pandoc-pdf release-combined clean-working
+.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review import-deuterocanon build-deuterocanon build-deuterocanon-logos validate-deuterocanon build-deuterocanon-book build-nt build-nt-fast build-nt-book review-nt-fast build-combined build-combined-logos build-concordance-preview build-concordance-broad-preview build-study-helps-appendix generate-print-pericopes build-print-proof build-print-proof-lulu-pdf build-print-proof-lulu-pandoc-pdf build-print-proof-lulu-pandoc-pdf-with-backmatter build-print-proof-handy-pandoc-pdf release-combined clean-working
 
 PYTHON ?= python
 SOFFICE ?= /Applications/LibreOffice.app/Contents/MacOS/soffice
 PANDOC ?= pandoc
 XELATEX ?= xelatex
+GS ?= gs
 CHANGES ?= Reviewed article and readability cleanup.
 GUARD_NOTE ?= review chunk
 
@@ -87,6 +88,9 @@ build-combined-logos:
 build-concordance-preview:
 	$(PYTHON) scripts/build_greek_concordance_preview.py
 
+build-concordance-broad-preview:
+	$(PYTHON) scripts/build_greek_concordance_preview.py --profile broad
+
 build-study-helps-appendix:
 	$(PYTHON) scripts/build_study_helps_appendix.py
 
@@ -107,6 +111,10 @@ build-print-proof-lulu-pandoc-pdf: generate-print-pericopes
 	rm -f output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.aux output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.log output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.out output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.tex
 	$(PYTHON) scripts/stamp_print_pdf_headers.py --input output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.pdf --output output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf --source data/raw/lxx_greek/ot_full.csv --nt-source data/raw/tr_greek/nt_full.csv --diagnostics output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_pdf_headers.json
 	rm -f output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.pdf
+
+build-print-proof-lulu-pandoc-pdf-with-backmatter: build-print-proof-lulu-pandoc-pdf build-study-helps-appendix build-concordance-broad-preview
+	$(PANDOC) output/concordance/the_greek_heritage_study_bible_greek_concordance_broad_preview.md -s -o output/concordance/the_greek_heritage_study_bible_greek_concordance_broad_preview.pdf --pdf-engine=xelatex -H scripts/pandoc_concordance_header.tex -V documentclass=extarticle -V classoption=twocolumn -V papersize=letter -V geometry:margin=0.45in -V mainfont="Times New Roman" -V mainfontoptions=Ligatures=NoCommon
+	$(GS) -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.7 -dPDFSETTINGS=/prepress -sOutputFile=output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_with_appendix_concordance.pdf output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf output/doc/greek_heritage_study_helps_appendix.pdf output/concordance/the_greek_heritage_study_bible_greek_concordance_broad_preview.pdf
 
 build-print-proof-handy-pandoc-pdf: generate-print-pericopes
 	mkdir -p output/print/size_sweep/handy_6_39x9_46
