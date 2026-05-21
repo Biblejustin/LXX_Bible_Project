@@ -10414,6 +10414,17 @@ def test_lulu_pandoc_pdf_crossrefs_use_abbreviated_book_names() -> None:
     assert "Psalms 104:30" not in xref_text
 
 
+def test_compact_print_crossrefs_drop_semicolons_and_terminal_period() -> None:
+    sys.path.insert(0, str(ROOT / "scripts"))
+    import build_fresh_logos_bible as logos_builder
+
+    note = 'Cross-references: John 1:1-3; Heb 11:3; Isa 45:18; Rev 4:11.'
+    assert (
+        logos_builder.compact_print_footnote_text(note)
+        == "X: John 1:1-3 Heb 11:3 Isa 45:18 Rev 4:11"
+    )
+
+
 def test_lulu_pandoc_pdf_no_overlapping_markers() -> None:
     pdf_path = pandoc_pdf_output_dir() / "the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf"
     document = fitz.open(pdf_path)

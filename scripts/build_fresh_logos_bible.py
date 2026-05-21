@@ -1215,6 +1215,9 @@ def compact_print_footnote_text(value: str) -> str:
     value = value.replace("—", ": ").replace("–", "-")
     value = re.sub(r'^Cross-references for "([^"]+)": ', r"X: \1: ", value)
     value = re.sub(r"^Cross-references: ", "X: ", value)
+    if value.startswith("X: "):
+        value = re.sub(r"\.$", "", value)
+        value = value.replace("; ", " ")
     value = strip_redundant_print_name_fields(value)
     return normalize_space(value)
 
