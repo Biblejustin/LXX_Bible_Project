@@ -5,6 +5,7 @@
 \usepackage{ragged2e}
 \definecolor{GHSBRed}{HTML}{9B1C1C}
 \definecolor{GHSBBlue}{HTML}{1F4E79}
+\providecommand{\GHSBNativeHeadersEnabled}{0}
 \usepackage[para*]{manyfoot}
 \makeatletter
 \SetFootnoteHook{%
@@ -26,8 +27,37 @@
 \renewcommand\@makefnmark{\hbox{\textsuperscript{\normalfont\textcolor{GHSBBlue}{\@thefnmark}}}}
 \renewcommand\dfn@makefnmark{\normalfont\textcolor{GHSBBlue}{\@thefnmark}}
 \makeatother
-\pagestyle{empty}
-\pagenumbering{gobble}
+\usepackage{etoolbox}
+\newmarks\GHSBVerseMarks
+\newcommand{\GHSBVerse}[4]{%
+  \marks\GHSBVerseMarks{#1 #2:#3}%
+  \textcolor{GHSBRed}{\textbf{#4}}%
+}
+\makeatletter
+\newcommand{\GHSBRunningRange}{%
+  \begingroup
+  \edef\GHSBFirst{\firstmarks\GHSBVerseMarks}%
+  \edef\GHSBLast{\botmarks\GHSBVerseMarks}%
+  \ifx\GHSBFirst\@empty
+  \else
+    \GHSBFirst
+    \ifx\GHSBFirst\GHSBLast\else-\GHSBLast\fi
+  \fi
+  \endgroup
+}
+\makeatother
+\ifnum\GHSBNativeHeadersEnabled=1
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhf{}
+  \fancyhead[LE,RO]{\normalfont\fontsize{7pt}{8pt}\selectfont\thepage}
+  \fancyhead[CE,CO]{\normalfont\fontsize{7pt}{8pt}\selectfont\textcolor{GHSBRed}{\GHSBRunningRange}}
+  \renewcommand{\headrulewidth}{0pt}
+  \pagenumbering{arabic}
+\else
+  \pagestyle{empty}
+  \pagenumbering{gobble}
+\fi
 \makeatletter
 \renewcommand{\maketitle}{%
   \begingroup

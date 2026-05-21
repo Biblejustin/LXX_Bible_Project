@@ -48,3 +48,4 @@ Implementation notes:
 - Direct DOCX headers are not a good replacement for chapter/verse ranges because Word/Pandoc pagination can change and DOCX does not know the first and last Bible reference on each final PDF page.
 - Better replacement path: add a Pandoc Lua filter after `pandoc_split_xrefs.lua` that converts verse-number `Strong` nodes into LaTeX verse markers, then let XeLaTeX build running headers from TeX marks at compile time.
 - That approach should keep page numbers and reference ranges native in the PDF text layer and remove the remaining header overlay/clipping risk. It should be done as a focused renderer change, not mixed with content edits.
+- Experimental target: `make build-print-proof-lulu-pandoc-pdf-native-headers` writes `output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_native_headers.pdf` using native LaTeX marks instead of the post-PDF header overlay. It is a comparison artifact only until visually approved.
