@@ -2,7 +2,7 @@
   "input": "output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_raw.pdf",
   "output": "output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf",
   "page_count": 633,
-  "headers_with_ranges": 631,
+  "headers_with_ranges": 632,
   "text_extractor": "pymupdf",
   "pdf_writer": "pymupdf",
   "header_font": "/System/Library/Fonts/Supplemental/Times New Roman.ttf",
@@ -22,17 +22,25 @@
     },
     {
       "page": 2,
-      "range": "",
-      "first_ref": null,
-      "last_ref": null
-    },
-    {
-      "page": 3,
-      "range": "Genesis 1:1-31",
+      "range": "Genesis 1:1-2",
       "first_ref": {
         "book": "Genesis",
         "chapter": 1,
         "verse": 1
+      },
+      "last_ref": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "page": 3,
+      "range": "Genesis 1:2-31",
+      "first_ref": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
       },
       "last_ref": {
         "book": "Genesis",
@@ -42,109 +50,109 @@
     },
     {
       "page": 4,
-      "range": "Genesis 1:31-3:7",
+      "range": "Genesis 2:1-3:12",
       "first_ref": {
         "book": "Genesis",
-        "chapter": 1,
-        "verse": 31
-      },
-      "last_ref": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 7
-      }
-    },
-    {
-      "page": 5,
-      "range": "Genesis 3:7-4:23",
-      "first_ref": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 7
-      },
-      "last_ref": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 23
-      }
-    },
-    {
-      "page": 6,
-      "range": "Genesis 4:23-6:17",
-      "first_ref": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 23
-      },
-      "last_ref": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 17
-      }
-    },
-    {
-      "page": 7,
-      "range": "Genesis 6:17-8:22",
-      "first_ref": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 17
-      },
-      "last_ref": {
-        "book": "Genesis",
-        "chapter": 8,
-        "verse": 22
-      }
-    },
-    {
-      "page": 8,
-      "range": "Genesis 9:1-10:16",
-      "first_ref": {
-        "book": "Genesis",
-        "chapter": 9,
+        "chapter": 2,
         "verse": 1
       },
       "last_ref": {
         "book": "Genesis",
+        "chapter": 3,
+        "verse": 12
+      }
+    },
+    {
+      "page": 5,
+      "range": "Genesis 3:12-4:24",
+      "first_ref": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 12
+      },
+      "last_ref": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 24
+      }
+    },
+    {
+      "page": 6,
+      "range": "Genesis 4:24-6:20",
+      "first_ref": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 24
+      },
+      "last_ref": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 20
+      }
+    },
+    {
+      "page": 7,
+      "range": "Genesis 6:20-9:2",
+      "first_ref": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 20
+      },
+      "last_ref": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 2
+      }
+    },
+    {
+      "page": 8,
+      "range": "Genesis 9:2-10:17",
+      "first_ref": {
+        "book": "Genesis",
+        "chapter": 9,
+        "verse": 2
+      },
+      "last_ref": {
+        "book": "Genesis",
         "chapter": 10,
-        "verse": 16
+        "verse": 17
       }
     },
     {
       "page": 9,
-      "range": "Genesis 10:16-11:31",
+      "range": "Genesis 10:17-11:32",
       "first_ref": {
         "book": "Genesis",
         "chapter": 10,
-        "verse": 16
+        "verse": 17
       },
       "last_ref": {
         "book": "Genesis",
         "chapter": 11,
-        "verse": 31
+        "verse": 32
       }
     },
     {
       "page": 10,
-      "range": "Genesis 11:31-14:2",
+      "range": "Genesis 12:1-14:5",
       "first_ref": {
         "book": "Genesis",
-        "chapter": 11,
-        "verse": 31
+        "chapter": 12,
+        "verse": 1
       },
       "last_ref": {
         "book": "Genesis",
         "chapter": 14,
-        "verse": 2
+        "verse": 5
       }
     },
     {
       "page": 11,
-      "range": "Genesis 14:2-15:21",
+      "range": "Genesis 14:5-15:21",
       "first_ref": {
         "book": "Genesis",
         "chapter": 14,
-        "verse": 2
+        "verse": 5
       },
       "last_ref": {
         "book": "Genesis",
@@ -154,11 +162,11 @@
     },
     {
       "page": 12,
-      "range": "Genesis 15:21-17:27",
+      "range": "Genesis 16:1-17:27",
       "first_ref": {
         "book": "Genesis",
-        "chapter": 15,
-        "verse": 21
+        "chapter": 16,
+        "verse": 1
       },
       "last_ref": {
         "book": "Genesis",
@@ -168,39 +176,39 @@
     },
     {
       "page": 13,
-      "range": "Genesis 17:27-19:16",
+      "range": "Genesis 18:1-19:17",
       "first_ref": {
         "book": "Genesis",
-        "chapter": 17,
-        "verse": 27
+        "chapter": 18,
+        "verse": 1
       },
       "last_ref": {
         "book": "Genesis",
         "chapter": 19,
-        "verse": 16
+        "verse": 17
       }
     },
     {
       "page": 14,
-      "range": "Genesis 19:16-21:11",
+      "range": "Genesis 19:17-21:12",
       "first_ref": {
         "book": "Genesis",
         "chapter": 19,
-        "verse": 16
+        "verse": 17
       },
       "last_ref": {
         "book": "Genesis",
         "chapter": 21,
-        "verse": 11
+        "verse": 12
       }
     },
     {
       "page": 15,
-      "range": "Genesis 21:11-22:24",
+      "range": "Genesis 21:12-22:24",
       "first_ref": {
         "book": "Genesis",
         "chapter": 21,
-        "verse": 11
+        "verse": 12
       },
       "last_ref": {
         "book": "Genesis",
