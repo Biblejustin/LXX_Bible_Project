@@ -121,7 +121,9 @@ The CSV drives the small compact concordance preview. The broad print candidate
 uses the same `Term` shape but keeps its larger curated list in the generator
 itself. Both are intentionally curated because current verse source rows do not
 yet include full lemmatization, morphology, or word-level Greek-to-English
-alignment.
+alignment. Broad-concordance diagnostics keep both a conservative raw
+450-words-per-page estimate and a compact two-column print estimate; the print
+budget uses the compact estimate.
 
 | Column | Meaning |
 | --- | --- |

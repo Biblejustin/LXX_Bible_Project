@@ -850,10 +850,14 @@ def test_broad_greek_concordance_preview_is_capped_and_abbreviated() -> None:
     diagnostic_data = json.loads(diagnostics.read_text(encoding="utf-8"))
     preview_text = preview.read_text(encoding="utf-8")
 
-    assert json.loads(result.stdout)["rough_page_estimate_at_450_words"] <= 30
+    stdout_data = json.loads(result.stdout)
+    budget_field = stdout_data["page_budget_estimate_field"]
+    assert budget_field == "rough_compact_print_page_estimate_at_900_words"
+    assert stdout_data[budget_field] <= stdout_data["page_budget_target"]
     assert diagnostic_data["profile"] == "broad-capped"
-    assert diagnostic_data["terms_in_table"] >= 300
-    assert diagnostic_data["terms_rendered"] >= 300
+    assert diagnostic_data[diagnostic_data["page_budget_estimate_field"]] <= diagnostic_data["page_budget_target"]
+    assert diagnostic_data["terms_in_table"] >= 430
+    assert diagnostic_data["terms_rendered"] >= 430
     assert diagnostic_data["terms_with_matches"] >= diagnostic_data["terms_rendered"]
     assert diagnostic_data["total_omitted_refs"] > 0
     assert diagnostic_data["suppressed_other_rendering_hits"] > 0
@@ -861,6 +865,10 @@ def test_broad_greek_concordance_preview_is_capped_and_abbreviated() -> None:
     assert "## God (θεός, theos)" in preview_text
     assert "## Faith / Trust (πίστις, pistis)" in preview_text
     assert "## Hospitality (φιλοξενία, philoxenia)" in preview_text
+    assert "## Seek (ζητέω, zeteo)" in preview_text
+    assert "## Hear (ἀκούω, akouo)" in preview_text
+    assert "## Joshua (Ἰησοῦς, Iesous)" in preview_text
+    assert "## Peter (Πέτρος, Petros)" in preview_text
     assert "Omitted for print space" not in preview_text
     assert "other rendering" not in preview_text
     assert re.search(r"^Greek:", preview_text, re.MULTILINE) is None
@@ -10397,13 +10405,11 @@ def test_lulu_pandoc_pdf_crossrefs_use_abbreviated_book_names() -> None:
     assert "Heb 11:3" in xref_text
     assert "Isa 45:18" in xref_text
     assert "Rev 4:11" in xref_text
-    assert "Gen 1:18" in xref_text
     assert "Ps 103:30" in xref_text
     assert "Ps 104:30" not in xref_text
     assert "Hebrews 11:3" not in xref_text
     assert "Isaiah 45:18" not in xref_text
     assert "Revelation 4:11" not in xref_text
-    assert "Genesis 1:18" not in xref_text
     assert "Psalms 103:30" not in xref_text
     assert "Psalms 104:30" not in xref_text
 

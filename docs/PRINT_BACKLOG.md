@@ -15,7 +15,7 @@ Constraints:
 
 Open design questions:
 
-- Which additional Greek terms are worth adding without pushing the broad preview past the 30-page cap.
+- Which additional Greek terms are worth adding without pushing the broad preview past the compact 30-page cap.
 - Whether the broad preview should continue suppressing low-value "other rendering" buckets or show a few of them in a later reference-only edition.
 - Whether OT LXX and NT TR terms should be merged when the Greek lemma is the same, or marked by testament/source stream.
 - Whether names, divine titles, and common particles should be excluded by default.
@@ -33,5 +33,5 @@ Implementation notes:
 - Current broad diagnostics: `output/concordance/the_greek_heritage_study_bible_greek_concordance_broad_preview_diagnostics.json`.
 - The broad candidate includes high-frequency core terms but keeps them usable through per-rendering caps and reference ranking rather than full verse lists.
 - The broad candidate suppresses "other rendering" buckets and omitted-reference notices to avoid filler in the printed appendix.
-- Current broad preview status: 363 configured terms, 362 rendered terms, about 13,500 words, and an estimated 29.9 pages at 450 words per page.
+- Current broad preview status: 437 configured terms, 436 rendered terms, about 16,250 words, and an estimated 18.1 compact-print pages at 900 words per page. The current two-column PDF renders at 17 pages. The older 450-word estimate remains in diagnostics as a conservative raw-word reference, but the two-column print layout has proven much denser.
 - Current reference style uses print book abbreviations such as `Jer`, `Matt`, and `Rev`.
