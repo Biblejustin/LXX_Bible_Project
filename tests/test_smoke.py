@@ -10261,7 +10261,7 @@ def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
     assert "—" not in footnotes_xml
     assert "Article review supplied" not in footnotes_xml
     assert "Article cleanup:" not in footnotes_xml
-    assert "article-supply decisions" in document_xml
+    assert "Article/readability policy" in document_xml
     assert "Std: Gomer. Src: Gomer." not in footnotes_xml
     assert "Lulu-safe mirrored POD margins" in readme
     assert "Lulu PDF build stamps page numbers and chapter/verse ranges" in readme
