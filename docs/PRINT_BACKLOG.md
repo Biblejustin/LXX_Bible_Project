@@ -35,3 +35,9 @@ Implementation notes:
 - The broad candidate suppresses "other rendering" buckets and omitted-reference notices to avoid filler in the printed appendix.
 - Current broad preview status: 437 configured terms, 436 rendered terms, about 16,250 words, and an estimated 18.1 compact-print pages at 900 words per page. The current two-column PDF renders at 17 pages. The older 450-word estimate remains in diagnostics as a conservative raw-word reference, but the two-column print layout has proven much denser.
 - Current reference style uses print book abbreviations such as `Jer`, `Matt`, and `Rev`.
+
+## Cross-Reference Target Audit
+
+- Current audit command: `python3 scripts/audit_crossref_targets.py`.
+- Latest checked result: 0 broken targets in both the Logos combined cross-reference profile and the print OpenBible top-N profile.
+- The audit accepts internal verse-number gaps inside a range when both range endpoints resolve in the current LXX/TR source rows.
