@@ -93,6 +93,7 @@ build-concordance-broad-preview:
 
 build-study-helps-appendix:
 	$(PYTHON) scripts/build_study_helps_appendix.py
+	$(PANDOC) output/doc/greek_heritage_study_helps_appendix.md -s -o output/doc/greek_heritage_study_helps_appendix.pdf --pdf-engine=xelatex -V documentclass=extarticle -V papersize=letter -V geometry:margin=0.65in -V mainfont="Times New Roman" -V mainfontoptions=Ligatures=NoCommon
 
 generate-print-pericopes:
 	$(PYTHON) scripts/generate_print_pericope_headings.py

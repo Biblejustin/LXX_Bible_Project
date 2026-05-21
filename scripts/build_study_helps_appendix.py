@@ -191,6 +191,11 @@ VERSE_INDEX = load_verses()
 ENGLISH_TO_LOCAL = bible_builder.invert_versification_map(
     bible_builder.effective_versification_map(None)
 )
+REF_BOOK_LABEL_PATTERN = re.compile(
+    r"(?<![A-Za-z0-9])("
+    + "|".join(re.escape(label) for label in sorted(study_builder.REF_BOOK_ALIASES, key=len, reverse=True))
+    + r")\s+\d+(?::\d+(?:-\d+)?)?(?:-\d+(?::\d+)?)?"
+)
 
 
 def mapped_code_ref(code: str, chapter: int, verse: int) -> str:
@@ -210,6 +215,14 @@ def normalize_ref_text(ref: str) -> str:
         .replace("Psalm ", "Psalms ")
         .strip()
     )
+
+
+def abbreviate_ref_label(ref: str) -> str:
+    return print_builder.abbreviate_print_crossref(ref.replace("Psalm ", "Psalms "))
+
+
+def abbreviate_embedded_references(text: str) -> str:
+    return REF_BOOK_LABEL_PATTERN.sub(lambda match: abbreviate_ref_label(match.group(0)), text)
 
 
 def local_ref_label(original_ref: str, code_refs: list[str]) -> str:
@@ -235,8 +248,8 @@ def local_ref_label(original_ref: str, code_refs: list[str]) -> str:
     else:
         local_label = local_labels[0]
     if normalize_ref_text(local_label) != normalize_ref_text(original_ref):
-        return f"{local_label} (English {original_ref})"
-    return local_label
+        return f"{abbreviate_ref_label(local_label)} (English {abbreviate_ref_label(original_ref)})"
+    return abbreviate_ref_label(local_label)
 
 
 def expand_reference(ref: str) -> tuple[str, str, list[str]]:
@@ -281,8 +294,8 @@ def normalize_reference_list(refs: str) -> str:
                 code_refs.append(mapped_code_ref(code, chapter, verse_end))
             normalized.append(local_ref_label(raw_ref, code_refs))
         else:
-            normalized.append(piece)
-    return "; ".join(print_builder.abbreviate_print_crossref(item) for item in normalized)
+            normalized.append(abbreviate_ref_label(piece))
+    return "; ".join(abbreviate_ref_label(item) for item in normalized)
 
 
 def render_markdown() -> tuple[str, list[tuple[str, str]]]:
@@ -296,7 +309,7 @@ def render_markdown() -> tuple[str, list[tuple[str, str]]]:
         "",
     ]
     for item in NUMBER_MEANINGS:
-        lines.append(f"**{item.number}. {item.title}.** {item.text}")
+        lines.append(f"**{item.number}. {item.title}.** {abbreviate_embedded_references(item.text)}")
         lines.append("")
     lines.extend(
         [

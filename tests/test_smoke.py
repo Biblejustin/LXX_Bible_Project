@@ -10943,4 +10943,6 @@ def test_study_helps_appendix_omits_reading_plan_and_resolves_refs() -> None:
     assert "SECTION 1" not in markdown
     assert "Largest OT section" not in markdown
     assert "missing local verse text" not in markdown
-    assert "Psalms 22:1 (English Psalm 23:1)" in markdown
+    assert "Ps 22:1 (English Ps 23:1)" in markdown
+    assert "Psalms 22:1 (English Psalm 23:1)" not in markdown
+    assert "Key reference: Deut 6:4." in markdown
