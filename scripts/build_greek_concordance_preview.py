@@ -131,17 +131,22 @@ def broad_term(
     priority: str = "broad",
     testament: str = "both",
     note: str = "",
+    forms: str = "",
 ) -> Term:
     stem_values = frozenset(
         normalize_greek(stem.strip()) for stem in stems.split(";") if stem.strip()
     )
+    form_values = {
+        normalize_greek(form.strip()) for form in forms.split(";") if form.strip()
+    }
+    form_values.add(normalize_greek(lemma))
     return Term(
         entry_id=entry_id,
         english_heading=heading,
         greek_lemma=lemma,
         transliteration=transliteration,
         testament=testament,
-        greek_forms=frozenset({normalize_greek(lemma)}),
+        greek_forms=frozenset(form_values),
         greek_stems=stem_values,
         english_renderings=tuple(
             rendering.strip() for rendering in renderings.split(";") if rendering.strip()
@@ -252,6 +257,9 @@ BROAD_TERMS: tuple[Term, ...] = (
     broad_term("david", "David", "Δαυίδ", "Dauid", "δαυιδ", "David"),
     broad_term("moses", "Moses", "Μωυσῆς", "Moses", "μωυσ;μωυση", "Moses"),
     broad_term("abraham", "Abraham", "Ἀβραάμ", "Abraam", "αβρααμ", "Abraham"),
+    broad_term("abel", "Abel", "Ἄβελ", "Abel", "αβελ", "Abel"),
+    broad_term("enoch", "Enoch", "Ἑνώχ", "Enoch", "ενωχ", "Enoch"),
+    broad_term("job-name", "Job", "Ἰώβ", "Iob", "ιωβ", "Job"),
     broad_term("seed", "Seed", "σπέρμα", "sperma", "σπερμ", "seed"),
     broad_term("promise", "Promise", "ἐπαγγελία", "epangelia", "επαγγελ", "promise"),
     broad_term("inheritance", "Inheritance", "κληρονομία", "kleronomia", "κληρονομ", "inheritance;heir"),
@@ -589,6 +597,37 @@ BROAD_TERMS: tuple[Term, ...] = (
     broad_term("Mary", "Mary", "Μαρία", "Maria", "μαρι", "Mary", testament="nt"),
     broad_term("Pilate", "Pilate", "Πιλᾶτος", "Pilatos", "πιλατ", "Pilate", testament="nt"),
     broad_term("Herod", "Herod", "Ἡρῴδης", "Herodes", "ηρωδ", "Herod", testament="nt"),
+    broad_term("elijah", "Elijah", "Ἠλίας", "Elias", "ηλια", "Elijah;Elias"),
+    broad_term("elisha", "Elisha", "Ἐλισαιέ", "Elisaie", "ελισαι", "Elisha;Eliseus"),
+    broad_term("isaiah-name", "Isaiah", "Ἠσαΐας", "Esaias", "ησαι", "Isaiah;Esaias"),
+    broad_term("jeremiah-name", "Jeremiah", "Ἱερεμίας", "Ieremias", "ιερεμι", "Jeremiah;Jeremy"),
+    broad_term("ezekiel-name", "Ezekiel", "Ἰεζεκιήλ", "Iezekiel", "ιεζεκι", "Ezekiel"),
+    broad_term("jonah-name", "Jonah", "Ἰωνᾶς", "Ionas", "", "Jonah;Jonas", forms="ιωνασ;ιωνα;ιωναν"),
+    broad_term("lazarus", "Lazarus", "Λάζαρος", "Lazaros", "λαζαρ", "Lazarus", testament="nt"),
+    broad_term("martha", "Martha", "Μάρθα", "Martha", "μαρθ", "Martha", testament="nt"),
+    broad_term("philip", "Philip", "Φίλιππος", "Philippos", "φιλιππ", "Philip", testament="nt"),
+    broad_term("thomas", "Thomas", "Θωμᾶς", "Thomas", "θωμ", "Thomas", testament="nt"),
+    broad_term("andrew", "Andrew", "Ἀνδρέας", "Andreas", "", "Andrew", testament="nt", forms="ανδρεασ;ανδρεου;ανδρεαν;ανδρεα"),
+    broad_term("barnabas", "Barnabas", "Βαρνάβας", "Barnabas", "βαρναβ", "Barnabas", testament="nt"),
+    broad_term("silas", "Silas", "Σίλας", "Silas", "σιλα", "Silas", testament="nt"),
+    broad_term("timothy", "Timothy", "Τιμόθεος", "Timotheos", "τιμοθε", "Timothy", testament="nt"),
+    broad_term("titus-name", "Titus", "Τίτος", "Titos", "τιτ", "Titus", testament="nt"),
+    broad_term("barabbas", "Barabbas", "Βαραββᾶς", "Barabbas", "", "Barabbas", testament="nt", forms="βαραββασ;βαραββαν"),
+    broad_term("pharaoh", "Pharaoh", "Φαραώ", "Pharao", "φαραω", "Pharaoh"),
+    broad_term("nebuchadnezzar", "Nebuchadnezzar", "Ναβουχοδονοσορ", "Nabouchodonosor", "ναβουχοδ", "Nebuchadnezzar"),
+    broad_term("cyrus", "Cyrus", "Κῦρος", "Kyros", "", "Cyrus", forms="κυροσ;κυρου;κυρω"),
+    broad_term("paradise", "Paradise / Garden", "παράδεισος", "paradeisos", "παραδεισ", "paradise;garden of delight;garden"),
+    broad_term("cherubim", "Cherubim", "Χερουβίμ", "Cheroubim", "χερουβ", "Cherubim"),
+    broad_term("seraphim", "Seraphim", "Σεραφίμ", "Seraphim", "", "Seraphim", forms="σεραφιν"),
+    broad_term("giant", "Giant", "γίγας", "gigas", "γιγαν;γιγας", "giant;giants"),
+    broad_term("abomination", "Abomination", "βδέλυγμα", "bdelygma", "βδελυγ", "abomination"),
+    broad_term("refuge", "Refuge / Shelter", "καταφυγή", "kataphyge", "καταφυγ;σκεπ", "refuge;shelter"),
+    broad_term("remnant", "Remnant", "λεῖμμα", "leimma", "λειμμ;καταλειμμ;υπολειμμ", "remnant"),
+    broad_term("exile", "Exile / Deportation", "μετοικεσία", "metoikesia", "μετοικ;αποικ", "exile;deportation;captivity"),
+    broad_term("mercy-seat", "Mercy Seat", "ἱλαστήριον", "hilasterion", "ιλαστηρ", "mercy seat;atonement"),
+    broad_term("ephod", "Ephod", "ἐπωμίς", "epomis", "επωμ", "ephod;shoulder-piece"),
+    broad_term("manna", "Manna", "μάννα", "manna", "μαννα", "manna"),
+    broad_term("scepter-royal", "Scepter", "σκῆπτρον", "skeptron", "σκηπτρ", "scepter"),
 )
 
 
