@@ -41,3 +41,10 @@ Implementation notes:
 - Current audit command: `python3 scripts/audit_crossref_targets.py`.
 - Latest checked result: 0 broken targets in both the Logos combined cross-reference profile and the print OpenBible top-N profile.
 - The audit accepts internal verse-number gaps inside a range when both range endpoints resolve in the current LXX/TR source rows.
+
+## Running Header Stamping
+
+- Current full-size print PDF still adds page numbers and chapter/verse ranges with `scripts/stamp_print_pdf_headers.py` after XeLaTeX pagination.
+- Direct DOCX headers are not a good replacement for chapter/verse ranges because Word/Pandoc pagination can change and DOCX does not know the first and last Bible reference on each final PDF page.
+- Better replacement path: add a Pandoc Lua filter after `pandoc_split_xrefs.lua` that converts verse-number `Strong` nodes into LaTeX verse markers, then let XeLaTeX build running headers from TeX marks at compile time.
+- That approach should keep page numbers and reference ranges native in the PDF text layer and remove the remaining header overlay/clipping risk. It should be done as a focused renderer change, not mixed with content edits.
