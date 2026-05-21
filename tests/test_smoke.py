@@ -1173,6 +1173,8 @@ def test_book_intro_witness_dates_name_artifact_ranges_not_broad_periods() -> No
             if any(
                 phrase in value
                 for phrase in (
+                    "and related",
+                    "early qumran",
                     "major uncials preserve",
                     "tradition is the principal",
                     "traditions preserve",
