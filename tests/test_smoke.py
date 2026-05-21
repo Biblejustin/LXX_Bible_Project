@@ -10953,3 +10953,5 @@ def test_study_helps_appendix_omits_reading_plan_and_resolves_refs() -> None:
     assert "Psalms 22:1 (English Psalm 23:1)" not in markdown
     assert "Key reference: Deut 6:4." in markdown
     assert "**Isa 26:3-4.** 3 upholding truth and keeping peace, because upon you 4 they hoped" in markdown
+    assert "**2Chr 7:13-14.** 13 If I shut heaven and rain does not come" in markdown
+    assert "**2Chr 7:14.** and my people" not in markdown
