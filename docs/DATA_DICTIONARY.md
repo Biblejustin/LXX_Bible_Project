@@ -81,7 +81,7 @@ not a Greek source text. Each row identifies a line with at least eight Greek
 characters so it can be checked against page images or a cleaner transcription
 before any source-row import.
 
-The priority subset keeps only rows in the translation/notes section with at
+The priority subset keeps only rows in the Greek-fragment text section with at
 least forty Greek Unicode characters. It is meant as the first manual
 verification queue.
 
@@ -89,6 +89,8 @@ verification queue.
 | --- | --- |
 | `source_file` | Local OCR source path |
 | `line_number` | 1-based line number in the OCR file |
+| `printed_page_hint` | Best-effort printed page number inferred from nearby OCR headings |
+| `heading_hint` | Nearest OCR heading used for printed-page context |
 | `section_hint` | Broad location in the OCR file |
 | `ref_hint` | Best-effort 1 Enoch reference inferred from nearby headings |
 | `greek_char_count` | Number of Greek Unicode characters on the line |

@@ -459,11 +459,14 @@ def test_1_enoch_witness_workspace_is_separate_and_labeled() -> None:
     assert manifest["diagnostics"]["comparison_queue_rows"] == 351
     assert len(queue_rows) == 351
     assert len(greek_audit_rows) == 2440
-    assert len(greek_priority_rows) == 324
+    assert len(greek_priority_rows) == 320
     assert greek_audit_rows[0]["source_file"] == "data/raw/1_enoch_charles_1912_djvu.txt"
     assert greek_audit_rows[0]["line_number"] == "307"
     assert "do not import as verse text" in greek_audit_rows[0]["next_review"]
-    assert greek_priority_rows[0]["line_number"] == "7936"
+    assert greek_priority_rows[0]["line_number"] == "34673"
+    assert greek_priority_rows[0]["printed_page_hint"] == "272"
+    assert greek_priority_rows[0]["heading_hint"].startswith("272 The Book of Enoch")
+    assert greek_priority_rows[0]["section_hint"] == "greek fragment text"
     assert int(greek_priority_rows[0]["greek_char_count"]) >= 40
     assert queue_by_ref["1 Enoch 1:9"]["marker_types"] == "greek_absent_in_ethiopic"
     assert by_ref["1 Enoch 1:9"]["comparison_notes"].startswith("G^g has text absent from Ethiopic")

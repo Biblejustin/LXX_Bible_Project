@@ -18,11 +18,15 @@ DIAGNOSTICS_OUTPUT = ROOT / "output" / "enoch" / "1_enoch_greek_fragment_audit_d
 
 GREEK_RE = re.compile(r"[\u0370-\u03ff\u1f00-\u1fff]")
 CHAPTER_VERSE_RE = re.compile(r"^\s*([IVXLCDM]+)\.\s*(?:(\d+)[,.]?\s*)?")
+PRINTED_PAGE_RE = re.compile(r"^\s*(\d{1,3})\s+The Book of Enoch")
+CHAPTER_PAGE_RE = re.compile(r"^\s*(Chapter|Chapters)\s+.+?\s+(\d{1,3})\s*$")
 ROMAN_VALUES = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
 
 FIELDNAMES = [
     "source_file",
     "line_number",
+    "printed_page_hint",
+    "heading_hint",
     "section_hint",
     "ref_hint",
     "greek_char_count",
@@ -57,12 +61,17 @@ def section_boundaries(lines: list[str]) -> dict[str, int]:
             boundaries["translation_notes"] = idx
         if "(CHAPTERS I" in line and "translation_text" not in boundaries:
             boundaries["translation_text"] = idx
+        if "Λόγος εὐλογίας" in line and "Ενώχ" in line and "greek_fragment_text" not in boundaries:
+            boundaries["greek_fragment_text"] = idx
     return boundaries
 
 
 def section_hint(line_number: int, boundaries: dict[str, int]) -> str:
+    greek_fragment_text = boundaries.get("greek_fragment_text", 0)
     translation_notes = boundaries.get("translation_notes", 0)
     translation_text = boundaries.get("translation_text", 0)
+    if greek_fragment_text and line_number >= greek_fragment_text:
+        return "greek fragment text"
     if translation_text and line_number >= translation_text:
         return "translation and notes"
     if translation_notes and line_number >= translation_notes:
@@ -75,9 +84,20 @@ def build_rows() -> tuple[list[dict[str, str]], dict[str, object]]:
     boundaries = section_boundaries(lines)
     rows: list[dict[str, str]] = []
     current_ref = ""
+    current_printed_page = ""
+    current_heading = ""
 
     for line_number, line in enumerate(lines, 1):
         stripped = line.strip()
+        page_match = PRINTED_PAGE_RE.match(stripped)
+        chapter_page_match = CHAPTER_PAGE_RE.match(stripped)
+        if page_match:
+            current_printed_page = page_match.group(1)
+            current_heading = stripped
+        elif chapter_page_match:
+            current_printed_page = chapter_page_match.group(2)
+            current_heading = stripped
+
         match = CHAPTER_VERSE_RE.match(stripped)
         if match:
             chapter = roman_to_int(match.group(1))
@@ -101,6 +121,8 @@ def build_rows() -> tuple[list[dict[str, str]], dict[str, object]]:
             {
                 "source_file": str(SOURCE.relative_to(ROOT)),
                 "line_number": str(line_number),
+                "printed_page_hint": current_printed_page,
+                "heading_hint": current_heading,
                 "section_hint": section,
                 "ref_hint": current_ref,
                 "greek_char_count": str(greek_count),
@@ -116,7 +138,7 @@ def build_rows() -> tuple[list[dict[str, str]], dict[str, object]]:
         "rows": len(rows),
         "priority_rows": sum(1 for row in rows if is_priority_row(row)),
         "greek_char_threshold": 8,
-        "priority_rule": "translation and notes section with at least 40 Greek Unicode characters",
+        "priority_rule": "Greek fragment text section with at least 40 Greek Unicode characters",
         "section_boundaries": boundaries,
         "source_status": "Public-domain OCR candidate; not source-grade Greek rows until checked against page images/PDF.",
         "first_line_number": int(rows[0]["line_number"]) if rows else None,
@@ -126,7 +148,7 @@ def build_rows() -> tuple[list[dict[str, str]], dict[str, object]]:
 
 
 def is_priority_row(row: dict[str, str]) -> bool:
-    return row["section_hint"] == "translation and notes" and int(row["greek_char_count"]) >= 40
+    return row["section_hint"] == "greek fragment text" and int(row["greek_char_count"]) >= 40
 
 
 def write_csv(rows: list[dict[str, str]]) -> None:

@@ -76,7 +76,7 @@ witness workspace, not in the Greek deuterocanon Logos Bible output.
   `data/research/1_enoch_charles_1912_greek_ocr_audit.csv` flags 2,440
   Greek-heavy OCR lines for review. The priority queue at
   `data/research/1_enoch_charles_1912_greek_ocr_priority.csv` narrows that to
-  high-density Greek lines in the translation/notes section. Neither queue
+  high-density Greek lines in the Greek-fragment text section. Neither queue
   should be treated as source-grade Greek rows without PDF/image verification or
   a cleaner transcription.
 - Decide whether any printed appendix should use the full Charles witness or
