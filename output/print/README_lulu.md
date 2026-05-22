@@ -23,7 +23,7 @@ Profile:
 - Pericope headings: 2983 BSB-placement original headings included.
 - Front preface pages discuss the purpose of the draft and rough translation methodology.
 - Executive PDF profile abandoned; it did not save enough size versus Letter to justify maintaining.
-- Lulu PDF build stamps page numbers and chapter/verse ranges into the top margin after pagination.
+- Default Lulu PDF target stamps page numbers and chapter/verse ranges into the top margin after pagination; preferred stamp-free proof target uses native LaTeX marks.
 - Print note label legend: T = translation note; Txt = textual note; MT/LXX = Masoretic/LXX difference; Heb = Hebrew divine title; Gk = Greek form or Greek LXX divine title; Tr = transliterated proper noun; Std = standard English equivalent; Src = source form; Nm = name meaning; Pn = personal name; Pl = place name; Ppl = people name; Div = divine or supernatural name; Eng = common English rendering.
 - Name-meaning notes are included only at their listed first/source occurrence to keep the physical proof shorter.
 - Book preface pages included.
@@ -44,4 +44,5 @@ Rebuild:
 
 ```bash
 make build-print-proof-lulu-pandoc-pdf
+make build-print-proof-lulu-pandoc-pdf-native-headers-with-backmatter
 ```

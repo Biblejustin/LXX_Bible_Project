@@ -471,6 +471,7 @@ def write_readme(
     rebuild_commands = (
         [
             "make build-print-proof-lulu-pandoc-pdf",
+            "make build-print-proof-lulu-pandoc-pdf-native-headers-with-backmatter",
         ]
         if lulu_profile
         else ["make build-print-proof"]
@@ -503,7 +504,7 @@ def write_readme(
         "- Front preface pages discuss the purpose of the draft and rough translation methodology.",
         "- Executive PDF profile abandoned; it did not save enough size versus Letter to justify maintaining.",
         (
-            "- Lulu PDF build stamps page numbers and chapter/verse ranges into the top margin after pagination."
+            "- Default Lulu PDF target stamps page numbers and chapter/verse ranges into the top margin after pagination; preferred stamp-free proof target uses native LaTeX marks."
             if lulu_profile
             else "- DOCX-only build does not stamp PDF page headers."
         ),

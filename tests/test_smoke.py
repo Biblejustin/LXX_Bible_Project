@@ -10272,13 +10272,15 @@ def test_lulu_print_proof_pdf_profile_includes_prefaces() -> None:
     assert "Article/readability policy" in document_xml
     assert "Std: Gomer. Src: Gomer." not in footnotes_xml
     assert "Lulu-safe mirrored POD margins" in readme
-    assert "Lulu PDF build stamps page numbers and chapter/verse ranges" in readme
+    assert "Default Lulu PDF target stamps page numbers and chapter/verse ranges" in readme
+    assert "preferred stamp-free proof target uses native LaTeX marks" in readme
     assert "the_greek_heritage_study_bible_lulu_print_proof_pandoc_pdf_headers.json" in readme
     assert "the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf" in readme
     assert "active full-size Pandoc/XeLaTeX proof PDF with two-column footnotes" in readme
     assert "`the_greek_heritage_study_bible_lulu_print_proof.pdf`" not in readme
     assert "make build-print-proof-lulu-pdf" not in readme
     assert "make build-print-proof-lulu-pandoc-pdf" in readme
+    assert "make build-print-proof-lulu-pandoc-pdf-native-headers-with-backmatter" in readme
     assert "Book preface pages included." in readme
 
 
