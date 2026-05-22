@@ -212,7 +212,7 @@ def stamp_page_header(page, *, page_number: int, ref_range: str, writer: PdfWrit
 
     width = float(page.mediabox.width)
     height = float(page.mediabox.height)
-    y = height - 30
+    y = height - 35
     size = 8.0
     outer_margin = 36.0
     page_label = str(page_number)
@@ -263,7 +263,7 @@ def fitz_overlay_fonts(page) -> tuple[str, str]:
 
 def stamp_page_header_fitz(shape, page, *, page_number: int, ref_range: str, fontname: str) -> None:
     width = float(page.rect.width)
-    y = 30.0
+    y = 35.0
     size = 8.0
     outer_margin = 36.0
     page_label = str(page_number)

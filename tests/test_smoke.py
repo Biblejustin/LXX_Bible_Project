@@ -10465,7 +10465,7 @@ def test_root_readme_reflects_complete_fresh_workspace() -> None:
     assert "`output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx`" in readme
     assert "`output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_logos_bible.docx`" in readme
     assert "`output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf`" in readme
-    assert "`output/print/cover/ghsb_draft_lulu_jacket_cover_26_625x11_75.pdf`" in readme
+    assert "`output/print/cover/ghsb_draft_lulu_jacket_cover_26_5x11_75.pdf`" in readme
     assert "`release/greek-heritage-study-bible-rc1/MANIFEST.md`" in readme
     assert "They are ignored unless a" in readme
     assert "future release explicitly promotes them back to reader-facing artifacts" in readme
@@ -10558,7 +10558,7 @@ def test_release_status_distinguishes_ot_rc_from_complete_nt_workspace() -> None
     assert "`output/logos_greek_heritage/the_greek_heritage_study_bible_logos_bible.docx`" in status
     assert "`output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_logos_bible.docx`" in status
     assert "`output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf`" in status
-    assert "`output/print/cover/ghsb_draft_lulu_jacket_cover_26_625x11_75.pdf`" in status
+    assert "`output/print/cover/ghsb_draft_lulu_jacket_cover_26_5x11_75.pdf`" in status
     assert "`release/greek-heritage-study-bible-rc1/`" in status
     assert "`release/fresh-translation-ot-rc1/MANIFEST.md`" in status
     assert "packaged combined release bundle has not been cut" not in status
@@ -10605,7 +10605,7 @@ def test_combined_release_manifest_and_checksums_cover_outputs() -> None:
         "output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_logos_bible.docx",
         "output/logos_deuterocanon/README.md",
         "output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf",
-        "output/print/cover/ghsb_draft_lulu_jacket_cover_26_625x11_75.pdf",
+        "output/print/cover/ghsb_draft_lulu_jacket_cover_26_5x11_75.pdf",
     ]
 
     assert "Release candidate: `greek-heritage-study-bible-rc1`" in manifest
@@ -10617,6 +10617,12 @@ def test_combined_release_manifest_and_checksums_cover_outputs() -> None:
         assert f"`{relative_path}`" in manifest
         assert relative_path in checksums
         assert checksums[relative_path] == sha256(relative_path)
+
+    cover_pdf = ROOT / "output/print/cover/ghsb_draft_lulu_jacket_cover_26_5x11_75.pdf"
+    with fitz.open(cover_pdf) as document:
+        page = document[0]
+        assert round(page.rect.width / 72, 3) == 26.5
+        assert round(page.rect.height / 72, 3) == 11.75
 
 
 def test_no_known_fixed_ot_name_leaks_in_outputs_or_support_tables() -> None:

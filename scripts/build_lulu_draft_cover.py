@@ -16,15 +16,15 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_OUTPUT_DIR = ROOT / "output" / "print" / "cover"
 DEFAULT_PICTURES_DIR = Path.home() / "Pictures"
-DEFAULT_STEM = "ghsb_draft_lulu_jacket_cover_26_625x11_75"
+DEFAULT_STEM = "ghsb_draft_lulu_jacket_cover_26_5x11_75"
 
-PAGE_WIDTH_IN = 26.625
+PAGE_WIDTH_IN = 26.5
 PAGE_HEIGHT_IN = 11.75
 OUTER_BLEED_IN = 0.625
 TOP_BLEED_IN = 0.375
 TRIM_WIDTH_IN = 8.5
 TRIM_HEIGHT_IN = 11.0
-SPINE_WIDTH_IN = 1.875
+SPINE_WIDTH_IN = 1.75
 FLAP_WIDTH_IN = 3.25
 FLAP_FOLD_WIDTH_IN = 0.25
 PANEL_WIDTH_IN = TRIM_WIDTH_IN
@@ -405,6 +405,7 @@ def remove_stale_files(output_dir: Path, pictures_dir: Path) -> None:
         "ghsb_draft_lulu_letter_598p_cover",
         "ghsb_draft_lulu_jacket_598p_cover",
         "ghsb_draft_lulu_cover_20_375x12_75",
+        "ghsb_draft_lulu_jacket_cover_26_625x11_75",
     ]
     for directory in (output_dir, pictures_dir):
         for stem in stale_stems:

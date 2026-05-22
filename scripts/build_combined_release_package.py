@@ -40,7 +40,7 @@ PRINT_ARTIFACTS = [
     "output/print/the_greek_heritage_study_bible_lulu_print_proof_diagnostics.json",
     "output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_pdf_headers.json",
     "output/print/README_lulu.md",
-    "output/print/cover/ghsb_draft_lulu_jacket_cover_26_625x11_75.pdf",
+    "output/print/cover/ghsb_draft_lulu_jacket_cover_26_5x11_75.pdf",
 ]
 
 VERIFICATION_ARTIFACTS = [

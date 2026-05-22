@@ -57,7 +57,7 @@ Primary committed outputs:
 - `output/logos_deuterocanon/the_greek_heritage_study_bible_deuterocanon_logos_bible.docx`
 - `output/print/the_greek_heritage_study_bible_lulu_print_proof.docx`
 - `output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf`
-- `output/print/cover/ghsb_draft_lulu_jacket_cover_26_625x11_75.pdf`
+- `output/print/cover/ghsb_draft_lulu_jacket_cover_26_5x11_75.pdf`
 
 ## Known Limitations
 
