@@ -90,6 +90,12 @@ is intentional: it is self-documenting on the page, avoids alphabetic rollover
 problems on dense pages, and lets readers distinguish cross-references from
 translation notes without relying on a post-PDF overlay.
 
+TSK phrase-anchored cross-reference notes preserve the rendered body phrase as
+the footnote display anchor. The trigger search is case-insensitive, but the
+display phrase keeps the local surface form, so `The Lord` at sentence start and
+`the Lord` mid-sentence remain separate display strings. These are surface
+anchors, not canonical concept headings.
+
 `make import-deuterocanon` refreshes the separate deuterocanon/additions source
 workspace from the pinned eBible GRCLXX archive plus the pinned public-domain
 eBible Brenton Greek supplement for Prayer of Manasseh and true 2 Maccabees.
