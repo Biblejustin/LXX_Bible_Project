@@ -122,6 +122,9 @@ It parses Charles 1917 from the tracked Project Gutenberg text and preserves the
 translation's Greek/Ethiopic/restoration/interpolation markers as comparison
 fields. This is appendix-planning material only and is not folded into the
 deuterocanon or main Bible CSVs.
+The same target also refreshes the Charles 1912 Greek OCR audit queue, which
+flags Greek-heavy public-domain OCR lines for manual verification before any
+source-row import.
 
 `make build-nt-book BOOK=Matthew` narrows that loop to one NT book and writes
 ignored outputs under `output/working/nt_book/` and

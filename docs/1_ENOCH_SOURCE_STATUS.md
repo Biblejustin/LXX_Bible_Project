@@ -18,6 +18,12 @@ The separate parser writes `data/raw/1_enoch/1_enoch_charles_witness.csv`,
 `output/enoch/1_enoch_witness_progress.md`. Use `make build-enoch-witness` to
 refresh these witness artifacts.
 
+The repo also now tracks `data/raw/1_enoch_charles_1912_djvu.txt`, the
+public-domain Internet Archive OCR for R. H. Charles, *The Book of Enoch or
+1 Enoch* (Oxford, 1912). This is a Greek-fragment audit source only. The OCR is
+not source-grade Greek text until checked against page images or a cleaner
+transcription.
+
 ## Textual Status
 
 The local Charles/Oesterley introduction states that the full work survives in
@@ -65,9 +71,12 @@ witness workspace, not in the Greek deuterocanon Logos Bible output.
 - Build a comparison layer against pinned Greek, Latin, Aramaic, and Ethiopic
   witness rows where public-domain or otherwise compatible source terms permit.
 - Candidate public-domain Greek-fragment source: R. H. Charles, *The Book of
-  Enoch or 1 Enoch* (Oxford, 1912), available through Internet Archive. Its OCR
-  contains Greek-fragment material but should not be treated as source-grade
-  Greek rows without PDF/image verification or a cleaner transcription.
+  Enoch or 1 Enoch* (Oxford, 1912), available through Internet Archive. The
+  generated audit queue at
+  `data/research/1_enoch_charles_1912_greek_ocr_audit.csv` flags 2,440
+  Greek-heavy OCR lines for review, but those lines should not be treated as
+  source-grade Greek rows without PDF/image verification or a cleaner
+  transcription.
 - Decide whether any printed appendix should use the full Charles witness or
   only the portions with extant Greek/Aramaic control.
 - Keep Jude 14-15 and early Christian reception notes in the main Bible

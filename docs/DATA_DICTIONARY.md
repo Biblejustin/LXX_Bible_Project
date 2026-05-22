@@ -69,6 +69,26 @@ contain one or more comparison markers. It narrows the next review pass to the
 places where Charles already signals Greek/Ethiopic variation or editorial
 intervention.
 
+## 1 Enoch Charles 1912 Greek OCR Audit
+
+Applies to `data/research/1_enoch_charles_1912_greek_ocr_audit.csv`.
+
+This file is generated from the public-domain Charles 1912 Internet Archive OCR
+stored at `data/raw/1_enoch_charles_1912_djvu.txt`. It is a source-audit queue,
+not a Greek source text. Each row identifies a line with at least eight Greek
+characters so it can be checked against page images or a cleaner transcription
+before any source-row import.
+
+| Column | Meaning |
+| --- | --- |
+| `source_file` | Local OCR source path |
+| `line_number` | 1-based line number in the OCR file |
+| `section_hint` | Broad location in the OCR file |
+| `ref_hint` | Best-effort 1 Enoch reference inferred from nearby headings |
+| `greek_char_count` | Number of Greek Unicode characters on the line |
+| `raw_line` | Normalized OCR line |
+| `next_review` | Review instruction before any source-row use |
+
 ## Translation Footnotes
 
 Applies to `data/research/translation_footnotes.csv`.

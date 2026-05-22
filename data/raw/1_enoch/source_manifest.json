@@ -18,6 +18,7 @@
   "candidate_public_domain_sources": [
     {
       "name": "R. H. Charles, The Book of Enoch or 1 Enoch (Oxford, 1912)",
+      "local_file": "data/raw/1_enoch_charles_1912_djvu.txt",
       "url": "https://archive.org/download/bookofenochor1en00char/bookofenochor1en00char_djvu.txt",
       "role": "Greek-fragment candidate; Internet Archive OCR needs PDF/image verification before source-row import"
     }

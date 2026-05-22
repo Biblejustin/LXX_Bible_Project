@@ -434,6 +434,7 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
 def test_1_enoch_witness_workspace_is_separate_and_labeled() -> None:
     rows = csv_rows("data/raw/1_enoch/1_enoch_charles_witness.csv")
     queue_rows = csv_rows("data/research/1_enoch_witness_comparison_queue.csv")
+    greek_audit_rows = csv_rows("data/research/1_enoch_charles_1912_greek_ocr_audit.csv")
     manifest = json.loads((ROOT / "data/raw/1_enoch/source_manifest.json").read_text(encoding="utf-8"))
     status = (ROOT / "docs/1_ENOCH_SOURCE_STATUS.md").read_text(encoding="utf-8")
     deuterocanon_rows = csv_rows("data/raw/lxx_deuterocanon/deuterocanon_full.csv")
@@ -445,6 +446,7 @@ def test_1_enoch_witness_workspace_is_separate_and_labeled() -> None:
     assert "ENO" not in {row["book_code"] for row in deuterocanon_rows}
     assert manifest["role"].startswith("separate witness/comparison workspace")
     assert manifest["validation_command"] == "make build-enoch-witness"
+    assert manifest["candidate_public_domain_sources"][0]["local_file"] == "data/raw/1_enoch_charles_1912_djvu.txt"
     assert {item["siglum"] for item in manifest["comparison_witness_inventory"]["greek"]} >= {
         "Gizeh",
         "Syncellus",
@@ -455,6 +457,10 @@ def test_1_enoch_witness_workspace_is_separate_and_labeled() -> None:
     assert manifest["diagnostics"]["missing_chapters"] == []
     assert manifest["diagnostics"]["comparison_queue_rows"] == 351
     assert len(queue_rows) == 351
+    assert len(greek_audit_rows) == 2440
+    assert greek_audit_rows[0]["source_file"] == "data/raw/1_enoch_charles_1912_djvu.txt"
+    assert greek_audit_rows[0]["line_number"] == "307"
+    assert "do not import as verse text" in greek_audit_rows[0]["next_review"]
     assert queue_by_ref["1 Enoch 1:9"]["marker_types"] == "greek_absent_in_ethiopic"
     assert by_ref["1 Enoch 1:9"]["comparison_notes"].startswith("G^g has text absent from Ethiopic")
     assert "ten thousands of His holy ones" in by_ref["1 Enoch 1:9"]["draft_translation"]

@@ -13,6 +13,7 @@ it updated whenever raw source archives or imported CSV files change.
 | `data/raw/cross-references.zip` | OpenBible cross-reference support layer | `https://a.openbible.info/data/cross-references.zip`; page `https://www.openbible.info/labs/cross-references/`; verified 2026-04-22 | CC-BY data layer; TSK remains primary public output layer | `a4636893d50cae6191ca35a07bb65b2091a6d97990f61c169ee43d01af7b943c` |
 | `data/raw/lxx_deuterocanon/grclxx_usfm.zip` | Greek LXX deuterocanon/additions source archive for the separate workstream | `https://ebible.org/Scriptures/grclxx_usfm.zip`; details page `https://ebible.org/details.php?id=grclxx`; source last updated 2026-02-13; verified 2026-05-01 | eBible details page labels the source public domain; package includes Orthodox Media Network notice text | `ecb6be2ca5e31098f6699df538158f2ca05f557bb4e31cf6bf7ad5d8f4c7b7c8` |
 | `data/raw/1_enoch_charles_1917.txt` | R. H. Charles 1917 1 Enoch witness text for possible separate appendix work, not a Greek source workspace | Project Gutenberg ebook 77935, `https://www.gutenberg.org/cache/epub/77935/pg77935.txt`; catalog page `https://www.gutenberg.org/ebooks/77935`; verified 2026-05-22 | Public domain in the United States | `54ef78037e6ff4fb9831a5278c8c0e0d77622e4edc5325a080808efa66605c37` |
+| `data/raw/1_enoch_charles_1912_djvu.txt` | R. H. Charles 1912 1 Enoch OCR witness with Greek-fragment discussion; candidate audit source only, not source-grade Greek rows | Internet Archive DjVu OCR, `https://archive.org/download/bookofenochor1en00char/bookofenochor1en00char_djvu.txt`; verified 2026-05-22 | Public domain in the United States | `dc0db46c6bc5c4b8605b9cf8a007fc63e436e45a0b5ec8cdee3c25bdae01be63` |
 | `data/raw/hitchcock_bible_names.txt` | Hitchcock name meanings | CCEL public-domain text; upstream URL not pinned yet | Public domain CCEL text | `95d6eb253e4237ba198bb4ee92b4de9bccfab69fe7775eb82134444d44b2e850` |
 
 ## Textus Receptus Source
@@ -49,6 +50,7 @@ it updated whenever raw source archives or imported CSV files change.
 | `data/research/translation_decisions.csv` | Phrase and verse-level translation decisions |
 | `data/research/translation_footnotes.csv` | Public footnote source table |
 | `data/research/1_enoch_witness_comparison_queue.csv` | Separate 1 Enoch witness-marker review queue |
+| `data/research/1_enoch_charles_1912_greek_ocr_audit.csv` | Separate 1 Enoch Charles 1912 Greek-heavy OCR-line audit queue; review only, not source-grade Greek rows |
 | `data/research/variant_notes.csv` | Selective textual variant notes |
 | `data/proper_names.csv` | Curated proper-name notes |
 | `data/proper_name_transliteration_notes.csv` | Generated Greek/LXX/TR name and place notes |
