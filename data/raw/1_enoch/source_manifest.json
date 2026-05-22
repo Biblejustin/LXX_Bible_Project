@@ -1,0 +1,264 @@
+{
+  "workspace": "1 Enoch witness workspace",
+  "role": "separate witness/comparison workspace; not imported into deuterocanon or main Bible rows",
+  "source_file": "data/raw/1_enoch_charles_1917.txt",
+  "source_sha256": "54ef78037e6ff4fb9831a5278c8c0e0d77622e4edc5325a080808efa66605c37",
+  "primary_source": {
+    "name": "R. H. Charles, The Book of Enoch (1917)",
+    "url": "https://www.gutenberg.org/cache/epub/77935/pg77935.txt",
+    "catalog_url": "https://www.gutenberg.org/ebooks/77935",
+    "license_status": "Public domain in the United States"
+  },
+  "comparison_source_pointer": {
+    "name": "Online Critical Pseudepigrapha, 1 Enoch",
+    "index_url": "https://pseudepigrapha.org/default/index",
+    "intro_url": "https://pseudepigrapha.org/docs/intro/1En",
+    "status_note": "OCP represents extant Greek and Latin evidence, Aramaic fragments through chapter 8, and one Ethiopic manuscript for the Book of Watchers and Parables. Use rights vary by witness."
+  },
+  "candidate_public_domain_sources": [
+    {
+      "name": "R. H. Charles, The Book of Enoch or 1 Enoch (Oxford, 1912)",
+      "url": "https://archive.org/download/bookofenochor1en00char/bookofenochor1en00char_djvu.txt",
+      "role": "Greek-fragment candidate; Internet Archive OCR needs PDF/image verification before source-row import"
+    }
+  ],
+  "comparison_witness_inventory": {
+    "ethiopic": [
+      {
+        "siglum": "p",
+        "name": "Rylands Manuscript 23",
+        "scope": "Book of Watchers and Parables in the current OCP transcription",
+        "date": "17th or 18th century AD"
+      }
+    ],
+    "greek": [
+      {
+        "siglum": "7QEnoch",
+        "name": "7QpapEn gr (7Q4, 8, 11-14)",
+        "scope": "fragmentary"
+      },
+      {
+        "siglum": "POxy2069",
+        "name": "Oxyrhynchus Papyrus 2069",
+        "scope": "fragmentary"
+      },
+      {
+        "siglum": "CB185",
+        "name": "Chester Beatty 185",
+        "scope": "last chapters in Greek"
+      },
+      {
+        "siglum": "V1809",
+        "name": "Vatican Greek 1809 fragment",
+        "scope": "fragmentary"
+      },
+      {
+        "siglum": "Gizeh",
+        "name": "Cairo Papyrus 10759 / Codex Panopolitanus",
+        "scope": "Akhmim Greek fragments"
+      },
+      {
+        "siglum": "Gizeh2",
+        "name": "Duplicate section of Cairo Papyrus 10759",
+        "scope": "Akhmim duplicate"
+      },
+      {
+        "siglum": "Syncellus",
+        "name": "George Syncellus, Chronographia",
+        "scope": "quoted Greek fragments"
+      },
+      {
+        "siglum": "Jude",
+        "name": "Jude 14-15",
+        "scope": "New Testament citation"
+      }
+    ],
+    "aramaic": [
+      {
+        "siglum": "4Q201",
+        "name": "4QEnoch a ar"
+      },
+      {
+        "siglum": "4Q202",
+        "name": "4QEnoch b ar"
+      },
+      {
+        "siglum": "4Q204",
+        "name": "4QEnoch c ar"
+      },
+      {
+        "siglum": "4Q205",
+        "name": "4QEnoch d ar"
+      },
+      {
+        "siglum": "4Q206",
+        "name": "4QEnoch e ar"
+      },
+      {
+        "siglum": "4Q207",
+        "name": "4QEnoch f ar"
+      },
+      {
+        "siglum": "4Q208",
+        "name": "4QEnastr a ar"
+      },
+      {
+        "siglum": "4Q209",
+        "name": "4QEnastr b ar"
+      },
+      {
+        "siglum": "4Q210",
+        "name": "4QEnastr c ar"
+      },
+      {
+        "siglum": "4Q211",
+        "name": "4QEnastr d ar"
+      },
+      {
+        "siglum": "4Q212",
+        "name": "4QEnoch g ar"
+      },
+      {
+        "siglum": "4Q247",
+        "name": "4QApocalypse of Weeks?"
+      }
+    ]
+  },
+  "outputs": {
+    "csv": "data/raw/1_enoch/1_enoch_charles_witness.csv",
+    "comparison_queue": "data/research/1_enoch_witness_comparison_queue.csv",
+    "progress": "output/enoch/1_enoch_witness_progress.md",
+    "diagnostics": "output/enoch/1_enoch_witness_diagnostics.json"
+  },
+  "diagnostics": {
+    "source": "data/raw/1_enoch_charles_1917.txt",
+    "source_sha256": "54ef78037e6ff4fb9831a5278c8c0e0d77622e4edc5325a080808efa66605c37",
+    "rows": 1056,
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "chapter_count": 108,
+    "first_ref": "1 Enoch 1:1",
+    "last_ref": "1 Enoch 108:15",
+    "marker_counts": {
+      "corrupt_text": 51,
+      "emended_text": 105,
+      "ethiopic_absent_in_greek": 41,
+      "greek_absent_in_ethiopic": 44,
+      "interpolations": 58,
+      "restored_text": 13,
+      "supplied_text": 125
+    },
+    "missing_chapters": [],
+    "source_status": "full Ethiopic-base English witness; extant Greek/Latin evidence partial; Aramaic fragments partial",
+    "comparison_queue_rows": 351
+  },
+  "validation_command": "make build-enoch-witness"
+}

@@ -62,3 +62,9 @@ No additional deuterocanonical appendix material is queued unless a Greek source
 is present, or unless strong evidence for a Greek source behind the extant text
 is documented. Remaining work is proofreading, selected note/preface work, and
 formatting/output polish rather than adding Latin-only appendix books.
+
+1 Enoch is handled outside this deuterocanon CSV for now. The repo contains
+Charles's public-domain English witness text, but not a normalized Greek or
+Aramaic source workspace for 1 Enoch. `make build-enoch-witness` maintains a
+separate Charles witness/comparison workspace for appendix planning. See
+`docs/1_ENOCH_SOURCE_STATUS.md`.

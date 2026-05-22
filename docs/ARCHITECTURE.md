@@ -24,6 +24,7 @@ raw source archives/files
 | --- | --- |
 | `data/raw/lxx_greek/ot_full.csv` | OT LXX fresh translation workspace |
 | `data/raw/lxx_deuterocanon/deuterocanon_full.csv` | Separate LXX deuterocanon/additions Greek source workspace |
+| `data/raw/1_enoch/1_enoch_charles_witness.csv` | Separate 1 Enoch Charles witness/comparison workspace, not Bible source rows |
 | `data/raw/tr_greek/nt_full.csv` | NT Scrivener TR fresh translation workspace with UKJV witness columns |
 | `data/research/translation_decisions.csv` | Phrase and verse decisions used by the fresh output pipeline |
 | `data/research/translation_footnotes.csv` | Public translation footnotes |
@@ -38,6 +39,7 @@ raw source archives/files
 | --- | --- |
 | `scripts/import_ot_from_utf8_lxx.py` | Imports OT LXX source data into normalized CSV form |
 | `scripts/import_lxx_deuterocanon_from_grclxx.py` | Imports the separate eBible GRCLXX deuterocanon/additions source workspace |
+| `scripts/build_1_enoch_witness_workspace.py` | Parses the Charles 1917 1 Enoch witness into a separate comparison CSV |
 | `scripts/import_nt_from_scrivener.py` | Imports Scrivener TR NT source files |
 | `scripts/apply_witness_decisions.py` | Applies reviewed OT translation decisions |
 | `scripts/apply_nt_tr_literal_revision.py` | Applies reviewed NT TR literal-translation decisions |
@@ -102,6 +104,12 @@ deuterocanon review material.
 `make validate-deuterocanon` rebuilds that separate workspace, runs script
 compilation, CSV shape checks, `git diff --check`, and the focused
 deuterocanon smoke test.
+
+`make build-enoch-witness` refreshes the separate 1 Enoch witness workspace.
+It parses Charles 1917 from the tracked Project Gutenberg text and preserves the
+translation's Greek/Ethiopic/restoration/interpolation markers as comparison
+fields. This is appendix-planning material only and is not folded into the
+deuterocanon or main Bible CSVs.
 
 `make build-nt-book BOOK=Matthew` narrows that loop to one NT book and writes
 ignored outputs under `output/working/nt_book/` and

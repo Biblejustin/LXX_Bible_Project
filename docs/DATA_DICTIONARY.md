@@ -39,6 +39,36 @@ Plain embedded verse labels in deuterocanon Greek source rows are split into
 separate CSV rows when they mark a distinct verse. Bracketed source-text
 sections remain bracketed.
 
+## 1 Enoch Witness CSV
+
+Applies to `data/raw/1_enoch/1_enoch_charles_witness.csv`.
+
+This file is a separate witness workspace, not a Greek source text for the main
+Bible or deuterocanon output. It parses the public-domain Charles 1917 English
+translation from Ethiopic and preserves Charles's comparison markers.
+
+| Column | Meaning |
+| --- | --- |
+| `ref` | 1 Enoch reference, such as `1 Enoch 1:9` |
+| `base_witness` | Source witness label, currently Charles 1917 |
+| `source_language` | Source-language status of the witness row |
+| `source_scope` | Warning that the row is separate witness material |
+| `charles_text_raw` | Normalized Charles verse text with comparison markers preserved |
+| `draft_translation` | Readable witness text with Charles markup stripped but words retained |
+| `greek_absent_in_ethiopic` | Charles `⌜...⌝` material: Gizeh Greek text not in Ethiopic |
+| `ethiopic_absent_in_greek` | Charles `〚...〛` material: Ethiopic text not in Gizeh/Syncellus Greek |
+| `restored_text` | Charles `‹...›` restored text |
+| `interpolations` | Charles `[ ... ]` interpolation markers |
+| `supplied_text` | Charles `( ... )` supplied text |
+| `emended_text` | Charles `=...=` emended text |
+| `corrupt_text` | Charles `†...†` corrupt-text marker |
+| `comparison_notes` | Human-readable summary of non-empty comparison fields |
+
+`data/research/1_enoch_witness_comparison_queue.csv` is generated from rows that
+contain one or more comparison markers. It narrows the next review pass to the
+places where Charles already signals Greek/Ethiopic variation or editorial
+intervention.
+
 ## Translation Footnotes
 
 Applies to `data/research/translation_footnotes.csv`.

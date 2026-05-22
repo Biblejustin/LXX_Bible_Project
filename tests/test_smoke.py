@@ -431,6 +431,39 @@ def test_deuterocanon_source_workspace_is_separate_and_sourced() -> None:
         assert not quote_open, book_code
 
 
+def test_1_enoch_witness_workspace_is_separate_and_labeled() -> None:
+    rows = csv_rows("data/raw/1_enoch/1_enoch_charles_witness.csv")
+    queue_rows = csv_rows("data/research/1_enoch_witness_comparison_queue.csv")
+    manifest = json.loads((ROOT / "data/raw/1_enoch/source_manifest.json").read_text(encoding="utf-8"))
+    status = (ROOT / "docs/1_ENOCH_SOURCE_STATUS.md").read_text(encoding="utf-8")
+    deuterocanon_rows = csv_rows("data/raw/lxx_deuterocanon/deuterocanon_full.csv")
+    by_ref = {row["ref"]: row for row in rows}
+    queue_by_ref = {row["ref"]: row for row in queue_rows}
+
+    assert len(rows) == 1056
+    assert {row["book_code"] for row in rows} == {"ENO"}
+    assert "ENO" not in {row["book_code"] for row in deuterocanon_rows}
+    assert manifest["role"].startswith("separate witness/comparison workspace")
+    assert manifest["validation_command"] == "make build-enoch-witness"
+    assert {item["siglum"] for item in manifest["comparison_witness_inventory"]["greek"]} >= {
+        "Gizeh",
+        "Syncellus",
+        "Jude",
+    }
+    assert {item["siglum"] for item in manifest["comparison_witness_inventory"]["aramaic"]} >= {"4Q201", "4Q212"}
+    assert manifest["diagnostics"]["chapter_count"] == 108
+    assert manifest["diagnostics"]["missing_chapters"] == []
+    assert manifest["diagnostics"]["comparison_queue_rows"] == 351
+    assert len(queue_rows) == 351
+    assert queue_by_ref["1 Enoch 1:9"]["marker_types"] == "greek_absent_in_ethiopic"
+    assert by_ref["1 Enoch 1:9"]["comparison_notes"].startswith("G^g has text absent from Ethiopic")
+    assert "ten thousands of His holy ones" in by_ref["1 Enoch 1:9"]["draft_translation"]
+    assert "Ethiopic has text absent from G^g/G^s" in by_ref["1 Enoch 3:1"]["comparison_notes"]
+    assert by_ref["1 Enoch 4:1"]["draft_translation"].startswith("And again, observe ye")
+    assert by_ref["1 Enoch 108:1"]["draft_translation"].startswith("Another book which Enoch wrote")
+    assert "not in the Greek deuterocanon Logos Bible output" in status
+
+
 def test_review_feedback_high_traffic_wording_stays_fixed() -> None:
     import build_fresh_logos_bible as logos_builder
 

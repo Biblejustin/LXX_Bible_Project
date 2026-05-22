@@ -50,6 +50,11 @@ Checked source candidates and final source choice are recorded in
 `docs/DEUTEROCANON_MISSING_SOURCES.md`.
 Resolved and remaining review decisions are tracked in
 `docs/DEUTEROCANON_PENDING_DECISIONS.md`.
+1 Enoch is tracked separately in `docs/1_ENOCH_SOURCE_STATUS.md`: the repo has
+Charles's public-domain English witness text, but no normalized Greek or Aramaic
+source rows for a Greek Heritage translation, so it is not part of the
+deuterocanon source workspace. `make build-enoch-witness` refreshes a separate
+Charles witness/comparison workspace for appendix planning only.
 Use `make validate-deuterocanon` for focused rebuild and smoke validation of
 this separate workstream.
 

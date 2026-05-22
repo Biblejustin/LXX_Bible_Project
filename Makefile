@@ -1,4 +1,4 @@
-.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review import-deuterocanon build-deuterocanon build-deuterocanon-logos validate-deuterocanon build-deuterocanon-book build-nt build-nt-fast build-nt-book review-nt-fast build-combined build-combined-logos build-concordance-preview build-concordance-broad-preview build-study-helps-appendix generate-print-pericopes build-print-proof build-print-proof-lulu-pdf build-print-proof-lulu-pandoc-pdf build-print-proof-lulu-pandoc-pdf-native-headers build-print-proof-lulu-pandoc-pdf-native-headers-with-backmatter build-print-proof-lulu-pandoc-pdf-with-backmatter build-print-proof-handy-pandoc-pdf release-combined clean-working
+.PHONY: setup test csv-check build-fresh build-ot checkpoint-ot review-ot-fast build-ot-review import-deuterocanon build-deuterocanon build-deuterocanon-logos validate-deuterocanon build-deuterocanon-book build-enoch-witness build-nt build-nt-fast build-nt-book review-nt-fast build-combined build-combined-logos build-concordance-preview build-concordance-broad-preview build-study-helps-appendix generate-print-pericopes build-print-proof build-print-proof-lulu-pdf build-print-proof-lulu-pandoc-pdf build-print-proof-lulu-pandoc-pdf-native-headers build-print-proof-lulu-pandoc-pdf-native-headers-with-backmatter build-print-proof-lulu-pandoc-pdf-with-backmatter build-print-proof-handy-pandoc-pdf release-combined clean-working
 
 PYTHON ?= python
 SOFFICE ?= /Applications/LibreOffice.app/Contents/MacOS/soffice
@@ -54,6 +54,9 @@ build-deuterocanon-book: import-deuterocanon
 	@test -n "$(BOOK)" || (echo 'Usage: make build-deuterocanon-book BOOK=Tobit'; exit 1)
 	rm -rf output/working/deuterocanon_book
 	$(PYTHON) scripts/build_fresh_translation.py --source data/raw/lxx_deuterocanon/deuterocanon_full.csv --book "$(BOOK)" --output output/working/deuterocanon_book/lxx_deuterocanon_worksheet.md --translation-only-output output/working/deuterocanon_book/lxx_deuterocanon_translation_only.md --diagnostics output/working/deuterocanon_book/lxx_deuterocanon_diagnostics.json --no-review-data
+
+build-enoch-witness:
+	$(PYTHON) scripts/build_1_enoch_witness_workspace.py
 
 build-nt:
 	$(PYTHON) scripts/apply_nt_tr_literal_revision.py
