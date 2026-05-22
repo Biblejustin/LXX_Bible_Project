@@ -824,6 +824,8 @@ def test_greek_concordance_preview_is_greek_driven_and_compact() -> None:
     assert "Jer 10:14" in preview_text
     assert "Jeremiah 10:14" not in preview_text
     assert "## Lord" not in preview_text
+    spirit_line = next(line for line in preview_text.splitlines() if line.startswith("**Spirit**"))
+    assert "; " not in spirit_line
 
 
 def test_broad_greek_concordance_preview_is_capped_and_abbreviated() -> None:
@@ -874,6 +876,13 @@ def test_broad_greek_concordance_preview_is_capped_and_abbreviated() -> None:
     assert re.search(r"^Greek:", preview_text, re.MULTILINE) is None
     assert "Gen 1:2" in preview_text
     assert "Genesis 1:2" not in preview_text
+    headings = re.findall(r"^## (.+?) \(", preview_text, re.MULTILINE)
+    heading_sort_key = lambda heading: re.sub(r"[^0-9a-z]+", " ", heading.casefold()).strip()
+    assert headings
+    assert headings == sorted(headings, key=heading_sort_key)
+    ref_lines = [line for line in preview_text.splitlines() if line.startswith("**")]
+    assert ref_lines
+    assert not any("; " in line for line in ref_lines)
 
 
 def test_safe_review_csv_append_quotes_commas(tmp_path: Path) -> None:
@@ -10960,8 +10969,13 @@ def test_study_helps_appendix_omits_reading_plan_and_resolves_refs() -> None:
     assert diagnostics == []
     assert "DAILY READING PLAN" not in markdown
     assert "SECTION 1" not in markdown
+    assert "This separate appendix draft is adapted from the supplied insert" not in markdown
     assert "Largest OT section" not in markdown
     assert "missing local verse text" not in markdown
+    assert "**Kingdom of Heaven**" in markdown
+    assert "**Kingdom of God**" in markdown
+    assert "**Day of the Lord**" in markdown
+    assert "**Day of Christ**" in markdown
     assert "Ps 22:1 (English Ps 23:1)" in markdown
     assert "Psalms 22:1 (English Psalm 23:1)" not in markdown
     assert "Key reference: Deut 6:4." in markdown

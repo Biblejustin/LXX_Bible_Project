@@ -126,8 +126,7 @@ build-print-proof-lulu-pandoc-pdf-with-backmatter: build-print-proof-lulu-pandoc
 	$(GS) -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.7 -dPDFSETTINGS=/prepress -sOutputFile=output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_with_appendix_concordance.pdf output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc.pdf output/doc/greek_heritage_study_helps_appendix.pdf output/concordance/the_greek_heritage_study_bible_greek_concordance_broad_preview.pdf
 
 build-print-proof-lulu-pandoc-pdf-native-headers-with-backmatter: build-print-proof-lulu-pandoc-pdf-native-headers build-study-helps-appendix build-concordance-broad-preview
-	$(PANDOC) output/concordance/the_greek_heritage_study_bible_greek_concordance_broad_preview.md -s -o output/concordance/the_greek_heritage_study_bible_greek_concordance_broad_preview.pdf --pdf-engine=xelatex -H scripts/pandoc_concordance_header.tex -V documentclass=extarticle -V classoption=twocolumn -V papersize=letter -V geometry:margin=0.45in -V mainfont="Times New Roman" -V mainfontoptions=Ligatures=NoCommon
-	$(GS) -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.7 -dPDFSETTINGS=/prepress -sOutputFile=output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_native_headers_with_appendix_concordance.pdf output/print/the_greek_heritage_study_bible_lulu_print_proof_pandoc_native_headers.pdf output/doc/greek_heritage_study_helps_appendix.pdf output/concordance/the_greek_heritage_study_bible_greek_concordance_broad_preview.pdf
+	PANDOC="$(PANDOC)" GS="$(GS)" $(PYTHON) scripts/build_numbered_backmatter_pdf.py
 
 build-print-proof-handy-pandoc-pdf: generate-print-pericopes
 	mkdir -p output/print/size_sweep/handy_6_39x9_46

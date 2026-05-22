@@ -751,7 +751,12 @@ def term_matches_tokens(term: Term, tokens: set[str]) -> bool:
 
 
 def format_refs(refs: list[str]) -> str:
-    return "; ".join(print_builder.abbreviate_print_crossref(ref) for ref in refs)
+    return " ".join(print_builder.abbreviate_print_crossref(ref) for ref in refs)
+
+
+def term_sort_key(term: Term) -> tuple[str, str]:
+    heading = re.sub(r"[^0-9a-z]+", " ", term.english_heading.casefold()).strip()
+    return heading, term.entry_id
 
 
 SECTION_ORDER = {
@@ -917,7 +922,7 @@ def build_broad_concordance(
     rendered_terms = 0
 
     verse_tokens = [(verse, greek_tokens(verse.greek_text)) for verse in verses]
-    for term in terms:
+    for term in sorted(terms, key=term_sort_key):
         groups: dict[str, list[Match]] = defaultdict(list)
         for verse, tokens in verse_tokens:
             if not term_applies(term, verse.source_stream):
@@ -936,7 +941,7 @@ def build_broad_concordance(
         "Selective concordance from curated Greek lemmas and stems. References are capped for print and ranked by anchor passages, visible rendering, canonical spread, New Testament use, and canonical order.",
         "",
     ]
-    for term in terms:
+    for term in sorted(terms, key=term_sort_key):
         groups = term_matches[term.entry_id]
         if not groups:
             continue
@@ -991,7 +996,7 @@ def build_broad_concordance(
         "suppressed_other_rendering_by_term": dict(suppressed_other_rendering_hits),
         "method": "curated Greek stems normalized for accents/final sigma, grouped by English rendering hints in draft_translation",
         "ranking": "anchor refs, visible rendering match, canonical section spread, NT usage, canonical order",
-        "reference_format": "print book abbreviations via build_print_proof_bible.abbreviate_print_crossref",
+        "reference_format": "space-separated print book abbreviations via build_print_proof_bible.abbreviate_print_crossref",
     }
     return markdown, diagnostics
 
@@ -1003,7 +1008,7 @@ def build_concordance(terms: list[Term], verses: list[VerseRow]) -> tuple[str, d
 
     verse_tokens = [(verse, greek_tokens(verse.greek_text)) for verse in verses]
 
-    for term in terms:
+    for term in sorted(terms, key=term_sort_key):
         groups: dict[str, list[str]] = defaultdict(list)
         for verse, tokens in verse_tokens:
             if not term_applies(term, verse.source_stream):
@@ -1025,7 +1030,7 @@ def build_concordance(terms: list[Term], verses: list[VerseRow]) -> tuple[str, d
         "",
     ]
 
-    for term in terms:
+    for term in sorted(terms, key=term_sort_key):
         groups = term_matches[term.entry_id]
         if not groups:
             continue
@@ -1059,7 +1064,7 @@ def build_concordance(terms: list[Term], verses: list[VerseRow]) -> tuple[str, d
         "term_hit_counts": dict(term_totals),
         "rendering_hit_counts": dict(rendering_totals),
         "method": "curated Greek forms normalized for accents/final sigma, grouped by English rendering hints in draft_translation",
-        "reference_format": "print book abbreviations via build_print_proof_bible.abbreviate_print_crossref",
+        "reference_format": "space-separated print book abbreviations via build_print_proof_bible.abbreviate_print_crossref",
     }
     return markdown, diagnostics
 

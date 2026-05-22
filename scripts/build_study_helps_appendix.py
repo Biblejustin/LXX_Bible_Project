@@ -36,6 +36,7 @@ class VerseItem:
 @dataclass(frozen=True)
 class TextItem:
     text: str
+    bold: bool = False
 
 
 @dataclass(frozen=True)
@@ -133,7 +134,7 @@ VERSE_SECTIONS: list[tuple[str, list[VerseItem | TextItem]]] = [
         [
             TextItem("The Day of the Lord: a time of divine judgment and upheaval on the earth, focused on God's justice against sin and the ungodly."),
             TextItem("The Day of Christ: a time of completion, reward, and manifestation for believers, focused on Christ's appearing and his people."),
-            TextItem("Day of the Lord"),
+            TextItem("Day of the Lord", bold=True),
             VerseItem("Isaiah 13:6"),
             VerseItem("Joel 2:1-2"),
             VerseItem("Amos 5:18-20"),
@@ -141,7 +142,7 @@ VERSE_SECTIONS: list[tuple[str, list[VerseItem | TextItem]]] = [
             VerseItem("1 Thessalonians 5:2-3"),
             VerseItem("2 Peter 3:10"),
             VerseItem("Revelation 6:17"),
-            TextItem("Day of Christ"),
+            TextItem("Day of Christ", bold=True),
             VerseItem("Philippians 1:6"),
             VerseItem("Philippians 1:10"),
             VerseItem("Philippians 2:16"),
@@ -156,7 +157,7 @@ VERSE_SECTIONS: list[tuple[str, list[VerseItem | TextItem]]] = [
         [
             TextItem("Kingdom of Heaven: Matthew's usual phrase for the heavenly reign brought near through Messiah."),
             TextItem("Kingdom of God: the broader phrase for God's reign, entered by new birth and faith in Christ."),
-            TextItem("Kingdom of Heaven"),
+            TextItem("Kingdom of Heaven", bold=True),
             VerseItem("Matthew 3:2"),
             VerseItem("Matthew 5:3"),
             VerseItem("Matthew 13:24"),
@@ -164,7 +165,7 @@ VERSE_SECTIONS: list[tuple[str, list[VerseItem | TextItem]]] = [
             VerseItem("Matthew 18:3"),
             VerseItem("Matthew 22:2"),
             VerseItem("Matthew 25:1"),
-            TextItem("Kingdom of God"),
+            TextItem("Kingdom of God", bold=True),
             VerseItem("Mark 1:14-15"),
             VerseItem("Luke 17:20-21"),
             VerseItem("John 3:3"),
@@ -303,8 +304,6 @@ def render_markdown() -> tuple[str, list[tuple[str, str]]]:
     lines: list[str] = [
         "# Study Helps Appendix",
         "",
-        "This separate appendix draft is adapted from the supplied insert with the reading plan omitted. Scripture lines are rendered from the current Greek Heritage Study Bible draft text.",
-        "",
         "## Number Meanings",
         "",
     ]
@@ -329,7 +328,10 @@ def render_markdown() -> tuple[str, list[tuple[str, str]]]:
         lines.append("")
         for item in items:
             if isinstance(item, TextItem):
-                lines.append(item.text)
+                if item.bold:
+                    lines.append(f"**{item.text}**")
+                else:
+                    lines.append(item.text)
                 lines.append("")
                 continue
             label, text, unresolved = expand_reference(item.ref)
@@ -394,6 +396,10 @@ def render_docx(markdown: str) -> None:
             run = paragraph.add_run(title + " ")
             run.bold = True
             paragraph.add_run(body)
+        elif line.startswith("**") and line.endswith("**"):
+            paragraph = doc.add_paragraph()
+            run = paragraph.add_run(line[2:-2])
+            run.bold = True
         elif line:
             doc.add_paragraph(line)
         index += 1
