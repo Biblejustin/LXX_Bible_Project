@@ -5895,7 +5895,7 @@ def test_common_lord_article_formulas_are_normalized() -> None:
     assert "by the powers and by the strengths of the field" in by_ref[
         "Song of Solomon 8:4"
     ]["draft_translation"]
-    assert "love is strong as death" in by_ref["Song of Solomon 8:6"][
+    assert "love is as strong as death" in by_ref["Song of Solomon 8:6"][
         "draft_translation"
     ]
     assert "I am a wall, and my breasts are like towers" in by_ref[
