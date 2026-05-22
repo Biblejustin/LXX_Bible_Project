@@ -513,6 +513,7 @@ def write_readme(
         preface_line,
         "- Brenton/source supplemental notes excluded.",
         crossref_line,
+        "- Static Greek concordance material is print/backmatter-only; it supports readers without Logos-style dynamic Greek lookup tools.",
         "",
         "Counts:",
         "",

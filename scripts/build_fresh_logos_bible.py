@@ -4100,6 +4100,7 @@ def build_readme(
         if crossrefs_enabled
         else "- Cross-references: omitted because `--no-crossrefs` was used."
     )
+    concordance_note = "- Greek concordance: not included. Logos provides native dynamic concordance lookup, so this build relies on that capability instead of duplicating it as a static appendix. Print/deuterocanon proof outputs may include compact static concordance material for readers without Logos lookup tools."
     title = config["title_prefix"] if testament in {"combined", "deuterocanon"} else f"Fresh Translation {config['label']}"
     generated_files = [
         f"- `{logos_docx.name}`: Logos Personal Book source. Compile as resource type `Bible`.",
@@ -4175,6 +4176,7 @@ Scope:
 {future_work_note}
 {place_link_note}
 {crossref_note}
+{concordance_note}
 - Footnote numbering: one DOCX file with internal Word section metadata set to restart visible footnote numbering by `{footnote_number_restart}`. Cross-reference footnotes use normal numeric Word footnote references because Logos 49 Personal Book import crashes while converting large DOCX files that use custom footnote marks.
 
 Validation:

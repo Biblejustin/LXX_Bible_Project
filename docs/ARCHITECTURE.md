@@ -96,6 +96,12 @@ display phrase keeps the local surface form, so `The Lord` at sentence start and
 `the Lord` mid-sentence remain separate display strings. These are surface
 anchors, not canonical concept headings.
 
+The Greek concordance is a print/backmatter feature, not part of the Logos Bible
+DOCX. Logos already provides dynamic concordance and original-language lookup,
+so the Logos build avoids duplicating that static appendix. The print and
+separate-study outputs use compact static concordance material for readers who
+do not have those dynamic tools.
+
 `make import-deuterocanon` refreshes the separate deuterocanon/additions source
 workspace from the pinned eBible GRCLXX archive plus the pinned public-domain
 eBible Brenton Greek supplement for Prayer of Manasseh and true 2 Maccabees.

@@ -29,6 +29,7 @@ Profile:
 - Book preface pages included.
 - Brenton/source supplemental notes excluded.
 - Modest cross-reference layer: OpenBible.info verse-level cross-references, ranked by OpenBible vote count, capped per verse, and printed with abbreviated book names. Used by attribution under the OpenBible CC-BY dataset license.
+- Static Greek concordance material is print/backmatter-only; it supports readers without Logos-style dynamic Greek lookup tools.
 
 Counts:
 

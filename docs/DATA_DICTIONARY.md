@@ -155,6 +155,9 @@ alignment. Broad-concordance diagnostics keep both a conservative raw
 450-words-per-page estimate and a compact two-column print estimate; the print
 budget uses the compact estimate.
 
+The concordance is print/backmatter material only. Logos builds omit it because
+Logos already provides dynamic concordance and original-language lookup tools.
+
 | Column | Meaning |
 | --- | --- |
 | `entry_id` | Stable machine key for the concordance entry |
