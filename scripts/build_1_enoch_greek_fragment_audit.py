@@ -12,6 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "data" / "raw" / "1_enoch_charles_1912_djvu.txt"
 AUDIT_OUTPUT = ROOT / "data" / "research" / "1_enoch_charles_1912_greek_ocr_audit.csv"
+PRIORITY_OUTPUT = ROOT / "data" / "research" / "1_enoch_charles_1912_greek_ocr_priority.csv"
 PROGRESS_OUTPUT = ROOT / "output" / "enoch" / "1_enoch_greek_fragment_audit.md"
 DIAGNOSTICS_OUTPUT = ROOT / "output" / "enoch" / "1_enoch_greek_fragment_audit_diagnostics.json"
 
@@ -113,7 +114,9 @@ def build_rows() -> tuple[list[dict[str, str]], dict[str, object]]:
         "source_sha256": source_sha256(),
         "line_count": len(lines),
         "rows": len(rows),
+        "priority_rows": sum(1 for row in rows if is_priority_row(row)),
         "greek_char_threshold": 8,
+        "priority_rule": "translation and notes section with at least 40 Greek Unicode characters",
         "section_boundaries": boundaries,
         "source_status": "Public-domain OCR candidate; not source-grade Greek rows until checked against page images/PDF.",
         "first_line_number": int(rows[0]["line_number"]) if rows else None,
@@ -122,12 +125,20 @@ def build_rows() -> tuple[list[dict[str, str]], dict[str, object]]:
     return rows, diagnostics
 
 
+def is_priority_row(row: dict[str, str]) -> bool:
+    return row["section_hint"] == "translation and notes" and int(row["greek_char_count"]) >= 40
+
+
 def write_csv(rows: list[dict[str, str]]) -> None:
     AUDIT_OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     with AUDIT_OUTPUT.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=FIELDNAMES, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
+    with PRIORITY_OUTPUT.open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=FIELDNAMES, lineterminator="\n")
+        writer.writeheader()
+        writer.writerows(row for row in rows if is_priority_row(row))
 
 
 def write_progress(rows: list[dict[str, str]], diagnostics: dict[str, object]) -> None:
@@ -144,13 +155,19 @@ def write_progress(rows: list[dict[str, str]], diagnostics: dict[str, object]) -
         f"- Source SHA-256: {diagnostics['source_sha256']}",
         f"- Source lines: {diagnostics['line_count']}",
         f"- Audit rows: {diagnostics['rows']}",
+        f"- Priority rows: {diagnostics['priority_rows']}",
         f"- Greek-character threshold: {diagnostics['greek_char_threshold']}",
+        f"- Priority rule: {diagnostics['priority_rule']}",
         "",
         "## First Audit Rows",
         "",
     ]
     for row in rows[:12]:
         lines.append(f"- line {row['line_number']} ({row['section_hint']}): {row['raw_line']}")
+    priority_rows = [row for row in rows if is_priority_row(row)]
+    lines.extend(["", "## First Priority Rows", ""])
+    for row in priority_rows[:12]:
+        lines.append(f"- line {row['line_number']} ({row['ref_hint'] or 'unmapped'}): {row['raw_line']}")
     PROGRESS_OUTPUT.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
 
@@ -166,7 +183,14 @@ def main() -> int:
     write_csv(rows)
     write_progress(rows, diagnostics)
     write_diagnostics(diagnostics)
-    print({"rows": diagnostics["rows"], "output": str(AUDIT_OUTPUT.relative_to(ROOT))})
+    print(
+        {
+            "rows": diagnostics["rows"],
+            "priority_rows": diagnostics["priority_rows"],
+            "output": str(AUDIT_OUTPUT.relative_to(ROOT)),
+            "priority_output": str(PRIORITY_OUTPUT.relative_to(ROOT)),
+        }
+    )
     return 0
 
 

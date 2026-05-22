@@ -51,6 +51,7 @@ it updated whenever raw source archives or imported CSV files change.
 | `data/research/translation_footnotes.csv` | Public footnote source table |
 | `data/research/1_enoch_witness_comparison_queue.csv` | Separate 1 Enoch witness-marker review queue |
 | `data/research/1_enoch_charles_1912_greek_ocr_audit.csv` | Separate 1 Enoch Charles 1912 Greek-heavy OCR-line audit queue; review only, not source-grade Greek rows |
+| `data/research/1_enoch_charles_1912_greek_ocr_priority.csv` | Smaller high-density Greek OCR priority queue for first manual verification pass |
 | `data/research/variant_notes.csv` | Selective textual variant notes |
 | `data/proper_names.csv` | Curated proper-name notes |
 | `data/proper_name_transliteration_notes.csv` | Generated Greek/LXX/TR name and place notes |

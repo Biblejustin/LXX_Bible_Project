@@ -71,13 +71,19 @@ intervention.
 
 ## 1 Enoch Charles 1912 Greek OCR Audit
 
-Applies to `data/research/1_enoch_charles_1912_greek_ocr_audit.csv`.
+Applies to `data/research/1_enoch_charles_1912_greek_ocr_audit.csv` and the
+smaller priority subset
+`data/research/1_enoch_charles_1912_greek_ocr_priority.csv`.
 
 This file is generated from the public-domain Charles 1912 Internet Archive OCR
 stored at `data/raw/1_enoch_charles_1912_djvu.txt`. It is a source-audit queue,
 not a Greek source text. Each row identifies a line with at least eight Greek
 characters so it can be checked against page images or a cleaner transcription
 before any source-row import.
+
+The priority subset keeps only rows in the translation/notes section with at
+least forty Greek Unicode characters. It is meant as the first manual
+verification queue.
 
 | Column | Meaning |
 | --- | --- |

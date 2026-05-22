@@ -17,6 +17,7 @@ DEFAULT_PATHS = [
     ROOT / "data/raw/1_enoch/1_enoch_charles_witness.csv",
     ROOT / "data/raw/tr_greek/nt_full.csv",
     ROOT / "data/research/1_enoch_charles_1912_greek_ocr_audit.csv",
+    ROOT / "data/research/1_enoch_charles_1912_greek_ocr_priority.csv",
     ROOT / "data/research/1_enoch_witness_comparison_queue.csv",
     ROOT / "data/research/translation_footnotes.csv",
     ROOT / "data/research/translation_decisions.csv",
