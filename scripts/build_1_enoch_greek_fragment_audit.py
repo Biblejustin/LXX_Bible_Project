@@ -11,8 +11,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "data" / "raw" / "1_enoch_charles_1912_djvu.txt"
+WITNESS_CSV = ROOT / "data" / "raw" / "1_enoch" / "1_enoch_charles_witness.csv"
 AUDIT_OUTPUT = ROOT / "data" / "research" / "1_enoch_charles_1912_greek_ocr_audit.csv"
 PRIORITY_OUTPUT = ROOT / "data" / "research" / "1_enoch_charles_1912_greek_ocr_priority.csv"
+REF_REVIEW_OUTPUT = ROOT / "data" / "research" / "1_enoch_greek_fragment_ref_review.csv"
 PROGRESS_OUTPUT = ROOT / "output" / "enoch" / "1_enoch_greek_fragment_audit.md"
 DIAGNOSTICS_OUTPUT = ROOT / "output" / "enoch" / "1_enoch_greek_fragment_audit_diagnostics.json"
 
@@ -34,6 +36,18 @@ FIELDNAMES = [
     "raw_line",
     "next_review",
 ]
+REF_REVIEW_FIELDNAMES = [
+    "ref_hint",
+    "priority_line_count",
+    "first_line_number",
+    "last_line_number",
+    "printed_page_hints",
+    "greek_ocr_excerpt",
+    "charles_witness_refs",
+    "charles_witness_excerpt",
+    "charles_comparison_notes",
+    "next_review",
+]
 
 
 def roman_to_int(text: str) -> int | None:
@@ -53,6 +67,30 @@ def roman_to_int(text: str) -> int | None:
 
 def source_sha256() -> str:
     return hashlib.sha256(SOURCE.read_bytes()).hexdigest()
+
+
+def truncate(text: str, limit: int) -> str:
+    text = " ".join(text.split())
+    if len(text) <= limit:
+        return text
+    return text[: limit - 3].rstrip() + "..."
+
+
+def ref_chapter(ref: str) -> str:
+    match = re.match(r"^1 Enoch (\d+)", ref)
+    return match.group(1) if match else ""
+
+
+def load_charles_witness_rows() -> tuple[dict[str, dict[str, str]], dict[str, list[dict[str, str]]]]:
+    by_ref: dict[str, dict[str, str]] = {}
+    by_chapter: dict[str, list[dict[str, str]]] = {}
+    if not WITNESS_CSV.exists():
+        return by_ref, by_chapter
+    with WITNESS_CSV.open(encoding="utf-8", newline="") as handle:
+        for row in csv.DictReader(handle):
+            by_ref[row["ref"]] = row
+            by_chapter.setdefault(row["chapter"], []).append(row)
+    return by_ref, by_chapter
 
 
 def section_boundaries(lines: list[str]) -> dict[str, int]:
@@ -158,7 +196,49 @@ def is_priority_row(row: dict[str, str]) -> bool:
     return row["section_hint"] == "greek fragment text" and int(row["greek_char_count"]) >= 40
 
 
-def write_csv(rows: list[dict[str, str]]) -> None:
+def grouped_ref_review_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
+    by_ref, by_chapter = load_charles_witness_rows()
+    priority_rows = [row for row in rows if is_priority_row(row)]
+    grouped: dict[str, list[dict[str, str]]] = {}
+    for row in priority_rows:
+        grouped.setdefault(row["ref_hint"] or "unmapped", []).append(row)
+
+    review_rows: list[dict[str, str]] = []
+    for ref_hint in sorted(grouped, key=lambda ref: [int(part) if part.isdigit() else part for part in re.split(r"(\d+)", ref)]):
+        ref_rows = grouped[ref_hint]
+        pages = sorted({row["printed_page_hint"] for row in ref_rows if row["printed_page_hint"]}, key=lambda value: int(value))
+        exact_witness = by_ref.get(ref_hint)
+        chapter_rows = by_chapter.get(ref_chapter(ref_hint), [])
+        if exact_witness:
+            witness_refs = exact_witness["ref"]
+            witness_excerpt = exact_witness["draft_translation"]
+            witness_notes = exact_witness["comparison_notes"]
+        elif chapter_rows:
+            witness_refs = f"{chapter_rows[0]['ref']}-{chapter_rows[-1]['ref'].split()[-1]}"
+            witness_excerpt = " ".join(row["draft_translation"] for row in chapter_rows[:3])
+            witness_notes = "; ".join(row["comparison_notes"] for row in chapter_rows[:3] if row["comparison_notes"])
+        else:
+            witness_refs = ""
+            witness_excerpt = ""
+            witness_notes = ""
+        review_rows.append(
+            {
+                "ref_hint": ref_hint,
+                "priority_line_count": str(len(ref_rows)),
+                "first_line_number": ref_rows[0]["line_number"],
+                "last_line_number": ref_rows[-1]["line_number"],
+                "printed_page_hints": "; ".join(pages),
+                "greek_ocr_excerpt": " / ".join(truncate(row["raw_line"], 160) for row in ref_rows[:4]),
+                "charles_witness_refs": witness_refs,
+                "charles_witness_excerpt": truncate(witness_excerpt, 500),
+                "charles_comparison_notes": truncate(witness_notes, 500),
+                "next_review": "Verify Greek OCR against page image, then compare with Charles Ethiopic-base witness before drafting.",
+            }
+        )
+    return review_rows
+
+
+def write_csv(rows: list[dict[str, str]]) -> int:
     AUDIT_OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     with AUDIT_OUTPUT.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=FIELDNAMES, lineterminator="\n")
@@ -168,6 +248,12 @@ def write_csv(rows: list[dict[str, str]]) -> None:
         writer = csv.DictWriter(handle, fieldnames=FIELDNAMES, lineterminator="\n")
         writer.writeheader()
         writer.writerows(row for row in rows if is_priority_row(row))
+    ref_review_rows = grouped_ref_review_rows(rows)
+    with REF_REVIEW_OUTPUT.open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=REF_REVIEW_FIELDNAMES, lineterminator="\n")
+        writer.writeheader()
+        writer.writerows(ref_review_rows)
+    return len(ref_review_rows)
 
 
 def write_progress(rows: list[dict[str, str]], diagnostics: dict[str, object]) -> None:
@@ -185,6 +271,7 @@ def write_progress(rows: list[dict[str, str]], diagnostics: dict[str, object]) -
         f"- Source lines: {diagnostics['line_count']}",
         f"- Audit rows: {diagnostics['rows']}",
         f"- Priority rows: {diagnostics['priority_rows']}",
+        f"- Reference review rows: {diagnostics['ref_review_rows']}",
         f"- Greek-character threshold: {diagnostics['greek_char_threshold']}",
         f"- Priority rule: {diagnostics['priority_rule']}",
         "",
@@ -209,7 +296,7 @@ def write_diagnostics(diagnostics: dict[str, object]) -> None:
 
 def main() -> int:
     rows, diagnostics = build_rows()
-    write_csv(rows)
+    diagnostics["ref_review_rows"] = write_csv(rows)
     write_progress(rows, diagnostics)
     write_diagnostics(diagnostics)
     print(
@@ -218,6 +305,7 @@ def main() -> int:
             "priority_rows": diagnostics["priority_rows"],
             "output": str(AUDIT_OUTPUT.relative_to(ROOT)),
             "priority_output": str(PRIORITY_OUTPUT.relative_to(ROOT)),
+            "ref_review_output": str(REF_REVIEW_OUTPUT.relative_to(ROOT)),
         }
     )
     return 0

@@ -436,6 +436,7 @@ def test_1_enoch_witness_workspace_is_separate_and_labeled() -> None:
     queue_rows = csv_rows("data/research/1_enoch_witness_comparison_queue.csv")
     greek_audit_rows = csv_rows("data/research/1_enoch_charles_1912_greek_ocr_audit.csv")
     greek_priority_rows = csv_rows("data/research/1_enoch_charles_1912_greek_ocr_priority.csv")
+    greek_ref_review_rows = csv_rows("data/research/1_enoch_greek_fragment_ref_review.csv")
     manifest = json.loads((ROOT / "data/raw/1_enoch/source_manifest.json").read_text(encoding="utf-8"))
     status = (ROOT / "docs/1_ENOCH_SOURCE_STATUS.md").read_text(encoding="utf-8")
     deuterocanon_rows = csv_rows("data/raw/lxx_deuterocanon/deuterocanon_full.csv")
@@ -464,6 +465,7 @@ def test_1_enoch_witness_workspace_is_separate_and_labeled() -> None:
     assert len(queue_rows) == 351
     assert len(greek_audit_rows) == 2440
     assert len(greek_priority_rows) == 320
+    assert len(greek_ref_review_rows) == 42
     assert greek_audit_rows[0]["source_file"] == "data/raw/1_enoch_charles_1912_djvu.txt"
     assert greek_audit_rows[0]["line_number"] == "307"
     assert "do not import as verse text" in greek_audit_rows[0]["next_review"]
@@ -474,6 +476,9 @@ def test_1_enoch_witness_workspace_is_separate_and_labeled() -> None:
     assert int(greek_priority_rows[0]["greek_char_count"]) >= 40
     assert greek_audit_by_line["34680"]["ref_hint"] == "1 Enoch 1:2"
     assert greek_audit_by_line["34799"]["ref_hint"] == "1 Enoch 1:9"
+    assert greek_ref_review_rows[0]["ref_hint"] == "1 Enoch 1"
+    assert greek_ref_review_rows[0]["charles_witness_refs"] == "1 Enoch 1:1-1:9"
+    assert "Λόγος εὐλογίας" in greek_ref_review_rows[0]["greek_ocr_excerpt"]
     assert queue_by_ref["1 Enoch 1:9"]["marker_types"] == "greek_absent_in_ethiopic"
     assert by_ref["1 Enoch 1:9"]["comparison_notes"].startswith("G^g has text absent from Ethiopic")
     assert "ten thousands of His holy ones" in by_ref["1 Enoch 1:9"]["draft_translation"]

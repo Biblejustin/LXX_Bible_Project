@@ -85,6 +85,10 @@ witness workspace, not in the Greek deuterocanon Logos Bible output.
   high-density Greek lines in the Greek-fragment text section. Neither queue
   should be treated as source-grade Greek rows without PDF/image verification or
   a cleaner transcription.
+- The generated reference review map at
+  `data/research/1_enoch_greek_fragment_ref_review.csv` groups priority OCR
+  lines by best-effort 1 Enoch reference and places them beside the Charles
+  Ethiopic-base witness rows for manual comparison.
 - Decide whether any printed appendix should use the full Charles witness or
   only the portions with extant Greek/Aramaic control.
 - Keep Jude 14-15 and early Christian reception notes in the main Bible

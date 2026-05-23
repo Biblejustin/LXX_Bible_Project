@@ -85,6 +85,10 @@ The priority subset keeps only rows in the Greek-fragment text section with at
 least forty Greek Unicode characters. It is meant as the first manual
 verification queue.
 
+`data/research/1_enoch_greek_fragment_ref_review.csv` groups those priority
+rows by best-effort 1 Enoch reference and adds matching Charles witness context.
+It is a review map, not a source text.
+
 | Column | Meaning |
 | --- | --- |
 | `source_file` | Local OCR source path |
