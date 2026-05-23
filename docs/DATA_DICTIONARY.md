@@ -92,7 +92,7 @@ verification queue.
 | `printed_page_hint` | Best-effort printed page number inferred from nearby OCR headings |
 | `heading_hint` | Nearest OCR heading used for printed-page context |
 | `section_hint` | Broad location in the OCR file |
-| `ref_hint` | Best-effort 1 Enoch reference inferred from nearby headings |
+| `ref_hint` | Best-effort 1 Enoch reference inferred from nearby headings and visible Greek-fragment verse numbers |
 | `greek_char_count` | Number of Greek Unicode characters on the line |
 | `raw_line` | Normalized OCR line |
 | `next_review` | Review instruction before any source-row use |

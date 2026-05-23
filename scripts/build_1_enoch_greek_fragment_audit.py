@@ -18,6 +18,7 @@ DIAGNOSTICS_OUTPUT = ROOT / "output" / "enoch" / "1_enoch_greek_fragment_audit_d
 
 GREEK_RE = re.compile(r"[\u0370-\u03ff\u1f00-\u1fff]")
 CHAPTER_VERSE_RE = re.compile(r"^\s*([IVXLCDM]+)\.\s*(?:(\d+)[,.]?\s*)?")
+GREEK_FRAGMENT_VERSE_RE = re.compile(r"^\s*[|\[({<]*\s*(\d{1,3})\.\s+")
 PRINTED_PAGE_RE = re.compile(r"^\s*(\d{1,3})\s+The Book of Enoch")
 CHAPTER_PAGE_RE = re.compile(r"^\s*(Chapter|Chapters)\s+.+?\s+(\d{1,3})\s*$")
 ROMAN_VALUES = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
@@ -84,11 +85,13 @@ def build_rows() -> tuple[list[dict[str, str]], dict[str, object]]:
     boundaries = section_boundaries(lines)
     rows: list[dict[str, str]] = []
     current_ref = ""
+    current_chapter = ""
     current_printed_page = ""
     current_heading = ""
 
     for line_number, line in enumerate(lines, 1):
         stripped = line.strip()
+        section = section_hint(line_number, boundaries)
         page_match = PRINTED_PAGE_RE.match(stripped)
         chapter_page_match = CHAPTER_PAGE_RE.match(stripped)
         if page_match:
@@ -103,13 +106,17 @@ def build_rows() -> tuple[list[dict[str, str]], dict[str, object]]:
             chapter = roman_to_int(match.group(1))
             verse = match.group(2)
             if chapter:
+                current_chapter = str(chapter)
                 current_ref = f"1 Enoch {chapter}:{verse}" if verse else f"1 Enoch {chapter}"
+        elif section == "greek fragment text" and current_chapter:
+            verse_match = GREEK_FRAGMENT_VERSE_RE.match(stripped)
+            if verse_match:
+                current_ref = f"1 Enoch {current_chapter}:{int(verse_match.group(1))}"
 
         greek_count = len(GREEK_RE.findall(line))
         if greek_count < 8:
             continue
 
-        section = section_hint(line_number, boundaries)
         if section == "translation and notes":
             review = "Verify against page image/PDF before using as Greek-fragment or variant evidence."
         else:

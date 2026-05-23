@@ -441,6 +441,7 @@ def test_1_enoch_witness_workspace_is_separate_and_labeled() -> None:
     deuterocanon_rows = csv_rows("data/raw/lxx_deuterocanon/deuterocanon_full.csv")
     by_ref = {row["ref"]: row for row in rows}
     queue_by_ref = {row["ref"]: row for row in queue_rows}
+    greek_audit_by_line = {row["line_number"]: row for row in greek_audit_rows}
 
     assert len(rows) == 1056
     assert {row["book_code"] for row in rows} == {"ENO"}
@@ -471,6 +472,8 @@ def test_1_enoch_witness_workspace_is_separate_and_labeled() -> None:
     assert greek_priority_rows[0]["heading_hint"].startswith("272 The Book of Enoch")
     assert greek_priority_rows[0]["section_hint"] == "greek fragment text"
     assert int(greek_priority_rows[0]["greek_char_count"]) >= 40
+    assert greek_audit_by_line["34680"]["ref_hint"] == "1 Enoch 1:2"
+    assert greek_audit_by_line["34799"]["ref_hint"] == "1 Enoch 1:9"
     assert queue_by_ref["1 Enoch 1:9"]["marker_types"] == "greek_absent_in_ethiopic"
     assert by_ref["1 Enoch 1:9"]["comparison_notes"].startswith("G^g has text absent from Ethiopic")
     assert "ten thousands of His holy ones" in by_ref["1 Enoch 1:9"]["draft_translation"]
