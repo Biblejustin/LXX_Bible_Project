@@ -94,6 +94,7 @@ It is a review map, not a source text.
 | `source_file` | Local OCR source path |
 | `line_number` | 1-based line number in the OCR file |
 | `printed_page_hint` | Best-effort printed page number inferred from nearby OCR headings |
+| `pdf_page_hint` | Best-effort page number in the Internet Archive Charles 1912 PDF |
 | `heading_hint` | Nearest OCR heading used for printed-page context |
 | `section_hint` | Broad location in the OCR file |
 | `ref_hint` | Best-effort 1 Enoch reference inferred from nearby headings and visible Greek-fragment verse numbers |

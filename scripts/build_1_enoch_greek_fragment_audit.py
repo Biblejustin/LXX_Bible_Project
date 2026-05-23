@@ -24,11 +24,13 @@ GREEK_FRAGMENT_VERSE_RE = re.compile(r"^\s*[|\[({<]*\s*(\d{1,3})\.\s+")
 PRINTED_PAGE_RE = re.compile(r"^\s*(\d{1,3})\s+The Book of Enoch")
 CHAPTER_PAGE_RE = re.compile(r"^\s*(Chapter|Chapters)\s+.+?\s+(\d{1,3})\s*$")
 ROMAN_VALUES = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
+CHARLES_1912_PDF_PAGE_OFFSET = 117
 
 FIELDNAMES = [
     "source_file",
     "line_number",
     "printed_page_hint",
+    "pdf_page_hint",
     "heading_hint",
     "section_hint",
     "ref_hint",
@@ -42,6 +44,7 @@ REF_REVIEW_FIELDNAMES = [
     "first_line_number",
     "last_line_number",
     "printed_page_hints",
+    "pdf_page_hints",
     "greek_ocr_excerpt",
     "charles_witness_refs",
     "charles_witness_excerpt",
@@ -79,6 +82,22 @@ def truncate(text: str, limit: int) -> str:
 def ref_chapter(ref: str) -> str:
     match = re.match(r"^1 Enoch (\d+)", ref)
     return match.group(1) if match else ""
+
+
+def normalize_printed_page(raw_page: str, section: str) -> str:
+    if not raw_page:
+        return ""
+    page = int(raw_page)
+    # The IA OCR misreads Charles Greek-fragment page headings 300/304 as 800/804.
+    if section == "greek fragment text" and 700 <= page <= 899:
+        page -= 500
+    return str(page)
+
+
+def pdf_page_hint(printed_page: str) -> str:
+    if not printed_page:
+        return ""
+    return str(int(printed_page) + CHARLES_1912_PDF_PAGE_OFFSET)
 
 
 def load_charles_witness_rows() -> tuple[dict[str, dict[str, str]], dict[str, list[dict[str, str]]]]:
@@ -133,10 +152,10 @@ def build_rows() -> tuple[list[dict[str, str]], dict[str, object]]:
         page_match = PRINTED_PAGE_RE.match(stripped)
         chapter_page_match = CHAPTER_PAGE_RE.match(stripped)
         if page_match:
-            current_printed_page = page_match.group(1)
+            current_printed_page = normalize_printed_page(page_match.group(1), section)
             current_heading = stripped
         elif chapter_page_match:
-            current_printed_page = chapter_page_match.group(2)
+            current_printed_page = normalize_printed_page(chapter_page_match.group(2), section)
             current_heading = stripped
 
         match = CHAPTER_VERSE_RE.match(stripped)
@@ -167,6 +186,7 @@ def build_rows() -> tuple[list[dict[str, str]], dict[str, object]]:
                 "source_file": str(SOURCE.relative_to(ROOT)),
                 "line_number": str(line_number),
                 "printed_page_hint": current_printed_page,
+                "pdf_page_hint": pdf_page_hint(current_printed_page),
                 "heading_hint": current_heading,
                 "section_hint": section,
                 "ref_hint": current_ref,
@@ -207,6 +227,7 @@ def grouped_ref_review_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
     for ref_hint in sorted(grouped, key=lambda ref: [int(part) if part.isdigit() else part for part in re.split(r"(\d+)", ref)]):
         ref_rows = grouped[ref_hint]
         pages = sorted({row["printed_page_hint"] for row in ref_rows if row["printed_page_hint"]}, key=lambda value: int(value))
+        pdf_pages = sorted({row["pdf_page_hint"] for row in ref_rows if row["pdf_page_hint"]}, key=lambda value: int(value))
         exact_witness = by_ref.get(ref_hint)
         chapter_rows = by_chapter.get(ref_chapter(ref_hint), [])
         if exact_witness:
@@ -228,6 +249,7 @@ def grouped_ref_review_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
                 "first_line_number": ref_rows[0]["line_number"],
                 "last_line_number": ref_rows[-1]["line_number"],
                 "printed_page_hints": "; ".join(pages),
+                "pdf_page_hints": "; ".join(pdf_pages),
                 "greek_ocr_excerpt": " / ".join(truncate(row["raw_line"], 160) for row in ref_rows[:4]),
                 "charles_witness_refs": witness_refs,
                 "charles_witness_excerpt": truncate(witness_excerpt, 500),

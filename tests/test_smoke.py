@@ -471,6 +471,7 @@ def test_1_enoch_witness_workspace_is_separate_and_labeled() -> None:
     assert "do not import as verse text" in greek_audit_rows[0]["next_review"]
     assert greek_priority_rows[0]["line_number"] == "34673"
     assert greek_priority_rows[0]["printed_page_hint"] == "272"
+    assert greek_priority_rows[0]["pdf_page_hint"] == "389"
     assert greek_priority_rows[0]["heading_hint"].startswith("272 The Book of Enoch")
     assert greek_priority_rows[0]["section_hint"] == "greek fragment text"
     assert int(greek_priority_rows[0]["greek_char_count"]) >= 40
@@ -478,6 +479,7 @@ def test_1_enoch_witness_workspace_is_separate_and_labeled() -> None:
     assert greek_audit_by_line["34799"]["ref_hint"] == "1 Enoch 1:9"
     assert greek_ref_review_rows[0]["ref_hint"] == "1 Enoch 1"
     assert greek_ref_review_rows[0]["charles_witness_refs"] == "1 Enoch 1:1-1:9"
+    assert greek_ref_review_rows[0]["pdf_page_hints"] == "389"
     assert "Λόγος εὐλογίας" in greek_ref_review_rows[0]["greek_ocr_excerpt"]
     assert queue_by_ref["1 Enoch 1:9"]["marker_types"] == "greek_absent_in_ethiopic"
     assert by_ref["1 Enoch 1:9"]["comparison_notes"].startswith("G^g has text absent from Ethiopic")
