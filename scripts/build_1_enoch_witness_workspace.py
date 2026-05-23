@@ -66,17 +66,53 @@ OCP_WITNESS_INVENTORY = {
             "name": "Rylands Manuscript 23",
             "scope": "Book of Watchers and Parables in the current OCP transcription",
             "date": "17th or 18th century AD",
+            "print_source": "M. A. Knibb, The Ethiopic Book of Enoch (Oxford: Clarendon, 1978)",
         }
     ],
     "greek": [
-        {"siglum": "7QEnoch", "name": "7QpapEn gr (7Q4, 8, 11-14)", "scope": "fragmentary"},
-        {"siglum": "POxy2069", "name": "Oxyrhynchus Papyrus 2069", "scope": "fragmentary"},
-        {"siglum": "CB185", "name": "Chester Beatty 185", "scope": "last chapters in Greek"},
-        {"siglum": "V1809", "name": "Vatican Greek 1809 fragment", "scope": "fragmentary"},
-        {"siglum": "Gizeh", "name": "Cairo Papyrus 10759 / Codex Panopolitanus", "scope": "Akhmim Greek fragments"},
-        {"siglum": "Gizeh2", "name": "Duplicate section of Cairo Papyrus 10759", "scope": "Akhmim duplicate"},
-        {"siglum": "Syncellus", "name": "George Syncellus, Chronographia", "scope": "quoted Greek fragments"},
-        {"siglum": "Jude", "name": "Jude 14-15", "scope": "New Testament citation"},
+        {
+            "siglum": "7QEnoch",
+            "name": "7QpapEn gr (7Q4, 8, 11-14)",
+            "scope": "fragmentary",
+            "print_source": "DJD III, 144-145, pl. XXX",
+        },
+        {
+            "siglum": "POxy2069",
+            "name": "Oxyrhynchus Papyrus 2069",
+            "scope": "fragmentary",
+            "print_source": "The Oxyrhynchus Papyri XVII (1927), 6-8",
+        },
+        {
+            "siglum": "CB185",
+            "name": "Chester Beatty 185",
+            "scope": "last chapters in Greek",
+            "print_source": "Bonner and Youtie, The Last Chapters of Enoch in Greek (1937)",
+        },
+        {
+            "siglum": "V1809",
+            "name": "Vatican Greek 1809 fragment",
+            "scope": "fragmentary",
+            "print_source": "Gildemeister, ZDMG 9 (1855): 621-624",
+        },
+        {
+            "siglum": "Gizeh",
+            "name": "Cairo Papyrus 10759 / Codex Panopolitanus",
+            "scope": "Akhmim Greek fragments",
+            "print_source": "Charles, The Book of Enoch or 1 Enoch (Oxford, 1912), 273-304",
+        },
+        {
+            "siglum": "Gizeh2",
+            "name": "Duplicate section of Cairo Papyrus 10759",
+            "scope": "Akhmim duplicate",
+            "print_source": "Charles, The Book of Enoch or 1 Enoch (Oxford, 1912), 273-304",
+        },
+        {
+            "siglum": "Syncellus",
+            "name": "George Syncellus, Chronographia",
+            "scope": "quoted Greek fragments",
+            "print_source": "Dindorf, Georgius Syncellus et Nicephorus Constantinopolitanus (Bonn, 1829)",
+        },
+        {"siglum": "Jude", "name": "Jude 14-15", "scope": "New Testament citation", "print_source": "TR NT source rows"},
     ],
     "aramaic": [
         {"siglum": "4Q201", "name": "4QEnoch a ar"},
@@ -92,6 +128,35 @@ OCP_WITNESS_INVENTORY = {
         {"siglum": "4Q212", "name": "4QEnoch g ar"},
         {"siglum": "4Q247", "name": "4QApocalypse of Weeks?"},
     ],
+    "latin": [
+        {
+            "siglum": "Tertullian",
+            "name": "1 Enoch 99 apud Tertullian, De idolatria 4.3.22-38",
+            "scope": "Latin citation",
+        },
+        {
+            "siglum": "BL",
+            "name": "British Library, Ref. 5 E XII, fol. 79v-80r",
+            "scope": "Latin fragment",
+        },
+    ],
+}
+
+OCP_ACCESS_POLICY = {
+    "checked_url": "https://pseudepigrapha.org/docs/intro/1En",
+    "checked_date": "2026-05-22",
+    "access_note": "Site was reachable with certificate bypass because the HTTPS certificate was expired.",
+    "coverage_note": (
+        "OCP says current 1 Enoch represents all extant Greek and Latin evidence, "
+        "Aramaic fragments through chapter 8, and one Ethiopic manuscript for the "
+        "Book of Watchers and Parables; Syriac and Coptic fragments await encoding."
+    ),
+    "copyright_note": (
+        "OCP treats words of extant manuscripts as public-domain data, but tagged XML "
+        "and reconstructed/eclectic texts have separate copyright conditions. This "
+        "repo uses OCP as a witness inventory and comparison pointer, not as vendored "
+        "XML or reconstructed text."
+    ),
 }
 
 ROMAN_VALUES = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
@@ -396,6 +461,7 @@ def write_manifest(diagnostics: dict[str, object]) -> None:
                 "OCP represents extant Greek and Latin evidence, Aramaic fragments through chapter 8, "
                 "and one Ethiopic manuscript for the Book of Watchers and Parables. Use rights vary by witness."
             ),
+            "access_policy": OCP_ACCESS_POLICY,
         },
         "candidate_public_domain_sources": [
             {
@@ -445,6 +511,8 @@ def write_progress(rows: list[dict[str, str]], diagnostics: dict[str, object]) -
         "- Ethiopic: Rylands Manuscript 23 (OCP p), 17th or 18th century AD.",
         "- Greek: 7QEnoch, POxy2069, Chester Beatty 185, Vatican Greek 1809, Gizeh/Akhmim, Syncellus, Jude 14-15.",
         "- Aramaic: 4Q201-4Q212 and 4Q247 per OCP inventory; OCP currently includes Aramaic fragments through chapter 8.",
+        "- Latin: Tertullian and British Library fragment witnesses per OCP inventory.",
+        "- Syriac/Coptic: known fragments exist, but OCP says they are not yet encoded.",
         "",
         "## Marker Counts",
         "",

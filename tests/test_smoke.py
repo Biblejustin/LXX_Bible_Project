@@ -454,6 +454,9 @@ def test_1_enoch_witness_workspace_is_separate_and_labeled() -> None:
         "Jude",
     }
     assert {item["siglum"] for item in manifest["comparison_witness_inventory"]["aramaic"]} >= {"4Q201", "4Q212"}
+    assert {item["siglum"] for item in manifest["comparison_witness_inventory"]["latin"]} == {"Tertullian", "BL"}
+    assert "expired" in manifest["comparison_source_pointer"]["access_policy"]["access_note"]
+    assert "Syriac and Coptic fragments await encoding" in manifest["comparison_source_pointer"]["access_policy"]["coverage_note"]
     assert manifest["diagnostics"]["chapter_count"] == 108
     assert manifest["diagnostics"]["missing_chapters"] == []
     assert manifest["diagnostics"]["comparison_queue_rows"] == 351

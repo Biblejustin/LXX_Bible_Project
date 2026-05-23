@@ -45,8 +45,14 @@ vendored source import.
 
 The manifest records an OCP comparison inventory: Ethiopic Rylands Manuscript 23
 (`p`), Greek fragments/witnesses including 7QEnoch, POxy2069, Chester Beatty
-185, Vatican Greek 1809, Gizeh/Akhmim, Syncellus, and Jude 14-15, plus Aramaic
-Qumran witnesses 4Q201-4Q212 and 4Q247.
+185, Vatican Greek 1809, Gizeh/Akhmim, Syncellus, and Jude 14-15, Aramaic
+Qumran witnesses 4Q201-4Q212 and 4Q247, and Latin witnesses in Tertullian and
+a British Library fragment. OCP also notes that Syriac and Coptic fragments
+exist but are not yet encoded there.
+
+OCP was reachable on 2026-05-22 only with HTTPS certificate verification
+bypassed, because its certificate was expired. Treat OCP as a source pointer to
+check manually, not as an automated dependency.
 
 OCP's copyright page distinguishes the words of extant manuscripts from the
 tagged XML and reconstructed/eclectic texts. For this project, do not vendor OCP
