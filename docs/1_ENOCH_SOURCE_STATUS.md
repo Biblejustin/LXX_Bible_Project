@@ -91,6 +91,10 @@ witness workspace, not in the Greek deuterocanon Logos Bible output.
   Ethiopic-base witness rows for manual comparison. It also includes
   best-effort printed-page and PDF-page hints for checking the OCR against the
   Internet Archive Charles 1912 PDF.
+- The manually checked subset at
+  `data/research/1_enoch_greek_fragment_verified.csv` records page-image
+  verified Greek-fragment rows. These are research witness rows only until a
+  second review promotes them into a source or appendix workflow.
 - Decide whether any printed appendix should use the full Charles witness or
   only the portions with extant Greek/Aramaic control.
 - Keep Jude 14-15 and early Christian reception notes in the main Bible

@@ -89,6 +89,11 @@ verification queue.
 rows by best-effort 1 Enoch reference and adds matching Charles witness context.
 It is a review map, not a source text.
 
+`data/research/1_enoch_greek_fragment_verified.csv` is a manually checked
+subset of that queue. Each row has been compared against the Charles 1912 PDF
+page image, but remains a research witness row until a second review promotes it
+into any source or appendix workflow.
+
 | Column | Meaning |
 | --- | --- |
 | `source_file` | Local OCR source path |
@@ -101,6 +106,18 @@ It is a review map, not a source text.
 | `greek_char_count` | Number of Greek Unicode characters on the line |
 | `raw_line` | Normalized OCR line |
 | `next_review` | Review instruction before any source-row use |
+
+Additional columns in the manually verified subset:
+
+| Column | Meaning |
+| --- | --- |
+| `ref` | 1 Enoch reference assigned after manual page-image review |
+| `source_witness` | Printed Greek-fragment witness label |
+| `source_line_range` | OCR line range used as the starting review pointer |
+| `greek_text` | Manually corrected Greek text checked against the page image |
+| `comparison_witness_refs` | Charles witness row or rows used for comparison |
+| `review_note` | What was checked and what was deliberately excluded |
+| `review_status` | Current manual-review state |
 
 ## Translation Footnotes
 
