@@ -44,6 +44,7 @@ Scope:
 - Paper proof scope: this deuterocanon source is intentionally separate and is not included in the compact paper proofreading copy.
 - Place links: disabled by default; generated DOCX keeps place names as plain text so Personal Book import remains stable.
 - Cross-references: omitted because `--no-crossrefs` was used.
+- Greek concordance: not included. Logos provides native dynamic concordance lookup, so this build relies on that capability instead of duplicating it as a static appendix. Print/deuterocanon proof outputs may include compact static concordance material for readers without Logos lookup tools.
 - Footnote numbering: one DOCX file with internal Word section metadata set to restart visible footnote numbering by `chapter`. Cross-reference footnotes use normal numeric Word footnote references because Logos 49 Personal Book import crashes while converting large DOCX files that use custom footnote marks.
 
 Validation:

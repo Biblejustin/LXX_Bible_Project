@@ -25,11 +25,11 @@
   },
   "translation_note_filter": {
     "rows": 25294,
-    "included": 4117,
+    "included": 4118,
     "included_mt_lxx_difference_notes": 335,
     "skipped_unreviewed": 1888,
     "skipped_generic_or_brenton_only": 10099,
-    "skipped_generic_mt_lxx_without_concrete_detail": 9081,
+    "skipped_generic_mt_lxx_without_concrete_detail": 9080,
     "included_concrete_mt_lxx_details": 3,
     "skipped_note_type": 109
   },
@@ -42,8 +42,8 @@
   },
   "translation_decision_filter": {
     "present": 1,
-    "rows": 12462,
-    "skipped_non_variant": 7841,
+    "rows": 12464,
+    "skipped_non_variant": 7843,
     "skipped_unreviewed": 2733,
     "included": 1888,
     "included_refs": 1888

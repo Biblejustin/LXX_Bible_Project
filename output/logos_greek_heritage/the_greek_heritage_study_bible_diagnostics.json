@@ -72,26 +72,26 @@
   },
   "translation_note_filter": {
     "rows": 25294,
-    "included": 4117,
+    "included": 4118,
     "included_mt_lxx_difference_notes": 335,
     "skipped_unreviewed": 1888,
     "skipped_generic_or_brenton_only": 10099,
-    "skipped_generic_mt_lxx_without_concrete_detail": 9081,
+    "skipped_generic_mt_lxx_without_concrete_detail": 9080,
     "included_concrete_mt_lxx_details": 3,
     "skipped_note_type": 109
   },
   "reader_facing_translation_note_filter": {
-    "input_refs": 3995,
-    "input_notes": 4107,
-    "included_notes": 3788,
+    "input_refs": 3996,
+    "input_notes": 4108,
+    "included_notes": 3789,
     "skipped_mechanical_review_notes": 319,
-    "included_refs": 3677,
+    "included_refs": 3678,
     "skipped_mechanical_review_note_variants": 295
   },
   "translation_decision_filter": {
     "present": 1,
-    "rows": 12462,
-    "skipped_non_variant": 7841,
+    "rows": 12464,
+    "skipped_non_variant": 7843,
     "skipped_unreviewed": 2733,
     "included": 1888,
     "included_refs": 1888
@@ -102,10 +102,10 @@
     "included_refs": 0,
     "included_total": 0
   },
-  "source_translation_note_refs": 3995,
-  "source_translation_note_total": 4107,
-  "included_translation_note_refs": 3677,
-  "included_translation_note_total": 3788,
+  "source_translation_note_refs": 3996,
+  "source_translation_note_total": 4108,
+  "included_translation_note_refs": 3678,
+  "included_translation_note_total": 3789,
   "book_prefaces": {
     "present": true,
     "path": "/Users/justinscaggs/Documents/Codex_bible/data/book_intros_template.csv",
@@ -190,7 +190,7 @@
       {
         "book_code": "ENO",
         "book_name": "1 Enoch",
-        "status": "draft"
+        "status": "source-audit"
       }
     ]
   },
@@ -310,14 +310,14 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 0,
     "footnote_columns": 1,
-    "footnote_count": 86763,
+    "footnote_count": 86764,
     "crossref_footnotes": 58497,
-    "translation_note_footnotes": 3788,
+    "translation_note_footnotes": 3789,
     "section_break_count": 1189,
     "footnote_number_restart": "chapter",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
-    "phrase_anchored_translation_notes": 2989,
+    "phrase_anchored_translation_notes": 2990,
     "verse_anchored_translation_notes": 799,
     "name_meaning_footnotes": 21957,
     "supplemental_note_footnotes": 2521,
@@ -325,8 +325,8 @@
     "textual_note_export_footnotes": 0,
     "phrase_anchored_name_meaning_notes": 14038,
     "verse_anchored_name_meaning_notes": 7919,
-    "phrase_anchored_crossref_notes": 18245,
-    "verse_anchored_crossref_notes": 40252,
+    "phrase_anchored_crossref_notes": 18246,
+    "verse_anchored_crossref_notes": 40251,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
@@ -346,14 +346,14 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 0,
     "footnote_columns": 1,
-    "footnote_count": 87082,
+    "footnote_count": 87083,
     "crossref_footnotes": 58497,
-    "translation_note_footnotes": 4107,
+    "translation_note_footnotes": 4108,
     "section_break_count": 1189,
     "footnote_number_restart": "chapter",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
-    "phrase_anchored_translation_notes": 3234,
+    "phrase_anchored_translation_notes": 3235,
     "verse_anchored_translation_notes": 873,
     "name_meaning_footnotes": 21957,
     "supplemental_note_footnotes": 2521,
@@ -361,8 +361,8 @@
     "textual_note_export_footnotes": 0,
     "phrase_anchored_name_meaning_notes": 14036,
     "verse_anchored_name_meaning_notes": 7921,
-    "phrase_anchored_crossref_notes": 18150,
-    "verse_anchored_crossref_notes": 40347,
+    "phrase_anchored_crossref_notes": 18151,
+    "verse_anchored_crossref_notes": 40346,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
@@ -382,14 +382,14 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 0,
     "footnote_columns": 1,
-    "footnote_count": 87082,
+    "footnote_count": 87083,
     "crossref_footnotes": 58497,
-    "translation_note_footnotes": 4107,
+    "translation_note_footnotes": 4108,
     "section_break_count": 1189,
     "footnote_number_restart": "chapter",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
-    "phrase_anchored_translation_notes": 3234,
+    "phrase_anchored_translation_notes": 3235,
     "verse_anchored_translation_notes": 873,
     "name_meaning_footnotes": 21957,
     "supplemental_note_footnotes": 2521,
@@ -397,8 +397,8 @@
     "textual_note_export_footnotes": 0,
     "phrase_anchored_name_meaning_notes": 14036,
     "verse_anchored_name_meaning_notes": 7921,
-    "phrase_anchored_crossref_notes": 18150,
-    "verse_anchored_crossref_notes": 40347,
+    "phrase_anchored_crossref_notes": 18151,
+    "verse_anchored_crossref_notes": 40346,
     "custom_marked_crossref_notes": 0,
     "max_crossref_marker_index_in_chapter": 0,
     "place_link_count": 0,
@@ -428,8 +428,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 86763,
-      "footnote_body_count": 86763
+      "footnote_reference_count": 86764,
+      "footnote_body_count": 86764
     },
     {
       "path": "output/logos_greek_heritage/the_greek_heritage_study_bible_reference_notes.docx",
@@ -448,8 +448,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 87082,
-      "footnote_body_count": 87082
+      "footnote_reference_count": 87083,
+      "footnote_body_count": 87083
     },
     {
       "path": "output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx",
@@ -468,8 +468,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 87082,
-      "footnote_body_count": 87082
+      "footnote_reference_count": 87083,
+      "footnote_body_count": 87083
     }
   ],
   "outputs": {
