@@ -3,18 +3,18 @@
   "book_count": 66,
   "translation_note_filter": {
     "rows": 25294,
-    "included": 4118,
-    "included_mt_lxx_difference_notes": 335,
+    "included": 4120,
+    "included_mt_lxx_difference_notes": 337,
     "skipped_unreviewed": 1888,
-    "skipped_generic_or_brenton_only": 10099,
+    "skipped_generic_or_brenton_only": 10097,
     "skipped_generic_mt_lxx_without_concrete_detail": 9080,
     "included_concrete_mt_lxx_details": 3,
     "skipped_note_type": 109
   },
   "reader_facing_translation_note_filter": {
     "input_refs": 3996,
-    "input_notes": 4108,
-    "included_notes": 3789,
+    "input_notes": 4110,
+    "included_notes": 3791,
     "skipped_mechanical_review_notes": 319,
     "included_refs": 3678,
     "skipped_mechanical_review_note_variants": 295
@@ -34,7 +34,7 @@
     "included_total": 0
   },
   "included_translation_note_refs": 3678,
-  "included_translation_note_total": 3789,
+  "included_translation_note_total": 3791,
   "book_prefaces": {
     "present": true,
     "path": "/Users/justinscaggs/Documents/Codex_bible/data/book_intros_template.csv",
@@ -147,15 +147,15 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 2983,
     "footnote_columns": 2,
-    "footnote_count": 35412,
+    "footnote_count": 35414,
     "crossref_footnotes": 28809,
-    "translation_note_footnotes": 3789,
+    "translation_note_footnotes": 3791,
     "section_break_count": 0,
     "footnote_number_restart": "page",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
     "phrase_anchored_translation_notes": 2990,
-    "verse_anchored_translation_notes": 799,
+    "verse_anchored_translation_notes": 801,
     "name_meaning_footnotes": 2814,
     "supplemental_note_footnotes": 0,
     "brenton_supplemental_footnotes": 0,
@@ -193,8 +193,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 35412,
-      "footnote_body_count": 35412
+      "footnote_reference_count": 35414,
+      "footnote_body_count": 35414
     }
   ],
   "outputs": {
