@@ -24,14 +24,14 @@
     "PSA": 7
   },
   "translation_note_filter": {
-    "rows": 25294,
+    "rows": 25296,
     "included": 4120,
     "included_mt_lxx_difference_notes": 337,
     "skipped_unreviewed": 1888,
     "skipped_generic_or_brenton_only": 10097,
     "skipped_generic_mt_lxx_without_concrete_detail": 9080,
     "included_concrete_mt_lxx_details": 3,
-    "skipped_note_type": 109
+    "skipped_note_type": 111
   },
   "reader_facing_translation_note_filter": {
     "input_refs": 5,
