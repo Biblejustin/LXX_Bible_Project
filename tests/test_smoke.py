@@ -1328,7 +1328,7 @@ def test_matthew_tr_critical_text_footnotes_present() -> None:
 
     for ref in ("Matthew 6:13", "Matthew 17:21", "Matthew 18:11", "Matthew 23:14"):
         assert footnote_rows[ref]["note_type"] == "textual"
-        assert "NA28/UBS5" in footnote_rows[ref]["footnote_text"]
+        assert "modern critical editions" in footnote_rows[ref]["footnote_text"]
         assert footnote_rows[ref]["status"] == "reviewed"
 
 
@@ -1350,7 +1350,7 @@ def test_mark_tr_critical_text_footnotes_present() -> None:
 
     for ref in refs:
         assert footnote_rows[ref]["note_type"] == "textual"
-        assert "NA28/UBS5" in footnote_rows[ref]["footnote_text"]
+        assert "modern critical editions" in footnote_rows[ref]["footnote_text"]
         assert footnote_rows[ref]["status"] == "reviewed"
     assert "Mark 16:9-20" in footnote_rows["Mark 16:9"]["footnote_text"]
 
@@ -1372,7 +1372,7 @@ def test_luke_tr_critical_text_footnotes_present() -> None:
 
     for ref in refs:
         assert footnote_rows[ref]["note_type"] == "textual"
-        assert "NA28/UBS5" in footnote_rows[ref]["footnote_text"]
+        assert "modern critical editions" in footnote_rows[ref]["footnote_text"]
         assert footnote_rows[ref]["status"] == "reviewed"
     assert "eudokia" in footnote_rows["Luke 2:14"]["footnote_text"]
     assert "Luke 9:55-56" in footnote_rows["Luke 9:55"]["footnote_text"]
@@ -1394,7 +1394,7 @@ def test_john_tr_critical_text_footnotes_present() -> None:
 
     for ref in refs:
         assert footnote_rows[ref]["note_type"] == "textual"
-        assert "NA28/UBS5" in footnote_rows[ref]["footnote_text"]
+        assert "modern critical editions" in footnote_rows[ref]["footnote_text"]
         assert footnote_rows[ref]["status"] == "reviewed"
     assert "John 5:3b-4" in footnote_rows["John 5:3"]["footnote_text"]
     assert "John 7:53-8:11" in footnote_rows["John 7:53"]["footnote_text"]
@@ -1417,7 +1417,7 @@ def test_acts_tr_critical_text_footnotes_present() -> None:
 
     for ref in refs:
         assert footnote_rows[ref]["note_type"] == "textual"
-        assert "NA28/UBS5" in footnote_rows[ref]["footnote_text"]
+        assert "modern critical editions" in footnote_rows[ref]["footnote_text"]
         assert footnote_rows[ref]["status"] == "reviewed"
     assert "Textus Receptus;" in footnote_rows["Acts 8:37"]["footnote_text"]
     assert "Acts 24:6b-8a" in footnote_rows["Acts 24:6"]["footnote_text"]
@@ -1437,7 +1437,7 @@ def test_romans_tr_critical_text_footnotes_present() -> None:
 
     for ref in refs:
         assert footnote_rows[ref]["note_type"] == "textual"
-        assert "NA28/UBS5" in footnote_rows[ref]["footnote_text"]
+        assert "modern critical editions" in footnote_rows[ref]["footnote_text"]
         assert footnote_rows[ref]["status"] == "reviewed"
     assert "shorter form" in footnote_rows["Romans 8:1"]["footnote_text"]
 
@@ -1453,7 +1453,7 @@ def test_first_timothy_tr_critical_text_footnote_present() -> None:
     assert "θεος εφανερωθη εν σαρκι" in source_rows["1 Timothy 3:16"]["greek_text"]
     assert footnote_rows["1 Timothy 3:16"]["note_type"] == "textual"
     assert "God was manifest in the flesh" in footnote_rows["1 Timothy 3:16"]["footnote_text"]
-    assert "NA28/UBS5" in footnote_rows["1 Timothy 3:16"]["footnote_text"]
+    assert "modern critical editions" in footnote_rows["1 Timothy 3:16"]["footnote_text"]
     assert footnote_rows["1 Timothy 3:16"]["status"] == "reviewed"
 
 
@@ -1469,7 +1469,7 @@ def test_first_john_comma_johanneum_textual_note_present() -> None:
     assert "το πνευμα και το υδωρ και το αιμα" in source_rows["1 John 5:8"]["greek_text"]
     assert footnote_rows["1 John 5:7"]["note_type"] == "textual"
     assert "Comma Johanneum" in footnote_rows["1 John 5:7"]["footnote_text"]
-    assert "NA28/UBS5" in footnote_rows["1 John 5:7"]["footnote_text"]
+    assert "modern critical editions" in footnote_rows["1 John 5:7"]["footnote_text"]
     assert footnote_rows["1 John 5:7"]["status"] == "reviewed"
 
 
@@ -1487,7 +1487,7 @@ def test_revelation_tr_critical_text_footnotes_present() -> None:
 
     for ref in refs:
         assert footnote_rows[ref]["note_type"] == "textual"
-        assert "NA28/UBS5" in footnote_rows[ref]["footnote_text"]
+        assert "modern critical editions" in footnote_rows[ref]["footnote_text"]
         assert footnote_rows[ref]["status"] == "reviewed"
     assert "wash their robes" in footnote_rows["Revelation 22:14"]["footnote_text"]
     assert "tree of life" in footnote_rows["Revelation 22:19"]["footnote_text"]
