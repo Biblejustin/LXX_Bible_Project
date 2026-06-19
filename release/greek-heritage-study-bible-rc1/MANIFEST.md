@@ -2,7 +2,7 @@
 
 Release candidate: `greek-heritage-study-bible-rc1`
 
-Date prepared: 2026-06-18
+Date prepared: 2026-06-19
 
 This package is a lightweight manifest for committed release artifacts for The Greek Heritage Study Bible. Large generated outputs remain in `output/` to avoid duplicating multi-megabyte files in git.
 
