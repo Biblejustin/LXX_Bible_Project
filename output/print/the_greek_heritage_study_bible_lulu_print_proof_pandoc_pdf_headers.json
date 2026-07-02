@@ -1478,7 +1478,7 @@
     },
     {
       "page": 106,
-      "range": "Deuteronomy 7:1-8:19",
+      "range": "Deuteronomy 7:1-8:20",
       "first_ref": {
         "book": "Deuteronomy",
         "chapter": 7,
@@ -1487,16 +1487,16 @@
       "last_ref": {
         "book": "Deuteronomy",
         "chapter": 8,
-        "verse": 19
+        "verse": 20
       }
     },
     {
       "page": 107,
-      "range": "Deuteronomy 8:19-10:13",
+      "range": "Deuteronomy 8:20-10:13",
       "first_ref": {
         "book": "Deuteronomy",
         "chapter": 8,
-        "verse": 19
+        "verse": 20
       },
       "last_ref": {
         "book": "Deuteronomy",

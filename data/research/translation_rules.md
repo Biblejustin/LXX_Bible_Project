@@ -23,6 +23,8 @@ Draft rules:
 13. Preserve name meaning in notes when the meaning is biblically significant or contextually active.
 14. Track exceptions and ambiguous names in a separate name-review workflow, not ad hoc in verse edits.
 15. For overtly theophanic scenes with ἄγγελος κυρίου / ἄγγελος θεοῦ, prefer `angel` over neutral `messenger`; project background treats these scenes as divine manifestation rather than ordinary courier language.
+16. Render ἄνθρωπος (the generic person word) as `human`/`humans`/`humankind`, and ἀνήρ as `man`; where both occur in one verse, preserve the distinction (for example Isaiah 31:8; 2 Kings 7:10).
+17. Exceptions to rule 16, all NT-quotation or Adam-narrative driven: the Adam narrative uses `the man` (Genesis 1:27; 2:7ff, matching 1 Corinthians 15:45); verses the NT quotes with `man` follow the quotation wording (Genesis 2:24 with Matthew 19:5; Deuteronomy 8:3 with Matthew 4:4; Psalms 8:5 with Hebrews 2:6; Psalms 117:6 with Hebrews 13:6).
 
 Open questions:
 

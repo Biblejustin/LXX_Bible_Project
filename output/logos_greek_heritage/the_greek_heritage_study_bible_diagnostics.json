@@ -71,8 +71,8 @@
     "REV": 404
   },
   "translation_note_filter": {
-    "rows": 25296,
-    "included": 4123,
+    "rows": 25297,
+    "included": 4124,
     "included_mt_lxx_difference_notes": 340,
     "skipped_unreviewed": 1888,
     "skipped_generic_or_brenton_only": 10094,
@@ -82,8 +82,8 @@
   },
   "reader_facing_translation_note_filter": {
     "input_refs": 3999,
-    "input_notes": 4113,
-    "included_notes": 3794,
+    "input_notes": 4114,
+    "included_notes": 3795,
     "skipped_mechanical_review_notes": 319,
     "included_refs": 3681,
     "skipped_mechanical_review_note_variants": 295
@@ -103,9 +103,9 @@
     "included_total": 0
   },
   "source_translation_note_refs": 3999,
-  "source_translation_note_total": 4113,
+  "source_translation_note_total": 4114,
   "included_translation_note_refs": 3681,
-  "included_translation_note_total": 3794,
+  "included_translation_note_total": 3795,
   "book_prefaces": {
     "present": true,
     "path": "/Users/justinscaggs/Documents/Codex_bible/data/book_intros_template.csv",
@@ -310,14 +310,14 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 0,
     "footnote_columns": 1,
-    "footnote_count": 86770,
+    "footnote_count": 86771,
     "crossref_footnotes": 58497,
-    "translation_note_footnotes": 3794,
+    "translation_note_footnotes": 3795,
     "section_break_count": 1189,
     "footnote_number_restart": "chapter",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
-    "phrase_anchored_translation_notes": 2990,
+    "phrase_anchored_translation_notes": 2991,
     "verse_anchored_translation_notes": 804,
     "name_meaning_footnotes": 21958,
     "supplemental_note_footnotes": 2521,
@@ -346,14 +346,14 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 0,
     "footnote_columns": 1,
-    "footnote_count": 87089,
+    "footnote_count": 87090,
     "crossref_footnotes": 58497,
-    "translation_note_footnotes": 4113,
+    "translation_note_footnotes": 4114,
     "section_break_count": 1189,
     "footnote_number_restart": "chapter",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
-    "phrase_anchored_translation_notes": 3235,
+    "phrase_anchored_translation_notes": 3236,
     "verse_anchored_translation_notes": 878,
     "name_meaning_footnotes": 21958,
     "supplemental_note_footnotes": 2521,
@@ -382,14 +382,14 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 0,
     "footnote_columns": 1,
-    "footnote_count": 87089,
+    "footnote_count": 87090,
     "crossref_footnotes": 58497,
-    "translation_note_footnotes": 4113,
+    "translation_note_footnotes": 4114,
     "section_break_count": 1189,
     "footnote_number_restart": "chapter",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
-    "phrase_anchored_translation_notes": 3235,
+    "phrase_anchored_translation_notes": 3236,
     "verse_anchored_translation_notes": 878,
     "name_meaning_footnotes": 21958,
     "supplemental_note_footnotes": 2521,
@@ -428,8 +428,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 86770,
-      "footnote_body_count": 86770
+      "footnote_reference_count": 86771,
+      "footnote_body_count": 86771
     },
     {
       "path": "output/logos_greek_heritage/the_greek_heritage_study_bible_reference_notes.docx",
@@ -448,8 +448,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 87089,
-      "footnote_body_count": 87089
+      "footnote_reference_count": 87090,
+      "footnote_body_count": 87090
     },
     {
       "path": "output/logos_greek_heritage/the_greek_heritage_study_bible_proofreading.docx",
@@ -468,8 +468,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 87089,
-      "footnote_body_count": 87089
+      "footnote_reference_count": 87090,
+      "footnote_body_count": 87090
     }
   ],
   "outputs": {

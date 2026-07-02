@@ -2,8 +2,8 @@
   "verse_rows": 30866,
   "book_count": 66,
   "translation_note_filter": {
-    "rows": 25296,
-    "included": 4123,
+    "rows": 25297,
+    "included": 4124,
     "included_mt_lxx_difference_notes": 340,
     "skipped_unreviewed": 1888,
     "skipped_generic_or_brenton_only": 10094,
@@ -13,8 +13,8 @@
   },
   "reader_facing_translation_note_filter": {
     "input_refs": 3999,
-    "input_notes": 4113,
-    "included_notes": 3794,
+    "input_notes": 4114,
+    "included_notes": 3795,
     "skipped_mechanical_review_notes": 319,
     "included_refs": 3681,
     "skipped_mechanical_review_note_variants": 295
@@ -34,7 +34,7 @@
     "included_total": 0
   },
   "included_translation_note_refs": 3681,
-  "included_translation_note_total": 3794,
+  "included_translation_note_total": 3795,
   "book_prefaces": {
     "present": true,
     "path": "/Users/justinscaggs/Documents/Codex_bible/data/book_intros_template.csv",
@@ -146,14 +146,14 @@
     "run_in_group_size": 0,
     "pericope_heading_count": 2983,
     "footnote_columns": 2,
-    "footnote_count": 35417,
+    "footnote_count": 35418,
     "crossref_footnotes": 28809,
-    "translation_note_footnotes": 3794,
+    "translation_note_footnotes": 3795,
     "section_break_count": 0,
     "footnote_number_restart": "page",
     "crossref_marker_mode": "numeric",
     "crossref_marker_restart": "none",
-    "phrase_anchored_translation_notes": 2990,
+    "phrase_anchored_translation_notes": 2991,
     "verse_anchored_translation_notes": 804,
     "name_meaning_footnotes": 2814,
     "supplemental_note_footnotes": 0,
@@ -192,8 +192,8 @@
       ],
       "bad_entry": null,
       "xml_errors": [],
-      "footnote_reference_count": 35417,
-      "footnote_body_count": 35417
+      "footnote_reference_count": 35418,
+      "footnote_body_count": 35418
     }
   ],
   "outputs": {
